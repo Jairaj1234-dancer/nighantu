@@ -1,21 +1,21 @@
 {
  "updatedAt": "2026-10-10T00:53:27.437Z",
  "summary": {
-  "papers": 3500,
-  "withDoi": 3321,
-  "subjectsCovered": 471,
-  "citedByMultiple": 637,
+  "papers": 3532,
+  "withDoi": 3353,
+  "subjectsCovered": 478,
+  "citedByMultiple": 638,
   "byTier": {
    "A": 158,
    "B": 105,
-   "C": 1159,
-   "D": 2078
+   "C": 1176,
+   "D": 2093
   },
   "byDecade": {
-   "2020s": 2144,
-   "2010s": 1065,
-   "2000s": 211,
-   "1990s": 40,
+   "2020s": 2150,
+   "2010s": 1084,
+   "2000s": 216,
+   "1990s": 42,
    "1980s": 21,
    "1970s": 10,
    "1960s": 5,
@@ -26,11 +26,11 @@
   "topJournals": [
    {
     "name": "Journal of ethnopharmacology",
-    "count": 215
+    "count": 218
    },
    {
     "name": "Molecules (Basel, Switzerland)",
-    "count": 102
+    "count": 103
    },
    {
     "name": "Plants (Basel, Switzerland)",
@@ -42,7 +42,11 @@
    },
    {
     "name": "Phytotherapy research : PTR",
-    "count": 69
+    "count": 70
+   },
+   {
+    "name": "Ayu",
+    "count": 65
    },
    {
     "name": "Scientific reports",
@@ -53,12 +57,8 @@
     "count": 59
    },
    {
-    "name": "Ayu",
-    "count": 59
-   },
-   {
     "name": "Frontiers in pharmacology",
-    "count": 53
+    "count": 55
    },
    {
     "name": "Heliyon",
@@ -82,7 +82,7 @@
    },
    {
     "name": "Nutrients",
-    "count": 35
+    "count": 36
    }
   ],
   "yearRange": [
@@ -6569,6 +6569,12 @@
      "slug": "chavya",
      "title": "Chavya",
      "binomial": "piper retrofractum"
+    },
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
     }
    ]
   },
@@ -17622,6 +17628,36 @@
    ]
   },
   {
+   "pmid": "37007039",
+   "doi": "10.3389/fphar.2023.1148790",
+   "title": "Menthol: An underestimated anticancer agent",
+   "journal": "Frontiers in pharmacology",
+   "year": 2023,
+   "authors": [
+    "Zhao Y",
+    "Pan H",
+    "Liu W",
+    "Liu E",
+    "Pang Y",
+    "Gao H",
+    "He Q",
+    "Liao W",
+    "Yao Y",
+    "Zeng J",
+    "Guo J"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37007039/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "menthol",
+     "title": "Menthol",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "37866555",
    "doi": "10.1016/j.ijbiomac.2023.127543",
    "title": "Modifications of native lotus (Nelumbo nucifera G.) rhizome starch and its overall characterization: A review",
@@ -18318,6 +18354,28 @@
      "slug": "kamalakanda",
      "title": "Kamalakanda",
      "binomial": "nelumbo nucifera"
+    }
+   ]
+  },
+  {
+   "pmid": "35699160",
+   "doi": "10.1080/08982104.2022.2086567",
+   "title": "Recent updates in curcumin delivery",
+   "journal": "Journal of liposome research",
+   "year": 2023,
+   "authors": [
+    "Obeid MA",
+    "Alsaadi M",
+    "Aljabali AA"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35699160/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
     }
    ]
   },
@@ -19217,6 +19275,33 @@
      "slug": "manjistha",
      "title": "Manjistha",
      "binomial": "rubia cordifolia"
+    }
+   ]
+  },
+  {
+   "pmid": "35889273",
+   "doi": "10.3390/molecules27144400",
+   "title": "A Comprehensive Review on the Benefits and Problems of Curcumin with Respect to Human Health",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2022,
+   "authors": [
+    "Liu S",
+    "Liu J",
+    "He L",
+    "Liu L",
+    "Cheng B",
+    "Zhou F",
+    "Cao D",
+    "He Y"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35889273/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
     }
    ]
   },
@@ -20226,6 +20311,27 @@
    ]
   },
   {
+   "pmid": "36524912",
+   "doi": "10.26355/eurrev_202212_30484",
+   "title": "Do products containing menthol exacerbate allergic rhinitis? A narrative review",
+   "journal": "European review for medical and pharmacological sciences",
+   "year": 2022,
+   "authors": [
+    "Azizli E",
+    "Dilber M"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36524912/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "menthol",
+     "title": "Menthol",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "36404820",
    "doi": "10.1007/s40200-022-01045-9",
    "title": "Effect of Citrullus colocynthis on glycemic factors and lipid profile in type II diabetic patients: a systematic review and meta-analysis",
@@ -20746,6 +20852,12 @@
      "slug": "pippali",
      "title": "Pippali",
      "binomial": "piper longum"
+    },
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
     }
    ]
   },
@@ -26376,6 +26488,31 @@
    ]
   },
   {
+   "pmid": "32067524",
+   "doi": "10.1080/14787210.2020.1730815",
+   "title": "Curcumin and curcumin-loaded nanoparticles: antipathogenic and antiparasitic activities",
+   "journal": "Expert review of anti-infective therapy",
+   "year": 2020,
+   "authors": [
+    "Rai M",
+    "Ingle AP",
+    "Pandit R",
+    "Paralikar P",
+    "Anasane N",
+    "Santos CAD"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32067524/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "32629444",
    "doi": "10.1159/000509377",
    "title": "Different Effects of Cannabis Abuse on Adolescent and Adult Brain",
@@ -28210,6 +28347,30 @@
    ]
   },
   {
+   "pmid": "31614630",
+   "doi": "10.3390/nu11102426",
+   "title": "Curcumin, Gut Microbiota, and Neuroprotection",
+   "journal": "Nutrients",
+   "year": 2019,
+   "authors": [
+    "Di Meo F",
+    "Margarucci S",
+    "Galderisi U",
+    "Crispi S",
+    "Peluso G"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31614630/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "31578592",
    "doi": "10.3892/or.2019.7336",
    "title": "Cytotoxicity of Cichorium intybus L. metabolites (Review)",
@@ -29028,6 +29189,30 @@
      "slug": "cumin-herb",
      "title": "Cumin Herb",
      "binomial": "cuminum cyminum"
+    }
+   ]
+  },
+  {
+   "pmid": "30317632",
+   "doi": "10.1002/jcp.27615",
+   "title": "Therapeutic use of curcumin-encapsulated and curcumin-primed exosomes",
+   "journal": "Journal of cellular physiology",
+   "year": 2019,
+   "authors": [
+    "Oskouie MN",
+    "Aghili Moghaddam NS",
+    "Butler AE",
+    "Zamani P",
+    "Sahebkar A"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30317632/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
     }
    ]
   },
@@ -30273,6 +30458,28 @@
    ]
   },
   {
+   "pmid": "29480523",
+   "doi": "10.1002/ptr.6054",
+   "title": "Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: Review",
+   "journal": "Phytotherapy research : PTR",
+   "year": 2018,
+   "authors": [
+    "Soleimani V",
+    "Sahebkar A",
+    "Hosseinzadeh H"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29480523/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "28399663",
    "doi": "10.1080/07388551.2017.1312269",
    "title": "Upstream biomanufacturing of pharmaceutical colchicine",
@@ -30708,6 +30915,30 @@
      "slug": "himsra",
      "title": "Himsra",
      "binomial": "capparis spinosa"
+    }
+   ]
+  },
+  {
+   "pmid": "28769802",
+   "doi": "10.3389/fphar.2017.00472",
+   "title": "Cellular and Molecular Targets of Menthol Actions",
+   "journal": "Frontiers in pharmacology",
+   "year": 2017,
+   "authors": [
+    "Oz M",
+    "El Nebrisi EG",
+    "Yang KS",
+    "Howarth FC",
+    "Al Kury LT"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28769802/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "menthol",
+     "title": "Menthol",
+     "binomial": ""
     }
    ]
   },
@@ -31409,6 +31640,28 @@
      "slug": "renuka",
      "title": "Renuka",
      "binomial": "vitex agnus"
+    }
+   ]
+  },
+  {
+   "pmid": "28392463",
+   "doi": "10.1016/j.semcancer.2017.04.002",
+   "title": "The functional genomic studies of curcumin",
+   "journal": "Seminars in cancer biology",
+   "year": 2017,
+   "authors": [
+    "Huminiecki L",
+    "Horbańczuk J",
+    "Atanasov AG"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28392463/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
     }
    ]
   },
@@ -34080,6 +34333,51 @@
    ]
   },
   {
+   "pmid": "24794906",
+   "doi": "10.1016/B978-0-12-800173-8.00003-9",
+   "title": "Curcumin",
+   "journal": "Profiles of drug substances, excipients, and related methodology",
+   "year": 2014,
+   "authors": [
+    "Lestari ML",
+    "Indrayanto G"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24794906/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "23590716",
+   "doi": "10.2174/092986732102131206115810",
+   "title": "Curcumin and curcumin-like molecules: from spice to drugs",
+   "journal": "Current medicinal chemistry",
+   "year": 2014,
+   "authors": [
+    "Marchiani A",
+    "Rozzo C",
+    "Fadda A",
+    "Delogu G",
+    "Ruzza P"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23590716/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "24397264",
    "doi": "10.1517/13543784.2014.867016",
    "title": "Embelin - a drug of antiquity: shifting the paradigm towards modern medicine",
@@ -36256,6 +36554,28 @@
    ]
   },
   {
+   "pmid": "21455457",
+   "doi": "10.4103/0974-7788.76793",
+   "title": "Role of honey (Madhu) in the management of wounds (Dushta Vrana)",
+   "journal": "International journal of Ayurveda research",
+   "year": 2010,
+   "authors": [
+    "Dudhamal TS",
+    "Gupta SK",
+    "Bhuyan C"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21455457/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "madhu",
+     "title": "Madhu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "21063110",
    "doi": "10.1159/000322340",
    "title": "Syzygium cumini extract decrease adenosine deaminase, 5'nucleotidase activities and oxidative damage in platelets of diabetic patients",
@@ -36508,6 +36828,29 @@
    ]
   },
   {
+   "pmid": "18296885",
+   "doi": "10.4142/jvs.2008.9.1.25",
+   "title": "Effect of trikatu pretreatment on the pharmacokinetics of pefloxacin administered orally in mountain Gaddi goats",
+   "journal": "Journal of veterinary science",
+   "year": 2008,
+   "authors": [
+    "Dama MS",
+    "Varshneya C",
+    "Dardi MS",
+    "Katoch VC"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18296885/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "18728265",
    "doi": "10.1001/jama.300.8.915",
    "title": "Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet",
@@ -36702,6 +37045,51 @@
      "slug": "ambasthaki",
      "title": "Ambasthaki",
      "binomial": "cissampelos pareira"
+    }
+   ]
+  },
+  {
+   "pmid": "17999464",
+   "doi": "10.1021/mp700113r",
+   "title": "Bioavailability of curcumin: problems and promises",
+   "journal": "Molecular pharmaceutics",
+   "year": 2007,
+   "authors": [
+    "Anand P",
+    "Kunnumakkara AB",
+    "Newman RA",
+    "Aggarwal BB"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17999464/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "17569220",
+   "doi": "10.1007/978-0-387-46401-5_16",
+   "title": "Cardioprotective effects of curcumin",
+   "journal": "Advances in experimental medicine and biology",
+   "year": 2007,
+   "authors": [
+    "Miriyala S",
+    "Panchatcharam M",
+    "Rengarajulu P"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17569220/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
     }
    ]
   },
@@ -38055,6 +38443,26 @@
      "slug": "sthneyaka",
      "title": "Sthneyaka",
      "binomial": "taxus baccata"
+    }
+   ]
+  },
+  {
+   "pmid": "7529306",
+   "doi": "10.1111/j.2042-7158.1994.tb03871.x",
+   "title": "Menthol and related cooling compounds",
+   "journal": "The Journal of pharmacy and pharmacology",
+   "year": 1994,
+   "authors": [
+    "Eccles R"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7529306/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "menthol",
+     "title": "Menthol",
+     "binomial": ""
     }
    ]
   },
@@ -71243,6 +71651,28 @@
    ]
   },
   {
+   "pmid": "35370378",
+   "doi": "10.4103/ayu.AYU_274_20",
+   "title": "Role of Laksha Churna and Madhu Pratisarana after ultrasonic scaling in the management of Dantasharkara (dental calculus): An open-label, standard controlled randomized clinical trial",
+   "journal": "Ayu",
+   "year": 2020,
+   "authors": [
+    "Kathad D",
+    "Shukla HN",
+    "Goyal M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35370378/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "madhu",
+     "title": "Madhu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "32188913",
    "doi": "10.1038/s41598-020-61418-z",
    "title": "Rooting behaviour and soil properties in different bamboo species of Western Himalayan Foothills, India",
@@ -73798,6 +74228,40 @@
    ]
   },
   {
+   "pmid": "30119257",
+   "doi": "10.1016/j.biopha.2018.07.028",
+   "title": "Curcumin reduces Ly6C(hi) monocyte infiltration to protect against liver fibrosis by inhibiting Kupffer cells activation to reduce chemokines secretion",
+   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "year": 2018,
+   "authors": [
+    "Zhao XA",
+    "Chen G",
+    "Liu Y",
+    "Chen Y",
+    "Wu H",
+    "Xiong Y",
+    "Wang G",
+    "Jia B",
+    "Li Y",
+    "Xia J",
+    "Wang J",
+    "Yan X",
+    "Zhang Z",
+    "Huang R",
+    "Wu C"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30119257/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "curcumin",
+     "title": "Curcumin",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "29904686",
    "doi": "10.1016/j.dib.2018.04.124",
    "title": "Data on investigation of hypoglycemic, anti-cholesteremic, in vivo antioxidant and pancreatic beta cell protective effect of Putranjiva roxburghii Wall bark in streptozotocin-induced diabetic rats",
@@ -76138,6 +76602,27 @@
    ]
   },
   {
+   "pmid": "25546349",
+   "doi": "10.1111/1756-185X.12535",
+   "title": "Trikatu, a herbal compound mitigates the biochemical and immunological complications in adjuvant-induced arthritic rats",
+   "journal": "International journal of rheumatic diseases",
+   "year": 2017,
+   "authors": [
+    "Murunikkara V",
+    "Rasool MK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25546349/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "29034188",
    "doi": "10.1016/j.jtcme.2016.11.006",
    "title": "Validation of therapeutic anti-inflammatory potential of Arjuna Ksheera Paka - A traditional Ayurvedic formulation of Terminalia arjuna",
@@ -77365,6 +77850,30 @@
    ]
   },
   {
+   "pmid": "29491671",
+   "doi": "10.4103/ayu.AYU_91_14",
+   "title": "Evaluation of the effect of Kanchnara Guggulu and Tankana-Madhu Pratisarana in the management of Tundikeri (tonsillitis) in children",
+   "journal": "Ayu",
+   "year": 2016,
+   "authors": [
+    "Adhvaryu TR",
+    "Patel KS",
+    "Kori VK",
+    "Rajagopala S",
+    "Manjusha R"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29491671/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "madhu",
+     "title": "Madhu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "27462552",
    "doi": "",
    "title": "Evaluation of wound healing, antioxidant and antimicrobial efficacy of Jasminum auriculatum Vahl. leaves",
@@ -78329,6 +78838,28 @@
      "slug": "gangeruki",
      "title": "Gangeruki",
      "binomial": "grewia tenax"
+    }
+   ]
+  },
+  {
+   "pmid": "27613480",
+   "doi": "10.1016/j.cbi.2016.09.003",
+   "title": "Trikatu, an herbal compound ameliorates rheumatoid arthritis by the suppression of inflammatory immune responses in rats with adjuvant-induced arthritis and on cultured fibroblast like synoviocytes via the inhibition of the NFκB signaling pathway",
+   "journal": "Chemico-biological interactions",
+   "year": 2016,
+   "authors": [
+    "Doss HM",
+    "Ganesan R",
+    "Rasool M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27613480/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
     }
    ]
   },
@@ -79377,6 +79908,12 @@
      "kind": "formulation",
      "slug": "dashmool-dashmoolarishta",
      "title": "Dashmool Dashmoolarishta",
+     "binomial": ""
+    },
+    {
+     "kind": "herb",
+     "slug": "dashamoola",
+     "title": "Dashamoola",
      "binomial": ""
     }
    ]
@@ -81085,6 +81622,32 @@
    ]
   },
   {
+   "pmid": "24690772",
+   "doi": "10.1016/j.jep.2014.03.023",
+   "title": "Cytochrome P450 inhibitory potential and RP-HPLC standardization of trikatu--a Rasayana from Indian Ayurveda",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2014,
+   "authors": [
+    "Harwansh RK",
+    "Mukherjee K",
+    "Bhadra S",
+    "Kar A",
+    "Bahadur S",
+    "Mitra A",
+    "Mukherjee PK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24690772/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "23846168",
    "doi": "10.1007/s11418-013-0789-5",
    "title": "Cytotoxic activity screening of Bangladeshi medicinal plant extracts",
@@ -82431,6 +82994,48 @@
      "slug": "shrigataka",
      "title": "Shrigataka",
      "binomial": "trapa natans"
+    }
+   ]
+  },
+  {
+   "pmid": "23674350",
+   "doi": "10.1002/cbf.2979",
+   "title": "Trikatu, a herbal compound that suppresses monosodium urate crystal-induced inflammation in rats, an experimental model for acute gouty arthritis",
+   "journal": "Cell biochemistry and function",
+   "year": 2014,
+   "authors": [
+    "Murunikkara V",
+    "Rasool M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23674350/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "24394943",
+   "doi": "10.1016/j.cellimm.2013.12.002",
+   "title": "Trikatu, an herbal compound as immunomodulatory and anti-inflammatory agent in the treatment of rheumatoid arthritis--an experimental study",
+   "journal": "Cellular immunology",
+   "year": 2014,
+   "authors": [
+    "Murunikkara V",
+    "Rasool M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24394943/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
     }
    ]
   },
@@ -84850,6 +85455,28 @@
    ]
   },
   {
+   "pmid": "23049199",
+   "doi": "10.4103/0974-8520.100331",
+   "title": "Pharmaceutical standardization of Jala Shukti Bhasma and Mukta Shukti Bhasma",
+   "journal": "Ayu",
+   "year": 2012,
+   "authors": [
+    "Parmar KK",
+    "Galib",
+    "Patgiri BJ"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23049199/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shukti-bhasma",
+     "title": "Shukti Bhasma",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "24167337",
    "doi": "10.4103/0257-7941.118550",
    "title": "Pharmacognostic and phytochemical studies on Ficus Microcarpa L. fil",
@@ -85251,6 +85878,48 @@
      "kind": "formulation",
      "slug": "panchakola-churna",
      "title": "Panchakola Churna",
+     "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "23049191",
+   "doi": "10.4103/0974-8520.100321",
+   "title": "Vranaropaka effect of Laksha Churna with Madhu on wound after removal of Danta Sharkara",
+   "journal": "Ayu",
+   "year": 2012,
+   "authors": [
+    "Maurya M",
+    "Maurya DK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23049191/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "madhu",
+     "title": "Madhu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "22736910",
+   "doi": "10.4103/0974-8520.93914",
+   "title": "A clinical study of Haritaki and Saindhava Lavana in Kaphaja Kasa with special reference to Samyoga Guna",
+   "journal": "Ayu",
+   "year": 2011,
+   "authors": [
+    "Rout AK",
+    "Dwivedi RR"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22736910/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "saindhava-lavana",
+     "title": "Saindhava Lavana",
      "binomial": ""
     }
    ]
@@ -85934,6 +86603,27 @@
      "slug": "pushkarmool",
      "title": "Pushkarmool",
      "binomial": "inula racemosa"
+    }
+   ]
+  },
+  {
+   "pmid": "22529652",
+   "doi": "10.4103/0974-8520.93916",
+   "title": "Effect of rasanjana madhu ashchyotana in netra abhishyanda (mucopurulent conjunctivitis)",
+   "journal": "Ayu",
+   "year": 2011,
+   "authors": [
+    "Bhardwaj A",
+    "Tanwar M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22529652/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "madhu",
+     "title": "Madhu",
+     "binomial": ""
     }
    ]
   },
@@ -88136,6 +88826,32 @@
    ]
   },
   {
+   "pmid": "19182439",
+   "doi": "10.2131/jts.34.99",
+   "title": "Safety evaluation of Trikatu, a generic Ayurvedic medicine in Charles Foster rats",
+   "journal": "The Journal of toxicological sciences",
+   "year": 2009,
+   "authors": [
+    "Chanda D",
+    "Shanker K",
+    "Pal A",
+    "Luqman S",
+    "Bawankule DU",
+    "Mani D",
+    "Darokar MP"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19182439/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "20448847",
    "doi": "10.4314/ajtcam.v6i3.57158",
    "title": "Screening of antibacterial potentials of some medicinal plants from Melghat forest in India",
@@ -89835,6 +90551,28 @@
    ]
   },
   {
+   "pmid": "15120451",
+   "doi": "10.1016/j.jep.2003.12.027",
+   "title": "Pharmacokinetic and pharmacodynamic studies on interaction of \"Trikatu\" with diclofenac sodium",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2004,
+   "authors": [
+    "Lala LG",
+    "D'Mello PM",
+    "Naik SR"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15120451/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "15133217",
    "doi": "10.1248/cpb.52.612",
    "title": "Phenylethanoid and iridoid glycosides from the Thai medicinal plant, Barleria strigosa",
@@ -90629,6 +91367,28 @@
      "slug": "mashaparni",
      "title": "Mashaparni",
      "binomial": "teramnus labialis"
+    }
+   ]
+  },
+  {
+   "pmid": "10363842",
+   "doi": "10.1016/s0378-8741(98)00127-5",
+   "title": "Effect of trikatu, an Ayurvedic prescription, on the pharmacokinetic profile of rifampicin in rabbits",
+   "journal": "Journal of ethnopharmacology",
+   "year": 1999,
+   "authors": [
+    "Karan RS",
+    "Bhargava VK",
+    "Garg SK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10363842/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "trikatu",
+     "title": "Trikatu",
+     "binomial": ""
     }
    ]
   },
