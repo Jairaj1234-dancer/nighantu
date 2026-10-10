@@ -1,62 +1,77 @@
 {
- "note": "Pages that are the same drug as another page under a different name. The alias keeps its URL and its content, and declares the primary as its canonical so a retrieval index consolidates them instead of picking one arbitrarily. DIRECTION: where Google's URL Inspection API reports a different canonical than this file declares, this file follows Google. Eighteen pairs were reversed on 10 October 2026 for that reason. The choice is about which page every engine consolidates on, not about which name is more correct.",
+ "note": "Pages that are the same drug as another page under a different name. The alias keeps its URL and its content, and declares the primary as its canonical so a retrieval index consolidates them instead of picking one arbitrarily. DIRECTION: chosen on this project's own grounds, by reading the pages. Google reports all 18 contested pages as their own canonical, which rejects the duplicate claim rather than preferring one side, so following Google here would change nothing except which page makes an ignored declaration.",
  "updatedAt": "2026-10-10",
  "count": 34,
  "aliases": {
-  "chakragaja": {
-   "primary": "chakramarda",
-   "taxon": "Cassia tora",
-   "reason": "The chakragaja page effectively concedes the merge: its own safety note says 'Botanical identity of Chakragaja is uncertain; most references associate it with Cassia tora (Chakramarda)' and it links to /herb/chakramarda/. Both pages carry the same seed-drug anthraquinone profile (chrysophanol, emodin, physcion, obtusin, chryso-obtusin, aurantio-obtusin, toralactone, rubrofusarin), the same Dadrugh"
+  "ajwain": {
+   "primary": "yavani",
+   "taxon": "Trachyspermum ammi",
+   "reason": "Both describe the same fruit (seed) drug and its steam-distilled oil: identical thymol-led marker lists (thymol, p-cymene, gamma-terpinene, carvacrol, pinenes, terpinen-4-ol, limonene), the same 1-3 g seed powder dosing, the same Ark/essential-oil/churna forms, the same carminative and bronchodilatory mechanisms, and overlapping synergy pairs (Hingu, Saindhava lavana, Shunthi). The yavani page eve"
+  },
+  "ajwain-herb": {
+   "primary": "parnayavani",
+   "taxon": "Coleus amboinicus",
+   "reason": "Same species, same plant part, same drug: both pages describe the leaf of Coleus amboinicus (Plectranthus amboinicus, Indian borage / ajwain ka patta), with fresh leaf juice, dried leaf powder, hot infusion and steam-inhalation essential oil as the forms, and thymol, carvacrol, rosmarinic acid and beta-caryophyllene as shared markers. Both point at the same cough/cold/respiratory use with Tulsi an REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make ajwain-herb primary, on a misreading of Google's URL Inspection output. Google reports ajwain-herb as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
+  "amalaka-rasayana": {
+   "primary": "amalaki-rasayana",
+   "taxon": "Phyllanthus emblica",
+   "reason": "Amalaka and Amalaki are both Sanskrit names for Phyllanthus emblica, and this corpus already says so: /herb/amla/ carries Amalaki in its alias list against that binomial, and there is no separate herb page for either spelling. Both formulation pages describe the same three-ingredient preparation, amalaki with ghee and honey, in the same group, with the same marker compounds (ascorbic, gallic and ellagic acids, emblicanin A and B). Neither carries an Ayurvedic Formulary of India entry, so the formulary-entry test that settled the other four formulation pairs was unavailable; the decisive evidence is the ingest path, Amalaka-Rasayana/meta-analysis.md against Amalaki-Rasayana/meta-analysis.md, two upstream directories differing by one vowel and carrying the same drug. amalaki-rasayana is the primary because it states the classical locus (Charaka Chikitsasthana, Rasayana Adhyaya, and Ashtanga Hridaya), names the Ayurvedic Pharmacopoeia of India monograph, and carries all ten papers, on equal inbound links. STATED LIMIT: Charaka's Rasayana Adhyaya describes several amalaka-based preparations and a distinct classical Amalaka Rasayana cannot be ruled out from the sources held here. What can be said is that this corpus records no difference between the two pages: the alias states no locus, no composition and no pharmacopoeial status of its own. If a distinction is later established, this declaration is the thing to revisit."
+  },
+  "amlaparni": {
+   "primary": "changeri",
+   "taxon": "Oxalis corniculata",
+   "reason": "Both pages describe the same whole-plant drug of Oxalis corniculata, not different parts: same flavonoid markers (vitexin, isovitexin, vitexin-2-O-beta-D-glucopyranoside, beta-sitosterol), same oxalic-acid/kidney-stone safety caution, same fresh-juice/churna/kashayam dosage forms, and both cite the same 2025 Antioxidants review (PMID 41300509). Amlaparni ('sour-leaved') and Changeri are both class REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make amlaparni primary, on a misreading of Google's URL Inspection output. Google reports amlaparni as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
+  "ananta-mool": {
+   "primary": "sariva",
+   "taxon": "Hemidesmus indicus",
+   "reason": "Same drug, the root: both pages give 3-6 g root powder and 50-100 ml decoction plus extract capsule, and both are built on the same 2-hydroxy-4-methoxybenzaldehyde root chemistry; ananta-mool is just the Hindi vernacular (Anantamul) of the same root. sariva is the primary because it is the Sanskrit/pharmacopoeial monograph name, and it is also the better-populated page (431 words vs 339) with fami REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make ananta-mool primary, on a misreading of Google's URL Inspection output. Google reports ananta-mool as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
   "bijapura": {
    "primary": "matulunga",
    "taxon": "Citrus medica",
    "reason": "Both pages describe the identical drug: the citron fruit, peel and juice of Citrus medica L. (Rutaceae). Same dosage forms (Svarasa fresh juice, dried peel Churna, Avaleha, Panak, cold-pressed peel essential oil), same dose band (10-20 ml juice), same marker compounds (hesperidin, naringin, limonene, citral, citric acid, vitamin C), same Deepana-Pachana / Chardi-nashaka indications, and both cite "
   },
-  "gokarna": {
-   "primary": "aparajita",
-   "taxon": "Clitoria ternatea",
-   "reason": "The Gokarna page states this itself in its own botanical field: \"Clitoria ternatea L. (same species as Aparajita; Gokarna is a regional Ayurvedic synonym)\", and its whoStatus says the API recognises it \"under name Aparajita/Gokarna\". Content is substantively the same drug, not a part split: both cover root powder plus flower preparations, both list ternatin anthocyanins, cyclotides/cliotides, tara"
-  },
-  "fennel": {
-   "primary": "mishreya",
-   "taxon": "Foeniculum vulgare",
-   "reason": "fennel and mishreya are the same drug, the ripe fruit/seed: both give seed powder, steam-distilled essential oil standardized to NLT 80% trans-anethole and NMT 5% estragole, and the arka/Saunf-Ark distillate; they differ only in English vs Sanskrit naming. mishreya is the primary because it is the Sanskrit/API monograph name and is also the fuller page (670 words vs 370) with family (Apiaceae) and"
-  },
-  "gudmar-herb": {
-   "primary": "gudmar",
-   "taxon": "Gymnema sylvestre",
-   "reason": "Both pages are the leaf drug, same part and same classical name. gudmar covers churna (leaf powder), kashayam, ghana vati and standardized extract; gudmar-herb covers dried leaf, leaf powder, decoction tea, whole-leaf capsule and tincture, and its only real claim to separateness is 'whole herb products are less concentrated than standardized extracts', a potency framing rather than a different dru"
-  },
   "bitter-gourd": {
    "primary": "karvellaka",
    "taxon": "Momordica charantia",
    "reason": "bitter-gourd, karela and karvellaka are all the fruit drug under English, Hindi and Sanskrit names: all three give 30-60 ml fresh fruit juice, 3-6 g dried fruit powder and a 500 mg extract capsule, all are prepared by cold pressing/juicing the fresh fruit, and all standardize on charantin NLT 2% with total bitter principles as momordicin. karvellaka is the primary as the Sanskrit pharmacopoeial na"
   },
-  "manjistha": {
-   "primary": "manjishtha",
-   "taxon": "Rubia cordifolia",
-   "reason": "A pure transliteration split, and the pages admit it: manjistha's bioavailability field opens 'Same pharmacokinetic profile as Manjishtha (Rubia cordifolia)' and links to /herb/manjishtha/. Both are the root drug, both sit in the Skin-Beauty group, both give 3-6 g root powder and 500-1000 mg extract, both standardise to minimum 2% total anthraquinones, and both list the same markers (alizarin, pur"
-  },
-  "makoy": {
-   "primary": "kakamachi",
-   "taxon": "Solanum nigrum",
-   "reason": "Both pages describe the same whole-plant drug (Svarasa/fresh juice, churna, kwatha) with the same marker set (solasonine, solamargine, solasodine, diosgenin, quercetin, caffeic acid, riboflavin), the same 10-20 mL juice / 3-6 g powder / 50-100 mL decoction dosing, the same Liver-Detox group and the same tag set. No plant part or preparation separates them; 'Makoy' is simply the Hindi name for Sans"
+  "chakragaja": {
+   "primary": "chakramarda",
+   "taxon": "Cassia tora",
+   "reason": "The chakragaja page effectively concedes the merge: its own safety note says 'Botanical identity of Chakragaja is uncertain; most references associate it with Cassia tora (Chakramarda)' and it links to /herb/chakramarda/. Both pages carry the same seed-drug anthraquinone profile (chrysophanol, emodin, physcion, obtusin, chryso-obtusin, aurantio-obtusin, toralactone, rubrofusarin), the same Dadrugh"
   },
   "chirayata": {
    "primary": "kiratatikta",
    "taxon": "Swertia chirayita",
    "reason": "Both describe the same whole-plant bitter drug, identical Rasa/Guna/Virya/Vipaka (Tikta / Laghu-Ruksha / Sheeta / Katu), the same dosage forms (churna, kashayam, ghana/kwath ghana, tincture, capsule), the same 1-3 g powder and 30-60 mL decoction dosing, and the same secoiridoid/xanthone marker set (amarogentin, swertiamarin, mangiferin, swerchirin, oleanolic and ursolic acid). 'Chirayata' is the H"
   },
-  "ajwain": {
-   "primary": "yavani",
-   "taxon": "Trachyspermum ammi",
-   "reason": "Both describe the same fruit (seed) drug and its steam-distilled oil: identical thymol-led marker lists (thymol, p-cymene, gamma-terpinene, carvacrol, pinenes, terpinen-4-ol, limonene), the same 1-3 g seed powder dosing, the same Ark/essential-oil/churna forms, the same carminative and bronchodilatory mechanisms, and overlapping synergy pairs (Hingu, Saindhava lavana, Shunthi). The yavani page eve"
+  "coriander": {
+   "primary": "dhanyaka",
+   "taxon": "Coriandrum sativum",
+   "reason": "coriander and dhanyaka are the same drug - the dried fruit/seed. Both give 3-6 g seed powder, both make Hima (Sheeta Kashayam) the classical form, both name linalool (60-80% of seed oil), geranyl acetate, camphor, rutin and quercetin as markers, and both list the Dhanyaka-Jeeraka-Mishreya digestive triad. Dhanyaka is the API/nighantu name and much the fuller page (640 vs 331 words, with constituen REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make coriander primary, on a misreading of Google's URL Inspection output. Google reports coriander as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "nirgundi-herb": {
-   "primary": "nirgundi",
-   "taxon": "Vitex negundo",
-   "reason": "Same drug, same species, differing only by the bare '-herb' suffix. nirgundi-herb's only claimed difference is a generic 'whole herb (including stem, leaf, root, and flower)' framing, which is not a distinct classical drug or a named preparation - there is no separate Sanskrit/pharmacopoeial name for it, and both pages carry the same marker set (agnuside, casticin, vitexin, aucubin, luteolin-7-glu"
+  "cumin": {
+   "primary": "jeeraka",
+   "taxon": "Cuminum cyminum",
+   "reason": "cumin and jeeraka are the same drug - the seed. Identical forms (Churna, Kashayam, essential oil, Jeerakadyarishta 15-30 ml), identical dose (3-6 g powder), identical markers (cuminaldehyde, cuminol, gamma-terpinene, beta-pinene, p-cymene, apigenin, luteolin) and the same Deepaniya-Pachaniya framing. Jeeraka is the API name, is the fuller page (592 vs 328 words, with constituents, mechanisms, vali REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make cumin primary, on a misreading of Google's URL Inspection output. Google reports cumin as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
+  "fennel": {
+   "primary": "mishreya",
+   "taxon": "Foeniculum vulgare",
+   "reason": "fennel and mishreya are the same drug, the ripe fruit/seed: both give seed powder, steam-distilled essential oil standardized to NLT 80% trans-anethole and NMT 5% estragole, and the arka/Saunf-Ark distillate; they differ only in English vs Sanskrit naming. mishreya is the primary because it is the Sanskrit/API monograph name and is also the fuller page (670 words vs 370) with family (Apiaceae) and"
+  },
+  "gokarna": {
+   "primary": "aparajita",
+   "taxon": "Clitoria ternatea",
+   "reason": "The Gokarna page states this itself in its own botanical field: \"Clitoria ternatea L. (same species as Aparajita; Gokarna is a regional Ayurvedic synonym)\", and its whoStatus says the API recognises it \"under name Aparajita/Gokarna\". Content is substantively the same drug, not a part split: both cover root powder plus flower preparations, both list ternatin anthocyanins, cyclotides/cliotides, tara"
+  },
+  "gudmar-herb": {
+   "primary": "gudmar",
+   "taxon": "Gymnema sylvestre",
+   "reason": "Both pages are the leaf drug, same part and same classical name. gudmar covers churna (leaf powder), kashayam, ghana vati and standardized extract; gudmar-herb covers dried leaf, leaf powder, decoction tea, whole-leaf capsule and tincture, and its only real claim to separateness is 'whole herb products are less concentrated than standardized extracts', a potency framing rather than a different dru"
   },
   "hingwashtak-churna": {
    "primary": "hingvashtak-churna",
@@ -64,11 +79,31 @@
    "registeredOn": "2026-10-08",
    "reason": "Not a near-duplicate but the same drug twice: both pages carry Ayurvedic Formulary of India Part I, entry 7:37, heading HINGVASTAKA CURNA, with the same 8-ingredient composition. The two slugs are transliteration variants of one preparation. hingvashtak-churna is the primary because the formulary heading's own orthography agrees with it and it carries more inbound links. Established by comparing part, entry number, heading and row count, not by name similarity."
   },
+  "holy-basil": {
+   "primary": "tulsi",
+   "taxon": "Ocimum tenuiflorum",
+   "reason": "Same leaf/whole-plant drug: both pages carry the identical marker set (eugenol, rosmarinic acid, ursolic acid, ocimumosides A and B), near-identical dosage (300-600 mg extract twice daily, 3-5 g leaf powder, tea infusion), the same extraction methods and the same synergy list (ashwagandha, brahmi, honey anupana). The tulsi page itself lists 'Holy Basil, Sacred Basil' as common names in its Names t REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make holy-basil primary, on a misreading of Google's URL Inspection output. Google reports holy-basil as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
+  "jamun": {
+   "primary": "jambu",
+   "taxon": "Syzygium cumini",
+   "reason": "The jamun page states it outright in its own bioavailability section: 'Jamun is the common Hindi name. Same pharmacokinetic profile as Jambu.' Both cover the same drug set from one tree, seed powder as the lead preparation plus fruit juice and bark/Asava, the same dosing (3-6 g seed powder twice daily, 500 mg-1 g extract, 20-50 mL juice) and the same markers (ellagic and gallic acid, jamboline, de REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make jamun primary, on a misreading of Google's URL Inspection output. Google reports jamun as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
+  "kalonji": {
+   "primary": "kalajaji",
+   "taxon": "Nigella sativa",
+   "reason": "Both pages are the seed drug of Nigella sativa, with the same marker set (thymoquinone, thymohydroquinone, nigellone, carvacrol, alpha-hederin), the same dosage range (1-3 g seed powder, 2.5-5 ml oil), the same cold-press/CO2 extraction methods and the same lead citation (PMID 39769174). The kalonji page states outright in its bioavailability note: 'Kalonji is the Hindi/Urdu name, same as Kalajaji REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make kalonji primary, on a misreading of Google's URL Inspection output. Google reports kalonji as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
+  },
   "kalyanaka-ghritam": {
    "primary": "kalyanaka-ghrita",
    "why": "The same formulation spelled two ways. The primary carries the spelling the Ayurvedic Formulary of India prints, KALYANAKA GHRTA (6:7). Both pages keep their URL and their content; the alias declares the primary as its canonical so the two stop competing.",
    "registeredOn": "2026-10-08",
    "reason": "Not a near-duplicate but the same drug twice: both pages carry Ayurvedic Formulary of India Part I, entry 6:7, heading KALYANAKA GHRTA, with the same 29-ingredient composition. The two slugs are transliteration variants of one preparation. kalyanaka-ghrita is the primary because the formulary heading's own orthography agrees with it and it carries more inbound links. Established by comparing part, entry number, heading and row count, not by name similarity."
+  },
+  "karela": {
+   "primary": "karvellaka",
+   "taxon": "Momordica charantia",
+   "reason": "bitter-gourd, karela and karvellaka are all the fruit drug under English, Hindi and Sanskrit names: all three give 30-60 ml fresh fruit juice, 3-6 g dried fruit powder and a 500 mg extract capsule, all are prepared by cold pressing/juicing the fresh fruit, and all standardize on charantin NLT 2% with total bitter principles as momordicin. karvellaka is the primary as the Sanskrit pharmacopoeial na REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make karela primary, on a misreading of Google's URL Inspection output. Google reports karela as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
   "karpas-asthyadi-thailam": {
    "primary": "karpasasthyadi-thailam",
@@ -82,100 +117,65 @@
    "registeredOn": "2026-10-08",
    "reason": "Not a near-duplicate but the same drug twice: both pages carry Ayurvedic Formulary of India Part I, entry 8:8, heading KUNKUMADI TAILA, with the same 29-ingredient composition. The two slugs are transliteration variants of one preparation. kumkumadi-tailam is the primary because the formulary heading's own orthography agrees with it and it carries more inbound links. Established by comparing part, entry number, heading and row count, not by name similarity."
   },
-  "amalaka-rasayana": {
-   "primary": "amalaki-rasayana",
-   "taxon": "Phyllanthus emblica",
-   "reason": "Amalaka and Amalaki are both Sanskrit names for Phyllanthus emblica, and this corpus already says so: /herb/amla/ carries Amalaki in its alias list against that binomial, and there is no separate herb page for either spelling. Both formulation pages describe the same three-ingredient preparation, amalaki with ghee and honey, in the same group, with the same marker compounds (ascorbic, gallic and ellagic acids, emblicanin A and B). Neither carries an Ayurvedic Formulary of India entry, so the formulary-entry test that settled the other four formulation pairs was unavailable; the decisive evidence is the ingest path, Amalaka-Rasayana/meta-analysis.md against Amalaki-Rasayana/meta-analysis.md, two upstream directories differing by one vowel and carrying the same drug. amalaki-rasayana is the primary because it states the classical locus (Charaka Chikitsasthana, Rasayana Adhyaya, and Ashtanga Hridaya), names the Ayurvedic Pharmacopoeia of India monograph, and carries all ten papers, on equal inbound links. STATED LIMIT: Charaka's Rasayana Adhyaya describes several amalaka-based preparations and a distinct classical Amalaka Rasayana cannot be ruled out from the sources held here. What can be said is that this corpus records no difference between the two pages: the alias states no locus, no composition and no pharmacopoeial status of its own. If a distinction is later established, this declaration is the thing to revisit."
-  },
-  "parnayavani": {
-   "primary": "ajwain-herb",
-   "taxon": "Coleus amboinicus",
-   "reason": "Same drug as ajwain-herb; the direction of this alias was REVERSED on 10 October 2026. It previously declared parnayavani primary and ajwain-herb the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats ajwain-herb as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Same species, same plant part, same drug: both pages describe the leaf of Coleus amboinicus (Plectranthus amboinicus, Indian borage / ajwain ka patta), with fresh leaf juice, dried leaf powder, hot infusion and steam-inhalation essential oil as the forms, and thymol, carvacrol, rosmarinic acid and beta-caryophyllene as shared markers. Both point at the same cough/cold/respiratory use with Tulsi an"
-  },
-  "changeri": {
-   "primary": "amlaparni",
-   "taxon": "Oxalis corniculata",
-   "reason": "Same drug as amlaparni; the direction of this alias was REVERSED on 10 October 2026. It previously declared changeri primary and amlaparni the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats amlaparni as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages describe the same whole-plant drug of Oxalis corniculata, not different parts: same flavonoid markers (vitexin, isovitexin, vitexin-2-O-beta-D-glucopyranoside, beta-sitosterol), same oxalic-acid/kidney-stone safety caution, same fresh-juice/churna/kashayam dosage forms, and both cite the same 2025 Antioxidants review (PMID 41300509). Amlaparni ('sour-leaved') and Changeri are both class"
-  },
-  "sariva": {
-   "primary": "ananta-mool",
-   "taxon": "Hemidesmus indicus",
-   "reason": "Same drug as ananta-mool; the direction of this alias was REVERSED on 10 October 2026. It previously declared sariva primary and ananta-mool the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats ananta-mool as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Same drug, the root: both pages give 3-6 g root powder and 50-100 ml decoction plus extract capsule, and both are built on the same 2-hydroxy-4-methoxybenzaldehyde root chemistry; ananta-mool is just the Hindi vernacular (Anantamul) of the same root. sariva is the primary because it is the Sanskrit/pharmacopoeial monograph name, and it is also the better-populated page (431 words vs 339) with fami"
-  },
-  "dhanyaka": {
-   "primary": "coriander",
-   "taxon": "Coriandrum sativum",
-   "reason": "Same drug as coriander; the direction of this alias was REVERSED on 10 October 2026. It previously declared dhanyaka primary and coriander the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats coriander as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: coriander is materially thinner than dhanyaka (3835 characters against 7006), so this reversal points readers and engines at the shorter page. Merging the fuller content onto coriander is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: coriander and dhanyaka are the same drug - the dried fruit/seed. Both give 3-6 g seed powder, both make Hima (Sheeta Kashayam) the classical form, both name linalool (60-80% of seed oil), geranyl acetate, camphor, rutin and quercetin as markers, and both list the Dhanyaka-Jeeraka-Mishreya digestive triad. Dhanyaka is the API/nighantu name and much the fuller page (640 vs 331 words, with constituen"
-  },
-  "jeeraka": {
-   "primary": "cumin",
-   "taxon": "Cuminum cyminum",
-   "reason": "Same drug as cumin; the direction of this alias was REVERSED on 10 October 2026. It previously declared jeeraka primary and cumin the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats cumin as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: cumin is materially thinner than jeeraka (3898 characters against 6943), so this reversal points readers and engines at the shorter page. Merging the fuller content onto cumin is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: cumin and jeeraka are the same drug - the seed. Identical forms (Churna, Kashayam, essential oil, Jeerakadyarishta 15-30 ml), identical dose (3-6 g powder), identical markers (cuminaldehyde, cuminol, gamma-terpinene, beta-pinene, p-cymene, apigenin, luteolin) and the same Deepaniya-Pachaniya framing. Jeeraka is the API name, is the fuller page (592 vs 328 words, with constituents, mechanisms, vali"
-  },
-  "tulsi": {
-   "primary": "holy-basil",
-   "taxon": "Ocimum tenuiflorum",
-   "reason": "Same drug as holy-basil; the direction of this alias was REVERSED on 10 October 2026. It previously declared tulsi primary and holy-basil the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats holy-basil as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: holy-basil is materially thinner than tulsi (3341 characters against 10225), so this reversal points readers and engines at the shorter page. Merging the fuller content onto holy-basil is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: Same leaf/whole-plant drug: both pages carry the identical marker set (eugenol, rosmarinic acid, ursolic acid, ocimumosides A and B), near-identical dosage (300-600 mg extract twice daily, 3-5 g leaf powder, tea infusion), the same extraction methods and the same synergy list (ashwagandha, brahmi, honey anupana). The tulsi page itself lists 'Holy Basil, Sacred Basil' as common names in its Names t"
-  },
-  "jambu": {
-   "primary": "jamun",
-   "taxon": "Syzygium cumini",
-   "reason": "Same drug as jamun; the direction of this alias was REVERSED on 10 October 2026. It previously declared jambu primary and jamun the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats jamun as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: The jamun page states it outright in its own bioavailability section: 'Jamun is the common Hindi name. Same pharmacokinetic profile as Jambu.' Both cover the same drug set from one tree, seed powder as the lead preparation plus fruit juice and bark/Asava, the same dosing (3-6 g seed powder twice daily, 500 mg-1 g extract, 20-50 mL juice) and the same markers (ellagic and gallic acid, jamboline, de"
-  },
-  "kalajaji": {
-   "primary": "kalonji",
-   "taxon": "Nigella sativa",
-   "reason": "Same drug as kalonji; the direction of this alias was REVERSED on 10 October 2026. It previously declared kalajaji primary and kalonji the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats kalonji as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages are the seed drug of Nigella sativa, with the same marker set (thymoquinone, thymohydroquinone, nigellone, carvacrol, alpha-hederin), the same dosage range (1-3 g seed powder, 2.5-5 ml oil), the same cold-press/CO2 extraction methods and the same lead citation (PMID 39769174). The kalonji page states outright in its bioavailability note: 'Kalonji is the Hindi/Urdu name, same as Kalajaji"
-  },
-  "karvellaka": {
-   "primary": "karela",
-   "taxon": "Momordica charantia",
-   "reason": "Same drug as karela; the direction of this alias was REVERSED on 10 October 2026. It previously declared karvellaka primary and karela the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats karela as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: bitter-gourd, karela and karvellaka are all the fruit drug under English, Hindi and Sanskrit names: all three give 30-60 ml fresh fruit juice, 3-6 g dried fruit powder and a 500 mg extract capsule, all are prepared by cold pressing/juicing the fresh fruit, and all standardize on charantin NLT 2% with total bitter principles as momordicin. karvellaka is the primary as the Sanskrit pharmacopoeial na"
-  },
-  "lavanga": {
-   "primary": "laung",
+  "laung": {
+   "primary": "lavanga",
    "taxon": "Syzygium aromaticum",
-   "reason": "Same drug as laung; the direction of this alias was REVERSED on 10 October 2026. It previously declared lavanga primary and laung the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats laung as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages are the dried flower bud (clove) and its steam-distilled oil: same eugenol-led marker set (eugenol, eugenyl acetate, beta-caryophyllene, alpha-humulene, kaempferol), same >=85% eugenol essential-oil spec, same dental/carminative dosage forms, same Kitchen-Spices-Culinary group. Nothing distinguishes them but the name: 'Laung' is Hindi for Sanskrit 'Lavanga', the API monograph title, so"
+   "reason": "Both pages are the dried flower bud (clove) and its steam-distilled oil: same eugenol-led marker set (eugenol, eugenyl acetate, beta-caryophyllene, alpha-humulene, kaempferol), same >=85% eugenol essential-oil spec, same dental/carminative dosage forms, same Kitchen-Spices-Culinary group. Nothing distinguishes them but the name: 'Laung' is Hindi for Sanskrit 'Lavanga', the API monograph title, so REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make laung primary, on a misreading of Google's URL Inspection output. Google reports laung as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "nimba": {
-   "primary": "neem",
+  "makoy": {
+   "primary": "kakamachi",
+   "taxon": "Solanum nigrum",
+   "reason": "Both pages describe the same whole-plant drug (Svarasa/fresh juice, churna, kwatha) with the same marker set (solasonine, solamargine, solasodine, diosgenin, quercetin, caffeic acid, riboflavin), the same 10-20 mL juice / 3-6 g powder / 50-100 mL decoction dosing, the same Liver-Detox group and the same tag set. No plant part or preparation separates them; 'Makoy' is simply the Hindi name for Sans"
+  },
+  "manjistha": {
+   "primary": "manjishtha",
+   "taxon": "Rubia cordifolia",
+   "reason": "A pure transliteration split, and the pages admit it: manjistha's bioavailability field opens 'Same pharmacokinetic profile as Manjishtha (Rubia cordifolia)' and links to /herb/manjishtha/. Both are the root drug, both sit in the Skin-Beauty group, both give 3-6 g root powder and 500-1000 mg extract, both standardise to minimum 2% total anthraquinones, and both list the same markers (alizarin, pur"
+  },
+  "neem": {
+   "primary": "nimba",
    "taxon": "Azadirachta indica",
-   "reason": "Same drug as neem; the direction of this alias was REVERSED on 10 October 2026. It previously declared nimba primary and neem the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats neem as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Same drug under English/Hindi and Sanskrit names, and the neem page itself declares it: its names table lists Hindi 'Neem, Nimba' and Sanskrit 'Nimba, Arishta' and links to /herb/nimba/, while the nimba page repeatedly links back to /herb/neem/ and cites neem-leaf-paste and neem-face-wash trials. Shared limonoid chemistry throughout (azadirachtin, nimbidin, nimbin, nimbolide, gedunin, salannin). T"
+   "reason": "Same drug under English/Hindi and Sanskrit names, and the neem page itself declares it: its names table lists Hindi 'Neem, Nimba' and Sanskrit 'Nimba, Arishta' and links to /herb/nimba/, while the nimba page repeatedly links back to /herb/neem/ and cites neem-leaf-paste and neem-face-wash trials. Shared limonoid chemistry throughout (azadirachtin, nimbidin, nimbin, nimbolide, gedunin, salannin). T REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make neem primary, on a misreading of Google's URL Inspection output. Google reports neem as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "ankola": {
-   "primary": "nikochaka",
+  "nikochaka": {
+   "primary": "ankola",
    "taxon": "Alangium salviifolium",
-   "reason": "Same drug as nikochaka; the direction of this alias was REVERSED on 10 October 2026. It previously declared ankola primary and nikochaka the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats nikochaka as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: nikochaka is materially thinner than ankola (5726 characters against 5582), so this reversal points readers and engines at the shorter page. Merging the fuller content onto nikochaka is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: Nikochaka is a classical synonym of Ankola and its page is an empty placeholder: front matter carries botanical 'Alangium salviifolium' but family 'Unknown', and every content section says identification is uncertain ('Cannot be determined without positive botanical identification'), with a retracted mycotoxin paper as its only citation. Ankola carries the real monograph (alangine, ankorine, tubul"
+   "reason": "Nikochaka is a classical synonym of Ankola and its page is an empty placeholder: front matter carries botanical 'Alangium salviifolium' but family 'Unknown', and every content section says identification is uncertain ('Cannot be determined without positive botanical identification'), with a retracted mycotoxin paper as its only citation. Ankola carries the real monograph (alangine, ankorine, tubul REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make nikochaka primary, on a misreading of Google's URL Inspection output. Google reports nikochaka as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "lasuna": {
-   "primary": "rasona-garlic",
+  "nirgundi-herb": {
+   "primary": "nirgundi",
+   "taxon": "Vitex negundo",
+   "reason": "Same drug, same species, differing only by the bare '-herb' suffix. nirgundi-herb's only claimed difference is a generic 'whole herb (including stem, leaf, root, and flower)' framing, which is not a distinct classical drug or a named preparation - there is no separate Sanskrit/pharmacopoeial name for it, and both pages carry the same marker set (agnuside, casticin, vitexin, aucubin, luteolin-7-glu"
+  },
+  "rasona-garlic": {
+   "primary": "lasuna",
    "taxon": "Allium sativum",
-   "reason": "Same drug as rasona-garlic; the direction of this alias was REVERSED on 10 October 2026. It previously declared lasuna primary and rasona-garlic the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats rasona-garlic as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages describe the same drug, the garlic bulb, under two Sanskrit synonyms with an English tack-on: same constituents (alliin, allicin, ajoene, DADS, DATS, SAC), same WHO Bulbus Allii Sativi status, same dosage logic (fresh cloves, enteric-coated powder, aged garlic extract, Ksheerapaka). Neither confines itself to a distinct preparation. Lasuna is the Ayurvedic Pharmacopoeia monograph name ("
+   "reason": "Both pages describe the same drug, the garlic bulb, under two Sanskrit synonyms with an English tack-on: same constituents (alliin, allicin, ajoene, DADS, DATS, SAC), same WHO Bulbus Allii Sativi status, same dosage logic (fresh cloves, enteric-coated powder, aged garlic extract, Ksheerapaka). Neither confines itself to a distinct preparation. Lasuna is the Ayurvedic Pharmacopoeia monograph name ( REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make rasona-garlic primary, on a misreading of Google's URL Inspection output. Google reports rasona-garlic as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "tejapatra": {
-   "primary": "tamalpatra",
+  "tamalpatra": {
+   "primary": "tejapatra",
    "taxon": "Cinnamomum tamala",
-   "reason": "Same drug as tamalpatra; the direction of this alias was REVERSED on 10 October 2026. It previously declared tejapatra primary and tamalpatra the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats tamalpatra as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages are the dried leaf of Cinnamomum tamala, Indian bay leaf, filed under Kitchen-Spices-Culinary with near-identical content: eugenol-dominant essential oil standardized by GC-FID, the same marker set (eugenol, cinnamaldehyde, linalool, beta-caryophyllene, cinnamyl acetate), the same steam-distillation and hydroethanolic extraction methods and the same 1-3 g powder / 30-60 mL decoction dos"
+   "reason": "Both pages are the dried leaf of Cinnamomum tamala, Indian bay leaf, filed under Kitchen-Spices-Culinary with near-identical content: eugenol-dominant essential oil standardized by GC-FID, the same marker set (eugenol, cinnamaldehyde, linalool, beta-caryophyllene, cinnamyl acetate), the same steam-distillation and hydroethanolic extraction methods and the same 1-3 g powder / 30-60 mL decoction dos REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make tamalpatra primary, on a misreading of Google's URL Inspection output. Google reports tamalpatra as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "haridra": {
-   "primary": "turmeric",
+  "turmeric": {
+   "primary": "haridra",
    "taxon": "Curcuma longa",
-   "reason": "Same drug as turmeric; the direction of this alias was REVERSED on 10 October 2026. It previously declared haridra primary and turmeric the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats turmeric as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Same drug, the Curcuma longa rhizome: both pages centre on curcumin, demethoxycurcumin, bisdemethoxycurcumin and ar-turmerone, both give the same forms (Churna, Lepa, Kwatha, capsule, phytosome/nano) and the same bioavailability story (piperine 20x, phytosome 29x). No part, preparation or classical-drug split exists between them - the turmeric page's own Names table lists Haridra as its Sanskrit n"
+   "reason": "Same drug, the Curcuma longa rhizome: both pages centre on curcumin, demethoxycurcumin, bisdemethoxycurcumin and ar-turmerone, both give the same forms (Churna, Lepa, Kwatha, capsule, phytosome/nano) and the same bioavailability story (piperine 20x, phytosome 29x). No part, preparation or classical-drug split exists between them - the turmeric page's own Names table lists Haridra as its Sanskrit n REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make turmeric primary, on a misreading of Google's URL Inspection output. Google reports turmeric as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "asana": {
-   "primary": "vijaysar",
+  "vijaysar": {
+   "primary": "asana",
    "taxon": "Pterocarpus marsupium",
-   "reason": "Same drug as vijaysar; the direction of this alias was REVERSED on 10 October 2026. It previously declared asana primary and vijaysar the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats vijaysar as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. Previous reasoning, kept because it was not wrong, only overruled: Both pages describe the heartwood drug of Pterocarpus marsupium and nothing else: identical marker sets (pterostilbene, marsupsin, pterosupin, epicatechin, liquiritigenin, isoliquiritigenin, pterocarpol, kino-tannic acid), identical dosage (3-6 g heartwood powder twice daily, 50-100 ml decoction, 500 mg-1 g extract), the same standardisation spec (>5% pterostilbene, >20% total polyphenols, >1% mar"
+   "reason": "Both pages describe the heartwood drug of Pterocarpus marsupium and nothing else: identical marker sets (pterostilbene, marsupsin, pterosupin, epicatechin, liquiritigenin, isoliquiritigenin, pterocarpol, kino-tannic acid), identical dosage (3-6 g heartwood powder twice daily, 50-100 ml decoction, 500 mg-1 g extract), the same standardisation spec (>5% pterostilbene, >20% total polyphenols, >1% mar REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make vijaysar primary, on a misreading of Google's URL Inspection output. Google reports vijaysar as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "brahmi": {
-   "primary": "water-hyssop",
+  "water-hyssop": {
+   "primary": "brahmi",
    "taxon": "Bacopa monnieri",
-   "reason": "Same drug as water-hyssop; the direction of this alias was REVERSED on 10 October 2026. It previously declared brahmi primary and water-hyssop the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats water-hyssop as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: water-hyssop is materially thinner than brahmi (4113 characters against 10839), so this reversal points readers and engines at the shorter page. Merging the fuller content onto water-hyssop is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: Water Hyssop is simply the English common name of Bacopa monnieri, and the brahmi page already lists it under Common Names and links to it. Both pages describe the same whole-plant drug with the same bacoside chemistry (bacoside A3, bacopaside I/II/X, jujubogenin, brahmine, herpestine), the same Brahmi Ghrita lipid vehicle and the same 8-12 week nootropic latency. The water-hyssop page is a thin f"
+   "reason": "Water Hyssop is simply the English common name of Bacopa monnieri, and the brahmi page already lists it under Common Names and links to it. Both pages describe the same whole-plant drug with the same bacoside chemistry (bacoside A3, bacopaside I/II/X, jujubogenin, brahmine, herpestine), the same Brahmi Ghrita lipid vehicle and the same 8-12 week nootropic latency. The water-hyssop page is a thin f REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make water-hyssop primary, on a misreading of Google's URL Inspection output. Google reports water-hyssop as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   },
-  "ginger": {
-   "primary": "zingiber",
+  "zingiber": {
+   "primary": "ginger",
    "taxon": "Zingiber officinale",
-   "reason": "Same drug as zingiber; the direction of this alias was REVERSED on 10 October 2026. It previously declared ginger primary and zingiber the alias, on the grounds recorded at the time. Google's URL Inspection API, asked about all 1,239 pages, reports that it overrides that declaration and treats zingiber as the canonical, and it does so for all 18 alias pairs where the two disagree. A canonical an engine ignores consolidates nothing, and Bing clusters near-duplicates and picks its own representative too, so declaring what Google has already chosen is the only way to get every engine consolidating on one page instead of two. NOTE: zingiber is materially thinner than ginger (4698 characters against 17744), so this reversal points readers and engines at the shorter page. Merging the fuller content onto zingiber is outstanding work, recorded here rather than done silently. Previous reasoning, kept because it was not wrong, only overruled: Both pages are the rhizome of Zingiber officinale, same drug, same markers (6/8/10-gingerol, shogaols, zingerone, zingiberene), same forms (Shunthi churna, svarasa, oleoresin, CO2 extract, essential oil), same fresh-vs-dry gingerol/shogaol discussion, same Trikatu and Haridra combinations, and they already cross-link to each other. 'zingiber' is a bare Latin genus name, not an Ayurvedic drug name,"
+   "reason": "Both pages are the rhizome of Zingiber officinale, same drug, same markers (6/8/10-gingerol, shogaols, zingerone, zingiberene), same forms (Shunthi churna, svarasa, oleoresin, CO2 extract, essential oil), same fresh-vs-dry gingerol/shogaol discussion, same Trikatu and Haridra combinations, and they already cross-link to each other. 'zingiber' is a bare Latin genus name, not an Ayurvedic drug name, REVERSAL AND RE-REVERSAL, 10 October 2026: this entry was briefly flipped to make zingiber primary, on a misreading of Google's URL Inspection output. Google reports zingiber as its OWN canonical, which is a rejection of the duplicate claim, not a preference between the two pages. Since Google self-canonicalises both members of every such pair, the declaration changes nothing on Google either way, so it is chosen on this project's own grounds and restored to the direction established by reading the pages."
   }
  }
 }
