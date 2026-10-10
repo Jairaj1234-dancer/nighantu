@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh fruit/juice, Churna (dried fruit powder), Capsules, Tablets, Kwatha (decoction), Avaleha (confection)

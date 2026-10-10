@@ -55,8 +55,6 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ## What do recent clinical trials show?
 
-
-
 *5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -64,15 +62,6 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 - Generally safe at recommended doses. May cause stomach irritation in some patients, particularly those with gastric sensitivity.
 - Contains rock salt ([Saindhava Lavana](/herb/saindhava-lavana/)); patients with hypertension and kidney-related diseases should use with caution and medical supervision.
 - Not advised during pregnancy. Should not be taken without medical advice for prolonged periods. Those on blood pressure or cardiac medications should consult physician.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

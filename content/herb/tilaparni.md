@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tilaparni/meta-analysis.md"
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Svarasa (fresh juice), Churna (powder), Kwatha (decoction), Capsule, Essential oil (topical)

@@ -45,23 +45,12 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains 8-12% self-generated alcohol. NOT suitable for children under 5 years. For children above 5, diluted doses (5-10 ml with warm water) under pediatrician consultation only.
 - Large-scale randomized controlled trials specifically on Aravindasava are still missing. Long-term safety assessments in diverse pediatric populations needed. Alcohol content requires careful monitoring.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -46,8 +46,6 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ## What do recent clinical trials show?
 
-
-
 *4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 - Generally well-tolerated at recommended doses (15-30 mL twice daily after meals). Contains self-generated alcohol from fermentation; caution advised for those with liver conditions or alcohol sensitivity.
 - Long-term clinical trials in humans remain limited; most evidence comes from acute diarrhea contexts. Avoid in patients with constipation or intestinal obstruction.
 - Not recommended during pregnancy without medical supervision. Holarrhena antidysenterica alkaloids may interact with cardiac medications; consult physician if on concurrent drug therapy.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

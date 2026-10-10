@@ -63,15 +63,6 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 - CRITICAL SAFETY CONCERN - HEPATOTOXICITY: Prolonged internal use of Bakuchi is associated with severe cholestatic hepatitis. Analysis of 84 adverse reaction cases (1978-2016) found 48 cases (57.14%) involved liver injury. Bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol are identified hepatotoxic compounds. Liver function monitoring is mandatory for internal use.
 - Phototoxic dermatitis risk: Psoralen increases UV sensitivity - patients must avoid excessive sun exposure after application. Contraindicated in liver dysfunction, pregnancy, and children. External use is safer than internal, but still requires practitioner supervision. Regular liver function tests recommended for any prolonged use. Not for self-medication.
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (medicated oil for external use), Ointment (modern), Cream (modern)

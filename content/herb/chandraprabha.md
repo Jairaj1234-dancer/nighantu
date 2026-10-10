@@ -78,13 +78,6 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 
 **Part(s) Analyzed:** 37 ingredients including [Shilajit](/herb/shilajit/), [Guggulu](/formulation/guggulu/), Iron bhasma, [Loha bhasma](/herb/loha-bhasma/), and multiple herbs
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (tablet), Churna (powder), Capsule, Modified tablet

@@ -59,15 +59,6 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 - Tissue distribution study (2021) confirmed no potential risk of mercury or copper toxicity in patients with liver ailments when prepared by traditional methods at recommended dose and duration
 - Contraindicated in pregnancy and lactation; not recommended for children; patients with renal impairment should avoid use; concurrent use with hepatotoxic drugs requires monitoring
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)

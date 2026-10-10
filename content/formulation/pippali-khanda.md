@@ -58,8 +58,6 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -67,15 +65,6 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 - Generally safe in moderation; excessive use may irritate stomach and digestive lining causing acidity
 - Pregnant women should use cautiously (not more than 250mg/day); children may take approximately 50-100mg once daily post-meal
 - High-quality human RCTs on pure Pippali preparations remain scarce; long-term safety and dosage standardization need further investigation
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

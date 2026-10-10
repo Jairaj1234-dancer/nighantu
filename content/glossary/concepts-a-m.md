@@ -27,8 +27,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
 ### Nutritional Profile
 
 - **Protein:** 3.6g/100ml
@@ -79,15 +77,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -179,8 +168,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
 ### Isoflavones
 
 - Biochanin A
@@ -230,8 +217,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 |----------|------|
 | English | [Chyawanprash](/formulation/chyawanprash/) Extract |
 
-#### What is it made of?
-
 ### Key Active Markers
 
 - Derived from constituent herbs (see individual herb profiles)
@@ -274,8 +259,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 |----------|------|
 | English | [Chyawanprash](/formulation/chyawanprash/) Herbs |
 
-#### What is it made of?
-
 ### Key Active Markers
 
 - Derived from constituent herbs (see individual herb profiles)
@@ -317,8 +300,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 | Language | Name |
 |----------|------|
 | English | [Coconut Oil](/glossary/concepts-a-m/#coconut-oil) |
-
-#### What is it made of?
 
 ### Nutritional Profile
 
@@ -383,15 +364,6 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -551,15 +523,6 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kwath (decoction), Kwath Churna (decoction powder), Tablet (modern)
@@ -687,8 +650,6 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
 ### Mineral/Elemental Profile
 
 - **Iron oxide (Fe2O3):** Major component (red ochre)
@@ -737,8 +698,6 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
 ### Mineral/Elemental Profile
 
 - **Sulfur (S):** Major component (>98% elemental sulfur after Shodhana)
@@ -784,8 +743,6 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Phenolics
 
@@ -843,15 +800,6 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -953,8 +901,6 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
 ### Nutritional Profile
 
 - **Sucrose:** 65-85%
@@ -1048,15 +994,6 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (fresh juice), Capsule
@@ -1103,15 +1040,6 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1201,15 +1129,6 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1330,8 +1249,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
 ### Polyphenols
 
 - Oleuropein
@@ -1393,15 +1310,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Vati (tablet)
@@ -1441,15 +1349,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 |----------|------|
 | English | Jamun_Herb |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (leaf powder), Kashayam (leaf decoction), Capsule, Swarasa (leaf juice)
@@ -1488,8 +1387,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | Language | Name |
 |----------|------|
 | English | Jatamansi_Herb |
-
-#### What is it made of?
 
 ### Key Active Markers
 
@@ -1586,15 +1483,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Lepa (paste for external use)
@@ -1641,15 +1529,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1698,15 +1577,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kshara (alkaline preparation)
@@ -1745,8 +1615,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Nutritional Profile
 
@@ -1797,15 +1665,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Medicated thread (surgical device)
@@ -1844,15 +1703,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1895,15 +1745,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Khanda (granular confection)
@@ -1944,8 +1785,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Laghu, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Mineral/Elemental Profile
 
@@ -1996,15 +1835,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated safflower oil), External application
@@ -2045,8 +1875,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
 
 ### Resin Acids
 
@@ -2104,15 +1932,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -2153,15 +1972,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2246,15 +2056,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
@@ -2295,15 +2096,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2346,15 +2138,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
@@ -2395,15 +2178,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2446,15 +2220,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
@@ -2496,15 +2261,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
@@ -2545,8 +2301,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Nutritional Profile
 
@@ -2598,15 +2352,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Raw honey, Vehicle/adjuvant, Topical application, Component in Leha/Avaleha
@@ -2646,15 +2391,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Shuddha Manashila (purified realgar/arsenic disulfide)
@@ -2693,15 +2429,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2744,15 +2471,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -2794,15 +2512,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -2843,8 +2552,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Flavonoids
 
@@ -2906,15 +2613,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
@@ -2956,15 +2654,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whey liquid, Medicated whey
@@ -3003,8 +2692,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Flavonoids
 

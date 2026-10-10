@@ -45,23 +45,12 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe as a culinary-grade spice combination; however, piperine significantly alters drug pharmacokinetics - caution required when co-administered with prescription medications (especially narrow therapeutic index drugs like phenytoin, propranolol, theophylline)
 - May cause GI irritation, heartburn, or acid reflux in Pitta-predominant individuals or those with gastric ulcers; contraindicated in gastric hyperacidity; avoid during pregnancy in medicinal doses; reduce dose in hot seasons
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

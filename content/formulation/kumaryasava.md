@@ -55,15 +55,6 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 - Contains 5-10% self-generated alcohol and [Loha Bhasma](/herb/loha-bhasma/) (iron calx). Excessive use may cause loose stools or gastric irritation due to [Aloe vera](/herb/aloe-vera/)'s purgative properties.
 - Not recommended during pregnancy. Patients with iron overload conditions (hemochromatosis) should avoid due to [Loha Bhasma](/herb/loha-bhasma/) content. Long-term use requires periodic liver function monitoring.
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Asava (fermented infusion), Syrup (modern), Capsules (modern)

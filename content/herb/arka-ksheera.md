@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Ksheera/meta-analys
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Processed latex (Shodhita [Ksheera](/herb/ksheera/)), Gutika (pills prepared with Shodhita latex), Taila (oil processed with latex — external), Lepa (paste — external)

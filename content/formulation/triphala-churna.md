@@ -58,15 +58,6 @@ Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [
 - Generally recognized as safe (GRAS equivalent) when used appropriately; most commonly reported side effect is loose stools; avoid during pregnancy, in patients with chronic diarrhea, or severe dehydration; use cautiously with other laxatives
 - Lack of standardized manufacturing parameters across industry results in varying quality; consumers should verify third-party testing for heavy metals and pesticide residues; long-term continuous use should include breaks to prevent dependency
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet

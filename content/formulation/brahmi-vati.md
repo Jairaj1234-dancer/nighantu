@@ -60,15 +60,6 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 - Brahmi (Bacopa) alone has high therapeutic index and is generally well tolerated; most common side effects are GI (increased stool frequency, nausea, abdominal cramps); however, [Brahmi Vati](/formulation/brahmi-vati/) contains Rasasindura (mercury compound) and potentially Suvarna Bhasma requiring strict physician supervision
 - Always check heavy metal compliance certificates when purchasing; contraindicated in pregnancy and lactation; the gold-containing variant (Suvarna [Brahmi Vati](/formulation/brahmi-vati/)) is costlier and more potent - requires even stricter medical oversight; not for long-term unsupervised use due to mineral content
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)

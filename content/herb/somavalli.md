@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Capsule, [Ghrita](/herb/ghrita/) (medicated ghee)

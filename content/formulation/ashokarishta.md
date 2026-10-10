@@ -59,15 +59,6 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 - Should be avoided during pregnancy and breastfeeding unless specifically approved by a physician. Overuse may cause diarrhea or loose stools.
 - Product quality varies significantly between manufacturers; choose reputable brands with standardized processing. Contains self-generated alcohol; caution in patients with liver disease or alcohol sensitivity.
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)

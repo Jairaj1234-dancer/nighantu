@@ -46,8 +46,6 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 - Generally safe for most individuals; currently used in Indian government hospitals for allergy management
 - May cause increased body heat, abdominal fullness, and mouth ulcers - these effects are mitigated when taken with cow milk
 - Excessive use may lead to mild digestive discomfort in sensitive individuals; Lauha Bhasma content requires proper quality assurance
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

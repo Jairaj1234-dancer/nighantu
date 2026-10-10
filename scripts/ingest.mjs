@@ -183,10 +183,14 @@ for (const p of kept) {
       if (verified) { p.facts['Botanical Name'] = verified; verifiedBinomials += 1; }
     }
   }
-  // A page with a binomial is a plant, so a mineral-profile placeholder on it is false
-  // rather than merely empty. This has to run after the botanical is settled above.
-  p.render.rendered = dropMineralPlaceholder(p.render.rendered,
-    { isPlant: Boolean(normaliseBinomial(p.facts['Botanical Name'] ?? '')) });
+  // The placeholder is false on anything not filed as a mineral, which is a question about
+  // the folder and not about whether a binomial happens to be known. Passing subcategory
+  // rather than isPlant is what stops 139 plant and formulation pages keeping it.
+  p.render.rendered = dropMineralPlaceholder(p.render.rendered, {
+    isPlant: Boolean(normaliseBinomial(p.facts['Botanical Name'] ?? '')),
+    subcategory: p.facts.subcategory ?? p.subcategory ?? '',
+    group: p.facts.group ?? p.group ?? '',
+  });
 
   // Applies to every kind: the field must be a binomial or be absent.
   if (p.facts['Botanical Name']) {

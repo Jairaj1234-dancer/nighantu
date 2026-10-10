@@ -46,8 +46,6 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 ## What do recent clinical trials show?
 
-
-
 *5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 - No major side effects or serious adverse reactions reported at recommended therapeutic doses (250-500 mg twice daily). Over-dosage may cause mild burning sensation in the abdomen.
 - Contains [Loha Bhasma](/herb/loha-bhasma/) (iron calx) and other mineral bhasmas; should be avoided in conditions of iron overload and not taken concurrently with certain modern medicines without medical supervision.
 - Contraindicated in pregnancy. Extra precautions advised for children and elderly. Patients with renal impairment should consult a physician due to mineral content.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

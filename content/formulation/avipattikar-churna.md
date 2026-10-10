@@ -46,8 +46,6 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 ## What do recent clinical trials show?
 
-
-
 *4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 - Generally well-tolerated with no serious adverse effects reported in clinical studies. May cause diarrhea in individuals with sensitive stomachs or high tendency for loose motions.
 - Contains sugar (Sharkara) as an ingredient; patients with diabetes should consult their doctor before use.
 - Not recommended during pregnancy. No reported drug interactions, but should be used under medical supervision for prolonged periods.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

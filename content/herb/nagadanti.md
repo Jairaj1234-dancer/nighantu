@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root/leaf powder), Kwatha (decoction), Capsules, Svarasa (leaf juice), Lepa (topical paste)

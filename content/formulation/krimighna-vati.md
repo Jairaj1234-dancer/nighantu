@@ -56,23 +56,12 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe at recommended doses for short-term antiparasitic courses (7-14 days); may cause mild GI discomfort or loose stools during parasite expulsion phase; avoid in pregnancy and lactation
 - [Kampillaka](/herb/kampillaka/) is a potent purgative - dose must be carefully controlled; not recommended for children under 5 years without physician guidance; should be followed by probiotic restoration after treatment course; confirm parasitic infection through stool examination before use
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

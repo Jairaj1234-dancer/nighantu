@@ -45,23 +45,12 @@ Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a 
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol from fermentation. Contraindicated in pregnancy and during lactation. [Ashwagandha](/herb/ashwagandha/) may alter thyroid hormone levels; monitor in thyroid patients.
 - May potentiate sedative and [anxiolytic](/reference/anxiolytic/) medications. Overdosage can cause gastric irritation, nausea, or diarrhea. Use under physician supervision in autoimmune conditions.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

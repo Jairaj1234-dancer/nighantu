@@ -44,23 +44,12 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally well-tolerated externally. May cause warming sensation or mild redness in sensitive individuals due to [ginger](/herb/ginger/) and garlic content. Avoid application on open wounds, cuts, or broken skin. Patch test recommended before first use.
 - Not recommended for individuals with garlic or mustard allergies. Large-scale double-blind trials are lacking, particularly for diabetic neuropathy and fibromyalgia applications. Avoid in acute pitta-inflammatory skin conditions. Keep away from eyes and mucous membranes.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

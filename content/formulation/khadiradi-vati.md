@@ -46,23 +46,12 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe for oral use as a lozenge/dissolvable tablet; contains [Gairika](/glossary/concepts-a-m/#gairika) (red ochre mineral) which is safe in traditional doses; avoid swallowing large quantities; not recommended for children under 5 years
 - [Camphor](/herb/camphor/) component contraindicated in very young children (risk of seizures); avoid in known allergy to any ingredient; long-term continuous use may cause oral dryness due to astringent action; pregnancy and lactation - use under guidance
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

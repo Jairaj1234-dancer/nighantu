@@ -45,23 +45,12 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol. Embelin has a narrow therapeutic index; adherence to recommended dosage is critical. Overdose may cause nausea and vomiting.
 - Not recommended during pregnancy (embelin has anti-implantation properties). Liver function monitoring recommended during prolonged use. May interact with conventional anthelmintic drugs.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

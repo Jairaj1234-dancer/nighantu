@@ -57,15 +57,6 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 - Caution in patients with thyroid disorders as [Guggulu](/formulation/guggulu/) may affect thyroid function; monitor thyroid levels during prolonged use
 - Ghee base requires monitoring in patients with hyperlipidemia and cardiovascular conditions
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)

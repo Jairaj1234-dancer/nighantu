@@ -46,23 +46,12 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains purified heavy metals (Hingula/cinnabar) and toxic materials ([Vatsanabha](/herb/vatsanabha/)/aconite) - must be taken STRICTLY under qualified Ayurvedic physician supervision; self-medication dangerous; not for OTC use
 - Contraindicated in pregnancy, lactation, and children below 7 years; avoid in Pitta-predominant conditions, gastric ulcer, and gastric hyperacidity; short-term therapeutic use only; long-term use requires periodic monitoring of mercury levels and organ function
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

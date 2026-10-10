@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root powder), Kwatha (decoction), Capsule, Tablet, Lepa (paste), Taila (oil)

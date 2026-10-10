@@ -44,23 +44,12 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally well-tolerated for external application on inflamed skin and joints. Mild warming or cooling sensation is normal. Patch test recommended for individuals with very sensitive or eczematous skin. Avoid on open or infected wounds.
 - Large-scale multi-centric RCTs on long-term safety are still lacking. Caution advised in individuals with known sesame allergy. Not a replacement for medical treatment in severe psoriasis or inflammatory arthritis - should be used as complementary therapy.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

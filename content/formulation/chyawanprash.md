@@ -77,15 +77,6 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 - High sugar content requires monitoring in diabetic patients; sugar-free variants available for diabetics
 - API mandates minimum 0.5% gallic acid content as quality standard; consumer-grade products vary significantly in quality - brand verification important
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha (semi-solid confection/jam), Granules (modern), Capsules (modern), Chewable tablets (modern)

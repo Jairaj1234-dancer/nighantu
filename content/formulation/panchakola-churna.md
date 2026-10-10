@@ -56,15 +56,6 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 - Safe at recommended doses based on toxicological evaluation in animal models; may cause gastric irritation or heartburn in Pitta-predominant individuals; avoid in gastric ulcer, hyperacidity, and inflammatory bowel disease
 - Contraindicated during pregnancy (all five ingredients are hot in potency); not recommended in children under 5 years without physician guidance; piperine content may alter drug pharmacokinetics - caution with concurrent prescription medications
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet

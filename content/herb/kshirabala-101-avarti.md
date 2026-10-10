@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (medicated oil for external application and Basti), Capsule (soft gel for internal use), Nasya oil (nasal drops), Basti preparation (medicated enema)
