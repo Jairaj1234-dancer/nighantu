@@ -8,7 +8,9 @@
  * would be indistinguishable from the real thing in the output.
  */
 import assert from 'node:assert/strict';
-import { dotNetDate, sectionOf, stratify, redactor } from '../lib/bing-coverage.mjs';
+import {
+  dotNetDate, sectionOf, stratify, redactor, hasRealRecord, isThrottled, discoveryDateOf,
+} from '../lib/bing-coverage.mjs';
 
 let pass = 0;
 const t = (name, fn) => {
@@ -31,8 +33,13 @@ t('.NET date with a +0000 offset parses', () =>
 t('.NET date with a negative offset suffix still parses the millis', () =>
   assert.equal(dotNetDate('/Date(1760000000000-0530)/'), '2025-10-09'));
 
-t('a pre-epoch .NET date parses rather than throwing', () =>
-  assert.equal(dotNetDate('/Date(-86400000)/'), '1969-12-31'));
+t('a pre-epoch .NET date is rejected by the floor rather than throwing', () =>
+  // 1969 is before the floor, so it reads as absent. That is the right call here: a 1969 crawl
+  // date is a sentinel or a bug, never a fact, and the floor exists to catch the whole family.
+  assert.equal(dotNetDate('/Date(-86400000)/'), null));
+
+t('a date just above the floor is kept', () =>
+  assert.equal(dotNetDate('1990-06-01T00:00:00Z'), '1990-06-01'));
 
 t('a plain ISO string still works, in case Bing changes format', () =>
   assert.equal(dotNetDate('2026-10-10T08:00:00Z'), '2026-10-10'));
@@ -51,6 +58,100 @@ t('THE BUG THIS GUARDS: a naive Date() on a .NET date would be invalid', () => {
   // testing something. If this ever stops being true the helper is no longer load-bearing.
   assert.ok(Number.isNaN(new Date('/Date(1760000000000)/').getTime()));
   assert.equal(dotNetDate('/Date(1760000000000)/'), '2025-10-09');
+});
+
+t('DateTime.MinValue means no date, not the year 1', () => {
+  // The real first run printed "crawl dates span 0001-01-01 to 2026-10-02" because this parsed
+  // cleanly. Twenty empty records read as twenty crawled pages.
+  assert.equal(dotNetDate('/Date(-62135596800000)/'), null);
+  assert.equal(dotNetDate('0001-01-01T00:00:00'), null);
+});
+
+// ---- hasRealRecord ---------------------------------------------------------------------------
+const EMPTY_SHELL = {
+  __type: 'UrlWithChildrenInfo:#Microsoft.Bing.Webmaster.Api',
+  AnchorCount: 0,
+  DiscoveredDate: '/Date(-62135596800000)/',
+  DocumentSize: 0,
+  HttpStatus: 0,
+  IsPage: false,
+  LastCrawledDate: '/Date(-62135596800000)/',
+  TotalChildUrlCount: 0,
+  Url: 'https://nighantu.ageayurveda.com/herb/amla/',
+};
+
+t('THE BUG: a fully populated all-defaults shell is NOT a record', () => {
+  // Every field present, so Object.keys().length > 0 is true. That is what the first run used.
+  assert.ok(Object.keys(EMPTY_SHELL).length > 0);
+  assert.equal(hasRealRecord(EMPTY_SHELL), false);
+});
+
+t('a record with a real crawl date counts', () =>
+  assert.equal(hasRealRecord({ ...EMPTY_SHELL, LastCrawledDate: '/Date(1760000000000)/' }), true));
+
+t('a record with only a discovery date counts', () =>
+  assert.equal(hasRealRecord({ ...EMPTY_SHELL, DiscoveredDate: '/Date(1760000000000)/' }), true));
+
+t('a record with only a non-zero http status counts', () =>
+  assert.equal(hasRealRecord({ ...EMPTY_SHELL, HttpStatus: 200 }), true));
+
+t('null, undefined and {} are not records', () => {
+  assert.equal(hasRealRecord(null), false);
+  assert.equal(hasRealRecord(undefined), false);
+  assert.equal(hasRealRecord({}), false);
+});
+
+
+// ---- discoveryDateOf, pinned to a REAL observed response ------------------------------------
+// Captured from a live GetUrlInfo call for /herb/amla/ on 10 October 2026. The field is
+// DiscoveryDate; this code was written expecting DiscoveredDate, so it read undefined for a page
+// Bing had crawled eight days earlier.
+const LIVE_AMLA = {
+  __type: 'UrlInfo:#Microsoft.Bing.Webmaster.Api',
+  AnchorCount: 0,
+  DiscoveryDate: '/Date(1790233200000)/',
+  DocumentSize: 0,
+  HttpStatus: 0,
+  IsPage: true,
+  LastCrawledDate: '/Date(1790225754000)/',
+  TotalChildUrlCount: 0,
+  Url: 'https://nighantu.ageayurveda.com/herb/amla/',
+};
+
+t('THE BUG: the live response spells it DiscoveryDate, not DiscoveredDate', () => {
+  assert.equal(LIVE_AMLA.DiscoveredDate, undefined);
+  assert.ok(discoveryDateOf(LIVE_AMLA), 'discovery date read as absent on a real record');
+});
+
+t('the documented DiscoveredDate spelling also works', () =>
+  assert.equal(discoveryDateOf({ DiscoveredDate: '/Date(1760000000000)/' }), '2025-10-09'));
+
+t('a real crawled page counts as a record despite HttpStatus 0', () => {
+  // HttpStatus comes back 0 even for a page Bing has crawled, so it must not be the test.
+  assert.equal(LIVE_AMLA.HttpStatus, 0);
+  assert.equal(hasRealRecord(LIVE_AMLA), true);
+});
+
+t('no discovery date under either spelling is null, not undefined', () =>
+  assert.equal(discoveryDateOf({}), null));
+
+// ---- isThrottled -----------------------------------------------------------------------------
+t('Bing throttling is recognised from the 400 body', () => {
+  assert.equal(isThrottled(400, '{"ErrorCode":5,"Message":"ERROR!!! ThrottleHost"}'), true);
+  assert.equal(isThrottled(400, '{"ErrorCode": 5, "Message": "whatever"}'), true);
+});
+
+t('an ordinary 400 is not throttling', () =>
+  assert.equal(isThrottled(400, '{"ErrorCode":2,"Message":"Invalid url"}'), false));
+
+t('a non-400 is never throttling', () => {
+  assert.equal(isThrottled(200, 'ThrottleHost'), false);
+  assert.equal(isThrottled(500, ''), false);
+});
+
+t('a missing body does not throw', () => {
+  assert.equal(isThrottled(400, null), false);
+  assert.equal(isThrottled(400, undefined), false);
 });
 
 // ---- sectionOf -------------------------------------------------------------------------------

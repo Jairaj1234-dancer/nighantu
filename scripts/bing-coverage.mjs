@@ -37,7 +37,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { get } from './lib/fetch.mjs';
 import { SITE, BASE } from './monitors/config.mjs';
-import { dotNetDate, sectionOf, stratify, redactor } from './lib/bing-coverage.mjs';
+import {
+  dotNetDate, sectionOf, stratify, redactor, hasRealRecord, isThrottled, discoveryDateOf,
+} from './lib/bing-coverage.mjs';
 
 const KEY = process.env.BING_API_KEY;
 const SITE_URL = process.env.BING_SITE_URL || `${SITE}${BASE}/`;
@@ -49,6 +51,13 @@ const argOf = (name, fallback) => {
   return i === -1 ? fallback : process.argv[i + 1];
 };
 const SAMPLE = Number(argOf('--sample', 80));
+/**
+ * Bing throttles per host, and the first run found 350ms is far too fast. These are deliberately
+ * unhurried: 80 URLs at 2.5s is about three and a half minutes, which is nothing against the cost
+ * of a measurement that has to be thrown away.
+ */
+const GAP_MS = Number(argOf('--gap', 2500));
+const THROTTLE_WAIT_MS = Number(argOf('--throttle-wait', 60000));
 
 /** Strip the key from anything before it reaches a log line or a written file. */
 const redact = redactor(KEY);
@@ -65,18 +74,47 @@ if (!KEY) {
   process.exit(1);
 }
 
-const call = async (method, params = {}) => {
+const sleep = (ms) => new Promise((done) => setTimeout(done, ms));
+
+const callOnce = async (method, params = {}) => {
   const qs = new URLSearchParams({ apikey: KEY, siteUrl: SITE_URL, ...params });
-  const res = await get(`${API}/${method}?${qs}`, { retries: 1, timeoutMs: 25000 });
+  const res = await get(`${API}/${method}?${qs}`, { retries: 0, timeoutMs: 25000 });
   if (!res.ok) {
     // res.error can carry a URL from the fetch layer, so it is redacted rather than trusted.
-    return { error: `HTTP ${res.status}${res.error ? ` (${redact(res.error)})` : ''}` };
+    const body = redact(res.text ?? '');
+    if (isThrottled(res.status, body)) return { throttled: true };
+    return { error: `HTTP ${res.status}${res.error ? ` (${redact(res.error)})` : ''} ${body.slice(0, 120)}`.trim() };
   }
   try {
     return { data: JSON.parse(res.text).d ?? null };
   } catch {
     return { error: `response was not JSON: ${redact(res.text).slice(0, 160)}` };
   }
+};
+
+/**
+ * One call, with a real wait when Bing says it is being asked too fast.
+ *
+ * THE FIRST RUN OF THIS SCRIPT WAS A LESSON IN WHY THIS MATTERS. It paused 350ms between calls,
+ * Bing throttled from call 21 onward, and 63 of 83 requests came back
+ * `{"ErrorCode":5,"Message":"ERROR!!! ThrottleHost"}`. The report printed "no record at all: 0"
+ * beside "call failed: 63", which is a rate limit dressed up as a finding about the site.
+ *
+ * Bing's throttle is per host and recovers on its own, so the answer is to wait rather than to
+ * record a failure. If it is still throttling after the backoff, the run stops: a partial sample
+ * is not a smaller measurement, it is a biased one, because the URLs that got through are the
+ * early ones.
+ */
+const call = async (method, params = {}, { tries = 4 } = {}) => {
+  for (let attempt = 0; attempt < tries; attempt++) {
+    const r = await callOnce(method, params);
+    if (!r.throttled) return r;
+    if (attempt === tries - 1) return { error: 'throttled after backoff' };
+    const wait = THROTTLE_WAIT_MS * 2 ** attempt;
+    console.log(`  throttled, waiting ${Math.round(wait / 1000)}s`);
+    await sleep(wait);
+  }
+  return { error: 'unreachable' };
 };
 
 /** Every URL the site publishes, from the built sitemap: the population to sample from. */
@@ -126,17 +164,17 @@ for (const [i, url] of sample.entries()) {
     rows.push({
       url,
       lastCrawled: dotNetDate(d.LastCrawledDate),
-      discovered: dotNetDate(d.DiscoveredDate),
+      discovered: discoveryDateOf(d),
       httpStatus: d.HttpStatus ?? null,
       isPage: d.IsPage ?? null,
       anchors: d.AnchorCount ?? null,
-      // An empty object back means Bing answered and holds nothing for this URL, which is a
-      // different fact from an error and is counted separately below.
-      known: Object.keys(d).length > 0,
+      // Bing answers for an unknown URL with a fully populated all-defaults shell, so the presence
+      // of fields says nothing. See hasRealRecord: the first run counted 20 shells as records.
+      known: hasRealRecord(d),
     });
   }
-  if ((i + 1) % 20 === 0) console.log(`  ...${i + 1}/${sample.length}`);
-  await new Promise((done) => setTimeout(done, 350)); // a polite client of someone else's API
+  if ((i + 1) % 10 === 0) console.log(`  ...${i + 1}/${sample.length}`);
+  if (i < sample.length - 1) await sleep(GAP_MS);
 }
 
 const errored = rows.filter((r) => r.error);
@@ -144,13 +182,38 @@ const known = rows.filter((r) => !r.error && r.known);
 const unknown = rows.filter((r) => !r.error && !r.known);
 const crawled = known.filter((r) => r.lastCrawled);
 
+/**
+ * REFUSE TO REPORT A CONTAMINATED SAMPLE.
+ *
+ * This is the whole lesson of the first run. It printed "Bing has a record 20", "no record at all
+ * 0" and "call failed 63" in one block, and the first two numbers are meaningless: the 63 failures
+ * were a throttle, and the 20 that got through were the first 20 asked, so they are not a sample of
+ * anything. Reading that output as coverage would have been the fifth false measurement this
+ * project has produced from code that looked right.
+ *
+ * A failure here is not a smaller answer. It is a biased one, so there is no answer.
+ */
+if (errored.length) {
+  console.error(`\nNOT REPORTING. ${errored.length} of ${rows.length} calls failed.`);
+  console.error(`  first error  ${errored[0].error}`);
+  console.error('');
+  console.error('The requests that succeeded are the ones asked earliest, so what got through is');
+  console.error('not a sample of the site and the counts would not mean what they appear to mean.');
+  console.error('Nothing has been written.');
+  console.error('');
+  if (errored.some((r) => /throttl/i.test(r.error))) {
+    console.error('Bing was throttling. Its limit is per host and recovers on its own, so wait a');
+    console.error('while and re-run, more slowly and with fewer URLs:');
+    console.error('   node --env-file=.env scripts/bing-coverage.mjs --sample 30 --gap 5000');
+  }
+  process.exit(1);
+}
+
 console.log('\nWhat Bing holds, on the sample');
 console.log(`  asked about        ${rows.length}`);
 console.log(`  Bing has a record  ${known.length}`);
 console.log(`  of those, crawled  ${crawled.length}`);
 console.log(`  no record at all   ${unknown.length}`);
-console.log(`  call failed        ${errored.length}`);
-if (errored.length) console.log(`  first error        ${errored[0].error}`);
 
 if (crawled.length) {
   const dates = crawled.map((r) => r.lastCrawled).sort();
