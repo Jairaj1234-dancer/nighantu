@@ -254,14 +254,20 @@ const jsonld = [
   </p>
   <p class="caveat">
     <strong>What the DOI actually resolves to, stated plainly because it is not what you would
-    expect.</strong> The deposit holds one file: a 7.5 MB archive of this project's repository, from
-    which every dataset above is built. It does not hold the JSON, CSV and Parquet files as separate
-    downloadable records, and no dataset here has a DOI minted for it alone. So the DOI identifies
-    the work that contains these datasets rather than any one of them, which is why each Dataset
-    record on this site carries it alongside an <code>isPartOf</code> pointing at this catalogue. If
-    you want a specific file, take it from the direct download above, which is the same bytes and
-    needs no unpacking. Depositing the data files as their own records is a known gap and the right
-    fix; it has not been done yet.
+    expect.</strong> The deposit holds 34 files totalling 20.8 MB: 15 datasets, all of them as JSON,
+    10 of those also as CSV and 5 also as Parquet, the formulary crosswalk additionally as PDF, plus
+    a <code>MANIFEST.json</code>, a README and one Parquet schema sidecar. The format mix is not
+    uniform because the downloads on this page are not uniform, and the archive holds what the page
+    offers rather than a tidied version of it: only one of the five Parquet files has a schema
+    sidecar, and that is a gap here rather than a decision. Each file is downloadable on its own, so
+    a citation can name the file it used.
+    What the DOI
+    still does not give you is a per-dataset identifier: no dataset here has a DOI minted for it
+    alone, so the DOI identifies the work that contains these datasets rather than any one of them,
+    which is why each Dataset record on this site carries it alongside an <code>isPartOf</code>
+    pointing at this catalogue. Until 10 October 2026 the deposit held a single 7.5 MB archive of
+    this project's repository instead, and this paragraph said so; the change is recorded on
+    <a href={rel('/corrections/')}>corrections</a>.
   </p>
   <ul>
     <li>
