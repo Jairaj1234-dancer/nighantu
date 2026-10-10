@@ -47,6 +47,11 @@ data/runs/records/
 data/runs/feedback/
 data/runs/records3/
 data/runs/procedures/
+# Service-account keys and any other credential file. This repository is public, so a key
+# committed here is a key published. The Search Console reader expects its key at
+# secrets/gsc-service-account.json.
+secrets/
+
 # This project's own index coverage, read from the Bing Webmaster API by
 # scripts/bing-coverage.mjs. data/DASHBOARD.md is committed rather than published so that
 # competitors named in the comparison tables cannot read this project's scoreboard; the same
