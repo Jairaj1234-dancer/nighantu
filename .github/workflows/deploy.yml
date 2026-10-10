@@ -92,6 +92,13 @@ jobs:
       - name: Citation-log reader tests
         run: node scripts/test/dashboard.test.mjs
 
+      # The coverage reader itself cannot run here, because the key is local by design and this
+      # repository is public, but its date parser and sampler can. A parser that cannot read
+      # Bing's .NET dates returns null, which the report prints as "never crawled": a false
+      # negative on the one question that script exists to answer.
+      - name: Bing coverage parser tests
+        run: node scripts/test/bing-coverage.test.mjs
+
       # The audit gates the build: a compliance violation fails the deploy.
       - name: Compliance audit (pre-build)
         run: node scripts/audit.mjs
