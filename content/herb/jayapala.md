@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Jayapala (Croton tiglium L.) is a plant used in Ayurveda. {'use': 'Purgative (Virechana, Bhedana) for constipation and abdominal disorders', 'validation': \"Croton oil's powerful purgative action is well-established pharmacologically."
+answer: "Jayapala (Croton tiglium) is a plant drug, also called Mukula and Jamalgota in Hindi. It is one of the drastic purgatives of the classical materia medica and the Ayurvedic texts require shodhana, purificatory processing, before any use. This page records documented poisoning cases; read its cautions before anything else on it."
 botanical: "Croton tiglium L."
 family: ""
 sanskrit: ""
@@ -28,8 +28,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- {'use': 'Purgative (Virechana, Bhedana) for constipation and abdominal disorders', 'validation': "Croton oil's powerful purgative action is well-established pharmacologically. It acts by stimulating intestinal secretion and motility through PKC-mediated prostaglandin release and direct irritation of GI mucosa. Used historically in Western medicine as a drastic cathartic before safer alternatives were developed."}
-- {'use': 'Anti-inflammatory and anti-tumor (Shothahara, Granthi)', 'validation': 'Paradoxically, while phorbol esters are tumor promoters, specific fractions and derivatives of Croton tiglium show anti-tumor activity. Research demonstrates PKC-modulated apoptosis in certain cancer cell lines. Traditional application as external anti-inflammatory paste (after purification) is supported by its counter-irritant properties.'}
+- **Purgative (Virechana, Bhedana) for constipation and abdominal disorders.** Croton oil's powerful purgative action is well-established pharmacologically. It acts by stimulating intestinal secretion and motility through PKC-mediated prostaglandin release and direct irritation of GI mucosa. Used historically in Western medicine as a drastic cathartic before safer alternatives were developed.
+- **Anti-inflammatory and anti-tumor (Shothahara, Granthi).** Paradoxically, while phorbol esters are tumor promoters, specific fractions and derivatives of Croton tiglium show anti-tumor activity. Research demonstrates PKC-modulated apoptosis in certain cancer cell lines. Traditional application as external anti-inflammatory paste (after purification) is supported by its counter-irritant properties.
 
 ## What do recent clinical trials show?
 
@@ -42,11 +42,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## Recent safety updates
 
-- {'type': 'Poisoning case', 'detail': 'Croton tiglium poisoning cases documented in Southeast Asia and India from accidental ingestion of seeds. Symptoms include rapid onset (within 30 minutes) of severe purging, vomiting, abdominal pain, and cardiovascular collapse in severe cases.'}
-- {'type': 'Poisoning case', 'detail': 'Occupational exposure to croton oil during seed processing causes severe contact dermatitis with vesiculation, erythema, and pustule formation. Skin contact alone can cause systemic symptoms.'}
-- {'type': 'Antidote', 'detail': 'No specific antidote. Treatment is supportive: aggressive IV fluid and electrolyte replacement for dehydration from severe purging, antiemetics, GI protectants (demulcents), activated charcoal if within 1 hour of ingestion. Skin decontamination with soap and water for dermal exposure.'}
-- {'type': 'Maximum dose', 'detail': 'Purified (Shuddha) Jayapala seeds: 15-30 mg per day. Croton oil dose: 1-2 drops (maximum) in milk or capsule. NEVER use unpurified seeds internally. Severe purgation occurs with even small amounts.'}
-- {'type': 'Safety alert', 'detail': 'Classified under Upavisha in Ayurveda and Schedule E1 in D&C Rules. Seeds must undergo Shodhana before any internal use. Avoid in pregnancy, children, elderly, and patients with GI disorders. 439 Ayurvedic formulations contain Jayapala - all require proper processing.'}
+- **Poisoning case.** Croton tiglium poisoning cases documented in Southeast Asia and India from accidental ingestion of seeds. Symptoms include rapid onset (within 30 minutes) of severe purging, vomiting, abdominal pain, and cardiovascular collapse in severe cases.
+- **Poisoning case.** Occupational exposure to croton oil during seed processing causes severe contact dermatitis with vesiculation, erythema, and pustule formation. Skin contact alone can cause systemic symptoms.
+- **Antidote.** No specific antidote. Treatment is supportive: aggressive IV fluid and electrolyte replacement for dehydration from severe purging, antiemetics, GI protectants (demulcents), activated charcoal if within 1 hour of ingestion. Skin decontamination with soap and water for dermal exposure.
+- **Maximum dose.** Purified (Shuddha) Jayapala seeds: 15-30 mg per day. Croton oil dose: 1-2 drops (maximum) in milk or capsule. NEVER use unpurified seeds internally. Severe purgation occurs with even small amounts.
+- **Safety alert.** Classified under Upavisha in Ayurveda and Schedule E1 in D&C Rules. Seeds must undergo Shodhana before any internal use. Avoid in pregnancy, children, elderly, and patients with GI disorders. 439 Ayurvedic formulations contain Jayapala - all require proper processing.
 
 ## What is it made of?
 
