@@ -6,13 +6,13 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Kapikachhu (Mucuna pruriens) is a plant used in Ayurveda. Co-administration with carbidopa analogs or natural decarboxylase inhibitors (green tea catechins) enhances central L-DOPA delivery. Milk as anupana provides amino acid buffering and improves tolerability."
+answer: "Kapikachhu (Mucuna pruriens, Fabaceae) is the seed and root drug also called Atmagupta, Markati, and Kaunch in Hindi. The Ayurvedic Pharmacopoeia of India carries two monographs for it, seed and root, both headed ATMAGUPTA. Madhura rasa, snigdha guna, ushna virya, madhura vipaka; the seed carries L-DOPA at 3 to 6 per cent."
 botanical: "Mucuna pruriens"
-family: ""
-sanskrit: ""
+family: "Fabaceae"
+sanskrit: "Atmagupta, Kapikacchu, Markati"
 ayurvedicCategory: ""
-whoStatus: ""
-aliases: []
+whoStatus: "Two monographs in the Ayurvedic Pharmacopoeia of India, for seed and for root, both headed ATMAGUPTA (Mucuna prurita Hook. syn. M. pruriens); no dedicated WHO monograph"
+aliases: ["Kapikachhu", "Atmagupta", "Markati", "Kaunch", "Kaunch Beej", "Velvet Bean", "Mucuna pruriens"]
 tags: ["ayurveda", "herb", "single-herb", "brain-nervous-system", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
