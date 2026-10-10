@@ -1300,7 +1300,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "de603b757ee92770",
+    "hash": "37b4475f14c62ecc",
     "published": "2026-09-09",
     "modified": "2026-10-10"
   },
@@ -1785,9 +1785,9 @@
     "modified": "2026-10-10"
   },
   "herb/curcumin": {
-    "hash": "7ffd3fcf7c3153b6",
+    "hash": "6154e3c0e4412111",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/dadhi": {
     "hash": "7ca5e6de3f4a7956",
@@ -1825,9 +1825,9 @@
     "modified": "2026-10-09"
   },
   "herb/dashamoola": {
-    "hash": "acced66c4900489c",
+    "hash": "20f22d897fa521e0",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/devadali": {
     "hash": "3b8ff6eff6647a87",
@@ -2660,9 +2660,9 @@
     "modified": "2026-10-09"
   },
   "herb/madhu": {
-    "hash": "d1f221e9055e7328",
+    "hash": "84e8dd67551b0599",
     "published": "2026-09-09",
-    "modified": "2026-10-06"
+    "modified": "2026-10-10"
   },
   "herb/madhu-mandur": {
     "hash": "4348a6931bb76c65",
@@ -2790,9 +2790,9 @@
     "modified": "2026-10-09"
   },
   "herb/menthol": {
-    "hash": "97bb02b609f85e52",
+    "hash": "20ec439629e8bb29",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/methi": {
     "hash": "cbc37bc830185b74",
@@ -3200,9 +3200,9 @@
     "modified": "2026-10-09"
   },
   "herb/saindhava-lavana": {
-    "hash": "4f370c847ebbb314",
+    "hash": "2902015d10df12d2",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/saireyaka": {
     "hash": "3ef1032e303116bb",
@@ -3355,9 +3355,9 @@
     "modified": "2026-10-09"
   },
   "herb/shukti-bhasma": {
-    "hash": "460d449f48bec804",
+    "hash": "e25902d910cc03cc",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/shvet-musli": {
     "hash": "90576855c4c72803",
@@ -3560,9 +3560,9 @@
     "modified": "2026-09-18"
   },
   "herb/trikatu": {
-    "hash": "077d4a9eeba64961",
+    "hash": "ff5678e059dd892a",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-10"
   },
   "herb/triphala": {
     "hash": "79397e07ae2007a2",
@@ -3655,9 +3655,9 @@
     "modified": "2026-10-09"
   },
   "herb/vamshalochana": {
-    "hash": "62e26b81c2969010",
+    "hash": "979d6589582f6b3d",
     "published": "2026-09-16",
-    "modified": "2026-10-09"
+    "modified": "2026-10-10"
   },
   "herb/vanapsa": {
     "hash": "2c00464ca85519d8",

@@ -28,6 +28,8 @@
  *   node scripts/formulation-research.mjs --json out.json    save candidates for review
  *   node scripts/formulation-research.mjs --thin 6            pages holding fewer than 6 papers
  *   node scripts/formulation-research.mjs --names n.json      add externally supplied name variants
+ *   node scripts/formulation-research.mjs --collection herb   any collection, not just formulations
+ *   node scripts/formulation-research.mjs --slugs s.json      restrict to a named set of slugs
  *
  * It never writes src/data/citations.json. Promoting reviewed candidates is a separate, later step,
  * deliberately, because citations.mjs is the script that once emptied 31 live pages.
@@ -130,6 +132,47 @@ function namesTheFormulation(rec, variants) {
  * Deliberately only the word IMMEDIATELY after the match counts. "Murivenna and Abha Guggulu" is a
  * paper about Murivenna among other drugs, which is fine; "Panchatikta Ghrita Guggulu" is one name.
  */
+/**
+ * Is this record correspondence, where the "match" is somebody's surname?
+ *
+ * Found by running the 50 non-plant herb pages. Three records attached to the page for Madhu,
+ * honey, on titles like "Reply to Madhu et al" and "Re: Ronald D. Ennis, Liangyuan Hu, Shannon N.
+ * Ryemon, Joyce Lin, Madhu Mazumdar. Brachytherapy...". Madhu is a common Indian given name, and a
+ * PubMed [Title/Abstract] search cannot tell it from the Sanskrit for honey, because the author's
+ * name really is in the title of a reply.
+ *
+ * Correspondence is also not a study, so excluding it costs this corpus nothing it wants.
+ */
+/**
+ * Preprint servers, which are not peer-reviewed literature.
+ *
+ * /herb/menthol matched "Structural Basis of Cold and Menthol Sensing by TRPM8" in bioRxiv. The
+ * paper may well be right and the mechanism is exactly what an Ayurvedic entry would discuss for
+ * menthol's cooling property, but References.astro tells readers this section is "literature
+ * indexed in PubMed ... grouped by study type", and a preprint has no study type assigned by
+ * anybody. Keeping it would make the page's own description of its references untrue.
+ */
+const PREPRINT = /\b(biorxiv|medrxiv|arxiv|chemrxiv|research square|ssrn|preprint)\b/i;
+const isPreprint = (rec) => PREPRINT.test(String(rec.journal ?? ''));
+
+const CORRESPONDENCE = /^(reply to|re:|response to|comment on|letter to|author repl|correspondence)|\bet al\b/i;
+const isCorrespondence = (rec) => CORRESPONDENCE.test(String(rec.title ?? '').trim());
+
+/**
+ * A short single-word name is too ambiguous to attach on its own evidence.
+ *
+ * "Dadhi" (5 characters) matched a paper on infant birth outcomes and DNA damage biomarkers, where
+ * Dadhi is an author. "Menthol" (7) matched thirteen papers, most of them tobacco-control studies
+ * about menthol cigarettes, which is the right word and the wrong subject for an Ayurvedic materia
+ * medica entry. "Trikatu" (7) matched eleven papers that are all genuinely about the formulation.
+ *
+ * So length alone does not decide it and no rule here will. These are reported as NEEDING REVIEW
+ * rather than kept or dropped, because the distinction is editorial: whether the literature under
+ * an ambiguous word is about this drug is a judgement a person should make once per name, not a
+ * threshold.
+ */
+const ambiguousName = (title) => title.trim().split(/\s+/).length === 1 && title.trim().length < 8;
+
 function namesALongerFormulation(rec, matchedOn) {
   const title = String(rec.title ?? '').toLowerCase();
   const name = String(matchedOn ?? '').toLowerCase();
@@ -165,6 +208,25 @@ if (fs.existsSync(RETRACTIONS)) {
 const THIN = Number(argOf('--thin', 6));
 
 /**
+ * WHICH COLLECTION, because this is not only a formulation problem.
+ *
+ * The binomial filter in citations.mjs excludes any page with no botanical name, and that is not
+ * confined to formulations. 108 herb pages hold no literature, and only 11 of them have a binomial:
+ * 37 are minerals, bhasmas, salts, rasa preparations, animal products or isolates, for which no
+ * binomial exists or could, and 13 are multi-herb formulations filed under herb/. A binomial query
+ * for godanti-bhasma or dadhi is a category error, not a gap. All 50 are searched by name, exactly
+ * as a formulation is.
+ *
+ * --slugs restricts a run to a named set, so a bucket worked out elsewhere can be targeted without
+ * re-querying a whole collection.
+ */
+const COLLECTION = argOf('--collection', 'formulation');
+const SLUGS_FILE = argOf('--slugs', null);
+const ONLY_SLUGS = SLUGS_FILE && fs.existsSync(SLUGS_FILE)
+  ? new Set(JSON.parse(fs.readFileSync(SLUGS_FILE, 'utf8')))
+  : null;
+
+/**
  * Extra names per page, supplied from outside, for the one part of this that a pattern cannot do.
  *
  * variantsOf() deliberately refuses any change that could alter which drug is named, which means it
@@ -187,9 +249,10 @@ const extraNames = NAMES_FILE && fs.existsSync(NAMES_FILE)
 
 const pages = [];
 for (const rel of walk('content')) {
-  if (rel.split(path.sep)[0] !== 'formulation') continue;
+  if (rel.split(path.sep)[0] !== COLLECTION) continue;
   const slug = path.basename(rel, '.md');
-  const key = `formulation/${slug}`;
+  if (ONLY_SLUGS && !ONLY_SLUGS.has(slug)) continue;
+  const key = `${COLLECTION}/${slug}`;
   const held = (cit[key]?.citations ?? []).length;
   if (held >= THIN) continue;
   const { data } = parseFrontmatter(fs.readFileSync(path.join('content', rel), 'utf8'));
@@ -201,7 +264,7 @@ const generic = pages.filter((p) => isGeneric(p.title));
 const queryable = pages.filter((p) => !isGeneric(p.title)).slice(0, LIMIT);
 
 const empty = pages.filter((p) => p.held === 0).length;
-console.log(`${pages.length} formulation pages hold fewer than ${THIN} papers ` +
+console.log(`${pages.length} ${COLLECTION} pages hold fewer than ${THIN} papers ` +
   `(${empty} hold none, ${pages.length - empty} hold 1 to ${THIN - 1}).`);
 console.log(`  ${generic.length} skipped as a dosage form rather than a formulation: ` +
   `${generic.map((p) => p.title).join(', ') || 'none'}`);
@@ -219,6 +282,8 @@ let withAny = 0;
 let totalKept = 0;
 let totalDropped = 0;
 let totalLonger = 0;
+let totalCorrespondence = 0;
+let totalPreprint = 0;
 
 for (const [i, p] of queryable.entries()) {
   const supplied = Array.isArray(extraNames[p.key]) ? extraNames[p.key] : [];
@@ -231,6 +296,8 @@ for (const [i, p] of queryable.entries()) {
   const alreadyHeld = new Set((cit[p.key]?.citations ?? []).map((c) => String(c.pmid)));
   let droppedHere = 0;
   let droppedLonger = 0;
+  let droppedCorrespondence = 0;
+  let droppedPreprint = 0;
 
   for (const v of variants) {
     const term = `"${v}"[Title/Abstract] AND english[Language]`;
@@ -244,6 +311,8 @@ for (const [i, p] of queryable.entries()) {
       if (blocked.has(pmid) || seen.has(pmid) || alreadyHeld.has(pmid)) continue;
       if (!namesTheFormulation(rec, variants)) { droppedHere += 1; continue; }
       if (namesALongerFormulation(rec, v)) { droppedLonger += 1; continue; }
+      if (isCorrespondence(rec)) { droppedCorrespondence += 1; continue; }
+      if (isPreprint(rec)) { droppedPreprint += 1; continue; }
       seen.set(pmid, { ...rec, tier: tierOf(rec.pubtypes), matchedOn: v, source: 'pubmed-formulation' });
     }
   }
@@ -252,9 +321,17 @@ for (const [i, p] of queryable.entries()) {
   totalKept += kept.length;
   totalDropped += droppedHere;
   totalLonger += droppedLonger;
+  totalCorrespondence += droppedCorrespondence;
+  totalPreprint += droppedPreprint;
   if (kept.length) {
     withAny += 1;
-    found[p.key] = { title: p.title, alreadyHeld: p.held, variantsTried: variants, candidates: kept };
+    found[p.key] = {
+      title: p.title,
+      alreadyHeld: p.held,
+      variantsTried: variants,
+      needsReview: ambiguousName(p.title) || undefined,
+      candidates: kept,
+    };
   }
   const mark = kept.length ? String(kept.length).padStart(2) : ' .';
   console.log(`  ${String(i + 1).padStart(3)}/${queryable.length}  ${mark} new  ` +
@@ -265,7 +342,14 @@ for (const [i, p] of queryable.entries()) {
 
 console.log(`\n${withAny} of ${queryable.length} pages found at least one paper.`);
 console.log(`${totalKept} candidates kept, ${totalDropped} dropped for not naming the formulation,`);
-console.log(`${totalLonger} dropped for naming a longer formulation that merely starts with it.`);
+console.log(`${totalLonger} dropped for naming a longer formulation that merely starts with it,`);
+console.log(`${totalCorrespondence} dropped as correspondence, where the match is an author's surname,`);
+console.log(`${totalPreprint} dropped as a preprint rather than peer-reviewed literature.`);
+const review = Object.entries(found).filter(([, v]) => v.needsReview).map(([k]) => k.split('/')[1]);
+if (review.length) {
+  console.log(`\nNEEDS REVIEW before promotion, name too short and ambiguous to trust alone:`);
+  console.log(`  ${review.join(', ')}`);
+}
 console.log('\nNOTHING WAS WRITTEN. This is a report; review it before any of it reaches a page.');
 
 if (JSON_OUT) {
@@ -274,6 +358,7 @@ if (JSON_OUT) {
     note: 'Candidate literature for formulation pages holding none. NOT verified for relevance '
       + 'beyond a literal name match, and not attached to any page. Review before promoting.',
     prospectedOn: new Date().toISOString().slice(0, 10),
+    collection: COLLECTION,
     thinThreshold: THIN,
     pagesThin: pages.length,
     pagesEmpty: empty,
@@ -283,6 +368,8 @@ if (JSON_OUT) {
     candidatesKept: totalKept,
     droppedForNotNamingIt: totalDropped,
     droppedForNamingALongerFormulation: totalLonger,
+    droppedAsCorrespondence: totalCorrespondence,
+    droppedAsPreprint: totalPreprint,
     pages: found,
   }, null, 2)}\n`);
   console.log(`Candidates saved to ${JSON_OUT} for review.`);
