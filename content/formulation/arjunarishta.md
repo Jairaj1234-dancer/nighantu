@@ -45,23 +45,12 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally well-tolerated. Contains 5-10% self-generated alcohol. Should be used cautiously in patients on cardiac medications (digoxin, beta-blockers, calcium channel blockers) due to potential interactions.
 - May potentiate [antihypertensive](/glossary/pharmacology/#antihypertensive) drugs leading to excessive blood pressure reduction. Patients with hypotension should use with caution. Not recommended during pregnancy.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

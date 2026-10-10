@@ -64,15 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 - Cow milk protein allergy (CMPA) is one of the most common food allergies in infants (2-3%); IgE-mediated reactions can cause anaphylaxis
 - Quality and safety of milk depends on source animal health, feed, and processing; raw/unpasteurized milk carries risk of pathogenic bacteria (Listeria, Salmonella, E. coli)
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Liquid (plain milk), Ksheera Paka (medicated milk decoction), Ksheera Basti (milk enema), [Ghrita](/herb/ghrita/) (clarified butter/Ghee derived from milk), [Takra](/herb/takra/) (buttermilk), [Dadhi](/herb/dadhi/) (curd/yogurt)

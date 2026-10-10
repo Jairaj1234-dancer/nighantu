@@ -46,23 +46,12 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe herbal formulation without heavy metals; mild GI irritation possible in sensitive individuals; avoid in active gastric/duodenal ulcer; Rock Salt content requires caution in patients with hypertension or sodium-restricted diets
 - Contraindicated during pregnancy due to Ushna Virya herbs; not recommended for children under 5 years without physician guidance; long-term use is generally safe but should be guided by a practitioner
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

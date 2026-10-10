@@ -56,15 +56,6 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 - Generally well tolerated; mild GI discomfort reported in some patients; [guggulu](/formulation/guggulu/) may interact with anticoagulant and thyroid medications; avoid in known allergy to any ingredient
 - Contraindicated in pregnancy and lactation; not recommended during acute diarrhea or GI bleeding; long-term use (>6 months) requires periodic liver and kidney function monitoring
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule

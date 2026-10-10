@@ -45,23 +45,12 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol from fermentation. Should be used cautiously in children, pregnant women, and individuals with liver conditions.
 - [Vacha](/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

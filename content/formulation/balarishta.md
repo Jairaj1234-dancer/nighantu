@@ -45,23 +45,12 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe without known serious side effects at recommended dose (12-24 ml twice daily with equal water). Some individuals with gastric sensitivity may experience stomach irritation or burning.
 - Contains 5-10% self-generated alcohol. Caution in liver disorders, pregnancy, and pediatric use. Sida cordifolia contains [ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) in trace amounts; monitor in hypertensive patients.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

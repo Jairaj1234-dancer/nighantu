@@ -52,23 +52,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
 - Traditional avaleha preparation considered safe at recommended doses (5-10g with honey or warm water); Kantakari's steroidal alkaloids are buffered by the jaggery/honey matrix of the confection
 - Solanine-containing herbs should be used cautiously during pregnancy; long-term safety data from controlled clinical trials is lacking; recommended to use under Ayurvedic practitioner supervision
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

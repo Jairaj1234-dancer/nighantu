@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/herb/ghrita/) (medicated ghee)

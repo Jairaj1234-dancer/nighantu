@@ -46,8 +46,6 @@ Bhavishya Ratnavali (Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita); Rasaratna Sa
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Bhavishya Ratnavali (Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita); Rasaratna Sa
 - Clinical study confirms safety in elderly participants with 22% immunoglobulin increase; no adverse effects at 5ml daily for 8 weeks
 - [Guduchi](/herb/guduchi/) generally recognized as safe with well-established toxicological profile; rare reports of autoimmune exacerbation in predisposed individuals
 - Multiple ingredients require quality-assured sourcing; honey should not be heated above 40 degrees C per Ayurvedic principles
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

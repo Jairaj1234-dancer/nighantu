@@ -45,23 +45,12 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
 - May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/herb/ginger/) component may interact with anticoagulant medications.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

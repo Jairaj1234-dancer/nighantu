@@ -25,15 +25,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala-Herbs/meta-analysis.md
 |----------|------|
 | English | [Triphala](/herb/triphala/) Herbs |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Individual fruit powders ([Haritaki](/herb/haritaki/), [Bibhitaki](/herb/bibhitaki/), Amalaki churnas), Capsule (single herb), Tablet (single herb), Svarasa (Amalaki juice), Avaleha ([Chyawanprash](/formulation/chyawanprash/) from Amalaki)

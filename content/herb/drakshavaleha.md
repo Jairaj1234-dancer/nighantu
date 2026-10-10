@@ -70,15 +70,6 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 - Cytoprotective effect demonstrated against cyclophosphamide toxicity in pregnancy - fetal protective properties
 - High sugar content requires monitoring in diabetic patients; consult practitioner for sugar-free alternatives
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha (semi-solid confection), Modified tablet (compressed Avaleha granules), Capsule (Avaleha granules)

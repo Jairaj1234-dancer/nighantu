@@ -46,23 +46,12 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## What do recent clinical trials show?
 
-
-
 *4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe at recommended doses (1-3g with honey and rice-washed water); may cause mild constipation due to astringent herbs; not recommended during pregnancy or if trying to conceive; use only after proper gynecological diagnosis
 - Long-term unsupervised use not recommended; excessive menstrual bleeding should be evaluated for underlying pathology (fibroids, polyps, endometrial hyperplasia) before relying solely on herbal management; some ingredients (Ativisha) require proper processing
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

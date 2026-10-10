@@ -46,23 +46,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally considered safe under practitioner supervision; possible side effects include mild digestive discomfort and gastric upset; may lower blood sugar and blood pressure, requiring monitoring in diabetic and hypotensive patients
 - Contraindicated during pregnancy; not recommended for children below 5 years; patients with bleeding disorders should use cautiously as guggul may slow blood clotting; avoid concurrent use with anticoagulant medications
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Gutika (pill/tablet), Modern compressed tablet, Capsule (modern)

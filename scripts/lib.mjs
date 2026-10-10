@@ -309,15 +309,37 @@ export function delinkPropertyRows(body) {
  * analysed by X-ray diffraction. Two reviewers flagged it independently while reading
  * pages for other reasons.
  *
- * Scoped deliberately narrowly. It fires only when the page has a botanical name, so
- * mineral and rasa-shastra entries keep theirs, and only when the body matches the
- * placeholder, so the one page carrying a real elemental profile is untouched.
+ * Scoped by WHAT THE PAGE IS FILED AS, not by whether it has a binomial.
+ *
+ * THE FIRST VERSION USED A PROXY AND THE PROXY LEAKED. It fired only when the page had a
+ * botanical name, with the stated intent "so mineral and rasa-shastra entries keep theirs".
+ * Having a binomial is not the same as not being a mineral, and 139 pages fell through the
+ * gap: 60 filed Single-Herbs whose identity was never established, 76 Classical-Formulations,
+ * and one Animal-Derived-Product. A flower drug whose own markers are pelargonidin and
+ * kaempferol was still telling readers its primary component is a mineral-derived preparation
+ * analysed by X-ray diffraction, and so was Chyawanprash.
+ *
+ * It was found from the other end: two independent identity verifiers, working on
+ * /herb/bandhuka and /herb/devadali for an unrelated reason, each flagged that the one section
+ * whose job is to say what the substance is says something false.
+ *
+ * So the test is now the folder, which is what the original comment was reaching for. A page
+ * filed under Mineral-Metal-Preparations, Rasa-Shastra or Salts keeps its block; everything
+ * else loses it. `isPlant` is still accepted so existing callers keep working, but a caller
+ * that passes `subcategory` gets the correct behaviour.
+ *
+ * Still fires only when the body matches the placeholder, so the one page carrying a real
+ * elemental profile is untouched.
  */
+const MINERAL_FOLDER = /Mineral|Metal|Rasa-Shastra|Salt|Bhasma|Pishti/i;
 const MINERAL_PLACEHOLDER = /^###\s+Mineral\/Elemental Profile\s*$/i;
 const MINERAL_PLACEHOLDER_BODY = /Primary component:\*{0,2}\s*Mineral-derived preparation/i;
 
-export function dropMineralPlaceholder(body, { isPlant }) {
-  if (!isPlant) return body;
+export function dropMineralPlaceholder(body, { isPlant, subcategory, group } = {}) {
+  // A folder says what the substance is; a missing binomial says only that nobody established it.
+  const filedAsMineral = MINERAL_FOLDER.test(`${subcategory ?? ''} ${group ?? ''}`);
+  const keep = subcategory === undefined && group === undefined ? !isPlant : filedAsMineral;
+  if (keep) return body;
 
   // Callers pass either a section body or the whole rendered array. ingest.mjs passed the
   // array, which threw on .split the moment a page had a binomial, so re-ingesting has
@@ -325,7 +347,7 @@ export function dropMineralPlaceholder(body, { isPlant }) {
   // the committed pages, so nothing on the site was wrong and nothing re-ran to catch it.
   if (Array.isArray(body)) {
     return body
-      .map((s) => ({ ...s, content: dropMineralPlaceholder(s.content, { isPlant }) }))
+      .map((s) => ({ ...s, content: dropMineralPlaceholder(s.content, { isPlant, subcategory, group }) }))
       .filter((s) => s.content && /[A-Za-z]/.test(s.content.replace(/^#+.*$/gm, '')));
   }
 

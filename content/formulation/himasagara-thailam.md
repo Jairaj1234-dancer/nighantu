@@ -61,23 +61,12 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally well-tolerated for external use. The cooling formulation is specifically designed for Pitta-type individuals and conditions with burning sensation. May cause mild cooling sensation that is therapeutic. Avoid in very cold conditions or in extreme Kapha aggravation.
 - Internal use should be under practitioner supervision. Not well-studied in large-scale clinical trials. While it is described as mildly heating for Pitta types, it is predominantly cooling due to its multiple cooling juice bases. Avoid direct application on open wounds.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

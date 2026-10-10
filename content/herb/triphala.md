@@ -114,13 +114,6 @@ Powder (Churna): 3-6g/day before bed with warm water; As eye wash: decoction
 
 **Part(s) Analyzed:** Fruits of three plants (equal parts)
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Kwatha (decoction), [Guggulu](/formulation/guggulu/) ([Triphala Guggulu](/formulation/triphala-guggulu/)), [Ghrita](/herb/ghrita/) (Triphala Ghrita), Eye wash (Triphala Netra Prakshalana), Mouthwash

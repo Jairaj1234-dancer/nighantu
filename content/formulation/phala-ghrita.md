@@ -57,15 +57,6 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 - Ghee and milk base requires caution in lactose-intolerant individuals and those with hyperlipidemia
 - Should be used under Ayurvedic practitioner guidance for infertility; not a replacement for modern fertility treatments when indicated
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Ghrita (medicated ghee), Capsule (for convenience)

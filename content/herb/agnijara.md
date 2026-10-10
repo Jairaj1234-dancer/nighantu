@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnijara/meta-analysis.md"
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma (calcined preparation), Pishti (fine triturated powder), Capsule (with bhasma fill), Tablet

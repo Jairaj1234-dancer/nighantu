@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Ksheerapaka (milk decoction - primary form), Syrup concentrate, Freeze-dried powder for reconstitution, Softgel capsules of concentrated form

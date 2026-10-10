@@ -56,15 +56,6 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 - Non-irritant on skin (confirmed in preclinical safety evaluation on rabbit skin). Well-tolerated for topical wound application. In vitro studies confirm antimicrobial activity without cytotoxicity to human fibroblasts at therapeutic concentrations.
 - Not for internal consumption. Avoid on deep puncture wounds or severely infected wounds requiring surgical intervention. Large multicenter trials and pharmacokinetic studies of topical absorption are still needed for complete safety characterization. Formulation parameter standardization is an ongoing area of research.
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (medicated oil for topical application), Spray (modern), Gel (modern)

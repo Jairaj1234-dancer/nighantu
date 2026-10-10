@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)

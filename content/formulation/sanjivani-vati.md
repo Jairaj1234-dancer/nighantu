@@ -46,23 +46,12 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) and Shuddha Bhallataka (purified marking nut) which are toxic in unpurified form - MUST be prepared strictly according to classical Shodhana protocols; use only under qualified Ayurvedic physician supervision
 - Contraindicated in pregnancy, lactation, and young children; avoid in Pitta-predominant conditions; therapeutic dose must be strictly adhered to; overdose can be dangerous; not for self-medication or OTC purchase; short-term use during acute conditions recommended
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

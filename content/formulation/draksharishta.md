@@ -59,15 +59,6 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 - Contraindicated in diabetes mellitus due to jaggery content that may spike blood sugar levels. Pregnant women and lactating mothers should consult a doctor before use.
 - Contains self-generated alcohol; patients with liver disease, alcohol sensitivity, or those on hepatotoxic medications should exercise caution. Overuse may cause loose stools.
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta (fermented decoction), Syrup (modern)

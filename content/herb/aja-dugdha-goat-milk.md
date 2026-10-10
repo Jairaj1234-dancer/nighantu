@@ -64,15 +64,6 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 - Must be pasteurized to eliminate Brucella, Listeria, and other zoonotic pathogens; raw goat milk carries infection risk
 - Lower [folate](/glossary/compounds-d-g/#folate) and vitamin B12 content than cow milk; supplementation may be needed in exclusive goat milk diets for infants
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh milk, Boiled milk, Medicated milk (Kshirapaka)

@@ -34,15 +34,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Aragvadhadi-
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwath/Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)

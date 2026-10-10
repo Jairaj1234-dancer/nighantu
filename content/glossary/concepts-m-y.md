@@ -69,8 +69,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
 ### Phenolics
 
 - Vitexin
@@ -134,8 +132,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
 ### Mineral/Elemental Profile
 
 - **Lead oxide (PbO):** Major component (traditionally)
@@ -182,15 +178,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Lavana (medicated salt)
@@ -229,15 +216,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -280,15 +258,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Fresh butter, Medicated butter
@@ -327,15 +296,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -378,15 +338,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
@@ -427,15 +378,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -478,15 +420,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
@@ -527,15 +460,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Snigdha, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -578,15 +502,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -627,15 +542,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -678,15 +584,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -727,15 +624,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -778,15 +666,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -827,15 +706,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -937,15 +807,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -987,15 +848,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole bean, Cooked dal
@@ -1032,15 +884,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1083,15 +926,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -1132,15 +966,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1225,15 +1050,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Bhasma, Churna, External paste
@@ -1272,15 +1088,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Guna** (Quality) | Tikshna, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1323,15 +1130,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
@@ -1373,15 +1171,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, Lepa (external paste)
@@ -1420,8 +1209,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 | Language | Name |
 |----------|------|
 | English | [Sesame Oil](/glossary/concepts-m-y/#tila-taila) |
-
-#### What is it made of?
 
 ### Key Active Markers
 
@@ -1481,15 +1268,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, [Phanita](/glossary/concepts-m-y/#phanita) (syrup)
@@ -1528,8 +1306,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | Language | Name |
 |----------|------|
 | English | Shallaki_Herb |
-
-#### What is it made of?
 
 ### Key Active Markers
 
@@ -1587,15 +1363,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -1636,15 +1403,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1687,15 +1445,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -1736,15 +1485,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1827,15 +1567,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
@@ -1876,15 +1607,6 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -1953,15 +1675,6 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
@@ -2003,15 +1716,6 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
@@ -2050,15 +1754,6 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 | **Guna** (Quality) | Guru, Snigdha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2128,15 +1823,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Shuddha Tuttha (purified copper sulfate), External application
@@ -2175,15 +1861,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2226,15 +1903,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Fresh camel milk, Dried camel milk powder
@@ -2273,15 +1941,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2324,15 +1983,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
@@ -2374,15 +2024,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
@@ -2423,8 +2064,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Guna** (Quality) | Laghu | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Mineral/Elemental Profile
 
@@ -2471,15 +2110,6 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2586,15 +2216,6 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
@@ -2635,15 +2256,6 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 | **Guna** (Quality) | Guru | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2705,8 +2317,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 |----------|------|
 | English | Vite_React_Shadcn_Ts |
 
-#### What is it made of?
-
 ### Flavonoids
 
 - Quercetin
@@ -2751,15 +2361,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole grain rice, Laja (puffed rice), Tandulodaka (rice water), Peya/Manda (rice gruel)
@@ -2798,15 +2399,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 | **Guna** (Quality) | Laghu, Tikshna | Physical quality |
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
-
-#### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 #### Dosage forms and preparation
 
@@ -2890,8 +2482,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 | **Guna** (Quality) | Snigdha | Physical quality |
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
-
-#### What is it made of?
 
 ### Mineral/Elemental Profile
 

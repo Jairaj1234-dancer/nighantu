@@ -45,23 +45,12 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Contains 5-10% self-generated alcohol. Generally safe at standard dosage. May cause excessive urination at higher doses; maintain adequate hydration.
 - Patients on diuretic or [antihypertensive](/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

@@ -44,23 +44,12 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
 - Generally safe for external application (Abhyanga, Basti, Nasya). Balanced formulation suitable for regular use. Mild skin warmth is normal after application. Patch test recommended for sensitive individuals. No significant drug interactions for external use reported.
 - Internal administration (Basti, oral use) should only be under Ayurvedic practitioner supervision. Not recommended during acute Pitta flare-ups or fever. Caution in individuals on anticoagulant or anti-inflammatory medications. The Maha Narayana version is more potent but also heavier and less suitable for daily use.
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

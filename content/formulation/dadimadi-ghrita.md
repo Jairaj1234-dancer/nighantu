@@ -46,8 +46,6 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## What do recent clinical trials show?
 
-
-
 *3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
@@ -55,15 +53,6 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 - Multicenter clinical study confirms safety in 103 patients over 12-week period; all safety parameters within normal range; no adverse drug reactions or events reported
 - Safe for use during pregnancy for anemia management at 10ml daily for 30 days with no fetal or maternal side effects
 - Standardized as per Ayurvedic Pharmacopoeia of India; procured from GMP-certified pharmaceutical industries
-
-## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 
