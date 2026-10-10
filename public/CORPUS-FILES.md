@@ -20,8 +20,8 @@ source tree rather than the data. This version deposits each dataset as its own 
 
 For every cited paper, the most openly readable copy that could be found: open-access full text where it exists, then PubMed Central, then the DOI.
 
-- 3.73 MB
-- sha256 `ddfbc3d68707f7ca8504b031742160caf125f29aab3cc24785b7cf94fe058d1e`
+- 3.89 MB
+- sha256 `9795faedbbcca66db0c8d9fd1421c86b240e2df548ab125c53018d2290eb2919`
 - live copy: https://nighantu.ageayurveda.com/access.json
 
 ### `afi-crosswalk.csv`
@@ -60,8 +60,8 @@ What Indian Ayurvedic manufacturers publish about their own products, measured a
 
 Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.
 
-- 0.21 MB
-- sha256 `1ec3f96c1466270d729e938a0634df8cd9f2f412ff986f159109ea0a1d696fba`
+- 0.20 MB
+- sha256 `da740c93296b89f714ad8ed249d22d91a6c09230d99787c11e686116066d4fb6`
 - live copy: https://nighantu.ageayurveda.com/chemistry.json
 
 ### `composition.csv`
@@ -84,16 +84,16 @@ The ingredient composition of the classical formulations transcribed from the Ay
 
 The constituents as a table, one row per constituent per monograph.
 
-- 0.31 MB, 838 data rows
-- sha256 `8f64639c62a1f4a59537ef4a8aadb6ba0a6ae3ca90d0e0c2716aac7a2416a32b`
+- 0.32 MB, 849 data rows
+- sha256 `ccc7157fa6349ff8424437adfaa646e84e109e2e780c656b1320ffa95e8ef720`
 - live copy: https://nighantu.ageayurveda.com/compounds.csv
 
 ### `compounds.json`
 
 Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.
 
-- 1.80 MB
-- sha256 `7fc8aa46208611984e534bb39b5819c970d8ba6530f0ab04647d8fbd9751708b`
+- 1.81 MB
+- sha256 `f72708294309f7f63f6ada43e6e3cb37bfb4e818166e6966cfc07753ae63a4e9`
 - live copy: https://nighantu.ageayurveda.com/compounds.json
 
 ### `concepts.csv`
@@ -228,16 +228,16 @@ The botanical taxonomy as Parquet.
 
 The research index as a table.
 
-- 1.02 MB, 3,372 data rows
-- sha256 `1f1699617b182010c8f31b703a7bd7be9e738a533069f5467704c1e1eb2706a1`
+- 1.07 MB, 3,532 data rows
+- sha256 `d48cd34632155ef73c01f66d020561d5c26d7f97036e82bf9650ff2c77c1620a`
 - live copy: https://nighantu.ageayurveda.com/research.csv
 
 ### `research.json`
 
 Research papers cited across the site, each with its PubMed ID or DOI, the monographs that cite it, and a tier recording what kind of study it is rather than a verdict on it.
 
-- 2.01 MB
-- sha256 `621c375dda0cd44da57dd60951dd9116a5735c21456e1d3e5d099cb34e7159e3`
+- 2.10 MB
+- sha256 `980feb1e513e91d40673f679fca4a4ee8851858d9cbac857602d6a784b16bc44`
 - live copy: https://nighantu.ageayurveda.com/research.json
 
 ### `taxonomy.json`
@@ -253,7 +253,7 @@ Botanical names resolved against GBIF, each carrying the match type so a fuzzy h
 The editorial verification ledger: what was checked, by what method, and what was rejected, with the counts computed from the run artefacts rather than stated.
 
 - 0.03 MB
-- sha256 `5a4dd508fdddfd2d271f1cf39c2c15d6d018d9daf4357215bace790243068a0e`
+- sha256 `6ad162a4eb97393d0b9c13b4dc69f48ba6f62fbab8477799da0d235b96234fa8`
 - live copy: https://nighantu.ageayurveda.com/verification.json
 
 ### `verse-numbering.csv`
