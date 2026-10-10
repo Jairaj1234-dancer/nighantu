@@ -8295,12 +8295,6 @@
           ]
         },
         {
-          "name": "r —",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
           "name": "Sataparva",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
@@ -12426,10 +12420,11 @@
     "herb/kakamachi": {
       "sa": [
         {
-          "name": "Dhvanksamac i",
+          "name": "Dhvanksamaci",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Dhvanksamac i"
         },
         {
           "name": "काकमाची",
@@ -15054,14 +15049,6 @@
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
-      ],
-      "ks": [
-        {
-          "name": "—",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
       ]
     },
     "herb/kharjura": {
@@ -15206,10 +15193,11 @@
       ],
       "or": [
         {
-          "name": "Khejur i",
+          "name": "Khejuri",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Khejur i"
         }
       ]
     },
@@ -18276,10 +18264,11 @@
           "iast": "madhurikā"
         },
         {
-          "name": "Mi si",
+          "name": "Misi",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
-          ]
+          ],
+          "repairedFrom": "Mi si"
         }
       ],
       "hi": [
@@ -19142,20 +19131,6 @@
         },
         {
           "name": "Tamranagkesar",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        }
-      ],
-      "ur": [
-        {
-          "name": "connective and filament; coppery or golden",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India"
-          ]
-        },
-        {
-          "name": "Stamen consists of anther",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
           ]
@@ -21722,10 +21697,11 @@
     "herb/patha": {
       "sa": [
         {
-          "name": "Ambasthak i",
+          "name": "Ambasthaki",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Ambasthak i"
         }
       ],
       "hi": [
@@ -22705,10 +22681,11 @@
       ],
       "ml": [
         {
-          "name": "Mural mar am",
+          "name": "Mural maram",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Mural mar am"
         },
         {
           "name": "Priyaalam",
@@ -26485,18 +26462,20 @@
       ],
       "or": [
         {
-          "name": "Bhuin Ami a",
+          "name": "Bhuin Amia",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Bhuin Ami a"
         }
       ],
       "as": [
         {
-          "name": "Bhuin Ami a",
+          "name": "Bhuin Amia",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
-          ]
+          ],
+          "repairedFrom": "Bhuin Ami a"
         }
       ]
     },
@@ -26799,10 +26778,11 @@
       ],
       "mr": [
         {
-          "name": "T emburni",
+          "name": "Temburni",
           "sources": [
             "Ayurvedic Pharmacopoeia of India"
-          ]
+          ],
+          "repairedFrom": "T emburni"
         }
       ],
       "bn": [

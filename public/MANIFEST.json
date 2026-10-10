@@ -7,7 +7,7 @@
   "site": "https://nighantu.ageayurveda.com",
   "datasetsPage": "https://nighantu.ageayurveda.com/datasets/",
   "fileCount": 32,
-  "totalBytes": 21070055,
+  "totalBytes": 21054379,
   "files": [
     {
       "file": "access.json",
@@ -57,8 +57,8 @@
     {
       "file": "chemistry.json",
       "sourcePath": "chemistry.json",
-      "bytes": 213827,
-      "sha256": "607698fb8bf528edc60c5150ad7cb74a3e1250b615fe293391bdc5f46b446db0",
+      "bytes": 217813,
+      "sha256": "3af1869aa09ae02e8f336a5054e7752f7f1cc0e2532c5071aeb8d07cff347e41",
       "csvRows": null,
       "describes": "Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.",
       "liveAt": "https://nighantu.ageayurveda.com/chemistry.json"
@@ -84,17 +84,17 @@
     {
       "file": "compounds.csv",
       "sourcePath": "compounds.csv",
-      "bytes": 316531,
-      "sha256": "059c444128df5517a2336432d29156d96d94bd0281a9fe40b3fbc1c2520dedfa",
-      "csvRows": 849,
+      "bytes": 313788,
+      "sha256": "9f6be05f8b8e475aadb7e02dd7ac2d3eef3cb43d9ecb4c719c3baecdbc859ee7",
+      "csvRows": 838,
       "describes": "The constituents as a table, one row per constituent per monograph.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.csv"
     },
     {
       "file": "compounds.json",
       "sourcePath": "compounds.json",
-      "bytes": 1878111,
-      "sha256": "0050c9246e12ecc773bc31e35ed6cbb008e5f20a24aa0a5d8d02bb20b709898f",
+      "bytes": 1861192,
+      "sha256": "db039f5306c4e5e196b23302b43002aeed91ef8e1a62a9afbe969d79ca335d97",
       "csvRows": null,
       "describes": "Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.json"
