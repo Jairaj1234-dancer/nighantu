@@ -95,4 +95,27 @@ states doses.
 None of this was reported to us. It was found by checking our own dose attributions against the
 formulary, and it is logged here because a correction nobody reported still changed what the pages
 say.
+
+### 10 October 2026: what the DOI resolves to, restated
+
+<a href={rel('/datasets/')}>Datasets</a> carried a paragraph warning, against our own interest,
+that the concept DOI resolved to a single 7.5&nbsp;MB archive of this project's repository rather
+than to the data files, that no dataset had a DOI of its own, and that depositing the files was a
+known gap not yet closed. That was accurate when written. It stopped being accurate on 10 October
+2026, when v2.0.0 of the deposit replaced the archive with the 34 files themselves, each separately
+downloadable, and the paragraph now describes that instead.
+
+Two things did not change and the paragraph still says so. No dataset here has a DOI minted for it
+alone, because a file being separately downloadable is not the same as a file being separately
+identified, so the DOI continues to identify the work that contains these datasets rather than any
+one of them. And the direct downloads on the page remain the same bytes as the archived copies,
+checkable against the <a href={rel('/MANIFEST.json')}>manifest</a>'s sha256 for each file.
+
+Logged because the old paragraph was a disclosure of a weakness, and quietly deleting a disclosure
+once the weakness is fixed leaves no way to tell that it was ever disclosed. It was also nearly
+rewritten a day early, on the belief that the deposit had been published when the public record
+still showed one version holding one zip. <code>scripts/zenodo-claim.mjs</code> now reads the
+claim out of the page, compares it against the live deposit on every build, and fails the build
+when the two disagree, so the next time this page goes stale the build says so rather than a
+person remembering to look.
 </Page>

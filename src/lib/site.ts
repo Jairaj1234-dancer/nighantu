@@ -48,12 +48,16 @@ export const CRAWLERS = [
 /**
  * The project's persistent identifier, and what it actually identifies.
  *
- * This is a Zenodo CONCEPT DOI: it resolves to the deposit titled "Age Ayurveda Nighantu: a
- * referenced encyclopedia of Ayurvedic materia medica", v1.0.0, whose single file is a 7.5 MB
- * archive of the repository. So it identifies the WORK that contains every dataset here, not any
- * one of them, and no dataset on this site has a DOI minted for it alone. That distinction is why
- * `datasetIdentity` below emits the DOI alongside `isPartOf` pointing at the catalogue, rather
- * than letting `identifier` imply a per-dataset mint it has not earned.
+ * This is a Zenodo CONCEPT DOI: it resolves to the newest version of the deposit titled "Age
+ * Ayurveda Nighantu: a referenced encyclopedia of Ayurvedic materia medica", which since 10 October
+ * 2026 is v2.0.0 and holds the 34 data files themselves rather than the repository zip v1.0.0 held.
+ *
+ * THE DISTINCTION THE FILES DO NOT CHANGE. It still identifies the WORK that contains every dataset
+ * here, not any one of them, because no dataset on this site has a DOI minted for it alone: a file
+ * being separately downloadable is not a file being separately identified. That is why
+ * `datasetIdentity` below emits the DOI alongside `isPartOf` pointing at the catalogue, rather than
+ * letting `identifier` imply a per-dataset mint it has not earned. scripts/zenodo-claim.mjs checks
+ * the live deposit against what /datasets/ says it contains, so this comment cannot go stale alone.
  *
  * Google's Dataset documentation names `identifier` as where to "attach any relevant Digital
  * Object identifiers", and its documented consumers are Dataset Search, DataCite Commons and

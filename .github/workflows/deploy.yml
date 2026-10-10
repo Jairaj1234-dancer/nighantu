@@ -54,6 +54,14 @@ jobs:
       - name: Verse-numbering crosswalk agrees with its dataset
         run: node scripts/verse-numbering.mjs --check
 
+      # /datasets/ describes its own archive, and nothing in a static build has any reason to look
+      # at Zenodo, so that description goes stale silently. It nearly did: a v2.0.0 draft was
+      # believed published while the public record still showed one version holding one zip. The
+      # gate reads the claim out of the page and exits 0 with a printed notice when Zenodo is
+      # unreachable, so somebody else's outage cannot block a deploy.
+      - name: /datasets/ describes the deposit the DOI resolves to
+        run: node scripts/zenodo-claim.mjs --check
+
       # The safety schema is the gate on the highest-consequence content on the site,
       # so its negative tests run in CI rather than only on a developer's machine.
       - name: Safety schema tests
