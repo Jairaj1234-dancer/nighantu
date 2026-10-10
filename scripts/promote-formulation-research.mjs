@@ -43,6 +43,23 @@ if (!CAND || !fs.existsSync(CAND)) {
   process.exit(1);
 }
 
+/**
+ * ALIASES REDIRECT TO THEIR PRIMARY.
+ *
+ * src/data/duplicates.json declares pages that are the same drug under another name; the alias
+ * carries a canonical pointing at the primary, so a citation attached to the alias lands on the
+ * page retrieval indexes are told not to prefer.
+ *
+ * This is not hypothetical. The agent-proposed name run offered PMID 42094960 to
+ * kumkumadi-thailam, which is an alias of kumkumadi-tailam, and the primary already held it: the
+ * attachment would have been pure duplication onto a non-canonical page. Earlier today the same
+ * fault had to be repaired by hand on kalyanaka-ghritam. Doing it here means it cannot recur.
+ */
+const ALIASES = path.join('src', 'data', 'duplicates.json');
+const aliasOf = fs.existsSync(ALIASES)
+  ? JSON.parse(fs.readFileSync(ALIASES, 'utf8')).aliases ?? {}
+  : {};
+
 const doc = JSON.parse(fs.readFileSync(CITATIONS, 'utf8'));
 const pages = doc.pages ?? {};
 const cand = JSON.parse(fs.readFileSync(CAND, 'utf8'));
@@ -64,9 +81,16 @@ const added = [];
 const refusedBlocked = [];
 let pagesTouched = 0;
 
-for (const [key, entry] of Object.entries(cand.pages ?? {})) {
-  const slug = key.split('/')[1];
-  if (ONLY.length && !ONLY.includes(slug)) continue;
+const redirected = [];
+for (const [rawKey, entry] of Object.entries(cand.pages ?? {})) {
+  const rawSlug = rawKey.split('/')[1];
+  if (ONLY.length && !ONLY.includes(rawSlug)) continue;
+
+  // Send it to the primary, not the alias.
+  const primary = aliasOf[rawSlug]?.primary;
+  const slug = primary ?? rawSlug;
+  const key = primary ? `formulation/${primary}` : rawKey;
+  if (primary) redirected.push(`${rawSlug} -> ${primary}`);
 
   const target = pages[key];
   if (!target) {
@@ -122,6 +146,9 @@ console.log(`Candidates file: ${CAND}`);
 console.log(`  prospected on   ${cand.prospectedOn ?? 'unknown'}`);
 console.log(`  pages offered   ${Object.keys(cand.pages ?? {}).length}`);
 if (ONLY.length) console.log(`  restricted to   ${ONLY.join(', ')}`);
+if (redirected.length) {
+  console.log(`\nRedirected to primaries, because the target is an alias: ${redirected.join(', ')}`);
+}
 console.log(`\nWould attach ${added.length} papers across ${pagesTouched} pages:\n`);
 
 const byKey = {};

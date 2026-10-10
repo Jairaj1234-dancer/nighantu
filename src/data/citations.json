@@ -43,7 +43,58 @@
   "formulation/ajamodadi-churna": {
    "title": "Ajamodadi Churna",
    "binomial": "",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "37799617",
+     "doi": "10.3831/KPI.2023.26.3.257",
+     "title": "Antiarthritic Activity and Inflammatory Mediators Modulation Effect of Traditional Ajmodadi Churna on Arthritis Experimental Model",
+     "journal": "Journal of pharmacopuncture",
+     "year": 2023,
+     "authors": [
+      "Sharma V",
+      "Shukla SS",
+      "Gidwani B",
+      "Pandey RK"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37799617/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ajmodadi Churna"
+    },
+    {
+     "pmid": "21808548",
+     "doi": "10.4103/0974-8490.62957",
+     "title": "Standardization of Ajmodadi churna, a polyherbal formulation",
+     "journal": "Pharmacognosy research",
+     "year": 2010,
+     "authors": [
+      "Sriwastava NK",
+      "Shreedhara CS",
+      "Aswatha Ram HN"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21808548/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ajmodadi Churna"
+    },
+    {
+     "pmid": "22529678",
+     "doi": "10.4103/0975-9476.93946",
+     "title": "Anti-inflammatory activity of Ajmodadi Churna extract against acute inflammation in rats",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2012,
+     "authors": [
+      "Ram HN",
+      "Sriwastava NK",
+      "Makhija IK",
+      "Shreedhara CS"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22529678/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ajmodadi Churna"
+    }
+   ]
   },
   "formulation/amalaka-rasayana": {
    "title": "Amalaka Rasayana",
@@ -339,7 +390,7 @@
     {
      "pmid": "35025137",
      "doi": "10.1111/jam.15451",
-     "title": "Anu taila, an herbal nasal drop, suppresses mucormycosis by regulating host TNF-\u03b1 response and fungal ergosterol biosynthesis",
+     "title": "Anu taila, an herbal nasal drop, suppresses mucormycosis by regulating host TNF-α response and fungal ergosterol biosynthesis",
      "journal": "Journal of applied microbiology",
      "year": 2022,
      "authors": [
@@ -1656,16 +1707,16 @@
      "journal": "Clinical oral investigations",
      "year": 2025,
      "authors": [
-      "Pardi\u00f1as L\u00f3pez S",
-      "Garc\u00eda-Caro ME",
+      "Pardiñas López S",
+      "García-Caro ME",
       "Vallejo JA",
       "Aja-Macaya P",
-      "Conde-P\u00e9rez K",
-      "Ni\u00f3n-Cabeza P",
+      "Conde-Pérez K",
+      "Nión-Cabeza P",
       "Khouly I",
       "Bou G",
       "Cendal AIR",
-      "D\u00edaz-Prado S",
+      "Díaz-Prado S",
       "Poza M"
      ],
      "tier": "B",
@@ -2601,7 +2652,41 @@
   "formulation/kaishore-guggul": {
    "title": "Kaishore Guggul",
    "binomial": "",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "22048531",
+     "doi": "10.4103/0974-8520.82027",
+     "title": "A comparative study of Kaishora Guggulu and Amrita Guggulu in the management of Utthana Vatarakta",
+     "journal": "Ayu",
+     "year": 2010,
+     "authors": [
+      "Ramachandran AP",
+      "Prasad SM",
+      "Prasad UN",
+      "Jonah S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22048531/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kaishora Guggulu"
+    },
+    {
+     "pmid": "31831969",
+     "doi": "10.4103/ayu.AYU_244_18",
+     "title": "A case study on the management of dry gangrene by Kaishore Guggulu, Sanjivani Vati and Dashanga Lepa",
+     "journal": "Ayu",
+     "year": 2019,
+     "authors": [
+      "Bharati PL",
+      "Agrawal P",
+      "Prakash O"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31831969/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kaishor Guggulu"
+    }
+   ]
   },
   "formulation/kalyanaka-ghrita": {
    "title": "Kalyanaka Ghrita",
@@ -2628,7 +2713,7 @@
     {
      "pmid": "36055476",
      "doi": "10.1016/j.jep.2022.115671",
-     "title": "Standardization and Ameliorative effect of Kalyanaka ghrita in \u03b2-amyloid induced memory impairment in wistar rats",
+     "title": "Standardization and Ameliorative effect of Kalyanaka ghrita in β-amyloid induced memory impairment in wistar rats",
      "journal": "Journal of ethnopharmacology",
      "year": 2023,
      "authors": [
@@ -2719,7 +2804,7 @@
     {
      "pmid": "36055476",
      "doi": "10.1016/j.jep.2022.115671",
-     "title": "Standardization and Ameliorative effect of Kalyanaka ghrita in \u03b2-amyloid induced memory impairment in wistar rats",
+     "title": "Standardization and Ameliorative effect of Kalyanaka ghrita in β-amyloid induced memory impairment in wistar rats",
      "journal": "Journal of ethnopharmacology",
      "year": 2023,
      "authors": [
@@ -2909,7 +2994,41 @@
   "formulation/kshirabala-thailam": {
    "title": "Kshirabala Thailam",
    "binomial": "",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "22556766",
+     "doi": "",
+     "title": "Standardisation of ksheerabala taila",
+     "journal": "Ancient science of life",
+     "year": 1996,
+     "authors": [
+      "Rao VN",
+      "Shankar T",
+      "Dixit SK",
+      "Ray AB"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22556766/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ksheerabala Taila"
+    },
+    {
+     "pmid": "25558159",
+     "doi": "10.4103/0974-8520.146225",
+     "title": "Effect of anuvasana basti with ksheerabala taila in sandhigata vata (osteoarthritis)",
+     "journal": "Ayu",
+     "year": 2014,
+     "authors": [
+      "Grampurohit PL",
+      "Rao N",
+      "Harti SS"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25558159/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ksheerabala Taila"
+    }
+   ]
   },
   "formulation/kulathadi-kwath": {
    "title": "Kulathadi Kwath",
@@ -3266,7 +3385,95 @@
   "formulation/narayana-thailam": {
    "title": "Narayana Thailam",
    "binomial": "",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "24049410",
+     "doi": "10.4103/0974-8520.115453",
+     "title": "Role of Nasya and Matra Basti with Narayana Taila on anovulatory factor",
+     "journal": "Ayu",
+     "year": 2013,
+     "authors": [
+      "Donga KR",
+      "Donga SB",
+      "Dei LP"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24049410/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Narayana Taila"
+    },
+    {
+     "pmid": "40215578",
+     "doi": "10.1016/j.jaim.2024.101077",
+     "title": "Evaluation of Yograj Guggulu, Ashwagandha Churna and Narayana Taila in management of Osteoarthritis Knee: A study in tribal dominant community",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2025,
+     "authors": [
+      "Kachare K",
+      "Makhija D",
+      "Sharma A",
+      "Sunita",
+      "Srikanth N",
+      "Sharma BS",
+      "Rana R",
+      "Tripathi A",
+      "Rao BCS",
+      "Panda P",
+      "Ekta",
+      "Naik R",
+      "Nishanth K",
+      "Shekhar Namburi UR",
+      "Tiwari V",
+      "Singh SB",
+      "Monika",
+      "Srinivas P",
+      "Sharma V",
+      "Avhad A",
+      "Sinha A",
+      "Ravte R",
+      "Lal A",
+      "Rao K",
+      "Mashram P",
+      "Doddamani SH",
+      "Gopad S",
+      "Priya",
+      "Tiwari D",
+      "Mangal A",
+      "Kumawat VB",
+      "Prameela K",
+      "Subhash",
+      "Ram J",
+      "Sahu SK",
+      "Niral S",
+      "Abhaydev"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40215578/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Narayana Taila"
+    },
+    {
+     "pmid": "28757225",
+     "doi": "10.1016/j.jaim.2017.02.001",
+     "title": "Clinical evaluation of Vatari guggulu, Maharasnadi kwatha and Narayan taila in the management of osteoarthritis knee",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2017,
+     "authors": [
+      "Mangal A",
+      "Shubhasree MN",
+      "Devi P",
+      "Jadhav AD",
+      "Prasad SA",
+      "Kumar K",
+      "Otta S",
+      "Dhiman KS"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28757225/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Narayana Taila"
+    }
+   ]
   },
   "formulation/neelibringadi-thailam": {
    "title": "Neelibringadi Thailam",
@@ -3553,7 +3760,24 @@
   "formulation/punarnavasava": {
    "title": "Punarnavasava",
    "binomial": "",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "10927868",
+     "doi": "",
+     "title": "Antianaemic properties of ayurvedic drugs, raktavardhak, punarnavasav and navayas louh in albino rats during phenylhydrazine induced haemolytic anaemia",
+     "journal": "Indian journal of experimental biology",
+     "year": 2000,
+     "authors": [
+      "Patil S",
+      "Kanase A",
+      "Kulkarni PH"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/10927868/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Punarnavasav"
+    }
+   ]
   },
   "formulation/pushyanuga-churna": {
    "title": "Pushyanuga Churna",
@@ -3909,7 +4133,7 @@
      "year": 2018,
      "authors": [
       "Tarasiuk A",
-      "Mosi\u0144ska P",
+      "Mosińska P",
       "Fichna J"
      ],
      "tier": "C",
@@ -5505,8 +5729,8 @@
       "Herrera-Bravo J",
       "Pentea M",
       "Sarac I",
-      "K\u00fc\u015f\u00fcmler AS",
-      "\u00d6z\u00e7elik B",
+      "Küşümler AS",
+      "Özçelik B",
       "Painuli S",
       "Semwal P",
       "Imran M",
@@ -5566,7 +5790,7 @@
      "journal": "Forensic science international",
      "year": 2019,
      "authors": [
-      "Mart\u00ednez MA",
+      "Martínez MA",
       "Ballesteros S"
      ],
      "tier": "C",
@@ -5776,10 +6000,10 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "Ja\u017eo Z",
+      "Jažo Z",
       "Glumac M",
-      "Pa\u0161tar V",
-      "Bekti\u0107 S",
+      "Paštar V",
+      "Bektić S",
       "Radan M",
       "Carev I"
      ],
@@ -5817,10 +6041,10 @@
      "journal": "Foods (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "G\u00e1l R",
-      "\u010cmikov\u00e1 N",
-      "Prokopov\u00e1 A",
-      "Ka\u010d\u00e1niov\u00e1 M"
+      "Gál R",
+      "Čmiková N",
+      "Prokopová A",
+      "Kačániová M"
      ],
      "pubtypes": [
       "Journal Article"
@@ -6070,9 +6294,9 @@
       "Brauning FZ",
       "Ogungbemiro FO",
       "Palma BB",
-      "D\u00edaz-Lanza AM",
+      "Díaz-Lanza AM",
       "Hassan A",
-      "Andr\u00e9 R",
+      "André R",
       "Rijo P"
      ],
      "pubtypes": [
@@ -6248,10 +6472,10 @@
       "Yanza YR",
       "Szumacher-Strabel M",
       "Lechniak D",
-      "\u015alusarczyk S",
+      "Ślusarczyk S",
       "Kolodziejski P",
       "Patra AK",
-      "V\u00e1radyov\u00e1 Z",
+      "Váradyová Z",
       "Lisiak D",
       "Vazirigohar M",
       "Cieslak A"
@@ -6270,8 +6494,8 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2021,
      "authors": [
-      "\u015alusarczyk S",
-      "Cie\u015blak A",
+      "Ślusarczyk S",
+      "Cieślak A",
       "Yanza YR",
       "Szumacher-Strabel M",
       "Varadyova Z",
@@ -6355,7 +6579,7 @@
     {
      "pmid": "27166709",
      "doi": "10.1007/s10072-016-2600-3",
-     "title": "Trachyspermum ammi 10\u00a0% topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial",
+     "title": "Trachyspermum ammi 10 % topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial",
      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
      "year": 2016,
      "authors": [
@@ -7051,9 +7275,9 @@
      "journal": "Antioxidants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "\u017burek N",
+      "Żurek N",
       "Pycia K",
-      "Paw\u0142owska A",
+      "Pawłowska A",
       "Kapusta IT"
      ],
      "pubtypes": [
@@ -7070,13 +7294,13 @@
      "journal": "Frontiers in plant science",
      "year": 2022,
      "authors": [
-      "\u0110or\u0111evi\u0107 T",
-      "\u0110urovi\u0107-Pej\u010dev R",
-      "Stevanovi\u0107 M",
-      "Sari\u0107-Krsmanovi\u0107 M",
-      "Radivojevi\u0107 L",
-      "\u0160antri\u0107 L",
-      "Gaji\u0107-Umiljendi\u0107 J"
+      "Đorđević T",
+      "Đurović-Pejčev R",
+      "Stevanović M",
+      "Sarić-Krsmanović M",
+      "Radivojević L",
+      "Šantrić L",
+      "Gajić-Umiljendić J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -7354,7 +7578,7 @@
       "Jotic A",
       "Savic Vujovic K",
       "Cirkovic A",
-      "Bo\u017ei\u0107 DD",
+      "Božić DD",
       "Brkic S",
       "Subotic N",
       "Bukurov B",
@@ -7676,7 +7900,7 @@
     },
     {
      "pmid": "41003161",
-     "title": "Community Structure Diversity of Endophytic Fungi in Cissampelos pareira from Different Habitats and Their \u03b1-Glucosidase Inhibitory Activity",
+     "title": "Community Structure Diversity of Endophytic Fungi in Cissampelos pareira from Different Habitats and Their α-Glucosidase Inhibitory Activity",
      "journal": "Journal of fungi (Basel, Switzerland)",
      "year": 2025,
      "authors": [
@@ -8014,7 +8238,7 @@
       "Raposo A",
       "Saraiva A",
       "Han H",
-      "Rom\u00e3o B",
+      "Romão B",
       "Lisboa P",
       "Moreira P",
       "Islam MT"
@@ -8111,8 +8335,8 @@
       "Shah MA",
       "Nageen B",
       "Jabeen F",
-      "Selamo\u011flu Z",
-      "U\u00e7ak \u0130",
+      "Selamoğlu Z",
+      "Uçak İ",
       "Asrar M",
       "Adem S"
      ],
@@ -8122,7 +8346,7 @@
     },
     {
      "pmid": "38218505",
-     "title": "The potential anti-Alzheimer's activity of Oxalis corniculata Linn. Methanolic extract in experimental rats: Role of APOE4/LRP1, TLR4/NF-\u03ba\u03b2/NLRP3, Wnt 3/\u03b2-catenin/GSK-3\u03b2, autophagy and apoptotic cues",
+     "title": "The potential anti-Alzheimer's activity of Oxalis corniculata Linn. Methanolic extract in experimental rats: Role of APOE4/LRP1, TLR4/NF-κβ/NLRP3, Wnt 3/β-catenin/GSK-3β, autophagy and apoptotic cues",
      "journal": "Journal of ethnopharmacology",
      "year": 2024,
      "authors": [
@@ -8465,7 +8689,7 @@
     },
     {
      "pmid": "38459792",
-     "title": "\u03b1-Glucosidase Inhibitory Components from Garcinia pedunculata Fruits",
+     "title": "α-Glucosidase Inhibitory Components from Garcinia pedunculata Fruits",
      "journal": "Chemistry & biodiversity",
      "year": 2024,
      "authors": [
@@ -8636,7 +8860,7 @@
       "Lamas CB",
       "Nunes YC",
       "Bechara MD",
-      "Baldi J\u00fanior E",
+      "Baldi Júnior E",
       "Gimenes FB",
       "Barbalho SM"
      ],
@@ -8711,7 +8935,7 @@
      "authors": [
       "Quintana SE",
       "Salas S",
-      "Garc\u00eda-Zapateiro LA"
+      "García-Zapateiro LA"
      ],
      "pubtypes": [
       "Journal Article",
@@ -8761,9 +8985,9 @@
       "Maldonado-Celis ME",
       "Yahia EM",
       "Bedoya R",
-      "Land\u00e1zuri P",
+      "Landázuri P",
       "Loango N",
-      "Aguill\u00f3n J",
+      "Aguillón J",
       "Restrepo B",
       "Guerrero Ospina JC"
      ],
@@ -9211,7 +9435,7 @@
       "Lamas CB",
       "Nunes YC",
       "Bechara MD",
-      "Baldi J\u00fanior E",
+      "Baldi Júnior E",
       "Gimenes FB",
       "Barbalho SM"
      ],
@@ -9286,7 +9510,7 @@
      "authors": [
       "Quintana SE",
       "Salas S",
-      "Garc\u00eda-Zapateiro LA"
+      "García-Zapateiro LA"
      ],
      "pubtypes": [
       "Journal Article",
@@ -9336,9 +9560,9 @@
       "Maldonado-Celis ME",
       "Yahia EM",
       "Bedoya R",
-      "Land\u00e1zuri P",
+      "Landázuri P",
       "Loango N",
-      "Aguill\u00f3n J",
+      "Aguillón J",
       "Restrepo B",
       "Guerrero Ospina JC"
      ],
@@ -10025,7 +10249,7 @@
      "authors": [
       "Meneses C",
       "Valdes-Gonzalez M",
-      "Garrido-Su\u00e1rez BB",
+      "Garrido-Suárez BB",
       "Garrido G"
      ],
      "pubtypes": [
@@ -10265,8 +10489,8 @@
       "Cunha JS",
       "Costa NA",
       "de Oliveira EB",
-      "Leite J\u00fanior BRC",
-      "Vieira \u00c9NR"
+      "Leite Júnior BRC",
+      "Vieira ÉNR"
      ],
      "pubtypes": [
       "Journal Article",
@@ -10596,7 +10820,7 @@
      "year": 2024,
      "authors": [
       "Kajdas AA",
-      "\u017bebrowska A",
+      "Żebrowska A",
       "Zalewska-Janowska A",
       "Czerwonogrodzka-Senczyna A"
      ],
@@ -10698,7 +10922,7 @@
     {
      "pmid": "26008751",
      "doi": "10.1177/2156587215587417",
-     "title": "La\u016bq: A Sustained-Release Dosage Form for Respiratory Disorders in Traditional Persian Medicine",
+     "title": "Laūq: A Sustained-Release Dosage Form for Respiratory Disorders in Traditional Persian Medicine",
      "journal": "Journal of evidence-based complementary & alternative medicine",
      "year": 2016,
      "authors": [
@@ -10783,8 +11007,8 @@
       "Tariq M",
       "Usman M",
       "Saeed S",
-      "Ib\u00e1\u00f1ez-Arancibia E",
-      "R\u00edos-Escalante PL",
+      "Ibáñez-Arancibia E",
+      "Ríos-Escalante PL",
       "Safdar M"
      ],
      "pubtypes": [
@@ -10856,7 +11080,7 @@
     },
     {
      "pmid": "36401276",
-     "title": "Antioxidant and anti-inflammatory activities of Centratherum anthelminticum (L.) Kuntze seed oil in diabetic nephropathy via modulation of Nrf-2/HO-1 and NF-\u03baB pathway",
+     "title": "Antioxidant and anti-inflammatory activities of Centratherum anthelminticum (L.) Kuntze seed oil in diabetic nephropathy via modulation of Nrf-2/HO-1 and NF-κB pathway",
      "journal": "BMC complementary medicine and therapies",
      "year": 2022,
      "authors": [
@@ -10918,7 +11142,7 @@
     },
     {
      "pmid": "22954496",
-     "title": "Anti-diabetic effects of Centratherum anthelminticum seeds methanolic fraction on pancreatic cells, \u03b2-TC6 and its alleviating role in type 2 diabetic rats",
+     "title": "Anti-diabetic effects of Centratherum anthelminticum seeds methanolic fraction on pancreatic cells, β-TC6 and its alleviating role in type 2 diabetic rats",
      "journal": "Journal of ethnopharmacology",
      "year": 2012,
      "authors": [
@@ -11157,7 +11381,7 @@
     },
     {
      "pmid": "28053890",
-     "title": "Medicinal properties of Terminalia arjuna (Roxb.) Wight & Arn.: A\u00a0review",
+     "title": "Medicinal properties of Terminalia arjuna (Roxb.) Wight & Arn.: A review",
      "journal": "Journal of traditional and complementary medicine",
      "year": 2017,
      "authors": [
@@ -11392,7 +11616,7 @@
     },
     {
      "pmid": "28053890",
-     "title": "Medicinal properties of Terminalia arjuna (Roxb.) Wight & Arn.: A\u00a0review",
+     "title": "Medicinal properties of Terminalia arjuna (Roxb.) Wight & Arn.: A review",
      "journal": "Journal of traditional and complementary medicine",
      "year": 2017,
      "authors": [
@@ -12048,7 +12272,7 @@
     {
      "pmid": "36570189",
      "doi": "10.1021/acsomega.2c04283",
-     "title": "In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography-Based Identification of Free Radical Scavenging and \u03b1-Amylase Inhibitory Compounds from Heartwood Extract of Pterocarpus marsupium",
+     "title": "In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography-Based Identification of Free Radical Scavenging and α-Amylase Inhibitory Compounds from Heartwood Extract of Pterocarpus marsupium",
      "journal": "ACS omega",
      "year": 2022,
      "authors": [
@@ -12295,7 +12519,7 @@
     {
      "pmid": "38315510",
      "doi": "10.1080/07391102.2024.2310793",
-     "title": "Aromatase inhibitors identified from Saraca asoca to treat infertility in women with polycystic ovary syndrome via in silico and in\u00a0vivo studies",
+     "title": "Aromatase inhibitors identified from Saraca asoca to treat infertility in women with polycystic ovary syndrome via in silico and in vivo studies",
      "journal": "Journal of biomolecular structure & dynamics",
      "year": 2025,
      "authors": [
@@ -12556,12 +12780,12 @@
      "authors": [
       "Lorca C",
       "Mulet M",
-      "Ar\u00e9valo-Caro C",
-      "Sanchez M\u00c1",
+      "Arévalo-Caro C",
+      "Sanchez MÁ",
       "Perez A",
       "Perrino M",
       "Bach-Faig A",
-      "Aguilar-Mart\u00ednez A",
+      "Aguilar-Martínez A",
       "Vilella E",
       "Gallart-Palau X",
       "Serra A"
@@ -12674,7 +12898,7 @@
      "journal": "Depression and anxiety",
      "year": 2024,
      "authors": [
-      "Pages-Garc\u00eda C",
+      "Pages-García C",
       "De Almagro MC",
       "Ruiz-Moreno J",
       "De Castellar R"
@@ -12690,16 +12914,16 @@
      "journal": "International journal of molecular sciences",
      "year": 2023,
      "authors": [
-      "Wici\u0144ski M",
+      "Wiciński M",
       "Fajkiel-Madajczyk A",
       "Kurant Z",
       "Kurant D",
       "Gryczka K",
       "Falkowski M",
-      "Wi\u015bniewska M",
-      "S\u0142upski M",
+      "Wiśniewska M",
+      "Słupski M",
       "Ohla J",
-      "Zabrzy\u0144ski J"
+      "Zabrzyński J"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/38003702/",
@@ -12716,7 +12940,7 @@
       "Moreno Y",
       "Gho C",
       "Petro JL",
-      "Odriozola-Mart\u00ednez A",
+      "Odriozola-Martínez A",
       "Kreider RB"
      ],
      "tier": "C",
@@ -12848,7 +13072,7 @@
     {
      "pmid": "37869923",
      "doi": "",
-     "title": "Phytochemical profiling and anti-inflammatory, analgesic activity of Ficus religiosa L. and molecular docking study against iNOS, TNF-\u03b1 enzyme",
+     "title": "Phytochemical profiling and anti-inflammatory, analgesic activity of Ficus religiosa L. and molecular docking study against iNOS, TNF-α enzyme",
      "journal": "Pakistan journal of pharmaceutical sciences",
      "year": 2023,
      "authors": [
@@ -13265,7 +13489,7 @@
      "journal": "International journal of molecular sciences",
      "year": 2025,
      "authors": [
-      "Stepie\u0144 AE",
+      "Stepień AE",
       "Trojniak J",
       "Tabarkiewicz J"
      ],
@@ -13348,7 +13572,7 @@
       "Marcou S",
       "Mongelard G",
       "Gutierrez L",
-      "H\u00f6fte M"
+      "Höfte M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -13464,8 +13688,8 @@
      "journal": "Allergologia et immunopathologia",
      "year": 2003,
      "authors": [
-      "Le\u00f3n F",
-      "Rodr\u00edguez M",
+      "León F",
+      "Rodríguez M",
       "Cuevas M"
      ],
      "pubtypes": [
@@ -13755,10 +13979,10 @@
       "Hafez LO",
       "Brito-Casillas Y",
       "Abdelmageed N",
-      "Alem\u00e1n-Cabrera IM",
+      "Alemán-Cabrera IM",
       "Morad SAF",
       "Abdel-Raheem MH",
-      "W\u00e4gner AM"
+      "Wägner AM"
      ],
      "pubtypes": [
       "Journal Article",
@@ -14886,7 +15110,7 @@
      "journal": "Bioresource technology",
      "year": 2020,
      "authors": [
-      "Boubacar Laoug\u00e9 Z",
+      "Boubacar Laougé Z",
       "Merdun H"
      ],
      "pubtypes": [
@@ -15210,7 +15434,7 @@
       "Costa FBD",
       "Pontes KM",
       "Borges TC",
-      "Esp\u00ednola C",
+      "Espínola C",
       "Andrade E Silva AH",
       "Nunes ELG",
       "Alves NT",
@@ -15248,7 +15472,7 @@
       "Castillo-Arellano J",
       "Canseco-Alba A",
       "Cutler SJ",
-      "Le\u00f3n F"
+      "León F"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/37050032/",
@@ -15759,7 +15983,7 @@
     },
     {
      "pmid": "40810078",
-     "title": "Wedelolactone Ameliorates Ischemic Stroke by Inhibiting Oxidative Damage and Ferroptosis via HIF-1\u03b1/SLC7A11/GPX4 Signaling",
+     "title": "Wedelolactone Ameliorates Ischemic Stroke by Inhibiting Oxidative Damage and Ferroptosis via HIF-1α/SLC7A11/GPX4 Signaling",
      "journal": "Drug design, development and therapy",
      "year": 2025,
      "authors": [
@@ -16264,7 +16488,7 @@
       "Zhu H",
       "Wang T",
       "Liang E",
-      "Pe\u00f1uelas J"
+      "Peñuelas J"
      ],
      "pubtypes": [
       "Journal Article",
@@ -16366,7 +16590,7 @@
     },
     {
      "pmid": "31669661",
-     "title": "Betula utilis extract prolongs life expectancy, protects against amyloid-\u03b2 toxicity and reduces Alpha Synuclien in Caenorhabditis elegans via DAF-16 and SKN-1",
+     "title": "Betula utilis extract prolongs life expectancy, protects against amyloid-β toxicity and reduces Alpha Synuclien in Caenorhabditis elegans via DAF-16 and SKN-1",
      "journal": "Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
      "year": 2020,
      "authors": [
@@ -16396,7 +16620,7 @@
      "authors": [
       "Depciuch J",
       "Kasprzyk I",
-      "Drzyma\u0142a E",
+      "Drzymała E",
       "Parlinska-Wojtan M"
      ],
      "pubtypes": [
@@ -16470,9 +16694,9 @@
      "journal": "Pharmaceuticals (Basel, Switzerland)",
      "year": 2024,
      "authors": [
-      "Kie\u0142tyka-Dadasiewicz A",
+      "Kiełtyka-Dadasiewicz A",
       "Esteban J",
-      "Jab\u0142o\u0144ska-Trypu\u0107 A"
+      "Jabłońska-Trypuć A"
      ],
      "pubtypes": [
       "Journal Article",
@@ -16489,11 +16713,11 @@
      "journal": "Clinical, cosmetic and investigational dentistry",
      "year": 2024,
      "authors": [
-      "Cuenca-Le\u00f3n K",
+      "Cuenca-León K",
       "Lima-Illescas M",
       "Pacheco-Quito EM",
-      "V\u00e9lez-Le\u00f3n E",
-      "Zarzuelo-Casta\u00f1eda A"
+      "Vélez-León E",
+      "Zarzuelo-Castañeda A"
      ],
      "pubtypes": [
       "Journal Article",
@@ -16575,7 +16799,7 @@
       "Pontes T",
       "Oliveira FC",
       "Carvalho ECQ",
-      "Gl\u00f3ria LS",
+      "Glória LS",
       "Santos CP"
      ],
      "pubtypes": [
@@ -17017,14 +17241,14 @@
     },
     {
      "pmid": "36903853",
-     "title": "Health-Promoting Properties and Potential Application in the Food Industry of Citrus medica L. and Citrus \u00d7 clementina Hort. Ex Tan. Essential Oils and Their Main Constituents",
+     "title": "Health-Promoting Properties and Potential Application in the Food Industry of Citrus medica L. and Citrus × clementina Hort. Ex Tan. Essential Oils and Their Main Constituents",
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
       "Tundis R",
       "Xiao J",
       "Silva AS",
-      "Carreir\u00f3 F",
+      "Carreiró F",
       "Loizzo MR"
      ],
      "pubtypes": [
@@ -17140,7 +17364,7 @@
     },
     {
      "pmid": "31847295",
-     "title": "Polyphenols, Antioxidant, Antibacterial, and Biofilm Inhibitory Activities of Peel and Pulp of Citrus medica L., Citrus bergamia, and Citrus medica cv. Sal\u00f2 Cultivated in Southern Italy",
+     "title": "Polyphenols, Antioxidant, Antibacterial, and Biofilm Inhibitory Activities of Peel and Pulp of Citrus medica L., Citrus bergamia, and Citrus medica cv. Salò Cultivated in Southern Italy",
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2019,
      "authors": [
@@ -17243,7 +17467,7 @@
     },
     {
      "pmid": "38726405",
-     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent\u00a0trends on extraction, bio-techno functionality, and\u00a0food\u00a0applications",
+     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent trends on extraction, bio-techno functionality, and food applications",
      "journal": "Food science & nutrition",
      "year": 2024,
      "authors": [
@@ -17522,7 +17746,7 @@
     },
     {
      "pmid": "38726405",
-     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent\u00a0trends on extraction, bio-techno functionality, and\u00a0food\u00a0applications",
+     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent trends on extraction, bio-techno functionality, and food applications",
      "journal": "Food science & nutrition",
      "year": 2024,
      "authors": [
@@ -17780,7 +18004,7 @@
     },
     {
      "pmid": "38726405",
-     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent\u00a0trends on extraction, bio-techno functionality, and\u00a0food\u00a0applications",
+     "title": "Bioactive polysaccharides from Aegle marmelos fruit: Recent trends on extraction, bio-techno functionality, and food applications",
      "journal": "Food science & nutrition",
      "year": 2024,
      "authors": [
@@ -18320,8 +18544,8 @@
      "year": 2023,
      "authors": [
       "Cortez-Navarrete M",
-      "P\u00e9rez-Rubio KG",
-      "Escobedo-Guti\u00e9rrez MJ"
+      "Pérez-Rubio KG",
+      "Escobedo-Gutiérrez MJ"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18373,7 +18597,7 @@
      "journal": "Frontiers in pharmacology",
      "year": 2022,
      "authors": [
-      "\u00c7i\u00e7ek SS"
+      "Çiçek SS"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18434,9 +18658,9 @@
      "year": 2021,
      "authors": [
       "Cortez-Navarrete M",
-      "M\u00e9ndez-Del Villar M",
-      "Ramos-Gonz\u00e1lez EJ",
-      "P\u00e9rez-Rubio KG"
+      "Méndez-Del Villar M",
+      "Ramos-González EJ",
+      "Pérez-Rubio KG"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18556,8 +18780,8 @@
      "year": 2023,
      "authors": [
       "Cortez-Navarrete M",
-      "P\u00e9rez-Rubio KG",
-      "Escobedo-Guti\u00e9rrez MJ"
+      "Pérez-Rubio KG",
+      "Escobedo-Gutiérrez MJ"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18609,7 +18833,7 @@
      "journal": "Frontiers in pharmacology",
      "year": 2022,
      "authors": [
-      "\u00c7i\u00e7ek SS"
+      "Çiçek SS"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18670,9 +18894,9 @@
      "year": 2021,
      "authors": [
       "Cortez-Navarrete M",
-      "M\u00e9ndez-Del Villar M",
-      "Ramos-Gonz\u00e1lez EJ",
-      "P\u00e9rez-Rubio KG"
+      "Méndez-Del Villar M",
+      "Ramos-González EJ",
+      "Pérez-Rubio KG"
      ],
      "pubtypes": [
       "Journal Article",
@@ -18862,8 +19086,8 @@
      "authors": [
       "Chavarria D",
       "Silva T",
-      "Magalh\u00e3es e Silva D",
-      "Remi\u00e3o F",
+      "Magalhães e Silva D",
+      "Remião F",
       "Borges F"
      ],
      "tier": "C",
@@ -18943,12 +19167,12 @@
      "authors": [
       "Lorca C",
       "Mulet M",
-      "Ar\u00e9valo-Caro C",
-      "Sanchez M\u00c1",
+      "Arévalo-Caro C",
+      "Sanchez MÁ",
       "Perez A",
       "Perrino M",
       "Bach-Faig A",
-      "Aguilar-Mart\u00ednez A",
+      "Aguilar-Martínez A",
       "Vilella E",
       "Gallart-Palau X",
       "Serra A"
@@ -19017,7 +19241,7 @@
     {
      "pmid": "41091332",
      "doi": "10.1007/s40261-025-01492-1",
-     "title": "The Effects of a Bacopa monnieri Extract (Bacumen(\u00ae)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial",
+     "title": "The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial",
      "journal": "Clinical drug investigation",
      "year": 2025,
      "authors": [
@@ -19080,16 +19304,16 @@
      "journal": "Nutrients",
      "year": 2025,
      "authors": [
-      "Go\u015bciniak A",
-      "Stasi\u0142owicz-Krzemie\u0144 A",
-      "Szel\u0105g M",
+      "Gościniak A",
+      "Stasiłowicz-Krzemień A",
+      "Szeląg M",
       "Pawlak J",
       "Skiera I",
       "Kwiatkowska H",
       "Nowak N",
       "Bernady K",
       "Trzaskoma P",
-      "Zimak-Kr\u00f3tkopad O",
+      "Zimak-Krótkopad O",
       "Cielecka-Piontek J"
      ],
      "tier": "C",
@@ -19260,7 +19484,7 @@
     },
     {
      "pmid": "25598760",
-     "title": "HPLC-DAD Analysis and In-Vitro Property of Polyphenols Extracts from (Solanum Aethiopium) Fruits on \u03b1 -Amylase, \u03b1 -Glucosidase and Angiotensin - 1- Converting Enzyme Activities",
+     "title": "HPLC-DAD Analysis and In-Vitro Property of Polyphenols Extracts from (Solanum Aethiopium) Fruits on α -Amylase, α -Glucosidase and Angiotensin - 1- Converting Enzyme Activities",
      "journal": "International journal of biomedical science : IJBS",
      "year": 2014,
      "authors": [
@@ -19445,7 +19669,7 @@
     {
      "pmid": "33155997",
      "doi": "10.1515/reveh-2020-0106",
-     "title": "Possible role of Unani Pharmacology in COVID-19\u00a0- a narrative review",
+     "title": "Possible role of Unani Pharmacology in COVID-19 - a narrative review",
      "journal": "Reviews on environmental health",
      "year": 2021,
      "authors": [
@@ -19603,7 +19827,7 @@
    "citations": [
     {
      "pmid": "37456169",
-     "title": "Pharmacological properties and underlying mechanisms of aurantio\u2011obtusin (Review)",
+     "title": "Pharmacological properties and underlying mechanisms of aurantio‑obtusin (Review)",
      "journal": "Experimental and therapeutic medicine",
      "year": 2023,
      "authors": [
@@ -19845,7 +20069,7 @@
    "citations": [
     {
      "pmid": "37456169",
-     "title": "Pharmacological properties and underlying mechanisms of aurantio\u2011obtusin (Review)",
+     "title": "Pharmacological properties and underlying mechanisms of aurantio‑obtusin (Review)",
      "journal": "Experimental and therapeutic medicine",
      "year": 2023,
      "authors": [
@@ -20112,7 +20336,7 @@
     {
      "pmid": "33155997",
      "doi": "10.1515/reveh-2020-0106",
-     "title": "Possible role of Unani Pharmacology in COVID-19\u00a0- a narrative review",
+     "title": "Possible role of Unani Pharmacology in COVID-19 - a narrative review",
      "journal": "Reviews on environmental health",
      "year": 2021,
      "authors": [
@@ -20207,7 +20431,7 @@
     {
      "pmid": "41167347",
      "doi": "10.1016/j.fitote.2025.106957",
-     "title": "Therapeutic potential of \u03b1-santalol: Sources, mechanisms, and anti-tumor prospects",
+     "title": "Therapeutic potential of α-santalol: Sources, mechanisms, and anti-tumor prospects",
      "journal": "Fitoterapia",
      "year": 2025,
      "authors": [
@@ -20363,7 +20587,7 @@
       "Ydyrys A",
       "Rad JS",
       "Alshehri MM",
-      "Da\u015ftan SD",
+      "Daştan SD",
       "Taheri Y",
       "Calina D",
       "Cho WC"
@@ -20540,7 +20764,7 @@
      "authors": [
       "Khan MI",
       "Begum RA",
-      "Frankov\u00e1 L",
+      "Franková L",
       "Fry SC"
      ],
      "pubtypes": [
@@ -20554,7 +20778,7 @@
     },
     {
      "pmid": "37576066",
-     "title": "Lepidium sativum alleviates diabetic nephropathy in a rat model by attenuating glucose levels, oxidative stress, and inflammation with concomitant suppression of TGF-\u03b21",
+     "title": "Lepidium sativum alleviates diabetic nephropathy in a rat model by attenuating glucose levels, oxidative stress, and inflammation with concomitant suppression of TGF-β1",
      "journal": "Saudi journal of biological sciences",
      "year": 2023,
      "authors": [
@@ -20627,8 +20851,8 @@
       "Shah MA",
       "Nageen B",
       "Jabeen F",
-      "Selamo\u011flu Z",
-      "U\u00e7ak \u0130",
+      "Selamoğlu Z",
+      "Uçak İ",
       "Asrar M",
       "Adem S"
      ],
@@ -20644,7 +20868,7 @@
     },
     {
      "pmid": "38218505",
-     "title": "The potential anti-Alzheimer's activity of Oxalis corniculata Linn. Methanolic extract in experimental rats: Role of APOE4/LRP1, TLR4/NF-\u03ba\u03b2/NLRP3, Wnt 3/\u03b2-catenin/GSK-3\u03b2, autophagy and apoptotic cues",
+     "title": "The potential anti-Alzheimer's activity of Oxalis corniculata Linn. Methanolic extract in experimental rats: Role of APOE4/LRP1, TLR4/NF-κβ/NLRP3, Wnt 3/β-catenin/GSK-3β, autophagy and apoptotic cues",
      "journal": "Journal of ethnopharmacology",
      "year": 2024,
      "authors": [
@@ -20901,7 +21125,7 @@
     },
     {
      "pmid": "37809486",
-     "title": "Piper retrofractum ameliorates imiquimod-induced skin inflammation via modulation of TLR4 axis and suppression of NF-\u03baB activity",
+     "title": "Piper retrofractum ameliorates imiquimod-induced skin inflammation via modulation of TLR4 axis and suppression of NF-κB activity",
      "journal": "Heliyon",
      "year": 2023,
      "authors": [
@@ -21075,7 +21299,7 @@
     },
     {
      "pmid": "25127165",
-     "title": "A new phenylpropanoid and an alkylglycoside from Piper retrofractum leaves with their antioxidant and \u03b1-glucosidase inhibitory activity",
+     "title": "A new phenylpropanoid and an alkylglycoside from Piper retrofractum leaves with their antioxidant and α-glucosidase inhibitory activity",
      "journal": "Bioorganic & medicinal chemistry letters",
      "year": 2014,
      "authors": [
@@ -21160,7 +21384,7 @@
     },
     {
      "pmid": "37809486",
-     "title": "Piper retrofractum ameliorates imiquimod-induced skin inflammation via modulation of TLR4 axis and suppression of NF-\u03baB activity",
+     "title": "Piper retrofractum ameliorates imiquimod-induced skin inflammation via modulation of TLR4 axis and suppression of NF-κB activity",
      "journal": "Heliyon",
      "year": 2023,
      "authors": [
@@ -21334,7 +21558,7 @@
     },
     {
      "pmid": "25127165",
-     "title": "A new phenylpropanoid and an alkylglycoside from Piper retrofractum leaves with their antioxidant and \u03b1-glucosidase inhibitory activity",
+     "title": "A new phenylpropanoid and an alkylglycoside from Piper retrofractum leaves with their antioxidant and α-glucosidase inhibitory activity",
      "journal": "Bioorganic & medicinal chemistry letters",
      "year": 2014,
      "authors": [
@@ -21387,7 +21611,7 @@
      "journal": "Scientific reports",
      "year": 2025,
      "authors": [
-      "G\u00fcrgen A",
+      "Gürgen A",
       "Sevindik M"
      ],
      "pubtypes": [
@@ -21404,10 +21628,10 @@
      "journal": "Food science and biotechnology",
      "year": 2024,
      "authors": [
-      "S\u00f6ylemez T",
-      "Yama\u00e7 M",
-      "Eninan\u00e7 AB",
-      "Y\u0131ld\u0131z Z"
+      "Söylemez T",
+      "Yamaç M",
+      "Eninanç AB",
+      "Yıldız Z"
      ],
      "pubtypes": [
       "Journal Article"
@@ -22180,7 +22404,7 @@
     {
      "pmid": "37384842",
      "doi": "10.1515/jcim-2021-0447",
-     "title": "Concept of dementia (Nisy \u0101 n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
+     "title": "Concept of dementia (Nisy ā n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
      "journal": "Journal of complementary & integrative medicine",
      "year": 2024,
      "authors": [
@@ -22390,7 +22614,7 @@
     {
      "pmid": "37384842",
      "doi": "10.1515/jcim-2021-0447",
-     "title": "Concept of dementia (Nisy \u0101 n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
+     "title": "Concept of dementia (Nisy ā n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
      "journal": "Journal of complementary & integrative medicine",
      "year": 2024,
      "authors": [
@@ -22517,7 +22741,7 @@
       "Abu-Izneid T",
       "Rauf A",
       "Sharma A",
-      "Da\u015ftan SD",
+      "Daştan SD",
       "Kumar M",
       "Alshehri MM",
       "Taheri Y",
@@ -22606,7 +22830,7 @@
     },
     {
      "pmid": "38248852",
-     "title": "Metabolic Regulations of Smilax china L. against \u03b2-Amyloid Toxicity in Caenorhabditis elegans",
+     "title": "Metabolic Regulations of Smilax china L. against β-Amyloid Toxicity in Caenorhabditis elegans",
      "journal": "Metabolites",
      "year": 2024,
      "authors": [
@@ -22647,7 +22871,7 @@
     },
     {
      "pmid": "36826691",
-     "title": "Smilax china L. Polyphenols Improves Insulin Resistance and Obesity in High-fat Diet-induced Mice Through IRS/AKT-AMPK and NF-\u03baB Signaling Pathways",
+     "title": "Smilax china L. Polyphenols Improves Insulin Resistance and Obesity in High-fat Diet-induced Mice Through IRS/AKT-AMPK and NF-κB Signaling Pathways",
      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
      "year": 2023,
      "authors": [
@@ -22768,8 +22992,8 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "Santib\u00e1\u00f1ez A",
-      "Jim\u00e9nez-Ferrer E",
+      "Santibáñez A",
+      "Jiménez-Ferrer E",
       "Angulo-Bejarano PI",
       "Sharma A",
       "Herrera-Ruiz M"
@@ -23002,8 +23226,8 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "Santib\u00e1\u00f1ez A",
-      "Jim\u00e9nez-Ferrer E",
+      "Santibáñez A",
+      "Jiménez-Ferrer E",
       "Angulo-Bejarano PI",
       "Sharma A",
       "Herrera-Ruiz M"
@@ -23388,7 +23612,7 @@
     },
     {
      "pmid": "30848570",
-     "title": "The Stimulatory Effects of Medicinal Plants on \u03b22-adrenoceptors of Tracheal Smooth Muscle",
+     "title": "The Stimulatory Effects of Medicinal Plants on β2-adrenoceptors of Tracheal Smooth Muscle",
      "journal": "Iranian journal of allergy, asthma, and immunology",
      "year": 2019,
      "authors": [
@@ -23822,7 +24046,7 @@
     {
      "pmid": "38370077",
      "doi": "10.1002/fsn3.3777",
-     "title": "Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical: A\u00a0comprehensive review",
+     "title": "Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical: A comprehensive review",
      "journal": "Food science & nutrition",
      "year": 2024,
      "authors": [
@@ -23876,7 +24100,7 @@
      "authors": [
       "Tornese R",
       "Montefusco A",
-      "Plac\u00ec R",
+      "Placì R",
       "Semeraro T",
       "Durante M",
       "De Caroli M",
@@ -23925,8 +24149,8 @@
       "Petrovic A",
       "Jakovljevic V",
       "Andjic M",
-      "\u017divkovi\u0107 J",
-      "Milo\u0161evi\u0107 S\u0110",
+      "Živković J",
+      "Milošević SĐ",
       "Simanic I",
       "Dragicevic N"
      ],
@@ -24108,7 +24332,7 @@
       "Allkanjari O",
       "Busetto GM",
       "Cai T",
-      "Largan\u00e0 G",
+      "Larganà G",
       "Magri V",
       "Perletti G",
       "Robustelli Della Cuna FS",
@@ -24580,16 +24804,16 @@
      "journal": "Planta medica",
      "year": 2020,
      "authors": [
-      "T\u00f3th B",
-      "N\u00e9meth D",
-      "So\u00f3s A",
+      "Tóth B",
+      "Németh D",
+      "Soós A",
       "Hegyi P",
       "Pham-Dobor G",
       "Varga O",
       "Varga V",
       "Kiss T",
-      "Sarl\u00f3s P",
-      "Er\u0151ss B",
+      "Sarlós P",
+      "Erőss B",
       "Csupor D"
      ],
      "pubtypes": [
@@ -25173,7 +25397,7 @@
     },
     {
      "pmid": "39994999",
-     "title": "Exploring the Antiproliferative and Antioxidant Effects of Fagonia cretica Thereof: An In\u00a0Vitro and In\u00a0Vivo Evaluation",
+     "title": "Exploring the Antiproliferative and Antioxidant Effects of Fagonia cretica Thereof: An In Vitro and In Vivo Evaluation",
      "journal": "Microscopy research and technique",
      "year": 2025,
      "authors": [
@@ -25372,8 +25596,8 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "Santib\u00e1\u00f1ez A",
-      "Jim\u00e9nez-Ferrer E",
+      "Santibáñez A",
+      "Jiménez-Ferrer E",
       "Angulo-Bejarano PI",
       "Sharma A",
       "Herrera-Ruiz M"
@@ -26466,7 +26690,7 @@
       "Sharafan M",
       "Malinowska MA",
       "Ekiert H",
-      "Kwa\u015bniak B",
+      "Kwaśniak B",
       "Sikora E",
       "Szopa A"
      ],
@@ -26540,7 +26764,7 @@
       "Barbalho SM",
       "Bueno Ottoboni AMM",
       "Fiorini AMR",
-      "Guiguer \u00c9L",
+      "Guiguer ÉL",
       "Nicolau CCT",
       "Goulart RA",
       "Flato UAP"
@@ -26605,7 +26829,7 @@
      "year": 2018,
      "authors": [
       "Jezek M",
-      "Z\u00f6rb C",
+      "Zörb C",
       "Merkt N",
       "Geilfus CM"
      ],
@@ -26701,7 +26925,7 @@
     },
     {
      "pmid": "34220042",
-     "title": "Functional characterization and expression profile of microsomal FAD2 and FAD3 genes involved in linoleic and \u03b1-linolenic acid production in Leucas cephalotes",
+     "title": "Functional characterization and expression profile of microsomal FAD2 and FAD3 genes involved in linoleic and α-linolenic acid production in Leucas cephalotes",
      "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
      "year": 2021,
      "authors": [
@@ -27019,7 +27243,7 @@
     },
     {
      "pmid": "36662647",
-     "title": "Crude extract from Euphorbia prostrata extended\u00a0curative period of glibenclemide in\u00a0alloxan-induced diabetic rats",
+     "title": "Crude extract from Euphorbia prostrata extended curative period of glibenclemide in alloxan-induced diabetic rats",
      "journal": "Journal of complementary & integrative medicine",
      "year": 2023,
      "authors": [
@@ -27640,11 +27864,11 @@
     {
      "pmid": "34247854",
      "doi": "10.1016/j.prosdent.2021.05.022",
-     "title": "Natural products for the treatment of denture stomatitis: A\u00a0systematic review",
+     "title": "Natural products for the treatment of denture stomatitis: A systematic review",
      "journal": "The Journal of prosthetic dentistry",
      "year": 2023,
      "authors": [
-      "In\u00e1cio Silveira DQ",
+      "Inácio Silveira DQ",
       "Lia EN",
       "Massignan C",
       "Stefani CM"
@@ -27823,11 +28047,11 @@
      "journal": "Toxins",
      "year": 2019,
      "authors": [
-      "Sowa-Rogozi\u0144ska N",
+      "Sowa-Rogozińska N",
       "Sominka H",
-      "Nowakowska-Go\u0142acka J",
+      "Nowakowska-Gołacka J",
       "Sandvig K",
-      "S\u0142omi\u0144ska-Wojew\u00f3dzka M"
+      "Słomińska-Wojewódzka M"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/31216687/",
@@ -27858,11 +28082,11 @@
     {
      "pmid": "34247854",
      "doi": "10.1016/j.prosdent.2021.05.022",
-     "title": "Natural products for the treatment of denture stomatitis: A\u00a0systematic review",
+     "title": "Natural products for the treatment of denture stomatitis: A systematic review",
      "journal": "The Journal of prosthetic dentistry",
      "year": 2023,
      "authors": [
-      "In\u00e1cio Silveira DQ",
+      "Inácio Silveira DQ",
       "Lia EN",
       "Massignan C",
       "Stefani CM"
@@ -28037,11 +28261,11 @@
      "journal": "Toxins",
      "year": 2019,
      "authors": [
-      "Sowa-Rogozi\u0144ska N",
+      "Sowa-Rogozińska N",
       "Sominka H",
-      "Nowakowska-Go\u0142acka J",
+      "Nowakowska-Gołacka J",
       "Sandvig K",
-      "S\u0142omi\u0144ska-Wojew\u00f3dzka M"
+      "Słomińska-Wojewódzka M"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/31216687/",
@@ -28072,11 +28296,11 @@
     {
      "pmid": "34247854",
      "doi": "10.1016/j.prosdent.2021.05.022",
-     "title": "Natural products for the treatment of denture stomatitis: A\u00a0systematic review",
+     "title": "Natural products for the treatment of denture stomatitis: A systematic review",
      "journal": "The Journal of prosthetic dentistry",
      "year": 2023,
      "authors": [
-      "In\u00e1cio Silveira DQ",
+      "Inácio Silveira DQ",
       "Lia EN",
       "Massignan C",
       "Stefani CM"
@@ -28186,11 +28410,11 @@
      "journal": "Toxins",
      "year": 2019,
      "authors": [
-      "Sowa-Rogozi\u0144ska N",
+      "Sowa-Rogozińska N",
       "Sominka H",
-      "Nowakowska-Go\u0142acka J",
+      "Nowakowska-Gołacka J",
       "Sandvig K",
-      "S\u0142omi\u0144ska-Wojew\u00f3dzka M"
+      "Słomińska-Wojewódzka M"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/31216687/",
@@ -28220,7 +28444,7 @@
      "year": 2011,
      "authors": [
       "Worbs S",
-      "K\u00f6hler K",
+      "Köhler K",
       "Pauly D",
       "Avondet MA",
       "Schaer M",
@@ -28274,11 +28498,11 @@
     {
      "pmid": "34247854",
      "doi": "10.1016/j.prosdent.2021.05.022",
-     "title": "Natural products for the treatment of denture stomatitis: A\u00a0systematic review",
+     "title": "Natural products for the treatment of denture stomatitis: A systematic review",
      "journal": "The Journal of prosthetic dentistry",
      "year": 2023,
      "authors": [
-      "In\u00e1cio Silveira DQ",
+      "Inácio Silveira DQ",
       "Lia EN",
       "Massignan C",
       "Stefani CM"
@@ -28453,11 +28677,11 @@
      "journal": "Toxins",
      "year": 2019,
      "authors": [
-      "Sowa-Rogozi\u0144ska N",
+      "Sowa-Rogozińska N",
       "Sominka H",
-      "Nowakowska-Go\u0142acka J",
+      "Nowakowska-Gołacka J",
       "Sandvig K",
-      "S\u0142omi\u0144ska-Wojew\u00f3dzka M"
+      "Słomińska-Wojewódzka M"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/31216687/",
@@ -28551,10 +28775,10 @@
      "authors": [
       "Quiroz IA",
       "Espinoza SE",
-      "Y\u00e1\u00f1ez MA",
-      "Mart\u00ednez EE",
+      "Yáñez MA",
+      "Martínez EE",
       "Magni CR",
-      "Fa\u00fandez \u00c1F"
+      "Faúndez ÁF"
      ],
      "pubtypes": [
       "Journal Article"
@@ -28570,16 +28794,16 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "\u010cmikov\u00e1 N",
-      "Galovi\u010dov\u00e1 L",
-      "Schwarzov\u00e1 M",
+      "Čmiková N",
+      "Galovičová L",
+      "Schwarzová M",
       "Vukic MD",
       "Vukovic NL",
-      "Kowalczewski P\u0141",
+      "Kowalczewski PŁ",
       "Bakay L",
       "Kluz MI",
       "Puchalski C",
-      "Ka\u010d\u00e1niov\u00e1 M"
+      "Kačániová M"
      ],
      "pubtypes": [
       "Journal Article"
@@ -28618,7 +28842,7 @@
     },
     {
      "pmid": "35684214",
-     "title": "Antimicrobial Screening and Fungicidal Properties of Eucal\u00fdptus globulus Ultrasonic Extracts",
+     "title": "Antimicrobial Screening and Fungicidal Properties of Eucalýptus globulus Ultrasonic Extracts",
      "journal": "Plants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
@@ -28666,7 +28890,7 @@
      "journal": "Annals of botany",
      "year": 2022,
      "authors": [
-      "Hern\u00e1ndez MA",
+      "Hernández MA",
       "Butler JB",
       "Ammitzboll H",
       "Weller JL",
@@ -28704,7 +28928,7 @@
     },
     {
      "pmid": "29639150",
-     "title": "Eucalyptus Gl\u00f3bulus",
+     "title": "Eucalyptus Glóbulus",
      "journal": "Edinburgh medical journal",
      "year": 1875,
      "authors": [],
@@ -28822,10 +29046,10 @@
      "authors": [
       "Quiroz IA",
       "Espinoza SE",
-      "Y\u00e1\u00f1ez MA",
-      "Mart\u00ednez EE",
+      "Yáñez MA",
+      "Martínez EE",
       "Magni CR",
-      "Fa\u00fandez \u00c1F"
+      "Faúndez ÁF"
      ],
      "pubtypes": [
       "Journal Article"
@@ -28841,16 +29065,16 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "\u010cmikov\u00e1 N",
-      "Galovi\u010dov\u00e1 L",
-      "Schwarzov\u00e1 M",
+      "Čmiková N",
+      "Galovičová L",
+      "Schwarzová M",
       "Vukic MD",
       "Vukovic NL",
-      "Kowalczewski P\u0141",
+      "Kowalczewski PŁ",
       "Bakay L",
       "Kluz MI",
       "Puchalski C",
-      "Ka\u010d\u00e1niov\u00e1 M"
+      "Kačániová M"
      ],
      "pubtypes": [
       "Journal Article"
@@ -28889,7 +29113,7 @@
     },
     {
      "pmid": "35684214",
-     "title": "Antimicrobial Screening and Fungicidal Properties of Eucal\u00fdptus globulus Ultrasonic Extracts",
+     "title": "Antimicrobial Screening and Fungicidal Properties of Eucalýptus globulus Ultrasonic Extracts",
      "journal": "Plants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
@@ -28937,7 +29161,7 @@
      "journal": "Annals of botany",
      "year": 2022,
      "authors": [
-      "Hern\u00e1ndez MA",
+      "Hernández MA",
       "Butler JB",
       "Ammitzboll H",
       "Weller JL",
@@ -29043,7 +29267,7 @@
      "year": 2025,
      "authors": [
       "Giachino RRA",
-      "Bozta\u015f G"
+      "Boztaş G"
      ],
      "pubtypes": [
       "Journal Article",
@@ -29088,7 +29312,7 @@
       "Rafieian F",
       "Amani R",
       "Rezaei A",
-      "Kara\u00e7a AC",
+      "Karaça AC",
       "Jafari SM"
      ],
      "pubtypes": [
@@ -29223,8 +29447,8 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "Kri\u017eman M",
-      "Jak\u0161e J"
+      "Križman M",
+      "Jakše J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -29247,7 +29471,7 @@
      "year": 2025,
      "authors": [
       "Giachino RRA",
-      "Bozta\u015f G"
+      "Boztaş G"
      ],
      "pubtypes": [
       "Journal Article",
@@ -29286,7 +29510,7 @@
       "Rafieian F",
       "Amani R",
       "Rezaei A",
-      "Kara\u00e7a AC",
+      "Karaça AC",
       "Jafari SM"
      ],
      "pubtypes": [
@@ -29459,8 +29683,8 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "Kri\u017eman M",
-      "Jak\u0161e J"
+      "Križman M",
+      "Jakše J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -29532,8 +29756,8 @@
      "authors": [
       "Skrzypiec-Spring M",
       "Pokrywka A",
-      "Kuliczkowska-P\u0142aksej J",
-      "Szel\u0105g A",
+      "Kuliczkowska-Płaksej J",
+      "Szeląg A",
       "Bolanowski M"
      ],
      "pubtypes": [
@@ -29646,7 +29870,7 @@
      "year": 2012,
      "authors": [
       "Tomczyk M",
-      "Zovko-Konci\u0107 M",
+      "Zovko-Koncić M",
       "Chrostek L"
      ],
      "pubtypes": [
@@ -29707,7 +29931,7 @@
     },
     {
      "pmid": "36369783",
-     "title": "Molecular modeling, docking and dynamics studies of fenugreek (Trigonella foenum-graecum) \u03b1-amylase",
+     "title": "Molecular modeling, docking and dynamics studies of fenugreek (Trigonella foenum-graecum) α-amylase",
      "journal": "Journal of biomolecular structure & dynamics",
      "year": 2023,
      "authors": [
@@ -29813,7 +30037,7 @@
     },
     {
      "pmid": "30304808",
-     "title": "Chemical Constituents from Scindapsus officinalis (Roxb.) Schott. and Their Anti\u207bInflammatory Activities",
+     "title": "Chemical Constituents from Scindapsus officinalis (Roxb.) Schott. and Their Anti⁻Inflammatory Activities",
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2018,
      "authors": [
@@ -29893,13 +30117,13 @@
    "citations": [
     {
      "pmid": "37014584",
-     "title": "Dietary effects of Gmelina arborea \u00d7 Panicum maximum forages on digestibility and haematological characteristics of rams",
+     "title": "Dietary effects of Gmelina arborea × Panicum maximum forages on digestibility and haematological characteristics of rams",
      "journal": "Tropical animal health and production",
      "year": 2023,
      "authors": [
       "Omotoso OB",
       "Onabanjo OV",
-      "Fajem\u0131s\u0131n AN",
+      "Fajemısın AN",
       "Alokan JA"
      ],
      "pubtypes": [
@@ -30034,7 +30258,7 @@
     },
     {
      "pmid": "26881248",
-     "title": "Gmelina arborea Roxb. (Family: Verbenaceae) Extract Upregulates the \u03b2-Cell Regeneration in STZ Induced Diabetic Rats",
+     "title": "Gmelina arborea Roxb. (Family: Verbenaceae) Extract Upregulates the β-Cell Regeneration in STZ Induced Diabetic Rats",
      "journal": "Journal of diabetes research",
      "year": 2016,
      "authors": [
@@ -30138,13 +30362,13 @@
    "citations": [
     {
      "pmid": "37014584",
-     "title": "Dietary effects of Gmelina arborea \u00d7 Panicum maximum forages on digestibility and haematological characteristics of rams",
+     "title": "Dietary effects of Gmelina arborea × Panicum maximum forages on digestibility and haematological characteristics of rams",
      "journal": "Tropical animal health and production",
      "year": 2023,
      "authors": [
       "Omotoso OB",
       "Onabanjo OV",
-      "Fajem\u0131s\u0131n AN",
+      "Fajemısın AN",
       "Alokan JA"
      ],
      "pubtypes": [
@@ -30296,7 +30520,7 @@
     },
     {
      "pmid": "26881248",
-     "title": "Gmelina arborea Roxb. (Family: Verbenaceae) Extract Upregulates the \u03b2-Cell Regeneration in STZ Induced Diabetic Rats",
+     "title": "Gmelina arborea Roxb. (Family: Verbenaceae) Extract Upregulates the β-Cell Regeneration in STZ Induced Diabetic Rats",
      "journal": "Journal of diabetes research",
      "year": 2016,
      "authors": [
@@ -30845,10 +31069,10 @@
       "Vierling JM",
       "Manns MP",
       "Sebode M",
-      "Londo\u00f1o MC",
+      "Londoño MC",
       "Avigan M",
       "Robles-Diaz M",
-      "Garc\u00eda-Cortes M",
+      "García-Cortes M",
       "Atallah E",
       "Heneghan M",
       "Chalasani N",
@@ -30863,7 +31087,7 @@
       "Lucena MI",
       "Mieli-Vergani G",
       "Vergani D",
-      "Bj\u00f6rnsson ES",
+      "Björnsson ES",
       "IAIHG and EASL DHILI Consortium"
      ],
      "tier": "C",
@@ -31222,7 +31446,7 @@
     },
     {
      "pmid": "38675650",
-     "title": "Onosma bracteatum Wall Aqueous-Ethanolic Extract Suppresses Complete Freund's Adjuvant-Induced Arthritis in Rats via Regulation of TNF-\u03b1, IL-6, and C-Reactive Protein",
+     "title": "Onosma bracteatum Wall Aqueous-Ethanolic Extract Suppresses Complete Freund's Adjuvant-Induced Arthritis in Rats via Regulation of TNF-α, IL-6, and C-Reactive Protein",
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2024,
      "authors": [
@@ -31339,8 +31563,8 @@
       "Cunha JS",
       "Costa NA",
       "de Oliveira EB",
-      "Leite J\u00fanior BRC",
-      "Vieira \u00c9NR"
+      "Leite Júnior BRC",
+      "Vieira ÉNR"
      ],
      "pubtypes": [
       "Journal Article",
@@ -31664,15 +31888,15 @@
     {
      "pmid": "34836225",
      "doi": "10.3390/nu13113969",
-     "title": "The Effects of 6 Weeks of Tribulus terrestris L. Supplementation on Body Composition, Hormonal Response, Perceived Exertion, and CrossFit\u00ae Performance: A Randomized, Single-Blind, Placebo-Controlled Study",
+     "title": "The Effects of 6 Weeks of Tribulus terrestris L. Supplementation on Body Composition, Hormonal Response, Perceived Exertion, and CrossFit® Performance: A Randomized, Single-Blind, Placebo-Controlled Study",
      "journal": "Nutrients",
      "year": 2021,
      "authors": [
-      "Fern\u00e1ndez-L\u00e1zaro D",
+      "Fernández-Lázaro D",
       "Mielgo-Ayuso J",
       "Del Valle Soto M",
       "Adams DP",
-      "Gonz\u00e1lez-Bernal JJ",
+      "González-Bernal JJ",
       "Seco-Calvo J"
      ],
      "tier": "B",
@@ -31718,7 +31942,7 @@
       "Darakhshan S",
       "Farzaei MH",
       "Xiao J",
-      "Echeverr\u00eda J"
+      "Echeverría J"
      ],
      "pubtypes": [
       "Journal Article",
@@ -31759,7 +31983,7 @@
      "year": 2021,
      "authors": [
       "Sirotkin AV",
-      "Koles\u00e1rov\u00e1 A"
+      "Kolesárová A"
      ],
      "pubtypes": [
       "Journal Article",
@@ -31777,10 +32001,10 @@
      "journal": "Biomolecules",
      "year": 2020,
      "authors": [
-      "\u0218tef\u0103nescu R",
+      "Ștefănescu R",
       "Tero-Vescan A",
       "Negroiu A",
-      "Auric\u0103 E",
+      "Aurică E",
       "Vari CE"
      ],
      "tier": "C",
@@ -31923,7 +32147,7 @@
     },
     {
      "pmid": "24347924",
-     "title": "Review on Sphaeranthus indicus Linn. (Ko\u1e6d\u1e6daikkarantai)",
+     "title": "Review on Sphaeranthus indicus Linn. (Koṭṭaikkarantai)",
      "journal": "Pharmacognosy reviews",
      "year": 2013,
      "authors": [
@@ -32036,7 +32260,7 @@
     {
      "pmid": "25680508",
      "doi": "10.1016/j.fct.2015.02.010",
-     "title": "Safety and toxicological evaluation of Meratrim\u00ae: an herbal formulation for weight management",
+     "title": "Safety and toxicological evaluation of Meratrim®: an herbal formulation for weight management",
      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
      "year": 2015,
      "authors": [
@@ -32171,7 +32395,7 @@
      "authors": [
       "Sitarek P",
       "Kowalczyk T",
-      "\u015aliwi\u0144ski T",
+      "Śliwiński T",
       "Hatziantoniou S",
       "Soulintzi N",
       "Pawliczak R",
@@ -32234,10 +32458,10 @@
      "authors": [
       "Merecz-Sadowska A",
       "Sitarek P",
-      "\u015aliwi\u0144ski T",
+      "Śliwiński T",
       "Zajdel K",
       "Malinowska K",
-      "Zieli\u0144ska-Bli\u017aniewska H",
+      "Zielińska-Bliźniewska H",
       "Kucharska E",
       "Zajdel R"
      ],
@@ -32302,7 +32526,7 @@
       "de Carvalho RR",
       "Dias ALT",
       "da Silva GA",
-      "de P\u00e1dua RM",
+      "de Pádua RM",
       "Braga FC",
       "da Silva MA"
      ],
@@ -32376,7 +32600,7 @@
       "da Costa LA",
       "Soares IM",
       "da Silva LI",
-      "Asc\u00eancio SD",
+      "Ascêncio SD",
       "de Oliveira Martins DT"
      ],
      "pubtypes": [
@@ -32390,7 +32614,7 @@
     },
     {
      "pmid": "25538356",
-     "title": "Rasa Nirdh\u0101ra\u1e47a (assessment of taste) of Leonotis nepetifolia (L.) R. Br.: A preliminary study in healthy volunteers",
+     "title": "Rasa Nirdhāraṇa (assessment of taste) of Leonotis nepetifolia (L.) R. Br.: A preliminary study in healthy volunteers",
      "journal": "Ancient science of life",
      "year": 2014,
      "authors": [
@@ -32501,15 +32725,15 @@
      "year": 2024,
      "authors": [
       "Bandala C",
-      "Carro-Rodr\u00edguez J",
-      "C\u00e1rdenas-Rodr\u00edguez N",
-      "Pe\u00f1a-Montero I",
-      "G\u00f3mez-L\u00f3pez M",
-      "Hern\u00e1ndez-Rold\u00e1n AP",
+      "Carro-Rodríguez J",
+      "Cárdenas-Rodríguez N",
+      "Peña-Montero I",
+      "Gómez-López M",
+      "Hernández-Roldán AP",
       "Huerta-Cruz JC",
-      "Mu\u00f1oz-Gonz\u00e1lez F",
-      "Ignacio-Mej\u00eda I",
-      "Dom\u00ednguez B",
+      "Muñoz-González F",
+      "Ignacio-Mejía I",
+      "Domínguez B",
       "Lara-Padilla E"
      ],
      "pubtypes": [
@@ -32549,11 +32773,11 @@
      "journal": "Journal of medicinal food",
      "year": 2021,
      "authors": [
-      "Gayt\u00e1n Mart\u00ednez LA",
-      "S\u00e1nchez-Ruiz LA",
-      "Zu\u00f1iga LY",
-      "Gonz\u00e1lez-Ortiz M",
-      "Mart\u00ednez-Abundis E"
+      "Gaytán Martínez LA",
+      "Sánchez-Ruiz LA",
+      "Zuñiga LY",
+      "González-Ortiz M",
+      "Martínez-Abundis E"
      ],
      "tier": "B",
      "url": "https://pubmed.ncbi.nlm.nih.gov/32460589/",
@@ -32566,9 +32790,9 @@
      "journal": "Journal of medicinal food",
      "year": 2017,
      "authors": [
-      "Zu\u00f1iga LY",
-      "Gonz\u00e1lez-Ortiz M",
-      "Mart\u00ednez-Abundis E"
+      "Zuñiga LY",
+      "González-Ortiz M",
+      "Martínez-Abundis E"
      ],
      "tier": "B",
      "url": "https://pubmed.ncbi.nlm.nih.gov/28459647/",
@@ -32754,15 +32978,15 @@
      "year": 2024,
      "authors": [
       "Bandala C",
-      "Carro-Rodr\u00edguez J",
-      "C\u00e1rdenas-Rodr\u00edguez N",
-      "Pe\u00f1a-Montero I",
-      "G\u00f3mez-L\u00f3pez M",
-      "Hern\u00e1ndez-Rold\u00e1n AP",
+      "Carro-Rodríguez J",
+      "Cárdenas-Rodríguez N",
+      "Peña-Montero I",
+      "Gómez-López M",
+      "Hernández-Roldán AP",
       "Huerta-Cruz JC",
-      "Mu\u00f1oz-Gonz\u00e1lez F",
-      "Ignacio-Mej\u00eda I",
-      "Dom\u00ednguez B",
+      "Muñoz-González F",
+      "Ignacio-Mejía I",
+      "Domínguez B",
       "Lara-Padilla E"
      ],
      "pubtypes": [
@@ -32802,11 +33026,11 @@
      "journal": "Journal of medicinal food",
      "year": 2021,
      "authors": [
-      "Gayt\u00e1n Mart\u00ednez LA",
-      "S\u00e1nchez-Ruiz LA",
-      "Zu\u00f1iga LY",
-      "Gonz\u00e1lez-Ortiz M",
-      "Mart\u00ednez-Abundis E"
+      "Gaytán Martínez LA",
+      "Sánchez-Ruiz LA",
+      "Zuñiga LY",
+      "González-Ortiz M",
+      "Martínez-Abundis E"
      ],
      "tier": "B",
      "url": "https://pubmed.ncbi.nlm.nih.gov/32460589/",
@@ -32819,9 +33043,9 @@
      "journal": "Journal of medicinal food",
      "year": 2017,
      "authors": [
-      "Zu\u00f1iga LY",
-      "Gonz\u00e1lez-Ortiz M",
-      "Mart\u00ednez-Abundis E"
+      "Zuñiga LY",
+      "González-Ortiz M",
+      "Martínez-Abundis E"
      ],
      "tier": "B",
      "url": "https://pubmed.ncbi.nlm.nih.gov/28459647/",
@@ -33114,10 +33338,10 @@
       "Vierling JM",
       "Manns MP",
       "Sebode M",
-      "Londo\u00f1o MC",
+      "Londoño MC",
       "Avigan M",
       "Robles-Diaz M",
-      "Garc\u00eda-Cortes M",
+      "García-Cortes M",
       "Atallah E",
       "Heneghan M",
       "Chalasani N",
@@ -33132,7 +33356,7 @@
       "Lucena MI",
       "Mieli-Vergani G",
       "Vergani D",
-      "Bj\u00f6rnsson ES",
+      "Björnsson ES",
       "IAIHG and EASL DHILI Consortium"
      ],
      "tier": "C",
@@ -33385,9 +33609,9 @@
      "journal": "Advanced healthcare materials",
      "year": 2024,
      "authors": [
-      "Corr\u00eaa Carvalho G",
+      "Corrêa Carvalho G",
       "Marena GD",
-      "Gaspar Gon\u00e7alves Fernandes M",
+      "Gaspar Gonçalves Fernandes M",
       "Ricci Leonardi G",
       "Santos HA",
       "Chorilli M"
@@ -33410,12 +33634,12 @@
      "year": 2024,
      "authors": [
       "Kasprzak-Drozd K",
-      "Nizi\u0144ski P",
-      "Hawry\u0142 A",
+      "Niziński P",
+      "Hawrył A",
       "Gancarz M",
-      "Hawry\u0142 D",
+      "Hawrył D",
       "Oliwa W",
-      "Pa\u0142ka M",
+      "Pałka M",
       "Markowska J",
       "Oniszczuk A"
      ],
@@ -33430,8 +33654,8 @@
      "year": 2023,
      "authors": [
       "Cortez-Navarrete M",
-      "P\u00e9rez-Rubio KG",
-      "Escobedo-Guti\u00e9rrez MJ"
+      "Pérez-Rubio KG",
+      "Escobedo-Gutiérrez MJ"
      ],
      "pubtypes": [
       "Journal Article",
@@ -33940,7 +34164,7 @@
      "journal": "The Cochrane database of systematic reviews",
      "year": 2023,
      "authors": [
-      "B\u00e1ez G",
+      "Báez G",
       "Vargas C",
       "Arancibia M",
       "Papuzinski C",
@@ -34052,7 +34276,7 @@
     },
     {
      "pmid": "36404852",
-     "title": "Insilico screening and pharmacokinetic properties of phytoconstituents from Ferula asafoetida H.Karst. (Heeng) as potential inhibitors of \u03b1-amylase and \u03b1-glucosidase for Type\u00a02 Diabetes Mellitus",
+     "title": "Insilico screening and pharmacokinetic properties of phytoconstituents from Ferula asafoetida H.Karst. (Heeng) as potential inhibitors of α-amylase and α-glucosidase for Type 2 Diabetes Mellitus",
      "journal": "Journal of diabetes and metabolic disorders",
      "year": 2022,
      "authors": [
@@ -34293,7 +34517,7 @@
     },
     {
      "pmid": "34046324",
-     "title": "Osteogenic induction of menstrual blood mesenchymal stem cell by\u00a0different Ferula species extracts",
+     "title": "Osteogenic induction of menstrual blood mesenchymal stem cell by different Ferula species extracts",
      "journal": "Avicenna journal of phytomedicine",
      "year": 2021,
      "authors": [
@@ -34364,8 +34588,8 @@
       "Utegenova GA",
       "Pallister KB",
       "Kushnarenko SV",
-      "\u00d6zek G",
-      "\u00d6zek T",
+      "Özek G",
+      "Özek T",
       "Abidkulova KT",
       "Kirpotina LN",
       "Schepetkin IA",
@@ -34847,8 +35071,8 @@
      "journal": "International journal of environmental research and public health",
      "year": 2019,
      "authors": [
-      "Figueroa-Rodr\u00edguez KA",
-      "Hern\u00e1ndez-Rosas F",
+      "Figueroa-Rodríguez KA",
+      "Hernández-Rosas F",
       "Figueroa-Sandoval B",
       "Velasco-Velasco J",
       "Aguilar Rivera N"
@@ -34879,7 +35103,7 @@
     {
      "pmid": "40362898",
      "doi": "10.3390/nu17091589",
-     "title": "Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage via Antioxidant, Anti-Inflammatory, and CYP2E1/Keap1/NF-\u03baB Pathway Modulation",
+     "title": "Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage via Antioxidant, Anti-Inflammatory, and CYP2E1/Keap1/NF-κB Pathway Modulation",
      "journal": "Nutrients",
      "year": 2025,
      "authors": [
@@ -35158,7 +35382,7 @@
       "Niederreiter L",
       "Kowarschik S",
       "Huber R",
-      "L\u00fcth VM"
+      "Lüth VM"
      ],
      "pubtypes": [
       "Journal Article"
@@ -35383,7 +35607,7 @@
      "authors": [
       "Cheenpracha S",
       "Boapun P",
-      "Limtharakul N\u00e9e Ritthiwigrom T",
+      "Limtharakul Née Ritthiwigrom T",
       "Laphookhieo S",
       "Pyne SG"
      ],
@@ -35480,7 +35704,7 @@
       "Inoussa C",
       "Patrice B",
       "Firmin S",
-      "Fr\u00e9deric BS",
+      "Fréderic BS",
       "Mipro H"
      ],
      "pubtypes": [
@@ -35565,7 +35789,7 @@
       "Dao DH",
       "Coulibaly JT",
       "Ouedraogo JCRP",
-      "Compaor\u00e9 S",
+      "Compaoré S",
       "Traore S",
       "Koala M",
       "Youl ENH",
@@ -35597,7 +35821,7 @@
       "Charrouf Z",
       "Rohn S",
       "Drusch S",
-      "Matth\u00e4us B"
+      "Matthäus B"
      ],
      "pubtypes": [
       "Journal Article"
@@ -35627,7 +35851,7 @@
     },
     {
      "pmid": "35234018",
-     "title": "Cardioprotective and Antioxidant Efficiency of Balanites aegyptiaca Extract Against Doxorubicin(\u00ae) Complication",
+     "title": "Cardioprotective and Antioxidant Efficiency of Balanites aegyptiaca Extract Against Doxorubicin(®) Complication",
      "journal": "Pakistan journal of biological sciences : PJBS",
      "year": 2022,
      "authors": [
@@ -35833,18 +36057,18 @@
      "journal": "The American journal of clinical nutrition",
      "year": 2007,
      "authors": [
-      "Sol\u00e0 R",
-      "God\u00e0s G",
+      "Solà R",
+      "Godàs G",
       "Ribalta J",
-      "Vallv\u00e9 JC",
+      "Vallvé JC",
       "Girona J",
       "Anguera A",
       "Ostos M",
       "Recalde D",
       "Salazar J",
       "Caslake M",
-      "Mart\u00edn-Luj\u00e1n F",
-      "Salas-Salvad\u00f3 J",
+      "Martín-Luján F",
+      "Salas-Salvadó J",
       "Masana L"
      ],
      "tier": "B",
@@ -35877,9 +36101,9 @@
      "year": 1994,
      "authors": [
       "Marteau P",
-      "Flouri\u00e9 B",
+      "Flourié B",
       "Cherbut C",
-      "Corr\u00e8ze JL",
+      "Corrèze JL",
       "Pellier P",
       "Seylaz J",
       "Rambaud JC"
@@ -35895,9 +36119,9 @@
      "year": 2025,
      "authors": [
       "Przybyszewska J",
-      "Ku\u017ami\u0144ski A",
+      "Kuźmiński A",
       "Przybyszewski M",
-      "Pop\u0142awski C"
+      "Popławski C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -35915,7 +36139,7 @@
      "year": 2022,
      "authors": [
       "Belorio M",
-      "G\u00f3mez M"
+      "Gómez M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -36091,18 +36315,18 @@
      "journal": "The American journal of clinical nutrition",
      "year": 2007,
      "authors": [
-      "Sol\u00e0 R",
-      "God\u00e0s G",
+      "Solà R",
+      "Godàs G",
       "Ribalta J",
-      "Vallv\u00e9 JC",
+      "Vallvé JC",
       "Girona J",
       "Anguera A",
       "Ostos M",
       "Recalde D",
       "Salazar J",
       "Caslake M",
-      "Mart\u00edn-Luj\u00e1n F",
-      "Salas-Salvad\u00f3 J",
+      "Martín-Luján F",
+      "Salas-Salvadó J",
       "Masana L"
      ],
      "tier": "B",
@@ -36135,9 +36359,9 @@
      "year": 1994,
      "authors": [
       "Marteau P",
-      "Flouri\u00e9 B",
+      "Flourié B",
       "Cherbut C",
-      "Corr\u00e8ze JL",
+      "Corrèze JL",
       "Pellier P",
       "Seylaz J",
       "Rambaud JC"
@@ -36153,9 +36377,9 @@
      "year": 2025,
      "authors": [
       "Przybyszewska J",
-      "Ku\u017ami\u0144ski A",
+      "Kuźmiński A",
       "Przybyszewski M",
-      "Pop\u0142awski C"
+      "Popławski C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -36173,7 +36397,7 @@
      "year": 2022,
      "authors": [
       "Belorio M",
-      "G\u00f3mez M"
+      "Gómez M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -36258,7 +36482,7 @@
     },
     {
      "pmid": "29473499",
-     "title": "Natural Aristolochia Alkaloid Aristololactam-\u03b2-D-glucoside: Interaction with Biomacromolecules and Correlation to the Biological Perspectives",
+     "title": "Natural Aristolochia Alkaloid Aristololactam-β-D-glucoside: Interaction with Biomacromolecules and Correlation to the Biological Perspectives",
      "journal": "Mini reviews in medicinal chemistry",
      "year": 2018,
      "authors": [
@@ -36371,7 +36595,7 @@
       "Sathyanarayanan S",
       "Muniyandi K",
       "Thangaraj P",
-      "de Souza Ara\u00fajo AA"
+      "de Souza Araújo AA"
      ],
      "pubtypes": [
       "Journal Article"
@@ -36548,18 +36772,18 @@
      "journal": "Heliyon",
      "year": 2024,
      "authors": [
-      "Jari\u0107 S",
-      "Karad\u017ei\u0107 B",
-      "Paunovi\u0107 M",
-      "Mila\u010di\u010d R",
-      "\u0160\u010dan\u010dar J",
-      "Kosti\u0107 O",
+      "Jarić S",
+      "Karadžić B",
+      "Paunović M",
+      "Milačič R",
+      "Ščančar J",
+      "Kostić O",
       "Zuliani T",
       "Vidmar J",
-      "Mileti\u0107 Z",
-      "An\u0111us S",
-      "Mitrovi\u0107 M",
-      "Pavlovi\u0107 P"
+      "Miletić Z",
+      "Anđus S",
+      "Mitrović M",
+      "Pavlović P"
      ],
      "pubtypes": [
       "Journal Article"
@@ -37230,9 +37454,9 @@
      "year": 2010,
      "authors": [
       "De Bona KS",
-      "Bell\u00e9 LP",
+      "Bellé LP",
       "Sari MH",
-      "Thom\u00e9 G",
+      "Thomé G",
       "Schetinger MR",
       "Morsch VM",
       "Boligon A",
@@ -37253,7 +37477,7 @@
      "authors": [
       "Bopp A",
       "De Bona KS",
-      "Bell\u00e9 LP",
+      "Bellé LP",
       "Moresco RN",
       "Moretto MB"
      ],
@@ -37621,8 +37845,8 @@
      "journal": "Animals : an open access journal from MDPI",
      "year": 2022,
      "authors": [
-      "Valdivi\u00e9 M",
-      "Mart\u00ednez Y"
+      "Valdivié M",
+      "Martínez Y"
      ],
      "pubtypes": [
       "Journal Article",
@@ -37689,7 +37913,7 @@
       "Singh SR",
       "Patil SR",
       "Harini BP",
-      "Sillanp\u00e4\u00e4 M",
+      "Sillanpää M",
       "Manjunatha JG",
       "Srinath BS",
       "Yarajarla RB"
@@ -37736,10 +37960,10 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "Mej\u00eda JJ",
+      "Mejía JJ",
       "Sierra LJ",
       "Ceballos JG",
-      "Mart\u00ednez JR",
+      "Martínez JR",
       "Stashenko EE"
      ],
      "pubtypes": [
@@ -38358,11 +38582,11 @@
      "journal": "Pharmaceuticals (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "God\u00ednez-Chaparro B",
-      "P\u00e9rez-Guti\u00e9rrez S",
-      "P\u00e9rez-Ramos J",
+      "Godínez-Chaparro B",
+      "Pérez-Gutiérrez S",
+      "Pérez-Ramos J",
       "Heyerdahl-Viau I",
-      "Hern\u00e1ndez-V\u00e1zquez L"
+      "Hernández-Vázquez L"
      ],
      "pubtypes": [
       "Journal Article",
@@ -38380,7 +38604,7 @@
      "year": 2021,
      "authors": [
       "Sossa JWZ",
-      "P\u00e9rez PJP",
+      "Pérez PJP",
       "Piedrahita JCP",
       "Mesa AFR"
      ],
@@ -38395,7 +38619,7 @@
     },
     {
      "pmid": "33206347",
-     "title": "Phytochemical and pharmacological properties of\u00a0Myristica fragrans\u00a0Houtt.: an updated review",
+     "title": "Phytochemical and pharmacological properties of Myristica fragrans Houtt.: an updated review",
      "journal": "Archives of pharmacal research",
      "year": 2020,
      "authors": [
@@ -38638,7 +38862,7 @@
     },
     {
      "pmid": "33206347",
-     "title": "Phytochemical and pharmacological properties of\u00a0Myristica fragrans\u00a0Houtt.: an updated review",
+     "title": "Phytochemical and pharmacological properties of Myristica fragrans Houtt.: an updated review",
      "journal": "Archives of pharmacal research",
      "year": 2020,
      "authors": [
@@ -38678,7 +38902,7 @@
      "journal": "Natural toxins",
      "year": 1997,
      "authors": [
-      "Hallstr\u00f6m H",
+      "Hallström H",
       "Thuvander A"
      ],
      "pubtypes": [
@@ -39086,7 +39310,7 @@
     {
      "pmid": "25538350",
      "doi": "10.4103/0257-7941.144619",
-     "title": "Detoxification of Croton tiglium L. seeds by Ayurvedic process of \u015aodhana",
+     "title": "Detoxification of Croton tiglium L. seeds by Ayurvedic process of Śodhana",
      "journal": "Ancient science of life",
      "year": 2014,
      "authors": [
@@ -40213,7 +40437,7 @@
     },
     {
      "pmid": "39484165",
-     "title": "\u03b2-Elemene promotes ferroptosis and reverses radioresistance in gastric cancer by inhibiting the OTUB1-GPX4 interaction",
+     "title": "β-Elemene promotes ferroptosis and reverses radioresistance in gastric cancer by inhibiting the OTUB1-GPX4 interaction",
      "journal": "Frontiers in pharmacology",
      "year": 2024,
      "authors": [
@@ -40784,13 +41008,13 @@
      "authors": [
       "Munar AM",
       "Trujillo DB",
-      "M\u00e9ndez NM",
+      "Méndez NM",
       "Mesa CG",
       "Tenorio PA",
       "Montealegre-Torres F",
-      "Zapata-D\u00edaz YC",
+      "Zapata-Díaz YC",
       "Ospina-Aguilar LG",
-      "Casta\u00f1eda-Ni\u00f1o JP"
+      "Castañeda-Niño JP"
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/40219250/",
@@ -41498,7 +41722,7 @@
     {
      "pmid": "39197202",
      "doi": "10.1016/j.jpba.2024.116444",
-     "title": "In-depth phytochemical profiling of Roscoea purpurea (Kakoli): Comparative UHPLC-MS/QToF and GC-MS/MS analysis of supercritical CO(2) fluid - and conventional solvent\u00a0-\u00a0based extractive processes",
+     "title": "In-depth phytochemical profiling of Roscoea purpurea (Kakoli): Comparative UHPLC-MS/QToF and GC-MS/MS analysis of supercritical CO(2) fluid - and conventional solvent - based extractive processes",
      "journal": "Journal of pharmaceutical and biomedical analysis",
      "year": 2024,
      "authors": [
@@ -41774,7 +41998,7 @@
      "authors": [
       "Mekhemar M",
       "Hassan Y",
-      "D\u00f6rfer C"
+      "Dörfer C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -42326,7 +42550,7 @@
      "authors": [
       "Mekhemar M",
       "Hassan Y",
-      "D\u00f6rfer C"
+      "Dörfer C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -43266,7 +43490,7 @@
     },
     {
      "pmid": "36111428",
-     "title": "Towards a win-win chemistry: extraction of C.I. orange from Kamala fruit (Mallotus philippensis), and simultaneous exercise of its peels for the removal of Methylene Blue\u00a0from water",
+     "title": "Towards a win-win chemistry: extraction of C.I. orange from Kamala fruit (Mallotus philippensis), and simultaneous exercise of its peels for the removal of Methylene Blue from water",
      "journal": "International journal of phytoremediation",
      "year": 2023,
      "authors": [
@@ -43390,7 +43614,7 @@
     },
     {
      "pmid": "27941980",
-     "title": "Cytokine Attenuation and Free Radical Scavenging Activity of a New Flavanone7,4'-Dihydroxy-3\u2033,3\u2033-Dimethyl -(5,6-Pyrano-2\u2033-One)- 8- (3\u2034,3\u2034-Dimethyl Allyl)- Isolated from Mallotus philippensis: Possible Mechanism for Its Anti-Inflammatory Activity",
+     "title": "Cytokine Attenuation and Free Radical Scavenging Activity of a New Flavanone7,4'-Dihydroxy-3″,3″-Dimethyl -(5,6-Pyrano-2″-One)- 8- (3‴,3‴-Dimethyl Allyl)- Isolated from Mallotus philippensis: Possible Mechanism for Its Anti-Inflammatory Activity",
      "journal": "PloS one",
      "year": 2016,
      "authors": [
@@ -43708,7 +43932,7 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2025,
      "authors": [
-      "D\u00edaz-Guerrero P",
+      "Díaz-Guerrero P",
       "Panzani S",
       "Sanmartin C",
       "Muntoni C",
@@ -43864,7 +44088,7 @@
      "authors": [
       "Gusson-Zanetoni JP",
       "da Silva JSGM",
-      "Pic\u00e3o TB",
+      "Picão TB",
       "Cardin LT",
       "Prates J",
       "Sousa SO",
@@ -43956,12 +44180,12 @@
      "year": 2007,
      "authors": [
       "Silva ML",
-      "Co\u00edmbra HS",
+      "Coímbra HS",
       "Pereira AC",
       "Almeida VA",
       "Lima TC",
       "Costa ES",
-      "Vinh\u00f3lis AH",
+      "Vinhólis AH",
       "Royo VA",
       "Silva R",
       "Filho AA",
@@ -44525,9 +44749,9 @@
      "journal": "CNS neuroscience & therapeutics",
      "year": 2025,
      "authors": [
-      "Akta\u015f E",
-      "Hana\u011fas\u0131 HA",
-      "\u00d6zgent\u00fcrk N\u00d6"
+      "Aktaş E",
+      "Hanağası HA",
+      "Özgentürk NÖ"
      ],
      "tier": "A",
      "url": "https://pubmed.ncbi.nlm.nih.gov/40808332/",
@@ -44631,11 +44855,11 @@
      "authors": [
       "Mata-Bermudez A",
       "Diaz-Ruiz A",
-      "Silva-Garc\u00eda LR",
+      "Silva-García LR",
       "Gines-Francisco EM",
       "Noriega-Navarro R",
       "Rios C",
-      "Romero-S\u00e1nchez HA",
+      "Romero-Sánchez HA",
       "Arroyo D",
       "Landa A",
       "Navarro L"
@@ -44882,47 +45106,47 @@
       "Bishop-Hurley SL",
       "Shivas RG",
       "Cowan DA",
-      "Maggs-K\u00f6lling G",
+      "Maggs-Kölling G",
       "Maharachchikumbura SSN",
       "Pinruan U",
       "Bransgrove KL",
-      "De la Pe\u00f1a-Lastra S",
+      "De la Peña-Lastra S",
       "Larsson E",
       "Lebel T",
       "Mahadevakumar S",
       "Mateos A",
       "Osieck ER",
-      "Rigueiro-Rodr\u00edguez A",
+      "Rigueiro-Rodríguez A",
       "Sommai S",
       "Ajithkumar K",
       "Akulov A",
       "Anderson FE",
       "Arenas F",
       "Balashov S",
-      "Ba\u00f1ares \u00c1",
+      "Bañares Á",
       "Berger DK",
       "Bianchinotti MV",
       "Bien S",
-      "Bila\u0144ski P",
+      "Bilański P",
       "Boxshall AG",
       "Bradshaw M",
       "Broadbridge J",
-      "Cala\u00e7a FJS",
+      "Calaça FJS",
       "Campos-Quiroz C",
-      "Carrasco-Fern\u00e1ndez J",
+      "Carrasco-Fernández J",
       "Castro JF",
       "Chaimongkol S",
       "Chandranayaka S",
       "Chen Y",
       "Comben D",
       "Dearnaley JDW",
-      "Ferreira-S\u00e1 AS",
+      "Ferreira-Sá AS",
       "Dhileepan K",
-      "D\u00edaz ML",
+      "Díaz ML",
       "Divakar PK",
       "Xavier-Santos S",
-      "Fern\u00e1ndez-Bravo A",
-      "Gen\u00e9 J",
+      "Fernández-Bravo A",
+      "Gené J",
       "Guard FE",
       "Guerra M",
       "Gunaseelan S",
@@ -44930,7 +45154,7 @@
       "Janik-Superson K",
       "Jankowiak R",
       "Jeppson M",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Kaliyaperumal M",
       "Kelly LA",
       "Kezo K",
@@ -44940,28 +45164,28 @@
       "Kiran M",
       "Lacey E",
       "Langer GJ",
-      "L\u00f3pez-Llorca LV",
+      "López-Llorca LV",
       "Luangsa-Ard JJ",
       "Lueangjaroenkit P",
       "Lumbsch HT",
-      "Maci\u00e1-Vicente JG",
+      "Maciá-Vicente JG",
       "Mamatha Bhanu LS",
       "Marney TS",
-      "Marqu\u00e9s-G\u00e1lvez JE",
+      "Marqués-Gálvez JE",
       "Morte A",
       "Naseer A",
-      "Navarro-R\u00f3denas A",
+      "Navarro-Ródenas A",
       "Oyedele O",
       "Peters S",
       "Piskorski S",
       "Quijada L",
-      "Ram\u00edrez GH",
+      "Ramírez GH",
       "Raja K",
       "Razzaq A",
       "Rico VJ",
-      "Rodr\u00edguez A",
+      "Rodríguez A",
       "Ruszkiewicz-Michalska M",
-      "S\u00e1nchez RM",
+      "Sánchez RM",
       "Santelices C",
       "Savitha AS",
       "Serrano M",
@@ -44969,14 +45193,14 @@
       "Solheim H",
       "Somrithipol S",
       "Sreenivasa MY",
-      "St\u0119pniewska H",
+      "Stępniewska H",
       "Strapagiel D",
       "Taylor T",
       "Torres-Garcia D",
       "Vauras J",
       "Villarreal M",
       "Visagie CM",
-      "Wo\u0142kowycki M",
+      "Wołkowycki M",
       "Yingkunchao W",
       "Zapora E",
       "Groenewald JZ",
@@ -45371,12 +45595,12 @@
      "journal": "Frontiers in nutrition",
      "year": 2023,
      "authors": [
-      "Laczk\u00f3-Z\u00f6ld E",
-      "Csupor-L\u00f6ffler B",
-      "Kolcs\u00e1r EB",
+      "Laczkó-Zöld E",
+      "Csupor-Löffler B",
+      "Kolcsár EB",
       "Ferenci T",
       "Nan M",
-      "T\u00f3th B",
+      "Tóth B",
       "Csupor D"
      ],
      "tier": "A",
@@ -45979,7 +46203,7 @@
     },
     {
      "pmid": "35928273",
-     "title": "Penta-O-Galloyl-\u03b2-D-Glucose in Pistacia integerrima Targets AMPK-ULK1 and ERK/STAT3 Signaling Axes to Induce ROS-Independent Autophagic Cell Death in Human Lung Cancer Cells",
+     "title": "Penta-O-Galloyl-β-D-Glucose in Pistacia integerrima Targets AMPK-ULK1 and ERK/STAT3 Signaling Axes to Induce ROS-Independent Autophagic Cell Death in Human Lung Cancer Cells",
      "journal": "Frontiers in pharmacology",
      "year": 2022,
      "authors": [
@@ -46530,7 +46754,7 @@
       "Reinhardt C",
       "Marais D",
       "Hofs JL",
-      "Ch\u00e8vre AM",
+      "Chèvre AM",
       "Pannetier C"
      ],
      "pubtypes": [
@@ -46804,7 +47028,7 @@
       "Reinhardt C",
       "Marais D",
       "Hofs JL",
-      "Ch\u00e8vre AM",
+      "Chèvre AM",
       "Pannetier C"
      ],
      "pubtypes": [
@@ -47342,7 +47566,7 @@
      "year": 2011,
      "authors": [
       "Silva MG",
-      "Arag\u00e3o TP",
+      "Aragão TP",
       "Vasconcelos CF",
       "Ferreira PA",
       "Andrade BA",
@@ -47451,14 +47675,14 @@
      "journal": "Food chemistry",
      "year": 2021,
      "authors": [
-      "Perovi\u0107 J",
-      "Tumbas \u0160aponjac V",
-      "Koji\u0107 J",
+      "Perović J",
+      "Tumbas Šaponjac V",
+      "Kojić J",
       "Krulj J",
       "Moreno DA",
-      "Garc\u00eda-Viguera C",
-      "Bodro\u017ea-Solarov M",
-      "Ili\u0107 N"
+      "García-Viguera C",
+      "Bodroža-Solarov M",
+      "Ilić N"
      ],
      "pubtypes": [
       "Journal Article",
@@ -47511,13 +47735,13 @@
      "journal": "Parasites & vectors",
      "year": 2018,
      "authors": [
-      "Pe\u00f1a-Espinoza M",
+      "Peña-Espinoza M",
       "Valente AH",
       "Thamsborg SM",
       "Simonsen HT",
       "Boas U",
       "Enemark HL",
-      "L\u00f3pez-Mu\u00f1oz R",
+      "López-Muñoz R",
       "Williams AR"
      ],
      "pubtypes": [
@@ -47627,14 +47851,14 @@
      "journal": "International journal for parasitology. Drugs and drug resistance",
      "year": 2022,
      "authors": [
-      "Pe\u00f1a-Espinoza M",
+      "Peña-Espinoza M",
       "Romero-Uzqueda Y",
       "Valente AH",
       "de Roode M",
       "Simonsen HT",
       "Thamsborg SM",
       "Williams AR",
-      "L\u00f3pez-Mu\u00f1oz R"
+      "López-Muñoz R"
      ],
      "pubtypes": [
       "Journal Article"
@@ -48154,7 +48378,7 @@
      "journal": "International journal of molecular sciences",
      "year": 2026,
      "authors": [
-      "Floren\u00e7a SG",
+      "Florença SG",
       "Barroca MJ",
       "Lima MJ",
       "Nunes C"
@@ -48667,7 +48891,7 @@
     },
     {
      "pmid": "42672905",
-     "title": "Antiglycation and Amyloid-\u03b2 Inhibitory Activities of Pandanus odorifer Extracts and Isolated Constituents: In Vitro and Molecular Docking Insights",
+     "title": "Antiglycation and Amyloid-β Inhibitory Activities of Pandanus odorifer Extracts and Isolated Constituents: In Vitro and Molecular Docking Insights",
      "journal": "Chemistry & biodiversity",
      "year": 2026,
      "authors": [
@@ -49027,7 +49251,7 @@
     {
      "pmid": "35218174",
      "doi": "10.1515/dmpt-2021-0195",
-     "title": "The efficacy of topical Marham-e-Akbar in chronic atopic dermatitis\u00a0- an open-label interventional study",
+     "title": "The efficacy of topical Marham-e-Akbar in chronic atopic dermatitis - an open-label interventional study",
      "journal": "Drug metabolism and personalized therapy",
      "year": 2022,
      "authors": [
@@ -49050,7 +49274,7 @@
      "authors": [
       "Banjari I",
       "Misir A",
-      "Pavli\u0107 M",
+      "Pavlić M",
       "Herath PN",
       "Waisundara VY"
      ],
@@ -49115,7 +49339,7 @@
     },
     {
      "pmid": "41396845",
-     "title": "An Herbal Enema Formula Alleviates Ulcerative Colitis by Inhibiting Enteric Glial Activation via the S100\u03b2/RAGE/NF-\u03baB Pathway",
+     "title": "An Herbal Enema Formula Alleviates Ulcerative Colitis by Inhibiting Enteric Glial Activation via the S100β/RAGE/NF-κB Pathway",
      "journal": "Journal of visualized experiments : JoVE",
      "year": 2025,
      "authors": [
@@ -49726,7 +49950,7 @@
     },
     {
      "pmid": "39471254",
-     "title": "Isolation, Characterization, and Anti-Inflammatory Effects of \u03b2-Sitosterol-\u03b2-D-Glucoside from Hygrophila auriculata: Experimental Validation, Molecular Docking, and Molecular Dynamics Simulations",
+     "title": "Isolation, Characterization, and Anti-Inflammatory Effects of β-Sitosterol-β-D-Glucoside from Hygrophila auriculata: Experimental Validation, Molecular Docking, and Molecular Dynamics Simulations",
      "journal": "Chemistry & biodiversity",
      "year": 2025,
      "authors": [
@@ -51087,7 +51311,7 @@
     {
      "pmid": "39656760",
      "doi": "10.1111/1750-3841.17594",
-     "title": "Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic\u00a0review",
+     "title": "Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic review",
      "journal": "Journal of food science",
      "year": 2024,
      "authors": [
@@ -51424,7 +51648,7 @@
      "authors": [
       "Kraehmer H",
       "Bonsels-Klein K",
-      "Cla\u00dfen-Bockhoff R"
+      "Claßen-Bockhoff R"
      ],
      "pubtypes": [
       "Journal Article"
@@ -51450,8 +51674,8 @@
       "Paulo A",
       "Soeiro CF",
       "Sousa SA",
-      "Leit\u00e3o JH",
-      "T\u0103b\u0103caru A",
+      "Leitão JH",
+      "Tăbăcaru A",
       "Avramescu SM",
       "Dinica RM",
       "Campello MPC"
@@ -51472,11 +51696,11 @@
      "authors": [
       "Cudalbeanu M",
       "Furdui B",
-      "C\u00e2r\u00e2c G",
+      "Cârâc G",
       "Barbu V",
       "Iancu AV",
       "Marques F",
-      "Leit\u00e3o JH",
+      "Leitão JH",
       "Sousa SA",
       "Dinica RM"
      ],
@@ -52576,7 +52800,7 @@
      "authors": [
       "Cheenpracha S",
       "Boapun P",
-      "Limtharakul N\u00e9e Ritthiwigrom T",
+      "Limtharakul Née Ritthiwigrom T",
       "Laphookhieo S",
       "Pyne SG"
      ],
@@ -52787,7 +53011,7 @@
     },
     {
      "pmid": "27455739",
-     "title": "Synthesis and Characterization of Mimosa Pudica Leaves Shaped \u03b1-Iron Oxide Nanostructures for Ethanol Chemical Sensor Applications",
+     "title": "Synthesis and Characterization of Mimosa Pudica Leaves Shaped α-Iron Oxide Nanostructures for Ethanol Chemical Sensor Applications",
      "journal": "Journal of nanoscience and nanotechnology",
      "year": 2016,
      "authors": [
@@ -52961,7 +53185,7 @@
     },
     {
      "pmid": "40329121",
-     "title": "Identification of specialized metabolites from Artocarpus lacucha as potent \u03b1-glucosidase and acetylcholinesterase inhibitors: enzyme kinetic, in vitro and in silico study",
+     "title": "Identification of specialized metabolites from Artocarpus lacucha as potent α-glucosidase and acetylcholinesterase inhibitors: enzyme kinetic, in vitro and in silico study",
      "journal": "Journal of natural medicines",
      "year": 2025,
      "authors": [
@@ -52985,7 +53209,7 @@
     },
     {
      "pmid": "38476607",
-     "title": "Antibacterial and antioxidant activities in various parts of Artocarpus\u00a0lacucha Buch. Ham. ethanolic extract",
+     "title": "Antibacterial and antioxidant activities in various parts of Artocarpus lacucha Buch. Ham. ethanolic extract",
      "journal": "Biomedical reports",
      "year": 2024,
      "authors": [
@@ -53278,8 +53502,8 @@
       "Jha NK",
       "Kumar M",
       "Radha",
-      "Pro\u0107k\u00f3w J",
-      "P\u00e9rez de la Lastra JM",
+      "Proćków J",
+      "Pérez de la Lastra JM",
       "Dey A"
      ],
      "tier": "C",
@@ -53396,17 +53620,17 @@
      "journal": "Molecular biology reports",
      "year": 2024,
      "authors": [
-      "Santos-\u00c1lvarez JC",
-      "Vel\u00e1zquez-Enr\u00edquez JM",
-      "Reyes-Jim\u00e9nez E",
-      "Ram\u00edrez-Hern\u00e1ndez AA",
-      "I\u00f1iguez-Palomares R",
-      "Rodr\u00edguez-Beas C",
+      "Santos-Álvarez JC",
+      "Velázquez-Enríquez JM",
+      "Reyes-Jiménez E",
+      "Ramírez-Hernández AA",
+      "Iñiguez-Palomares R",
+      "Rodríguez-Beas C",
       "Canseco SP",
       "Aguilar-Ruiz SR",
-      "Castro-S\u00e1nchez L",
-      "V\u00e1squez-Garz\u00f3n VR",
-      "Balti\u00e9rrez-Hoyos R"
+      "Castro-Sánchez L",
+      "Vásquez-Garzón VR",
+      "Baltiérrez-Hoyos R"
      ],
      "pubtypes": [
       "Journal Article"
@@ -53737,7 +53961,7 @@
     {
      "pmid": "40074996",
      "doi": "10.1007/s10787-025-01664-7",
-     "title": "Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive\u00a0review on immunomodulatory perspective",
+     "title": "Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive review on immunomodulatory perspective",
      "journal": "Inflammopharmacology",
      "year": 2025,
      "authors": [
@@ -53882,9 +54106,9 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2021,
      "authors": [
-      "Haro-Gonz\u00e1lez JN",
+      "Haro-González JN",
       "Castillo-Herrera GA",
-      "Mart\u00ednez-Vel\u00e1zquez M",
+      "Martínez-Velázquez M",
       "Espinosa-Andrews H"
      ],
      "pubtypes": [
@@ -54030,7 +54254,7 @@
     {
      "pmid": "40074996",
      "doi": "10.1007/s10787-025-01664-7",
-     "title": "Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive\u00a0review on immunomodulatory perspective",
+     "title": "Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive review on immunomodulatory perspective",
      "journal": "Inflammopharmacology",
      "year": 2025,
      "authors": [
@@ -54153,9 +54377,9 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2021,
      "authors": [
-      "Haro-Gonz\u00e1lez JN",
+      "Haro-González JN",
       "Castillo-Herrera GA",
-      "Mart\u00ednez-Vel\u00e1zquez M",
+      "Martínez-Velázquez M",
       "Espinosa-Andrews H"
      ],
      "pubtypes": [
@@ -54873,7 +55097,7 @@
     },
     {
      "pmid": "34938807",
-     "title": "\u03b1-Amylase Inhibitory Activity of Catunaregam spinosa (Thunb.) Tirveng.: In Vitro and In Silico Studies",
+     "title": "α-Amylase Inhibitory Activity of Catunaregam spinosa (Thunb.) Tirveng.: In Vitro and In Silico Studies",
      "journal": "BioMed research international",
      "year": 2021,
      "authors": [
@@ -55086,7 +55310,7 @@
      "authors": [
       "Meneses C",
       "Valdes-Gonzalez M",
-      "Garrido-Su\u00e1rez BB",
+      "Garrido-Suárez BB",
       "Garrido G"
      ],
      "pubtypes": [
@@ -55480,9 +55704,9 @@
      "journal": "Heliyon",
      "year": 2023,
      "authors": [
-      "B\u00fcrkel P",
+      "Bürkel P",
       "Rajbhandari M",
-      "J\u00fcrgenliemk G"
+      "Jürgenliemk G"
      ],
      "pubtypes": [
       "Journal Article"
@@ -55880,7 +56104,7 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2025,
      "authors": [
-      "Jim\u00e9nez-Ferrer E",
+      "Jiménez-Ferrer E",
       "Herrera-Ruiz M",
       "Campos-Vidal Y",
       "Flores-Franco G",
@@ -56209,7 +56433,7 @@
      "authors": [
       "Meneses C",
       "Valdes-Gonzalez M",
-      "Garrido-Su\u00e1rez BB",
+      "Garrido-Suárez BB",
       "Garrido G"
      ],
      "pubtypes": [
@@ -56417,7 +56641,7 @@
       "Dias MC",
       "Pinto DCGA",
       "Costa M",
-      "Ara\u00fajo M",
+      "Araújo M",
       "Santos C",
       "Silva AMS"
      ],
@@ -56821,7 +57045,7 @@
      "journal": "International journal of environmental research and public health",
      "year": 2022,
      "authors": [
-      "Arribas-L\u00f3pez E",
+      "Arribas-López E",
       "Zand N",
       "Ojo O",
       "Snowden MJ",
@@ -56967,8 +57191,8 @@
       "Kumar M",
       "Radha",
       "Ghosh A",
-      "Pro\u0107k\u00f3w J",
-      "P\u00e9rez de la Lastra JM",
+      "Proćków J",
+      "Pérez de la Lastra JM",
       "Dey A"
      ],
      "pubtypes": [
@@ -57293,7 +57517,7 @@
      "year": 2011,
      "authors": [
       "Casetti F",
-      "W\u00f6lfle U",
+      "Wölfle U",
       "Gehring W",
       "Schempp CM"
      ],
@@ -57576,7 +57800,7 @@
      "year": 2011,
      "authors": [
       "Casetti F",
-      "W\u00f6lfle U",
+      "Wölfle U",
       "Gehring W",
       "Schempp CM"
      ],
@@ -57656,7 +57880,7 @@
       "Cejas I ",
       "Sershen EY ",
       "Lorenzo JC ",
-      "Mart\u00ednez-Montero ME ",
+      "Martínez-Montero ME ",
       "Fontes D "
      ],
      "pubtypes": [
@@ -57907,7 +58131,7 @@
       "Kumar SS",
       "Vijayanand S",
       "Padmanabhan P",
-      "Guly\u00e1s B",
+      "Gulyás B",
       "Mathanmohun M"
      ],
      "pubtypes": [
@@ -57941,7 +58165,7 @@
     },
     {
      "pmid": "35251216",
-     "title": "Protective Effects of Alternanthera sessilis Ethanolic Extract against TNF-\u03b1 or H(2)O(2)-Induced Endothelial Activation in Human Aortic Endothelial Cells",
+     "title": "Protective Effects of Alternanthera sessilis Ethanolic Extract against TNF-α or H(2)O(2)-Induced Endothelial Activation in Human Aortic Endothelial Cells",
      "journal": "Evidence-based complementary and alternative medicine : eCAM",
      "year": 2022,
      "authors": [
@@ -58172,14 +58396,14 @@
     },
     {
      "pmid": "36903853",
-     "title": "Health-Promoting Properties and Potential Application in the Food Industry of Citrus medica L. and Citrus \u00d7 clementina Hort. Ex Tan. Essential Oils and Their Main Constituents",
+     "title": "Health-Promoting Properties and Potential Application in the Food Industry of Citrus medica L. and Citrus × clementina Hort. Ex Tan. Essential Oils and Their Main Constituents",
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
       "Tundis R",
       "Xiao J",
       "Silva AS",
-      "Carreir\u00f3 F",
+      "Carreiró F",
       "Loizzo MR"
      ],
      "pubtypes": [
@@ -58295,7 +58519,7 @@
     },
     {
      "pmid": "31847295",
-     "title": "Polyphenols, Antioxidant, Antibacterial, and Biofilm Inhibitory Activities of Peel and Pulp of Citrus medica L., Citrus bergamia, and Citrus medica cv. Sal\u00f2 Cultivated in Southern Italy",
+     "title": "Polyphenols, Antioxidant, Antibacterial, and Biofilm Inhibitory Activities of Peel and Pulp of Citrus medica L., Citrus bergamia, and Citrus medica cv. Salò Cultivated in Southern Italy",
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2019,
      "authors": [
@@ -58522,7 +58746,7 @@
     },
     {
      "pmid": "24215061",
-     "title": "Antispasmodic and antidiarrheal activities of rhizomes of Polygonatum verticillatum maneuvered predominately through activation of K\u207a channels: Components identification through TLC",
+     "title": "Antispasmodic and antidiarrheal activities of rhizomes of Polygonatum verticillatum maneuvered predominately through activation of K⁺ channels: Components identification through TLC",
      "journal": "Toxicology and industrial health",
      "year": 2016,
      "authors": [
@@ -58623,7 +58847,7 @@
       "Raposo A",
       "Sarkar C",
       "Roy UK",
-      "Ara\u00fajo IM",
+      "Araújo IM",
       "Coutinho HDM",
       "Alkhoshaiban AS",
       "Alturki HA",
@@ -59006,8 +59230,8 @@
      "authors": [
       "Skrzypiec-Spring M",
       "Pokrywka A",
-      "Kuliczkowska-P\u0142aksej J",
-      "Szel\u0105g A",
+      "Kuliczkowska-Płaksej J",
+      "Szeląg A",
       "Bolanowski M"
      ],
      "pubtypes": [
@@ -59190,7 +59414,7 @@
      "year": 2025,
      "authors": [
       "Giachino RRA",
-      "Bozta\u015f G"
+      "Boztaş G"
      ],
      "pubtypes": [
       "Journal Article",
@@ -59210,7 +59434,7 @@
       "Rafieian F",
       "Amani R",
       "Rezaei A",
-      "Kara\u00e7a AC",
+      "Karaça AC",
       "Jafari SM"
      ],
      "pubtypes": [
@@ -59340,8 +59564,8 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "Kri\u017eman M",
-      "Jak\u0161e J"
+      "Križman M",
+      "Jakše J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -59536,12 +59760,12 @@
      "journal": "Nutrients",
      "year": 2025,
      "authors": [
-      "Cri\u0219an D",
-      "Gavrila\u0219 L",
-      "P\u0103ltinean R",
+      "Crișan D",
+      "Gavrilaș L",
+      "Păltinean R",
       "Frumuzachi O",
       "Mocan A",
-      "Cri\u0219an G"
+      "Crișan G"
      ],
      "tier": "A",
      "url": "https://pubmed.ncbi.nlm.nih.gov/41305552/",
@@ -59556,8 +59780,8 @@
      "authors": [
       "da Silva Parente TSJ",
       "Sarandy MM",
-      "de Ara\u00fajo ERD",
-      "Gon\u00e7alves RV",
+      "de Araújo ERD",
+      "Gonçalves RV",
       "Zucolotto SM"
      ],
      "tier": "A",
@@ -59629,7 +59853,7 @@
      "year": 2024,
      "authors": [
       "Klimek-Szczykutowicz M",
-      "Gawe\u0142-B\u0119ben K",
+      "Gaweł-Bęben K",
       "Rutka A",
       "Blicharska E",
       "Tatarczak-Michalewska M",
@@ -59715,9 +59939,9 @@
      "year": 2020,
      "authors": [
       "Lopez-Rodriguez NA",
-      "Gayt\u00e1n-Mart\u00ednez M",
+      "Gaytán-Martínez M",
       "de la Luz Reyes-Vega M",
-      "Loarca-Pi\u00f1a G"
+      "Loarca-Piña G"
      ],
      "pubtypes": [
       "Journal Article",
@@ -59835,12 +60059,12 @@
      "year": 2024,
      "authors": [
       "Ziemlewska A",
-      "Zag\u00f3rska-Dziok M",
-      "Mokrzy\u0144ska A",
-      "Nizio\u0142-\u0141ukaszewska Z",
+      "Zagórska-Dziok M",
+      "Mokrzyńska A",
+      "Nizioł-Łukaszewska Z",
       "Szczepanek D",
       "Sowa I",
-      "W\u00f3jciak M"
+      "Wójciak M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -59895,7 +60119,7 @@
      "journal": "TheScientificWorldJournal",
      "year": 2004,
      "authors": [
-      "Guti\u00e9rrez RM",
+      "Gutiérrez RM",
       "Perez RL"
      ],
      "pubtypes": [
@@ -59938,9 +60162,9 @@
      "year": 2024,
      "authors": [
       "Uuh Narvaez JJ",
-      "Acevedo Fern\u00e1ndez JJ",
-      "Negrete Le\u00f3n E",
-      "Mart\u00ednez Rivera JI",
+      "Acevedo Fernández JJ",
+      "Negrete León E",
+      "Martínez Rivera JI",
       "Guillermo Cordero JL",
       "Segura Campos MR"
      ],
@@ -59958,10 +60182,10 @@
      "journal": "Frontiers in microbiology",
      "year": 2024,
      "authors": [
-      "Szyma\u0144ska S",
+      "Szymańska S",
       "Deja-Sikora E",
       "Sikora M",
-      "Niedojad\u0142o K",
+      "Niedojadło K",
       "Mazur J",
       "Hrynkiewicz K"
      ],
@@ -60257,7 +60481,7 @@
     {
      "pmid": "39537046",
      "doi": "10.1016/j.ijbiomac.2024.137529",
-     "title": "A glucose-rich heteropolysaccharide from Marsdenia tenacissima (Roxb.) Wight et Arn. and its zinc-modified complex enhance immunoregulation by regulating TLR4-Myd88-NF-\u03baB pathway",
+     "title": "A glucose-rich heteropolysaccharide from Marsdenia tenacissima (Roxb.) Wight et Arn. and its zinc-modified complex enhance immunoregulation by regulating TLR4-Myd88-NF-κB pathway",
      "journal": "International journal of biological macromolecules",
      "year": 2024,
      "authors": [
@@ -60462,7 +60686,7 @@
       "Rhourrhi-Frih B",
       "West C",
       "Pasquier L",
-      "Andr\u00e9 P",
+      "André P",
       "Chaimbault P",
       "Lafosse M"
      ],
@@ -60509,7 +60733,7 @@
       "Kumar BR",
       "Saf R",
       "Rao AV",
-      "Sch\u00fchly W"
+      "Schühly W"
      ],
      "pubtypes": [
       "Journal Article"
@@ -60675,7 +60899,7 @@
    "citations": [
     {
      "pmid": "40851795",
-     "title": "Mesua ferrea L. extract Attenuates Angiogenesis Through HIF-1\u03b1 and WNT Mediated Blockage of VEGF/Angiopoietin Axis",
+     "title": "Mesua ferrea L. extract Attenuates Angiogenesis Through HIF-1α and WNT Mediated Blockage of VEGF/Angiopoietin Axis",
      "journal": "Dose-response : a publication of International Hormesis Society",
      "year": 2025,
      "authors": [
@@ -61190,10 +61414,10 @@
       "Sousa CN",
       "Meneses LN",
       "Ximenes NC",
-      "Santos J\u00fanior MA",
+      "Santos Júnior MA",
       "Vasconcelos GS",
       "Lima NB",
-      "Patroc\u00ednio MC",
+      "Patrocínio MC",
       "Macedo D",
       "Vasconcelos SM"
      ],
@@ -61341,7 +61565,7 @@
      "authors": [
       "Nguyen QT",
       "Bandupriya HD",
-      "L\u00f3pez-Villalobos A",
+      "López-Villalobos A",
       "Sisunandar S",
       "Foale M",
       "Adkins SW"
@@ -61455,10 +61679,10 @@
       "Sousa CN",
       "Meneses LN",
       "Ximenes NC",
-      "Santos J\u00fanior MA",
+      "Santos Júnior MA",
       "Vasconcelos GS",
       "Lima NB",
-      "Patroc\u00ednio MC",
+      "Patrocínio MC",
       "Macedo D",
       "Vasconcelos SM"
      ],
@@ -61600,7 +61824,7 @@
      "authors": [
       "Nguyen QT",
       "Bandupriya HD",
-      "L\u00f3pez-Villalobos A",
+      "López-Villalobos A",
       "Sisunandar S",
       "Foale M",
       "Adkins SW"
@@ -62269,7 +62493,7 @@
     },
     {
      "pmid": "37051370",
-     "title": "Application of encapsulated Indigofera tinctoria extract as a\u00a0natural antioxidant and colorant in ice cream",
+     "title": "Application of encapsulated Indigofera tinctoria extract as a natural antioxidant and colorant in ice cream",
      "journal": "Food science & nutrition",
      "year": 2023,
      "authors": [
@@ -63240,10 +63464,10 @@
      "journal": "Journal of pharmaceutical and biomedical analysis",
      "year": 2010,
      "authors": [
-      "Gonz\u00e1lez-Molina E",
-      "Dom\u00ednguez-Perles R",
+      "González-Molina E",
+      "Domínguez-Perles R",
       "Moreno DA",
-      "Garc\u00eda-Viguera C"
+      "García-Viguera C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -63397,7 +63621,7 @@
      "authors": [
       "Islam Z",
       "Caldeira GI",
-      "Cani\u00e7a M",
+      "Caniça M",
       "Islam N",
       "Silva O"
      ],
@@ -63684,7 +63908,7 @@
      "authors": [
       "Islam Z",
       "Caldeira GI",
-      "Cani\u00e7a M",
+      "Caniça M",
       "Islam N",
       "Silva O"
      ],
@@ -64622,7 +64846,7 @@
     },
     {
      "pmid": "38799414",
-     "title": "Purification and Characterization of \u03b1-Mannosidase from Onion, Allium cepa",
+     "title": "Purification and Characterization of α-Mannosidase from Onion, Allium cepa",
      "journal": "Journal of applied glycoscience",
      "year": 2024,
      "authors": [
@@ -64678,10 +64902,10 @@
       "Dusman E",
       "da Silva Gonzalez R",
       "Romero AL",
-      "Dos Santos Gon\u00e7alves do Nascimento GC",
+      "Dos Santos Gonçalves do Nascimento GC",
       "de Souza Moura MA",
       "Bressiani PA",
-      "Filipi \u00c1CK",
+      "Filipi ÁCK",
       "Gomes EMV",
       "Pokrywiecki JC",
       "da Silva Medeiros FV",
@@ -65062,7 +65286,7 @@
     },
     {
      "pmid": "38723523",
-     "title": "SIRT1-activating butein inhibits arecoline-induced mitochondrial dysfunction through PGC1\u03b1 and MTP18 in oral cancer",
+     "title": "SIRT1-activating butein inhibits arecoline-induced mitochondrial dysfunction through PGC1α and MTP18 in oral cancer",
      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
      "year": 2024,
      "authors": [
@@ -65754,7 +65978,7 @@
     },
     {
      "pmid": "35941256",
-     "title": "Biosynthesis and biophysical elucidation of CuO nanoparticle from Nyctanthes arbor-tristis\u00a0Linn Leaf",
+     "title": "Biosynthesis and biophysical elucidation of CuO nanoparticle from Nyctanthes arbor-tristis Linn Leaf",
      "journal": "Applied microbiology and biotechnology",
      "year": 2022,
      "authors": [
@@ -65789,9 +66013,9 @@
       "Brauning FZ",
       "Ogungbemiro FO",
       "Palma BB",
-      "D\u00edaz-Lanza AM",
+      "Díaz-Lanza AM",
       "Hassan A",
-      "Andr\u00e9 R",
+      "André R",
       "Rijo P"
      ],
      "pubtypes": [
@@ -65967,10 +66191,10 @@
       "Yanza YR",
       "Szumacher-Strabel M",
       "Lechniak D",
-      "\u015alusarczyk S",
+      "Ślusarczyk S",
       "Kolodziejski P",
       "Patra AK",
-      "V\u00e1radyov\u00e1 Z",
+      "Váradyová Z",
       "Lisiak D",
       "Vazirigohar M",
       "Cieslak A"
@@ -65989,8 +66213,8 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2021,
      "authors": [
-      "\u015alusarczyk S",
-      "Cie\u015blak A",
+      "Ślusarczyk S",
+      "Cieślak A",
       "Yanza YR",
       "Szumacher-Strabel M",
       "Varadyova Z",
@@ -66509,8 +66733,8 @@
       "Dash KK",
       "Kalsi R",
       "Pandey VK",
-      "Hars\u00e1nyi E",
-      "Kov\u00e1cs B",
+      "Harsányi E",
+      "Kovács B",
       "Shaikh AM"
      ],
      "pubtypes": [
@@ -66576,7 +66800,7 @@
       "Tao L",
       "Li J",
       "Xu L",
-      "L\u00fc H",
+      "Lü H",
       "Hu J"
      ],
      "pubtypes": [
@@ -66781,7 +67005,7 @@
       "Kumar M",
       "Radha",
       "Hassan Y",
-      "D\u00f6rfer C"
+      "Dörfer C"
      ],
      "pubtypes": [
       "Journal Article",
@@ -67007,7 +67231,7 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2025,
      "authors": [
-      "D\u00edaz-Guerrero P",
+      "Díaz-Guerrero P",
       "Panzani S",
       "Sanmartin C",
       "Muntoni C",
@@ -67075,7 +67299,7 @@
       "Duarte ABS",
       "Gomes RC",
       "Nunes VRV",
-      "Gon\u00e7alves JCR",
+      "Gonçalves JCR",
       "Correia CA",
       "Dos Santos AZG",
       "de Sousa DP"
@@ -67256,7 +67480,7 @@
      "journal": "Molecules (Basel, Switzerland)",
      "year": 2025,
      "authors": [
-      "D\u00edaz-Guerrero P",
+      "Díaz-Guerrero P",
       "Panzani S",
       "Sanmartin C",
       "Muntoni C",
@@ -67324,7 +67548,7 @@
       "Duarte ABS",
       "Gomes RC",
       "Nunes VRV",
-      "Gon\u00e7alves JCR",
+      "Gonçalves JCR",
       "Correia CA",
       "Dos Santos AZG",
       "de Sousa DP"
@@ -67533,7 +67757,7 @@
    "citations": [
     {
      "pmid": "40633863",
-     "title": "Structure transition and gel melioration of \u03b9-carrageenan and non-gelling senna tora gum mixed gel",
+     "title": "Structure transition and gel melioration of ι-carrageenan and non-gelling senna tora gum mixed gel",
      "journal": "International journal of biological macromolecules",
      "year": 2025,
      "authors": [
@@ -67657,47 +67881,47 @@
       "Bishop-Hurley SL",
       "Shivas RG",
       "Cowan DA",
-      "Maggs-K\u00f6lling G",
+      "Maggs-Kölling G",
       "Maharachchikumbura SSN",
       "Pinruan U",
       "Bransgrove KL",
-      "De la Pe\u00f1a-Lastra S",
+      "De la Peña-Lastra S",
       "Larsson E",
       "Lebel T",
       "Mahadevakumar S",
       "Mateos A",
       "Osieck ER",
-      "Rigueiro-Rodr\u00edguez A",
+      "Rigueiro-Rodríguez A",
       "Sommai S",
       "Ajithkumar K",
       "Akulov A",
       "Anderson FE",
       "Arenas F",
       "Balashov S",
-      "Ba\u00f1ares \u00c1",
+      "Bañares Á",
       "Berger DK",
       "Bianchinotti MV",
       "Bien S",
-      "Bila\u0144ski P",
+      "Bilański P",
       "Boxshall AG",
       "Bradshaw M",
       "Broadbridge J",
-      "Cala\u00e7a FJS",
+      "Calaça FJS",
       "Campos-Quiroz C",
-      "Carrasco-Fern\u00e1ndez J",
+      "Carrasco-Fernández J",
       "Castro JF",
       "Chaimongkol S",
       "Chandranayaka S",
       "Chen Y",
       "Comben D",
       "Dearnaley JDW",
-      "Ferreira-S\u00e1 AS",
+      "Ferreira-Sá AS",
       "Dhileepan K",
-      "D\u00edaz ML",
+      "Díaz ML",
       "Divakar PK",
       "Xavier-Santos S",
-      "Fern\u00e1ndez-Bravo A",
-      "Gen\u00e9 J",
+      "Fernández-Bravo A",
+      "Gené J",
       "Guard FE",
       "Guerra M",
       "Gunaseelan S",
@@ -67705,7 +67929,7 @@
       "Janik-Superson K",
       "Jankowiak R",
       "Jeppson M",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Kaliyaperumal M",
       "Kelly LA",
       "Kezo K",
@@ -67715,28 +67939,28 @@
       "Kiran M",
       "Lacey E",
       "Langer GJ",
-      "L\u00f3pez-Llorca LV",
+      "López-Llorca LV",
       "Luangsa-Ard JJ",
       "Lueangjaroenkit P",
       "Lumbsch HT",
-      "Maci\u00e1-Vicente JG",
+      "Maciá-Vicente JG",
       "Mamatha Bhanu LS",
       "Marney TS",
-      "Marqu\u00e9s-G\u00e1lvez JE",
+      "Marqués-Gálvez JE",
       "Morte A",
       "Naseer A",
-      "Navarro-R\u00f3denas A",
+      "Navarro-Ródenas A",
       "Oyedele O",
       "Peters S",
       "Piskorski S",
       "Quijada L",
-      "Ram\u00edrez GH",
+      "Ramírez GH",
       "Raja K",
       "Razzaq A",
       "Rico VJ",
-      "Rodr\u00edguez A",
+      "Rodríguez A",
       "Ruszkiewicz-Michalska M",
-      "S\u00e1nchez RM",
+      "Sánchez RM",
       "Santelices C",
       "Savitha AS",
       "Serrano M",
@@ -67744,14 +67968,14 @@
       "Solheim H",
       "Somrithipol S",
       "Sreenivasa MY",
-      "St\u0119pniewska H",
+      "Stępniewska H",
       "Strapagiel D",
       "Taylor T",
       "Torres-Garcia D",
       "Vauras J",
       "Villarreal M",
       "Visagie CM",
-      "Wo\u0142kowycki M",
+      "Wołkowycki M",
       "Yingkunchao W",
       "Zapora E",
       "Groenewald JZ",
@@ -68270,7 +68494,7 @@
      "year": 2014,
      "authors": [
       "Claes C",
-      "Lafet\u00e1 AP"
+      "Lafetá AP"
      ],
      "pubtypes": [
       "Journal Article",
@@ -68520,7 +68744,7 @@
     },
     {
      "pmid": "23929986",
-     "title": "Botanical identity of plant sources of Da\u015bam\u016bla drugs through an analysis of published literature",
+     "title": "Botanical identity of plant sources of Daśamūla drugs through an analysis of published literature",
      "journal": "Ancient science of life",
      "year": 2012,
      "authors": [
@@ -68724,7 +68948,7 @@
     },
     {
      "pmid": "31554061",
-     "title": "Identification and characterization of major IgE binding of purified allergenic protein (11\u202fkDa) from Buchanania lanzan",
+     "title": "Identification and characterization of major IgE binding of purified allergenic protein (11 kDa) from Buchanania lanzan",
      "journal": "Food research international (Ottawa, Ont.)",
      "year": 2019,
      "authors": [
@@ -69076,7 +69300,7 @@
     },
     {
      "pmid": "28930267",
-     "title": "\u03b2-Selinene-Rich Essential Oils from the Parts of Callicarpa macrophylla and Their Antioxidant and Pharmacological Activities",
+     "title": "β-Selinene-Rich Essential Oils from the Parts of Callicarpa macrophylla and Their Antioxidant and Pharmacological Activities",
      "journal": "Medicines (Basel, Switzerland)",
      "year": 2017,
      "authors": [
@@ -69195,7 +69419,7 @@
     {
      "pmid": "30087294",
      "doi": "10.3390/nu10081029",
-     "title": "Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha \u00d7 Piperita L. Essential Oil with In Vitro Properties Relevant to Central Nervous System Function",
+     "title": "Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha × Piperita L. Essential Oil with In Vitro Properties Relevant to Central Nervous System Function",
      "journal": "Nutrients",
      "year": 2018,
      "authors": [
@@ -69491,7 +69715,7 @@
       "Rapposelli S",
       "Sestito S",
       "Anil Kumar NV",
-      "de la Luz C\u00e1diz-Gurrea M",
+      "de la Luz Cádiz-Gurrea M",
       "Segura-Carretero A",
       "P Mishra A",
       "Sharifi-Rad M",
@@ -70296,7 +70520,7 @@
     },
     {
      "pmid": "29409818",
-     "title": "Effect of N-linked glycosylation on the activity and stability of a \u03b2-glucosidase from Putranjiva roxburghii",
+     "title": "Effect of N-linked glycosylation on the activity and stability of a β-glucosidase from Putranjiva roxburghii",
      "journal": "International journal of biological macromolecules",
      "year": 2018,
      "authors": [
@@ -70565,7 +70789,7 @@
      "authors": [
       "Natalia P",
       "Zwirchmayr J",
-      "Rud\u017eionyt\u0117 I",
+      "Rudžionytė I",
       "Pulsinger A",
       "Breuss JM",
       "Uhrin P",
@@ -71058,8 +71282,8 @@
       "Jha NK",
       "Kumar M",
       "Radha",
-      "Pro\u0107k\u00f3w J",
-      "P\u00e9rez de la Lastra JM",
+      "Proćków J",
+      "Pérez de la Lastra JM",
       "Dey A"
      ],
      "tier": "C",
@@ -71098,11 +71322,11 @@
      "journal": "Fish physiology and biochemistry",
      "year": 2021,
      "authors": [
-      "Valenzuela-Guti\u00e9rrez R",
-      "Lago-Lest\u00f3n A",
+      "Valenzuela-Gutiérrez R",
+      "Lago-Lestón A",
       "Vargas-Albores F",
       "Cicala F",
-      "Mart\u00ednez-Porchas M"
+      "Martínez-Porchas M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -71441,17 +71665,17 @@
      "journal": "Molecular biology reports",
      "year": 2024,
      "authors": [
-      "Santos-\u00c1lvarez JC",
-      "Vel\u00e1zquez-Enr\u00edquez JM",
-      "Reyes-Jim\u00e9nez E",
-      "Ram\u00edrez-Hern\u00e1ndez AA",
-      "I\u00f1iguez-Palomares R",
-      "Rodr\u00edguez-Beas C",
+      "Santos-Álvarez JC",
+      "Velázquez-Enríquez JM",
+      "Reyes-Jiménez E",
+      "Ramírez-Hernández AA",
+      "Iñiguez-Palomares R",
+      "Rodríguez-Beas C",
       "Canseco SP",
       "Aguilar-Ruiz SR",
-      "Castro-S\u00e1nchez L",
-      "V\u00e1squez-Garz\u00f3n VR",
-      "Balti\u00e9rrez-Hoyos R"
+      "Castro-Sánchez L",
+      "Vásquez-Garzón VR",
+      "Baltiérrez-Hoyos R"
      ],
      "pubtypes": [
       "Journal Article"
@@ -71571,14 +71795,14 @@
       "Csupor D",
       "Lantos T",
       "Hegyi P",
-      "Benk\u0151 R",
+      "Benkő R",
       "Viola R",
-      "Gy\u00f6ngyi Z",
-      "Cs\u00e9csei P",
-      "T\u00f3th B",
+      "Gyöngyi Z",
+      "Csécsei P",
+      "Tóth B",
       "Vasas A",
-      "M\u00e1rta K",
-      "Rost\u00e1s I",
+      "Márta K",
+      "Rostás I",
       "Szentesi A",
       "Matuz M"
      ],
@@ -71614,7 +71838,7 @@
     },
     {
      "pmid": "28237870",
-     "title": "The treatment of premenstrual syndrome with\u00a0preparations of Vitex agnus castus: a\u00a0systematic review and meta-analysis",
+     "title": "The treatment of premenstrual syndrome with preparations of Vitex agnus castus: a systematic review and meta-analysis",
      "journal": "American journal of obstetrics and gynecology",
      "year": 2017,
      "authors": [
@@ -71693,7 +71917,7 @@
      "year": 2021,
      "authors": [
       "Kenda M",
-      "Glava\u010d NK",
+      "Glavač NK",
       "Nagy M",
       "Sollner Dolenc M",
       "On Behalf Of The Oemonom"
@@ -72219,7 +72443,7 @@
       "Murbach Teles Andrade BF",
       "Conti BJ",
       "Santiago KB",
-      "Fernandes J\u00fanior A",
+      "Fernandes Júnior A",
       "Sforcin JM"
      ],
      "pubtypes": [
@@ -72243,7 +72467,7 @@
       "Rall VL",
       "Sforcin JM",
       "Fernandes AA",
-      "Fernandes J\u00fanior A"
+      "Fernandes Júnior A"
      ],
      "pubtypes": [
       "Journal Article"
@@ -72687,7 +72911,7 @@
       "Kamangar S",
       "Arabi AIA",
       "Thomai P",
-      "Lozanovi\u0107 J"
+      "Lozanović J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -73403,19 +73627,19 @@
       "Hubka V",
       "Taylor PW",
       "Heykoop M",
-      "Mart\u00edn MP",
+      "Martín MP",
       "Moreno G",
       "Sutton DA",
       "Wiederhold NP",
       "Barnes CW",
       "Carlavilla JR",
-      "Gen\u00e9 J",
+      "Gené J",
       "Giraldo A",
       "Guarnaccia V",
       "Guarro J",
-      "Hern\u00e1ndez-Restrepo M",
-      "Kola\u0159\u00edk M",
-      "Manj\u00f3n JL",
+      "Hernández-Restrepo M",
+      "Kolařík M",
+      "Manjón JL",
       "Pascoe IG",
       "Popov ES",
       "Sandoval-Denis M",
@@ -73429,12 +73653,12 @@
       "Boekhout T",
       "Burgess TI",
       "Cano-Lira JF",
-      "\u010cmokov\u00e1 A",
+      "Čmoková A",
       "Dimitrov RA",
       "Dyakov MY",
-      "Due\u00f1as M",
+      "Dueñas M",
       "Dutta AK",
-      "Esteve-Ravent\u00f3s F",
+      "Esteve-Raventós F",
       "Fedosova AG",
       "Fournier J",
       "Gamboa P",
@@ -73444,27 +73668,27 @@
       "Hanse B",
       "Hardy GE",
       "Held BW",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Kaewgrajang T",
       "Latha KP",
       "Lombard L",
       "Luangsa-Ard JJ",
-      "Lyskov\u00e1 P",
-      "Mall\u00e1tov\u00e1 N",
+      "Lysková P",
+      "Mallátová N",
       "Manimohan P",
       "Miller AN",
       "Mirabolfathy M",
       "Morozova OV",
       "Obodai M",
       "Oliveira NT",
-      "Ord\u00f3\u00f1ez ME",
+      "Ordóñez ME",
       "Otto EC",
       "Paloi S",
       "Peterson SW",
       "Phosri C",
       "Roux J",
       "Salazar WA",
-      "S\u00e1nchez A",
+      "Sánchez A",
       "Sarria GA",
       "Shin HD",
       "Silva BD",
@@ -73987,7 +74211,7 @@
     },
     {
      "pmid": "40294665",
-     "title": "Alstonia scholaris (L.) R. Br. ameliorated diabetic nephropathy through PPAR-\u03b4 pathway",
+     "title": "Alstonia scholaris (L.) R. Br. ameliorated diabetic nephropathy through PPAR-δ pathway",
      "journal": "Journal of ethnopharmacology",
      "year": 2025,
      "authors": [
@@ -74625,9 +74849,9 @@
      "year": 2016,
      "authors": [
       "Wu F",
-      "Ker\u010dmar P",
+      "Kerčmar P",
       "Zhang C",
-      "St\u00f6ckigt J"
+      "Stöckigt J"
      ],
      "pubtypes": [
       "Journal Article",
@@ -74870,13 +75094,13 @@
      "authors": [
       "Elizondo-Luevano JH",
       "Quintanilla-Licea R",
-      "Monroy-Garc\u00eda IN",
-      "Ka\u010d\u00e1niov\u00e1 M",
-      "Castillo-Vel\u00e1zquez U",
-      "Bazald\u00faa-Rodr\u00edguez AF",
+      "Monroy-García IN",
+      "Kačániová M",
+      "Castillo-Velázquez U",
+      "Bazaldúa-Rodríguez AF",
       "Garza-Vega LM",
-      "Torres-Hern\u00e1ndez \u00c1D",
-      "Ch\u00e1vez-Montes A"
+      "Torres-Hernández ÁD",
+      "Chávez-Montes A"
      ],
      "pubtypes": [
       "Journal Article"
@@ -74941,11 +75165,11 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2023,
      "authors": [
-      "L\u00f3pez HL",
-      "Beltr\u00e1n Beache M",
+      "López HL",
+      "Beltrán Beache M",
       "Ochoa Fuentes YM",
       "Cerna Chavez E",
-      "\u00c1ngel ECD",
+      "Ángel ECD",
       "Delgado Ortiz JC"
      ],
      "pubtypes": [
@@ -74987,10 +75211,10 @@
      "year": 2021,
      "authors": [
       "Monterrosas-Brisson N",
-      "Zagal-Guzm\u00e1n M",
+      "Zagal-Guzmán M",
       "Zamilpa A",
-      "Jim\u00e9nez-Ferrer E",
-      "Avil\u00e9s-Flores M",
+      "Jiménez-Ferrer E",
+      "Avilés-Flores M",
       "Fuentes-Mata M",
       "Herrera-Ruiz M"
      ],
@@ -75071,14 +75295,14 @@
      "journal": "British journal of clinical pharmacology",
      "year": 2024,
      "authors": [
-      "Beltr\u00e1-Pic\u00f3 I",
-      "D\u00edaz-Gonz\u00e1lez M",
+      "Beltrá-Picó I",
+      "Díaz-González M",
       "Nalda-Molina R",
       "Ramon-Lopez A",
-      "Pascual-Bartolom\u00e9 S",
-      "Miralles-Maci\u00e0 CF",
-      "Rodr\u00edguez-Soler M",
-      "M\u00e1s-Serrano P"
+      "Pascual-Bartolomé S",
+      "Miralles-Macià CF",
+      "Rodríguez-Soler M",
+      "Más-Serrano P"
      ],
      "pubtypes": [
       "Case Reports",
@@ -75113,14 +75337,14 @@
       "Nicola S",
       "Semwal P",
       "Painuli S",
-      "Gonz\u00e1lez-Contreras C",
+      "González-Contreras C",
       "Martorell M",
       "Butnariu M",
       "Bagiu IC",
       "Bagiu RV",
       "Barbhai MD",
       "Kumar M",
-      "Da\u015ftan SD",
+      "Daştan SD",
       "Calina D",
       "Cho WC"
      ],
@@ -75171,7 +75395,7 @@
     },
     {
      "pmid": "39108648",
-     "title": "Cassia angustifolia Vahl. Leaves: Determination of Total Phenolic and Sennoside Contents of Different Fractions in Comparison with Their \u03b1- Glucosidase and Tyrosinase Inhibitory Effects",
+     "title": "Cassia angustifolia Vahl. Leaves: Determination of Total Phenolic and Sennoside Contents of Different Fractions in Comparison with Their α- Glucosidase and Tyrosinase Inhibitory Effects",
      "journal": "Iranian journal of pharmaceutical research : IJPR",
      "year": 2024,
      "authors": [
@@ -75480,7 +75704,7 @@
     },
     {
      "pmid": "35512759",
-     "title": "Efficacy and Safety of Aflapin\u00ae, a Novel Boswellia Serrata Extract, in the Treatment of Osteoarthritis of the Knee: A Short-Term 30-Day Randomized, Double-Blind, Placebo-Controlled Clinical Study",
+     "title": "Efficacy and Safety of Aflapin®, a Novel Boswellia Serrata Extract, in the Treatment of Osteoarthritis of the Knee: A Short-Term 30-Day Randomized, Double-Blind, Placebo-Controlled Clinical Study",
      "journal": "Journal of the American Nutrition Association",
      "year": 2023,
      "authors": [
@@ -75593,7 +75817,7 @@
      "authors": [
       "Maouche A",
       "Boumediene K",
-      "Baug\u00e9 C"
+      "Baugé C"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/39519204/",
@@ -75626,7 +75850,7 @@
     },
     {
      "pmid": "38321741",
-     "title": "High-quality genomes of Bombax ceiba and Ceiba pentandra provide insights into the evolution of\u00a0Malvaceae species and differences in their natural fiber development",
+     "title": "High-quality genomes of Bombax ceiba and Ceiba pentandra provide insights into the evolution of Malvaceae species and differences in their natural fiber development",
      "journal": "Plant communications",
      "year": 2024,
      "authors": [
@@ -75756,7 +75980,7 @@
     },
     {
      "pmid": "36441059",
-     "title": "An integrative GC-MS and LC-MS metabolomics platform determination of the metabolite profile of Bombax ceiba L. root, and in silico & in\u00a0vitro evaluation of its antibacterial & antidiabetic activities",
+     "title": "An integrative GC-MS and LC-MS metabolomics platform determination of the metabolite profile of Bombax ceiba L. root, and in silico & in vitro evaluation of its antibacterial & antidiabetic activities",
      "journal": "Natural product research",
      "year": 2023,
      "authors": [
@@ -76149,7 +76373,7 @@
      "journal": "The Alkaloids. Chemistry and biology",
      "year": 2025,
      "authors": [
-      "B\u00fcy\u00fckda\u011f MH",
+      "Büyükdağ MH",
       "Burth S",
       "Reddy MM",
       "Thomas OP"
@@ -77486,7 +77710,7 @@
     },
     {
      "pmid": "36371801",
-     "title": "Isocratic elution based analytical method for quantification of phytoconstituents in Hedychium spicatum and evaluation of their \u03b1-glucosidase inhibitory activity",
+     "title": "Isocratic elution based analytical method for quantification of phytoconstituents in Hedychium spicatum and evaluation of their α-glucosidase inhibitory activity",
      "journal": "Natural product research",
      "year": 2024,
      "authors": [
@@ -77525,7 +77749,7 @@
     },
     {
      "pmid": "36873474",
-     "title": "Hedychium spicatum rhizome essential oil induces apoptosis in human prostate adenocarcinoma PC-3\u00a0cells via mitochondrial stress and caspase activation",
+     "title": "Hedychium spicatum rhizome essential oil induces apoptosis in human prostate adenocarcinoma PC-3 cells via mitochondrial stress and caspase activation",
      "journal": "Heliyon",
      "year": 2023,
      "authors": [
@@ -77670,7 +77894,7 @@
      "year": 2024,
      "authors": [
       "Klimek-Szczykutowicz M",
-      "Gawe\u0142-B\u0119ben K",
+      "Gaweł-Bęben K",
       "Rutka A",
       "Blicharska E",
       "Tatarczak-Michalewska M",
@@ -77740,9 +77964,9 @@
      "year": 2020,
      "authors": [
       "Lopez-Rodriguez NA",
-      "Gayt\u00e1n-Mart\u00ednez M",
+      "Gaytán-Martínez M",
       "de la Luz Reyes-Vega M",
-      "Loarca-Pi\u00f1a G"
+      "Loarca-Piña G"
      ],
      "pubtypes": [
       "Journal Article",
@@ -78236,7 +78460,7 @@
       "Matovic V",
       "Ljujic B",
       "Radojevic I",
-      "\u0110elic G",
+      "Đelic G",
       "Kovacevic MM",
       "Zivanovic S",
       "Papic M",
@@ -78314,14 +78538,14 @@
      "year": 2024,
      "authors": [
       "Walusiak E",
-      "Cie\u015blak E",
-      "Wilk-Wo\u017aniak E",
+      "Cieślak E",
+      "Wilk-Woźniak E",
       "Szczepaniak M",
       "Herrmann A",
       "Petrulaitis L",
-      "Ra\u0161omavi\u010dius V",
+      "Rašomavičius V",
       "Uogintas D",
-      "Krzto\u0144 W"
+      "Krztoń W"
      ],
      "pubtypes": [
       "Journal Article"
@@ -78836,7 +79060,7 @@
     },
     {
      "pmid": "37394798",
-     "title": "Dalbergia sissoo phytochemicals as EGFR inhibitors: an in\u00a0vitro and in silico approach",
+     "title": "Dalbergia sissoo phytochemicals as EGFR inhibitors: an in vitro and in silico approach",
      "journal": "Journal of biomolecular structure & dynamics",
      "year": 2024,
      "authors": [
@@ -79091,7 +79315,7 @@
    "citations": [
     {
      "pmid": "38891943",
-     "title": "Research on the Medicinal Chemistry and Pharmacology of Taxus \u00d7 media",
+     "title": "Research on the Medicinal Chemistry and Pharmacology of Taxus × media",
      "journal": "International journal of molecular sciences",
      "year": 2024,
      "authors": [
@@ -79115,7 +79339,7 @@
      "year": 2022,
      "authors": [
       "Brooks-Lim EWL",
-      "M\u00e9rette SA",
+      "Mérette SA",
       "Hawkins BJ",
       "Maxwell C",
       "Washbrook A",
@@ -79136,13 +79360,13 @@
      "journal": "International journal of molecular sciences",
      "year": 2022,
      "authors": [
-      "Ni\u017enansk\u00fd \u013d",
-      "Osinov\u00e1 D",
+      "Nižnanský Ľ",
+      "Osinová D",
       "Kuruc R",
-      "Hengerics Szab\u00f3 A",
-      "Sz\u00f3r\u00e1dov\u00e1 A",
-      "Mas\u00e1r M",
-      "Ni\u017enansk\u00e1 \u017d"
+      "Hengerics Szabó A",
+      "Szórádová A",
+      "Masár M",
+      "Nižnanská Ž"
      ],
      "pubtypes": [
       "Journal Article",
@@ -79238,7 +79462,7 @@
       "Combeau C",
       "Riou JF",
       "Vrignaud P",
-      "Andr\u00e9 S"
+      "André S"
      ],
      "pubtypes": [
       "Journal Article",
@@ -79276,11 +79500,11 @@
      "journal": "Ecology and evolution",
      "year": 2024,
      "authors": [
-      "G\u00f6tz J",
+      "Götz J",
       "Leinemann L",
       "Gailing O",
       "Hardtke A",
-      "Car\u00e9 O"
+      "Caré O"
      ],
      "pubtypes": [
       "Editorial"
@@ -79318,7 +79542,7 @@
      "journal": "Antioxidants (Basel, Switzerland)",
      "year": 2022,
      "authors": [
-      "Dumitra\u015f DA",
+      "Dumitraş DA",
       "Bunea A",
       "Vodnar DC",
       "Hanganu D",
@@ -79339,7 +79563,7 @@
    "citations": [
     {
      "pmid": "38891943",
-     "title": "Research on the Medicinal Chemistry and Pharmacology of Taxus \u00d7 media",
+     "title": "Research on the Medicinal Chemistry and Pharmacology of Taxus × media",
      "journal": "International journal of molecular sciences",
      "year": 2024,
      "authors": [
@@ -79363,7 +79587,7 @@
      "year": 2022,
      "authors": [
       "Brooks-Lim EWL",
-      "M\u00e9rette SA",
+      "Mérette SA",
       "Hawkins BJ",
       "Maxwell C",
       "Washbrook A",
@@ -79384,13 +79608,13 @@
      "journal": "International journal of molecular sciences",
      "year": 2022,
      "authors": [
-      "Ni\u017enansk\u00fd \u013d",
-      "Osinov\u00e1 D",
+      "Nižnanský Ľ",
+      "Osinová D",
       "Kuruc R",
-      "Hengerics Szab\u00f3 A",
-      "Sz\u00f3r\u00e1dov\u00e1 A",
-      "Mas\u00e1r M",
-      "Ni\u017enansk\u00e1 \u017d"
+      "Hengerics Szabó A",
+      "Szórádová A",
+      "Masár M",
+      "Nižnanská Ž"
      ],
      "pubtypes": [
       "Journal Article",
@@ -79445,7 +79669,7 @@
      "authors": [
       "Vanhaelen M",
       "Duchateau J",
-      "Vanhaelen-Fastr\u00e9 R",
+      "Vanhaelen-Fastré R",
       "Jaziri M"
      ],
      "pubtypes": [
@@ -79507,12 +79731,12 @@
      "authors": [
       "Crous PW",
       "Wingfield MJ",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Balashov S",
       "Osieck ER",
       "Marin-Felix Y",
       "Luangsa-Ard JJ",
-      "Mej\u00eda LC",
+      "Mejía LC",
       "Cappelli A",
       "Parra LA",
       "Lucchini G",
@@ -79520,20 +79744,20 @@
       "Moreno G",
       "Faraoni M",
       "Zhao RL",
-      "Weholt \u00d8",
-      "Borovi\u010dka J",
+      "Weholt Ø",
+      "Borovička J",
       "Jansen GM",
       "Shivas RG",
       "Tan YP",
       "Akulov A",
       "Alfenas AC",
       "Alfenas RF",
-      "Alt\u00e9s A",
+      "Altés A",
       "Avchar R",
       "Barreto RW",
       "Catcheside DEA",
       "Chi TY",
-      "Esteve-Ravent\u00f3s F",
+      "Esteve-Raventós F",
       "Fryar SC",
       "Hanh LTM",
       "Larsbrink J",
@@ -79554,7 +79778,7 @@
       "Barreto GG",
       "Boertmann D",
       "Bose T",
-      "Casta\u00f1eda Ruiz RF",
+      "Castañeda Ruiz RF",
       "Couceiro A",
       "Cykowska-Marzencka B",
       "Dai YC",
@@ -79564,7 +79788,7 @@
       "de Azevedo Santiago ALCM",
       "Declercq B",
       "de Freitas LWS",
-      "De la Pe\u00f1a-Lastra S",
+      "De la Peña-Lastra S",
       "Delgado G",
       "de Lima CLF",
       "Dhotre D",
@@ -79572,17 +79796,17 @@
       "Eisvand P",
       "Erhard A",
       "Ferro LO",
-      "Garc\u00eda D",
-      "Garc\u00eda-Mart\u00edn A",
+      "García D",
+      "García-Martín A",
       "Garrido-Benavent I",
-      "Gen\u00e9 J",
+      "Gené J",
       "Ghobad-Nejhad M",
       "Gore G",
       "Gunaseelan S",
-      "Gusm\u00e3o LFP",
+      "Gusmão LFP",
       "Hammerbacher A",
-      "Hern\u00e1ndez-Perez AT",
-      "Hern\u00e1ndez-Restrepo M",
+      "Hernández-Perez AT",
+      "Hernández-Restrepo M",
       "Hofmann TA",
       "Hubka V",
       "Jiya N",
@@ -79591,14 +79815,14 @@
       "Ketabchi M",
       "Kezo K",
       "Knoppersen R",
-      "Kolarczykov\u00e1 D",
+      "Kolarczyková D",
       "Kumar TKA",
-      "L\u00e6ss\u00f8e T",
+      "Læssøe T",
       "Langer E",
       "Larsson E",
       "Lodge DJ",
       "Lynch MJ",
-      "Maci\u00e1-Vicente JG",
+      "Maciá-Vicente JG",
       "Mahadevakumar S",
       "Mateos A",
       "Mehrabi-Koushki M",
@@ -79606,9 +79830,9 @@
       "Noor A",
       "Oliveira JA",
       "Pereira OL",
-      "Pi\u0105tek M",
+      "Piątek M",
       "Pinto A",
-      "Ram\u00edrez GH",
+      "Ramírez GH",
       "Raphael B",
       "Rawat G",
       "Renuka M",
@@ -79617,7 +79841,7 @@
       "Saar I",
       "Saba M",
       "Safi A",
-      "S\u00e1nchez RM",
+      "Sánchez RM",
       "Sandoval-Denis M",
       "Savitha AS",
       "Sharma A",
@@ -79652,11 +79876,11 @@
      "journal": "Ecology and evolution",
      "year": 2024,
      "authors": [
-      "G\u00f6tz J",
+      "Götz J",
       "Leinemann L",
       "Gailing O",
       "Hardtke A",
-      "Car\u00e9 O"
+      "Caré O"
      ],
      "pubtypes": [
       "Editorial"
@@ -79701,7 +79925,7 @@
       "Zhao L",
       "Arumugam E",
       "Flakus A",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Kaliyaperumal M",
       "Mahadevakumar S",
       "Murugadoss R",
@@ -79715,7 +79939,7 @@
       "Denchev CM",
       "Denchev TT",
       "Etayo J",
-      "Gen\u00e9 J",
+      "Gené J",
       "Gunaseelan S",
       "Hubka V",
       "Illescas T",
@@ -79724,7 +79948,7 @@
       "Kumar S",
       "Larsson E",
       "Mufeeda KT",
-      "Pi\u0105tek M",
+      "Piątek M",
       "Rodriguez-Flakus P",
       "Sarma PVSRN",
       "Stryjak-Bogacka M",
@@ -79736,20 +79960,20 @@
       "Asif M",
       "Balashov S",
       "Baral HO",
-      "Baturo-Cie\u015bniewska A",
+      "Baturo-Cieśniewska A",
       "Begerow D",
       "Beja-Pereira A",
       "Bianchinotti MV",
-      "Bila\u0144ski P",
+      "Bilański P",
       "Chandranayaka S",
       "Chellappan N",
       "Cowan DA",
-      "Cust\u00f3dio FA",
+      "Custódio FA",
       "Czachura P",
       "Delgado G",
       "De Silva NI",
       "Dijksterhuis J",
-      "Due\u00f1as M",
+      "Dueñas M",
       "Eisvand P",
       "Fachada V",
       "Fournier J",
@@ -79764,18 +79988,18 @@
       "Jankowiak R",
       "Karich A",
       "Kemler M",
-      "Kis\u0142o K",
+      "Kisło K",
       "Klofac W",
       "Krisai-Greilhuber I",
       "Latha KPD",
       "Lebeuf R",
       "Lopes ME",
       "Lumyong S",
-      "Maci\u00e1-Vicente JG",
-      "Maggs-K\u00f6lling G",
-      "Magist\u00e0 D",
+      "Maciá-Vicente JG",
+      "Maggs-Kölling G",
+      "Magistà D",
       "Manimohan P",
-      "Mart\u00edn MP",
+      "Martín MP",
       "Mazur E",
       "Mehrabi-Koushki M",
       "Miller AN",
@@ -79786,19 +80010,19 @@
       "Piskorski S",
       "Plaza M",
       "Podile AR",
-      "Polhorsk\u00fd A",
+      "Polhorský A",
       "Pusz W",
       "Raza M",
       "Ruszkiewicz-Michalska M",
       "Saba M",
-      "S\u00e1nchez RM",
+      "Sánchez RM",
       "Singh R",
-      "\u015aliwa L",
+      "Śliwa L",
       "Smith ME",
       "Stefenon VM",
-      "Strasift\u00e1kov\u00e1 D",
+      "Strasiftáková D",
       "Suwannarach N",
-      "Szczepa\u0144ska K",
+      "Szczepańska K",
       "Telleria MT",
       "Tennakoon DS",
       "Thines M",
@@ -79806,7 +80030,7 @@
       "Urbaniak J",
       "van der Vegte M",
       "Vasan V",
-      "Vila-Vi\u00e7osa C",
+      "Vila-Viçosa C",
       "Voglmayr H",
       "Wrzosek M",
       "Zappelini J",
@@ -79828,7 +80052,7 @@
    "citations": [
     {
      "pmid": "39109782",
-     "title": "Amorphophallus campanulatus tuber extract protects diabetic nephropathy in streptozotocin-induced diabetic nephropathy rat model by regulating oxidative stress and TNF-\u03b1 inflammatory pathway",
+     "title": "Amorphophallus campanulatus tuber extract protects diabetic nephropathy in streptozotocin-induced diabetic nephropathy rat model by regulating oxidative stress and TNF-α inflammatory pathway",
      "journal": "Acta cirurgica brasileira",
      "year": 2024,
      "authors": [
@@ -80925,7 +81149,7 @@
     },
     {
      "pmid": "32131631",
-     "title": "New chlorophenolic glycoside from Curculigo orchioides and their activities on 5\u03b1-reductase",
+     "title": "New chlorophenolic glycoside from Curculigo orchioides and their activities on 5α-reductase",
      "journal": "Journal of Asian natural products research",
      "year": 2021,
      "authors": [
@@ -81405,13 +81629,13 @@
      "year": 2014,
      "authors": [
       "Vargas-Mendoza N",
-      "Madrigal-Santill\u00e1n E",
-      "Morales-Gonz\u00e1lez A",
+      "Madrigal-Santillán E",
+      "Morales-González A",
       "Esquivel-Soto J",
       "Esquivel-Chirino C",
-      "Garc\u00eda-Luna Y Gonz\u00e1lez-Rubio M",
+      "García-Luna Y González-Rubio M",
       "Gayosso-de-Lucio JA",
-      "Morales-Gonz\u00e1lez JA"
+      "Morales-González JA"
      ],
      "pubtypes": [
       "Journal Article",
@@ -82034,7 +82258,7 @@
      "journal": "ACS omega",
      "year": 2025,
      "authors": [
-      "Barrios Mart\u00ednez SX",
+      "Barrios Martínez SX",
       "Sierra Prada LJ",
       "Ocazionez RE",
       "Stashenko EE",
@@ -82406,7 +82630,7 @@
     },
     {
      "pmid": "32802054",
-     "title": "Acute, Subacute, and Genotoxicity Assessments of a Proprietary Blend of Garcinia mangostana Fruit Rind and Cinnamomum tamala Leaf Extracts (CinDura\u00ae)",
+     "title": "Acute, Subacute, and Genotoxicity Assessments of a Proprietary Blend of Garcinia mangostana Fruit Rind and Cinnamomum tamala Leaf Extracts (CinDura®)",
      "journal": "Journal of toxicology",
      "year": 2020,
      "authors": [
@@ -82581,7 +82805,7 @@
       "Andargie M",
       "Vinas M",
       "Rathgeb A",
-      "M\u00f6ller E",
+      "Möller E",
       "Karlovsky P"
      ],
      "pubtypes": [
@@ -82806,7 +83030,7 @@
       "Andargie M",
       "Vinas M",
       "Rathgeb A",
-      "M\u00f6ller E",
+      "Möller E",
       "Karlovsky P"
      ],
      "pubtypes": [
@@ -82897,7 +83121,7 @@
       "Parveen S",
       "Urbano MB",
       "Lipari V",
-      "De la Torre D\u00edez I",
+      "De la Torre Díez I",
       "Khan AA",
       "Malik A"
      ],
@@ -82967,7 +83191,7 @@
      "year": 2013,
      "authors": [
       "Wangensteen H",
-      "Klarp\u00e5s L",
+      "Klarpås L",
       "Alamgir M",
       "Samuelsen AB",
       "Malterud KE"
@@ -83069,7 +83293,7 @@
     },
     {
      "pmid": "21442546",
-     "title": "Dereplication coupled with in\u00a0vitro antioxidant assay of two flavonoid glycosides from Diospyros peregrina fruit",
+     "title": "Dereplication coupled with in vitro antioxidant assay of two flavonoid glycosides from Diospyros peregrina fruit",
      "journal": "Natural product research",
      "year": 2012,
      "authors": [
@@ -83320,7 +83544,7 @@
     },
     {
      "pmid": "34047145",
-     "title": "Biological and medicinal application of Cucumis sativus Linn.\u00a0- review of current status with future possibilities",
+     "title": "Biological and medicinal application of Cucumis sativus Linn. - review of current status with future possibilities",
      "journal": "Journal of complementary & integrative medicine",
      "year": 2022,
      "authors": [
@@ -83348,8 +83572,8 @@
      "year": 2022,
      "authors": [
       "Olechowska E",
-      "S\u0142omnicka R",
-      "Ka\u017ami\u0144ska K",
+      "Słomnicka R",
+      "Kaźmińska K",
       "Olczak-Woltman H",
       "Bartoszewski G"
      ],
@@ -83387,15 +83611,15 @@
      "journal": "Plant science : an international journal of experimental plant biology",
      "year": 2016,
      "authors": [
-      "Pawe\u0142kowicz M",
-      "Zieli\u0144ski K",
-      "Zieli\u0144ska D",
-      "Pl\u0105der W",
+      "Pawełkowicz M",
+      "Zieliński K",
+      "Zielińska D",
+      "Pląder W",
       "Yagi K",
       "Wojcieszek M",
       "Siedlecka E",
       "Bartoszewski G",
-      "Skarzy\u0144ska A",
+      "Skarzyńska A",
       "Przybecki Z"
      ],
      "pubtypes": [
@@ -83453,19 +83677,19 @@
      "authors": [
       "Singh A",
       "Gracheva M",
-      "Kov\u00e1cs Kis V",
-      "Keresztes \u00c1",
-      "S\u00e1gi-Kaz\u00e1r M",
-      "M\u00fcller B",
+      "Kovács Kis V",
+      "Keresztes Á",
+      "Sági-Kazár M",
+      "Müller B",
       "Pankaczi F",
       "Ahmad W",
-      "Kov\u00e1cs K",
+      "Kovács K",
       "May Z",
       "Tolnai G",
       "Homonnay Z",
       "Fodor F",
-      "Klencs\u00e1r Z",
-      "Solti \u00c1"
+      "Klencsár Z",
+      "Solti Á"
      ],
      "pubtypes": [
       "Journal Article",
@@ -83739,7 +83963,7 @@
     },
     {
      "pmid": "30595628",
-     "title": "Clinical evaluation of Triv\u1e5bta powder (Operculina turpethum Linn.) and Aragvadha Patra Lepa (paste of leaves of Cassia fistula Linn.) in the management of Vicharchika (eczema)",
+     "title": "Clinical evaluation of Trivṛta powder (Operculina turpethum Linn.) and Aragvadha Patra Lepa (paste of leaves of Cassia fistula Linn.) in the management of Vicharchika (eczema)",
      "journal": "Ayu",
      "year": 2018,
      "authors": [
@@ -83757,7 +83981,7 @@
     },
     {
      "pmid": "28351666",
-     "title": "Operculina turpethum extract inhibits growth and proliferation by inhibiting NF-\u03baB, COX-2 and cyclin D1 and induces apoptosis by up regulating P53 in oral cancer cells",
+     "title": "Operculina turpethum extract inhibits growth and proliferation by inhibiting NF-κB, COX-2 and cyclin D1 and induces apoptosis by up regulating P53 in oral cancer cells",
      "journal": "Archives of oral biology",
      "year": 2017,
      "authors": [
@@ -83799,7 +84023,7 @@
     },
     {
      "pmid": "24748732",
-     "title": "Ameliorative Effects of Operculina turpethum and its Isolated Stigma-5,22dien-3-o-\u03b2-D-glucopyranoside on the Hematological Parameters of Male Mice Exposed to N-Nitrosodimethylamine, a Potent Carcinogen",
+     "title": "Ameliorative Effects of Operculina turpethum and its Isolated Stigma-5,22dien-3-o-β-D-glucopyranoside on the Hematological Parameters of Male Mice Exposed to N-Nitrosodimethylamine, a Potent Carcinogen",
      "journal": "Toxicology international",
      "year": 2014,
      "authors": [
@@ -84282,7 +84506,7 @@
     },
     {
      "pmid": "36834566",
-     "title": "Separation and Purification of Hydroxyl-\u03b1-Sanshool from Zanthoxylum armatum DC. by Silica Gel Column Chromatography",
+     "title": "Separation and Purification of Hydroxyl-α-Sanshool from Zanthoxylum armatum DC. by Silica Gel Column Chromatography",
      "journal": "International journal of molecular sciences",
      "year": 2023,
      "authors": [
@@ -84439,7 +84663,7 @@
     {
      "pmid": "39478418",
      "doi": "10.1002/ptr.8340",
-     "title": "Curcumin on Human Health: A Comprehensive Systematic\u00a0Review and Meta-Analysis of 103 Randomized\u00a0Controlled Trials",
+     "title": "Curcumin on Human Health: A Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials",
      "journal": "Phytotherapy research : PTR",
      "year": 2024,
      "authors": [
@@ -84594,12 +84818,12 @@
      "year": 2024,
      "authors": [
       "Kasprzak-Drozd K",
-      "Nizi\u0144ski P",
-      "Hawry\u0142 A",
+      "Niziński P",
+      "Hawrył A",
       "Gancarz M",
-      "Hawry\u0142 D",
+      "Hawrył D",
       "Oliwa W",
-      "Pa\u0142ka M",
+      "Pałka M",
       "Markowska J",
       "Oniszczuk A"
      ],
@@ -84739,7 +84963,7 @@
       "Damasceno MMC",
       "Ciol MA",
       "de Freitas RWJF",
-      "de Ara\u00fajo MFM",
+      "de Araújo MFM",
       "de Souza Teixeira CR",
       "Carvalho GCN",
       "de Siqueira Coelho Lisboa KW",
@@ -84809,7 +85033,7 @@
     },
     {
      "pmid": "36753827",
-     "title": "Cinnamomum verum extract inhibits NOX2/ROS and PKC\u03b4/JNK/AP-1/NF-\u03baB pathway-mediated inflammatory response in PMA-stimulated THP-1 monocytes",
+     "title": "Cinnamomum verum extract inhibits NOX2/ROS and PKCδ/JNK/AP-1/NF-κB pathway-mediated inflammatory response in PMA-stimulated THP-1 monocytes",
      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
      "year": 2023,
      "authors": [
@@ -85220,14 +85444,14 @@
      "authors": [
       "Rusak A",
       "Mrozowska M",
-      "Koz\u0142owska W",
+      "Kozłowska W",
       "Wiatrak B",
-      "Dzi\u0119giel P",
+      "Dzięgiel P",
       "Wybraniec S",
       "Carev I",
       "Jama-Kmiecik A",
       "Matkowski A",
-      "Zieli\u0144ska S"
+      "Zielińska S"
      ],
      "pubtypes": [
       "Journal Article"
@@ -85268,14 +85492,14 @@
      "journal": "Food chemistry",
      "year": 2024,
      "authors": [
-      "Kozio\u0142 \u0141",
+      "Kozioł Ł",
       "Knap M",
-      "Sutor-\u015awie\u017cy K",
-      "G\u00f3rska R",
+      "Sutor-Świeży K",
+      "Górska R",
       "Dziedzic E",
       "Bieniasz M",
       "Mielczarek P",
-      "Popenda \u0141",
+      "Popenda Ł",
       "Tyszka-Czochara M",
       "Wybraniec S"
      ],
@@ -85337,12 +85561,12 @@
      "journal": "International journal of molecular sciences",
      "year": 2022,
      "authors": [
-      "Sutor-\u015awie\u017cy K",
+      "Sutor-Świeży K",
       "Antonik M",
       "Dziedzic E",
       "Bieniasz M",
       "Mielczarek P",
-      "Popenda \u0141",
+      "Popenda Ł",
       "Pasternak K",
       "Tyszka-Czochara M",
       "Wybraniec S"
@@ -85538,9 +85762,9 @@
       "Gumral N",
       "Aslankoc R",
       "Ozmen O",
-      "\u00c7elik \u00d6",
+      "Çelik Ö",
       "Kavrik O",
-      "Sayg\u0131n M"
+      "Saygın M"
      ],
      "pubtypes": [
       "Journal Article",
@@ -85698,7 +85922,7 @@
     {
      "pmid": "37384842",
      "doi": "10.1515/jcim-2021-0447",
-     "title": "Concept of dementia (Nisy \u0101 n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
+     "title": "Concept of dementia (Nisy ā n) in Unani system of medicine and scientific validation of an important Unani pharmacopoeial preparation 'Majoon Vaj' for its management: a review",
      "journal": "Journal of complementary & integrative medicine",
      "year": 2024,
      "authors": [
@@ -85764,14 +85988,14 @@
     {
      "pmid": "33236787",
      "doi": "10.1002/jat.4112",
-     "title": "\u03b1-Asarone, \u03b2-asarone, and \u03b3-asarone: Current status of toxicological evaluation",
+     "title": "α-Asarone, β-asarone, and γ-asarone: Current status of toxicological evaluation",
      "journal": "Journal of applied toxicology : JAT",
      "year": 2021,
      "authors": [
       "Uebel T",
       "Hermes L",
       "Haupenthal S",
-      "M\u00fcller L",
+      "Müller L",
       "Esselen M"
      ],
      "tier": "C",
@@ -85785,7 +86009,7 @@
      "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
      "year": 2021,
      "authors": [
-      "Sch\u00f6nknecht K",
+      "Schönknecht K",
       "Surdacka A",
       "Rudenko L"
      ],
@@ -85823,7 +86047,7 @@
      "year": 2018,
      "authors": [
       "Olas B",
-      "Bry\u015b M"
+      "Bryś M"
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/29273563/",
@@ -85887,7 +86111,7 @@
     {
      "pmid": "24991067",
      "doi": "10.4103/0257-7941.131971",
-     "title": "Physico-chemical study of Vaikr\u0101nta bhasma",
+     "title": "Physico-chemical study of Vaikrānta bhasma",
      "journal": "Ancient science of life",
      "year": 2013,
      "authors": [
@@ -86241,9 +86465,9 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2026,
      "authors": [
-      "Ku\u0161en M",
+      "Kušen M",
       "Vokurka A",
-      "\u017didovec V"
+      "Židovec V"
      ],
      "pubtypes": [
       "Journal Article",
@@ -86621,7 +86845,7 @@
     },
     {
      "pmid": "39765899",
-     "title": "A Combined Extract from Dioscorea bulbifera and Zingiber officinale Mitigates PM(2.5)-Induced Respiratory Damage by NF-\u03baB/TGF-\u03b21 Pathway",
+     "title": "A Combined Extract from Dioscorea bulbifera and Zingiber officinale Mitigates PM(2.5)-Induced Respiratory Damage by NF-κB/TGF-β1 Pathway",
      "journal": "Antioxidants (Basel, Switzerland)",
      "year": 2024,
      "authors": [
@@ -86645,7 +86869,7 @@
     },
     {
      "pmid": "39380211",
-     "title": "Puerarin improves Dioscorea bulbifera L.-induced liver injury by regulating drug transporters and the Nrf2/NF-\u03baB/Bcl-2 signaling pathway",
+     "title": "Puerarin improves Dioscorea bulbifera L.-induced liver injury by regulating drug transporters and the Nrf2/NF-κB/Bcl-2 signaling pathway",
      "journal": "The Journal of pharmacy and pharmacology",
      "year": 2024,
      "authors": [
@@ -87101,7 +87325,7 @@
      "authors": [
       "Mir R",
       "Calabuig-Serna A",
-      "Segu\u00ed-Simarro JM"
+      "Seguí-Simarro JM"
      ],
      "pubtypes": [
       "Journal Article",
@@ -87162,11 +87386,11 @@
      "journal": "Food chemistry",
      "year": 2018,
      "authors": [
-      "G\u00fcrb\u00fcz N",
-      "Ului\u015fik S",
+      "Gürbüz N",
+      "Uluişik S",
       "Frary A",
       "Frary A",
-      "Do\u011fanlar S"
+      "Doğanlar S"
      ],
      "pubtypes": [
       "Journal Article",
@@ -87198,7 +87422,7 @@
       "Van der Werf W",
       "Vicent Civera A",
       "Yuen J",
-      "Zappal\u00e0 L",
+      "Zappalà L",
       "Gregoire JC",
       "Malumphy C",
       "Czwienczek E",
@@ -87263,7 +87487,7 @@
      "authors": [
       "Salerno L",
       "Modica MN",
-      "Pittal\u00e0 V",
+      "Pittalà V",
       "Romeo G",
       "Siracusa MA",
       "Di Giacomo C",
@@ -87761,13 +87985,13 @@
     },
     {
      "pmid": "38754645",
-     "title": "Identification of hydroxyquinazoline alkaloids from Justicia adhatoda L. leaves, a traditional natural remedy with NF-\u03baB and AP-1-mediated anti-inflammatory properties and antioxidant activity",
+     "title": "Identification of hydroxyquinazoline alkaloids from Justicia adhatoda L. leaves, a traditional natural remedy with NF-κB and AP-1-mediated anti-inflammatory properties and antioxidant activity",
      "journal": "Journal of ethnopharmacology",
      "year": 2024,
      "authors": [
       "Peron G",
       "Prasad Phuyal G",
-      "Ho\u0161ek J",
+      "Hošek J",
       "Adhikari R",
       "Dall'Acqua S"
      ],
@@ -88272,10 +88496,10 @@
      "journal": "Foods (Basel, Switzerland)",
      "year": 2021,
      "authors": [
-      "Beltr\u00e1n Sanahuja A",
-      "Maestre P\u00e9rez SE",
-      "Gran\u00e9 Teruel N",
-      "Vald\u00e9s Garc\u00eda A",
+      "Beltrán Sanahuja A",
+      "Maestre Pérez SE",
+      "Grané Teruel N",
+      "Valdés García A",
       "Prats Moya MS"
      ],
      "pubtypes": [
@@ -88302,7 +88526,7 @@
       "Annunziata G",
       "Arnone A",
       "Tenore GC",
-      "S\u00fcntar \u0130",
+      "Süntar İ",
       "Mandalari G"
      ],
      "pubtypes": [
@@ -88320,8 +88544,8 @@
      "journal": "Plants (Basel, Switzerland)",
      "year": 2020,
      "authors": [
-      "L\u00f3pez-Moral A",
-      "Agust\u00ed-Brisach C",
+      "López-Moral A",
+      "Agustí-Brisach C",
       "Lovera M",
       "Arquero O",
       "Trapero A"
@@ -88352,7 +88576,7 @@
       "Eduardo I",
       "Batlle I",
       "Drogoudi P",
-      "K\u00fcden A",
+      "Küden A",
       "Asma BM",
       "Kostritsyna T",
       "Decroocq V"
@@ -88441,7 +88665,7 @@
       "Meulia T",
       "Sideli GM",
       "Gradziel TM",
-      "Fresnedo-Ram\u00edrez J"
+      "Fresnedo-Ramírez J"
      ],
      "pubtypes": [
       "Journal Article",
@@ -88466,7 +88690,7 @@
       "Akulov A",
       "Bulgakov TS",
       "Carnegie AJ",
-      "Jurjevi\u0107 \u017d",
+      "Jurjević Ž",
       "Decock C",
       "Denman S",
       "Lombard L",
@@ -88481,7 +88705,7 @@
       "Hou LW",
       "Cai L",
       "Rossman AY",
-      "W\u00f6hner T",
+      "Wöhner T",
       "Allen WC",
       "Castlebury LA",
       "Visagie CM",
@@ -88501,11 +88725,11 @@
      "journal": "Plant physiology",
      "year": 2008,
      "authors": [
-      "S\u00e1nchez-P\u00e9rez R",
-      "J\u00f8rgensen K",
+      "Sánchez-Pérez R",
+      "Jørgensen K",
       "Olsen CE",
       "Dicenta F",
-      "M\u00f8ller BL"
+      "Møller BL"
      ],
      "pubtypes": [
       "Journal Article",
@@ -88728,9 +88952,9 @@
      "journal": "Lloydia",
      "year": 1972,
      "authors": [
-      "Kl\u00e1sek A",
-      "Sim\u00e1nek V",
-      "Santav\u00fd F"
+      "Klásek A",
+      "Simánek V",
+      "Santavý F"
      ],
      "pubtypes": [
       "Journal Article"
@@ -89762,7 +89986,7 @@
       "La Maida N",
       "Tagliabracci A",
       "Giorgetti R",
-      "Busard\u00f2 FP"
+      "Busardò FP"
      ],
      "pubtypes": [
       "Journal Article",
@@ -89954,7 +90178,7 @@
       "Djahanschiri B",
       "Elias A",
       "Schwed JS",
-      "H\u00fcbner H",
+      "Hübner H",
       "Gmeiner P",
       "Proschak E",
       "Toennes SW",
@@ -90185,7 +90409,7 @@
     },
     {
      "pmid": "40022821",
-     "title": "Garcinol promotes wound healing in diabetic mice by regulating inflammation and NLRP3 inflammasome-mediated pyroptosis via the PI3K/Akt/NF-\u03baB pathway",
+     "title": "Garcinol promotes wound healing in diabetic mice by regulating inflammation and NLRP3 inflammasome-mediated pyroptosis via the PI3K/Akt/NF-κB pathway",
      "journal": "International immunopharmacology",
      "year": 2025,
      "authors": [
@@ -90317,12 +90541,12 @@
      "authors": [
       "Lorca C",
       "Mulet M",
-      "Ar\u00e9valo-Caro C",
-      "Sanchez M\u00c1",
+      "Arévalo-Caro C",
+      "Sanchez MÁ",
       "Perez A",
       "Perrino M",
       "Bach-Faig A",
-      "Aguilar-Mart\u00ednez A",
+      "Aguilar-Martínez A",
       "Vilella E",
       "Gallart-Palau X",
       "Serra A"
@@ -90460,16 +90684,16 @@
      "journal": "Nutrients",
      "year": 2025,
      "authors": [
-      "Go\u015bciniak A",
-      "Stasi\u0142owicz-Krzemie\u0144 A",
-      "Szel\u0105g M",
+      "Gościniak A",
+      "Stasiłowicz-Krzemień A",
+      "Szeląg M",
       "Pawlak J",
       "Skiera I",
       "Kwiatkowska H",
       "Nowak N",
       "Bernady K",
       "Trzaskoma P",
-      "Zimak-Kr\u00f3tkopad O",
+      "Zimak-Krótkopad O",
       "Cielecka-Piontek J"
      ],
      "pubtypes": [
@@ -90987,7 +91211,7 @@
      "journal": "Journal of applied genetics",
      "year": 2003,
      "authors": [
-      "Che\u0142kowski J",
+      "Chełkowski J",
       "Tyrka M",
       "Sobkiewicz A"
      ],
@@ -91008,7 +91232,7 @@
      "year": 2024,
      "authors": [
       "Pedersen O",
-      "de la Cruz Jim\u00e9nez J"
+      "de la Cruz Jiménez J"
      ],
      "pubtypes": [
       "Editorial",
@@ -91059,16 +91283,16 @@
      "journal": "Chemosphere",
      "year": 2023,
      "authors": [
-      "Rajhelov\u00e1 H",
-      "Peikertov\u00e1 P",
-      "Kuzn\u00edkov\u00e1 \u013d",
+      "Rajhelová H",
+      "Peikertová P",
+      "Kuzníková Ľ",
       "Motyka O",
-      "Plach\u00e1 D",
-      "Mamulov\u00e1 Kutl\u00e1kov\u00e1 K",
-      "\u010cech Barabaszov\u00e1 K",
-      "Thomasov\u00e1 B",
-      "Vacul\u00edk M",
-      "Kukutschov\u00e1 J"
+      "Plachá D",
+      "Mamulová Kutláková K",
+      "Čech Barabaszová K",
+      "Thomasová B",
+      "Vaculík M",
+      "Kukutschová J"
      ],
      "pubtypes": [
       "Journal Article"
@@ -91194,7 +91418,7 @@
     {
      "pmid": "27166709",
      "doi": "10.1007/s10072-016-2600-3",
-     "title": "Trachyspermum ammi 10\u00a0% topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial",
+     "title": "Trachyspermum ammi 10 % topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial",
      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
      "year": 2016,
      "authors": [
@@ -91519,7 +91743,7 @@
     },
     {
      "pmid": "34803708",
-     "title": "Alhagi pseudalhagi Extract Exerts Protective Effects Against Intestinal Inflammation in Ulcerative Colitis by Affecting TLR(4)-Dependent NF-\u03baB Signaling Pathways",
+     "title": "Alhagi pseudalhagi Extract Exerts Protective Effects Against Intestinal Inflammation in Ulcerative Colitis by Affecting TLR(4)-Dependent NF-κB Signaling Pathways",
      "journal": "Frontiers in pharmacology",
      "year": 2021,
      "authors": [
@@ -91581,13 +91805,13 @@
     },
     {
      "pmid": "18594903",
-     "title": "Vegetation as an indicator of soil properties and water quality in the Akar\u00e7ay stream (Turkey)",
+     "title": "Vegetation as an indicator of soil properties and water quality in the Akarçay stream (Turkey)",
      "journal": "Environmental management",
      "year": 2008,
      "authors": [
       "Serteser A",
-      "Kargio\u011flu M",
-      "I\u00e7a\u011fa Y",
+      "Kargioğlu M",
+      "Içağa Y",
       "Konuk M"
      ],
      "pubtypes": [
@@ -91961,7 +92185,7 @@
     },
     {
      "pmid": "37639378",
-     "title": "Phytocompound identification of aqueous Zingiber officinale rhizome (ZOME) extract reveals antiproliferative and reactive oxygen species mediated apoptotic induction within cervical cancer cells: an in\u00a0vitro and in silico approach",
+     "title": "Phytocompound identification of aqueous Zingiber officinale rhizome (ZOME) extract reveals antiproliferative and reactive oxygen species mediated apoptotic induction within cervical cancer cells: an in vitro and in silico approach",
      "journal": "Journal of biomolecular structure & dynamics",
      "year": 2024,
      "authors": [

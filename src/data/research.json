@@ -1,21 +1,21 @@
 {
  "updatedAt": "2026-10-10T00:53:27.437Z",
  "summary": {
-  "papers": 3491,
-  "withDoi": 3314,
-  "subjectsCovered": 466,
-  "citedByMultiple": 635,
+  "papers": 3500,
+  "withDoi": 3321,
+  "subjectsCovered": 471,
+  "citedByMultiple": 637,
   "byTier": {
    "A": 158,
    "B": 105,
    "C": 1159,
-   "D": 2069
+   "D": 2078
   },
   "byDecade": {
-   "2020s": 2143,
-   "2010s": 1059,
-   "2000s": 210,
-   "1990s": 39,
+   "2020s": 2144,
+   "2010s": 1065,
+   "2000s": 211,
+   "1990s": 40,
    "1980s": 21,
    "1970s": 10,
    "1960s": 5,
@@ -50,11 +50,11 @@
    },
    {
     "name": "Journal of Ayurveda and integrative medicine",
-    "count": 57
+    "count": 59
    },
    {
     "name": "Ayu",
-    "count": 56
+    "count": 59
    },
    {
     "name": "Frontiers in pharmacology",
@@ -78,7 +78,7 @@
    },
    {
     "name": "Ancient science of life",
-    "count": 36
+    "count": 37
    },
    {
     "name": "Nutrients",
@@ -27679,6 +27679,12 @@
    "subjects": [
     {
      "kind": "formulation",
+     "slug": "kaishore-guggul",
+     "title": "Kaishore Guggul",
+     "binomial": ""
+    },
+    {
+     "kind": "formulation",
      "slug": "sanjivani-vati",
      "title": "Sanjivani Vati",
      "binomial": ""
@@ -41315,6 +41321,12 @@
    "subjects": [
     {
      "kind": "formulation",
+     "slug": "narayana-thailam",
+     "title": "Narayana Thailam",
+     "binomial": ""
+    },
+    {
+     "kind": "formulation",
      "slug": "yogaraja-guggulu",
      "title": "Yogaraja Guggulu",
      "binomial": ""
@@ -52978,6 +52990,29 @@
      "slug": "bhadra",
      "title": "Bhadra",
      "binomial": "aerva lanata"
+    }
+   ]
+  },
+  {
+   "pmid": "37799617",
+   "doi": "10.3831/KPI.2023.26.3.257",
+   "title": "Antiarthritic Activity and Inflammatory Mediators Modulation Effect of Traditional Ajmodadi Churna on Arthritis Experimental Model",
+   "journal": "Journal of pharmacopuncture",
+   "year": 2023,
+   "authors": [
+    "Sharma V",
+    "Shukla SS",
+    "Gidwani B",
+    "Pandey RK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37799617/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "ajamodadi-churna",
+     "title": "Ajamodadi Churna",
+     "binomial": ""
     }
    ]
   },
@@ -75361,6 +75396,33 @@
    ]
   },
   {
+   "pmid": "28757225",
+   "doi": "10.1016/j.jaim.2017.02.001",
+   "title": "Clinical evaluation of Vatari guggulu, Maharasnadi kwatha and Narayan taila in the management of osteoarthritis knee",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2017,
+   "authors": [
+    "Mangal A",
+    "Shubhasree MN",
+    "Devi P",
+    "Jadhav AD",
+    "Prasad SA",
+    "Kumar K",
+    "Otta S",
+    "Dhiman KS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28757225/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "narayana-thailam",
+     "title": "Narayana Thailam",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "28192202",
    "doi": "10.1016/j.jep.2017.02.005",
    "title": "Ethnomedicinal uses of plants for the treatment of malaria in Soon Valley, Khushab, Pakistan",
@@ -81230,6 +81292,28 @@
    ]
   },
   {
+   "pmid": "25558159",
+   "doi": "10.4103/0974-8520.146225",
+   "title": "Effect of anuvasana basti with ksheerabala taila in sandhigata vata (osteoarthritis)",
+   "journal": "Ayu",
+   "year": 2014,
+   "authors": [
+    "Grampurohit PL",
+    "Rao N",
+    "Harti SS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25558159/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "kshirabala-thailam",
+     "title": "Kshirabala Thailam",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "25312122",
    "doi": "10.1016/S1995-7645(14)60233-9",
    "title": "Effect of certain natural products and organic solvents on quorum sensing in Chromobacterium violaceum",
@@ -83547,6 +83631,28 @@
    ]
   },
   {
+   "pmid": "24049410",
+   "doi": "10.4103/0974-8520.115453",
+   "title": "Role of Nasya and Matra Basti with Narayana Taila on anovulatory factor",
+   "journal": "Ayu",
+   "year": 2013,
+   "authors": [
+    "Donga KR",
+    "Donga SB",
+    "Dei LP"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24049410/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "narayana-thailam",
+     "title": "Narayana Thailam",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "23628454",
    "doi": "10.1016/j.jep.2013.04.033",
    "title": "Scientific evidence for traditional claim of anti-obesity activity of Tecomella undulata bark",
@@ -83870,6 +83976,29 @@
      "slug": "aranya-jeeraka",
      "title": "Aranya Jeeraka",
      "binomial": "centratherum anthelminticum"
+    }
+   ]
+  },
+  {
+   "pmid": "22529678",
+   "doi": "10.4103/0975-9476.93946",
+   "title": "Anti-inflammatory activity of Ajmodadi Churna extract against acute inflammation in rats",
+   "journal": "Journal of Ayurveda and integrative medicine",
+   "year": 2012,
+   "authors": [
+    "Ram HN",
+    "Sriwastava NK",
+    "Makhija IK",
+    "Shreedhara CS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22529678/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "ajamodadi-churna",
+     "title": "Ajamodadi Churna",
+     "binomial": ""
     }
    ]
   },
@@ -86466,6 +86595,29 @@
    ]
   },
   {
+   "pmid": "22048531",
+   "doi": "10.4103/0974-8520.82027",
+   "title": "A comparative study of Kaishora Guggulu and Amrita Guggulu in the management of Utthana Vatarakta",
+   "journal": "Ayu",
+   "year": 2010,
+   "authors": [
+    "Ramachandran AP",
+    "Prasad SM",
+    "Prasad UN",
+    "Jonah S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22048531/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "kaishore-guggul",
+     "title": "Kaishore Guggul",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "21808564",
    "doi": "10.4103/0974-8490.65516",
    "title": "A new alkaloid isolated from Abies webbiana leaf",
@@ -87328,6 +87480,28 @@
      "slug": "pilu",
      "title": "Pilu",
      "binomial": "salvadora persica"
+    }
+   ]
+  },
+  {
+   "pmid": "21808548",
+   "doi": "10.4103/0974-8490.62957",
+   "title": "Standardization of Ajmodadi churna, a polyherbal formulation",
+   "journal": "Pharmacognosy research",
+   "year": 2010,
+   "authors": [
+    "Sriwastava NK",
+    "Shreedhara CS",
+    "Aswatha Ram HN"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21808548/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "ajamodadi-churna",
+     "title": "Ajamodadi Churna",
+     "binomial": ""
     }
    ]
   },
@@ -90360,6 +90534,28 @@
    ]
   },
   {
+   "pmid": "10927868",
+   "doi": "",
+   "title": "Antianaemic properties of ayurvedic drugs, raktavardhak, punarnavasav and navayas louh in albino rats during phenylhydrazine induced haemolytic anaemia",
+   "journal": "Indian journal of experimental biology",
+   "year": 2000,
+   "authors": [
+    "Patil S",
+    "Kanase A",
+    "Kulkarni PH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10927868/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "punarnavasava",
+     "title": "Punarnavasava",
+     "binomial": ""
+    }
+   ]
+  },
+  {
    "pmid": "10715850",
    "doi": "10.1016/S0944-7113(00)80075-6",
    "title": "Antihyperglycemic activity of Teramnus labialis (Fabaceae)",
@@ -90685,6 +90881,29 @@
      "slug": "mashaparni",
      "title": "Mashaparni",
      "binomial": "teramnus labialis"
+    }
+   ]
+  },
+  {
+   "pmid": "22556766",
+   "doi": "",
+   "title": "Standardisation of ksheerabala taila",
+   "journal": "Ancient science of life",
+   "year": 1996,
+   "authors": [
+    "Rao VN",
+    "Shankar T",
+    "Dixit SK",
+    "Ray AB"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22556766/",
+   "subjects": [
+    {
+     "kind": "formulation",
+     "slug": "kshirabala-thailam",
+     "title": "Kshirabala Thailam",
+     "binomial": ""
     }
    ]
   },
