@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Bhanga (Cannabis sativa L. / Cannabis indica Lam.) is a plant used in Ayurveda. {'use': 'Analgesic and anti-spasmodic (Vedanasthapana, Shulahara)', 'validation': 'Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity."
+answer: "Bhanga (Cannabis sativa, Cannabis indica) is a plant drug, also called Vijaya and Ganja in Hindi. It is a controlled substance in most jurisdictions and its legal status governs whether it may be supplied at all. This page records documented poisoning cases, including from synthetic cannabinoid adulteration; read its cautions before anything else on it."
 botanical: "Cannabis sativa L. / Cannabis indica Lam."
 family: ""
 sanskrit: ""
@@ -28,9 +28,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Analgesic](/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara)', 'validation': 'Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity. Sativex (THC:CBD 1:1 spray) approved in 30+ countries for MS spasticity. FDA approved dronabinol and nabilone for pain.'}
-- {'use': 'Appetite stimulant and anti-emetic (Deepana, Chhardinashaka)', 'validation': 'Dronabinol (synthetic THC, Marinol) FDA-approved for anorexia in AIDS wasting and chemotherapy-induced nausea/vomiting. CB1 receptor activation in hypothalamus stimulates appetite through modulation of ghrelin and leptin signaling.'}
-- {'use': 'Anticonvulsant (Apasmara)', 'validation': 'Epidiolex (pure CBD) FDA-approved for Dravet syndrome and Lennox-Gastaut syndrome. Multiple RCTs demonstrate significant seizure reduction. Validates traditional Ayurvedic use of Vijaya for Apasmara (epilepsy).'}
+- **[Analgesic](/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara).** Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity. Sativex (THC:CBD 1:1 spray) approved in 30+ countries for MS spasticity. FDA approved dronabinol and nabilone for pain.
+- **Appetite stimulant and anti-emetic (Deepana, Chhardinashaka).** Dronabinol (synthetic THC, Marinol) FDA-approved for anorexia in AIDS wasting and chemotherapy-induced nausea/vomiting. CB1 receptor activation in hypothalamus stimulates appetite through modulation of ghrelin and leptin signaling.
+- **Anticonvulsant (Apasmara).** Epidiolex (pure CBD) FDA-approved for Dravet syndrome and Lennox-Gastaut syndrome. Multiple RCTs demonstrate significant seizure reduction. Validates traditional Ayurvedic use of Vijaya for Apasmara (epilepsy).
 
 ## What do recent clinical trials show?
 
@@ -43,12 +43,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ## Recent safety updates
 
-- {'type': 'Poisoning case', 'detail': 'Rising incidence of synthetic cannabinoid-laced cannabis products in India causing severe toxicity including seizures, rhabdomyolysis, acute kidney injury, and deaths. Unlike natural cannabis, synthetic cannabinoids are full CB1 agonists with much higher toxicity.'}
-- {'type': 'Poisoning case', 'detail': 'Pediatric edible cannabis intoxications increasing globally. Children present with lethargy, ataxia, respiratory depression, and coma after accidental ingestion of cannabis edibles. Duration of intoxication can be 12-24 hours.'}
-- {'type': 'Antidote', 'detail': 'No specific antidote exists for cannabis intoxication. Treatment is supportive: benzodiazepines for severe anxiety/agitation, IV fluids for CHS-related dehydration. Rimonabant (CB1 antagonist) has been investigated but withdrawn due to psychiatric side effects.'}
-- {'type': 'Maximum dose', 'detail': 'Ayurvedic dose of purified Bhanga (Shuddha Vijaya): 125-250 mg of leaf powder per day. Modern medicinal cannabis: THC 2.5-20 mg/day (titrated). FSSAI permits hemp seeds/oil with <0.3% THC as food ingredients.'}
-- {'type': 'Safety alert', 'detail': 'FSSAI approved hemp seed, hemp seed oil, and hemp flour as legal food ingredients in India (2021) with THC limit of 0.3%. Multiple Indian states (Uttarakhand, Himachal Pradesh) have issued hemp cultivation policies distinguishing industrial hemp from narcotic cannabis.'}
-- {'type': 'Regulatory update', 'detail': 'AYUSH Ministry exploring framework for Ayurvedic cannabis-based medicines (Vijaya extract) with standardized THC/CBD ratios. Several companies granted licenses for cannabis-based Ayurvedic formulations under state AYUSH departments.'}
+- **Poisoning case.** Rising incidence of synthetic cannabinoid-laced cannabis products in India causing severe toxicity including seizures, rhabdomyolysis, acute kidney injury, and deaths. Unlike natural cannabis, synthetic cannabinoids are full CB1 agonists with much higher toxicity.
+- **Poisoning case.** Pediatric edible cannabis intoxications increasing globally. Children present with lethargy, ataxia, respiratory depression, and coma after accidental ingestion of cannabis edibles. Duration of intoxication can be 12-24 hours.
+- **Antidote.** No specific antidote exists for cannabis intoxication. Treatment is supportive: benzodiazepines for severe anxiety/agitation, IV fluids for CHS-related dehydration. Rimonabant (CB1 antagonist) has been investigated but withdrawn due to psychiatric side effects.
+- **Maximum dose.** Ayurvedic dose of purified Bhanga (Shuddha Vijaya): 125-250 mg of leaf powder per day. Modern medicinal cannabis: THC 2.5-20 mg/day (titrated). FSSAI permits hemp seeds/oil with <0.3% THC as food ingredients.
+- **Safety alert.** FSSAI approved hemp seed, hemp seed oil, and hemp flour as legal food ingredients in India (2021) with THC limit of 0.3%. Multiple Indian states (Uttarakhand, Himachal Pradesh) have issued hemp cultivation policies distinguishing industrial hemp from narcotic cannabis.
+- **Regulatory update.** AYUSH Ministry exploring framework for Ayurvedic cannabis-based medicines (Vijaya extract) with standardized THC/CBD ratios. Several companies granted licenses for cannabis-based Ayurvedic formulations under state AYUSH departments.
 
 ## What is it made of?
 

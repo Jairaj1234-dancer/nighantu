@@ -113,7 +113,7 @@ const CLASS_PHRASE = {
   formulation: 'is a compound formulation of several ingredients',
 };
 
-export function composeAnswer({ title, kind, facts, sections, lead, group, substanceClass }) {
+export function composeAnswer({ title, kind, facts, sections, lead, group, substanceClass, alsoCalled }) {
   const bits = [];
   const dg = dravyaguna(sections);
   const text = allText(sections);
@@ -167,11 +167,37 @@ export function composeAnswer({ title, kind, facts, sections, lead, group, subst
     // "plant" is wrong for the mineral, dairy and animal-origin dravyas.
     const classPhrase = CLASS_PHRASE[substanceClass ?? ''];
     if (cat) s += ` is classified in Ayurveda as ${stripMarkup(cat)}`;
-    else if (botanical) s += ' is a plant used in Ayurveda';
+    /**
+     * NOT "is a plant used in Ayurveda", which is what this said and which answers nothing.
+     *
+     * That filler reached 336 of the 802 answer blocks on this site, 42%, every one of them a herb
+     * page whose `Ayurvedic Category` was empty. It is the passage a reader sees first and the one
+     * an answer engine is most likely to lift, and it is also the meta description, so it is the
+     * sentence a searcher is shown in the result. /herb/kapikachhu/ is the clearest cost: the
+     * highest-demand page on the site, 236 impressions in a month on the bare query and zero
+     * clicks, opening with a sentence that says nothing.
+     *
+     * "a plant drug" at least states what kind of thing it is. The classical names that follow are
+     * what actually help, and they are added by the caller from src/data/names.json, which held
+     * them unused on 251 of those pages.
+     */
+    else if (botanical) s += ' is a plant drug';
     else if (classPhrase) s += ` ${classPhrase}`;
     else s += ' is a substance used in the Ayurvedic materia medica';
     const family = facts['Family'];
     if (family) s += `, from the ${stripMarkup(family)} family`;
+    /**
+     * The names a reader would actually type. Added only when the page has no Ayurvedic category,
+     * because a page that can state its classification does not need to fall back on synonyms, and
+     * only when they differ from the title: "Sarpagandha, also called Sarpagandha" is noise.
+     */
+    if (!cat && Array.isArray(alsoCalled) && alsoCalled.length) {
+      const list = alsoCalled.slice(0, 3);
+      const joined = list.length > 1
+        ? `${list.slice(0, -1).join(', ')} and ${list[list.length - 1]}`
+        : list[0];
+      s += `, also called ${joined}`;
+    }
     bits.push(s + '.');
 
     const parts = bullets(sections, ['Parts Used'], 4);

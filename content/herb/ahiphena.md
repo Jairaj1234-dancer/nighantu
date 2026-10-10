@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Ahiphena (Papaver somniferum L.) is a plant used in Ayurveda. {'use': 'Analgesic and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine."
+answer: "Ahiphena (Papaver somniferum) is a plant drug, also called Ahiphenam, Afima and Khashkhash. It is the opium poppy and a controlled substance in most jurisdictions. This page records documented poisoning cases, including a fatal paediatric one; read its cautions before anything else on it."
 botanical: "Papaver somniferum L."
 family: ""
 sanskrit: ""
@@ -28,9 +28,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Analgesic](/reference/analgesic/) and pain management', 'validation': 'Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.'}
-- {'use': 'Anti-diarrheal (Atisara/Pravahika)', 'validation': "Codeine and morphine's constipating effect via mu-receptor-mediated GI motility reduction is well-established. Loperamide (Imodium), a synthetic opioid derivative, is the standard OTC anti-diarrheal, validating the traditional use of opium for dysentery and diarrhea in Ayurveda."}
-- {'use': 'Antitussive (cough suppressant - Kasa)', 'validation': 'Codeine remains widely prescribed as an antitussive. Noscapine (narcotine) from opium is a non-addictive cough suppressant available OTC in many countries. WHO acknowledges codeine as effective antitussive.'}
+- **[Analgesic](/reference/analgesic/) and pain management.** Morphine remains the gold standard analgesic in modern medicine. WHO Essential Medicines List includes morphine for moderate to severe pain. Multiple systematic reviews confirm efficacy for cancer pain, post-surgical pain, and chronic pain management.
+- **Anti-diarrheal (Atisara/Pravahika).** Codeine and morphine's constipating effect via mu-receptor-mediated GI motility reduction is well-established. Loperamide (Imodium), a synthetic opioid derivative, is the standard OTC anti-diarrheal, validating the traditional use of opium for dysentery and diarrhea in Ayurveda.
+- **Antitussive (cough suppressant - Kasa).** Codeine remains widely prescribed as an antitussive. Noscapine (narcotine) from opium is a non-addictive cough suppressant available OTC in many countries. WHO acknowledges codeine as effective antitussive.
 
 ## What do recent clinical trials show?
 
@@ -45,12 +45,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## Recent safety updates
 
-- {'type': 'Poisoning case', 'detail': 'A fatal case of a four-year-old female who ingested raw poppy plants developed shallow respiration, tachycardia, hypertension, and muscle cramps, succumbing despite intensive care with naloxone administration.'}
-- {'type': 'Poisoning case', 'detail': 'Multiple cases of poppy seed tea poisoning reported in industrialized countries, with patients showing opiate toxicity symptoms. Some individuals with history of alcoholism used opium tea as heroin substitute, leading to fatal respiratory depression.'}
-- {'type': 'Antidote', 'detail': 'Naloxone (Narcan) is the specific antidote: bolus IV dose of 0.4-2 mg, repeated every 2-3 minutes up to 10 mg. Naloxone infusion (two-thirds of effective bolus dose per hour) should be continued due to shorter half-life of naloxone vs morphine. Nalmefene is an alternative longer-acting antagonist.'}
-- {'type': 'Maximum dose', 'detail': 'Ayurvedic therapeutic dose of purified opium (Shuddha Ahiphena): 60-125 mg per day. Lethal dose of crude opium: 2 g in non-tolerant adults. Maximum safe morphine equivalent: 120 mg/day for tolerant patients under medical supervision.'}
-- {'type': 'Safety alert', 'detail': 'USFDA and DEA issued warnings about contaminated poppy seeds with dangerously high morphine/codeine/thebaine concentrations. Unwashed poppy seeds sold commercially can contain 2-300 mg morphine per kg, posing acute intoxication risk.'}
-- {'type': 'Poisoning epidemiology', 'detail': 'Opium poisoning accounts for significant mortality in South Asia and Middle East. In Iran, opium is the most common substance in poisoning cases. Pediatric accidental ingestions carry higher mortality due to lower lethal dose threshold.'}
+- **Poisoning case.** A fatal case of a four-year-old female who ingested raw poppy plants developed shallow respiration, tachycardia, hypertension, and muscle cramps, succumbing despite intensive care with naloxone administration.
+- **Poisoning case.** Multiple cases of poppy seed tea poisoning reported in industrialized countries, with patients showing opiate toxicity symptoms. Some individuals with history of alcoholism used opium tea as heroin substitute, leading to fatal respiratory depression.
+- **Antidote.** Naloxone (Narcan) is the specific antidote: bolus IV dose of 0.4-2 mg, repeated every 2-3 minutes up to 10 mg. Naloxone infusion (two-thirds of effective bolus dose per hour) should be continued due to shorter half-life of naloxone vs morphine. Nalmefene is an alternative longer-acting antagonist.
+- **Maximum dose.** Ayurvedic therapeutic dose of purified opium (Shuddha Ahiphena): 60-125 mg per day. Lethal dose of crude opium: 2 g in non-tolerant adults. Maximum safe morphine equivalent: 120 mg/day for tolerant patients under medical supervision.
+- **Safety alert.** USFDA and DEA issued warnings about contaminated poppy seeds with dangerously high morphine/codeine/thebaine concentrations. Unwashed poppy seeds sold commercially can contain 2-300 mg morphine per kg, posing acute intoxication risk.
+- **Poisoning epidemiology.** Opium poisoning accounts for significant mortality in South Asia and Middle East. In Iran, opium is the most common substance in poisoning cases. Pediatric accidental ingestions carry higher mortality due to lower lethal dose threshold.
 
 ## Dosage forms and preparation
 

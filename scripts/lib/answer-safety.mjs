@@ -39,6 +39,31 @@ export const DOSE_PATTERNS = [
   /\b\d+(?:\.\d+)?\s*(?:-|to|–)?\s*\d*\s*(?:mg|g|gm|ml|tsp|tablets?|capsules?)\b[^.]{0,40}\b(?:daily|twice|thrice|per day|bd|tds)\b/i,
 ];
 
+/**
+ * A LEAKED DATA STRUCTURE, which is a fault whatever it says.
+ *
+ * Four pages carried a raw Python dict in the answer block, and therefore in the meta description a
+ * searcher is shown: vatsanabha (aconite), bhanga (cannabis), jayapala (croton) and ahiphena
+ * (opium). The four most hazardous substances in this corpus, reading
+ * `{'use': 'Analgesic and pain management', 'validation': 'Morphine remains the gold standard...'`.
+ *
+ * NONE OF THEM TRIPPED isDiseaseClaim, because that test is a conjunction of a disease word and an
+ * efficacy word and the disease list has no "pain", "fever", "constipation" or "spasticity". The
+ * conjunction is the right design and widening the word lists is the riskier fix, so this is the
+ * orthogonal one: a serialised dict or list has no business in a sentence meant for a reader, and
+ * testing for it cannot produce a false positive on legitimate prose.
+ *
+ * It also catches the class of fault rather than these four instances. An answer composed from a
+ * field that was never meant to be prose is wrong even when the prose inside it is harmless.
+ */
+/**
+ * Only unambiguous serialisations. The first version also matched any sentence beginning with "["
+ * and flagged 61 legitimate markdown links, which is a 94% false-positive rate: a check that cries
+ * wolf on prose is a check people learn to ignore.
+ */
+export const LEAKED_STRUCTURE = /\{\s*['"][a-z_]+['"]\s*:|\[\s*\{\s*['"]|^\s*\{/;
+export const isLeakedStructure = (sentence) => LEAKED_STRUCTURE.test(String(sentence));
+
 export const isDose = (sentence) => DOSE_PATTERNS.some((r) => r.test(String(sentence)));
 
 export const isDiseaseClaim = (sentence) => DISEASE_WORD.test(String(sentence)) && EFFICACY_WORD.test(String(sentence));
@@ -48,6 +73,7 @@ export function answerViolations(answer) {
   const out = [];
   for (const sentence of String(answer).split(/(?<=[.!?])\s+/)) {
     if (isDose(sentence)) out.push({ kind: 'dose', sentence });
+    else if (isLeakedStructure(sentence)) out.push({ kind: 'structure', sentence });
     else if (isDiseaseClaim(sentence)) out.push({ kind: 'claim', sentence });
   }
   return out;

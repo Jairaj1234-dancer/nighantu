@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Vatsanabha (Aconitum ferox Wall. ex Ser.) is a plant used in Ayurveda. {'use': 'Antipyretic (Jvarahara)', 'validation': 'Aconitum alkaloids at sub-toxic doses suppress prostaglandin-mediated fever pathways."
+answer: "Vatsanabha (Aconitum ferox) is a plant drug, also called Sthavaravisha, Vatsanagaka and Bachhnaag in Hindi. Sthavaravisha names it as a plant poison, and the Ayurvedic texts require shodhana, purificatory processing, before any use. This page records documented poisoning cases; read its cautions before anything else on it."
 botanical: "Aconitum ferox Wall. ex Ser."
 family: ""
 sanskrit: ""
@@ -28,8 +28,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- {'use': '[Antipyretic](/reference/antipyretic/) (Jvarahara)', 'validation': 'Aconitum [alkaloids](/glossary/compounds-1-a/#alkaloids) at sub-toxic doses suppress prostaglandin-mediated fever pathways. Traditional use as febrifuge validated by in vivo studies showing dose-dependent antipyretic activity comparable to paracetamol in animal models.'}
-- {'use': 'Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedanasthapana, Shothahara)', 'validation': 'Low-dose processed aconitine preparations show significant anti-inflammatory activity by suppressing NF-kB pathway and COX-2 expression. Analgesic effect mediated through sodium channel modulation at sub-toxic doses. Used in traditional medicine across Himalayan regions for rheumatic pain.'}
+- **[Antipyretic](/reference/antipyretic/) (Jvarahara).** Aconitum [alkaloids](/glossary/compounds-1-a/#alkaloids) at sub-toxic doses suppress prostaglandin-mediated fever pathways. Traditional use as febrifuge validated by in vivo studies showing dose-dependent antipyretic activity comparable to paracetamol in animal models.
+- **Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedanasthapana, Shothahara).** Low-dose processed aconitine preparations show significant anti-inflammatory activity by suppressing NF-kB pathway and COX-2 expression. Analgesic effect mediated through sodium channel modulation at sub-toxic doses. Used in traditional medicine across Himalayan regions for rheumatic pain.
 
 ## What do recent clinical trials show?
 
@@ -42,12 +42,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## Recent safety updates
 
-- {'type': 'Poisoning case', 'detail': '2025: Mass poisoning event from mislabelled aconite spice product - 11 patients hospitalized with onset within minutes. Perioral paraesthesia was the hallmark symptom (91% of cases). All survived with aggressive supportive care.'}
-- {'type': 'Poisoning case', 'detail': '2024-2025: Multiple cases of accidental aconite poisoning from herbal liquors and traditional medicines in China and South Asia. A 2025 convergent analytical approach identified aconitine in homemade herbal liquors linked to fatal poisoning cases.'}
-- {'type': 'Antidote', 'detail': 'NO SPECIFIC ANTIDOTE EXISTS. Treatment is entirely supportive: IV amiodarone or lidocaine for ventricular arrhythmias (limited efficacy), sodium bicarbonate for wide-complex tachycardia, vasopressors for hypotension, temporary pacing for bradycardia. ECMO (extracorporeal membrane oxygenation) has been life-saving in severe cases with refractory cardiogenic shock.'}
-- {'type': 'Maximum dose', 'detail': 'Purified (Shuddha) Vatsanabha dose: 15-30 mg per day (after proper Shodhana). NEVER use unpurified root. Raw root: 1-2 mg of aconitine is lethal. The therapeutic window is extremely narrow even after purification.'}
-- {'type': 'Safety alert', 'detail': 'EXTREMELY DANGEROUS: Aconitum ferox is one of the most toxic plants known. Toxicity can occur from skin contact alone. Processing does not eliminate all toxicity. Even purified preparations can cause fatal arrhythmias if dose is exceeded. Must be prescribed only by experienced practitioners.'}
-- {'type': 'Forensic concern', 'detail': "Aconitine is virtually undetectable by standard toxicology screens and has been used as a homicidal poison historically ('queen of poisons'). Detection requires specific LC-MS/MS analysis of blood and urine. Post-mortem redistribution complicates forensic analysis."}
+- **Poisoning case.** 2025: Mass poisoning event from mislabelled aconite spice product - 11 patients hospitalized with onset within minutes. Perioral paraesthesia was the hallmark symptom (91% of cases). All survived with aggressive supportive care.
+- **Poisoning case.** 2024-2025: Multiple cases of accidental aconite poisoning from herbal liquors and traditional medicines in China and South Asia. A 2025 convergent analytical approach identified aconitine in homemade herbal liquors linked to fatal poisoning cases.
+- **Antidote.** NO SPECIFIC ANTIDOTE EXISTS. Treatment is entirely supportive: IV amiodarone or lidocaine for ventricular arrhythmias (limited efficacy), sodium bicarbonate for wide-complex tachycardia, vasopressors for hypotension, temporary pacing for bradycardia. ECMO (extracorporeal membrane oxygenation) has been life-saving in severe cases with refractory cardiogenic shock.
+- **Maximum dose.** Purified (Shuddha) Vatsanabha dose: 15-30 mg per day (after proper Shodhana). NEVER use unpurified root. Raw root: 1-2 mg of aconitine is lethal. The therapeutic window is extremely narrow even after purification.
+- **Safety alert.** EXTREMELY DANGEROUS: Aconitum ferox is one of the most toxic plants known. Toxicity can occur from skin contact alone. Processing does not eliminate all toxicity. Even purified preparations can cause fatal arrhythmias if dose is exceeded. Must be prescribed only by experienced practitioners.
+- **Forensic concern.** Aconitine is virtually undetectable by standard toxicology screens and has been used as a homicidal poison historically ('queen of poisons'). Detection requires specific LC-MS/MS analysis of blood and urine. Post-mortem redistribution complicates forensic analysis.
 
 ## Dosage forms and preparation
 
