@@ -6,8 +6,8 @@
   "licenceNote": "CC BY 4.0. Monograph text incorporates material from the Amidha Ayurveda Herb Database under CC BY 4.0. Renderings drawn from NoDerivs-licensed sources appear on the site and are withheld from these files; see the note inside lexicon.json. Classical text quotations are from public-domain translations only, and where no public-domain translation exists the passage is cited without a quotation.",
   "site": "https://nighantu.ageayurveda.com",
   "datasetsPage": "https://nighantu.ageayurveda.com/datasets/",
-  "fileCount": 31,
-  "totalBytes": 20532771,
+  "fileCount": 32,
+  "totalBytes": 20780885,
   "files": [
     {
       "file": "access.json",
@@ -35,6 +35,15 @@
       "csvRows": null,
       "describes": "The Ayurvedic Formulary of India ingredient-name crosswalk: every Sanskrit ingredient name the formulary uses, resolved to a botanical identity where one could be established, with the basis stated per row. Ambiguous names are published as ambiguous and unresolved ones as unresolved.",
       "liveAt": "https://nighantu.ageayurveda.com/afi-crosswalk.json"
+    },
+    {
+      "file": "afi-crosswalk.pdf",
+      "sourcePath": "afi-crosswalk.pdf",
+      "bytes": 248114,
+      "sha256": "2f98d875b973e764923d0270fd1a838c5cccca67eda50a92cedcf12d5830d137",
+      "csvRows": null,
+      "describes": "The formulary ingredient crosswalk as a typeset document, generated from afi-crosswalk.json so it cannot disagree with it. Published to test a measured hypothesis: two probes of what answer engines cite on formulary composition questions put a document host above every publisher, so format may be part of what gets selected in this niche. It carries the canonical address, the DOI and the Wikidata entity on page one.",
+      "liveAt": "https://nighantu.ageayurveda.com/afi-crosswalk.pdf"
     },
     {
       "file": "brand-disclosure.json",
