@@ -34,10 +34,83 @@ rewriting. A reference corpus whose output varies by user agent is cloaking, and
 entire position is that its claims are checkable by anyone who looks. The Worker annotates headers
 and passes every byte through.
 
+## What this costs, which is not nothing
+
+READ THIS BEFORE THE STEPS. An earlier version of this file said the zone could be added as "just
+the `nighantu` hostname if the apex is managed elsewhere and you would rather not move it". That is
+wrong, and it is wrong in the direction that matters: it made this look like an isolated change.
+
+Cloudflare's free plan must be authoritative for an entire zone. The two setups that would isolate
+one hostname are both gated above it: partial CNAME setup is Business plan, and subdomain setup,
+which delegates a single hostname with NS records at the parent, is Enterprise. Neither is
+available here.
+
+So putting `nighantu.ageayurveda.com` behind Cloudflare means moving the WHOLE `ageayurveda.com`
+zone's nameservers off GoDaddy, and that zone is not just this site:
+
+| Record | Points at | What breaks if it is lost |
+| --- | --- | --- |
+| apex `A` | `23.227.38.32`, Shopify | the live store |
+| `www` `CNAME` | `shops.myshopify.com` | the live store |
+| `MX` | `smtp.secureserver.net`, `mailstore1.secureserver.net` | all `@ageayurveda.com` mail |
+| `TXT` SPF | `include:secureserver.net` | outbound mail starts failing SPF |
+| `TXT` `_dmarc` | `p=quarantine` | DMARC alignment |
+| `TXT` | `google-site-verification=…` | the Search Console property |
+
+A missed record during the import is an outage in something that earns money, to buy a measurement
+for something that does not yet earn anything. That trade may still be worth making, but it has to
+be made knowingly, which is what this section exists for.
+
+**The specific trap.** The apex and `www` must stay **DNS-only, grey cloud**. Shopify already
+fronts every store with its own Cloudflare: the `cf-ray` header on `https://ageayurveda.com/` is
+Shopify's, not yours. Proxying your Cloudflare on top of theirs breaks the store's TLS. Only
+`nighantu` goes orange.
+
+**The cheaper alternative, for most of the value.** Googlebot crawl statistics are in Search
+Console under Settings, and Bingbot's are in Bing Webmaster Tools, which this project already has an
+API key for. Neither needs a DNS change. What they do not cover, and what nothing but logs covers,
+is GPTBot, ClaudeBot, OAI-SearchBot and PerplexityBot. If the question is "does Google fetch this",
+do not move the zone. If it is "does any AI crawler fetch this", there is no other way.
+
 ## Steps
 
-1. **Add the zone.** In Cloudflare, add `ageayurveda.com` (or just the `nighantu` hostname if the
-   apex is managed elsewhere and you would rather not move it). Free plan is sufficient.
+0. **Export the zone from GoDaddy first, and keep the file.** In GoDaddy's DNS management, export
+   the zone file for `ageayurveda.com` before changing anything. Cloudflare's scanner finds most
+   records and regularly misses some, and the export is the only way to check its import against
+   the truth rather than against memory. Do not proceed without it. It is also the rollback: the
+   way back is to point the nameservers at `ns25`/`ns26.domaincontrol.com` again, which only helps
+   if the records are still known.
+
+1. **Add the zone.** In Cloudflare, add `ageayurveda.com`. Free plan is sufficient. Let it scan,
+   then compare its record list line by line against the export from step 0 and add by hand
+   whatever it missed. Pay particular attention to `MX` and `TXT`: the scanner is least reliable
+   there, and they are what mail depends on.
+
+1a. **Set the proxy status before changing the nameservers, not after.** Apex grey, `www` grey,
+   `MX` cannot be proxied at all, and `nighantu` orange. If the nameservers change while the apex
+   is orange, the store breaks the moment the change propagates.
+
+1b. **Change the nameservers at GoDaddy.** This is the irreversible-feeling step and the only one
+   that affects the store and mail. In GoDaddy's nameserver settings for `ageayurveda.com`, replace
+   `ns25.domaincontrol.com` and `ns26.domaincontrol.com` with the two Cloudflare gives you.
+   Propagation is usually minutes and can take up to 24 hours, during which some resolvers answer
+   from GoDaddy and some from Cloudflare, so **both have to be correct at once**. That is the real
+   reason step 0 and step 1 come first.
+
+1c. **Prove the store and mail still work before going any further.** Do this immediately, not at
+   the end, because the fix is to revert the nameservers and that gets harder the longer it waits:
+
+   ```
+   dig +short ageayurveda.com                    # expect 23.227.38.32, Shopify
+   dig +short www.ageayurveda.com                # expect shops.myshopify.com
+   dig +short MX ageayurveda.com                 # expect both secureserver.net hosts
+   dig +short TXT ageayurveda.com                # expect the SPF line AND the google-site-verification line
+   curl -sI https://ageayurveda.com/ | head -1   # expect 200, and the store loads in a browser
+   ```
+
+   Then send a real message to an `@ageayurveda.com` address from an outside account and confirm it
+   arrives. DNS answering correctly is not the same as mail being delivered, and mail is the failure
+   that goes unnoticed for days.
 
 2. **Point the record at GitHub Pages.** `nighantu` as a `CNAME` to
    `jairaj1234-dancer.github.io`, proxied (orange cloud). Proxied is the whole point: grey cloud is
