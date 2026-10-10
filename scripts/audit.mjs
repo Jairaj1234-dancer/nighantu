@@ -139,9 +139,16 @@ for (const f of files) {
   const words = (a.match(/\S+/g) || []).length;
   if (words < 10) fail('answer-block', `${f.rel} answer block is only ${words} words`);
   if (words > 75) fail('answer-block', `${f.rel} answer block is ${words} words (too long)`);
-  for (const v of answerViolations(a)) {
-    if (v.kind === 'dose') fail('answer-dose', `${f.rel} answer block states a dose; it belongs in the body: "${v.sentence.slice(0, 80)}"`);
-    else fail('answer-claim', `${f.rel} answer block claims an effect on a disease: "${v.sentence.slice(0, 80)}"`);
+  // One branch per kind. This used to be `dose` or else "claims an effect on a disease", so a
+  // leaked data structure and a raw markdown link were both reported as disease claims: a reader
+  // of the failure would have gone looking for a claim that was not there.
+  for (const v of answerViolations(a, { kind: f.rel.split(/[/\\]/)[0] })) {
+    const quoted = `"${v.sentence.slice(0, 80)}"`;
+    if (v.kind === 'dose') fail('answer-dose', `${f.rel} answer block states a dose; it belongs in the body: ${quoted}`);
+    else if (v.kind === 'quantity') fail('answer-quantity', `${f.rel} answer block states a measured quantity, which may be a dose, a toxicology figure or a physical property; all three belong in the body: ${quoted}`);
+    else if (v.kind === 'structure') fail('answer-structure', `${f.rel} answer block contains a serialised data structure: ${quoted}`);
+    else if (v.kind === 'markup') fail('answer-markup', `${f.rel} answer block contains markup, so it was composed from the page's bibliography rather than from prose: ${quoted}`);
+    else fail('answer-claim', `${f.rel} answer block claims an effect on a disease: ${quoted}`);
   }
 }
 
