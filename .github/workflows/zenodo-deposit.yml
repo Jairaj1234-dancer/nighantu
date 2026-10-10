@@ -1,0 +1,88 @@
+name: Zenodo deposit
+
+# PUT THE DATA FILES IN THE ARCHIVE, from a job rather than a laptop.
+#
+# The concept DOI is advertised on this site as the identifier for nineteen Dataset records and
+# resolves to a record holding one file: a 7.5 MB archive of this repository. Every dataset is
+# individually downloadable from the site and none of them is from the archive, which is the wrong
+# way round, because the site can change and the archive is what is supposed to still be there.
+#
+# WHY IN CI. The token is a repository secret, so it is never handled by a person, never enters a
+# shell history, and never appears in a transcript. It also makes depositing repeatable, which
+# matters more than it used to: the GitHub release webhook that used to archive on every release
+# was deliberately disabled, because it would have overwritten the data deposit with a zip again.
+# Nothing archives itself now, so this is the whole mechanism.
+#
+# WHY DISPATCH-ONLY. A deposit is a deliberate act with a permanent result. It runs when the
+# datasets have moved enough to be worth a new version, and the script it calls never publishes:
+# it leaves a draft and prints the review URL for a person to check.
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type "deposit" to confirm. Creates a Zenodo draft; does not publish.'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: zenodo-deposit
+  cancel-in-progress: false
+
+jobs:
+  deposit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Refuse unless confirmed
+        if: inputs.confirm != 'deposit'
+        run: |
+          echo "Input was ${{ inputs.confirm }}; expected the word deposit."
+          echo "This job uploads to a permanent public archive, so it asks twice."
+          exit 1
+
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      # The datasets under public/ are generated, not committed, so a fresh checkout has almost
+      # none of them. Depositing without this step would archive whatever happened to be in the
+      # repository, which is the shape of the problem this workflow exists to fix.
+      - name: Generate every download
+        run: ./scripts/build-downloads.sh
+
+      - name: Report what would be deposited
+        run: node scripts/zenodo-deposit.mjs
+
+      # The script refuses to run unless every file it would upload has a sentence describing it,
+      # creates a NEW VERSION of the existing record rather than a new deposition, removes the
+      # inherited repository zip, uploads the data files with a manifest, and stops at a draft.
+      - name: Deposit
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          if [ -z "${ZENODO_TOKEN:-}" ]; then
+            echo "ZENODO_TOKEN is not set as a repository secret."
+            echo "Set it with: gh secret set ZENODO_TOKEN"
+            exit 1
+          fi
+          node scripts/zenodo-deposit.mjs --deposit | tee /tmp/deposit.txt
+
+      - name: Put the review link in the run summary
+        if: always()
+        run: |
+          {
+            echo "## Zenodo deposit $(date -u +%Y-%m-%d)"
+            echo ""
+            echo "Nothing is published. The draft below needs a person to review and publish it."
+            echo ""
+            echo '```'
+            cat /tmp/deposit.txt 2>/dev/null || echo "(no output captured)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

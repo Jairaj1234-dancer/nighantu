@@ -47,6 +47,15 @@ function normBinomial(v) {
 }
 
 // ---------------------------------------------------------------- pages
+/**
+ * What is already committed, read before anything is rebuilt. See the note at the page assembly
+ * below for why: without this, a CI run rebuilds every page from sources that are not all present
+ * there and silently drops the rest.
+ */
+const existing = fs.existsSync(OUT)
+  ? (JSON.parse(fs.readFileSync(OUT, 'utf8')).pages ?? {})
+  : {};
+
 const pages = [];
 for (const rel of walk('content')) {
   const kind = rel.split(path.sep)[0];
@@ -177,7 +186,31 @@ for (const p of pages) {
     stats.fromClaims += 1;
   }
 
-  result[key] = { title: p.title, binomial: p.binomial, citations: dedupe(found) };
+  /**
+   * SEEDED FROM WHAT IS ALREADY COMMITTED, so a run can only add.
+   *
+   * This line used to build each page fresh from the two sources above, which meant the committed
+   * citations.json was overwritten rather than extended. That is survivable locally, where the
+   * companion database supplies most citations, and destructive in CI, where that database does
+   * not exist: source 1 contributes nothing there, so each page was rebuilt from recovered claims
+   * plus whatever PubMed happened to return.
+   *
+   * It ran on schedule on 10 October 2026 and emptied 31 live pages that had held 12 citations
+   * each, reducing 61 pages in total. herb/priyangu went from 12 to 0 and the page was deployed
+   * that way. Nothing flagged it: the totals moved by 70 because 61 other pages gained, so the
+   * aggregate looked like churn rather than loss.
+   *
+   * The citation refresh workflow's own comment asserted the behaviour this now actually has:
+   * "in CI only the committed citations and live PubMed are available, which is why citations.mjs
+   * merges rather than regenerating from scratch". It merged the three SOURCES. It did not merge
+   * the previous OUTPUT, which is the one that mattered.
+   */
+  const prior = existing[key]?.citations ?? [];
+  result[key] = {
+    title: p.title,
+    binomial: p.binomial,
+    citations: dedupe([...prior, ...found]),
+  };
 }
 
 // ------------------------------------------- source 3: fresh PubMed for thin pages
