@@ -1,7 +1,7 @@
 {
  "note": "Pages that are the same drug as another page under a different name. The alias keeps its URL and its content, and declares the primary as its canonical so a retrieval index consolidates them instead of picking one arbitrarily.",
  "updatedAt": "2026-10-10",
- "count": 33,
+ "count": 34,
  "aliases": {
   "nikochaka": {
    "primary": "ankola",
@@ -171,6 +171,11 @@
    "why": "The same formulation spelled two ways. The primary carries the spelling the Ayurvedic Formulary of India prints, KUNKUMADI TAILA (8:8). Both pages keep their URL and their content; the alias declares the primary as its canonical so the two stop competing.",
    "registeredOn": "2026-10-08",
    "reason": "Not a near-duplicate but the same drug twice: both pages carry Ayurvedic Formulary of India Part I, entry 8:8, heading KUNKUMADI TAILA, with the same 29-ingredient composition. The two slugs are transliteration variants of one preparation. kumkumadi-tailam is the primary because the formulary heading's own orthography agrees with it and it carries more inbound links. Established by comparing part, entry number, heading and row count, not by name similarity."
+  },
+  "amalaka-rasayana": {
+   "primary": "amalaki-rasayana",
+   "taxon": "Phyllanthus emblica",
+   "reason": "Amalaka and Amalaki are both Sanskrit names for Phyllanthus emblica, and this corpus already says so: /herb/amla/ carries Amalaki in its alias list against that binomial, and there is no separate herb page for either spelling. Both formulation pages describe the same three-ingredient preparation, amalaki with ghee and honey, in the same group, with the same marker compounds (ascorbic, gallic and ellagic acids, emblicanin A and B). Neither carries an Ayurvedic Formulary of India entry, so the formulary-entry test that settled the other four formulation pairs was unavailable; the decisive evidence is the ingest path, Amalaka-Rasayana/meta-analysis.md against Amalaki-Rasayana/meta-analysis.md, two upstream directories differing by one vowel and carrying the same drug. amalaki-rasayana is the primary because it states the classical locus (Charaka Chikitsasthana, Rasayana Adhyaya, and Ashtanga Hridaya), names the Ayurvedic Pharmacopoeia of India monograph, and carries all ten papers, on equal inbound links. STATED LIMIT: Charaka's Rasayana Adhyaya describes several amalaka-based preparations and a distinct classical Amalaka Rasayana cannot be ruled out from the sources held here. What can be said is that this corpus records no difference between the two pages: the alias states no locus, no composition and no pharmacopoeial status of its own. If a distinction is later established, this declaration is the thing to revisit."
   }
  }
 }
