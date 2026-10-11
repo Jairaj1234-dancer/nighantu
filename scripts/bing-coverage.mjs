@@ -26,6 +26,9 @@
  *   node --env-file=.env scripts/bing-coverage.mjs
  *   node --env-file=.env scripts/bing-coverage.mjs --sample 120
  *
+ *   # a one-off diagnostic, kept away from the tracked series in data/coverage:
+ *   node --env-file=.env scripts/bing-coverage.mjs --urls my-urls.txt --out measurement/probe
+ *
  * NEVER LOG A REQUEST URL FROM THIS FILE. The key travels as a querystring parameter, lib/fetch.mjs
  * returns the resolved url on the result object, and one console.log of that object would publish
  * the key into a terminal transcript. Everything printed here goes through redact().
@@ -45,12 +48,18 @@ import {
 const KEY = process.env.BING_API_KEY;
 const SITE_URL = process.env.BING_SITE_URL || `${SITE}${BASE}/`;
 const API = 'https://ssl.bing.com/webmaster/api.svc/json';
-const OUT_DIR = 'data/coverage';
-
 const argOf = (name, fallback) => {
   const i = process.argv.indexOf(name);
   return i === -1 ? fallback : process.argv[i + 1];
 };
+/**
+ * Where the report is written. `--out` exists so a ONE-OFF DIAGNOSTIC cannot overwrite the tracked
+ * weekly series: this directory holds bing-coverage.json, its resume checkpoint and the dated
+ * baselines, and a question asked about an unrelated set of URLs has no business replacing the answer to
+ * the pinned sample.
+ */
+const OUT_DIR = argOf('--out', 'data/coverage');
+
 const SAMPLE = Number(argOf('--sample', 80));
 /**
  * Bing throttles per host, and the first run found 350ms is far too fast. These are deliberately
