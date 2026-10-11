@@ -2,16 +2,19 @@
 /**
  * Which pages surface in Google, and for what queries.
  *
- * THE QUESTION THIS ANSWERS, which coverage cannot. gsc-coverage.mjs established that 686 of 1,239
- * pages are indexed, so being found is no longer the constraint. This site has 7,549 impressions
- * and, across every citation log it holds, zero citations. The gap between those two numbers is the
- * whole problem, and impressions per page and per query is the only data that speaks to it.
+ * THE QUESTION THIS ANSWERS, which coverage cannot. gsc-coverage.mjs establishes how much of the
+ * site is indexed. Being indexed and being cited are different things, and the gap between them is
+ * this project's whole problem; impressions per page and per query is the only data that speaks to
+ * it.
  *
- * WHY THIS EXISTS AS A SCRIPT. The 6 October edition of the measurement artifact drew its largest
- * conclusions from a hand-made Search Console export: that herb monographs earned 86% of all page
- * impressions, that Shirodhara earned almost none, that click-through was flat across every
- * position band. Those conclusions reversed an earlier recommendation and deserve to be a tracked
- * series rather than one afternoon's download.
+ * WHY THIS EXISTS AS A SCRIPT. An earlier edition of the measurement artifact drew its largest
+ * conclusions from a hand-made Search Console export: which collection earned most of the
+ * impressions, that one guide earned almost none, that click-through was flat across every position
+ * band. Those conclusions reversed an earlier recommendation and deserve to be a tracked series
+ * rather than one afternoon's download.
+ *
+ * THE FIGURES THEMSELVES ARE NOT IN THIS FILE, deliberately. They are this site's own scoreboard
+ * and this repository is public, so they live in the gitignored output and are printed at runtime.
  *
  * LOCAL ONLY, for the reason every reader in this project is. THIS REPOSITORY IS PUBLIC, Actions
  * logs are public, and per-page performance is this project's own scoreboard. The credential sits

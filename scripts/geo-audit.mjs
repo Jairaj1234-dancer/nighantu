@@ -21,15 +21,15 @@ import crypto from 'node:crypto';
 /**
  * The panel, rebuilt 5 October 2026 around what actually earns citations.
  *
- * Bing's AI performance report settled a question the panel could not. In fifteen days the
- * Nighantu earned 144 AI citations across 26 pages, and every single one went to a herb
- * monograph or a formulation page. Not one went to a Shirodhara guide, a practice page, a
- * device page, or either of the operator pages written in September.
+ * Bing's AI performance report settled a question the panel could not. Over a fortnight every
+ * single AI citation the Nighantu earned went to a herb monograph or a formulation page. Not one
+ * went to a Shirodhara guide, a practice page, a device page, or either of the operator pages
+ * written in September.
  *
- * The old panel was 42 Shirodhara prompts out of 81, and only 4 of the 26 pages earning
- * citations were mentioned in it at all. The best-performing page on the whole site,
- * Talisapatra at 32 citations, was never asked about once. So the measurement was built around
- * the commercial thesis and was blind to the actual asset: a panel can only report on ground it
+ * The old panel was mostly Shirodhara prompts, and only a handful of the pages actually earning
+ * citations were mentioned in it at all. The best-performing page on the whole site was never
+ * asked about once. So the measurement was built around the commercial thesis and was blind to
+ * the actual asset: a panel can only report on ground it
  * covers, and this one covered the wrong ground for six weeks.
  *
  * What the winning pages have in common is worth stating, because it should shape the next
@@ -121,8 +121,8 @@ const PANEL = [
   { q: 'What is Surya Shirodhara?', intent: 'brand' },
 
   // ------------------------------------- verification: the vacuum, 8 prompts, added 8 Oct 2026
-  // A full 50-prompt market map of this ground ran on 8 October and returned zero citations here
-  // across 177 domains. These eight are the slice carried in the recurring panel; the whole set
+  // A full 50-prompt market map of this ground ran on 8 October and this site was cited on none of
+  // it. These eight are the slice carried in the recurring panel; the whole set
   // lives in data/prompts/brand-comparison.json and is re-run as a map, not as a panel.
   { q: 'Does Dabur Chyawanprash follow the Ayurvedic Formulary of India?', intent: 'verification' },
   { q: "What does 'as per AFI' mean on an Ayurvedic medicine label?", intent: 'verification' },

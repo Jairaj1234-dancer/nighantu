@@ -207,9 +207,9 @@ export function composeAnswer({ title, kind, facts, sections, lead, group, subst
      * That filler reached 336 of the 802 answer blocks on this site, 42%, every one of them a herb
      * page whose `Ayurvedic Category` was empty. It is the passage a reader sees first and the one
      * an answer engine is most likely to lift, and it is also the meta description, so it is the
-     * sentence a searcher is shown in the result. /herb/kapikachhu/ is the clearest cost: the
-     * highest-demand page on the site, 236 impressions in a month on the bare query and zero
-     * clicks, opening with a sentence that says nothing.
+     * sentence a searcher is shown in the result. /herb/kapikachhu/ is the clearest cost: one of
+     * the highest-demand pages on the site, earning search impressions on its own bare name and
+     * no clicks at all, opening with a sentence that says nothing.
      *
      * "a plant drug" at least states what kind of thing it is. The classical names that follow are
      * what actually help, and they are added by the caller from src/data/names.json, which held

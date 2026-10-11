@@ -34,6 +34,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 | **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
+## Which traditional uses are supported by research?
+
+*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external use), Capsules (modern, for internal variant)

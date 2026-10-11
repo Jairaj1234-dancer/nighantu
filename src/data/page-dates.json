@@ -420,7 +420,7 @@
     "modified": "2026-09-12"
   },
   "formulation": {
-    "hash": "24d2039975e5ac5e",
+    "hash": "bf34b549260e0932",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -440,9 +440,9 @@
     "modified": "2026-10-11"
   },
   "formulation/ajamoda-arka": {
-    "hash": "b4bed06a975cd66b",
+    "hash": "1b94a15b2979e8ca",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/ajamodadi-churna": {
     "hash": "9c91a27e00cec868",
@@ -450,9 +450,9 @@
     "modified": "2026-10-10"
   },
   "formulation/amalaka-rasayana": {
-    "hash": "a034c966912a9688",
+    "hash": "9a6be18846159a62",
     "published": "2026-09-09",
-    "modified": "2026-10-07"
+    "modified": "2026-10-11"
   },
   "formulation/amalaki-rasayana": {
     "hash": "3c90810fd7d239ae",
@@ -465,14 +465,14 @@
     "modified": "2026-10-10"
   },
   "formulation/amritaprasha-ghrita": {
-    "hash": "fc7973a4ff2a9923",
+    "hash": "1c787fbcf070c594",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/amritarishta": {
-    "hash": "1a52a2a4dd9a818d",
+    "hash": "5c68bd58acda01dc",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/amritottaram-kashayam": {
     "hash": "6f88a0b0ed7f0721",
@@ -485,9 +485,9 @@
     "modified": "2026-10-10"
   },
   "formulation/aragvadhadi-kwath": {
-    "hash": "0f9837c8bd3eec72",
+    "hash": "7a810d0ee91ff8c8",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/aravindasava": {
     "hash": "dc945c862e5badf6",
@@ -495,14 +495,14 @@
     "modified": "2026-10-10"
   },
   "formulation/ardraka-svarasa": {
-    "hash": "9fc161e9b7035146",
+    "hash": "f23bb3ddefa3c0de",
     "published": "2026-09-09",
-    "modified": "2026-10-07"
+    "modified": "2026-10-11"
   },
   "formulation/arishtaka": {
-    "hash": "30bf7e74f6cb88cb",
+    "hash": "4dd57bba99b390cf",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/arjunarishta": {
     "hash": "4765e65d61800bc6",
@@ -515,14 +515,14 @@
     "modified": "2026-10-10"
   },
   "formulation/asanadi-kwath": {
-    "hash": "0bbfd681c8848ed4",
+    "hash": "c470a0d5c283b9d7",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/ashoka-ghrita": {
-    "hash": "138c9a2cd4e06434",
+    "hash": "c6b06efaab9ce67a",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/ashokarishta": {
     "hash": "efbaf849a0825a8b",
@@ -535,9 +535,9 @@
     "modified": "2026-10-10"
   },
   "formulation/avaleha": {
-    "hash": "71bc8e46fdb43afb",
+    "hash": "8ac320d9c2045a51",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "formulation/avipattikar-churna": {
     "hash": "94bdf3b1716014f3",
@@ -545,9 +545,9 @@
     "modified": "2026-10-10"
   },
   "formulation/badama-taila": {
-    "hash": "d79141f4bec753f3",
+    "hash": "75de19f2fc050dfd",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/bakuchi-taila": {
     "hash": "847b3aa10d7af834",
@@ -570,9 +570,9 @@
     "modified": "2026-10-10"
   },
   "formulation/bhringaraja-svarasa": {
-    "hash": "b8893a8d8af1cd94",
+    "hash": "fcebcd6426355a22",
     "published": "2026-09-09",
-    "modified": "2026-10-07"
+    "modified": "2026-10-11"
   },
   "formulation/bilwadi-leha": {
     "hash": "1e4608b97493a5a4",
@@ -600,9 +600,9 @@
     "modified": "2026-10-07"
   },
   "formulation/caturjata-churna": {
-    "hash": "2a821e6d2cbf5875",
+    "hash": "9a72c6ac807a7ef9",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/chandraprabha-vati": {
     "hash": "fc2eb1d545583996",
@@ -610,9 +610,9 @@
     "modified": "2026-10-10"
   },
   "formulation/changeri-ghrita": {
-    "hash": "f193a9ea14695649",
+    "hash": "c56d1d33fd225601",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/chitrakadi-vati": {
     "hash": "830bf818aa65ccda",
@@ -635,9 +635,9 @@
     "modified": "2026-10-10"
   },
   "formulation/dadimashtaka-churna": {
-    "hash": "ed145b42bc055ffb",
+    "hash": "5dfb44014b7c79d6",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/dashamoola-katutraya-kashayam": {
     "hash": "b8bba80426440721",
@@ -660,9 +660,9 @@
     "modified": "2026-10-07"
   },
   "formulation/dhanwantaram-gutika": {
-    "hash": "313063d643e54bb0",
+    "hash": "bf95e4b09ea1bca2",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/dhanwantaram-kashayam": {
     "hash": "3e6bbc1758d16858",
@@ -675,12 +675,12 @@
     "modified": "2026-10-07"
   },
   "formulation/dhatupaushtik-churna": {
-    "hash": "13e73bd3ef2b9bd4",
+    "hash": "03e22459fa0afa58",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/drakshadi-kashayam": {
-    "hash": "1492979cbdc894c6",
+    "hash": "de698ffeb86a76ca",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -695,9 +695,9 @@
     "modified": "2026-10-10"
   },
   "formulation/eladi-vati": {
-    "hash": "df6fc865d6f80949",
+    "hash": "f9f9195ae0434415",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/elakanadi-kashayam": {
     "hash": "25d255ceca4a0a42",
@@ -715,9 +715,9 @@
     "modified": "2026-10-08"
   },
   "formulation/gangadhara-churna": {
-    "hash": "84cd8c56ee2583d9",
+    "hash": "948516e84378dec2",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/gokshuradi-guggulu": {
     "hash": "bc66df321c6c3b37",
@@ -730,9 +730,9 @@
     "modified": "2026-10-09"
   },
   "formulation/guggulu-herb": {
-    "hash": "6191f34171f36187",
+    "hash": "0a8dc93b754d03c4",
     "published": "2026-09-09",
-    "modified": "2026-10-07"
+    "modified": "2026-10-11"
   },
   "formulation/guggulutiktakam-ghritam": {
     "hash": "728060b1d3c554c0",
@@ -740,9 +740,9 @@
     "modified": "2026-10-10"
   },
   "formulation/gulakanda": {
-    "hash": "76aa67049df709b7",
+    "hash": "48bdb90d6dcc9467",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/guloochyadi-kashayam": {
     "hash": "d8999336cf3f91b3",
@@ -760,9 +760,9 @@
     "modified": "2026-10-10"
   },
   "formulation/hinguvachadi-churna": {
-    "hash": "2135bc453a1ab7d6",
+    "hash": "5c95ba1883ed3295",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/hingvashtak-churna": {
     "hash": "e8759cb2d9fc5a83",
@@ -795,7 +795,7 @@
     "modified": "2026-10-10"
   },
   "formulation/jeerakarishtam": {
-    "hash": "33b515dae863800b",
+    "hash": "405bdbd14e8882f1",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -825,24 +825,24 @@
     "modified": "2026-10-11"
   },
   "formulation/kapha-shirodhara-taila": {
-    "hash": "a0f0418d52572340",
+    "hash": "c7c48c612d6224de",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "formulation/karanja-taila": {
-    "hash": "2392b7fa29b9500c",
+    "hash": "682c210d8d8d9216",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/karpas-asthyadi-thailam": {
-    "hash": "f328cbe822452c60",
+    "hash": "43ecf0e479fd75c8",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/karpasasthyadi-thailam": {
-    "hash": "123b17cf17979309",
+    "hash": "bd3ac38f7402296c",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/karpooradi-thailam": {
     "hash": "f44831797c210512",
@@ -870,9 +870,9 @@
     "modified": "2026-10-10"
   },
   "formulation/kulathadi-kwath": {
-    "hash": "777d7b18f385f35a",
+    "hash": "8aeb7c87e34cfc70",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/kumaryasava": {
     "hash": "4d2187329fce2107",
@@ -890,9 +890,9 @@
     "modified": "2026-10-07"
   },
   "formulation/kuntalakanti-tailam": {
-    "hash": "a29b6a45ea6bfc67",
+    "hash": "3e21a29f1580789c",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/kutajarishta": {
     "hash": "7a6e0bdc8724f97f",
@@ -990,9 +990,9 @@
     "modified": "2026-10-08"
   },
   "formulation/pitta-shirodhara-taila": {
-    "hash": "80a12721b01f89a2",
+    "hash": "0062dfd3e46f8a6d",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "formulation/punarnavadi-guggulu": {
     "hash": "1f127cec2f08a305",
@@ -1115,7 +1115,7 @@
     "modified": "2026-10-10"
   },
   "formulation/vata-shirodhara-taila": {
-    "hash": "270e494f1b95c22b",
+    "hash": "247cbcff4f9664ab",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -5455,7 +5455,7 @@
     "modified": "2026-09-16"
   },
   "reference": {
-    "hash": "6cf0e8708041cf49",
+    "hash": "4a09dfe94bb3d32e",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -5490,7 +5490,7 @@
     "modified": "2026-10-11"
   },
   "reference/antiinflammatory-pain-across-traditions": {
-    "hash": "223031500a3744df",
+    "hash": "479029dff35170ec",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -5620,7 +5620,7 @@
     "modified": "2026-10-11"
   },
   "reference/kidney-urinary-across-traditions": {
-    "hash": "fa0d08463074f702",
+    "hash": "6138644d3c4da629",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },

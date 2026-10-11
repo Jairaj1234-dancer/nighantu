@@ -82,3 +82,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 - Discontinue if irritation occurs. Avoid eyes and broken skin. Patch-test before first use.
 - Not intended to diagnose, treat, cure or prevent any disease.
 - Store in a cool, dry place away from direct sunlight.
+
+## Which traditional uses are supported by research?
+
+*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*

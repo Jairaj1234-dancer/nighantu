@@ -8,11 +8,11 @@
  * the passage an answer engine is most likely to lift verbatim, and the meta description Google
  * shows in a result. So the filler is not cosmetic. It is the sentence a searcher is shown.
  *
- * /herb/kapikachhu/ is the measured cost. It is the highest-demand page on this site, 236
- * impressions in a month on the bare query "kapikachhu", at position 13.0, with ZERO clicks, and
- * its description read "Kapikachhu (Mucuna pruriens) is a plant used in Ayurveda." followed by
- * decarboxylase-inhibitor pharmacokinetics. It passes every safety check: it is not unsafe, it is
- * useless.
+ * /herb/kapikachhu/ is the measured cost. It is one of the highest-demand pages on this site,
+ * earning search impressions on its own bare name and no clicks at all, and its description read
+ * "Kapikachhu (Mucuna pruriens) is a plant used in Ayurveda." followed by decarboxylase-inhibitor
+ * pharmacokinetics. It passes every safety check: it is not unsafe, it is useless. The figures sit
+ * in the gitignored measurement output, because this repository is public.
  *
  * WHY A REPAIR AS WELL AS A GENERATOR FIX. answer.mjs now says "is a plant drug" and takes the
  * classical names, but ingest only runs where ATLAS_VAULT is set, and the committed pages are the
