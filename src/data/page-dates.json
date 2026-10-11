@@ -420,7 +420,7 @@
     "modified": "2026-09-12"
   },
   "formulation": {
-    "hash": "a5e6a2f565310e62",
+    "hash": "24d2039975e5ac5e",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -645,9 +645,9 @@
     "modified": "2026-10-08"
   },
   "formulation/dashamula": {
-    "hash": "637497beffbbc017",
+    "hash": "5741205859c20198",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/dashamularishta": {
     "hash": "f4a394ace877cc05",
@@ -680,9 +680,9 @@
     "modified": "2026-10-10"
   },
   "formulation/drakshadi-kashayam": {
-    "hash": "5f7f638e7d122fd7",
+    "hash": "1492979cbdc894c6",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/draksharishta": {
     "hash": "73e4db23c52d61fc",
@@ -795,9 +795,9 @@
     "modified": "2026-10-10"
   },
   "formulation/jeerakarishtam": {
-    "hash": "dc44b43fa1f645a4",
+    "hash": "33b515dae863800b",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "formulation/kaishore-guggul": {
     "hash": "aff2818f666c5e74",
@@ -1115,9 +1115,9 @@
     "modified": "2026-10-10"
   },
   "formulation/vata-shirodhara-taila": {
-    "hash": "15c1280fdafbab0f",
+    "hash": "270e494f1b95c22b",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "formulation/vidangarishta": {
     "hash": "c0bc6b0cee00ddb7",
@@ -1300,9 +1300,9 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "6a5e9ef450279447",
+    "hash": "e647c548baa9bd6b",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/abhraka-bhasma": {
     "hash": "a72146b2a3ff3792",
@@ -1335,9 +1335,9 @@
     "modified": "2026-10-10"
   },
   "herb/agnimantha": {
-    "hash": "f2f18bb08645ddab",
+    "hash": "69cf77845f6aabec",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-11"
   },
   "herb/ahiphena": {
     "hash": "f79e86109aa874ca",
@@ -1465,9 +1465,9 @@
     "modified": "2026-10-10"
   },
   "herb/aranya-jeeraka": {
-    "hash": "3bfe06c19e6307ed",
+    "hash": "1fac4a36c815e773",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-11"
   },
   "herb/arjuna": {
     "hash": "ce11b1380dc5bc80",
@@ -1530,9 +1530,9 @@
     "modified": "2026-10-10"
   },
   "herb/avipattikar": {
-    "hash": "a1fefd251ecd8dc6",
+    "hash": "3570ee5aa8d37a44",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "herb/avipattikar-herbs": {
     "hash": "d8c2f1b07cb05aa7",
@@ -1565,9 +1565,9 @@
     "modified": "2026-10-10"
   },
   "herb/bala-mool": {
-    "hash": "9e7ac46877652612",
+    "hash": "41f07de3b8408071",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/bandhuka": {
     "hash": "4eccb0a704e28c27",
@@ -1595,9 +1595,9 @@
     "modified": "2026-10-10"
   },
   "herb/bhumi-jambuka": {
-    "hash": "009b93663607f895",
+    "hash": "6a87713c34f42c09",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/bhumyamalaki": {
     "hash": "fd866a05d6dc46d5",
@@ -1615,9 +1615,9 @@
     "modified": "2026-10-10"
   },
   "herb/bhutakeshi": {
-    "hash": "58551a9a3cb65e5d",
+    "hash": "dd56b37e264cb3a1",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/bhutika": {
     "hash": "c5dd5ded6c080818",
@@ -1655,9 +1655,9 @@
     "modified": "2026-10-10"
   },
   "herb/bitter-gourd": {
-    "hash": "a425111accd5d927",
+    "hash": "8e10f94c35fb6089",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/bitter-gourd-herb": {
     "hash": "5d2620fbe45ba099",
@@ -1705,9 +1705,9 @@
     "modified": "2026-10-10"
   },
   "herb/chandraprabha": {
-    "hash": "f41221d37d4ff504",
+    "hash": "871d91c4fd6382c6",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/chandrashura": {
     "hash": "5e80cda63a1327f7",
@@ -1720,9 +1720,9 @@
     "modified": "2026-10-10"
   },
   "herb/chavika": {
-    "hash": "a80e12f3d63c4862",
+    "hash": "e6efc3f652c51040",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/chavya": {
     "hash": "ee0bccd1ef6296fb",
@@ -1735,14 +1735,14 @@
     "modified": "2026-10-10"
   },
   "herb/chirabilva": {
-    "hash": "13c94dba6d97b880",
+    "hash": "8a1ec5d325307d6f",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/chirayata": {
-    "hash": "023e1c67e8d10010",
+    "hash": "0c8d7a2cc97da5b4",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/chitrak": {
     "hash": "61b82779dd2f392e",
@@ -1750,9 +1750,9 @@
     "modified": "2026-10-10"
   },
   "herb/chitraka-moola": {
-    "hash": "6dd7ee02a5f8268f",
+    "hash": "6e2e40f2bc39d763",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/chitrakaharitaki": {
     "hash": "21fe9b1a200d07f0",
@@ -1765,9 +1765,9 @@
     "modified": "2026-10-10"
   },
   "herb/coriander": {
-    "hash": "6b5e2b0a06eab6a5",
+    "hash": "6baf9eb1422e7043",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/coriander-herb": {
     "hash": "6ebdfcf8393b4ae5",
@@ -2035,9 +2035,9 @@
     "modified": "2026-10-10"
   },
   "herb/granthiparni": {
-    "hash": "4b2f229fa2984d5b",
+    "hash": "daaa3bea65ed0c57",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/grinjana": {
     "hash": "c6c905e237bbc5bf",
@@ -2055,9 +2055,9 @@
     "modified": "2026-10-10"
   },
   "herb/guduchi": {
-    "hash": "d51d90a405b093c7",
+    "hash": "f96ed7bd3e0035b7",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/hajrul-yahood-bhasma": {
     "hash": "cb03597b709168e9",
@@ -2380,9 +2380,9 @@
     "modified": "2026-10-10"
   },
   "herb/karmaranga": {
-    "hash": "a9987ff2449fcd63",
+    "hash": "4f5fb634c3d18101",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/karnikara": {
     "hash": "5c4436836cc7c0e0",
@@ -2700,9 +2700,9 @@
     "modified": "2026-09-18"
   },
   "herb/mahanarayan": {
-    "hash": "5801e59620610667",
+    "hash": "895d35ab9f395757",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "herb/mahanimba": {
     "hash": "32537a8f44569b90",
@@ -2775,9 +2775,9 @@
     "modified": "2026-09-18"
   },
   "herb/mayurashikha": {
-    "hash": "816c93d929b84152",
+    "hash": "3f5d263ffa359495",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/meda": {
     "hash": "e2a4addcd93054bf",
@@ -3260,9 +3260,9 @@
     "modified": "2026-10-10"
   },
   "herb/satyanashi": {
-    "hash": "796cef63e5ea5acb",
+    "hash": "7b66eea3a6515efa",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/senna": {
     "hash": "386af301b9840bc8",
@@ -3315,9 +3315,9 @@
     "modified": "2026-10-10"
   },
   "herb/shatavari": {
-    "hash": "3dc3545564f6a41d",
+    "hash": "b5a5f4a4b0169606",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/shatavari-ksheera": {
     "hash": "8a125a01cefacac3",
@@ -3330,9 +3330,9 @@
     "modified": "2026-10-10"
   },
   "herb/shigru-patra": {
-    "hash": "265feba60cf5f974",
+    "hash": "e1d1d0819ef8c119",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-11"
   },
   "herb/shilajit": {
     "hash": "4d689f66d1d3dce8",
@@ -3360,9 +3360,9 @@
     "modified": "2026-10-10"
   },
   "herb/shvet-musli": {
-    "hash": "7d436476b821d40b",
+    "hash": "2c2f309832f989f9",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/shyonaka": {
     "hash": "366a4e6f6e1d343c",
@@ -3425,9 +3425,9 @@
     "modified": "2026-10-10"
   },
   "herb/suryavarta": {
-    "hash": "78ad241ca4edd36d",
+    "hash": "a4f45de3875162cc",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/svetamarica": {
     "hash": "173d14439948d91b",
@@ -3560,9 +3560,9 @@
     "modified": "2026-10-10"
   },
   "herb/trikatu": {
-    "hash": "ff5678e059dd892a",
+    "hash": "95e10aa5111637c8",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/triphala": {
     "hash": "59000e9903da0b5f",
@@ -5455,274 +5455,274 @@
     "modified": "2026-09-16"
   },
   "reference": {
-    "hash": "c7a9f5c53f061a35",
+    "hash": "6cf0e8708041cf49",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/adaptogenic": {
-    "hash": "30d6d84bd25b4933",
+    "hash": "a680c5a7713cf4bb",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/analgesic": {
-    "hash": "b57b5438d0e33332",
+    "hash": "679295b47e4e6a15",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/anticancer": {
-    "hash": "4b4fc5aaeb380730",
+    "hash": "69bea978281f3e1d",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antidiabetic": {
-    "hash": "0cb196fb450da827",
+    "hash": "e3ca4893a08303b2",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antiinflammatory": {
-    "hash": "44215607bf4c52af",
+    "hash": "a26ba5f64daee7b8",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antiinflammatory-pain": {
-    "hash": "fc04b3b6573cac2a",
+    "hash": "1b2d35b8a73ac99a",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antiinflammatory-pain-across-traditions": {
-    "hash": "d3b293715e7e91cf",
+    "hash": "223031500a3744df",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antimicrobial": {
-    "hash": "cb5530942ba18fe0",
+    "hash": "0f22138a3f162b66",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antioxidant": {
-    "hash": "bcdacd288a8ac8dd",
+    "hash": "6564f24bf14d357e",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/antipyretic": {
-    "hash": "870ef988c000f0d5",
+    "hash": "dff93209cc6911b2",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/anxiolytic": {
-    "hash": "c9cc44efee25306d",
+    "hash": "73d4b69aa9d53809",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/brain-nervous-system": {
-    "hash": "2174f3184cb8e793",
+    "hash": "9a15f1630819d0e5",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/bronchodilator": {
-    "hash": "e504cc4d99e5063f",
+    "hash": "a721ca2d64df1b20",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/cardioprotective": {
-    "hash": "a4fc83eb3a9945d3",
+    "hash": "09b9d4b4b30ef371",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/catechin": {
-    "hash": "a5c6d72d08582e85",
+    "hash": "1e2051343a6693db",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/diabetes-metabolism": {
-    "hash": "0dfb31746acfa7d0",
+    "hash": "4da851e7ab15e661",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/digestive-health": {
-    "hash": "4b7239891fd84fc5",
+    "hash": "72c77c4402f37319",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/diuretic": {
-    "hash": "a6316392b335141f",
+    "hash": "32804b4594fc6ffc",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/ellagic-acid": {
-    "hash": "49cd4b8f8f5ca062",
+    "hash": "d775b183cdaf6de6",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/expectorant": {
-    "hash": "a5f9f8fe91868303",
+    "hash": "a3907802d9da3778",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/eye-health": {
-    "hash": "2c47e0bd23c6d580",
+    "hash": "f4c8fe2dfb954f53",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/fabaceae": {
-    "hash": "ebab2f0fbe48a034",
+    "hash": "fc9ce2b97bd5e4ce",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/fever-infection": {
-    "hash": "24857c2de7e9c3b6",
+    "hash": "aeb33224a7f6610b",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/flavonoids": {
-    "hash": "5938ec1490d1f54a",
+    "hash": "d264cb4a37c95c34",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/gallic-acid": {
-    "hash": "9b6618b7fc2f8b66",
+    "hash": "f2ad5b2f74ef8190",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/heart-cardiovascular": {
-    "hash": "a9a60773ded27e2e",
+    "hash": "6b98c3e055e32538",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/hepatoprotective": {
-    "hash": "d87dbdf484026303",
+    "hash": "955c7c2bd3daad1a",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/immune-system-rasayana": {
-    "hash": "86fac61c8460e5ec",
+    "hash": "f601156cbe12bc31",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/immunomodulatory": {
-    "hash": "246824b7d0ca9b1d",
+    "hash": "57d7610d5dd4537d",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/joint-musculoskeletal": {
-    "hash": "f694fd52cbb74dc9",
+    "hash": "4b5632b7c611da43",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/kaempferol": {
-    "hash": "91d8c241ff5c6ec5",
+    "hash": "e9b9b333a9604a51",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/kidney-urinary": {
-    "hash": "16510919c6ec2a3a",
+    "hash": "f6dc4a22c4edc99e",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/kidney-urinary-across-traditions": {
-    "hash": "1d5296a10845e5ef",
+    "hash": "fa0d08463074f702",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/laxative": {
-    "hash": "69895f9f297e6730",
+    "hash": "d63bb0e693fdc720",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/liver-detoxification": {
-    "hash": "0bdd7bf908d6a3d9",
+    "hash": "f4860769fc0a20c3",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/lupeol": {
-    "hash": "837eff69b313a127",
+    "hash": "8cc4961d8cc8fad3",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/medhya-nootropic": {
-    "hash": "30b154cb0a343a8d",
+    "hash": "0a254e2c156e7673",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/mens-health-vitality": {
-    "hash": "009d35e64d40f358",
+    "hash": "f8de9b7d786ed974",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/neuroprotective": {
-    "hash": "d885f2943304ecfb",
+    "hash": "bd2cad1295e6774d",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/oleanolic-acid": {
-    "hash": "f99fa03bcdb94a28",
+    "hash": "2d5ccaf467aebb08",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/piperine": {
-    "hash": "f9226b412eaa59f6",
+    "hash": "35a0682b1978d3a6",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/quercetinquercetin": {
-    "hash": "da6e1d7704919bf3",
+    "hash": "b93d375742c8ee87",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/rasayana": {
-    "hash": "591a62c29294d973",
+    "hash": "3545bef046c0b100",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/respiratory-health": {
-    "hash": "294d42fc177debae",
+    "hash": "c9e2d066c0d9b2cb",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/rosaceae": {
-    "hash": "e3ec514b7a251a91",
+    "hash": "42908380a50aa4a3",
     "published": "2026-09-09",
-    "modified": "2026-09-09"
+    "modified": "2026-10-11"
   },
   "reference/saponins": {
-    "hash": "6899928298266b6e",
+    "hash": "6eca4d4804fe73b0",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/skin-beauty": {
-    "hash": "7cdd020979327d25",
+    "hash": "7f7f7c15989efb8a",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/stigmasterol": {
-    "hash": "732f0728196be566",
+    "hash": "7e4c3cf3cf04b8a3",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/tannins": {
-    "hash": "1186f6d8653706c7",
+    "hash": "c3bc01926431a725",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/ursolic-acid": {
-    "hash": "6df8424c7bb8ff1d",
+    "hash": "8235731b1b19f5a0",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/womens-health": {
-    "hash": "a62b39f8e8f827e8",
+    "hash": "b3d63b7d5be4810b",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/wound-healing": {
-    "hash": "9501907c17390481",
+    "hash": "6185fbb4af4855b4",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "reference/zingiberaceae": {
-    "hash": "45d0c43503f8ccf9",
+    "hash": "e62042cd9c5d37fd",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "research": {
     "hash": "0f88450a77bf5b0c",
@@ -5740,9 +5740,9 @@
     "modified": "2026-09-09"
   },
   "text": {
-    "hash": "ee990ee46b82fad5",
+    "hash": "f0a94d09fb9645ed",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "text/ashtanga-hridaya": {
     "hash": "2f10e850ac05751f",
@@ -5750,9 +5750,9 @@
     "modified": "2026-09-18"
   },
   "text/sharangadhara-samhita": {
-    "hash": "5943caace0af29d5",
+    "hash": "91916ecc795f9a2e",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-11"
   },
   "verification": {
     "hash": "dedb951b8c5b4168",
