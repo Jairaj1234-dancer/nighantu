@@ -27,12 +27,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Eucalyptus/meta-analysis
 
 ## What is it made of?
 
-### Key Active Markers
-
-- Derived from constituent herbs (see individual herb profiles)
-- Standardized on primary bioactive markers
-
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
+*The marker compounds for this drug are not recorded here yet.*
 
 ## Dosage forms and preparation
 
