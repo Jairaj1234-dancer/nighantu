@@ -13,7 +13,9 @@
 # sitemap grows, so a fresh draw would mean a change in the count could be the index moving or the
 # sample moving with no way to tell which.
 #
-# Install:  launchctl load -w ~/Library/LaunchAgents/com.ageayurveda.bing-coverage.plist
+# Install:  see the header of infra/com.ageayurveda.bing-coverage.plist. It must be COPIED into
+#           ~/Library/LaunchAgents and loaded with `launchctl bootstrap`; `launchctl load` is
+#           deprecated and fails quietly.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
@@ -23,6 +25,20 @@ STAMP="$(date +%Y-%m-%d)"
 LOG="$OUT/run-$STAMP.log"
 
 mkdir -p "$OUT"
+
+# IS node EVEN ON THE PATH. Checked first, and checked loudly, because the absence of it is the
+# failure this script already had. launchd hands a job a clean environment, this account has no bash
+# login files for `-lc` to read, and node lives under ~/local/bin, so for the first week this agent
+# existed `npm run build` would have failed, the build branch below would have exited 0, and the
+# week would have recorded nothing while launchd reported success. PATH is now set in the plist; if
+# that is ever lost this says so in one line instead of looking like a quiet week at Bing.
+if ! command -v node >/dev/null 2>&1; then
+  echo "[$STAMP] node is not on PATH, so nothing ran. launchd gives a clean environment and this" > "$LOG"
+  echo "account has no bash login files; PATH must be set in the plist's EnvironmentVariables." >> "$LOG"
+  echo "PATH was: $PATH" >> "$LOG"
+  echo "[$STAMP] FAILED: node not on PATH. See $LOG" >&2
+  exit 1
+fi
 
 if [ ! -f .env ]; then
   echo "[$STAMP] .env missing, so BING_API_KEY is unavailable. Nothing run." > "$LOG"
