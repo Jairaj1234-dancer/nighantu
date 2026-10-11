@@ -16,7 +16,7 @@ aliases: ["Azadirachta indica A. Juss."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 679
+words: 985
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 ---
 ## Names and identification
@@ -25,6 +25,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 |----------|------|
 | English | Nimba |
 | Latin/Botanical | *Azadirachta indica A. Juss.* |
+
+## Parts Used
+
+- Leaf
+- Bark
+- Seed
+- Oil
+- Flower
+- Root
+
+## Dosha Effects
+
+| Dosha | Effect |
+|-------|--------|
+| **Pitta** | Decreases |
+| **Kapha** | Decreases |
+| **Vata** | May Increase |
 
 ## Key Phytochemical Constituents
 
@@ -36,6 +53,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 - [Salannin](/glossary/compounds-q-t/#salannin) (tetranortriterpenoid)
 - [Quercetin](/reference/quercetinquercetin/) (flavonoid [antioxidant](/reference/antioxidant/))
 - [Nimbidol](/glossary/compounds-l-o/#nimbidol) ([antimicrobial](/reference/antimicrobial/) compound)
+
+## Therapeutic Actions (Karma)
+
+- Antibacterial
+- Antifungal
+- Anti-parasitic
+- Blood purifier
+- Anti-diabetic
+- [Antipyretic](/reference/antipyretic/)
+- Insecticidal
 
 ## How does it work?
 
@@ -51,6 +78,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 - Dandruff/scalp conditions: 2025 clinical study confirmed efficacy of [neem](/herb/neem/) leaf paste for dandruff reduction
 - Wound healing and antiseptic use (Vrana): Supported by antimicrobial activity against major wound-infecting pathogens
 
+## How is it used traditionally?
+
+Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushtha (skin diseases), Prameha (diabetes), and Krimi (parasitic infections). Twigs used as toothbrush (Datun).
+
+## Where is it described in the classical texts?
+
+- Charaka Samhita
+- Sushruta Samhita
+- Bhavaprakasha Nighantu
+
 ## What do recent clinical trials show?
 
 - Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
@@ -64,6 +101,86 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 - Topical neem preparations are generally well-tolerated; however, neem oil can cause contact dermatitis in sensitized individuals. Internal consumption of neem oil has raised toxicity concerns especially in children - oral neem oil should be used with caution
 - Long-term safety data for cosmetic-grade neem preparations is limited; comprehensive safety testing needed. Neem oil should not be applied undiluted to skin. Pregnancy contraindicated for oral neem use due to potential abortifacient effects
+
+## Recommended Dosage
+
+Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
+
+## Safety, contraindications and cautions
+
+- Pregnancy (abortifacient)
+- Trying to conceive (anti-fertility)
+- Infants/children (internal use)
+- Organ transplant patients (immunostimulant)
+
+## What is it made of?
+
+**Part(s) Analyzed:** Leaf/Bark/Seed
+
+### Terpenoids
+
+- Azadirachtin (0.2-0.6%)
+- Nimbin (0.1-0.3%)
+- Nimbidin
+- Nimbinin
+- Nimbolide (0.05-0.2%)
+- Salannin
+- Gedunin
+- Mahmoodin
+
+### Flavonoids
+
+- Quercetin (0.1-0.3%)
+- Kaempferol
+- Myricetin
+- Rutin
+
+### Alkaloids
+
+- Nimbimine
+- Nimbidine
+- Nimbinine
+
+### Phenolics
+
+- Gallic acid (0.5-1.0%)
+- Catechol
+- Protocatechuic acid
+
+### Tannins
+
+- Condensed tannins (2-5%)
+- Gallic acid tannins
+
+### Steroids_Saponins
+
+- Beta-sitosterol (0.1%)
+- Stigmasterol
+- Campesterol
+
+### Glycosides
+
+- Nimbosterol
+- Nimbioside
+
+### Fatty_acids
+
+- Oleic acid (40-50%)
+- Stearic acid (15-20%)
+- Palmitic acid (15-18%)
+
+### Coumarins
+
+- Scopoletin (trace)
+- Margosine
+
+### Essential Oil Composition
+
+- **Azadirachtin:** 0.2-0.6%
+- **Nimbin:** 0.1-0.3%
+- **Limonoids:** major fraction
+
+**Analytical Methods:** HPLC, LC-MS, GC-MS, HPTLC, UV-Vis spectrophotometry
 
 ## Dosage forms and preparation
 
