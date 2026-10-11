@@ -99,7 +99,14 @@ const jsonld = [
   <table class="facts">
     <caption>What is here</caption>
     <tbody>
-      <tr><th scope="row">Ingredient rows covered</th><td>{n(s.ingredientRows)}, across 101 formulary entries</td></tr>
+      {/*
+        "101 entries transcribed here", not "101 formulary entries". The formulary is transcribed
+        101 times on this site but those cover 96 DISTINCT entries: five formulations were
+        transcribed twice, and one of those pairs, mahasudarshan against sudarshan, is a deliberate
+        comparison and must not be merged away. Calling them 101 formulary entries overstates how
+        much of the formulary is covered by five.
+      */}
+      <tr><th scope="row">Ingredient rows covered</th><td>{n(s.ingredientRows)}, across the 101 entries transcribed here</td></tr>
       <tr><th scope="row">Distinct names</th><td>{n(s.distinctNames)}</td></tr>
       <tr><th scope="row">Resolved to a botanical identity</th><td>{n(s.namesResolved)} names, {n(s.rowsResolved)} rows</td></tr>
       <tr><th scope="row">Of the plant rows</th><td>{n(s.plantRowsResolved)} of {n(s.plantRows)}</td></tr>
