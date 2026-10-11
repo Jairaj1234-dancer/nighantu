@@ -8,90 +8,45 @@ import { rel, STORE } from '../lib/site';
   canonical="/editorial-standards/"
   lede="The rules this site is written to, including the ones that are inconvenient for us."
 >
-
-## The conflict of interest, stated plainly
-
-This site is published by Age Ayurveda, which sells Ayurvedic products at
+<h2>The conflict of interest, stated plainly</h2>
+<p>This site is published by Age Ayurveda, which sells Ayurvedic products at</p>
 <a href={STORE}>ageayurveda.com</a>. A company publishing a reference work about the category
 it sells into has an obvious incentive problem. Here is how we handle it.
-
-- **Reference pages are not sales pages.** No product is mentioned in the body of a monograph.
-- **One disclosed block.** Where a page describes something we sell, a single labelled block
-  at the end of the page says so and links to the product. It is visually separated and it
-  says who publishes the site.
-- **No page exists because a product of ours needed one.** The monograph set was generated from a
-  reference corpus covering the whole materia medica, not from our catalogue. Most pages have
-  no commercial link at all.
-- **Some pages compare named products, including other companies'.** A page may state what a
-  named manufacturer publishes about a classical formulation and set it beside what the
-  Ayurvedic Formulary of India specifies. Those pages exist because the comparison is a fact
-  nobody publishes, and they follow five rules of their own, below.
-- **No advertising, no sponsorship, no affiliate links.**
-
-## Pages that name other companies
-
-Until October 2026 this page promised that no page existed because a product needed one, and
-said nothing about other companies' products, because there were none. That is no longer the
-whole truth, so here is what replaces it.
-
-We take no money from any manufacturer named on this site, including for a favourable
-comparison, and we would not be able to accept it without saying so here. The conflict runs
-the other way: we sell into the same category, so a comparison that flattered us would be
-exactly the thing to distrust. The rules below exist to make that distrust testable rather
-than asking for the benefit of the doubt.
-
-- **The disclosure comes first.** A comparison page states, above anything else, that it is
-  published by a company selling into the category it is comparing.
-- **Organised by formulation, never brand against brand.** The unit of comparison is a
-  formulary entry, not a company. There is no page ranking manufacturers.
-- **Every figure is the manufacturer's own published figure**, quoted from their page, with the
-  date it was read. A blank cell means that manufacturer does not publish that figure, and the
-  page says so in those words rather than leaving the cell empty.
-- **No score, no rank, no winner.** Publishing a composition is not the same as making a good
-  medicine, and this site is in no position to judge the second.
-- **The correction offer runs against us.** An error is corrected whoever it favours, and the
-  page states where our own products come out worse. Corrections are logged in public at
-  <a href={rel('/corrections/')}>/corrections/</a>.
-
-A manufacturer who believes a figure here misreports their label should write to us. We keep
-the page text we read and the date we read it, so a disagreement can be settled by looking
-rather than by arguing, and if we were wrong the correction is logged under our name.
-
-## How claims are worded
-
-Ayurvedic products are regulated, and disease claims are a regulatory exposure rather than a
-style preference. The rules we write to:
-
-- In product blocks: "supports X function", or "traditionally used to support X". Never
-  treats, cures, relieves or prevents. Never a disease name.
-- In reference text: traditional indications are reported as the classical source states them,
-  attributed to that source. Research findings are reported as the authors state them,
-  attributed to the study. Neither is presented as advice, and neither appears next to a
-  product link.
-- Product names are never changed to make a claim easier to write. Some of our product names
-  contain claim-like words. Renaming is a packaging and licensing decision, not a copy edit,
-  so the name stays and the surrounding text does the work.
-
-These rules are enforced mechanically, not by good intentions: the build fails if a disease
-term appears inside a product block.
-
-## What we will not publish
-
-- Dosage recommendations for individuals, or anything that reads as a treatment plan.
-- Manufacturing process detail. This is a reference for readers, not a formulation manual.
-- Details of products that have not launched.
-- Fabricated authorship or review credentials. See <a href={rel('/reviewers/')}>reviewers</a>
-  for exactly where the Nighantu stands on expert review today.
-
-## Safety framing
-
-Every monograph carries a safety and contraindications section where the source material has
-one, and every page carries a disclaimer. Where a substance is restricted, toxic, or a
-metallic or mineral preparation requiring specialist handling, we have kept it out of the
-public Nighantu entirely rather than publish a monograph a general reader might act on.
-
-## Dates and revisions
-
-Pages carry a last-reviewed date. Research sections state the year of the study. When we
-correct something we say so on <a href={rel('/corrections/')}>corrections</a>.
+<ul>
+  <li><strong>Reference pages are not sales pages.</strong> No product is mentioned in the body of a monograph.</li>
+  <li><strong>One disclosed block.</strong> Where a page describes something we sell, a single labelled block at the end of the page says so and links to the product. It is visually separated and it says who publishes the site.</li>
+  <li><strong>No page exists because a product of ours needed one.</strong> The monograph set was generated from a reference corpus covering the whole materia medica, not from our catalogue. Most pages have no commercial link at all.</li>
+  <li><strong>Some pages compare named products, including other companies'.</strong> A page may state what a named manufacturer publishes about a classical formulation and set it beside what the Ayurvedic Formulary of India specifies. Those pages exist because the comparison is a fact nobody publishes, and they follow five rules of their own, below.</li>
+  <li><strong>No advertising, no sponsorship, no affiliate links.</strong></li>
+</ul>
+<h2>Pages that name other companies</h2>
+<p>Until October 2026 this page promised that no page existed because a product needed one, and said nothing about other companies' products, because there were none. That is no longer the whole truth, so here is what replaces it.</p>
+<p>We take no money from any manufacturer named on this site, including for a favourable comparison, and we would not be able to accept it without saying so here. The conflict runs the other way: we sell into the same category, so a comparison that flattered us would be exactly the thing to distrust. The rules below exist to make that distrust testable rather than asking for the benefit of the doubt.</p>
+<ul>
+  <li><strong>The disclosure comes first.</strong> A comparison page states, above anything else, that it is published by a company selling into the category it is comparing.</li>
+  <li><strong>Organised by formulation, never brand against brand.</strong> The unit of comparison is a formulary entry, not a company. There is no page ranking manufacturers.</li>
+  <li><strong>Every figure is the manufacturer's own published figure</strong>, quoted from their page, with the date it was read. A blank cell means that manufacturer does not publish that figure, and the page says so in those words rather than leaving the cell empty.</li>
+  <li><strong>No score, no rank, no winner.</strong> Publishing a composition is not the same as making a good medicine, and this site is in no position to judge the second.</li>
+  <li><strong>The correction offer runs against us.</strong> An error is corrected whoever it favours, and the page states where our own products come out worse. Corrections are logged in public at <a href={rel('/corrections/')}>/corrections/</a>.</li>
+</ul>
+<p>A manufacturer who believes a figure here misreports their label should write to us. We keep the page text we read and the date we read it, so a disagreement can be settled by looking rather than by arguing, and if we were wrong the correction is logged under our name.</p>
+<h2>How claims are worded</h2>
+<p>Ayurvedic products are regulated, and disease claims are a regulatory exposure rather than a style preference. The rules we write to:</p>
+<ul>
+  <li>In product blocks: "supports X function", or "traditionally used to support X". Never treats, cures, relieves or prevents. Never a disease name.</li>
+  <li>In reference text: traditional indications are reported as the classical source states them, attributed to that source. Research findings are reported as the authors state them, attributed to the study. Neither is presented as advice, and neither appears next to a product link.</li>
+  <li>Product names are never changed to make a claim easier to write. Some of our product names contain claim-like words. Renaming is a packaging and licensing decision, not a copy edit, so the name stays and the surrounding text does the work.</li>
+</ul>
+<p>These rules are enforced mechanically, not by good intentions: the build fails if a disease term appears inside a product block.</p>
+<h2>What we will not publish</h2>
+<ul>
+  <li>Dosage recommendations for individuals, or anything that reads as a treatment plan.</li>
+  <li>Manufacturing process detail. This is a reference for readers, not a formulation manual.</li>
+  <li>Details of products that have not launched.</li>
+  <li>Fabricated authorship or review credentials. See <a href={rel('/reviewers/')}>reviewers</a> for exactly where the Nighantu stands on expert review today.</li>
+</ul>
+<h2>Safety framing</h2>
+<p>Every monograph carries a safety and contraindications section where the source material has one, and every page carries a disclaimer. Where a substance is restricted, toxic, or a metallic or mineral preparation requiring specialist handling, we have kept it out of the public Nighantu entirely rather than publish a monograph a general reader might act on.</p>
+<h2>Dates and revisions</h2>
+<p>Pages carry a last-reviewed date. Research sections state the year of the study. When we correct something we say so on <a href={rel('/corrections/')}>corrections</a>.</p>
 </Page>
