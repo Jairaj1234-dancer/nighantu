@@ -147,12 +147,39 @@ for (const n of nodes.values()) {
 // same substance and their nodes belong together. This makes the co-occurrence weights
 // more correct rather than merely better labelled: Sitosterol, Beta-sitosterol and
 // Nimbosterol were three separate nodes for one compound.
+/**
+ * THE MAPPING COMES FROM THE PUBCHEM CACHE, NOT FROM chemistry.json, AND THAT IS THE WHOLE POINT.
+ *
+ * This read src/data/chemistry.json, which enrich-compounds.mjs derives from THIS script's output.
+ * build-downloads.sh runs this script, then enrichment, then this script again, so the merge was
+ * reading a file computed from its own previous result. That is a feedback loop, and it oscillated
+ * with a period of two:
+ *
+ *   pass 1 merges Beta-sitosterol into Sitosterol        -> compounds.json has 838, no Beta- entry
+ *   enrichment writes one row per SURVIVING compound     -> chemistry.json loses Beta- entirely
+ *   pass 2 has no mapping for Beta-sitosterol            -> cannot merge, writes 849
+ *   next build: chemistry.json has 849 rows again        -> merges, writes 838
+ *
+ * Measured on byte-identical content, three consecutive builds gave 838/466, 849/455, 838/466.
+ * compoundsResolved is a deploy gate with its baseline pinned at 455, so it crossed its own
+ * threshold on build parity alone, and could not have detected a real regression under eleven
+ * compounds. The 10 October failure on "compoundsResolved fell from 455 to 442" was diagnosed as
+ * the local gates never running build-downloads.sh. True, and incomplete: running it does not give
+ * a stable number either.
+ *
+ * data/enrichment/pubchem.json is the right source because it is NOT downstream of this script. It
+ * is the committed lookup cache, keyed by the name asked about, and it keeps an entry once resolved
+ * whether or not a later merge absorbed that name. Beta-sitosterol, Sitosterol and Nimbosterol all
+ * sit in it against one InChIKey, which is exactly the fact the merge needs.
+ */
 {
-  const chemPath = path.join('src', 'data', 'chemistry.json');
-  if (fs.existsSync(chemPath)) {
-    const chem = JSON.parse(fs.readFileSync(chemPath, 'utf8'));
+  const cachePath = path.join('data', 'enrichment', 'pubchem.json');
+  if (fs.existsSync(cachePath)) {
+    const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
     const keyByName = new Map();
-    for (const c of chem.compounds ?? []) if (c.inchikey) keyByName.set(c.name, c.inchikey);
+    for (const [name, rec] of Object.entries(cache.entries ?? {})) {
+      if (rec?.status === 'ok' && rec.inchikey) keyByName.set(name, rec.inchikey);
+    }
 
     const groups = new Map();
     for (const n of nodes.values()) {
