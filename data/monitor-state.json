@@ -419,7 +419,7 @@
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "4dc81cf1af257b01",
       "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "5ac925fab6704497",
       "https://nighantu.ageayurveda.com/cite/": "bf6fd0ae783a338d",
-      "https://nighantu.ageayurveda.com/compounds/": "90ed9e26cf0e00fa",
+      "https://nighantu.ageayurveda.com/compounds/": "1b45b2651698634d",
       "https://nighantu.ageayurveda.com/concept/": "070be28c61916a8e",
       "https://nighantu.ageayurveda.com/concept/agni-and-digestion/": "41ca7e0ca418e48b",
       "https://nighantu.ageayurveda.com/concept/ahara-vidhi/": "ae6be5b8495d7ea0",
@@ -451,7 +451,7 @@
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "35110b1278a55f36",
       "https://nighantu.ageayurveda.com/corrections/": "06ed16bfc6c9cda3",
       "https://nighantu.ageayurveda.com/crosswalk/": "9713acf8ca51dc28",
-      "https://nighantu.ageayurveda.com/datasets/": "b5dc08f0b6130d1a",
+      "https://nighantu.ageayurveda.com/datasets/": "d177e25153c907f7",
       "https://nighantu.ageayurveda.com/device/": "904a44e7daa79694",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "16de9a68fe45a6a2",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "b244484e7eacd7d9",
@@ -941,7 +941,7 @@
       "https://nighantu.ageayurveda.com/herb/katuki/": "932ed6b8192bc764",
       "https://nighantu.ageayurveda.com/herb/kembuka/": "e89b0fe77516f822",
       "https://nighantu.ageayurveda.com/herb/ketaki/": "5b610fa16d00e380",
-      "https://nighantu.ageayurveda.com/herb/khadira/": "daf9164d07fff4a3",
+      "https://nighantu.ageayurveda.com/herb/khadira/": "40dbbdd3d51ab039",
       "https://nighantu.ageayurveda.com/herb/kharjura/": "c542643e13471dd1",
       "https://nighantu.ageayurveda.com/herb/kiratatikta/": "8d6077186562c365",
       "https://nighantu.ageayurveda.com/herb/kokilaksha/": "ab91815adcbe5ec0",
@@ -1087,7 +1087,7 @@
       "https://nighantu.ageayurveda.com/herb/rishabhaka/": "a8fa12637acf1f42",
       "https://nighantu.ageayurveda.com/herb/rohisha/": "e526f652be293ef8",
       "https://nighantu.ageayurveda.com/herb/rohitaka/": "2f5b924fb0e33feb",
-      "https://nighantu.ageayurveda.com/herb/rudraksha/": "4cdaf05ae9c44d68",
+      "https://nighantu.ageayurveda.com/herb/rudraksha/": "caf5a7b5e9cf8240",
       "https://nighantu.ageayurveda.com/herb/saffron/": "6fd72d6ec270ab8e",
       "https://nighantu.ageayurveda.com/herb/saindhava-lavana/": "d0409c5dccdd07d5",
       "https://nighantu.ageayurveda.com/herb/saireyaka/": "63d20cb169f495ad",
@@ -1192,7 +1192,7 @@
       "https://nighantu.ageayurveda.com/herb/vasaka/": "5a4e76c2c539c18c",
       "https://nighantu.ageayurveda.com/herb/vasant-kusumakar-rasa/": "07070356dc2d9bc5",
       "https://nighantu.ageayurveda.com/herb/vatagajankush-rasa/": "b0fff91c9295cee3",
-      "https://nighantu.ageayurveda.com/herb/vathada/": "82ecaff956d6ea07",
+      "https://nighantu.ageayurveda.com/herb/vathada/": "73b51b657df0b2f8",
       "https://nighantu.ageayurveda.com/herb/vatsanabha/": "609396cde2c9390f",
       "https://nighantu.ageayurveda.com/herb/vetasa/": "b6caee4fc433dc63",
       "https://nighantu.ageayurveda.com/herb/vida-lavana/": "09de733149211894",
@@ -1649,8 +1649,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "e61eb0d043c13093",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "513da4a970197564"
     },
-    "lastSubmittedAt": "2026-10-11T05:22:22.488Z",
-    "lastSubmittedCount": 49,
+    "lastSubmittedAt": "2026-10-11T05:48:29.396Z",
+    "lastSubmittedCount": 5,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3651,6 +3651,6 @@
     "seen": 13,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-11T05:22:22.488Z",
+  "updatedAt": "2026-10-11T05:48:29.396Z",
   "version": 1
 }
