@@ -123,6 +123,56 @@ const jsonld = [
     </li>
   </ul>
 
+  {/*
+    Reference tables and data.
+
+    THREE OF THESE SIX HAD NO INBOUND LINK AT ALL. /graph/, /icd-tm2/ and /manufacturers/ were
+    reachable only from the sitemap and llms.txt: no page on the site linked to them, so a reader
+    could not get to them by navigating and only a machine following the sitemap ever would.
+
+    This block is NOT an attempt to get them indexed, and it should not be extended as one: the
+    site's own coverage measurements say internal linking does not drive indexing here, and the
+    figures behind that live outside this repository. The three pages were simply unreachable, which
+    is a navigation defect worth fixing on its own. The other three are here because a list of
+    exactly the orphans would read as an arbitrary grouping rather than the real set.
+
+    Each blurb is cut down from that page's own `description`, so nothing here can drift from what
+    the page actually says. The manufacturers line is deliberately non-numeric because its own
+    description is built from counts this page does not load.
+  */}
+  <h2>Reference tables and data</h2>
+  <ul class="grid">
+    <li class="card">
+      <a href={rel('/afi/')}>The Ayurvedic Formulary of India</a>
+      <p>Every formulation transcribed from the formulary on this site, entry by entry.</p>
+    </li>
+    <li class="card">
+      <a href={rel('/crosswalk/')}>What the formulary's ingredient names mean</a>
+      <p>The Sanskrit ingredient names the formulary uses, resolved to a botanical identity
+        where one could be established, and published as unresolved where it could not.</p>
+    </li>
+    <li class="card">
+      <a href={rel('/icd-tm2/')}>Ayurvedic disease names in WHO ICD-11</a>
+      <p>Which Ayurvedic disease terms WHO lists against which ICD-11 Traditional Medicine
+        Module 2 codes, taken from the classification itself.</p>
+    </li>
+    <li class="card">
+      <a href={rel('/manufacturers/')}>Who manufactures Ayurvedic medicine in India</a>
+      <p>The companies manufacturing Ayurvedic medicine across the Indian states, and what each
+        one's own website allows an automated reader to do.</p>
+    </li>
+    <li class="card">
+      <a href={rel('/graph/')}>Linked data knowledge graph</a>
+      <p>A machine-readable JSON-LD graph of the botanical taxa, PubChem constituents and
+        Dravyaguna properties published here.</p>
+    </li>
+    <li class="card">
+      <a href={rel('/datasets/')}>Open datasets</a>
+      <p>Downloadable machine-readable datasets of the pharmacology, constituents and botanical
+        taxonomy, under CC BY 4.0 and archived with a DOI.</p>
+    </li>
+  </ul>
+
   <h2>How to use this</h2>
   <p>
     Each monograph has a plain-Markdown twin: append <code>.md</code> to any entry URL, for
