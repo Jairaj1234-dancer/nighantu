@@ -44,9 +44,11 @@ const jsonld = [
   </p>
 
   <p class="lede">
-    Families come from the GBIF Backbone Taxonomy rather than from our own pages, and
-    only where the botanical name matched exactly. A fuzzy match is a guess, and a guess
-    grouped into a family reads as a fact.
+    Families come from the GBIF Backbone Taxonomy rather than from our own pages. A name
+    that matched exactly is grouped, and so is one where GBIF fixed the genus but not the
+    species, because a family follows from the genus: those entries say so where they are
+    listed. A fuzzy match is excluded, because there the organism itself is in doubt, and
+    a guess grouped into a family reads as a fact.
     {small > 0 && <> {small} further families have one or two entries each and are left
     off rather than made into near-empty pages.</>}
   </p>

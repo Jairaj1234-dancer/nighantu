@@ -17,7 +17,7 @@ export function getStaticPaths() {
 const { group } = Astro.props as any;
 const canonical = `/family/${group.slug}/`;
 const description = `${group.pages.length} Ayurvedic dravyas in the botanical family `
-  + `${group.family}, with their accepted binomials and links to each monograph.`;
+  + `${group.family}, with the botanical name of each and links to every monograph.`;
 
 const jsonld = [
   {
@@ -47,7 +47,8 @@ const jsonld = [
   <p class="answer">
     {group.pages.length} entries in this reference belong to {group.family}
     {group.orders.length === 1 && <>, in the order {group.orders[0]}</>}. Each is listed
-    with the binomial GBIF matched it to.
+    with the name GBIF matched it to, and where GBIF fixed only the genus the entry says
+    so: the family follows from the genus, the species does not.
   </p>
 
   <div class="tablewrap">
@@ -57,7 +58,17 @@ const jsonld = [
         {group.pages.map((p: any) => (
           <tr>
             <td><a href={rel(`/${p.kind}/${p.slug}/`)}>{p.title}</a></td>
-            <td><em>{p.botanical}</em></td>
+            {/*
+              A genus-rank entry says so in the cell. GBIF fixed the genus and not the
+              species, which is enough to determine the family and not enough to print a
+              binomial, so the name shown is the one the page publishes and the resolved
+              genus is named beside it. Printing the genus alone under this heading would
+              invite a reader to take it for a species.
+            */}
+            <td>
+              <em>{p.botanical}</em>
+              {p.genus && <span class="rank-note"> (resolved to genus <em>{p.genus}</em> only)</span>}
+            </td>
           </tr>
         ))}
       </tbody>
@@ -69,3 +80,8 @@ const jsonld = [
     <a href={rel('/family/')}>All families</a> · <a href={rel('/taxonomy.json')}>taxonomy.json</a>
   </p>
 </Base>
+
+<style>
+  /* The genus-rank caveat is secondary to the name it qualifies, not hidden from it. */
+  .rank-note { color: var(--ink-soft); font-size: .88rem; }
+</style>
