@@ -69,13 +69,8 @@ const jsonld = [
   updated={latest ?? undefined}
   jsonld={jsonld}
 >
-
-## What has been reviewed
-
-**{reviewer.name}, {reviewer.qualification}, of the {reviewer.affiliation} ({reviewer.affiliationShort}),
-has read the whole reference work and passed it.** This page is generated from the record of
-that review, so it states what was actually done rather than what we would like it to say.
-
+<h2>What has been reviewed</h2>
+<p><strong>{reviewer.name}, {reviewer.qualification}, of the {reviewer.affiliation} ({reviewer.affiliationShort}), has read the whole reference work and passed it.</strong> This page is generated from the record of that review, so it states what was actually done rather than what we would like it to say.</p>
 <table class="reviews">
   <thead>
     <tr><th>Section</th><th>What it covers</th><th>Reviewed</th><th>Outcome</th></tr>
@@ -91,68 +86,30 @@ that review, so it states what was actually done rather than what we would like 
     ))}
   </tbody>
 </table>
-
-All 815 content pages carry his name and the date of review at the foot, and name him in their
-structured data. Review arrived in batches: the Shirodhara guide and the practice section on
-18 September, the herb monographs A to E the same day, and the remainder confirmed on
-6 October 2026.
-
-The practice section is the half where being wrong would matter most. A procedure page written
-as home instructions for something that needs a vaidya is the failure it exists to avoid, and
-that judgement is a practitioner's rather than an editor's.
-
-## What review does and does not cover
-
-A review is a qualified reader's judgement on what a page says. It is not every kind of check,
-and the distinction is worth keeping:
-
-- **Not covered:** independent verification of every research summary against the original
-  paper. Claims carry a PubMed ID or a DOI, or they were deleted, but nobody has re-read all
-  755 retained papers.
-- **Not covered:** the safety records, which are gated by their own judge panel and schema
-  rather than by a practitioner's signature.
-- **Not covered:** the generated listing and facet pages, the verification ledger and the
-  editorial pages. Those are built from data rather than written, and 90 of them carry no
-  review credit because a practitioner's endorsement of an auto-generated index would mean
-  nothing.
-
-## What stands behind the unreviewed pages
-
-Not expert review, and this is worth being plain about, because these are mechanical
-protections rather than clinical ones:
-
-- Every monograph derives from sourced reference material rather than generated prose, and
-  the sources are listed on each page.
-- Botanical identity is anchored to the Ayurvedic Pharmacopoeia of India where a monograph
-  exists, and left blank where the sources genuinely disagree.
-- Formulation compositions are transcribed from the Ayurvedic Formulary of India and checked
-  row by row against it.
-- Research claims carry a PubMed ID or a DOI, or they were deleted: 755 were.
-- Mechanical checks run on every build. No page may state the contested classical herb count
-  for Chyawanprash. No disease term may appear inside a product block. No dose or therapeutic
-  claim may appear in a page's opening summary. Restricted and metallic preparations are
-  excluded from publication entirely.
-
-The <a href={rel('/verification/')}>verification ledger</a> gives the rejection rate for
-every one of those passes, computed from the run records rather than typed in.
-
-## Why this page is written this way
-
-Search engines and answer engines both weight named, credentialled review, which makes a
-vague gesture at expertise tempting and cheap. "Reviewed by our Ayurvedic team" would cost
-nothing to write and would be worth nothing, because it commits to no one.
-
-So this page names a person, states his qualification and institution, gives a date for each
-section, and draws the line around exactly what he read. As further sections are reviewed,
-the table grows and the count of unreviewed pages falls, with the same precision each time.
-
-## If you are qualified and want to help
-
-A second independent reader is always worth more than a first. We are interested in qualified
-Ayurvedic physicians willing to be credited by name for reviewing any part of this work, and
-particularly in disagreement with what the first review passed. Corrections from anyone,
-credentialled or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.
-
+<p>All 815 content pages carry his name and the date of review at the foot, and name him in their structured data. Review arrived in batches: the Shirodhara guide and the practice section on 18 September, the herb monographs A to E the same day, and the remainder confirmed on 6 October 2026.</p>
+<p>The practice section is the half where being wrong would matter most. A procedure page written as home instructions for something that needs a vaidya is the failure it exists to avoid, and that judgement is a practitioner's rather than an editor's.</p>
+<h2>What review does and does not cover</h2>
+<p>A review is a qualified reader's judgement on what a page says. It is not every kind of check, and the distinction is worth keeping:</p>
+<ul>
+  <li><strong>Not covered:</strong> independent verification of every research summary against the original paper. Claims carry a PubMed ID or a DOI, or they were deleted, but nobody has re-read all 755 retained papers.</li>
+  <li><strong>Not covered:</strong> the safety records, which are gated by their own judge panel and schema rather than by a practitioner's signature.</li>
+  <li><strong>Not covered:</strong> the generated listing and facet pages, the verification ledger and the editorial pages. Those are built from data rather than written, and 90 of them carry no review credit because a practitioner's endorsement of an auto-generated index would mean nothing.</li>
+</ul>
+<h2>What stands behind the unreviewed pages</h2>
+<p>Not expert review, and this is worth being plain about, because these are mechanical protections rather than clinical ones:</p>
+<ul>
+  <li>Every monograph derives from sourced reference material rather than generated prose, and the sources are listed on each page.</li>
+  <li>Botanical identity is anchored to the Ayurvedic Pharmacopoeia of India where a monograph exists, and left blank where the sources genuinely disagree.</li>
+  <li>Formulation compositions are transcribed from the Ayurvedic Formulary of India and checked row by row against it.</li>
+  <li>Research claims carry a PubMed ID or a DOI, or they were deleted: 755 were.</li>
+  <li>Mechanical checks run on every build. No page may state the contested classical herb count for Chyawanprash. No disease term may appear inside a product block. No dose or therapeutic claim may appear in a page's opening summary. Restricted and metallic preparations are excluded from publication entirely.</li>
+</ul>
+<p>The <a href={rel('/verification/')}>verification ledger</a> gives the rejection rate for every one of those passes, computed from the run records rather than typed in.</p>
+<h2>Why this page is written this way</h2>
+<p>Search engines and answer engines both weight named, credentialled review, which makes a vague gesture at expertise tempting and cheap. "Reviewed by our Ayurvedic team" would cost nothing to write and would be worth nothing, because it commits to no one.</p>
+<p>So this page names a person, states his qualification and institution, gives a date for each section, and draws the line around exactly what he read. As further sections are reviewed, the table grows and the count of unreviewed pages falls, with the same precision each time.</p>
+<h2>If you are qualified and want to help</h2>
+<p>A second independent reader is always worth more than a first. We are interested in qualified Ayurvedic physicians willing to be credited by name for reviewing any part of this work, and particularly in disagreement with what the first review passed. Corrections from anyone, credentialled or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.</p>
 <style>
   .reviews { width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: .95rem; }
   .reviews th, .reviews td { text-align: left; vertical-align: top; padding: .55rem .7rem .55rem 0; border-bottom: 1px solid var(--rule); }

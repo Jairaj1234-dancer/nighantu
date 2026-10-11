@@ -200,9 +200,9 @@
     "modified": "2026-10-08"
   },
   "corrections": {
-    "hash": "13e2a8e7f2af51f0",
+    "hash": "dba0bd3bdd7db22c",
     "published": "2026-10-10",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "crosswalk": {
     "hash": "c8bf272afcdc41b1",
@@ -410,9 +410,9 @@
     "modified": "2026-10-09"
   },
   "editorial-standards": {
-    "hash": "40ce1e96e376eb38",
+    "hash": "ce1876125fe5b468",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-11"
   },
   "family": {
     "hash": "634395922aa26f0f",
@@ -1215,9 +1215,9 @@
     "modified": "2026-09-18"
   },
   "graph": {
-    "hash": "10b8ed69230f19c3",
+    "hash": "3e566ca843ad8cd6",
     "published": "2026-09-16",
-    "modified": "2026-09-16"
+    "modified": "2026-10-11"
   },
   "guide/at-home-or-clinic": {
     "hash": "eb1653c8b0029841",
@@ -3830,9 +3830,9 @@
     "modified": "2026-10-11"
   },
   "how-we-source": {
-    "hash": "3eb60d554fb048d2",
+    "hash": "7dd65ff442697577",
     "published": "2026-09-09",
-    "modified": "2026-09-09"
+    "modified": "2026-10-11"
   },
   "icd-tm2": {
     "hash": "82b1aa8b136e5969",
@@ -5730,9 +5730,9 @@
     "modified": "2026-10-09"
   },
   "reviewers": {
-    "hash": "25de772718785a48",
+    "hash": "f80cf66410fe2117",
     "published": "2026-10-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-11"
   },
   "shirodhara": {
     "hash": "7940f646404fc4ff",

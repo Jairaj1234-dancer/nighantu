@@ -60,7 +60,12 @@ const entityStats = [
 
   <header class="page-header">
     <p class="section-kicker">Linked Data &amp; AI Ingestion</p>
-    <h1>{title}</h1>
+    {/*
+      No <h1> here: Page.astro already emits one from the `title` prop it is given, so this page
+      shipped two identical <h1>Linked Data Knowledge Graph</h1> elements. A second h1 gives the
+      document two competing top-level headings, which is exactly the outline confusion that
+      matters on a page whose whole purpose is being machine-readable.
+    */}
     <p class="lead">
       An open, interconnected Semantic Web knowledge graph unifying classical Ayurvedic pharmacopoeial standards
       with modern botanical genomics (GBIF), chemical ontologies (PubChem), and evidence-based clinical medicine.

@@ -66,6 +66,28 @@ const description = leadSentences(r.summary)
 const canonical = `/concept/${r.slug}/`;
 
 const address = (c: any) => [c.sthana, [c.chapter, c.verse].filter(Boolean).join(':')].filter(Boolean).join(' ');
+
+/**
+ * A contested position is EITHER a string OR a { view, source } object, and this page rendered
+ * only the first.
+ *
+ * 441 of the 461 positions in concepts.json are strings carrying their citation inline, like
+ * "...and pitta in its digestive seat is therefore called pachakagni (Su.Su.21)". The other 20,
+ * all on dinacharya-rationale and ritucharya-rationale, are objects that split the claim from its
+ * citation into `view` and `source`. The template rendered every position as `{p}`, so those 20
+ * came out as the literal text "[object Object]" on the page, under the heading "What is contested,
+ * and by whom", immediately after the words "This is contested."
+ *
+ * The FAQPage structured data had it worse: it built its answer with `positions.join(' ')`, so the
+ * machine-readable answer Google ingests for those questions was "This is contested. [object
+ * Object] [object Object]".
+ *
+ * The object form is the better data, not broken data, so the fix renders it rather than flattening
+ * it: the view is the position and the source is attributed after it.
+ */
+const positionView = (p: any) => (typeof p === 'string' ? p : String(p?.view ?? ''));
+const positionSource = (p: any) => (typeof p === 'string' ? '' : String(p?.source ?? ''));
+const positionText = (p: any) => [positionView(p), positionSource(p)].filter(Boolean).join(' ');
 const withText = (r.classical ?? []).filter((c: any) => c.quote || c.sanskrit || c.translation);
 
 const jsonld: any[] = [
@@ -98,7 +120,7 @@ if ((r.contested ?? []).length) {
       name: c.question,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: `This is contested. ${(c.positions ?? []).join(' ')}`.slice(0, 1800),
+        text: `This is contested. ${(c.positions ?? []).map(positionText).join(' ')}`.slice(0, 1800),
       },
     })),
   });
@@ -145,7 +167,12 @@ if ((r.contested ?? []).length) {
           */}
           <p class="contested-answer">This is contested.</p>
           <ol class="positions">
-            {(c.positions ?? []).map((p: string) => <li>{p}</li>)}
+            {(c.positions ?? []).map((p: any) => (
+              <li>
+                {positionView(p)}
+                {positionSource(p) && <span class="position-source"> {positionSource(p)}</span>}
+              </li>
+            ))}
           </ol>
         </div>
       ))}
@@ -282,6 +309,7 @@ if ((r.contested ?? []).length) {
 <style>
   .contested { margin: 1.3rem 0; }
   .contested h3 { margin: 0 0 .4rem; font-size: 1.1rem; }
+  .position-source { color: var(--ink-soft); }
   .contested-answer { margin: 0 0 .4rem; font-weight: 600; font-size: .95rem; }
   .positions { margin: 0; padding-left: 1.3rem; display: flex; flex-direction: column; gap: .5rem; }
   .positions li { font-size: .96rem; }
