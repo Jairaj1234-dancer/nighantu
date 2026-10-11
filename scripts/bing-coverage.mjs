@@ -39,6 +39,7 @@ import { get } from './lib/fetch.mjs';
 import { SITE, BASE } from './monitors/config.mjs';
 import {
   dotNetDate, sectionOf, stratify, redactor, hasRealRecord, isThrottled, discoveryDateOf,
+  isConnectionFailure,
 } from './lib/bing-coverage.mjs';
 
 const KEY = process.env.BING_API_KEY;
@@ -105,16 +106,42 @@ const callOnce = async (method, params = {}) => {
  * is not a smaller measurement, it is a biased one, because the URLs that got through are the
  * early ones.
  */
+/**
+ * A DROPPED CONNECTION IS RETRIED TOO, and that is not the same thing as a throttle.
+ *
+ * This loop used to retry only `throttled`, so a connection-level failure fell straight through as
+ * a permanent answer about the URL. Combined with `retries: 0` in callOnce, which is right for rate
+ * discipline, it meant one dropped request was one dead URL. A run on 11 October asked all 53 and
+ * lost 10 that way, scattered through the sample and skewed early, which is transient network
+ * trouble and not Bing refusing. Nothing was written, correctly, but nothing was learned either,
+ * and on an unattended Friday nobody would have been watching.
+ *
+ * The two get different waits because they are different problems. A throttle is a budget that
+ * refills, so it backs off to minutes. A dropped connection is usually gone in seconds, so it waits
+ * one inter-call gap, which also keeps the retry inside the per-host rate the gap exists to hold.
+ */
 const call = async (method, params = {}, { tries = 4 } = {}) => {
+  let lastError;
   for (let attempt = 0; attempt < tries; attempt++) {
     const r = await callOnce(method, params);
-    if (!r.throttled) return r;
-    if (attempt === tries - 1) return { error: 'throttled after backoff' };
-    const wait = THROTTLE_WAIT_MS * 2 ** attempt;
-    console.log(`  throttled, waiting ${Math.round(wait / 1000)}s`);
-    await sleep(wait);
+    if (r.throttled) {
+      if (attempt === tries - 1) return { error: 'throttled after backoff' };
+      const wait = THROTTLE_WAIT_MS * 2 ** attempt;
+      console.log(`  throttled, waiting ${Math.round(wait / 1000)}s`);
+      await sleep(wait);
+      continue;
+    }
+    if (r.error && isConnectionFailure(r.error)) {
+      lastError = r.error;
+      if (attempt === tries - 1) break;
+      const wait = Math.max(GAP_MS, 3000) * (attempt + 1);
+      console.log(`  connection failed, waiting ${Math.round(wait / 1000)}s and asking again`);
+      await sleep(wait);
+      continue;
+    }
+    return r;
   }
-  return { error: 'unreachable' };
+  return { error: lastError ? `${lastError} (after ${tries} attempts)` : 'unreachable' };
 };
 
 /** Every URL the site publishes, from the built sitemap: the population to sample from. */
@@ -259,8 +286,22 @@ if (errored.length) {
   console.error(`\nNOT REPORTING. ${errored.length} of ${rows.length} calls failed.`);
   console.error(`  first error  ${errored[0].error}`);
   console.error('');
-  console.error('The requests that succeeded are the ones asked earliest, so what got through is');
-  console.error('not a sample of the site and the counts would not mean what they appear to mean.');
+  /**
+   * WHY THE SURVIVORS CANNOT BE REPORTED, stated against what actually failed rather than assumed.
+   *
+   * This used to say flatly that "the requests that succeeded are the ones asked earliest", which
+   * is true of a throttle, because the budget runs down as the run proceeds. It was wrong about the
+   * 11 October run, where the losses were scattered and skewed early, and a reader comparing the
+   * message to the positions would have concluded the tool did not understand its own failure. So
+   * the message now reports where the failures fell and leaves the inference to the reader.
+   */
+  const positions = errored.map((r) => rows.findIndex((x) => x.url === r.url) + 1).filter((n) => n > 0);
+  const firstHalf = positions.filter((n) => n <= rows.length / 2).length;
+  console.error(`They failed at positions ${positions.join(', ')} of ${rows.length},`
+    + ` ${firstHalf} of them in the first half of the run.`);
+  console.error('A rate limit clusters late, as the budget runs down; scattered failures are usually');
+  console.error('the network. Either way the survivors are a subset chosen by what went wrong rather');
+  console.error('than by sampling, so the counts would not mean what they appear to mean.');
   console.error('Nothing has been written.');
   console.error('');
   if (errored.some((r) => /throttl/i.test(r.error))) {

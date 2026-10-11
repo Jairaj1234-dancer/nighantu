@@ -81,6 +81,28 @@ export function isThrottled(status, body) {
   return /ThrottleHost/i.test(s) || /"ErrorCode"\s*:\s*5\b/.test(s);
 }
 
+/**
+ * A FAILURE WITH NO RESPONSE ATTACHED: the connection dropped, DNS failed, or the request timed out.
+ *
+ * This is a different event from a throttle and it was being treated as a permanent answer about
+ * the URL. On 11 October a run asked all 53 URLs and 10 came back "HTTP 0 (fetch failed)", at
+ * positions 1, 3, 7, 10, 13, 14, 19, 25, 38 and 51: scattered, and eight of the ten in the first
+ * half. A rate limit clusters LATE as the budget runs down, so that pattern is transient network
+ * trouble rather than Bing refusing. Every one of those ten got exactly ONE attempt, because
+ * callOnce passes `retries: 0` to the fetch layer, and the retry loop above it only loops on a
+ * throttle. So a single dropped connection was a permanent failure for that URL, and ten of them
+ * voided a whole unattended run.
+ *
+ * `retries: 0` is deliberate and stays: the inter-call gap is what keeps this inside Bing's per-host
+ * rate, and the fetch layer's own one and two second retries would break that discipline. The fix
+ * belongs in the caller, which can wait properly between attempts.
+ */
+export function isConnectionFailure(err) {
+  const s = String(err ?? '');
+  return /^HTTP 0\b/.test(s) || /fetch failed/i.test(s) || /timeout after/i.test(s)
+    || /\b(ENOTFOUND|ECONNRESET|ECONNREFUSED|ETIMEDOUT|EAI_AGAIN|UND_ERR)\b/.test(s);
+}
+
 /** The top-level section of a site URL: /herb/amla/ is "herb", /datasets/ is "(root)". */
 export function sectionOf(u) {
   const p = new URL(u).pathname.split('/').filter(Boolean);

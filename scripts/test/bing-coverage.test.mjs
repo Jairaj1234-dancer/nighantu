@@ -10,6 +10,7 @@
 import assert from 'node:assert/strict';
 import {
   dotNetDate, sectionOf, stratify, redactor, hasRealRecord, isThrottled, discoveryDateOf,
+  isConnectionFailure,
 } from '../lib/bing-coverage.mjs';
 
 let pass = 0;
@@ -227,6 +228,43 @@ t('no key configured does not redact the literal string "undefined"', () => {
   // [REDACTED], which is what replaceAll(undefined, ...) would do after string coercion.
   const r = redactor(undefined);
   assert.equal(r('value was undefined'), 'value was undefined');
+});
+
+// ---- isConnectionFailure ----------------------------------------------------------------------
+// A failure with no response attached is a different event from a throttle, and the 11 October run
+// lost 10 of 53 URLs because the retry loop only understood throttles. These are the exact strings
+// that run produced, plus the node error codes the same condition arrives as.
+t('the literal failure the 11 October run produced is recognised', () => {
+  assert.equal(isConnectionFailure('HTTP 0 (fetch failed)'), true);
+});
+
+t('a timeout from the fetch layer is a connection failure', () => {
+  assert.equal(isConnectionFailure('HTTP 0 (timeout after 25000ms)'), true);
+});
+
+t('node connection error codes are recognised', () => {
+  for (const code of ['ENOTFOUND', 'ECONNRESET', 'ECONNREFUSED', 'ETIMEDOUT', 'EAI_AGAIN']) {
+    assert.equal(isConnectionFailure(`HTTP 0 (${code})`), true, code);
+  }
+});
+
+t('a real HTTP answer is NOT a connection failure, however unwelcome', () => {
+  // These carry a response, so they say something about the URL and must not be retried as
+  // transient. 404 especially: retrying it would spend the rate budget on a settled answer.
+  assert.equal(isConnectionFailure('HTTP 404'), false);
+  assert.equal(isConnectionFailure('HTTP 500 internal error'), false);
+  assert.equal(isConnectionFailure('HTTP 400 {"ErrorCode":5}'), false);
+});
+
+t('a 500 that merely mentions a timeout in its body is not a connection failure', () => {
+  // "timeout after" is the fetch layer's own wording; a server saying "gateway timeout" in prose
+  // still answered, so the 0-status check has to carry the decision.
+  assert.equal(isConnectionFailure('HTTP 504 gateway timeout occurred upstream'), false);
+});
+
+t('nothing, or an empty error, is not a connection failure', () => {
+  assert.equal(isConnectionFailure(undefined), false);
+  assert.equal(isConnectionFailure(''), false);
 });
 
 console.log(`bing-coverage: ${pass} passed${process.exitCode ? ', with failures above' : ''}`);
