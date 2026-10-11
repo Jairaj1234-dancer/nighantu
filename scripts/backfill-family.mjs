@@ -52,9 +52,40 @@ const skipped = { 'family already set': 0, 'page file not found': 0, 'no family 
 const refused = [];
 let taxaUsed = 0;
 
+/**
+ * A GENUS-RANK MATCH DETERMINES THE FAMILY, and that is a taxonomic fact rather than a tolerance.
+ *
+ * lib/families.ts takes EXACT matches only, and its comment gives the reason: "A fuzzy or
+ * higher-rank match is an approximation, and an approximation silently filed under a family reads
+ * to a reader, and to anything parsing the page, as a determination." That is right about FUZZY and
+ * it collapses two different things.
+ *
+ *   FUZZY             GBIF guessed which name was meant, so WHICH ORGANISM is uncertain, and
+ *                     therefore so is its family. Excluded here, all 1 of it.
+ *   HIGHERRANK, GENUS the genus matched and the species epithet did not. The genus is determined,
+ *                     and family membership is a property of the genus, so the family is determined
+ *                     even though the species is not.
+ *
+ * The three cases all show it. khadira's "Acacia catechu" resolves to Senegalia because the species
+ * was reassigned, and Acacia and Senegalia are both Fabaceae. rudraksha's "Elaeocarpus ganitrus"
+ * resolves to Elaeocarpus, Elaeocarpaceae. vathada's "Prunus dulcis", the almond, resolves to
+ * Prunus, Rosaceae. In each one the family is invariant across the whole genus, which is the actual
+ * test: not whether the match was exact, but whether the answer depends on the part that did not
+ * match.
+ *
+ * THE FAMILY HUBS ARE DELIBERATELY NOT WIDENED TO MATCH, and the reason is presentational rather
+ * than taxonomic. A hub promises "Ayurvedic dravyas in <family>, with their accepted binomials",
+ * and renders `t.canonicalName || t.query`. For a genus-rank match that is "Senegalia", a genus
+ * where a binomial is promised. So these three pages will state a family that their family hub does
+ * not list them under. That is a real inconsistency and it is the conservative direction: the page
+ * asserts a fact it can support, and the hub omits an entry it cannot present honestly. Withholding
+ * a determinable family from the structured data to keep a listing tidy would be the worse trade.
+ */
+const familyIsDetermined = (t) => t.status === 'ok' && Boolean(t.family)
+  && (t.matchType === 'EXACT' || (t.matchType === 'HIGHERRANK' && t.rank === 'GENUS'));
+
 for (const t of taxonomy.taxa ?? []) {
-  // The same bar lib/families.ts sets before filing a page under a family.
-  if (t.status !== 'ok' || t.matchType !== 'EXACT' || !t.family) continue;
+  if (!familyIsDetermined(t)) continue;
   const family = String(t.family).trim();
   if (!family) continue;
   let usedThis = false;
