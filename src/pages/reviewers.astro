@@ -12,11 +12,30 @@
  * blocks heritage framing everywhere else, and an affiliation here is a credential rather
  * than marketing. See scripts/audit.mjs.
  */
+import { getCollection } from 'astro:content';
 import Page from '../layouts/Page.astro';
 import { reviewer, reviews, formatReviewDate } from '../lib/review';
 import { rel, abs } from '../lib/site';
 
 const rows = reviews.map((r) => ({ ...r, on: formatReviewDate(r.reviewedOn) }));
+
+/**
+ * The credited-page count is DERIVED, not written down.
+ *
+ * This sentence said "All 815 content pages carry his name" and the real figure was 818: the
+ * number was typed once and the corpus kept growing. A hand-kept count on the page that exists to
+ * state what has actually been reviewed is the one place a stale number does real damage, so it is
+ * now counted from the collections the current review covers.
+ */
+const reviewedKinds: string[] = (reviews[0]?.kinds ?? []) as string[];
+// `guide` is a real content collection too, loaded from ./guides by content.config.ts.
+// Omitting it undercounted by the 16 guide pages, which do carry the credit.
+const COLLECTIONS = ['herb', 'formulation', 'device', 'reference', 'text', 'practice', 'glossary', 'choosing', 'guide'];
+let creditedPages = 0;
+for (const c of COLLECTIONS) {
+  if (!reviewedKinds.includes(c)) continue;
+  creditedPages += (await getCollection(c as any)).length;
+}
 const latest = [...reviews].map((r) => r.reviewedOn).sort().pop() ?? null;
 
 /**
@@ -86,7 +105,7 @@ const jsonld = [
     ))}
   </tbody>
 </table>
-<p>All 815 content pages carry his name and the date of review at the foot, and name him in their structured data. Review arrived in batches: the Shirodhara guide and the practice section on 18 September, the herb monographs A to E the same day, and the remainder confirmed on 6 October 2026.</p>
+<p>All {creditedPages} content pages carry his name and the date of review at the foot, and name him in their structured data. Review arrived in batches: the Shirodhara guide and the practice section on 18 September, the herb monographs A to E the same day, and the remainder confirmed on 6 October 2026.</p>
 <p>The practice section is the half where being wrong would matter most. A procedure page written as home instructions for something that needs a vaidya is the failure it exists to avoid, and that judgement is a practitioner's rather than an editor's.</p>
 <h2>What review does and does not cover</h2>
 <p>A review is a qualified reader's judgement on what a page says. It is not every kind of check, and the distinction is worth keeping:</p>

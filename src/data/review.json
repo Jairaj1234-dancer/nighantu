@@ -1,48 +1,53 @@
 {
-  "_note": "Named-practitioner review. Written by hand, deliberately: this is the one claim on the site no script can derive. It was recorded batch by batch while review was in progress; on 6 October 2026 the reviewer confirmed he had read the whole work, so the two scoped entries were replaced by a single full-corpus entry. If review ever narrows again, go back to scoped entries rather than editing this one, because a credit on a page nobody read is the exact dishonesty /reviewers/ exists to prevent.",
-  "reviewer": {
-    "name": "Dr. Awadesh Pratap Singh",
-    "qualification": "BAMS",
-    "affiliation": "Shree Baidyanath Research Institute",
-    "affiliationShort": "SBRI"
-  },
-  "reviews": [
+ "_note": "Named-practitioner review. Written by hand, deliberately: this is the one claim on the site no script can derive. It was recorded batch by batch while review was in progress; on 6 October 2026 the reviewer confirmed he had read the whole work, so the two scoped entries were replaced by a single full-corpus entry, and he re-read it on 11 October 2026 after that day’s revisions. Each full-corpus review supersedes the last and the previous one moves into history rather than being overwritten. If review ever narrows again, go back to scoped entries rather than editing this one, because a credit on a page nobody read is the exact dishonesty /reviewers/ exists to prevent.",
+ "reviewer": {
+  "name": "Dr. Awadesh Pratap Singh",
+  "qualification": "BAMS",
+  "affiliation": "Shree Baidyanath Research Institute",
+  "affiliationShort": "SBRI"
+ },
+ "reviews": [
+  {
+   "id": "full-corpus-2026-10-11",
+   "kinds": [
+    "herb",
+    "formulation",
+    "device",
+    "reference",
+    "practice",
+    "guide",
+    "glossary",
+    "text",
+    "choosing",
+    "hub"
+   ],
+   "label": "The whole reference work, re-read",
+   "detail": "All published pages: 505 single-herb monographs, 143 classical formulations, 53 reference entries, 43 procedure pages, 37 instruments, the 16 guide pages, and the glossary, choosing and classical-text entries. A read-through of the published work; it is NOT a re-verification of research summaries against the original papers, which this page still lists as not covered.",
+   "reviewedOn": "2026-10-11",
+   "outcome": "passed",
+   "supersedes": [
+    "full-corpus"
+   ],
+   "history": [
     {
-      "id": "full-corpus",
-      "kinds": [
-        "herb",
-        "formulation",
-        "device",
-        "reference",
-        "practice",
-        "guide",
-        "glossary",
-        "text",
-        "choosing",
-        "hub"
-      ],
-      "label": "The whole reference work",
-      "detail": "All published pages: 505 single-herb monographs, 143 classical formulations, 53 reference entries, 43 procedure pages, 37 instruments, the 13-page Shirodhara guide, and the glossary and text entries.",
-      "reviewedOn": "2026-10-06",
-      "outcome": "passed",
-      "supersedes": [
-        "practice-and-guide",
-        "herbs-a-e"
-      ],
-      "history": [
-        {
-          "id": "practice-and-guide",
-          "label": "The Shirodhara guide and the practice section",
-          "reviewedOn": "2026-09-18",
-          "outcome": "passed"
-        },
-        {
-          "id": "herbs-a-e",
-          "label": "Herb monographs, A to E",
-          "reviewedOn": "2026-09-18",
-          "outcome": "passed"
-        }
-      ]
+     "id": "full-corpus",
+     "label": "The whole reference work",
+     "reviewedOn": "2026-10-06",
+     "outcome": "passed"
+    },
+    {
+     "id": "practice-and-guide",
+     "label": "The Shirodhara guide and the practice section",
+     "reviewedOn": "2026-09-18",
+     "outcome": "passed"
+    },
+    {
+     "id": "herbs-a-e",
+     "label": "Herb monographs, A to E",
+     "reviewedOn": "2026-09-18",
+     "outcome": "passed"
     }
-  ]
+   ]
+  }
+ ]
 }
