@@ -61,7 +61,7 @@ What Indian Ayurvedic manufacturers publish about their own products, measured a
 Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.
 
 - 0.20 MB
-- sha256 `6a76a334c3a832734e36a38c84b15a46df72c5ff18fcc171c133f9e06459dd68`
+- sha256 `107be33e814092fe49daca24812b5594c391449e2c7262b239ef84b7339b6bf0`
 - live copy: https://nighantu.ageayurveda.com/chemistry.json
 
 ### `composition.csv`
@@ -85,7 +85,7 @@ The ingredient composition of the classical formulations transcribed from the Ay
 The constituents as a table, one row per constituent per monograph.
 
 - 0.30 MB, 838 data rows
-- sha256 `49edeca1a529f970308aa772ff2d5f14b883afdac8b88ce19c75f84c7c358d7d`
+- sha256 `4f2f00d4e228b18cd7fa7bd46b26ee24bff7ce2fd469733dbab11d9dd371b4cc`
 - live copy: https://nighantu.ageayurveda.com/compounds.csv
 
 ### `compounds.json`
@@ -93,7 +93,7 @@ The constituents as a table, one row per constituent per monograph.
 Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.
 
 - 1.78 MB
-- sha256 `35c670c3c5b5a00a8e5a23ebe1c3342da9e46fdb715045d320f866351641a5c5`
+- sha256 `06e3c87eb82e55feb12cd0e40081016874640aa78c3994576a7e7e540858877a`
 - live copy: https://nighantu.ageayurveda.com/compounds.json
 
 ### `concepts.csv`
@@ -132,8 +132,8 @@ Manufacturers' stated doses against the dose the Ayurvedic Formulary of India st
 
 The dravyaguna properties as a table.
 
-- 0.02 MB, 245 data rows
-- sha256 `0c415feec4279dba4c2b2ac7df587922c0beb06e9ffc16a3c132b54bb48b7e9a`
+- 0.03 MB, 247 data rows
+- sha256 `ad3a17e503b2599073f540fabf65c2273d96e0c3c4bce1b8569e0518d216381c`
 - live copy: https://nighantu.ageayurveda.com/dravyaguna.csv
 
 ### `dravyaguna.json`
@@ -141,7 +141,7 @@ The dravyaguna properties as a table.
 Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.
 
 - 0.08 MB
-- sha256 `f14f65b1d9c592504f0fc32317ef2b0e93077b046b226d6ba03996e93cf27c46`
+- sha256 `4be6b9484210d3f837139a4e7febe7b97c737b50ad9bbc96c602bd74b504b2a6`
 - live copy: https://nighantu.ageayurveda.com/dravyaguna.json
 
 ### `lexicon.csv`

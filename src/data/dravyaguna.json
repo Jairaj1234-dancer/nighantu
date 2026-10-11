@@ -15,12 +15,12 @@
   "Snigdha": "unctuous"
  },
  "summary": {
-  "entries": 245,
+  "entries": 247,
   "withRasa": 226,
   "withVirya": 226,
   "withVipaka": 226,
   "withGuna": 226,
-  "withDosha": 25,
+  "withDosha": 27,
   "byRasa": {
    "Tikta": 118,
    "Madhura": 80,
@@ -1782,6 +1782,26 @@
    "doshaNotes": {}
   },
   {
+   "kind": "herb",
+   "slug": "haridra",
+   "title": "Haridra",
+   "botanical": "Curcuma longa L.",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "vata": "decreases",
+    "kapha": "decreases",
+    "pitta": "neutral"
+   },
+   "doshaNotes": {
+    "pitta": "Decreases In Moderation"
+   }
+  },
+  {
    "kind": "formulation",
    "slug": "hinguvachadi-churna",
    "title": "Hinguvachadi Churna",
@@ -3467,6 +3487,24 @@
    "slug": "neem",
    "title": "Neem",
    "botanical": "Azadirachta indica",
+   "sanskrit": "",
+   "rasa": [],
+   "guna": [],
+   "virya": "",
+   "vipaka": [],
+   "prabhava": "",
+   "dosha": {
+    "pitta": "decreases",
+    "kapha": "decreases",
+    "vata": "increases"
+   },
+   "doshaNotes": {}
+  },
+  {
+   "kind": "herb",
+   "slug": "nimba",
+   "title": "Nimba",
+   "botanical": "Azadirachta indica A. Juss.",
    "sanskrit": "",
    "rasa": [],
    "guna": [],

@@ -61,6 +61,25 @@ const PAIRS = [
   { primary: 'lavanga', alias: 'laung', name: 'Laung', transliteration: false },
   { primary: 'manjishtha', alias: 'manjistha', name: 'Manjistha', transliteration: true },
   { primary: 'jambu', alias: 'jamun', name: 'Jamun', transliteration: false },
+  // Second round, 11 October. These three were found by re-measuring the 14 pairs where the alias
+  // is the fuller page: six of those have ZERO sections the primary lacks, so there is nothing to
+  // move and a word-count difference is not a reason to rewrite one page from another. These three
+  // have whole categories missing from the pharmacopoeially named page.
+  { primary: 'haridra', alias: 'turmeric', name: 'Turmeric', transliteration: false },
+  {
+    primary: 'nimba',
+    alias: 'neem',
+    name: 'Neem',
+    transliteration: false,
+    /**
+     * "Neem oil" is the established commodity name for the oil of Azadirachta indica, used on every
+     * label and in every trade listing. It is not the page's title appearing in prose, and renaming
+     * it to "Nimba oil" would invent a term nobody uses. So this phrase is declared as expected,
+     * which lets the merge proceed while leaving the words exactly as they are.
+     */
+    allow: [/Neem oil/i],
+  },
+  { primary: 'asana', alias: 'vijaysar', name: 'Vijaysar', transliteration: false },
 ];
 
 const read = (slug) => fs.readFileSync(path.join(CONTENT, `${slug}.md`), 'utf8');
@@ -109,6 +128,8 @@ for (const pair of PAIRS) {
   for (const h of missing) {
     for (const line of A.sections.get(h).split('\n')) {
       if (!rx.test(line) || isCitationLine(line)) continue;
+      // A declared phrase where the alias name legitimately belongs, like "Neem oil".
+      if ((pair.allow ?? []).some((p) => p.test(line))) continue;
       stray.push(`${h}: ${line.trim().slice(0, 110)}`);
     }
   }

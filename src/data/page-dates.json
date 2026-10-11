@@ -1300,7 +1300,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "1fef8f3ec997cfc2",
+    "hash": "87343f7ae35cd3ad",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -1495,9 +1495,9 @@
     "modified": "2026-10-11"
   },
   "herb/asana": {
-    "hash": "4eb2e8dc73784972",
+    "hash": "706ef46ba784a29c",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/ashoka": {
     "hash": "3d39540c97651e8d",
@@ -2075,7 +2075,7 @@
     "modified": "2026-09-18"
   },
   "herb/haridra": {
-    "hash": "789e5d92e178800b",
+    "hash": "e41b77ef1ecf1b72",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -2915,7 +2915,7 @@
     "modified": "2026-10-11"
   },
   "herb/nimba": {
-    "hash": "08c78d437781d4de",
+    "hash": "648ad8030656f28a",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },

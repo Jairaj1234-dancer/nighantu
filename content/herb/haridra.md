@@ -16,7 +16,7 @@ aliases: ["Curcuma longa L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 804
+words: 984
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 ---
 ## Names and identification
@@ -25,6 +25,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 |----------|------|
 | English | Haridra |
 | Latin/Botanical | *Curcuma longa L.* |
+
+## Parts Used
+
+- Rhizome
+
+## Dosha Effects
+
+| Dosha | Effect |
+|-------|--------|
+| **Vata** | Decreases |
+| **Kapha** | Decreases |
+| **Pitta** | Neutral (Decreases In Moderation) |
 
 ## Key Phytochemical Constituents
 
@@ -35,6 +47,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 - Curcuminoids complex (1.5-5% of [turmeric](/herb/turmeric/) rhizome)
 - [Zingiberene](/glossary/compounds-t-z/#zingiberene) (sesquiterpene)
 - [Curlone](/glossary/compounds-c-d/#curlone)
+
+## Therapeutic Actions (Karma)
+
+- Anti-inflammatory (potent COX-2 inhibitor)
+- [Antioxidant](/reference/antioxidant/)
+- [Hepatoprotective](/reference/hepatoprotective/)
+- Anti-cancer (preclinical)
+- Wound healing
+- Anti-microbial
+- Digestive
 
 ## How does it work?
 
@@ -49,6 +71,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 - Psoriasis treatment (Ekakushtha): Validated by RCT showing 0.5% [curcumin](/herb/curcumin/) microemulgel significantly improved PASI scores and quality of life
 - Skin brightening and complexion (Varnya): Validated by demonstrated dual tyrosinase inhibition and MITF transcriptional regulation reducing melanin synthesis
 - Anti-aging and photoprotection: Validated by 2025 research confirming UV-photoaging prevention through MMP suppression, [antioxidant](/reference/antioxidant/) protection, and anti-inflammatory mechanisms
+
+## How is it used traditionally?
+
+Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classified as Varnya (complexion-enhancing), Kushthagna (anti-dermatosis), and Vishaghna (antitoxic). Golden milk (Haldi Doodh) is a traditional preparation.
+
+## Where is it described in the classical texts?
+
+- Charaka Samhita
+- Sushruta Samhita
+- Bhavaprakasha Nighantu
+- Ashtanga Hridaya
 
 ## What do recent clinical trials show?
 
@@ -65,6 +98,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 - Topical curcumin is generally well-tolerated with minimal adverse effects; may cause temporary yellow staining of skin. The 0.5% microemulgel formulation showed excellent tolerability in clinical trials with no significant side effects
 - Major limitation is low oral bioavailability; enhanced formulations (nano-curcumin, liposomal curcumin, [piperine](/reference/piperine/) combinations) improve absorption. Oral curcumin at high doses (>8g/day) may cause GI disturbance. GRAS status by FDA for food use
+
+## Recommended Dosage
+
+Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailability)
+
+## Safety, contraindications and cautions
+
+- Gallstones (stimulates bile)
+- Blood thinners (anticoagulant synergy)
+- Pre-surgery
+- Iron-deficiency anemia (may reduce iron absorption)
 
 ## What is it made of?
 

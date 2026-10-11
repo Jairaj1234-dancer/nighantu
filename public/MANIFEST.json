@@ -7,7 +7,7 @@
   "site": "https://nighantu.ageayurveda.com",
   "datasetsPage": "https://nighantu.ageayurveda.com/datasets/",
   "fileCount": 32,
-  "totalBytes": 21050501,
+  "totalBytes": 21051386,
   "files": [
     {
       "file": "access.json",
@@ -57,8 +57,8 @@
     {
       "file": "chemistry.json",
       "sourcePath": "chemistry.json",
-      "bytes": 213827,
-      "sha256": "6a76a334c3a832734e36a38c84b15a46df72c5ff18fcc171c133f9e06459dd68",
+      "bytes": 213828,
+      "sha256": "107be33e814092fe49daca24812b5594c391449e2c7262b239ef84b7339b6bf0",
       "csvRows": null,
       "describes": "Constituents resolved against PubChem to a CID, molecular formula, weight and InChIKey, kept apart from compounds.json because an unresolved constituent is a different fact from a resolved one.",
       "liveAt": "https://nighantu.ageayurveda.com/chemistry.json"
@@ -84,8 +84,8 @@
     {
       "file": "compounds.csv",
       "sourcePath": "compounds.csv",
-      "bytes": 313793,
-      "sha256": "49edeca1a529f970308aa772ff2d5f14b883afdac8b88ce19c75f84c7c358d7d",
+      "bytes": 313352,
+      "sha256": "4f2f00d4e228b18cd7fa7bd46b26ee24bff7ce2fd469733dbab11d9dd371b4cc",
       "csvRows": 838,
       "describes": "The constituents as a table, one row per constituent per monograph.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.csv"
@@ -93,8 +93,8 @@
     {
       "file": "compounds.json",
       "sourcePath": "compounds.json",
-      "bytes": 1861603,
-      "sha256": "35c670c3c5b5a00a8e5a23ebe1c3342da9e46fdb715045d320f866351641a5c5",
+      "bytes": 1862023,
+      "sha256": "06e3c87eb82e55feb12cd0e40081016874640aa78c3994576a7e7e540858877a",
       "csvRows": null,
       "describes": "Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.json"
@@ -138,17 +138,17 @@
     {
       "file": "dravyaguna.csv",
       "sourcePath": "dravyaguna.csv",
-      "bytes": 26139,
-      "sha256": "0c415feec4279dba4c2b2ac7df587922c0beb06e9ffc16a3c132b54bb48b7e9a",
-      "csvRows": 245,
+      "bytes": 26344,
+      "sha256": "ad3a17e503b2599073f540fabf65c2273d96e0c3c4bce1b8569e0518d216381c",
+      "csvRows": 247,
       "describes": "The dravyaguna properties as a table.",
       "liveAt": "https://nighantu.ageayurveda.com/dravyaguna.csv"
     },
     {
       "file": "dravyaguna.json",
       "sourcePath": "dravyaguna.json",
-      "bytes": 80148,
-      "sha256": "f14f65b1d9c592504f0fc32317ef2b0e93077b046b226d6ba03996e93cf27c46",
+      "bytes": 80848,
+      "sha256": "4be6b9484210d3f837139a4e7febe7b97c737b50ad9bbc96c602bd74b504b2a6",
       "csvRows": null,
       "describes": "Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.",
       "liveAt": "https://nighantu.ageayurveda.com/dravyaguna.json"
