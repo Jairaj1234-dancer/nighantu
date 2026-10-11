@@ -1300,7 +1300,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "98456ecf78dd7474",
+    "hash": "8e407e056db501df",
     "published": "2026-09-09",
     "modified": "2026-10-11"
   },
@@ -2460,9 +2460,9 @@
     "modified": "2026-10-11"
   },
   "herb/khadira": {
-    "hash": "38a2925ad321f485",
+    "hash": "3a50bd2d6c949ef6",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/kharjura": {
     "hash": "ca775921dcf677fc",
@@ -3190,9 +3190,9 @@
     "modified": "2026-10-11"
   },
   "herb/rudraksha": {
-    "hash": "d355cb4a55084e3e",
+    "hash": "c37b324ca5d5ee6e",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/saffron": {
     "hash": "ba4ba189bde6640c",
@@ -3715,9 +3715,9 @@
     "modified": "2026-10-10"
   },
   "herb/vathada": {
-    "hash": "d4cb8e895c7611cc",
+    "hash": "baf995b657f56709",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-11"
   },
   "herb/vatsanabha": {
     "hash": "0cb092a4491acf3f",
