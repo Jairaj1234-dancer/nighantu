@@ -33,8 +33,27 @@ if (!fs.existsSync(SRC)) {
   process.exit(1);
 }
 const graph = JSON.parse(fs.readFileSync(SRC, 'utf8'));
-const names = graph.compounds.map((c) => c.name);
-console.log(`constituents in the graph: ${names.length}`);
+/**
+ * EVERY NAME, INCLUDING THE ONES THE MERGE ABSORBED. This line read `c.name` alone, and that one
+ * omission made the whole build oscillate with a period of two.
+ *
+ * compounds.mjs merges nodes that share an InChIKey, keeps the most-cited spelling and records the
+ * rest in `alsoKnownAs`. It takes the name-to-InChIKey mapping from chemistry.json, which this
+ * script writes. So resolving only the surviving names meant that the moment Beta-sitosterol was
+ * merged into Sitosterol it vanished from the list of names asked about, chemistry.json lost its
+ * mapping on the next run, and the pass after that could no longer merge it. The merge was
+ * destroying the evidence the merge depended on.
+ *
+ * Two consecutive builds on byte-identical content therefore alternated between 838 compounds with
+ * 466 resolved and 849 with 455, and compoundsResolved is a deploy gate with its baseline pinned at
+ * 455. It swung across its own threshold on nothing but how many times the build had run, which
+ * also means it could not have detected a real regression smaller than eleven compounds.
+ *
+ * Asking about alsoKnownAs costs nothing: those names are already in the PubChem cache precisely
+ * because a previous run resolved them, so this is a cache read rather than a new request.
+ */
+const names = [...new Set(graph.compounds.flatMap((c) => [c.name, ...(c.alsoKnownAs ?? [])]))];
+console.log(`constituents in the graph: ${graph.compounds.length}, names to resolve: ${names.length}`);
 
 const PROPS = 'MolecularFormula,MolecularWeight,InChIKey,CanonicalSMILES,IUPACName';
 
