@@ -25,6 +25,8 @@ import { hash } from './lib/state.mjs';
 const LEDGER = path.join('src', 'data', 'page-dates.json');
 const previousLedger = fs.existsSync(LEDGER) ? JSON.parse(fs.readFileSync(LEDGER, 'utf8')) : {};
 const CHECK = process.argv.includes('--check');
+/** Adopt new hashes without advancing any date: only for a change to the hash DEFINITION. */
+const REHASH = process.argv.includes('--rehash');
 const TODAY = (process.env.STAMP_DATE || new Date().toISOString()).slice(0, 10);
 
 const sources = [];
@@ -225,6 +227,7 @@ const previous = previousLedger;
 const next = {};
 let added = 0;
 let revised = 0;
+let rehashed = 0;
 
 for (const { key, file, text, since, astro } of sources) {
   const slug = key.slice(key.indexOf('/') + 1);
@@ -237,7 +240,28 @@ for (const { key, file, text, since, astro } of sources) {
     // Hash the body and the meaningful frontmatter, not the whole file, so a
     // formatting-only reserialisation of frontmatter does not read as a revision.
     const { data, body } = parseFrontmatter(raw);
-    h = hash(`${data.title ?? ''} ${data.answer ?? ''} ${body.trim()} ${dataFor(key, slug)}`);
+    /**
+     * EVERY FRONTMATTER FIELD THAT RENDERS, not just title and answer.
+     *
+     * THIS IS THE THIRD TIME THIS LEDGER HAS BEEN BLIND TO A REAL CHANGE, and the comment above
+     * records the first two. It once hashed the markdown body alone and missed everything arriving
+     * through src/data. It was widened to cover those, and still covered only `title` and `answer`
+     * out of the frontmatter.
+     *
+     * So a backfill of 189 `family` fields reported "revised 0". That field renders as
+     * `botanicalFamily` in [slug].jsonld.ts, as the `Family` row of the markdown twin, and through
+     * answer.mjs into the answer block itself. The pages had changed on all three surfaces and the
+     * sitemap would have gone on telling Google they had not, which is precisely the failure that
+     * left the index frozen for three weeks in September.
+     *
+     * The list is DERIVED FROM THE RENDER TARGETS rather than chosen: these are the fields
+     * [slug].md.ts and [slug].jsonld.ts actually read. `tags`, `aliases`, `words` and `srcRel` are
+     * left out because nothing renders them as prose, and `review.json` stays out for the reason
+     * given above: a byline is not a revision.
+     */
+    const RENDERED = ['title', 'answer', 'botanical', 'family', 'sanskrit', 'ayurvedicCategory', 'whoStatus', 'partsUsed', 'sources'];
+    const front = RENDERED.map((k) => `${k}=${stable(data[k] ?? '')}`).join(' ');
+    h = hash(`${front} ${body.trim()} ${dataFor(key, slug)}`);
   } else {
     // A data-backed page: its record IS its content, already stably stringified. dataFor is still
     // consulted so a citation added to one of these pages counts as a revision, exactly as it does
@@ -260,6 +284,23 @@ for (const { key, file, text, since, astro } of sources) {
       modified: changed ? TODAY : prev.modified,
     };
     if (changed) revised += 1;
+  } else if (prev.hash !== h && REHASH) {
+    /**
+     * A CHANGE TO THE HASH DEFINITION IS NOT A CHANGE TO THE PAGES.
+     *
+     * Widening what goes into the hash makes every hash differ, so every page looks revised. On 11
+     * October widening it to cover the rendered frontmatter fields reported "revised 819" when 189
+     * pages had actually changed. Writing that would have told search engines 819 pages were
+     * revised in one day, which is false, is a known spam signal, and is the exact behaviour the
+     * header of this file says it exists to prevent. The ledger would have been faking freshness in
+     * the name of reporting it.
+     *
+     * So `--rehash` adopts the new hashes and leaves every date alone. The procedure is: revert the
+     * real content change, run --rehash to re-baseline against the new definition, re-apply the
+     * change, then run normally so only the pages that genuinely moved are stamped.
+     */
+    next[key] = { hash: h, published: prev.published ?? TODAY, modified: prev.modified };
+    rehashed += 1;
   } else if (prev.hash !== h) {
     next[key] = { hash: h, published: prev.published ?? TODAY, modified: TODAY };
     revised += 1;
@@ -306,7 +347,7 @@ const sorted = Object.fromEntries(Object.entries(next).sort(([a], [b]) => a.loca
 const serialised = JSON.stringify(sorted, null, 2) + '\n';
 const current = fs.existsSync(LEDGER) ? fs.readFileSync(LEDGER, 'utf8') : '';
 
-console.log(`pages ${sources.length}  new ${added}  revised ${revised}  removed ${removed.length}`);
+console.log(`pages ${sources.length}  new ${added}  revised ${revised}  removed ${removed.length}${rehashed ? `  rehashed ${rehashed} (dates untouched)` : ''}`);
 
 if (CHECK) {
   if (serialised !== current) {
