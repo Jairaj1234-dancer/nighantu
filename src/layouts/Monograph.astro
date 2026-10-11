@@ -45,15 +45,37 @@ const externalIds = (() => {
   return { sameAs, identifier };
 })();
 /**
- * Where this page's canonical points.
+ * EVERY PAGE IS ITS OWN CANONICAL. The alias pages used to declare their primary, and
+ * this records why that was dropped rather than leaving the next reader to wonder.
  *
  * 29 pages in this corpus are the same drug as another page under a different name:
  * neem and nimba, turmeric and haridra, manjishtha and manjistha. Each keeps its URL
  * and its content, because a reader arriving on either name should land somewhere
- * useful and the classical, Hindi and English names are all in real use. What they
- * stop doing is competing. A retrieval index that clusters near-duplicates picks one
- * representative on its own; declaring the primary here means it picks the one we
- * chose, and the signal consolidates instead of splitting.
+ * useful and the classical, Hindi and English names are all in real use. The intent of
+ * declaring the primary here was that a retrieval index would consolidate the pair on
+ * the representative we chose rather than picking one arbitrarily.
+ *
+ * IT DID NOT WORK, MEASURABLY. Of the 29, Google has indexed 18, and it reports every
+ * one of those 18 as SELF-canonical. rel=canonical is a hint, and Google declines it
+ * when the pages differ enough to look distinct, which several hundred words of
+ * independently written monograph does. So the declaration achieved nothing it was
+ * added for.
+ *
+ * AND IT WAS LOAD-BEARING IN THE WRONG DIRECTION. Those alias pages rank for English
+ * and Hindi spellings their Sanskrit primary does not, so the site was quietly relying
+ * on Google overriding its own markup: had Google ever started honouring the tag, 18
+ * indexed pages would have dropped out. Depending on a search engine to ignore your
+ * instructions is not a strategy.
+ *
+ * It was also simply wrong for readers, because `canonical` feeds more than the link
+ * tag. CiteThis builds both the citation URL and the "machine-readable source" link
+ * from it, so /herb/turmeric/ offered /herb/haridra.md as its own markdown twin and
+ * told anyone citing it to cite a different page. Self-canonical fixes all three.
+ *
+ * What remains is the honest part: duplicates.json still records which pages are the
+ * same drug and why, and the note further down tells a reader about the sibling and
+ * links to it. Recording a relationship is not the same as asking an index to discard
+ * one side of it.
  *
  * Which pages are aliases was decided by reading them, not by name similarity. Pages
  * that share a species but are genuinely different drugs stay independent: nutmeg and
@@ -63,7 +85,7 @@ const externalIds = (() => {
 const selfUrl = `${sectionHref}${d.slug}/`;
 const aliasOf = (duplicates as any).aliases?.[d.slug];
 const primaryUrl = aliasOf ? `${sectionHref}${aliasOf.primary}/` : '';
-const canonical = primaryUrl || selfUrl;
+const canonical = selfUrl;
 // entry.collection is the content directory, which is exactly how the ledger is keyed.
 // d.kind is the record's own label and does not always match: reference records say "hub".
 const { published, modified } = pageDates(entry.collection ?? d.kind, d.slug);
@@ -161,9 +183,18 @@ const breadcrumbs = {
 
     {aliasOf && (
       <p class="aliasnote">
+        {/*
+          "the other is treated as the primary record for citation" was true while this page
+          declared that page as its canonical. It no longer does, and each page is now cited as
+          itself, so the sentence had to go rather than keep telling a reader to cite elsewhere.
+          The first replacement said the primary is "the fuller record", which I checked before
+          shipping: it is false on 14 of the 29 pairs, and badly so, with karela at 1810 words
+          against karvellaka's 266. "Primary" records which NAME this reference leads with, not
+          which page is better, so the sentence now claims neither.
+        */}
         This entry and <a href={rel(primaryUrl)}>{aliasOf.primary.replace(/-/g, ' ')}</a> describe
         the same drug, <em>{aliasOf.taxon}</em>, under different names. Both pages are kept because
-        both names are in use; the other is treated as the primary record for citation.
+        both names are in use, and each is cited as itself.
       </p>
     )}
 
