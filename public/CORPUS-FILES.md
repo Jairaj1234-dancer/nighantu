@@ -245,7 +245,7 @@ Research papers cited across the site, each with its PubMed ID or DOI, the monog
 Botanical names resolved against GBIF, each carrying the match type so a fuzzy hit is never read as an exact one.
 
 - 0.19 MB
-- sha256 `c08d42fbf88dd79c4768eb772296138485102136524dc505daa237e329f28e3c`
+- sha256 `3c3ff359695a39d884932524625d483ee4f350401bdf832da06522f9bb7fe23e`
 - live copy: https://nighantu.ageayurveda.com/taxonomy.json
 
 ### `verification.json`

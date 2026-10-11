@@ -6,13 +6,13 @@
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 285,
+  "botanicals": 284,
   "resolved": 284,
   "exact": 277,
   "fuzzy": 1,
   "higherRank": 6,
   "synonyms": 36,
-  "notFound": 1,
+  "notFound": 0,
   "withWikidata": 269,
   "withNcbiTaxid": 276
  },
@@ -6230,22 +6230,6 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q159281",
    "ncbiTaxid": "261426"
-  },
-  {
-   "query": "Prakshep phase",
-   "pages": [
-    {
-     "kind": "herb",
-     "slug": "vamshalochana",
-     "title": "Vamshalochana",
-     "asPublished": "Prakshep phase"
-    }
-   ],
-   "status": "not-found",
-   "matchType": "NONE",
-   "checkedAt": "2026-09-16",
-   "wikidata": "",
-   "ncbiTaxid": ""
   },
   {
    "query": "Premna integrifolia",
