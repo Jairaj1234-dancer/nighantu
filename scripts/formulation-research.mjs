@@ -198,8 +198,8 @@ if (fs.existsSync(RETRACTIONS)) {
  * measured the wrong population and skipped 40 pages.
  *
  * The page it skipped that mattered most is sitopaladi-churna: it holds one paper, seven exist
- * under its exact name, and it is the largest named query cluster this site has on Bing, 42
- * impressions across eight spellings. A page with one citation is not a covered page.
+ * under its exact name, and it is the largest named query cluster this site has on Bing, across
+ * eight spellings. A page with one citation is not a covered page.
  *
  * The threshold is 6 because that is the number citations.mjs itself uses to decide a page needs
  * topping up, and having two different definitions of "thin" in one project is how the measurements

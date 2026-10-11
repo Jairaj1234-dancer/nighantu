@@ -34,6 +34,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 | **Virya** (Potency) | Sheeta | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
+## Which traditional uses are supported by research?
+
+*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Avaleha form, Soft gelatin capsules (modern)

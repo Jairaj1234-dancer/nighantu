@@ -25,6 +25,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 |----------|------|
 | English | Guggulu_Herb |
 
+## Which traditional uses are supported by research?
+
+*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+
 ## What is it made of?
 
 ### Key Active Markers
