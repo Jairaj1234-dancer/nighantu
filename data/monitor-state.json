@@ -419,7 +419,7 @@
       "https://nighantu.ageayurveda.com/choosing/reading-a-formulation-label/": "4dc81cf1af257b01",
       "https://nighantu.ageayurveda.com/choosing/who-publishes-the-composition/": "5ac925fab6704497",
       "https://nighantu.ageayurveda.com/cite/": "bf6fd0ae783a338d",
-      "https://nighantu.ageayurveda.com/compounds/": "90ed9e26cf0e00fa",
+      "https://nighantu.ageayurveda.com/compounds/": "1b45b2651698634d",
       "https://nighantu.ageayurveda.com/concept/": "070be28c61916a8e",
       "https://nighantu.ageayurveda.com/concept/agni-and-digestion/": "41ca7e0ca418e48b",
       "https://nighantu.ageayurveda.com/concept/ahara-vidhi/": "ae6be5b8495d7ea0",
@@ -451,7 +451,7 @@
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "35110b1278a55f36",
       "https://nighantu.ageayurveda.com/corrections/": "06ed16bfc6c9cda3",
       "https://nighantu.ageayurveda.com/crosswalk/": "9713acf8ca51dc28",
-      "https://nighantu.ageayurveda.com/datasets/": "b5dc08f0b6130d1a",
+      "https://nighantu.ageayurveda.com/datasets/": "d177e25153c907f7",
       "https://nighantu.ageayurveda.com/device/": "904a44e7daa79694",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "16de9a68fe45a6a2",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "b244484e7eacd7d9",
@@ -1650,8 +1650,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "e61eb0d043c13093",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "513da4a970197564"
     },
-    "lastSubmittedAt": "2026-10-11T05:55:41.311Z",
-    "lastSubmittedCount": 46,
+    "lastSubmittedAt": "2026-10-11T06:17:54.034Z",
+    "lastSubmittedCount": 2,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3653,6 +3653,6 @@
     "seen": 13,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-11T05:55:41.311Z",
+  "updatedAt": "2026-10-11T06:17:54.034Z",
   "version": 1
 }
