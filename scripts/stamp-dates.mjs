@@ -87,7 +87,7 @@ if (fs.existsSync('guides')) {
  * whole reason the two cases are separated.
  */
 const DATA = Object.fromEntries(
-  ['names', 'composition', 'citations', 'identity']
+  ['names', 'composition', 'citations', 'identity', 'brand-disclosure']
     .map((n) => [n, path.join('src', 'data', `${n}.json`)])
     .filter(([, p]) => fs.existsSync(p))
     .map(([n, p]) => [n, JSON.parse(fs.readFileSync(p, 'utf8'))]),
@@ -106,6 +106,25 @@ function dataFor(key, slug) {
     DATA.citations?.pages?.[key],
     DATA.composition?.records?.[slug],
     DATA.identity?.records?.[slug],
+    /**
+     * The manufacturer-disclosure table, which src/components/Disclosure.astro renders on 63
+     * formulation pages from src/data/brand-disclosure.json.
+     *
+     * It is here for the reason the whole of dataFor exists: that section is visible page content
+     * arriving through src/data rather than through the markdown body, so without it a re-survey
+     * would change what 63 pages say about named companies while the ledger reported the pages
+     * unmodified. The dates on those pages are a claim about when their content last changed, and
+     * a claim nobody is checking is the one that goes wrong.
+     *
+     * SCOPED TO formulation/ BECAUSE THE SLUG IS NOT UNIQUE ACROSS COLLECTIONS. Matching on slug
+     * alone also hit practice/brahma-rasayana, which shares a slug with a preparation and does not
+     * render the section, since the component only renders for kind 'formulation'. That page would
+     * then have had its revision date advanced by a survey it does not show. The condition here
+     * has to mirror the component's, or the ledger dates a page for content it never displayed.
+     */
+    key.startsWith('formulation/')
+      ? DATA['brand-disclosure']?.preparations?.find((p) => p.slug === slug)
+      : undefined,
   ].filter((x) => x !== undefined);
   return parts.length ? stable(parts) : '';
 }

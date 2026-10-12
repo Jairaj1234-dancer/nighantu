@@ -344,6 +344,19 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .composition-counts > p { margin: 0 0 .5rem; font-size: .95rem; }
 .composition-counts > p:last-child { margin-bottom: 0; }
 .composition-dose strong { font-weight: 600; }
+
+/* The manufacturer-disclosure table, borrowing the composition table's measurements on purpose:
+   it sits directly beneath that table and the two are meant to be read as one comparison, the
+   formulary entry and then who publishes enough to be checked against it. Only the notes differ,
+   and they carry more weight here than a footnote would, because the disclosure and the
+   disclosure-is-not-quality sentence are the two things a reader must not skim past. */
+.disclosure { margin: 2rem 0; }
+.disclosure .table-scroll { overflow-x: auto; }
+.disclosure table { font-size: .92rem; }
+.disclosure th, .disclosure td { text-align: left; padding: .4rem .7rem; border-top: 1px solid var(--rule); vertical-align: top; }
+.disclosure-note { font-size: .86rem; color: var(--ink-soft); }
+.disclosure > .disclosure-note { margin: .6rem 0; }
+.disclosure > .disclosure-note:first-of-type { color: var(--ink); }
 .composition .ocrnote { color: var(--ink-soft); cursor: help; }
 .composition .illegible { color: var(--ink-soft); font-size: .88em; }
 .composition tr.structural td { color: var(--ink-soft); }
