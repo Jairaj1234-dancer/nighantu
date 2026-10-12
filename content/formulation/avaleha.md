@@ -72,7 +72,6 @@ The dosage form solves four pharmacological problems classical practitioners fac
 ## Notable Avaleha formulations
 
 - [Chyawanprash](/formulation/chyawanprash/) — the flagship Rasayana Avaleha (Charaka Chikitsasthana 1.1)
-- Chyawanprash Royale — the premium-provenance Chyawanprash variant
 - Vasa Avaleha — Kasahara (Vasaka-based, respiratory)
 - Kushmanda Avaleha — Medhya Rasayana (ash-gourd, cognitive)
 - Agastya Haritaki — immunity / respiratory
@@ -85,7 +84,6 @@ The dosage form solves four pharmacological problems classical practitioners fac
 ## See also
 
 - [Chyawanprash](/formulation/chyawanprash/)
-- Chyawanprash Royale
 - [Rasayana](/reference/rasayana/)
 - [Madhu](/herb/madhu/)
 - [Ghrita](/herb/ghrita/)

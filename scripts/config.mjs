@@ -44,6 +44,7 @@ export const DENY_BASENAME_PATTERNS = [/MOC\.md$/i, /-DEVICES\.md$/, /-Suvarna\.
 export const FORBIDDEN_STRINGS = [
   'COGS', 'MRP', 'landed cost', 'Competitive Matrix', 'Launch Roadmap',
   'Pricing-Economics', 'gross margin', 'Vaidya price',
+  'Royale',
 ];
 
 // Standalone-page word thresholds by page kind. Below these, a page is rolled
@@ -101,6 +102,9 @@ export const REDACTIONS = [
    */
   { pattern: /\bHouse of Baidyanath\b/gi, replacement: 'Baidyanath' },
   { pattern: /\bShri Baidyanath Ayurved Bhawan\b/gi, replacement: 'Baidyanath' },
+  // Prose that names a denied tree outside a list item, which dropDeniedReferences cannot lift.
+  { pattern: / and Chyawanprash Royale\b/g, replacement: '' },
+  { pattern: /[ \t]*In Royale positioning,[^.\n]*\./g, replacement: '' },
 ];
 
 // Leaf filenames whose identity is the parent folder name, not the filename.
@@ -141,6 +145,8 @@ export const DROP_LINE_PATTERNS = [
   /^> \*\*Disclaimer:\*\*/,           // site-wide disclaimer replaces the inline one
   /^\*Part of the .*AgeAyurveda.*\*$/,  // internal vault footers
   /^(?:-{3,}|\*{3,}|_{3,})$/,           // horizontal rules
+  /^\*\*Premium Sourcing Tier:\*\*/,     // points at a denied tree
+  /^\*Stub created .*\*$/,             // vault housekeeping note
 ];
 
 // Hub pages cross-reference traditions the site does not publish. Dropping these

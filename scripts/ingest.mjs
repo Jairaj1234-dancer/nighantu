@@ -9,7 +9,7 @@ import {
 import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
-  wordCount, resolveWikilinks, dropUnresolvedListItems, redact, inferBotanical,
+  wordCount, resolveWikilinks, dropUnresolvedListItems, dropDeniedReferences, redact, inferBotanical,
   delinkPropertyRows, dropMineralPlaceholder,
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
@@ -324,7 +324,7 @@ function transform(p) {
   if (lead) bodyParts.push(lead);
   for (const s of rendered) bodyParts.push(`## ${s.heading}\n\n${s.content}`);
 
-  let raw = bodyParts.join('\n\n');
+  let raw = dropDeniedReferences(bodyParts.join('\n\n'));
   if (p.kind === 'hub') raw = dropUnresolvedListItems(raw, resolver);
   const body = delinkPropertyRows(redact(resolveWikilinks(raw, resolver)));
   if (productHints.length) PRODUCT_HINTS.set(p.slug, productHints);

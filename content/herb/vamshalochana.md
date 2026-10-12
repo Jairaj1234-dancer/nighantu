@@ -34,7 +34,7 @@ Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced 
 
 ## Use in Chyawanprash
 
-Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/herb/pippali/), [Twak](/herb/twak-cinnamon/), [Ela](/herb/ela/), [Tejpatra](/herb/tejapatra/) and [Nagakesara](/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature. See Prakshep Dravya.
+Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/herb/pippali/), [Twak](/herb/twak-cinnamon/), [Ela](/herb/ela/), [Tejpatra](/herb/tejapatra/) and [Nagakesara](/herb/nagakesara/). Provides the sweet-cooling balancing note and the classical medhya-rasayana signature.
 
 ## Adulteration note
 
@@ -44,4 +44,3 @@ The commodity market is heavily adulterated with **calcium silicate** (chemicall
 
 Generally regarded as safe at classical prakshep doses (50–500 mg/day as part of compounded Avalehas). High silica content: avoid standalone mega-doses in renal disease.
 
-*Stub created 2026-04-17 to resolve wikilinks from Chyawanprash Royale folder. Expand with detailed phytochemistry, pharmacology and clinical data as the catalogue grows.*

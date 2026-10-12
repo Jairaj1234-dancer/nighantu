@@ -52,7 +52,6 @@ Vagbhata also codifies the **viruddha (incompatibility) doctrine** — Sutrastha
 
 - [Sharangadhara Samhita](/text/sharangadhara-samhita/)
 - [Chyawanprash](/formulation/chyawanprash/)
-- Chyawanprash Royale
 - [Rasayana](/reference/rasayana/)
 - [Avaleha](/formulation/avaleha/)
 

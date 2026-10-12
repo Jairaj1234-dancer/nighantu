@@ -91,8 +91,6 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 **Storage:** Store in wide-mouth glass or food-grade HDPE jars with airtight lids. Temperature not exceeding 25°C. Protect from moisture. Refrigeration after opening recommended.
 
-**Premium Sourcing Tier:** See Chyawanprash Royale for the luxury-tier provenance variant featuring Junglee Amla, Karaunj wild monofloral honey, Mongra Kashmiri Keshar, Majdool dates, Afghan Anjeer, and Munakkha.
-
 **Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/glossary/compounds-d-g/#eugenol)
 
 **Quality Parameters:** Total solids (NLT 65%), pH (3.5-5.0), vitamin C content (NLT 25 mg/100g in classical, higher in modern), total fat, total sugar, moisture (<25%), HPLC for gallic acid, piperine, cinnamaldehyde, HPTLC fingerprint, microbial limits (TBC, yeast, mould, coliforms), heavy metals, aflatoxins, pesticide residues

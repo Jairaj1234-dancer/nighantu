@@ -276,6 +276,31 @@ export function dropUnresolvedListItems(text, resolver) {
     .replace(/\n{3,}/g, '\n\n');
 }
 
+/** True when a wikilink target points into a tree this site never publishes. */
+const isDeniedTarget = (target) => DENY_PATH_FRAGMENTS.some((f) => `/${target}`.includes(f));
+
+/**
+ * Remove references into denied trees before links are resolved.
+ *
+ * resolveWikilinks degrades an unpublished target to its label, which is right for a
+ * page that merely fell under a word threshold and wrong for a denied tree: the label
+ * is then the name of the thing being withheld. A list item pointing there is dropped,
+ * and so is a trailing "See [[...]]." sentence, on every page kind.
+ */
+export function dropDeniedReferences(text) {
+  return text
+    .split(/\r?\n/)
+    .filter((line) => {
+      if (!/^\s*[-*]\s/.test(line)) return true;
+      const targets = [...line.matchAll(/\[\[([^\[\]|]+)/g)].map((m) => m[1].trim());
+      return !targets.some(isDeniedTarget);
+    })
+    .join('\n')
+    .replace(/\s*\bSee \[\[([^\[\]|]+)(?:\|[^\[\]]*)?\]\][^.\n]*\./g,
+      (all, target) => (isDeniedTarget(target.trim()) ? '' : all))
+    .replace(/\n{3,}/g, '\n\n');
+}
+
 export function yamlValue(v) {
   if (Array.isArray(v)) return `[${v.map((x) => JSON.stringify(String(x))).join(', ')}]`;
   return JSON.stringify(String(v ?? ''));
