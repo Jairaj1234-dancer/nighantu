@@ -1,10 +1,10 @@
 {
- "checkedAt": "2026-10-09",
- "papersChecked": 2888,
+ "checkedAt": "2026-10-12",
+ "papersChecked": 3532,
  "note": "Cumulative. This list only grows: a paper already dropped from the corpus is no longer cited, so a later run cannot rediscover it, and overwriting would un-block it.",
  "byKind": {
   "erratum-notice": 3,
-  "retracted-publication": 12,
+  "retracted-publication": 16,
   "retraction-notice": 3
  },
  "flagged": [
@@ -86,6 +86,17 @@
    ]
   },
   {
+   "pmid": "33304101",
+   "kind": "retracted-publication",
+   "title": "Green Synthesis of Silver Nanoparticles Using Extract of Jasminum officinal L. Leaves and Evaluation of Cytotoxic Activity Towards Bladder (5637) and Breast Cancer (MCF-7) Cell Lines.",
+   "journal": "International journal of nanomedicine",
+   "year": "2020",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/jati"
+   ]
+  },
+  {
    "pmid": "33419120",
    "kind": "retracted-publication",
    "title": "RETRACTED: Myricitrin, a Glycosyloxyflavone in Myrica esculenta Bark Ameliorates Diabetic Nephropathy via Improving Glycemic Status, Reducing Oxidative Stress, and Suppressing Inflammation.",
@@ -141,6 +152,17 @@
    ]
   },
   {
+   "pmid": "36265619",
+   "kind": "retracted-publication",
+   "title": "Eco-friendly biosynthesis of TiO(2) nanoparticles using Desmostachya bipinnata extract: Larvicidal and pupicidal potential against Aedes aegypti and Spodoptera litura and acute toxicity in non-target organisms.",
+   "journal": "The Science of the total environment",
+   "year": "2023",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/kusha"
+   ]
+  },
+  {
    "pmid": "36641322",
    "kind": "retracted-publication",
    "title": "Immunomodulatory Role of Diospyros peregrina Fruit Preparation in Breast Cancer by Utilizing Macrophage Mediated Antigen Presentation and T Helper Cell (Th) Differentiation.",
@@ -163,6 +185,17 @@
    ]
   },
   {
+   "pmid": "37704075",
+   "kind": "retracted-publication",
+   "title": "In vitro biofilm inhibition efficacy of Aerva lanata flower extract against Gram negative and Gram-positive biofilm forming bacteria and toxicity analysis using Artemia salina.",
+   "journal": "Environmental research",
+   "year": "2023",
+   "pubtype": "Journal Article; Research Support, Non-U.S. Gov't; Retracted Publication",
+   "subjects": [
+    "herb/bhadra"
+   ]
+  },
+  {
    "pmid": "40434025",
    "kind": "retracted-publication",
    "title": "A Standardized Asparagus Racemosus Root Extract Improves Hormonal Balance and Menstrual Health and Reduces Vasomotor Symptoms in Perimenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Study.",
@@ -172,6 +205,17 @@
    "subjects": [
     "herb/shatavari-ksheera",
     "herb/shatavari"
+   ]
+  },
+  {
+   "pmid": "41425863",
+   "kind": "retracted-publication",
+   "title": "Chemical Characterization and Comparative Biological Activities of Spinacia oleracea and Basella rubra Leaf Extracts.",
+   "journal": "Biochemistry research international",
+   "year": "2025",
+   "pubtype": "Journal Article; Retracted Publication",
+   "subjects": [
+    "herb/palankya"
    ]
   },
   {
