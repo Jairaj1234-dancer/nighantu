@@ -420,9 +420,9 @@
     "modified": "2026-10-11"
   },
   "formulation": {
-    "hash": "5977a3ab61853f6b",
+    "hash": "1ca5e43711c81426",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "formulation/abhayarishta": {
     "hash": "959fa2ed8e71d490",
@@ -535,9 +535,9 @@
     "modified": "2026-10-10"
   },
   "formulation/avaleha": {
-    "hash": "1b414de8f27fc5f6",
+    "hash": "899aa6b407abdd87",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "formulation/avipattikar-churna": {
     "hash": "394060f341efdf2a",
@@ -620,9 +620,9 @@
     "modified": "2026-10-10"
   },
   "formulation/chyawanprash": {
-    "hash": "9b2f63476a9054e1",
+    "hash": "4612d7cee873cfe0",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "formulation/coconut-oil-narikela-taila": {
     "hash": "ea576159b1e78acc",
@@ -645,9 +645,9 @@
     "modified": "2026-10-08"
   },
   "formulation/dashamula": {
-    "hash": "5188635dee6d880e",
+    "hash": "9a2d1a7a95ec1744",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "formulation/dashamularishta": {
     "hash": "d935a3f9d4c1639b",
@@ -1300,9 +1300,9 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "87343f7ae35cd3ad",
+    "hash": "355c732fc7a32c9c",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "herb/abhraka-bhasma": {
     "hash": "130e827c3edf7714",
@@ -3655,9 +3655,9 @@
     "modified": "2026-10-11"
   },
   "herb/vamshalochana": {
-    "hash": "52f74c7bc6fe83b8",
+    "hash": "b35e8077295fac86",
     "published": "2026-09-16",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "herb/vanapsa": {
     "hash": "05cef1d655d261e6",
@@ -5740,19 +5740,19 @@
     "modified": "2026-09-09"
   },
   "text": {
-    "hash": "68ddaf2dfbe5b331",
+    "hash": "14506166760e8b1c",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "text/ashtanga-hridaya": {
-    "hash": "440b15cff215ab9f",
+    "hash": "2be1a52d837b5fbc",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-12"
   },
   "text/sharangadhara-samhita": {
-    "hash": "fd13f5ebe0d6fc81",
+    "hash": "0789450d8f5c99e9",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-12"
   },
   "verification": {
     "hash": "dedb951b8c5b4168",
