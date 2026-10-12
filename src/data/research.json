@@ -1,18 +1,18 @@
 {
  "updatedAt": "2026-10-10T00:53:27.437Z",
  "summary": {
-  "papers": 3532,
-  "withDoi": 3353,
+  "papers": 3528,
+  "withDoi": 3349,
   "subjectsCovered": 478,
   "citedByMultiple": 638,
   "byTier": {
    "A": 158,
    "B": 105,
    "C": 1176,
-   "D": 2093
+   "D": 2089
   },
   "byDecade": {
-   "2020s": 2150,
+   "2020s": 2146,
    "2010s": 1084,
    "2000s": 216,
    "1990s": 42,
@@ -41121,35 +41121,6 @@
    ]
   },
   {
-   "pmid": "41425863",
-   "doi": "10.1155/bri/7140041",
-   "title": "Chemical Characterization and Comparative Biological Activities of Spinacia oleracea and Basella rubra Leaf Extracts",
-   "journal": "Biochemistry research international",
-   "year": 2025,
-   "authors": [
-    "Shahid F",
-    "Razzaq MA",
-    "Sajid A",
-    "Jasim YH",
-    "Ahmed SA",
-    "Umair M",
-    "Ali A",
-    "Albadawy A",
-    "Golshany H",
-    "Hidayatallah Z"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41425863/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "palankya",
-     "title": "Palankya",
-     "binomial": "spinacia oleracea"
-    }
-   ]
-  },
-  {
    "pmid": "38712549",
    "doi": "10.1080/14786419.2024.2349255",
    "title": "Chemoenzymatic formal synthesis of (+)-brazilin",
@@ -55376,36 +55347,6 @@
    ]
   },
   {
-   "pmid": "36265619",
-   "doi": "10.1016/j.scitotenv.2022.159512",
-   "title": "Eco-friendly biosynthesis of TiO(2) nanoparticles using Desmostachya bipinnata extract: Larvicidal and pupicidal potential against Aedes aegypti and Spodoptera litura and acute toxicity in non-target organisms",
-   "journal": "The Science of the total environment",
-   "year": 2023,
-   "authors": [
-    "Shyam-Sundar N",
-    "Karthi S",
-    "Senthil-Nathan S",
-    "Narayanan KR",
-    "Santoshkumar B",
-    "Sivanesh H",
-    "Chanthini KM",
-    "Stanley-Raja V",
-    "Ramasubramanian R",
-    "Abdel-Megeed A",
-    "Malafaia G"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/36265619/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kusha",
-     "title": "Kusha",
-     "binomial": "desmostachya bipinnata"
-    }
-   ]
-  },
-  {
    "pmid": "37502820",
    "doi": "10.3389/fpsyt.2023.1217886",
    "title": "Editorial: Traditional Chinese medicine for depression and anxiety",
@@ -56894,30 +56835,6 @@
      "slug": "palankya",
      "title": "Palankya",
      "binomial": "spinacia oleracea"
-    }
-   ]
-  },
-  {
-   "pmid": "37704075",
-   "doi": "10.1016/j.envres.2023.117118",
-   "title": "In vitro biofilm inhibition efficacy of Aerva lanata flower extract against Gram negative and Gram-positive biofilm forming bacteria and toxicity analysis using Artemia salina",
-   "journal": "Environmental research",
-   "year": 2023,
-   "authors": [
-    "Brindhadevi K",
-    "Hoang Le Q",
-    "Salmen SH",
-    "Karuppusamy I",
-    "Pugazhendhi A"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/37704075/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "bhadra",
-     "title": "Bhadra",
-     "binomial": "aerva lanata"
     }
    ]
   },
@@ -70943,32 +70860,6 @@
      "slug": "chavya",
      "title": "Chavya",
      "binomial": "piper retrofractum"
-    }
-   ]
-  },
-  {
-   "pmid": "33304101",
-   "doi": "10.2147/IJN.S269880",
-   "title": "Green Synthesis of Silver Nanoparticles Using Extract of Jasminum officinal L. Leaves and Evaluation of Cytotoxic Activity Towards Bladder (5637) and Breast Cancer (MCF-7) Cell Lines",
-   "journal": "International journal of nanomedicine",
-   "year": 2020,
-   "authors": [
-    "Elhawary S",
-    "El-Hefnawy H",
-    "Mokhtar FA",
-    "Sobeh M",
-    "Mostafa E",
-    "Osman S",
-    "El-Raey M"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/33304101/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "jati",
-     "title": "Jati",
-     "binomial": "jasminum officinale"
     }
    ]
   },
