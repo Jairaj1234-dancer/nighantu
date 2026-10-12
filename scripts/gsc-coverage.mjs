@@ -51,7 +51,18 @@ const GAP_MS = Number(argOf('--gap', 150));
  * about surviving the environment, not about the API.
  */
 const MAX_NEW = Number(argOf('--max', 0)) || Infinity;
-const OUT_DIR = 'data/coverage';
+/**
+ * Where the report is written. `--out` matches scripts/bing-coverage.mjs, and it exists for the
+ * same reason: this directory holds the tracked series and its resume checkpoint, and a one-off
+ * question asked about some other set of URLs must not replace the answer to the whole site.
+ *
+ * NOTE THAT A SCHEDULED RE-READ STILL OVERWRITES gsc-coverage.json, which is correct, because that
+ * file IS the latest reading. What must not be lost is the PREVIOUS reading, since the comparison
+ * is the whole point of taking a second one. There is no shell wrapper here doing what
+ * infra/bing-coverage-weekly.sh does for Bing, so copy the current file to
+ * gsc-baseline-<date>.json before re-running. measurement/gsc-recheck/RUN.md spells that out.
+ */
+const OUT_DIR = argOf('--out', 'data/coverage');
 
 const redact = redactor();
 const sleep = (ms) => new Promise((d) => setTimeout(d, ms));
@@ -176,6 +187,26 @@ const RESUME = process.argv.includes('--resume');
  * the same broken data. The quota is 2,000 a day, so re-asking only the failures is the
  * difference between one more attempt today and none.
  */
+/**
+ * AND ONLY TODAY'S CHECKPOINT IS RESUMABLE. A completed run leaves a checkpoint holding all 1,239
+ * successful rows, which is indistinguishable in shape from a partial one. So --resume on a later
+ * day would adopt every row from the previous run, ask Google nothing, and write a report stamped
+ * with today's date containing last week's index states. The diff would then show no movement, and
+ * a false negative that looks like a clean measurement is worse than a failed run.
+ */
+const STALE_HOURS = 12;
+let ckptAge = Infinity;
+if (fs.existsSync(CKPT)) ckptAge = (Date.now() - fs.statSync(CKPT).mtimeMs) / 3600000;
+if (RESUME && ckptAge > STALE_HOURS) {
+  console.error(`NOT RESUMING. ${CKPT} was last written ${(ckptAge / 24).toFixed(1)} days ago.`);
+  console.error('A checkpoint that old is a finished previous run, not an interrupted one, and');
+  console.error('resuming from it would report its states under today\'s date without asking Google.');
+  console.error(`\nIf a fresh run is what you want, move the old reading aside and drop the checkpoint:`);
+  console.error(`  cp ${path.join(OUT_DIR, 'gsc-coverage.json')} ${path.join(OUT_DIR, 'gsc-baseline-YYYY-MM-DD.json')}`);
+  console.error(`  rm ${CKPT}`);
+  console.error('then re-run without --resume.');
+  process.exit(2);
+}
 const done = RESUME && fs.existsSync(CKPT)
   ? new Map(JSON.parse(fs.readFileSync(CKPT, 'utf8')).filter((r) => !r.error && r.coverageState).map((r) => [r.url, r]))
   : new Map();
@@ -269,6 +300,28 @@ for (const r of disagree.slice(0, 12)) {
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
 const out = path.join(OUT_DIR, 'gsc-coverage.json');
+/**
+ * KEEP THE READING THIS ONE REPLACES. The point of a second coverage read is the comparison, and
+ * the comparison is impossible once the first reading has been overwritten, which is what this
+ * script did by default. Archiving by the previous run's own checkedAt date, not by today's, so the
+ * filename says when the data is from. An existing archive for that date is left alone.
+ */
+if (fs.existsSync(out)) {
+  try {
+    const prev = JSON.parse(fs.readFileSync(out, 'utf8'));
+    const day = String(prev.checkedAt ?? '').slice(0, 10);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(day)) {
+      const keep = path.join(OUT_DIR, `gsc-baseline-${day}.json`);
+      if (!fs.existsSync(keep)) {
+        fs.copyFileSync(out, keep);
+        console.log(`\nPrevious reading (${prev.checkedAt}) kept as ${keep}.`);
+      }
+    }
+  } catch {
+    // An unparseable previous file is not worth failing a completed run over; it is also not
+    // worth preserving, since nothing can be compared against it.
+  }
+}
 fs.writeFileSync(out, `${redact(JSON.stringify({
   checkedAt: new Date().toISOString(),
   site: SITE,
