@@ -1,0 +1,156 @@
+---
+/**
+ * What each manufacturer publishes about THIS preparation, on the page about this preparation.
+ *
+ * WHY HERE AND NOT ONLY ON THE COMPARISON PAGE. /choosing/who-publishes-the-composition/ already
+ * holds this measurement, including a per-preparation table. It is the right page for the method
+ * and the wrong page for the question: a reader arrives asking about one preparation, and Bing's
+ * own per-page figures say the formulation monographs earn four times the impressions of any other
+ * collection while the comparison page earns none. The facts were published where nobody was
+ * standing.
+ *
+ * NO NEW CLAIM IS MADE HERE. Every value is read from src/data/brand-disclosure.json, which is the
+ * same dataset the comparison page renders and which is published whole at /brand-disclosure.json
+ * with the URL of every page read. This component re-presents it beside the formulary entry it is
+ * measured against, which is the comparison a manufacturer cannot publish about itself.
+ *
+ * THE FIVE RULES ARE GUIDES/CHOOSING-EQUIPMENT'S, and they are rules, not preferences:
+ *   1. The conflict of interest is disclosed in the section, not in a footer.
+ *   2. Organised by preparation, never brand against brand. One preparation per page does that.
+ *   3. Every cell is the company's own published state with the date it was read. A company that
+ *      published nothing is stated as publishing nothing, never left blank.
+ *   4. No score, no rank, no winner. The table is ALPHABETICAL by company, which is deliberate:
+ *      sorting by disclosure would be a ranking whatever the heading said.
+ *   5. A standing correction offer, and our own entry in the table on the same terms.
+ *
+ * WHY THE PRODUCT URLS ARE NOT LINKED. The dataset records the exact URL read for every row and
+ * /brand-disclosure.json publishes them, so the evidence is available and a named company can
+ * check its own row. Linking them from 63 pages would put roughly 200 outbound links to other
+ * companies' product pages under scripts/linkcheck.mjs, which would then fail whenever any of
+ * those companies reorganised its catalogue. A gate that breaks on someone else's deploy is a gate
+ * that gets switched off.
+ */
+import disclosure from '../data/brand-disclosure.json';
+import { rel } from '../lib/site';
+
+interface Props { kind: string; slug: string }
+const { kind, slug } = Astro.props;
+
+const doc = disclosure as any;
+const rec = kind === 'formulation'
+  ? (doc.preparations ?? []).find((p: any) => p.slug === slug)
+  : null;
+
+/** The dataset's own floor: fewer than three companies is an anecdote, not a comparison. */
+const MIN = doc.minCompaniesForAPreparationRow ?? 3;
+const names = new Map<string, any>((doc.companies ?? []).map((c: any) => [c.id, c]));
+
+const STATE: Record<string, string> = {
+  quantities: 'Ingredients and the quantity of each',
+  list: 'An ingredient list, without quantities',
+  neither: 'Neither an ingredient list nor quantities',
+};
+
+const rows = rec
+  ? Object.entries(rec.companies as Record<string, any>)
+    .map(([id, v]) => ({
+      id,
+      name: names.get(id)?.name ?? id,
+      ours: Boolean(names.get(id)?.ours),
+      state: v.state,
+      /*
+       * A company can have several pages for one preparation in different states, which is true of
+       * 5 of the 353 rows. Saying "publishes an ingredient list" of a company where one page of
+       * three does would be a claim the data does not support, so the count travels with the cell
+       * wherever the states disagree.
+       */
+      mixed: v.pages !== v.pagesInThatState,
+      pages: v.pages,
+      pagesInThatState: v.pagesInThatState,
+      readOn: v.readOn,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name, 'en'))
+  : [];
+
+const show = Boolean(rec) && rows.length >= MIN;
+const oursHere = rows.find((r) => r.ours);
+const readDates = [...new Set(rows.map((r) => r.readOn).filter(Boolean))].sort();
+const dateSpan = readDates.length > 1
+  ? `${readDates[0]} to ${readDates[readDates.length - 1]}`
+  : readDates[0];
+const fmtDate = (iso: string) => new Date(`${iso}T00:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+---
+{show && (
+  <section class="disclosure" aria-labelledby="disclosure-heading">
+    <h2 id="disclosure-heading">What manufacturers publish about this preparation</h2>
+
+    <p class="disclosure-note">
+      <strong>Disclosure first.</strong> This site is published by Age Ayurveda, which sells
+      Ayurvedic products{oursHere ? <> and sells this preparation, so it is in the table below on the
+      same terms as everyone else</> : <>, though not this preparation</>}. Every cell states what
+      that company's own product page carried when it was read, not our judgement of it. There is no
+      score, no rank and no winner here, and the table is in alphabetical order for that reason.
+    </p>
+
+    <p class="disclosure-note">
+      The formulary entry above fixes the ingredients and the quantity of each. Whether you can
+      check a particular product against it depends on what its manufacturer publishes. Of the
+      {' '}{rows.length} companies surveyed that sell a product under this name, this is what their
+      pages carried when they were read{dateSpan ? <> on {fmtDate(readDates[0])}</> : ''}.
+    </p>
+
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Company</th>
+            <th scope="col">What its product page publishes</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((r) => (
+            <tr>
+              <td>
+                {r.name}
+                {r.ours && <> <span class="disclosure-note">(this site's publisher)</span></>}
+              </td>
+              <td>
+                {STATE[r.state] ?? r.state}
+                {r.mixed && (
+                  <> <span class="disclosure-note">
+                    (on {r.pagesInThatState} of its {r.pages} pages for this preparation; the others differ)
+                  </span></>
+                )}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    {/*
+      * The sentence that keeps the table honest, and it is not a disclaimer bolted on.
+      *
+      * Publishing no composition on a website is a disclosure practice. It is not evidence about
+      * what is in the bottle, and the printed label is a different and regulated surface. A reader
+      * who takes "publishes neither" to mean "does not follow the formulary" has been misled by
+      * this page, so the page says so before they can.
+      */}
+    <p class="disclosure-note">
+      This measures what each company publishes, not the quality of anything it makes. A company
+      that publishes nothing here may make an excellent preparation, and the label in the box is a
+      separate, regulated surface that is not what was read. What disclosure changes is whether a
+      reader, a pharmacist or an answer engine can check a product against the formulary entry it
+      claims.
+    </p>
+
+    <p class="disclosure-note">
+      Method, the full counts across every company surveyed, and what this measurement got wrong
+      the first time: <a href={rel('/choosing/who-publishes-the-composition/')}>which manufacturers
+      publish what is in the bottle</a>. The URL of every page read is recorded in
+      {' '}<a href={rel('/brand-disclosure.json')}>brand-disclosure.json</a>. If a row here is
+      wrong, including where the correction favours a company other than ours, tell us and we will
+      fix it and say that we did.
+    </p>
+  </section>
+)}
