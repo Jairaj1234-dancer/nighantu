@@ -95,7 +95,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity, 1,8-cineole content from Ela by GC, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — external use only
+**Vehicle (Anupana):** Not applicable, external use only
 
 ### Synergistic Combinations
 

@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 **Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; indefinite for properly fermented Arishta
 
-**Storage:** Store below 25 deg C in airtight, light-protected containers. Flavonoids are photosensitive — use amber packaging. Arishta in glass bottles.
+**Storage:** Store below 25 deg C in airtight, light-protected containers. Flavonoids are photosensitive, use amber packaging. Arishta in glass bottles.
 
 **Marker Compounds:** Baicalein, Oroxylin A, Chrysin, Biochanin A, Tetuin, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
@@ -116,4 +116,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 - [Bilva](/herb/bilva/) (Vatahara and anti-diarrheal synergy)
 - [Gambhari](/herb/gambhari/) (Brihat Panchamula formulation)
 - [Patala](/herb/patala/) (complementary Dashmool herb)
-- [Agnimantha](/herb/agnimantha/) (Brihat Panchamula — anti-inflammatory)
+- [Agnimantha](/herb/agnimantha/) (Brihat Panchamula, anti-inflammatory)

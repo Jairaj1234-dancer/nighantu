@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tala-Phala-Rasa (palm fruit juice), Jaggery (Tala-[Guda](/glossary/concepts-a-m/#guda)), Toddy (fermented sap — Tadi), Capsule, Oil (kernel oil)
+**Dosage Forms:** Churna (powder), Tala-Phala-Rasa (palm fruit juice), Jaggery (Tala-[Guda](/glossary/concepts-a-m/#guda)), Toddy (fermented sap, Tadi), Capsule, Oil (kernel oil)
 
 **Standard Dosage:** 5-10 g fruit pulp powder per day; 50-100 mL fresh juice twice daily; 500-1000 mg extract capsule twice daily; Tala-Guda (palm jaggery) 10-20 g as sweetener
 

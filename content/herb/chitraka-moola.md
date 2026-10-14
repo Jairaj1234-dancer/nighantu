@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 **Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), As component of [Chitrakaharitaki](/herb/chitrakaharitaki/) and Chitrakadi formulations
 
-**Standard Dosage:** 1-2g root powder twice daily; 250-500mg extract capsule; 30-50ml mild decoction. Same cautions as [Chitrak](/herb/chitrak/)—root is the most potent part.
+**Standard Dosage:** 1-2g root powder twice daily; 250-500mg extract capsule; 30-50ml mild decoction. Same cautions as [Chitrak](/herb/chitrak/), root is the most potent part.
 
 **Bioavailability:** Root (Moola) of Plumbago zeylanica contains the highest concentration of [plumbagin](/glossary/compounds-o-q/#plumbagin) (1.5-3.5%). Bioavailability profile identical to [Chitrak](/herb/chitrak/) but with higher active concentration per unit weight. Lipophilic plumbagin is rapidly absorbed; half-life approximately 4-6 hours. Root cortex (outer bark) has the highest plumbagin concentration; stele (inner wood) has lower levels. Precise extraction and dose standardization are even more critical for root-specific preparations.
 

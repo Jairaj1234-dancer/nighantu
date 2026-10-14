@@ -48,14 +48,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 **Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5 years (Ghana Vati in sealed packaging)
 
-**Storage:** Airtight containers, cool dry place, below 25°C. Protect from moisture — tannins are hygroscopic. Whole bark pieces store longer than powder.
+**Storage:** Airtight containers, cool dry place, below 25°C. Protect from moisture, tannins are hygroscopic. Whole bark pieces store longer than powder.
 
 **Marker Compounds:** Arjunolic acid, Arjunic acid, [Arjunetin](/glossary/compounds-1-a/#arjunetin), Casuarinin, Gallic acid, Ellagic acid, Arjunaphthanol, [Friedelin](/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
 - Aqueous decoction (classical Kashaya)
-- Kshirapaka (milk decoction — preferred classical method)
+- Kshirapaka (milk decoction, preferred classical method)
 - Hydroalcoholic extraction (70:30 ethanol-water)
 - Spray-dried aqueous extract for Ghana Vati
 

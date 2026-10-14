@@ -159,7 +159,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 **Standard Dosage:** 30-50 mL fresh fruit juice daily; 3-6 g dried fruit powder twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** Identical pharmacological profile to [Karela](/herb/karela/) (Momordica charantia) — both names refer to the same plant. [Charantin](/glossary/compounds-c-d/#charantin) and polypeptide-p bioavailability details as per [Karela](/herb/karela/) entry. Cucurbitane-type [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show improved absorption with lipid co-administration.
+**Bioavailability:** Identical pharmacological profile to [Karela](/herb/karela/) (Momordica charantia), both names refer to the same plant. [Charantin](/glossary/compounds-c-d/#charantin) and polypeptide-p bioavailability details as per [Karela](/herb/karela/) entry. Cucurbitane-type [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show improved absorption with lipid co-administration.
 
 **Optimal Timing:** Early morning on empty stomach for glycemic benefits; before meals for appetite regulation
 

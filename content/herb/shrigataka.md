@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 **Shelf Life:** 12 months for fresh fruit powder; 24 months for dried kernel powder; 30 months for capsules
 
-**Storage:** Store below 25 deg C in airtight containers. Powder is hygroscopic — maintain RH <50%. Protect from insect infestation (high starch attracts pests); use nitrogen-flushed packaging.
+**Storage:** Store below 25 deg C in airtight containers. Powder is hygroscopic. Maintain RH <50%. Protect from insect infestation (high starch attracts pests); use nitrogen-flushed packaging.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Starch (amylose:amylopectin ratio), Manganese (mineral marker)
 

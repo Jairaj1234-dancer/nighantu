@@ -80,13 +80,13 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
-**Storage:** Store in tightly sealed amber glass bottles. Camphor is volatile — airtight sealing essential. Temperature not exceeding 25°C. Protect from heat and light.
+**Storage:** Store in tightly sealed amber glass bottles. Camphor is volatile, airtight sealing essential. Temperature not exceeding 25°C. Protect from heat and light.
 
 **Marker Compounds:** Camphor, Alpha-santalol, Beta-santalol, [Vetiverol](/glossary/compounds-t-z/#vetiverol) (from Usheera), Lauric acid (from [coconut oil](/glossary/concepts-a-m/#coconut-oil))
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, camphor content by GC, alpha-santalol content, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — external use only. Gentle massage on affected area.
+**Vehicle (Anupana):** Not applicable, external use only. Gentle massage on affected area.
 
 ### Synergistic Combinations
 

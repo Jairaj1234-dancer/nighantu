@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin_Herb/meta-analysis.md"
 
 **Standard Dosage:** 5-10ml fresh juice; 2-4g dried herb powder twice daily; 30-50ml decoction. [Cumin](/herb/cumin/) herb (aerial parts) is less commonly used than seeds but has traditional applications.
 
-**Bioavailability:** Aerial parts of Cuminum cyminum contain lower essential oil content than seeds but higher [chlorophyll](/glossary/compounds-c-d/#chlorophyll) and flavonoid content. Volatile compounds present in leaves differ from seed profile—more monoterpene hydrocarbons, fewer aldehydes. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability (20-30%). Fresh juice provides best volatile bioavailability. Limited modern pharmacokinetic data on aerial parts specifically.
+**Bioavailability:** Aerial parts of Cuminum cyminum contain lower essential oil content than seeds but higher [chlorophyll](/glossary/compounds-c-d/#chlorophyll) and flavonoid content. Volatile compounds present in leaves differ from seed profile, more monoterpene hydrocarbons, fewer aldehydes. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability (20-30%). Fresh juice provides best volatile bioavailability. Limited modern pharmacokinetic data on aerial parts specifically.
 
 **Optimal Timing:** With meals for digestive support; fresh juice before meals; decoction between meals
 

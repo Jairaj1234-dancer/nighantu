@@ -77,7 +77,7 @@ export const GET: APIRoute = ({ props }) => {
       'Each citation gives its address so a reader can check it in a printed edition, our account',
       'of what it establishes, and the result of reading it against its source.', '');
     for (const c of r.classical) {
-      out.push(`### ${c.text}${address(c) ? ` ${address(c)}` : ''}${c.checked ? ` — ${c.checked}` : ''}`, '');
+      out.push(`### ${c.text}${address(c) ? ` ${address(c)}` : ''}${c.checked ? `, ${c.checked}` : ''}`, '');
       if (c.sanskrit) out.push(`> ${String(c.sanskrit).replace(/\n/g, '\n> ')}`, '', 'Sanskrit mūla', '');
       if (c.translation) {
         out.push(`> ${String(c.translation).replace(/\n/g, '\n> ')}`, '',

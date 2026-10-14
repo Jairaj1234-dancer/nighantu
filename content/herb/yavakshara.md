@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 **Optimal Timing:** Before meals for Deepana; after meals for Pachana
 
-**Standardized Extract:** Barley ([Yava](/herb/yava/)) ash alkaline extract — premier Kshara in Ayurveda
+**Standardized Extract:** Barley ([Yava](/herb/yava/)) ash alkaline extract, premier Kshara in Ayurveda
 
 **Shelf Life:** 12–18 months
 

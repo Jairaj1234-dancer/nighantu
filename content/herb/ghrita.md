@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 **Optimal Timing:** Before meals for Snehana; with meals for nutritive purposes
 
-**Standardized Extract:** N/A — used as base/vehicle for medicated ghees
+**Standardized Extract:** N/A, used as base/vehicle for medicated ghees
 
 **Shelf Life:** 12–24 months if properly prepared (moisture <0.5%)
 

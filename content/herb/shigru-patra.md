@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Shigru-Patra/meta-analysis.m
 
 **Standard Dosage:** 3-6 g leaf powder per day; 500-1000 mg standardized extract capsule twice daily; 10-20 mL swarasa daily; 1-2 cups infusion daily
 
-**Bioavailability:** Isothiocyanate compounds (derived from [glucosinolates](/glossary/compounds-d-g/#glucosinolates) by [myrosinase](/glossary/compounds-l-o/#myrosinase) activation) show good oral bioavailability (50-70%) when consumed from fresh/minimally processed leaves. Heat processing above 70 deg C inactivates myrosinase and reduces isothiocyanate formation — use raw or mildly heated preparations. [Quercetin](/reference/quercetinquercetin/) and [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides) show moderate bioavailability (20-35%). Iron and calcium from leaves have moderate bioavailability (10-20%), enhanced by vitamin C content.
+**Bioavailability:** Isothiocyanate compounds (derived from [glucosinolates](/glossary/compounds-d-g/#glucosinolates) by [myrosinase](/glossary/compounds-l-o/#myrosinase) activation) show good oral bioavailability (50-70%) when consumed from fresh/minimally processed leaves. Heat processing above 70 deg C inactivates myrosinase and reduces isothiocyanate formation, use raw or mildly heated preparations. [Quercetin](/reference/quercetinquercetin/) and [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides) show moderate bioavailability (20-35%). Iron and calcium from leaves have moderate bioavailability (10-20%), enhanced by vitamin C content.
 
 **Optimal Timing:** Morning with breakfast for nutritional supplementation; before meals for blood sugar management
 

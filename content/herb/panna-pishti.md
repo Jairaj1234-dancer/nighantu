@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 **Optimal Timing:** With honey or cream
 
-**Standardized Extract:** Emerald pishti — precious gemstone preparation
+**Standardized Extract:** Emerald pishti, precious gemstone preparation
 
 **Shelf Life:** Indefinite
 

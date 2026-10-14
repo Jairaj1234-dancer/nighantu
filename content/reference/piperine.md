@@ -29,15 +29,15 @@ srcRel: "_Hub/Compounds/Piperine.md"
 - [Avipattikar](/herb/avipattikar/)
 - [Avipattikar Churna](/formulation/avipattikar-churna/)
 - [Avipattikar Herbs](/herb/avipattikar-herbs/)
-- [Black Pepper](/herb/black-pepper/) — *Piper nigrum*
+- [Black Pepper](/herb/black-pepper/), *Piper nigrum*
 - [Brahma Rasayana](/formulation/brahma-rasayana/)
 - [Brahmi Vati](/formulation/brahmi-vati/)
-- [Chandraprabha](/herb/chandraprabha/) — *Compound formulation (37 herbs)*
+- [Chandraprabha](/herb/chandraprabha/), *Compound formulation (37 herbs)*
 - [Chandraprabha Vati](/formulation/chandraprabha-vati/)
 - [Chavika](/herb/chavika/)
-- [Chavya](/herb/chavya/) — *Piper retrofractum Vahl (syn. Piper chaba Hunter)*
+- [Chavya](/herb/chavya/), *Piper retrofractum Vahl (syn. Piper chaba Hunter)*
 - [Chitrakadi Vati](/formulation/chitrakadi-vati/)
-- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/), *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Chyawanprash](/formulation/chyawanprash/)
 - [Chyawanprash Extract](/glossary/concepts-a-m/#chyawanprash-extract)
 - [Chyawanprash Herbs](/glossary/concepts-a-m/#chyawanprash-herbs)
@@ -54,19 +54,19 @@ srcRel: "_Hub/Compounds/Piperine.md"
 - [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
 - [Kalyanaka Ghritam](/formulation/kalyanaka-ghritam/)
 - [Kanchanara Guggulu](/formulation/kanchanara-guggulu/)
-- [Kankola](/herb/kankola/) — *Piper cubeba L.f.*
+- [Kankola](/herb/kankola/), *Piper cubeba L.f.*
 - [Kumaryasava](/formulation/kumaryasava/)
 - [Lavan Bhaskar Churna](/glossary/concepts-a-m/#lavan-bhaskar-churna)
-- [Mahamanjishthadi](/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
+- [Mahamanjishthadi](/herb/mahamanjishthadi/), *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
 - [Mahamarichyadi Taila](/glossary/concepts-a-m/#mahamarichyadi-taila)
-- [Mahanarayan](/herb/mahanarayan/) — *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
+- [Mahanarayan](/herb/mahanarayan/), *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
 - [Mahayograj Guggul](/formulation/mahayograj-guggul/)
 - [Marichyadi Vati](/glossary/concepts-a-m/#marichyadi-vati)
 - [Navayasa Loha](/herb/navayasa-loha/)
 - [Panchakola Churna](/formulation/panchakola-churna/)
-- [Pippali](/herb/pippali/) — *Piper longum*
+- [Pippali](/herb/pippali/), *Piper longum*
 - [Pippali Khanda](/formulation/pippali-khanda/)
-- [Pippali Moola](/herb/pippali-moola/) — *Piper longum L. (root)*
+- [Pippali Moola](/herb/pippali-moola/), *Piper longum L. (root)*
 - [Pippalyasava](/formulation/pippalyasava/)
 - [Sanjivani Vati](/formulation/sanjivani-vati/)
 - [Shankha Vati](/glossary/concepts-m-y/#shankha-vati)
@@ -77,10 +77,10 @@ srcRel: "_Hub/Compounds/Piperine.md"
 - [Svetamarica](/herb/svetamarica/)
 - [Talisadi Churna](/formulation/talisadi-churna/)
 - [Tribhuvan Kirti Rasa](/herb/tribhuvan-kirti-rasa/)
-- [Trikatu](/herb/trikatu/) — *Compound: Piper longum + P. nigrum + [Zingiber](/herb/zingiber/) officinale*
+- [Trikatu](/herb/trikatu/), *Compound: Piper longum + P. nigrum + [Zingiber](/herb/zingiber/) officinale*
 - [Trikatu Churna](/formulation/trikatu-churna/)
 - [Triphala Guggulu](/formulation/triphala-guggulu/)
-- [Vyaghri Haritaki](/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Vyaghri Haritaki](/herb/vyaghri-haritaki/), *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Vyoshadi Guggulu](/formulation/vyoshadi-guggulu/)
 - [Vyoshadi Vati](/glossary/concepts-m-y/#vyoshadi-vati)
 - [Yogaraja Guggulu](/formulation/yogaraja-guggulu/)

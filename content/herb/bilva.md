@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 **Standard Dosage:** 3-6g fruit pulp powder twice daily; 500mg extract capsule; 50-100ml decoction; Bilva Avaleha 10-20g; unripe fruit preferred for diarrhea
 
-**Bioavailability:** Marmelosin shows moderate oral bioavailability (30-40%). Coumarins are generally well absorbed from the GI tract. Mucilage from ripe fruit may slow absorption but provide sustained release. [Skimmianine](/glossary/compounds-q-t/#skimmianine) has good lipid solubility and crosses BBB. Psoralen-type furanocoumarins are photosensitizing—relevant for topical formulations. Decoction provides optimal extraction of antidiarrheal mucilaginous compounds.
+**Bioavailability:** Marmelosin shows moderate oral bioavailability (30-40%). Coumarins are generally well absorbed from the GI tract. Mucilage from ripe fruit may slow absorption but provide sustained release. [Skimmianine](/glossary/compounds-q-t/#skimmianine) has good lipid solubility and crosses BBB. Psoralen-type furanocoumarins are photosensitizing, relevant for topical formulations. Decoction provides optimal extraction of antidiarrheal mucilaginous compounds.
 
 **Optimal Timing:** Before meals with buttermilk for diarrhea; after meals for digestive support; Avaleha anytime as a tonic
 

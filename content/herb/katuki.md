@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 
 ### Extraction Methods
 
-- Hydroalcoholic extraction (60-70% ethanol) — standard for commercial extracts
+- Hydroalcoholic extraction (60-70% ethanol), standard for commercial extracts
 - Water decoction (traditional)
 - Supercritical CO2 for iridoid glycoside enrichment
 - Column chromatography for picroside I and II isolation

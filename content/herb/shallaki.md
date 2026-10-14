@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 **Shelf Life:** 36 months for standardized extract capsules; 24 months for topical gel; 24 months for crude resin powder
 
-**Storage:** Store below 25 deg C, protected from light and heat. Resin tends to soften above 30 deg C — critical for tropical storage. Capsules in HDPE bottles with desiccant or aluminum blisters. Topical products in aluminum tubes or airless pump dispensers.
+**Storage:** Store below 25 deg C, protected from light and heat. Resin tends to soften above 30 deg C, critical for tropical storage. Capsules in HDPE bottles with desiccant or aluminum blisters. Topical products in aluminum tubes or airless pump dispensers.
 
 **Marker Compounds:** 11-Keto-beta-boswellic acid (KBA), Acetyl-11-keto-beta-boswellic acid (AKBA), Alpha-boswellic acid, Beta-boswellic acid, Acetyl-alpha-boswellic acid, Acetyl-beta-boswellic acid, Incensole acetate
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (potent anti-inflammatory synergy — clinically validated for osteoarthritis)
+- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (potent anti-inflammatory synergy, clinically validated for osteoarthritis)
 - [Guggulu](/formulation/guggulu/) (joint health formulations)
 - [Ashwagandha](/herb/ashwagandha/) (musculoskeletal support)
 - [Nirgundi](/herb/nirgundi/) (pain management formulations)

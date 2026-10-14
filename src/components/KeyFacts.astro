@@ -137,7 +137,7 @@ const ids = trustworthy ? [
               </>
             )}
             {k === 'Currently accepted name' && (
-              <span class="taxnote"> — the name above is treated as a synonym by GBIF; both are in use</span>
+              <span class="taxnote">, the name above is treated as a synonym by GBIF; both are in use</span>
             )}
             {k === 'Family' && familyLinked && (
               <> · <a href={rel(`/family/${taxon.family.toLowerCase()}/`)}>other entries in this family</a></>

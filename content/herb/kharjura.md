@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 **Standard Dosage:** 2-4 fruits daily (10-20 g); 10-20 g Avaleha; 20-30 mL date syrup; 3-5 g powder with milk
 
-**Bioavailability:** Natural sugars ([glucose](/glossary/compounds-d-g/#glucose), [fructose](/glossary/compounds-d-g/#fructose), [sucrose](/glossary/compounds-q-t/#sucrose) — 60-80% dry weight) are rapidly absorbed. Phenolic acids and flavonoids show moderate bioavailability. Iron and potassium are well-absorbed, especially when consumed with vitamin C-rich foods. Fiber content (6-8%) moderates glycemic response despite high sugar content (GI ~42-55 depending on variety). Tannin-mineral interaction may reduce mineral bioavailability; soaking/processing reduces tannins.
+**Bioavailability:** Natural sugars ([glucose](/glossary/compounds-d-g/#glucose), [fructose](/glossary/compounds-d-g/#fructose), [sucrose](/glossary/compounds-q-t/#sucrose), 60-80% dry weight) are rapidly absorbed. Phenolic acids and flavonoids show moderate bioavailability. Iron and potassium are well-absorbed, especially when consumed with vitamin C-rich foods. Fiber content (6-8%) moderates glycemic response despite high sugar content (GI ~42-55 depending on variety). Tannin-mineral interaction may reduce mineral bioavailability; soaking/processing reduces tannins.
 
 **Optimal Timing:** Morning with milk for nutritive and energy purposes; before or between meals as healthy snack; Avaleha after meals for digestive benefit
 

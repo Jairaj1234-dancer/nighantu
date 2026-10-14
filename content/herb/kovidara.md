@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ### Extraction Methods
 
-- Water decoction (traditional — reduced to 1/4th volume)
+- Water decoction (traditional, reduced to 1/4th volume)
 - Hydroalcoholic extraction (50-60% ethanol)
 - Methanol extraction for flavonoid-rich fraction
 - Sequential extraction for fractionation

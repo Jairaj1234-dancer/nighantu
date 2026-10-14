@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 **Optimal Timing:** With honey, ghee, or [Brahmi](/herb/brahmi/) Swarasa
 
-**Standardized Extract:** Calcined silver bhasma — premium Rasaushadhi
+**Standardized Extract:** Calcined silver bhasma, premium Rasaushadhi
 
 **Shelf Life:** Indefinite
 

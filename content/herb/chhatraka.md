@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g dried mushroom powder; 500mg-1g extract capsule; 300-500mg concentrated extract; as culinary mushroom: 50-100g fresh
 
-**Bioavailability:** Mushroom beta-glucans have limited direct absorption but exert immunomodulatory effects via gut-associated lymphoid tissue (GALT) interaction with Dectin-1 receptors. Ergosterol (provitamin D2) converts to vitamin D2 upon UV exposure—bioavailability enhanced with fat. Hot water extraction releases beta-glucans from chitin matrix (raw mushroom has low bioavailability). Cooking or decoction is essential for bioavailability.
+**Bioavailability:** Mushroom beta-glucans have limited direct absorption but exert immunomodulatory effects via gut-associated lymphoid tissue (GALT) interaction with Dectin-1 receptors. Ergosterol (provitamin D2) converts to vitamin D2 upon UV exposure, bioavailability enhanced with fat. Hot water extraction releases beta-glucans from chitin matrix (raw mushroom has low bioavailability). Cooking or decoction is essential for bioavailability.
 
 **Optimal Timing:** With meals; decoction/soup anytime; capsules before meals for immune support
 

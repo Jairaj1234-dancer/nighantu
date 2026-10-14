@@ -86,4 +86,4 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 **Quality Parameters:** Thin flake formation, uniform thickness, standard Parpati tests, free mercury <1 ppm
 
-**Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)) — classical combination
+**Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)), classical combination

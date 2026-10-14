@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 **Dosage Forms:** Vati
 
-**Standard Dosage:** 125–250 mg (potent purgative — single dose or as directed)
+**Standard Dosage:** 125–250 mg (potent purgative, single dose or as directed)
 
 **Bioavailability:** Rapid onset purgative action within 4–6 hours
 

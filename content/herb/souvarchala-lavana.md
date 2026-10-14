@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 **Optimal Timing:** Before meals as Deepana-Pachana; with Hingvastak Churna
 
-**Standardized Extract:** Black salt (Kala Namak) — sulfur-containing rock salt
+**Standardized Extract:** Black salt (Kala Namak), sulfur-containing rock salt
 
 **Shelf Life:** Indefinite
 

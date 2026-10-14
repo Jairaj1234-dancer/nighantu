@@ -48,13 +48,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa-Moola/meta-analy
 
 **Shelf Life:** 24 months for powder; 18 months for capsules; decoction consumed within 24 hours
 
-**Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Root material is prone to fungal contamination — monitor aflatoxin levels.
+**Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Root material is prone to fungal contamination. Monitor aflatoxin levels.
 
-**Marker Compounds:** Gossypetin, [Herbacetin](/glossary/compounds-g-l/#herbacetin), Betaine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gossypol (trace — must be quantified), [Friedelin](/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Gossypetin, [Herbacetin](/glossary/compounds-g-l/#herbacetin), Betaine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gossypol (trace, must be quantified), [Friedelin](/glossary/compounds-d-g/#friedelin)
 
 ### Extraction Methods
 
-- Water decoction (traditional — reduced to 1/4th)
+- Water decoction (traditional, reduced to 1/4th)
 - Hydroalcoholic extraction (50% ethanol)
 - Cold maceration for thermolabile constituents
 - Reflux extraction with aqueous ethanol

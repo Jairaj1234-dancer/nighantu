@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Asana](/herb/asana/) ([Vijaysar](/herb/vijaysar/) — anti-diabetic synergy)
+- [Asana](/herb/asana/) ([Vijaysar](/herb/vijaysar/), anti-diabetic synergy)
 - [Haridra](/herb/haridra/) (anti-inflammatory combinations)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) and anti-diabetic formulations)
 - Meshashringi (blood sugar management combinations)

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 
 **Standard Dosage:** 5-10 mL fresh fruit juice; 2-4 g powder twice daily; 30-50 mL decoction; Nasya: 2-4 drops per nostril; 500 mg capsule
 
-**Bioavailability:** Ribosome-inactivating [proteins](/glossary/compounds-o-q/#proteins) (luffin) are acid-labile with poor oral bioavailability — primarily active topically and via nasal route. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery for pratishyaya (rhinitis) management.
+**Bioavailability:** Ribosome-inactivating [proteins](/glossary/compounds-o-q/#proteins) (luffin) are acid-labile with poor oral bioavailability, primarily active topically and via nasal route. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery for pratishyaya (rhinitis) management.
 
 **Optimal Timing:** Nasya: early morning on empty stomach for sinus conditions; internal preparations: after meals; juice: morning for respiratory benefit
 

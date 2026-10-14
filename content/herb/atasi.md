@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 **Standard Dosage:** 5-10g ground seed daily (in divided doses); 5-15ml oil daily; 1-2 softgel capsules (1000mg each); seed meal 10-20g
 
-**Bioavailability:** ALA (alpha-linolenic acid) from flaxseed oil has good absorption (~96%) but limited conversion to EPA (5-10%) and DHA (<1%). SDG (secoisolariciresinol diglucoside) is converted by gut bacteria to enterolactone and enterodiol (mammalian [lignans](/glossary/compounds-g-l/#lignans)) — bioavailability depends on microbiome composition. Ground seed releases ALA and lignans much better than whole seeds (which may pass undigested). Mucilage (soluble fiber) slows gastric emptying and provides prebiotic effects.
+**Bioavailability:** ALA (alpha-linolenic acid) from flaxseed oil has good absorption (~96%) but limited conversion to EPA (5-10%) and DHA (<1%). SDG (secoisolariciresinol diglucoside) is converted by gut bacteria to enterolactone and enterodiol (mammalian [lignans](/glossary/compounds-g-l/#lignans)), bioavailability depends on microbiome composition. Ground seed releases ALA and lignans much better than whole seeds (which may pass undigested). Mucilage (soluble fiber) slows gastric emptying and provides prebiotic effects.
 
 **Optimal Timing:** Ground seed with meals (morning) for constipation and lipid management. Oil with food for omega-3 supplementation. Mucilage soaked overnight, consumed morning for prebiotic/laxative effect.
 

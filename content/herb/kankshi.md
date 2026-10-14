@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 **Shelf Life:** 36 months for Kshara preparations; 24 months for powder; indefinite for properly prepared Bhasma
 
-**Storage:** Store in airtight, moisture-proof glass or HDPE containers. Kshara is highly hygroscopic — desiccant packets required. Keep at 15-30°C away from moisture.
+**Storage:** Store in airtight, moisture-proof glass or HDPE containers. Kshara is highly hygroscopic, desiccant packets required. Keep at 15-30°C away from moisture.
 
 **Marker Compounds:** Potassium carbonate, Potassium hydroxide, Calcium carbonate, Sodium carbonate, Trace minerals (iron, zinc, [manganese](/glossary/compounds-l-o/#manganese))
 

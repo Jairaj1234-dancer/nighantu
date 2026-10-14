@@ -69,7 +69,7 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water.
 
-**Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract — does not need systemic absorption for action. Combined oral and luminal activity provides comprehensive anthelmintic effect.
+**Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract, does not need systemic absorption for action. Combined oral and luminal activity provides comprehensive anthelmintic effect.
 
 **Optimal Timing:** On empty stomach, morning (Abhukta kala), for 3-7 days course. Follow with mild purgative ([Eranda](/herb/eranda/) Taila or [Triphala](/herb/triphala/)) to expel worms.
 

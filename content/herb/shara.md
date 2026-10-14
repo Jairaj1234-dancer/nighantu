@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Shara/meta-analysis.md"
 
 **Shelf Life:** Indefinite for Kshara in sealed containers; 24 months for churna; 30 months for capsules
 
-**Storage:** Kshara is hygroscopic — store in airtight glass or HDPE containers with desiccant. Churna below 25 deg C, protect from moisture.
+**Storage:** Kshara is hygroscopic. Store in airtight glass or HDPE containers with desiccant. Churna below 25 deg C, protect from moisture.
 
 **Marker Compounds:** Potassium carbonate (in Kshara), Silica, p-Coumaric acid, Ferulic acid, [Tricin](/glossary/compounds-t-z/#tricin)
 

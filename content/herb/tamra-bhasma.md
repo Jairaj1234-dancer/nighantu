@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 30–60 mg (strict dosing — copper preparation)
+**Standard Dosage:** 30–60 mg (strict dosing, copper preparation)
 
 **Bioavailability:** Good; copper oxide nanoparticles with controlled release
 

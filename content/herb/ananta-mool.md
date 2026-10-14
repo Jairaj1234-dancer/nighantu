@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 **Shelf Life:** 2 years (root powder); 3 years (capsules/tablets); 2 years (syrup with preservative); 5 years (Arishta)
 
-**Storage:** Cool, dry place below 25°C. Root retains aroma better when stored whole — powder closer to use. Airtight containers essential to prevent volatile loss.
+**Storage:** Cool, dry place below 25°C. Root retains aroma better when stored whole, powder closer to use. Airtight containers essential to prevent volatile loss.
 
 **Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesminine, Hemidesmin-1, Hemidesmin-2, Coumarins, [Lupeol](/reference/lupeol/), Alpha-amyrin, Hexadecanoic acid
 

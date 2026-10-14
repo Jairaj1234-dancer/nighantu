@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 **Optimal Timing:** With meals or before meals for Deepana effect
 
-**Standardized Extract:** Artificially prepared salt — Saindhava processed with specific herbs
+**Standardized Extract:** Artificially prepared salt, Saindhava processed with specific herbs
 
 **Shelf Life:** 12–18 months
 

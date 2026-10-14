@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 **Optimal Timing:** With lunch; avoid at night per Ayurvedic texts
 
-**Standardized Extract:** N/A — fermented whole food
+**Standardized Extract:** N/A, fermented whole food
 
 **Shelf Life:** 24–48 hours at 4°C
 

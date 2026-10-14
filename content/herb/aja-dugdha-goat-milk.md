@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 **Optimal Timing:** Morning or before bed; warm
 
-**Standardized Extract:** N/A — used as whole food/vehicle
+**Standardized Extract:** N/A, used as whole food/vehicle
 
 **Shelf Life:** Fresh: 24–48 hours refrigerated
 

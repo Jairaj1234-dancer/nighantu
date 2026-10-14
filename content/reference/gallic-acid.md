@@ -25,11 +25,11 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 
 - [Abhayarishta](/formulation/abhayarishta/)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
 - [Amalaka Rasayana](/formulation/amalaka-rasayana/)
 - [Amalaki Rasayana](/formulation/amalaki-rasayana/)
-- [Amla](/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Amla](/herb/amla/), *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amra](/herb/amra/), *Mangifera indica L.*
 - [Amra Beeja](/herb/amra-beeja/)
 - [Aragvadhadi Kwath](/formulation/aragvadhadi-kwath/)
 - [Arishtaka](/formulation/arishtaka/)
@@ -42,23 +42,23 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 - [Avipattikar](/herb/avipattikar/)
 - [Avipattikar Churna](/formulation/avipattikar-churna/)
 - [Avipattikar Herbs](/herb/avipattikar-herbs/)
-- [Babbula](/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
-- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Babbula](/herb/babbula/), *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bakula](/herb/bakula/), *Mimusops elengi L.*
+- [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.*
 - [Bhumi Jambuka](/herb/bhumi-jambuka/)
 - [Bhumyamalaki](/herb/bhumyamalaki/)
 - [Bitter Gourd Herb](/herb/bitter-gourd-herb/)
 - [Brahma Rasayana](/formulation/brahma-rasayana/)
-- [Chakragaja](/herb/chakragaja/) — *Cassia tora L. ([Senna](/herb/senna/) tora) / Uncertain identification*
+- [Chakragaja](/herb/chakragaja/), *Cassia tora L. ([Senna](/herb/senna/) tora) / Uncertain identification*
 - [Chakshushya](/herb/chakshushya/)
 - [Chandraprabha Vati](/formulation/chandraprabha-vati/)
-- [Changeri](/herb/changeri/) — *Oxalis corniculata L.*
+- [Changeri](/herb/changeri/), *Oxalis corniculata L.*
 - [Chirabilva](/herb/chirabilva/)
-- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/), *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Chyawanprash](/formulation/chyawanprash/)
 - [Chyawanprash Extract](/glossary/concepts-a-m/#chyawanprash-extract)
 - [Dadima](/herb/dadima/)
-- [Dadima Twak](/herb/dadima-twak/) — *Punica granatum L. (fruit rind/pericarp)*
+- [Dadima Twak](/herb/dadima-twak/), *Punica granatum L. (fruit rind/pericarp)*
 - [Dadimadi Ghrita](/formulation/dadimadi-ghrita/)
 - [Dhataki](/herb/dhataki/)
 - [Dhava](/herb/dhava/)
@@ -68,7 +68,7 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 - [Draksharishta](/formulation/draksharishta/)
 - [Dugdhika](/herb/dugdhika/)
 - [Eranda Moola](/herb/eranda-moola/)
-- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Eranda Patra](/herb/eranda-patra/), *Ricinus communis L. (leaves)*
 - [Eucalyptus Herb](/herb/eucalyptus-herb/)
 - [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/)
 - [Guggulutiktakam Ghritam](/formulation/guggulutiktakam-ghritam/)
@@ -79,46 +79,46 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 - [Jamun](/herb/jamun/)
 - [Jamun Herb](/glossary/concepts-a-m/#jamun-herb)
 - [Kachnar](/herb/kachnar/)
-- [Kadali](/herb/kadali/) — *Musa paradisiaca L.*
-- [Kadali Pushpa](/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
+- [Kadali](/herb/kadali/), *Musa paradisiaca L.*
+- [Kadali Pushpa](/herb/kadali-pushpa/), *Musa paradisiaca L. (inflorescence/flower)*
 - [Kaishore Guggul](/formulation/kaishore-guggul/)
 - [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
 - [Kalyanaka Ghritam](/formulation/kalyanaka-ghritam/)
-- [Kanchanar](/herb/kanchanar/) — *Bauhinia variegata L.*
+- [Kanchanar](/herb/kanchanar/), *Bauhinia variegata L.*
 - [Kanchanara Guggulu](/formulation/kanchanara-guggulu/)
 - [Kankataka](/herb/kankataka/)
 - [Karela](/herb/karela/)
-- [Karkatashringi](/herb/karkatashringi/) — *Pistacia integerrima J.L. Stewart ex Brandis*
+- [Karkatashringi](/herb/karkatashringi/), *Pistacia integerrima J.L. Stewart ex Brandis*
 - [Karmaranga](/herb/karmaranga/)
 - [Katphala](/herb/katphala/)
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Koshamra](/herb/koshamra/)
-- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
+- [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
 - [Kulathadi Kwath](/formulation/kulathadi-kwath/)
-- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
 - [Kumaryasava](/formulation/kumaryasava/)
 - [Kumbhika](/herb/kumbhika/)
 - [Kumud](/herb/kumud/)
 - [Kumuda](/herb/kumuda/)
 - [Kuntalakanti Tailam](/formulation/kuntalakanti-tailam/)
 - [Lajjalu](/herb/lajjalu/)
-- [Laung](/herb/laung/) — *Syzygium aromaticum*
-- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Lodhra](/herb/lodhra/) — *Symplocos racemosa Roxb.*
+- [Laung](/herb/laung/), *Syzygium aromaticum*
+- [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
+- [Lodhra](/herb/lodhra/), *Symplocos racemosa Roxb.*
 - [Lodhrasva](/herb/lodhrasva/)
 - [Madayantika](/herb/madayantika/)
 - [Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam)
-- [Mahamanjishthadi](/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
+- [Mahamanjishthadi](/herb/mahamanjishthadi/), *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
 - [Mahatriphala Ghrita](/glossary/concepts-a-m/#mahatriphala-ghrita)
-- [Mochras](/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
-- [Murva](/herb/murva/) — *Marsdenia tenacissima (Roxb.) Moon*
+- [Mochras](/herb/mochras/), *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
+- [Murva](/herb/murva/), *Marsdenia tenacissima (Roxb.) Moon*
 - [Navakarshika Churna](/glossary/concepts-m-y/#navakarshika-churna)
 - [Neelibringadi Thailam](/formulation/neelibringadi-thailam/)
-- [Nili](/herb/nili/) — *Indigofera tinctoria L.*
-- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nili](/herb/nili/), *Indigofera tinctoria L.*
+- [Nimba](/herb/nimba/), *Azadirachta indica A. Juss.*
 - [Nimba Patra](/herb/nimba-patra/)
 - [Nimbadi Churna](/glossary/concepts-m-y/#nimbadi-churna)
-- [Nyagrodha](/herb/nyagrodha/) — *Ficus benghalensis L.*
+- [Nyagrodha](/herb/nyagrodha/), *Ficus benghalensis L.*
 - [Palasha](/herb/palasha/)
 - [Panchamla Thailam](/glossary/concepts-m-y/#panchamla-thailam)
 - [Paribhadra](/herb/paribhadra/)
@@ -126,12 +126,12 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 - [Patola](/herb/patola/)
 - [Patola Patra](/herb/patola-patra/)
 - [Phalatrikadi Kwath](/glossary/concepts-m-y/#phalatrikadi-kwath)
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
 - [Prapunnada](/herb/prapunnada/)
-- [Prishniparni](/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
+- [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
 - [Priyala](/herb/priyala/)
 - [Puga](/herb/puga/)
-- [Riddhi](/herb/riddhi/) — *Habenaria intermedia D. Don*
+- [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
 - [Rohitaka](/herb/rohitaka/)
 - [Rudraksha](/herb/rudraksha/)
 - [Sarja](/herb/sarja/)
@@ -139,26 +139,26 @@ srcRel: "_Hub/Compounds/Gallic-acid.md"
 - [Shaka](/glossary/concepts-m-y/#shaka)
 - [Shallaki Herb](/glossary/concepts-m-y/#shallaki-herb)
 - [Shalmali](/herb/shalmali/)
-- [Shrigataka](/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
-- [Shyonaka](/herb/shyonaka/) — *Oroxylum indicum (L.) Kurz*
+- [Shrigataka](/herb/shrigataka/), *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Shyonaka](/herb/shyonaka/), *Oroxylum indicum (L.) Kurz*
 - [Simhamoola](/herb/simhamoola/)
 - [Simhanada Guggulu](/formulation/simhanada-guggulu/)
-- [Sthneyaka](/herb/sthneyaka/) — *Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)*
+- [Sthneyaka](/herb/sthneyaka/), *Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)*
 - [Sthuneyaka](/herb/sthuneyaka/)
 - [Tala](/herb/tala/)
-- [Tamalaki](/herb/tamalaki/) — *Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn.*
+- [Tamalaki](/herb/tamalaki/), *Phyllanthus niruri L. / Phyllanthus amarus Schum. & Thonn.*
 - [Tanduliyaka](/herb/tanduliyaka/)
 - [Taruni](/herb/taruni/)
-- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
 - [Triphala Churna](/formulation/triphala-churna/)
 - [Triphala Guggulu](/formulation/triphala-guggulu/)
 - [Triphala Herbs](/herb/triphala-herbs/)
 - [Triphaladi Thailam](/formulation/triphaladi-thailam/)
-- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Udumbara](/herb/udumbara/), *Ficus racemosa Linn.*
 - [Ushirasva](/herb/ushirasva/)
 - [Utingana](/herb/utingana/)
 - [Utpala](/herb/utpala/)
-- [Vyaghri Haritaki](/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Vyaghri Haritaki](/herb/vyaghri-haritaki/), *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Yavasa](/herb/yavasa/)
 
 ## Often Found With

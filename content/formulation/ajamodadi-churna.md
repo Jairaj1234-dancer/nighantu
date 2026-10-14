@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna preparations
 
-**Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C. Hygroscopic — avoid exposure to humid conditions.
+**Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C. Hygroscopic. Avoid exposure to humid conditions.
 
 **Marker Compounds:** Piperine, [Thymol](/glossary/compounds-t-z/#thymol), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/))
 

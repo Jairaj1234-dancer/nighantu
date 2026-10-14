@@ -23,46 +23,46 @@ srcRel: "_Hub/Pharmacology/Neuroprotective.md"
 
 ## Ayurveda (70)
 
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
-- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
-- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
-- [Amla](/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amlaparni](/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Amlavetasa](/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
+- [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
+- [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
+- [Amla](/herb/amla/), *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amlaparni](/herb/amlaparni/), *Oxalis corniculata L.*
+- [Amlavetasa](/herb/amlavetasa/), *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
 - [Anu Taila](/formulation/anu-taila/)
-- [Aparajita](/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aparajita](/herb/aparajita/), *Clitoria ternatea L.*
 - [Ashwagandharishta](/formulation/ashwagandharishta/)
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
 - [Balarishta](/formulation/balarishta/)
-- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Bijapura](/herb/bijapura/), *Citrus medica L.*
 - [Bilva](/herb/bilva/)
-- [Bilwa Patra](/herb/bilwa-patra/) — *Aegle marmelos (L.) Correa (leaves)*
+- [Bilwa Patra](/herb/bilwa-patra/), *Aegle marmelos (L.) Correa (leaves)*
 - [Brahma Rasayana](/formulation/brahma-rasayana/)
-- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi](/herb/brahmi/), *Bacopa monnieri*
 - [Brahmi Ghritam](/formulation/brahmi-ghritam/)
 - [Brahmi Vati](/formulation/brahmi-vati/)
-- [Changeri](/herb/changeri/) — *Oxalis corniculata L.*
+- [Changeri](/herb/changeri/), *Oxalis corniculata L.*
 - [Chyawanprash](/formulation/chyawanprash/)
-- [Devadaru](/herb/devadaru/) — *Cedrus deodara (Roxb. ex D.Don) G.Don*
+- [Devadaru](/herb/devadaru/), *Cedrus deodara (Roxb. ex D.Don) G.Don*
 - [Dhanwantaram Kashayam](/formulation/dhanwantaram-kashayam/)
-- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Dhanyaka](/herb/dhanyaka/), *Coriandrum sativum L.*
 - [Ghrita](/herb/ghrita/)
-- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
-- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Gomeda Bhasma](/herb/gomeda-bhasma/)
 - [Himasagara Thailam](/formulation/himasagara-thailam/)
-- [Himsra](/herb/himsra/) — *Capparis spinosa L.*
+- [Himsra](/herb/himsra/), *Capparis spinosa L.*
 - [Jatamansi](/herb/jatamansi/)
 - [Jyotishmati](/herb/jyotishmati/)
-- [Kalajaji](/herb/kalajaji/) — *Nigella sativa L.*
+- [Kalajaji](/herb/kalajaji/), *Nigella sativa L.*
 - [Kalyanaka Ghritam](/formulation/kalyanaka-ghritam/)
-- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 - [Kasturi](/herb/kasturi/)
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Kshirabala Thailam](/formulation/kshirabala-thailam/)
-- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Kushmanda](/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.*
 
 ## Related Body Systems
 

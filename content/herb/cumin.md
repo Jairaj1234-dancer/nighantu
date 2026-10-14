@@ -43,7 +43,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin/meta-analysis.md"
 
 **Shelf Life:** 3 years (whole seeds); 1 year (ground cumin); 3 years (essential oil); 5 years (Arishta)
 
-**Storage:** Whole seeds in airtight containers (very stable). Ground cumin in airtight packaging—loses aroma rapidly. Essential oil in amber glass, cool storage. Keep away from light and moisture.
+**Storage:** Whole seeds in airtight containers (very stable). Ground cumin in airtight packaging, loses aroma rapidly. Essential oil in amber glass, cool storage. Keep away from light and moisture.
 
 **Marker Compounds:** Cuminaldehyde, Gamma-terpinene, Beta-pinene, Para-cymene, [Cuminol](/glossary/compounds-c-d/#cuminol), [Safranal](/glossary/compounds-q-t/#safranal), Thymoquinone (trace), [Apigenin](/glossary/compounds-1-a/#apigenin), [Luteolin](/glossary/compounds-l-o/#luteolin)
 

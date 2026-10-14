@@ -69,7 +69,7 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, costunolide content by HPLC, 6-shogaol content (from dried [ginger](/herb/ginger/)), total sesquiterpene lactones, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — external use only. Warm oil for massage.
+**Vehicle (Anupana):** Not applicable, external use only. Warm oil for massage.
 
 ### Synergistic Combinations
 

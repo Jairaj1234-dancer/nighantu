@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/herb/ajwain/) ka patta) contains [thymol](/glossary/compounds-t-z/#thymol) and [carvacrol](/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/herb/ajwain/) but has additional [flavonoids](/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
 
-**Optimal Timing:** Warm fresh juice with honey for cough/cold — 2-3 times daily between meals
+**Optimal Timing:** Warm fresh juice with honey for cough/cold, 2-3 times daily between meals
 
 **Standardized Extract:** Leaf extract standardized to minimum 1% thymol and 0.5% carvacrol. Total essential oil content minimum 0.8% v/w in dried herb.
 
@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 - Cold-pressed juice from fresh leaves
 - Hydroalcoholic extraction (60:40)
 - Steam distillation for essential oil
-- Aqueous infusion (Phanta — hot water steep for 5-10 minutes)
+- Aqueous infusion (Phanta, hot water steep for 5-10 minutes)
 
 ### Synergistic Combinations
 

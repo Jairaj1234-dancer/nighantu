@@ -23,45 +23,45 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 
 ## Ayurveda (57)
 
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
 - [Amrita Ghrita](/formulation/amrita-ghrita/)
 - [Arjunarishta](/formulation/arjunarishta/)
 - [Ashwagandharishta](/formulation/ashwagandharishta/)
 - [Atibala](/herb/atibala/)
-- [Bala](/herb/bala/) — *Sida cordifolia*
+- [Bala](/herb/bala/), *Sida cordifolia*
 - [Bala Mool](/herb/bala-mool/)
 - [Balarishta](/formulation/balarishta/)
 - [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/)
 - [Brahma Rasayana](/formulation/brahma-rasayana/)
-- [Chhatraka](/herb/chhatraka/) — *Agaricus campestris L.*
+- [Chhatraka](/herb/chhatraka/), *Agaricus campestris L.*
 - [Chyawanprash](/formulation/chyawanprash/)
-- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhamasa](/herb/dhamasa/), *Fagonia cretica L. / Fagonia arabica L.*
 - [Dhatupaushtik Churna](/formulation/dhatupaushtik-churna/)
 - [Eranda Moola](/herb/eranda-moola/)
-- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gangeruki](/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
-- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
-- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
-- [Gorakhmundi](/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
-- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Gambhari](/herb/gambhari/), *Gmelina arborea Roxb.*
+- [Gangeruki](/herb/gangeruki/), *Grewia tenax (Forssk.) Fiori*
+- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
+- [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gorakhmundi](/herb/gorakhmundi/), *Sphaeranthus indicus L.*
+- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
 - [Holy Basil](/herb/holy-basil/)
 - [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
-- [Jivaka](/herb/jivaka/) — *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
-- [Jivanti](/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.*
 - [Kokilaksha](/herb/kokilaksha/)
 - [Lakshadi Thailam](/formulation/lakshadi-thailam/)
 - [Lata Kasturi](/herb/lata-kasturi/)
 - [Licorice Herb](/herb/licorice-herb/)
-- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
+- [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*
 - [Mandukparni](/herb/mandukparni/)
 - [Matsyakshi](/herb/matsyakshi/)
-- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
-- [Mudgaparni](/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
-- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Meda](/herb/meda/), *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Mudgaparni](/herb/mudgaparni/), *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
+- [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
 - [Phala Ghrita](/formulation/phala-ghrita/)
-- [Renuka](/herb/renuka/) — *Vitex agnus-castus L.*
-- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
+- [Renuka](/herb/renuka/), *Vitex agnus-castus L.*
+- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Sanjivani Vati](/formulation/sanjivani-vati/)
 
 ## Related Body Systems

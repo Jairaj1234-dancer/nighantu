@@ -69,7 +69,7 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:9 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sahasrayoga, Kasayaprakarana; 107.
 
-**Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/herb/trikatu/) (Katutraya) serves dual purpose — therapeutic and bioenhancer. [Piperine](/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
+**Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/herb/trikatu/) (Katutraya) serves dual purpose, therapeutic and bioenhancer. [Piperine](/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
 
 **Optimal Timing:** Before meals, morning and evening
 

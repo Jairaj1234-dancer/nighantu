@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 ### Mineral/Elemental Profile
 
 - **Lead oxide (PbO):** Major component (traditionally)
-- **Note:** Contains heavy metals — restricted use; Shodhana mandatory
+- **Note:** Contains heavy metals, restricted use; Shodhana mandatory
 
 **Analytical Methods:** AAS, ICP-MS, XRD
 
@@ -75,13 +75,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 30–60 mg (lead preparation — strict dosing)
+**Standard Dosage:** 30–60 mg (lead preparation, strict dosing)
 
 **Bioavailability:** Converted to lead oxide nanoparticles through Marana; toxicity eliminated per traditional parameters
 
 **Optimal Timing:** As directed by experienced physician; with specific anupana only
 
-**Standardized Extract:** Calcined lead bhasma — Schedule E1 restricted
+**Standardized Extract:** Calcined lead bhasma, Schedule E1 restricted
 
 **Shelf Life:** Indefinite
 

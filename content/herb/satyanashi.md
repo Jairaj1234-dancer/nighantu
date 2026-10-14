@@ -38,9 +38,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Swarasa (fresh juice), Taila (seed oil), Capsule, Lepa (external paste)
 
-**Standard Dosage:** 1-3 g root/whole plant powder per day; 5-10 mL seed oil externally; 50-100 mL kwatha twice daily. Use cautiously — latex is toxic in large doses.
+**Standard Dosage:** 1-3 g root/whole plant powder per day; 5-10 mL seed oil externally; 50-100 mL kwatha twice daily. Use cautiously, latex is toxic in large doses.
 
-**Bioavailability:** Isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) ([sanguinarine](/glossary/compounds-q-t/#sanguinarine), [berberine](/glossary/compounds-a-c/#berberine)) show moderate oral bioavailability (25-40%). Sanguinarine undergoes extensive hepatic metabolism. Seed oil fatty acids (linoleic, oleic) have high bioavailability (>70%). Argemone oil must be distinguished from mustard oil — adulteration causes epidemic dropsy.
+**Bioavailability:** Isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) ([sanguinarine](/glossary/compounds-q-t/#sanguinarine), [berberine](/glossary/compounds-a-c/#berberine)) show moderate oral bioavailability (25-40%). Sanguinarine undergoes extensive hepatic metabolism. Seed oil fatty acids (linoleic, oleic) have high bioavailability (>70%). Argemone oil must be distinguished from mustard oil, adulteration causes epidemic dropsy.
 
 **Optimal Timing:** External applications: twice daily on affected areas. Internal use (where permitted): after meals under medical supervision
 
@@ -65,4 +65,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 - [Haridra](/herb/haridra/) ([antimicrobial](/reference/antimicrobial/)-anti-inflammatory synergy for skin conditions)
 - [Neem](/herb/neem/) (dermatological formulations)
 - [Karanja](/herb/karanja/) (external antimicrobial applications)
-- Snuhi (latex-based formulations for warts — external only)
+- Snuhi (latex-based formulations for warts, external only)

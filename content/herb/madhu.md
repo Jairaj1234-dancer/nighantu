@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 **Standard Dosage:** 5–15 mL; as vehicle: sufficient quantity
 
-**Bioavailability:** Bioenhancer — increases absorption and tissue penetration of co-administered herbs
+**Bioavailability:** Bioenhancer, increases absorption and tissue penetration of co-administered herbs
 
 **Optimal Timing:** Not with hot substances (Ayurvedic contraindication); morning preferred for Kapha conditions
 

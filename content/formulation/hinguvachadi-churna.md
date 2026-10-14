@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
-**Storage:** Store in airtight containers in a cool, dry place. Strong aromatic odour — requires sealed packaging. Temperature not exceeding 30°C.
+**Storage:** Store in airtight containers in a cool, dry place. Strong aromatic odour, requires sealed packaging. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Ferulic acid, Farnesiferol A-C (from [Hingu](/herb/hingu/)), Beta-asarone (from [Vacha](/herb/vacha/)), Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
 

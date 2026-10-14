@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 **Optimal Timing:** With honey; after meals to reduce GI irritation
 
-**Standardized Extract:** Calcined zinc bhasma — primary zinc source in Ayurveda
+**Standardized Extract:** Calcined zinc bhasma, primary zinc source in Ayurveda
 
 **Shelf Life:** Indefinite
 

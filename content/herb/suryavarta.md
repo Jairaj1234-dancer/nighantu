@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Suryavarta/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder per day; 50-100 mL kwatha twice daily; 5-10 mL swarasa twice daily; 2-4 drops nasya oil per nostril for headache
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and phenolic acids show moderate oral bioavailability (25-35%). Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa — onset of action within 15-30 minutes for headache relief. Essential oil components are well-absorbed transdermally.
+**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and phenolic acids show moderate oral bioavailability (25-35%). Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa, onset of action within 15-30 minutes for headache relief. Essential oil components are well-absorbed transdermally.
 
 **Optimal Timing:** Morning before sunrise for preventive headache management (per traditional rationale); nasya in morning after facial steaming; acute use as needed
 

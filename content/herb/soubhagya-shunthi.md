@@ -48,19 +48,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Soubhagya-Shunthi/meta-analys
 
 **Shelf Life:** 24 months for compound churna; 36 months for tablets and capsules
 
-**Storage:** Store below 25 deg C in airtight containers. Ginger-based preparations are somewhat hygroscopic — RH <55%. Protect from light and moisture.
+**Storage:** Store below 25 deg C in airtight containers. Ginger-based preparations are somewhat hygroscopic, RH <55%. Protect from light and moisture.
 
 **Marker Compounds:** 6-Gingerol, 6-Shogaol, Piperine (if formulation includes [Pippali](/herb/pippali/)), Volatile oil content (from Shunthi), Individual ingredient markers per formulation composition
 
 ### Extraction Methods
 
 - Traditional Churna preparation (drying, powdering, and precise mixing of multiple ingredients per text proportion)
-- Not typically extracted — used as compound powder formulation
+- Not typically extracted, used as compound powder formulation
 - Individual ingredient extraction for standardized capsule formulation
 
 ### Synergistic Combinations
 
-- This IS a synergistic compound formulation — Shunthi (ginger) is the base combined with specific adjuncts for Soubhagya (auspiciousness/well-being during pregnancy)
+- This IS a synergistic compound formulation, Shunthi (ginger) is the base combined with specific adjuncts for Soubhagya (auspiciousness/well-being during pregnancy)
 - Pippali (digestive and bioenhancer synergy)
 - Nagakeshara (antiemetic-[hemostatic](/glossary/pharmacology/#hemostatic) combination)
 - Ela (carminative and flavor enhancement)

@@ -81,7 +81,7 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, psoralen content by HPLC (0.1-0.5%), isopsoralen content, total furanocoumarins, rancidity test negative, microbial limits, heavy metals, patch test safety data
 
-**Vehicle (Anupana):** Not applicable — external use only. Apply thin layer and allow absorption before clothing.
+**Vehicle (Anupana):** Not applicable, external use only. Apply thin layer and allow absorption before clothing.
 
 ### Synergistic Combinations
 

@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; traditionally used in prolonged courses (6-12 weeks) for chronic conditions
 
-**Bioavailability:** Smilax china—steroidal saponins ([sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin) glycosides) show moderate oral bioavailability (20-30%). Saponins undergo hydrolysis by gut microbiota to release aglycones which are better absorbed. Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) show moderate absorption. Decoction provides better saponin extraction than powder. Traditional prolonged administration (Prayoga Kala) ensures steady-state tissue levels for chronic conditions like Vatarakta (gout) and Upadamsha (syphilis).
+**Bioavailability:** Smilax china, steroidal saponins ([sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin) glycosides) show moderate oral bioavailability (20-30%). Saponins undergo hydrolysis by gut microbiota to release aglycones which are better absorbed. Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) show moderate absorption. Decoction provides better saponin extraction than powder. Traditional prolonged administration (Prayoga Kala) ensures steady-state tissue levels for chronic conditions like Vatarakta (gout) and Upadamsha (syphilis).
 
 **Optimal Timing:** Before meals with warm water for anti-arthritic and blood-purifying effects; prolonged course of 6-12 weeks recommended for chronic conditions
 

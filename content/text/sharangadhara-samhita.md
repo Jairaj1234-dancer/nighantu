@@ -19,18 +19,18 @@ productHints: []
 words: 398
 srcRel: "Ayurveda/Classical-Texts/Sharangadhara-Samhita.md"
 ---
-Composed by **Sharangadhara** circa 13th–14th century CE in Rajasthan, *Sharangadhara Samhita* is one of the three texts of the **Laghu Trayi** ("lesser triad" — complementing the Brihat Trayi of Charaka, Sushruta, and Vagbhata). It is the **definitive classical text of Ayurvedic pharmaceutics (Bhaishajya Kalpana)** — the treatise that most systematically codifies the preparation methodology of medicinal formulations across dosage forms.
+Composed by **Sharangadhara** circa 13th–14th century CE in Rajasthan, *Sharangadhara Samhita* is one of the three texts of the **Laghu Trayi** ("lesser triad", complementing the Brihat Trayi of Charaka, Sushruta, and Vagbhata). It is the **definitive classical text of Ayurvedic pharmaceutics (Bhaishajya Kalpana)**, the treatise that most systematically codifies the preparation methodology of medicinal formulations across dosage forms.
 
 ## Structure
 
 **3 Khandas (sections)**, 32 chapters, ~2,600 verses:
 
-### Purva Khanda (Fundamentals) — 7 chapters
+### Purva Khanda (Fundamentals): 7 chapters
 - Terminology, measurement systems (units, weights)
-- Nadi-pariksha (pulse diagnosis) — first Ayurvedic text to codify pulse examination in detail
+- Nadi-pariksha (pulse diagnosis), first Ayurvedic text to codify pulse examination in detail
 - Dosha-dhatu-mala theory in pedagogical-compact form
 
-### Madhyama Khanda (Pharmaceutics) — 12 chapters
+### Madhyama Khanda (Pharmaceutics): 12 chapters
 The core of the text. One chapter per **kalpana** (dosage form):
 
 | Chapter | Kalpana | English |
@@ -48,7 +48,7 @@ The core of the text. One chapter per **kalpana** (dosage form):
 | 11 | Dhatu-shodhana, marana | Metal purification and calcination |
 | 12 | Rasa-kalpana | Mercurial preparations |
 
-### Uttara Khanda (Therapeutics) — 13 chapters
+### Uttara Khanda (Therapeutics): 13 chapters
 Panchakarma, basti, nasya, and therapeutic applications.
 
 ## Why it matters for Chyawanprash
@@ -56,11 +56,11 @@ Panchakarma, basti, nasya, and therapeutic applications.
 **Madhyama Khanda Chapter 8 (Avaleha Kalpana)** is the canonical classical source for the 4-phase Avaleha manufacturing protocol used in [Chyawanprash](/formulation/chyawanprash/):
 
 1. Kashaya preparation
-2. Paka (the long cook) — with pakva (consistency) tests defined: *mridu paka*, *madhyama*, *kharatara*, *khara*, *atikhara*
-3. Prakshep (lukewarm fine-powder addition) — naming Pippali, Twak, Ela, Patra, Nagakesara and Vamshalochana as the classical aromatic layer
-4. Cold madhu addition — respecting Vagbhata's viruddha rule
+2. Paka (the long cook), with pakva (consistency) tests defined: *mridu paka*, *madhyama*, *kharatara*, *khara*, *atikhara*
+3. Prakshep (lukewarm fine-powder addition), naming Pippali, Twak, Ela, Patra, Nagakesara and Vamshalochana as the classical aromatic layer
+4. Cold madhu addition, respecting Vagbhata's viruddha rule
 
-The **pakva stages** Sharangadhara defines (thread-tests between fingers) are still the basis of modern Avaleha QC — the *kharatara paka* (two-thread test) is the classical endpoint for Chyawanprash batch cooking.
+The **pakva stages** Sharangadhara defines (thread-tests between fingers) are still the basis of modern Avaleha QC, the *kharatara paka* (two-thread test) is the classical endpoint for Chyawanprash batch cooking.
 
 ## Commentaries
 

@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 **Shelf Life:** 24 months for churna; 36 months for capsules and Ghana vati; indefinite for properly fermented Arishta
 
-**Storage:** Store below 25 deg C in airtight, light-protected containers. Alkaloids are photolabile — use amber packaging. Arishta stored in glass or stainless steel vessels.
+**Storage:** Store below 25 deg C in airtight, light-protected containers. Alkaloids are photolabile, use amber packaging. Arishta stored in glass or stainless steel vessels.
 
 **Marker Compounds:** Echitamine, Alstonine, Venenatine, Picrinine, Scholaricine, Strictamine
 

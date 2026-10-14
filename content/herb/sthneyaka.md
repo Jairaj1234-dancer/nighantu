@@ -109,6 +109,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/herb/ashwagandha/) (Balya — strength-building combinations)
+- [Ashwagandha](/herb/ashwagandha/) (Balya, strength-building combinations)
 - [Shatavari](/herb/shatavari/) (nourishing formulations)
 - [Bala](/herb/bala/) (Vatahara and tonic synergy)

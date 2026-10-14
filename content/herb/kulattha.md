@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 **Standard Dosage:** 20-40 g whole seeds for Yusha preparation; 5-10 g powder twice daily; 50-100 mL decoction; seed soup (200-300 mL) once daily
 
-**Bioavailability:** Polyphenols (gallic acid, [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability — traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
+**Bioavailability:** Polyphenols (gallic acid, [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability, traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
 
 **Optimal Timing:** Yusha: at lunch (mid-day meal) for optimal digestion; decoction: morning on empty stomach for urinary calculi; powder: after meals
 

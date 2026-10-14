@@ -66,11 +66,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Excellent; coral calcium carbonate with natural marine mineral matrix — one of the most bioavailable calcium forms
+**Bioavailability:** Excellent; coral calcium carbonate with natural marine mineral matrix, one of the most bioavailable calcium forms
 
 **Optimal Timing:** With honey or Malai; with meals for calcium supplementation
 
-**Standardized Extract:** Red coral pishti — cold-processed coral calcium
+**Standardized Extract:** Red coral pishti, cold-processed coral calcium
 
 **Shelf Life:** Indefinite
 

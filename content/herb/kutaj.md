@@ -48,13 +48,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 **Shelf Life:** 24 months for bark powder; 36 months for Kutajarishta (improves with aging); 24 months for capsules and tablets; 36 months for Ghana Vati
 
-**Storage:** Bark powder in airtight containers at 15-30°C. Kutajarishta in glass bottles (traditional) or food-grade PET — improves with age like wine (some Vaidyas store for 5-10 years). Protect capsules from moisture. Store in cool, dry place.
+**Storage:** Bark powder in airtight containers at 15-30°C. Kutajarishta in glass bottles (traditional) or food-grade PET, improves with age like wine (some Vaidyas store for 5-10 years). Protect capsules from moisture. Store in cool, dry place.
 
 **Marker Compounds:** Conessine, Kurchine, Conessimine, Holarrhimine, Kurchicine, Conamine, Isoconessimine, Holarrhenine
 
 ### Extraction Methods
 
-- Water decoction (traditional — bark boiled and reduced to 1/4th)
+- Water decoction (traditional, bark boiled and reduced to 1/4th)
 - Hydroalcoholic extraction (60-70% ethanol) for alkaloid enrichment
 - Acid-water extraction (0.1N HCl) for maximum alkaloid yield
 - Fermentation process for Kutajarishta (Sandhana Kalpana)

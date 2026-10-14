@@ -83,7 +83,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 **Standardized Extract:** Bark extract standardized to minimum 4% catechin and minimum 2% epicatechin. Total tannin content minimum 15% (as tannic acid equivalent). Estrogenic fraction standardized to total isoflavone content.
 
-**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5-10 years (Ashokarishta — improves with age); 2 years (syrup)
+**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5-10 years (Ashokarishta, improves with age); 2 years (syrup)
 
 **Storage:** Bark powder in airtight containers, cool and dry. Ashokarishta in amber glass at room temperature. Capsules with desiccant.
 

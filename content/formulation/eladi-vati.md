@@ -54,9 +54,9 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Eladi-Vati/meta-ana
 
 **Marker Compounds:** 1,8-[Cineole](/glossary/compounds-c-d/#cineole), [Eugenol](/glossary/compounds-d-g/#eugenol), Camphor, [Myristicin](/glossary/compounds-l-o/#myristicin) (from [Jatiphala](/herb/jatiphala/)), [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde)
 
-**Quality Parameters:** Weight variation (±5%), hardness (moderate — must dissolve in mouth), friability, dissolution time (5-15 min buccal), moisture (<6%), volatile oil content (NLT 0.5%), 1,8-cineole content, eugenol content, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Weight variation (±5%), hardness (moderate, must dissolve in mouth), friability, dissolution time (5-15 min buccal), moisture (<6%), volatile oil content (NLT 0.5%), 1,8-cineole content, eugenol content, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — sucked/chewed directly in the mouth
+**Vehicle (Anupana):** Not applicable, sucked/chewed directly in the mouth
 
 ### Synergistic Combinations
 

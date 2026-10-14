@@ -78,13 +78,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chandana/meta-analysis.md"
 
 **Standard Dosage:** 3-6g heartwood powder; 5-15 drops essential oil (external); 500mg extract capsule; 15-30ml Chandanasava; paste externally as needed
 
-**Bioavailability:** Alpha-santalol shows good oral bioavailability (50-60%) and excellent dermal absorption (penetration enhancer for other compounds). Beta-santalol similarly well absorbed. Santalol rapidly distributes to lipid-rich tissues. Dermal application of sandalwood paste provides sustained local and some systemic absorption. Essential oil components are volatile—rapid absorption via inhalation. Traditional paste preparation with water on stone preserves particle characteristics for optimal skin delivery.
+**Bioavailability:** Alpha-santalol shows good oral bioavailability (50-60%) and excellent dermal absorption (penetration enhancer for other compounds). Beta-santalol similarly well absorbed. Santalol rapidly distributes to lipid-rich tissues. Dermal application of sandalwood paste provides sustained local and some systemic absorption. Essential oil components are volatile, rapid absorption via inhalation. Traditional paste preparation with water on stone preserves particle characteristics for optimal skin delivery.
 
 **Optimal Timing:** Paste applied morning and evening for skin care; internal use after meals with cool water for Pitta conditions; Chandanasava after meals; oil for aromatherapy anytime
 
 **Standardized Extract:** Essential oil standardized to alpha-santalol NLT 43% and beta-santalol NLT 16% (East Indian grade). Heartwood extract standardized to total santalols NLT 5%.
 
-**Shelf Life:** 5+ years (heartwood, intact); 3 years (powder); 5-10 years (essential oil—improves with age); 3 years (capsule/tablet); 5 years (Chandanasava)
+**Shelf Life:** 5+ years (heartwood, intact); 3 years (powder); 5-10 years (essential oil, improves with age); 3 years (capsule/tablet); 5 years (Chandanasava)
 
 **Storage:** Essential oil in amber glass with tight closure (oil improves with age if properly stored). Powder in airtight containers. Cool, dry conditions. Heartwood blocks can be stored indefinitely in dry conditions.
 

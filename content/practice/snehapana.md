@@ -41,7 +41,7 @@ The record puts the course at seven days, which matches the classical ceiling in
 
 ## What is used
 
-The record names five: plain **Ghṛta**, **Tila Taila**, and three medicated ghṛtas — **Mahā-tikta Ghṛta**, **Pañca-tikta Ghṛta** and **Brāhmī Ghṛta**. Which one is selected is a clinical decision the record does not explain.
+The record names five: plain **Ghṛta**, **Tila Taila**, and three medicated ghṛtas, **Mahā-tikta Ghṛta**, **Pañca-tikta Ghṛta** and **Brāhmī Ghṛta**. Which one is selected is a clinical decision the record does not explain.
 
 ## What can go wrong
 

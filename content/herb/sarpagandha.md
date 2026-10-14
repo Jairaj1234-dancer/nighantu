@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 **Shelf Life:** 36 months for standardized extract tablets in aluminum blisters; 24 months for churna
 
-**Storage:** Store below 25 deg C in airtight, light-protected containers. Reserpine is photolabile — amber glass or aluminum blister packaging mandatory. Controlled substance storage may apply per local regulations.
+**Storage:** Store below 25 deg C in airtight, light-protected containers. Reserpine is photolabile, amber glass or aluminum blister packaging mandatory. Controlled substance storage may apply per local regulations.
 
 **Marker Compounds:** Reserpine, Ajmaline, Ajmalicine (raubasine), Serpentine, Yohimbine, Deserpidine
 

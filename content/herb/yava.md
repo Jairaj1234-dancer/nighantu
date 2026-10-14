@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 
 **Optimal Timing:** Morning; Yavagu during Panchakarma
 
-**Standardized Extract:** Yava Kshara (barley alkali) — important alkaline preparation
+**Standardized Extract:** Yava Kshara (barley alkali), important alkaline preparation
 
 **Shelf Life:** Grain: 12+ months; flour: 3–4 months; Kshara: 12 months
 

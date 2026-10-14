@@ -89,11 +89,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (bark powder), Kashayam (bark decoction), Niryasa (gum — Babool gum), Tablet, Capsule, Manjan (tooth powder), Kwatha (concentrated decoction), Lepa (bark paste — external)
+**Dosage Forms:** Churna (bark powder), Kashayam (bark decoction), Niryasa (gum, Babool gum), Tablet, Capsule, Manjan (tooth powder), Kwatha (concentrated decoction), Lepa (bark paste, external)
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 1-3g gum with water; tooth powder as needed for dental hygiene
 
-**Bioavailability:** Moderate oral bioavailability. Acacia nilotica (Babool/Babul) bark is rich in tannins (12-20% gallic acid-based tannins) and condensed tannins ([proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins)). Gallic acid has good oral bioavailability (~70%). Tannins form complexes with salivary [proteins](/glossary/compounds-o-q/#proteins) — oral health effects are partly local/topical. Gum Arabic-type polysaccharides (from gum exudate) act as prebiotics in the colon. [Piperine](/reference/piperine/) co-administration enhances absorption of phenolic compounds.
+**Bioavailability:** Moderate oral bioavailability. Acacia nilotica (Babool/Babul) bark is rich in tannins (12-20% gallic acid-based tannins) and condensed tannins ([proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins)). Gallic acid has good oral bioavailability (~70%). Tannins form complexes with salivary [proteins](/glossary/compounds-o-q/#proteins), oral health effects are partly local/topical. Gum Arabic-type polysaccharides (from gum exudate) act as prebiotics in the colon. [Piperine](/reference/piperine/) co-administration enhances absorption of phenolic compounds.
 
 **Optimal Timing:** Bark decoction as gargle morning and evening for oral health. Internal: before meals for digestive astringent action. Tooth powder at bedtime.
 
@@ -101,7 +101,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 **Shelf Life:** 2 years (bark powder); 3 years (gum); 3 years (capsules/tablets); 2 years (tooth powder); 5 years (Ghana Vati)
 
-**Storage:** Bark powder in airtight containers, cool and dry. Gum in dry, ventilated storage — susceptible to insect infestation (fumigate naturally with [neem](/herb/neem/)). Below 25°C, RH < 60%.
+**Storage:** Bark powder in airtight containers, cool and dry. Gum in dry, ventilated storage, susceptible to insect infestation (fumigate naturally with [neem](/herb/neem/)). Below 25°C, RH < 60%.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Catechin, [Epicatechin](/glossary/compounds-d-g/#epicatechin), Niloticane, Arabinose (gum), [Galactose](/glossary/compounds-d-g/#galactose) (gum), Methylgallate, Condensed tannins (proanthocyanidins)
 

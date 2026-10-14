@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 
 **Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb. Cilantro/[coriander](/herb/coriander/) leaves used as fresh herb primarily.
 
-**Bioavailability:** Fresh leaf (cilantro) volatile composition differs from seed—contains [decanal](/glossary/compounds-c-d/#decanal), dodecanal, and 2-decenal instead of [linalool](/glossary/compounds-l-o/#linalool). Aldehydes show rapid oral and transmucosal absorption. [Chlorophyll](/glossary/compounds-c-d/#chlorophyll) and [carotenoids](/glossary/compounds-a-c/#carotenoids) in fresh leaves provide [antioxidant](/reference/antioxidant/) support but have limited systemic absorption. Fresh juice (Swarasa) provides maximum volatile bioavailability. Drying significantly reduces volatile aldehyde content—fresh herb is pharmacologically distinct from dried.
+**Bioavailability:** Fresh leaf (cilantro) volatile composition differs from seed, contains [decanal](/glossary/compounds-c-d/#decanal), dodecanal, and 2-decenal instead of [linalool](/glossary/compounds-l-o/#linalool). Aldehydes show rapid oral and transmucosal absorption. [Chlorophyll](/glossary/compounds-c-d/#chlorophyll) and [carotenoids](/glossary/compounds-a-c/#carotenoids) in fresh leaves provide [antioxidant](/reference/antioxidant/) support but have limited systemic absorption. Fresh juice (Swarasa) provides maximum volatile bioavailability. Drying significantly reduces volatile aldehyde content, fresh herb is pharmacologically distinct from dried.
 
 **Optimal Timing:** Fresh juice early morning for detoxification; as culinary herb with meals; external paste as needed for skin conditions
 

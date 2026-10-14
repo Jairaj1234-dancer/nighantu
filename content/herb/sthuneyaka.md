@@ -64,4 +64,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 - [Bala](/herb/bala/) (Vatahara combinations)
 - [Eranda](/herb/eranda/) (anti-rheumatic formulations)
 - [Rasna](/herb/rasna/) ([analgesic](/reference/analgesic/) and anti-inflammatory synergy)
-- [Ashwagandha](/herb/ashwagandha/) (Balya — strength-building formulations)
+- [Ashwagandha](/herb/ashwagandha/) (Balya, strength-building formulations)

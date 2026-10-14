@@ -178,7 +178,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 **Shelf Life:** 3 years (heartwood powder); 3 years (capsules/tablets); Vijaysar tumbler usable for 2-3 months (replace when color leaching stops); 5 years (Arishta)
 
-**Storage:** Heartwood stores well — naturally resistant to degradation due to high tannin/phenolic content. Store in dry place. Capsules with desiccant below 25°C.
+**Storage:** Heartwood stores well, naturally resistant to degradation due to high tannin/phenolic content. Store in dry place. Capsules with desiccant below 25°C.
 
 **Marker Compounds:** Pterostilbene, Epicatechin, Marsupsin, Marsupin, Pterosupin, Liquiritigenin, Isoliquiritigenin, Pterocarpol, Kinotannic acid
 
@@ -186,7 +186,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 - Aqueous decoction (1:8, reduced to 1/4)
 - Hydroalcoholic extraction (70:30) for pterostilbene enrichment
-- Cold aqueous maceration (overnight soaking — traditional tumbler method)
+- Cold aqueous maceration (overnight soaking, traditional tumbler method)
 - Ethanol extraction for flavonoid enrichment
 - Supercritical CO2 for pterostilbene isolation
 

@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 **Optimal Timing:** With meals for calcium absorption
 
-**Standardized Extract:** Calcined eggshell bhasma — natural calcium source
+**Standardized Extract:** Calcined eggshell bhasma, natural calcium source
 
 **Shelf Life:** 12–24 months (organic origin; shorter than mineral bhasmas)
 

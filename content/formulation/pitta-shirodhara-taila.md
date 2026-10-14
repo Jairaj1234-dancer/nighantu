@@ -10,7 +10,7 @@ answer: "Pitta Shirodhara Taila is a classical Ayurvedic taila, a medicated oil.
 botanical: ""
 family: ""
 sanskrit: ""
-ayurvedicCategory: "External Shirodhara (murdha-taila) oil — Pitta-shamaka"
+ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Pitta-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Pitta Shirodhara Taila", "Pitta-Pacifying Shirodhara Oil", "Pitta Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "pitta-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
@@ -30,20 +30,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pitta-Shiro
 
 ## Key Ingredients
 
-- [Brahmi](/herb/brahmi/) (*Bacopa monnieri*) — medhya Rasayana, cool, composing
-- [Guduchi](/herb/guduchi/) (*Tinospora cordifolia*) — tridoshaghna Rasayana, Pitta-shamaka
-- [Shatavari](/herb/shatavari/) (*Asparagus racemosus*) — madhura, shita, snigdha
-- [Manjistha](/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
-- [Yashtimadhu](/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
-- Dhanyak (*Coriandrum sativum* — coriander) — shita-virya aromatic
-- [Nagarmotha](/herb/nagarmotha/) (*Cyperus rotundus*) — tikta-kashaya, shita-virya
-- Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
-- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — compounded as Pitta-tolerable base
-- Sunflower Taila (*Helianthus annuus*) — light, cooling co-base
+- [Brahmi](/herb/brahmi/) (*Bacopa monnieri*), medhya Rasayana, cool, composing
+- [Guduchi](/herb/guduchi/) (*Tinospora cordifolia*), tridoshaghna Rasayana, Pitta-shamaka
+- [Shatavari](/herb/shatavari/) (*Asparagus racemosus*), madhura, shita, snigdha
+- [Manjistha](/herb/manjistha/) (*Rubia cordifolia*), rakta-prasadana, varnya
+- [Yashtimadhu](/herb/yashtimadhu/) (*Glycyrrhiza glabra*), madhura, shita, snigdha
+- Dhanyak (*Coriandrum sativum*, coriander), shita-virya aromatic
+- [Nagarmotha](/herb/nagarmotha/) (*Cyperus rotundus*), tikta-kashaya, shita-virya
+- Lavender Oil (*Lavandula angustifolia*), aromatic fraction for the shiro-dhara experience
+- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum*, sesame oil), compounded as Pitta-tolerable base
+- Sunflower Taila (*Helianthus annuus*), light, cooling co-base
 
 ## Where is it described in the classical texts?
 
-Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**. Among its traditional indications is Pitta-vaishamya of the head region: over-active, sharp, heated mental states with burning sensation on the scalp or forehead, and difficulty letting the mind settle. This formulation follows the Pitta-shamaka taila principle — shita-virya (cooling potency), madhura/tikta rasa and medhya dravyas — compounded in a blended Tila/sunflower base to moderate the virya profile of sesame for Pitta-predominant clients.
+Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**. Among its traditional indications is Pitta-vaishamya of the head region: over-active, sharp, heated mental states with burning sensation on the scalp or forehead, and difficulty letting the mind settle. This formulation follows the Pitta-shamaka taila principle, shita-virya (cooling potency), madhura/tikta rasa and medhya dravyas, compounded in a blended Tila/sunflower base to moderate the virya profile of sesame for Pitta-predominant clients.
 
 ## How does it work?
 
@@ -74,7 +74,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 ## Directions for Use (External Only)
 
 - **Shirodhara:** warm gently to ~36–38 °C (a little cooler than a Vata Shirodhara). Pour in a continuous unbroken stream over the ajna marma for 30–45 minutes.
-- **Shiro-abhyanga:** massage a small quantity into scalp and temples — preferably in the cooler part of the day — leave 30–60 min and cleanse.
+- **Shiro-abhyanga:** massage a small quantity into scalp and temples, preferably in the cooler part of the day, leave 30–60 min and cleanse.
 - **Pada-abhyanga:** apply a small quantity to the soles of the feet before sleep.
 
 ## Safety, contraindications and cautions

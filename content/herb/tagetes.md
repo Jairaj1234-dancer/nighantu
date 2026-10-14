@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tagetes/meta-analys
 
 **Shelf Life:** 24 months for lutein softgels (nitrogen-flushed); 18 months for essential oil; 12-18 months for flower powder; 24 months for cream/ointment
 
-**Storage:** Lutein is extremely light-sensitive and oxidation-prone — store in amber containers, nitrogen-flushed, at 2-8 deg C for bulk oleoresin; finished softgels at room temperature in opaque bottles. Essential oil in amber glass, 15-25 deg C. Protect all products from light and heat.
+**Storage:** Lutein is extremely light-sensitive and oxidation-prone. Store in amber containers, nitrogen-flushed, at 2-8 deg C for bulk oleoresin; finished softgels at room temperature in opaque bottles. Essential oil in amber glass, 15-25 deg C. Protect all products from light and heat.
 
 **Marker Compounds:** Lutein (all-trans), Zeaxanthin, Meso-zeaxanthin, Tagetone, Ocimene (cis and trans), Alpha-terthienyl, Patuletin, Quercetagetin
 

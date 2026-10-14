@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 **Shelf Life:** 24 hours for fresh juice; 18 months for dried root powder; 24 months for capsules; 36 months for roasted root (coffee substitute)
 
-**Storage:** Fresh juice and roots require refrigeration (2-8°C). Dried preparations in airtight containers at 15-30°C. Inulin-rich preparations are hygroscopic — moisture protection essential.
+**Storage:** Fresh juice and roots require refrigeration (2-8°C). Dried preparations in airtight containers at 15-30°C. Inulin-rich preparations are hygroscopic, moisture protection essential.
 
 **Marker Compounds:** Chicoric acid, Chlorogenic acid, Lactucin, Lactucopicrin, 8-Deoxylactucin, Inulin, Esculetin, Caffeic acid
 

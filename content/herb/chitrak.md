@@ -87,9 +87,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 **Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), [Chitrakaharitaki](/herb/chitrakaharitaki/) Avaleha, [Chitrakadi Vati](/formulation/chitrakadi-vati/)
 
-**Standard Dosage:** 1-3g root powder twice daily; 250-500mg extract capsule; 50-100ml decoction. CAUTION: Potent herb—do not exceed recommended dose. Contraindicated in pregnancy.
+**Standard Dosage:** 1-3g root powder twice daily; 250-500mg extract capsule; 50-100ml decoction. CAUTION: Potent herb, do not exceed recommended dose. Contraindicated in pregnancy.
 
-**Bioavailability:** Plumbagin shows good oral bioavailability (40-55%) with rapid absorption (Tmax 0.5-1h). Highly lipophilic (logP ~3.0)—lipid vehicles significantly enhance absorption. Plumbagin undergoes hepatic metabolism via CYP1A2 and CYP3A4. Narrow therapeutic index: precise dosing critical. Milk and ghee vehicles reduce GI irritation while maintaining absorption. Self-emulsifying formulations can improve bioavailability by 2-3x.
+**Bioavailability:** Plumbagin shows good oral bioavailability (40-55%) with rapid absorption (Tmax 0.5-1h). Highly lipophilic (logP ~3.0), lipid vehicles significantly enhance absorption. Plumbagin undergoes hepatic metabolism via CYP1A2 and CYP3A4. Narrow therapeutic index: precise dosing critical. Milk and ghee vehicles reduce GI irritation while maintaining absorption. Self-emulsifying formulations can improve bioavailability by 2-3x.
 
 **Optimal Timing:** Before meals with warm water or buttermilk for digestive stimulation; with ghee or milk to reduce GI irritation; not at bedtime
 
@@ -97,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
-**Storage:** Airtight, light-protected containers—plumbagin is photosensitive. Cool, dry conditions below 25°C. Keep away from children. Clearly labeled as potent herb.
+**Storage:** Airtight, light-protected containers, plumbagin is photosensitive. Cool, dry conditions below 25°C. Keep away from children. Clearly labeled as potent herb.
 
 **Marker Compounds:** Plumbagin, 3,3'-Biplumbagin, Chitranone, Droserone, Elliptinone, Beta-sitosterol, Zeylanone
 

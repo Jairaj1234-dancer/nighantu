@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 **Optimal Timing:** With honey, cream of milk (Malai), or Gulkand
 
-**Standardized Extract:** Agate stone triturated with Gulab Jal (rose water) — cold-processed
+**Standardized Extract:** Agate stone triturated with Gulab Jal (rose water), cold-processed
 
 **Shelf Life:** Indefinite
 

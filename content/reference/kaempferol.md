@@ -23,66 +23,66 @@ srcRel: "_Hub/Compounds/Kaempferol.md"
 
 ## Ayurveda
 
-- [Agastya](/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
-- [Aragwadha](/herb/aragwadha/) — *Cassia fistula L.*
+- [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
+- [Aragwadha](/herb/aragwadha/), *Cassia fistula L.*
 - [Arka Pushpa](/herb/arka-pushpa/)
 - [Ashoka](/herb/ashoka/)
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
-- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
+- [Asthishrinkhala](/herb/asthishrinkhala/), *Cissus quadrangularis L.*
 - [Bandhuka](/herb/bandhuka/)
-- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
-- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
-- [Chopchini](/herb/chopchini/) — *Smilax china L.*
+- [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.*
+- [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
+- [Chopchini](/herb/chopchini/), *Smilax china L.*
 - [Coriander](/herb/coriander/)
 - [Coriander Herb](/herb/coriander-herb/)
-- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhamasa](/herb/dhamasa/), *Fagonia cretica L. / Fagonia arabica L.*
 - [Dugdhika](/herb/dugdhika/)
-- [Eranda](/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Eranda](/herb/eranda/), *Ricinus communis L.*
+- [Eranda Patra](/herb/eranda-patra/), *Ricinus communis L. (leaves)*
 - [Fennel Herb](/herb/fennel-herb/)
 - [Gulakanda](/formulation/gulakanda/)
-- [Himsra](/herb/himsra/) — *Capparis spinosa L.*
+- [Himsra](/herb/himsra/), *Capparis spinosa L.*
 - [Japa](/herb/japa/)
 - [Kachnar](/herb/kachnar/)
 - [Kadara](/herb/kadara/)
-- [Kalajaji](/herb/kalajaji/) — *Nigella sativa L.*
+- [Kalajaji](/herb/kalajaji/), *Nigella sativa L.*
 - [Kamala Kesara](/herb/kamala-kesara/)
-- [Kanchanar](/herb/kanchanar/) — *Bauhinia variegata L.*
+- [Kanchanar](/herb/kanchanar/), *Bauhinia variegata L.*
 - [Kanchanara Guggulu](/formulation/kanchanara-guggulu/)
-- [Kasani](/herb/kasani/) — *Cichorium intybus L.*
-- [Khadira](/herb/khadira/) — *Acacia catechu (L.f.) Willd.*
-- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Kumkumadi Tailam](/formulation/kumkumadi-tailam/) — *Polyherbal formulation ([Kumkumadi Tailam](/formulation/kumkumadi-tailam/)) - primary ingredient: Crocus sativus L. ([Saffron](/herb/saffron/)/Kumkuma)*
+- [Kasani](/herb/kasani/), *Cichorium intybus L.*
+- [Khadira](/herb/khadira/), *Acacia catechu (L.f.) Willd.*
+- [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
+- [Kumkumadi Tailam](/formulation/kumkumadi-tailam/), *Polyherbal formulation ([Kumkumadi Tailam](/formulation/kumkumadi-tailam/)) - primary ingredient: Crocus sativus L. ([Saffron](/herb/saffron/)/Kumkuma)*
 - [Kumud](/herb/kumud/)
-- [Laung](/herb/laung/) — *Syzygium aromaticum*
+- [Laung](/herb/laung/), *Syzygium aromaticum*
 - [Lavanga](/herb/lavanga/)
 - [Mahanimba](/herb/mahanimba/)
 - [Matsyakshi](/herb/matsyakshi/)
-- [Mochras](/herb/mochras/) — *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
+- [Mochras](/herb/mochras/), *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
 - [Morning Glory](/herb/morning-glory/)
-- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Nili](/herb/nili/) — *Indigofera tinctoria L.*
+- [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nili](/herb/nili/), *Indigofera tinctoria L.*
 - [Nimba Patra](/herb/nimba-patra/)
 - [Palandu](/herb/palandu/)
 - [Patola Patra](/herb/patola-patra/)
-- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Rasona Patra](/herb/rasona-patra/) — *Allium sativum L. (leaves/greens)*
-- [Saffron](/herb/saffron/) — *Crocus sativus*
+- [Priyangu](/herb/priyangu/), *Callicarpa macrophylla Vahl.*
+- [Rasona Patra](/herb/rasona-patra/), *Allium sativum L. (leaves/greens)*
+- [Saffron](/herb/saffron/), *Crocus sativus*
 - [Sarpaksi](/herb/sarpaksi/)
-- [Senna](/herb/senna/) — *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)*
+- [Senna](/herb/senna/), *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)*
 - [Shalmali](/herb/shalmali/)
-- [Shalparni](/herb/shalparni/) — *Desmodium gangeticum (L.) DC.*
-- [Shatavari Ksheera](/herb/shatavari-ksheera/) — *Asparagus racemosus Willd.*
+- [Shalparni](/herb/shalparni/), *Desmodium gangeticum (L.) DC.*
+- [Shatavari Ksheera](/herb/shatavari-ksheera/), *Asparagus racemosus Willd.*
 - [Tanduliyaka](/herb/tanduliyaka/)
 - [Taruni](/herb/taruni/)
-- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Udumbara](/herb/udumbara/), *Ficus racemosa Linn.*
 - [Upodika](/herb/upodika/)
 - [Utingana](/herb/utingana/)
 - [Utpala](/herb/utpala/)
-- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
+- [Vanapsa](/herb/vanapsa/), *Viola odorata L.*
 - [Varahikanda](/herb/varahikanda/)
-- [Varshabhu](/herb/varshabhu/) — *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
+- [Varshabhu](/herb/varshabhu/), *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
 - [Vathada](/herb/vathada/)
 - [Vriddhadaru](/herb/vriddhadaru/)
 - [Yavasa](/herb/yavasa/)

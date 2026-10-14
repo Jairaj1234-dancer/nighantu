@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Kashayam (decoction), Kwatha (concentrated decoction), Sara (heartwood extract — Khadira Sara/Catechu), Tablet, Capsule, Ointment/Cream, [Khadiradi Vati](/formulation/khadiradi-vati/) (classical lozenge)
+**Dosage Forms:** Kashayam (decoction), Kwatha (concentrated decoction), Sara (heartwood extract, Khadira Sara/Catechu), Tablet, Capsule, Ointment/Cream, [Khadiradi Vati](/formulation/khadiradi-vati/) (classical lozenge)
 
 **Standard Dosage:** 50-100 mL decoction twice daily; 500 mg-1 g Khadira Sara with honey; 3-5 g heartwood powder; [Khadiradi Vati](/formulation/khadiradi-vati/): 1-2 lozenges dissolved slowly in mouth
 
@@ -90,13 +90,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 **Shelf Life:** 36 months for Khadira Sara (solid extract); 24 months for powder; 24 months for Khadiradi Vati; 18 months for capsules
 
-**Storage:** Khadira Sara is hygroscopic — store in airtight, moisture-proof containers at 15-30°C. Powder protected from humidity. Khadiradi Vati in blister packaging to prevent moisture absorption.
+**Storage:** Khadira Sara is hygroscopic. Store in airtight, moisture-proof containers at 15-30°C. Powder protected from humidity. Khadiradi Vati in blister packaging to prevent moisture absorption.
 
 **Marker Compounds:** Catechin, Epicatechin, Epicatechin gallate, [Quercetin](/reference/quercetinquercetin/), [Fisetin](/glossary/compounds-d-g/#fisetinfisetin), Kaempferol, [Taxifolin](/glossary/compounds-t-z/#taxifolin), Procyanidins
 
 ### Extraction Methods
 
-- Water decoction and evaporation for Khadira Sara (Catechu/Cutch) — traditional boiling and concentration
+- Water decoction and evaporation for Khadira Sara (Catechu/Cutch), traditional boiling and concentration
 - Hydroalcoholic extraction (50-70% ethanol)
 - Supercritical CO2 for catechin-enriched fraction
 - Hot water extraction under pressure for rapid processing

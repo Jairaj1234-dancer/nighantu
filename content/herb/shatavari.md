@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Shatavari/meta-analysis.m
 
 ## How is it used traditionally?
 
-Name means 'she who possesses 100 husbands' — referring to female reproductive benefits. Primary herb for Stri Roga (gynecological disorders). Used for Raktapitta (bleeding disorders) and Shukra Dhatu (reproductive tissue).
+Name means 'she who possesses 100 husbands', referring to female reproductive benefits. Primary herb for Stri Roga (gynecological disorders). Used for Raktapitta (bleeding disorders) and Shukra Dhatu (reproductive tissue).
 
 ## Where is it described in the classical texts?
 
@@ -147,15 +147,15 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract twice daily; 1-2 tablespoons Shatavari Kalpa (granules) with milk; 10-20 mL syrup twice daily
 
-**Bioavailability:** Shatavarin (steroidal saponin) has moderate oral bioavailability (20-30%) — improved 2-3x by milk co-administration (traditional Ksheerapaka method, which provides lipid and calcium for enhanced saponin solubilization). Racemosol and [isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) are lipophilic with moderate absorption. Mucilage content (25-30%) slows gastric emptying and provides sustained release effect. Phytosome/phospholipid complex formulations improve bioavailability by 2.5-3x.
+**Bioavailability:** Shatavarin (steroidal saponin) has moderate oral bioavailability (20-30%), improved 2-3x by milk co-administration (traditional Ksheerapaka method, which provides lipid and calcium for enhanced saponin solubilization). Racemosol and [isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) are lipophilic with moderate absorption. Mucilage content (25-30%) slows gastric emptying and provides sustained release effect. Phytosome/phospholipid complex formulations improve bioavailability by 2.5-3x.
 
-**Optimal Timing:** With warm milk (traditional vehicle for Stanya — [galactagogue](/glossary/pharmacology/#galactagogue) action and [Vajikarana](/glossary/pharmacology/#vajikarana) — reproductive tonic); morning and bedtime doses; after meals for GI-protective effects
+**Optimal Timing:** With warm milk (traditional vehicle for Stanya, [galactagogue](/glossary/pharmacology/#galactagogue) action and [Vajikarana](/glossary/pharmacology/#vajikarana), reproductive tonic); morning and bedtime doses; after meals for GI-protective effects
 
 **Standardized Extract:** Root extract (10:1 in 70% ethanol), standardized to NLT 40% saponins (as Shatavarin IV equivalents by HPLC-ELSD); or NLT 20% total saponins by gravimetric method. Aqueous extract standardized to NLT 30% [polysaccharides](/glossary/compounds-o-q/#polysaccharides) for [immunomodulatory](/reference/immunomodulatory/) applications.
 
 **Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; 12 months for Shatavari Kalpa (sugar-based granules); 6-12 months for Ghrita
 
-**Storage:** Store below 25 deg C in airtight containers. Mucilage-rich powder is hygroscopic — maintain RH <50%. Ghrita in glass jars, protect from light. Kalpa in moisture-proof packaging.
+**Storage:** Store below 25 deg C in airtight containers. Mucilage-rich powder is hygroscopic. Maintain RH <50%. Ghrita in glass jars, protect from light. Kalpa in moisture-proof packaging.
 
 **Marker Compounds:** Shatavarin I, Shatavarin IV, Racemosol, Asparagamine A, Racemofuran, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Diosgenin](/glossary/compounds-d-g/#diosgenin)
 
@@ -163,15 +163,15 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 
 - Aqueous extraction (traditional)
 - Hydroalcoholic extraction (50-70% ethanol)
-- Milk decoction (Ksheerapaka — traditional bioenhanced form)
+- Milk decoction (Ksheerapaka, traditional bioenhanced form)
 - Supercritical CO2 for saponin enrichment
 - Spray-drying with maltodextrin for instant powder
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) synergy — male + female reproductive health)
+- [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) synergy, male + female reproductive health)
 - [Lodhra](/herb/lodhra/) (gynecological formulations)
 - [Guduchi](/herb/guduchi/) (immunomodulatory and galactagogue combination)
 - [Yashtimadhu](/herb/yashtimadhu/) (ulcer-healing and mucosal protective synergy)
-- [Vidari](/herb/vidari/) (Brihana — nourishing tonic combinations)
+- [Vidari](/herb/vidari/) (Brihana, nourishing tonic combinations)
 - [Jeeraka](/herb/jeeraka/) (galactagogue formulations for lactating mothers)

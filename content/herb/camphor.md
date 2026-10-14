@@ -33,9 +33,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Camphor/meta-analys
 
 **Dosage Forms:** External Taila (medicated oil), Balm/ointment, Inhalation (steam/vapor), Lepa (paste), Internal use: highly restricted (1-2mg doses only, purified Bhimseni Kapoor)
 
-**Standard Dosage:** EXTERNAL: 1-5% in balms/oils; steam inhalation: 1-2 crystals in hot water. INTERNAL: 60-125mg purified camphor (Ayurvedic Pharmacopoeia); CAUTION: internal use only under expert supervision—toxic at >500mg doses.
+**Standard Dosage:** EXTERNAL: 1-5% in balms/oils; steam inhalation: 1-2 crystals in hot water. INTERNAL: 60-125mg purified camphor (Ayurvedic Pharmacopoeia); CAUTION: internal use only under expert supervision, toxic at >500mg doses.
 
-**Bioavailability:** Excellent absorption via all routes: dermal (rapid transdermal penetration due to terpene structure), inhalation (near-complete pulmonary absorption), and oral (rapid and complete GI absorption—hence toxicity concern). Hepatic metabolism via CYP2A6 to hydroxycamphor and camphor glucuronide. Half-life: 2-4 hours. Crosses BBB readily. Dermal absorption is the preferred therapeutic route for safety.
+**Bioavailability:** Excellent absorption via all routes: dermal (rapid transdermal penetration due to terpene structure), inhalation (near-complete pulmonary absorption), and oral (rapid and complete GI absorption, hence toxicity concern). Hepatic metabolism via CYP2A6 to hydroxycamphor and camphor glucuronide. Half-life: 2-4 hours. Crosses BBB readily. Dermal absorption is the preferred therapeutic route for safety.
 
 **Optimal Timing:** External application as needed for pain/congestion; steam inhalation at bedtime for respiratory relief; internal use: only as prescribed by qualified Vaidya
 
@@ -43,15 +43,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Camphor/meta-analys
 
 **Shelf Life:** 3 years (crystalline camphor, sealed); 2 years (balms/ointments); 3 years (medicated oils)
 
-**Storage:** Airtight containers essential—sublimes at room temperature. Keep away from heat and flame. Separate from food products. Child-proof packaging mandatory. Store below 25°C in well-sealed glass or HDPE containers.
+**Storage:** Airtight containers essential, sublimes at room temperature. Keep away from heat and flame. Separate from food products. Child-proof packaging mandatory. Store below 25°C in well-sealed glass or HDPE containers.
 
-**Marker Compounds:** d-Camphor (1,7,7-trimethylbicyclo[2.2.1]heptan-2-one), [Borneol](/glossary/compounds-a-c/#borneol), [Camphene](/glossary/compounds-a-c/#camphene), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Alpha-pinene, [Safrole](/glossary/compounds-q-t/#safrole) (in crude oil—must be below limits)
+**Marker Compounds:** d-Camphor (1,7,7-trimethylbicyclo[2.2.1]heptan-2-one), [Borneol](/glossary/compounds-a-c/#borneol), [Camphene](/glossary/compounds-a-c/#camphene), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Alpha-pinene, [Safrole](/glossary/compounds-q-t/#safrole) (in crude oil, must be below limits)
 
 ### Extraction Methods
 
 - Steam distillation from Cinnamomum camphora wood (natural camphor)
 - Sublimation purification for Bhimseni Kapoor (natural camphor)
-- Synthetic production from turpentine (synthetic camphor—not acceptable for Ayurvedic use)
+- Synthetic production from turpentine (synthetic camphor, not acceptable for Ayurvedic use)
 - Fractional distillation of camphor oil
 
 ### Synergistic Combinations

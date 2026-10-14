@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kumbhika/meta-analysis.md"
 
 **Shelf Life:** 18 months for powder; 24 months for capsules; decoction consumed within 24 hours; fresh juice within 6 hours
 
-**Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Mucilaginous preparations are prone to microbial growth — ensure moisture content <10%.
+**Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Mucilaginous preparations are prone to microbial growth. Ensure moisture content <10%.
 
 **Marker Compounds:** Oleanolic acid, Betulinic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Quercetin](/reference/quercetinquercetin/), Gallic acid, [Tannins](/reference/tannins/)
 

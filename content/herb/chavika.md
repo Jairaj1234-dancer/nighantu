@@ -38,9 +38,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavika/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Component of compound formulations
 
-**Standard Dosage:** 1-3g powder twice daily; 50-100ml decoction; 500mg extract capsule. Pungent herb—start with lower doses.
+**Standard Dosage:** 1-3g powder twice daily; 50-100ml decoction; 500mg extract capsule. Pungent herb, start with lower doses.
 
-**Bioavailability:** Piper chaba (syn. P. retrofractum)—closely related to [Pippali](/herb/pippali/). [Piperine](/reference/piperine/) and [piperlongumine](/glossary/compounds-o-q/#piperlongumine) show excellent oral bioavailability (>85%). Self-bioenhancing herb through CYP3A4 and P-gp inhibition. Rapid GI absorption of piperine [alkaloids](/glossary/compounds-1-a/#alkaloids). Thermogenic effect increases splanchnic blood flow and absorption of co-administered compounds. Essentially functions as a bioenhancer (Yogavahi) like [Pippali](/herb/pippali/).
+**Bioavailability:** Piper chaba (syn. P. retrofractum), closely related to [Pippali](/herb/pippali/). [Piperine](/reference/piperine/) and [piperlongumine](/glossary/compounds-o-q/#piperlongumine) show excellent oral bioavailability (>85%). Self-bioenhancing herb through CYP3A4 and P-gp inhibition. Rapid GI absorption of piperine [alkaloids](/glossary/compounds-1-a/#alkaloids). Thermogenic effect increases splanchnic blood flow and absorption of co-administered compounds. Essentially functions as a bioenhancer (Yogavahi) like [Pippali](/herb/pippali/).
 
 **Optimal Timing:** Before or with meals for digestive enhancement; as bioenhancer taken concurrently with target formulation
 
@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavika/meta-analysis.md"
 
 - With Shunthi and Maricha as [Trikatu](/herb/trikatu/) variant for digestive enhancement
 - With Chitraka for Agni (digestive fire) stimulation
-- With [Haridra](/herb/haridra/)—enhances [curcumin](/herb/curcumin/) bioavailability (piperine effect)
+- With [Haridra](/herb/haridra/), enhances [curcumin](/herb/curcumin/) bioavailability (piperine effect)
 - With [Guduchi](/herb/guduchi/) for immunomodulation with enhanced absorption

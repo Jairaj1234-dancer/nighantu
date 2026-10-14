@@ -151,7 +151,7 @@ const byStage = s.rejectedByStage as Record<string, number> | undefined;
       <dl>
         {run.examples.map((e: any) => (
           <>
-            <dt><code>{e.slug}</code>{e.candidate ? <> — proposed <em>{e.candidate}</em></> : null}</dt>
+            <dt><code>{e.slug}</code>{e.candidate ? <>, proposed <em>{e.candidate}</em></> : null}</dt>
             <dd>{e.basis}</dd>
           </>
         ))}

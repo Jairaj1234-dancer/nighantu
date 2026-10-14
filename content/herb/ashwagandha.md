@@ -184,7 +184,7 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 ### Extraction Methods
 
 - Hydroalcoholic extraction (70:30) for withanolide enrichment
-- Aqueous extraction (milk decoction — classical Kshirapaka)
+- Aqueous extraction (milk decoction, classical Kshirapaka)
 - Supercritical CO2 for withanolide-enriched fraction
 - Green extraction using deep eutectic solvents (emerging)
 - Spray-dried aqueous extract for Ghana Vati

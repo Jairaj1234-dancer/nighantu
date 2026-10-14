@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (stem powder), Capsule, Tablet, Swarasa (fresh stem juice), Sandhi [Bala](/herb/bala/) Taila (medicated oil — external), Lepa (bone-setting paste), Ghana Vati
+**Dosage Forms:** Churna (stem powder), Capsule, Tablet, Swarasa (fresh stem juice), Sandhi [Bala](/herb/bala/) Taila (medicated oil, external), Lepa (bone-setting paste), Ghana Vati
 
 **Standard Dosage:** 3-6g stem powder twice daily; 500mg-1g extract capsule twice daily; 10-20ml fresh stem juice; external paste/oil as needed
 

@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (decoction)
 
-**Storage:** Cool, dry place away from light. Andrographolide is light-sensitive—use amber containers. Temperature below 25°C for extract-based products.
+**Storage:** Cool, dry place away from light. Andrographolide is light-sensitive, use amber containers. Temperature below 25°C for extract-based products.
 
 **Marker Compounds:** Andrographolide, [Neoandrographolide](/glossary/compounds-l-o/#neoandrographolide), 14-deoxy-11,12-didehydroandrographolide, [Andrograpanin](/glossary/compounds-1-a/#andrograpanin), Andrographiside, Kalmeghin
 

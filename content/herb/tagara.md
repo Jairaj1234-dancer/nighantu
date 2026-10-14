@@ -121,7 +121,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Tagara/meta-analysis.m
 
 ### Extraction Methods
 
-- Hydroalcoholic extraction (60-70% ethanol — standard for valerenic acid enrichment)
+- Hydroalcoholic extraction (60-70% ethanol, standard for valerenic acid enrichment)
 - Aqueous extraction (lower valerenic acid but higher GABA content)
 - Steam distillation for essential oil (yield 0.5-2%)
 - Supercritical CO2 for iridoid-enriched fraction

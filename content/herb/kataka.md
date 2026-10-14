@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 **Storage:** Store seeds and powder in airtight containers at 15-30°C. Protein-based extracts require refrigeration (2-8°C). Protect from insect infestation.
 
-**Marker Compounds:** Dimorphic acid, Mannose-specific lectin, Cationic polypeptides, Brucine (must be absent — distinguishes from S. nux-vomica), Diaboline, [Loganin](/glossary/compounds-l-o/#loganin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Dimorphic acid, Mannose-specific lectin, Cationic polypeptides, Brucine (must be absent, distinguishes from S. nux-vomica), Diaboline, [Loganin](/glossary/compounds-l-o/#loganin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Extraction Methods
 

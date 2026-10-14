@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 **Shelf Life:** 2 years (seed powder); 3 years (capsule/tablet); 2 years (oil); 1 year (ointment)
 
-**Storage:** Seeds and powder in airtight containers. Oil in amber glass bottles. Ointments at room temperature in tubes. Protect from light—anthraquinones are photosensitive.
+**Storage:** Seeds and powder in airtight containers. Oil in amber glass bottles. Ointments at room temperature in tubes. Protect from light, anthraquinones are photosensitive.
 
 **Marker Compounds:** Chrysophanol, Physcion, Emodin, Obtusin, Aurantio-obtusin, Chryso-obtusin, Rubrofusarin, Torachrysone
 

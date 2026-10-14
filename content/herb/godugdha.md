@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 **Optimal Timing:** Morning or evening; warm with spices ([turmeric](/herb/turmeric/), cardamom)
 
-**Standardized Extract:** N/A — whole food vehicle
+**Standardized Extract:** N/A, whole food vehicle
 
 **Shelf Life:** Fresh: 24–48 hours refrigerated; boiled: 48–72 hours
 

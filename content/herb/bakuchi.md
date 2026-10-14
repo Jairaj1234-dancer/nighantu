@@ -84,11 +84,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Taila (seed oil — topical), Capsule, Tablet, Lepa (seed paste — topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
+**Dosage Forms:** Churna (seed powder), Taila (seed oil, topical), Capsule, Tablet, Lepa (seed paste, topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
 
-**Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic — photosensitivity management required.
+**Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic, photosensitivity management required.
 
-**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it — this is the basis of photochemotherapy for vitiligo and psoriasis.
+**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it, this is the basis of photochemotherapy for vitiligo and psoriasis.
 
 **Optimal Timing:** Internal: after meals to reduce GI irritation. Topical: apply oil to affected area 30-60 minutes before controlled sun exposure (morning sun, 10-15 minutes). Avoid application before prolonged sun exposure.
 
