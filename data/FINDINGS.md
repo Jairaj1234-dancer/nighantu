@@ -244,9 +244,11 @@ Read each against the predictions recorded **before** the run, not after.
   ("Parrot seed. Bastard saffron"), `nikochaka`, `udumbara`, and `surana`'s Telugu.
 - Five names look like character confusions and need a source: `eranda` "Pahchangul", `draksha`
   "Munkka", `bijapura` "Bijoura", `ishwari` "Gandhnakuli", `apamarga` "Kharamanjar".
-- **3,556 em dashes across 290 content pages.** The standing rule is no em dashes in deliverables.
-  Answer blocks are clean, all 788 of them; the body prose predates the rule. Rewriting it means
-  rephrasing sentences on 290 pages, so it is a decision rather than a sweep.
+- ~~3,556 em dashes across 290 content pages.~~ **Done 14 Oct.** content/ and guides/ are at zero
+  and `audit.mjs` now gates it. 305 remain in the published pages and all of them are somebody
+  else's punctuation: Kaviratna's and Bhishagratna's translations, a PubMed paper title, chapter
+  titles as printed, and AFI scan notes. Those must stay, and the data pass works from a field
+  whitelist so `quote`, `verse` and `ocrCorrected` cannot be reached by accident.
 - Dr. Singh's `sameAs`: council registration, ORCID or SBRI page. Offered, not supplied.
 - **The four contextual store links and the footer anchor on `ageayurveda.com`.** Shopify-side, not
   in this repo, and on current evidence **the highest-value unpulled item on this list**: the store
@@ -292,6 +294,27 @@ Read each against the predictions recorded **before** the run, not after.
   sentence rather than reconstructing it.
 - Re-swept afterwards: 0 unbalanced brackets, 0 hedged identities, 0 filler openers, 0 em dashes
   across all 788 answer blocks.
+
+### Em dashes, cleared 14 Oct
+- The rules came from counting what follows each dash, not from judgement about what reads well:
+  2,260 precede an emphasis span (gloss list, comma), 771 precede an opening parenthesis (the dash
+  goes), 336 precede a lowercase phrase (comma), 17 are headings (colon), 13 precede an imperative
+  (full stop, because a comma there separates nothing).
+- **Two replacements were tried and rejected for being right on the cases that suggested them.** A
+  colon for every lowercase follower hit 263 lines that already carry a bold-label colon. Deleting
+  the dash before a third-person verb reads perfectly as "Restricted use requires strict Shodhana
+  protocols" but produces "acts as yogavahi enhances bioavailability" where the text before the
+  dash is already a predicate. Prefer the replacement that is never wrong over the one that is
+  sometimes better.
+- **A field being ours does not make every character in it ours.** The first data run removed the
+  WHO's own em dash from inside its own quoted index terms, inside one of our `assessment` notes.
+  Fixed with a quote-span guard; 69 dashes are now copied through for that reason.
+- Writing JSON at one-space indent reindented all 49,571 lines of `lexicon.json`, turning 245 real
+  edits into a 97,000-line diff. Detect and preserve each file's own indent: lexicon, names,
+  concepts and composition are two-space, identity and verification are one.
+- The ledger was **rehashed, not stamped**. Punctuation is not an editorial revision and dating 449
+  pages as modified in one day is the exact false-freshness signal `stamp-dates.mjs` exists to
+  prevent.
 
 ## 7. Standing rules that have been violated at least once
 
