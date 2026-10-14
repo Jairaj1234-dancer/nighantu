@@ -110,6 +110,32 @@ off-repo and is listed in section 6.
   positive number, but no link-building has ever been done, so zero is plausible. 546 never-fetched
   pages on a 1,240-page subdomain that nothing points at is the expected outcome, not a puzzle.
 
+### Google's AI features DO surface this site, and our own panel never saw it
+From the Search Console "Performance on Search, Generative AI Features" export, 17 Sep to 11 Oct
+(`measurement/gsc-genai/`):
+- **382 impressions over 25 days across 184 pages.** First non-zero day 27 Sep, peak **101 on
+  4 Oct**, last seven days 54, 8, 13, 41, 39, 30, 28, so roughly **30 a day**. 318 of the
+  impressions are India, 288 mobile. The export carries impressions only, no clicks.
+- **All 184 pages were "Submitted and indexed" in the 10 Oct coverage baseline. Every single one.**
+  So Google's AI surface draws only from the indexed set, which makes the crawl problem directly and
+  quantifiably the AI-citation problem: 686 of 1,240 pages are indexed, and the other 554 cannot
+  appear in an AI answer at all, whatever is written on them.
+- **The profile is the opposite of Bing's.** Herb monographs take 131 pages and 302 of the 388
+  page-attributed impressions; formulation takes 31 pages and 58. Concentration is low: the top page
+  is 4% and the top ten 26%, against Bing where one page is 39% and the top three are 60%. **Only 15
+  of these 184 pages overlap with the 57 Bing shows.** The two engines surface almost disjoint sets,
+  so "what works" has no single answer and a recommendation drawn from one engine does not transfer.
+- What unites them is the *kind* of query, not the collection: the herbs winning impressions are
+  obscure Sanskrit names (ushira, parpataka, jayapala, gorochana, mochras, tintidika, madanaphala,
+  matsyakshi, tumburu, chavya, devadali, satyanashi), which is the same rare-terminology demand the
+  Bing keyword report shows. Lexical coverage of terms nobody else has a page for is the asset.
+- `vamshalochana` is in that list, and it is the page whose botanical has no source. A page with a
+  known data defect is being served into Google's AI answers, which moves that fix up the list.
+- **Caveat on provenance.** `Filters.csv` records only `Search type, Web (text-based)` and
+  `Date, Last 28 days`. The generative-AI scoping is asserted by the export's filename and is not
+  in the file, so treat the AI attribution as the UI's claim rather than as something verified here.
+- **No API.** Hand-exported, like the Bing AI report.
+
 ### Bing: ranks us well, shows us rarely
 From `bing-performance.mjs`, 18 Sep to 10 Oct (`measurement/bing-queries/`):
 - **991 impressions, 20 clicks, CTR 2.02%**, 18 of 23 days active. Compare Google's snippet baseline:
@@ -146,18 +172,23 @@ From `bing-performance.mjs`, 18 Sep to 10 Oct (`measurement/bing-queries/`):
     gitignored `measurement/bing-queries/`.
 
 ### Citations: zero, on both engines
-- `nighantu.ageayurveda.com` has **never** been cited in any of the four citation logs. Counted
-  13 Oct: 291 prompt rows, 27 cited, 34 citations, **every one to `ageayurveda.com`**.
+- **Distinguish our instrument from the phenomenon. This was got wrong twice in two days.** Our own
+  panel finds no citations: 291 prompt rows across the four citation logs, 27 cited, 34 citations,
+  every one to `ageayurveda.com` and none to this site (counted 13 Oct); the brand-comparison market
+  map, 50 questions at `--reps 3`, not cited on any; monograph, composition and property intents
+  0 of 120 asks. **Those are synthetic prompts through the Gemini API, and they are not Google
+  Search.** The production surfaces, measured by the two reports above, show 382 Google AI-feature
+  impressions and 239 Bing AI citations over the same weeks. "Our panel sees nothing" was twice
+  reported as "the engine does not surface us". It does not follow, and it was wrong both times.
 - The brand-comparison market map, 50 questions at `--reps 3` on 12 Oct: **not cited on any
   question**. Incumbent shares are in gitignored `measurement/`, not here.
 - Monograph, composition and property intents scored **0 of 120 asks** on Gemini. The designated
   negative control scored 33%.
-- **Consequence for planning, corrected on 14 Oct.** On Google there is no outcome variable with
-  signal: 0 citations and a snippet experiment powered to detect only a doubling, so nothing done
-  for Google is currently measurable. **On Bing there is.** 239 AI citations over 23 days, averaging
-  11.6 a day, is enough to detect a real change, and it is the only place a change is detectable.
-  So experiments belong on the Bing AI surface, and the baseline to measure them against is the
-  export above.
+- **Consequence for planning, corrected twice on 14 Oct.** Both engines have an outcome measure
+  with signal, and neither is the citation panel: **239 Bing AI citations** and **382 Google
+  AI-feature impressions** over the same few weeks. Those two hand exports are the baselines any
+  experiment should be read against. The citation panel measures the Gemini API, which has returned
+  zero throughout and has no demonstrated relationship to either production surface.
 
 ### Answer blocks and corpus integrity
 Across 802 answers: 1 filler opener (`vamshalochana`), **0** gate violations, 0 under the 10-word
@@ -196,7 +227,11 @@ pass 1, so three builds on identical content gave 838/466, 849/455, 838/466 whil
 | 17 Oct | Google coverage re-read, with four predictions written down before the run | `measurement/gsc-recheck/RUN.md` is the durable instruction. A session-only cron (`810e8e8c`, 10:23) will fire it if this session is still alive; if not, run it from RUN.md by hand. |
 | 8 Nov | Comparative-pages verdict | |
 | 14 Nov | Snippet difference-in-differences on the 399/403 cohorts | `scripts/snippet-experiment.mjs` |
-| Monthly, by hand | Bing **AI Performance** export. No API exists, so nothing will remind you. This is the project's only outcome measure with signal. | `measurement/bing-queries/` |
+| Monthly, by hand | Bing **AI Performance** export. No API exists, so nothing will remind you. | `measurement/bing-queries/` |
+| Monthly, by hand | Search Console **Performance on Search, Generative AI Features** export. No API either. | `measurement/gsc-genai/` |
+
+Those two hand exports are the project's only outcome measures with signal. Everything else is an
+input measure.
 
 Read each against the predictions recorded **before** the run, not after.
 
