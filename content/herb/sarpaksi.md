@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C, use within 7 days. Churna and capsules: below 25 deg C, airtight containers, protect from moisture.
 
-**Marker Compounds:** Quercetin, [Kaempferol](/reference/kaempferol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, Camptothecin (trace — must be below safety limit <0.001%)
+**Marker Compounds:** Quercetin, [Kaempferol](/reference/kaempferol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, Camptothecin (trace, must be below safety limit <0.001%)
 
 ### Extraction Methods
 

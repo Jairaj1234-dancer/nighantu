@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 **Standard Dosage:** 5-10g fruit pulp; 50-100ml decoction twice daily; 3-6g powder for mild laxative action; external paste as needed
 
-**Bioavailability:** Moderate to good bioavailability. Cassia fistula fruit pulp contains anthraquinone glycosides (rhein, sennoside-like compounds) that pass through the small intestine largely intact and are activated by colonic bacterial beta-glucosidases — classical prodrug mechanism for laxative action. Free anthraquinones are absorbed in the small intestine. Fistulic acid and other organic acids are well absorbed.
+**Bioavailability:** Moderate to good bioavailability. Cassia fistula fruit pulp contains anthraquinone glycosides (rhein, sennoside-like compounds) that pass through the small intestine largely intact and are activated by colonic bacterial beta-glucosidases, classical prodrug mechanism for laxative action. Free anthraquinones are absorbed in the small intestine. Fistulic acid and other organic acids are well absorbed.
 
 **Optimal Timing:** At bedtime with warm water or warm milk for laxative effect; morning empty stomach for skin conditions (internal detox); external paste anytime
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 **Shelf Life:** 2 years (powder/spray-dried pulp); 3 years (capsules/tablets); 6 months (fresh pulp extract, preserved); 18 months (decoction concentrate)
 
-**Storage:** Hygroscopic material — moisture-proof packaging essential. Cool, dry place below 25°C. Pods can be stored whole for up to 1 year at room temperature.
+**Storage:** Hygroscopic material, moisture-proof packaging essential. Cool, dry place below 25°C. Pods can be stored whole for up to 1 year at room temperature.
 
 **Marker Compounds:** Rhein, Fistulic acid, Sennosides (trace), [Chrysophanol](/glossary/compounds-c-d/#chrysophanol), Kaempferol, Oxyanthraquinones, Fistucacidin
 

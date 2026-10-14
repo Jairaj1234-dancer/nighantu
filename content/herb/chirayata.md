@@ -38,9 +38,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Chirayata/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), Tincture, Chirayata Arishta
 
-**Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction; 250-500mg extract capsule; 15-30ml Arishta. Extremely bitter—lower doses for compliance.
+**Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction; 250-500mg extract capsule; 15-30ml Arishta. Extremely bitter, lower doses for compliance.
 
-**Bioavailability:** [Amarogentin](/glossary/compounds-1-a/#amarogentin) shows moderate oral bioavailability (25-35%) with rapid absorption. [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) is well absorbed (40-50% bioavailability) and metabolized to erythrocentaurin. Xanthone [glycosides](/glossary/compounds-g-l/#glycosides) undergo gut microbial deglycosylation. Bitter taste activates bitter taste receptors (T2Rs) in the gut which contribute to therapeutic effect—whole decoction may be more effective than encapsulated isolates.
+**Bioavailability:** [Amarogentin](/glossary/compounds-1-a/#amarogentin) shows moderate oral bioavailability (25-35%) with rapid absorption. [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) is well absorbed (40-50% bioavailability) and metabolized to erythrocentaurin. Xanthone [glycosides](/glossary/compounds-g-l/#glycosides) undergo gut microbial deglycosylation. Bitter taste activates bitter taste receptors (T2Rs) in the gut which contribute to therapeutic effect, whole decoction may be more effective than encapsulated isolates.
 
 **Optimal Timing:** Before meals for bitter tonic and [hepatoprotective](/reference/hepatoprotective/) effects; morning dose preferred for fever; with honey to partially mask bitterness
 
@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Chirayata/meta-analysis.md"
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 5 years (Arishta)
 
-**Storage:** Cool, dry place in airtight containers. Protect from moisture—secoiridoids can hydrolyze. Light-protected packaging for xanthone stability.
+**Storage:** Cool, dry place in airtight containers. Protect from moisture, secoiridoids can hydrolyze. Light-protected packaging for xanthone stability.
 
 **Marker Compounds:** Amarogentin, Swertiamarin, [Sweroside](/glossary/compounds-q-t/#sweroside), Mangiferin, Swerchirin, [Gentianine](/glossary/compounds-d-g/#gentianine), Oleanolic acid, Ursolic acid, Decussatin
 

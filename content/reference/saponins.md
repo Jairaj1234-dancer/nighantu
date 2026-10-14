@@ -23,31 +23,31 @@ srcRel: "_Hub/Compounds/Saponins.md"
 
 ## Ayurveda
 
-- [Alabu](/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Alabu](/herb/alabu/), *Lagenaria siceraria (Molina) Standl.*
 - [Devadali](/herb/devadali/)
-- [Dhanyamla](/herb/dhanyamla/) — *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/herb/zingiber/) officinale, Citrus aurantifolia, etc.)*
+- [Dhanyamla](/herb/dhanyamla/), *Fermented grain formulation (composite - Oryza sativa, Panicum sumatrense, Paspalum scrobiculatum, [Zingiber](/herb/zingiber/) officinale, Citrus aurantifolia, etc.)*
 - [Dhatupaushtik Churna](/formulation/dhatupaushtik-churna/)
-- [Gajapippali](/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
+- [Gajapippali](/herb/gajapippali/), *Scindapsus officinalis (Roxb.) Schott*
 - [Hijal](/glossary/concepts-a-m/#hijal)
-- [Kadali Pushpa](/herb/kadali-pushpa/) — *Musa paradisiaca L. (inflorescence/flower)*
-- [Kadamba](/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
+- [Kadali Pushpa](/herb/kadali-pushpa/), *Musa paradisiaca L. (inflorescence/flower)*
+- [Kadamba](/herb/kadamba/), *Neolamarckia cadamba (Roxb.) Bosser*
 - [Karmaranga](/herb/karmaranga/)
-- [Kataka](/herb/kataka/) — *Strychnos potatorum L.f.*
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/) — *Amaranthus spinosus L.*
-- [Kulattha](/herb/kulattha/) — *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
-- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Mahabala](/herb/mahabala/) — *Sida rhombifolia L.*
-- [Mahamanjishthadi](/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
-- [Mudgaparni](/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
-- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Prishniparni](/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
-- [Rasona Garlic](/herb/rasona-garlic/) — *Allium sativum L.*
-- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Saptala](/herb/saptala/) — *Euphorbia dracunculoides Lam.*
-- [Surana](/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
-- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Kataka](/herb/kataka/), *Strychnos potatorum L.f.*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
+- [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
+- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
+- [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
+- [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*
+- [Mahamanjishthadi](/herb/mahamanjishthadi/), *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
+- [Mudgaparni](/herb/mudgaparni/), *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
+- [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
+- [Rasona Garlic](/herb/rasona-garlic/), *Allium sativum L.*
+- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
+- [Saptala](/herb/saptala/), *Euphorbia dracunculoides Lam.*
+- [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
+- [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
 
 ## Often Found With
 

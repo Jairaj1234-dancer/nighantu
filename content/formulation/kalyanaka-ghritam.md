@@ -70,7 +70,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/reference/piperine/), Gallic acid
 
-**Quality Parameters:** Same as Kalyanaka Ghrita — acid value, peroxide value, saponification value, refractive index, moisture, rancidity test, multi-marker HPTLC, microbial limits, heavy metals
+**Quality Parameters:** Same as Kalyanaka Ghrita, acid value, peroxide value, saponification value, refractive index, moisture, rancidity test, multi-marker HPTLC, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

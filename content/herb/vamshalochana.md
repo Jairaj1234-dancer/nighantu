@@ -27,10 +27,10 @@ Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced 
 
 ## Classical references
 
-- *Charaka Samhita* — named in medhya-rasayana contexts
-- *Bhavaprakasha Nighantu* — Haritakyadi Varga; cites *Kasahara* and *Daurbalyahara* actions
-- *Raja Nighantu* — "Vamsharochana"
-- *Sharangadhara Samhita* — prakshep in Avaleha kalpana
+- *Charaka Samhita*, named in medhya-rasayana contexts
+- *Bhavaprakasha Nighantu*, Haritakyadi Varga; cites *Kasahara* and *Daurbalyahara* actions
+- *Raja Nighantu*, "Vamsharochana"
+- *Sharangadhara Samhita*, prakshep in Avaleha kalpana
 
 ## Use in Chyawanprash
 
@@ -38,7 +38,7 @@ Added in the **Prakshep phase** (lukewarm, post-paka) along with [Pippali](/herb
 
 ## Adulteration note
 
-The commodity market is heavily adulterated with **calcium silicate** (chemically synthesized), borax, or chalk. Authentic Vamshalochana tests: soluble in HF but insoluble in HCl; gives clear silica fusion with Na₂CO₃; XRD shows amorphous halo (no sharp calcite peaks). Premium sourcing — hand-sorted nodules from Western Ghats or Northeast Indian bamboo belts.
+The commodity market is heavily adulterated with **calcium silicate** (chemically synthesized), borax, or chalk. Authentic Vamshalochana tests: soluble in HF but insoluble in HCl; gives clear silica fusion with Na₂CO₃; XRD shows amorphous halo (no sharp calcite peaks). Premium sourcing, hand-sorted nodules from Western Ghats or Northeast Indian bamboo belts.
 
 ## Safety
 

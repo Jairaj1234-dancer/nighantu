@@ -19,7 +19,7 @@ productHints: []
 words: 304
 srcRel: "Ayurveda/Classical-Texts/Ashtanga-Hridaya.md"
 ---
-One of the three canonical compendia of classical Ayurveda — the **Brihat Trayi** ("great triad") — alongside *Charaka Samhita* and *Sushruta Samhita*. Composed by **Vagbhata** circa 6th–7th century CE, *Ashtanga Hridaya* ("The Essence of the Eight Limbs") is a synthesis-treatise that distills and reorganizes the earlier Charaka and Sushruta corpus into a more compact, verse-pedagogical form.
+One of the three canonical compendia of classical Ayurveda, the **Brihat Trayi** ("great triad"), alongside *Charaka Samhita* and *Sushruta Samhita*. Composed by **Vagbhata** circa 6th–7th century CE, *Ashtanga Hridaya* ("The Essence of the Eight Limbs") is a synthesis-treatise that distills and reorganizes the earlier Charaka and Sushruta corpus into a more compact, verse-pedagogical form.
 
 ## Structure
 
@@ -38,14 +38,14 @@ The "eight limbs" (*Ashtanga*) of Ayurveda covered are: Kayachikitsa (internal m
 
 ## Why it matters for Chyawanprash
 
-Ashtanga Hridaya's **Uttarasthana** chapter on Rasayana cites the Chyawanprash formulation tradition with reference to *Charaka Chikitsasthana 1.1* (Rasayana Adhyaya, Abhayamalakiya pada). Vagbhata's compact verse-treatment of the Rasayana concept became the primary teaching reference for Kerala and South Indian Ayurvedic schools — hence the enduring pedagogical centrality of the text.
+Ashtanga Hridaya's **Uttarasthana** chapter on Rasayana cites the Chyawanprash formulation tradition with reference to *Charaka Chikitsasthana 1.1* (Rasayana Adhyaya, Abhayamalakiya pada). Vagbhata's compact verse-treatment of the Rasayana concept became the primary teaching reference for Kerala and South Indian Ayurvedic schools, hence the enduring pedagogical centrality of the text.
 
-Vagbhata also codifies the **viruddha (incompatibility) doctrine** — Sutrasthana Chapter 7 — including the *amrita-tulyam madhu vishavat bhavati ushnikritam* rule (honey heated becomes poisonous). This rule directly governs the Phase 4 cold-honey addition in classical Avaleha pharmacy.
+Vagbhata also codifies the **viruddha (incompatibility) doctrine**, Sutrasthana Chapter 7, including the *amrita-tulyam madhu vishavat bhavati ushnikritam* rule (honey heated becomes poisonous). This rule directly governs the Phase 4 cold-honey addition in classical Avaleha pharmacy.
 
 ## Commentaries
 
-- **Sarvangasundara** by Arunadatta (ca. 12th c.) — the foundational Sanskrit commentary
-- **Ayurvedarasayana** by Hemadri (ca. 13th c.) — the second principal commentary
+- **Sarvangasundara** by Arunadatta (ca. 12th c.), the foundational Sanskrit commentary
+- **Ayurvedarasayana** by Hemadri (ca. 13th c.), the second principal commentary
 - Modern English translations: Srikantha Murthy (Chowkhamba), Ranjit Rai Desai, and critical editions by CCRAS
 
 ## See also

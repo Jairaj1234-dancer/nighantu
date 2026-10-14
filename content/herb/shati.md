@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 50-100 mL kwatha twice daily; 5-10 g avaleha with honey twice daily; 500 mg capsule twice daily
 
-**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/herb/camphor/), [borneol](/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity — bioavailability monitoring important.
+**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/herb/camphor/), [borneol](/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes. Cucurbitacin content (if present) has dose-dependent toxicity, bioavailability monitoring important.
 
 **Optimal Timing:** After meals for respiratory indications; avaleha with honey for cough (Kasa) management; inhalation as needed
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Pippali](/herb/pippali/) (Kasa-Shvasa formulations — respiratory disorders)
+- [Pippali](/herb/pippali/) (Kasa-Shvasa formulations, respiratory disorders)
 - [Vasa](/herb/vasa/) ([bronchodilator](/reference/bronchodilator/) and expectorant synergy)
 - [Yashtimadhu](/herb/yashtimadhu/) (mucosal protective-expectorant combination)
 - [Pushkarmool](/herb/pushkarmool/) (comprehensive respiratory formulation)

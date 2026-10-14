@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 10-20ml juice; 30-60ml decoction. Primarily used in external and fumigation applications traditionally.
 
-**Bioavailability:** Limited modern pharmacokinetic data. Volatile aromatic compounds are rapidly absorbed via inhalation (fumigation route) and transdermally. Oral bioavailability of terpenoid constituents is moderate. Traditional use in Dhupana (fumigation) bypasses first-pass metabolism for volatile fractions. Note: limited modern evidence—further research needed.
+**Bioavailability:** Limited modern pharmacokinetic data. Volatile aromatic compounds are rapidly absorbed via inhalation (fumigation route) and transdermally. Oral bioavailability of terpenoid constituents is moderate. Traditional use in Dhupana (fumigation) bypasses first-pass metabolism for volatile fractions. Note: limited modern evidence, further research needed.
 
 **Optimal Timing:** Fumigation as needed for environmental purification; internal use before meals with warm water; external paste as needed
 

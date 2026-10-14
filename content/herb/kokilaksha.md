@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kokilaksha/meta-analysis.md"
 
 **Shelf Life:** 18 months for whole plant powder; 24 months for seed extract capsules; 24 hours for Ksheera Paka; 36 months for oil preparations
 
-**Storage:** Store in airtight containers at 15-30°C. Seed powder is prone to insect infestation — fumigate or use vacuum packaging. Ksheera Paka must be refrigerated and consumed within 24 hours.
+**Storage:** Store in airtight containers at 15-30°C. Seed powder is prone to insect infestation, fumigate or use vacuum packaging. Ksheera Paka must be refrigerated and consumed within 24 hours.
 
 **Marker Compounds:** 20-Hydroxyecdysone (Beta-ecdysterone), 25-Hydroxydacryhainansterone, Asteracanthine, Asteracanthicine, [Lupeol](/reference/lupeol/), [Stigmasterol](/reference/stigmasterol/), Betulinic acid, [Apigenin](/glossary/compounds-1-a/#apigenin)
 

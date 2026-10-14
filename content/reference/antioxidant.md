@@ -24,44 +24,44 @@ srcRel: "_Hub/Pharmacology/Antioxidant.md"
 ## Ayurveda (256)
 
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
-- [Adhaki](/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
-- [Agastya](/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
+- [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
+- [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
-- [Agnikarna](/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
-- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
-- [Akhuparni](/herb/akhuparni/) — *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
-- [Alabu](/herb/alabu/) — *Lagenaria siceraria (Molina) Standl.*
+- [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
+- [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
+- [Alabu](/herb/alabu/), *Lagenaria siceraria (Molina) Standl.*
 - [Amalaka Rasayana](/formulation/amalaka-rasayana/)
 - [Amalaki Rasayana](/formulation/amalaki-rasayana/)
-- [Ambasthaki](/herb/ambasthaki/) — *Cissampelos pareira L.*
-- [Amla](/herb/amla/) — *Phyllanthus emblica (syn. Emblica officinalis)*
-- [Amlaparni](/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Amlavetasa](/herb/amlavetasa/) — *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
-- [Amra](/herb/amra/) — *Mangifera indica L.*
+- [Ambasthaki](/herb/ambasthaki/), *Cissampelos pareira L.*
+- [Amla](/herb/amla/), *Phyllanthus emblica (syn. Emblica officinalis)*
+- [Amlaparni](/herb/amlaparni/), *Oxalis corniculata L.*
+- [Amlavetasa](/herb/amlavetasa/), *Garcinia pedunculata Roxb. ex Buch.-Ham. (primary); Rheum emodi Wall. ex Meissn. (substitute)*
+- [Amra](/herb/amra/), *Mangifera indica L.*
 - [Amrita Ghrita](/formulation/amrita-ghrita/)
-- [Ankola](/herb/ankola/) — *Alangium salviifolium (L.f.) Wangerin*
-- [Aparajita](/herb/aparajita/) — *Clitoria ternatea L.*
-- [Aragwadha](/herb/aragwadha/) — *Cassia fistula L.*
+- [Ankola](/herb/ankola/), *Alangium salviifolium (L.f.) Wangerin*
+- [Aparajita](/herb/aparajita/), *Clitoria ternatea L.*
+- [Aragwadha](/herb/aragwadha/), *Cassia fistula L.*
 - [Arjunarishta](/formulation/arjunarishta/)
 - [Arogyavardhini Vati](/formulation/arogyavardhini-vati/)
-- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
+- [Asana](/herb/asana/), *Pterocarpus marsupium Roxb.*
 - [Ashoka](/herb/ashoka/)
 - [Ashwagandharishta](/formulation/ashwagandharishta/)
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
-- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
-- [Atasi](/herb/atasi/) — *Linum usitatissimum L.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
+- [Asthishrinkhala](/herb/asthishrinkhala/), *Cissus quadrangularis L.*
+- [Atasi](/herb/atasi/), *Linum usitatissimum L.*
 - [Avipattikar Churna](/formulation/avipattikar-churna/)
-- [Babbula](/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bakuchi](/herb/bakuchi/) — *Psoralea corylifolia L. (syn. Cullen corylifolium)*
-- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Babbula](/herb/babbula/), *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bakuchi](/herb/bakuchi/), *Psoralea corylifolia L. (syn. Cullen corylifolium)*
+- [Bakula](/herb/bakula/), *Mimusops elengi L.*
 - [Balarishta](/formulation/balarishta/)
 - [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/)
-- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.*
 - [Bhringraj](/herb/bhringraj/)
-- [Bijapura](/herb/bijapura/) — *Citrus medica L.*
+- [Bijapura](/herb/bijapura/), *Citrus medica L.*
 
 ## Related Body Systems
 

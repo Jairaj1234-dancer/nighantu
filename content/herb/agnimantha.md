@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Agnimantha/meta-anal
 
 ## How is it used traditionally?
 
-Name means 'fire churner' — stimulates digestive fire. One of ten roots in [Dashamoola](/herb/dashamoola/). Used for Shotha (inflammation), Agnimandya (weak digestion), and Amavata (rheumatoid arthritis).
+Name means 'fire churner', stimulates digestive fire. One of ten roots in [Dashamoola](/herb/dashamoola/). Used for Shotha (inflammation), Agnimandya (weak digestion), and Amavata (rheumatoid arthritis).
 
 ## Where is it described in the classical texts?
 

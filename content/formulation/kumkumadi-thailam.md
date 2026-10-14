@@ -78,9 +78,9 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Marker Compounds:** Crocin, Crocetin, [Safranal](/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/glossary/compounds-1-a/#alizarin)
 
-**Quality Parameters:** Same as Kumkumadi Tailam — acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
+**Quality Parameters:** Same as Kumkumadi Tailam, acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
 
-**Vehicle (Anupana):** Not applicable — topical facial use
+**Vehicle (Anupana):** Not applicable, topical facial use
 
 ### Synergistic Combinations
 

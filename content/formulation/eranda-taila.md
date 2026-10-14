@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eranda-Tail
 
 **Shelf Life:** 3 years from date of manufacture (refined); 2 years (cold-pressed)
 
-**Storage:** Store in airtight amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Highly viscous — handling considerations in cold weather.
+**Storage:** Store in airtight amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Highly viscous, handling considerations in cold weather.
 
 **Marker Compounds:** Ricinoleic acid, Oleic acid, Linoleic acid, [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid)
 

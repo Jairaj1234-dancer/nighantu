@@ -22,7 +22,7 @@ faq:
 
 ## What it is
 
-Nasya is medication given through the nose. Tīkṣṇa nasya is the sharp or strong-acting end of that range: the record glosses it as strong-action nasal medication, files it under pañcakarma with the subcategory *recanaka*, and marks it vaidya-only. The record's own way of positioning it is by contrast — stronger than a gentle Aṇu Taila instillation, and more cleansing in intent.
+Nasya is medication given through the nose. Tīkṣṇa nasya is the sharp or strong-acting end of that range: the record glosses it as strong-action nasal medication, files it under pañcakarma with the subcategory *recanaka*, and marks it vaidya-only. The record's own way of positioning it is by contrast, stronger than a gentle Aṇu Taila instillation, and more cleansing in intent.
 
 ## Where it comes from in the classical literature
 

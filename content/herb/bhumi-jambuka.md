@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumi-Jambuka/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (fresh juice), Capsule, Lepa (paste)
 
-**Standard Dosage:** 3-6g powder twice daily; 10-20ml fresh juice; 50-100ml decoction. Limited modern dosage standardization—follow traditional Vaidya guidance.
+**Standard Dosage:** 3-6g powder twice daily; 10-20ml fresh juice; 50-100ml decoction. Limited modern dosage standardization, follow traditional Vaidya guidance.
 
 **Bioavailability:** Limited modern pharmacokinetic data available. Traditional preparations use honey or warm water as vehicles to enhance absorption. Mucilaginous content may provide sustained-release characteristics. Phenolic compounds likely undergo glucuronidation and sulfation in hepatic first-pass. Note: this is a less-studied herb requiring further pharmacokinetic investigation.
 

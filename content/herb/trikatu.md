@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trikatu/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Synergistic combination — piperine enhances absorption of other herbs and foods. Used for Agnimandya (weak digestion), Ama (metabolic toxins), Kasa (cough), and Sthaulya (obesity). Often added to other formulations as bioenhancer.
+Synergistic combination, piperine enhances absorption of other herbs and foods. Used for Agnimandya (weak digestion), Ama (metabolic toxins), Kasa (cough), and Sthaulya (obesity). Often added to other formulations as bioenhancer.
 
 ## Where is it described in the classical texts?
 

@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 5-10ml oil internally; 1-2 walnut kernels daily as dietary supplement
 
-**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota — urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
+**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota, urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
 
 **Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder with warm milk at bedtime for brain nourishment.
 

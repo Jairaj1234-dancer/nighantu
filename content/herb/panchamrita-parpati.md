@@ -73,7 +73,7 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Enhanced by Parpati (flake) form — maximum surface area
+**Bioavailability:** Enhanced by Parpati (flake) form, maximum surface area
 
 **Optimal Timing:** With buttermilk or rice water
 

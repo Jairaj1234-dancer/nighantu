@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-anal
 
 ### Synergistic Combinations
 
-- [Brahmi](/herb/brahmi/) (premier nootropic synergy — clinically studied)
+- [Brahmi](/herb/brahmi/) (premier nootropic synergy, clinically studied)
 - [Vacha](/herb/vacha/) (Medhya Rasayana combination per Charaka Samhita)
 - [Jatamansi](/herb/jatamansi/) ([anxiolytic](/reference/anxiolytic/)-cognitive combination)
 - [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and memory-enhancing synergy)

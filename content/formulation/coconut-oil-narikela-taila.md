@@ -88,13 +88,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 **Standard Dosage:** 5-15 mL orally; externally as required for Abhyanga, Shirodhara, and as base oil.
 
-**Bioavailability:** Rich in medium-chain triglycerides (MCTs) — lauric acid is rapidly absorbed and converted to monolaurin in the body. MCTs bypass normal lipid absorption pathway, going directly to liver via portal vein for rapid energy. Superior carrier oil for transdermal delivery of lipophilic drugs.
+**Bioavailability:** Rich in medium-chain triglycerides (MCTs), lauric acid is rapidly absorbed and converted to monolaurin in the body. MCTs bypass normal lipid absorption pathway, going directly to liver via portal vein for rapid energy. Superior carrier oil for transdermal delivery of lipophilic drugs.
 
 **Optimal Timing:** External: morning before bath. Internal: morning on empty stomach or as prescribed.
 
 **Shelf Life:** 2 years (virgin cold-pressed), 3 years (refined) from date of manufacture
 
-**Storage:** Store in airtight glass or food-grade containers. Solidifies below 24°C (normal). Temperature not exceeding 30°C for liquid state. Stable oil — less prone to oxidative rancidity than polyunsaturated oils.
+**Storage:** Store in airtight glass or food-grade containers. Solidifies below 24°C (normal). Temperature not exceeding 30°C for liquid state. Stable oil, less prone to oxidative rancidity than polyunsaturated oils.
 
 **Marker Compounds:** Lauric acid, Myristic acid, Capric acid, Caprylic acid, Tocopherols, Polyphenols (in virgin oil)
 

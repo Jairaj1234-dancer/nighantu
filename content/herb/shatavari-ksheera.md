@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ### Synergistic Combinations
 
-- [Saffron](/herb/saffron/) (premium reproductive tonic — Kesar-Shatavari Doodh)
+- [Saffron](/herb/saffron/) (premium reproductive tonic, Kesar-Shatavari Doodh)
 - [Ashwagandha](/herb/ashwagandha/) (adaptogenic milk tonic)
 - Cardamom + Cinnamon (flavor enhancement and digestive aid)
 - Jaggery/Mishri (traditional sweetener and iron source)

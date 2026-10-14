@@ -71,7 +71,7 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 **Standard Dosage:** 2-6 drops in each nostril (Pratimarsha Nasya) or 6-8 drops (Marsha Nasya). The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Sutrasthana, Adhyaya 20; 37-38.
 
-**Bioavailability:** Nasal route (Nasya) provides direct access to CNS via olfactory and trigeminal nerve pathways, bypassing first-pass metabolism. Oil base provides sustained release of lipophilic actives on nasal mucosa. Absorption is rapid — onset within 5-15 minutes.
+**Bioavailability:** Nasal route (Nasya) provides direct access to CNS via olfactory and trigeminal nerve pathways, bypassing first-pass metabolism. Oil base provides sustained release of lipophilic actives on nasal mucosa. Absorption is rapid, onset within 5-15 minutes.
 
 **Optimal Timing:** Morning on empty stomach after Abhyanga (oil massage) and Swedana (fomentation) of face. Avoid in rainy/cloudy weather per classical guidelines.
 
@@ -83,7 +83,7 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 **Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
 
-**Vehicle (Anupana):** Not applicable — administered nasally. Warm oil (slightly above body temperature) preferred for Nasya.
+**Vehicle (Anupana):** Not applicable, administered nasally. Warm oil (slightly above body temperature) preferred for Nasya.
 
 ### Synergistic Combinations
 

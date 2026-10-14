@@ -10,7 +10,7 @@ answer: "Kapha Shirodhara Taila is a classical Ayurvedic taila, a medicated oil.
 botanical: ""
 family: ""
 sanskrit: ""
-ayurvedicCategory: "External Shirodhara (murdha-taila) oil — Kapha-shamaka"
+ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Kapha-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Kapha Shirodhara Taila", "Kapha-Pacifying Shirodhara Oil", "Kapha Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "kapha-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
@@ -30,20 +30,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kapha-Shiro
 
 ## Key Ingredients
 
-- [Punarnava](/herb/punarnava/) (*Boerhavia diffusa*) — shothahara, Kapha-shamaka
-- [Chitrak](/herb/chitrak/) (*Plumbago zeylanica*) — ushna virya, deepana-pachana, lekhana
-- [Neem](/herb/neem/) (*Azadirachta indica*) — tikta-kashaya, Kapha-Pitta shamaka, keshya
-- [Manjistha](/herb/manjistha/) (*Rubia cordifolia*) — rakta-prasadana, varnya
-- Bhumi Amalaki (*Phyllanthus niruri*) — tikta-kashaya, Kapha-Pitta shamaka
-- [Vacha](/herb/vacha/) (*Acorus calamus*) — medhya, teekshna, pronounced Kapha-shamaka
-- [Tulsi](/herb/tulsi/) (*Ocimum tenuiflorum*) — ushna virya aromatic, Kapha-Vata shamaka
-- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
-- Nilgiri (*Eucalyptus globulus* — eucalyptus oil) — ushna-virya, 1,8-cineole-rich aromatic
-- Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
+- [Punarnava](/herb/punarnava/) (*Boerhavia diffusa*), shothahara, Kapha-shamaka
+- [Chitrak](/herb/chitrak/) (*Plumbago zeylanica*), ushna virya, deepana-pachana, lekhana
+- [Neem](/herb/neem/) (*Azadirachta indica*), tikta-kashaya, Kapha-Pitta shamaka, keshya
+- [Manjistha](/herb/manjistha/) (*Rubia cordifolia*), rakta-prasadana, varnya
+- Bhumi Amalaki (*Phyllanthus niruri*), tikta-kashaya, Kapha-Pitta shamaka
+- [Vacha](/herb/vacha/) (*Acorus calamus*), medhya, teekshna, pronounced Kapha-shamaka
+- [Tulsi](/herb/tulsi/) (*Ocimum tenuiflorum*), ushna virya aromatic, Kapha-Vata shamaka
+- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum*, sesame oil), classical Snehakarma base
+- Nilgiri (*Eucalyptus globulus*, eucalyptus oil), ushna-virya, 1,8-cineole-rich aromatic
+- Lavender Oil (*Lavandula angustifolia*), aromatic fraction for the shiro-dhara experience
 
 ## Where is it described in the classical texts?
 
-Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**. In Kapha-predominant presentations of the head region — heaviness, mental dullness, sluggishness of the senses, and accumulated tarpaka kapha — the therapy is adapted with a warmer oil, a slightly shorter session, and lekhana (scraping) and ushna (warming) herbs to help mobilise and lighten kapha. This formulation follows the Kapha-shamaka taila principle: ushna-virya, teekshna and lekhana dravyas compounded in a Tila-taila base.
+Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**. In Kapha-predominant presentations of the head region, heaviness, mental dullness, sluggishness of the senses, and accumulated tarpaka kapha, the therapy is adapted with a warmer oil, a slightly shorter session, and lekhana (scraping) and ushna (warming) herbs to help mobilise and lighten kapha. This formulation follows the Kapha-shamaka taila principle: ushna-virya, teekshna and lekhana dravyas compounded in a Tila-taila base.
 
 ## How does it work?
 
@@ -55,7 +55,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 ## Traditional Uses (External Shirodhara Context)
 
 - Traditionally used in Shirodhara to help clear a heavy, foggy head and support sensory alertness.
-- Supports a feeling of lightness, clarity and refreshed attention when applied externally as shiro-abhyanga or shiro-dhara — often paired with a warm herbal rinse.
+- Supports a feeling of lightness, clarity and refreshed attention when applied externally as shiro-abhyanga or shiro-dhara, often paired with a warm herbal rinse.
 - Traditionally favoured in the morning (Kapha time of day) rather than at night.
 
 ## Clinical research on Shirodhara and its key herbs
@@ -75,7 +75,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 ## Directions for Use (External Only)
 
 - **Shirodhara:** warm to ~40–42 °C (a little warmer than a Vata Shirodhara, favouring a mobilising stream). Pour in a continuous unbroken stream over the ajna marma for 25–35 minutes.
-- **Shiro-abhyanga:** massage a warmed quantity vigorously into scalp and temples — preferably in the morning (Kapha time of day) — leave 20–30 min and cleanse with a warm herbal rinse.
+- **Shiro-abhyanga:** massage a warmed quantity vigorously into scalp and temples, preferably in the morning (Kapha time of day), leave 20–30 min and cleanse with a warm herbal rinse.
 - **Pada-abhyanga:** a small quantity to the soles of the feet before sleep, per the classical murdha-taila routine.
 
 ## Safety, contraindications and cautions

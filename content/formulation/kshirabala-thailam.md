@@ -68,7 +68,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 **Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India, Part I, entry 8:11 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
 
-**Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Multi-avartana processing concentrates actives — 101 avartana oil is significantly more potent per drop. Nasya route provides direct CNS access. Internal use provides systemic distribution via lipid absorption pathway.
+**Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Multi-avartana processing concentrates actives, 101 avartana oil is significantly more potent per drop. Nasya route provides direct CNS access. Internal use provides systemic distribution via lipid absorption pathway.
 
 **Optimal Timing:** External: morning Abhyanga. Internal: before meals or bedtime. Nasya: morning on empty stomach.
 

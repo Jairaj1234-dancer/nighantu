@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Curcumin/meta-analysis.md"
 
 **Standardized Extract:** 95% curcuminoid extract (standard commodity); Curcumin C3 Complex (patented); BCM-95 (curcumin + essential oil, 95% curcuminoids + 7% [turmerones](/glossary/compounds-t-z/#turmerones)); Meriva Phytosome (curcumin-phosphatidylcholine complex, 20% curcuminoids); Theracurmin (nanoparticle, 10-30% curcumin); Longvida (SLCP, 20% curcumin)
 
-**Shelf Life:** 2 years (turmeric powder); 3 years (standardized extract capsule/tablet); 2 years (soft gels); 1 year (liquid/liposomal—temperature sensitive)
+**Shelf Life:** 2 years (turmeric powder); 3 years (standardized extract capsule/tablet); 2 years (soft gels); 1 year (liquid/liposomal, temperature sensitive)
 
 **Storage:** Protect from light (photodegradation is the primary stability concern). Amber containers or opaque packaging mandatory. Cool, dry conditions below 25°C. Avoid alkaline contact during storage. Nitrogen-flush capsule bottles to prevent oxidation.
 
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Curcumin/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Piperine ([Black Pepper](/herb/black-pepper/))—the definitive bioavailability synergy (2000% enhancement)
+- With Piperine ([Black Pepper](/herb/black-pepper/)), the definitive bioavailability synergy (2000% enhancement)
 - With Boswellia for anti-inflammatory synergy (joint health)
 - With [Ashwagandha](/herb/ashwagandha/) for stress and inflammation
 - With [Quercetin](/reference/quercetinquercetin/) for enhanced anti-inflammatory action

@@ -23,13 +23,13 @@ srcRel: "_Hub/Compounds/Oleanolic-acid.md"
 
 ## Ayurveda
 
-- [Agastya](/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
-- [Apamarga](/herb/apamarga/) — *Achyranthes aspera L.*
+- [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
+- [Apamarga](/herb/apamarga/), *Achyranthes aspera L.*
 - [Badara](/herb/badara/)
-- [Bharangi](/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
+- [Bharangi](/herb/bharangi/), *Clerodendrum serratum (L.) Moon*
 - [Bhurja](/herb/bhurja/)
 - [Chirayata](/herb/chirayata/)
-- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
+- [Dhamasa](/herb/dhamasa/), *Fagonia cretica L. / Fagonia arabica L.*
 - [Dronapushpi](/herb/dronapushpi/)
 - [Holy Basil](/herb/holy-basil/)
 - [Jambu](/herb/jambu/)
@@ -38,22 +38,22 @@ srcRel: "_Hub/Compounds/Oleanolic-acid.md"
 - [Kiratatikta](/herb/kiratatikta/)
 - [Koshataki](/herb/koshataki/)
 - [Kumbhika](/herb/kumbhika/)
-- [Laung](/herb/laung/) — *Syzygium aromaticum*
-- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Lodhra](/herb/lodhra/) — *Symplocos racemosa Roxb.*
-- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Laung](/herb/laung/), *Syzygium aromaticum*
+- [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
+- [Lodhra](/herb/lodhra/), *Symplocos racemosa Roxb.*
+- [Madanaphala](/herb/madanaphala/), *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
 - [Matsyakshi](/herb/matsyakshi/)
-- [Parijata](/herb/parijata/) — *Nyctanthes arbor-tristis L.*
+- [Parijata](/herb/parijata/), *Nyctanthes arbor-tristis L.*
 - [Parnayavani](/herb/parnayavani/)
 - [Parpataka](/herb/parpataka/)
-- [Prasarini](/herb/prasarini/) — *Paederia foetida L.*
-- [Prishniparni](/herb/prishniparni/) — *Uraria picta (Jacq.) DC.*
-- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
-- [Saptala](/herb/saptala/) — *Euphorbia dracunculoides Lam.*
+- [Prasarini](/herb/prasarini/), *Paederia foetida L.*
+- [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
+- [Priyangu](/herb/priyangu/), *Callicarpa macrophylla Vahl.*
+- [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
+- [Saptala](/herb/saptala/), *Euphorbia dracunculoides Lam.*
 - [Satina](/glossary/concepts-m-y/#satina)
 - [Simhamoola](/herb/simhamoola/)
-- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Tulsi](/herb/tulsi/), *Ocimum tenuiflorum (syn. O. sanctum)*
 
 ## Often Found With
 

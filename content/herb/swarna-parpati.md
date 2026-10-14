@@ -76,7 +76,7 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 **Standard Dosage:** 15–30 mg
 
-**Bioavailability:** Maximum — gold in Parpati (flake) form with maximal surface area
+**Bioavailability:** Maximum, gold in Parpati (flake) form with maximal surface area
 
 **Optimal Timing:** With honey or specific vehicle per condition
 

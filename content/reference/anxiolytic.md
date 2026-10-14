@@ -23,41 +23,41 @@ srcRel: "_Hub/Pharmacology/Anxiolytic.md"
 
 ## Ayurveda (36)
 
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
-- [Aparajita](/herb/aparajita/) — *Clitoria ternatea L.*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
+- [Aparajita](/herb/aparajita/), *Clitoria ternatea L.*
 - [Ashwagandharishta](/formulation/ashwagandharishta/)
 - [Badara](/herb/badara/)
-- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
-- [Bhanga](/herb/bhanga/) — *Cannabis sativa L. / Cannabis indica Lam.*
+- [Bakula](/herb/bakula/), *Mimusops elengi L.*
+- [Bhanga](/herb/bhanga/), *Cannabis sativa L. / Cannabis indica Lam.*
 - [Bhutakeshi](/herb/bhutakeshi/)
-- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi](/herb/brahmi/), *Bacopa monnieri*
 - [Brahmi Ghritam](/formulation/brahmi-ghritam/)
-- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
-- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Dhanyaka](/herb/dhanyaka/), *Coriandrum sativum L.*
+- [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Gomeda Bhasma](/herb/gomeda-bhasma/)
-- [Gorakhmundi](/herb/gorakhmundi/) — *Sphaeranthus indicus L.*
+- [Gorakhmundi](/herb/gorakhmundi/), *Sphaeranthus indicus L.*
 - [Himasagara Thailam](/formulation/himasagara-thailam/)
 - [Jatamansi](/herb/jatamansi/)
 - [Jyotishmati](/herb/jyotishmati/)
 - [Ketaki](/herb/ketaki/)
-- [Kushmanda](/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.*
 - [Lakuca](/herb/lakuca/)
 - [Mandukparni](/herb/mandukparni/)
 - [Mukta Pishti](/herb/mukta-pishti/)
-- [Nirgundi](/herb/nirgundi/) — *Vitex negundo L.*
+- [Nirgundi](/herb/nirgundi/), *Vitex negundo L.*
 - [Paribhadra](/herb/paribhadra/)
-- [Pudina](/herb/pudina/) — *Mentha spicata*
+- [Pudina](/herb/pudina/), *Mentha spicata*
 - [Raupya Bhasma](/herb/raupya-bhasma/)
 - [Rudraksha](/herb/rudraksha/)
-- [Saffron](/herb/saffron/) — *Crocus sativus*
+- [Saffron](/herb/saffron/), *Crocus sativus*
 - [Saraswatarishta](/formulation/saraswatarishta/)
-- [Sarpagandha](/herb/sarpagandha/) — *Rauvolfia serpentina (L.) Benth. ex Kurz*
+- [Sarpagandha](/herb/sarpagandha/), *Rauvolfia serpentina (L.) Benth. ex Kurz*
 - [Shankhini](/herb/shankhini/)
 - [Tagara](/herb/tagara/)
-- [Ushira](/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
-- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
-- [Vrikshamla](/herb/vrikshamla/) — *Garcinia indica (Thouars) Choisy (also includes reference to Garcinia cambogia/gummi-gutta)*
-- [Yuthika](/herb/yuthika/) — *Jasminum auriculatum Vahl*
+- [Ushira](/herb/ushira/), *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Vanapsa](/herb/vanapsa/), *Viola odorata L.*
+- [Vrikshamla](/herb/vrikshamla/), *Garcinia indica (Thouars) Choisy (also includes reference to Garcinia cambogia/gummi-gutta)*
+- [Yuthika](/herb/yuthika/), *Jasminum auriculatum Vahl*
 
 ## Related Body Systems
 

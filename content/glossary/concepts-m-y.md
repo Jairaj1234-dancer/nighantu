@@ -10,7 +10,7 @@ partCount: 2
 entryCount: 61
 answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn from the Ayurvedic materia medica, each listing the herbs it occurs in and the compounds it commonly appears alongside."
 ---
-### Men's Health & Vitality — Across Traditions {#mens-health-vitality-across-traditions}
+### Men's Health & Vitality: Across Traditions {#mens-health-vitality-across-traditions}
 
 *Comparing approaches to men's health & vitality across 5 healing traditions*
 
@@ -105,7 +105,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Optimal Timing:** Any meal; Yusha during illness/convalescence
 
-**Standardized Extract:** Mudga Yusha (therapeutic mung soup) — premier pathya (dietary therapy)
+**Standardized Extract:** Mudga Yusha (therapeutic mung soup), premier pathya (dietary therapy)
 
 **Shelf Life:** Whole: 12+ months; sprouts: 2–3 days; Yusha: consume fresh
 
@@ -139,7 +139,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 ### Mineral/Elemental Profile
 
 - **Lead oxide (PbO):** Major component (traditionally)
-- **Note:** Contains heavy metals — restricted use; modern preparations use purification (Shodhana) to reduce toxicity
+- **Note:** Contains heavy metals, restricted use; modern preparations use purification (Shodhana) to reduce toxicity
 
 **Analytical Methods:** AAS (lead quantification), ICP-MS, XRD
 
@@ -147,13 +147,13 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 30–60 mg (lead preparation — strict dosing)
+**Standard Dosage:** 30–60 mg (lead preparation, strict dosing)
 
 **Bioavailability:** Converted to lead oxide nanoparticles through Marana; toxicity eliminated per traditional parameters
 
 **Optimal Timing:** As directed by experienced physician; with specific anupana only
 
-**Standardized Extract:** Calcined lead bhasma — Schedule E1 restricted
+**Standardized Extract:** Calcined lead bhasma, Schedule E1 restricted
 
 **Shelf Life:** Indefinite
 
@@ -272,7 +272,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Optimal Timing:** With meals
 
-**Standardized Extract:** N/A — dairy product; precursor for [Ghrita](/herb/ghrita/) preparation
+**Standardized Extract:** N/A, dairy product; precursor for [Ghrita](/herb/ghrita/) preparation
 
 **Shelf Life:** 5–7 days refrigerated
 
@@ -721,7 +721,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Optimal Timing:** With formulations as directed
 
-**Standardized Extract:** N/A — partially processed sugarcane juice
+**Standardized Extract:** N/A, partially processed sugarcane juice
 
 **Shelf Life:** 3–6 months
 
@@ -739,32 +739,32 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 #### Single Herbs (28)
 
-- [Chandana](/herb/chandana/) — *Santalum album L.*
+- [Chandana](/herb/chandana/), *Santalum album L.*
 - [Coriander](/herb/coriander/)
 - [Coriander Herb](/herb/coriander-herb/)
 - [Dhataki](/herb/dhataki/)
 - [Durva](/herb/durva/)
-- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/), *Gmelina arborea Roxb.*
 - [Hrivera](/herb/hrivera/)
 - [Ikshu](/herb/ikshu/)
 - [Jati](/herb/jati/)
-- [Kamala](/herb/kamala/) — *Nelumbo nucifera Gaertn.*
+- [Kamala](/herb/kamala/), *Nelumbo nucifera Gaertn.*
 - [Kumbhika](/herb/kumbhika/)
 - [Kumud](/herb/kumud/)
 - [Kumuda](/herb/kumuda/)
 - [Madayantika](/herb/madayantika/)
 - [Nagakesara](/herb/nagakesara/)
-- [Palankya](/herb/palankya/) — *Spinacia oleracea L.*
+- [Palankya](/herb/palankya/), *Spinacia oleracea L.*
 - [Rohisha](/herb/rohisha/)
-- [Saffron](/herb/saffron/) — *Crocus sativus*
+- [Saffron](/herb/saffron/), *Crocus sativus*
 - [Saireyaka](/herb/saireyaka/)
-- [Sariva](/herb/sariva/) — *Hemidesmus indicus*
+- [Sariva](/herb/sariva/), *Hemidesmus indicus*
 - [Sharapunkha](/herb/sharapunkha/)
-- [Shrigataka](/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Shrigataka](/herb/shrigataka/), *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
 - [Taruni](/herb/taruni/)
 - [Trapusha](/herb/trapusha/)
 - [Triphala Herbs](/herb/triphala-herbs/)
-- [Ushira](/herb/ushira/) — *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
+- [Ushira](/herb/ushira/), *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)*
 - [Utpala](/herb/utpala/)
 - [Yashtimadhu](/herb/yashtimadhu/)
 
@@ -862,7 +862,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Optimal Timing:** Lunch
 
-**Standardized Extract:** N/A — whole food
+**Standardized Extract:** N/A, whole food
 
 **Shelf Life:** 12 months
 
@@ -995,7 +995,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 - Classical combination of [Rasna](/herb/rasna/), [Eranda](/herb/eranda/), [Guduchi](/herb/guduchi/), [Devadaru](/herb/devadaru/), [Dashamoola](/herb/dashamoola/) provides synergistic therapeutic effect
 
-### Respiratory Health — Across Traditions {#respiratory-health-across-traditions}
+### Respiratory Health: Across Traditions {#respiratory-health-across-traditions}
 
 *Comparing approaches to respiratory health across 5 healing traditions*
 
@@ -1233,7 +1233,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 **Optimal Timing:** External: morning Abhyanga; oral: with meals
 
-**Standardized Extract:** Cold-pressed black [sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) Taila) — king of oils in Ayurveda
+**Standardized Extract:** Cold-pressed black [sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) Taila), king of oils in Ayurveda
 
 **Shelf Life:** 12–18 months
 
@@ -1351,7 +1351,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 - [Guggulu](/formulation/guggulu/) (Yogaraj Guggulu-type formulations)
 - Shunthi (anti-inflammatory and [analgesic](/reference/analgesic/) combination)
-- [Eranda](/herb/eranda/) (Vatahara — anti-rheumatic formulations)
+- [Eranda](/herb/eranda/) (Vatahara, anti-rheumatic formulations)
 - [Nirgundi](/herb/nirgundi/) (external pain relief preparations)
 
 ### Shankha Vati {#shankha-vati}
@@ -1504,7 +1504,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Optimal Timing:** Post-meal for digestive aid; as directed in formulations
 
-**Standardized Extract:** Crystalline rock candy (Mishri) — traditionally prepared
+**Standardized Extract:** Crystalline rock candy (Mishri), traditionally prepared
 
 **Shelf Life:** 12–24 months
 
@@ -1516,7 +1516,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Vehicle (Anupana):** Cooling sweet vehicle; used with Pitta-shamaka formulations, Sharbats, and eye preparations (Netra Prakshalana)
 
-### Skin & Beauty — Across Traditions {#skin-beauty-across-traditions}
+### Skin & Beauty: Across Traditions {#skin-beauty-across-traditions}
 
 *Comparing approaches to skin & beauty across 5 healing traditions*
 
@@ -1634,7 +1634,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 **Marker Compounds:** Colchicine, Colchicoside, Luteoline
 
-**Quality Parameters:** Colchicine content within therapeutic range (critical — narrow therapeutic index), heavy metals within limits
+**Quality Parameters:** Colchicine content within therapeutic range (critical, narrow therapeutic index), heavy metals within limits
 
 **Vehicle (Anupana):** Warm water, [Eranda](/herb/eranda/) Taila (castor oil), or Dashamula Kwatha
 
@@ -1785,7 +1785,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 ### Synergistic Combinations
 
-- Key herbs: Pure [Tila](/herb/tila/) (sesame) — base oil for many preparations; oil base acts as lipid carrier for enhanced tissue penetration
+- Key herbs: Pure [Tila](/herb/tila/) (sesame), base oil for many preparations; oil base acts as lipid carrier for enhanced tissue penetration
 
 ### Tortoise shaped Apparatus {#tortoise-shaped-apparatus}
 
@@ -1921,7 +1921,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 **Optimal Timing:** Morning, empty stomach for diabetes management
 
-**Standardized Extract:** N/A — whole food
+**Standardized Extract:** N/A, whole food
 
 **Shelf Life:** Fresh: 24 hours; powder: 12 months
 
@@ -2078,7 +2078,7 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
@@ -2152,14 +2152,14 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 #### Single Herbs (10)
 
 - [Eranda Moola](/herb/eranda-moola/)
-- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Eranda Patra](/herb/eranda-patra/), *Ricinus communis L. (leaves)*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Lasuna Ksheerapaka](/herb/lasuna-ksheerapaka/)
-- [Nagabala](/herb/nagabala/) — *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
+- [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
 - [Triphala Herbs](/herb/triphala-herbs/)
 - [Vathada](/herb/vathada/)
 - [Vidari](/herb/vidari/)
-- [Vidarikand](/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/herb/vidarikand/), *Pueraria tuberosa (Willd.) DC.*
 - [Vriddhadaru](/herb/vriddhadaru/)
 
 #### Classical Formulations (6)
@@ -2436,7 +2436,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 - Key herbs: [Trikatu](/herb/trikatu/), Chitraka, Musta
 
-### Women's Health — Across Traditions {#womens-health-across-traditions}
+### Women's Health: Across Traditions {#womens-health-across-traditions}
 
 *Comparing approaches to women's health across 5 healing traditions*
 
@@ -2500,7 +2500,7 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 

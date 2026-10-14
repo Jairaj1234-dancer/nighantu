@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 ### Mineral/Elemental Profile
 
 - **Arsenic trisulfide (As2S3):** Major component (orpiment)
-- **Note:** Highly toxic — restricted use; Shodhana mandatory; modern practice largely discontinued
+- **Note:** Highly toxic, restricted use; Shodhana mandatory; modern practice largely discontinued
 
 **Analytical Methods:** AAS (arsenic quantification), ICP-MS, XRD
 

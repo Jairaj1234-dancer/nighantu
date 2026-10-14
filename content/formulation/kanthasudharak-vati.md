@@ -92,7 +92,7 @@ Referenced in Bhaishajya Ratnavali and Yoga Ratnakara (Kasa/Swarabheda Chikitsa 
 
 **Quality Parameters:** Weight variation (±5%), hardness (moderate), dissolution time (5-15 min in mouth), moisture (<6%), glycyrrhizin content from Mulethi by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — sucked directly in mouth
+**Vehicle (Anupana):** Not applicable, sucked directly in mouth
 
 ### Synergistic Combinations
 

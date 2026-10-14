@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 **Storage:** Swarasa: refrigerate 2-8 deg C. Churna and capsules: below 25 deg C, airtight containers. Ghrita: glass jars at room temperature, protect from light.
 
-**Marker Compounds:** Species-dependent — requires definitive botanical identification, [Alkaloids](/glossary/compounds-1-a/#alkaloids) (total), [Glycosides](/glossary/compounds-g-l/#glycosides) (cardiac — if Sarcostemma), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Flavonoids](/reference/flavonoids/) (total)
+**Marker Compounds:** Species-dependent, requires definitive botanical identification, [Alkaloids](/glossary/compounds-1-a/#alkaloids) (total), [Glycosides](/glossary/compounds-g-l/#glycosides) (cardiac, if Sarcostemma), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Flavonoids](/reference/flavonoids/) (total)
 
 ### Extraction Methods
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Somavalli/meta-analysi
 
 ### Synergistic Combinations
 
-- [Brahmi](/herb/brahmi/) (Medhya Rasayana — cognitive tonic combination)
+- [Brahmi](/herb/brahmi/) (Medhya Rasayana, cognitive tonic combination)
 - [Shankhpushpi](/herb/shankhpushpi/) (intellect-enhancing synergy)
 - [Guduchi](/herb/guduchi/) ([adaptogenic](/reference/adaptogenic/)-[immunomodulatory](/reference/immunomodulatory/) formulations)
 - [Ashwagandha](/herb/ashwagandha/) (rejuvenative combinations)

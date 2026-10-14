@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 
 ### Synergistic Combinations
 
-- Bala (Sida cordifolia) is the primary herb — provides ephedrine [alkaloids](/glossary/compounds-1-a/#alkaloids), phytosterols, and [mucilage](/glossary/compounds-l-o/#mucilage)
+- Bala (Sida cordifolia) is the primary herb, provides ephedrine [alkaloids](/glossary/compounds-1-a/#alkaloids), phytosterols, and [mucilage](/glossary/compounds-l-o/#mucilage)
 - Dhanvantaram Taila for complementary neuromuscular support
 - [Mahanarayan](/herb/mahanarayan/) Taila for arthritic conditions (sequential use)
 - [Ashwagandha](/herb/ashwagandha/) for enhanced neurological rehabilitation

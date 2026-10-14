@@ -51,7 +51,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** Morning or before bed; warm
 
-**Standardized Extract:** N/A — used as whole food/vehicle
+**Standardized Extract:** N/A, used as whole food/vehicle
 
 **Shelf Life:** Fresh: 24–48 hours refrigerated
 
@@ -82,7 +82,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 #### Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Swarasa (fresh juice), Lepa (paste — external)
+**Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Swarasa (fresh juice), Lepa (paste, external)
 
 **Standard Dosage:** 3-5g powder twice daily; 40-80ml decoction twice daily; 10-20ml fresh juice
 
@@ -111,7 +111,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - With [Nimba](/herb/nimba/) for skin disorders
 - With [Triphala](/herb/triphala/) for digestive regulation
 
-### Brain & Nervous System — Across Traditions {#brain-nervous-system-across-traditions}
+### Brain & Nervous System: Across Traditions {#brain-nervous-system-across-traditions}
 
 *Comparing approaches to brain & nervous system across 5 healing traditions*
 
@@ -203,7 +203,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Optimal Timing:** Lunch; avoid at night for heavy digestion
 
-**Standardized Extract:** N/A — whole food; Sattu preparation for therapeutic use
+**Standardized Extract:** N/A, whole food; Sattu preparation for therapeutic use
 
 **Shelf Life:** Whole: 12 months; flour: 3–6 months; Sattu: 2–3 months
 
@@ -286,7 +286,7 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
-**Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light. Volatile oils dissipate if exposed — sealed packaging essential.
+**Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light. Volatile oils dissipate if exposed, sealed packaging essential.
 
 **Marker Compounds:** Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), [Eugenol](/glossary/compounds-d-g/#eugenol), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
 
@@ -381,7 +381,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Hot decoction provides rapid absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) from [Daruharidra](/herb/daruharidra/) has moderate oral bioavailability (~5%) — enhanced in hot aqueous medium.
+**Bioavailability:** Hot decoction provides rapid absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) from [Daruharidra](/herb/daruharidra/) has moderate oral bioavailability (~5%), enhanced in hot aqueous medium.
 
 **Optimal Timing:** Before meals, morning and evening, for Jwara (fever) conditions
 
@@ -402,7 +402,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 - [Guduchi](/herb/guduchi/) preparations
 - Musta Churna
 
-### Diabetes & Metabolism — Across Traditions {#diabetes-metabolism-across-traditions}
+### Diabetes & Metabolism: Across Traditions {#diabetes-metabolism-across-traditions}
 
 *Comparing approaches to diabetes & metabolism across 5 healing traditions*
 
@@ -444,7 +444,7 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 - [Amlaparni](/herb/amlaparni/) *Oxalis corniculata L.*
   Actions: Antioxidant, Anticancer, Wound Healing
 
-### Digestive Health — Across Traditions {#digestive-health-across-traditions}
+### Digestive Health: Across Traditions {#digestive-health-across-traditions}
 
 *Comparing approaches to digestive health across 5 healing traditions*
 
@@ -539,7 +539,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Standard Dosage:** 40-80 mL twice daily, or 3-6 g Kwath Churna boiled in water, as per AFI
 
-**Bioavailability:** Same as [Drakshadi Kashayam](/formulation/drakshadi-kashayam/). Kwath Churna form allows fresh preparation at home — freshly prepared decoction has optimal bioavailability.
+**Bioavailability:** Same as [Drakshadi Kashayam](/formulation/drakshadi-kashayam/). Kwath Churna form allows fresh preparation at home, freshly prepared decoction has optimal bioavailability.
 
 **Optimal Timing:** Before meals, morning and evening
 
@@ -549,7 +549,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), [Piperine](/reference/piperine/), Gallic acid, [Quercetin](/reference/quercetinquercetin/), Ellagic acid
 
-**Quality Parameters:** Similar to [Drakshadi Kashayam](/formulation/drakshadi-kashayam/) — pH, specific gravity, total solids, [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), total [polyphenols](/glossary/compounds-o-q/#polyphenols), HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Similar to [Drakshadi Kashayam](/formulation/drakshadi-kashayam/), pH, specific gravity, total solids, [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), total [polyphenols](/glossary/compounds-o-q/#polyphenols), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as warm decoction; may add honey
 
@@ -560,7 +560,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 - [Avipattikar](/herb/avipattikar/) Churna
 - [Yashtimadhu](/herb/yashtimadhu/)
 
-### Eye Health — Across Traditions {#eye-health-across-traditions}
+### Eye Health: Across Traditions {#eye-health-across-traditions}
 
 *Comparing approaches to eye health across 5 healing traditions*
 
@@ -602,7 +602,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 - [Yashada Bhasma](/herb/yashada-bhasma/)
   Actions: Antioxidant, Wound Healing, Antidiabetic
 
-### Fever & Infection — Across Traditions {#fever-infection-across-traditions}
+### Fever & Infection: Across Traditions {#fever-infection-across-traditions}
 
 *Comparing approaches to fever & infection across 4 healing traditions*
 
@@ -729,7 +729,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Optimal Timing:** After meals with milk or ghee
 
-**Standardized Extract:** Shuddha Gandhaka — purified elemental sulfur; Gandhaka Rasayana is therapeutic form
+**Standardized Extract:** Shuddha Gandhaka, purified elemental sulfur; Gandhaka Rasayana is therapeutic form
 
 **Shelf Life:** Indefinite (purified sulfur); 2–3 years (Rasayana form)
 
@@ -737,7 +737,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Marker Compounds:** Elemental sulfur (S8), Sulfur dioxide traces, Purification media residues
 
-**Quality Parameters:** Purity >99.5%, arsenic <3 ppm (critical — arsenic contamination common in natural sulfur), no free acid
+**Quality Parameters:** Purity >99.5%, arsenic <3 ppm (critical, arsenic contamination common in natural sulfur), no free acid
 
 **Vehicle (Anupana):** Milk, ghee, or [Triphala](/herb/triphala/)
 
@@ -790,7 +790,7 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Optimal Timing:** Meals; wheat grass juice on empty stomach
 
-**Standardized Extract:** Wheat grass extract — [chlorophyll](/glossary/compounds-c-d/#chlorophyll)-rich
+**Standardized Extract:** Wheat grass extract, [chlorophyll](/glossary/compounds-c-d/#chlorophyll)-rich
 
 **Shelf Life:** Grain: 12+ months; flour: 3–4 months; fresh juice: consume immediately
 
@@ -954,7 +954,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Vehicle (Anupana):** Sweet vehicle in Avaleha, Modaka, Guda [Pippali](/herb/pippali/); used in iron-deficiency formulations
 
-### Hair Health — Across Traditions {#hair-health-across-traditions}
+### Hair Health: Across Traditions {#hair-health-across-traditions}
 
 *Comparing approaches to hair health across 5 healing traditions*
 
@@ -1089,7 +1089,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 - With [Haridra](/herb/haridra/) for anti-inflammatory action
 - With [Triphala](/herb/triphala/) for wound healing support
 
-### Heart & Cardiovascular — Across Traditions {#heart-cardiovascular-across-traditions}
+### Heart & Cardiovascular: Across Traditions {#heart-cardiovascular-across-traditions}
 
 *Comparing approaches to heart & cardiovascular across 5 healing traditions*
 
@@ -1208,7 +1208,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Us Fda:** Cupping devices are not specifically FDA-classified but are widely sold as wellness devices.
 - **Eu Mdr:** Generally considered wellness devices unless medical claims are made.
 
-### Immune System & Rasayana — Across Traditions {#immune-system-rasayana-across-traditions}
+### Immune System & Rasayana: Across Traditions {#immune-system-rasayana-across-traditions}
 
 *Comparing approaches to immune system & rasayana across 5 healing traditions*
 
@@ -1447,7 +1447,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) action
 - With Mandukaparni for cognitive enhancement
 
-### Joint & Musculoskeletal — Across Traditions {#joint-musculoskeletal-across-traditions}
+### Joint & Musculoskeletal: Across Traditions {#joint-musculoskeletal-across-traditions}
 
 *Comparing approaches to joint & musculoskeletal across 5 healing traditions*
 
@@ -1693,9 +1693,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Dosage Forms:** Medicated thread (surgical device)
 
-**Standard Dosage:** External surgical application — not for ingestion
+**Standard Dosage:** External surgical application, not for ingestion
 
-**Bioavailability:** Topical/surgical — sustained local release of alkaline and proteolytic agents
+**Bioavailability:** Topical/surgical, sustained local release of alkaline and proteolytic agents
 
 **Optimal Timing:** Applied surgically; changed weekly
 
@@ -1709,7 +1709,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Quality Parameters:** 21 coatings minimum (11 Snuhi + 7 Snuhi+Kshara + 3 Haridra), pH 9.5–10.5, thread strength >2 kg breaking load, sterility test pass
 
-**Vehicle (Anupana):** N/A — surgical device
+**Vehicle (Anupana):** N/A, surgical device
 
 ### Kushmanda Avaleha {#kushmanda-avaleha}
 
@@ -1815,7 +1815,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
@@ -2025,7 +2025,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 - With Buttermilk or warm water as vehicle for enhanced absorption
 
-### Liver & Detoxification — Across Traditions {#liver-detoxification-across-traditions}
+### Liver & Detoxification: Across Traditions {#liver-detoxification-across-traditions}
 
 *Comparing approaches to liver & detoxification across 5 healing traditions*
 
@@ -2353,7 +2353,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Evening; promotes sleep (Nidrajanana)
 
-**Standardized Extract:** N/A — whole food
+**Standardized Extract:** N/A, whole food
 
 **Shelf Life:** 24–48 hours refrigerated
 
@@ -2388,7 +2388,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 5–15 mL; as vehicle: sufficient quantity
 
-**Bioavailability:** Bioenhancer — increases absorption and tissue penetration of co-administered herbs
+**Bioavailability:** Bioenhancer, increases absorption and tissue penetration of co-administered herbs
 
 **Optimal Timing:** Not with hot substances (Ayurvedic contraindication); morning preferred for Kapha conditions
 
@@ -2425,7 +2425,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Dosage Forms:** Shuddha Manashila (purified realgar/arsenic disulfide)
 
-**Standard Dosage:** 30–60 mg (strict dosing — arsenic compound)
+**Standard Dosage:** 30–60 mg (strict dosing, arsenic compound)
 
 **Bioavailability:** Converted to therapeutic form through Shodhana; reduced toxicity
 
@@ -2696,7 +2696,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** With meals or post-meal
 
-**Standardized Extract:** N/A — byproduct of curd/cheese making
+**Standardized Extract:** N/A, byproduct of curd/cheese making
 
 **Shelf Life:** 12–24 hours fresh
 
@@ -2757,7 +2757,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Optimal Timing:** Meals; suitable for all seasons
 
-**Standardized Extract:** N/A — whole food
+**Standardized Extract:** N/A, whole food
 
 **Shelf Life:** 12 months whole; 6 months split
 

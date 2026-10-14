@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 **Optimal Timing:** With honey or specified vehicle
 
-**Standardized Extract:** Blue sapphire pishti — premium gemstone preparation
+**Standardized Extract:** Blue sapphire pishti, premium gemstone preparation
 
 **Shelf Life:** Indefinite
 

@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg standardized extract capsule twice daily; 2-4 drops nasya oil per nostril
 
-**Bioavailability:** Saponins (albizia saponins) show moderate oral bioavailability (20-30%). Flavonoids and tannins have typical moderate absorption (25-35%). Histamine-releasing compounds are locally active. Nasya administration provides direct CNS access via olfactory neural pathway — important for anti-allergic and Medhya (cognitive) applications.
+**Bioavailability:** Saponins (albizia saponins) show moderate oral bioavailability (20-30%). Flavonoids and tannins have typical moderate absorption (25-35%). Histamine-releasing compounds are locally active. Nasya administration provides direct CNS access via olfactory neural pathway, important for anti-allergic and Medhya (cognitive) applications.
 
 **Optimal Timing:** Before meals for anti-allergic action; nasya in morning on empty stomach after facial steaming; avaleha with honey for respiratory conditions
 
@@ -112,7 +112,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haridra](/herb/haridra/) (potent anti-allergic synergy — Shirisha-Haridra combination for allergic rhinitis)
+- [Haridra](/herb/haridra/) (potent anti-allergic synergy, Shirisha-Haridra combination for allergic rhinitis)
 - [Vasa](/herb/vasa/) (asthma and respiratory allergy formulations)
 - [Pippali](/herb/pippali/) (Shvasa-Kasa formulations)
 - [Yashtimadhu](/herb/yashtimadhu/) (anti-inflammatory and anti-allergic combination)

@@ -55,7 +55,7 @@
    "otherAttributions": [
     {
      "binomial": "Vernonia anthelmintica (L.) Willd.",
-     "source": "Named in the page body itself (content/herb/aranya-jeeraka.md line 52) as one of its two hedged alternatives. I re-ran GBIF strict: matchType EXACT, status SYNONYM, usageKey 5385185, acceptedUsageKey 3087253, accepted Baccharoides anthelmintica (Asteraceae) — the same accepted taxon as the API name, so this is not a competing identity."
+     "source": "Named in the page body itself (content/herb/aranya-jeeraka.md line 52) as one of its two hedged alternatives. I re-ran GBIF strict: matchType EXACT, status SYNONYM, usageKey 5385185, acceptedUsageKey 3087253, accepted Baccharoides anthelmintica (Asteraceae), the same accepted taxon as the API name, so this is not a competing identity."
     },
     {
      "binomial": "Baccharoides anthelmintica (L.) Moench",
@@ -67,7 +67,7 @@
     },
     {
      "binomial": "Cuminum cyminum L.",
-     "source": "The page's other hedged alternative (line 52, 'potentially Cuminum cyminum var. ... depending on tradition') and the source of the page's marker compounds and extraction text. Refuted as the identity of Aranya Jeeraka: API files cumin separately as SVETAJIRAKA (Fruit), heading at api-all.txt line 13903, whose Sanskrit synonyms are 'Ajaji, Jiraka, Ajajika' — Aranyajiraka is absent. The page also treats cumin as a separate companion drug (line 73, 'With Jeeraka (cultivated cumin)')."
+     "source": "The page's other hedged alternative (line 52, 'potentially Cuminum cyminum var.... depending on tradition') and the source of the page's marker compounds and extraction text. Refuted as the identity of Aranya Jeeraka: API files cumin separately as SVETAJIRAKA (Fruit), heading at api-all.txt line 13903, whose Sanskrit synonyms are 'Ajaji, Jiraka, Ajajika', Aranyajiraka is absent. The page also treats cumin as a separate companion drug (line 73, 'With Jeeraka (cultivated cumin)')."
     },
     {
      "binomial": "Carum carvi L.",
@@ -98,7 +98,7 @@
   },
   "arka-ksheera": {
    "substanceClass": "plant-product-mixture",
-   "basis": "Attempted refutation; the proposal survives on every load-bearing point, with one scope correction folded in.\n\n(a) CATEGORY — correct. Read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/arka-ksheera.md in full. The drug is a processed plant exudate, not a plant or plant part: \"Direct late"
+   "basis": "Attempted refutation; the proposal survives on every load-bearing point, with one scope correction folded in.\n\n(a) CATEGORY, correct. Read /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/arka-ksheera.md in full. The drug is a processed plant exudate, not a plant or plant part: \"Direct late"
   },
   "arka-pushpa": {
    "api": {
@@ -218,7 +218,7 @@
   },
   "camphor": {
    "substanceClass": "compound-or-isolate",
-   "basis": "VERDICT: accept the category (compound-or-isolate, binomial null), but the proposal's central factual claim is REFUTED and its apiMonograph field is wrong.\n\n1. REFUTED — \"API Part I Vols I-VI has no Karpura or camphor monograph.\" False. api-all.txt line 107457 carries a full monograph, heading OCR'd"
+   "basis": "VERDICT: accept the category (compound-or-isolate, binomial null), but the proposal's central factual claim is REFUTED and its apiMonograph field is wrong.\n\n1. REFUTED, \"API Part I Vols I-VI has no Karpura or camphor monograph.\" False. api-all.txt line 107457 carries a full monograph, heading OCR'd"
   },
   "chakshushya": {
    "substanceClass": "uncertain",
@@ -255,7 +255,7 @@
   },
   "chitrakaharitaki": {
    "substanceClass": "formulation",
-   "basis": "I tried to refute the proposal and could not. It survives on every load-bearing point.\n\n(a) CATEGORY — verified directly from /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/chitrakaharitaki.md. The page is unambiguously a compound formulation, not a plant: frontmatter `botanical` is alread"
+   "basis": "I tried to refute the proposal and could not. It survives on every load-bearing point.\n\n(a) CATEGORY, verified directly from /Users/jairajsharma/Projects/ayurveda-atlas/content/herb/chitrakaharitaki.md. The page is unambiguously a compound formulation, not a plant: frontmatter `botanical` is alread"
   },
   "curcumin": {
    "substanceClass": "compound-or-isolate",
@@ -696,7 +696,7 @@
   },
   "lasuna-ksheerapaka": {
    "substanceClass": "formulation",
-   "basis": "Attempted refutation on all five checks; the proposal survives.\n\n(a) CATEGORY — confirmed formulation, not a plant. Ksheerapaka is a classical milk-decoction dosage form, not a taxon. The page's own text is decisive: frontmatter answer and body both say \"prepared from 5-10 g garlic in 200 mL milk re"
+   "basis": "Attempted refutation on all five checks; the proposal survives.\n\n(a) CATEGORY, confirmed formulation, not a plant. Ksheerapaka is a classical milk-decoction dosage form, not a taxon. The page's own text is decisive: frontmatter answer and body both say \"prepared from 5-10 g garlic in 200 mL milk re"
   },
   "latakaranja": {
    "api": {
@@ -1303,7 +1303,7 @@
    "otherAttributions": [
     {
      "binomial": "Dalbergia sissoo Roxb.",
-     "source": "API Part I Vol III, second monograph SIMSAPA (Stem Bark), api-all.txt line 52682 — same species, different official part"
+     "source": "API Part I Vol III, second monograph SIMSAPA (Stem Bark), api-all.txt line 52682, same species, different official part"
     }
    ],
    "gbif": {
@@ -1508,15 +1508,15 @@
    "otherAttributions": [
     {
      "binomial": "Crateva magna (Lour.) DC.",
-     "source": "GBIF backbone key 3871487 — accepted name for Crateva nurvala Buch.-Ham.; verified this session (basionym Capparis magna Lour.)"
+     "source": "GBIF backbone key 3871487, accepted name for Crateva nurvala Buch.-Ham.; verified this session (basionym Capparis magna Lour.)"
     },
     {
      "binomial": "Crateva religiosa G.Forst.",
-     "source": "Carried from the proposal (older Indian floras use this name for Varuna); GBIF EXACT, ACCEPTED, key 3054263 — existence of the taxon verified this session, the attribution to Varuna was not independently verified"
+     "source": "Carried from the proposal (older Indian floras use this name for Varuna); GBIF EXACT, ACCEPTED, key 3054263, existence of the taxon verified this session, the attribution to Varuna was not independently verified"
     },
     {
      "binomial": "Crateva adansonii DC.",
-     "source": "Carried from the proposal (some Indian ethnobotanical literature); GBIF EXACT, ACCEPTED, key 3871686 — existence verified this session, the attribution to Varuna was not independently verified"
+     "source": "Carried from the proposal (some Indian ethnobotanical literature); GBIF EXACT, ACCEPTED, key 3871686, existence verified this session, the attribution to Varuna was not independently verified"
     }
    ],
    "gbif": {

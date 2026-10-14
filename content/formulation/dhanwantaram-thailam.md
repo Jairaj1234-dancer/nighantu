@@ -69,7 +69,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 **Standard Dosage:** External: sufficient quantity for Abhyanga. Internal: 5-10 mL with warm milk. The Ayurvedic Formulary of India attributes this formula to Vaidyayogaratnavali, Tailaprakarana; page 244.
 
-**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix — 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
+**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix, 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
 
 **Optimal Timing:** External: morning before bath or as part of Panchakarma therapy. Internal: before meals or at bedtime.
 

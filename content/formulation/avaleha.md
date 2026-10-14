@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Avaleha.md
 
 ## Definition
 
-Per *Sharangadhara Samhita* Madhyama Khanda Chapter 8 — the canonical Avaleha Kalpana chapter — an Avaleha is a medicated paste prepared by combining:
+Per *Sharangadhara Samhita* Madhyama Khanda Chapter 8, the canonical Avaleha Kalpana chapter, an Avaleha is a medicated paste prepared by combining:
 
 1. A herbal **kashaya** (decoction) or **swarasa** (juice) base, reduced and cooked
 2. A sugar/jaggery matrix cooked to defined **pakva** (consistency) stages
 3. Fine **prakshep dravya** (aromatic powders) added at lukewarm temperature
 4. Optional **sneha** (ghrita, taila) for lipid-mediated absorption
-5. Optional **madhu** (honey) added cold, after full cooling, to respect the viruddha (incompatibility) doctrine — hot honey generates *Ama* (toxic metabolite)
+5. Optional **madhu** (honey) added cold, after full cooling, to respect the viruddha (incompatibility) doctrine, hot honey generates *Ama* (toxic metabolite)
 
 ## Pakva stages
 
@@ -47,10 +47,10 @@ Sharangadhara defines five grades of avaleha consistency, tested between fingers
 
 The dosage form solves four pharmacological problems classical practitioners faced:
 
-1. **Palatability** — allows bitter herb complexes to be delivered orally with compliance
-2. **Bioavailability** — the sneha (ghee/oil) matrix provides lipid-soluble absorption; the sugar-honey matrix provides rapid glucose-mediated uptake; the prakshep piperine enhances systemic absorption
-3. **Shelf stability** — high sugar content (≥65% w/w total solids) + airtight storage yields 24–36 month shelf life without refrigeration
-4. **Multi-constituent synergy** — allows 30–60+ herbs to be compounded in a single, stable, pleasant-tasting preparation
+1. **Palatability**, allows bitter herb complexes to be delivered orally with compliance
+2. **Bioavailability**, the sneha (ghee/oil) matrix provides lipid-soluble absorption; the sugar-honey matrix provides rapid glucose-mediated uptake; the prakshep piperine enhances systemic absorption
+3. **Shelf stability**, high sugar content (≥65% w/w total solids) + airtight storage yields 24–36 month shelf life without refrigeration
+4. **Multi-constituent synergy**, allows 30–60+ herbs to be compounded in a single, stable, pleasant-tasting preparation
 
 ## API standards (Avaleha general monograph)
 
@@ -63,23 +63,23 @@ The dosage form solves four pharmacological problems classical practitioners fac
 
 ## Classical references
 
-- *Sharangadhara Samhita* — Madhyama Khanda 8 (Avaleha Kalpana chapter)
-- *Bhavaprakasha* — scattered Avaleha recipes across Chikitsa
-- *Chakradatta* — numerous Avaleha formulations
-- *Ayurvedic Formulary of India (AFI)* Part I, Part II — Avaleha section
-- *Ayurvedic Pharmacopoeia of India (API)* Part II — general monograph + individual formulary monographs
+- *Sharangadhara Samhita*, Madhyama Khanda 8 (Avaleha Kalpana chapter)
+- *Bhavaprakasha*, scattered Avaleha recipes across Chikitsa
+- *Chakradatta*, numerous Avaleha formulations
+- *Ayurvedic Formulary of India (AFI)* Part I, Part II, Avaleha section
+- *Ayurvedic Pharmacopoeia of India (API)* Part II, general monograph + individual formulary monographs
 
 ## Notable Avaleha formulations
 
-- [Chyawanprash](/formulation/chyawanprash/) — the flagship Rasayana Avaleha (Charaka Chikitsasthana 1.1)
-- Vasa Avaleha — Kasahara (Vasaka-based, respiratory)
-- Kushmanda Avaleha — Medhya Rasayana (ash-gourd, cognitive)
-- Agastya Haritaki — immunity / respiratory
-- Bilwadi Leha — Grahani (GI)
-- Manibhadra Guda — Krimighna (anthelmintic)
-- Haridra Khanda — Shothahara (anti-inflammatory, turmeric-based)
-- Pippali Khanda — Dipana / Rasayana
-- Gulakanda — cooling summer rasayana (rose-petal)
+- [Chyawanprash](/formulation/chyawanprash/), the flagship Rasayana Avaleha (Charaka Chikitsasthana 1.1)
+- Vasa Avaleha, Kasahara (Vasaka-based, respiratory)
+- Kushmanda Avaleha, Medhya Rasayana (ash-gourd, cognitive)
+- Agastya Haritaki, immunity / respiratory
+- Bilwadi Leha, Grahani (GI)
+- Manibhadra Guda, Krimighna (anthelmintic)
+- Haridra Khanda, Shothahara (anti-inflammatory, turmeric-based)
+- Pippali Khanda, Dipana / Rasayana
+- Gulakanda, cooling summer rasayana (rose-petal)
 
 ## See also
 

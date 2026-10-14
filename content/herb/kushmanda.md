@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 **Standard Dosage:** 20-40 mL fresh juice daily; 10-20 g Kushmanda Avaleha twice daily; 3-5 g powder; 5-10 g Ghrita
 
-**Bioavailability:** Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) have moderate oral bioavailability enhanced by lipid co-administration. Vitamin C and B-complex [vitamins](/glossary/compounds-t-z/#vitamins) are readily absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and dietary fiber moderate glycemic response. Avaleha form (with ghee, sugar, honey) provides an optimized delivery matrix — ghee enhances lipophilic absorption, sugar acts as preservative, honey provides enzymatic activity. Alonusin and [isovitexin](/glossary/compounds-g-l/#isovitexin) show improved bioavailability in Ghrita formulation.
+**Bioavailability:** Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) have moderate oral bioavailability enhanced by lipid co-administration. Vitamin C and B-complex [vitamins](/glossary/compounds-t-z/#vitamins) are readily absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and dietary fiber moderate glycemic response. Avaleha form (with ghee, sugar, honey) provides an optimized delivery matrix, ghee enhances lipophilic absorption, sugar acts as preservative, honey provides enzymatic activity. Alonusin and [isovitexin](/glossary/compounds-g-l/#isovitexin) show improved bioavailability in Ghrita formulation.
 
 **Optimal Timing:** Avaleha: morning on empty stomach or twice daily for Rasayana (rejuvenation) therapy; juice: morning; Ghrita: before meals with warm water
 

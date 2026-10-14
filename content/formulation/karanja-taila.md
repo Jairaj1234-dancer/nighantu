@@ -50,13 +50,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Shelf Life:** 2 years (cold-pressed), 3 years (medicated taila)
 
-**Storage:** Store in amber glass bottles in a cool, dark place. Temperature not exceeding 25°C. Protect from light — karanjin is photosensitive.
+**Storage:** Store in amber glass bottles in a cool, dark place. Temperature not exceeding 25°C. Protect from light, karanjin is photosensitive.
 
 **Marker Compounds:** Karanjin, Pongamol, [Pongapin](/glossary/compounds-o-q/#pongapin), Pongaglabol, Furanoflavonoids
 
 **Quality Parameters:** Acid value, peroxide value, saponification value (185-195), [iodine](/glossary/compounds-g-l/#iodine) value (80-90), refractive index, specific gravity, karanjin content by HPLC (NLT 0.5%), pongamol content, furanoflavonoid assay, rancidity test negative, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — external use only. Apply thin layer and massage gently.
+**Vehicle (Anupana):** Not applicable, external use only. Apply thin layer and massage gently.
 
 ### Synergistic Combinations
 

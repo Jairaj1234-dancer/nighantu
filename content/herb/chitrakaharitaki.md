@@ -88,18 +88,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 **Optimal Timing:** After meals with warm water or milk for digestive and respiratory conditions; traditionally used in Pratishyaya (coryza/cold) and Kasa (cough)
 
-**Standardized Extract:** Compound preparation—standardize to gallic acid NLT 0.5% (from Haritaki) and total phenolics NLT 3%. Plumbagin content should be below 0.1% in final Avaleha (safety-moderated by cooking).
+**Standardized Extract:** Compound preparation, standardize to gallic acid NLT 0.5% (from Haritaki) and total phenolics NLT 3%. Plumbagin content should be below 0.1% in final Avaleha (safety-moderated by cooking).
 
 **Shelf Life:** 1 year (traditional Avaleha); 2 years (with modern preservation and packaging)
 
-**Storage:** Room temperature in glass or food-grade containers. Use clean, dry spoon for dispensing—moisture introduction causes microbial spoilage. Protect from direct sunlight. Once opened, consume within 3 months.
+**Storage:** Room temperature in glass or food-grade containers. Use clean, dry spoon for dispensing, moisture introduction causes microbial spoilage. Protect from direct sunlight. Once opened, consume within 3 months.
 
 **Marker Compounds:** Gallic acid (from Haritaki), Chebulagic acid (from Haritaki), Plumbagin (from Chitraka, reduced), Piperine (if Pippali is included), Ellagic acid
 
 ### Extraction Methods
 
 - Traditional Avaleha preparation: Haritaki decoction reduced, mixed with sugar/jaggery, cooked to thread-stage consistency, then Chitraka powder and other herb powders added with ghee and honey at appropriate temperatures
-- No modern extract equivalent—the formulation IS the preparation method
+- No modern extract equivalent, the formulation IS the preparation method
 - Modern adaptations: granulation of combined extracts with sugar base
 
 ### Synergistic Combinations

@@ -79,13 +79,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 15–30 mg (premium preparation — precise dosing)
+**Standard Dosage:** 15–30 mg (premium preparation, precise dosing)
 
 **Bioavailability:** Exceptional; gold nanoparticles (20–50 nm) with superior tissue distribution and immunomodulatory activity
 
 **Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
 
-**Standardized Extract:** Calcined gold bhasma — supreme Rasayana in Rasashastra
+**Standardized Extract:** Calcined gold bhasma, supreme Rasayana in Rasashastra
 
 **Shelf Life:** Indefinite
 
@@ -99,6 +99,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ### Stability Notes
 
-Gold bhasma is the most stable of all bhasmas — gold does not revert or oxidize
+Gold bhasma is the most stable of all bhasmas, gold does not revert or oxidize
 
 *Generated for the AgeAyurveda Herb Catalogue*

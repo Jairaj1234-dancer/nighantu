@@ -63,17 +63,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root/seed powder), Swarasa (flower juice), Capsule, Tablet, Phanta (flower infusion — blue tea), Taila (medicated oil), Nasya (nasal drops)
+**Dosage Forms:** Churna (root/seed powder), Swarasa (flower juice), Capsule, Tablet, Phanta (flower infusion, blue tea), Taila (medicated oil), Nasya (nasal drops)
 
 **Standard Dosage:** 2-5g root powder twice daily; 500mg-1g extract capsule; 10-20ml flower juice; blue tea infusion ad libitum
 
-**Bioavailability:** Moderate oral bioavailability. Clitoria ternatea contains cyclotides (CT1-CT12), anthocyanins (ternatin A1-D3), and flavonol glycosides. Cyclotides have unusual oral stability due to cyclic cystine knot structure — survive GI transit with some intact absorption. Delphinidin-based anthocyanins (ternatins) have moderate bioavailability (~12-15%), enhanced by acidic medium. Taraxerol shows good absorption with lipid co-administration.
+**Bioavailability:** Moderate oral bioavailability. Clitoria ternatea contains cyclotides (CT1-CT12), anthocyanins (ternatin A1-D3), and flavonol glycosides. Cyclotides have unusual oral stability due to cyclic cystine knot structure, survive GI transit with some intact absorption. Delphinidin-based anthocyanins (ternatins) have moderate bioavailability (~12-15%), enhanced by acidic medium. Taraxerol shows good absorption with lipid co-administration.
 
 **Optimal Timing:** Morning on empty stomach for Medhya (cognitive) effects; blue tea anytime; root powder with warm milk at bedtime for Vata pacification
 
 **Standardized Extract:** Root extract (10:1) standardized to minimum 5% total [flavonoids](/reference/flavonoids/). Flower extract standardized to minimum 15% total anthocyanins (as delphinidin-3-glucoside equivalent). Cyclotide-enriched extract for research applications.
 
-**Shelf Life:** 2 years (root powder); 18 months (flower powder — anthocyanins degrade); 3 years (capsules/tablets with stability); 1 year (blue tea bags)
+**Shelf Life:** 2 years (root powder); 18 months (flower powder, anthocyanins degrade); 3 years (capsules/tablets with stability); 1 year (blue tea bags)
 
 **Storage:** Protect from light and moisture (anthocyanins are photosensitive). Airtight containers, cool and dry, below 25°C. Nitrogen-flush packaging for flower powder.
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Brahmi](/herb/brahmi/) for Medhya (nootropic) action — classical combination
+- With [Brahmi](/herb/brahmi/) for Medhya (nootropic) action, classical combination
 - With Shankhapushpi for memory enhancement
 - With [Vacha](/herb/vacha/) for cognitive support and speech disorders
 - With [Ashwagandha](/herb/ashwagandha/) for anxiolytic synergy

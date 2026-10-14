@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Gulakanda/
 
 **Marker Compounds:** Geraniol, [Citronellol](/glossary/compounds-c-d/#citronellol), Gallic acid, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Cyanidin-3,5-diglucoside
 
-**Quality Parameters:** Total solids (NLT 70%), pH (3.5-5.0), moisture (<25%), total sugar, gallic acid content, total phenolics, total [flavonoids](/reference/flavonoids/), cyanidin content (rose pigments), geraniol content, microbial limits (TBC, yeast, mould), heavy metals, pesticide residues (rose petals are heavily sprayed — organic sourcing preferred)
+**Quality Parameters:** Total solids (NLT 70%), pH (3.5-5.0), moisture (<25%), total sugar, gallic acid content, total phenolics, total [flavonoids](/reference/flavonoids/), cyanidin content (rose pigments), geraniol content, microbial limits (TBC, yeast, mould), heavy metals, pesticide residues (rose petals are heavily sprayed, organic sourcing preferred)
 
 **Vehicle (Anupana):** Can be taken with warm milk or cold water. Often mixed into paan (betel leaf).
 

@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 

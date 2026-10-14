@@ -42,11 +42,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bhallataka-
 
 **Bioavailability:** Oil base provides controlled delivery of active biflavonoids and phenolic compounds. Shodhana reduces vesicant urushiol while retaining therapeutic semecarpol. Transdermal absorption is rapid due to phenolic lipophilicity.
 
-**Optimal Timing:** As directed by qualified Vaidya — not for self-medication
+**Optimal Timing:** As directed by qualified Vaidya, not for self-medication
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines
 
-**Storage:** Store in amber glass bottles in a cool, dry place. Handle with gloves — residual irritant potential. Clearly labeled with caution warnings. Temperature not exceeding 25°C.
+**Storage:** Store in amber glass bottles in a cool, dry place. Handle with gloves, residual irritant potential. Clearly labeled with caution warnings. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Semecarpol, Bhilawanol, Anacardic acid, Biflavonoids ([amentoflavone](/glossary/compounds-1-a/#amentoflavone), tetrahydroamentoflavone)
 

@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 **Standard Dosage:** External: sufficient quantity for scalp massage, 30-60 minutes before hair wash, 2-3 times weekly, as per traditional texts
 
-**Bioavailability:** Scalp has rich blood supply — topical application provides follicular penetration of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) and other hair-growth-promoting compounds. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
+**Bioavailability:** Scalp has rich blood supply, topical application provides follicular penetration of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) and other hair-growth-promoting compounds. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
 
 **Optimal Timing:** 30-60 minutes before hair wash, 2-3 times weekly. Overnight application once weekly for intensive treatment. Gentle scalp massage during application.
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, wedelolactone content from Bhringaraja by HPLC, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals, colour (typically dark green-black)
 
-**Vehicle (Anupana):** Not applicable — external scalp/hair application only
+**Vehicle (Anupana):** Not applicable, external scalp/hair application only
 
 ### Synergistic Combinations
 

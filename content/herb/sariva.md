@@ -82,7 +82,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/formulat
 
 ## Safety, contraindications and cautions
 
-- Minimal known — one of the safest herbs
+- Minimal known, one of the safest herbs
 - Pregnancy (limited data)
 
 ## What is it made of?
@@ -118,7 +118,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/formulat
 
 ### Synergistic Combinations
 
-- [Manjishtha](/herb/manjishtha/) (Raktashodhaka — blood purification synergy)
+- [Manjishtha](/herb/manjishtha/) (Raktashodhaka, blood purification synergy)
 - [Chandana](/herb/chandana/) (Pitta-pacifying, urinary tract formulations)
 - [Ushira](/herb/ushira/) (cooling and detoxifying combinations)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/)-detox synergy)

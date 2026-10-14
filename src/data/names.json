@@ -71,14 +71,14 @@
       "lang": "hi",
       "name": "चांगेरी",
       "denotesInstead": "Correct species (Oxalis corniculata) but wrong language: चांगेरी is the SANSKRIT name, not Hindi.",
-      "reason": "This is the batch's real error. Two independent sources agree on the language assignment and both contradict the candidate. Flowers of India ('Creeping Wood Sorrel', Oxalis corniculata) lists \"Sanskrit: चांगेरी Changeri, अम्लः Amla, अम्ली Amli\" and separately \"Hindi: Amrul अम्रुल\" — चांगेरी appears under Sanskrit, Marathi and Kannada, never Hindi. The Kerala State Medicinal Plants Board herbal database (smpbkerala.in) independently gives Sanskrit \"Changeri\", Hindi \"Amrul\", Tamil \"Puliyarai\". So the name is genuine and the species is right, but filed in the wrong language slot, which on a published monograph would misinform every Hindi reader. The Hindi name is अम्रुल."
+      "reason": "This is the batch's real error. Two independent sources agree on the language assignment and both contradict the candidate. Flowers of India ('Creeping Wood Sorrel', Oxalis corniculata) lists \"Sanskrit: चांगेरी Changeri, अम्लः Amla, अम्ली Amli\" and separately \"Hindi: Amrul अम्रुल\", चांगेरी appears under Sanskrit, Marathi and Kannada, never Hindi. The Kerala State Medicinal Plants Board herbal database (smpbkerala.in) independently gives Sanskrit \"Changeri\", Hindi \"Amrul\", Tamil \"Puliyarai\". So the name is genuine and the species is right, but filed in the wrong language slot, which on a published monograph would misinform every Hindi reader. The Hindi name is अम्रुल."
     },
     {
       "slug": "ananta-mool",
       "lang": "sa",
       "name": "क्षीरिणीसस्यम्",
-      "denotesInstead": "Manilkara hexandra (syn. Mimusops hexandra); and as Satyanāśī, Argemone mexicana — both given for क्षीरिणी in nighantu literature",
-      "reason": "Two separate problems. First, the form: no source attests क्षीरिणीसस्यम्. Flowers of India gives Sanskrit \"अनंतमूल Anantamul, Sariva\" for H. indicus and MMPND gives \"Anantamoola, Sariva\" — neither mentions Kṣīriṇī, and the -सस्यम् suffix is the Sanskrit Wikipedia pattern. Second, and worse, the base word is not species-specific: wisdomlib's Kṣīriṇī entry records it as a name of Manilkara hexandra (Sapotaceae) and, as Satyanāśī, of Argemone mexicana / Euphorbia spp., and the Rāja Nighaṇṭu lists Kṣīriṇī as an unidentified plant. It does carry a secondary modern application to Hemidesmus, so it is ambiguous rather than flatly wrong — but ambiguous is disqualifying for a headline Sanskrit name on a botanical reference. Use सारिवा or अनन्तमूला."
+      "denotesInstead": "Manilkara hexandra (syn. Mimusops hexandra); and as Satyanāśī, Argemone mexicana, both given for क्षीरिणी in nighantu literature",
+      "reason": "Two separate problems. First, the form: no source attests क्षीरिणीसस्यम्. Flowers of India gives Sanskrit \"अनंतमूल Anantamul, Sariva\" for H. indicus and MMPND gives \"Anantamoola, Sariva\", neither mentions Kṣīriṇī, and the -सस्यम् suffix is the Sanskrit Wikipedia pattern. Second, and worse, the base word is not species-specific: wisdomlib's Kṣīriṇī entry records it as a name of Manilkara hexandra (Sapotaceae) and, as Satyanāśī, of Argemone mexicana / Euphorbia spp., and the Rāja Nighaṇṭu lists Kṣīriṇī as an unidentified plant. It does carry a secondary modern application to Hemidesmus, so it is ambiguous rather than flatly wrong, but ambiguous is disqualifying for a headline Sanskrit name on a botanical reference. Use सारिवा or अनन्तमूला."
     },
     {
       "slug": "arjuna",
@@ -92,7 +92,7 @@
       "lang": "ta",
       "name": "வெண் மருது",
       "denotesInstead": "Terminalia paniculata Roth (per Tamil Lexicon); the Tamil names for T. arjuna are நீர்மருது and வெள்ளைமருது",
-      "reason": "Tamil Lexicon p.3782 glosses \"வெண்மருது veṇ-marutu, n. பூமருது, 1.\" and p.2840 gives \"பூமருது pū-marutu, n. Terminalia paniculata\" for sense 1 — so the Lexicon assigns வெண்மருது to Terminalia paniculata, not to arjuna. The Lexicon reserves arjuna for other headwords: p.2306 \"நீர்மருது nīr-marutu, n. Arjuna, Terminalia arjuna\" and p.3803 \"வெள்ளைமருது veḷḷai-marutu, n. பூமருது, 1. 2. Arjuna. See நீர்மருது\". Pandanus lists veṇmarutu only under MALAYALAM for T. arjuna; its Tamil list is āṟṟumarutu, nīrmarutu, veḷḷaimarutu, marutu. API Vol II gives Tamil: Marudam. A contested modern usage exists (Tamil Wikipedia titles the species வெண்மருது), which is very likely the Wikidata source, but the dictionary referent is a different Terminalia."
+      "reason": "Tamil Lexicon p.3782 glosses \"வெண்மருது veṇ-marutu, n. பூமருது, 1.\" and p.2840 gives \"பூமருது pū-marutu, n. Terminalia paniculata\" for sense 1, so the Lexicon assigns வெண்மருது to Terminalia paniculata, not to arjuna. The Lexicon reserves arjuna for other headwords: p.2306 \"நீர்மருது nīr-marutu, n. Arjuna, Terminalia arjuna\" and p.3803 \"வெள்ளைமருது veḷḷai-marutu, n. பூமருது, 1. 2. Arjuna. See நீர்மருது\". Pandanus lists veṇmarutu only under MALAYALAM for T. arjuna; its Tamil list is āṟṟumarutu, nīrmarutu, veḷḷaimarutu, marutu. API Vol II gives Tamil: Marudam. A contested modern usage exists (Tamil Wikipedia titles the species வெண்மருது), which is very likely the Wikidata source, but the dictionary referent is a different Terminalia."
     },
     {
       "slug": "arjuna-twak",
@@ -120,20 +120,20 @@
       "lang": "hi",
       "name": "सन",
       "denotesInstead": "Crotalaria juncea L. (sunn hemp)",
-      "reason": "A real Hindi plant name attached to the wrong species. MMPND Sorting Crotalaria lists under Crotalaria juncea: HINDI सन San, सनई Sannai, सऩ Sunn, Kharif, and SANSKRIT शणपुष्पी Śaṇapuṣpī — the English names given there are Sunn hemp, San hemp, Bengal hemp. For Linum usitatissimum, neither MMPND (which lists no Hindi at all for the species) nor API Vol I (Hindi: Alsi) nor Platts (अलसी, तीसी) gives सन. The confusion is intelligible — both are fibre crops — but सन on a flax page is a botanical error, since it points to a legume in a different family."
+      "reason": "A real Hindi plant name attached to the wrong species. MMPND Sorting Crotalaria lists under Crotalaria juncea: HINDI सन San, सनई Sannai, सऩ Sunn, Kharif, and SANSKRIT शणपुष्पी Śaṇapuṣpī, the English names given there are Sunn hemp, San hemp, Bengal hemp. For Linum usitatissimum, neither MMPND (which lists no Hindi at all for the species) nor API Vol I (Hindi: Alsi) nor Platts (अलसी, तीसी) gives सन. The confusion is intelligible, both are fibre crops, but सन on a flax page is a botanical error, since it points to a legume in a different family."
     },
     {
       "slug": "babbula",
       "lang": "sa",
       "name": "कृष्णखदिरवृक्षः",
-      "denotesInstead": "reads literally as a name for Acacia catechu — खदिर is Acacia catechu per API Vol I, monograph KHADIRA (Hindi: Khair, Tamil: Karungali), not Acacia nilotica",
-      "reason": "Unattested, and actively misleading. Wisdomlib has no entry for krishnakhadira (404). The Sanskrit names actually retrieved for this species: API Vol I BABBŪLA gives Bāvarī and Kinkirāta; Pandanus gives barbura and babbūla; Monier-Williams and Apte give babbula/babbūla and varvūra. Meanwhile खदिर is a different pharmacopoeial drug entirely — API Vol I has a separate KHADIRA monograph from Acacia catechu, Hindi Khair, English 'Black catechu, Cutch tree'. So a compound built on खदिर and prefixed कृष्ण- ('black') points a reader at Acacia catechu. MMPND does record a comparable descriptive string, 'Kala barbura vrikshaha', under A. nilotica subsp. subalata, which shows how such coinages arise, but that is built on बर्बुर, not खदिर."
+      "denotesInstead": "reads literally as a name for Acacia catechu, खदिर is Acacia catechu per API Vol I, monograph KHADIRA (Hindi: Khair, Tamil: Karungali), not Acacia nilotica",
+      "reason": "Unattested, and actively misleading. Wisdomlib has no entry for krishnakhadira (404). The Sanskrit names actually retrieved for this species: API Vol I BABBŪLA gives Bāvarī and Kinkirāta; Pandanus gives barbura and babbūla; Monier-Williams and Apte give babbula/babbūla and varvūra. Meanwhile खदिर is a different pharmacopoeial drug entirely, API Vol I has a separate KHADIRA monograph from Acacia catechu, Hindi Khair, English 'Black catechu, Cutch tree'. So a compound built on खदिर and prefixed कृष्ण- ('black') points a reader at Acacia catechu. MMPND does record a comparable descriptive string, 'Kala barbura vrikshaha', under A. nilotica subsp. subalata, which shows how such coinages arise, but that is built on बर्बुर, not खदिर."
     },
     {
       "slug": "babbula",
       "lang": "sa",
       "name": "पङ्क्तिः",
-      "denotesInstead": "not a plant at all — Sanskrit for 'a line, row, series'; in Ayurvedic plant morphology paṅkti / paṅktivallarī is one of the eight types of inflorescence (vallarī)",
+      "denotesInstead": "not a plant at all, Sanskrit for 'a line, row, series'; in Ayurvedic plant morphology paṅkti / paṅktivallarī is one of the eight types of inflorescence (vallarī)",
       "reason": "The clearest pure artifact in the batch. Checked the wisdomlib entry for 'pankti': the word means a line, row or series, a group or assembly; the only botanical use is as Paṅktivallarī, a named type of flower arrangement in which floral parts are set in rows. No source identifies it as a plant species, and none of API Vol I (Bāvarī, Kinkirāta), Pandanus (barbura, babbūla) or Monier-Williams lists it under Acacia nilotica. This looks like a morphology term or a table label scraped out of context; it should be deleted."
     },
     {
@@ -141,14 +141,14 @@
       "lang": "ta",
       "name": "சித்தாமுட்டி",
       "denotesInstead": "Pavonia glechomifolia and Pavonia zeylanica per Tamil Lexicon (contested: MMPND lists 'Chitaamuttie' for Sida cordifolia)",
-      "reason": "The Tamil Lexicon routes this name to a different genus. p.1412: \"சித்தாமுட்டி cittāmuṭṭi, n. [K. ciṭṭāmuṭṭi.] See சிற்றாமுட்டி. Colloq.\", and p.1452: \"சிற்றாமுட்டி ciṟṟā-muṭṭi, n. முட்டி. 1. Yellow sticky mallow, s. sh., Pavonia glechomifolia; 2. Rose-coloured sticky mallow, s. sh., Pavonia zeylanica\". The Lexicon's own name for this page's species is different again — a full-text search for 'Sida cordifolia' returns exactly one entry, p.2274: \"நிலத்துத்தி nila-t-tutti, n. Downy heart-leaved morning mallow, s. sh., Sida cordifolia\" — and IISc's India Flora Online herbsheet for Sida cordifolia gives Tamil 'Nilatutti' only. MMPND Sorting Sida does list TAMIL: Chitaamuttie under Sida cordifolia, so the attribution is contested rather than baseless, but with the University of Madras Lexicon and IISc both against it and both naming நிலத்துத்தி instead, this should not go on the page unqualified. Both genera are Malvaceae 'mallows', which is how the confusion propagates."
+      "reason": "The Tamil Lexicon routes this name to a different genus. p.1412: \"சித்தாமுட்டி cittāmuṭṭi, n. [K. ciṭṭāmuṭṭi.] See சிற்றாமுட்டி. Colloq.\", and p.1452: \"சிற்றாமுட்டி ciṟṟā-muṭṭi, n. முட்டி. 1. Yellow sticky mallow, s. sh., Pavonia glechomifolia; 2. Rose-coloured sticky mallow, s. sh., Pavonia zeylanica\". The Lexicon's own name for this page's species is different again, a full-text search for 'Sida cordifolia' returns exactly one entry, p.2274: \"நிலத்துத்தி nila-t-tutti, n. Downy heart-leaved morning mallow, s. sh., Sida cordifolia\", and IISc's India Flora Online herbsheet for Sida cordifolia gives Tamil 'Nilatutti' only. MMPND Sorting Sida does list TAMIL: Chitaamuttie under Sida cordifolia, so the attribution is contested rather than baseless, but with the University of Madras Lexicon and IISc both against it and both naming நிலத்துத்தி instead, this should not go on the page unqualified. Both genera are Malvaceae 'mallows', which is how the confusion propagates."
     },
     {
       "slug": "bhadra",
       "lang": "ta",
       "name": "பூளை",
       "denotesInstead": "Aerva javanica (Burm.f.) Juss. ex Schult. per Tamil Lexicon sense 3; in sense 1 the same headword means red silk-cotton, இலவு / Bombax ceiba",
-      "reason": "The bare form names the wrong Aerva. Tamil Lexicon p.2853: \"பூளை¹ pūḷai, n. [M. pula.] 1. Red silk-cotton. See இலவு¹. 2. Wool plant, aerua; 3. Javanese wool plant, m. sh., Aerua javanica; 4. Flower worn as a symbol of victory\" — generic for the genus in sense 2, but the only species gloss is Aerva javanica. Aerva lanata has its own headword, p.1463: \"சிறுபூளை ciṟu-pūḷai, n. Aerua lanata\", with a Cilappatikāram 9.43 citation. Both independent sources for this species agree: API Vol V, monograph PATTŪRA (Whole Plant), Sanskrit: Gorakṣagañja, Bhadrā, Tamil: Cherupoolai; Pandanus record for Aerva lanata, Tamil: ceṟupūḷai. The qualifier சிறு- is what distinguishes the species, so dropping it changes the referent."
+      "reason": "The bare form names the wrong Aerva. Tamil Lexicon p.2853: \"பூளை¹ pūḷai, n. [M. pula.] 1. Red silk-cotton. See இலவு¹. 2. Wool plant, aerua; 3. Javanese wool plant, m. sh., Aerua javanica; 4. Flower worn as a symbol of victory\", generic for the genus in sense 2, but the only species gloss is Aerva javanica. Aerva lanata has its own headword, p.1463: \"சிறுபூளை ciṟu-pūḷai, n. Aerua lanata\", with a Cilappatikāram 9.43 citation. Both independent sources for this species agree: API Vol V, monograph PATTŪRA (Whole Plant), Sanskrit: Gorakṣagañja, Bhadrā, Tamil: Cherupoolai; Pandanus record for Aerva lanata, Tamil: ceṟupūḷai. The qualifier சிறு- is what distinguishes the species, so dropping it changes the referent."
     },
     {
       "slug": "bijapura",
@@ -211,7 +211,7 @@
       "lang": "ta",
       "name": "மரமஞ்சள்",
       "denotesInstead": "Coscinium fenestratum (Goetgh.) Colebr. (Menispermaceae), the South Indian climber 'tree turmeric'",
-      "reason": "THIS IS THE BATCH'S aśvattha-CLASS ERROR. The University of Madras Tamil Lexicon (via agarathi.com) defines மரமஞ்சள் as 'Tree turmeric, s. cl., Coscinium fenestratum; கொடிவகை' — a climber, not a Berberis shrub; the Tamil Tamil Akaramuthali likewise glosses it 'ஒருகொடிவகை' (a kind of climber). Tamil names given for Berberis aristata by botanical sources are entirely different: mullukala, usikkala, kasturimanjal (India Biodiversity / PMC3566491). The reason this error propagates is market substitution: in Kerala and Tamil Nadu, Coscinium fenestratum stem is traded AS Daruharidra, and the Daruharidra market-sample study (PMC3566491) is specifically about that adulteration. English Wikipedia repeats 'Mara manjal' in the Berberis aristata lead and Wikidata harvests it from there, so this candidate has a mirror, not a corroborator. Carrying it would print the name of a different family's plant on a Berberis page."
+      "reason": "THIS IS THE BATCH'S aśvattha-CLASS ERROR. The University of Madras Tamil Lexicon (via agarathi.com) defines மரமஞ்சள் as 'Tree turmeric, s. cl., Coscinium fenestratum; கொடிவகை', a climber, not a Berberis shrub; the Tamil Tamil Akaramuthali likewise glosses it 'ஒருகொடிவகை' (a kind of climber). Tamil names given for Berberis aristata by botanical sources are entirely different: mullukala, usikkala, kasturimanjal (India Biodiversity / PMC3566491). The reason this error propagates is market substitution: in Kerala and Tamil Nadu, Coscinium fenestratum stem is traded AS Daruharidra, and the Daruharidra market-sample study (PMC3566491) is specifically about that adulteration. English Wikipedia repeats 'Mara manjal' in the Berberis aristata lead and Wikidata harvests it from there, so this candidate has a mirror, not a corroborator. Carrying it would print the name of a different family's plant on a Berberis page."
     },
     {
       "slug": "fennel",
@@ -232,14 +232,14 @@
       "lang": "sa",
       "name": "अश्वत्थः",
       "denotesInstead": "Ficus religiosa (the pipal / bo-tree)",
-      "reason": "This is the planted error and it is a real botanical error, not merely an unattested string. wisdomlib s.v. Aśvattha, citing Sanskrit lexicons, Dharmaśāstra, Śaivism and Ayurveda/Rasaśāstra sources, identifies अश्वत्थ unanimously as Ficus religiosa L. (Moraceae), another name for Pippala. API Part I Vol I's Sanskrit synonyms for HARĪTAKĪ are Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā — अश्वत्थः is absent, as it is from every nighantu synonym list for Terminalia chebula I retrieved. The same bogus alias is attached to Adhatoda vasica and Aegle marmelos in this dataset, confirming it is a Wikidata alias contamination. It must be removed, and it would mislead a reader badly if left: Ficus religiosa is a different family and a different drug."
+      "reason": "This is the planted error and it is a real botanical error, not merely an unattested string. wisdomlib s.v. Aśvattha, citing Sanskrit lexicons, Dharmaśāstra, Śaivism and Ayurveda/Rasaśāstra sources, identifies अश्वत्थ unanimously as Ficus religiosa L. (Moraceae), another name for Pippala. API Part I Vol I's Sanskrit synonyms for HARĪTAKĪ are Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā, अश्वत्थः is absent, as it is from every nighantu synonym list for Terminalia chebula I retrieved. The same bogus alias is attached to Adhatoda vasica and Aegle marmelos in this dataset, confirming it is a Wikidata alias contamination. It must be removed, and it would mislead a reader badly if left: Ficus religiosa is a different family and a different drug."
     },
     {
       "slug": "ikshu",
       "lang": "ta",
       "name": "செங்கரும்பு",
       "denotesInstead": "the red-caned cultivar of sugarcane specifically ('செந்நிறமுள்ள கரும்புவகை'), not Saccharum officinarum as a species",
-      "reason": "Madras Tamil Lexicon, Fabricius, Winslow and DSAL all gloss செங்கரும்பு narrowly as 'Red sugar-cane; செந்நிறமுள்ள கரும்புவகை' — a colour variety, செம் (red) + கரும்பு. The species-level Tamil name is கரும்பு: API Part I Vol II, monograph 22 IKṢU (dried stem of Saccharum officinarum Linn.) gives Tamil: Karumbu, and Flowers of India gives 'Tamil: கரும்பு (Karumbu), புண்டறம் (Pundaram)'. Publishing செங்கரும்பு as the Tamil name of the Ikshu drug would misstate it as a cultivar name."
+      "reason": "Madras Tamil Lexicon, Fabricius, Winslow and DSAL all gloss செங்கரும்பு narrowly as 'Red sugar-cane; செந்நிறமுள்ள கரும்புவகை', a colour variety, செம் (red) + கரும்பு. The species-level Tamil name is கரும்பு: API Part I Vol II, monograph 22 IKṢU (dried stem of Saccharum officinarum Linn.) gives Tamil: Karumbu, and Flowers of India gives 'Tamil: கரும்பு (Karumbu), புண்டறம் (Pundaram)'. Publishing செங்கரும்பு as the Tamil name of the Ikshu drug would misstate it as a cultivar name."
     },
     {
       "slug": "indravaruni",
@@ -252,50 +252,50 @@
       "slug": "jati",
       "lang": "ta",
       "name": "மௌவல்",
-      "denotesInstead": "Jasminum spp. generally — the lexicon gloss is 'wild jasmine' (வனமல்லிகை / காட்டுமல்லிகை), with cross-references to Arabian jasmine (Jasminum sambac) and to wild jasmine (Jasminum angustifolium); no authority pins it to Jasminum officinale",
+      "denotesInstead": "Jasminum spp. generally, the lexicon gloss is 'wild jasmine' (வனமல்லிகை / காட்டுமல்லிகை), with cross-references to Arabian jasmine (Jasminum sambac) and to wild jasmine (Jasminum angustifolium); no authority pins it to Jasminum officinale",
       "reason": "I retrieved the Tamil Lexicon entry itself (dt.madurai.io, Madras University Tamil Lexicon, corroborated by Agarathi via Wiktionary). It defines மௌவல் only as 'the wild jasmine, வனமல்லிகை', cross-referenced to காட்டுமல்லிகை and, in classical usage, also to Arabian jasmine and even to the lotus. The lexicon does not assign it to a species, and the species mappings circulating online split it across Jasminum officinale, J. grandiflorum and J. angustifolium. That is a genus-level word being presented as a species name, so confirmed stays false. It is also a literary/archaic word, not what a Tamil speaker would search."
     },
     {
       "slug": "kachnar",
       "lang": "sa",
       "name": "मन्दारः",
-      "denotesInstead": "Erythrina variegata (Indian coral tree) — Sanskrit मन्दार / मन्दारक / मन्दारवः, the Ayurvedic drug Paribhadra (पारिभद्रः); the word is also used in Sanskrit for the mythological coral tree and, in some lexicons, for Calotropis gigantea",
-      "reason": "This is the kind of error worth stopping. IISc Flora of Peninsular India gives Sanskrit for Bauhinia variegata as 'Kanchanara' only, and the API Kanchanara monograph gives Kanchanara and Kovidara. Retrieval for मन्दार instead returns Erythrina variegata: Sanskrit names mandara, mandarakah, mandaravah, paribhadrah. The Bauhinia association comes through Dravidian, not Sanskrit — Tamil மந்தாரை, Kannada 'Kempu mandara', Telugu 'Mandari' are all genuine names for Bauhinia variegata, and Wikidata appears to have back-formed a Sanskrit label from them. Presented as Sanskrit on a Kachnar page, मन्दारः points a reader at the coral tree. Use काञ्चनारः / कोविदारः instead."
+      "denotesInstead": "Erythrina variegata (Indian coral tree), Sanskrit मन्दार / मन्दारक / मन्दारवः, the Ayurvedic drug Paribhadra (पारिभद्रः); the word is also used in Sanskrit for the mythological coral tree and, in some lexicons, for Calotropis gigantea",
+      "reason": "This is the kind of error worth stopping. IISc Flora of Peninsular India gives Sanskrit for Bauhinia variegata as 'Kanchanara' only, and the API Kanchanara monograph gives Kanchanara and Kovidara. Retrieval for मन्दार instead returns Erythrina variegata: Sanskrit names mandara, mandarakah, mandaravah, paribhadrah. The Bauhinia association comes through Dravidian, not Sanskrit, Tamil மந்தாரை, Kannada 'Kempu mandara', Telugu 'Mandari' are all genuine names for Bauhinia variegata, and Wikidata appears to have back-formed a Sanskrit label from them. Presented as Sanskrit on a Kachnar page, मन्दारः points a reader at the coral tree. Use काञ्चनारः / कोविदारः instead."
     },
     {
       "slug": "kachnar",
       "lang": "ta",
       "name": "மலையாத்தி",
-      "denotesInstead": "Bauhinia malabarica — MMPND's 'Sorting Bauhinia names' places மலையாத்தி (malai-y-atti) under Bauhinia malabarica, not B. variegata; the ஆத்தி word-family (ஆத்தி, புளியாத்தி, வரையாத்தி) belongs to Bauhinia racemosa and relatives, with aarai/aaththi cognates covering B. racemosa, B. tomentosa, B. spicata and B. parviflora",
+      "denotesInstead": "Bauhinia malabarica, MMPND's 'Sorting Bauhinia names' places மலையாத்தி (malai-y-atti) under Bauhinia malabarica, not B. variegata; the ஆத்தி word-family (ஆத்தி, புளியாத்தி, வரையாத்தி) belongs to Bauhinia racemosa and relatives, with aarai/aaththi cognates covering B. racemosa, B. tomentosa, B. spicata and B. parviflora",
       "reason": "A second genuine misassignment. I checked MMPND's per-species Bauhinia listing directly: under B. variegata it gives only Hindi 'Kachnar' and no Tamil name, while மலையாத்தி appears under Bauhinia malabarica; Flowers of India associates malaiyatti and புளியாத்தி with Bauhinia racemosa. IISc Flora of Peninsular India gives the Tamil for B. variegata as 'Sigappumanch, Sigappumantharai' (சிகப்பு மந்தாரை / செம்மந்தாரை). So மலையாத்தி is a real Tamil plant name for a different Bauhinia and would mislead a reader on this page."
     },
     {
       "slug": "kadamba",
       "lang": "hi",
       "name": "हरिद्र",
-      "denotesInstead": "Curcuma longa — हरिद्रा is turmeric, one of the most fixed plant names in Sanskrit and Hindi. The near-homograph हरिद्रु is identified by Monier-Williams with Curcuma aromatica and 'a sort of Pinus', and in Indian usage with Haldina cordifolia (Hindi हल्दू, formerly Adina cordifolia) — a different Rubiaceae tree that is also sometimes called कदम्बु in Tamil. None of these is Neolamarckia cadamba.",
+      "denotesInstead": "Curcuma longa, हरिद्रा is turmeric, one of the most fixed plant names in Sanskrit and Hindi. The near-homograph हरिद्रु is identified by Monier-Williams with Curcuma aromatica and 'a sort of Pinus', and in Indian usage with Haldina cordifolia (Hindi हल्दू, formerly Adina cordifolia), a different Rubiaceae tree that is also sometimes called कदम्बु in Tamil. None of these is Neolamarckia cadamba.",
       "reason": "A real botanical error, not merely an unattested string. I retrieved the haridru/haridra entry on wisdomlib: the identifications are Curcuma aromatica, Pinus spp., Chloroxylon swietenia and Haldina cordifolia, and kadamba is explicitly not among them. Searching Neolamarckia cadamba's own vernacular lists (efloraofindia, Names of Plants in India) returns Sanskrit हरिप्रिय and कदम्ब, never हरिद्र. The likeliest path is confusion of हरिप्रिय with हरिद्र, or of kadamba with हल्दू / Haldina cordifolia. Left on the page, a reader sees turmeric listed as a name for a forest tree."
     },
     {
       "slug": "kadamba",
       "lang": "sa",
       "name": "अश्वत्थः",
-      "denotesInstead": "Ficus religiosa — aśvattha is the pipal/bodhi tree, one of the most unambiguous plant names in the entire Sanskrit corpus (Ṛgveda onward, Bhagavad-gītā 15.1, and every nighantu). It has no connection to Neolamarckia cadamba.",
-      "reason": "This is the planted error, and it is the same Wikidata defect flagged in the brief, where अश्वत्थः is also attached to Adhatoda vasica and Aegle marmelos. No source for Neolamarckia cadamba contains it: efloraofindia and Names of Plants in India give Sanskrit हरिप्रिय and कदम्ब; Rāja Nighaṇṭu gives Kadamba, Nīpa, Dhārākadamba, Kādambarya. Must be removed — a reader would take Ficus religiosa and Neolamarckia cadamba to be the same tree."
+      "denotesInstead": "Ficus religiosa, aśvattha is the pipal/bodhi tree, one of the most unambiguous plant names in the entire Sanskrit corpus (Ṛgveda onward, Bhagavad-gītā 15.1, and every nighantu). It has no connection to Neolamarckia cadamba.",
+      "reason": "This is the planted error, and it is the same Wikidata defect flagged in the brief, where अश्वत्थः is also attached to Adhatoda vasica and Aegle marmelos. No source for Neolamarckia cadamba contains it: efloraofindia and Names of Plants in India give Sanskrit हरिप्रिय and कदम्ब; Rāja Nighaṇṭu gives Kadamba, Nīpa, Dhārākadamba, Kādambarya. Must be removed, a reader would take Ficus religiosa and Neolamarckia cadamba to be the same tree."
     },
     {
       "slug": "kadamba",
       "lang": "ta",
       "name": "கடம்பு மரம்",
-      "denotesInstead": "ambiguous in Tamil — bare கடம்பு is applied to at least four species: Neolamarckia cadamba, Mitragyna parvifolia, Haldina cordifolia and Barringtonia acutangula, three of which occur around Madurai, where the Sangam-literature கடம்பு is commonly identified as Mitragyna parvifolia",
-      "reason": "The species-specific Tamil name I retrieved is வெள்ளைக் கடம்பு / வெண்கடம்பு ('white kadambu') — Names of Plants in India gives வெள்ளை கதம்பு (Vellaikkatampu) for Neolamarckia cadamba, and Tamil agro-forestry sources give 'Vellai Kadambu'. The exact form கடம்பு மரம் ('kadambu tree') is not attested by any named source as a name, and dropping the qualifier வெள்ளை is precisely what makes it ambiguous across the four species above. Use வெள்ளைக் கடம்பு."
+      "denotesInstead": "ambiguous in Tamil, bare கடம்பு is applied to at least four species: Neolamarckia cadamba, Mitragyna parvifolia, Haldina cordifolia and Barringtonia acutangula, three of which occur around Madurai, where the Sangam-literature கடம்பு is commonly identified as Mitragyna parvifolia",
+      "reason": "The species-specific Tamil name I retrieved is வெள்ளைக் கடம்பு / வெண்கடம்பு ('white kadambu'), Names of Plants in India gives வெள்ளை கதம்பு (Vellaikkatampu) for Neolamarckia cadamba, and Tamil agro-forestry sources give 'Vellai Kadambu'. The exact form கடம்பு மரம் ('kadambu tree') is not attested by any named source as a name, and dropping the qualifier வெள்ளை is precisely what makes it ambiguous across the four species above. Use வெள்ளைக் கடம்பு."
     },
     {
       "slug": "kalmegh",
       "lang": "sa",
       "name": "अश्वत्थः",
       "denotesInstead": "Ficus religiosa Linn. (the pipal/bodhi tree)",
-      "reason": "This is the planted error and it is a genuine Sanskrit plant name for a completely different tree. The Ayurvedic Pharmacopoeia of India carries its own separate monograph headed ASVATTHA (Bark), defined as 'dried bark of Ficus religiosa Linn. (Fam. Moraceae)' — api-all.txt lines 126-128 and 3132-3135 — and its Bengali/Kannada synonym slots there repeat Asvattha/Ashvattha for Ficus religiosa. Meanwhile the retrieved Sanskrit list for Andrographis paniculata (Names of Plants in India) is 'भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta' and contains no अश्वत्थ at all. Must be dropped from this page; it is the same bad Wikidata alias that also contaminates Adhatoda vasica and Aegle marmelos."
+      "reason": "This is the planted error and it is a genuine Sanskrit plant name for a completely different tree. The Ayurvedic Pharmacopoeia of India carries its own separate monograph headed ASVATTHA (Bark), defined as 'dried bark of Ficus religiosa Linn. (Fam. Moraceae)', api-all.txt lines 126-128 and 3132-3135, and its Bengali/Kannada synonym slots there repeat Asvattha/Ashvattha for Ficus religiosa. Meanwhile the retrieved Sanskrit list for Andrographis paniculata (Names of Plants in India) is 'भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta' and contains no अश्वत्थ at all. Must be dropped from this page; it is the same bad Wikidata alias that also contaminates Adhatoda vasica and Aegle marmelos."
     },
     {
       "slug": "kanchanar",
@@ -309,21 +309,21 @@
       "lang": "ta",
       "name": "மலையாத்தி",
       "denotesInstead": "Bauhinia racemosa Lamk. per the Ayurvedic Pharmacopoeia of India; Bauhinia malabarica Roxb. per MMPND",
-      "reason": "Species-level error. API's PITA-KANCANARA monograph, which is explicitly Bauhinia racemosa Lamk., lists Tamil 'Atthi, Malai-atti, Malai-mandarai' — so the official source assigns Malai-atti (மலையாத்தி) to B. racemosa, not B. variegata. The Multilingual Multiscript Plant Name Database (Univ. of Melbourne, plantnames.unimelb.edu.au/Sorting/Bauhinia.html) assigns 'மலையாத்தி Malaiyatti' to Bauhinia malabarica Roxb. and gives no Tamil name at all for B. variegata. API's Tamil for B. variegata is 'Sigappu mandarai, Sihappu mantarai' (செம்மந்தாரை). Names of Plants in India does list மலையாத்தி under B. variegata, but it is outvoted by two sources that place it on other Bauhinia species, and on a reference page it would send a reader to the wrong tree."
+      "reason": "Species-level error. API's PITA-KANCANARA monograph, which is explicitly Bauhinia racemosa Lamk., lists Tamil 'Atthi, Malai-atti, Malai-mandarai', so the official source assigns Malai-atti (மலையாத்தி) to B. racemosa, not B. variegata. The Multilingual Multiscript Plant Name Database (Univ. of Melbourne, plantnames.unimelb.edu.au/Sorting/Bauhinia.html) assigns 'மலையாத்தி Malaiyatti' to Bauhinia malabarica Roxb. and gives no Tamil name at all for B. variegata. API's Tamil for B. variegata is 'Sigappu mandarai, Sihappu mantarai' (செம்மந்தாரை). Names of Plants in India does list மலையாத்தி under B. variegata, but it is outvoted by two sources that place it on other Bauhinia species, and on a reference page it would send a reader to the wrong tree."
     },
     {
       "slug": "kovidara",
       "lang": "hi",
       "name": "कचनार",
       "denotesInstead": "Bauhinia variegata",
-      "reason": "This is the error type you flagged. efloraofindia's Bauhinia variegata page gives Hindi \"कचनार kachnar, कचनाल kachnal\" — bare कचनार is B. variegata, the common kachnar of markets and of the Ayurvedic drug Kanchanara. For Bauhinia purpurea, efloraofindia and IMPPAT give Hindi कांचन (kanchan), लाल कचनार (lal kachnar) and केवनार (kevnar): the purple species is distinguished by the qualifier लाल/रक्त. Putting unqualified कचनार on a B. purpurea page asserts the wrong species."
+      "reason": "This is the error type you flagged. efloraofindia's Bauhinia variegata page gives Hindi \"कचनार kachnar, कचनाल kachnal\", bare कचनार is B. variegata, the common kachnar of markets and of the Ayurvedic drug Kanchanara. For Bauhinia purpurea, efloraofindia and IMPPAT give Hindi कांचन (kanchan), लाल कचनार (lal kachnar) and केवनार (kevnar): the purple species is distinguished by the qualifier लाल/रक्त. Putting unqualified कचनार on a B. purpurea page asserts the wrong species."
     },
     {
       "slug": "kovidara",
       "lang": "hi",
       "name": "कोविदार",
       "denotesInstead": "Bauhinia variegata",
-      "reason": "Two faults. (1) Species: efloraofindia lists कोविदार / कोविदारः among the Sanskrit names of Bauhinia variegata (alongside काञ्चनार kanchanara), while for Bauhinia purpurea it and IMPPAT give Sanskrit रक्तकोविदार (rakta-kovidara) and रक्तकांचन — the purple species carries the रक्त qualifier, so bare कोविदार points at B. variegata. (2) Language: कोविदार is a Sanskrit term (efloraofindia also records it as Marathi), not a Hindi vernacular name, so the hi label is wrong even where the word is right. If the monograph is to stay on B. purpurea, the defensible Sanskrit form is रक्तकोविदार."
+      "reason": "Two faults. (1) Species: efloraofindia lists कोविदार / कोविदारः among the Sanskrit names of Bauhinia variegata (alongside काञ्चनार kanchanara), while for Bauhinia purpurea it and IMPPAT give Sanskrit रक्तकोविदार (rakta-kovidara) and रक्तकांचन, the purple species carries the रक्त qualifier, so bare कोविदार points at B. variegata. (2) Language: कोविदार is a Sanskrit term (efloraofindia also records it as Marathi), not a Hindi vernacular name, so the hi label is wrong even where the word is right. If the monograph is to stay on B. purpurea, the defensible Sanskrit form is रक्तकोविदार."
     },
     {
       "slug": "mahanimba",
@@ -455,7 +455,7 @@
       "slug": "shalmali",
       "lang": "ta",
       "name": "கோங்கு",
-      "denotesInstead": "Cochlospermum religiosum (yellow silk cotton tree) — கோங்கு / கோங்கம்",
+      "denotesInstead": "Cochlospermum religiosum (yellow silk cotton tree), கோங்கு / கோங்கம்",
       "reason": "This is the aśvattha-type error in this batch. Two independent sources list the Tamil names of Bombax ceiba and neither includes கோங்கு: efloraofindia gives Tamil இலவு (ilavu), முள்ளிலவு (mullilavu), பூலா (puulaa); India Flora Online (IISc) gives Tamil 'Ilavu, Purani'. Meanwhile கோங்கு is a real and well-documented Tamil tree name belonging to a different species: Tamil Wikipedia's கோங்கம் article and Sangam-literature commentary identify கோங்கம்/கோங்கு as Cochlospermum religiosum, the yellow silk cotton tree. The confusion is plausible (both are called 'silk cotton'), which is exactly why it would survive on a page. Drop it."
     },
     {
@@ -463,14 +463,14 @@
       "lang": "ta",
       "name": "மூவிலை",
       "denotesInstead": "Pseudarthria viscida (Moovila / மூவிலை), the trifoliate Dasamula drug used in South India as a substitute for Shalaparni",
-      "reason": "efloraofindia's Desmodium gangeticum page gives only one Tamil name, புள்ளடி (pullati); Kerala SMPB's monograph gives Tamil/Malayalam Orila (ഓരില, 'one leaf'), which is the diagnostic name for D. gangeticum because its leaf is unifoliate. மூவிலை means 'three leaves' and is the established name of Pseudarthria viscida: wisdomlib's botanical definition of 'Moovila' resolves it to Pseudarthria viscida, Malayalam muvila, Tamil 'moovilai pachilai'. Literature on Dasamula adulteration treats Pseudarthria viscida (Moovila) explicitly as the South Indian substitute for Desmodium gangeticum (Orila), so some compilations do carry Moovilai under D. gangeticum — that is the substitution error propagating, not an independent attestation. Keep it off the page."
+      "reason": "efloraofindia's Desmodium gangeticum page gives only one Tamil name, புள்ளடி (pullati); Kerala SMPB's monograph gives Tamil/Malayalam Orila (ഓരില, 'one leaf'), which is the diagnostic name for D. gangeticum because its leaf is unifoliate. மூவிலை means 'three leaves' and is the established name of Pseudarthria viscida: wisdomlib's botanical definition of 'Moovila' resolves it to Pseudarthria viscida, Malayalam muvila, Tamil 'moovilai pachilai'. Literature on Dasamula adulteration treats Pseudarthria viscida (Moovila) explicitly as the South Indian substitute for Desmodium gangeticum (Orila), so some compilations do carry Moovilai under D. gangeticum, that is the substitution error propagating, not an independent attestation. Keep it off the page."
     },
     {
       "slug": "tagara",
       "lang": "hi",
       "name": "जटामांसी",
       "denotesInstead": "Nardostachys jatamansi (true Jatamansi / spikenard), a separate API monograph drug",
-      "reason": "Second real cross-species error in this batch. जटामांसी is the Hindi/Sanskrit name of Nardostachys jatamansi, which has its own Ayurvedic Pharmacopoeia monograph distinct from Tagara. For Valeriana jatamansi, efloraofindia records the Indian trade names as 'Nihani / Mushkbala / Tagar' — not Jatamansi — and review literature on Tagara (IJAPR, 'Pharmacological Actions of Valeriana wallichii (Tagara)') gives Hindi Tagar / Sugandhabala / Mushkbala. The two Himalayan herbs are documented as routinely confused and cross-adulterated in trade precisely because the species epithet of Valeriana jatamansi repeats the other plant's name; that is how this label reached Wikidata. Putting जटामांसी on a Tagara page would misidentify the drug. Correct Hindi forms are in discovered."
+      "reason": "Second real cross-species error in this batch. जटामांसी is the Hindi/Sanskrit name of Nardostachys jatamansi, which has its own Ayurvedic Pharmacopoeia monograph distinct from Tagara. For Valeriana jatamansi, efloraofindia records the Indian trade names as 'Nihani / Mushkbala / Tagar', not Jatamansi, and review literature on Tagara (IJAPR, 'Pharmacological Actions of Valeriana wallichii (Tagara)') gives Hindi Tagar / Sugandhabala / Mushkbala. The two Himalayan herbs are documented as routinely confused and cross-adulterated in trade precisely because the species epithet of Valeriana jatamansi repeats the other plant's name; that is how this label reached Wikidata. Putting जटामांसी on a Tagara page would misidentify the drug. Correct Hindi forms are in discovered."
     },
     {
       "slug": "vacha",
@@ -536,7 +536,7 @@
           "name": "गुग्गुलु",
           "iast": "guggulu",
           "sources": [
-            "Flowers of India, 'Guggal' page (Commiphora wightii): \"Sanskrit: गुग्गुलु (Guggulu), Ahavabhishtha, Bhutahara\" — printed in Devanagari."
+            "Flowers of India, 'Guggal' page (Commiphora wightii): \"Sanskrit: गुग्गुलु (Guggulu), Ahavabhishtha, Bhutahara\", printed in Devanagari."
           ]
         },
         {
@@ -569,7 +569,7 @@
           "name": "गुग्गल",
           "iast": "guggala",
           "sources": [
-            "Flowers of India, 'Guggal' page: \"Hindi: गुग्गुल (Guggul), गुग्गल (Guggal)\" — Devanagari.",
+            "Flowers of India, 'Guggal' page: \"Hindi: गुग्गुल (Guggul), गुग्गल (Guggal)\", Devanagari.",
             "Ayurvedic Pharmacopoeia of India",
             "Flowers of India, 'Guggal' page (Commiphora wightii): \"Hindi: गुग्गुल (Guggul), गुग्गल (Guggal)\"; independently MMPND (Univ. of Melbourne Multilingual Multiscript Plant Name Database), Commiphora page: Hindi \"Guggul (as C. mukul)\"."
           ],
@@ -741,14 +741,14 @@
           "name": "आढकी",
           "iast": "āḍhakī",
           "sources": [
-            "Flowers of India, 'Arhar' page (Cajanus cajan): \"Sanskrit: आढकी (Adhaki), काक्षी (Kakshi), तुवरी (Tuvari)\" — Devanagari."
+            "Flowers of India, 'Arhar' page (Cajanus cajan): \"Sanskrit: आढकी (Adhaki), काक्षी (Kakshi), तुवरी (Tuvari)\", Devanagari."
           ]
         },
         {
           "name": "काक्षी",
           "iast": "kākṣī",
           "sources": [
-            "Flowers of India, 'Arhar' page: Sanskrit \"काक्षी (Kakshi)\" — Devanagari."
+            "Flowers of India, 'Arhar' page: Sanskrit \"काक्षी (Kakshi)\", Devanagari."
           ]
         },
         {
@@ -756,7 +756,7 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Flowers of India, 'Arhar' page: \"Sanskrit: आढकी (Adhaki), काक्षी (Kakshi), तुवरी (Tuvari)\" — printed in Devanagari, exact match."
+            "Flowers of India, 'Arhar' page: \"Sanskrit: आढकी (Adhaki), काक्षी (Kakshi), तुवरी (Tuvari)\", printed in Devanagari, exact match."
           ],
           "iast": "tuvarī"
         }
@@ -783,7 +783,7 @@
           "iast": "tūvara",
           "sources": [
             "MMPND Cajanus page lists Hindi \"Toor, Tuur, Tur, Tuvar, Tuver\" (the Tuur/Toor forms carry the long vowel); Flowers of India 'Arhar' page prints the Hindi form as तुवर (Tuvar).",
-            "Flowers of India, 'Arhar' page: \"Hindi: अरहर (Arhar), तुवर (Tuvar)\" — Devanagari."
+            "Flowers of India, 'Arhar' page: \"Hindi: अरहर (Arhar), तुवर (Tuvar)\", Devanagari."
           ]
         }
       ],
@@ -807,7 +807,7 @@
           "name": "துவரை",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Arhar' page: \"Tamil: ஆடகி (Adhaki), இருப்புலி (Iruppuli), காய்ச்சி (Kaycci), துவரை (Tuvarai)\" — printed in Tamil script, exact match."
+            "Flowers of India, 'Arhar' page: \"Tamil: ஆடகி (Adhaki), இருப்புலி (Iruppuli), காய்ச்சி (Kaycci), துவரை (Tuvarai)\", printed in Tamil script, exact match."
           ]
         },
         {
@@ -833,7 +833,7 @@
         {
           "name": "ஆடகி",
           "sources": [
-            "Flowers of India, 'Arhar' page: \"Tamil: ஆடகி (Adhaki), இருப்புலி (Iruppuli), காய்ச்சி (Kaycci), துவரை (Tuvarai)\" — Tamil script."
+            "Flowers of India, 'Arhar' page: \"Tamil: ஆடகி (Adhaki), இருப்புலி (Iruppuli), காய்ச்சி (Kaycci), துவரை (Tuvarai)\", Tamil script."
           ]
         }
       ],
@@ -983,7 +983,7 @@
           "name": "अगस्ति",
           "iast": "agasti",
           "sources": [
-            "MMPND Sesbania page, Sanskrit list: \"अगस्ति Agasti, Agati, Agastya, Drigapalaka, Munipriya, Varnari\" — Devanagari."
+            "MMPND Sesbania page, Sanskrit list: \"अगस्ति Agasti, Agati, Agastya, Drigapalaka, Munipriya, Varnari\", Devanagari."
           ]
         }
       ],
@@ -993,7 +993,7 @@
           "iast": "agasti",
           "preferred": true,
           "sources": [
-            "MMPND Sesbania page: Hindi \"अगस्ति Agasti (Aagasti), अगासती Agasati, बसना Basna, गाछ मूंगा Gaach-munga\" — Devanagari printed, exact match."
+            "MMPND Sesbania page: Hindi \"अगस्ति Agasti (Aagasti), अगासती Agasati, बसना Basna, गाछ मूंगा Gaach-munga\", Devanagari printed, exact match."
           ]
         }
       ],
@@ -1002,13 +1002,13 @@
           "name": "அகத்தி",
           "preferred": true,
           "sources": [
-            "MMPND Sesbania page: Tamil \"Agathi, Agatti, Akatti, அகத்தி Akatthi, அகத்திக் கீரை Agathi keeray, Peragathi\" — printed in Tamil script, exact match."
+            "MMPND Sesbania page: Tamil \"Agathi, Agatti, Akatti, அகத்தி Akatthi, அகத்திக் கீரை Agathi keeray, Peragathi\", printed in Tamil script, exact match."
           ]
         },
         {
           "name": "அகத்திக் கீரை",
           "sources": [
-            "MMPND Sesbania page, Tamil list: \"அகத்திக் கீரை Agathi keeray\" — Tamil script."
+            "MMPND Sesbania page, Tamil list: \"அகத்திக் கீரை Agathi keeray\", Tamil script."
           ]
         }
       ]
@@ -1019,21 +1019,21 @@
           "name": "अग्निमुखी",
           "iast": "agnimukhī",
           "sources": [
-            "Flowers of India, 'Glory Lily' page: Sanskrit \"अग्निमुखी (Agnimukhi)\" — Devanagari; also MMPND Gloriosa, Sanskrit \"Agnimukhi\"."
+            "Flowers of India, 'Glory Lily' page: Sanskrit \"अग्निमुखी (Agnimukhi)\", Devanagari; also MMPND Gloriosa, Sanskrit \"Agnimukhi\"."
           ]
         },
         {
           "name": "अग्निशिखा",
           "iast": "agniśikhā",
           "sources": [
-            "Flowers of India, 'Glory Lily' page (Gloriosa superba): \"Sanskrit: अग्निमुखी (Agnimukhi), अग्निशिखा (Agnisikha), ailni, गर्भघातिनी (garbhaghatini), कलिकारी (Kalikari), लाङ्गलिकी (Langaliki), हली (Hali)\" — Devanagari."
+            "Flowers of India, 'Glory Lily' page (Gloriosa superba): \"Sanskrit: अग्निमुखी (Agnimukhi), अग्निशिखा (Agnisikha), ailni, गर्भघातिनी (garbhaghatini), कलिकारी (Kalikari), लाङ्गलिकी (Langaliki), हली (Hali)\", Devanagari."
           ]
         },
         {
           "name": "लाङ्गलिकी",
           "iast": "lāṅgalikī",
           "sources": [
-            "Flowers of India, 'Glory Lily' page: Sanskrit \"लाङ्गलिकी (Langaliki)\" — Devanagari; MMPND gives \"Langalika\"."
+            "Flowers of India, 'Glory Lily' page: Sanskrit \"लाङ्गलिकी (Langaliki)\", Devanagari; MMPND gives \"Langalika\"."
           ]
         }
       ],
@@ -1058,7 +1058,7 @@
         {
           "name": "செங்காந்தள்",
           "sources": [
-            "Flowers of India, 'Glory Lily' page: \"Tamil: செங்காந்தள் (Chenkantal), கலப்பை கிழங்கு (Kallappai kilangu)\" — Tamil script."
+            "Flowers of India, 'Glory Lily' page: \"Tamil: செங்காந்தள் (Chenkantal), கலப்பை கிழங்கு (Kallappai kilangu)\", Tamil script."
           ]
         }
       ]
@@ -1069,7 +1069,7 @@
           "name": "अहिफेनम्",
           "iast": "ahiphenam",
           "sources": [
-            "Flowers of India, 'Opium Poppy' page: \"Sanskrit: Aaphuka, अहिफेनम् (Ahifenam), Ahiphena, अफेनम् (Afenam)\" — Devanagari."
+            "Flowers of India, 'Opium Poppy' page: \"Sanskrit: Aaphuka, अहिफेनम् (Ahifenam), Ahiphena, अफेनम् (Afenam)\", Devanagari."
           ]
         }
       ],
@@ -1078,14 +1078,14 @@
           "name": "अफ़ीम",
           "iast": "afīma",
           "sources": [
-            "Flowers of India, 'Opium Poppy' page (Papaver somniferum): \"Hindi: अफ़ीम (Aphim), ख़शख़ाश (Khash-khash)\" — Devanagari."
+            "Flowers of India, 'Opium Poppy' page (Papaver somniferum): \"Hindi: अफ़ीम (Aphim), ख़शख़ाश (Khash-khash)\", Devanagari."
           ]
         },
         {
           "name": "ख़शख़ाश",
           "iast": "ḳhaśaḳhāśa",
           "sources": [
-            "Flowers of India, 'Opium Poppy' page: Hindi \"ख़शख़ाश (Khash-khash)\" — Devanagari; MMPND gives Hindi \"Khashkhash (Kaskas)\"."
+            "Flowers of India, 'Opium Poppy' page: Hindi \"ख़शख़ाश (Khash-khash)\", Devanagari; MMPND gives Hindi \"Khashkhash (Kaskas)\"."
           ]
         }
       ],
@@ -1106,7 +1106,7 @@
           "iast": "yavānī",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Ajwain' page: \"Sanskrit: अजमोद Ajamoda, अजमोदिका Ajamodika, dipyaka, यवानी yavani, yamanika\" — Devanagari printed, exact match; MMPND Trachyspermum page: Sanskrit \"यवानी Yavani, Yawani (NCL)\"."
+            "Flowers of India, 'Ajwain' page: \"Sanskrit: अजमोद Ajamoda, अजमोदिका Ajamodika, dipyaka, यवानी yavani, yamanika\", Devanagari printed, exact match; MMPND Trachyspermum page: Sanskrit \"यवानी Yavani, Yawani (NCL)\"."
           ]
         },
         {
@@ -1122,14 +1122,14 @@
           "name": "अजवाइन",
           "iast": "ajavāina",
           "sources": [
-            "Flowers of India, 'Ajwain' page (Trachyspermum ammi): \"Hindi: अजवाइन, अजवायन Ajwain\" — Devanagari; MMPND gives \"अजवाइन Ajawain (Katz)\"."
+            "Flowers of India, 'Ajwain' page (Trachyspermum ammi): \"Hindi: अजवाइन, अजवायन Ajwain\", Devanagari; MMPND gives \"अजवाइन Ajawain (Katz)\"."
           ]
         },
         {
           "name": "अजवायन",
           "iast": "ajavāyana",
           "sources": [
-            "Flowers of India, 'Ajwain' page: Hindi \"अजवायन\" — Devanagari; MMPND gives \"अजवायन Ajavayan\"."
+            "Flowers of India, 'Ajwain' page: Hindi \"अजवायन\", Devanagari; MMPND gives \"अजवायन Ajavayan\"."
           ]
         }
       ],
@@ -1138,7 +1138,7 @@
           "name": "ஓமம்",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Ajwain' page: \"Tamil: ஓமம் Omam\"; MMPND Trachyspermum page: Tamil \"Asamtavomam, Asampadam, Amam, ஓமம் Omam (Katz)\" — both print the Tamil script form."
+            "Flowers of India, 'Ajwain' page: \"Tamil: ஓமம் Omam\"; MMPND Trachyspermum page: Tamil \"Asamtavomam, Asampadam, Amam, ஓமம் Omam (Katz)\", both print the Tamil script form."
           ]
         }
       ]
@@ -1357,14 +1357,14 @@
           "iast": "laukī",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Bottle Gourd' page (Lagenaria siceraria): \"Hindi: लौकी Lauki, घिया Ghiya\" — Devanagari, exact match; SDACH Dravyaguna 'Alabu' monograph: Hindi \"Lauki, Ghiya\"."
+            "Flowers of India, 'Bottle Gourd' page (Lagenaria siceraria): \"Hindi: लौकी Lauki, घिया Ghiya\", Devanagari, exact match; SDACH Dravyaguna 'Alabu' monograph: Hindi \"Lauki, Ghiya\"."
           ]
         },
         {
           "name": "घिया",
           "iast": "ghiyā",
           "sources": [
-            "Flowers of India, 'Bottle Gourd' page (Lagenaria siceraria): \"Hindi: लौकी Lauki, घिया Ghiya\" — Devanagari; SDACH Dravyaguna 'Alabu' monograph gives Hindi \"Lauki, Ghiya\"."
+            "Flowers of India, 'Bottle Gourd' page (Lagenaria siceraria): \"Hindi: लौकी Lauki, घिया Ghiya\", Devanagari; SDACH Dravyaguna 'Alabu' monograph gives Hindi \"Lauki, Ghiya\"."
           ]
         }
       ],
@@ -1373,7 +1373,7 @@
           "name": "சுரைக்காய்",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Bottle Gourd' page: \"Tamil: சுரைக்காய் Surakkai\" — printed in Tamil script, exact match; SDACH Dravyaguna 'Alabu' monograph: Tamil \"Suraikkai\"."
+            "Flowers of India, 'Bottle Gourd' page: \"Tamil: சுரைக்காய் Surakkai\", printed in Tamil script, exact match; SDACH Dravyaguna 'Alabu' monograph: Tamil \"Suraikkai\"."
           ]
         }
       ]
@@ -1530,7 +1530,7 @@
           "name": "आमलकः",
           "iast": "āmalakaḥ",
           "sources": [
-            "MMPND Phyllanthus page, Sanskrit list: \"अमलाः Amalah, आमलकः Amalakah, Amalaki, ब्रह्मवृक्ष Brahmavriksh, धात्रिका Dhatrika, मण्डा Manda, शिवा Shiva...\" — Devanagari; Flowers of India gives Sanskrit \"Dhatri, amalaka\"."
+            "MMPND Phyllanthus page, Sanskrit list: \"अमलाः Amalah, आमलकः Amalakah, Amalaki, ब्रह्मवृक्ष Brahmavriksh, धात्रिका Dhatrika, मण्डा Manda, शिवा Shiva...\", Devanagari; Flowers of India gives Sanskrit \"Dhatri, amalaka\"."
           ]
         },
         {
@@ -1559,14 +1559,14 @@
           "iast": "āṁvalā",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Amla' page (Emblica officinalis / Phyllanthus emblica): \"Hindi: आँवला Aonla\" — Devanagari, exact match including the candrabindu; MMPND Phyllanthus page: Hindi \"आमला Amla, आंवला Amvalaa, आंवला Anwla, Aonla\"."
+            "Flowers of India, 'Amla' page (Emblica officinalis / Phyllanthus emblica): \"Hindi: आँवला Aonla\", Devanagari, exact match including the candrabindu; MMPND Phyllanthus page: Hindi \"आमला Amla, आंवला Amvalaa, आंवला Anwla, Aonla\"."
           ]
         },
         {
           "name": "आमला",
           "iast": "āmalā",
           "sources": [
-            "MMPND Phyllanthus page, Hindi list: \"आमला Amla, Amlaki, आंवला Amvalaa, आंवला Anwla, Aonla, Aovla\" — Devanagari.",
+            "MMPND Phyllanthus page, Hindi list: \"आमला Amla, Amlaki, आंवला Amvalaa, आंवला Anwla, Aonla, Aovla\", Devanagari.",
             "Ayurvedic Pharmacopoeia of India"
           ]
         },
@@ -1749,14 +1749,14 @@
           "name": "अम्ली",
           "iast": "amlī",
           "sources": [
-            "Flowers of India, 'Creeping Wood Sorrel' page: Sanskrit \"अम्लः Amla, अम्ली Amli\" — Devanagari."
+            "Flowers of India, 'Creeping Wood Sorrel' page: Sanskrit \"अम्लः Amla, अम्ली Amli\", Devanagari."
           ]
         },
         {
           "name": "चांगेरी",
           "iast": "cāṃgerī",
           "sources": [
-            "Flowers of India, 'Creeping Wood Sorrel' page: \"Sanskrit: चांगेरी Changeri, अम्लः Amla, अम्ली Amli\" — Devanagari; SMPB Kerala: Sanskrit \"Changeri\"."
+            "Flowers of India, 'Creeping Wood Sorrel' page: \"Sanskrit: चांगेरी Changeri, अम्लः Amla, अम्ली Amli\", Devanagari; SMPB Kerala: Sanskrit \"Changeri\"."
           ]
         }
       ],
@@ -1765,7 +1765,7 @@
           "name": "अम्रुल",
           "iast": "amrula",
           "sources": [
-            "Flowers of India, 'Creeping Wood Sorrel' page (Oxalis corniculata): \"Hindi: Amrul अम्रुल\" — Devanagari; Kerala State Medicinal Plants Board (smpbkerala.in), Oxalis corniculata: Hindi \"Amrul\"."
+            "Flowers of India, 'Creeping Wood Sorrel' page (Oxalis corniculata): \"Hindi: Amrul अम्रुल\", Devanagari; Kerala State Medicinal Plants Board (smpbkerala.in), Oxalis corniculata: Hindi \"Amrul\"."
           ]
         }
       ],
@@ -1785,7 +1785,7 @@
           "name": "आम्र",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "MMPND Mangifera page, Sanskrit list: \"आम्र Aamra, Ambrah, Amra chuta, Madhuula...\" — Devanagari; wisdomlib's Cūta entry cites Amarakośa synonyms Āmra and Rasāla."
+            "MMPND Mangifera page, Sanskrit list: \"आम्र Aamra, Ambrah, Amra chuta, Madhuula...\", Devanagari; wisdomlib's Cūta entry cites Amarakośa synonyms Āmra and Rasāla."
           ],
           "iast": "āmra"
         },
@@ -1808,7 +1808,7 @@
           "name": "आम",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Flowers of India, 'Mango' page (Mangifera indica): \"Hindi: Am (आम)\" — Devanagari, exact match; MMPND Mangifera page: Hindi \"आम Āma (aam)\".",
+            "Flowers of India, 'Mango' page (Mangifera indica): \"Hindi: Am (आम)\", Devanagari, exact match; MMPND Mangifera page: Hindi \"आम Āma (aam)\".",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
           ],
           "preferred": true,
@@ -1846,13 +1846,13 @@
         {
           "name": "மா",
           "sources": [
-            "Flowers of India, 'Mango' page (Mangifera indica): \"Tamil: Ma (மா)\" — Tamil script; MMPND Mangifera page prints Tamil \"மா Mā, மாங்காய் Māṅkāy, மாம்பழம் Māmpaḻam, ஆம்பிரம் Āmpiram\"."
+            "Flowers of India, 'Mango' page (Mangifera indica): \"Tamil: Ma (மா)\", Tamil script; MMPND Mangifera page prints Tamil \"மா Mā, மாங்காய் Māṅkāy, மாம்பழம் Māmpaḻam, ஆம்பிரம் Āmpiram\"."
           ]
         },
         {
           "name": "மாங்காய்",
           "sources": [
-            "MMPND Mangifera page, Tamil list: \"மாங்காய் Māṅkāy (Maangai)\" — Tamil script; Flowers of India gives the Kannada cognates ಮಾ Maa, ಮಾವು Maavu."
+            "MMPND Mangifera page, Tamil list: \"மாங்காய் Māṅkāy (Maangai)\", Tamil script; Flowers of India gives the Kannada cognates ಮಾ Maa, ಮಾವು Maavu."
           ]
         }
       ],
@@ -2002,7 +2002,7 @@
           "name": "आम्र",
           "iast": "āmra",
           "sources": [
-            "MMPND Mangifera page, Sanskrit: \"आम्र Aamra\" — Devanagari."
+            "MMPND Mangifera page, Sanskrit: \"आम्र Aamra\", Devanagari."
           ]
         },
         {
@@ -2026,7 +2026,7 @@
         {
           "name": "மா",
           "sources": [
-            "Flowers of India, 'Mango' page: \"Tamil: Ma (மா)\" — Tamil script."
+            "Flowers of India, 'Mango' page: \"Tamil: Ma (மா)\", Tamil script."
           ]
         }
       ]
@@ -2058,7 +2058,7 @@
           "name": "आम हल्दी",
           "iast": "āma haldī",
           "sources": [
-            "Flowers of India, 'Mango Ginger' page (Curcuma amada): \"Hindi: आम हल्दी Am-haldi\" — Devanagari.",
+            "Flowers of India, 'Mango Ginger' page (Curcuma amada): \"Hindi: आम हल्दी Am-haldi\", Devanagari.",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
           ]
         },
@@ -2164,14 +2164,14 @@
           "iast": "anaṃtamūla",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Indian Sarsaparilla' page (Hemidesmus indicus): \"Hindi: अनंतमूल Anantamul, दूधली Dudhli\" — Devanagari, exact match; MMPND Hemidesmus page: Hindi \"Anantamool\"."
+            "Flowers of India, 'Indian Sarsaparilla' page (Hemidesmus indicus): \"Hindi: अनंतमूल Anantamul, दूधली Dudhli\", Devanagari, exact match; MMPND Hemidesmus page: Hindi \"Anantamool\"."
           ]
         },
         {
           "name": "दूधली",
           "iast": "dūdhalī",
           "sources": [
-            "Flowers of India, 'Indian Sarsaparilla' page: \"Hindi: अनंतमूल Anantamul, दूधली Dudhli\" — Devanagari."
+            "Flowers of India, 'Indian Sarsaparilla' page: \"Hindi: अनंतमूल Anantamul, दूधली Dudhli\", Devanagari."
           ]
         }
       ],
@@ -2250,14 +2250,14 @@
           "iast": "apāmārga",
           "preferred": true,
           "sources": [
-            "Flowers of India, 'Prickly Chaff Flower' page (Achyranthes aspera): \"Hindi: अघाड़ा (Aghara), अपामार्ग (Apamarga), चिरचिरा (Chirchira)\" — Devanagari, exact match, listed under Hindi as well as Sanskrit."
+            "Flowers of India, 'Prickly Chaff Flower' page (Achyranthes aspera): \"Hindi: अघाड़ा (Aghara), अपामार्ग (Apamarga), चिरचिरा (Chirchira)\", Devanagari, exact match, listed under Hindi as well as Sanskrit."
           ]
         },
         {
           "name": "अघाड़ा",
           "iast": "aghāṛā",
           "sources": [
-            "Flowers of India, 'Prickly Chaff Flower' page (Achyranthes aspera): \"Hindi: अघाड़ा (Aghara), अपामार्ग (Apamarga), चिरचिरा (Chirchira)\" — Devanagari; the same page gives Gujarati અઘેડો Aghedo and Urdu اگهاڙا Aghara."
+            "Flowers of India, 'Prickly Chaff Flower' page (Achyranthes aspera): \"Hindi: अघाड़ा (Aghara), अपामार्ग (Apamarga), चिरचिरा (Chirchira)\", Devanagari; the same page gives Gujarati અઘેડો Aghedo and Urdu اگهاڙا Aghara."
           ]
         },
         {
@@ -2270,7 +2270,7 @@
           "name": "चिरचिरा",
           "iast": "ciracirā",
           "sources": [
-            "Flowers of India, 'Prickly Chaff Flower' page: Hindi \"चिरचिरा (Chirchira)\" — Devanagari; the same page gives Urdu چرچرا Chirchira.",
+            "Flowers of India, 'Prickly Chaff Flower' page: Hindi \"चिरचिरा (Chirchira)\", Devanagari; the same page gives Urdu چرچرا Chirchira.",
             "Ayurvedic Pharmacopoeia of India"
           ]
         },
@@ -2439,7 +2439,7 @@
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Flowers of India, 'Butterfly Pea' page (Clitoria ternatea): \"Hindi: अपराजिता (Aparajita)\" — Devanagari, exact match (also Assamese অপৰাজিতা, Manipuri, Nepali)."
+            "Flowers of India, 'Butterfly Pea' page (Clitoria ternatea): \"Hindi: अपराजिता (Aparajita)\", Devanagari, exact match (also Assamese অপৰাজিতা, Manipuri, Nepali)."
           ],
           "preferred": true,
           "iast": "aparājitā"
@@ -2482,7 +2482,7 @@
         {
           "name": "சங்கு கன்னிக்கொடி",
           "sources": [
-            "Flowers of India, 'Butterfly Pea' page (Clitoria ternatea): \"Tamil: சங்கு கன்னிக்கொடி (Kannikkodi)\" — Tamil script."
+            "Flowers of India, 'Butterfly Pea' page (Clitoria ternatea): \"Tamil: சங்கு கன்னிக்கொடி (Kannikkodi)\", Tamil script."
           ]
         }
       ],
@@ -2694,7 +2694,7 @@
         {
           "name": "நீர்மருது",
           "sources": [
-            "Tamil Lexicon p.2306: \"நீர்மருது nīr-marutu, n. Arjuna, 1. tr., Terminalia arjuna\" — the only hit in a full-text Lexicon search for 'Terminalia arjuna'; also Pandanus, Tamil: nīrmarutu"
+            "Tamil Lexicon p.2306: \"நீர்மருது nīr-marutu, n. Arjuna, 1. tr., Terminalia arjuna\", the only hit in a full-text Lexicon search for 'Terminalia arjuna'; also Pandanus, Tamil: nīrmarutu"
           ]
         },
         {
@@ -4114,7 +4114,7 @@
         {
           "name": "பெருந்துத்தி",
           "sources": [
-            "Tamil Lexicon p.2876: \"பெருந்துத்தி peru-n-tutti, n. 1. Common evening mallow, m. sh., Abutilon indicum\" — the only hit in a full-text Lexicon search for 'Abutilon indicum'"
+            "Tamil Lexicon p.2876: \"பெருந்துத்தி peru-n-tutti, n. 1. Common evening mallow, m. sh., Abutilon indicum\", the only hit in a full-text Lexicon search for 'Abutilon indicum'"
           ]
         }
       ]
@@ -4666,7 +4666,7 @@
         {
           "name": "நிலத்துத்தி",
           "sources": [
-            "Tamil Lexicon p.2274: \"நிலத்துத்தி nila-t-tutti, n. நிலம் +. Downy heart-leaved morning mallow, s. sh., Sida cordifolia\" — the single hit in a full-text Lexicon search for 'Sida cordifolia'; IISc India Flora Online herbsheet for Sida cordifolia, Tamil: Nilatutti"
+            "Tamil Lexicon p.2274: \"நிலத்துத்தி nila-t-tutti, n. நிலம் +. Downy heart-leaved morning mallow, s. sh., Sida cordifolia\", the single hit in a full-text Lexicon search for 'Sida cordifolia'; IISc India Flora Online herbsheet for Sida cordifolia, Tamil: Nilatutti"
           ]
         }
       ]
@@ -6719,7 +6719,7 @@
           "name": "कुस्तुम्बरी",
           "iast": "kustumbarī",
           "sources": [
-            "Monier-Williams: 'the plant coriander, [Suśruta]'; Apte (DDSA): 'The धान्याक plant', with the Suśruta line आर्द्रां कुस्तुम्बरीं कुर्यात् — which notably refers to the FRESH (ārdrā) plant, i.e. the herb."
+            "Monier-Williams: 'the plant coriander, [Suśruta]'; Apte (DDSA): 'The धान्याक plant', with the Suśruta line आर्द्रां कुस्तुम्बरीं कुर्यात्, which notably refers to the FRESH (ārdrā) plant, i.e. the herb."
           ]
         }
       ],
@@ -8951,7 +8951,7 @@
           "name": "नीलनिर्यासः",
           "iast": "nīlaniryāsaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 78 TAILAPARṆAḤ — Sanskrit: Nīlaniryāsa, Ekalipth, Sugandha Patrah"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 78 TAILAPARṆAḤ, Sanskrit: Nīlaniryāsa, Ekalipth, Sugandha Patrah"
           ]
         }
       ],
@@ -8970,7 +8970,7 @@
           "name": "मिश्रेया",
           "iast": "miśreyā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I — monograph 55 is titled MIŚREYĀ for the dried ripe fruits of Foeniculum vulgare Mill., with Sanskrit synonyms Miśi, Miṣi, Madhurikā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 is titled MIŚREYĀ for the dried ripe fruits of Foeniculum vulgare Mill., with Sanskrit synonyms Miśi, Miṣi, Madhurikā"
           ]
         }
       ],
@@ -8980,7 +8980,7 @@
           "iast": "sauṃpha",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ (dried ripe fruits of Foeniculum vulgare Mill.) — SYNONYMS lists Hindi: Saunf; Punjabi: Saunf; Urdu: Saunf. Flowers of India (Fennel page) gives Hindi 'मोटी सौंफ Moti saunf'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ (dried ripe fruits of Foeniculum vulgare Mill.), SYNONYMS lists Hindi: Saunf; Punjabi: Saunf; Urdu: Saunf. Flowers of India (Fennel page) gives Hindi 'मोटी सौंफ Moti saunf'."
           ]
         }
       ],
@@ -8988,7 +8988,7 @@
         {
           "name": "சோம்பு",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ — Tamil: Shombu; also Winslow s.v. பெருஞ்சீரகம், which cross-refers to சோம்பு"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ, Tamil: Shombu; also Winslow s.v. பெருஞ்சீரகம், which cross-refers to சோம்பு"
           ]
         }
       ]
@@ -8999,7 +8999,7 @@
           "name": "मधुरिका",
           "iast": "madhurikā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ — Sanskrit: Miśi, Miṣi, Madhurikā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ, Sanskrit: Miśi, Miṣi, Madhurikā"
           ]
         }
       ],
@@ -9009,7 +9009,7 @@
           "iast": "sauṃpha",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ (Foeniculum vulgare Mill.) — Hindi: Saunf."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ (Foeniculum vulgare Mill.), Hindi: Saunf."
           ]
         }
       ],
@@ -9017,7 +9017,7 @@
         {
           "name": "சோம்பு",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ — Tamil: Shombu; Winslow s.v. பெருஞ்சீரகம் cross-refers to சோம்பு"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 55 MIŚREYĀ, Tamil: Shombu; Winslow s.v. பெருஞ்சீரகம் cross-refers to சோம்பு"
           ]
         }
       ]
@@ -9050,7 +9050,7 @@
           "name": "मेथिनी",
           "iast": "methinī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ (Trigonella foenum-graecum Linn.) — Sanskrit: Methini"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ (Trigonella foenum-graecum Linn.), Sanskrit: Methini"
           ]
         }
       ],
@@ -9060,7 +9060,7 @@
           "iast": "methī",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ (seeds of Trigonella foenum-graecum Linn.) — Hindi: Methi; also Flowers of India (Fenugreek) in Devanagari: 'Hindi: मेथी Methi'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ (seeds of Trigonella foenum-graecum Linn.), Hindi: Methi; also Flowers of India (Fenugreek) in Devanagari: 'Hindi: मेथी Methi'."
           ]
         }
       ],
@@ -9069,7 +9069,7 @@
           "name": "வெந்தயம்",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ — Tamil: Mendium, Ventaiyam; Flowers of India (Fenugreek) in Tamil script: 'Tamil: வெந்தயம் Vendayam'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 48 METHĪ, Tamil: Mendium, Ventaiyam; Flowers of India (Fenugreek) in Tamil script: 'Tamil: வெந்தயம் Vendayam'."
           ]
         }
       ]
@@ -9086,7 +9086,7 @@
           "name": "काश्मरी",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI — Sanskrit: Kāśmarī, Kāśmarya, Pītakarohiṇī, Srīparṇī, Bhadraparṇī; Flowers of India gives the same in Devanagari (काश्मरी, श्रीपर्णी, भद्रपर्णी, गम्भारी, मधुमती)"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI, Sanskrit: Kāśmarī, Kāśmarya, Pītakarohiṇī, Srīparṇī, Bhadraparṇī; Flowers of India gives the same in Devanagari (काश्मरी, श्रीपर्णी, भद्रपर्णी, गम्भारी, मधुमती)"
           ],
           "iast": "kāśmarī"
         },
@@ -9120,7 +9120,7 @@
           "name": "गम्भारी",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI (Fruit) and Vol III monograph 25 GAMBHĀRĪ (Stem), both of Gmelina arborea Roxb. — Hindi: Gambhari (Punjabi: Khambhari); Flowers of India gives Hindi गम्हड़ Gamhar"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI (Fruit) and Vol III monograph 25 GAMBHĀRĪ (Stem), both of Gmelina arborea Roxb., Hindi: Gambhari (Punjabi: Khambhari); Flowers of India gives Hindi गम्हड़ Gamhar"
           ],
           "iast": "gambhārī"
         }
@@ -9312,7 +9312,7 @@
           "name": "श्रीपर्णी",
           "iast": "śrīparṇī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI — Sanskrit: Srīparṇī; Flowers of India (Gamhar) in Devanagari: श्रीपर्णी Sriparnee"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 19 GAMBHARI, Sanskrit: Srīparṇī; Flowers of India (Gamhar) in Devanagari: श्रीपर्णी Sriparnee"
           ]
         }
       ],
@@ -9321,7 +9321,7 @@
           "name": "गम्भारी",
           "iast": "gambhārī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 19 GAMBHARI (Fruit) of Gmelina arborea Roxb. — Hindi: Gambhari"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 19 GAMBHARI (Fruit) of Gmelina arborea Roxb., Hindi: Gambhari"
           ]
         }
       ]
@@ -9332,7 +9332,7 @@
           "name": "गाङ्गेरुकी",
           "iast": "gāṅgerukī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU (stem bark of Grewia tenax) — Sanskrit: Gāṅgeruki"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU (stem bark of Grewia tenax), Sanskrit: Gāṅgeruki"
           ]
         }
       ],
@@ -9341,7 +9341,7 @@
           "name": "गंगेरन",
           "iast": "gaṃgerana",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU — Hindi: Gangeran (Urdu: Gangeran; Gujarati and Marathi: Gangeti); ICRAF Agroforestree Database (Orwa et al. 2009) gives Hindi: gangu, kanger, gango, gangerun, achchu"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU, Hindi: Gangeran (Urdu: Gangeran; Gujarati and Marathi: Gangeti); ICRAF Agroforestree Database (Orwa et al. 2009) gives Hindi: gangu, kanger, gango, gangerun, achchu"
           ]
         }
       ],
@@ -9350,7 +9350,7 @@
           "name": "அச்சு",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU (dried stem bark of Grewia tenax (Forsk.) Aschers & Schwf., syn. Grewia populifolia Vahl) — SYNONYMS: Sanskrit Gāṅgeruki, Hindi Gangeran, Tamil: Achchu."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 20 GĀṄGERU (dried stem bark of Grewia tenax (Forsk.) Aschers & Schwf., syn. Grewia populifolia Vahl), SYNONYMS: Sanskrit Gāṅgeruki, Hindi Gangeran, Tamil: Achchu."
           ]
         }
       ]
@@ -9492,14 +9492,14 @@
           "name": "अमृतवल्ली",
           "iast": "amṛtavallī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ — Sanskrit: Amṛtavallī, Amṛtā, Madhuparṇī, Guḍūcikā, Chinnobhavā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ, Sanskrit: Amṛtavallī, Amṛtā, Madhuparṇī, Guḍūcikā, Chinnobhavā"
           ]
         },
         {
           "name": "गुडूची",
           "iast": "guḍūcī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I — monograph 27 is titled GUḌŪCĪ for the stem of Tinospora cordifolia (Willd.) Miers, with Sanskrit synonyms Amṛtavallī, Amṛtā, Madhuparṇī, Guḍūcikā, Chinnobhavā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 is titled GUḌŪCĪ for the stem of Tinospora cordifolia (Willd.) Miers, with Sanskrit synonyms Amṛtavallī, Amṛtā, Madhuparṇī, Guḍūcikā, Chinnobhavā"
           ]
         }
       ],
@@ -9509,7 +9509,7 @@
           "iast": "giloya",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ (stem of Tinospora cordifolia (Willd.) Miers) — Hindi: Giloe, Gurcha. The 'Names of Plants in India' compilation (indiantreepix) gives Hindi in Devanagari: गिलोय, गुलांचा, गुलबेल."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ (stem of Tinospora cordifolia (Willd.) Miers), Hindi: Giloe, Gurcha. The 'Names of Plants in India' compilation (indiantreepix) gives Hindi in Devanagari: गिलोय, गुलांचा, गुलबेल."
           ]
         }
       ],
@@ -9537,7 +9537,7 @@
           "name": "गिरिकर्णिका",
           "iast": "girikarṇikā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 APARĀJITĀ (Root) — Sanskrit: Girikarṇikā, Viṣṇukrāntā; Vol IV monograph 4 — Sanskrit: Girikarṇika"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 APARĀJITĀ (Root), Sanskrit: Girikarṇikā, Viṣṇukrāntā; Vol IV monograph 4, Sanskrit: Girikarṇika"
           ]
         }
       ],
@@ -9547,7 +9547,7 @@
           "iast": "aparājitā",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 APARĀJITĀ (Root) and Part I Vol IV monograph 4 APARĀJITĀ (Leaf), both of Clitoria ternatea Linn. — Hindi: Aparajita. Flowers of India (Butterfly Pea) gives 'Hindi: अपराजिता Aparajita'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 APARĀJITĀ (Root) and Part I Vol IV monograph 4 APARĀJITĀ (Leaf), both of Clitoria ternatea Linn., Hindi: Aparajita. Flowers of India (Butterfly Pea) gives 'Hindi: अपराजिता Aparajita'."
           ]
         }
       ],
@@ -9561,7 +9561,7 @@
         {
           "name": "காக்கணம்",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 and Vol IV monograph 4 APARĀJITĀ (Clitoria ternatea Linn.) — Tamil: Kakkanam; read in Tamil script in the Madras Tamil Lexicon and Winslow entries for கருவிளை ('See காக்கணம்' / 'as காக்கணம், Clitoria ternatea, L.')"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 5 and Vol IV monograph 4 APARĀJITĀ (Clitoria ternatea Linn.), Tamil: Kakkanam; read in Tamil script in the Madras Tamil Lexicon and Winslow entries for கருவிளை ('See காக்கணம்' / 'as காக்கணம், Clitoria ternatea, L.')"
           ]
         }
       ]
@@ -9572,7 +9572,7 @@
           "name": "गोक्षुर",
           "iast": "gokṣura",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I — monograph 25 is titled GOKṢURA for the root of Tribulus terrestris Linn., Sanskrit synonyms Gokṣuraka, Trikaṇṭa, Śvadaṃṣṭrā, Traikaṇṭaka; Flowers of India (Puncture Vine) gives गोक्षुर in Devanagari"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 is titled GOKṢURA for the root of Tribulus terrestris Linn., Sanskrit synonyms Gokṣuraka, Trikaṇṭa, Śvadaṃṣṭrā, Traikaṇṭaka; Flowers of India (Puncture Vine) gives गोक्षुर in Devanagari"
           ]
         },
         {
@@ -9589,7 +9589,7 @@
           "iast": "gokharū",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA (root of Tribulus terrestris Linn.) — Hindi: Gokhru; Punjabi: Bhakhra, Gokhru. Flowers of India (Puncture Vine) gives Hindi 'गोखुरू Gokhuru, गोक्षुर Gokshura' and the same word गोखरू under Marathi and Rajasthani."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA (root of Tribulus terrestris Linn.), Hindi: Gokhru; Punjabi: Bhakhra, Gokhru. Flowers of India (Puncture Vine) gives Hindi 'गोखुरू Gokhuru, गोक्षुर Gokshura' and the same word गोखरू under Marathi and Rajasthani."
           ]
         }
       ],
@@ -9598,7 +9598,7 @@
           "name": "நெருஞ்சி",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA — Tamil: Nerinjil, Nerunjil; Flowers of India (Puncture Vine) in Tamil script: 'நெருஞ்சி Nerunci'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 25 GOKṢURA, Tamil: Nerinjil, Nerunjil; Flowers of India (Puncture Vine) in Tamil script: 'நெருஞ்சி Nerunci'."
           ]
         }
       ]
@@ -9609,7 +9609,7 @@
           "name": "मुण्डी",
           "iast": "muṇḍī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 58 MUṆḌĪTIKĀ (leaf of Sphaeranthus indicus Linn.) — Sanskrit: Muṇḍī, Śrāvaṇī, Kadamba, Puṣpikā, Alambusta; Flowers of India gives Sanskrit महामुंडी, तपस्विनी in Devanagari"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 58 MUṆḌĪTIKĀ (leaf of Sphaeranthus indicus Linn.), Sanskrit: Muṇḍī, Śrāvaṇī, Kadamba, Puṣpikā, Alambusta; Flowers of India gives Sanskrit महामुंडी, तपस्विनी in Devanagari"
           ]
         }
       ],
@@ -9638,7 +9638,7 @@
           "name": "मधुनाशिनी",
           "iast": "madhunāśinī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (Gymnema sylvestre R. Br.) — Sanskrit: Madhunāśinī, Ajaśṛṅgī"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (Gymnema sylvestre R. Br.), Sanskrit: Madhunāśinī, Ajaśṛṅgī"
           ]
         }
       ],
@@ -9648,7 +9648,7 @@
           "iast": "guṛamāra",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (root of Gymnema sylvestre R. Br.) — Hindi: Gudmaar, Medhaasingee; Sanskrit: Madhunāśinī, Ajaśṛṅgī."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (root of Gymnema sylvestre R. Br.), Hindi: Gudmaar, Medhaasingee; Sanskrit: Madhunāśinī, Ajaśṛṅgī."
           ]
         }
       ],
@@ -9667,7 +9667,7 @@
           "name": "मेषशृङ्गी",
           "iast": "meṣaśṛṅgī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol V — monograph 52 is titled MEṢAŚṚṄGĪ for the root of Gymnema sylvestre R. Br., Sanskrit synonyms Madhunāśinī, Ajaśṛṅgī"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 is titled MEṢAŚṚṄGĪ for the root of Gymnema sylvestre R. Br., Sanskrit synonyms Madhunāśinī, Ajaśṛṅgī"
           ]
         }
       ],
@@ -9677,7 +9677,7 @@
           "iast": "guṛamāra",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (Gymnema sylvestre R. Br.) — Hindi: Gudmaar."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol V, monograph 52 MEṢAŚṚṄGĪ (Gymnema sylvestre R. Br.), Hindi: Gudmaar."
           ]
         }
       ],
@@ -9685,7 +9685,7 @@
         {
           "name": "சிறுகுறிஞ்சா",
           "sources": [
-            "Madras Tamil Lexicon / Winslow s.v. குறிஞ்சா: 'periploca sylvestris, சிறுகுறிஞ்சா' — Periploca sylvestris Retz. being the basionym of Gymnema sylvestre; API Vol V calls the drug's English name 'Periploca of the woods'."
+            "Madras Tamil Lexicon / Winslow s.v. குறிஞ்சா: 'periploca sylvestris, சிறுகுறிஞ்சா', Periploca sylvestris Retz. being the basionym of Gymnema sylvestre; API Vol V calls the drug's English name 'Periploca of the woods'."
           ]
         }
       ]
@@ -9696,7 +9696,7 @@
           "name": "अमृता",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ — Sanskrit synonyms include Amṛtā and Amṛtavallī"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ, Sanskrit synonyms include Amṛtā and Amṛtavallī"
           ],
           "iast": "amṛtā"
         },
@@ -9745,7 +9745,7 @@
           "iast": "giloya",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ (Tinospora cordifolia) — Hindi: Giloe, Gurcha; 'Names of Plants in India' list gives Hindi गिलोय, गुलांचा, गुलबेल."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 27 GUḌŪCĪ (Tinospora cordifolia), Hindi: Giloe, Gurcha; 'Names of Plants in India' list gives Hindi गिलोय, गुलांचा, गुलबेल."
           ]
         },
         {
@@ -9921,7 +9921,7 @@
           "name": "रजनी",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ (Curcuma longa Linn.) — Sanskrit: Rajanī, Niśā, Niśī, Rātri, Kṣaṇadā, Doṣā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ (Curcuma longa Linn.), Sanskrit: Rajanī, Niśā, Niśī, Rātri, Kṣaṇadā, Doṣā"
           ],
           "iast": "rajanī"
         },
@@ -9937,7 +9937,7 @@
           "name": "हल्दी",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ (cured rhizomes of Curcuma longa Linn.) — Hindi: Haldi, Hardi; Flowers of India (Turmeric) in Devanagari: 'Hindi: हल्दी (Haldi)'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ (cured rhizomes of Curcuma longa Linn.), Hindi: Haldi, Hardi; Flowers of India (Turmeric) in Devanagari: 'Hindi: हल्दी (Haldi)'."
           ],
           "preferred": true,
           "iast": "haldī"
@@ -9962,7 +9962,7 @@
           "name": "மஞ்சள்",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ — Tamil: Manjal; Flowers of India (Turmeric) in Tamil script: 'Tamil: மஞ்சள் (Manjal)'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 30 HARIDRĀ, Tamil: Manjal; Flowers of India (Turmeric) in Tamil script: 'Tamil: மஞ்சள் (Manjal)'."
           ]
         },
         {
@@ -10081,7 +10081,7 @@
           "name": "अभया",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ (Terminalia chebula Retz.) — Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā (with the note 'Not Bhaṅgā')"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ (Terminalia chebula Retz.), Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā (with the note 'Not Bhaṅgā')"
           ],
           "iast": "abhayā"
         },
@@ -10095,7 +10095,7 @@
           "name": "पथ्या",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ, Sanskrit: Abhayā, Kāyasthā, Śivā, Pathyā, Vijayā"
           ],
           "iast": "pathyā"
         },
@@ -10118,9 +10118,9 @@
           "iast": "haraṛa",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ (pericarp of mature fruits of Terminalia chebula Retz.) — Hindi: Harre, Harad, Harar; Flowers of India gives Hindi 'हर्रा (Harra), हरड़ (Harad)'.",
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ (pericarp of mature fruits of Terminalia chebula Retz.), Hindi: Harre, Harad, Harar; Flowers of India gives Hindi 'हर्रा (Harra), हरड़ (Harad)'.",
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Hindi: Harre, Harad, Harar; 'जड़ीबूटियों द्वारा चिकित्सा' (AWGP) likewise: 'हिन्दी में इसे हरड़ और हर्रे भी कहा जाता है'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ, Hindi: Harre, Harad, Harar; 'जड़ीबूटियों द्वारा चिकित्सा' (AWGP) likewise: 'हिन्दी में इसे हरड़ और हर्रे भी कहा जाता है'."
           ]
         },
         {
@@ -10150,7 +10150,7 @@
           "name": "கடுக்காய்",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ — Tamil: Kadukkai; Madras Tamil Lexicon and DSAL s.v. கடுக்காய்: 'Gall-nut, one of the tiri-palai' and 'Chebulic myrobalan, m. tr., Terminalia chebula'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol I, monograph 31 HARĪTAKĪ, Tamil: Kadukkai; Madras Tamil Lexicon and DSAL s.v. கடுக்காய்: 'Gall-nut, one of the tiri-palai' and 'Chebulic myrobalan, m. tr., Terminalia chebula'."
           ]
         },
         {
@@ -10387,7 +10387,7 @@
           "name": "इक्षु",
           "iast": "ikṣu",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 22 and Vol IV monograph 16, both IKṢU for Saccharum officinarum Linn. — Sanskrit: Ikṣu; Flowers of India (Sugarcane) in Devanagari: 'Sanskrit: इक्षु (Ikshu), Pundrakah'"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II monograph 22 and Vol IV monograph 16, both IKṢU for Saccharum officinarum Linn., Sanskrit: Ikṣu; Flowers of India (Sugarcane) in Devanagari: 'Sanskrit: इक्षु (Ikshu), Pundrakah'"
           ]
         }
       ],
@@ -10396,7 +10396,7 @@
           "name": "गन्ना",
           "iast": "gannā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 22 IKṢU — Hindi: Ikha, Ganna; Flowers of India (Sugarcane) in Devanagari: 'Hindi: ईख (Eekh), गन्ना (Ganna)'"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 22 IKṢU, Hindi: Ikha, Ganna; Flowers of India (Sugarcane) in Devanagari: 'Hindi: ईख (Eekh), गन्ना (Ganna)'"
           ]
         }
       ],
@@ -10404,7 +10404,7 @@
         {
           "name": "கரும்பு",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 22 IKṢU (dried stem of Saccharum officinarum Linn.) — Tamil: Karumbu; Flowers of India (Sugarcane) in Tamil script: 'Tamil: கரும்பு (Karumbu), புண்டறம் (Pundaram)'; DSAL glosses செங்கரும்பு as 'கரும்புவகை', a kind of கரும்பு"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol II, monograph 22 IKṢU (dried stem of Saccharum officinarum Linn.), Tamil: Karumbu; Flowers of India (Sugarcane) in Tamil script: 'Tamil: கரும்பு (Karumbu), புண்டறம் (Pundaram)'; DSAL glosses செங்கரும்பு as 'கரும்புவகை', a kind of கரும்பு"
           ]
         }
       ]
@@ -10421,7 +10421,7 @@
           "name": "गवाक्षी",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ — Sanskrit: Gavākṣī, Indravallī, Aendrī"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ, Sanskrit: Gavākṣī, Indravallī, Aendrī"
           ],
           "iast": "gavākṣī"
         },
@@ -10450,7 +10450,7 @@
           "iast": "iṃdrāyana",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ (fruit of Citrullus colocynthis Schrad.) — Hindi: Indrayan; Gujarati: Indrayan; Punjabi: Indrayana. Flowers of India (Bitter Apple) gives Hindi 'बड़ी इन्द्रायन Badi Indrayan, इन्द्रायन Indarayan'."
+            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ (fruit of Citrullus colocynthis Schrad.), Hindi: Indrayan; Gujarati: Indrayan; Punjabi: Indrayana. Flowers of India (Bitter Apple) gives Hindi 'बड़ी इन्द्रायन Badi Indrayan, इन्द्रायन Indarayan'."
           ]
         },
         {
@@ -10514,7 +10514,7 @@
         {
           "name": "பேய்த்தும்மட்டி",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ (fruit of Citrullus colocynthis Schrad.) — Tamil: Peitummatti (Telugu: Peikummatti); Flowers of India gives Tamil 'pey-komatti'. API gives the name only in romanisation; the பேய்- prefix is what distinguishes the colocynth from கொம்மட்டி (watermelon) in DSAL"
+            "Ayurvedic Pharmacopoeia of India, Part I Vol III, monograph 30 INDRAVĀRUṆĪ (fruit of Citrullus colocynthis Schrad.), Tamil: Peitummatti (Telugu: Peikummatti); Flowers of India gives Tamil 'pey-komatti'. API gives the name only in romanisation; the பேய்- prefix is what distinguishes the colocynth from கொம்மட்டி (watermelon) in DSAL"
           ]
         }
       ],
@@ -11025,7 +11025,7 @@
           "iast": "īsabagola",
           "preferred": true,
           "sources": [
-            "ICAR Directorate of Medicinal and Aromatic Plants Research (DMAPR), mandate-crop page for Plantago ovata, titled ईसबगोल (dmapr.icar.gov.in/aboutus/mandatecrop/Isabgol H.html) — a Government of India agricultural research body publishing the Hindi name against the species."
+            "ICAR Directorate of Medicinal and Aromatic Plants Research (DMAPR), mandate-crop page for Plantago ovata, titled ईसबगोल (dmapr.icar.gov.in/aboutus/mandatecrop/Isabgol H.html), a Government of India agricultural research body publishing the Hindi name against the species."
           ]
         }
       ]
@@ -11046,7 +11046,7 @@
           "iast": "īsabagola",
           "preferred": true,
           "sources": [
-            "ICAR Directorate of Medicinal and Aromatic Plants Research (DMAPR), mandate-crop page for Plantago ovata, titled ईसबगोल — Government of India body publishing the Hindi name against the species."
+            "ICAR Directorate of Medicinal and Aromatic Plants Research (DMAPR), mandate-crop page for Plantago ovata, titled ईसबगोल, Government of India body publishing the Hindi name against the species."
           ]
         }
       ]
@@ -11070,7 +11070,7 @@
           "name": "ईश्वरी",
           "iast": "īśvarī",
           "sources": [
-            "'Names of Plants in India :: Aristolochia indica L.' — Sanskrit names given in Devanagari: अर्कमूला, ईश्वरी, रुद्रजटा, सुनन्दा, विषापहा."
+            "'Names of Plants in India:: Aristolochia indica L.', Sanskrit names given in Devanagari: अर्कमूला, ईश्वरी, रुद्रजटा, सुनन्दा, विषापहा."
           ]
         },
         {
@@ -11092,7 +11092,7 @@
           "name": "ईशरमूल",
           "iast": "īśaramūla",
           "sources": [
-            "'Names of Plants in India :: Aristolochia indica L.' — Hindi names in Devanagari: ईशरमूल, विषापहा."
+            "'Names of Plants in India:: Aristolochia indica L.', Hindi names in Devanagari: ईशरमूल, विषापहा."
           ]
         },
         {
@@ -12723,14 +12723,14 @@
           "name": "स्थूलजीरक",
           "iast": "sthūlajīraka",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (Nigella sativa Linn.) — Sanskrit slot \"Sthulajiraka, Upakunci, Susavi\""
+            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (Nigella sativa Linn.), Sanskrit slot \"Sthulajiraka, Upakunci, Susavi\""
           ]
         },
         {
           "name": "उपकुञ्चिका",
           "iast": "upakuñcikā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — the monograph for Nigella sativa Linn. seeds is itself headed UPAKUNCIKA, and its Sanskrit slot reads \"Sthulajiraka, Upakunci, Susavi\""
+            "Ayurvedic Pharmacopoeia of India, the monograph for Nigella sativa Linn. seeds is itself headed UPAKUNCIKA, and its Sanskrit slot reads \"Sthulajiraka, Upakunci, Susavi\""
           ]
         }
       ],
@@ -12739,7 +12739,7 @@
           "name": "कलौंजी",
           "iast": "kalauṃjī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.) — Hindi slot \"Kalaunji, Mangaraila\" (api-all.txt line 15250 ff.)"
+            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.), Hindi slot \"Kalaunji, Mangaraila\" (api-all.txt line 15250 ff.)"
           ]
         }
       ],
@@ -12748,7 +12748,7 @@
           "name": "கருஞ்சீரகம்",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn., Fam. Ranunculaceae) — Tamil slot reads \"Karunjeerakam, Karunjiragam\". Local full text: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt line 15250."
+            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn., Fam. Ranunculaceae), Tamil slot reads \"Karunjeerakam, Karunjiragam\". Local full text: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/api-all.txt line 15250."
           ]
         }
       ]
@@ -12760,14 +12760,14 @@
           "iast": "kālameghaḥ",
           "preferred": true,
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata (Burm.f.) Nees — Sanskrit list reads \"भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta\"; corroborated by efloraofindia's Andrographis paniculata page giving the Sanskrit synonyms bhunimba, kalamegha, mahatikta, yavatikta."
+            "Names of Plants in India:: Andrographis paniculata (Burm.f.) Nees, Sanskrit list reads \"भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta\"; corroborated by efloraofindia's Andrographis paniculata page giving the Sanskrit synonyms bhunimba, kalamegha, mahatikta, yavatikta."
           ]
         },
         {
           "name": "भूनिम्ब",
           "iast": "bhūnimba",
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata (Burm.f.) Nees — Sanskrit list \"भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta\"; corroborated by efloraofindia's Andrographis paniculata page"
+            "Names of Plants in India:: Andrographis paniculata (Burm.f.) Nees, Sanskrit list \"भूनिम्ब bhunimba, कालमेघ kalamegha, महातिक्ता mahatikta, यवतिक्ता yavatikta\"; corroborated by efloraofindia's Andrographis paniculata page"
           ]
         }
       ],
@@ -12777,21 +12777,21 @@
           "iast": "kālamegha",
           "preferred": true,
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata (Burm.f.) Nees (Dave's Botanary compilation, indiantreepix/efloraofindia) — Hindi list reads \"हरा चिरायता hara chirayata, कालमेघ kalmegh, कल्पनाथ kalpanath, किरयित् kirayit, महातीता mahatita\"."
+            "Names of Plants in India:: Andrographis paniculata (Burm.f.) Nees (Dave's Botanary compilation, indiantreepix/efloraofindia), Hindi list reads \"हरा चिरायता hara chirayata, कालमेघ kalmegh, कल्पनाथ kalpanath, किरयित् kirayit, महातीता mahatita\"."
           ]
         },
         {
           "name": "हरा चिरायता",
           "iast": "harā cirāyatā",
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata — Hindi list \"हरा चिरायता hara chirayata, कालमेघ kalmegh, कल्पनाथ kalpanath, किरयित् kirayit, महातीता mahatita\""
+            "Names of Plants in India:: Andrographis paniculata, Hindi list \"हरा चिरायता hara chirayata, कालमेघ kalmegh, कल्पनाथ kalpanath, किरयित् kirayit, महातीता mahatita\""
           ]
         },
         {
           "name": "कल्पनाथ",
           "iast": "kalpanātha",
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata — Hindi list, \"कल्पनाथ kalpanath\""
+            "Names of Plants in India:: Andrographis paniculata, Hindi list, \"कल्पनाथ kalpanath\""
           ]
         }
       ],
@@ -12800,7 +12800,7 @@
           "name": "நிலவேம்பு",
           "preferred": true,
           "sources": [
-            "Names of Plants in India :: Andrographis paniculata (Burm.f.) Nees — Tamil list reads \"நிலவேம்பு nilavempu\"."
+            "Names of Plants in India:: Andrographis paniculata (Burm.f.) Nees, Tamil list reads \"நிலவேம்பு nilavempu\"."
           ]
         }
       ]
@@ -12811,7 +12811,7 @@
           "name": "उपकुञ्चिका",
           "iast": "upakuñcikā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — monograph headed UPAKUNCIKA for Nigella sativa Linn. seeds; Sanskrit slot \"Sthulajiraka, Upakunci, Susavi\""
+            "Ayurvedic Pharmacopoeia of India, monograph headed UPAKUNCIKA for Nigella sativa Linn. seeds; Sanskrit slot \"Sthulajiraka, Upakunci, Susavi\""
           ]
         }
       ],
@@ -12820,7 +12820,7 @@
           "name": "कलौंजी",
           "iast": "kalauṃjī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.) — Hindi slot \"Kalaunji, Mangaraila\""
+            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.), Hindi slot \"Kalaunji, Mangaraila\""
           ]
         }
       ],
@@ -12829,7 +12829,7 @@
           "name": "கருஞ்சீரகம்",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.) — Tamil slot \"Karunjeerakam, Karunjiragam\" (api-all.txt line 15250)."
+            "Ayurvedic Pharmacopoeia of India, UPAKUNCIKA monograph (seeds of Nigella sativa Linn.), Tamil slot \"Karunjeerakam, Karunjiragam\" (api-all.txt line 15250)."
           ]
         }
       ]
@@ -12841,7 +12841,7 @@
           "iast": "kamalam",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — the monograph itself is headed KAMALA and defined as the flowers of Nelumbo nucifera Gaertn.; its Sanskrit synonym slot adds \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\". Names of Plants in India :: Nelumbo nucifera gives Sanskrit \"कमलम् Kamalam\"."
+            "Ayurvedic Pharmacopoeia of India, the monograph itself is headed KAMALA and defined as the flowers of Nelumbo nucifera Gaertn.; its Sanskrit synonym slot adds \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\". Names of Plants in India:: Nelumbo nucifera gives Sanskrit \"कमलम् Kamalam\"."
           ]
         },
         {
@@ -12860,7 +12860,7 @@
           "name": "अरविन्द",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera) — Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\"; the same monograph's Tamil slot also carries 'Aravindan'"
+            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera), Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\"; the same monograph's Tamil slot also carries 'Aravindan'"
           ],
           "iast": "aravinda"
         },
@@ -12874,7 +12874,7 @@
           "name": "पद्म",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn.) — Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\" (api-all.txt line 23951 ff.)"
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn.), Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\" (api-all.txt line 23951 ff.)"
           ],
           "iast": "padma"
         },
@@ -12909,7 +12909,7 @@
           "iast": "kamala",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn., Fam. Nymphaeaceae) — Hindi slot \"Kamal, Kanwal\" (api-all.txt line 23951 ff.); independently, Names of Plants in India :: Nelumbo nucifera gives Hindi \"कमल Kamal\".",
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn., Fam. Nymphaeaceae), Hindi slot \"Kamal, Kanwal\" (api-all.txt line 23951 ff.); independently, Names of Plants in India:: Nelumbo nucifera gives Hindi \"कमल Kamal\".",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
           ]
         },
@@ -12929,7 +12929,7 @@
           "name": "कँवल",
           "iast": "kaṁvala",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera) — Hindi slot \"Kamal, Kanwal\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera), Hindi slot \"Kamal, Kanwal\""
           ]
         },
         {
@@ -12958,7 +12958,7 @@
           "name": "தாமரை",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera) — Tamil slot \"Tamarai, Thamaraipoo, Aravindan, Paduman, Kamalam, Sarojam\"; Names of Plants in India :: Nelumbo nucifera gives Tamil \"தாமரை Tamarai\"."
+            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera), Tamil slot \"Tamarai, Thamaraipoo, Aravindan, Paduman, Kamalam, Sarojam\"; Names of Plants in India:: Nelumbo nucifera gives Tamil \"தாமரை Tamarai\"."
           ]
         },
         {
@@ -13201,14 +13201,14 @@
           "iast": "kamalam",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — monograph headed KAMALA, flowers of Nelumbo nucifera Gaertn.; Names of Plants in India :: Nelumbo nucifera, Sanskrit \"कमलम् Kamalam\"."
+            "Ayurvedic Pharmacopoeia of India, monograph headed KAMALA, flowers of Nelumbo nucifera Gaertn.; Names of Plants in India:: Nelumbo nucifera, Sanskrit \"कमलम् Kamalam\"."
           ]
         },
         {
           "name": "पद्म",
           "iast": "padma",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn.) — Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried flowers of Nelumbo nucifera Gaertn.), Sanskrit slot \"Abja, Aravinda, Padma, Kalhara, Sitopala, Pankaja\""
           ]
         }
       ],
@@ -13218,14 +13218,14 @@
           "iast": "kamala",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (flowers of Nelumbo nucifera Gaertn.) — Hindi slot \"Kamal, Kanwal\"; Names of Plants in India :: Nelumbo nucifera, Hindi \"कमल Kamal\"."
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (flowers of Nelumbo nucifera Gaertn.), Hindi slot \"Kamal, Kanwal\"; Names of Plants in India:: Nelumbo nucifera, Hindi \"कमल Kamal\"."
           ]
         },
         {
           "name": "कँवल",
           "iast": "kaṁvala",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera) — Hindi slot \"Kamal, Kanwal\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera), Hindi slot \"Kamal, Kanwal\""
           ]
         }
       ],
@@ -13234,7 +13234,7 @@
           "name": "தாமரை",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera) — Tamil slot \"Tamarai, Thamaraipoo, ...\"; Names of Plants in India :: Nelumbo nucifera, Tamil \"தாமரை Tamarai\"."
+            "Ayurvedic Pharmacopoeia of India, KAMALA (flowers of Nelumbo nucifera), Tamil slot \"Tamarai, Thamaraipoo,...\"; Names of Plants in India:: Nelumbo nucifera, Tamil \"தாமரை Tamarai\"."
           ]
         }
       ]
@@ -13246,21 +13246,21 @@
           "iast": "kamalam",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — monograph headed KAMALA for Nelumbo nucifera; Names of Plants in India :: Nelumbo nucifera, Sanskrit \"कमलम् Kamalam\"."
+            "Ayurvedic Pharmacopoeia of India, monograph headed KAMALA for Nelumbo nucifera; Names of Plants in India:: Nelumbo nucifera, Sanskrit \"कमलम् Kamalam\"."
           ]
         },
         {
           "name": "पद्मकन्द",
           "iast": "padmakanda",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried rhizome with roots of Nelumbo nucifera Gaertn.) — Sanskrit slot \"Padnakanda, Saluka, Ambhoruha\" (api-all.txt line 42286 ff.; 'Padnakanda' is an OCR slip for Padmakanda)"
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried rhizome with roots of Nelumbo nucifera Gaertn.), Sanskrit slot \"Padnakanda, Saluka, Ambhoruha\" (api-all.txt line 42286 ff.; 'Padnakanda' is an OCR slip for Padmakanda)"
           ]
         },
         {
           "name": "शालूक",
           "iast": "śālūka",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera) — Sanskrit slot \"Padnakanda, Saluka, Ambhoruha\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera), Sanskrit slot \"Padnakanda, Saluka, Ambhoruha\""
           ]
         }
       ],
@@ -13270,14 +13270,14 @@
           "iast": "kamala",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried rhizome with roots of Nelumbo nucifera Gaertn.) — Hindi slot \"Kamal Kand, Kamal Kakdi\" (api-all.txt line 42286 ff.)."
+            "Ayurvedic Pharmacopoeia of India, KAMALA monograph (dried rhizome with roots of Nelumbo nucifera Gaertn.), Hindi slot \"Kamal Kand, Kamal Kakdi\" (api-all.txt line 42286 ff.)."
           ]
         },
         {
           "name": "कमल ककड़ी",
           "iast": "kamala kakaṛī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera) — Hindi slot \"Kamal Kand, Kamal Kakdi\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera), Hindi slot \"Kamal Kand, Kamal Kakdi\""
           ]
         }
       ],
@@ -13286,13 +13286,13 @@
           "name": "தாமரை",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera) — Tamil slot \"Tamardi Kizangu\"; KAMALA (flowers) — Tamil \"Tamarai\"."
+            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera), Tamil slot \"Tamardi Kizangu\"; KAMALA (flowers), Tamil \"Tamarai\"."
           ]
         },
         {
           "name": "தாமரைக் கிழங்கு",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera) — Tamil slot \"Tamardi Kizangu\""
+            "Ayurvedic Pharmacopoeia of India, KAMALA (rhizome of Nelumbo nucifera), Tamil slot \"Tamardi Kizangu\""
           ]
         }
       ]
@@ -13303,14 +13303,14 @@
           "name": "काञ्चनारः",
           "iast": "kāñcanāraḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — the monograph for the stem bark of Bauhinia variegata Blume is headed KANCANARA, with Sanskrit slot \"Kancanaraka\" (api-all.txt line 7815 ff.); Names of Plants in India :: Bauhinia variegata gives Sanskrit \"काञ्चनार kanchanara\""
+            "Ayurvedic Pharmacopoeia of India, the monograph for the stem bark of Bauhinia variegata Blume is headed KANCANARA, with Sanskrit slot \"Kancanaraka\" (api-all.txt line 7815 ff.); Names of Plants in India:: Bauhinia variegata gives Sanskrit \"काञ्चनार kanchanara\""
           ]
         },
         {
           "name": "कञ्चनारक",
           "iast": "kañcanāraka",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (Bauhinia variegata Blume) — Sanskrit slot \"Kancanaraka\""
+            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (Bauhinia variegata Blume), Sanskrit slot \"Kancanaraka\""
           ]
         }
       ],
@@ -13320,14 +13320,14 @@
           "iast": "kacanāra",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (dried stem bark of Bauhinia variegata Blume, Fam. Leguminosae) — Hindi slot \"Kachanar, Kanchanar, Kachnar\" (api-all.txt line 7815 ff.); Names of Plants in India :: Bauhinia variegata L. gives Hindi \"कचनाल kachnal, कचनार kachnar\"."
+            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (dried stem bark of Bauhinia variegata Blume, Fam. Leguminosae), Hindi slot \"Kachanar, Kanchanar, Kachnar\" (api-all.txt line 7815 ff.); Names of Plants in India:: Bauhinia variegata L. gives Hindi \"कचनाल kachnal, कचनार kachnar\"."
           ]
         },
         {
           "name": "कचनाल",
           "iast": "kacanāla",
           "sources": [
-            "Names of Plants in India :: Bauhinia variegata L. — Hindi list \"कचनाल kachnal, कचनार kachnar\""
+            "Names of Plants in India:: Bauhinia variegata L., Hindi list \"कचनाल kachnal, कचनार kachnar\""
           ]
         }
       ],
@@ -13335,7 +13335,7 @@
         {
           "name": "செம்மந்தாரை",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (Bauhinia variegata Blume) — Tamil slot \"Sigappu mandarai, Sihappu mantarai\"; Names of Plants in India :: Bauhinia variegata gives Tamil \"செம்மந்தாரை cem-mantarai, சிவப்புமந்தாரை civappu-mantarai\""
+            "Ayurvedic Pharmacopoeia of India, KANCANARA monograph (Bauhinia variegata Blume), Tamil slot \"Sigappu mandarai, Sihappu mantarai\"; Names of Plants in India:: Bauhinia variegata gives Tamil \"செம்மந்தாரை cem-mantarai, சிவப்புமந்தாரை civappu-mantarai\""
           ]
         }
       ]
@@ -13358,7 +13358,7 @@
           "name": "कक्कोल",
           "sources": [
             "Ayurvedic Pharmacopoeia of India",
-            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.) — Sanskrit slot \"Kankolaka, Cinosana, Cinatiksna, Kakkola, Kankolika\""
+            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.), Sanskrit slot \"Kankolaka, Cinosana, Cinatiksna, Kakkola, Kankolika\""
           ],
           "iast": "kakkola"
         },
@@ -13366,7 +13366,7 @@
           "name": "कङ्कोल",
           "iast": "kaṅkola",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (mature dried fruits of Piper cubeba Linn.f.) — Sanskrit slot \"Kankolaka, Cinosana, Cinatiksna, Kakkola, Kankolika\" (api-all.txt line 7974 ff.)"
+            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (mature dried fruits of Piper cubeba Linn.f.), Sanskrit slot \"Kankolaka, Cinosana, Cinatiksna, Kakkola, Kankolika\" (api-all.txt line 7974 ff.)"
           ]
         },
         {
@@ -13382,7 +13382,7 @@
           "iast": "kabābacīnī",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.) — Hindi slot \"Seetalchini, Kababchini\"; MMPND (plantnames.unimelb.edu.au/Sorting/Piper.html) gives Hindi \"कबाब चीनी Kabab chini\" for Piper cubeba.",
+            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.), Hindi slot \"Seetalchini, Kababchini\"; MMPND (plantnames.unimelb.edu.au/Sorting/Piper.html) gives Hindi \"कबाब चीनी Kabab chini\" for Piper cubeba.",
             "Ayurvedic Pharmacopoeia of India"
           ]
         },
@@ -13390,7 +13390,7 @@
           "name": "शीतलचीनी",
           "iast": "śītalacīnī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.) — Hindi slot \"Seetalchini, Kababchini\"; MMPND Piper page, Hindi \"शीतल चीनी Sheetal chini\".",
+            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.), Hindi slot \"Seetalchini, Kababchini\"; MMPND Piper page, Hindi \"शीतल चीनी Sheetal chini\".",
             "Ayurvedic Pharmacopoeia of India"
           ]
         }
@@ -13414,7 +13414,7 @@
           "name": "வால்மிளகு",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.) — Tamil slot \"Vaali milaku, Valmilagu\"; MMPND Piper page lists Tamil \"Vaalmilagu\" for Piper cubeba."
+            "Ayurvedic Pharmacopoeia of India, KANKOLA monograph (Piper cubeba Linn.f.), Tamil slot \"Vaali milaku, Valmilagu\"; MMPND Piper page lists Tamil \"Vaalmilagu\" for Piper cubeba."
           ]
         },
         {
@@ -13573,7 +13573,7 @@
           "name": "रक्तिका",
           "iast": "raktikā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds, api-all.txt line 6424; root, line 21658, of Abrus precatorius Linn.) — Sanskrit slot \"Raktika, Kakananti\"; MMPND Abrus page lists Sanskrit \"रक्तिका Raktika\""
+            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds, api-all.txt line 6424; root, line 21658, of Abrus precatorius Linn.), Sanskrit slot \"Raktika, Kakananti\"; MMPND Abrus page lists Sanskrit \"रक्तिका Raktika\""
           ]
         }
       ],
@@ -13582,7 +13582,7 @@
           "name": "घुंघची",
           "iast": "ghuṃghacī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.) — Hindi slot \"Ratti, Ghungchi\""
+            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Hindi slot \"Ratti, Ghungchi\""
           ]
         },
         {
@@ -13596,7 +13596,7 @@
           "name": "रत्ती",
           "iast": "rattī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.) — Hindi slot \"Ratti, Ghungchi\"; MMPND Abrus page lists \"रत्ती Ratti\" under Hindi"
+            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Hindi slot \"Ratti, Ghungchi\"; MMPND Abrus page lists \"रत्ती Ratti\" under Hindi"
           ]
         }
       ],
@@ -13605,13 +13605,13 @@
           "name": "குன்றி",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds and root of Abrus precatorius Linn.) — Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றி\" and \"குன்றிமணி\"."
+            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds and root of Abrus precatorius Linn.), Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றி\" and \"குன்றிமணி\"."
           ]
         },
         {
           "name": "குன்றிமணி",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.) — Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றிமணி\""
+            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றிமணி\""
           ]
         }
       ]
@@ -13632,21 +13632,21 @@
           "name": "आत्मगुप्ता",
           "iast": "ātmaguptā",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — both monographs for Mucuna prurita Hook. syn. M. pruriens (seed, api-all.txt line 37197; root, line 56834) are headed ATMAGUPTA; Names of Plants in India :: Mucuna pruriens gives Sanskrit \"आत्मगुप्ता (Atmagupta)\""
+            "Ayurvedic Pharmacopoeia of India, both monographs for Mucuna prurita Hook. syn. M. pruriens (seed, api-all.txt line 37197; root, line 56834) are headed ATMAGUPTA; Names of Plants in India:: Mucuna pruriens gives Sanskrit \"आत्मगुप्ता (Atmagupta)\""
           ]
         },
         {
           "name": "कपिकच्छुः",
           "iast": "kapikacchuḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna prurita Hook. syn. M. pruriens) — Sanskrit slots \"Kapikacchu, Markati, Kandura\" and \"Kapikacchu, Markai, Kandura, Sukasimbi, Kapiprabha\""
+            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna prurita Hook. syn. M. pruriens), Sanskrit slots \"Kapikacchu, Markati, Kandura\" and \"Kapikacchu, Markai, Kandura, Sukasimbi, Kapiprabha\""
           ]
         },
         {
           "name": "मर्कटी",
           "iast": "markaṭī",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna pruriens) — Sanskrit slots \"Kapikacchu, Markati, Kandura\""
+            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna pruriens), Sanskrit slots \"Kapikacchu, Markati, Kandura\""
           ]
         }
       ],
@@ -13655,14 +13655,14 @@
           "name": "कौंच",
           "iast": "kauṃca",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna pruriens) — Hindi slots \"Kewanch, Kaunch\" and \"Kevanch, Kaunch, Khujanee\"; Names of Plants in India :: Mucuna pruriens also lists Kauncha"
+            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna pruriens), Hindi slots \"Kewanch, Kaunch\" and \"Kevanch, Kaunch, Khujanee\"; Names of Plants in India:: Mucuna pruriens also lists Kauncha"
           ]
         },
         {
           "name": "किवांच",
           "iast": "kivāṃca",
           "sources": [
-            "Names of Plants in India :: Mucuna pruriens — Hindi names include \"किवांच (Kivanch), कवांच (Kavanch), केवांच (Kevanch)\"; Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (seed, api-all.txt line 37197; root, line 56834) give Hindi \"Kewanch, Kaunch\" and \"Kevanch, Kaunch, Khujanee\"."
+            "Names of Plants in India:: Mucuna pruriens, Hindi names include \"किवांच (Kivanch), कवांच (Kavanch), केवांच (Kevanch)\"; Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (seed, api-all.txt line 37197; root, line 56834) give Hindi \"Kewanch, Kaunch\" and \"Kevanch, Kaunch, Khujanee\"."
           ]
         }
       ],
@@ -13671,7 +13671,7 @@
           "name": "பூனைக்காலி",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna prurita Hook. syn. M. pruriens) — Tamil slots \"Poonaikkali\" and \"Punaik-Kalee, Punaikkalee, Punaippidukkam\"; Names of Plants in India :: Mucuna pruriens gives Tamil \"Poonaikaali (பூனைக்காலி)\"."
+            "Ayurvedic Pharmacopoeia of India, ATMAGUPTA monographs (Mucuna prurita Hook. syn. M. pruriens), Tamil slots \"Poonaikkali\" and \"Punaik-Kalee, Punaikkalee, Punaippidukkam\"; Names of Plants in India:: Mucuna pruriens gives Tamil \"Poonaikaali (பூனைக்காலி)\"."
           ]
         }
       ]
@@ -13689,7 +13689,7 @@
           "name": "दन्तशठ",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, KAPITTHA monograph (Feronia limonia = Limonia acidissima) — Sanskrit slot \"Danta Satha, Kapipriya\"; MMPND Limonia page lists Sanskrit \"दन्तशठ Danthashatha\""
+            "Ayurvedic Pharmacopoeia of India, KAPITTHA monograph (Feronia limonia = Limonia acidissima), Sanskrit slot \"Danta Satha, Kapipriya\"; MMPND Limonia page lists Sanskrit \"दन्तशठ Danthashatha\""
           ],
           "iast": "dantaśaṭha"
         },
@@ -13705,7 +13705,7 @@
           "name": "कैथ",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, KAPITTHA monograph (dried pulp of mature fruit of Feronia limonia (Linn.) Swingle = Limonia acidissima, api-all.txt line 24166 ff.) — Hindi slot \"Kaitha\"; MMPND Limonia page lists Hindi \"कैट Kait, कैथ Kait, कैथा Kaitha\""
+            "Ayurvedic Pharmacopoeia of India, KAPITTHA monograph (dried pulp of mature fruit of Feronia limonia (Linn.) Swingle = Limonia acidissima, api-all.txt line 24166 ff.), Hindi slot \"Kaitha\"; MMPND Limonia page lists Hindi \"कैट Kait, कैथ Kait, कैथा Kaitha\""
           ],
           "iast": "kaitha"
         },
@@ -13899,7 +13899,7 @@
           "name": "घृतकरञ्जः",
           "iast": "ghṛtakarañjaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (Pongamia pinnata = Millettia pinnata) — Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
+            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (Pongamia pinnata = Millettia pinnata), Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
           ]
         },
         {
@@ -13913,7 +13913,7 @@
           "name": "करञ्जकः",
           "iast": "karañjakaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (seeds, api-all.txt line 8646; root bark, line 24555, of Pongamia pinnata (Linn.) Merr. = Millettia pinnata) — Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
+            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (seeds, api-all.txt line 8646; root bark, line 24555, of Pongamia pinnata (Linn.) Merr. = Millettia pinnata), Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
           ]
         },
         {
@@ -13934,7 +13934,7 @@
           "name": "नक्तमालः",
           "iast": "naktamālaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (Pongamia pinnata = Millettia pinnata) — Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
+            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (Pongamia pinnata = Millettia pinnata), Sanskrit slot \"Karanjaka, Naktamala, Naktahva, Ghrtakaranja\""
           ]
         }
       ],
@@ -13944,7 +13944,7 @@
           "iast": "karaṃja",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (seeds of Pongamia pinnata (Linn.) Merr., api-all.txt line 8646; dried root bark, line 24555) — Hindi slots \"Dithouri, Karuaini\" / \"Karanj\", with 'Karanj' also in the Punjabi slot of the seed monograph."
+            "Ayurvedic Pharmacopoeia of India, KARANJA monographs (seeds of Pongamia pinnata (Linn.) Merr., api-all.txt line 8646; dried root bark, line 24555), Hindi slots \"Dithouri, Karuaini\" / \"Karanj\", with 'Karanj' also in the Punjabi slot of the seed monograph."
           ]
         },
         {
@@ -13976,7 +13976,7 @@
           "name": "புங்கை",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARANJA (dried root bark of Pongamia pinnata (Linn.) Merr.) — Tamil slot \"Pungai\" (api-all.txt line 24555 ff.); the seed monograph gives Tamil \"Pungan, Pongana\"."
+            "Ayurvedic Pharmacopoeia of India, KARANJA (dried root bark of Pongamia pinnata (Linn.) Merr.), Tamil slot \"Pungai\" (api-all.txt line 24555 ff.); the seed monograph gives Tamil \"Pungan, Pongana\"."
           ]
         },
         {
@@ -14155,14 +14155,14 @@
           "iast": "kāravellam",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.) — Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India :: Momordica charantia gives Sanskrit \"कारवेल्लकः kaarvellakah, कटिल्लः kathillah, सुषवी sushavi, ऊर्ध्वासितः urdhvaasitah\"."
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.), Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India:: Momordica charantia gives Sanskrit \"कारवेल्लकः kaarvellakah, कटिल्लः kathillah, सुषवी sushavi, ऊर्ध्वासितः urdhvaasitah\"."
           ]
         },
         {
           "name": "कठिल्लः",
           "iast": "kaṭhillaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn.) — Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India :: Momordica charantia gives Sanskrit \"कटिल्लः kathillah\""
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn.), Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India:: Momordica charantia gives Sanskrit \"कटिल्लः kathillah\""
           ]
         }
       ],
@@ -14172,14 +14172,14 @@
           "iast": "karelā",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn., Fam. Cucurbitaceae, api-all.txt line 25354 ff.) — Hindi slot \"Karela\"; efloraofindia / Names of Plants in India :: Momordica charantia gives Hindi \"करेला karela, कठिल्ल kathilla, परारु poraru\"."
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn., Fam. Cucurbitaceae, api-all.txt line 25354 ff.), Hindi slot \"Karela\"; efloraofindia / Names of Plants in India:: Momordica charantia gives Hindi \"करेला karela, कठिल्ल kathilla, परारु poraru\"."
           ]
         },
         {
           "name": "कठिल्ल",
           "iast": "kaṭhilla",
           "sources": [
-            "efloraofindia / Names of Plants in India :: Momordica charantia — Hindi list \"करेला karela, कठिल्ल kathilla, परारु poraru\""
+            "efloraofindia / Names of Plants in India:: Momordica charantia, Hindi list \"करेला karela, कठिल्ल kathilla, परारु poraru\""
           ]
         }
       ],
@@ -14187,7 +14187,7 @@
         {
           "name": "பாகற்காய்",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.) — Tamil slot \"Paharkai\"; efloraofindia / Names of Plants in India :: Momordica charantia gives Tamil \"பாகற்காய் pagakkai\""
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.), Tamil slot \"Paharkai\"; efloraofindia / Names of Plants in India:: Momordica charantia gives Tamil \"பாகற்காய் pagakkai\""
           ]
         }
       ]
@@ -14198,7 +14198,7 @@
           "name": "करीरः",
           "iast": "karīraḥ",
           "sources": [
-            "Names of Plants in India :: Capparis decidua (Forssk.) Edgew. — Sanskrit list \"दीर्घपत्त्रक dirghapattraka, ग्रन्थिक granthika, ग्रन्थिल granthila, गूढपत्त्र gudhapattra, करीर karira, क्रकर krakara, कुरर kurara, मरुभूरुह marubhuruha, निष्पत्त्रिका nishpattrika, ताम्रपत्त्रक tamrapattraka, तीक्ष्णकण्टक tikshnakantaka, वेणुकर्कर venukarkara\""
+            "Names of Plants in India:: Capparis decidua (Forssk.) Edgew., Sanskrit list \"दीर्घपत्त्रक dirghapattraka, ग्रन्थिक granthika, ग्रन्थिल granthila, गूढपत्त्र gudhapattra, करीर karira, क्रकर krakara, कुरर kurara, मरुभूरुह marubhuruha, निष्पत्त्रिका nishpattrika, ताम्रपत्त्रक tamrapattraka, तीक्ष्णकण्टक tikshnakantaka, वेणुकर्कर venukarkara\""
           ]
         }
       ],
@@ -14208,21 +14208,21 @@
           "iast": "kaira",
           "preferred": true,
           "sources": [
-            "Names of Plants in India :: Capparis decidua (Forssk.) Edgew. (groups.google.com/g/indiantreepix/c/JYIwKvz8KUo) — Hindi list reads \"कैर kair, कैरिया kairiya, करीर karir, करील karil, करीं kareen, पीचू pichu, टींट teent, टेंटी tenti\"."
+            "Names of Plants in India:: Capparis decidua (Forssk.) Edgew. (groups.google.com/g/indiantreepix/c/JYIwKvz8KUo), Hindi list reads \"कैर kair, कैरिया kairiya, करीर karir, करील karil, करीं kareen, पीचू pichu, टींट teent, टेंटी tenti\"."
           ]
         },
         {
           "name": "करील",
           "iast": "karīla",
           "sources": [
-            "Names of Plants in India :: Capparis decidua — Hindi list \"कैर kair, कैरिया kairiya, करीर karir, करील karil, करीं kareen, पीचू pichu, टींट teent, टेंटी tenti\""
+            "Names of Plants in India:: Capparis decidua, Hindi list \"कैर kair, कैरिया kairiya, करीर karir, करील karil, करीं kareen, पीचू pichu, टींट teent, टेंटी tenti\""
           ]
         },
         {
           "name": "टींट",
           "iast": "ṭīṃṭa",
           "sources": [
-            "Names of Plants in India :: Capparis decidua — Hindi list includes \"टींट teent, टेंटी tenti\""
+            "Names of Plants in India:: Capparis decidua, Hindi list includes \"टींट teent, टेंटी tenti\""
           ]
         }
       ],
@@ -14230,7 +14230,7 @@
         {
           "name": "செங்கம்",
           "sources": [
-            "Names of Plants in India :: Capparis decidua — Tamil list \"சிரக்கோழி cira-k-koli, குழலாதொண்டை kulal-atontai, கெந்திகம் kentikam, மருபூருகம் maru-purukam, செங்கம் senkam\""
+            "Names of Plants in India:: Capparis decidua, Tamil list \"சிரக்கோழி cira-k-koli, குழலாதொண்டை kulal-atontai, கெந்திகம் kentikam, மருபூருகம் maru-purukam, செங்கம் senkam\""
           ]
         }
       ]
@@ -14241,7 +14241,7 @@
           "name": "कर्मरङ्गः",
           "iast": "karmaraṅgaḥ",
           "sources": [
-            "Names of Plants in India / efloraofindia :: Averrhoa carambola — Sanskrit list \"कर्मरंग (karmaranga), कर्मरकः (karmarakah)\""
+            "Names of Plants in India / efloraofindia:: Averrhoa carambola, Sanskrit list \"कर्मरंग (karmaranga), कर्मरकः (karmarakah)\""
           ]
         }
       ],
@@ -14251,14 +14251,14 @@
           "iast": "kamarakha",
           "preferred": true,
           "sources": [
-            "Names of Plants in India / efloraofindia :: Averrhoa carambola — Hindi list reads \"कमरख (kamarakha), कमरक (kamaraka), दन्तसठ (dantasatha), पर्णमाचाल (parnamachal), पीतफल (pitaphala), शिराल (shiral)\"."
+            "Names of Plants in India / efloraofindia:: Averrhoa carambola, Hindi list reads \"कमरख (kamarakha), कमरक (kamaraka), दन्तसठ (dantasatha), पर्णमाचाल (parnamachal), पीतफल (pitaphala), शिराल (shiral)\"."
           ]
         },
         {
           "name": "करमल",
           "iast": "karamala",
           "sources": [
-            "flowersofindia.net Star Fruit page — Hindi \"Karmal करमल\" for Averrhoa carambola"
+            "flowersofindia.net Star Fruit page, Hindi \"Karmal करमल\" for Averrhoa carambola"
           ]
         }
       ],
@@ -14277,7 +14277,7 @@
           "name": "कार्पासः",
           "iast": "kārpāsaḥ",
           "sources": [
-            "MMPND Gossypium page — Sanskrit \"Karpasa, Karpasah, Karpasaha\" for Gossypium herbaceum; the Ayurvedic Pharmacopoeia of India monograph for this species is itself headed KARPASA and its synonym block carries \"Karpasa, Tula\""
+            "MMPND Gossypium page, Sanskrit \"Karpasa, Karpasah, Karpasaha\" for Gossypium herbaceum; the Ayurvedic Pharmacopoeia of India monograph for this species is itself headed KARPASA and its synonym block carries \"Karpasa, Tula\""
           ]
         },
         {
@@ -14292,7 +14292,7 @@
           "name": "बिनौला",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (seeds of Gossypium herbaceum Linn.) — Hindi slot \"Kapasa, Binaula\""
+            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (seeds of Gossypium herbaceum Linn.), Hindi slot \"Kapasa, Binaula\""
           ],
           "iast": "binaulā"
         },
@@ -14300,7 +14300,7 @@
           "name": "कपास",
           "sources": [
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
-            "MMPND Gossypium page — Hindi \"Kapas, Rui\" for Gossypium herbaceum; API's KARPASA monograph Hindi slot gives \"Kapasa, Binaula\""
+            "MMPND Gossypium page, Hindi \"Kapas, Rui\" for Gossypium herbaceum; API's KARPASA monograph Hindi slot gives \"Kapasa, Binaula\""
           ],
           "iast": "kapāsa"
         }
@@ -14323,13 +14323,13 @@
         {
           "name": "கற்பாசம்",
           "sources": [
-            "MMPND (plantnames.unimelb.edu.au/Sorting/Gossypium.html) — Tamil names for Gossypium herbaceum \"Karbasam, Karpasam, Nattupparutti, Talipparutti, Venparutti\""
+            "MMPND (plantnames.unimelb.edu.au/Sorting/Gossypium.html), Tamil names for Gossypium herbaceum \"Karbasam, Karpasam, Nattupparutti, Talipparutti, Venparutti\""
           ]
         },
         {
           "name": "பருத்தி",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (seeds devoid of lint of Gossypium herbaceum Linn., Fam. Malvaceae, api-all.txt line 9215 ff.) — Tamil slot \"Parutti kkoottam\"; MMPND Gossypium page gives Tamil \"Nattupparutti, Talipparutti, Venparutti\" and Parutti/Parutthi across the genus"
+            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (seeds devoid of lint of Gossypium herbaceum Linn., Fam. Malvaceae, api-all.txt line 9215 ff.), Tamil slot \"Parutti kkoottam\"; MMPND Gossypium page gives Tamil \"Nattupparutti, Talipparutti, Venparutti\" and Parutti/Parutthi across the genus"
           ]
         }
       ],
@@ -14426,7 +14426,7 @@
           "name": "कार्पासः",
           "iast": "kārpāsaḥ",
           "sources": [
-            "MMPND Gossypium page — Sanskrit \"Karpasa, Karpasah, Karpasaha\"; Ayurvedic Pharmacopoeia of India monograph headed KARPASA for Gossypium herbaceum Linn."
+            "MMPND Gossypium page, Sanskrit \"Karpasa, Karpasah, Karpasaha\"; Ayurvedic Pharmacopoeia of India monograph headed KARPASA for Gossypium herbaceum Linn."
           ]
         }
       ],
@@ -14435,7 +14435,7 @@
           "name": "कपास",
           "iast": "kapāsa",
           "sources": [
-            "MMPND Gossypium page — Hindi \"Kapas, Rui\"; API's KARPASA monograph Hindi slot \"Kapasa, Binaula\""
+            "MMPND Gossypium page, Hindi \"Kapas, Rui\"; API's KARPASA monograph Hindi slot \"Kapasa, Binaula\""
           ]
         }
       ],
@@ -14443,7 +14443,7 @@
         {
           "name": "பருத்தி",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (Gossypium herbaceum Linn.) — Tamil slot \"Parutti kkoottam\"; MMPND Gossypium page gives Parutti/Nattupparutti/Talipparutti/Venparutti"
+            "Ayurvedic Pharmacopoeia of India, KARPASA monograph (Gossypium herbaceum Linn.), Tamil slot \"Parutti kkoottam\"; MMPND Gossypium page gives Parutti/Nattupparutti/Talipparutti/Venparutti"
           ]
         }
       ]
@@ -14455,14 +14455,14 @@
           "iast": "kāravellam",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India — monograph headed KARAVALLAKA for Momordica charantia Linn., Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India, Sanskrit \"कारवेल्लकः kaarvellakah\"."
+            "Ayurvedic Pharmacopoeia of India, monograph headed KARAVALLAKA for Momordica charantia Linn., Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia / Names of Plants in India, Sanskrit \"कारवेल्लकः kaarvellakah\"."
           ]
         },
         {
           "name": "कठिल्लः",
           "iast": "kaṭhillaḥ",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.) — Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia gives \"कटिल्लः kathillah\""
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.), Sanskrit slot \"Karavella, Kathilla, Varivalli, Karavalli\"; efloraofindia gives \"कटिल्लः kathillah\""
           ]
         }
       ],
@@ -14472,7 +14472,7 @@
           "iast": "karelā",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn.) — Hindi slot \"Karela\"; efloraofindia / Names of Plants in India :: Momordica charantia, Hindi \"करेला karela\"."
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (fresh fruit of Momordica charantia Linn.), Hindi slot \"Karela\"; efloraofindia / Names of Plants in India:: Momordica charantia, Hindi \"करेला karela\"."
           ]
         }
       ],
@@ -14480,7 +14480,7 @@
         {
           "name": "பாகற்காய்",
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.) — Tamil slot \"Paharkai\"; efloraofindia / Names of Plants in India gives Tamil \"பாகற்காய் pagakkai\""
+            "Ayurvedic Pharmacopoeia of India, KARAVALLAKA monograph (Momordica charantia Linn.), Tamil slot \"Paharkai\"; efloraofindia / Names of Plants in India gives Tamil \"பாகற்காய் pagakkai\""
           ]
         }
       ]
@@ -15111,7 +15111,7 @@
           "name": "பேரீச்சை",
           "preferred": true,
           "sources": [
-            "MMPND \"Sorting Phoenix names\" gives Tamil \"Karchuram, Perichchankay\" for Phoenix dactylifera, and separately \"Inchi, Itcham pannai\" for Phoenix sylvestris — so the pērīcc- stem is assigned to P. dactylifera specifically."
+            "MMPND \"Sorting Phoenix names\" gives Tamil \"Karchuram, Perichchankay\" for Phoenix dactylifera, and separately \"Inchi, Itcham pannai\" for Phoenix sylvestris, so the pērīcc- stem is assigned to P. dactylifera specifically."
           ]
         },
         {
@@ -15943,7 +15943,7 @@
           "name": "தருப்பைப்புல்",
           "preferred": true,
           "sources": [
-            "efloraofindia's Desmostachya bipinnata page gives Tamil \"darbhaipul, taruppai, acamantakam\" — i.e. தர்ப்பைப்புல் and தருப்பை."
+            "efloraofindia's Desmostachya bipinnata page gives Tamil \"darbhaipul, taruppai, acamantakam\", i.e. தர்ப்பைப்புல் and தருப்பை."
           ]
         }
       ]
@@ -24761,7 +24761,7 @@
           "iast": "satāvara",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I, Shatavari (Asparagus racemosus) monograph — Hindi: Satavar, Satamul",
+            "Ayurvedic Pharmacopoeia of India, Part I, Shatavari (Asparagus racemosus) monograph, Hindi: Satavar, Satamul",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)",
             "efloraofindia.com, Asparagus racemosus: Hindi 'शतावरी shatavari', 'शतमूली shatamuli'"
           ]
@@ -24920,7 +24920,7 @@
           "iast": "satāvara",
           "preferred": true,
           "sources": [
-            "Ayurvedic Pharmacopoeia of India, Part I, Shatavari (Asparagus racemosus) monograph — Hindi: Satavar, Satamul"
+            "Ayurvedic Pharmacopoeia of India, Part I, Shatavari (Asparagus racemosus) monograph, Hindi: Satavar, Satamul"
           ]
         }
       ],
@@ -24958,7 +24958,7 @@
           "iast": "kapūra kacarī",
           "preferred": true,
           "sources": [
-            "efloraofindia.com, Hedychium spicatum: Hindi 'कपूर कचरी Kapur kachri'; Journal of Ayurveda and Integrated Medical Sciences, 'A Comprehensive Review of Shati (Hedychium spicatum)' — Hindi: Kapur kachri, Kachoor, Van haldi",
+            "efloraofindia.com, Hedychium spicatum: Hindi 'कपूर कचरी Kapur kachri'; Journal of Ayurveda and Integrated Medical Sciences, 'A Comprehensive Review of Shati (Hedychium spicatum)', Hindi: Kapur kachri, Kachoor, Van haldi",
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
           ]
         }
@@ -24976,7 +24976,7 @@
           "name": "பூலங்கிழங்கு",
           "preferred": true,
           "sources": [
-            "Journal of Ayurveda and Integrated Medical Sciences, 'A Comprehensive Review of Shati (Hedychium spicatum Buch-Ham)' — Tamil: Poolakizhangu, Kichilikizhangu"
+            "Journal of Ayurveda and Integrated Medical Sciences, 'A Comprehensive Review of Shati (Hedychium spicatum Buch-Ham)', Tamil: Poolakizhangu, Kichilikizhangu"
           ]
         },
         {
@@ -24994,7 +24994,7 @@
         {
           "name": "கிச்சிலிக்கிழங்கு",
           "sources": [
-            "JAIMS review of Shati (Hedychium spicatum) — Tamil: Poolakizhangu, Kichilikizhangu"
+            "JAIMS review of Shati (Hedychium spicatum), Tamil: Poolakizhangu, Kichilikizhangu"
           ]
         }
       ],
@@ -25874,7 +25874,7 @@
         {
           "name": "தகரை",
           "sources": [
-            "IJAPR review, 'Pharmacological Actions of Valeriana wallichii (Tagara)' — Tamil: Tagarai"
+            "IJAPR review, 'Pharmacological Actions of Valeriana wallichii (Tagara)', Tamil: Tagarai"
           ]
         }
       ],

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Chakshushya/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; [Ghrita](/herb/ghrita/): 5-10g with warm milk; eye drops: 1-2 drops per eye; as directed by Vaidya for Anjana application
 
-**Bioavailability:** Chakshushya (eye-benefiting) is a functional category (Gana) rather than a single herb—may refer to specific plants like [Jivanti](/herb/jivanti/), [Saptaparna](/herb/saptaparna/), or formulations. Carotenoid-rich Chakshushya herbs show moderate oral bioavailability enhanced significantly by lipids (Ghrita is the classical vehicle for ophthalmic Ayurvedic preparations). Topical ocular preparations (Anjana, Aschyotana) provide direct local bioavailability bypassing systemic distribution.
+**Bioavailability:** Chakshushya (eye-benefiting) is a functional category (Gana) rather than a single herb, may refer to specific plants like [Jivanti](/herb/jivanti/), [Saptaparna](/herb/saptaparna/), or formulations. Carotenoid-rich Chakshushya herbs show moderate oral bioavailability enhanced significantly by lipids (Ghrita is the classical vehicle for ophthalmic Ayurvedic preparations). Topical ocular preparations (Anjana, Aschyotana) provide direct local bioavailability bypassing systemic distribution.
 
 **Optimal Timing:** Ghrita with warm milk at bedtime for eye nourishment (Netra Tarpana effect); eye drops morning and evening; Anjana as prescribed
 

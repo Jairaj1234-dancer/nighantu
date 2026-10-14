@@ -65,13 +65,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 
 **Dosage Forms:** Pishti
 
-**Standard Dosage:** 15–30 mg (precious stone — precise dosing)
+**Standard Dosage:** 15–30 mg (precious stone, precise dosing)
 
 **Bioavailability:** Good; ruby aluminum oxide in ultra-fine form
 
 **Optimal Timing:** With honey or cream of milk
 
-**Standardized Extract:** Ruby pishti — cold-processed precious stone preparation
+**Standardized Extract:** Ruby pishti, cold-processed precious stone preparation
 
 **Shelf Life:** Indefinite
 

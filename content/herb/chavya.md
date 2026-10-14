@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily with warm water; 500mg extract capsule; 50-100ml decoction; commonly used as part of compound digestive formulations
 
-**Bioavailability:** Piper chaba/P. retrofractum root and stem—piperine alkaloids show excellent oral bioavailability (>80%). Root contains higher concentration of piperlongumine compared to fruit. Thermogenic and bioenhancer properties identical to [Chavika](/herb/chavika/) (fruit of the same species). Enhances bioavailability of co-administered compounds through CYP3A4 and P-gp modulation.
+**Bioavailability:** Piper chaba/P. retrofractum root and stem, piperine alkaloids show excellent oral bioavailability (>80%). Root contains higher concentration of piperlongumine compared to fruit. Thermogenic and bioenhancer properties identical to [Chavika](/herb/chavika/) (fruit of the same species). Enhances bioavailability of co-administered compounds through CYP3A4 and P-gp modulation.
 
 **Optimal Timing:** Before meals with warm water for digestive stimulation; with meals for enhanced nutrient absorption; not recommended at bedtime due to stimulant properties
 

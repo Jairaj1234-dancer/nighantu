@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 **Optimal Timing:** With meals; before meals for Deepana (appetizer) action
 
-**Standardized Extract:** Natural Himalayan rock salt — the only salt recommended in Ayurveda for daily use
+**Standardized Extract:** Natural Himalayan rock salt, the only salt recommended in Ayurveda for daily use
 
 **Shelf Life:** Indefinite (mineral)
 

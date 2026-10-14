@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalmali/meta-analysis.md"
 
 **Shelf Life:** 24 months for churna; 36 months for Mocharasa in sealed containers; 30 months for capsules
 
-**Storage:** Mocharasa in airtight containers with desiccant — highly hygroscopic. Churna and capsules below 25 deg C, protected from moisture. RH <50% for gum preparations.
+**Storage:** Mocharasa in airtight containers with desiccant, highly hygroscopic. Churna and capsules below 25 deg C, protected from moisture. RH <50% for gum preparations.
 
 **Marker Compounds:** Shamimicin, Quercetin, [Kaempferol](/reference/kaempferol/), Gallic acid, [Lupeol](/reference/lupeol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Mangiferin](/glossary/compounds-l-o/#mangiferin) (in some varieties)
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalmali/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Lodhra](/herb/lodhra/) (uterine astringent synergy — Raktapradara)
+- [Lodhra](/herb/lodhra/) (uterine astringent synergy, Raktapradara)
 - [Ashoka](/herb/ashoka/) (gynecological tonic formulations)
 - Nagakeshara ([hemostatic](/glossary/pharmacology/#hemostatic) combinations)
 - [Shatavari](/herb/shatavari/) (female reproductive health formulations)

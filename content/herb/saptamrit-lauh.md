@@ -79,7 +79,7 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 **Optimal Timing:** With honey or ghee; morning and evening
 
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) + [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) (Licorice) — seven ingredients total
+**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) + [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) (Licorice), seven ingredients total
 
 **Shelf Life:** 3–5 years
 

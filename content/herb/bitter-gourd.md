@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd/meta-analysis.md
 
 **Standard Dosage:** 30-60ml fresh juice daily; 1-3g powder twice daily; 500mg standardized extract capsule twice daily; traditionally, fruit consumed as vegetable in diet
 
-**Bioavailability:** [Charantin](/glossary/compounds-c-d/#charantin) shows moderate oral bioavailability (20-30%). Polypeptide-p (p-insulin) is degraded by gastric proteases—limited oral bioavailability for the intact peptide (enteric coating helps). [Vicine](/glossary/compounds-t-z/#vicine) and charantin are better absorbed from juice than powder form. [Momordicin](/glossary/compounds-l-o/#momordicin) has good lipophilicity. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show 25-35% oral bioavailability. Note: fresh juice is considered most bioactive in both Ayurvedic and modern perspectives.
+**Bioavailability:** [Charantin](/glossary/compounds-c-d/#charantin) shows moderate oral bioavailability (20-30%). Polypeptide-p (p-insulin) is degraded by gastric proteases, limited oral bioavailability for the intact peptide (enteric coating helps). [Vicine](/glossary/compounds-t-z/#vicine) and charantin are better absorbed from juice than powder form. [Momordicin](/glossary/compounds-l-o/#momordicin) has good lipophilicity. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show 25-35% oral bioavailability. Note: fresh juice is considered most bioactive in both Ayurvedic and modern perspectives.
 
 **Optimal Timing:** Early morning on empty stomach for maximum [antidiabetic](/reference/antidiabetic/) effect; 30 minutes before meals; fresh juice preferred over dried forms
 

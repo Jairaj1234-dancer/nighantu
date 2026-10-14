@@ -82,11 +82,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm) — superior bioavailability to ferrous sulfate tablets per clinical studies
+**Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm), superior bioavailability to ferrous sulfate tablets per clinical studies
 
 **Optimal Timing:** After meals with honey, ghee, or [Triphala](/herb/triphala/) Kwatha
 
-**Standardized Extract:** Shataputi [Loha Bhasma](/herb/loha-bhasma/) (100-Puta) — standard therapeutic grade
+**Standardized Extract:** Shataputi [Loha Bhasma](/herb/loha-bhasma/) (100-Puta), standard therapeutic grade
 
 **Shelf Life:** Indefinite
 

@@ -10,7 +10,7 @@ answer: "Vata Shirodhara Taila is a classical Ayurvedic taila, a medicated oil. 
 botanical: ""
 family: ""
 sanskrit: ""
-ayurvedicCategory: "External Shirodhara (murdha-taila) oil — Vata-shamaka"
+ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Vata-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Vata Shirodhara Taila", "Vata-Pacifying Shirodhara Oil", "Vata Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "vata-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
@@ -30,20 +30,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Vata-Shirod
 
 ## Key Ingredients
 
-- [Ashwagandha](/herb/ashwagandha/) (*Withania somnifera*) — Rasayana, balya, medhya
-- [Bala](/herb/bala/) (*Sida cordifolia*) — Vata-hara, brimhana
-- [Shatavari](/herb/shatavari/) (*Asparagus racemosus*) — madhura-rasa, shita-virya, snigdha
-- [Bhringraj](/herb/bhringraj/) (*Eclipta alba* / *E. prostrata*) — keshya, supports scalp and settled head
-- [Yashtimadhu](/herb/yashtimadhu/) (*Glycyrrhiza glabra*) — madhura, shita, snigdha
-- [Tulsi](/herb/tulsi/) (*Ocimum tenuiflorum*) — aromatic, sattvic
-- [Tagara](/herb/tagara/) (*Valeriana jatamansi / V. wallichii*) — medhya, nidrajanaka
-- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum* — sesame oil) — classical Snehakarma base
-- Jaitun Taila (*Olea europaea* — olive oil) — supporting emollient base
-- Lavender Oil (*Lavandula angustifolia*) — aromatic fraction for the shiro-dhara experience
+- [Ashwagandha](/herb/ashwagandha/) (*Withania somnifera*), Rasayana, balya, medhya
+- [Bala](/herb/bala/) (*Sida cordifolia*), Vata-hara, brimhana
+- [Shatavari](/herb/shatavari/) (*Asparagus racemosus*), madhura-rasa, shita-virya, snigdha
+- [Bhringraj](/herb/bhringraj/) (*Eclipta alba* / *E. prostrata*), keshya, supports scalp and settled head
+- [Yashtimadhu](/herb/yashtimadhu/) (*Glycyrrhiza glabra*), madhura, shita, snigdha
+- [Tulsi](/herb/tulsi/) (*Ocimum tenuiflorum*), aromatic, sattvic
+- [Tagara](/herb/tagara/) (*Valeriana jatamansi / V. wallichii*), medhya, nidrajanaka
+- [Tila Taila](/glossary/concepts-m-y/#tila-taila) (*Sesamum indicum*, sesame oil), classical Snehakarma base
+- Jaitun Taila (*Olea europaea*, olive oil), supporting emollient base
+- Lavender Oil (*Lavandula angustifolia*), aromatic fraction for the shiro-dhara experience
 
 ## Where is it described in the classical texts?
 
-Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**, and is recognised in Ayurvedic texts as a primary external intervention for Vata-vaishamya of the shiras (head region): restlessness of the mind, disturbed sleep, sensory fatigue and dryness (rukshata). This formulation follows the classical Vata-shamaka taila principle — snigdha (unctuous), ushna (warming) and medhya (mind-supportive) dravyas compounded in the Tila-taila base described by Charaka and Sushruta as the *taila-uttama* for Vata-shamana.
+Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya** and **Sushruta Samhita**, and is recognised in Ayurvedic texts as a primary external intervention for Vata-vaishamya of the shiras (head region): restlessness of the mind, disturbed sleep, sensory fatigue and dryness (rukshata). This formulation follows the classical Vata-shamaka taila principle, snigdha (unctuous), ushna (warming) and medhya (mind-supportive) dravyas compounded in the Tila-taila base described by Charaka and Sushruta as the *taila-uttama* for Vata-shamana.
 
 ## How does it work?
 

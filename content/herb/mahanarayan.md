@@ -10,7 +10,7 @@ answer: "Mahanarayan is classified in Ayurveda as Vatahara (Anti-Vata), Brimhana
 botanical: ""
 family: "Multi-herb preparation"
 sanskrit: ""
-ayurvedicCategory: "Vatahara (Anti-Vata), Brimhana (Nourishing) — External"
+ayurvedicCategory: "Vatahara (Anti-Vata), Brimhana (Nourishing), External"
 whoStatus: ""
 aliases: ["Compound medicated oil (40+ herbs in sesame oil base)"]
 tags: ["ayurveda", "herb", "single-herb", "joint-musculoskeletal", "pharmacopoeia-listed", "safety-concern"]

@@ -50,13 +50,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 **Shelf Life:** Raw resin: 5+ years if stored properly; Purified: 5 years
 
-**Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle — store in cloth bags in cool, dry place. Temperature not exceeding 30°C.
+**Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle. Store in cloth bags in cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I-III, Myrrhanol A, Cembrene, Mukulol
 
 **Quality Parameters:** Total guggulsterones (Z + E) NLT 2.5%, volatile oil content, water-soluble extractive, alcohol-soluble extractive, total ash, foreign organic matter, moisture, HPTLC/HPLC fingerprint, heavy metals, microbial limits
 
-**Vehicle (Anupana):** Must be processed (Shodhana) before use — not taken as raw herb
+**Vehicle (Anupana):** Must be processed (Shodhana) before use, not taken as raw herb
 
 ### Synergistic Combinations
 

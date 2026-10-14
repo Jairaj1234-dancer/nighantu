@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g seed/leaf powder twice daily; 50-100 mL decoction; 10-20 mL leaf juice; 500 mg capsule twice daily
 
-**Bioavailability:** Anthraquinone glycosides (chrysophanol, emodin) show moderate bioavailability with extensive hepatic conjugation (glucuronidation). Sennosides require colonic bacterial hydrolysis for activation — delayed onset of action (6-12 hours). Chrysophanol bioavailability enhanced through solid dispersion technology. Emodin shows improved absorption with phospholipid complexation.
+**Bioavailability:** Anthraquinone glycosides (chrysophanol, emodin) show moderate bioavailability with extensive hepatic conjugation (glucuronidation). Sennosides require colonic bacterial hydrolysis for activation, delayed onset of action (6-12 hours). Chrysophanol bioavailability enhanced through solid dispersion technology. Emodin shows improved absorption with phospholipid complexation.
 
 **Optimal Timing:** Before bedtime for [laxative](/reference/laxative/) effect (sennoside activation takes 6-12 hours); after meals for hepatoprotective applications
 

@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 **Standard Dosage:** 250–500 mg twice daily; traditional: pea-sized amount with warm milk
 
-**Bioavailability:** Fulvic acid acts as bioenhancer — improves CoQ10 absorption by 27.6% and nutrient transport across cell membranes
+**Bioavailability:** Fulvic acid acts as bioenhancer, improves CoQ10 absorption by 27.6% and nutrient transport across cell membranes
 
 **Optimal Timing:** Morning and evening with warm milk; empty stomach or with meals
 
@@ -106,6 +106,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 ### Stability Notes
 
-Resinous form is inherently stable. Hygroscopic — protect from moisture. Tablet/capsule forms need moisture barrier packaging
+Resinous form is inherently stable. Hygroscopic. Protect from moisture. Tablet/capsule forms need moisture barrier packaging
 
 *Generated for the AgeAyurveda Herb Catalogue*

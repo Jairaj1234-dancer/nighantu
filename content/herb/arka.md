@@ -36,11 +36,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (root bark powder — after Shodhana), Kshira (processed latex), Taila (medicated oil — external), Lepa (paste — external), Pushpa preparations (flower)
+**Dosage Forms:** Churna (root bark powder, after Shodhana), Kshira (processed latex), Taila (medicated oil, external), Lepa (paste, external), Pushpa preparations (flower)
 
 **Standard Dosage:** 250mg-1g Shodhita root bark powder; external oil/paste as needed. INTERNAL USE: only Shodhita (purified) material under physician supervision.
 
-**Bioavailability:** Cardiac [glycosides](/glossary/compounds-g-l/#glycosides) ([calotropin](/glossary/compounds-a-c/#calotropin), [calactin](/glossary/compounds-a-c/#calactin)) have good oral absorption with narrow therapeutic index. Shodhana with Dugdha (milk processing) modifies glycoside profile and reduces acute toxicity. Latex contains proteolytic [enzymes](/glossary/compounds-d-g/#enzymes) (calotropain) that are absorbed transdermally. [Uscharin](/glossary/compounds-t-z/#uscharin) shows rapid onset of cardiac activity — caution required for precise dosing.
+**Bioavailability:** Cardiac [glycosides](/glossary/compounds-g-l/#glycosides) ([calotropin](/glossary/compounds-a-c/#calotropin), [calactin](/glossary/compounds-a-c/#calactin)) have good oral absorption with narrow therapeutic index. Shodhana with Dugdha (milk processing) modifies glycoside profile and reduces acute toxicity. Latex contains proteolytic [enzymes](/glossary/compounds-d-g/#enzymes) (calotropain) that are absorbed transdermally. [Uscharin](/glossary/compounds-t-z/#uscharin) shows rapid onset of cardiac activity, caution required for precise dosing.
 
 **Optimal Timing:** As directed by Ayurvedic physician only. External applications: morning and evening to affected area.
 
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka/meta-analysis.md"
 
 ### Extraction Methods
 
-- Latex collection and Shodhana (purification with cow's milk — 7 cycles)
+- Latex collection and Shodhana (purification with cow's milk, 7 cycles)
 - Root bark Shodhana (boiling in Kanji/fermented rice water)
 - [Sesame oil](/glossary/concepts-m-y/#tila-taila) infusion for Taila preparation (external use)
 - Hydroalcoholic extraction of Shodhita material (research only)

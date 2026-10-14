@@ -95,6 +95,25 @@ for (const f of files) {
   }
 }
 
+/**
+ * 2b. Em dashes in authored prose.
+ *
+ * The house rule is no em dashes in anything this project writes. 3,556 of them accumulated in
+ * content/ before anyone counted, which is what an unenforced style rule looks like, so the rule
+ * is a gate now rather than a habit.
+ *
+ * SCOPED TO content/ AND guides/ ON PURPOSE. The ones that remain in src/data are the sources'
+ * own punctuation, in Kaviratna's and Bhishagratna's translations, in AFI scan notes, in chapter
+ * titles as printed and in published paper titles. Changing those would falsify a quotation, which
+ * is a far worse fault than a dash, so nothing here looks at them.
+ *
+ * scripts/fix-em-dashes.mjs repairs a violation, with the rules and the reasoning for each.
+ */
+for (const f of files) {
+  const n = (f.raw.match(/—/g) ?? []).length;
+  if (n) fail('em-dash', `${f.rel} contains ${n} em dash${n === 1 ? '' : 'es'}; run node scripts/fix-em-dashes.mjs`);
+}
+
 // 3. Cross-tradition leakage through hub pages.
 for (const f of files) {
   for (const t of LEAK_TERMS) {

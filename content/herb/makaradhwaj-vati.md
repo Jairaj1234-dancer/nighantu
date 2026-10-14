@@ -66,13 +66,13 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 **Dosage Forms:** Vati
 
-**Standard Dosage:** 30–60 mg twice daily (potent — precise dosing)
+**Standard Dosage:** 30–60 mg twice daily (potent, precise dosing)
 
 **Bioavailability:** Exceptional; gold-mercury-sulfur nanocomposite with superior tissue penetration
 
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/); morning and evening
 
-**Standardized Extract:** Makaradhwaj — Parada (mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) + Swarna (gold) complex
+**Standardized Extract:** Makaradhwaj, Parada (mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) + Swarna (gold) complex
 
 **Shelf Life:** Indefinite
 

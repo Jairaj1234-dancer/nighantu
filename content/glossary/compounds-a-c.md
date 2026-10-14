@@ -17,7 +17,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Mandukparni](/herb/mandukparni/)
-- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
 
 #### Often Found With
 
@@ -49,7 +49,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Shatavari Ksheera](/herb/shatavari-ksheera/) — *Asparagus racemosus Willd.*
+- [Shatavari Ksheera](/herb/shatavari-ksheera/), *Asparagus racemosus Willd.*
 
 #### Often Found With
 
@@ -65,7 +65,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Meda](/herb/meda/) — *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
+- [Meda](/herb/meda/), *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
 
 #### Often Found With
 
@@ -114,9 +114,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Ishabgula](/herb/ishabgula/)
-- [Nirgundi](/herb/nirgundi/) — *Vitex negundo L.*
+- [Nirgundi](/herb/nirgundi/), *Vitex negundo L.*
 - [Nirgundi Herb](/herb/nirgundi-herb/)
-- [Renuka](/herb/renuka/) — *Vitex agnus-castus L.*
+- [Renuka](/herb/renuka/), *Vitex agnus-castus L.*
 
 #### Often Found With
 
@@ -140,7 +140,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Guggulutiktakam Ghritam](/formulation/guggulutiktakam-ghritam/)
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/)
 - [Jatyadi Taila](/formulation/jatyadi-taila/)
-- [Nimba](/herb/nimba/) — *Azadirachta indica A. Juss.*
+- [Nimba](/herb/nimba/), *Azadirachta indica A. Juss.*
 - [Nimba Taila](/glossary/concepts-m-y/#nimba-taila)
 - [Nimbadi Churna](/glossary/concepts-m-y/#nimbadi-churna)
 
@@ -203,7 +203,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Brahma Rasayana](/formulation/brahma-rasayana/)
-- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi](/herb/brahmi/), *Bacopa monnieri*
 - [Brahmi Ghritam](/formulation/brahmi-ghritam/)
 
 #### Often Found With
@@ -222,7 +222,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Shyonaka](/herb/shyonaka/) — *Oroxylum indicum (L.) Kurz*
+- [Shyonaka](/herb/shyonaka/), *Oroxylum indicum (L.) Kurz*
 
 #### Often Found With
 
@@ -270,7 +270,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Parijata](/herb/parijata/) — *Nyctanthes arbor-tristis L.*
+- [Parijata](/herb/parijata/), *Nyctanthes arbor-tristis L.*
 
 #### Often Found With
 
@@ -288,7 +288,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Jati](/herb/jati/)
-- [Yuthika](/herb/yuthika/) — *Jasminum auriculatum Vahl*
+- [Yuthika](/herb/yuthika/), *Jasminum auriculatum Vahl*
 
 #### Often Found With
 
@@ -305,7 +305,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Yuthika](/herb/yuthika/) — *Jasminum auriculatum Vahl*
+- [Yuthika](/herb/yuthika/), *Jasminum auriculatum Vahl*
 
 #### Often Found With
 
@@ -323,7 +323,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
 - [Pilu](/herb/pilu/)
 
 #### Often Found With
@@ -341,7 +341,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Daruharidra](/herb/daruharidra/) — *Berberis aristata DC.*
+- [Daruharidra](/herb/daruharidra/), *Berberis aristata DC.*
 
 #### Often Found With
 
@@ -358,9 +358,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Daruharidra](/herb/daruharidra/) — *Berberis aristata DC.*
-- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
-- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Daruharidra](/herb/daruharidra/), *Berberis aristata DC.*
+- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
+- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
 - [Mamsarohini](/herb/mamsarohini/)
 
 #### Often Found With
@@ -386,18 +386,18 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Amritottaram Kashayam](/formulation/amritottaram-kashayam/)
 - [Aragvadhadi Kwath](/formulation/aragvadhadi-kwath/)
 - [Ashokarishta](/formulation/ashokarishta/)
-- [Chandraprabha](/herb/chandraprabha/) — *Compound formulation (37 herbs)*
-- [Daruharidra](/herb/daruharidra/) — *Berberis aristata DC.*
+- [Chandraprabha](/herb/chandraprabha/), *Compound formulation (37 herbs)*
+- [Daruharidra](/herb/daruharidra/), *Berberis aristata DC.*
 - [Dhanadanayanadi Kashayam](/glossary/concepts-a-m/#dhanadanayanadi-kashayam)
-- [Giloy](/herb/guduchi/) — *Tinospora cordifolia*
-- [Giloy Satva](/herb/giloy-satva/) — *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
-- [Guduchi](/herb/guduchi/) — *Tinospora cordifolia*
+- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
+- [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
+- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
 - [Guggulutiktakam Ghritam](/formulation/guggulutiktakam-ghritam/)
 - [Guloochyadi Kashayam](/formulation/guloochyadi-kashayam/)
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/)
 - [Jatyadi Taila](/formulation/jatyadi-taila/)
 - [Kaishore Guggul](/formulation/kaishore-guggul/)
-- [Mahamanjishthadi](/herb/mahamanjishthadi/) — *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
+- [Mahamanjishthadi](/herb/mahamanjishthadi/), *Polyherbal formulation: Rubia cordifolia L. ([Manjistha](/herb/manjistha/)) as principal herb with multiple supporting herbs*
 - [Mahasudarshan Churna](/formulation/mahasudarshan-churna/)
 - [Mahatiktaka Ghrita](/glossary/concepts-a-m/#mahatiktaka-ghrita)
 - [Manjisthadi Kwath](/glossary/concepts-a-m/#manjisthadi-kwath)
@@ -424,11 +424,11 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
-- [Bakuchi](/herb/bakuchi/) — *Psoralea corylifolia L. (syn. Cullen corylifolium)*
-- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
-- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
+- [Bakuchi](/herb/bakuchi/), *Psoralea corylifolia L. (syn. Cullen corylifolium)*
+- [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
+- [Udumbara](/herb/udumbara/), *Ficus racemosa Linn.*
 
 #### Often Found With
 
@@ -447,14 +447,14 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
-- [Kampillaka](/herb/kampillaka/) — *Mallotus philippensis (Lam.) Mull. Arg.*
-- [Mashaparni](/herb/mashaparni/) — *Teramnus labialis (L.f.) Spreng.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
+- [Kampillaka](/herb/kampillaka/), *Mallotus philippensis (Lam.) Mull. Arg.*
+- [Mashaparni](/herb/mashaparni/), *Teramnus labialis (L.f.) Spreng.*
 - [Pashanabheda](/herb/pashanabheda/)
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
-- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
+- [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
 - [Sarja](/herb/sarja/)
-- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Udumbara](/herb/udumbara/), *Ficus racemosa Linn.*
 
 #### Often Found With
 
@@ -479,15 +479,15 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Bhringaraja Svarasa](/formulation/bhringaraja-svarasa/)
 - [Chirabilva](/herb/chirabilva/)
 - [Dugdhika](/herb/dugdhika/)
-- [Gangeruki](/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Jivanti](/herb/jivanti/) — *Leptadenia reticulata (Retz.) Wight & Arn.*
+- [Gangeruki](/herb/gangeruki/), *Grewia tenax (Forssk.) Fiori*
+- [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.*
 - [Katphala](/herb/katphala/)
 - [Lakuca](/herb/lakuca/)
-- [Madhuka](/herb/madhuka/) — *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
-- [Murva](/herb/murva/) — *Marsdenia tenacissima (Roxb.) Moon*
+- [Madhuka](/herb/madhuka/), *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
+- [Murva](/herb/murva/), *Marsdenia tenacissima (Roxb.) Moon*
 - [Nagakesara](/herb/nagakesara/)
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
-- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
+- [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
 - [Sarja](/herb/sarja/)
 
 #### Often Found With
@@ -533,7 +533,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Shallaki](/herb/shallaki/) — *Boswellia serrata Roxb. ex Colebr.*
+- [Shallaki](/herb/shallaki/), *Boswellia serrata Roxb. ex Colebr.*
 
 #### Often Found With
 
@@ -556,22 +556,22 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Amra](/herb/amra/) — *Mangifera indica L.*
-- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
-- [Bilva Majja](/herb/bilva-majja/) — *Aegle marmelos (L.) Correa (fruit pulp)*
+- [Amra](/herb/amra/), *Mangifera indica L.*
+- [Asthishrinkhala](/herb/asthishrinkhala/), *Cissus quadrangularis L.*
+- [Bilva Majja](/herb/bilva-majja/), *Aegle marmelos (L.) Correa (fruit pulp)*
 - [Chakshushya](/herb/chakshushya/)
 - [Coriander Herb](/herb/coriander-herb/)
 - [Grinjana](/herb/grinjana/)
 - [Kamala Kesara](/herb/kamala-kesara/)
-- [Kantakari](/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
-- [Kushmanda](/herb/kushmanda/) — *Benincasa hispida (Thunb.) Cogn.*
+- [Kantakari](/herb/kantakari/), *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.*
 - [Madhuka Pushpa](/herb/madhuka-pushpa/)
 - [Madhukarkati](/herb/madhukarkati/)
 - [Matsyakshi](/herb/matsyakshi/)
-- [Palankya](/herb/palankya/) — *Spinacia oleracea L.*
+- [Palankya](/herb/palankya/), *Spinacia oleracea L.*
 - [Panasa](/herb/panasa/)
 - [Patola Patra](/herb/patola-patra/)
-- [Rasona Patra](/herb/rasona-patra/) — *Allium sativum L. (leaves/greens)*
+- [Rasona Patra](/herb/rasona-patra/), *Allium sativum L. (leaves/greens)*
 - [Shigru Patra](/herb/shigru-patra/)
 
 #### Often Found With
@@ -592,12 +592,12 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Laung](/herb/laung/) — *Syzygium aromaticum*
+- [Laung](/herb/laung/), *Syzygium aromaticum*
 - [Tamalpatra](/herb/tamalpatra/)
 - [Tejapatra](/herb/tejapatra/)
 - [Tilaparni](/herb/tilaparni/)
-- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Twak Cinnamon](/herb/twak-cinnamon/) — *Cinnamomum verum*
+- [Tulsi](/herb/tulsi/), *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Twak Cinnamon](/herb/twak-cinnamon/), *Cinnamomum verum*
 
 #### Often Found With
 
@@ -643,7 +643,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Chhatraka](/herb/chhatraka/) — *Agaricus campestris L.*
+- [Chhatraka](/herb/chhatraka/), *Agaricus campestris L.*
 
 #### Often Found With
 
@@ -659,7 +659,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Hapusa](/herb/hapusa/)
-- [Mishreya](/herb/mishreya/) — *Foeniculum vulgare Mill.*
+- [Mishreya](/herb/mishreya/), *Foeniculum vulgare Mill.*
 
 #### Often Found With
 
@@ -678,9 +678,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
 - [Talisapatra](/herb/talisapatra/)
-- [Yavani](/herb/yavani/) — *Trachyspermum ammi (L.) Sprague*
+- [Yavani](/herb/yavani/), *Trachyspermum ammi (L.) Sprague*
 
 #### Often Found With
 
@@ -699,7 +699,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Chandana](/herb/chandana/) — *Santalum album L.*
+- [Chandana](/herb/chandana/), *Santalum album L.*
 - [Himasagara Thailam](/formulation/himasagara-thailam/)
 - [Srikhandasava](/formulation/srikhandasava/)
 
@@ -729,24 +729,24 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Padmaka](/herb/padmaka/) — *Prunus cerasoides D. Don*
-- [Rakta Chandana](/herb/rakta-chandana/) — *Pterocarpus santalinus L.f.*
+- [Padmaka](/herb/padmaka/), *Prunus cerasoides D. Don*
+- [Rakta Chandana](/herb/rakta-chandana/), *Pterocarpus santalinus L.f.*
 - [Tanduliyaka](/herb/tanduliyaka/)
 - [Tila Patra](/herb/tila-patra/)
-- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
 - [Trapusha](/herb/trapusha/)
 - [Triphala Herbs](/herb/triphala-herbs/)
-- [Trivrit](/herb/trivrit/) — *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
-- [Udumbara](/herb/udumbara/) — *Ficus racemosa Linn.*
+- [Trivrit](/herb/trivrit/), *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
+- [Udumbara](/herb/udumbara/), *Ficus racemosa Linn.*
 - [Upodika](/herb/upodika/)
 - [Utingana](/herb/utingana/)
 - [Utpala](/herb/utpala/)
 - [Varahikanda](/herb/varahikanda/)
-- [Varshabhu](/herb/varshabhu/) — *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
+- [Varshabhu](/herb/varshabhu/), *Trianthema portulacastrum L. (primary identity); also associated with Boerhavia erecta L.*
 - [Varuna](/herb/varuna/)
-- [Vasa](/herb/vasa/) — *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
+- [Vasa](/herb/vasa/), *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
 - [Vidari](/herb/vidari/)
-- [Vidarikand](/herb/vidarikand/) — *Pueraria tuberosa (Willd.) DC.*
+- [Vidarikand](/herb/vidarikand/), *Pueraria tuberosa (Willd.) DC.*
 - [Vriddhadaru](/herb/vriddhadaru/)
 - [Vriddhi](/herb/vriddhi/)
 - [Vyaghranakhi](/herb/vyaghranakhi/)
@@ -771,8 +771,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Nyagrodha](/herb/nyagrodha/) — *Ficus benghalensis L.*
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
+- [Nyagrodha](/herb/nyagrodha/), *Ficus benghalensis L.*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
 
 #### Often Found With
 
@@ -790,7 +790,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Apamarga](/herb/apamarga/) — *Achyranthes aspera L.*
+- [Apamarga](/herb/apamarga/), *Achyranthes aspera L.*
 - [Karpasa Moola](/herb/karpasa-moola/)
 
 #### Often Found With
@@ -808,15 +808,15 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Amlaparni](/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Bhadra](/herb/bhadra/) — *Aerva lanata (L.) Juss. ex Schult.*
+- [Amlaparni](/herb/amlaparni/), *Oxalis corniculata L.*
+- [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.*
 - [Bhurja](/herb/bhurja/)
 - [Chirabilva](/herb/chirabilva/)
-- [Gangeruki](/herb/gangeruki/) — *Grewia tenax (Forssk.) Fiori*
-- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Lodhra](/herb/lodhra/) — *Symplocos racemosa Roxb.*
-- [Rakta Chandana](/herb/rakta-chandana/) — *Pterocarpus santalinus L.f.*
-- [Trivrit](/herb/trivrit/) — *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
+- [Gangeruki](/herb/gangeruki/), *Grewia tenax (Forssk.) Fiori*
+- [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
+- [Lodhra](/herb/lodhra/), *Symplocos racemosa Roxb.*
+- [Rakta Chandana](/herb/rakta-chandana/), *Pterocarpus santalinus L.f.*
+- [Trivrit](/herb/trivrit/), *Operculina turpethum (L.) Silva Manso (syn. Ipomoea turpethum R. Br.)*
 
 #### Often Found With
 
@@ -837,18 +837,18 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Agastya](/herb/agastya/) — *Sesbania grandiflora (L.) Pers.*
+- [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
 - [Badara](/herb/badara/)
-- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
+- [Bakula](/herb/bakula/), *Mimusops elengi L.*
 - [Bhurja](/herb/bhurja/)
-- [Brahmi](/herb/brahmi/) — *Bacopa monnieri*
+- [Brahmi](/herb/brahmi/), *Bacopa monnieri*
 - [Jalapippali](/glossary/concepts-a-m/#jalapippali)
 - [Jamun Herb](/glossary/concepts-a-m/#jamun-herb)
 - [Kokilaksha](/herb/kokilaksha/)
 - [Kumbhika](/herb/kumbhika/)
-- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Surana](/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
-- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Priyangu](/herb/priyangu/), *Callicarpa macrophylla Vahl.*
+- [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
+- [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
 - [Varuna](/herb/varuna/)
 
 #### Often Found With
@@ -882,9 +882,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Adhaki](/herb/adhaki/) — *Cajanus cajan (L.) Millsp.*
-- [Apamarga](/herb/apamarga/) — *Achyranthes aspera L.*
-- [Shyonaka](/herb/shyonaka/) — *Oroxylum indicum (L.) Kurz*
+- [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
+- [Apamarga](/herb/apamarga/), *Achyranthes aspera L.*
+- [Shyonaka](/herb/shyonaka/), *Oroxylum indicum (L.) Kurz*
 - [Simsapa](/herb/simsapa/)
 
 #### Often Found With
@@ -902,7 +902,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 - [Amra Haridra](/herb/amra-haridra/)
 - [Curcumin](/herb/curcumin/)
-- [Haridra](/herb/haridra/) — *Curcuma longa L.*
+- [Haridra](/herb/haridra/), *Curcuma longa L.*
 - [Haridra Khanda](/formulation/haridra-khanda/)
 
 #### Often Found With
@@ -926,7 +926,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Camphor](/herb/camphor/)
 - [Karpooradi Thailam](/formulation/karpooradi-thailam/)
 - [Karpura Camphor](/herb/karpura-camphor/)
-- [Shati](/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/herb/shati/), *Hedychium spicatum Buch.-Ham. ex Sm.*
 
 #### Often Found With
 
@@ -946,8 +946,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Mahanarayan](/herb/mahanarayan/) — *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
-- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Mahanarayan](/herb/mahanarayan/), *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
+- [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
 - [Talisapatra](/herb/talisapatra/)
 
 #### Often Found With
@@ -985,9 +985,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/), *Gmelina arborea Roxb.*
 - [Ghrita](/herb/ghrita/)
-- [Ksheera](/herb/ksheera/) — *Not applicable (animal product - Bos taurus milk primarily)*
+- [Ksheera](/herb/ksheera/), *Not applicable (animal product - Bos taurus milk primarily)*
 
 #### Often Found With
 
@@ -1002,21 +1002,21 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
 - [Atibala](/herb/atibala/)
-- [Brihati](/herb/brihati/) — *Solanum indicum L.*
+- [Brihati](/herb/brihati/), *Solanum indicum L.*
 - [Bruhati](/herb/brihati/)
 - [Coriander](/herb/coriander/)
 - [Cumin Herb](/herb/cumin-herb/)
-- [Indravaruni](/herb/indravaruni/) — *Citrullus colocynthis (L.) Schrad.*
+- [Indravaruni](/herb/indravaruni/), *Citrullus colocynthis (L.) Schrad.*
 - [Kakamachi](/herb/kakamachi/)
-- [Kantakari](/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
-- [Kasani](/herb/kasani/) — *Cichorium intybus L.*
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
+- [Kantakari](/herb/kantakari/), *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Kasani](/herb/kasani/), *Cichorium intybus L.*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Makoy](/herb/makoy/)
 - [Morning Glory](/herb/morning-glory/)
 - [Parpataka](/herb/parpataka/)
-- [Plaksha](/herb/plaksha/) — *Ficus lacor Buch.-Ham.*
+- [Plaksha](/herb/plaksha/), *Ficus lacor Buch.-Ham.*
 - [Tila Patra](/herb/tila-patra/)
 - [Vartaku](/herb/vartaku/)
 - [Vriddhadaru](/herb/vriddhadaru/)
@@ -1040,7 +1040,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Dhanyaka](/herb/dhanyaka/), *Coriandrum sativum L.*
 
 #### Often Found With
 
@@ -1105,7 +1105,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 - [Agnijara](/herb/agnijara/)
 - [Hajrul Yahood Bhasma](/herb/hajrul-yahood-bhasma/)
-- [Kankshi](/herb/kankshi/) — *Abrus precatorius L. (seed coat/outer coating)*
+- [Kankshi](/herb/kankshi/), *Abrus precatorius L. (seed coat/outer coating)*
 - [Kukkutanda Twak Bhasma](/herb/kukkutanda-twak-bhasma/)
 - [Mukta Pishti](/herb/mukta-pishti/)
 - [Pravala Pishti](/herb/pravala-pishti/)
@@ -1149,8 +1149,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Asthishrinkhala](/herb/asthishrinkhala/) — *Cissus quadrangularis L.*
-- [Surana](/herb/surana/) — *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
+- [Asthishrinkhala](/herb/asthishrinkhala/), *Cissus quadrangularis L.*
+- [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 
 #### Often Found With
 
@@ -1252,8 +1252,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Chakragaja](/herb/chakragaja/) — *Cassia tora L. ([Senna](/herb/senna/) tora) / Uncertain identification*
-- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
+- [Chakragaja](/herb/chakragaja/), *Cassia tora L. ([Senna](/herb/senna/) tora) / Uncertain identification*
+- [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
 - [Matsyakshi](/herb/matsyakshi/)
 
 #### Often Found With
@@ -1277,8 +1277,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Camphor](/herb/camphor/)
 - [Karpooradi Thailam](/formulation/karpooradi-thailam/)
 - [Karpura Camphor](/herb/karpura-camphor/)
-- [Mishreya](/herb/mishreya/) — *Foeniculum vulgare Mill.*
-- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Mishreya](/herb/mishreya/), *Foeniculum vulgare Mill.*
+- [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
 
 #### Often Found With
 
@@ -1302,7 +1302,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 - [Eladi Vati](/formulation/eladi-vati/)
 - [Himasagara Thailam](/formulation/himasagara-thailam/)
 - [Karpooradi Thailam](/formulation/karpooradi-thailam/)
-- [Shati](/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Shati](/herb/shati/), *Hedychium spicatum Buch.-Ham. ex Sm.*
 
 #### Often Found With
 
@@ -1323,13 +1323,13 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Coriander](/herb/coriander/)
-- [Dhanyaka](/herb/dhanyaka/) — *Coriandrum sativum L.*
+- [Dhanyaka](/herb/dhanyaka/), *Coriandrum sativum L.*
 - [Kanthasudharak Vati](/formulation/kanthasudharak-vati/)
 - [Khadiradi Vati](/formulation/khadiradi-vati/)
-- [Mahanarayan](/herb/mahanarayan/) — *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
-- [Twak Cinnamon](/herb/twak-cinnamon/) — *Cinnamomum verum*
+- [Mahanarayan](/herb/mahanarayan/), *Compound medicated oil (40+ herbs in [sesame oil](/glossary/concepts-m-y/#tila-taila) base)*
+- [Twak Cinnamon](/herb/twak-cinnamon/), *Cinnamomum verum*
 
 #### Often Found With
 
@@ -1352,7 +1352,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 - [Coconut Oil](/glossary/concepts-a-m/#coconut-oil)
 - [Coconut Oil Narikela Taila](/formulation/coconut-oil-narikela-taila/)
-- [Narikela](/herb/narikela/) — *Cocos nucifera L.*
+- [Narikela](/herb/narikela/), *Cocos nucifera L.*
 
 #### Often Found With
 
@@ -1371,7 +1371,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Coconut Oil Narikela Taila](/formulation/coconut-oil-narikela-taila/)
-- [Narikela](/herb/narikela/) — *Cocos nucifera L.*
+- [Narikela](/herb/narikela/), *Cocos nucifera L.*
 
 #### Often Found With
 
@@ -1389,7 +1389,7 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
+- [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
 
 #### Often Found With
 
@@ -1424,9 +1424,9 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Ghrita](/herb/ghrita/)
-- [Kakoli](/herb/kakoli/) — *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Parijata](/herb/parijata/) — *Nyctanthes arbor-tristis L.*
+- [Kakoli](/herb/kakoli/), *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
+- [Parijata](/herb/parijata/), *Nyctanthes arbor-tristis L.*
 
 #### Often Found With
 
@@ -1447,11 +1447,11 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Brihati](/herb/brihati/) — *Solanum indicum L.*
+- [Brihati](/herb/brihati/), *Solanum indicum L.*
 - [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
 - [Bruhati](/herb/brihati/)
-- [Kantakari](/herb/kantakari/) — *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
-- [Vyaghri Haritaki](/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Kantakari](/herb/kantakari/), *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
+- [Vyaghri Haritaki](/herb/vyaghri-haritaki/), *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
 
 #### Often Found With
 
@@ -1473,14 +1473,14 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 - [Ajamoda Arka](/formulation/ajamoda-arka/)
 - [Ajmoda](/herb/ajmoda/)
-- [Ajwain](/herb/ajwain/) — *Trachyspermum ammi*
+- [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
 - [Ajwain Herb](/herb/ajwain-herb/)
 - [Bhutika](/herb/bhutika/)
-- [Kalajaji](/herb/kalajaji/) — *Nigella sativa L.*
-- [Kalonji](/herb/kalonji/) — *Nigella sativa*
+- [Kalajaji](/herb/kalajaji/), *Nigella sativa L.*
+- [Kalonji](/herb/kalonji/), *Nigella sativa*
 - [Krishna Jeeraka](/herb/krishna-jeeraka/)
 - [Parnayavani](/herb/parnayavani/)
-- [Yavani](/herb/yavani/) — *Trachyspermum ammi (L.) Sprague*
+- [Yavani](/herb/yavani/), *Trachyspermum ammi (L.) Sprague*
 
 #### Often Found With
 
@@ -1501,8 +1501,8 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Mudgaparni](/herb/mudgaparni/) — *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
-- [Pudina](/herb/pudina/) — *Mentha spicata*
+- [Mudgaparni](/herb/mudgaparni/), *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)*
+- [Pudina](/herb/pudina/), *Mentha spicata*
 
 #### Often Found With
 

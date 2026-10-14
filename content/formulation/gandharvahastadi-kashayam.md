@@ -85,7 +85,7 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 ### Synergistic Combinations
 
-- Eranda Taila (castor oil — classical anupana)
+- Eranda Taila (castor oil, classical anupana)
 - Dashamula Kashayam
 - Rasnadi Kashayam
 - [Guggulu](/formulation/guggulu/) preparations

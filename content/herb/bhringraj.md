@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 **Standard Dosage:** 3-5g powder twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily; Taila for external scalp application liberally
 
-**Bioavailability:** Wedelolactone shows moderate oral bioavailability (~30%) with significant hepatic first-pass metabolism. Coumestans are well absorbed from the GI tract. Eclalbasaponins have low oral bioavailability (<15%)—lipid formulations recommended. Phytosomes of Bhringraj extract show 3-4x improved bioavailability of wedelolactone. Fresh juice (Swarasa) provides highest bioavailability of water-soluble actives.
+**Bioavailability:** Wedelolactone shows moderate oral bioavailability (~30%) with significant hepatic first-pass metabolism. Coumestans are well absorbed from the GI tract. Eclalbasaponins have low oral bioavailability (<15%), lipid formulations recommended. Phytosomes of Bhringraj extract show 3-4x improved bioavailability of wedelolactone. Fresh juice (Swarasa) provides highest bioavailability of water-soluble actives.
 
 **Optimal Timing:** Morning on empty stomach for liver health; Taila application 30 minutes before hair wash; juice early morning for general rejuvenation
 

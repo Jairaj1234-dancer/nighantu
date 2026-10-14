@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 **Standard Dosage:** 3-10 g tuber powder per day; 500-1000 mg extract capsule twice daily; 5-10 g avaleha with buttermilk; traditionally processed (Shodhita) form only
 
-**Bioavailability:** Glucomannan (40-60% of dry weight) is a soluble dietary fiber — not systemically absorbed but has significant local GI effects (prebiotic, lipid-lowering, satiety-promoting). [Diosgenin](/glossary/compounds-d-g/#diosgenin) and other sapogenins show moderate oral bioavailability (25-35%). Calcium oxalate crystals (raphides) present in raw tuber cause severe irritation — Shodhana (processing with lime water/tamarind) is essential. Processed tuber shows improved digestibility.
+**Bioavailability:** Glucomannan (40-60% of dry weight) is a soluble dietary fiber, not systemically absorbed but has significant local GI effects (prebiotic, lipid-lowering, satiety-promoting). [Diosgenin](/glossary/compounds-d-g/#diosgenin) and other sapogenins show moderate oral bioavailability (25-35%). Calcium oxalate crystals (raphides) present in raw tuber cause severe irritation, Shodhana (processing with lime water/tamarind) is essential. Processed tuber shows improved digestibility.
 
 **Optimal Timing:** After meals with buttermilk for Arsha (hemorrhoid) treatment; with warm water for digestive conditions
 
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 **Shelf Life:** 24 months for Shodhita churna; 36 months for extract capsules; 12 months for avaleha; 18 months for chips
 
-**Storage:** Store below 25 deg C in airtight containers. Powder is moderately hygroscopic — RH <55%. Protect from insect infestation. Avaleha in glass jars. Raw tuber in cool, dry, ventilated space.
+**Storage:** Store below 25 deg C in airtight containers. Powder is moderately hygroscopic, RH <55%. Protect from insect infestation. Avaleha in glass jars. Raw tuber in cool, dry, ventilated space.
 
 **Marker Compounds:** Glucomannan, Diosgenin, Beta-sitosterol, Stigmasterol, Betulinic acid, Calcium oxalate (must be below safety limit post-processing)
 
@@ -104,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Haritaki](/herb/haritaki/) (Suranaka Vati — classical formulation for hemorrhoids)
+- [Haritaki](/herb/haritaki/) (Suranaka Vati, classical formulation for hemorrhoids)
 - Chitraka (digestive fire enhancement in Arsha/hemorrhoid formulations)
 - [Pippali](/herb/pippali/) (bioavailability enhancer and Deepana combination)
 - [Takra](/herb/takra/)/buttermilk (traditional vehicle for Arsha treatment)

@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 **Optimal Timing:** With lunch; can be used at all meals except dinner in some texts
 
-**Standardized Extract:** N/A — prepared from curd by churning and diluting
+**Standardized Extract:** N/A, prepared from curd by churning and diluting
 
 **Shelf Life:** 6–12 hours fresh; consume same day
 

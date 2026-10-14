@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 
 ### Extraction Methods
 
-- Hydroalcoholic extraction (60-70% ethanol) — industry standard
+- Hydroalcoholic extraction (60-70% ethanol), industry standard
 - Water decoction (traditional)
 - Methanol extraction for xanthone-enriched fractions
 - Supercritical CO2 for selective secoiridoid extraction

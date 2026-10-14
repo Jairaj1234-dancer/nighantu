@@ -72,7 +72,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 **Quality Parameters:** Total solids, moisture content (<10%), curcumin content by HPLC (NLT 0.5%), total curcuminoids, piperine content, total sugar, total fat, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Warm milk (classically prescribed — enhances absorption)
+**Vehicle (Anupana):** Warm milk (classically prescribed, enhances absorption)
 
 ### Synergistic Combinations
 

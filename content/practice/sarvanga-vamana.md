@@ -32,12 +32,12 @@ The record cites Caraka Saṃhitā Sūtrasthāna 15, the Upakalpanīya Adhyāya,
 
 The record describes three stages, in these terms:
 
-- **Pūrva-karma** — snehapāna for five to seven days, followed by whole-body abhyaṅga with svedana.
-- **Pradhāna-karma** — a vamanopaga drink, administered with samya-yoga monitoring, meaning the practitioner watches for the signs that mark a correctly completed procedure.
-- **Paścāt-karma** — saṃsarjana-krama, a graded reintroduction of food, over seven days.
+- **Pūrva-karma**, snehapāna for five to seven days, followed by whole-body abhyaṅga with svedana.
+- **Pradhāna-karma**, a vamanopaga drink, administered with samya-yoga monitoring, meaning the practitioner watches for the signs that mark a correctly completed procedure.
+- **Paścāt-karma**, saṃsarjana-krama, a graded reintroduction of food, over seven days.
 
 That is the whole of what the record specifies. It names no drug, no quantity, no temperature and no endpoint criterion.
 
 ## Why it needs a vaidya
 
-The judgement that makes this procedure safe is not written down in the record at all: what to give, how much, and above all when to stop. Caraka's own framing in Sūtrasthāna 15 is institutional rather than domestic — the chapter is about assembling a facility, staff and supplies before starting, and about recognising under- and over-purification once you have. This is a procedure carried out on a patient in a clinical setting by a qualified vaidya, and there is no home version of it.
+The judgement that makes this procedure safe is not written down in the record at all: what to give, how much, and above all when to stop. Caraka's own framing in Sūtrasthāna 15 is institutional rather than domestic, the chapter is about assembling a facility, staff and supplies before starting, and about recognising under- and over-purification once you have. This is a procedure carried out on a patient in a clinical setting by a qualified vaidya, and there is no home version of it.

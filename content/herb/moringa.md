@@ -118,7 +118,7 @@ Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
 
 ## Safety, contraindications and cautions
 
-- Pregnancy (root bark — abortifacient)
+- Pregnancy (root bark, abortifacient)
 - Thyroid conditions (goitrogenic at high doses)
 - May lower blood pressure
 

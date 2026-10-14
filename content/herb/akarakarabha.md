@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (medicated oil — external), Gutika (pills), Manjan (tooth powder)
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (medicated oil, external), Gutika (pills), Manjan (tooth powder)
 
 **Standard Dosage:** 500mg-2g powder twice daily; 250-500mg extract capsule; external oil as needed for local application
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 **Shelf Life:** 2 years (powder); 3 years (tablets/capsules); 2 years (medicated oil)
 
-**Storage:** Airtight, moisture-proof containers. Store below 25°C. Protect from light. Roots store better whole — powder just before use.
+**Storage:** Airtight, moisture-proof containers. Store below 25°C. Protect from light. Roots store better whole, powder just before use.
 
 **Marker Compounds:** Pellitorine, Anacyclin, N-isobutyldienediynamide, Hydrocarolin, Inulin
 
@@ -103,7 +103,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 - Hydroalcoholic extraction (70:30 ethanol-water) for alkylamide enrichment
 - n-Hexane extraction for lipophilic alkylamides
 - Ethyl acetate fractionation for pellitorine isolation
-- Aqueous decoction (limited — misses lipophilic actives)
+- Aqueous decoction (limited, misses lipophilic actives)
 
 ### Synergistic Combinations
 

@@ -25,41 +25,41 @@ srcRel: "_Hub/Pharmacology/Expectorant.md"
 
 - [Ajwain Herb](/herb/ajwain-herb/)
 - [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
-- [Chandrashura](/herb/chandrashura/) — *Lepidium sativum L.*
-- [Chitrakaharitaki](/herb/chitrakaharitaki/) — *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
+- [Chitrakaharitaki](/herb/chitrakaharitaki/), *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Eucalyptus Herb](/herb/eucalyptus-herb/)
-- [Gajapippali](/herb/gajapippali/) — *Scindapsus officinalis (Roxb.) Schott*
-- [Hingu](/herb/hingu/) — *Ferula asafoetida*
+- [Gajapippali](/herb/gajapippali/), *Scindapsus officinalis (Roxb.) Schott*
+- [Hingu](/herb/hingu/), *Ferula asafoetida*
 - [Hinguleshwar Ras](/herb/hinguleshwar-ras/)
-- [Hingupatri](/herb/hingupatri/) — *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
-- [Kankola](/herb/kankola/) — *Piper cubeba L.f.*
+- [Hingupatri](/herb/hingupatri/), *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
+- [Kankola](/herb/kankola/), *Piper cubeba L.f.*
 - [Kanthasudharak Vati](/formulation/kanthasudharak-vati/)
-- [Kharjura](/herb/kharjura/) — *Phoenix dactylifera L.*
-- [Laung](/herb/laung/) — *Syzygium aromaticum*
+- [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
+- [Laung](/herb/laung/), *Syzygium aromaticum*
 - [Lavangadi Vati](/formulation/lavangadi-vati/)
-- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Madanaphala](/herb/madanaphala/), *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
 - [Mahalakshmi Vilas Rasa](/herb/mahalakshmi-vilas-rasa/)
 - [Parnayavani](/herb/parnayavani/)
 - [Pippalyasava](/formulation/pippalyasava/)
-- [Pudina](/herb/pudina/) — *Mentha spicata*
-- [Pushkarmool](/herb/pushkarmool/) — *Inula racemosa Hook. f.*
-- [Shati](/herb/shati/) — *Hedychium spicatum Buch.-Ham. ex Sm.*
+- [Pudina](/herb/pudina/), *Mentha spicata*
+- [Pushkarmool](/herb/pushkarmool/), *Inula racemosa Hook. f.*
+- [Shati](/herb/shati/), *Hedychium spicatum Buch.-Ham. ex Sm.*
 - [Sitopaladi Churna](/formulation/sitopaladi-churna/)
 - [Souvarchala Lavana](/herb/souvarchala-lavana/)
-- [Talisa](/herb/talisa/) — *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
+- [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*
 - [Talisadi Churna](/formulation/talisadi-churna/)
 - [Talisapatra](/herb/talisapatra/)
 - [Tankana Bhasma](/herb/tankana-bhasma/)
-- [Trikatu](/herb/trikatu/) — *Compound: Piper longum + P. nigrum + [Zingiber](/herb/zingiber/) officinale*
-- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
-- [Vanapsa](/herb/vanapsa/) — *Viola odorata L.*
-- [Vasa](/herb/vasa/) — *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
+- [Trikatu](/herb/trikatu/), *Compound: Piper longum + P. nigrum + [Zingiber](/herb/zingiber/) officinale*
+- [Tulsi](/herb/tulsi/), *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Vanapsa](/herb/vanapsa/), *Viola odorata L.*
+- [Vasa](/herb/vasa/), *Adhatoda vasica Nees (syn. Justicia adhatoda L.)*
 - [Vasa Avaleha](/formulation/vasa-avaleha/)
 - [Vasaka](/herb/vasaka/)
 - [Vida Lavana](/herb/vida-lavana/)
-- [Vyaghri Haritaki](/herb/vyaghri-haritaki/) — *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
+- [Vyaghri Haritaki](/herb/vyaghri-haritaki/), *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs*
 - [Yashtimadhu](/herb/yashtimadhu/)
-- [Yavani](/herb/yavani/) — *Trachyspermum ammi (L.) Sprague*
+- [Yavani](/herb/yavani/), *Trachyspermum ammi (L.) Sprague*
 
 ## Related Body Systems
 

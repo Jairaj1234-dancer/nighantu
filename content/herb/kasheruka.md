@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 
 **Shelf Life:** 18 months for dried tuber powder; 24 months for capsules; fresh juice consumed within 6 hours
 
-**Storage:** Store dried material in airtight, moisture-proof containers at 15-30°C. Susceptible to insect infestation — include sachets of food-grade desiccant and monitor regularly.
+**Storage:** Store dried material in airtight, moisture-proof containers at 15-30°C. Susceptible to insect infestation, include sachets of food-grade desiccant and monitor regularly.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Sesquiterpene lactones, Phenolic acids, [Flavonoids](/reference/flavonoids/)
 

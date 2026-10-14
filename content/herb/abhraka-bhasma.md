@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 **Optimal Timing:** With morning/evening meals; with specific anupana
 
-**Standardized Extract:** Sahasra Puti Abhraka Bhasma (1000-Puta calcination) — most valued
+**Standardized Extract:** Sahasra Puti Abhraka Bhasma (1000-Puta calcination), most valued
 
 **Shelf Life:** Indefinite if properly prepared and stored (no expiry for bhasmas per AFI)
 

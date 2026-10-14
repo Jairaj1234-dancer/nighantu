@@ -69,11 +69,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 **Standard Dosage:** 60–125 mg twice daily (Pishti); Bhasma: 30–60 mg
 
-**Bioavailability:** Excellent; nacre calcium carbonate (aragonite) with protein matrix — 3× more bioavailable than limestone calcium
+**Bioavailability:** Excellent; nacre calcium carbonate (aragonite) with protein matrix, 3× more bioavailable than limestone calcium
 
 **Optimal Timing:** With honey, Malai, or Gulkand; best taken at bedtime for calming effect
 
-**Standardized Extract:** Pearl pishti — cold-processed natural pearl preparation
+**Standardized Extract:** Pearl pishti, cold-processed natural pearl preparation
 
 **Shelf Life:** Indefinite
 

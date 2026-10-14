@@ -40,13 +40,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kusumbha/meta-analysis.md"
 
 **Standard Dosage:** 5-10 mL safflower oil daily; 2-4 g flower powder; 30-50 mL flower decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Hydroxysafflor yellow A (HSYA) — primary flavonoid — has low oral bioavailability (~5-10%) due to poor membrane permeability and rapid hepatic metabolism. Linoleic acid in seed oil is well-absorbed (>80%). Carthamin (red pigment) has limited systemic absorption but good topical activity. Liposomal encapsulation of HSYA improves oral bioavailability by 5-fold. Sublingual or nasal delivery being explored for HSYA in cardiovascular applications.
+**Bioavailability:** Hydroxysafflor yellow A (HSYA), primary flavonoid, has low oral bioavailability (~5-10%) due to poor membrane permeability and rapid hepatic metabolism. Linoleic acid in seed oil is well-absorbed (>80%). Carthamin (red pigment) has limited systemic absorption but good topical activity. Liposomal encapsulation of HSYA improves oral bioavailability by 5-fold. Sublingual or nasal delivery being explored for HSYA in cardiovascular applications.
 
 **Optimal Timing:** Oil: with meals for cardiovascular and metabolic benefit; flower preparations: after meals; decoction for emmenagogue effect: during relevant menstrual phase under guidance
 
 **Standardized Extract:** Flower extract standardized to minimum 2% HSYA and 1% carthamin by HPLC; seed oil standardized to minimum 70% linoleic acid (high-linoleic variety) or 70% oleic acid (high-oleic variety)
 
-**Shelf Life:** 12 months for safflower oil (polyunsaturated — oxidation-prone); 18 months for flower powder; 24 months for capsules; 6 months for fresh oil without [antioxidant](/reference/antioxidant/)
+**Shelf Life:** 12 months for safflower oil (polyunsaturated, oxidation-prone); 18 months for flower powder; 24 months for capsules; 6 months for fresh oil without [antioxidant](/reference/antioxidant/)
 
 **Storage:** Safflower oil in dark glass bottles, refrigerated (2-8°C) after opening. Flower powder in airtight, light-protected containers at 15-25°C. Nitrogen-flushed packaging extends oil stability.
 

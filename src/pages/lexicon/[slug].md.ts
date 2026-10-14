@@ -75,7 +75,7 @@ export const GET: APIRoute = ({ props }) => {
   if ((r.classical ?? []).length) {
     out.push('## The classical passages', '');
     for (const c of r.classical) {
-      out.push(`### ${c.text}${address(c) ? ` ${address(c)}` : ''}${c.checked ? ` — ${c.checked}` : ''}`, '');
+      out.push(`### ${c.text}${address(c) ? ` ${address(c)}` : ''}${c.checked ? `, ${c.checked}` : ''}`, '');
       if (c.quote) {
         out.push(`> ${String(c.quote).replace(/\n/g, '\n> ')}`, '',
           `${c.translator ? `tr. ${c.translator}` : 'Sanskrit mūla'}${c.sourceUrl ? ` · ${c.sourceUrl}` : ''}`, '');

@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 **Optimal Timing:** With honey or Gulkand
 
-**Standardized Extract:** Serpentine stone pishti — triturated with rose water
+**Standardized Extract:** Serpentine stone pishti, triturated with rose water
 
 **Shelf Life:** Indefinite
 

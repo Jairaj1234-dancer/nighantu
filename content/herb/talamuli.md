@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 
 **Shelf Life:** 12 months for swarasa (refrigerated with preservative); 24 months for churna; 36 months for standardized extract capsules; 12 months for Ghrita
 
-**Storage:** Swarasa: refrigerate 2-8 deg C. Churna: below 25 deg C in airtight containers with desiccant — hygroscopic. Capsules: standard storage below 25 deg C. Ghrita: glass jars at room temperature, protect from light.
+**Storage:** Swarasa: refrigerate 2-8 deg C. Churna: below 25 deg C in airtight containers with desiccant, hygroscopic. Capsules: standard storage below 25 deg C. Ghrita: glass jars at room temperature, protect from light.
 
 **Marker Compounds:** Curculigoside, Curculigoside B, Curculigosaponin C, Curculigine, Diosgenin, Yuccagenin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 ### Synergistic Combinations
 
 - [Shatavari](/herb/shatavari/) (female reproductive tonic synergy)
-- [Vidari](/herb/vidari/) (Brihana — nourishing and anabolic combination)
+- [Vidari](/herb/vidari/) (Brihana, nourishing and anabolic combination)
 - [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and Vajikarana synergy)
 - [Shvet-Musli](/herb/shvet-musli/) (comprehensive Vajikarana formulation)
 - [Yashtimadhu](/herb/yashtimadhu/) (mucosal protective and cooling combination)

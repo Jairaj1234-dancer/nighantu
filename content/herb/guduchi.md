@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Guduchi/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Same as [Giloy](/herb/guduchi/) — alternate name used in classical texts. See [Giloy](/herb/guduchi/) entry.
+Same as [Giloy](/herb/guduchi/), alternate name used in classical texts. See [Giloy](/herb/guduchi/) entry.
 
 ## Where is it described in the classical texts?
 

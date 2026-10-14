@@ -77,7 +77,7 @@ const hasAnyStatement = Boolean(rec && (
                 <th scope="row">Pregnancy</th>
                 <td>
                   <strong>{STATUS_LABEL[rec.pregnancy.status] ?? rec.pregnancy.status}</strong>
-                  {rec.pregnancy.note && <> — {rec.pregnancy.note}</>}
+                  {rec.pregnancy.note && <>, {rec.pregnancy.note}</>}
                   {cite(rec.pregnancy.sourceIds).map((s: any) => (
                     <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
                   ))}
@@ -89,7 +89,7 @@ const hasAnyStatement = Boolean(rec && (
                 <th scope="row">Breastfeeding</th>
                 <td>
                   <strong>{STATUS_LABEL[rec.lactation.status] ?? rec.lactation.status}</strong>
-                  {rec.lactation.note && <> — {rec.lactation.note}</>}
+                  {rec.lactation.note && <>, {rec.lactation.note}</>}
                   {cite(rec.lactation.sourceIds).map((s: any) => (
                     <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
                   ))}
@@ -122,7 +122,7 @@ const hasAnyStatement = Boolean(rec && (
               <span class={`sev sev-${c.severity}`}>{SEVERITY_LABEL[c.severity] ?? c.severity}</span>
               {c.scope === 'class-level' && <span class="scope">class-level</span>}
               {' '}<strong>{c.condition}</strong>
-              {c.note && <> — {c.note}</>}
+              {c.note && <>, {c.note}</>}
               {cite(c.sourceIds).map((s: any) => (
                 <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
               ))}
@@ -140,7 +140,7 @@ const hasAnyStatement = Boolean(rec && (
             <li>
               <span class={`sev sev-${x.severity}`}>{SEVERITY_LABEL[x.severity] ?? x.severity}</span>
               {' '}<strong>{x.drugClass}</strong>
-              {x.mechanism && <> — {x.mechanism}</>}
+              {x.mechanism && <>, {x.mechanism}</>}
               {x.note && <> {x.note}</>}
               {cite(x.sourceIds).map((s: any) => (
                 <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
@@ -159,7 +159,7 @@ const hasAnyStatement = Boolean(rec && (
             <li>
               <strong>{a.effect}</strong>
               {a.frequency && <> ({a.frequency})</>}
-              {a.note && <> — {a.note}</>}
+              {a.note && <>, {a.note}</>}
               {cite(a.sourceIds).map((s: any) => (
                 <> <a class="src" href={s.url} rel="noopener">{s.title}</a></>
               ))}

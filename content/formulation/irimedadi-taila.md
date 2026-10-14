@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, catechin content from Khadira by HPLC, total tannins, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits (critical for oral use), heavy metals
 
-**Vehicle (Anupana):** Not applicable — used for Gandusha (oil pulling) or local gum application. Do not swallow.
+**Vehicle (Anupana):** Not applicable, used for Gandusha (oil pulling) or local gum application. Do not swallow.
 
 ### Synergistic Combinations
 

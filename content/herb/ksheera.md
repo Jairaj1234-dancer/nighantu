@@ -74,11 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 **Optimal Timing:** Warm milk at bedtime for sleep and Vata pacification; Ksheera Paka morning or evening depending on herb used; Ksheera Basti as per Panchakarma schedule
 
-**Standardized Extract:** Not applicable as a standardized extract — quality parameters: fat content 3.5-6%, SNF >8.5%, total protein >3.2%, somatic cell count <200,000/mL; for Ghee: moisture <0.5%, free fatty acid <0.3%
+**Standardized Extract:** Not applicable as a standardized extract, quality parameters: fat content 3.5-6%, SNF >8.5%, total protein >3.2%, somatic cell count <200,000/mL; for Ghee: moisture <0.5%, free fatty acid <0.3%
 
 **Shelf Life:** Fresh milk: 2-5 days (refrigerated); UHT milk: 6-9 months; Ghee: 12-24 months; Ksheera Paka: consume same day; Takra: 24 hours
 
-**Storage:** Fresh milk at 2-8°C. Ghee in airtight containers at room temperature (15-30°C) — does not require refrigeration. Ksheera Paka cannot be stored; prepare fresh for each use.
+**Storage:** Fresh milk at 2-8°C. Ghee in airtight containers at room temperature (15-30°C), does not require refrigeration. Ksheera Paka cannot be stored; prepare fresh for each use.
 
 **Marker Compounds:** Casein (alpha-s1, alpha-s2, beta, kappa), Beta-lactoglobulin, Alpha-lactalbumin, Lactoferrin, Conjugated linoleic acid (CLA), Butyric acid (in ghee), Calcium, Phosphorus
 

@@ -23,39 +23,39 @@ srcRel: "_Hub/Compounds/Ursolic-acid.md"
 
 ## Ayurveda
 
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Badara](/herb/badara/)
-- [Bakula](/herb/bakula/) — *Mimusops elengi L.*
-- [Bharangi](/herb/bharangi/) — *Clerodendrum serratum (L.) Moon*
+- [Bakula](/herb/bakula/), *Mimusops elengi L.*
+- [Bharangi](/herb/bharangi/), *Clerodendrum serratum (L.) Moon*
 - [Chirayata](/herb/chirayata/)
-- [Dashamoola](/herb/dashamoola/) — *Compound: 10 roots (5 large trees + 5 small plants)*
+- [Dashamoola](/herb/dashamoola/), *Compound: 10 roots (5 large trees + 5 small plants)*
 - [Dashamularishta](/formulation/dashamularishta/)
 - [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
-- [Dhamasa](/herb/dhamasa/) — *Fagonia cretica L. / Fagonia arabica L.*
-- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
+- [Dhamasa](/herb/dhamasa/), *Fagonia cretica L. / Fagonia arabica L.*
+- [Gambhari](/herb/gambhari/), *Gmelina arborea Roxb.*
 - [Granthiparni](/herb/granthiparni/)
 - [Holy Basil](/herb/holy-basil/)
 - [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
-- [Kadamba](/herb/kadamba/) — *Neolamarckia cadamba (Roxb.) Bosser*
+- [Kadamba](/herb/kadamba/), *Neolamarckia cadamba (Roxb.) Bosser*
 - [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
 - [Kiratatikta](/herb/kiratatikta/)
-- [Lavali](/herb/lavali/) — *Meyna spinosa Roxb. ex Link*
-- [Madanaphala](/herb/madanaphala/) — *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
-- [Padmaka](/herb/padmaka/) — *Prunus cerasoides D. Don*
+- [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
+- [Madanaphala](/herb/madanaphala/), *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
+- [Padmaka](/herb/padmaka/), *Prunus cerasoides D. Don*
 - [Parnayavani](/herb/parnayavani/)
 - [Parpataka](/herb/parpataka/)
 - [Patola](/herb/patola/)
-- [Prasarini](/herb/prasarini/) — *Paederia foetida L.*
-- [Priyangu](/herb/priyangu/) — *Callicarpa macrophylla Vahl.*
-- [Rishabhaka](/herb/rishabhaka/) — *Manilkara hexandra (Roxb.) Dubard*
-- [Sala](/herb/sala/) — *Shorea robusta Gaertn.f.*
+- [Prasarini](/herb/prasarini/), *Paederia foetida L.*
+- [Priyangu](/herb/priyangu/), *Callicarpa macrophylla Vahl.*
+- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
+- [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
 - [Sarja](/herb/sarja/)
 - [Sarpaksi](/herb/sarpaksi/)
-- [Shrigataka](/herb/shrigataka/) — *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
+- [Shrigataka](/herb/shrigataka/), *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
 - [Suryavarta](/herb/suryavarta/)
 - [Tilaparni](/herb/tilaparni/)
-- [Tinduka](/herb/tinduka/) — *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
-- [Tulsi](/herb/tulsi/) — *Ocimum tenuiflorum (syn. O. sanctum)*
+- [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
+- [Tulsi](/herb/tulsi/), *Ocimum tenuiflorum (syn. O. sanctum)*
 - [Utingana](/herb/utingana/)
 - [Vyaghranakhi](/herb/vyaghranakhi/)
 

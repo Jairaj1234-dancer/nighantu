@@ -65,9 +65,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 **Dosage Forms:** Swarasa (fresh juice), Churna (powder), Kashayam (decoction), Lepa (paste), Capsule
 
-**Standard Dosage:** 5-10ml fresh juice twice daily; 1-3g powder; 30-50ml decoction; external paste as needed. Use in moderate doses—contains oxalic acid.
+**Standard Dosage:** 5-10ml fresh juice twice daily; 1-3g powder; 30-50ml decoction; external paste as needed. Use in moderate doses, contains oxalic acid.
 
-**Bioavailability:** Oxalis corniculata—contains oxalic acid which can affect mineral (calcium, iron) bioavailability negatively through chelation. Vitamin C content enhances iron absorption from co-consumed foods. Flavonoids (vitexin, isovitexin) show moderate oral bioavailability (20-30%). Fresh juice provides highest bioavailability of water-soluble constituents. CAUTION: High oxalate content contraindicates use in renal calculi patients.
+**Bioavailability:** Oxalis corniculata, contains oxalic acid which can affect mineral (calcium, iron) bioavailability negatively through chelation. Vitamin C content enhances iron absorption from co-consumed foods. Flavonoids (vitexin, isovitexin) show moderate oral bioavailability (20-30%). Fresh juice provides highest bioavailability of water-soluble constituents. CAUTION: High oxalate content contraindicates use in renal calculi patients.
 
 **Optimal Timing:** With meals to buffer acidity; fresh juice mid-morning; external paste as needed for skin conditions; avoid on completely empty stomach
 

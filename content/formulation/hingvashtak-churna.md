@@ -75,7 +75,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
-**Storage:** Store in airtight containers in a cool, dry place. Strong aromatic — sealed packaging essential. Temperature not exceeding 30°C. Use desiccant (salt component is hygroscopic).
+**Storage:** Store in airtight containers in a cool, dry place. Strong aromatic, sealed packaging essential. Temperature not exceeding 30°C. Use desiccant (salt component is hygroscopic).
 
 **Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, [Thymol](/glossary/compounds-t-z/#thymol) (from [Ajmoda](/herb/ajmoda/))
 

@@ -65,7 +65,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. This replaces a previously stated 125-250 mg, which carried no source. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
 
-**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine — particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
+**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine, particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
 
 **Optimal Timing:** Before meals or after meals as directed, typically twice daily
 
@@ -75,7 +75,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Marker Compounds:** Picroside I, Picroside II (Kutkin), HgS (cinnabar form in Kajjali), Gallic acid (from [Triphala](/herb/triphala/)), Z-Guggulsterone, E-Guggulsterone
 
-**Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/herb/loha-bhasma/) quality (Bhasma pariksha — rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
+**Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/herb/loha-bhasma/) quality (Bhasma pariksha, rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
 
 **Vehicle (Anupana):** Warm water, buttermilk, or as directed based on specific condition
 

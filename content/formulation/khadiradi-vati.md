@@ -71,7 +71,7 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Quality Parameters:** Weight variation (±5%), hardness (moderate for buccal use), dissolution time (5-15 min buccal), moisture (<6%), catechin content from [Khadira](/herb/khadira/) by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits (oral product), heavy metals
 
-**Vehicle (Anupana):** Not applicable — sucked directly in mouth. Do not chew or swallow whole.
+**Vehicle (Anupana):** Not applicable, sucked directly in mouth. Do not chew or swallow whole.
 
 ### Synergistic Combinations
 

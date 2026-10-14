@@ -54,11 +54,11 @@ export const GET: APIRoute = ({ props }) => {
     if (rec.insufficientData) {
       safetyLines.push(`No authoritative safety data was found for this entry. ${rec.insufficientReason}`, '');
     }
-    if (rec.pregnancy) safetyLines.push(`- **Pregnancy:** ${rec.pregnancy.status}${rec.pregnancy.note ? ` — ${rec.pregnancy.note}` : ''}${sourceTitle(rec.pregnancy.sourceIds)}`);
-    if (rec.lactation) safetyLines.push(`- **Breastfeeding:** ${rec.lactation.status}${rec.lactation.note ? ` — ${rec.lactation.note}` : ''}${sourceTitle(rec.lactation.sourceIds)}`);
+    if (rec.pregnancy) safetyLines.push(`- **Pregnancy:** ${rec.pregnancy.status}${rec.pregnancy.note ? `, ${rec.pregnancy.note}` : ''}${sourceTitle(rec.pregnancy.sourceIds)}`);
+    if (rec.lactation) safetyLines.push(`- **Breastfeeding:** ${rec.lactation.status}${rec.lactation.note ? `, ${rec.lactation.note}` : ''}${sourceTitle(rec.lactation.sourceIds)}`);
     if (rec.heavyMetals?.text) safetyLines.push(`- **Heavy metal content:** ${rec.heavyMetals.text}${sourceTitle(rec.heavyMetals.sourceIds)}`);
-    for (const c of rec.contraindications ?? []) safetyLines.push(`- **Contraindication (${c.severity}):** ${c.condition}${c.note ? ` — ${c.note}` : ''}${sourceTitle(c.sourceIds)}`);
-    for (const x of rec.interactions ?? []) safetyLines.push(`- **Interaction (${x.severity}):** ${x.drugClass}${x.mechanism ? ` — ${x.mechanism}` : ''}${sourceTitle(x.sourceIds)}`);
+    for (const c of rec.contraindications ?? []) safetyLines.push(`- **Contraindication (${c.severity}):** ${c.condition}${c.note ? `, ${c.note}` : ''}${sourceTitle(c.sourceIds)}`);
+    for (const x of rec.interactions ?? []) safetyLines.push(`- **Interaction (${x.severity}):** ${x.drugClass}${x.mechanism ? `, ${x.mechanism}` : ''}${sourceTitle(x.sourceIds)}`);
     for (const a of rec.adverseEffects ?? []) safetyLines.push(`- **Adverse effect:** ${a.effect}${a.frequency ? ` (${a.frequency})` : ''}${sourceTitle(a.sourceIds)}`);
     if (rec.doseLimits?.text) safetyLines.push(`- **Dose and duration limits:** ${rec.doseLimits.text}${sourceTitle(rec.doseLimits.sourceIds)}`);
     safetyLines.push('', 'Each statement above was checked by four independent reviewers and published only if its source could be confirmed to state it.', '');

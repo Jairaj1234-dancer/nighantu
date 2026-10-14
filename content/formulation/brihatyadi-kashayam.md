@@ -77,7 +77,7 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 **Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals.
 
-**Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasodine](/glossary/compounds-q-t/#solasodine)) and [saponins](/reference/saponins/). Oral bioavailability of solasodine is moderate — enhanced by hot aqueous medium.
+**Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasodine](/glossary/compounds-q-t/#solasodine)) and [saponins](/reference/saponins/). Oral bioavailability of solasodine is moderate, enhanced by hot aqueous medium.
 
 **Optimal Timing:** Before meals (Bhojana-purva), morning and evening
 

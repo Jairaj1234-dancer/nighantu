@@ -80,13 +80,13 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
-**Storage:** Store in tightly sealed amber glass bottles. Camphor is highly volatile — loss occurs with loose sealing. Temperature not exceeding 25°C. Keep away from heat sources and flame (camphor is flammable).
+**Storage:** Store in tightly sealed amber glass bottles. Camphor is highly volatile, loss occurs with loose sealing. Temperature not exceeding 25°C. Keep away from heat sources and flame (camphor is flammable).
 
 **Marker Compounds:** Camphor, 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (eucalyptol), [Borneol](/glossary/compounds-a-c/#borneol), [Camphene](/glossary/compounds-a-c/#camphene)
 
 **Quality Parameters:** Acid value, peroxide value, camphor content by GC (10-20% w/v), eucalyptol content (if included), total volatile oils, refractive index, specific gravity, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Not applicable — external use only. Apply and massage gently on painful area.
+**Vehicle (Anupana):** Not applicable, external use only. Apply and massage gently on painful area.
 
 ### Synergistic Combinations
 

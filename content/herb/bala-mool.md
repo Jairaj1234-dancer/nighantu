@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bala-Mool/meta-analysis.md"
 
 **Standard Dosage:** 3-5g root powder twice daily; 40-80ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Root-specific alkaloid content provides moderate to good oral bioavailability. Root [mucilage](/glossary/compounds-l-o/#mucilage) forms a gel matrix in the stomach that slows release—useful for sustained-effect formulations. Lipid vehicles (ghee, oil) enhance absorption of sterol components by 30-40%.
+**Bioavailability:** Root-specific alkaloid content provides moderate to good oral bioavailability. Root [mucilage](/glossary/compounds-l-o/#mucilage) forms a gel matrix in the stomach that slows release, useful for sustained-effect formulations. Lipid vehicles (ghee, oil) enhance absorption of sterol components by 30-40%.
 
 **Optimal Timing:** Before meals with warm milk for [Rasayana](/reference/rasayana/) effect; with warm water for musculoskeletal complaints; Taila application in the evening for joint stiffness
 

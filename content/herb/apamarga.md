@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kshara (alkali preparation), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), Dhupana (fumigation — dried plant)
+**Dosage Forms:** Churna (powder), Kshara (alkali preparation), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), Dhupana (fumigation, dried plant)
 
 **Standard Dosage:** 3-6g powder twice daily; 0.5-1g Kshara with buttermilk/water; 50-100ml decoction
 
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 **Shelf Life:** 2 years (powder); 5 years (Kshara); 3 years (capsules/tablets); 2 years (Kshara Sutra, properly stored)
 
-**Storage:** Powder in airtight containers, cool and dry. Kshara in glass containers (alkaline — reacts with metals). Kshara Sutra in airtight tubes at room temperature.
+**Storage:** Powder in airtight containers, cool and dry. Kshara in glass containers (alkaline, reacts with metals). Kshara Sutra in airtight tubes at room temperature.
 
 **Marker Compounds:** Oleanolic acid, Achyranthine, Betaine, Ecdysterone (20-hydroxyecdysone), Pentatriacontane, Potassium carbonate (in Kshara)
 

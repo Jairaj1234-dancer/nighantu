@@ -149,13 +149,13 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 **Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu)) twice daily.
 
-**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier) — enhance bioavailability of co-administered drugs. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
+**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier), enhance bioavailability of co-administered drugs. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
 
 **Optimal Timing:** After meals, twice daily
 
 **Shelf Life:** 5 years from date of manufacture as per ASU guidelines
 
-**Storage:** Store in airtight containers in a cool, dry place. Becomes very hard if dried excessively — maintain optimal moisture. Temperature not exceeding 30°C.
+**Storage:** Store in airtight containers in a cool, dry place. Becomes very hard if dried excessively. Maintain optimal moisture. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I, Guggulsterol II, Guggulsterol III, Myrrhanol A
 

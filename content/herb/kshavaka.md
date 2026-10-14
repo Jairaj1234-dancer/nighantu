@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Standard Dosage:** Nasya: pinch of fine powder (125-250 mg) per nostril; 2-3 g powder orally twice daily; 30-50 mL decoction
 
-**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism — rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/formulation/anu-taila/) lubrication of nasal passages).
+**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism, rapid onset of action within 5-15 minutes. Oral bioavailability of [alkaloids](/glossary/compounds-1-a/#alkaloids) is moderate. Sneeze-inducing (errhine/sternutatory) compounds are active at very low nasal doses. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/formulation/anu-taila/) lubrication of nasal passages).
 
 **Optimal Timing:** Nasya: morning on empty stomach after oil massage of face (classical Poorvakarma); oral preparations: after meals
 
@@ -92,13 +92,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 **Shelf Life:** 12 months for Nasya powder (fine particle size increases surface area and degradation); 24 months for oral powder; 18 months for capsules
 
-**Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture — hygroscopic fine powders degrade rapidly.
+**Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture, hygroscopic fine powders degrade rapidly.
 
 **Marker Compounds:** Alkaloids (specific profile varies by species identification), Essential oil constituents, Saponins, [Tannins](/reference/tannins/)
 
 ### Extraction Methods
 
-- Fine grinding (Vastra Galita — cloth-filtered ultra-fine powder) for Nasya
+- Fine grinding (Vastra Galita, cloth-filtered ultra-fine powder) for Nasya
 - Hydroalcoholic extraction (50-60% ethanol)
 - Water decoction for oral use
 - Steam distillation for volatile fraction

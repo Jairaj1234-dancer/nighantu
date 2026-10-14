@@ -198,7 +198,7 @@ Stigma: 20-30mg/day (up to 1.5g/day in research); With milk: 2-3 strands
 
 ## Safety, contraindications and cautions
 
-- Pregnancy (high doses — uterine stimulant)
+- Pregnancy (high doses, uterine stimulant)
 - Bipolar disorder
 - Very expensive (adulteration risk)
 

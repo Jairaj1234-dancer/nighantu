@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karpura-Camphor/meta-analysis
 
 **Standard Dosage:** Internal: 60-125 mg with appropriate Anupana (honey, ghee); External: 2-10% concentration in oil/ointment base; Inhalation: 2-5% in steam
 
-**Bioavailability:** [Camphor](/herb/camphor/) is rapidly and almost completely absorbed through all routes — oral, inhalation, and transdermal. Oral bioavailability >90%. Rapidly metabolized hepatically to hydroxycamphor and glucuronic acid conjugates. Peak plasma levels in 15-30 minutes. Narrow therapeutic index; doses above 500 mg may cause toxicity. Transdermal delivery through lipophilic bases provides sustained local effects.
+**Bioavailability:** [Camphor](/herb/camphor/) is rapidly and almost completely absorbed through all routes, oral, inhalation, and transdermal. Oral bioavailability >90%. Rapidly metabolized hepatically to hydroxycamphor and glucuronic acid conjugates. Peak plasma levels in 15-30 minutes. Narrow therapeutic index; doses above 500 mg may cause toxicity. Transdermal delivery through lipophilic bases provides sustained local effects.
 
 **Optimal Timing:** External applications: as needed, 2-4 times daily; inhalation: before bed for respiratory congestion; internal: after meals under medical supervision only
 
@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karpura-Camphor/meta-analysis
 
 **Shelf Life:** 12 months for tablets (sublimation loss); 36 months for oil preparations; 24 months for balms/ointments in sealed containers
 
-**Storage:** Store in airtight, hermetically sealed containers at 15-25°C. Camphor sublimes readily — loose containers will lose content. Keep away from heat, flame (highly flammable), and children. Double containment for bulk camphor storage.
+**Storage:** Store in airtight, hermetically sealed containers at 15-25°C. Camphor sublimes readily, loose containers will lose content. Keep away from heat, flame (highly flammable), and children. Double containment for bulk camphor storage.
 
 **Marker Compounds:** d-Camphor (natural), dl-Camphor (synthetic), [Borneol](/glossary/compounds-a-c/#borneol), [Camphene](/glossary/compounds-a-c/#camphene), 1,8-Cineole, Alpha-pinene, [Linalool](/glossary/compounds-l-o/#linalool)
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karpura-Camphor/meta-analysis
 - Steam distillation from Cinnamomum camphora wood
 - Sublimation and resublimation for purification
 - Fractional distillation of camphor oil
-- Synthetic production from alpha-pinene (turpentine-derived — must be labeled if synthetic)
+- Synthetic production from alpha-pinene (turpentine-derived, must be labeled if synthetic)
 
 ### Synergistic Combinations
 

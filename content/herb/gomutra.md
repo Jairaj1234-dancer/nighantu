@@ -97,11 +97,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 **Standard Dosage:** 10–30 mL of [Arka](/herb/arka/); 5–10 mL fresh (diluted)
 
-**Bioavailability:** Bioenhancer — increases absorption of co-administered herbs by 2–7x
+**Bioavailability:** Bioenhancer, increases absorption of co-administered herbs by 2–7x
 
 **Optimal Timing:** Empty stomach, morning
 
-**Standardized Extract:** Gomutra Arka (distillate) — standardized bioenhancer
+**Standardized Extract:** Gomutra Arka (distillate), standardized bioenhancer
 
 **Shelf Life:** Fresh: use within hours; Arka: 6–12 months
 

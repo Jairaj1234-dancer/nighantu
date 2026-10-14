@@ -95,7 +95,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 
 **Shelf Life:** 2 years (whole seeds); 1 year (seed powder); 1 year (oil, nitrogen-flushed); 3 months (Laddoo)
 
-**Storage:** Whole seeds in airtight containers (very stable). Powder susceptible to moisture absorption due to mucilage—airtight with desiccant. Oil in amber glass, refrigerated after opening. Laddoo in airtight containers, consume within 3 months.
+**Storage:** Whole seeds in airtight containers (very stable). Powder susceptible to moisture absorption due to mucilage, airtight with desiccant. Oil in amber glass, refrigerated after opening. Laddoo in airtight containers, consume within 3 months.
 
 **Marker Compounds:** Glucotropaeolin (benzyl glucosinolate), Benzyl isothiocyanate, Alpha-linolenic acid, Linoleic acid, Tocopherols, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Campesterol](/glossary/compounds-a-c/#campesterol), Iron, Calcium
 

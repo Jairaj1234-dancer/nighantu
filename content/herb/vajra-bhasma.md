@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 **Optimal Timing:** With honey or specific formulation vehicle
 
-**Standardized Extract:** Calcined diamond bhasma — rarest bhasma in Rasashastra
+**Standardized Extract:** Calcined diamond bhasma, rarest bhasma in Rasashastra
 
 **Shelf Life:** Indefinite
 

@@ -63,7 +63,7 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use — requires strict Shodhana protocols and expert supervision
+- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 **Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
@@ -81,7 +81,7 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 **Storage:** Store in wide-mouth glass or food-grade jars with airtight lids in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light.
 
-**Marker Compounds:** Bacoside A, Bacoside B, Piperine, Gallic acid, Ascorbic acid, Beta-asarone (from [Vacha](/herb/vacha/) — within safe limits), Withanolide A
+**Marker Compounds:** Bacoside A, Bacoside B, Piperine, Gallic acid, Ascorbic acid, Beta-asarone (from [Vacha](/herb/vacha/), within safe limits), Withanolide A
 
 **Quality Parameters:** Total solids (minimum 65%), pH, moisture (<25%), total sugar, total fat, HPLC assay for bacosides (from [Brahmi](/herb/brahmi/)), piperine, gallic acid, total phenolics, microbial limits, heavy metals, HPTLC fingerprint
 

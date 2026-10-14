@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 **Shelf Life:** 36 months for piperine extract capsules; 24 months for churna; 18 months for essential oil; 24 months for oleoresin
 
-**Storage:** Below 25 deg C in airtight containers. Piperine is light-sensitive — use amber or opaque packaging. Essential oil in amber glass with nitrogen headspace. RH <55%.
+**Storage:** Below 25 deg C in airtight containers. Piperine is light-sensitive, use amber or opaque packaging. Essential oil in amber glass with nitrogen headspace. RH <55%.
 
 **Marker Compounds:** Piperine, [Piperyline](/glossary/compounds-o-q/#piperyline), [Piperanine](/glossary/compounds-o-q/#piperanine), [Piperettine](/glossary/compounds-o-q/#piperettine), Beta-caryophyllene (essential oil), [Limonene](/glossary/compounds-g-l/#limonene) (essential oil), [Sabinene](/glossary/compounds-q-t/#sabinene)
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 ### Synergistic Combinations
 
-- Virtually ALL Ayurvedic herbs ([Trikatu](/herb/trikatu/) component — universal bioenhancer)
-- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (20x bioavailability enhancement — most studied combination)
+- Virtually ALL Ayurvedic herbs ([Trikatu](/herb/trikatu/) component, universal bioenhancer)
+- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (20x bioavailability enhancement, most studied combination)
 - [Ashwagandha](/herb/ashwagandha/) (enhanced withanolide absorption)
 - Boswellia/[Shallaki](/herb/shallaki/) (enhanced boswellic acid absorption)
 - CoQ10, [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), EGCG (nutraceutical bioenhancement)

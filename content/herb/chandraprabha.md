@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Chandraprabha/meta-analys
 
 ## How is it used traditionally?
 
-Name means 'moon-bright' — said to make body radiant. Classical compound for Prameha (diabetes), Mutrakricchra (dysuria), Shukra Dosha (reproductive issues), and general Ojas (vitality) building.
+Name means 'moon-bright', said to make body radiant. Classical compound for Prameha (diabetes), Mutrakricchra (dysuria), Shukra Dosha (reproductive issues), and general Ojas (vitality) building.
 
 ## Where is it described in the classical texts?
 
@@ -84,15 +84,15 @@ Name means 'moon-bright' — said to make body radiant. Classical compound for P
 
 **Standard Dosage:** 2 tablets (500mg each) twice daily with milk or water; 1-2g powder. This is a classical polyherbal formulation ([Chandraprabha Vati](/formulation/chandraprabha-vati/)) containing 37 ingredients per Sharangadhara Samhita.
 
-**Bioavailability:** Complex polyherbal formulation—bioavailability is a composite of multiple actives. [Shilajit](/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/herb/loha-bhasma/), etc.) are in nano/Bhasma form with enhanced bioavailability. Multiple herbs with [piperine](/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/herb/pippali/) included in formulation). Self-bioenhancing formulation design—classical Ayurvedic pharmaceutical sophistication.
+**Bioavailability:** Complex polyherbal formulation, bioavailability is a composite of multiple actives. [Shilajit](/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/herb/loha-bhasma/), etc.) are in nano/Bhasma form with enhanced bioavailability. Multiple herbs with [piperine](/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/herb/pippali/) included in formulation). Self-bioenhancing formulation design, classical Ayurvedic pharmaceutical sophistication.
 
 **Optimal Timing:** After meals with warm milk or water, twice daily; traditionally recommended for consistent use over 1-3 months for chronic conditions
 
-**Standardized Extract:** Compound formulation—no single extract. Key quality parameters: Guggulsterone content (from Guggulu), total phenolics, iron content (from Loha Bhasma), fulvic acid (from Shilajit). Individual herb identification by TLC/HPTLC.
+**Standardized Extract:** Compound formulation, no single extract. Key quality parameters: Guggulsterone content (from Guggulu), total phenolics, iron content (from Loha Bhasma), fulvic acid (from Shilajit). Individual herb identification by TLC/HPTLC.
 
 **Shelf Life:** 3 years (Vati/tablet); 2 years (powder); 3 years (capsule)
 
-**Storage:** Cool, dry place in airtight containers. Vati formulation is relatively stable due to Guggulu matrix. Keep away from moisture—mineral ingredients can oxidize.
+**Storage:** Cool, dry place in airtight containers. Vati formulation is relatively stable due to Guggulu matrix. Keep away from moisture, mineral ingredients can oxidize.
 
 **Marker Compounds:** Guggulsterone E and Z (from Guggulu), Fulvic acid (from Shilajit), Piperine (from Maricha), [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/)), [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)), [Curcumin](/herb/curcumin/) (from [Haridra](/herb/haridra/))
 

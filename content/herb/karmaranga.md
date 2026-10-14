@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karmaranga/meta-analysis.md"
 
 **Standard Dosage:** 20-40 mL fresh fruit juice twice daily; 3-5 g powder with honey; 10-15 g Avaleha
 
-**Bioavailability:** High oxalic acid content influences mineral absorption. [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) and [epicatechin](/glossary/compounds-d-g/#epicatechin) show moderate bioavailability (20-30%). L-ascorbic acid (vitamin C) is readily absorbed. Caution: oxalic acid may precipitate calcium — not recommended for patients with renal calculi. Polyphenol bioavailability improved through fermentation or enzymatic processing.
+**Bioavailability:** High oxalic acid content influences mineral absorption. [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) and [epicatechin](/glossary/compounds-d-g/#epicatechin) show moderate bioavailability (20-30%). L-ascorbic acid (vitamin C) is readily absorbed. Caution: oxalic acid may precipitate calcium, not recommended for patients with renal calculi. Polyphenol bioavailability improved through fermentation or enzymatic processing.
 
 **Optimal Timing:** After meals to minimize oxalate-related GI effects; not to be taken on empty stomach
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karmaranga/meta-analysis.md"
 
 **Storage:** Fresh juice requires immediate refrigeration (2-8°C). Dried preparations in airtight containers at 15-30°C. Protect from moisture and light.
 
-**Marker Compounds:** Epicatechin, Proanthocyanidins, L-Ascorbic acid, Oxalic acid (to be minimized), Caramboxin (neurotoxin — must be absent in final product), [Saponins](/reference/saponins/), Gallic acid
+**Marker Compounds:** Epicatechin, Proanthocyanidins, L-Ascorbic acid, Oxalic acid (to be minimized), Caramboxin (neurotoxin, must be absent in final product), [Saponins](/reference/saponins/), Gallic acid
 
 ### Extraction Methods
 

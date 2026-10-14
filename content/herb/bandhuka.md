@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Bandhuka/meta-analysis.md"
 
 **Optimal Timing:** With meals for general health; flower juice early morning on empty stomach for menstrual health; paste applied externally as needed
 
-**Standardized Extract:** Flower extract standardized to total flavonoid content NLT 5%; anthocyanin content NLT 1%. Limited standardization data available—further R&D recommended.
+**Standardized Extract:** Flower extract standardized to total flavonoid content NLT 5%; anthocyanin content NLT 1%. Limited standardization data available, further R&D recommended.
 
 **Shelf Life:** 1.5 years (powder); 2.5 years (capsule/tablet)
 

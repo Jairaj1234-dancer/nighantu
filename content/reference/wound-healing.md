@@ -23,44 +23,44 @@ srcRel: "_Hub/Pharmacology/Wound-Healing.md"
 
 ## Ayurveda (72)
 
-- [Agnikarna](/herb/agnikarna/) — *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Aivana](/herb/aivana/) — *Salvia officinalis L.*
-- [Akarakarabha](/herb/akarakarabha/) — *Anacyclus pyrethrum (L.) Lag.*
-- [Akshotaka](/herb/akshotaka/) — *Juglans regia L.*
-- [Aloe Vera](/herb/aloe-vera/) — *Aloe barbadensis Mill. (syn. [Aloe vera](/herb/aloe-vera/) (L.) Burm.f.)*
-- [Amlaparni](/herb/amlaparni/) — *Oxalis corniculata L.*
-- [Ankola](/herb/ankola/) — *Alangium salviifolium (L.f.) Wangerin*
-- [Apamarga](/herb/apamarga/) — *Achyranthes aspera L.*
+- [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
+- [Aivana](/herb/aivana/), *Salvia officinalis L.*
+- [Akarakarabha](/herb/akarakarabha/), *Anacyclus pyrethrum (L.) Lag.*
+- [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
+- [Aloe Vera](/herb/aloe-vera/), *Aloe barbadensis Mill. (syn. [Aloe vera](/herb/aloe-vera/) (L.) Burm.f.)*
+- [Amlaparni](/herb/amlaparni/), *Oxalis corniculata L.*
+- [Ankola](/herb/ankola/), *Alangium salviifolium (L.f.) Wangerin*
+- [Apamarga](/herb/apamarga/), *Achyranthes aspera L.*
 - [Arka](/herb/arka/)
-- [Asana](/herb/asana/) — *Pterocarpus marsupium Roxb.*
-- [Ashwattha](/herb/ashwattha/) — *Ficus religiosa L.*
-- [Babbula](/herb/babbula/) — *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
-- [Bakuchi](/herb/bakuchi/) — *Psoralea corylifolia L. (syn. Cullen corylifolium)*
+- [Asana](/herb/asana/), *Pterocarpus marsupium Roxb.*
+- [Ashwattha](/herb/ashwattha/), *Ficus religiosa L.*
+- [Babbula](/herb/babbula/), *Acacia nilotica (L.) Delile (syn. Vachellia nilotica)*
+- [Bakuchi](/herb/bakuchi/), *Psoralea corylifolia L. (syn. Cullen corylifolium)*
 - [Bhurja](/herb/bhurja/)
-- [Changeri](/herb/changeri/) — *Oxalis corniculata L.*
+- [Changeri](/herb/changeri/), *Oxalis corniculata L.*
 - [Chirabilva](/herb/chirabilva/)
-- [Chitrak](/herb/chitrak/) — *Plumbago zeylanica L.*
-- [Daruharidra](/herb/daruharidra/) — *Berberis aristata DC.*
-- [Eranda](/herb/eranda/) — *Ricinus communis L.*
-- [Eranda Paka](/herb/eranda-paka/) — *Ricinus communis L. (processed castor preparation)*
-- [Eranda Patra](/herb/eranda-patra/) — *Ricinus communis L. (leaves)*
+- [Chitrak](/herb/chitrak/), *Plumbago zeylanica L.*
+- [Daruharidra](/herb/daruharidra/), *Berberis aristata DC.*
+- [Eranda](/herb/eranda/), *Ricinus communis L.*
+- [Eranda Paka](/herb/eranda-paka/), *Ricinus communis L. (processed castor preparation)*
+- [Eranda Patra](/herb/eranda-patra/), *Ricinus communis L. (leaves)*
 - [Gairika](/glossary/concepts-a-m/#gairika)
-- [Gambhari](/herb/gambhari/) — *Gmelina arborea Roxb.*
-- [Gambhari Phala](/herb/gambhari-phala/) — *Gmelina arborea Roxb.*
-- [Gokarna](/herb/gokarna/) — *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
+- [Gambhari](/herb/gambhari/), *Gmelina arborea Roxb.*
+- [Gambhari Phala](/herb/gambhari-phala/), *Gmelina arborea Roxb.*
+- [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Gomutra](/herb/gomutra/)
-- [Haridra](/herb/haridra/) — *Curcuma longa L.*
+- [Haridra](/herb/haridra/), *Curcuma longa L.*
 - [Hastikarna Palasha](/glossary/concepts-a-m/#hastikarna-palasha)
-- [Ingudi](/herb/ingudi/) — *Balanites aegyptiaca (L.) Delile*
+- [Ingudi](/herb/ingudi/), *Balanites aegyptiaca (L.) Delile*
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/)
 - [Jatyadi Taila](/formulation/jatyadi-taila/)
 - [Jyotishmati](/herb/jyotishmati/)
-- [Kapittha](/herb/kapittha/) — *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
-- [Karanja](/herb/karanja/) — *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
-- [Kasamarda](/herb/kasamarda/) — *Cassia occidentalis L. (syn. [Senna](/herb/senna/) occidentalis)*
-- [Khadira](/herb/khadira/) — *Acacia catechu (L.f.) Willd.*
-- [Kovidara](/herb/kovidara/) — *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/) — *Amaranthus spinosus L.*
+- [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
+- [Karanja](/herb/karanja/), *Millettia pinnata (L.) Panigrahi (syn. Pongamia pinnata (L.) Pierre)*
+- [Kasamarda](/herb/kasamarda/), *Cassia occidentalis L. (syn. [Senna](/herb/senna/) occidentalis)*
+- [Khadira](/herb/khadira/), *Acacia catechu (L.f.) Willd.*
+- [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
+- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
 
 ## Related Body Systems
 
