@@ -244,7 +244,9 @@ Read each against the predictions recorded **before** the run, not after.
   ("Parrot seed. Bastard saffron"), `nikochaka`, `udumbara`, and `surana`'s Telugu.
 - Five names look like character confusions and need a source: `eranda` "Pahchangul", `draksha`
   "Munkka", `bijapura` "Bijoura", `ishwari` "Gandhnakuli", `apamarga` "Kharamanjar".
-- `vamshalochana`'s botanical needs a source. It is the last filler-opener page.
+- **3,556 em dashes across 290 content pages.** The standing rule is no em dashes in deliverables.
+  Answer blocks are clean, all 788 of them; the body prose predates the rule. Rewriting it means
+  rephrasing sentences on 290 pages, so it is a decision rather than a sweep.
 - Dr. Singh's `sameAs`: council registration, ORCID or SBRI page. Offered, not supplied.
 - **The four contextual store links and the footer anchor on `ageayurveda.com`.** Shopify-side, not
   in this repo, and on current evidence **the highest-value unpulled item on this list**: the store
@@ -269,6 +271,28 @@ Read each against the predictions recorded **before** the run, not after.
 
 ---
 
+### Answer blocks, repaired 14 Oct
+- `scripts/answer.mjs` split sentences on a bare `(?<=[.!?])\s+`, so every full stop followed by a
+  space was treated as a sentence end. In this corpus a full stop is more often an abbreviation, so
+  the split landed inside `(O. sanctum)`, `(P. acnes)`, `(Vol. 2)` and `(G. indica)`, a later filter
+  dropped the half holding the opening bracket, and seven pages shipped an orphaned bracket.
+  `/herb/holy-basil/` read "from the Lamiaceae family. sanctum) contains eugenol". Fixed with
+  negative lookbehinds for a single capital letter and for known abbreviations.
+- **`answer.mjs` did not parse, and had not since 10 Oct.** A comment documenting a regex spelled
+  its terminator the obvious way and closed the comment forty lines early. `scripts/ingest.mjs`
+  imports `composeAnswer` from it, so **the ingest script could not run at all for four days.**
+  Write a comment terminator inside a comment as `*\/`.
+- All 138 script files are now syntax-checked. That was the only genuine failure;
+  `scripts/workflows/label-dose-vs-formulary.js` fails `node --check` because a Workflow script's
+  top-level `return` is legal in its own async wrapper and it is not a standalone module.
+- `vamshalochana` said "is a plant used in Ayurveda" and is not a plant. `aranya-jeeraka` hedged
+  across three botanical identities including one from a different family than its own `botanical`
+  field. `daruharidra` carried a disease claim behind a leaked field label. All three rewritten by
+  hand; the other six repaired by `scripts/fix-truncated-answers.mjs`, which drops the damaged
+  sentence rather than reconstructing it.
+- Re-swept afterwards: 0 unbalanced brackets, 0 hedged identities, 0 filler openers, 0 em dashes
+  across all 788 answer blocks.
+
 ## 7. Standing rules that have been violated at least once
 
 - **This repository is public.** Competitive intelligence, strategy and analysis stay out of it and
@@ -280,5 +304,14 @@ Read each against the predictions recorded **before** the run, not after.
   pages look revised when 189 had changed. `--rehash` adopts new hashes and advances no date.
 - **A partial API run is biased, not smaller.** The calls that succeed are the ones asked earliest,
   so every reader here refuses to report rather than publish a skewed count.
+- **Syntax-check every script, not just the one being edited.** A file can sit unparseable in the
+  repo for days: the gate suite only runs the scripts it names, so a broken script that nothing in
+  CI imports fails silently. `for f in $(find scripts -name '*.mjs'); do node --check $f; done`.
+- **Three detectors written on 14 Oct were themselves the bug**, each firing on most of the corpus:
+  a plant-hood check that flagged four real plants whose Sanskrit names contain mineral words, a
+  binomial-mismatch check that matched "Fabaceae family" as a binomial and fired on 337 of 505
+  pages, and a comment-hazard check that matched the end of every comment because the shell ate a
+  backslash. A check that fires on everything is a bad check, not a finding. Narrow it against the
+  corpus's own vocabulary before believing it.
 - **Test whether a number is stable before explaining it.** Two confident explanations were written
   up for an 11-compound difference that two builds on identical content then refuted.
