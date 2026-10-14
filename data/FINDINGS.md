@@ -215,6 +215,7 @@ pass 1, so three builds on identical content gave 838/466, 849/455, 838/466 whil
 | Is `primary` in `duplicates.json` the better page? | **No.** It is the preferred *name*. The primary is the shorter record on 14 of 29. | `data/duplicates.json` note |
 | Where does the per-formulation comparison go? | On the existing formulation monographs, not new URLs. They already carry the formulary table, already earn 4x the impressions, and Google has never crawled 59 of them, so a new URL is the worst possible vehicle. | `src/components/Disclosure.astro` |
 | Deposit datasets individually or as a repo archive? | Individually. 43 files at v2.0.0. | `.github/workflows/zenodo-deposit.yml` |
+| Em dash as the empty-table-cell glyph? | **Keep it.** Confirmed 14 Oct. The no-em-dash rule is about prose; a no-data placeholder in a numeric column is typography. 6 occurrences, all on `?? '—'` fallbacks in `src`. Do not "fix" these. | `verification/index.astro`, `lexicon/[slug].astro`, `concept/[slug].md.ts`, `lexicon/[slug].md.ts` |
 | Drop the thin collections from the sitemap? | **Not yet.** Proposed on 12 Oct and withdrawn the same day: the lexicon was three days old in the only data we have. Revisit when Bing has a full month on it. | this file |
 
 ---
