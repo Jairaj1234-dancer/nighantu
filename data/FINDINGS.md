@@ -21,12 +21,15 @@ same commit as the work, and give every number a date and a path to its evidence
 
 | Claim | Status |
 |---|---|
-| "Bing cited 26 pages 144 times in fifteen days" | **Unsourced. Do not use.** Searched the whole repo on 12 Oct: it appears nowhere. The Bing AI Search Queries export for the same period holds **one** grounding query. A strategy recommendation was built on this figure before it was checked. |
+| "Bing cited 26 pages 144 times in fifteen days" | **TRUE, and found on 14 Oct.** It comes from Bing Webmaster's **AI Performance** report, a different surface from the AI Search Queries report. Cumulative citations through 2 Oct are 145, and the first day with data is 19 Sep, so "144 in fifteen days" reconciles exactly. On 12 Oct this was declared unsourced and unusable because it was not in the repo and because the AI Search Queries export holds only one grounding query. **That was an over-correction, and an expensive one: it was used to argue Bing was not an AI-citation channel and to rewrite the strategy away from it.** Not being able to find a source is not evidence that a measurement is wrong. |
 | "45 recorded citations, 37 of them to two pages" | **Wrong.** The four citation logs hold 291 prompt rows, **27** of them cited, carrying **34** citations, every one to `ageayurveda.com`. Counted 13 Oct from `data/citation-log*.csv`. |
 | "1,342 compound graph edges" | **Wrong.** `src/data/compounds.json` reports **22,084** edges over 838 compounds, 188 linkable. The converged figures that matter to the deploy gate are in `src/data/chemistry.json`: 838 constituents, **455** resolved. |
 
-These were all found by checking this file's own claims against the files on the day it was
-written. Two of three figures carried in from memory were wrong. Check before you carry.
+Two of the three figures carried in from memory were genuinely wrong, and the third was right and
+was wrongly dismissed. So this table has two jobs, and the second one matters as much as the first:
+**record the claim and the result of checking it, not a verdict reached by failing to find it.**
+Write "could not find a source for this, treat with caution" and keep looking. Do not write
+"wrong".
 
 Anything that cannot be traced to a file belongs in this table, not in a recommendation.
 
@@ -123,8 +126,24 @@ From `bing-performance.mjs`, 18 Sep to 10 Oct (`measurement/bing-queries/`):
 - Query demand is specialist and often misspelled, and brand-plus-formulation queries already reach
   us: `dhootapapeshwar sitopaladi choorna hindi uses` at position 4,
   `oushadhi dhanwantaram tailum pharmaayush` at 10.
-- **Bing AI grounding is one query**, `sitopaladi churna benefits`, 6 citations, share rounding to
-  0.00%.
+- **Bing's AI surface is the channel that actually works, and it is an order of magnitude more
+  active than the blue links.** From the **AI Performance** export, 19 Sep to 11 Oct:
+  **239 AI citations over 23 days**, citations on 18 of those 23 days, peaking at **58 citations
+  across 12 cited pages on 2 Oct**, and the last seven days averaging **11.6 a day**. Over almost
+  exactly the same window the ordinary search surface produced **20 clicks**. So this content is
+  being consumed by Copilot roughly twelve times as often as it is being clicked, which is what
+  this project was built to do.
+  - The comparison columns are useless: `Prev Date` is `1/1/0001`, the .NET `DateTime.MinValue`
+    sentinel that `scripts/lib/bing-coverage.mjs` already has a floor guard for, and every
+    `Prev Citations` is 0. There is no previous period, this is the first.
+  - **The AI Search Queries report is not the same thing and badly understates it.** It lists one
+    grounding query, `sitopaladi churna benefits`, with 6 citations and a share rounding to 0.00%,
+    against 239 citations on the AI Performance report for an overlapping period. Treat the query
+    report as heavily thresholded and never as a total.
+  - **There is no API for this.** `GetAIPerformanceStats`, `GetAICitationStats`, `GetCopilotStats`,
+    `GetAIStats` and `GetGroundingQueryStats` all return 404. It has to be exported by hand from
+    Bing Webmaster Tools as `..._AIPerformanceCompareOverviewStats_<date>.csv`. Exports are kept in
+    gitignored `measurement/bing-queries/`.
 
 ### Citations: zero, on both engines
 - `nighantu.ageayurveda.com` has **never** been cited in any of the four citation logs. Counted
@@ -133,9 +152,12 @@ From `bing-performance.mjs`, 18 Sep to 10 Oct (`measurement/bing-queries/`):
   question**. Incumbent shares are in gitignored `measurement/`, not here.
 - Monograph, composition and property intents scored **0 of 120 asks** on Gemini. The designated
   negative control scored 33%.
-- **Consequence for planning: there is no outcome variable with signal.** At 0 citations and 20
-  clicks nothing we change is detectable. The snippet experiment has power to detect a doubling and
-  nothing smaller. Do not commission research into tactics until one channel is above the noise.
+- **Consequence for planning, corrected on 14 Oct.** On Google there is no outcome variable with
+  signal: 0 citations and a snippet experiment powered to detect only a doubling, so nothing done
+  for Google is currently measurable. **On Bing there is.** 239 AI citations over 23 days, averaging
+  11.6 a day, is enough to detect a real change, and it is the only place a change is detectable.
+  So experiments belong on the Bing AI surface, and the baseline to measure them against is the
+  export above.
 
 ### Answer blocks and corpus integrity
 Across 802 answers: 1 filler opener (`vamshalochana`), **0** gate violations, 0 under the 10-word
@@ -174,6 +196,7 @@ pass 1, so three builds on identical content gave 838/466, 849/455, 838/466 whil
 | 17 Oct | Google coverage re-read, with four predictions written down before the run | `measurement/gsc-recheck/RUN.md` is the durable instruction. A session-only cron (`810e8e8c`, 10:23) will fire it if this session is still alive; if not, run it from RUN.md by hand. |
 | 8 Nov | Comparative-pages verdict | |
 | 14 Nov | Snippet difference-in-differences on the 399/403 cohorts | `scripts/snippet-experiment.mjs` |
+| Monthly, by hand | Bing **AI Performance** export. No API exists, so nothing will remind you. This is the project's only outcome measure with signal. | `measurement/bing-queries/` |
 
 Read each against the predictions recorded **before** the run, not after.
 
