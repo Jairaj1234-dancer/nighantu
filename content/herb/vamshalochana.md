@@ -6,20 +6,20 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Vamshalochana is a plant used in Ayurveda. Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced by splitting mature female bamboo internodes. Classical name Tabasheer (Unani/Persian) denotes the same material."
-botanical: ""
+answer: "Vamshalochana is bamboo manna, the siliceous concretion that forms inside the internodes of the bamboo Bambusa bambos, and not a plant part. The Ayurvedic Formulary of India names it in five classical preparations and records its part as a silicaceous concretion. The Unani and Persian name Tabasheer denotes the same material."
+botanical: "Bambusa bambos (the source plant; the drug is the siliceous concretion from its internodes, not the plant)"
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
 whoStatus: ""
 aliases: ["Vamshalochana", "Vamsha Lochana", "Tabasheer", "Tabashir", "Banslochan", "Bamboo Manna"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "prakshep", "pharmacopoeia-listed", "adulteration-risk"]
-sources: []
+sources: ["Ayurvedic Formulary of India, Part I entries 3:11, 7:13, 7:34 and 12:10 and Part II entry 16:45, transcribed on this site"]
 productHints: []
 words: 239
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamshalochana/meta-analysis.md"
 ---
-Siliceous exudate from the internodes of female bamboo (*Bambusa bambos* / *B. arundinacea*) — classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/formulation/chyawanprash/) and related Rasayanas.
+Siliceous concretion from the internodes of female bamboo, [Vamsha](/herb/vamsha/) (*Bambusa bambos*, also published as *B. arundinacea*). It is not a plant part: the *Ayurvedic Formulary of India* records its part as a silicaceous concretion in every entry that uses it. Classical Ayurveda treats it as a cooling, astringent, medhya and kasahara dravya. It is a key **prakshep dravya** in classical Avaleha pharmacy, including [Chyawanprash](/formulation/chyawanprash/) and related Rasayanas.
 
 ## Identification
 
