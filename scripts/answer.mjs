@@ -30,7 +30,10 @@ const sentenceList = (text) => text
    * make.
    *
    * THIS IS LINE-SCOPED BECAUSE EMPHASIS IS NOT A REGULAR LANGUAGE. The first attempt matched an
-   * italic span across the whole text with /\*[^*]+[.!?]\s[^*]+\*/, which cannot tell which
+   * italic span across the whole text with /\*[^*]+[.!?]\s[^*]+\*\/ (the terminator is written
+   * with an escaped slash on purpose: spelled the obvious way it closes THIS comment, which is
+   * exactly what happened on 10 October and left this file unparseable, and with it
+   * scripts/ingest.mjs, which imports composeAnswer from here), which cannot tell which
    * asterisks pair: on a cited section it opened at the CLOSING asterisk of "*Journal of Ayurveda
    * and integrative medicine*" and closed at the OPENING asterisk of the note, deleting the two
    * sentences between them. Scoped to one line there is only one span to find, which is the same
@@ -42,7 +45,27 @@ const sentenceList = (text) => text
   .split('\n')
   .filter((line) => !/^\s*(?<!\*)\*(?!\*)[^*]+\*(?!\*)[.\s]*$/.test(line))
   .join('\n')
-  .split(/(?<=[.!?])\s+/)
+  /**
+   * SPLIT ON SENTENCE ENDS, NOT ON EVERY FULL STOP FOLLOWED BY A SPACE.
+   *
+   * The bare `(?<=[.!?])\s+` rule cuts inside an abbreviation, and the damage is visible on seven
+   * published answer blocks. `(Ocimum sanctum)` was written `(O. sanctum)`, the split landed after
+   * the `O.`, the half carrying the opening bracket was dropped by a later filter, and
+   * /herb/holy-basil/ shipped the sentence "Lamiaceae family. sanctum) contains eugenol". The same
+   * cut produced a trailing `(P.` on daruharidra from "P. acnes", `(Vol.` on bilva-majja from
+   * "Vol. 2", `(G.` on vrikshamla, and orphaned closing brackets on putikaranja and
+   * vrikshamla-phala.
+   *
+   * This is the same bug family as the `[^.]*` rule that stopped at the decimal point in
+   * "0.5-4 g". In this corpus a full stop is very often an abbreviation rather than a sentence
+   * end, because the prose is full of abbreviated genus names and citation apparatus.
+   *
+   * Both guards are negative lookbehinds at the split position, so they see the full stop that
+   * `(?<=[.!?])` matched: the first blocks a single capital letter plus full stop, which is every
+   * abbreviated genus; the second blocks a known abbreviation. A sentence that genuinely ends in a
+   * single capital letter loses its split, which is harmless next to publishing a fragment.
+   */
+  .split(/(?<!\b[A-Z]\.)(?<!\b(?:Vol|No|Nos|Fig|Figs|Ed|Eds|pp|cf|al|var|subsp|ssp|syn|sp|spp|St|Mt|Dr|Mr|Mrs|Ms|Prof|approx|etc|e\.g|i\.e)\.)(?<=[.!?])\s+/)
   .filter((x) => !isBibliographic(x))
   .map((x) => stripMarkup(x).trim())
   .filter((x) => x.length > 30 && x.length < 320 && /[a-z]/.test(x))
