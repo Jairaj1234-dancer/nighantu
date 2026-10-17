@@ -430,6 +430,7 @@
   },
   "indexnow": {
     "hashes": {
+      "https://nighantu.ageayurveda.com/": "9aad9e64d54bac97",
       "https://nighantu.ageayurveda.com/about/": "039a3f62ec50b3bd",
       "https://nighantu.ageayurveda.com/afi/": "f98945d6335aec9e",
       "https://nighantu.ageayurveda.com/choosing/": "9df7be5a2aee2d9d",
@@ -1674,8 +1675,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b8aff23703216e9f",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "1487c66a66902617"
     },
-    "lastSubmittedAt": "2026-10-14T09:06:13.952Z",
-    "lastSubmittedCount": 518,
+    "lastSubmittedAt": "2026-10-17T07:23:33.275Z",
+    "lastSubmittedCount": 5,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -2809,6 +2810,10 @@
       "https://nighantu.ageayurveda.com/practice/talapodichil/",
       "https://nighantu.ageayurveda.com/practice/tikshna-nasya/",
       "https://nighantu.ageayurveda.com/practice/vatatapika-rasayana/",
+      "https://nighantu.ageayurveda.com/prakriti/",
+      "https://nighantu.ageayurveda.com/prakriti/kapha/",
+      "https://nighantu.ageayurveda.com/prakriti/pitta/",
+      "https://nighantu.ageayurveda.com/prakriti/vata/",
       "https://nighantu.ageayurveda.com/reference/",
       "https://nighantu.ageayurveda.com/reference/adaptogenic/",
       "https://nighantu.ageayurveda.com/reference/analgesic/",
@@ -3754,6 +3759,6 @@
     "seen": 25,
     "surfaced": 1
   },
-  "updatedAt": "2026-10-17T07:21:14.061Z",
+  "updatedAt": "2026-10-17T07:23:33.276Z",
   "version": 1
 }
