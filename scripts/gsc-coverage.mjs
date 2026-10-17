@@ -52,6 +52,13 @@ const GAP_MS = Number(argOf('--gap', 150));
  */
 const MAX_NEW = Number(argOf('--max', 0)) || Infinity;
 /**
+ * Inspections in flight at once. On 17 October the API took about 7 seconds per call against
+ * well under one on 10 October, which turned a 4-minute pass into a 2.5-hour one. Each worker
+ * still waits GAP_MS between its own calls, and at that latency even 6 workers ask about 50 a
+ * minute, far under the 600 ceiling. Default 1 keeps the original behaviour.
+ */
+const CONCURRENCY = Math.max(1, Number(argOf('--concurrency', 1)));
+/**
  * Where the report is written. `--out` matches scripts/bing-coverage.mjs, and it exists for the
  * same reason: this directory holds the tracked series and its resume checkpoint, and a one-off
  * question asked about some other set of URLs must not replace the answer to the whole site.
@@ -139,7 +146,7 @@ async function inspect(url, tries = 5) {
         method: 'POST',
         headers: { Authorization: `Bearer ${auth.token}`, 'Content-Type': 'application/json' },
         body: JSON.stringify({ inspectionUrl: url, siteUrl: SITE }),
-        signal: AbortSignal.timeout(30000),
+        signal: AbortSignal.timeout(60000),
       });
     } catch (e) {
       if (attempt === tries - 1) return { error: `network: ${redact(e.cause?.code ?? e.message)}` };
@@ -212,37 +219,47 @@ const done = RESUME && fs.existsSync(CKPT)
   : new Map();
 if (done.size) console.log(`Resuming: ${done.size} URLs already answered, re-asking the rest.\n`);
 
-const rows = [];
+const rows = new Array(urls.length);
 let fresh = 0;
-for (const [i, url] of urls.entries()) {
-  if (done.has(url)) { rows.push(done.get(url)); continue; }
-  if (fresh >= MAX_NEW) { rows.push({ url, error: 'not reached: --max cap' }); continue; }
-  fresh += 1;
-  const r = await inspect(url);
-  if (r.error) {
-    rows.push({ url, error: r.error });
-  } else {
-    const idx = r.data.indexStatusResult ?? {};
-    rows.push({
-      url,
-      coverageState: idx.coverageState ?? null,
-      verdict: idx.verdict ?? null,
-      robotsTxtState: idx.robotsTxtState ?? null,
-      indexingState: idx.indexingState ?? null,
-      lastCrawlTime: idx.lastCrawlTime ?? null,
-      googleCanonical: idx.googleCanonical ?? null,
-      userCanonical: idx.userCanonical ?? null,
-      sitemap: idx.sitemap ?? [],
-      referringUrls: (idx.referringUrls ?? []).length,
-    });
+let answered = 0;
+let next = 0;
+const checkpoint = () => fs.writeFileSync(CKPT, `${JSON.stringify(rows.filter(Boolean))}\n`);
+
+async function worker() {
+  while (next < urls.length) {
+    const i = next++;
+    const url = urls[i];
+    if (done.has(url)) { rows[i] = done.get(url); continue; }
+    if (fresh >= MAX_NEW) { rows[i] = { url, error: 'not reached: --max cap' }; continue; }
+    fresh += 1;
+    const r = await inspect(url);
+    if (r.error) {
+      rows[i] = { url, error: r.error };
+    } else {
+      const idx = r.data.indexStatusResult ?? {};
+      rows[i] = {
+        url,
+        coverageState: idx.coverageState ?? null,
+        verdict: idx.verdict ?? null,
+        robotsTxtState: idx.robotsTxtState ?? null,
+        indexingState: idx.indexingState ?? null,
+        lastCrawlTime: idx.lastCrawlTime ?? null,
+        googleCanonical: idx.googleCanonical ?? null,
+        userCanonical: idx.userCanonical ?? null,
+        sitemap: idx.sitemap ?? [],
+        referringUrls: (idx.referringUrls ?? []).length,
+      };
+    }
+    answered += 1;
+    if (answered % 50 === 0) {
+      const known = rows.filter((x) => x?.coverageState && !/unknown/i.test(x.coverageState)).length;
+      console.log(`  ${answered}/${urls.length - done.size} asked  indexed-or-known so far: ${known}`);
+      checkpoint();
+    }
+    await sleep(GAP_MS);
   }
-  if ((i + 1) % 50 === 0) {
-    const known = rows.filter((x) => x.coverageState && !/unknown/i.test(x.coverageState)).length;
-    console.log(`  ${i + 1}/${urls.length}  indexed-or-known so far: ${known}`);
-    fs.writeFileSync(CKPT, `${JSON.stringify(rows)}\n`);
-  }
-  if (i < urls.length - 1) await sleep(GAP_MS);
 }
+await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 
 /**
  * REFUSE TO REPORT A CONTAMINATED RUN, the same rule the Bing reader learned the hard way. Its
@@ -250,7 +267,7 @@ for (const [i, url] of urls.entries()) {
  * 63". The requests that succeed are the ones asked earliest, so a partial run is not a smaller
  * measurement, it is a biased one.
  */
-fs.writeFileSync(CKPT, `${JSON.stringify(rows)}\n`);
+checkpoint();
 const errored = rows.filter((r) => r.error);
 if (errored.length) {
   console.error(`\nNOT REPORTING. ${errored.length} of ${rows.length} inspections failed.`);
