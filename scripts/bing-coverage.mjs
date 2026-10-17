@@ -240,7 +240,19 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 const RESUME = process.argv.includes('--resume');
 // Only ANSWERS are resumable. Keying errors too would skip exactly the URLs that need re-asking,
 // which is the bug the Google reader shipped with and had to have fixed before its first resume.
-const already = RESUME && fs.existsSync(CKPT)
+/**
+ * AND ONLY A CHECKPOINT FROM TODAY'S RUN IS RESUMABLE. infra/bing-coverage-weekly.sh passes
+ * --resume every Friday, and a finished run leaves a checkpoint holding every answer. Without this,
+ * each weekly run adopted the previous week's answers, asked Bing nothing, and filed them under the
+ * new date: the 16 October reading was the 11 October one. The Google reader refuses in this case;
+ * this one runs unattended, so it sets the old checkpoint aside and asks every URL again.
+ */
+const STALE_HOURS = 12;
+const ckptAge = fs.existsSync(CKPT) ? (Date.now() - fs.statSync(CKPT).mtimeMs) / 3600000 : Infinity;
+if (RESUME && fs.existsSync(CKPT) && ckptAge > STALE_HOURS) {
+  console.log(`Checkpoint is ${Math.round(ckptAge)} hours old, so it is a finished earlier run. Asking every URL again.\n`);
+}
+const already = RESUME && ckptAge <= STALE_HOURS
   ? new Map(JSON.parse(fs.readFileSync(CKPT, 'utf8'))
       .filter((r) => !r.error && (r.lastCrawled || r.known !== undefined))
       .map((r) => [r.url, r]))
