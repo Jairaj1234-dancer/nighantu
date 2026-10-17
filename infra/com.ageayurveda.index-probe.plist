@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Weekly index probe, Thursday 12:59 IST (07:29 UTC, the slot the GitHub Actions version used).
+  A user LaunchAgent: it runs as you, only while you are logged in, and writes only to
+  measurement/index-probe/, which is gitignored. It needs ~/.gemini-api.
+
+  RunAtLoad is false on purpose. Loading this should not fire an API call as a side effect.
+
+  THE PLIST MUST BE COPIED INTO ~/Library/LaunchAgents AND LOADED WITH bootstrap. `launchctl load`
+  is deprecated on Sonoma and failed quietly when it was pointed at this file inside the repository:
+  nothing appeared in `launchctl list`, `launchctl print` could not find the service, and the first
+  anyone would have known is a Friday that produced no reading.
+
+  Install:    cp infra/com.ageayurveda.index-probe.plist ~/Library/LaunchAgents/
+              launchctl bootstrap "gui/$(id -u)" ~/Library/LaunchAgents/com.ageayurveda.index-probe.plist
+  Check:      launchctl print "gui/$(id -u)/com.ageayurveda.index-probe" | grep -E 'state|runs'
+  Remove:     launchctl bootout "gui/$(id -u)/com.ageayurveda.index-probe"
+
+  Because it is COPIED rather than symlinked, launchd reads the copy. Edit this file and the copy
+  has to be refreshed and the agent bootstrapped again, or the change does nothing.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.ageayurveda.index-probe</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-lc</string>
+    <string>/Users/jairajsharma/Projects/ayurveda-atlas/infra/index-probe-weekly.sh</string>
+  </array>
+
+  <!--
+    PATH IS SET HERE AND NOT INHERITED FROM ANYWHERE.
+
+    This used to read "-lc above loads the login shell so node is on PATH". That was wrong, and
+    wrong in a way that is invisible from an interactive terminal: `/bin/bash -lc` run by hand
+    inherits the PATH of the shell you ran it from, so node resolved and the assumption looked
+    sound. launchd starts a job from a CLEAN environment. Tested the way launchd actually does it,
+    `env -i /bin/bash -lc 'command -v node'`, node and npm are both missing, because this account
+    has no ~/.bash_profile, ~/.bash_login, ~/.profile or ~/.bashrc for -l to read. There was never
+    a login shell putting node on the path.
+
+    The consequence would not have been an error anyone saw. `npm run build` would fail, the runner
+    would take its `build failed; not asking Bing` branch and exit 0, and the week would record
+    nothing while the agent reported success.
+
+    node is a manual install under ~/local/bin, not a version manager shim, so an absolute path is
+    stable here. /usr/local/bin stays ahead of it for anything Homebrew provides.
+  -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/Users/jairajsharma/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>4</integer>
+    <key>Hour</key><integer>12</integer>
+    <key>Minute</key><integer>59</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas</string>
+
+  <!-- The script keeps its own dated log per run; these catch anything that escapes it. -->
+  <key>StandardOutPath</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas/measurement/index-probe/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/jairajsharma/Projects/ayurveda-atlas/measurement/index-probe/launchd.err.log</string>
+</dict>
+</plist>

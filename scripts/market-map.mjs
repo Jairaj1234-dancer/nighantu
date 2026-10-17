@@ -136,8 +136,10 @@ const ranked = [...reach.values()]
   .sort((a, b) => b.n - a.n);
 
 const date = new Date().toISOString().slice(0, 10);
-const out = path.join('data', `market-map-${NAME}-${date}.json`);
-fs.mkdirSync('data', { recursive: true });
+// --out keeps a reading out of the public repo: infra/index-probe-weekly.sh writes to measurement/.
+const OUT_DIR = arg('--out', 'data');
+const out = path.join(OUT_DIR, `market-map-${NAME}-${date}.json`);
+fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.writeFileSync(out, `${JSON.stringify({
   name: NAME, date, model: MODEL, reps: REPS,
   questionsAsked: answered.length, questionsTotal: PROMPTS.length,
