@@ -1,7 +1,7 @@
 ---
 import data from '../data/products.json';
-import { getCollection } from 'astro:content';
-import { STORE } from '../lib/site';
+import { STORE, waLink } from '../lib/site';
+import { scheduledTermsOn } from '../lib/scheduled';
 
 interface Props { slug: string }
 const { slug } = Astro.props;
@@ -28,18 +28,7 @@ const { slug } = Astro.props;
  * Dropping the module is the correct half to drop. It also happens to be what the site already
  * promises on /editorial-standards/: no page exists because a product needed one.
  */
-const SCHEDULED_TERMS = [
-  // s.3(b), the sexual-pleasure limb, which is the bulk of enforcement.
-  'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
-  'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
-  // s.3(a) and (c): procurement of miscarriage, and correction of menstrual disorders.
-  'abortifacient', 'miscarriage',
-];
-
-const entries = await getCollection('herb').catch(() => []);
-const self = (entries as any[]).find((e) => e.data?.slug === slug);
-const haystack = `${self?.body ?? ''} ${JSON.stringify(self?.data ?? {})}`.toLowerCase();
-const scheduled = SCHEDULED_TERMS.filter((t) => haystack.includes(t));
+const scheduled = await scheduledTermsOn(slug);
 
 const handles: string[] = scheduled.length ? [] : ((data.map as Record<string, string[]>)[slug] ?? []);
 const items = handles
@@ -77,6 +66,11 @@ const items = handles
               rel="noopener"
             >{p.title}</a>
             <span class="pline">{p.line}</span>
+            <a
+              class="pask"
+              href={waLink(`Hi, I have a question about ${p.title}. (ref NIG-${slug})`)}
+              rel="noopener"
+            >Ask about this on WhatsApp</a>
           </div>
         </li>
       ))}

@@ -1,0 +1,130 @@
+---
+import Page from '../../layouts/Page.astro';
+import data from '../../data/prakriti.json';
+import dg from '../../data/dravyaguna.json';
+import products from '../../data/products.json';
+import { STORE, rel, waLink } from '../../lib/site';
+import { scheduledTermsOn } from '../../lib/scheduled';
+
+export function getStaticPaths() {
+  return ['vata', 'pitta', 'kapha'].map((dosha) => ({ params: { dosha } }));
+}
+
+const { dosha } = Astro.params as { dosha: 'vata' | 'pitta' | 'kapha' };
+const type = (data as any).types[dosha];
+const questions = (data as any).questions as any[];
+
+// The traits for this type, exactly as the self-check words them, with their verses.
+const traits = questions
+  .map((q) => q.options.find((o: any) => o.d === dosha))
+  .filter(Boolean);
+
+/**
+ * Herbs come only from the structured `dosha` field of the Dravyaguna dataset, which is filled for
+ * 27 of its 247 entries. Nothing is inferred from rasa, virya or vipaka: a classical rule applied
+ * by this page would be a claim this reference has not sourced. The list is short because the
+ * structured data is, and it grows when the dataset does.
+ */
+const entries = ((dg as any).entries as any[]).filter((e) => e.dosha && Object.keys(e.dosha).length);
+const reduces = entries.filter((e) => e.dosha[dosha] === 'decreases');
+const raises = entries.filter((e) => String(e.dosha[dosha] ?? '').startsWith('increases'));
+
+// Products mapped to those herbs, each herb passed through the same scheduled-term gate as
+// ProductModule. A product reached through two herbs is listed once.
+const handles = new Map<string, string>();
+for (const e of reduces) {
+  if ((await scheduledTermsOn(e.slug, e.kind)).length) continue;
+  for (const h of (products.map as Record<string, string[]>)[e.slug] ?? []) {
+    if ((products.products as Record<string, any>)[h]?.title && !handles.has(h)) handles.set(h, e.slug);
+  }
+}
+const items = [...handles].map(([handle, via]) => ({ handle, via, ...(products.products as Record<string, any>)[handle] }));
+
+const title = `${type.name} prakriti in Caraka Samhita`;
+const description = `How Caraka Samhita Vimanasthana 8 describes a ${type.name.toLowerCase()} `
+  + 'constitution, trait by trait with verse references, and the herbs this reference records as reducing it.';
+---
+<Page
+  title={title}
+  description={description}
+  canonical={`/prakriti/${dosha}/`}
+  trail={[{ label: 'Prakriti self-check', href: '/prakriti/' }, { label: type.name }]}
+  lede={type.summary}
+>
+  <p>
+    Source: <cite>Caraka Samhita</cite>, {type.ref}; in Kaviratna's public-domain translation,
+    {type.kaviratna}. The traits below are the ones the <a href={rel('/prakriti/')}>self-check</a>
+    asks about.
+  </p>
+
+  <ul>
+    {traits.map((o: any) => <li>{o.t} <small>({o.ref})</small></li>)}
+  </ul>
+
+  <p class="aliasnote">
+    Caraka also recognises mixed types, which show the traits of each dosha they combine
+    (Ca. Vi. 8.99), and a balanced type with the good qualities of all three (8.100). A self-check
+    is a self-reflection aid, not a diagnosis; see the evidence section of
+    <a href={rel('/concept/tridosha-theory/')}>tridosha theory</a>.
+  </p>
+
+  <h2>Herbs recorded as reducing {type.name.toLowerCase()}</h2>
+  <p>
+    From the <a href={rel('/dravyaguna/')}>Dravyaguna dataset</a>, which records a dosha effect
+    for {entries.length} of its entries. Each name links to the monograph and its sources.
+  </p>
+  <ul class="grid">
+    {reduces.map((e) => (
+      <li class="card">
+        <a href={rel(`/${e.kind}/${e.slug}/`)}>{e.title}</a>
+        {e.botanical && <> <em class="bot">{e.botanical}</em></>}
+      </li>
+    ))}
+  </ul>
+  {raises.length > 0 && (
+    <p>
+      Recorded as increasing {type.name.toLowerCase()}:{' '}
+      {raises.map((e, i) => (
+        <>{i > 0 && ', '}<a href={rel(`/${e.kind}/${e.slug}/`)}>{e.title}</a></>
+      ))}.
+    </p>
+  )}
+
+  {items.length > 0 && (
+    <section class="product" data-product-module aria-labelledby="available-heading">
+      <h2 id="available-heading">Available from Age Ayurveda</h2>
+      <p class="note">
+        This encyclopedia is published by Age Ayurveda. The products below are ours, and are
+        listed here because they contain one of the herbs above.
+      </p>
+      <ul>
+        {items.map((p) => (
+          <li>
+            <img src={p.image} alt={`${p.title}, product photograph`} loading="lazy" width="68" height="68" />
+            <div>
+              <a
+                class="pname"
+                href={`${STORE}/products/${p.handle}?utm_source=nighantu&utm_medium=reference&utm_campaign=prakriti-${dosha}`}
+                rel="noopener"
+              >{p.title}</a>
+              <span class="pline">{p.line}</span>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <aside class="ask" data-whatsapp-cta>
+    <p>
+      Took the self-check and came out {type.name}? Age Ayurveda, which publishes this reference,
+      answers on WhatsApp.{' '}
+      <a href={waLink(`My Nighantu prakriti self-check result: ${type.name}. (ref NIG-QUIZ-${dosha})`)} rel="noopener">Send my result on WhatsApp</a>.
+    </p>
+  </aside>
+
+  <p class="disclaimer">
+    Educational reference only. Nothing on this page is medical advice, a diagnosis, or a
+    recommendation to take anything. Consult a qualified vaidya before acting on anything here.
+  </p>
+</Page>

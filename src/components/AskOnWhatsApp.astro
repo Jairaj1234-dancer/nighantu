@@ -1,0 +1,33 @@
+---
+import products from '../data/products.json';
+import { PUBLISHER, waLink } from '../lib/site';
+import { scheduledTermsOn } from '../lib/scheduled';
+
+interface Props { kind: string; slug: string; title: string }
+const { kind, slug, title } = Astro.props;
+
+/**
+ * A line inviting a reader to message the publisher, on herb and formulation monographs.
+ *
+ * It is commercial in the same sense as ProductModule (it opens a conversation with the company
+ * that sells), so it follows the same rule: nothing on a page carrying a DMR Act scheduled term.
+ * It also stays off pages where ProductModule renders, because each product row there carries its
+ * own link and a second one would only repeat it.
+ *
+ * The wording names the publisher rather than promising an "expert", and makes no claim about the
+ * subject of the page.
+ */
+const eligible = kind === 'herb' || kind === 'formulation';
+const scheduled = eligible ? await scheduledTermsOn(slug, kind as 'herb' | 'formulation') : [];
+const hasProducts = ((products.map as Record<string, string[]>)[slug] ?? [])
+  .some((h) => (products.products as Record<string, any>)[h]?.title);
+const show = eligible && scheduled.length === 0 && !hasProducts;
+---
+{show && (
+  <aside class="ask" data-whatsapp-cta>
+    <p>
+      Questions about {title}? {PUBLISHER}, which publishes this reference, answers on
+      WhatsApp. <a href={waLink(`Hi, I was reading about ${title} on Nighantu. (ref NIG-${slug})`)} rel="noopener">Message us on WhatsApp</a>.
+    </p>
+  </aside>
+)}
