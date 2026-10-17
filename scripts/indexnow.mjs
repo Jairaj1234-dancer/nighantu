@@ -69,6 +69,18 @@ function localFileFor(url) {
   return candidates.find((c) => fs.existsSync(c) && fs.statSync(c).isFile()) ?? null;
 }
 
+/**
+ * The page as a reader sees it, for hashing.
+ *
+ * Astro names bundled assets by their content hash (`/_astro/_slug_.DGrcNw_b.css`), and every
+ * page links the shared stylesheet. So a one-line CSS edit renamed that file, changed the HTML
+ * of every page, and made the whole sitemap look revised: measured on 16 October, a change that
+ * touched 757 pages would have submitted all 1,244. Asset names are build plumbing, not content.
+ */
+function pageContent(html) {
+  return html.replace(/\/_astro\/[^"'\s)]+/g, '/_astro/*');
+}
+
 const state = loadState();
 const previous = state.indexnow.hashes ?? {};
 /**
@@ -89,7 +101,7 @@ const neverSent = [];
 for (const url of urls) {
   const file = localFileFor(url);
   if (!file) continue;
-  const h = hash(fs.readFileSync(file, 'utf8'));
+  const h = hash(pageContent(fs.readFileSync(file, 'utf8')));
   current[url] = h;
   if (ALL || previous[url] !== h) changed.push(url);
   else if (!submitted.has(url)) neverSent.push(url);
