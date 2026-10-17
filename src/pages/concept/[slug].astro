@@ -136,6 +136,13 @@ if ((r.contested ?? []).length) {
 
   {r.summary && <p class="lede">{r.summary}</p>}
 
+  {r.slug === 'tridosha-theory' && (
+    <p>
+      Caraka's description of each constitution, trait by trait, is set out as a
+      <a href={rel('/prakriti/')}>prakriti self-check</a> with every answer cited to its verse.
+    </p>
+  )}
+
   <table class="facts">
     <caption>At a glance</caption>
     <tbody>

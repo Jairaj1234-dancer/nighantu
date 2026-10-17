@@ -2,6 +2,7 @@
 import Base from './Base.astro';
 import KeyFacts from '../components/KeyFacts.astro';
 import ProductModule from '../components/ProductModule.astro';
+import AskOnWhatsApp from '../components/AskOnWhatsApp.astro';
 import References from '../components/References.astro';
 import Safety from '../components/Safety.astro';
 import ReviewCredit from '../components/ReviewCredit.astro';
@@ -212,6 +213,7 @@ const breadcrumbs = {
     <ReviewCredit kind={d.kind} slug={d.slug} />
 
     <ProductModule slug={d.slug} />
+    <AskOnWhatsApp kind={d.kind} slug={d.slug} title={d.title} />
     <CiteThis title={d.title} canonical={canonical} modified={modified} />
 
     <p class="disclaimer">

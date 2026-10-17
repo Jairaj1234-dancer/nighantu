@@ -1,8 +1,8 @@
 {
   "": {
-    "hash": "de4e1fbfd2f494fa",
+    "hash": "107d70dc7d56b25e",
     "published": "2026-10-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-17"
   },
   "about": {
     "hash": "e549041979db5a8d",
@@ -5453,6 +5453,11 @@
     "hash": "9366a50a2e63b060",
     "published": "2026-09-16",
     "modified": "2026-09-16"
+  },
+  "prakriti": {
+    "hash": "c08fec678d22a4df",
+    "published": "2026-10-17",
+    "modified": "2026-10-17"
   },
   "reference": {
     "hash": "1a3a18f5dae7749c",

@@ -1,0 +1,158 @@
+---
+import Page from '../../layouts/Page.astro';
+import data from '../../data/prakriti.json';
+import { rel, waLink } from '../../lib/site';
+
+const title = 'Prakriti self-check from Caraka Samhita';
+const description = 'Fifteen questions drawn only from the classical description of vata, pitta and '
+  + 'kapha constitutions in Caraka Samhita Vimanasthana 8, each answer cited to its verse.';
+
+const { questions, sources } = data as any;
+
+/**
+ * Scoring is a share, not a count. Caraka states more traits for vata and kapha than for pitta
+ * (pitta has no statement on gait, voice, sleep or speech), so a raw count would tilt every result
+ * away from pitta for a reason that is about the text and not the reader. Each dosha's score is
+ * the fraction of the questions offering it an option where the reader picked that option.
+ *
+ * Everything runs in the browser. No answer is sent or stored anywhere; the only thing that leaves
+ * the page is a WhatsApp message, and only if the reader taps the button and sends it.
+ */
+const offered: Record<string, number> = { vata: 0, pitta: 0, kapha: 0 };
+for (const q of questions) for (const o of q.options) if (o.d) offered[o.d]++;
+
+const wa = {
+  vata: waLink('My Nighantu prakriti self-check result: Vata. (ref NIG-QUIZ-vata)'),
+  pitta: waLink('My Nighantu prakriti self-check result: Pitta. (ref NIG-QUIZ-pitta)'),
+  kapha: waLink('My Nighantu prakriti self-check result: Kapha. (ref NIG-QUIZ-kapha)'),
+};
+const base = rel('/prakriti/');
+---
+<Page
+  title={title}
+  description={description}
+  canonical="/prakriti/"
+  trail={[{ label: 'Prakriti self-check' }]}
+  lede="Prakriti is the constitution the classical texts say a person is born with: the proportion of vata, pitta and kapha fixed at conception. Caraka describes what each type looks and behaves like. These questions ask about exactly those traits and nothing else."
+>
+  <p>
+    Pick the answer that fits you best, as you have generally been rather than how you feel today.
+    Each answer names the verse it comes from. Where the text says nothing about a dosha on a
+    question, that dosha has no answer there.
+  </p>
+
+  <p class="aliasnote">
+    <strong>A self-reflection aid, not a diagnosis.</strong> Even trained practitioners agree poorly
+    when they assess prakriti (see the evidence section of
+    <a href={rel('/concept/tridosha-theory/')}>tridosha theory</a>), and a self-check is less
+    reliable still. Use the result as a way into the texts, not as a reason to take anything.
+  </p>
+
+  <form id="pk" class="pk" data-offered={JSON.stringify(offered)} data-wa={JSON.stringify(wa)} data-base={base}>
+    {questions.map((q: any, i: number) => (
+      <fieldset>
+        <legend>{i + 1}. {q.q}</legend>
+        {q.options.map((o: any, j: number) => (
+          <label>
+            <input type="radio" name={q.id} value={o.d ?? ''} required={j === 0} />
+            <span>{o.t}{o.ref && <small> {o.ref}</small>}</span>
+          </label>
+        ))}
+      </fieldset>
+    ))}
+    <button type="submit">See my result</button>
+  </form>
+
+  <p>
+    Or read Caraka's description of each type directly:
+    <a href={rel('/prakriti/vata/')}>Vata</a>, <a href={rel('/prakriti/pitta/')}>Pitta</a>,
+    <a href={rel('/prakriti/kapha/')}>Kapha</a>.
+  </p>
+
+  <section id="pk-result" class="pk-result" data-whatsapp-cta hidden aria-live="polite">
+    <h2>Your result: <span id="pk-name"></span></h2>
+    <ul id="pk-bars" class="pk-bars"></ul>
+    <p id="pk-read"></p>
+    <p><a id="pk-wa" class="pk-wa" href="#" rel="noopener">Send my result to Age Ayurveda on WhatsApp</a></p>
+    <p class="note">
+      Age Ayurveda publishes this reference. Tapping the button opens WhatsApp with your result
+      typed in; nothing is sent unless you send it.
+    </p>
+  </section>
+
+  <h2>Sources</h2>
+  <ul>
+    {sources.map((s: any) => (
+      <li><a href={s.url} rel="noopener">{s.label}</a>. {s.note}</li>
+    ))}
+  </ul>
+  <p>
+    Traits the passage gives only as outcomes, such as lifespan, wealth and number of children,
+    are not asked. Neither are popular modern quiz items the passage does not contain, such as
+    dry skin in winter, a variable appetite or weight gain.
+  </p>
+</Page>
+
+<script is:inline data-enhancement>
+  // Progressive enhancement only: every question and source is in the HTML above, and the three
+  // result pages are linked for readers without JavaScript. This script just does the arithmetic.
+  (() => {
+    const form = document.getElementById('pk');
+    const out = document.getElementById('pk-result');
+    const offered = JSON.parse(form.dataset.offered);
+    const wa = JSON.parse(form.dataset.wa);
+    const base = form.dataset.base;
+    const NAMES = { vata: 'Vata', pitta: 'Pitta', kapha: 'Kapha' };
+  
+    form.addEventListener('submit', (ev) => {
+      ev.preventDefault();
+      const picked = { vata: 0, pitta: 0, kapha: 0 };
+      for (const [, v] of new FormData(form)) if (typeof v === 'string' && v in picked) picked[v]++;
+      const share = Object.fromEntries(
+        Object.keys(picked).map((d) => [d, offered[d] ? picked[d] / offered[d] : 0]),
+      );
+      const ranked = Object.keys(share).sort((a, b) => share[b] - share[a]);
+      const [top, second] = ranked;
+      // Caraka 8.99 recognises mixed types; call it dual when the runner-up is within ten points.
+      const dual = share[top] - share[second] <= 0.1 && share[second] > 0;
+      const label = dual ? `${NAMES[top]}-${NAMES[second]}` : NAMES[top];
+  
+      (document.getElementById('pk-name')).textContent = label;
+      const bars = document.getElementById('pk-bars');
+      bars.replaceChildren(...ranked.map((d) => {
+        const li = document.createElement('li');
+        const pct = Math.round(share[d] * 100);
+        const name = document.createElement('span');
+        name.textContent = NAMES[d];
+        const bar = document.createElement('span');
+        bar.className = 'bar';
+        const fill = document.createElement('span');
+        fill.style.width = `${pct}%`;
+        bar.append(fill);
+        const num = document.createElement('span');
+        num.textContent = `${pct}%`;
+        li.append(name, bar, num);
+        return li;
+      }));
+      const read = document.getElementById('pk-read');
+      const link = (d) => {
+        const a = document.createElement('a');
+        a.href = base + d + '/';
+        a.textContent = `what Caraka says about ${NAMES[d]}`;
+        return a;
+      };
+      read.replaceChildren(...(dual
+        ? ['Caraka says mixed types show the traits of both (Ca. Vi. 8.99). Read ', link(top), ' and ', link(second), '.']
+        : ['Read ', link(top), ', and which herbs this reference records as reducing it.']));
+  
+      const waEl = document.getElementById('pk-wa');
+      waEl.href = dual
+        ? wa[top].replace(encodeURIComponent(`${NAMES[top]}. (ref NIG-QUIZ-${top})`),
+            encodeURIComponent(`${label}. (ref NIG-QUIZ-${top}-${second})`))
+        : wa[top];
+  
+      out.hidden = false;
+      out.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  })();
+</script>

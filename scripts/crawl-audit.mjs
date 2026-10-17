@@ -74,6 +74,10 @@ for (const p of pages) {
   const scripts = [...html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)];
   for (const [, attrs, body] of scripts) {
     if (/type=["']application\/ld\+json["']/i.test(attrs)) continue;
+    // An inline script marked data-enhancement adds behaviour to content that is already in the
+    // HTML (the prakriti self-check scores answers to questions a crawler can read). It may not
+    // load anything, so `src` still fails.
+    if (/\bdata-enhancement\b/i.test(attrs) && !/\bsrc=/i.test(attrs)) continue;
     if (/\bsrc=/i.test(attrs) || body.trim().length > 0) {
       jsDependent += 1;
       fail('js-dependent', `${url} ships executable script`);

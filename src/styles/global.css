@@ -160,6 +160,16 @@ li { margin: .3rem 0; }
 }
 .product .pname { font-weight: 600; display: block; }
 .product .pline { font-size: .88rem; color: var(--ink-soft); }
+.product .pask { display: inline-block; margin-top: .3rem; font-size: .84rem; }
+
+/* ------------------------------------------------------------- ask on whatsapp */
+.ask {
+  margin: 2rem 0 0; padding: .9rem 1.1rem;
+  border-left: 3px solid var(--rule); background: var(--accent-bg); border-radius: 0 4px 4px 0;
+  font-size: .92rem;
+}
+.ask p { margin: 0; }
+.ask a { font-weight: 600; }
 
 /* ------------------------------------------------------------------- cards */
 .grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); padding: 0; list-style: none; }
@@ -360,3 +370,21 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .composition .ocrnote { color: var(--ink-soft); cursor: help; }
 .composition .illegible { color: var(--ink-soft); font-size: .88em; }
 .composition tr.structural td { color: var(--ink-soft); }
+
+/* ------------------------------------------------------------ prakriti self-check */
+.pk fieldset { border: 1px solid var(--rule); border-radius: 4px; margin: 0 0 1rem; padding: .8rem 1rem; }
+.pk legend { font-weight: 600; padding: 0 .3rem; }
+.pk label { display: flex; gap: .6rem; align-items: flex-start; padding: .35rem 0; cursor: pointer; }
+.pk input { margin-top: .3rem; flex: none; }
+.pk small, .prose li small { color: var(--ink-soft); font-size: .8rem; white-space: nowrap; }
+.pk button {
+  font: 600 1rem/1 var(--sans); padding: .8rem 1.4rem; border-radius: 4px; cursor: pointer;
+  border: 1px solid var(--ink); background: var(--ink); color: var(--paper);
+}
+.pk-result { margin: 2rem 0; padding: 1.25rem; border: 1px solid var(--rule); border-radius: 4px; background: var(--paper); }
+.pk-result h2 { margin-top: 0; }
+.pk-bars { list-style: none; padding: 0; margin: 0 0 1rem; }
+.pk-bars li { display: grid; grid-template-columns: 4rem 1fr 3rem; gap: .6rem; align-items: center; margin: .3rem 0; }
+.pk-bars .bar { height: .6rem; background: var(--accent-bg); border-radius: 3px; overflow: hidden; }
+.pk-bars .bar span { display: block; height: 100%; background: var(--ink-soft); }
+.pk-wa { font-weight: 600; }

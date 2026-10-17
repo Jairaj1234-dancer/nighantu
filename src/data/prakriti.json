@@ -1,0 +1,75 @@
+{
+  "_note": "Self-check questions built only from the prakriti passage of Caraka Samhita Vimanasthana 8.95-100 (Trikamji numbering, as in the SARIT TEI edition), with one option from Ashtanga Hridaya Sharirasthana 3.101 where Caraka is silent. Every option names the verse it comes from. A dosha the text says nothing about on a dimension gets no option there; 'neither' scores nothing. Traits the text states only as outcomes (lifespan, wealth, offspring, liability to disorder) are deliberately not asked.",
+  "sources": [
+    { "id": "caraka", "label": "Caraka Samhita, Vimanasthana 8.95-100", "url": "https://github.com/sarit/SARIT-corpus/blob/master/carakasamhita.xml", "note": "Sanskrit: SARIT TEI edition of the Trikamji (Nirnaya Sagar, 1941) text, CC BY-SA 3.0." },
+    { "id": "kaviratna", "label": "Charaka-Samhita, tr. Avinash Chandra Kaviratna, Calcutta 1890-1908, pp. 594-598", "url": "https://archive.org/details/BIUSante_47357", "note": "Public-domain English translation; numbers the passage as paragraphs 111-115." },
+    { "id": "ah", "label": "Ashtanga Hridaya, Sharirasthana 3.83-104", "url": "https://github.com/sarit/SARIT-corpus/blob/master/astangahrdayasamhita.xml", "note": "Agrees with Caraka on every trait used here; cited only where Caraka is silent." }
+  ],
+  "questions": [
+    { "id": "build", "q": "Which best describes your build?", "options": [
+      { "d": "vata", "t": "Slight and lean; veins and tendons show", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Delicate, fine-boned", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Solid and compact; limbs full and well developed", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "skin", "q": "Your skin is mostly", "options": [
+      { "d": "vata", "t": "Dry and rough, tends to crack", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Clear but with many moles, freckles or spots", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Smooth, soft and glossy", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "hair", "q": "Your hair", "options": [
+      { "d": "vata", "t": "Rough and coarse, as are nails and teeth", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Fine, soft, light-coloured or sparse; greyed or thinned early", "ref": "Ca. Vi. 8.97" },
+      { "d": null, "t": "Neither of these" } ] },
+    { "id": "hunger", "q": "Your hunger and thirst", "options": [
+      { "d": "pitta", "t": "Strong; I get hungry and thirsty easily", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Mild; I can go a long time without either", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Somewhere in between" } ] },
+    { "id": "eating", "q": "How do you eat?", "options": [
+      { "d": "vata", "t": "Lightly, quickly, and not the same way two days running", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "A lot, and I drink a lot", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Slowly and moderately", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "climate", "q": "Which bothers you more?", "options": [
+      { "d": "vata", "t": "Cold: I feel it quickly, shiver and stiffen", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Heat: I cannot stand it", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Neither much; I seldom feel overheated", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "sweat", "q": "Sweat and body odour", "options": [
+      { "d": "pitta", "t": "I sweat a lot and notice a strong body odour", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "I sweat little", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Somewhere in between" } ] },
+    { "id": "sleep", "q": "Your sleep", "options": [
+      { "d": "vata", "t": "Light and short; I wake easily", "ref": "Ca. Vi. 8.98" },
+      { "d": "kapha", "t": "I like to sleep, and sleep a lot", "ref": "AH Sha. 3.101" },
+      { "d": null, "t": "Neither of these" } ] },
+    { "id": "voice", "q": "Your voice", "options": [
+      { "d": "vata", "t": "Thin, weak or hoarse; it cracks or breaks", "ref": "Ca. Vi. 8.98" },
+      { "d": "kapha", "t": "Clear, pleasant and mellow", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Neither of these" } ] },
+    { "id": "speech", "q": "How much do you talk?", "options": [
+      { "d": "vata", "t": "A lot, and fast", "ref": "Ca. Vi. 8.98" },
+      { "d": "kapha", "t": "Slowly and not much", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Somewhere in between" } ] },
+    { "id": "movement", "q": "How do you move?", "options": [
+      { "d": "vata", "t": "Quickly and restlessly; hands, feet or eyes always moving", "ref": "Ca. Vi. 8.98" },
+      { "d": "kapha", "t": "Slowly and steadily, with a firm tread", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Somewhere in between" } ] },
+    { "id": "joints", "q": "Your joints", "options": [
+      { "d": "vata", "t": "Crack or click when I move, stand or sit", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Loose and flexible", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Firm and well knit", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "pace", "q": "Starting things and getting stirred up", "options": [
+      { "d": "vata", "t": "Quick to start, quick to get agitated", "ref": "Ca. Vi. 8.98" },
+      { "d": "kapha", "t": "Slow to start, slow to get agitated", "ref": "Ca. Vi. 8.96" },
+      { "d": null, "t": "Somewhere in between" } ] },
+    { "id": "temperament", "q": "Your temperament", "options": [
+      { "d": "vata", "t": "Quick to feel fear; likes, dislikes and moods change fast", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Bold and forceful; quick-tempered", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Calm and even-tempered", "ref": "Ca. Vi. 8.96" } ] },
+    { "id": "strength", "q": "Strength and stamina", "options": [
+      { "d": "vata", "t": "Not much physical strength", "ref": "Ca. Vi. 8.98" },
+      { "d": "pitta", "t": "Moderate; I do not put up with hardship for long", "ref": "Ca. Vi. 8.97" },
+      { "d": "kapha", "t": "Strong, with plenty of stamina", "ref": "Ca. Vi. 8.96" } ] }
+  ],
+  "types": {
+    "vata": { "name": "Vata", "ref": "Ca. Vi. 8.98", "kaviratna": "para 114, pp. 596-597", "summary": "The text derives each vata trait from vata's qualities: dry, light, unsteady, abundant, swift, cool, rough and clear. People of this type are described as slight and dry-skinned, light sleepers who talk a lot, move quickly and restlessly, take things in fast but retain them less well, feel the cold, and have joints that crack." },
+    "pitta": { "name": "Pitta", "ref": "Ca. Vi. 8.97", "kaviratna": "para 113, pp. 595-596", "summary": "The text derives each pitta trait from pitta's qualities: hot, sharp, liquid, sour and pungent. People of this type are described as delicate, with many moles or freckles, strong hunger and thirst, heat intolerance, copious sweat and strong body odour, fine light hair that greys early, loose joints, and a bold, quick temper." },
+    "kapha": { "name": "Kapha", "ref": "Ca. Vi. 8.96", "kaviratna": "para 112, pp. 594-595", "summary": "The text derives each kapha trait from kapha's qualities: unctuous, smooth, soft, firm, dense, slow, steady, heavy, cool and clear. People of this type are described as solidly built, with smooth glossy skin, mild hunger and thirst, little sweat, a slow, steady tread and speech, firm joints, a pleasant voice, and a calm temperament with plenty of strength." }
+  }
+}

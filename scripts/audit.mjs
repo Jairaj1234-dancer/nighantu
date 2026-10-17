@@ -215,7 +215,7 @@ if (fs.existsSync(DIST)) {
     }
   };
   walkDist(DIST);
-  const MODULE = /<section[^>]*data-product-module[^>]*>([\s\S]*?)<\/section>/g;
+  const MODULE = /<(section|aside)[^>]*data-(?:product-module|whatsapp-cta)[^>]*>([\s\S]*?)<\/\1>/g;
 
   /**
    * A SCHEDULED TERM AND A PRODUCT MODULE MUST NEVER SHARE A PAGE.
@@ -242,12 +242,13 @@ if (fs.existsSync(DIST)) {
   ];
   for (const f of htmlFiles) {
     const html = fs.readFileSync(f, 'utf8');
-    if (!/data-product-module/.test(html)) continue;
+    // A WhatsApp invitation is commercial in the same sense as the product module.
+    if (!/data-product-module|data-whatsapp-cta/.test(html)) continue;
     const text = html.toLowerCase();
     const hit = SCHEDULED_TERMS.filter((t) => text.includes(t));
     if (hit.length) {
       fail('scheduled-term-with-commerce',
-        `${path.relative(DIST, f)} carries a product module and the scheduled term(s) ${hit.join(', ')}. `
+        `${path.relative(DIST, f)} carries a product module or WhatsApp link and the scheduled term(s) ${hit.join(', ')}. `
         + 'DMR Act 1954 s.3 bars advertising a drug for these; the reference text is exempt under '
         + 's.14(b) but the module is not. Remove the module from this page, not the scholarship.');
     }
@@ -272,7 +273,7 @@ if (fs.existsSync(DIST)) {
   for (const p of htmlFiles) {
     const html = fs.readFileSync(p, 'utf8');
     for (const m of html.matchAll(MODULE)) {
-      let text = m[1].replace(/<[^>]+>/g, ' ').toLowerCase();
+      let text = m[2].replace(/<[^>]+>/g, ' ').toLowerCase();
       for (const t of PRODUCT_TITLES) text = text.split(t).join(' ');
       for (const t of DISEASE_TERMS) {
         if (new RegExp(`\\b${t}\\b`).test(text)) fail('product-claim', `${p} product module mentions "${t}"`);

@@ -82,3 +82,16 @@ export function datasetIdentity() {
     isPartOf: { '@type': 'DataCatalog', '@id': `${abs('/datasets/')}#catalog` },
   };
 }
+
+/**
+ * The publisher's WhatsApp number, digits only with the country code, as wa.me requires.
+ *
+ * Every link to it goes through waLink so the message arrives pre-filled. The `ref` code at the
+ * end of each pre-fill names the page it came from, so a reply can pick up where the reader was.
+ */
+export const WHATSAPP = '917524098888';
+
+/** A wa.me link that opens a chat with the publisher, with `text` already typed in. */
+export function waLink(text: string): string {
+  return `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(text)}`;
+}
