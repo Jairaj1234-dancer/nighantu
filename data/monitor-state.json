@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-10-17T06:12:00.655Z",
+    "checkedAt": "2026-10-18T06:35:19.408Z",
     "feeds": 4,
-    "matched": 1,
+    "matched": 0,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-10-17T06:11:30.495Z",
+      "checkedAt": "2026-10-18T06:34:54.285Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-10-17T06:11:38.852Z",
+      "checkedAt": "2026-10-18T06:34:57.251Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-10-17T06:11:29.975Z",
+      "checkedAt": "2026-10-18T06:34:53.745Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-10-17T06:11:32.272Z",
+      "checkedAt": "2026-10-18T06:34:55.089Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-10-17T06:11:33.827Z",
+      "checkedAt": "2026-10-18T06:34:56.940Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-10-17T06:11:38.852Z",
+    "checkedAt": "2026-10-18T06:34:57.251Z",
     "items": [
       {
         "id": "cristalmind",
@@ -88,67 +88,67 @@
   },
   "disclosure": {
     "ageayurveda": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "avn": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "avp": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "baidyanath": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "charak": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "dabur": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "list"
     },
     "himalaya": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "list"
     },
     "keralaayurveda": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "list"
     },
     "maharishi": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "oushadhi": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "quantities"
     },
     "patanjali": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "sandu": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "sdl": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "quantities"
     },
     "sitaram": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "sna": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "neither"
     },
     "zandu": {
-      "checkedOn": "2026-10-17",
+      "checkedOn": "2026-10-18",
       "state": "list"
     }
   },
@@ -176,7 +176,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-10-17T06:12:00.497Z",
+      "checkedAt": "2026-10-18T06:35:19.140Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -379,18 +379,23 @@
         "t3_1x6j050",
         "t3_1x7fxw8",
         "t3_1x7dt56",
-        "t3_1x7a4ye"
+        "t3_1x7a4ye",
+        "t3_1x8uetl",
+        "t3_1x8pnwf",
+        "t3_1x8cnbv",
+        "t3_1x8bjpw",
+        "t3_1x82uca"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-10-17T06:11:59.996Z",
+    "checkedAt": "2026-10-18T06:35:18.537Z",
     "oldest": [],
     "overdue": 0,
-    "total": 1152
+    "total": 1153
   },
   "health": {
-    "checkedAt": "2026-10-17T06:11:18.226Z",
+    "checkedAt": "2026-10-18T06:34:43.296Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -404,7 +409,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-10-17T06:13:29.956Z",
+    "checkedAt": "2026-10-18T06:37:15.807Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-39",
@@ -2927,7 +2932,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-10-17T06:11:27.223Z",
+    "checkedAt": "2026-10-18T06:34:51.316Z",
     "total": 21
   },
   "safetyRefresh": {
@@ -3331,10 +3336,15 @@
       "count": 1,
       "firstSeen": "2026-10-17T06:13:29.956Z",
       "lastSeen": "2026-10-17T06:13:29.956Z"
+    },
+    "threads:2026-10-18": {
+      "count": 1,
+      "firstSeen": "2026-10-18T06:37:15.807Z",
+      "lastSeen": "2026-10-18T06:37:15.807Z"
     }
   },
   "threads": {
-    "checkedAt": "2026-10-17T06:13:14.145Z",
+    "checkedAt": "2026-10-18T06:36:33.667Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -3746,19 +3756,39 @@
       "t3_1x25c35",
       "t3_1x1toxd",
       "t3_1x1p2ip",
-      "t3_1x1oxko"
+      "t3_1x1oxko",
+      "t3_1x8viqx",
+      "t3_1x8pqvx",
+      "t3_1x8fbsc",
+      "t3_1x8aope",
+      "t3_1x7wa75",
+      "t3_1x7utu9",
+      "t3_1x7ur81",
+      "t3_1x7riyk",
+      "t3_1x7odbr",
+      "t3_1x7o72o",
+      "t3_1x7n9a5",
+      "t3_1x7n6wn",
+      "t3_1x7n68v",
+      "t3_1x7n0rr",
+      "t3_1x7mrcn",
+      "t3_1x7jzj6",
+      "t3_1x7ftpl",
+      "t3_1x7bvea",
+      "t3_1x7b7te",
+      "t3_1x79ljb"
     ]
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-10-17T06:13:14.145Z",
-    "fresh": 25,
+    "checkedAt": "2026-10-18T06:36:33.667Z",
+    "fresh": 20,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
-    "qualified": 1,
+    "qualified": 2,
     "requests": 13,
-    "seen": 25,
-    "surfaced": 1
+    "seen": 22,
+    "surfaced": 2
   },
-  "updatedAt": "2026-10-17T07:41:48.855Z",
+  "updatedAt": "2026-10-18T06:37:18.135Z",
   "version": 1
 }
