@@ -29,9 +29,9 @@ Last run: **2026-10-19**  ·  Site: https://nighantu.ageayurveda.com
 | --- | --- |
 | Daily submission quota | 100 |
 | Quota remaining | 100 |
-| Impressions (last period) | 33 |
-| Clicks (last period) | 1 |
-| Checked | 2026-10-12 |
+| Impressions (last period) | 27 |
+| Clicks (last period) | 0 |
+| Checked | 2026-10-19 |
 
 ## Citation panel
 
