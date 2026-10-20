@@ -39,10 +39,12 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ## Which traditional uses are supported by research?
 
-- Tamaka Shwasa (bronchial asthma): critical review validates bronchodilatory and anti-inflammatory mechanisms for chronic asthma management
-- Kasa (chronic cough): primary classical indication from Charaka Samhita Kasa Chikitsa validated through pharmacological studies
-- Pranvaha Srotas health (respiratory channels): clinical study confirms measurable improvement in cardiorespiratory parameters
-- Pratishyaya (allergic rhinitis/sinusitis): traditional respiratory indication supported by [immunomodulatory](/reference/immunomodulatory/) and anti-allergic properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Tamaka Shwasa (bronchial asthma): traditionally used for chronic asthma. A review has reported bronchodilatory and anti-inflammatory activity.
+- Kasa (chronic cough): used in classical practice for chronic cough, as a primary indication from Charaka Samhita Kasa Chikitsa.
+- Pranvaha Srotas health (respiratory channels): traditionally used for the respiratory channels. A clinical study reported improvement in cardiorespiratory parameters.
+- Pratishyaya (allergic rhinitis/sinusitis): traditionally used as a respiratory indication for allergic rhinitis and sinusitis.
 
 ## What do recent clinical trials show?
 

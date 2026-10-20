@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## Which traditional uses are supported by research?
 
-- Respiratory infections (pneumonia, bronchitis, influenza): Mucolytic and anti-inflammatory properties provide mechanistic basis; traditional use extensively documented
-- Bone disorders and osteoporosis: Optimal Ca:P ratio and osteoporosis prevention in animal model (Calci-7 study) validates traditional use for Asthi Kshaya
-- Cardiac conditions (Hritshula - cardiac pain): Calcium and potassium content supports cardiac function; traditional use for angina pectoris and cardiac pain documented since Samhita period
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Respiratory infections (pneumonia, bronchitis, influenza): traditionally used for these conditions. This traditional use is extensively documented.
+- Bone disorders and osteoporosis: traditionally used for Asthi Kshaya. An animal study reported an optimal Ca:P ratio and a protective effect against osteoporosis.
+- Cardiac conditions (Hritshula - cardiac pain): traditionally used for angina pectoris and cardiac pain. This use is documented since the Samhita period.
 
 ## What do recent clinical trials show?
 

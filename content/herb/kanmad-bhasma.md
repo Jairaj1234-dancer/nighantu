@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Iron-deficiency anemia (Pandu Roga): Iron supplementation efficacy well-established; magnetite form provides superior bioavailability per Ayurvedic and modern analysis
-- Diabetes (Madhumeha): Traditional use supported by iron's role in [glucose](/glossary/compounds-d-g/#glucose) metabolism regulation and insulin sensitivity enhancement
-- Chronic fevers (Jeerna Jwara): Anti-microbial and immune-supporting properties of iron compounds provide partial mechanistic validation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia.
+- Diabetes (Madhumeha): traditionally used for diabetes.
+- Chronic fevers (Jeerna Jwara): traditionally used for chronic fevers.
 
 ## What do recent clinical trials show?
 

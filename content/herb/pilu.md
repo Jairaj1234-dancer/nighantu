@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 
 **Optimal Timing:** Chewing stick: morning before meals (traditional dental hygiene). Oral supplements: after meals. Toothpaste/powder: twice daily brushing.
 
-**Standardized Extract:** Salvadora persica bark extract (8:1) standardized to salvadorine >1%, total [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) >0.5%, fluoride content documented. Stem aqueous extract for dental formulations with validated [antimicrobial](/reference/antimicrobial/) activity (MIC testing).
+**Standardized Extract:** Salvadora persica bark extract (8:1) standardized to salvadorine >1%, total [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) >0.5%, fluoride content documented. Stem aqueous extract for dental formulations with [antimicrobial](/reference/antimicrobial/) activity reported in MIC testing.
 
 **Shelf Life:** Fresh chewing sticks: 1-2 weeks at ambient; Dried bark powder: 18-24 months; Extract: 24 months; Toothpaste: 24-36 months
 

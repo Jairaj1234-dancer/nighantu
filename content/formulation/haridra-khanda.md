@@ -31,7 +31,7 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ## How does it work?
 
-- [Curcumin](/herb/curcumin/) modulates [histamine](/glossary/compounds-g-l/#histamine) release and mast cell degranulation, providing direct anti-allergic action validated by LC-ESI-MS/MS
+- Experimental studies using LC-ESI-MS/MS have reported that [Curcumin](/herb/curcumin/) modulates [histamine](/glossary/compounds-g-l/#histamine) release and mast cell degranulation, which suggests anti-allergic activity.
 - Anti-inflammatory action through NF-kB pathway inhibition reduces allergic tissue inflammation and hypersensitivity reactions
 - Antipruritic properties of [turmeric](/herb/turmeric/) combined with Lauha Bhasma provide relief from allergic itching and urticaria
 - Blood purifying (Rakta Shodhaka) action of [Haridra](/herb/haridra/) with [Triphala](/herb/triphala/) and [Vidanga](/herb/vidanga/) clears toxins underlying chronic skin allergies
@@ -39,10 +39,12 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ## Which traditional uses are supported by research?
 
-- Sheetapitta (urticaria/allergic skin rash): clinical evaluation validates efficacy in managing allergic urticaria
-- Pratishyaya (allergic rhinitis): 2024 pharmacological study validates anti-histamine mechanism through LC-ESI-MS/MS in experimental models
-- Kushta (skin diseases): traditional blood-purifying and anti-allergic use supported by [curcumin](/herb/curcumin/)'s anti-inflammatory pharmacology
-- Kandu (pruritus/itching): antipruritic, antihistamine, and anti-inflammatory properties validated for itch relief
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Sheetapitta (urticaria/allergic skin rash): traditionally used for allergic urticaria. A clinical evaluation reported improvement in allergic urticaria.
+- Pratishyaya (allergic rhinitis): traditionally used for allergic rhinitis. A pharmacological study in experimental models reported anti-histamine activity using LC-ESI-MS/MS.
+- Kushta (skin diseases): traditionally used as a blood-purifying and anti-allergic remedy. Studies have reported anti-inflammatory activity for [curcumin](/herb/curcumin/).
+- Kandu (pruritus/itching): traditionally used for itching. Studies have reported antipruritic, antihistamine and anti-inflammatory properties.
 
 ## What do recent clinical trials show?
 

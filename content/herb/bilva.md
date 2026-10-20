@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 ## What do recent clinical trials show?
 
 - Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
-  Comprehensive review highlighting neuroprotective potential of A. marmelos bioactive compounds including marmelosin, aegeline, and imperatorin, while emphasizing the need for more clinical trials to validate potency and safety in neurological applications.
+A review reported neuroprotective potential for A. marmelos compounds, including marmelosin, aegeline and imperatorin. It noted that more clinical trials are needed to assess their potency and safety in neurological use.
 - Chopra NK, Mehta V, Nagu P 2026. [Unraveling the neuroprotective potential of Aegle marmelos in Alzheimer's disease: a network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/41613637/). *In silico pharmacology*. PMID [41613637](https://pubmed.ncbi.nlm.nih.gov/41613637/) · [doi:10.1007/s40203-026-00559-x](https://doi.org/10.1007/s40203-026-00559-x)  
   Network pharmacology and molecular docking study identified multiple targets for neuroprotection in Alzheimer's disease, suggesting multi-target therapeutic potential.
 

@@ -38,10 +38,12 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ## Which traditional uses are supported by research?
 
-- Blood purification and detoxification - validated by hepatic and renal detoxification mechanism studies
-- Skin disorders (eczema, psoriasis, acne) - supported by PASI score improvement in open-label trial
-- Fever management (adjunct) - corroborated by pilot study showing faster temperature reduction in dengue
-- Urinary disorders and diabetes complications (Prameha Pidika) - traditional use supported by anti-inflammatory and detoxifying mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Blood purification and detoxification: traditionally used for blood purification and detoxification. Mechanism studies have reported hepatic and renal detoxification activity.
+- Skin disorders (eczema, psoriasis, acne): traditionally used for skin disorders such as eczema, psoriasis and acne. An open-label trial reported improvement in PASI scores.
+- Fever (adjunct): traditionally used as an adjunct in fever. A pilot study in dengue reported faster temperature reduction.
+- Urinary disorders and diabetes complications (Prameha Pidika): traditionally used for urinary disorders and diabetes complications (Prameha Pidika).
 
 ## What do recent clinical trials show?
 

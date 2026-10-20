@@ -39,10 +39,12 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Ma
 
 ## Which traditional uses are supported by research?
 
-- Kushta (skin diseases including psoriasis, eczema): multicenter clinical trials validate 65% improvement when combined with supportive therapies
-- Raktapitta (bleeding disorders): traditional blood-purifying use supported by anti-inflammatory and pitta-pacifying pharmacological profiles
-- Vrana (non-healing ulcers): topical and internal use supported for chronic wound management
-- Snehapana (Panchakarma oleation): validated as preparatory procedure medium for Virechana in dermatological conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kushta (skin diseases including psoriasis, eczema): traditionally used for these skin conditions. Multicenter clinical trials have reported improvement when it was combined with supportive therapies.
+- Raktapitta (bleeding disorders): traditionally used for its blood-purifying and pitta-pacifying action.
+- Vrana (non-healing ulcers): traditionally used topically and internally for chronic wounds.
+- Snehapana (Panchakarma oleation): used in classical practice as a preparatory medium before Virechana in dermatological conditions.
 
 ## What do recent clinical trials show?
 

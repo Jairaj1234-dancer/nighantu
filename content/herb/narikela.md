@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Urinary disorder (Mutraroga) treatment validated through [diuretic](/reference/diuretic/) and nephroprotective preclinical studies
-- Wound healing use of [coconut oil](/glossary/concepts-a-m/#coconut-oil) validated through antimicrobial and epithelialization studies
-- Rehydration use of coconut water validated through electrolyte composition analysis comparable to ORS formulations
-- Skin care (Charma roga) use validated through emollient, antimicrobial and anti-inflammatory properties of virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Mutraroga (urinary disorders): traditionally used for urinary disorders. Preclinical studies have reported [diuretic](/reference/diuretic/) and nephroprotective activity.
+- Wounds: [coconut oil](/glossary/concepts-a-m/#coconut-oil) is traditionally applied to wounds. Studies have reported antimicrobial activity and effects on epithelialization.
+- Rehydration: coconut water is traditionally used for rehydration. An analysis of its electrolyte composition reported it as comparable to ORS formulations.
+- Charma roga (skin disorders): traditionally used in skin care. Studies have reported emollient, antimicrobial and anti-inflammatory properties of virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil).
 
 ## What do recent clinical trials show?
 

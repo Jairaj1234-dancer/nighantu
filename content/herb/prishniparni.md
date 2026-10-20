@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory activity validated through in vivo studies, confirming its traditional role in treating Shotha (edema/inflammation)
-- Cardioprotective properties supported by preclinical studies showing improvement in cardiac biomarkers
-- Wound healing activity confirmed through experimental models, validating its use in traditional wound management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for Shotha (edema/inflammation). Animal studies have reported anti-inflammatory activity.
+- Preclinical studies have reported improvement in cardiac biomarkers.
+- Traditionally used on wounds. Experimental studies have reported wound healing activity.
 
 ## What do recent clinical trials show?
 

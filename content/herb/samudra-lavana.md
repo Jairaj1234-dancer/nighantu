@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Virechana support (purgation therapy): Osmotic laxative mechanism of magnesium salts validates traditional use as a mild purgative in Ayurvedic Panchakarma support
-- Shula (colic pain): Magnesium-mediated smooth muscle relaxation provides scientific basis for traditional anti-colic application
-- Deepana (digestive stimulant): Salt-mediated gastric acid stimulation and enzyme activation confirmed by modern physiology
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Virechana support (purgation therapy): traditionally used as a mild purgative in Ayurvedic Panchakarma support.
+- Shula (colic pain): traditionally used for colic pain.
+- Deepana (digestive stimulant): traditionally used as a digestive stimulant.
 
 ## What do recent clinical trials show?
 

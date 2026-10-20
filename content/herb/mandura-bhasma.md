@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Iron-deficiency anemia (Pandu Roga): Clinical trials confirmed significant hemoglobin improvement (1.2 g/dL over 8 weeks) with no adverse effects
-- Menstrual disorders (Raktapradar): Over 40% reduction in menstrual blood loss in 65 women within two treatment cycles
-- Liver and spleen enlargement (Yakrit-Pleeha Vikara): Hepatoprotective activity and reticuloendothelial support partially validated through preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron-deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin levels, with no adverse effects reported.
+- Menstrual disorders (Raktapradar): traditionally used for this condition. A clinical study in women reported reduced menstrual blood loss.
+- Liver and spleen enlargement (Yakrit-Pleeha Vikara): traditionally used for this condition. Preclinical studies have reported hepatoprotective activity and reticuloendothelial support.
 
 ## What do recent clinical trials show?
 

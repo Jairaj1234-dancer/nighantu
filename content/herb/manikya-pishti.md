@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 
 ## Which traditional uses are supported by research?
 
-- Immunostimulation and tuberculosis (Rajayakshma): The documented anticancer/apoptotic and immunomodulatory properties of ruby nanoparticles provide preliminary mechanistic support for traditional immune-enhancing claims
-- Cognitive enhancement and neuroprotection: Preclinical neuroprotective studies validate the traditional use for improving Buddhi (intellect) and Smriti (memory)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Immunostimulation and tuberculosis (Rajayakshma): traditionally used to enhance immunity and for Rajayakshma. Studies on ruby nanoparticles have reported anticancer, apoptotic and immunomodulatory activity.
+- Cognitive enhancement and neuroprotection: traditionally used for improving Buddhi (intellect) and Smriti (memory). Preclinical studies have reported neuroprotective effects.
 
 ## What do recent clinical trials show?
 

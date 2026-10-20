@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antimalarial and [antipyretic](/reference/antipyretic/) properties validated through in vivo studies using Plasmodium models and fever-inducing paradigms
-- [Diuretic](/reference/diuretic/) activity confirmed through experimental models, supporting traditional use in urinary disorders and as a body purifier
-- Antibacterial and antifungal activity validated against multiple pathogenic organisms, confirming traditional use in infection management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Animal studies using Plasmodium models and fever-inducing models have reported antimalarial and [antipyretic](/reference/antipyretic/) activity.
+- Traditionally used in urinary disorders and as a body purifier. Experimental studies have reported [diuretic](/reference/diuretic/) activity.
+- Traditionally used for infections. Laboratory studies have reported antibacterial and antifungal activity against several disease-causing organisms.
 
 ## What do recent clinical trials show?
 

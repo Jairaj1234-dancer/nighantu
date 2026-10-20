@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Laxative efficacy extensively validated through clinical studies and pharmacological research, confirming premier traditional use as a bowel stimulant (Virechana dravya)
-- Antimicrobial properties validated against multiple bacterial and fungal strains, supporting broader traditional applications beyond purgation
-- Anti-inflammatory properties partially validated through preclinical studies, though this is not the primary traditional indication
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a bowel stimulant (Virechana dravya). Clinical studies and pharmacological research have reported laxative activity.
+- Traditionally used beyond purgation. In vitro studies have reported antimicrobial activity against several bacterial and fungal strains.
+- Preclinical studies have reported anti-inflammatory activity, though this is not the primary traditional use.
 
 ## What do recent clinical trials show?
 

@@ -48,9 +48,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-tumor and anti-cancer activity validated through extensive in vitro and in vivo studies showing inhibition of multiple cancer cell lines (A549, HepG2, Caco-2, K562)
-- Anti-HIV activity confirmed through laboratory studies demonstrating inhibition of viral replication
-- [Immunomodulatory](/reference/immunomodulatory/) properties validated through polysaccharide-mediated activation of immune signaling pathways
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- In vitro and animal studies have reported anti-tumor activity, including inhibition of several cancer cell lines.
+- Laboratory studies have reported anti-HIV activity, including inhibition of viral replication.
+- [Immunomodulatory](/reference/immunomodulatory/) properties have been reported in studies, linked to polysaccharides activating immune signaling pathways.
 
 ## What do recent clinical trials show?
 

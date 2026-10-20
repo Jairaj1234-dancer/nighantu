@@ -39,17 +39,19 @@ Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [
 
 ## Which traditional uses are supported by research?
 
-- Digestive regulation and detoxification (Anulomana, Ama Pachana) validated through demonstrated prebiotic, prokinetic, and epithelial-restorative mechanisms
-- Rasayana (rejuvenative) action validated through antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging mechanisms confirmed across multiple clinical and preclinical studies
-- Eye health ([Chakshushya](/herb/chakshushya/)) supported by antioxidant and anti-inflammatory effects; clinical studies on anti-cataract potential ongoing
-- Oral health (Kavala/Gandusha) validated through demonstrated antibacterial activity against dental caries pathogens and reduction of gingivitis in clinical trials
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive regulation and detoxification (Anulomana, Ama Pachana): traditionally used for digestive regulation and detoxification. Studies have reported prebiotic, prokinetic, and epithelial-restorative activity.
+- Rasayana (rejuvenative): traditionally used as a rejuvenative. Clinical and preclinical studies have reported antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging activity.
+- Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used for eye health. Studies have reported antioxidant and anti-inflammatory effects. Clinical studies on anti-cataract potential are reported to be ongoing.
+- Oral health (Kavala/Gandusha): traditionally used for oral health. Studies have reported antibacterial activity against dental caries pathogens, and clinical trials have reported reduced gingivitis.
 
 ## What do recent clinical trials show?
 
 - Tarasiuk A, Mosińska P, Fichna J 2018. [Triphala: current applications and new perspectives on the treatment of functional gastrointestinal disorders](https://pubmed.ncbi.nlm.nih.gov/30034512/). *Chinese medicine*. PMID [30034512](https://pubmed.ncbi.nlm.nih.gov/30034512/) · [doi:10.1186/s13020-018-0197-6](https://doi.org/10.1186/s13020-018-0197-6)  
   Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/reference/anticancer/) effects.
 - Peterson CT, Denniston K, Chopra D 2017. [Therapeutic Uses of Triphala in Ayurvedic Medicine](https://pubmed.ncbi.nlm.nih.gov/28696777/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [28696777](https://pubmed.ncbi.nlm.nih.gov/28696777/) · [doi:10.1089/acm.2017.0083](https://doi.org/10.1089/acm.2017.0083)  
-  Validated therapeutic effects including appetite stimulation, gastric hyperacidity reduction, dental caries prevention, [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), antibacterial, antimutagenic, wound healing, [hepatoprotective](/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
+  Studies have reported activities including appetite stimulation, reduced gastric hyperacidity, activity against dental caries, [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), antibacterial, antimutagenic, wound-repair, [hepatoprotective](/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

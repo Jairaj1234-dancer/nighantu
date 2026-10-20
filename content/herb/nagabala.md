@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Nervine tonic (Medhya) use partially supported by antioxidant activity in brain tissue and [neuroprotective](/reference/neuroprotective/) properties of phenolic constituents
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and rejuvenative ([Vajikarana](/glossary/pharmacology/#vajikarana)-[Rasayana](/reference/rasayana/)) use based on traditional clinical evidence; awaits modern clinical validation
-- Cardiac tonic (Hridya) use supported by preliminary evidence of positive inotropic effect and [cardioprotective](/reference/cardioprotective/) antioxidant activity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Nervine tonic (Medhya): traditionally used as a nervine tonic. Studies have reported antioxidant activity in brain tissue and [neuroprotective](/reference/neuroprotective/) properties of phenolic constituents.
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and rejuvenative ([Vajikarana](/glossary/pharmacology/#vajikarana)-[Rasayana](/reference/rasayana/)): used in classical practice as an aphrodisiac and rejuvenative.
+- Cardiac tonic (Hridya): traditionally used as a cardiac tonic. Preliminary studies have reported a positive inotropic effect and [cardioprotective](/reference/cardioprotective/) antioxidant activity.
 
 ## What do recent clinical trials show?
 

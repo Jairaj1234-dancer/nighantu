@@ -38,10 +38,12 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## Which traditional uses are supported by research?
 
-- Memory enhancement and cognitive support - validated by mouse model studies and clinical trial (n=100)
-- Speech disorders and stuttering in children - traditional use supported by cholinergic modulation mechanisms
-- Anxiety and mental fatigue - corroborated by GABA/[serotonin](/glossary/compounds-q-t/#serotonin) modulation studies
-- Epilepsy (adjunct) - supported by network pharmacology identifying anticonvulsant pathways
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Memory enhancement and cognitive support: traditionally used for memory and cognitive support. Animal studies in mice and a clinical study have reported effects on memory.
+- Speech disorders and stuttering in children: traditionally used for speech disorders and stuttering in children.
+- Anxiety and mental fatigue: traditionally used for anxiety and mental fatigue. Research has reported GABA and [serotonin](/glossary/compounds-q-t/#serotonin) modulation.
+- Epilepsy (adjunct): traditionally used as an adjunct in epilepsy. A network pharmacology analysis has reported pathways linked to anticonvulsant activity.
 
 ## What do recent clinical trials show?
 

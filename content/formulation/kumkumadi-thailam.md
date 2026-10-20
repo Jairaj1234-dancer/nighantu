@@ -38,9 +38,11 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## Which traditional uses are supported by research?
 
-- Skin brightening and complexion enhancement (Varnya) - validated by clinical trials showing 20-30% melanin reduction after 8 weeks of regular use
-- Post-acne mark fading and scar reduction - supported by case series from Ayurvedic clinics showing visible fading in 65% of participants within 6 weeks
-- Skin hydration and anti-aging - validated by clinical measurement showing 25% increase in skin hydration and improved elasticity, with reduced transepidermal water loss
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Skin brightening and complexion enhancement (Varnya): traditionally used to brighten the skin and enhance complexion. Clinical trials have reported reduced melanin with regular use.
+- Post-acne marks and scars: traditionally used to fade post-acne marks and scars. Case series from Ayurvedic clinics have reported visible fading of marks in some participants.
+- Skin hydration and anti-aging: traditionally used for skin hydration and anti-aging. Clinical measurements have reported increased skin hydration, improved elasticity and reduced transepidermal water loss.
 
 ## What do recent clinical trials show?
 

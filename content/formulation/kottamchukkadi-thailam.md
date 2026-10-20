@@ -38,9 +38,11 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 ## Which traditional uses are supported by research?
 
-- Arthritis and joint pain management - validated by pilot study (2020) showing 65% of OA patients experiencing pain reduction and improved flexibility
-- Neuromuscular pain including spondylosis and sciatica - supported by RCT (2021) demonstrating 25% additional pain relief over physiotherapy alone
-- Tennis elbow and sports injury management - supported by pharmacological evidence of COX-2 inhibition and enhanced transdermal delivery of anti-inflammatory compounds
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for arthritis and joint pain. A pilot study reported pain reduction and improved flexibility in patients with osteoarthritis.
+- Traditionally used for neuromuscular pain, including spondylosis and sciatica. A randomized controlled trial reported additional pain reduction compared with physiotherapy alone.
+- Traditionally used for tennis elbow and sports injuries. Pharmacological studies have reported COX-2 inhibition and enhanced transdermal delivery of anti-inflammatory compounds.
 
 ## What do recent clinical trials show?
 

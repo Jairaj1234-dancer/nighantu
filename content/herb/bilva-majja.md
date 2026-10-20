@@ -47,14 +47,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiarrhoeal activity extensively validated through multiple pharmacological studies confirming traditional Ayurvedic use of [Bilva](/herb/bilva/) Majja for Atisara (diarrhea) and Grahani (IBS)
-- Antidiabetic effects validated through [coumarins](/glossary/compounds-c-d/#coumarins)-enriched extract studies supporting traditional use for Prameha (diabetes) in classical Ayurvedic texts
-- Radioprotective activity validated in preclinical models, a novel finding extending beyond traditional uses
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Bilva](/herb/bilva/) Majja is traditionally used in Ayurveda for Atisara (diarrhea) and Grahani (IBS). Pharmacological studies have reported antidiarrhoeal activity.
+- Traditionally used for Prameha (diabetes) in classical Ayurvedic texts. Studies of a [coumarins](/glossary/compounds-c-d/#coumarins)-enriched extract have reported antidiabetic effects.
+- Preclinical studies have reported radioprotective activity. This finding is not among the traditional uses.
 
 ## What do recent clinical trials show?
 
 - Tiwari R, Mishra S, Danaboina G and others 2023. [Comprehensive chemo-profiling of coumarins enriched extract derived from Aegle marmelos (L.) Correa fruit pulp, as an anti-diabetic and anti-inflammatory agent](https://pubmed.ncbi.nlm.nih.gov/37564748/). *Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society*. PMID [37564748](https://pubmed.ncbi.nlm.nih.gov/37564748/) · [doi:10.1016/j.jsps.2023.101708](https://doi.org/10.1016/j.jsps.2023.101708)  
-  Coumarins enriched from bael fruit pulp demonstrated significant anti-diabetic and anti-inflammatory activity, validating potential for phytopharmaceutical development.
+  Studies have reported anti-diabetic and anti-inflammatory activity for coumarins enriched from bael fruit pulp, suggesting potential for phytopharmaceutical development.
 - Manandhar B, Paudel KR, Sharma B and others 2018. [Phytochemical profile and pharmacological activity of Aegle marmelos Linn](https://pubmed.ncbi.nlm.nih.gov/29709412/). *Journal of integrative medicine*. PMID [29709412](https://pubmed.ncbi.nlm.nih.gov/29709412/) · [doi:10.1016/j.joim.2018.04.007](https://doi.org/10.1016/j.joim.2018.04.007)  
   Fruit pulp contains bioactive coumarins, [alkaloids](/glossary/compounds-1-a/#alkaloids), and [terpenoids](/glossary/compounds-t-z/#terpenoids) exhibiting antidiarrhoeal, [antimicrobial](/reference/antimicrobial/), antiviral, radioprotective, and [anticancer](/reference/anticancer/) properties.
 
@@ -64,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 - Fruit pulp is widely consumed as food and traditional medicine with long history of safe use; ethanolic leaf extract showed minimal cytotoxicity at low concentrations (6.3 ul/ml)
 - No significant systemic toxicity reported at therapeutic doses; variability in phytochemical composition between specimens may affect dosing consistency
-- Insufficient clinical trials exist to fully validate safety; standardized formulations are needed for reliable therapeutic application
+- Few clinical trials have assessed safety. Standardized formulations are needed for reliable therapeutic use.
 
 ## Dosage forms and preparation
 

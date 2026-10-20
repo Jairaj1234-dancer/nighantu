@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 ## Which traditional uses are supported by research?
 
-- Rheumatoid arthritis (Amavata) management validated through multiple reviews confirming DMARD-like activity with significant reduction in inflammation, pain, and stiffness
-- Anti-gout and anti-hyperuricemic activity validated through [Triphala](/herb/triphala/)'s demonstrated anti-hyperuricemic effects in pharmacological studies
-- Joint flexibility improvement validated through clinical observations showing enhanced mobility and reduced swelling
-- Detoxification and Ama elimination validated through the laxative and digestive mechanisms of castor oil and purified sulphur combination
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amavata (rheumatoid arthritis): traditionally used in classical practice for this condition. Reviews have reported DMARD-like activity, with reductions in inflammation, pain, and stiffness.
+- Traditionally used for gout and high uric acid. Pharmacological studies have reported anti-hyperuricemic effects for [Triphala](/herb/triphala/).
+- Traditionally used to improve joint flexibility. Clinical observations have reported improved mobility and reduced swelling.
+- Traditionally used for detoxification and Ama elimination. The combination of castor oil and purified sulphur is traditionally described as having laxative and digestive actions.
 
 ## What do recent clinical trials show?
 

@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-- Gout (Vatarakta) management validated through clinical case series showing significant reduction in uric acid levels and joint inflammation
-- Blood purification and skin disease management supported by antioxidant and anti-inflammatory activity confirmed in pharmacological studies
-- Anti-inflammatory and [analgesic](/reference/analgesic/) activity validated through inhibition of carrageenan-induced paw edema in animal models
-- Detoxification (Ama Pachana) supported by enhanced hepatic function and metabolic waste elimination in clinical observations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vatarakta (gout): traditionally used in classical practice for gout. A clinical case series reported reductions in uric acid levels and joint inflammation.
+- Traditionally used for blood purification and skin diseases. Pharmacological studies have reported antioxidant and anti-inflammatory activity.
+- Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity, including inhibition of carrageenan-induced paw edema.
+- Ama Pachana (detoxification): traditionally used for detoxification. Clinical observations have reported improved hepatic function and metabolic waste elimination.
 
 ## What do recent clinical trials show?
 

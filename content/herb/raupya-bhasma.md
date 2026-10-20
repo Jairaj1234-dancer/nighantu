@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Insomnia and anxiety: Reverse pharmacological study confirmed significant sedative-hypnotic effect in mice, validating traditional use for Anidra (insomnia) and Chittodvega (anxiety)
-- Pain management: Demonstrated analgesic activity comparable to aspirin in animal models, supporting traditional use for Shula (pain) and neuralgias
-- Neurological disorders: Evidence for safety on neurobehavioral parameters in rats, partially validating traditional use for memory loss, convulsions, and nervous system disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Insomnia and anxiety: traditionally used for Anidra (insomnia) and Chittodvega (anxiety). An animal study in mice reported a sedative-hypnotic effect.
+- Pain: traditionally used for Shula (pain) and neuralgias. Animal studies have reported analgesic activity comparable to aspirin.
+- Neurological disorders: traditionally used for memory loss, convulsions, and nervous system disorders. Animal studies in rats have reported safety on neurobehavioral parameters.
 
 ## What do recent clinical trials show?
 

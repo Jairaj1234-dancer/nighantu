@@ -39,10 +39,12 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 ## Which traditional uses are supported by research?
 
-- Grahani (IBS): clinical trial validates 67-100% improvement across all IBS symptoms including pain, bloating, diarrhea, and mucus passage
-- Atisara (diarrhea): anti-diarrheal action of Bilwa validated pharmacologically through astringent and [antimicrobial](/reference/antimicrobial/) mechanisms
-- Pravahika (dysentery): traditional use supported by antimicrobial and intestinal mucosal protective properties of Bael
-- Agnimandya (digestive weakness): [Trikatu](/herb/trikatu/) and carminative spices confirmed to enhance digestive enzyme activity and reduce flatulence
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Grahani (IBS): traditionally used for Grahani. A clinical study reported improvement in IBS symptoms, including pain, bloating, diarrhea, and mucus passage.
+- Atisara (diarrhea): traditionally used for Atisara. Pharmacological studies have reported anti-diarrheal activity of Bilwa through astringent and [antimicrobial](/reference/antimicrobial/) mechanisms.
+- Pravahika (dysentery): traditionally used for Pravahika. Bael has been reported to have antimicrobial and intestinal mucosal protective properties.
+- Agnimandya (digestive weakness): traditionally used for Agnimandya. [Trikatu](/herb/trikatu/) and carminative spices have been reported to enhance digestive enzyme activity and reduce flatulence.
 
 ## What do recent clinical trials show?
 

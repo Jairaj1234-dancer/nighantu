@@ -39,10 +39,12 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## Which traditional uses are supported by research?
 
-- Cough (Kasa) management (validated by RCT showing significant cough frequency reduction vs. placebo)
-- Allergic respiratory conditions (validated by mast cell stabilization comparable to ketotifen)
-- Respiratory tract infections (validated by antimicrobial activity against common respiratory pathogens)
-- Bronchial asthma and bronchospasm (validated by bronchodilator activity studies)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kasa (cough): traditionally used for cough. A randomized controlled trial reported reduced cough frequency compared with placebo.
+- Allergic respiratory conditions: traditionally used for allergic respiratory conditions. A study reported mast cell stabilizing activity comparable to ketotifen.
+- Respiratory tract infections: traditionally used for respiratory tract infections. Studies have reported antimicrobial activity against common respiratory pathogens.
+- Bronchial asthma and bronchospasm: traditionally used for bronchial asthma and bronchospasm. Studies have reported bronchodilator activity.
 
 ## What do recent clinical trials show?
 

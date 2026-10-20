@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and peptic ulcer (validated by ranitidine-comparable anti-ulcerogenic studies and NF-kB pathway research)
-- Constipation relief (validated by mild laxative action of [Trivrit](/herb/trivrit/) and [Triphala](/herb/triphala/) components)
-- Digestive fire enhancement (validated by carminative properties of [Trikatu](/herb/trikatu/))
-- Gastric mucosal protection (validated by antioxidant cytoprotective studies)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hyperacidity and peptic ulcer: traditionally used for hyperacidity and peptic ulcer. Studies have reported anti-ulcer activity comparable to ranitidine, along with activity on the NF-kB pathway.
+- Constipation: traditionally used for constipation. Its [Trivrit](/herb/trivrit/) and [Triphala](/herb/triphala/) components are traditionally regarded as mild laxatives.
+- Digestive fire: traditionally used to strengthen digestive fire. Its [Trikatu](/herb/trikatu/) component is traditionally regarded as carminative.
+- Gastric mucosal protection: traditionally used to protect the stomach lining. Studies have reported antioxidant and cytoprotective activity.
 
 ## What do recent clinical trials show?
 

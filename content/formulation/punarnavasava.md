@@ -38,10 +38,12 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## Which traditional uses are supported by research?
 
-- Edema and dropsy (Shotha) - validated by RCT showing 1.8 cm ankle circumference reduction in CKD patients
-- Kidney support and nephroprotection - supported by diuretic and nephroprotective mechanism studies
-- Liver disorders and hepatomegaly - corroborated by hepatocyte regeneration studies with boeravinones
-- Anemia and spleen disorders - traditional use supported by anti-inflammatory and blood-supportive properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Edema and dropsy (Shotha): traditionally used for these conditions. A randomized controlled trial in CKD patients reported a reduction in ankle circumference.
+- Kidney support: traditionally used to support the kidneys. Studies have reported diuretic and nephroprotective activity.
+- Liver disorders and hepatomegaly: traditionally used for these conditions. Studies with boeravinones have reported hepatocyte regeneration.
+- Anemia and spleen disorders: traditionally used for these conditions.
 
 ## What do recent clinical trials show?
 

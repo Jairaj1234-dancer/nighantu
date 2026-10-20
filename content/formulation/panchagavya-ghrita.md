@@ -39,9 +39,11 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## Which traditional uses are supported by research?
 
-- Apasmara (epilepsy): clinical study shows 25% complete seizure freedom, and dose-dependent 16.6-100% seizure protection in animal models
-- Unmada (psychosis/mania): classical psychiatric indication supported by neuroprotective and GABAergic pharmacological evidence
-- Adjuvant anti-epileptic therapy: demonstrated synergistic interaction with phenytoin and carbamazepine enabling dose reduction
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Apasmara (epilepsy): traditionally used for apasmara. A clinical study reported complete seizure freedom in some patients. Animal studies have reported dose-dependent seizure protection.
+- Unmada (psychosis/mania): used in classical practice as a psychiatric indication. Pharmacological studies have reported neuroprotective and GABAergic activity.
+- Adjuvant anti-epileptic therapy: studies have reported a synergistic interaction with phenytoin and carbamazepine that allowed dose reduction.
 - [Kamala](/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/reference/hepatoprotective/) use referenced in Sushruta Samhita
 
 ## What do recent clinical trials show?

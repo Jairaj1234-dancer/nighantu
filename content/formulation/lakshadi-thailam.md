@@ -38,9 +38,11 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ## Which traditional uses are supported by research?
 
-- Infant bone and skeletal strengthening - supported by in vitro evidence of osteogenic potential of Lac resin and by [Ashwagandha](/herb/ashwagandha/)'s established adaptogenic properties promoting growth
-- Infant skin protection and nourishment - validated by [antimicrobial](/reference/antimicrobial/) studies confirming activity of [Nirgundi](/herb/nirgundi/), Nutgrass, and Licorice against common infant skin pathogens
-- Childhood respiratory protection (cold, cough prevention) - supported by the volatile oil components from Dill and Cedar providing decongestant effects through transdermal absorption during massage
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Infant bone and skeletal strengthening: traditionally used for infant bone and skeletal strengthening. An in vitro study reported osteogenic potential of Lac resin. [Ashwagandha](/herb/ashwagandha/) is traditionally described as adaptogenic.
+- Infant skin protection and nourishment: traditionally used for infant skin protection and nourishment. In [antimicrobial](/reference/antimicrobial/) studies, [Nirgundi](/herb/nirgundi/), Nutgrass, and Licorice were reported to show activity against common infant skin pathogens.
+- Childhood respiratory protection (cold, cough): traditionally used in massage for childhood respiratory protection. Dill and Cedar contribute volatile oil components.
 
 ## What do recent clinical trials show?
 

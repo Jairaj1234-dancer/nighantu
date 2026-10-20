@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Bronchodilatory use for asthma and cough (Shwasa-Kasahara) validated through histamine-induced bronchospasm reversal in animal models
-- [Diuretic](/reference/diuretic/) action (Mutrala) confirmed by significant increase in urine volume and electrolyte excretion in rats
-- [Antipyretic](/reference/antipyretic/) use supported by fever reduction in Brewer's yeast-induced pyrexia model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for asthma and cough (Shwasa-Kasahara) as a bronchodilator. Animal studies have reported reversal of histamine-induced bronchospasm.
+- Traditionally used as a [Diuretic](/reference/diuretic/) (Mutrala). Animal studies in rats have reported increased urine volume and electrolyte excretion.
+- Traditionally used as an [Antipyretic](/reference/antipyretic/). A study using a Brewer's yeast-induced pyrexia model reported reduced fever.
 
 ## What do recent clinical trials show?
 

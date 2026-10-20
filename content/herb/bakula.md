@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Bakula (Mimusops elengi L.) is a plant drug, also called Bakulah and Maulasiri, from the Sapotaceae family. Dental and gum health use validated through antimicrobial activity against S. Listed in the Ayurvedic Pharmacopoeia of India and Unani Pharmacopoeia."
+answer: "Bakula (Mimusops elengi L.) is a plant drug, also called Bakulah and Maulasiri, from the Sapotaceae family. It is traditionally used for dental and gum health, and studies have reported antimicrobial activity. Listed in the Ayurvedic Pharmacopoeia of India and Unani Pharmacopoeia."
 botanical: "Mimusops elengi L."
 family: "Sapotaceae"
 sanskrit: ""
@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Dental and gum health use validated through antimicrobial activity against S. mutans and periodontal pathogens
-- Anti-ulcer activity confirmed in aspirin and ethanol-induced gastric ulcer models in rats
-- Heart tonic (Hridya) use supported by [cardioprotective](/reference/cardioprotective/) effects in isoproterenol-induced myocardial infarction models
-- Snakebite first-aid use partially validated through anti-venom and anti-inflammatory preliminary studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for dental and gum health. Studies have reported antimicrobial activity against S. mutans and periodontal pathogens.
+- Animal studies in rats have reported anti-ulcer activity in aspirin- and ethanol-induced gastric ulcer models.
+- Traditionally used as a heart tonic (Hridya). Studies in isoproterenol-induced myocardial infarction models have reported [cardioprotective](/reference/cardioprotective/) effects.
+- Traditionally used in snakebite first aid. Preliminary studies have reported anti-venom and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

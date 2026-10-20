@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-allergic and anti-asthmatic use validated through mast cell stabilization, antihistaminic activity and clinical studies showing improved PEFR and reduced eosinophil count
-- Anti-inflammatory use confirmed in carrageenan-induced paw edema and adjuvant arthritis models
-- Vishaghna (anti-toxic) use supported by [hepatoprotective](/reference/hepatoprotective/) and detoxification studies
-- Anti-diarrheal activity confirmed through castor oil-induced diarrhea models with significant reduction in frequency
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for allergic and asthmatic conditions. Studies have reported mast cell stabilizing and antihistaminic activity. Clinical studies have reported improved PEFR and reduced eosinophil count.
+- Traditionally used for inflammation. Animal studies have reported anti-inflammatory activity in carrageenan-induced paw edema and adjuvant arthritis models.
+- Vishaghna (anti-toxic): traditionally used against toxins. Studies have reported [hepatoprotective](/reference/hepatoprotective/) and detoxification activity.
+- Traditionally used for diarrhea. Animal studies using castor oil-induced diarrhea models have reported reduced stool frequency.
 
 ## What do recent clinical trials show?
 

@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid and carminative for bowel and indigestion problems - validated by pharmacological studies confirming [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects
-- Anti-asthmatic and respiratory relief - validated by clinical trials showing bronchodilatory effects and improved lung function in asthma patients
-- Blood sugar control in diabetes - supported by year-long adjuvant clinical trial (114 patients, 2 g/day) showing improved glycemic control in type 2 diabetes
-- Lipid-lowering and cardiovascular protection - confirmed by meta-analyses showing significant improvements in lipid profiles
-- Immune modulation and anti-infective use - validated by immunological studies demonstrating enhanced immune cell function and antimicrobial activity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a digestive aid and carminative for bowel and indigestion problems. Pharmacological studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects.
+- Traditionally used for asthma and other respiratory complaints. Clinical studies have reported bronchodilatory effects and improved lung function in people with asthma.
+- Traditionally used for blood sugar control in diabetes. A clinical study reported improved glycemic control in people with type 2 diabetes when it was used as an adjuvant.
+- Traditionally used to lower lipids and protect the heart. Meta-analyses have reported improvements in lipid profiles.
+- Traditionally used for immune modulation and against infections. Immunological studies have reported enhanced immune cell function and antimicrobial activity.
 
 ## What do recent clinical trials show?
 

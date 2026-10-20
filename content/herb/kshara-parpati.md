@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Kshara-Parpati"
-answer: "Kshara Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. Mutrashmari (urinary calculi/kidney stones) - traditional use supported by comparative clinical study showing litholytic and diuretic efficacy Mutrakrichra (dysuria/painful urination) - traditional primary indication validated through pharmaceutical review and clinical practice observations"
+answer: "Kshara Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. It is traditionally used for Mutrashmari (urinary calculi/kidney stones). A comparative clinical study reported litholytic and diuretic activity. In classical practice, Mutrakrichra (dysuria/painful urination) is a primary traditional indication."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,8 +40,10 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## Which traditional uses are supported by research?
 
-- Mutrashmari (urinary calculi/kidney stones) - traditional use supported by comparative clinical study showing litholytic and diuretic efficacy
-- Mutrakrichra (dysuria/painful urination) - traditional primary indication validated through pharmaceutical review and clinical practice observations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Mutrashmari (urinary calculi/kidney stones): traditionally used for this condition. A comparative clinical study reported litholytic and diuretic activity.
+- Mutrakrichra (dysuria/painful urination): a primary traditional indication in classical practice.
 
 ## What do recent clinical trials show?
 

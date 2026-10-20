@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Swertia chirata monographed in Ayurvedic Pharmacopoeia of India (API) Part I and Indian Pharmacopoeia; HPTLC-validated biomarker methods established (mangiferin, swertiamarin, oleanolic acid)"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Swertia chirata monographed in Ayurvedic Pharmacopoeia of India (API) Part I and Indian Pharmacopoeia; HPTLC-validated biomarker methods developed (mangiferin, swertiamarin, oleanolic acid)"
 aliases: ["Sudarshan Churna", "SudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
@@ -38,10 +38,12 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## Which traditional uses are supported by research?
 
-- Fever management (Jwara Chikitsa) validated through pilot study showing 25% faster fever resolution compared to placebo
-- Antimalarial activity validated through documented antiplasmodial properties of Swertia chirata and [Neem](/herb/neem/)
-- [Antimicrobial](/reference/antimicrobial/) activity validated against gram-positive and gram-negative bacteria in disc diffusion assays
-- Appetite restoration and digestive improvement validated through Agni-enhancing mechanisms of [Trikatu](/herb/trikatu/) components
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Jwara Chikitsa (fever care): traditionally used for fever. A pilot study reported faster fever resolution compared to placebo.
+- Antiplasmodial properties have been reported for Swertia chirata and [Neem](/herb/neem/).
+- [Antimicrobial](/reference/antimicrobial/) activity against gram-positive and gram-negative bacteria has been reported in in vitro disc diffusion assays.
+- Traditionally used to restore appetite and improve digestion. In classical practice this is attributed to the Agni-enhancing action of [Trikatu](/herb/trikatu/) components.
 
 ## What do recent clinical trials show?
 

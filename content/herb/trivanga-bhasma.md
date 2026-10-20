@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-- Diabetes (Madhumeha): Anti-diabetic activity demonstrated in STZ-induced diabetic rat models with significant blood sugar reduction. However, lead toxicity risk undermines clinical applicability.
-- Urinary disorders (Mutra Roga): Traditional indication partially supported by component metal properties, but no specific clinical validation separating efficacy from toxicity
-- Infertility (Vandhyatva): Reproductive support claimed from Vanga component, but lead content makes this use particularly dangerous for reproductive health
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diabetes (Madhumeha): traditionally used for diabetes. Animal studies in STZ-induced diabetic rat models have reported reduced blood sugar. However, the risk of lead toxicity limits its clinical applicability.
+- Urinary disorders (Mutra Roga): traditionally used for urinary disorders. No clinical study has separated its benefits from its toxicity.
+- Infertility (Vandhyatva): traditionally used for infertility, with reproductive support attributed to the Vanga component. Its lead content makes this use particularly dangerous for reproductive health.
 
 ## What do recent clinical trials show?
 

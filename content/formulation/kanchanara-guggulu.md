@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## Which traditional uses are supported by research?
 
-- Thyroid disorder (Galaganda) management validated through clinical studies showing improvement in TSH levels and thyroid function in hypothyroid patients
-- Anti-tumor and cyst-resolving properties (Granthi) supported by anti-proliferative mechanisms identified through LC-MS/MS metabolomics and molecular docking studies
-- Lymphatic system support and PCOS management supported by Lekhana (scraping) and Kapha-reducing pharmacological mechanisms
-- Lipoma and benign growth management validated through traditional clinical observations and anti-proliferative compound identification
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Galaganda (thyroid disorder): traditionally used for galaganda. A clinical study reported improvement in TSH levels and thyroid function in hypothyroid patients.
+- Granthi (cysts and tumors): traditionally used for granthi. LC-MS/MS metabolomics and molecular docking studies have reported possible anti-proliferative mechanisms.
+- Lymphatic system and PCOS: traditionally used for lymphatic support and PCOS, based on its Lekhana (scraping) and Kapha-reducing actions.
+- Lipoma and benign growths: traditionally used for lipoma and other benign growths. Compounds with reported anti-proliferative activity have been identified.
 
 ## What do recent clinical trials show?
 

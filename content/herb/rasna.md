@@ -45,14 +45,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-rheumatic and anti-arthritic use (Amavata treatment) validated by reduction of inflammation markers and joint edema in animal models
-- [Analgesic](/reference/analgesic/) use (Vedana-sthapana) confirmed through significant pain reduction in hot plate and tail flick assays
-- Immunomodulatory ([Rasayana](/reference/rasayana/)) activity validated by enhancement of phagocytic function and antibody response
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amavata: traditionally used for rheumatic and arthritic conditions. Animal studies have reported reduced inflammation markers and joint edema.
+- Vedana-sthapana: traditionally used as an [Analgesic](/reference/analgesic/). Studies using hot plate and tail flick assays have reported reduced pain responses.
+- Used in classical practice as a [Rasayana](/reference/rasayana/). Studies have reported immunomodulatory activity, including enhanced phagocytic function and antibody response.
 
 ## What do recent clinical trials show?
 
 - Srivastava P, Shanker K 2012. [Pluchea lanceolata (Rasana): Chemical and biological potential of Rasayana herb used in traditional system of medicine](https://pubmed.ncbi.nlm.nih.gov/22877846/). *Fitoterapia*. PMID [22877846](https://pubmed.ncbi.nlm.nih.gov/22877846/) · [doi:10.1016/j.fitote.2012.07.008](https://doi.org/10.1016/j.fitote.2012.07.008)  
-  Documented triterpenoids, [sterols](/glossary/compounds-q-t/#sterols), flavonoids and lactones as prominent constituents; validated anti-inflammatory, analgesic, and immunomodulatory activities.
+  Documented prominent constituents include triterpenoids, [sterols](/glossary/compounds-q-t/#sterols), flavonoids and lactones. Studies have reported anti-inflammatory, analgesic, and immunomodulatory activities.
 - Kaushik D, Yadav J, Kaushik P and others 2011. [Current pharmacological and phytochemical studies of the plant Alpinia galanga](https://pubmed.ncbi.nlm.nih.gov/22015185/). *Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine*. PMID [22015185](https://pubmed.ncbi.nlm.nih.gov/22015185/) · [doi:10.3736/jcim20111004](https://doi.org/10.3736/jcim20111004)  
   Alpinia galanga rhizome extracts demonstrated anti-cancer, [antioxidant](/reference/antioxidant/), antibacterial, antiviral, cardiovascular protective, and digestive system protective effects.
 

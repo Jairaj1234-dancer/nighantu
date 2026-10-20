@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Respiratory conditions (Shwasa, Kasa): Traditional indications for dyspnea and cough lack specific clinical validation for [Neelam Pishti](/herb/neelam-pishti/); the aluminum oxide base has no established respiratory pharmacology
-- General tonic and Tridosha balancer: Traditional claim of nourishing all Dhatus and pacifying Tridosha has theoretical Ayurvedic rationale but no modern scientific validation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Respiratory conditions (Shwasa, Kasa): traditionally, [Neelam Pishti](/herb/neelam-pishti/) is used for dyspnea and cough.
+- General tonic and Tridosha balancer: traditionally used to nourish all Dhatus and pacify Tridosha.
 
 ## What do recent clinical trials show?
 

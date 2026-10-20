@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 
 ## Which traditional uses are supported by research?
 
-- Anti-obesity effects validated through systematic review and meta-analysis (2025) and molecular mechanism studies confirming PI3K/Akt pathway modulation
-- Lipid-lowering activity validated in multiple RCTs showing reduction in LDL-C, total cholesterol, and triglycerides in treated groups
-- Digestive regulation and Ama elimination validated through prebiotic effects on gut microbiome and [laxative](/reference/laxative/) action
-- Metabolic syndrome management supported by demonstrated effects on [glucose](/glossary/compounds-d-g/#glucose), leptin, adiponectin, and inflammatory markers in animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- A systematic review and meta-analysis reported anti-obesity effects. Mechanism studies reported modulation of the PI3K/Akt pathway.
+- Randomized controlled trials have reported reductions in LDL-C, total cholesterol, and triglycerides.
+- Traditionally used for digestive regulation and Ama elimination. Studies have reported prebiotic effects on the gut microbiome and [laxative](/reference/laxative/) action.
+- In the context of metabolic syndrome, animal studies have reported effects on [glucose](/glossary/compounds-d-g/#glucose), leptin, adiponectin, and inflammatory markers.
 
 ## What do recent clinical trials show?
 

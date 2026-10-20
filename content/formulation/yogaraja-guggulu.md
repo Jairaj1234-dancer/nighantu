@@ -39,10 +39,12 @@ Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also descr
 
 ## Which traditional uses are supported by research?
 
-- Osteoarthritis (Sandhivata) management validated through randomized clinical trials showing 35% pain reduction and significant functional improvement
-- Musculoskeletal and nervous system disorders validated across multiple clinical observations for joint pains, gout, and rheumatoid arthritis
-- Lumbar and cervical spondylosis relief supported by clinical prescribing data and patient outcome studies
-- Ankylosing spondylitis management supported by anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) mechanisms validated in pharmacological research
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Sandhivata (osteoarthritis): traditionally used for this condition. Clinical studies have reported reduced pain and improved joint function.
+- Traditionally used for musculoskeletal and nervous system disorders, including joint pains, gout, and rheumatoid arthritis.
+- Traditionally used for lumbar and cervical spondylosis.
+- Traditionally used for ankylosing spondylitis. Pharmacological studies have reported anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) activity.
 
 ## What do recent clinical trials show?
 

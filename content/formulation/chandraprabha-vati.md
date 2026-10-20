@@ -39,10 +39,12 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 ## Which traditional uses are supported by research?
 
-- Urinary tract disorders and cystitis (validated by in vitro anti-inflammatory studies on bladder cells)
-- Prameha/Diabetes management (validated by [antidiabetic](/reference/antidiabetic/) animal studies and clinical evaluation)
-- Metabolic syndrome management (validated by 2024 network pharmacology analysis)
-- Male reproductive health and oligospermia (validated by clinical study showing 15% improvement in sperm count and motility)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Urinary tract disorders and cystitis: traditionally used for urinary tract disorders and cystitis. An in vitro study on bladder cells reported anti-inflammatory activity.
+- Prameha/Diabetes: traditionally used for prameha. Animal studies have reported [antidiabetic](/reference/antidiabetic/) activity.
+- Metabolic syndrome: traditionally used for metabolic syndrome.
+- Male reproductive health and oligospermia: traditionally used for male reproductive health and oligospermia. A clinical study reported improvement in sperm count and motility.
 
 ## What do recent clinical trials show?
 

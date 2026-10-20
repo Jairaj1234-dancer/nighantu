@@ -48,9 +48,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antilithiatic (kidney stone breaking) activity validated through clinical trials showing reduced stone recurrence, confirming premier traditional use as [Pashanabheda](/herb/pashanabheda/) (stone breaker)
-- Hepatoprotective and antiviral (Hepatitis B) properties extensively validated through in vitro and clinical studies, confirming traditional use in liver diseases (Yakrit Vikara)
-- Anti-inflammatory and diuretic properties validated through multiple pharmacological studies, confirming traditional Ayurvedic uses in urinary and inflammatory conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a [Pashanabheda](/herb/pashanabheda/) (stone breaker) for kidney stones. Clinical studies have reported reduced stone recurrence.
+- Traditionally used in liver diseases (Yakrit Vikara). In vitro and clinical studies have reported hepatoprotective and antiviral (Hepatitis B) activity.
+- Traditionally used in Ayurveda for urinary and inflammatory conditions. Pharmacological studies have reported anti-inflammatory and diuretic activity.
 
 ## What do recent clinical trials show?
 

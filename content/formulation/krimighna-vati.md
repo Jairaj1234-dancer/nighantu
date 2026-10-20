@@ -49,10 +49,12 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic activity validated through case study confirming efficacy against Hymenolepis nana tapeworm infection
-- Broad-spectrum antiparasitic action validated through demonstrated membrane-disrupting and growth-inhibiting mechanisms of [Vidanga](/herb/vidanga/) and [Neem](/herb/neem/)
-- Intestinal health restoration validated through anti-inflammatory and antimicrobial properties of [curcumin](/herb/curcumin/) ([Haridra](/herb/haridra/)) in gut mucosa healing
-- Skin parasite management (Kushtha/Krimi) validated through traditional use in parasitic skin conditions with confirmed antimicrobial activity of [Neem](/herb/neem/) and [Haridra](/herb/haridra/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an anthelmintic. A case study reported activity against a Hymenolepis nana tapeworm infection.
+- Traditionally used for broad-spectrum antiparasitic action. Studies have reported membrane-disrupting and growth-inhibiting activity of [Vidanga](/herb/vidanga/) and [Neem](/herb/neem/).
+- Traditionally used to restore intestinal health. Studies have reported anti-inflammatory and antimicrobial properties of [curcumin](/herb/curcumin/) ([Haridra](/herb/haridra/)) in the gut mucosa.
+- Kushtha/Krimi (parasitic skin conditions): traditionally used for parasitic skin conditions. Studies have reported antimicrobial activity of [Neem](/herb/neem/) and [Haridra](/herb/haridra/).
 
 ## What do recent clinical trials show?
 

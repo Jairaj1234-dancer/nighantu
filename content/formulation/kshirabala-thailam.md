@@ -38,9 +38,11 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## Which traditional uses are supported by research?
 
-- Neurological disorders (facial paralysis, hemiplegia, sciatica) - validated by clinical studies showing [neuroprotective](/reference/neuroprotective/) activity and motor function improvement
-- Cervical and lumbar spondylosis - supported by randomized trials demonstrating significant pain and stiffness reduction comparable to conventional treatment
-- Insomnia and anxiety (Vata-related mental disorders) - supported by the nervine tonic and GABA-modulatory properties of [Bala](/herb/bala/) alkaloids confirmed in pharmacological studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Neurological disorders (facial paralysis, hemiplegia, sciatica): traditionally used for these conditions. Clinical studies have reported [neuroprotective](/reference/neuroprotective/) activity and improved motor function.
+- Cervical and lumbar spondylosis: traditionally used for these conditions. Randomized trials have reported less pain and stiffness, comparable to conventional therapy.
+- Insomnia and anxiety (Vata-related mental disorders): traditionally used as a nervine tonic for these conditions. Pharmacological studies have reported GABA-modulatory properties of [Bala](/herb/bala/) alkaloids.
 
 ## What do recent clinical trials show?
 

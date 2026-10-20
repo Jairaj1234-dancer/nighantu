@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Chakramarda (Cassia tora L. (syn. Senna tora)) is a plant drug, from the Fabaceae family. Ringworm treatment (Dadru): Validated by isolation of potent antifungal anthraquinones (chrysophanol, emodin, physcion) with 4-8 fold higher activity than crude extract against T. Listed in the Ayurvedic Pharmacopoeia of India."
+answer: "Chakramarda (Cassia tora L. (syn. Senna tora)) is a plant drug from the Fabaceae family. Dadru (ringworm): traditionally used for ringworm. Laboratory studies have reported that isolated anthraquinones (chrysophanol, emodin, physcion) showed stronger antifungal activity than the crude extract. Listed in the Ayurvedic Pharmacopoeia of India."
 botanical: "Cassia tora L. (syn. Senna tora)"
 family: "Fabaceae"
 sanskrit: ""
@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Ringworm treatment (Dadru): Validated by isolation of potent antifungal [anthraquinones](/glossary/compounds-1-a/#anthraquinones) (chrysophanol, emodin, physcion) with 4-8 fold higher activity than crude extract against T. mentagrophyte
-- Skin fungal infections (Kushtha): Validated by demonstrated broad-spectrum antifungal activity against Microsporon nanum, Candida albicans, and other dermatophytes
-- Eczema and inflammatory skin conditions: Supported by emodin-mediated anti-inflammatory NF-kB suppression
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Dadru (ringworm): traditionally used for ringworm. Laboratory studies have reported that isolated [anthraquinones](/glossary/compounds-1-a/#anthraquinones) (chrysophanol, emodin, physcion) showed stronger antifungal activity than the crude extract against T. mentagrophyte.
+- Kushtha (skin fungal infections): traditionally used for skin fungal infections. Laboratory studies have reported broad-spectrum antifungal activity against Microsporon nanum, Candida albicans, and other dermatophytes.
+- Eczema and inflammatory skin conditions: traditionally used for eczema and inflammatory skin conditions. Studies have reported anti-inflammatory activity of emodin linked to NF-kB suppression.
 
 ## What do recent clinical trials show?
 

@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and GERD (Amlapitta): Clinical study confirmed significant GERD symptom resolution (p < 0.005) with lemon-purified [Shankha Bhasma](/herb/shankha-bhasma/)
-- Digestive disorders (Agnimandya, Ajirna): High acid neutralization capacity validated traditional use as digestive aid and antacid
-- Calcium deficiency: Marine-derived bioavailable calcium content supports traditional use for bone health and Asthi Dhatu nourishment
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hyperacidity and GERD (Amlapitta): traditionally used for these conditions. A clinical study reported a reduction in GERD symptoms with lemon-purified [Shankha Bhasma](/herb/shankha-bhasma/).
+- Digestive disorders (Agnimandya, Ajirna): traditionally used as a digestive aid and antacid. A high acid neutralization capacity has been reported.
+- Calcium deficiency: traditionally used for bone health and Asthi Dhatu nourishment. It is described as containing marine-derived calcium.
 
 ## What do recent clinical trials show?
 

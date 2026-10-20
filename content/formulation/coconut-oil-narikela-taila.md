@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 ## Which traditional uses are supported by research?
 
-- Kesha (hair health) and Khalitya (hair loss): Lauric acid's affinity for hair protein reduces protein loss during washing; antimicrobial action against dandruff-causing Malassezia fungi validated by scalp microbiome studies
-- Daha and Pitta disorders (burning/inflammatory conditions): Cooling virya combined with anti-inflammatory polyphenols and skin barrier repair validate extensive Ayurvedic use in Pitta skin conditions and Abhyanga
-- Kavala/Gandusha (oil pulling): 2025 RCT validates traditional oil pulling with [coconut oil](/glossary/concepts-a-m/#coconut-oil) for reducing periodontal pathogens and oral inflammation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kesha (hair health) and Khalitya (hair loss): traditionally used for hair health and hair loss. Scalp microbiome studies have reported antimicrobial activity against Malassezia fungi, which are linked to dandruff.
+- Daha and Pitta disorders (burning/inflammatory conditions): traditionally valued for its cooling virya. Used in classical practice for Pitta skin conditions and in Abhyanga.
+- Kavala/Gandusha (oil pulling): traditionally used for oil pulling with [coconut oil](/glossary/concepts-a-m/#coconut-oil). A randomized clinical study reported lower levels of periodontal pathogens and less oral inflammation.
 
 ## What do recent clinical trials show?
 

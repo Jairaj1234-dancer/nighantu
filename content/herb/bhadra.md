@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-urolithiasis (kidney stone dissolution) activity validated through in vivo and in vitro studies confirming traditional Ayurvedic use of [Pashanabheda](/herb/pashanabheda/) for Ashmari (urinary calculi)
-- [Diuretic](/reference/diuretic/) activity confirmed through pharmacological studies supporting traditional use for strangury and urinary disorders in Ayurveda
-- Anti-asthmatic and bronchodilatory effects validated in preclinical models consistent with traditional use for respiratory conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in Ayurveda, as with [Pashanabheda](/herb/pashanabheda/), for Ashmari (urinary calculi). In vivo and in vitro studies have reported anti-urolithiasis (kidney stone dissolution) activity.
+- Traditionally used in Ayurveda for strangury and urinary disorders. [Diuretic](/reference/diuretic/) activity has been reported in pharmacological studies.
+- Traditionally used for respiratory conditions. Preclinical studies have reported anti-asthmatic and bronchodilatory effects.
 
 ## What do recent clinical trials show?
 

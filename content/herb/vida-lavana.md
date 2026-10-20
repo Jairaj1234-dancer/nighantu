@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anaha (flatulence/bloating): Sulfide-mediated gut motility modulation and anti-fermentative action scientifically validate traditional primary indication
-- Deepana-Pachana (digestive stimulant-digestant): Dual mechanism of acid stimulation and alkaline buffering supports classical digestive application
-- Amlapitta (hyperacidity): Mild alkaline properties from processing provide antacid effect, partially validating traditional use in acid dyspepsia
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anaha (flatulence/bloating): traditionally used for flatulence and bloating as a primary indication.
+- Deepana-Pachana (digestive stimulant-digestant): used in classical practice as a digestive stimulant and digestant.
+- Amlapitta (hyperacidity): traditionally used for hyperacidity and acid dyspepsia.
 
 ## What do recent clinical trials show?
 

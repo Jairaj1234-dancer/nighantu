@@ -39,10 +39,12 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 ## Which traditional uses are supported by research?
 
-- Memory and cognitive enhancement (Medhya Rasayana) validated across 9+ clinical trials and meta-analysis showing improvements in verbal learning, delayed recall, and memory acquisition
-- Anxiety and stress reduction validated through demonstrated modulation of serotonergic and GABAergic pathways in multiple clinical studies
-- Alzheimer's disease supportive management validated through cholinergic enhancement and neuroprotective mechanisms
-- Epilepsy and convulsion management (Apasmara) supported by demonstrated anticonvulsant potential through GABA modulation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Memory and cognition (Medhya Rasayana): traditionally used to support memory and cognition. Clinical studies and a meta-analysis have reported improvements in verbal learning, delayed recall, and memory acquisition.
+- Anxiety and stress: traditionally used for anxiety and stress. Clinical studies have reported modulation of serotonergic and GABAergic pathways.
+- Alzheimer's disease: traditionally used as supportive care. Studies have reported cholinergic and neuroprotective activity.
+- Epilepsy and convulsions (Apasmara): traditionally used for epilepsy and convulsions. Studies have reported anticonvulsant potential linked to GABA modulation.
 
 ## What do recent clinical trials show?
 

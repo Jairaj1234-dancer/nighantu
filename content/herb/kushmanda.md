@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Neuroprotective and Medhya (intellect-promoting) use validated through restoration of neurotransmitter levels in Alzheimer's disease animal model
-- Anti-ulcer use confirmed by gastroprotective activity through reduction of gastric acid secretion and enhancement of mucosal defense
-- [Diuretic](/reference/diuretic/) and nephroprotective use (Mutrala) supported by increased urine output and renal stone dissolution activity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Medhya (intellect-promoting): traditionally used to support the mind and intellect. Animal studies of an Alzheimer's disease model have reported restoration of neurotransmitter levels.
+- Traditionally used for ulcers. Studies have reported gastroprotective activity, with reduced gastric acid secretion and enhanced mucosal defense.
+- Mutrala: traditionally used as a [Diuretic](/reference/diuretic/) and for the kidneys. Studies have reported increased urine output and renal stone dissolution activity.
 
 ## What do recent clinical trials show?
 

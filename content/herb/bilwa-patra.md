@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hypoglycemic/[antidiabetic](/reference/antidiabetic/) activity of bael leaves validated through multiple in vivo studies and limited clinical evidence supporting traditional use for Prameha (diabetes) in Ayurveda
-- Antimicrobial and anti-infective properties confirmed in vitro against multiple pathogens, supporting traditional use of leaf paste/decoction for infectious diseases
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated in carrageenan-induced paw edema models, supporting traditional use for Shotha (inflammation) and pain conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Bael leaves are traditionally used for Prameha (diabetes) in Ayurveda. In vivo studies have reported hypoglycemic/[antidiabetic](/reference/antidiabetic/) activity, and limited clinical studies have reported similar activity.
+- Leaf paste and decoction are traditionally used for infectious diseases. In vitro studies have reported antimicrobial and anti-infective activity against several pathogens.
+- Traditionally used for Shotha (inflammation) and pain conditions. Animal studies using carrageenan-induced paw edema models have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects.
 
 ## What do recent clinical trials show?
 

@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-gout and anti-arthritic (Vatarakta) - strongly validated through colchicine's FDA-approved use for acute gout and familial Mediterranean fever
-- Wound healing and skin diseases (Kushtha) - partially validated through [antimicrobial](/reference/antimicrobial/) and anti-inflammatory studies
-- Labor induction and uterine stimulant (Prasava-janana) - validated but dangerous; colchicine is a known uterine stimulant; use strictly contraindicated without medical supervision
-- Anthelmintic (Krimighna) - supported by in vitro studies showing antiparasitic activity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vatarakta (gout and arthritic conditions): traditionally used for gout and arthritic conditions.
+- Kushtha (wounds and skin diseases): traditionally used for wounds and skin diseases. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
+- Prasava-janana (labor induction): used in classical practice as a uterine stimulant to induce labor. This use is dangerous. Colchicine is a known uterine stimulant, and use is strictly contraindicated without medical supervision.
+- Krimighna (anthelmintic): traditionally used against worms. In vitro studies have reported antiparasitic activity.
 
 ## What do recent clinical trials show?
 

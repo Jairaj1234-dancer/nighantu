@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive stimulant and carminative (Deepana-Pachana) - validated through studies showing enhanced digestive enzyme activity
-- Anti-obesity and lipid management (Medohara) - HCA-mediated lipogenesis inhibition confirmed in clinical studies on related Garcinia species
-- Hepatoprotective (Yakrit-shodhana) - validated through preclinical studies demonstrating liver protection from chemical toxins
-- Laxative (Bhedana) - confirmed for Rheum emodi through anthraquinone-mediated mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Deepana-Pachana (digestive stimulant and carminative): traditionally used to stimulate digestion and as a carminative. Studies have reported increased digestive enzyme activity.
+- Medohara (anti-obesity): traditionally used to reduce excess fat. Clinical studies on related Garcinia species have reported that HCA inhibits lipogenesis.
+- Yakrit-shodhana (liver): traditionally used for the liver. Preclinical studies have reported protection of the liver from chemical toxins.
+- Bhedana (laxative): traditionally used as a laxative. Research on Rheum emodi has reported laxative action linked to anthraquinones.
 
 ## What do recent clinical trials show?
 

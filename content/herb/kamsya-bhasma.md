@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Worm infestations (Krimi Roga): Anti-parasitic properties of copper compounds provide mechanistic support for traditional use
-- Skin diseases (Kushtha): Combined antimicrobial properties of copper and tin oxides support traditional dermatological applications
-- Eye disorders (Netra Roga): Historical use of Kansa instruments in eye treatments documented since Charaka period, supported by anti-inflammatory copper properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Worm infestations (Krimi Roga): traditionally used for worm infestations.
+- Skin diseases (Kushtha): traditionally used for skin diseases.
+- Eye disorders (Netra Roga): traditionally used for eye disorders. Classical texts record the use of Kansa instruments in eye care since the Charaka period.
 
 ## What do recent clinical trials show?
 

@@ -38,10 +38,12 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 ## Which traditional uses are supported by research?
 
-- Chronic arthritis and inflammation - validated by RCT showing CRP/ESR reduction comparable to NSAIDs
-- Respiratory disorders (asthma, chronic cough) - supported by clinical trial showing 30% FEV1 improvement
-- Post-natal weakness and recovery - traditional use supported by anti-inflammatory and restorative mechanisms
-- Vata-Kapha imbalances with joint and respiratory involvement - corroborated by dual action on musculoskeletal and respiratory systems
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic arthritis and inflammation: traditionally used for chronic arthritis and inflammation. A randomized controlled clinical study reported reductions in CRP and ESR.
+- Respiratory disorders (asthma, chronic cough): traditionally used for asthma and chronic cough. A clinical study reported improvement in a lung function measure.
+- Post-natal weakness and recovery: traditionally used for post-natal weakness and recovery.
+- Vata-Kapha imbalances with joint and respiratory involvement: used in classical practice for Vata-Kapha imbalances affecting the joints and respiratory system.
 
 ## What do recent clinical trials show?
 

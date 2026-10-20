@@ -38,10 +38,12 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ## Which traditional uses are supported by research?
 
-- Diarrhea (Atisara) - validated by anti-diarrheal studies on Cyperus rotundus extracts
-- Indigestion (Agnimandya) - supported by Agni-enhancing mechanisms of formulation components
-- Dysentery - corroborated by antimicrobial activity of Thymol, Eugenol, and Piperine identified by GC-MS
-- Abdominal pain and colic - traditional use supported by [antispasmodic](/glossary/pharmacology/#antispasmodic) properties of Musta and [Ajwain](/herb/ajwain/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diarrhea (Atisara): traditionally used for diarrhea. Studies on Cyperus rotundus extracts have reported anti-diarrheal activity.
+- Indigestion (Agnimandya): traditionally used for indigestion.
+- Dysentery: traditionally used for dysentery. Thymol, eugenol and piperine were identified by GC-MS, and antimicrobial activity has been reported for these compounds.
+- Abdominal pain and colic: traditionally used for abdominal pain and colic. [Antispasmodic](/glossary/pharmacology/#antispasmodic) properties have been reported for Musta and [Ajwain](/herb/ajwain/).
 
 ## What do recent clinical trials show?
 

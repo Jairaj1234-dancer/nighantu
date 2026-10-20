@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Diuretic (Mutrala) - strongly validated through multiple pharmacological studies showing significant diuretic activity
-- Hepatoprotective (Yakrit-shodhana) - confirmed through studies showing protection against CCl4 and paracetamol-induced liver damage
-- Anti-inflammatory and anti-edema (Shotha-hara) - validated through carrageenan-induced paw edema and cotton pellet granuloma models
-- Rejuvenative ([Rasayana](/reference/rasayana/)) - supported by antioxidant, immunomodulatory, and anti-aging pharmacological data
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diuretic (Mutrala): traditionally used as a diuretic. Pharmacological studies have reported diuretic activity.
+- Hepatoprotective (Yakrit-shodhana): traditionally used for the liver. Experimental studies have reported protection against chemically induced and paracetamol-induced liver damage.
+- Anti-inflammatory and anti-edema (Shotha-hara): traditionally used for swelling and inflammation. Animal studies using carrageenan-induced paw edema and cotton pellet granuloma models have reported anti-inflammatory activity.
+- Rejuvenative ([Rasayana](/reference/rasayana/)): traditionally used as a rejuvenative. Pharmacological studies have reported antioxidant, immunomodulatory and anti-aging activity.
 
 ## What do recent clinical trials show?
 

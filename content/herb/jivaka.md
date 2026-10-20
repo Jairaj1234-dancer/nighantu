@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and photoprotective properties validated through in vitro enzyme inhibition assays, supporting traditional topical applications
-- Rejuvenating ([Rasayana](/reference/rasayana/)) role partially validated through antioxidant profiling showing potent free radical scavenging activity
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) traditional use indirectly supported by adaptogenic properties demonstrated in related species of Ashtavarga
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in topical applications. In vitro enzyme inhibition assays have reported anti-inflammatory and photoprotective activity.
+- Traditionally used as a rejuvenating ([Rasayana](/reference/rasayana/)) herb. Antioxidant profiling has reported strong free radical scavenging activity.
+- Traditionally used as an [Aphrodisiac](/glossary/pharmacology/#aphrodisiac). Studies on related Ashtavarga species, not on this herb itself, have reported adaptogenic properties.
 
 ## What do recent clinical trials show?
 

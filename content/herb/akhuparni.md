@@ -43,10 +43,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Epilepsy and seizure management (Apasmara) - partially validated through anticonvulsant studies; leaf powder traditionally used as snuff during seizures
-- [Diuretic](/reference/diuretic/) and kidney remedy (Mutrala) - supported by diuretic and nephroprotective pharmacological data
-- Fever reduction (Jvarahara) - confirmed [antipyretic](/reference/antipyretic/) activity in preclinical models
-- [Hepatoprotective](/reference/hepatoprotective/) (Yakrit Roga) - validated through studies showing liver protection against chemical toxins
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Epilepsy and seizures (Apasmara): traditionally used for epilepsy and seizures, with the leaf powder used as snuff during seizures. Studies have reported anticonvulsant activity.
+- [Diuretic](/reference/diuretic/) and kidney remedy (Mutrala): traditionally used as a diuretic and kidney remedy. Pharmacological studies have reported diuretic and nephroprotective activity.
+- Fever reduction (Jvarahara): traditionally used to reduce fever. Preclinical studies have reported [antipyretic](/reference/antipyretic/) activity.
+- [Hepatoprotective](/reference/hepatoprotective/) (Yakrit Roga): traditionally used for liver conditions. Studies have reported liver protection against chemical toxins.
 
 ## What do recent clinical trials show?
 

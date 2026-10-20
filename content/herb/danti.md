@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Strong purgative (Tikshna Virechana) - validated through phorbol ester-mediated stimulant [laxative](/reference/laxative/) mechanism; used in Panchakarma Virechana therapy
-- Skin diseases and leprosy (Kushtha) - [antimicrobial](/reference/antimicrobial/) and anti-inflammatory data support traditional dermatological use
-- Anti-helminthic (Krimighna) - confirmed in vitro anthelmintic activity against Pheretima posthuma
-- Anti-dropsy and edema (Shotha-hara) - traditional use supported by [diuretic](/reference/diuretic/) and anti-inflammatory pharmacological data
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Strong purgative (Tikshna Virechana): traditionally used as a strong stimulant [laxative](/reference/laxative/) and purgative in Panchakarma Virechana therapy.
+- Skin diseases and leprosy (Kushtha): traditionally used for skin diseases and leprosy. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
+- Anti-helminthic (Krimighna): traditionally used against intestinal worms. An in vitro study reported anthelmintic activity against Pheretima posthuma.
+- Anti-dropsy and edema (Shotha-hara): traditionally used for dropsy and edema. Studies have reported [diuretic](/reference/diuretic/) and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

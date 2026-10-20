@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anupana (drug carrier): Scientific evidence confirms honey enhances bioavailability of herbal compounds through osmotic facilitation, enzyme-mediated absorption, and tissue penetration - validating Yogavahi concept
-- Vrana Ropana (wound healing): Extensive clinical evidence supports honey's antibacterial, anti-inflammatory, and tissue-regenerative properties in both acute and chronic wounds
-- Kasa-Shwasa (cough and respiratory disorders): WHO recommends honey for childhood cough; clinical trials show honey is more effective than dextromethorphan for nocturnal cough relief
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anupana (drug carrier): traditionally used as a carrier for other herbs, reflecting the Yogavahi concept. Studies have reported that honey may enhance the bioavailability of herbal compounds through osmotic facilitation, enzyme-mediated absorption, and tissue penetration.
+- Vrana Ropana (wound healing): traditionally used on wounds. Clinical studies have reported antibacterial, anti-inflammatory, and tissue-regenerative properties of honey in both acute and chronic wounds.
+- Kasa-Shwasa (cough and respiratory disorders): traditionally used for cough and respiratory complaints. Clinical studies have reported that honey reduced nocturnal cough in children more than dextromethorphan.
 
 ## What do recent clinical trials show?
 
@@ -59,7 +61,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 ## Recent safety updates
 
-- Heating honey above 40 degrees C produces hydroxymethylfurfural (HMF), a potentially toxic compound; Ayurvedic prohibition of heated honey validated by modern chemistry
+- Classical Ayurvedic practice prohibits heating honey. Chemical analyses have reported that heating honey produces hydroxymethylfurfural (HMF), a potentially toxic compound.
 - Infant botulism risk: Honey should not be given to children under 12 months due to Clostridium botulinum spores
 - Diabetic patients must use cautiously due to high glycemic load despite lower GI than sugar; can cause blood sugar spikes
 - Adulteration with corn syrup, inverted sugar, and rice syrup is widespread; quality testing (C4 sugar ratio, diastase activity) essential

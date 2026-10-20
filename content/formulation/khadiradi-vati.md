@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## Which traditional uses are supported by research?
 
-- Oral health management (tonsillitis, gingivitis, stomatitis, mouth ulcers) validated through antimicrobial activity against Streptococcus and E. coli in in-vitro studies
-- Cough and sore throat relief validated in clinical trial showing 65% improvement in cough scores within two weeks
-- Halitosis (foul breath) management validated through combined antimicrobial and deodorant action of [camphor](/herb/camphor/), clove, and cardamom
-- Voice clarity and hoarseness reduction validated through anti-inflammatory and mucosal-soothing actions of [Yashtimadhu](/herb/yashtimadhu/) and [Khadira](/herb/khadira/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for oral health (tonsillitis, gingivitis, stomatitis, mouth ulcers). In vitro studies have reported antimicrobial activity against Streptococcus and E. coli.
+- Traditionally used for cough and sore throat. A clinical study reported improvement in cough scores.
+- Traditionally used for halitosis (foul breath). The formulation includes [camphor](/herb/camphor/), clove, and cardamom.
+- Traditionally used for voice clarity and hoarseness. The formulation includes [Yashtimadhu](/herb/yashtimadhu/) and [Khadira](/herb/khadira/).
 
 ## What do recent clinical trials show?
 

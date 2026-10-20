@@ -169,7 +169,7 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 
 **Standard Dosage:** 3-6g root powder twice daily with warm milk; 300-600mg standardized extract (withanolides) twice daily; 15-30ml Ashwagandharishta after meals
 
-**Bioavailability:** Moderate oral bioavailability for withanolides (~20-30% for withaferin A). Withanoside IV is a prodrug converted to sominone by intestinal glucosidases. Cyclodextrin complexation improves withanolide solubility 3-5x. KSM-66 (full-spectrum root extract) and Sensoril (root + leaf extract) show clinically validated bioavailability. Milk (Kshirapaka) as anupana enhances absorption of lipophilic withanolides by 2-3x. [Piperine](/reference/piperine/) co-administration increases bioavailability by 30-40%. Phytosome technology (withanolide-phospholipid complex) shows 5x enhancement.
+**Bioavailability:** Moderate oral bioavailability for withanolides (~20-30% for withaferin A). Withanoside IV is a prodrug converted to sominone by intestinal glucosidases. Cyclodextrin complexation improves withanolide solubility 3-5x. Proprietary root, and root-and-leaf, extracts have been used in clinical studies. Milk (Kshirapaka) as anupana enhances absorption of lipophilic withanolides by 2-3x. [Piperine](/reference/piperine/) co-administration increases bioavailability by 30-40%. Phytosome technology (withanolide-phospholipid complex) shows 5x enhancement.
 
 **Optimal Timing:** At bedtime with warm milk for sleep and rejuvenation; morning and evening for [adaptogenic](/reference/adaptogenic/)/stress management; before meals for general health
 

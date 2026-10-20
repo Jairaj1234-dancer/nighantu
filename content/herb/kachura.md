@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive stimulant and carminative (Deepana) - validated through studies confirming carminative and digestive enzyme stimulation
-- Anti-flatulence (Anulomana) - confirmed through [antispasmodic](/glossary/pharmacology/#antispasmodic) activity on gastrointestinal smooth muscle
-- Anti-cancer adjunct (Arbuda-hara) - validated through multiple studies showing antiproliferative activity against gastric, ovarian, and breast cancer cells
-- Anti-inflammatory (Shotha-hara) - confirmed through [curcumin](/herb/curcumin/) and germacrone-mediated anti-inflammatory pathways
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive stimulant and carminative (Deepana): traditionally used as a digestive stimulant and carminative. Studies have reported carminative activity and stimulation of digestive enzymes.
+- Anti-flatulence (Anulomana): traditionally used for flatulence. Studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) activity on gastrointestinal smooth muscle.
+- Arbuda-hara: a traditional use in classical practice. Laboratory studies have reported antiproliferative activity against gastric, ovarian, and breast cancer cells.
+- Anti-inflammatory (Shotha-hara): traditionally used for inflammation. Studies have reported anti-inflammatory activity linked to [curcumin](/herb/curcumin/) and germacrone.
 
 ## What do recent clinical trials show?
 

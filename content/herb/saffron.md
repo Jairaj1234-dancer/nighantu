@@ -244,7 +244,7 @@ Stigma: 20-30mg/day (up to 1.5g/day in research); With milk: 2-3 strands
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/herb/ashwagandha/) (antidepressant synergy, clinically validated)
+- [Ashwagandha](/herb/ashwagandha/) (clinical research has reported antidepressant synergy)
 - [Brahmi](/herb/brahmi/) (cognitive enhancement)
 - [Turmeric](/herb/turmeric/) (anti-inflammatory synergy)
 - [Piperine](/reference/piperine/) (bioavailability enhancement for crocin)

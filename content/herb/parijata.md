@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- [Antipyretic](/reference/antipyretic/) and antimalarial use for fevers validated through Plasmodium berghei-infected mouse models and clinical observations
-- Anti-arthritic use confirmed through adjuvant-induced arthritis models with significant reduction in paw edema and joint inflammation
-- Anthelmintic activity validated against Ascaridia galli and Pheretima posthuma in vitro
-- Hepatoprotective effects confirmed against paracetamol-induced liver damage in rodent models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for fevers as an [Antipyretic](/reference/antipyretic/) and antimalarial. Animal studies in Plasmodium berghei-infected mice have reported antimalarial activity.
+- Traditionally used for arthritis. Animal studies in adjuvant-induced arthritis models have reported reduced paw edema and joint inflammation.
+- In vitro studies have reported anthelmintic activity against Ascaridia galli and Pheretima posthuma.
+- Animal studies in rodents have reported protective effects against paracetamol-induced liver damage.
 
 ## What do recent clinical trials show?
 

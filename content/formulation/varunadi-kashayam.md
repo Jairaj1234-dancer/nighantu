@@ -38,10 +38,12 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ## Which traditional uses are supported by research?
 
-- Urinary stones (Mutrashmari/Urolithiasis) - validated by lithotriptic and diuretic studies and clinical trials
-- Kidney and bladder disorders - supported by anti-inflammatory macrophage studies (PMC published)
-- Obesity management - newly validated by anti-obesity research in animal models
-- Inflammatory conditions - supported by cytokine inhibition in THP-1 macrophage studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Urinary stones (Mutrashmari/Urolithiasis): traditionally used for urinary stones. Studies, including clinical trials, have reported lithotriptic and diuretic activity.
+- Kidney and bladder disorders: traditionally used for kidney and bladder disorders. Studies in macrophages have reported anti-inflammatory activity.
+- Obesity: animal studies have reported anti-obesity activity.
+- Inflammatory conditions: traditionally used for inflammatory conditions. In vitro studies in THP-1 macrophages have reported cytokine inhibition.
 
 ## What do recent clinical trials show?
 

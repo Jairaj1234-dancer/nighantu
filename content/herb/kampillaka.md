@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic use (Krimighna) against tapeworms extensively validated by in vitro and in vivo studies against cestodes
-- Anti-inflammatory use confirmed by superior COX-1/COX-2 inhibition compared to standard NSAIDs
-- Skin disease treatment validated by [antimicrobial](/reference/antimicrobial/) and antifungal activity of [Kamala](/herb/kamala/) extract against dermatophytes
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Krimighna (anthelmintic): traditionally used against tapeworms. In vitro and animal studies have reported activity against cestodes.
+- Traditionally used for inflammation. Studies have reported COX-1 and COX-2 inhibition.
+- Traditionally used for skin diseases. Studies have reported [antimicrobial](/reference/antimicrobial/) and antifungal activity of [Kamala](/herb/kamala/) extract against dermatophytes.
 
 ## What do recent clinical trials show?
 

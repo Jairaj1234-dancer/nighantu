@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Fever (Jwara): Significant antipyretic activity demonstrated in yeast-induced fever model, validating traditional anti-fever indication
-- Peptic ulcer and gastritis (Amlapitta): 44-45% gastroprotection in experimental ulcer models validates traditional use for acid-related disorders
-- Calcium deficiency and bone disorders: Bioavailable calcium content supports traditional use for Asthi Kshaya (bone depletion) conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Fever (Jwara): traditionally used for fever. Animal studies have reported antipyretic activity in a yeast-induced fever model.
+- Peptic ulcer and gastritis (Amlapitta): traditionally used for acid-related disorders. Animal studies have reported gastroprotective activity in experimental ulcer models.
+- Calcium deficiency and bone disorders: traditionally used for Asthi Kshaya (bone depletion) conditions. It has been reported to contain bioavailable calcium.
 
 ## What do recent clinical trials show?
 

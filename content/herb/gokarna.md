@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Brain tonic and intellect enhancer (Medhya) - validated through multiple animal studies showing improved memory retention and learning
-- Anxiolytic (Manasa-Dosha-hara) - confirmed through pharmacological studies showing benzodiazepine-like anxiolytic activity
-- Eye health ([Chakshushya](/herb/chakshushya/)) - partially validated through antioxidant protection of ocular tissues
-- Complexion and skin health (Varnya) - supported by antioxidant and anti-inflammatory mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Brain tonic and intellect enhancer (Medhya): traditionally used as a brain tonic and intellect enhancer. Animal studies have reported improved memory retention and learning.
+- Anxiolytic (Manasa-Dosha-hara): traditionally used as an anxiolytic. Pharmacological studies have reported benzodiazepine-like anxiolytic activity.
+- Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used for eye health. Research has reported antioxidant protection of ocular tissues.
+- Complexion and skin health (Varnya): traditionally used for complexion and skin health. Antioxidant and anti-inflammatory activity has been reported.
 
 ## What do recent clinical trials show?
 

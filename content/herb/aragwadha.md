@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Mild laxative (Mridu Virechana) validated by clinical trial showing comparable efficacy to lactulose in geriatric constipation
-- Skin disease treatment confirmed by [antimicrobial](/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes
-- [Antipyretic](/reference/antipyretic/) use (Jwaraghna) supported by significant fever reduction in Brewer's yeast-induced pyrexia model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Mridu Virechana (mild laxative): traditionally used as a mild laxative. A clinical study in older adults with constipation reported results comparable to lactulose.
+- Traditionally used for skin diseases. Laboratory studies have reported [antimicrobial](/reference/antimicrobial/) and antifungal activity of leaf and bark extracts against dermatophytes.
+- [Antipyretic](/reference/antipyretic/) use (Jwaraghna): traditionally used for fever. Animal studies have reported reduced fever in a Brewer's yeast-induced fever model.
 
 ## What do recent clinical trials show?
 

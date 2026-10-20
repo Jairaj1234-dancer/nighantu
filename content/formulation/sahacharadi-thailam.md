@@ -38,9 +38,11 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ## Which traditional uses are supported by research?
 
-- Sciatica (Gridhrasi) management - validated by clinical studies demonstrating significant reduction in sciatic pain and disability scores with Kati Basti application
-- Lower back pain and chronic lumbar conditions - supported by WOMAC score improvement in controlled pilot study (2018)
-- Peripheral vascular insufficiency and lower limb weakness due to Vata - supported by phytochemical evidence of improved microcirculation via anthraquinones and catechins
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Gridhrasi (sciatica): traditionally used for sciatic pain. Clinical studies have reported reduced sciatic pain and disability scores with Kati Basti application.
+- Lower back pain and chronic lumbar conditions: traditionally used for these conditions. A controlled pilot clinical study reported improvement in WOMAC scores.
+- Peripheral vascular insufficiency and lower limb weakness due to Vata: traditionally used for these conditions. Phytochemical reports have linked its anthraquinones and catechins to improved microcirculation.
 
 ## What do recent clinical trials show?
 

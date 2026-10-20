@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-arthritic use (Sandhivata) extensively validated through multiple RCTs showing significant improvement in knee OA symptoms comparable to NSAIDs
-- Anti-inflammatory use confirmed through 5-LOX inhibition, NF-kB suppression, and clinical improvement in inflammatory bowel disease trials
-- Anti-asthmatic use (Shwasahara) supported by clinical trials showing improvement in FEV1 and reduction in eosinophil count in bronchial asthma patients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for Sandhivata (arthritic conditions). Randomized clinical trials have reported improvement in knee osteoarthritis symptoms comparable to NSAIDs.
+- Traditionally used for inflammatory conditions. Studies have reported 5-LOX inhibition and NF-kB suppression. Clinical trials in inflammatory bowel disease have reported improvement.
+- Traditionally used as Shwasahara for asthma. Clinical trials in bronchial asthma patients have reported improvement in FEV1 and a reduction in eosinophil count.
 
 ## What do recent clinical trials show?
 
@@ -103,7 +105,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (potent anti-inflammatory synergy, clinically validated for osteoarthritis)
+- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (combination described as having anti-inflammatory synergy; clinical studies have reported improvement in osteoarthritis)
 - [Guggulu](/formulation/guggulu/) (joint health formulations)
 - [Ashwagandha](/herb/ashwagandha/) (musculoskeletal support)
 - [Nirgundi](/herb/nirgundi/) (pain management formulations)

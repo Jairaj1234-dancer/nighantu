@@ -44,9 +44,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Snake bite antidote (Sarpa-visha-hara) - partial in vitro validation of anti-venom properties but UNSAFE for human use due to aristolochic acid content
-- Emmenagogue (Artava-janana) - traditional use confirmed pharmacologically but CONTRAINDICATED due to carcinogenicity
-- Anti-inflammatory (Shotha-hara) - confirmed but completely outweighed by cancer and kidney damage risk
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Snake bite antidote (Sarpa-visha-hara): traditionally used for snake bite. An in vitro study reported partial anti-venom activity. Unsafe for human use due to aristolochic acid content.
+- Emmenagogue (Artava-janana): traditionally used to promote menstruation. Contraindicated due to carcinogenicity.
+- Anti-inflammatory (Shotha-hara): traditionally used for inflammation. Any such use is outweighed by the risk of cancer and kidney damage.
 - NOTE: ALL traditional uses of Aristolochia indica are SUPERSEDED by safety concerns; use of this herb is NOT recommended under any circumstances
 
 ## What do recent clinical trials show?

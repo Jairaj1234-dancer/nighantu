@@ -51,10 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and anti-arthritic use validated in carrageenan-induced paw edema and Freund's adjuvant models
-- [Diuretic](/reference/diuretic/) and antiurolithiatic effects confirmed in ethylene glycol-induced urolithiasis models in rats
-- Antifungal activity validated against Aspergillus fumigatus and dermatophyte species using essential oil
-- Respiratory ailment use supported by bronchodilatory and antiasthmatic activity in preclinical models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for inflammatory and arthritic conditions. Animal studies have reported anti-inflammatory and anti-arthritic activity in carrageenan-induced paw edema and Freund's adjuvant models.
+- [Diuretic](/reference/diuretic/) and antiurolithiatic use: animal studies in rats have reported diuretic and antiurolithiatic effects in ethylene glycol-induced urolithiasis models.
+- Antifungal use: in vitro studies of the essential oil have reported activity against Aspergillus fumigatus and dermatophyte species.
+- Traditionally used for respiratory ailments. Preclinical studies have reported bronchodilatory and antiasthmatic activity.
 
 ## What do recent clinical trials show?
 

@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Kamala](/herb/kamala/) (jaundice/liver disorders): Hepatoprotective polyphenols (chlorogenic acid, flavonoids) and the CYP2E1/Keap1/NF-kB pathway modulation validate traditional use of fresh sugarcane juice in jaundice treatment
-- Mutrakricchra and Ashmari (dysuria and kidney stones): Diuretic and alkalinizing properties of sugarcane juice scientifically support traditional use in urinary disorders
-- Daha (burning sensation/Pitta conditions): Cooling virya, antioxidant polyphenols, and high potassium content validate traditional use as a Pitta-pacifying cooling agent
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Kamala](/herb/kamala/) (jaundice/liver disorders): fresh sugarcane juice is traditionally used in jaundice.
+- Mutrakricchra and Ashmari (dysuria and kidney stones): sugarcane juice is traditionally used in urinary disorders.
+- Daha (burning sensation/Pitta conditions): traditionally used as a Pitta-pacifying cooling agent, described as having cooling virya.
 
 ## What do recent clinical trials show?
 

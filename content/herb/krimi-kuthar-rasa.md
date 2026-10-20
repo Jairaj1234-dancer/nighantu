@@ -41,8 +41,10 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 
 ## Which traditional uses are supported by research?
 
-- Intestinal parasites (Krimi Roga) including roundworms, tapeworms, and pinworms - traditional primary indication; supported by anthelmintic activity of [Vidanga](/herb/vidanga/) (embelin) and Palash seeds (palasonin)
-- Digestive disorders associated with parasitic infection - traditional use supported by the carminative, digestive, and anti-amoebic properties of [Indrayava](/herb/indrayava/), Ajamoda, and Karpura
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Intestinal parasites (Krimi Roga), including roundworms, tapeworms, and pinworms: traditionally used as the primary indication. Ingredients include [Vidanga](/herb/vidanga/) (embelin) and Palash seeds (palasonin), which are described as having anthelmintic activity.
+- Digestive disorders associated with parasitic infection: traditionally used for this purpose. Ingredients include [Indrayava](/herb/indrayava/), Ajamoda, and Karpura, which are described as having carminative, digestive, and anti-amoebic properties.
 
 ## What do recent clinical trials show?
 

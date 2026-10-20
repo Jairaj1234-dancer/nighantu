@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorder treatment (Kasa-Shwasa) validated by bronchodilatory and anti-asthmatic activity in [histamine](/glossary/compounds-g-l/#histamine)-induced bronchospasm models
-- Anti-inflammatory use confirmed through significant reduction in carrageenan and formalin-induced edema in animal studies
-- Anthelmintic use (Krimighna) supported by in vitro activity against Pheretima posthuma and Ascaridia galli
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kasa-Shwasa (respiratory disorders): traditionally used for respiratory complaints. Studies in [histamine](/glossary/compounds-g-l/#histamine)-induced bronchospasm models have reported bronchodilatory and anti-asthmatic activity.
+- Traditionally used for inflammation. Animal studies have reported reduced carrageenan- and formalin-induced edema.
+- Krimighna: traditionally used as an anthelmintic. In vitro studies have reported activity against Pheretima posthuma and Ascaridia galli.
 
 ## What do recent clinical trials show?
 

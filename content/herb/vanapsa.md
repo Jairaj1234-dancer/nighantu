@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorders and cough (Kasa-hara) - validated through confirmed expectorant, anti-inflammatory, and [antimicrobial](/reference/antimicrobial/) properties
-- [Antipyretic](/reference/antipyretic/) (Jvarahara) - confirmed diaphoretic and antipyretic activities in pharmacological studies
-- Skin health and complexion (Varnya) - traditional use in face preparations supported by anti-inflammatory and [antioxidant](/reference/antioxidant/) data
-- Sleep aid and [anxiolytic](/reference/anxiolytic/) (Nidrajanana) - traditional sedative use partially supported by flavonoid-mediated CNS-calming effects
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Respiratory disorders and cough (Kasa-hara): traditionally used for these conditions. Studies have reported expectorant, anti-inflammatory, and [antimicrobial](/reference/antimicrobial/) properties.
+- [Antipyretic](/reference/antipyretic/) (Jvarahara): traditionally used for this purpose. Pharmacological studies have reported diaphoretic and antipyretic activities.
+- Skin health and complexion (Varnya): traditionally used in face preparations. Studies have reported anti-inflammatory and [antioxidant](/reference/antioxidant/) activity.
+- Sleep aid and [anxiolytic](/reference/anxiolytic/) (Nidrajanana): traditionally used as a sedative. Studies have reported calming effects on the central nervous system linked to flavonoids.
 
 ## What do recent clinical trials show?
 

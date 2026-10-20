@@ -51,10 +51,12 @@ Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhi
 
 ## Which traditional uses are supported by research?
 
-- Kasa-Shwasa (cough and asthma): 25% spasm reduction in tracheal tissue validates classical bronchodilatory use
-- Rasayana (rejuvenation): Vardhamana [Pippali](/herb/pippali/) protocol for promoting strength, respiratory resilience, and slowing age-related decline - clinically observed
-- Agnimandya (digestive weakness): piperine-mediated enhancement of digestive enzyme activity well-validated pharmacologically
-- Pranavaha Srotas strengthening (respiratory channel health): volatile oil mucolytic and bronchodilatory actions confirmed experimentally
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kasa-Shwasa (cough and asthma): traditionally used for cough and asthma. A study on tracheal tissue reported reduced spasm.
+- Rasayana (rejuvenation): used in classical practice as a Vardhamana [Pippali](/herb/pippali/) protocol for promoting strength and respiratory resilience and for slowing age-related decline.
+- Agnimandya (digestive weakness): traditionally used for digestive weakness. Pharmacological studies have reported that piperine enhanced digestive enzyme activity.
+- Pranavaha Srotas strengthening (respiratory channel health): traditionally used to strengthen the respiratory channels. Experimental studies have reported mucolytic and bronchodilatory actions of the volatile oil.
 
 ## What do recent clinical trials show?
 

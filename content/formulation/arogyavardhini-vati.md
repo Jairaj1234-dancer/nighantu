@@ -39,10 +39,12 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective action in fatty liver disease (NAFLD/AFLD) validated through multiple clinical and preclinical studies showing dose-dependent liver protection
-- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects confirmed in clinical trials demonstrating reduction in total cholesterol, LDL, and triglycerides
-- Skin disease management (kushtha) supported by anti-inflammatory and blood-purifying mechanisms confirmed in dermatological studies
-- Digestive fire enhancement (Agni deepana) validated through improved appetite and digestive enzyme secretion in clinical observations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Fatty liver disease (NAFLD/AFLD): clinical and preclinical studies have reported a dose-dependent liver-protective action.
+- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects: clinical trials have reported reductions in total cholesterol, LDL and triglycerides.
+- Kushtha (skin disease): traditionally used for skin conditions. Dermatological studies have reported anti-inflammatory and blood-purifying activity.
+- Agni deepana (digestive fire enhancement): traditionally used to kindle digestion. Clinical observations have reported improved appetite and digestive enzyme secretion.
 
 ## What do recent clinical trials show?
 

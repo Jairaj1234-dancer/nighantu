@@ -37,14 +37,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 - Enhanced iron supplementation through calcined ferrous sulfate with higher bioavailability than raw form, supporting hemoglobin synthesis without GI distress
 - Deepana (appetite stimulation) and Pachana (digestive fire strengthening) through iron-mediated metabolic enzyme activation in the gastrointestinal tract
-- [Hepatoprotective](/reference/hepatoprotective/) action through [antioxidant](/reference/antioxidant/) activity and cellular membrane stabilization, protecting liver cells from toxic damage (validated against CCl4 toxicity)
+- [Hepatoprotective](/reference/hepatoprotective/) activity, with [antioxidant](/reference/antioxidant/) activity and cellular membrane stabilization, has been reported in studies of CCl4-induced liver toxicity.
 - Raktavardhaka (blood-enhancing) action through combined iron provision and improved intestinal absorption, addressing anemia at multiple levels
 
 ## Which traditional uses are supported by research?
 
-- Iron-deficiency anemia (Pandu Roga): Improved hemoglobin and ferritin levels confirmed in clinical evaluations without GI side effects of conventional iron
-- Liver disorders: Hepatoprotective activity against CCl4-induced hepatotoxicity validated in animal models
-- Digestive disorders (Agnimandya, Ajirna): Deepana-Pachana properties confirmed through improved appetite and digestion in clinical observations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron-deficiency anemia (Pandu Roga): traditionally used for Pandu Roga. Clinical evaluations have reported improved hemoglobin and ferritin levels without the GI side effects of conventional iron.
+- Liver disorders: traditionally used for liver disorders. Animal studies have reported hepatoprotective activity against CCl4-induced hepatotoxicity.
+- Digestive disorders (Agnimandya, Ajirna): traditionally used for its Deepana-Pachana properties. Clinical observations have reported improved appetite and digestion.
 
 ## What do recent clinical trials show?
 

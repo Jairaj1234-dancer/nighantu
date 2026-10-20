@@ -46,10 +46,12 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ## Which traditional uses are supported by research?
 
-- Urinary disorders (dysuria, retention) - validated by diuretic action studies on [Gokshura](/herb/gokshura/)
-- Urinary calculi (stones) - supported by lithotriptic effects demonstrated in experimental models
-- Urinary tract infections - corroborated by antimicrobial activity of combined formulation
-- Respiratory conditions (adjunct use) - supported by anti-tussive and [expectorant](/reference/expectorant/) properties of [Brihati](/herb/brihati/) and [Kantakari](/herb/kantakari/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Urinary disorders (dysuria, retention): traditionally used for these conditions. Studies have reported diuretic action of [Gokshura](/herb/gokshura/).
+- Urinary calculi (stones): traditionally used for urinary stones. Experimental studies have reported lithotriptic effects.
+- Urinary tract infections: traditionally used for these conditions. Studies have reported antimicrobial activity of the combined formulation.
+- Respiratory conditions (adjunct use): traditionally used as an adjunct for respiratory conditions. Anti-tussive and [expectorant](/reference/expectorant/) properties have been reported for [Brihati](/herb/brihati/) and [Kantakari](/herb/kantakari/).
 
 ## What do recent clinical trials show?
 

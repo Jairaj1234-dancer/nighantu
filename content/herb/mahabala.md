@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and analgesic properties validated through multiple in vivo models, confirming traditional use in Vataroga (joint and muscular conditions)
-- [Antimicrobial](/reference/antimicrobial/) activity confirmed against bacteria and fungi, supporting traditional use in wound healing and infectious conditions
-- Antimalaria activity validated against Plasmodium species, confirming ethnomedicinal use in fever and malaria treatment
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in Vataroga (joint and muscular conditions). Animal studies have reported anti-inflammatory and analgesic activity.
+- Traditionally used for wounds and infectious conditions. [Antimicrobial](/reference/antimicrobial/) activity against bacteria and fungi has been reported in studies.
+- Used in ethnomedicine for fever and malaria. Studies have reported antimalarial activity against Plasmodium species.
 
 ## What do recent clinical trials show?
 

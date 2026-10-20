@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cardiovascular protection (Hridya, Raktachapa-hara) extensively validated through clinical trials showing reduction in blood pressure, cholesterol, and platelet aggregation
-- Antimicrobial use (Krimighna) confirmed against broad spectrum of pathogens including antibiotic-resistant bacteria (MRSA)
-- [Antidiabetic](/reference/antidiabetic/) use supported by clinical evidence of improved insulin sensitivity and reduced fasting blood [glucose](/glossary/compounds-d-g/#glucose) in type 2 diabetes patients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cardiovascular use (Hridya, Raktachapa-hara): traditionally used for the heart and blood pressure. Clinical studies have reported reductions in blood pressure, cholesterol, and platelet aggregation.
+- Antimicrobial use (Krimighna): traditionally used against infections. Studies have reported activity against a broad range of pathogens, including antibiotic-resistant bacteria (MRSA).
+- [Antidiabetic](/reference/antidiabetic/) use: traditionally used in this role. Clinical studies in people with type 2 diabetes have reported improved insulin sensitivity and lower fasting blood [glucose](/glossary/compounds-d-g/#glucose).
 
 ## What do recent clinical trials show?
 

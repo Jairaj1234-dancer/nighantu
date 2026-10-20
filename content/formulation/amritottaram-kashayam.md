@@ -38,10 +38,12 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## Which traditional uses are supported by research?
 
-- Fever management (Jwara Chikitsa) - validated by immunomodulatory and antipyretic studies
-- Liver protection in mild hepatitis - supported by ALT/AST reduction in clinical study
-- General immunity enhancement - validated by NK cell and macrophage activation research
-- Digestive support during febrile illness - supported by Shunthi's established digestive properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Jwara Chikitsa (fever care): traditionally used for fever. Research has reported immunomodulatory and antipyretic activity.
+- Traditionally used to protect the liver in mild hepatitis. A clinical study reported lower ALT and AST levels.
+- Traditionally used to support general immunity. Research has reported NK cell and macrophage activation.
+- Traditionally used for digestive support during febrile illness. Shunthi is traditionally valued for its digestive properties.
 
 ## What do recent clinical trials show?
 

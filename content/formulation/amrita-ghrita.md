@@ -39,10 +39,12 @@ Bhavishya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (prepara
 
 ## Which traditional uses are supported by research?
 
-- Vyadhikshamatva (immunity enhancement): RCT validates 22% increase in serum [immunoglobulins](/glossary/compounds-g-l/#immunoglobulins) in elderly subjects
-- [Rasayana](/reference/rasayana/) (rejuvenation): [immunomodulatory](/reference/immunomodulatory/) and adaptogenic activities confirmed in preclinical studies supporting classical rejuvenative claims
-- Jvara (fever management): [Guduchi](/herb/guduchi/)'s immunostimulant and [antipyretic](/reference/antipyretic/) activities well-validated pharmacologically
-- Ojas Vardhana (vital energy enhancement): traditional use for enhancing strength, immunity, and longevity supported by clinical evidence
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vyadhikshamatva (immunity enhancement): traditionally used for enhancing immunity. A clinical study reported an increase in serum [immunoglobulins](/glossary/compounds-g-l/#immunoglobulins) in elderly subjects.
+- [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used for rejuvenation. Preclinical studies have reported [immunomodulatory](/reference/immunomodulatory/) and adaptogenic activities.
+- Jvara (fever): traditionally used for fever. Pharmacological studies have reported immunostimulant and [antipyretic](/reference/antipyretic/) activities of [Guduchi](/herb/guduchi/).
+- Ojas Vardhana (vital energy enhancement): traditionally used for enhancing strength, immunity, and longevity.
 
 ## What do recent clinical trials show?
 

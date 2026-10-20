@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 ## Which traditional uses are supported by research?
 
-- Cough and cold (Kasa-Pratishyaya): Cinnabar's documented sedative/anti-tussive properties and [Pippali](/herb/pippali/)'s mucolytic action provide mechanistic support for the traditional anti-tussive use
-- Respiratory congestion: The combination of bioenhancer ([Pippali](/herb/pippali/)), [expectorant](/reference/expectorant/), and anti-inflammatory ingredients aligns with traditional use in respiratory disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cough and cold (Kasa-Pratishyaya): traditionally used for cough and cold. The formulation includes cinnabar and [Pippali](/herb/pippali/).
+- Respiratory congestion: traditionally used in respiratory disorders. The formulation combines [Pippali](/herb/pippali/) with ingredients traditionally regarded as [expectorant](/reference/expectorant/) and anti-inflammatory.
 
 ## What do recent clinical trials show?
 

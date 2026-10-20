@@ -41,15 +41,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 ## How does it work?
 
-- Ellagic acid and gallic acid [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibit alpha-glucosidase and alpha-amylase [enzymes](/glossary/compounds-d-g/#enzymes), reducing postprandial [glucose](/glossary/compounds-d-g/#glucose) absorption and providing [antidiabetic](/reference/antidiabetic/) effects validated in myotube glucose uptake assays
+- In vitro studies have reported that ellagic acid and gallic acid [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibit alpha-glucosidase and alpha-amylase [enzymes](/glossary/compounds-d-g/#enzymes). Myotube assays have reported increased [glucose](/glossary/compounds-d-g/#glucose) uptake, described as [antidiabetic](/reference/antidiabetic/) activity.
 - Water chestnut extract promotes M2 macrophage polarization (anti-inflammatory phenotype) through modulation of STAT6/PPAR-gamma signaling, reducing tissue inflammation and oxidative damage
 - Ursolic acid and hydrolyzable [tannins](/reference/tannins/) from pericarp exhibit skin-protective effects by inhibiting tyrosinase, elastase, and hyaluronidase, supporting anti-aging and skin-whitening applications
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and cooling effects validated through macrophage polarization studies and [antioxidant](/reference/antioxidant/) assays, supporting traditional Ayurvedic use as a Pittahara (Pitta-pacifying) food medicine
-- Antidiabetic activity validated through isolation of specific hypoglycemic constituents from pericarps that enhance cellular glucose uptake, supporting traditional use for Prameha (diabetes)
-- Nutritive and strength-promoting properties (Brimhana) supported by nutritional analysis showing high [starch](/glossary/compounds-q-t/#starch), protein, mineral, and vitamin content
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in Ayurveda as a cooling, Pittahara (Pitta-pacifying) food medicine. Laboratory studies on macrophage polarization have reported anti-inflammatory activity, and [antioxidant](/reference/antioxidant/) assays have reported antioxidant activity.
+- Traditionally used for Prameha (diabetes). Laboratory studies have reported that hypoglycemic constituents isolated from the pericarps increase cellular glucose uptake.
+- Traditionally valued as nutritive and strength-promoting (Brimhana). Nutritional analysis has reported high [starch](/glossary/compounds-q-t/#starch), protein, mineral, and vitamin content.
 
 ## What do recent clinical trials show?
 

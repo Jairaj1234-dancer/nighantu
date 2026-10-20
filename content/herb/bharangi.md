@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-asthmatic use (Shwasa-Kasahara) validated through ovalbumin-induced asthma model showing reduction in bronchial inflammation and IgE
-- Anti-inflammatory use for joint disorders confirmed by significant inhibition of carrageenan-induced edema
-- Hepatoprotective traditional use supported by normalization of liver [enzymes](/glossary/compounds-d-g/#enzymes) in CCl4-induced hepatotoxicity models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Shwasa-Kasahara: traditionally used for asthma. Animal studies using an ovalbumin-induced asthma model have reported reduced bronchial inflammation and IgE.
+- Traditionally used as an anti-inflammatory for joint disorders. Animal studies have reported inhibition of carrageenan-induced edema.
+- Traditionally used to protect the liver. Animal studies in CCl4-induced hepatotoxicity models have reported normalization of liver [enzymes](/glossary/compounds-d-g/#enzymes).
 
 ## What do recent clinical trials show?
 

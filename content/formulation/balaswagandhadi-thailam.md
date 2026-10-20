@@ -49,14 +49,16 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 ## Which traditional uses are supported by research?
 
-- Muscle weakness and general debility recovery - validated by RCT (2019) showing 30% pain score reduction with daily abhyanga over 4 weeks
-- Post-illness recovery and Dhatukshaya (tissue depletion) - supported by GC-MS identification (2024) of anabolic [phytosterols](/glossary/compounds-o-q/#phytosterols) and vitamin E in the formulation
-- Neuralgia and neuromuscular pain conditions - supported by pharmacological evidence of anti-inflammatory and neuromuscular-strengthening properties from dual action of [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Muscle weakness and general debility recovery: traditionally used for these conditions as daily abhyanga. A clinical study reported reduced pain scores with daily abhyanga.
+- Post-illness recovery and Dhatukshaya (tissue depletion): traditionally used for these conditions. A GC-MS analysis identified [phytosterols](/glossary/compounds-o-q/#phytosterols) and vitamin E in the formulation.
+- Neuralgia and neuromuscular pain conditions: traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory and neuromuscular-strengthening properties linked to [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/).
 
 ## What do recent clinical trials show?
 
 - Sudhan A, Prabhu K, Jones S and others 2024. [GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam](https://pubmed.ncbi.nlm.nih.gov/40061637/). *Journal of pharmacy & bioallied sciences*. PMID [40061637](https://pubmed.ncbi.nlm.nih.gov/40061637/) · [doi:10.4103/jpbs.jpbs_839_24](https://doi.org/10.4103/jpbs.jpbs_839_24)  
-  Published in PMC, the GC-MS study identified key bioactive compounds including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters, validating the presence of pharmacologically active molecules in the traditional formulation.
+  A GC-MS study identified compounds in the traditional formulation, including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Male reproductive disorders (Vajikarana): Testicular regenerative potential demonstrated in animal studies, supporting aphrodisiac claims
-- Urinary disorders (Prameha/Mutra Roga): Traditional use partially validated through inclusion in [Trivanga Bhasma](/herb/trivanga-bhasma/) studies showing urinary system benefits
-- Diabetes (Madhumeha): Anti-diabetic activity validated as component of [Trivanga Bhasma](/herb/trivanga-bhasma/) in multiple animal studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Male reproductive disorders (Vajikarana): traditionally used as an aphrodisiac. Animal studies have reported testicular regenerative potential.
+- Urinary disorders (Prameha/Mutra Roga): traditionally used for urinary disorders. Studies of [Trivanga Bhasma](/herb/trivanga-bhasma/), which includes it, have reported benefits to the urinary system.
+- Diabetes (Madhumeha): traditionally used for diabetes. Animal studies of [Trivanga Bhasma](/herb/trivanga-bhasma/), which includes it, have reported anti-diabetic activity.
 
 ## What do recent clinical trials show?
 

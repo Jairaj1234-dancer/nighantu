@@ -38,10 +38,12 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## Which traditional uses are supported by research?
 
-- Digestive fire enhancement (Agni Deepana) validated through demonstrated increases in salivary amylase, gastric acid, and pancreatic enzyme secretion
-- Bioavailability enhancement (Yogavahi) validated as one of the most potent natural bioenhancers, with piperine increasing absorption up to 2000% for certain compounds
-- Obesity management validated in 2024 placebo-controlled RCT showing significant effects on body weight parameters
-- Kapha-reducing and respiratory decongestant action validated through thermogenic and mucolytic properties of all three ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Agni Deepana (digestive fire enhancement): traditionally used to kindle digestion. Studies have reported increases in salivary amylase, gastric acid and pancreatic enzyme secretion.
+- Yogavahi (bioavailability enhancement): traditionally regarded as a carrier that enhances other substances. Studies have reported that piperine can increase the absorption of certain compounds.
+- Obesity: a placebo-controlled clinical study reported significant effects on body weight parameters.
+- Kapha-reducing action: traditionally used to reduce Kapha and to clear respiratory congestion. All three ingredients are described as having thermogenic and mucolytic properties.
 
 ## What do recent clinical trials show?
 

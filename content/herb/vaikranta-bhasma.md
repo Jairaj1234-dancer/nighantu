@@ -43,9 +43,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 
 ## Which traditional uses are supported by research?
 
-- Diabetes (Prameha): Traditional anti-diabetic indication supported by multi-mineral composition known to affect glucose metabolism, but specific clinical validation limited
-- Anemia: Iron-rich composition supports traditional use for blood deficiency conditions, validated by physicochemical iron content analysis
-- Respiratory disorders (Shwasa, Kasa): Traditional use for asthma and chronic cough supported by anti-inflammatory properties of mineral constituents
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diabetes (Prameha): traditionally used for diabetes.
+- Anemia: traditionally used for blood deficiency conditions. Physicochemical analysis has reported iron content in the preparation.
+- Respiratory disorders (Shwasa, Kasa): traditionally used for asthma and chronic cough.
 
 ## What do recent clinical trials show?
 
@@ -59,7 +61,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 - PRELIMINARY SAFETY: Single-dose toxicity study in rats showed no adverse effects, but data is limited
 - STRICT MEDICAL SUPERVISION: Must be taken only under medical supervision. Overdosage may cause severe gastritis.
 - SHORT DURATION USE: Recommended for prescribed dosage for short duration only
-- SOURCE STANDARDIZATION: Variations between tourmaline sources affect composition and potentially safety. Only black tourmaline (schorl) validated for medicinal use.
+- SOURCE STANDARDIZATION: variations between tourmaline sources affect composition and possibly safety. Only black tourmaline (schorl) is traditionally used for medicinal preparation.
 
 ## What is it made of?
 

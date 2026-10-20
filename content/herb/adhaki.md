@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Adhaki (Cajanus cajan (L.) Millsp.) is a plant drug, also called Kaksi, Tuvari and Arahara, from the Fabaceae family. aureus including MDR strains Hepatoprotective effects validated through safety assessment studies showing protection of liver and kidney function markers Not listed in WHO monographs on selected medicinal plants; recognized as an important food legume by FAO; GRAS (Generally Recognized as Safe) status for food use."
+answer: "Adhaki (Cajanus cajan (L.) Millsp.) is a plant drug from the Fabaceae family, also called Kaksi, Tuvari and Arahara. Safety assessment studies have reported protection of liver and kidney function markers. It is not listed in the WHO monographs on selected medicinal plants. FAO recognizes it as an important food legume, and it has GRAS (Generally Recognized as Safe) status for food use."
 botanical: "Cajanus cajan (L.) Millsp."
 family: "Fabaceae"
 sanskrit: ""
@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/reference/antidiabetic/) activity validated through in vivo studies showing hypoglycemic effects consistent with traditional use for diabetes management
-- [Antimicrobial](/reference/antimicrobial/) properties confirmed by bioassay-guided isolation of isoflavonoids, [anthraquinones](/glossary/compounds-1-a/#anthraquinones), and pterocarpanoids effective against S. aureus including MDR strains
-- [Hepatoprotective](/reference/hepatoprotective/) effects validated through safety assessment studies showing protection of liver and kidney function markers
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Antidiabetic](/reference/antidiabetic/) activity: traditionally used for diabetes. In vivo studies have reported hypoglycemic effects.
+- [Antimicrobial](/reference/antimicrobial/) properties: bioassay-guided isolation studies have reported isoflavonoids, [anthraquinones](/glossary/compounds-1-a/#anthraquinones), and pterocarpanoids with activity against S. aureus, including MDR strains.
+- [Hepatoprotective](/reference/hepatoprotective/) effects: safety assessment studies have reported protection of liver and kidney function markers.
 
 ## What do recent clinical trials show?
 

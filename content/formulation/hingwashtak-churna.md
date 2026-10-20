@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ## Which traditional uses are supported by research?
 
-- Functional dyspepsia and indigestion (validated by RCT showing 45% symptom improvement)
-- Flatulence and bloating (validated by animal study showing 30% reduction in intestinal gas volume)
-- IBS symptom management (validated by preliminary clinical evidence of pain, bloating, and stool consistency improvement)
-- Gastroprotection (validated by mucosal protection in ibuprofen and ethanol-induced ulcer models)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Functional dyspepsia and indigestion: traditionally used for these complaints. A clinical study reported improvement in symptoms.
+- Flatulence and bloating: traditionally used for these complaints. An animal study reported a reduction in intestinal gas volume.
+- IBS symptoms: traditionally used for these complaints. Preliminary clinical reports described changes in pain, bloating and stool consistency.
+- Stomach lining: animal studies in ibuprofen- and ethanol-induced ulcer models have reported mucosal protection.
 
 ## What do recent clinical trials show?
 

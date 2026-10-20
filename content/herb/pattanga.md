@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Complexion enhancement (Varnya): Validated by demonstrated brazilin-mediated melanin synthesis suppression in human melanoma cells
-- Wound healing (Vrana Ropana): Validated by 2024 animal study showing significant improvement in incision wound healing with 6.5% sappanwood extract
-- Anti-inflammatory skin care (Daha Prashamana): Validated by demonstrated inhibition of NO and PGE2 production through iNOS and COX-2 suppression
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Complexion enhancement (Varnya): traditionally used for complexion enhancement. An in vitro study in human melanoma cells reported that brazilin suppressed melanin synthesis.
+- Wound healing (Vrana Ropana): traditionally used for wound healing. An animal study reported improved incision wound healing with sappanwood extract.
+- Anti-inflammatory skin care (Daha Prashamana): traditionally used in skin care for inflammatory conditions. Studies have reported inhibition of NO and PGE2 production through iNOS and COX-2 suppression.
 
 ## What do recent clinical trials show?
 

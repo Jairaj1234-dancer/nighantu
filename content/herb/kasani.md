@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective use (Yakrit-Shodhaka) validated through clinical and preclinical studies showing reduction of liver [enzymes](/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration
-- Digestive and prebiotic use confirmed by enhancement of beneficial gut microbiota (Bifidobacteria) through inulin fermentation
-- Antidiabetic use supported by clinical evidence of improved glycemic control and insulin sensitivity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Yakrit-Shodhaka (liver): traditionally used for the liver. Clinical and preclinical studies have reported lower liver [enzymes](/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration.
+- Traditionally used for digestion. Research has reported that inulin fermentation increased beneficial gut bacteria (Bifidobacteria).
+- Traditionally used in diabetes. Clinical studies have reported improved glycemic control and insulin sensitivity.
 
 ## What do recent clinical trials show?
 

@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Complexion enhancement (Varnya): Traditional face pack use supported by antioxidant activity and development of Padmaka-based cosmetic face serum (2024 study)
-- Anti-inflammatory skin rash relief: Validated by bark powder application studies showing reduction in skin rashes and itching through NF-kB suppression
-- Skin discoloration treatment: Traditional heartwood use for discoloration partially supported by antioxidant mechanisms, though clinical trials are needed
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Complexion enhancement (Varnya): traditionally used in face packs. Research has reported antioxidant activity, and a Padmaka-based cosmetic face serum has been developed.
+- Skin rashes and itching: studies of bark powder application have reported reduced skin rashes and itching, linked to NF-kB suppression.
+- Skin discoloration: the heartwood is traditionally used for discoloration. Research has reported antioxidant activity, but clinical trials are still needed.
 
 ## What do recent clinical trials show?
 

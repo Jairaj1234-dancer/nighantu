@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Laxative](/reference/laxative/) and digestive (Bhedana) - validated as bulk-forming laxative through mucilage fiber action; approved by German Commission E
-- Skin and hair health (Tvachya, Keshya) - supported by ALA omega-3 anti-inflammatory effects on skin conditions including eczema
-- Anti-inflammatory (Shothaghna) - validated through multiple preclinical and clinical studies showing reduction in inflammatory markers
-- Cardiovascular health (Hridya) - confirmed through clinical trials showing reduction in blood pressure, cholesterol, and triglycerides
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Laxative](/reference/laxative/) and digestive (Bhedana): traditionally used as a bulk-forming laxative.
+- Skin and hair health (Tvachya, Keshya): traditionally used for skin and hair health.
+- Anti-inflammatory (Shothaghna): traditionally used for inflammation. Preclinical and clinical studies have reported reductions in inflammatory markers.
+- Cardiovascular health (Hridya): traditionally used for heart health. Clinical studies have reported reductions in blood pressure, cholesterol, and triglycerides.
 
 ## What do recent clinical trials show?
 

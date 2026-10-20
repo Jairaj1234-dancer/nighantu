@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and analgesic use validated with significant edema inhibition (46-77%) in carrageenan model
-- Wound healing confirmed through enhanced collagen deposition and epithelialization in excision wound models
-- Antidiabetic use supported by hypoglycemic effects in alloxan-induced diabetic rat models
-- Anti-diarrheal activity confirmed in castor oil-induced diarrhea models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for inflammation and pain. Animal studies have reported reduced edema in a carrageenan model.
+- Traditionally used for wound healing. Animal studies in excision wound models have reported more collagen deposition and epithelialization.
+- Traditionally used for diabetes. Animal studies in alloxan-induced diabetic rats have reported hypoglycemic effects.
+- Traditionally used for diarrhea. Animal studies have reported anti-diarrheal activity in castor oil-induced diarrhea models.
 
 ## What do recent clinical trials show?
 

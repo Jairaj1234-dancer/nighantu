@@ -39,10 +39,12 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 ## Which traditional uses are supported by research?
 
-- Digestive fire stimulation (Agni Deepana) validated through pilot trial showing improved gastric motility and reduced flatulence
-- Fat digestion enhancement validated through in vitro studies showing significant lipase activation by [Chavya](/herb/chavya/) and [Pippali](/herb/pippali/) extracts
-- Bioavailability enhancement validated through piperine's demonstrated ability to increase absorption of co-administered compounds
-- Ama Pachana (toxin digestion) validated through the combined digestive enzyme stimulation and antimicrobial gut-cleansing mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Agni Deepana (digestive fire stimulation): traditionally used to kindle digestive fire. A pilot trial reported improved gastric motility and reduced flatulence.
+- Fat digestion: traditionally used to aid fat digestion. In vitro studies have reported lipase activation by [Chavya](/herb/chavya/) and [Pippali](/herb/pippali/) extracts.
+- Bioavailability enhancement: piperine has been reported to increase the absorption of co-administered compounds.
+- Ama Pachana (toxin digestion): traditionally used for the digestion of toxins.
 
 ## What do recent clinical trials show?
 

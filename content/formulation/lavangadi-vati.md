@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## Which traditional uses are supported by research?
 
-- Cough and respiratory infection management validated through demonstrated antimicrobial activity against S. mutans and S. aureus and immunomodulatory properties
-- Throat irritation and sore throat relief validated through demulcent, anti-inflammatory, and expectorant mechanisms
-- Oral health (dental pain, oral infections) validated through eugenol's well-established [analgesic](/reference/analgesic/) and antimicrobial properties
-- Kapha-related respiratory congestion validated through mucolytic and warming mechanisms of combined heating ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for cough and respiratory infections. Antimicrobial activity against S. mutans and S. aureus and immunomodulatory properties have been reported.
+- Traditionally used for throat irritation and sore throat.
+- Traditionally used for oral health, including dental pain and oral infections. Eugenol has been reported to have [analgesic](/reference/analgesic/) and antimicrobial properties.
+- Traditionally used for Kapha-related respiratory congestion, drawing on its combined heating ingredients.
 
 ## What do recent clinical trials show?
 

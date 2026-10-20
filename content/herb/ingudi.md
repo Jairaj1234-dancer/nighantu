@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic and antiparasitic use validated through molluscicidal and antischistosomal studies
-- Wound healing validated through [antimicrobial](/reference/antimicrobial/) and tissue repair promotion studies
-- [Laxative](/reference/laxative/) use confirmed through preclinical motility studies
-- Skin disease treatment (leprosy, leukoderma) supported by antimicrobial and anti-inflammatory preclinical evidence
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an anthelmintic and antiparasitic. Studies have reported molluscicidal and antischistosomal activity.
+- Traditionally used on wounds. Studies have reported [antimicrobial](/reference/antimicrobial/) activity and promotion of tissue repair.
+- [Laxative](/reference/laxative/): traditionally used as a laxative. Preclinical studies have reported effects on motility.
+- Traditionally used for skin diseases, including leprosy and leukoderma. Preclinical studies have reported antimicrobial and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

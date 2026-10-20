@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cooling and pitta-pacifying (Pittahara) - validated through confirmed anti-inflammatory and [antioxidant](/reference/antioxidant/) cooling properties
-- [Laxative](/reference/laxative/) (Bhedana) - confirmed mild laxative effect through dietary fiber and [magnesium](/glossary/compounds-l-o/#magnesium) content
-- Blood builder (Raktavardhaka) - supported by high folate and iron content for hemoglobin synthesis (though iron bioavailability reduced by oxalates)
-- Eye health ([Chakshushya](/herb/chakshushya/)) - strongly validated through lutein and zeaxanthin's proven role in macular health and AMD prevention
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cooling and pitta-pacifying (Pittahara): traditionally used as a cooling herb to pacify pitta.
+- [Laxative](/reference/laxative/) (Bhedana): traditionally used as a mild laxative. The leaves contain dietary fiber and [magnesium](/glossary/compounds-l-o/#magnesium).
+- Blood builder (Raktavardhaka): traditionally used to build the blood. The leaves contain folate and iron, though oxalates reduce how well the iron is absorbed.
+- Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used to support the eyes. The leaves contain lutein and zeaxanthin.
 
 ## What do recent clinical trials show?
 

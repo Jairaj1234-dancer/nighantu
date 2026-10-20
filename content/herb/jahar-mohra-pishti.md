@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 ## Which traditional uses are supported by research?
 
-- Cardiac tonic (Hridya): Magnesium's well-established role in cardiac function provides strong mechanistic support for the traditional cardiotonic claim, though specific clinical trials on [Jahar Mohra Pishti](/herb/jahar-mohra-pishti/) are lacking
-- Antidote to poisons (Vishanashak) and anti-emetic: The magnesium silicate matrix's adsorptive properties provide a plausible mechanism for the traditional detoxifying/antidote claim
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cardiac tonic (Hridya): traditionally used as a cardiac tonic. Specific clinical trials on [Jahar Mohra Pishti](/herb/jahar-mohra-pishti/) are lacking.
+- Antidote to poisons (Vishanashak) and anti-emetic: traditionally used as an antidote to poisons and as an anti-emetic.
 
 ## What do recent clinical trials show?
 

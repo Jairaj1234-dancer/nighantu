@@ -38,9 +38,11 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/formulat
 
 ## Which traditional uses are supported by research?
 
-- Chronic headache and migraine (Shirahshula) - validated by clinical observations (2019) showing 60% patient improvement with Nasya administration over 21 days
-- Eye disorders and visual fatigue (Netra Roga) - supported by pharmacological evidence of [pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Asanaka providing retinal neuroprotection, and antioxidant action of [Triphala](/herb/triphala/) on optic tissue
-- Premature hair greying and hair fall - supported by the antioxidant protection from [Triphala](/herb/triphala/) and [Amla](/herb/amla/)'s established hair-strengthening properties through follicular nourishment
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic headache and migraine (Shirahshula): traditionally used for chronic headache, given as Nasya. Clinical observations have reported patient improvement with Nasya administration.
+- Eye disorders and visual fatigue (Netra Roga): traditionally used for eye disorders and visual fatigue. Pharmacological studies have reported retinal neuroprotective activity for [pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Asanaka, and antioxidant action of [Triphala](/herb/triphala/) on optic tissue.
+- Premature hair greying and hair fall: traditionally used for premature greying and hair fall. [Triphala](/herb/triphala/) has been reported to have antioxidant activity. [Amla](/herb/amla/) is traditionally used to strengthen hair by nourishing the follicles.
 
 ## What do recent clinical trials show?
 

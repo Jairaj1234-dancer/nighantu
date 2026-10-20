@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated through multiple preclinical models, confirming its traditional use in pain and swelling
-- [Antidiabetic](/reference/antidiabetic/) activity supported by in vivo studies showing blood [glucose](/glossary/compounds-d-g/#glucose) reduction, validating its use in Prameha (diabetes management)
-- [Antimicrobial](/reference/antimicrobial/) properties confirmed against multiple bacterial and fungal strains, supporting its traditional use in infectious conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for pain and swelling. Preclinical studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
+- Traditionally used in Prameha (diabetes). [Antidiabetic](/reference/antidiabetic/) activity, including lower blood [glucose](/glossary/compounds-d-g/#glucose), has been reported in in vivo studies.
+- Traditionally used for infectious conditions. [Antimicrobial](/reference/antimicrobial/) activity against several bacterial and fungal strains has been reported in laboratory studies.
 
 ## What do recent clinical trials show?
 

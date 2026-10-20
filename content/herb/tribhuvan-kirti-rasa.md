@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 ## Which traditional uses are supported by research?
 
-- Antipyretic in all types of fever (Jvara): The [Trikatu](/herb/trikatu/) and [Tulsi](/herb/tulsi/) components have well-documented antipyretic and anti-inflammatory properties validated in multiple pharmacological studies; the combined formulation's efficacy in fever is empirically well-established in clinical practice
-- Respiratory infections (Pratishyaya - common cold): The diaphoretic, [antimicrobial](/reference/antimicrobial/), and immunostimulatory properties of [Tulsi](/herb/tulsi/), [Trikatu](/herb/trikatu/), and processed aconite provide a plausible multi-target mechanism for traditional use in upper respiratory infections
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Jvara (all types of fever): traditionally used in classical practice for all types of fever. Pharmacological studies have reported antipyretic and anti-inflammatory activity for the [Trikatu](/herb/trikatu/) and [Tulsi](/herb/tulsi/) components.
+- Pratishyaya (common cold): traditionally used for upper respiratory infections. The formulation contains [Tulsi](/herb/tulsi/), [Trikatu](/herb/trikatu/), and processed aconite.
 
 ## What do recent clinical trials show?
 

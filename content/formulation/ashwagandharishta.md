@@ -38,10 +38,12 @@ Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a 
 
 ## Which traditional uses are supported by research?
 
-- Stress and anxiety relief - validated by cortisol reduction in placebo-controlled study
-- Chronic fatigue and debility - supported by RCT showing fatigue severity improvement
-- Convalescence after febrile illness - corroborated by dengue recovery study
-- Vitality and reproductive health - traditional Rasayana use supported by adaptogenic and anabolic mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Stress and anxiety: traditionally used for stress and anxiety. A placebo-controlled clinical study reported lower cortisol levels.
+- Chronic fatigue and debility: traditionally used for chronic fatigue and debility. A randomized clinical study reported improvement in fatigue severity.
+- Convalescence after febrile illness: traditionally used during convalescence after febrile illness.
+- Vitality and reproductive health: traditionally used as a Rasayana for vitality and reproductive health.
 
 ## What do recent clinical trials show?
 

@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive stimulant (Deepana-Pachana) activity validated through pharmacological studies confirming enhanced gastric motility and enzyme secretion, supporting traditional Ayurvedic use for Agnimandya (digestive weakness)
-- Anti-emetic and Hridya (cardiac tonic) effects confirmed through hesperidin-mediated cardioprotective studies, supporting traditional use in Pitta disorders and cardiac conditions
-- Anthelmintic activity confirmed through in vitro studies against intestinal parasites, supporting traditional use of citron rind preparations for Krimi (worms)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive stimulant (Deepana-Pachana): traditionally used in Ayurveda for Agnimandya (digestive weakness). Pharmacological studies have reported enhanced gastric motility and enzyme secretion.
+- Anti-emetic and Hridya (cardiac tonic): traditionally used in Pitta disorders and cardiac conditions. Studies on hesperidin have reported cardioprotective effects.
+- Anthelmintic: citron rind preparations are traditionally used for Krimi (worms). In vitro studies have reported activity against intestinal parasites.
 
 ## What do recent clinical trials show?
 

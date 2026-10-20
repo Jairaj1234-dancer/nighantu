@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 ## Which traditional uses are supported by research?
 
-- Upper respiratory disorders (Urdhwa Jatrugata Roga): Clinical practice experience supports efficacy in rhinitis, sinusitis, and respiratory infections; the [camphor](/herb/camphor/) and nutmeg components have documented mucolytic and bronchodilatory properties
-- Rheumatoid arthritis (Amavata): Traditional use supported by the multi-mineral anti-inflammatory composition; gold bhasma's [immunomodulatory](/reference/immunomodulatory/) properties are relevant to autoimmune inflammatory conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Upper respiratory disorders (Urdhwa Jatrugata Roga): traditionally used for rhinitis, sinusitis, and respiratory infections. The formulation includes [camphor](/herb/camphor/) and nutmeg.
+- Rheumatoid arthritis (Amavata): traditionally used for this condition. The formulation has a multi-mineral composition that includes gold bhasma.
 
 ## What do recent clinical trials show?
 

@@ -39,10 +39,12 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## Which traditional uses are supported by research?
 
-- Kushta (chronic skin diseases including psoriasis): 2023 comparative clinical study validates efficacy against psoriasis
-- Phiranga Roga (syphilis/venereal diseases): historical master drug status for STDs supported by antimicrobial and anti-syphilitic pharmacology of Smilax china
-- Rakta Shodhana (blood purification): combined [Gandhaka](/glossary/concepts-a-m/#gandhaka), [Guggulu](/formulation/guggulu/), and Smilax provide validated blood-purifying and tissue-cleansing action
-- Vatarakta and Amavata (gout and rheumatoid arthritis): anti-inflammatory and anti-rheumatic properties of ingredients validated
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kushta (chronic skin diseases including psoriasis): traditionally used for chronic skin diseases. A comparative clinical study reported improvement in psoriasis.
+- Phiranga Roga (syphilis/venereal diseases): traditionally used for syphilis and venereal diseases, and historically regarded as a master drug for these conditions. Antimicrobial activity has been reported for Smilax china.
+- Rakta Shodhana (blood purification): traditionally used for blood purification and tissue cleansing, with [Gandhaka](/glossary/concepts-a-m/#gandhaka), [Guggulu](/formulation/guggulu/), and Smilax as combined ingredients.
+- Vatarakta and Amavata (gout and rheumatoid arthritis): traditionally used for gout and rheumatoid arthritis. Anti-inflammatory and anti-rheumatic properties have been reported for its ingredients.
 
 ## What do recent clinical trials show?
 

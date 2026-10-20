@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and peptic ulcer (Amlapitta): 68% symptom reduction in heartburn validated in clinical trial, confirming traditional antacid use
-- Osteoporosis and bone disorders (Asthi Kshaya): 2.5% lumbar spine BMD improvement in 25 osteopenic subjects over 6 months validates calcium supplementation claim
-- Respiratory and musculoskeletal diseases: Cross-system review (Ayurveda, Siddha) confirms traditional use for diverse conditions including respiratory and joint disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hyperacidity and peptic ulcer (Amlapitta): traditionally used as an antacid for these conditions. A clinical study reported a reduction in heartburn symptoms.
+- Osteoporosis and bone disorders (Asthi Kshaya): traditionally used as a source of calcium. A clinical study in osteopenic subjects reported an improvement in lumbar spine bone mineral density.
+- Respiratory and musculoskeletal diseases: traditionally used in Ayurveda and Siddha for diverse conditions, including respiratory and joint disorders.
 
 ## What do recent clinical trials show?
 

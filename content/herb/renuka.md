@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Menstrual regulation and PMS relief - strongly validated through multiple clinical trials showing significant PMS symptom reduction
-- Prolactin lowering (Stanya-shodhana) - confirmed through clinical studies demonstrating prolactin reduction via dopamine D2 receptor mechanism
-- Menopausal symptom management - validated in clinical studies showing reduction of vasomotor symptoms, mood disorders, and sleep disturbances
-- Female reproductive health (Stri-roga) - broadly validated through clinical evidence supporting menstrual cycle normalization and fertility support
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Menstrual regulation and PMS: traditionally used for menstrual regulation and premenstrual complaints. Clinical studies have reported reduced PMS symptoms.
+- Stanya-shodhana: used in classical practice under this category. Clinical studies have reported reduced prolactin levels and proposed a dopamine D2 receptor mechanism.
+- Menopausal symptoms: traditionally used for menopausal complaints. Clinical studies have reported reductions in vasomotor symptoms, mood disorders and sleep disturbances.
+- Female reproductive health (Stri-roga): traditionally used for female reproductive conditions. Clinical studies have reported menstrual cycle normalization.
 
 ## What do recent clinical trials show?
 
@@ -88,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 **Optimal Timing:** Morning on empty stomach for hormonal effects. Continuous daily use for at least 3 menstrual cycles recommended for PMS/menstrual regulation. Take consistently at the same time daily.
 
-**Standardized Extract:** Renuka seed extract (10:1) standardized to casticin >0.5% and agnuside >0.2% (if V. agnus-castus). Total diterpenes >1%. BNO 1095 or Ze 440 are clinically validated extract specifications (European Vitex standards).
+**Standardized Extract:** Renuka seed extract (10:1) standardized to casticin >0.5% and agnuside >0.2% (if V. agnus-castus). Total diterpenes >1%. BNO 1095 and Ze 440 are the extract specifications used in European clinical studies of Vitex.
 
 **Shelf Life:** Seeds: 18-24 months; Seed powder: 18-24 months; Extract: 24-36 months; Capsules: 24-36 months
 

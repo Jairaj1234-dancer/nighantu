@@ -38,10 +38,12 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ## Which traditional uses are supported by research?
 
-- Pediatric digestive tonic - supported by observational studies showing improved appetite and weight gain
-- Child growth and development promotion - traditional use corroborated by nutritive and immunomodulatory mechanisms
-- Childhood immunity enhancement - supported by improved IgG/IgA levels in observational study
-- Childhood anemia and malnutrition - supported by Raktaprasadana (blood-enriching) properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pediatric digestive tonic: traditionally used as a digestive tonic for children. Observational studies have reported improved appetite and weight gain.
+- Child growth and development: traditionally used to promote growth and development in children.
+- Childhood immunity: traditionally used to strengthen immunity in children. An observational study reported improved IgG and IgA levels.
+- Childhood anemia and malnutrition: traditionally used for anemia and malnutrition in children, based on its classical Raktaprasadana (blood-enriching) property.
 
 ## What do recent clinical trials show?
 

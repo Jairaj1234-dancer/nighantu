@@ -38,9 +38,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## Which traditional uses are supported by research?
 
-- Osteoarthritis and joint pain management - validated by AYU Journal study (2018) showing 68% symptom reduction with 21 days of Abhyanga treatment
-- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors - supported by pharmacological studies confirming [neuroprotective](/reference/neuroprotective/) and anti-inflammatory compounds
-- Bone and joint strengthening (Asthi-Sandhi Balya) - supported by the identification of [phytosterols](/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Osteoarthritis and joint pain: traditionally applied through Abhyanga for these conditions. A study reported reduced symptoms with Abhyanga.
+- Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors: traditionally used for these conditions. Pharmacological studies have reported compounds with [neuroprotective](/reference/neuroprotective/) and anti-inflammatory activity.
+- Bone and joint strengthening (Asthi-Sandhi Balya): traditionally used to strengthen bones and joints. Research has reported [phytosterols](/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/).
 
 ## What do recent clinical trials show?
 

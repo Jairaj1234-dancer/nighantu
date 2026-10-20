@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 ## Which traditional uses are supported by research?
 
-- [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)/vitality): Partially validated by Rasasindura studies showing activation of calcium channels, increased sperm count and motility, and rejuvenating effects in animal models
-- Rasayana (rejuvenation) and general debility: Animal studies confirm absence of toxicity at therapeutic doses and suggest [immunomodulatory](/reference/immunomodulatory/) and metabolic-enhancing properties, consistent with traditional claims of life-enhancing effects
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)/vitality): traditionally used as an aphrodisiac and for vitality. Animal studies on Rasasindura have reported activation of calcium channels, increased sperm count and motility, and rejuvenating effects.
+- Rasayana (rejuvenation) and general debility: traditionally used for rejuvenation and general debility. Animal studies have reported no toxicity at the doses tested. They also suggested [immunomodulatory](/reference/immunomodulatory/) and metabolic-enhancing properties.
 
 ## What do recent clinical trials show?
 

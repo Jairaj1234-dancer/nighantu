@@ -52,10 +52,12 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ## Which traditional uses are supported by research?
 
-- Pandu (anemia): clinical study shows highly significant (p<0.001) improvement in pregnancy-related anemia
-- Daurbalya (debility/weakness): nutritive and energy-providing properties support recovery from chronic debility
-- Yakrit Roga (liver disorders): classical Ashtanga Hridaya indication for hepatic conditions supported by [hepatoprotective](/reference/hepatoprotective/) ingredient profiles
-- Garbhini Paricharya (pregnancy care): fetal protection demonstrated against cyclophosphamide-induced toxicity in animal model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pandu (anemia): traditionally used for anemia. A clinical study reported improvement in pregnancy-related anemia.
+- Daurbalya (debility/weakness): traditionally used for chronic debility, valued in classical practice for its nutritive and energy-providing properties.
+- Yakrit Roga (liver disorders): used in classical practice for hepatic conditions, as indicated in the Ashtanga Hridaya. Its ingredient profile is described as [hepatoprotective](/reference/hepatoprotective/).
+- Garbhini Paricharya (pregnancy care): traditionally used in pregnancy care. An animal study reported fetal protection against cyclophosphamide-induced toxicity.
 
 ## What do recent clinical trials show?
 

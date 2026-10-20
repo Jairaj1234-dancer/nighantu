@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid for nausea, flatulence, and indigestion - confirmed by pharmacological studies showing carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) effects
-- Respiratory relief for asthma and bronchitis - validated by studies demonstrating bronchodilatory effects of 1,8-cineole (eucalyptol)
-- Oral health for teeth and gum infections - confirmed by RCTs showing antibacterial and anti-inflammatory activity against periodontal pathogens
-- Blood pressure lowering - validated by meta-analysis of RCTs showing significant reduction in both systolic and diastolic blood pressure
-- Anti-inflammatory for metabolic disorders - confirmed by RCTs demonstrating significant reduction in TNF-alpha, hs-CRP, and IL-6
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a digestive aid for nausea, flatulence, and indigestion. Pharmacological studies have reported carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) effects.
+- Traditionally used for asthma and bronchitis. Studies have reported bronchodilatory effects of 1,8-cineole (eucalyptol).
+- Traditionally used for teeth and gum infections. Randomized clinical trials have reported antibacterial and anti-inflammatory activity against periodontal pathogens.
+- Blood pressure: a meta-analysis of randomized clinical trials reported reductions in systolic and diastolic blood pressure.
+- Metabolic disorders: randomized clinical trials have reported reductions in TNF-alpha, hs-CRP, and IL-6.
 
 ## What do recent clinical trials show?
 
@@ -62,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 - Kazemi S, Yaghooblou F, Siassi F and others 2017. [Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: a randomized double-blind clinical trial](https://pubmed.ncbi.nlm.nih.gov/28480505/). *Journal of the science of food and agriculture*. PMID [28480505](https://pubmed.ncbi.nlm.nih.gov/28480505/) · [doi:10.1002/jsfa.8414](https://doi.org/10.1002/jsfa.8414)  
   Double-blind RCT in 80 pre-diabetic women showed 3 g/day cardamom for 8 weeks significantly improved inflammatory markers and oxidative stress biomarkers compared to placebo.
 - Souissi M, Azelmat J, Chaieb K and others 2020. [Antibacterial and anti-inflammatory activities of cardamom (Elettaria cardamomum) extracts: Potential therapeutic benefits for periodontal infections](https://pubmed.ncbi.nlm.nih.gov/31430531/). *Anaerobe*. PMID [31430531](https://pubmed.ncbi.nlm.nih.gov/31430531/) · [doi:10.1016/j.anaerobe.2019.102089](https://doi.org/10.1016/j.anaerobe.2019.102089)  
-  Validated antibacterial and anti-inflammatory properties of cardamom extracts with specific therapeutic potential for managing periodontal infections.
+  Studies have reported antibacterial and anti-inflammatory properties of cardamom extracts, with possible relevance to periodontal infections.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 

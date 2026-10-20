@@ -51,10 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Anti-diarrheal and dysentery treatment validated through antimicrobial and anti-motility preclinical studies
-- Peptic ulcer treatment confirmed through aspirin/ethanol-induced ulcer models
-- Hepatoprotective use supported by CCl4-induced liver damage models with significant restoration of liver function markers
-- Respiratory ailment use supported by antihistaminic and bronchodilatory effects in preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for diarrhea and dysentery. Preclinical studies have reported antimicrobial and anti-motility activity.
+- Traditionally used for peptic ulcer. Preclinical studies in aspirin- and ethanol-induced ulcer models have reported anti-ulcer activity.
+- Traditionally used to protect the liver. Preclinical studies in CCl4-induced liver damage models have reported restoration of liver function markers.
+- Traditionally used for respiratory ailments. Preclinical studies have reported antihistaminic and bronchodilatory effects.
 
 ## What do recent clinical trials show?
 

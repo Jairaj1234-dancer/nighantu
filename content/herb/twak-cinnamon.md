@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 ## Which traditional uses are supported by research?
 
-- Blood sugar regulation in diabetes - extensively validated by multiple RCTs and meta-analyses showing significant glycemic and HbA1c improvements
-- Carminative and digestive aid for dyspepsia and flatulence - confirmed by ESCOP recommendations based on clinical evidence
-- Anti-inflammatory use for joint and muscle pain - supported by clinical evidence of reduced inflammatory markers (CRP, TNF-alpha, IL-6)
-- [Antimicrobial](/reference/antimicrobial/) use for infections - validated by in vitro and in vivo studies showing broad-spectrum activity of cinnamaldehyde
-- Lipid-lowering for cardiovascular protection - confirmed by clinical trials showing reduced triglycerides, LDL-C, and total cholesterol
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Blood sugar regulation in diabetes: traditionally used for blood sugar regulation. Clinical trials and meta-analyses have reported improvements in blood glucose and HbA1c.
+- Carminative and digestive aid: traditionally used for dyspepsia and flatulence.
+- Anti-inflammatory use: traditionally used for joint and muscle pain. Clinical studies have reported reduced inflammatory markers (CRP, TNF-alpha, IL-6).
+- [Antimicrobial](/reference/antimicrobial/) use: traditionally used for infections. In vitro and in vivo studies have reported broad-spectrum activity of cinnamaldehyde.
+- Lipid lowering: traditionally used for cardiovascular health. Clinical trials have reported reduced triglycerides, LDL-C, and total cholesterol.
 
 ## What do recent clinical trials show?
 

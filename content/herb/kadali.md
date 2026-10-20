@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiarrhoeal activity of unripe banana (Apakva Kadali) validated through meta-analysis of randomized controlled trials in children, confirming traditional Ayurvedic use for Atisara (diarrhea) and Grahani (IBS)
-- Anti-ulcerogenic activity validated through isolation of sitoindoside IV and demonstration of gastroprotective effects, supporting traditional use for Amlapitta (gastric ulcers)
-- Anti-urolithiatic effects (kidney stone prevention) validated through studies showing reduction of urinary oxalate excretion in hyperoxaluric animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Apakva Kadali (unripe banana): traditionally used in Ayurveda for Atisara (diarrhea) and Grahani (IBS). A meta-analysis of randomized controlled trials in children reported antidiarrhoeal activity.
+- Traditionally used for Amlapitta (gastric ulcers). A study that isolated sitoindoside IV reported anti-ulcerogenic and gastroprotective effects.
+- Anti-urolithiatic activity (kidney stones): animal studies in hyperoxaluric models have reported reduced urinary oxalate excretion.
 
 ## What do recent clinical trials show?
 

@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia management supported by observational clinical data showing reduced menstrual bleeding.
-- Wound healing confirmed in clinical trial comparing Lodhra paste to placebo.
-- Anti-inflammatory activity validated through COX-2 inhibition studies.
-- Leucorrhoea management supported by herbal infusion formulation studies.
-- Astringent and hemostatic properties confirmed through tannin-mediated protein precipitation mechanisms.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for menorrhagia. Observational clinical data have reported reduced menstrual bleeding.
+- Traditionally used for wounds. A clinical trial comparing Lodhra paste with placebo reported improved wound repair.
+- Traditionally used for inflammation. Studies of COX-2 inhibition have reported anti-inflammatory activity.
+- Traditionally used for leucorrhoea.
+- Traditionally described as astringent and hemostatic. Studies have reported tannin-mediated protein precipitation as a possible mechanism for these properties.
 
 ## What do recent clinical trials show?
 

@@ -39,10 +39,12 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 ## Which traditional uses are supported by research?
 
-- Chronic bronchitis (validated by 12-week clinical trial with significant improvements in LCQ, SGRQ, and PEFR scores)
-- Productive cough and sputum reduction (validated by pilot study showing reduced sputum viscosity in 2 weeks)
-- Respiratory tract inflammation (validated by in vitro IL-6 and TNF-alpha inhibition studies)
-- Digestive weakness associated with respiratory conditions (validated by carminative and digestive stimulant properties)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic bronchitis: traditionally used for chronic bronchitis. A clinical study reported improvements in cough and lung function scores.
+- Productive cough and sputum: traditionally used for productive cough with sputum. A pilot clinical study reported reduced sputum viscosity.
+- Respiratory tract inflammation: traditionally used for inflammation of the respiratory tract. In vitro studies have reported inhibition of IL-6 and TNF-alpha.
+- Digestive weakness associated with respiratory conditions: traditionally used as a carminative and digestive stimulant for this purpose.
 
 ## What do recent clinical trials show?
 

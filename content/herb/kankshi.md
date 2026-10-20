@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Sweetener and demulcent (Madhura) - [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content validated as 30-100x sweeter than [sucrose](/glossary/compounds-q-t/#sucrose) with potential pharmaceutical applications
-- Anti-inflammatory (Shotha-hara) - [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated anti-inflammatory action validated in multiple studies
-- Hair care and external applications - traditional hair oil preparations using purified seeds supported by antimicrobial data
-- Contraceptive (Garbha-nirodha) - antifertility activity documented in animal studies but too toxic for safe human use
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Sweetener and demulcent (Madhura): traditionally used as a sweetener and demulcent. Its [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content has been reported to be far sweeter than [sucrose](/glossary/compounds-q-t/#sucrose), with possible pharmaceutical applications.
+- Anti-inflammatory (Shotha-hara): traditionally used for inflammation. Several studies have reported anti-inflammatory activity linked to [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin).
+- Hair care and external applications: traditionally used in hair oil preparations made with purified seeds. Antimicrobial activity has been reported.
+- Contraceptive (Garbha-nirodha): traditionally used as a contraceptive. Animal studies have reported antifertility activity, but it is considered too toxic for safe human use.
 
 ## What do recent clinical trials show?
 

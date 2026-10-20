@@ -55,9 +55,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 ## Which traditional uses are supported by research?
 
-- Burning sensation (Daha) and Pitta-aggravated conditions - validated by clinical observations showing significant reduction in burning sensation and related symptoms after 21 days of treatment
-- Osteoarthritis pain management - validated by pilot trial (2018) showing 65% of patients reporting significant knee pain reduction over 4 weeks
-- Insomnia, anxiety, and psychiatric disorders (Unmada) - supported by GABA-A receptor agonist activity of [Tagara](/herb/tagara/) and neuroprotective action of [Jatamansi](/herb/jatamansi/) confirmed in pharmacological studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Burning sensation (Daha) and Pitta-aggravated conditions: traditionally used for burning sensation and Pitta-aggravated conditions. Clinical observations have reported a reduction in burning sensation and related symptoms.
+- Osteoarthritis pain: traditionally used for joint pain. A pilot trial reported that patients described a reduction in knee pain.
+- Insomnia, anxiety, and psychiatric disorders (Unmada): traditionally used for these conditions. Pharmacological studies have reported GABA-A receptor agonist activity of [Tagara](/herb/tagara/) and neuroprotective activity of [Jatamansi](/herb/jatamansi/).
 
 ## What do recent clinical trials show?
 

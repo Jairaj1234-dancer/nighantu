@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive and carminative (Deepana-Pachana) - validated through confirmed stimulant and carminative properties
-- Respiratory disorders and cough (Kasa-hara) - supported by traditional [expectorant](/reference/expectorant/) use; essential oil has [antimicrobial](/reference/antimicrobial/) activity against respiratory pathogens
-- Urogenital health (Mutra-roga) - traditional use for urinary tract infections partially supported by antimicrobial data
-- Oral health freshener (Mukha-shodhana) - traditional oral care use supported by antibacterial activity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive and carminative (Deepana-Pachana): traditionally used as a digestive and carminative.
+- Respiratory disorders and cough (Kasa-hara): traditionally used as an [expectorant](/reference/expectorant/) for respiratory complaints and cough. Laboratory studies have reported [antimicrobial](/reference/antimicrobial/) activity of the essential oil against respiratory pathogens.
+- Urogenital health (Mutra-roga): traditionally used for urinary tract infections. Laboratory studies have reported antimicrobial activity.
+- Oral health freshener (Mukha-shodhana): traditionally used for oral care and to freshen the mouth. Laboratory studies have reported antibacterial activity.
 
 ## What do recent clinical trials show?
 

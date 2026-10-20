@@ -40,10 +40,12 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## Which traditional uses are supported by research?
 
-- Dushta Vrana (chronic/infected wounds): clinical studies confirm wound healing comparable to modern antibiotic ointment mupirocin
-- Dagdha Vrana (burn wounds): experimental studies validate accelerated burn wound healing in animal models
-- Antibacterial action: validated against MRSA and multidrug-resistant organisms involved in diabetic foot infections
-- Radiation-induced wounds: demonstrated 92-97% wound area reduction in gamma-radiation skin wound model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Dushta Vrana (chronic/infected wounds): traditionally used for chronic and infected wounds. Clinical studies have reported wound repair comparable to the antibiotic ointment mupirocin.
+- Dagdha Vrana (burn wounds): traditionally used for burn wounds. Animal studies have reported faster burn wound repair.
+- Antibacterial action: studies have reported activity against MRSA and multidrug-resistant organisms involved in diabetic foot infections.
+- Radiation-induced wounds: an experimental study reported a reduction in wound area in a gamma-radiation skin wound model.
 
 ## What do recent clinical trials show?
 

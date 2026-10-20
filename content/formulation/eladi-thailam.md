@@ -53,9 +53,11 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 ## Which traditional uses are supported by research?
 
-- Acne vulgaris - validated by Middlesex University RCT showing 42% overall improvement and 59-60% lesion reduction
-- Urticaria (hives) and pruritus (itching) - supported by pharmacological confirmation of antipruritic and anti-inflammatory properties from Cardamom and Frankincense compounds
-- Allergic dermatitis and eczema (as supportive therapy) - validated by anti-inflammatory mechanisms of Boswellic acids and santalol, though requires careful constitutional assessment
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Acne vulgaris: traditionally used for acne. A randomized controlled trial reported overall improvement and a reduction in lesions.
+- Urticaria (hives) and pruritus (itching): traditionally used for hives and itching. Pharmacological studies have reported antipruritic and anti-inflammatory properties of compounds from Cardamom and Frankincense.
+- Allergic dermatitis and eczema: traditionally used as a supportive therapy, with careful constitutional assessment. Pharmacological studies have reported anti-inflammatory activity of Boswellic acids and santalol.
 
 ## What do recent clinical trials show?
 

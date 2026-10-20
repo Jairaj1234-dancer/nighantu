@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cooling and demulcent (Sheeta Virya) - supported by mucilaginous polysaccharide content providing soothing properties
-- Mild diuretic (Mutrala) - partially supported by traditional reports from Kerala healers; limited scientific validation
-- Skin soothing (Tvak Doshahara) - traditional topical use supported by anti-inflammatory flavonoid content
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cooling and demulcent (Sheeta Virya): traditionally described as cooling and demulcent. The plant contains mucilaginous polysaccharides.
+- Mild diuretic (Mutrala): traditionally used as a mild diuretic, according to reports from Kerala healers. Scientific research on this use is limited.
+- Skin soothing (Tvak Doshahara): traditionally applied on the skin to soothe it. The plant contains flavonoids.
 
 ## What do recent clinical trials show?
 

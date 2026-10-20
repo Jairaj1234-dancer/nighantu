@@ -47,8 +47,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Antimicrobial properties validated through demonstrated activity of organosulfur compounds against bacteria, fungi, and parasites, supporting traditional use of garlic leaf preparations for infections
-- Antioxidant activity confirmed through phenolic and flavonoid content analysis, supporting traditional use of fresh garlic greens as a health-promoting food in Ayurvedic dietary recommendations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Garlic leaf preparations are traditionally used for infections. Studies have reported activity of organosulfur compounds against bacteria, fungi, and parasites.
+- Fresh garlic greens are traditionally valued as a health-promoting food in Ayurvedic dietary recommendations. Analyses of their phenolic and flavonoid content have reported antioxidant activity.
 
 ## What do recent clinical trials show?
 

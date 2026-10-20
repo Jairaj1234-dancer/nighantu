@@ -51,9 +51,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and anti-arthritic properties confirmed through in vivo studies on both root bark and stem bark, validating classical use in Vataroga
-- [Hepatoprotective](/reference/hepatoprotective/) activity validated through experimental models demonstrating restoration of liver [enzymes](/glossary/compounds-d-g/#enzymes), supporting its traditional use in liver disorders
-- [Antimicrobial](/reference/antimicrobial/) spectrum confirmed against multiple pathogens, validating traditional topical applications for wound infections and skin diseases
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in Vataroga. Animal studies on the root bark and stem bark have reported anti-inflammatory and anti-arthritic activity.
+- Traditionally used for liver disorders. Animal studies have reported [hepatoprotective](/reference/hepatoprotective/) activity, with liver [enzymes](/glossary/compounds-d-g/#enzymes) returning toward normal levels.
+- Traditionally applied topically for wound infections and skin diseases. Laboratory studies have reported [antimicrobial](/reference/antimicrobial/) activity against multiple pathogens.
 
 ## What do recent clinical trials show?
 

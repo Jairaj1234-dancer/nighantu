@@ -44,19 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antimalarial and [antipyretic](/reference/antipyretic/) (Jvara-nashaka) - strongly validated through identification of active antiplasmodial [alkaloids](/glossary/compounds-1-a/#alkaloids)
-- Menstrual regulation and uterine tonic (Artava-janana) - partially validated through smooth muscle studies
-- Anti-inflammatory and antiarthritic (Shotha-hara) - confirmed through in vivo anti-inflammatory models
-- Snakebite antidote (Visha-nashaka) - partially validated through antivenom studies in folk medicine
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Antimalarial and [antipyretic](/reference/antipyretic/) (Jvara-nashaka): traditionally used for fevers. Phytochemical studies have reported [alkaloids](/glossary/compounds-1-a/#alkaloids) with antiplasmodial activity.
+- Menstrual regulation and uterine tonic (Artava-janana): traditionally used to regulate menstruation and as a uterine tonic.
+- Anti-inflammatory and antiarthritic (Shotha-hara): traditionally used for inflammation and arthritic conditions. Animal studies have reported anti-inflammatory activity.
+- Snakebite antidote (Visha-nashaka): traditionally used in folk medicine as an antidote for snakebite.
 
 ## What do recent clinical trials show?
 
 - Thim-Uam A, Thepmalee C, Chaiwangyen W and others 2025. [Phytochemical Screening and In Vitro Antioxidant and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L](https://pubmed.ncbi.nlm.nih.gov/40689394/). *Mediators of inflammation*. PMID [40689394](https://pubmed.ncbi.nlm.nih.gov/40689394/) · [doi:10.1155/mi/7555073](https://doi.org/10.1155/mi/7555073)  
   Identified exceptionally high phenolic (95.73 mg GAE/g in leaves) and flavonoid (82.68 mg CE/g in leaves) content; demonstrated significant anticancer activity against multiple cancer cell lines.
 - Bhatt V, Kumari S, Upadhyay P and others 2020. [Chemical profiling and quantification of potential active constituents responsible for the antiplasmodial activity of Cissampelos pareira](https://pubmed.ncbi.nlm.nih.gov/32726676/). *Journal of ethnopharmacology*. PMID [32726676](https://pubmed.ncbi.nlm.nih.gov/32726676/) · [doi:10.1016/j.jep.2020.113185](https://doi.org/10.1016/j.jep.2020.113185)  
-  Identified and quantified specific isoquinoline alkaloids responsible for the potent antiplasmodial (antimalarial) activity of the plant, validating traditional use against fevers.
+  A phytochemical study identified and quantified isoquinoline alkaloids in the plant and reported antiplasmodial (antimalarial) activity. The plant is traditionally used against fevers.
 - Kumari S, Anmol, Bhatt V and others 2021. [Cissampelos pareira L.: A review of its traditional uses, phytochemistry, and pharmacology](https://pubmed.ncbi.nlm.nih.gov/33485976/). *Journal of ethnopharmacology*. PMID [33485976](https://pubmed.ncbi.nlm.nih.gov/33485976/) · [doi:10.1016/j.jep.2021.113850](https://doi.org/10.1016/j.jep.2021.113850)  
-  Comprehensive review documenting 54 phytomolecules isolated from the plant, primarily isoquinoline alkaloids, with validated antimalarial, anti-inflammatory, and anticancer pharmacological activities.
+  A review documented phytomolecules isolated from the plant, mainly isoquinoline alkaloids. It summarized reported antimalarial, anti-inflammatory, and anticancer activities from pharmacological studies.
 
 ## Recent safety updates
 

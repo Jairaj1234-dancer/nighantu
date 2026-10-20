@@ -37,14 +37,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 - Proposed anti-diabetic action through pancreatic stimulation (traditional claim for Madhumeha), though modern evidence does not support lead as a safe therapeutic agent for diabetes
 - Claimed Kaphahara (Kapha-reducing) properties through metabolic modulation, attributed to lead's heavy metal effects on cellular processes
-- Purported splenic decongestant action (Pleehodara) through unknown mechanisms; traditional claim not validated by modern research
+- Pleehodara: traditionally described as having a splenic decongestant action. The mechanism is unknown, and modern research has not backed this traditional claim.
 - Alleged anti-diarrheal action through astringent properties of lead compounds on intestinal mucosa
 
 ## Which traditional uses are supported by research?
 
-- Diabetes (Madhumeha): UNVALIDATED - No modern clinical evidence supports lead as safe or effective anti-diabetic agent. Risk far outweighs any theoretical benefit.
-- Spleen enlargement (Pleehodara): UNVALIDATED - No clinical trials support this use. Lead toxicity itself causes organ damage.
-- Skin diseases (Kushtha): UNVALIDATED and DANGEROUS - Lead exposure causes additional skin and systemic toxicity rather than healing.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diabetes (Madhumeha): traditionally used for this condition. No modern clinical evidence shows lead to be safe for this use. The risk far outweighs any theoretical benefit.
+- Spleen enlargement (Pleehodara): traditionally used for this condition. No clinical trial evidence exists for this use. Lead toxicity itself causes organ damage.
+- Skin diseases (Kushtha): traditionally used for these conditions. This use is untested and dangerous. Lead exposure causes more skin and systemic toxicity.
 
 ## What do recent clinical trials show?
 

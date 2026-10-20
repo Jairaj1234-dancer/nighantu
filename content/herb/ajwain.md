@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Carminative and anti-flatulence activity - validated through multiple pharmacological studies showing [antispasmodic](/glossary/pharmacology/#antispasmodic) effects on gastrointestinal smooth muscle
-- Treatment of dyspepsia and digestive disorders - confirmed by modern research demonstrating enhanced digestive enzyme secretion
-- Bronchodilatory and antitussive use for respiratory conditions - validated by studies showing tracheal smooth muscle relaxation
-- Antimicrobial use for intestinal parasites and infections - confirmed by in vitro studies against multiple pathogens
-- Use as [analgesic](/reference/analgesic/) for abdominal and dental pain - supported by antinociceptive studies in animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a carminative and for flatulence. Pharmacological studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) effects on gastrointestinal smooth muscle.
+- Traditionally used for dyspepsia and digestive disorders. Studies have reported increased digestive enzyme secretion.
+- Traditionally used for respiratory conditions as a bronchodilator and for cough. Studies have reported relaxation of tracheal smooth muscle.
+- Traditionally used for intestinal parasites and infections. In vitro studies have reported antimicrobial activity against multiple pathogens.
+- Traditionally used as an [analgesic](/reference/analgesic/) for abdominal and dental pain. Animal studies have reported antinociceptive effects.
 
 ## What do recent clinical trials show?
 

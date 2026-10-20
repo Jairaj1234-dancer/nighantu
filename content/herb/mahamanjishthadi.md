@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-- Blood purification and skin disease management (Raktashodhana for Kushtha/Twak Vikara) validated through antimicrobial and anti-inflammatory studies of the formulation and its principal ingredient [Manjistha](/herb/manjistha/)
-- Anti-allergic application validated through pharmacological studies demonstrating histamine inhibition, confirming traditional use in Sheetapitta (urticaria) and allergic conditions
-- Lymphatic system support and anti-inflammatory application partially validated through documented anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) activities, supporting use in chronic inflammatory conditions like PCOS and arthritis
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for blood purification and skin disease (Raktashodhana for Kushtha/Twak Vikara). Studies of the formulation and its principal ingredient [Manjistha](/herb/manjistha/) have reported antimicrobial and anti-inflammatory activity.
+- Traditionally used in Sheetapitta (urticaria) and allergic conditions. Pharmacological studies have reported histamine inhibition.
+- Traditionally used for lymphatic system support and in chronic inflammatory conditions such as PCOS and arthritis. Studies have reported anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) activity.
 
 ## What do recent clinical trials show?
 

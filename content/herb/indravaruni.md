@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic use validated through multiple preclinical studies showing alpha-glucosidase inhibition and improved insulin sensitivity
-- Purgative use (Virechana) validated but requires strict dose control; traditional Ayurvedic Shodhana (purification) process reduces toxicity
-- Anti-inflammatory use confirmed by cucurbitacin-mediated suppression of NF-kB and pro-inflammatory cytokine production
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for diabetes. Preclinical studies have reported alpha-glucosidase inhibition and improved insulin sensitivity.
+- Used in classical practice as a purgative (Virechana), with strict dose control. The traditional Ayurvedic Shodhana (purification) process is described as reducing toxicity.
+- Traditionally used for inflammation. Studies have reported cucurbitacin-mediated suppression of NF-kB and of pro-inflammatory cytokine production.
 
 ## What do recent clinical trials show?
 

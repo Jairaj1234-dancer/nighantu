@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Nikochaka (Alangium salviifolium) is a plant drug, also called Ankolah, Akola and Nikocaka. Traditional uses cannot be validated without confirmed botanical identity Name may appear in specific Nighantu (Ayurvedic lexicon) texts such as Dhanvantari Nighantu, Raja Nighantu, or Bhavaprakasha Nighantu requiring targeted scholarly investigation"
+answer: "Nikochaka (Alangium salviifolium) is a plant drug, also called Ankolah, Akola and Nikocaka. Its traditional uses remain uncertain until its botanical identity is settled. The name may appear in specific Nighantu (Ayurvedic lexicon) texts such as Dhanvantari Nighantu, Raja Nighantu, or Bhavaprakasha Nighantu, which would need targeted scholarly investigation."
 botanical: "Alangium salviifolium"
 family: "Unknown"
 sanskrit: ""
@@ -40,7 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Traditional uses cannot be validated without confirmed botanical identity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditional uses remain uncertain until the botanical identity is settled
 - Name may appear in specific Nighantu (Ayurvedic lexicon) texts such as Dhanvantari Nighantu, Raja Nighantu, or Bhavaprakasha Nighantu requiring targeted scholarly investigation
 
 ## What do recent clinical trials show?

@@ -47,8 +47,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic and antihyperglycemic activity partially validated through preliminary pharmacological studies supporting traditional tribal use for diabetes management
-- [Antimicrobial](/reference/antimicrobial/) properties confirmed in vitro against bacterial and fungal pathogens, supporting traditional use for treating dysentery and skin infections in folk medicine
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used in tribal practice for diabetes. Preliminary pharmacological studies have reported antidiabetic and antihyperglycemic activity.
+- Traditionally used in folk medicine for dysentery and skin infections. [Antimicrobial](/reference/antimicrobial/) activity against bacterial and fungal pathogens has been reported in vitro.
 
 ## What do recent clinical trials show?
 

@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Digestive and carminative use validated through spasmolytic and gastroprotective preclinical studies
-- [Antiemetic](/glossary/pharmacology/#antiemetic) (Chardi-nashaka) use confirmed through 5-HT3 receptor modulation studies
-- Voice and throat care use supported by demulcent and anti-inflammatory properties of fruit preparations
-- [Cardioprotective](/reference/cardioprotective/) use supported by [antioxidant](/reference/antioxidant/) and anti-hyperlipidemic activities in preclinical models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a digestive and carminative. Preclinical studies have reported spasmolytic and gastroprotective activity.
+- [Antiemetic](/glossary/pharmacology/#antiemetic) (Chardi-nashaka) use is described in traditional practice. Studies have reported 5-HT3 receptor modulation.
+- Traditionally used for voice and throat care. Fruit preparations are traditionally described as demulcent and anti-inflammatory.
+- [Cardioprotective](/reference/cardioprotective/) use is described in traditional practice. Preclinical studies have reported [antioxidant](/reference/antioxidant/) and anti-hyperlipidemic activity.
 
 ## What do recent clinical trials show?
 

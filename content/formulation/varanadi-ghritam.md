@@ -54,10 +54,12 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## Which traditional uses are supported by research?
 
-- Granthi (tumors/cysts): case reports validate management of lipoma and abnormal growths with [Varanadi Ghritam](/formulation/varanadi-ghritam/)-based protocols
-- Arbuda (tumors/cancer adjuvant): published study confirms biological response modifier activity in head and neck cancer patients
-- Medoroga (obesity/metabolic disorders): Lekhana and Medohara actions of ingredients validated pharmacologically
-- Gulma (abdominal masses): traditional use for abdominal growths supported by channel-clearing and anti-Kapha mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Granthi (tumors/cysts): traditionally used for tumors and cysts. Case reports have described [Varanadi Ghritam](/formulation/varanadi-ghritam/)-based protocols used in lipoma and abnormal growths.
+- Arbuda (tumors/cancer adjuvant): traditionally used as an adjuvant for tumors. A clinical study in head and neck cancer patients reported biological response modifier activity.
+- Medoroga (obesity/metabolic disorders): traditionally used for obesity and metabolic disorders. Pharmacological studies have reported Lekhana and Medohara actions for its ingredients.
+- Gulma (abdominal masses): traditionally used for abdominal growths, with channel-clearing and anti-Kapha actions described in classical practice.
 
 ## What do recent clinical trials show?
 

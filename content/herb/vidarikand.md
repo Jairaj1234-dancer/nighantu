@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Vidarikand (Pueraria tuberosa (Willd.) DC.) is a plant drug, also called Vidarikamda, from the Fabaceae family. Included in Ayurvedic Pharmacopoeia of India; recognized in Indian traditional medicine systems; limited WHO-specific documentation; further clinical validation encouraged."
+answer: "Vidarikand (Pueraria tuberosa (Willd.) DC.) is a plant drug, also called Vidarikamda, from the Fabaceae family. It is included in the Ayurvedic Pharmacopoeia of India and recognized in Indian traditional medicine systems. WHO-specific documentation is limited, and further clinical research is encouraged."
 botanical: "Pueraria tuberosa (Willd.) DC."
 family: "Fabaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Included in Ayurvedic Pharmacopoeia of India; recognized in Indian traditional medicine systems; limited WHO-specific documentation; further clinical validation encouraged"
+whoStatus: "Included in the Ayurvedic Pharmacopoeia of India; recognized in Indian traditional medicine systems; limited WHO-specific documentation; further clinical research encouraged"
 aliases: ["Pueraria tuberosa (Willd.) DC."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Rasayana](/reference/rasayana/) (rejuvenative) and [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) use supported by [nootropic](/glossary/pharmacology/#nootropic), [adaptogenic](/reference/adaptogenic/), and reproductive health improvement in animal models
-- Menopausal symptom relief validated by RCT showing 45% reduction in hot flushes with standardized extract
-- Balya (strength-promoting) use supported by improved muscle recovery markers (creatine kinase) in athletic pilot studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a [Rasayana](/reference/rasayana/) (rejuvenative) and [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)). Animal studies have reported [nootropic](/glossary/pharmacology/#nootropic), [adaptogenic](/reference/adaptogenic/), and reproductive health effects.
+- Menopausal symptoms: a randomized clinical study of a standardized extract reported fewer hot flushes.
+- Balya (strength-promoting): traditionally used to promote strength. Pilot studies in athletes reported improved muscle recovery markers (creatine kinase).
 
 ## What do recent clinical trials show?
 

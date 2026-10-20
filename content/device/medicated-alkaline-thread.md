@@ -27,7 +27,7 @@ Sushruta Samhita Chikitsasthana Chapter 17 (Bhagandarachikitsitam) describes Ksh
 
 ## How is it used traditionally?
 
-Fistula-in-ano (Bhagandara) - primary indication. Also used for hemorrhoids (Arsha), pilonidal sinus, and chronic non-healing sinuses. ICMR-validated technique. WHO recognized as a minimally invasive alternative to fistulotomy.
+Bhagandara (fistula-in-ano): used in classical practice as the primary indication. Also traditionally used for Arsha (hemorrhoids), pilonidal sinus and chronic non-healing sinuses. It is described as a minimally invasive alternative to fistulotomy.
 
 ## Traditional materials
 
@@ -44,6 +44,6 @@ Fistula-in-ano (Bhagandara) - primary indication. Also used for hemorrhoids (Ars
 
 ## Regulatory status
 
-- **India (CDSCO):** Kshara Sutra is recognized as a validated Ayurvedic surgical procedure. ICMR-validated. Taught in BAMS curriculum. Regulated under AYUSH surgical practice guidelines.
+- **India (CDSCO):** Kshara Sutra is recognized as an Ayurvedic surgical procedure. It is taught in the BAMS curriculum. It is regulated under AYUSH surgical practice guidelines.
 - **US (FDA):** Not FDA-cleared. Would require regulatory pathway determination (likely Class II or III) if marketed as a medical device in the US.
 - **EU (MDR):** Not CE-marked. Would require classification under EU MDR (likely Class III due to implantable/invasive nature).

@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive and carminative properties extensively validated through clinical studies, confirming premier Ayurvedic use as Deepaniya (appetizer) and Pachaniya (digestive) herb
-- Antidiabetic activity validated through clinical trials showing improvement in glycemic parameters, confirming traditional use in metabolic disorders
-- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects validated through clinical studies showing reduction in total cholesterol and triglycerides, supporting traditional cardiovascular applications
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a Deepaniya (appetizer) and Pachaniya (digestive) herb. Clinical studies have reported digestive and carminative properties.
+- Traditionally used in metabolic disorders. Clinical studies have reported improvement in glycemic parameters.
+- Traditionally used in cardiovascular conditions. Clinical studies have reported [hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects, including lower total cholesterol and triglycerides.
 
 ## What do recent clinical trials show?
 

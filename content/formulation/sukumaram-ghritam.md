@@ -39,10 +39,12 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## Which traditional uses are supported by research?
 
-- Rajonirvritti (menopausal syndrome): prospective clinical study validates significant symptom improvement over 84 days
-- Yoni Roga (gynecological disorders): clinical reviews confirm efficacy in dysmenorrhea, menstrual irregularities, and pelvic pain
-- Vandhyatva (infertility): traditional use for fertility enhancement supported by pharmacological evidence of hormonal modulation
-- Gulma (abdominal masses): anti-inflammatory and Vata-pacifying actions validated in abdominal conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rajonirvritti (menopausal syndrome): traditionally used for menopausal symptoms. A prospective clinical study reported improvement in symptoms.
+- Yoni Roga (gynecological disorders): traditionally used for dysmenorrhea, menstrual irregularities, and pelvic pain. Clinical reviews have reported improvement in these conditions.
+- Vandhyatva (infertility): traditionally used for fertility enhancement. Pharmacological studies have reported hormonal modulation.
+- Gulma (abdominal masses): traditionally used for its Vata-pacifying action in abdominal conditions. Anti-inflammatory activity has also been reported.
 
 ## What do recent clinical trials show?
 

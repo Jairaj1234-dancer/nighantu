@@ -48,10 +48,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-- Chronic renal failure management validated in clinical study of 100 patients showing significant reduction in creatinine (20.71%), blood urea (36.15%), and edema (71.56%)
-- Edema (Shotha) reduction validated through demonstrated diuretic properties without electrolyte imbalance
-- Kidney function improvement validated through enhanced filtration capacity and reduced proteinuria in clinical studies
-- Gout (Vatarakta) management validated when combined with Kaishore [Guggulu](/formulation/guggulu/) in clinical case series
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic renal failure: traditionally used in classical practice for kidney conditions. A clinical study reported reductions in creatinine, blood urea, and edema.
+- Edema (Shotha): traditionally used for edema. Diuretic properties without electrolyte imbalance have been reported.
+- Kidney function: traditionally used for kidney health. Clinical studies have reported improved filtration capacity and reduced proteinuria.
+- Gout (Vatarakta): traditionally used for gout, including in combination with Kaishore [Guggulu](/formulation/guggulu/).
 
 ## What do recent clinical trials show?
 

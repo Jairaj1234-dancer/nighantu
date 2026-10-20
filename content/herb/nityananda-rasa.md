@@ -40,8 +40,10 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 ## Which traditional uses are supported by research?
 
-- Shlipada (elephantiasis/lymphatic filariasis) - primary traditional indication referenced in Bhaishajya Ratnavali; modern toxicity study supports safety at therapeutic doses enabling continued traditional use under supervision
-- Gout (Vatarakta) and obesity (Sthoulya) - traditional use supported by the Kapha-[Meda](/herb/meda/) reducing (Lekhaniya) properties of [Tamra Bhasma](/herb/tamra-bhasma/) and the metabolic-enhancing actions of [Trikatu](/herb/trikatu/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Shlipada (elephantiasis/lymphatic filariasis): primary traditional indication, referenced in Bhaishajya Ratnavali. A toxicity study reported no safety concerns at the doses tested.
+- Vatarakta (gout) and Sthoulya (obesity): traditionally used for these conditions. In classical description, [Tamra Bhasma](/herb/tamra-bhasma/) is Kapha- and [Meda](/herb/meda/)-reducing (Lekhaniya), and [Trikatu](/herb/trikatu/) is described as metabolism-enhancing.
 
 ## What do recent clinical trials show?
 

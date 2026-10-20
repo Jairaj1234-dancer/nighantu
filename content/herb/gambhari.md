@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-arthritic and anti-inflammatory use validated by 45% reduction in swelling in rodent arthritis models over 14 days
-- Cardiotonic use (Hridya) supported by cardioprotective activity through reduction of myocardial oxidative stress
-- Wound healing use confirmed by promotion of fibroblast proliferation and collagen synthesis in excision wound models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for arthritic and inflammatory conditions. Animal studies in rodent arthritis models have reported reduced swelling.
+- Hridya (cardiotonic): traditionally used as a heart tonic. Research has reported cardioprotective activity, with reduced myocardial oxidative stress.
+- Traditionally used for wounds. Studies in excision wound models have reported increased fibroblast proliferation and collagen synthesis.
 
 ## What do recent clinical trials show?
 

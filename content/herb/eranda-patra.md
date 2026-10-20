@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated in carrageenan-induced paw edema and acetic acid writhing models, supporting traditional Ayurvedic use of [Eranda](/herb/eranda/) Patra poultice for Vataroga (pain and inflammation)
-- Wound healing activity confirmed through in vivo studies showing enhanced granulation and epithelialization, supporting traditional topical application for Vrana (wounds)
-- Antibacterial properties validated against multiple pathogenic bacteria, supporting traditional use for infectious conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an [Eranda](/herb/eranda/) Patra poultice for Vataroga (pain and inflammation). Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects in carrageenan-induced paw edema and acetic acid writhing models.
+- Traditionally applied topically for Vrana (wounds). In vivo studies have reported enhanced granulation and epithelialization of wounds.
+- Traditionally used for infectious conditions. Antibacterial activity against several pathogenic bacteria has been reported.
 
 ## What do recent clinical trials show?
 

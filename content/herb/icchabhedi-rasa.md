@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 ## Which traditional uses are supported by research?
 
-- Strong purgation (Virechana) for Panchakarma: The pharmacological basis is well-established - Croton oil's phorbol esters are potent activators of intestinal secretion and motility, validating the traditional use as a powerful cathartic
-- Ascites (Jalodara) and severe constipation: Historical use in fluid retention and obstinate constipation is mechanistically supported by the formulation's powerful secretagogue and peristalsis-stimulating properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Strong purgation (Virechana) for Panchakarma: traditionally used as a powerful cathartic. Croton oil's phorbol esters have been reported to stimulate intestinal secretion and motility.
+- Ascites (Jalodara) and severe constipation: traditionally used for fluid retention and obstinate constipation.
 
 ## What do recent clinical trials show?
 

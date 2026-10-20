@@ -38,9 +38,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## Which traditional uses are supported by research?
 
-- Vatavyadhi (80+ Vata-related conditions) including paralysis, tremors, and muscular atrophy - supported by multiple observational studies showing significant improvement in neuromuscular function
-- Lower back pain and lumbar spasm - validated by BHU pilot trial (2019) showing 60% pain improvement with nightly oleation and Swedana over 4 weeks
-- Osteoarthritis stiffness and swelling - validated by observational studies confirming significant symptom reduction after 21 days of twice-daily Abhyanga treatment
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vatavyadhi (Vata-related conditions), including paralysis, tremors, and muscular atrophy: traditionally used for these conditions. Observational studies have reported improvement in neuromuscular function.
+- Lower back pain and lumbar spasm: traditionally used for these complaints. A pilot clinical study reported improvement in pain with nightly oleation and Swedana.
+- Osteoarthritis stiffness and swelling: traditionally used for these complaints. Observational studies have reported reduced symptoms with regular Abhyanga.
 
 ## What do recent clinical trials show?
 

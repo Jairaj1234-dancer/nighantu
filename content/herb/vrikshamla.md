@@ -48,10 +48,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- Anti-obesity and weight management use partially validated through HCA-mediated lipogenesis inhibition in preclinical models; clinical evidence is mixed
-- Digestive and carminative use validated through gastroprotective and anti-ulcerogenic studies
-- Anti-inflammatory use confirmed through garcinol-mediated COX-2 and LOX inhibition in preclinical models
-- Cardioprotective use supported by antioxidant and anti-hyperlipidemic effects in high-fat diet animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for obesity and weight control. Preclinical studies have reported that HCA inhibits lipogenesis. Clinical study results have been mixed.
+- Traditionally used as a digestive and carminative. Studies have reported gastroprotective and anti-ulcerogenic activity.
+- Traditionally used for inflammation. Preclinical studies have reported that garcinol inhibits COX-2 and LOX.
+- Traditionally used to protect the heart. Animal studies using a high-fat diet have reported antioxidant and anti-hyperlipidemic effects.
 
 ## What do recent clinical trials show?
 

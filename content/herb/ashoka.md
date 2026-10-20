@@ -44,11 +44,13 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia and metrorrhagia control (validated by clinical studies showing [hemostatic](/glossary/pharmacology/#hemostatic) and uterotonic effects)
-- PCOS management (validated by 2023-2024 studies showing hormonal modulation and aromatase inhibition)
-- Antioxidant and skin health (validated by flavonoid-mediated free radical scavenging studies)
-- Antipyretic action (validated by preclinical seed extract studies)
-- Anti-inflammatory and analgesic effects (validated by COX-2 inhibition and cytokine modulation studies)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Menorrhagia and metrorrhagia: traditionally used for these conditions. Clinical studies have reported [hemostatic](/glossary/pharmacology/#hemostatic) and uterotonic effects.
+- PCOS: traditionally used in this context. Studies have reported hormonal modulation and aromatase inhibition.
+- Antioxidant and skin health: traditionally used for skin health. Studies have reported flavonoid-mediated free radical scavenging.
+- Antipyretic action: traditionally used for fever. Preclinical studies of seed extract have reported antipyretic activity.
+- Anti-inflammatory and analgesic effects: traditionally used for inflammation and pain. Studies have reported COX-2 inhibition and cytokine modulation.
 
 ## What do recent clinical trials show?
 

@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Amalaki monograph in Ayurvedic Pharmacopoeia of India (API); Amalaki Rasayana described in Charaka Samhita as official Rasayana preparation; scientific validation through pharmacognostic and phytochemical analysis published"
+whoStatus: "Amalaki has a monograph in the Ayurvedic Pharmacopoeia of India (API). Amalaki Rasayana is described in Charaka Samhita as an official Rasayana preparation. Pharmacognostic and phytochemical analyses of it have been published."
 aliases: ["Amalaki Rasayana", "AmalakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
@@ -46,10 +46,12 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 ## Which traditional uses are supported by research?
 
-- Vayasthapana (anti-aging/rejuvenation): telomerase activation and telomere length maintenance validated in human clinical study
-- Hridya ([cardioprotective](/reference/cardioprotective/)): enhanced cardiac mitochondrial function and contractile performance validated in hypertrophy model
-- Rasayana (comprehensive rejuvenation): 2024 comprehensive review validates antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging mechanisms
-- DNA repair and cellular protection: clinical study confirms maintained DNA strand break repair in aged individuals
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vayasthapana (anti-aging/rejuvenation): traditionally used for rejuvenation. A clinical study in humans reported telomerase activation and maintenance of telomere length.
+- Hridya ([cardioprotective](/reference/cardioprotective/)): traditionally used for the heart. A study in a hypertrophy model reported improved cardiac mitochondrial function and contractile performance.
+- Rasayana (comprehensive rejuvenation): used in classical practice for rejuvenation. A review has reported antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging activity.
+- DNA repair and cellular protection: a clinical study reported maintained DNA strand break repair in aged individuals.
 
 ## What do recent clinical trials show?
 

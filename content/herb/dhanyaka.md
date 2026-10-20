@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive and carminative properties validated through clinical and preclinical studies, confirming Ayurvedic use as Deepana-Pachana in digestive disorders (Agnimandya)
-- Anxiolytic properties validated through animal model studies showing dose-dependent reduction in anxiety markers, supporting traditional use as a cooling and calming herb
-- Hypoglycemic activity validated through multiple in vivo and some clinical studies, confirming traditional use in Prameha (diabetes management)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Deepana-Pachana: traditionally used in digestive disorders (Agnimandya). Clinical and preclinical studies have reported digestive and carminative activity.
+- Traditionally used as a cooling and calming herb. Animal studies have reported a dose-dependent reduction in anxiety markers.
+- Prameha (diabetes): traditionally used in Prameha. In vivo studies and some clinical studies have reported hypoglycemic activity.
 
 ## What do recent clinical trials show?
 

@@ -40,8 +40,10 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 ## Which traditional uses are supported by research?
 
-- Shotha (edema/swelling) - traditional use supported by known anti-edema and [diuretic](/reference/diuretic/) properties of [Yavakshara](/herb/yavakshara/) and anti-inflammatory effects of [Trikatu](/herb/trikatu/)
-- Anemia with associated inflammatory conditions - validated through clinical practice showing improvement in hemoglobin levels alongside reduction in inflammatory symptoms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Shotha (edema/swelling): traditionally used for edema and swelling. In classical practice, [Yavakshara](/herb/yavakshara/) is regarded as anti-edema and [diuretic](/reference/diuretic/), and [Trikatu](/herb/trikatu/) as anti-inflammatory.
+- Anemia with associated inflammatory conditions: used in classical practice for anemia with associated inflammatory conditions. Reports from clinical practice have described improved hemoglobin levels alongside fewer inflammatory symptoms.
 
 ## What do recent clinical trials show?
 

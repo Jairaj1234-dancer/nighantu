@@ -38,9 +38,11 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ## Which traditional uses are supported by research?
 
-- Chronic wound healing and venous ulcers - validated by three-arm RCT (2023) showing 20% faster wound area reduction compared to standard povidone-[iodine](/glossary/compounds-g-l/#iodine) dressings
-- Burn wound management - supported by in vivo studies demonstrating enhanced collagen deposition and epithelialization in excision wound models
-- Fissure-in-ano (anal fissures) wound healing - validated by clinical studies documenting accelerated healing when used alongside [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) therapy
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic wounds and venous ulcers: traditionally used for chronic wounds and venous ulcers. A clinical study reported faster reduction in wound area compared with povidone-[iodine](/glossary/compounds-g-l/#iodine) dressings.
+- Burn wounds: traditionally used for burn wounds. Animal studies have reported increased collagen deposition and epithelialization in excision wound models.
+- Fissure-in-ano (anal fissures): traditionally used for anal fissure wounds. Clinical studies have reported faster wound repair when it was used alongside [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) therapy.
 
 ## What do recent clinical trials show?
 

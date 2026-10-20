@@ -38,10 +38,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-- Urinary stone (Ashmari) prevention validated in pilot study showing 40% decrease in stone recurrence over 6 months
-- Urinary tract health improvement (dysuria, burning micturition, UTI) supported by anti-inflammatory and [diuretic](/reference/diuretic/) mechanisms
-- Kidney function support validated through enhanced renal blood flow and glomerular filtration mechanisms
-- Diabetic nephropathy management supported by anti-inflammatory, [antioxidant](/reference/antioxidant/), and renoprotective properties of combined ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Ashmari (urinary stones): traditionally used for urinary stones. A pilot study reported a decrease in stone recurrence.
+- Traditionally used for urinary tract complaints such as dysuria, burning micturition and UTI.
+- Traditionally used to support kidney function.
+- Traditionally used to support the kidneys in diabetic nephropathy.
 
 ## What do recent clinical trials show?
 

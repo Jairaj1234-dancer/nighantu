@@ -38,10 +38,12 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ## Which traditional uses are supported by research?
 
-- Heart tonic (Hridya) - validated by cardioprotective studies showing reduced post-ischemic damage
-- Cardiac weakness and palpitations - supported by antiarrhythmic and calcium channel stabilization research
-- Hypertension management - corroborated by ACE inhibition and vasodilatory mechanisms
-- Hyperlipidemia - traditional use supported by antioxidant profile and lipid-lowering properties of [Arjuna](/herb/arjuna/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Heart tonic (Hridya): traditionally used as a heart tonic. Studies have reported reduced post-ischemic damage.
+- Cardiac weakness and palpitations: traditionally used for cardiac weakness and palpitations. Research has reported antiarrhythmic activity and calcium channel stabilization.
+- Hypertension: traditionally used in hypertension. Research has reported ACE inhibition and vasodilatory activity.
+- Hyperlipidemia: traditionally used in hyperlipidemia. Research has reported antioxidant and lipid-lowering properties for [Arjuna](/herb/arjuna/).
 
 ## What do recent clinical trials show?
 

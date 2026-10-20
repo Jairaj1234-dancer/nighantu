@@ -38,15 +38,17 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ## Which traditional uses are supported by research?
 
-- Burning sensation (Daha) from Pitta aggravation - validated by cooling and anti-inflammatory studies
-- Adverse effects of alcohol/intoxication - traditional Madatyaya use supported by [hepatoprotective](/reference/hepatoprotective/) and antioxidant mechanisms
-- Burning micturition and UTI - corroborated by antimicrobial activity and cooling [diuretic](/reference/diuretic/) properties
-- Skin conditions with burning and inflammation - supported by antioxidant and antimicrobial profiling
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Burning sensation (Daha) from Pitta aggravation: traditionally used for this. Studies have reported cooling and anti-inflammatory activity.
+- Adverse effects of alcohol/intoxication: traditionally used for Madatyaya. Studies have reported [hepatoprotective](/reference/hepatoprotective/) and antioxidant activity.
+- Burning micturition and UTI: traditionally used for these conditions. Studies have reported antimicrobial activity and cooling [diuretic](/reference/diuretic/) properties.
+- Skin conditions with burning and inflammation: traditionally used for these conditions. Studies have reported antioxidant and antimicrobial activity.
 
 ## What do recent clinical trials show?
 
 - Sanapati K, Kalaivannan J, Jones S and others 2024. [Antioxidant Studies of One Ayurvedic Medicine, Srikhandasavam](https://pubmed.ncbi.nlm.nih.gov/40061773/). *Journal of pharmacy & bioallied sciences*. PMID [40061773](https://pubmed.ncbi.nlm.nih.gov/40061773/) · [doi:10.4103/jpbs.jpbs_990_24](https://doi.org/10.4103/jpbs.jpbs_990_24)  
-  PMC-published study confirmed high antioxidant activity through DPPH, FRAP, and ABTS assays, validating the formulation's Pitta-pacifying and tissue-protective properties.
+An in vitro study reported high antioxidant activity in DPPH, FRAP, and ABTS assays. The formulation is traditionally described as Pitta-pacifying and tissue-protective.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

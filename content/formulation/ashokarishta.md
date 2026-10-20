@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia control (validated by clinical study with P<0.001 significance and ongoing 2025 RCT)
-- Menopausal syndrome management (validated by clinical evaluation showing significant symptom improvement)
-- Uterine leiomyoma-associated bleeding (validated by clinical evaluation in fibroid patients)
-- Uterine tonic and postpartum recovery (traditional use supported by pharmacological evidence of uterine smooth muscle regulation)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Menorrhagia: traditionally used for menorrhagia. A clinical study reported a significant reduction in menorrhagia.
+- Menopausal syndrome: traditionally used for menopausal symptoms. A clinical evaluation reported significant symptom improvement.
+- Uterine leiomyoma-associated bleeding: traditionally used for bleeding associated with uterine leiomyoma.
+- Uterine tonic and postpartum recovery: traditionally used as a uterine tonic and for postpartum recovery. Pharmacological studies have reported regulation of uterine smooth muscle.
 
 ## What do recent clinical trials show?
 

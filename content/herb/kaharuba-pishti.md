@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 ## Which traditional uses are supported by research?
 
-- Bleeding disorders (Raktapitta, Raktarsha): The astringent and hemostatic properties of amber/succinic acid provide mechanistic support; traditional use in bloody diarrhea, hemorrhoids, and excessive menstruation is well-documented in clinical practice
-- Heart tonic (Hridya): Succinic acid's role in the Krebs cycle and mitochondrial energy production provides modern biochemical validation for the traditional cardiotonic claim
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Bleeding disorders (Raktapitta, Raktarsha): traditionally used for bloody diarrhea, hemorrhoids, and excessive menstruation. Amber is described in classical practice as astringent.
+- Heart tonic (Hridya): traditionally used as a cardiotonic.
 
 ## What do recent clinical trials show?
 

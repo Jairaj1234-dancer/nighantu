@@ -34,8 +34,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Anxiety and palpitations (Hridrava, Chittodvega): Clinical practice evidence and mechanistic rationale (calcium-mediated cardiac stabilization, conchiolin peptide neurotransmitter modulation) support the traditional use for heart and mind calming
-- Gastric disorders (Amlapitta, Parinamashoola): 2025 preclinical study validated anti-ulcerogenic activity; the calcium carbonate-based acid neutralization mechanism directly supports the traditional antacid use
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anxiety and palpitations (Hridrava, Chittodvega): traditionally used to calm the heart and mind.
+- Gastric disorders (Amlapitta, Parinamashoola): traditionally used as an antacid. A preclinical study reported anti-ulcerogenic activity.
 
 ## What do recent clinical trials show?
 

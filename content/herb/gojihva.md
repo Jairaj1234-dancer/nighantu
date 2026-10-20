@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-asthmatic and respiratory tonic (Shvasa-hara) - validated through mast cell stabilization and bronchial hyper-responsiveness reduction studies
-- Cooling and [antipyretic](/reference/antipyretic/) (Jvarahara) - confirmed antipyretic activity in traditional Unani and Ayurvedic usage
-- Throat and oral health (Mukha-roga) - supported by [antimicrobial](/reference/antimicrobial/) and anti-inflammatory studies
-- Cardiotonic (Hridya) - traditional claim as heart tonic partially supported by pharmacological studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Respiratory tonic (Shvasa-hara): traditionally used as a respiratory tonic and for asthma. Studies have reported mast cell stabilization and reduced bronchial hyper-responsiveness.
+- Cooling and [antipyretic](/reference/antipyretic/) (Jvarahara): traditionally used in Unani and Ayurvedic practice as a cooling herb for fever.
+- Throat and oral health (Mukha-roga): traditionally used for throat and mouth conditions. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
+- Heart tonic (Hridya): traditionally used as a heart tonic.
 
 ## What do recent clinical trials show?
 

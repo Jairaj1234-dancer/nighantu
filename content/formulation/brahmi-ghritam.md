@@ -39,10 +39,12 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## Which traditional uses are supported by research?
 
-- Apasmara (epilepsy) management: validated through PTZ-induced seizure models showing significant anticonvulsant activity
-- Unmada (psychosis/psychiatric disorders): clinical reviews confirm efficacy in anxiety, depression, and ADHD in children
-- Smriti [Vriddhi](/herb/vriddhi/) (memory enhancement): double-blind studies show 20-40% improvement in memory retention and attention
-- CNS depressant and [anxiolytic](/reference/anxiolytic/) effects: experimental studies confirm anti-anxiety and calming properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Apasmara (epilepsy): traditionally used for epilepsy. Animal studies using PTZ-induced seizure models have reported anticonvulsant activity.
+- Unmada (psychosis/psychiatric disorders): traditionally used for psychiatric disorders. Clinical reviews have reported benefits in anxiety, depression, and ADHD in children.
+- Smriti [Vriddhi](/herb/vriddhi/) (memory enhancement): traditionally used for memory enhancement. Double-blind clinical studies have reported improvement in memory retention and attention.
+- CNS depressant and [anxiolytic](/reference/anxiolytic/) effects: experimental studies have reported anti-anxiety and calming properties.
 
 ## What do recent clinical trials show?
 

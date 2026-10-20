@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Chronic skin diseases (eczema, psoriasis): Validated by demonstrated anti-inflammatory and immunomodulatory activities through NF-kB and T-cell modulation
-- Syphilis-related skin manifestations: Traditional use supported by antimicrobial activity against various pathogens, though modern antibiotics have replaced this application
-- Blood purification for skin clarity: Supported by [hepatoprotective](/reference/hepatoprotective/) and detoxification-enhancing properties of saponins and polyphenols
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic skin diseases (eczema, psoriasis): traditionally used for these conditions. Studies have reported anti-inflammatory and immunomodulatory activity, involving NF-kB and T-cell modulation.
+- Syphilis-related skin manifestations: traditionally used for these skin signs. Studies have reported antimicrobial activity against various pathogens. Modern antibiotics have replaced this use.
+- Blood purification for skin clarity: traditionally used to purify the blood for clearer skin. Studies have reported [hepatoprotective](/reference/hepatoprotective/) and detoxification-enhancing properties for its saponins and polyphenols.
 
 ## What do recent clinical trials show?
 

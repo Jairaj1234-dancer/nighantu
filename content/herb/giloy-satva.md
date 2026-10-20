@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Immunomodulatory ([Rasayana](/reference/rasayana/)) properties extensively validated through multiple preclinical and clinical studies, confirming premier use as Amrita (divine nectar) for immunity enhancement
-- [Antipyretic](/reference/antipyretic/) activity validated through clinical studies in various febrile conditions, confirming traditional use in Jwara (fever) management including Vishama Jwara (intermittent/malarial fever)
-- Antidiabetic activity validated through clinical trials showing improvement in glycemic parameters, confirming traditional use in Prameha (diabetes)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as Amrita (divine nectar) for immunity, with [Rasayana](/reference/rasayana/) properties. Preclinical and clinical studies have reported immunomodulatory activity.
+- Traditionally used for Jwara (fever), including Vishama Jwara (intermittent/malarial fever). [Antipyretic](/reference/antipyretic/) activity has been reported in clinical studies in various febrile conditions.
+- Traditionally used for Prameha (diabetes). Clinical trials have reported improvement in glycemic parameters.
 
 ## What do recent clinical trials show?
 

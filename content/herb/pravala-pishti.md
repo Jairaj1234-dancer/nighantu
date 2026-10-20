@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ## Which traditional uses are supported by research?
 
-- Calcium deficiency and bone disorders: Preclinical study (2003) demonstrated prevention of calcium and estrogen deficit bone loss; multicenter clinical study (2020) supported safety and efficacy in menopausal calcium management
-- Hyperacidity (Amlapitta) and bleeding disorders (Raktapitta): The calcium carbonate content provides direct mechanistic validation for antacid use; calcium's role in coagulation cascade supports the traditional hemostatic indication
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Calcium deficiency and bone disorders: traditionally used for calcium deficiency and bone disorders. A preclinical study reported less bone loss linked to calcium and estrogen deficit. A multicenter clinical study in menopausal women reported on its safety.
+- Hyperacidity (Amlapitta) and bleeding disorders (Raktapitta): traditionally used as an antacid and for bleeding disorders. It contains calcium carbonate.
 
 ## What do recent clinical trials show?
 

@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- [Antimicrobial](/reference/antimicrobial/) activity against wound-infecting pathogens validated through disc diffusion and MIC studies
-- Anti-diarrheal use confirmed in castor oil-induced diarrhea models with significant reduction in stool frequency
-- [Antipyretic](/reference/antipyretic/) activity validated in Brewer's yeast-induced pyrexia model in rats
-- Anti-inflammatory use confirmed through carrageenan-induced paw edema inhibition studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- In vitro studies using disc diffusion and MIC tests have reported [Antimicrobial](/reference/antimicrobial/) activity against wound-infecting pathogens.
+- Traditionally used for diarrhea. Animal studies using castor oil-induced diarrhea models have reported a reduction in stool frequency.
+- Animal studies have reported [Antipyretic](/reference/antipyretic/) activity in a Brewer's yeast-induced fever model in rats.
+- Traditionally used for inflammation. Animal studies have reported reduced paw edema in carrageenan-induced models.
 
 ## What do recent clinical trials show?
 
@@ -63,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 ## Recent safety updates
 
 - Traditional use profile indicates safety at recommended Ayurvedic doses; formal toxicity studies are limited and standardized safety data is still being developed
-- Standardized extracts, mechanistic validation, and clinical trials are recommended before therapeutic translation; no significant adverse effects reported in available preclinical studies
+- Standardized extracts, mechanistic studies, and clinical trials would be needed before any therapeutic use. Available preclinical studies have reported no significant adverse effects.
 
 ## What is it made of?
 

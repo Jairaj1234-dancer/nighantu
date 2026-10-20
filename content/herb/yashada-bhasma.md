@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Diabetes (Prameha/Madhumeha): Strong validation through multiple studies showing 16-33% improvement in glucose parameters, inspiring modern nanomedicine development
-- Eye diseases (Netra Roga): Zinc's role in retinal health and macular degeneration prevention well-established in modern ophthalmology, supporting traditional Ayurvedic eye disease claims
-- Skin disorders and wound healing: Zinc's essential role in wound healing, collagen synthesis, and skin integrity validated by extensive modern dermatological research
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Diabetes (Prameha/Madhumeha): traditionally used for Prameha and Madhumeha. Several studies have reported improvements in glucose parameters. It has also drawn interest in modern nanomedicine research.
+- Eye diseases (Netra Roga): traditionally used for Netra Roga. Modern ophthalmology research has described a role for zinc in retinal health and in macular degeneration.
+- Skin disorders and wound healing: traditionally used for skin disorders and wounds. Dermatological research has described a role for zinc in wound healing, collagen synthesis and skin integrity.
 
 ## What do recent clinical trials show?
 
