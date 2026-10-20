@@ -24,6 +24,10 @@ export const SCHEDULED_TERMS = [
   // s.3(a) and (c): procurement of miscarriage, prevention of conception, and correction of
   // menstrual disorders.
   'abortifacient', 'miscarriage', 'contracept',
+  'menstrua', 'menses', 'amenorrh', 'dysmenorrh', 'menorrhag', 'metrorrhag', 'oligomenorrh',
+  'emmenagog', 'artava', 'pradara',
+  // The Schedule's entries for diseases of the uterus and female diseases in general.
+  'uterus', 'uterine', 'yonivyapa', 'leucorrh', 'leukorrh', 'polycystic', 'pcos', 'gynec', 'gynaec',
 ];
 
 /**
