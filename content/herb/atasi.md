@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 ## How does it work?
 
 - [Cardioprotective](/reference/cardioprotective/) effects via ALA omega-3 fatty acid-mediated reduction of inflammatory eicosanoids and improvement of lipid profile
-- Anti-cancer activity through SDG lignan conversion to enterolactone/enterodiol by gut microbiota, modulating estrogen receptor signaling
+- Preclinical studies propose that SDG lignans, converted to enterolactone/enterodiol by gut microbiota, may modulate estrogen receptor signaling
 - Anti-inflammatory mechanism via inhibition of NF-kB pathway and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6)
 - Hypoglycemic effect through soluble fiber-mediated delayed [glucose](/glossary/compounds-d-g/#glucose) absorption and improved insulin sensitivity
 
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 ## What do recent studies show?
 
 - Akter Y, Junaid M, Afrose SS and others 2021. [A Comprehensive Review on Linum usitatissimum Medicinal Plant: Its Phytochemistry, Pharmacology, and Ethnomedicinal Uses](https://pubmed.ncbi.nlm.nih.gov/33535948/). *Mini reviews in medicinal chemistry*. PMID [33535948](https://pubmed.ncbi.nlm.nih.gov/33535948/) · [doi:10.2174/1389557521666210203153436](https://doi.org/10.2174/1389557521666210203153436)  
-  Confirmed [hepatoprotective](/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
+  Summarised reports of [hepatoprotective](/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

@@ -136,8 +136,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 ## Recent safety updates
 
 - Generally well-tolerated in clinical trials; no serious adverse effects reported in post-stroke depression RCT after 6 weeks of treatment.
-- Safe and effective when used as adjuvant to escitalopram (SSRI) in major depressive disorder, suggesting acceptable safety with concurrent psychiatric medications.
-- Demonstrated safety in management of premenstrual syndrome symptoms in clinical studies.
+- One randomized double-blind placebo-controlled study reported benefit and acceptable tolerability when used as an adjuvant to escitalopram (SSRI) in major depressive disorder.
 - Limitations noted: absence of comprehensive toxicology studies using animal models and long-term clinical trials in human subjects.
 - Listed as Critically Endangered on IUCN Red List (A2cd ver 3.1) and CITES Appendix II since 1997 -- sustainability of supply is a concern for commercial use.
 - Recommended dose per Ayurvedic Pharmacopoeia of India: 2-3 g/day of powder; exceeding this may carry unknown risks due to limited toxicology data.
@@ -148,7 +147,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 **Standard Dosage:** 1-3g powder twice daily; 250-500mg extract; 5-15ml medicated oil (external); 3-5 drops essential oil (aromatherapy)
 
-**Bioavailability:** Nardostachys jatamansi rhizome contains sesquiterpenes ([jatamansone](/glossary/compounds-g-l/#jatamansone)/valeranone), [iridoids](/glossary/compounds-g-l/#iridoids) (nardosinone), and [lignans](/glossary/compounds-g-l/#lignans). Jatamansone has moderate lipophilic absorption; Tmax ~2-3 hours. Nardosinone shows good blood-brain barrier penetration, supporting its anxiolytic/sedative effects. Co-administration with Ghee (traditional Ghrita preparation) enhances lipophilic compound absorption. Essential oil components absorbed via inhalation route for aromatherapy.
+**Bioavailability:** Nardostachys jatamansi rhizome contains sesquiterpenes ([jatamansone](/glossary/compounds-g-l/#jatamansone)/valeranone, nardosinone) and [lignans](/glossary/compounds-g-l/#lignans). Jatamansone has moderate lipophilic absorption; Tmax ~2-3 hours. Nardosinone shows good blood-brain barrier penetration, supporting its anxiolytic/sedative effects. Co-administration with Ghee (traditional Ghrita preparation) enhances lipophilic compound absorption. Essential oil components absorbed via inhalation route for aromatherapy.
 
 **Optimal Timing:** At bedtime with warm milk or ghee for sleep and anxiety; morning dose with water for cognitive support
 

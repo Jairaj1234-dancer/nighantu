@@ -35,8 +35,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## How does it work?
 
-- Antacid action through direct acid neutralization by calcium carbonate and calcium oxide, buffering gastric pH and providing rapid relief from hyperacidity
-- Gastroprotective effect through formation of protective calcium layer on gastric mucosa, shielding against acid and pepsin damage
+- Antacid action through direct acid neutralization by calcium carbonate and calcium oxide
 - Calcium supplementation via marine-derived bioavailable calcium supporting bone metabolism, muscle contraction, and nerve impulse transmission
 - Pitta-shamana (Pitta-pacifying) action through alkaline pH correction and reduction of Pitta-predominant digestive fire excess
 
@@ -57,9 +56,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Properly prepared Shankha Bhasma contains negligible heavy metals and passes classical safety tests (Varitara, Rekhapurna)
-- MILD SIDE EFFECTS: Possible mild constipation, alkaline reflux, or hypercalcemia with overdosage
-- NO TOXIC METALS: Marine shell-based preparation without intentional toxic metal content. Lower contamination risk compared to metallic Bhasmas.
+- SAFETY: Properly prepared Shankha Bhasma is reported to contain negligible heavy metals and to pass classical safety tests (Varitara, Rekhapurna)
+- MILD SIDE EFFECTS: Possible mild constipation or alkaline reflux
+- CAUTION: Hypercalcemia is possible with overdosage
+- METAL CONTENT: Marine shell-based preparation without intentional toxic metal content; described as carrying lower contamination risk than metallic Bhasmas.
 - PURIFICATION METHOD MATTERS: Lemon-purified Shankha Bhasma showed superior clinical efficacy vs sour gruel-purified, indicating preparation quality directly affects outcomes
 
 ## What is it made of?
@@ -79,7 +79,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; calcium carbonate from conch shell with natural coral matrix
+**Bioavailability:** Good; calcium carbonate from conch shell with natural shell (conchiolin) matrix
 
 **Optimal Timing:** Before meals for hyperacidity; with meals for calcium supplementation
 

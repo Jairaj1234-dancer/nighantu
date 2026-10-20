@@ -27,13 +27,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Gug
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Chikitsa Sthana, Chapter 21 - Vatarakta Chikitsa); also described in Bhaishajya Ratnavali
+Ashtanga Hridayam (Chikitsa Sthana); also described in Bhaishajya Ratnavali
 
 ## How does it work?
 
-- Anti-inflammatory action: Guggulsterones (E and Z) from [Guggulu](/formulation/guggulu/) inhibit NF-kB pathway and suppress pro-inflammatory cytokines (TNF-alpha, IL-1beta), reducing joint inflammation and preventing cartilage degradation
+- Anti-inflammatory action: Guggulsterones (E and Z) from [Guggulu](/formulation/guggulu/) have been reported in laboratory studies to inhibit the NF-kB pathway and suppress pro-inflammatory cytokines (TNF-alpha, IL-1beta)
 - Muscle tissue stimulation: [Plumbagin](/glossary/compounds-o-q/#plumbagin), an alkaloid present in Chitraka (Plumbago zeylanica), is a known stimulant of muscle tissue that enhances musculoskeletal strength
-- Joint mobility enhancement: [Guggulu](/formulation/guggulu/)'s oleo-gum resin exhibits significant anti-arthritic properties against carrageenan-induced paw edema and adjuvant arthritis, reducing stiffness and increasing joint mobility
+- Joint mobility enhancement: [Guggulu](/formulation/guggulu/)'s oleo-gum resin showed anti-arthritic activity in animal models of carrageenan-induced paw edema and adjuvant arthritis
 - Vata pacification: The warm potency (Ushna Virya) and pungent taste (Katu Rasa) of multiple ingredients collectively pacify Vata dosha, the primary driver of musculoskeletal disorders in Ayurveda
 - Digestive fire enhancement: Chitraka and [Trikatu](/herb/trikatu/) ingredients kindle Agni, preventing Ama formation that contributes to joint inflammation
 

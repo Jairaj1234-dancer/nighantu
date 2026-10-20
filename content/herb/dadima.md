@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Dadima |
+| English | Pomegranate |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima/meta-analysis.md"
 
 **Bioavailability:** Ellagic acid from pomegranate shows low oral bioavailability (1-5%) but is converted by gut microbiota to urolithins ([urolithin A](/glossary/compounds-t-z/#urolithin-aurolithin-a), B) which have excellent bioavailability and are the active metabolites (individual variation in microbiome conversion is significant, 'urolithin metabotype' concept). [Punicalagin](/glossary/compounds-o-q/#punicalagin) (the major ellagitannin, up to 50% of peel weight) is poorly absorbed intact but is the primary precursor for urolithin production. [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) from juice show rapid absorption (Tmax 0.5-1h) but low systemic levels. Seed oil (punicic acid) absorption enhanced by emulsification.
 
-**Optimal Timing:** Fresh juice anytime, preferably morning; peel powder before meals for digestive/antidiarrheal effect; Dadimarishta after meals; Dadimavaleha between meals as tonic
+**Optimal Timing:** Fresh juice anytime, preferably morning; peel powder traditionally taken before meals in digestive and diarrhea use; Dadimarishta after meals; Dadimavaleha between meals as tonic
 
 **Standardized Extract:** Peel extract standardized to punicalagins NLT 30%; total [ellagitannins](/glossary/compounds-d-g/#ellagitannins) NLT 40%; ellagic acid NLT 5%. Juice concentrate standardized to total [polyphenols](/glossary/compounds-o-q/#polyphenols) NLT 20%. Seed oil: punicic acid NLT 65%.
 
@@ -64,7 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Amalaki for synergistic [antioxidant](/reference/antioxidant/) and digestive benefits
-- With [Haritaki](/herb/haritaki/) for GI tract health
-- With [Bilva](/herb/bilva/) for IBS and malabsorption
-- With [Ashwagandha](/herb/ashwagandha/) for cardiovascular protection
-- With Kutaja for chronic diarrhea management
+- With [Haritaki](/herb/haritaki/), traditionally combined to support digestive function
+- With [Bilva](/herb/bilva/), traditionally combined for digestive complaints
+- With Kutaja, traditionally used in chronic diarrhea

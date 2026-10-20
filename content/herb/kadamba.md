@@ -64,15 +64,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ## Recent safety updates
 
-- Traditional use profile indicates safety at recommended Ayurvedic doses; formal toxicity studies are limited and standardized safety data is still being developed
-- Standardized extracts, mechanistic studies, and clinical trials would be needed before any therapeutic use. Available preclinical studies have reported no significant adverse effects.
+- Formal toxicity studies are limited; no standardized safety data is available.
+- Standardized extracts, mechanistic studies, and clinical trials are still needed. Available preclinical studies have reported no significant adverse effects.
 
 ## What is it made of?
 
 ### Key Active Markers
 
 - Glycosides
-- Sitosterol
 - Saponins
 - Cadambine 
 - Dihydrocadambine
@@ -81,10 +80,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 - Quinovic acid 
 - Chlorogenic acid
 - 3-alpha-Dihydrocadambine
-- Beta-
+- Beta-sitosterol
 - Ursolic acid
 - Cadamine
-- 
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -96,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 **Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/glossary/compounds-t-z/#triterpenes), and [flavonoids](/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
 
-**Optimal Timing:** Before meals with warm water for fever and diabetes; external paste for wounds morning and evening
+**Optimal Timing:** Traditionally taken before meals with warm water for fever and diabetes; external paste traditionally applied to wounds morning and evening
 
 **Standardized Extract:** Hydroalcoholic bark extract standardized to 1% total alkaloids (as cadambine); aqueous extract per API decoction method
 
@@ -115,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With [Lodhra](/herb/lodhra/) for gynecological disorders
-- With [Ashoka](/herb/ashoka/) for uterine tonic action
-- With [Nimba](/herb/nimba/) for skin conditions and fever
-- With [Guduchi](/herb/guduchi/) for anti-diabetic action
+- Traditionally combined with [Lodhra](/herb/lodhra/) for gynecological disorders
+- Traditionally combined with [Ashoka](/herb/ashoka/) for uterine tonic action
+- Traditionally combined with [Nimba](/herb/nimba/) for skin conditions and fever
+- Traditionally combined with [Guduchi](/herb/guduchi/) for anti-diabetic action

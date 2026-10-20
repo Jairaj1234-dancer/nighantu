@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 > Terminalia chebula (family: [Combretaceae](/glossary/plant-families/#combretaceae)) is widely used in the traditional medicine of India and Iran to treat diseases that include dementia, constipation, and diabetes. This tree is known in Iranian traditional medicine (ITM) as halileh or halilaj and the fruit is used to develop treatments. It is described in ITM as an astringent that has a "cold" and "dry" temperament. References to the medicinal properties of Terminalia chebula were collected from important ITM sources and from modern medical databases (PubMed, Scirus, ScienceDirect, and Scopus). The medicinal properties described for this tree in ITM were compared with those reported in studies of modern phytotherapy. The results confirm that the tree referred to as halileh in traditional books is the Terminalia chebula used in pres...
 
-#### 5. The potential of 
+#### 5. The potential of Terminalia chebula in alleviating mild cognitive impairment: a review
 
 **Authors:** Gao Huimin, Lu Hanyu, Fang Nengqiao et al.
 **Journal:** Frontiers in pharmacology (2024)
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 **Keywords:** MCI, Terminalia chebula, Tibetan medicine, phytochemistry, quality control, safety evaluation, traditional medicinal uses
 
-#### 6. A comprehensive review on the diverse pharmacological perspectives of 
+#### 6. A comprehensive review on the diverse pharmacological perspectives of Terminalia chebula Retz
 
 **Authors:** Hassan Bulbul Md Rakibul, Uddin Chowdhury Mohammad Nizam, Naima Taslima Anjum et al.
 **Journal:** Heliyon (2022)
@@ -192,8 +192,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Amalaki and Vibhitaki as Triphala for comprehensive GI health
-- With [Guggulu](/formulation/guggulu/) for lipid management
-- With [Pippali](/herb/pippali/) for respiratory conditions
-- With Honey as Anupana for Kapha disorders
-- With Jaggery for iron absorption and anemia
+- With Amalaki and Vibhitaki as Triphala, traditionally used for digestive support
+- With [Guggulu](/formulation/guggulu/), a traditional pairing
+- With [Pippali](/herb/pippali/), traditionally used for respiratory complaints
+- With Honey as Anupana, traditionally used in Kapha conditions
+- With Jaggery, a traditional Anupana pairing

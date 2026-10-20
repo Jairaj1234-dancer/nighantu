@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Pinda Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A specialized Pitta-Vata pacifying formulation notable for its simplicity and targeted action on inflammatory skin and joint conditions."
+answer: "Pinda Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A specialized Pitta-Vata pacifying formulation notable for its simplicity, traditionally used for inflammatory skin and joint conditions."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thail
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A specialized Pitta-Vata pacifying formulation notable for its simplicity and targeted action on inflammatory skin and joint conditions.
+Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A specialized Pitta-Vata pacifying formulation notable for its simplicity, traditionally used for inflammatory skin and joint conditions.
 
 ## How does it work?
 
-- Anthraquinones ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/herb/manjistha/) provide potent anti-inflammatory and blood-purifying action, specifically targeting Rakta Dhatu (blood tissue) inflammation
-- [Sariva](/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/glossary/compounds-a-c/#benzaldehyde) provide cooling, blood-purifying action and reduce cutaneous inflammation through inhibition of pro-inflammatory cytokines
-- Beeswax provides an occlusive barrier layer that holds the herbal constituents in contact with inflamed tissue for prolonged therapeutic action
-- Oleic and linoleic fatty acids from [sesame oil](/glossary/concepts-m-y/#tila-taila) act as anti-inflammatory lipid mediators and enhance transdermal penetration of active herbal compounds to deeper tissue layers
+- Anthraquinones ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) from [Manjistha](/herb/manjistha/) are reported to have anti-inflammatory activity; Manjistha is classically associated with Rakta Dhatu (blood tissue)
+- [Sariva](/herb/sariva/)'s hemidesmin and 2-hydroxy-4-methoxy [benzaldehyde](/glossary/compounds-a-c/#benzaldehyde) are reported to have cooling and anti-inflammatory activity
+- Beeswax provides an occlusive barrier layer that holds the herbal constituents in contact with the skin for longer
+- Oleic and linoleic fatty acids from [sesame oil](/glossary/concepts-m-y/#tila-taila) are reported to support transdermal penetration of active herbal compounds to deeper tissue layers
 
 ## Which traditional uses are supported by research?
 
@@ -42,7 +42,6 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 - Inflammatory skin conditions (psoriasis, eczema): traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory anthraquinones and [phytosterols](/glossary/compounds-o-q/#phytosterols) in [Manjistha](/herb/manjistha/) and [Sariva](/herb/sariva/).
 - Gout and inflammatory joint conditions: traditionally used for these conditions. A clinical study of oil-based therapy reported reduced pain in knee osteoarthritis.
-- Post-stroke rehabilitation (Pinda Sveda therapy): used in classical practice in post-stroke care. A randomized controlled trial of oil poultice sessions reported improved muscle strength in hemiparetic patients.
 
 ## What do recent studies show?
 
@@ -57,11 +56,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
-**Standard Dosage:** External for wounds, burns, eczema
+**Standard Dosage:** External for eczema
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
+**Optimal Timing:** External: before bath or at bedtime
 
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
@@ -71,7 +70,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Alizarin, Purpurin
 
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
+**Vehicle (Anupana):** External: massage into affected area
 
 ### Synergistic Combinations
 

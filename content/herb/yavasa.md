@@ -64,5 +64,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 
 - [Gokshura](/herb/gokshura/) (Tribulus terrestris) - urinary tract support synergy
 - [Punarnava](/herb/punarnava/) (Boerhavia diffusa) - diuretic and anti-edema combination
-- Pashanbheda (Bergenia ligulata) - litholytic combination for urinary stones
+- Pashanbheda (Bergenia ligulata) - traditionally combined for urinary tract support
 - [Varuna](/herb/varuna/) (Crataeva nurvala) - comprehensive urinary formula

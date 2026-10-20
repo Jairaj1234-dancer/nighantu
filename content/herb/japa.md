@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Japa |
+| Sanskrit | Japa |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 
 **Standardized Extract:** Flower extract standardized to 5% anthocyanins (as cyanidin-3-glucoside); aqueous extract standardized to 10% total [polyphenols](/glossary/compounds-o-q/#polyphenols)
 
-**Shelf Life:** 1 year (flower powder); 2 years (standardized extract capsule); 2 years (hair oil); 6 months (fresh juice)
+**Shelf Life:** 1 year (flower powder); 2 years (standardized extract capsule); 2 years (hair oil)
 
 **Storage:** Cool, dry place below 25°C, protected from light (critical for anthocyanin stability). Amber containers. Nitrogen-flushed packaging for extract powder.
 

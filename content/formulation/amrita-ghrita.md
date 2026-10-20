@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 
 ## Where is it described in the classical texts?
 
-Bhavishya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam ([Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/))
+Bhaishajya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam ([Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/))
 
 ## How does it work?
 
@@ -52,7 +52,7 @@ Bhavishya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (prepara
 
 ## Recent safety updates
 
-- Clinical study confirms safety in elderly participants with 22% immunoglobulin increase; no adverse effects at 5ml daily for 8 weeks
+- A clinical study in elderly participants reported no adverse effects at 5ml daily for 8 weeks
 - [Guduchi](/herb/guduchi/) generally recognized as safe with well-established toxicological profile; rare reports of autoimmune exacerbation in predisposed individuals
 - Multiple ingredients require quality-assured sourcing; honey should not be heated above 40 degrees C per Ayurvedic principles
 

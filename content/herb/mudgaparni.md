@@ -49,9 +49,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Traditionally used for [Kamala](/herb/kamala/) (jaundice). Preclinical studies have reported protection against chemically induced liver damage.
+- Traditionally used for Kamala (jaundice). Preclinical studies have reported protection against chemically induced liver damage.
 - Traditionally used as a nutritive and metabolic regulator. Experimental studies have reported a reduction in blood glucose.
-- Traditionally used as an anthelmintic. Studies have reported antimicrobial activity against various pathogens.
+- Traditionally used as an anthelmintic. Studies have reported antimicrobial activity against various pathogens, which is a different effect from anthelmintic action.
 
 ## What do recent studies show?
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g whole plant powder per day; 50-100 mL decoction twice daily; 500 mg standardized extract capsules twice daily
 
-**Bioavailability:** Isoflavonoids show moderate oral bioavailability (20-30%). [Phytosterols](/glossary/compounds-o-q/#phytosterols) are sparingly absorbed (3-5%) but therapeutically active at gut level for cholesterol management. [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) act as prebiotics without systemic absorption. [Ghrita](/herb/ghrita/) preparations enhance bioavailability of lipophilic components.
+**Bioavailability:** Isoflavonoids show moderate oral bioavailability (20-30%). [Phytosterols](/glossary/compounds-o-q/#phytosterols) are sparingly absorbed (3-5%). [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) act as prebiotics without systemic absorption. [Ghrita](/herb/ghrita/) preparations enhance bioavailability of lipophilic components.
 
 **Optimal Timing:** With meals for nutritive and tonic effects; morning with warm milk for [Rasayana](/reference/rasayana/) benefits; Ghrita with meals for reproductive health
 

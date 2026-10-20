@@ -28,7 +28,7 @@ srcRel: "_Hub/Pharmacology/Antiinflammatory.md"
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia; Clerodendrum phlomidis is also used as Agnimantha in some texts*
 - [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*

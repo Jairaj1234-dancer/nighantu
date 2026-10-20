@@ -38,11 +38,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhutakeshi/meta-analys
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, Avalehya (confection)
 
-**Standard Dosage:** 1-3g powder twice daily; 50-100ml decoction; 250-500mg extract capsule. Lower doses recommended initially due to potent sedative properties.
+**Standard Dosage:** 1-3g powder twice daily; 50-100ml decoction; 250-500mg extract capsule. Lower doses recommended initially due to reported sedative effects.
 
 **Bioavailability:** [Protopine](/glossary/compounds-o-q/#protopine) and related isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) show moderate to good oral bioavailability (30-50%). Alkaloids are well absorbed from the GI tract due to lipophilicity. Traditional milk vehicle reduces potential GI irritation and may enhance absorption of lipophilic alkaloids. Note: limited modern pharmacokinetic studies specific to this species.
 
-**Optimal Timing:** At bedtime with warm milk for sleep disorders; between meals for anxiety; not recommended before driving or operating machinery
+**Optimal Timing:** Traditionally taken at bedtime with warm milk; between meals; not recommended before driving or operating machinery
 
 **Standardized Extract:** Root/rhizome extract standardized to total isoquinoline alkaloids NLT 2%; protopine NLT 0.5%
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhutakeshi/meta-analys
 ### Synergistic Combinations
 
 - With Jatamamsi for [anxiolytic](/reference/anxiolytic/) and sedative synergy
-- With [Ashwagandha](/herb/ashwagandha/) for stress and insomnia
+- Traditionally combined with [Ashwagandha](/herb/ashwagandha/)
 - With [Brahmi](/herb/brahmi/) for cognitive support with calming effect
-- With Shankhapushpi for neurological conditions
-- With [Tagara](/herb/tagara/) for sleep disorders
+- Traditionally combined with Shankhapushpi
+- Traditionally combined with [Tagara](/herb/tagara/)

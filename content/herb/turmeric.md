@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Turmeric (Curcuma longa) is classified in Ayurveda as Kusthaghna (Anti-dermatosis), Vishaghna (Antitoxic), from the Zingiberaceae family. Parts used: rhizome. Used in virtually every Ayurvedic formulation. WHO Monograph published in 1999 (WHO Monographs on Selected Medicinal Plants, Volume 1)."
+answer: "Turmeric (Curcuma longa) is classified in Ayurveda as Kusthaghna (Anti-dermatosis), Vishaghna (Antitoxic), from the Zingiberaceae family. Parts used: rhizome. Used widely in Ayurvedic formulations. WHO Monograph published in 1999 (WHO Monographs on Selected Medicinal Plants, Volume 1)."
 botanical: "Curcuma longa"
 family: "Zingiberaceae"
 sanskrit: ""
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Turmeric/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classified as Varnya (complexion-enhancing), Kushthagna (anti-dermatosis), and Vishaghna (antitoxic). Golden milk (Haldi Doodh) is a traditional preparation.
+Used widely in Ayurvedic formulations. Sacred in Hindu rituals. Classified as Varnya (complexion-enhancing), Kushthagna (anti-dermatosis), and Vishaghna (antitoxic). Golden milk (Haldi Doodh) is a traditional preparation.
 
 ## Where is it described in the classical texts?
 
@@ -109,7 +109,7 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 
 ## Recommended Dosage
 
-Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailability)
+Powder: 1-3g/day; Curcumin extract: 500-2000mg/day
 
 ## Safety, contraindications and cautions
 

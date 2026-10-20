@@ -34,7 +34,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 - [Ephedrine](/glossary/compounds-d-g/#ephedrine) and [pseudoephedrine](/glossary/compounds-o-q/#pseudoephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) from [Bala](/herb/bala/) (Sida cordifolia) provide [analgesic](/reference/analgesic/), anti-inflammatory, and bronchodilatory effects via adrenergic receptor modulation
 - Repeated processing (101 Avarti) concentrates lipophilic phytoconstituents and increases bioavailability of low molecular weight fatty acids facilitating transdermal and transmucosal absorption
 - Milk [proteins](/glossary/compounds-o-q/#proteins) and fats act as emulsifiers that stabilize herbal extracts and enhance penetration through biological membranes, including nasal mucosa during Nasya administration
-- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/herb/bala/) nourish nerve tissue (Majja Dhatu) and strengthen neuromuscular junctions
+- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) and mucilaginous compounds from [Bala](/herb/bala/) are traditionally described as nourishing nerve tissue (Majja Dhatu)
 
 ## Which traditional uses are supported by research?
 
@@ -52,8 +52,8 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## Recent safety updates
 
-- No serious side effects reported with internal or external use. High oral doses may cause mild digestive discomfort in some individuals. Rare cases of skin allergy have been noted - patch test advised for sensitive individuals.
-- Safe for use in children and elderly under practitioner guidance. Contraindicated in Kapha-dominant conditions with excessive congestion. Those with lactose intolerance may need to exercise caution with internal use given the milk component.
+- High oral doses may cause mild digestive discomfort in some individuals. Rare cases of skin allergy have been noted - patch test advised for sensitive individuals.
+- Use in children and elderly should be under practitioner guidance. Contraindicated in Kapha-dominant conditions with excessive congestion. Those with lactose intolerance may need to exercise caution with internal use given the milk component.
 
 ## What is it made of?
 
@@ -70,7 +70,7 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 **Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India, Part I, entry 8:11 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
 
-**Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Multi-avartana processing concentrates actives, 101 avartana oil is significantly more potent per drop. Nasya route provides direct CNS access. Internal use provides systemic distribution via lipid absorption pathway.
+**Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Internal use provides systemic distribution via lipid absorption pathway.
 
 **Optimal Timing:** External: morning Abhyanga. Internal: before meals or bedtime. Nasya: morning on empty stomach.
 

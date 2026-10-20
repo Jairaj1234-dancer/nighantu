@@ -31,12 +31,12 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 ## How does it work?
 
-- Bacosides (from [Brahmi](/herb/brahmi/)/Shankhapushpi) modulate cholinergic neurotransmission, enhancing synaptic plasticity and memory consolidation
+- Bacosides (from [Brahmi](/herb/brahmi/)) modulate cholinergic neurotransmission, enhancing synaptic plasticity and memory consolidation
 - [Withanolides](/glossary/compounds-t-z/#withanolides) (from [Ashwagandha](/herb/ashwagandha/)) provide [neuroprotective](/reference/neuroprotective/) action through reduced oxidative markers in hippocampus
 - [Guduchi](/herb/guduchi/) fractions upregulate IL-2 production, enhancing immune surveillance and reducing neuroinflammation
 - Combined [antioxidant](/reference/antioxidant/) enzyme activity (SOD, catalase) increased by [Brahmi](/herb/brahmi/) and [Ashwagandha](/herb/ashwagandha/) extracts protects against age-related neuronal damage
 - Anti-acetylcholinesterase activity preserves acetylcholine levels in brain, supporting cognitive function in aging
-- Multi-herb Rasayana synergy boosts Ojas (vital essence) and life span through comprehensive rejuvenation of all Dhatus
+- Classical rasayana doctrine describes multi-herb Rasayanas as promoting Ojas (vital essence) and longevity through rejuvenation of all Dhatus
 
 ## Which traditional uses are supported by research?
 
@@ -56,9 +56,7 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 ## Recent safety updates
 
-- No side effects observed when used according to digestive capacity; no absolute contraindications for [Brahma Rasayana](/formulation/brahma-rasayana/)
 - High sugar/honey content requires monitoring in diabetic patients; adjust vehicle accordingly
-- Safe for long-term use as Rasayana; recommended for all ages with appropriate dose adjustment
 
 ## What is it made of?
 

@@ -61,14 +61,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 - FATAL CASE REPORT (2024): Death from lead toxicity in a Parkinson's patient taking Ayurvedic supplements containing lead. Blood lead levels were 9x above acceptable threshold.
 - FDA EMBARGO AND WARNINGS: FDA has issued specific warnings against lead-containing Ayurvedic products (e.g., Balguti Kesaria). Products found to contain levels hundreds of thousands of times above FDA limits.
 - NEUROLOGICAL DAMAGE: Lead is a proven neurotoxin causing irreversible brain damage, cognitive impairment, and developmental delays especially in children. No purification process can eliminate this risk.
-- AUSTRALIAN TGA WARNING: Victoria Department of Health (January 2025) issued updated health advisory about Ayurvedic medicines containing lead and other heavy metals.
+- VICTORIAN HEALTH ADVISORY: Victoria Department of Health (January 2025) issued updated health advisory about Ayurvedic medicines containing lead and other heavy metals.
 - 65% CONTAMINATION RATE: Studies found lead in 65% of 252 Ayurvedic medicine samples tested, indicating widespread contamination beyond just [Naga Bhasma](/herb/naga-bhasma/).
 
 ## What is it made of?
 
 ### Mineral/Elemental Profile
 
-- **Lead oxide (PbO):** Major component (traditionally)
+- **Lead sulfide (PbS):** Major component; lead oxide residual phases
 - **Note:** Contains heavy metals, restricted use; Shodhana mandatory
 
 **Analytical Methods:** AAS, ICP-MS, XRD
@@ -77,9 +77,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 30–60 mg (lead preparation, strict dosing)
+**Classical Dosage:** 30–60 mg (lead preparation; per the safety section, CDC, WHO and FDA recognise no safe level of lead exposure)
 
-**Bioavailability:** Converted to lead oxide nanoparticles through Marana; toxicity eliminated per traditional parameters
+**Bioavailability:** Converted to nano-crystalline lead sulfide through Marana
 
 **Optimal Timing:** As directed by experienced physician; with specific anupana only
 
@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 **Storage:** Airtight, labeled container; restricted drug storage
 
-**Marker Compounds:** Lead oxide (PbO), Lead sulfide traces
+**Marker Compounds:** Lead sulfide (PbS), residual lead oxide (PbO)
 
 **Quality Parameters:** Free lead <1 ppm (critical), standard bhasma tests, bioavailability validation
 

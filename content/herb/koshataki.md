@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Koshataki (Luffa acutangula) is a plant drug, also called Dhamarg, Jali and Jalini. Cucurbitane triterpenoids show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery for pratishyaya (rhinitis) management."
+answer: "Koshataki (Luffa acutangula) is a plant drug, also called Dhamarg, Jali and Jalini. Cucurbitane triterpenoids show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery; it is traditionally used in pratishyaya (rhinitis)."
 botanical: "Luffa acutangula"
 family: "Cucurbitaceae"
 sanskrit: ""
@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 
 **Standard Dosage:** 5-10 mL fresh fruit juice; 2-4 g powder twice daily; 30-50 mL decoction; Nasya: 2-4 drops per nostril; 500 mg capsule
 
-**Bioavailability:** Ribosome-inactivating [proteins](/glossary/compounds-o-q/#proteins) (luffin) are acid-labile with poor oral bioavailability, primarily active topically and via nasal route. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery for pratishyaya (rhinitis) management.
+**Bioavailability:** Ribosome-inactivating [proteins](/glossary/compounds-o-q/#proteins) (luffin) are acid-labile with poor oral bioavailability, primarily active topically and via nasal route. Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral absorption enhanced by lipid carriers. Sapogenins have improved bioavailability in SNEDDS formulations. Nasya administration of juice provides direct nasal mucosal delivery; it is traditionally used in pratishyaya (rhinitis).
 
-**Optimal Timing:** Nasya: early morning on empty stomach for sinus conditions; internal preparations: after meals; juice: morning for respiratory benefit
+**Optimal Timing:** Nasya: early morning on empty stomach, traditionally used for sinus conditions; internal preparations: after meals; juice: morning for respiratory benefit
 
 **Standardized Extract:** Fruit extract standardized to minimum 3% total [saponins](/reference/saponins/) and 2% [cucurbitacins](/glossary/compounds-c-d/#cucurbitacins); seed extract to minimum 5% protein content with characterized RIP activity
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Vacha](/herb/vacha/) for Nasya formulations (sinusitis)
+- [Vacha](/herb/vacha/) for Nasya formulations (traditionally used in sinusitis)
 - [Haridra](/herb/haridra/) for anti-inflammatory combinations
 - [Guduchi](/herb/guduchi/) for [immunomodulatory](/reference/immunomodulatory/) synergy
 - [Shirisha](/herb/shirisha/) for anti-allergic respiratory formulations

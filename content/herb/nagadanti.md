@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root powder per day; 3-5 g leaf powder; 20-40 mL decoction twice daily; 5-10 mL leaf juice. Use with caution; purgative at higher doses.
 
-**Bioavailability:** Jatrophin and curcin (toxic [proteins](/glossary/compounds-o-q/#proteins)) have limited oral bioavailability due to GI degradation, but are still potent at low concentrations. [Flavonoids](/reference/flavonoids/) show moderate absorption. Diterpene esters are lipophilic with variable oral absorption. Purgative principles (curcanoleic acid) act primarily on intestinal mucosa with minimal systemic absorption.
+**Bioavailability:** [Flavonoids](/reference/flavonoids/) show moderate absorption. Diterpene esters are lipophilic with variable oral absorption. Purgative principles act primarily on intestinal mucosa with minimal systemic absorption.
 
 **Optimal Timing:** Morning on empty stomach for purgative action; as per Virechana Panchakarma schedule; topical as needed
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Restricted access due to potent purgative action. Label 'Not for unsupervised use.' Protect from moisture and light. Keep raw material separately from finished products.
 
-**Marker Compounds:** [Montanin](/glossary/compounds-l-o/#montanin), Baliospermin, Jatrophin, 12-Deoxyphorbol esters, Curcanoleic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
+**Marker Compounds:** [Montanin](/glossary/compounds-l-o/#montanin), Baliospermin, 12-Deoxyphorbol esters, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
 
 ### Extraction Methods
 

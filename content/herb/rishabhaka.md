@@ -55,9 +55,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ## What do recent studies show?
 
-- Ibrahim AE, Saraya RE, Saleh H and others 2019. [Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms](https://pubmed.ncbi.nlm.nih.gov/31049430/). *Heliyon*. PMID [31049430](https://pubmed.ncbi.nlm.nih.gov/31049430/) · [doi:10.1016/j.heliyon.2019.e01518](https://doi.org/10.1016/j.heliyon.2019.e01518)  
-  Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
-
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
@@ -89,17 +86,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g churna per day in divided doses; 50-100 mL kwatha twice daily
 
-**Bioavailability:** Moderate oral bioavailability; steroidal saponins require bile-salt mediated micellar solubilization for absorption. Co-administration with lipids (ghee or milk) enhances absorption of sapogenin aglycones by 25-40%. First-pass hepatic metabolism is significant for glycoside moieties.
+**Bioavailability:** Moderate oral bioavailability; triterpenoid saponins require bile-salt mediated micellar solubilization for absorption. Co-administration with lipids (ghee or milk) enhances absorption of sapogenin aglycones by 25-40%. First-pass hepatic metabolism is significant for glycoside moieties.
 
 **Optimal Timing:** Take with warm milk or ghee after meals for enhanced absorption; morning dose for strength-building (Balya) applications
 
-**Standardized Extract:** Standardized aqueous-ethanolic extract (10:1 concentration ratio), standardized to not less than 5% total saponins by gravimetric method; total alkaloid content NLT 0.3% by titrimetric assay
+**Standardized Extract:** Standardized aqueous-ethanolic extract (10:1 concentration ratio), standardized to not less than 5% total saponins by gravimetric method
 
 **Shelf Life:** 24 months for churna in sealed containers; 36 months for standardized extract capsules in HDPE bottles with desiccant
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Relative humidity <60%.
 
-**Marker Compounds:** [Stigmasterol](/reference/stigmasterol/), Beta-sitosterol, [Diosgenin](/glossary/compounds-d-g/#diosgenin), Hecogenin, Saponins (total)
+**Marker Compounds:** Beta-sitosterol, Taraxerol, Quercetin, Myricetin, Protobassic acid, Saponins (total)
 
 ### Extraction Methods
 

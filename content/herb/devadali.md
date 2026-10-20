@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Devadali/meta-analysi
 
 **Bioavailability:** Luffa echinata (Devadali) contains [cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) and [saponins](/reference/saponins/) with moderate oral bioavailability. Cucurbitacins are lipophilic [triterpenoids](/glossary/compounds-t-z/#triterpenoids) that absorb well from the GI tract but undergo hepatic metabolism. Fresh juice (Swarasa) provides highest bioavailability of volatile and labile constituents. Enhancement: lipid-based formulations or self-emulsifying systems improve cucurbitacin absorption. Co-administration with healthy fats (ghee, milk) as per traditional Anupana enhances lipophilic constituent uptake.
 
-**Optimal Timing:** Before meals with warm water for hepatic conditions; fresh juice on empty stomach for maximum therapeutic effect
+**Optimal Timing:** Before meals with warm water; fresh juice on empty stomach
 
 **Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total cucurbitacins by HPLC. Extract ratio 8:1. Fresh juice standardized by total saponin content.
 
@@ -62,6 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Devadali/meta-analysi
 ### Synergistic Combinations
 
 - With [Katuki](/herb/katuki/) (Picrorhiza) for [hepatoprotective](/reference/hepatoprotective/) synergy
-- With [Haritaki](/herb/haritaki/) for purgative and liver-cleansing action
-- With Bhringaraj for jaundice management
-- With [Punarnava](/herb/punarnava/) for hepatorenal protective combination
+- With [Haritaki](/herb/haritaki/), traditionally used as a purgative
+- With Bhringaraj, traditionally used for jaundice
+- With [Punarnava](/herb/punarnava/), traditionally combined for hepatorenal support

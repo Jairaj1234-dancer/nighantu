@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka/meta-analysis.md"
 
 **Optimal Timing:** As directed by Ayurvedic physician only. External applications: morning and evening to affected area.
 
-**Standardized Extract:** Shodhita root bark extract with total cardenolide content precisely quantified (typical range 0.1-0.5%). Flower extract (non-toxic part) for milder formulations. Latex-based preparations for external pharmaceutical use.
+**Standardized Extract:** Shodhita root bark extract with total cardenolide content precisely quantified (typical range 0.1-0.5%). Flower extract for milder formulations. Latex-based preparations for external pharmaceutical use.
 
 **Shelf Life:** 2 years (Shodhita powder); 3 years (medicated oil); 18 months (Shodhita latex preparation)
 

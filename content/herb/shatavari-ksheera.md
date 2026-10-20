@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 ## Key Phytochemical Constituents
 
 - Shatavarin I-VI (steroidal [saponins](/reference/saponins/))
-- [Racemosol](/glossary/compounds-q-t/#racemosol) (isoflavone)
+- [Racemosol](/glossary/compounds-q-t/#racemosol) (dihydrophenanthrene)
 - Asparagamine A (polycyclic alkaloid)
 - Racemofuran (furanoid)
 - [Kaempferol](/reference/kaempferol/)
@@ -39,8 +39,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ## How does it work?
 
-- [Galactagogue](/glossary/pharmacology/#galactagogue): Steroidal saponins (shatavarins) stimulate prolactin secretion and mammary gland development, increasing breast milk production
-- [Adaptogenic](/reference/adaptogenic/): Saponins modulate HPA axis, normalize cortisol levels, and enhance stress resilience through GABAergic neurotransmission modulation
+- [Galactagogue](/glossary/pharmacology/#galactagogue): Steroidal saponins (shatavarins) are reported to influence prolactin secretion; traditionally used to support breast milk production
+- [Adaptogenic](/reference/adaptogenic/): Preclinical studies report that saponins modulate the HPA axis and GABAergic neurotransmission
 - [Immunomodulatory](/reference/immunomodulatory/): Shatavarin IV activates NK cells and macrophages, enhances phagocytosis, and modulates Th1/Th2 cytokine balance
 
 ## Which traditional uses are supported by research?
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 **Standard Dosage:** 100-200 mL prepared Ksheerapaka (milk decoction) once or twice daily; 500-1000 mg freeze-dried Ksheerapaka powder per day
 
-**Bioavailability:** Superior bioavailability compared to simple [Shatavari](/herb/shatavari/) preparations due to milk lipid-mediated solubilization of steroidal saponins (2-3x enhancement). Casein micelles act as natural nanocarriers for lipophilic constituents. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) in milk further enhance saponin absorption. This traditional formulation represents an ancient bioavailability enhancement technology.
+**Bioavailability:** Superior bioavailability compared to simple [Shatavari](/herb/shatavari/) preparations due to milk lipid-mediated solubilization of steroidal saponins. Casein micelles act as natural nanocarriers for lipophilic constituents. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) in milk further enhance saponin absorption.
 
 **Optimal Timing:** Warm, before bedtime for reproductive tonic and sleep-promoting effects; morning dose for galactagogue action in lactating mothers
 

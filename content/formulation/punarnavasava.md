@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Punarnavasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta preparation method (fermenting decoctions with jaggery) described in Rasatarangini of Nagarjuna (circa 10th century CE)."
+answer: "Punarnavasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,13 +27,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarna
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta preparation method (fermenting decoctions with jaggery) described in Rasatarangini of Nagarjuna (circa 10th century CE).
+Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin).
 
 ## How does it work?
 
-- [Diuretic](/reference/diuretic/) action of [Punarnava](/herb/punarnava/) and [Gokshura](/herb/gokshura/) promotes fluid excretion, reducing edema and ascites
-- [Hepatoprotective](/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/herb/punarnava/)) and chebulinic acid promotes liver cell regeneration
-- Nephroprotective action supports kidney function and reduces fluid retention in chronic kidney disease
+- [Diuretic](/reference/diuretic/) action of [Punarnava](/herb/punarnava/) and [Gokshura](/herb/gokshura/) is traditionally described for edema and ascites
+- [Hepatoprotective](/reference/hepatoprotective/) activity through boeravinones (from [Punarnava](/herb/punarnava/)) and chebulinic acid; studies with boeravinones have reported hepatocyte regeneration
+- Nephroprotective action supports kidney function
 - Anti-inflammatory synergy from Musta, Amalaki, and [Vidanga](/herb/vidanga/) provides hepatoprotective and immune support
 
 ## Which traditional uses are supported by research?
@@ -51,7 +51,7 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## Recent safety updates
 
-- Contains 5-10% self-generated alcohol. Generally safe at standard dosage. May cause excessive urination at higher doses; maintain adequate hydration.
+- Contains self-generated alcohol. Generally safe at standard dosage. May cause excessive urination at higher doses; maintain adequate hydration.
 - Patients on diuretic or [antihypertensive](/glossary/pharmacology/#antihypertensive) medications should use with medical supervision due to additive diuretic effects. Not recommended in severe hepatic or renal failure without physician guidance.
 
 ## Dosage forms and preparation

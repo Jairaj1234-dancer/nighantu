@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 - Brazilin melanin synthesis suppression: Brazilin inhibits forskolin-stimulated cAMP-mediated MITF expression, downregulating tyrosinase and TRP-1/TRP-2 transcription, directly reducing melanin production in melanocytes for skin brightening
 - Brazilin anti-inflammatory NO and PGE2 inhibition: Brazilin and protosappanins suppress iNOS and COX-2 expression, reducing nitric oxide and prostaglandin E2 production in activated macrophages, alleviating skin inflammation
-- Sappanone homoisoflavonoid [antioxidant](/reference/antioxidant/) protection: Sappanone A and B scavenge superoxide and hydroxyl radicals, protecting skin cells from oxidative damage and preventing photoaging
+- Sappanone homoisoflavonoid [antioxidant](/reference/antioxidant/) protection: Sappanone A and B scavenge superoxide and hydroxyl radicals
 - Collagen synthesis and wound closure promotion: Brazilin-rich extract stimulates fibroblast migration and proliferation, enhances collagen deposition, and accelerates wound epithelialization
 
 ## Which traditional uses are supported by research?
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 - Sucita RE, Fikri F, Purnomo A and others 2024. [The efficacy of topically applied Sappan wood (Caesalpinia sappan L.) ethanol extract during incision wound healing in albino rats](https://pubmed.ncbi.nlm.nih.gov/39175965/). *Open veterinary journal*. PMID [39175965](https://pubmed.ncbi.nlm.nih.gov/39175965/) · [doi:10.5455/OVJ.2024.v14.i7.5](https://doi.org/10.5455/OVJ.2024.v14.i7.5)  
   A 6.5% sappanwood ethanol extract demonstrated significant improvement in incision wound healing in albino rats, with enhanced tissue repair attributed to brazilin and related bioactive secondary metabolites.
 - Mitani K, Takano F, Kawabata T and others 2013. [Suppression of melanin synthesis by the phenolic constituents of sappanwood (Caesalpinia sappan)](https://pubmed.ncbi.nlm.nih.gov/23154842/). *Planta medica*. PMID [23154842](https://pubmed.ncbi.nlm.nih.gov/23154842/) · [doi:10.1055/s-0032-1327897](https://doi.org/10.1055/s-0032-1327897)  
-  Brazilin and 4-O-methylsappanol strongly suppressed melanin synthesis in human melanoma HMV-II cells stimulated with forskolin, establishing the melanin-inhibitory basis for traditional complexion-enhancing use.
+  Brazilin and 4-O-methylsappanol strongly suppressed melanin synthesis in human melanoma HMV-II cells stimulated with forskolin, suggesting a possible mechanism relevant to the traditional complexion-enhancing use.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

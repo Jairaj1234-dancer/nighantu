@@ -46,10 +46,10 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## How does it work?
 
-- Varana (Crataeva religiosa) provides Lekhana (scraping) action that reduces abnormal tissue growths, cysts, and lipomas
+- Varana (Crataeva religiosa) is classically described as having Lekhana (scraping) action, traditionally used for abnormal tissue growths, cysts, and lipomas
 - Chitraka ([plumbagin](/glossary/compounds-o-q/#plumbagin)) enhances Agni and metabolism, reducing Kapha-[Meda](/herb/meda/) accumulation that underlies tumor and cyst formation
-- Bhallataka (Semecarpus anacardium) provides potent anti-tumor and [immunomodulatory](/reference/immunomodulatory/) action in classical cancer adjuvant use
-- Srotoshodhana (channel-clearing) action of combined herbs removes obstructions in body channels, preventing pathological accumulations
+- Bhallataka (Semecarpus anacardium) is traditionally used as an adjuvant in Arbuda (tumors)
+- Srotoshodhana (channel-clearing) action of combined herbs is classically described as removing obstructions in body channels
 - Ghee base delivers lipophilic active compounds to deep tissues ([Meda](/herb/meda/), Asthi dhatu) where tumors and lipomas reside
 
 ## Which traditional uses are supported by research?
@@ -70,7 +70,7 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## Recent safety updates
 
-- No adverse effects reported in medical literature at recommended doses; considered safe for most individuals including pregnant women per some traditional references
+- No adverse effects reported in medical literature at recommended doses
 - Bhallataka (marking nut) is a potent herb requiring proper Shodhana (purification); improperly processed formulations may cause skin irritation
 - Pharmacopoeia Commission for Indian Medicine references available from 1986 and 2004 publications for quality standards
 
@@ -89,7 +89,7 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 **Standard Dosage:** 12-24ml before meals
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is used as a lipid carrier for fat-soluble phytochemicals
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 

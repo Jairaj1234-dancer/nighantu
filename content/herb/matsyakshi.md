@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Matsyakshi (Alternanthera sessilis) is a plant drug, also called Bahli, Gandali and Gartkalambuka. Saponins undergo intestinal hydrolysis. Alkaloids (if present) have variable bioavailability depending on structural class. Aqueous decoction provides reasonable extraction of water-soluble actives."
+answer: "Matsyakshi (Alternanthera sessilis) is a plant drug, also called Bahli, Gandali and Gartkalambuka."
 botanical: "Alternanthera sessilis"
 family: "Amaranthaceae"
 sanskrit: ""
@@ -65,5 +65,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 - [Shatavari](/herb/shatavari/) (female reproductive health synergy)
 - [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) tonic combination)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) and [Rasayana](/reference/rasayana/))
-- [Punarnava](/herb/punarnava/) (renal and hepatic protective)
+- [Punarnava](/herb/punarnava/) (traditionally paired for renal and hepatic support)
 - [Bala](/herb/bala/) (strength and vitality)

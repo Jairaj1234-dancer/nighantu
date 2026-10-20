@@ -64,4 +64,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dadrughna/meta-analysis.md"
 - With [Karanja](/herb/karanja/) (Pongamia) oil for enhanced antifungal action
 - With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for anti-inflammatory and [antimicrobial](/reference/antimicrobial/) synergy
 - With [Nimba](/herb/nimba/) ([neem](/herb/neem/)) for broad-spectrum dermatological use
-- With [Chakramarda](/herb/chakramarda/) (Cassia tora) for ringworm treatment
+- With [Chakramarda](/herb/chakramarda/) (Cassia tora), traditionally used for ringworm

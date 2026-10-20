@@ -27,13 +27,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-G
 
 ## Where is it described in the classical texts?
 
-Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound management context); Madhava Nidana (14th century CE); Bhavaprakasha (16th century CE) - Vrana Ropana Chikitsa
+Chakradatta (12th century CE); Sushruta Samhita (wound management context); Madhava Nidana (14th century CE); Bhavaprakasha (16th century CE) - Vrana Ropana Chikitsa
 
 ## How does it work?
 
-- [Neem](/herb/neem/) ([nimbidin](/glossary/compounds-l-o/#nimbidin)) provides broad-spectrum antibacterial and antifungal action against wound-infecting pathogens including MRSA
+- [Neem](/herb/neem/) ([nimbidin](/glossary/compounds-l-o/#nimbidin)) has been reported to show antibacterial and antifungal activity against wound-infecting pathogens including MRSA
 - [Turmeric](/herb/turmeric/) ([curcumin](/herb/curcumin/)) inhibits inflammatory mediators (COX-2, NF-kB) and promotes tissue granulation and re-epithelialization
-- Jasmine extract provides anti-inflammatory and cooling properties that reduce wound edema and promote healing
+- Jasmine ([Jati](/herb/jati/)) is traditionally described as cooling and as supporting wound healing
 - Copper sulfate ([Tuttha](/glossary/concepts-m-y/#tuttha)) provides mild antiseptic and astringent action, promoting wound contraction
 - Beeswax (Siktha) creates protective barrier over wound surface while allowing gas exchange, maintaining moist healing environment
 - Ghee base provides lipid nutrition to wound bed, supporting cell membrane repair and tissue regeneration
@@ -56,9 +56,8 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## Recent safety updates
 
-- Clinical and experimental studies confirm safety for topical application on chronic wounds, burn wounds, and radiation-induced wounds
 - [Tuttha](/glossary/concepts-m-y/#tuttha) (copper sulfate) content requires careful quality control; excessive copper may cause local irritation in sensitive individuals
-- For external use primarily; internal consumption only under strict Ayurvedic practitioner guidance; not for deep puncture wounds without proper wound assessment
+- For external use only; not for deep puncture wounds without proper wound assessment
 
 ## What is it made of?
 

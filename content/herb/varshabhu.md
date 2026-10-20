@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 10-20 mL fresh juice daily
 
-**Bioavailability:** Trianthema portulacastrum alkaloids (trianthemine, punarnavine-like compounds) show moderate oral bioavailability (~25-35%). Ecdysteroids (if present) have moderate absorption with enteric metabolism. Flavonoids and phenolic acids undergo typical Phase II conjugation with low systemic bioavailability (<15%). The diuretic action is primarily through local renal tubular effects of absorbed alkaloids.
+**Bioavailability:** Trianthema portulacastrum alkaloids (trianthemine, punarnavine-like compounds) show moderate oral bioavailability (~25-35%). Ecdysteroids have moderate absorption with enteric metabolism. Flavonoids and phenolic acids undergo typical Phase II conjugation with low systemic bioavailability (<15%). The diuretic action is primarily through local renal tubular effects of absorbed alkaloids.
 
 **Optimal Timing:** Morning on empty stomach for diuretic effect; before meals for hepatoprotective action
 
@@ -95,5 +95,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 - [Punarnava](/herb/punarnava/) (Boerhavia diffusa) - synergistic diuretic and hepatoprotective action
 - [Gokshura](/herb/gokshura/) (Tribulus terrestris) - renal supportive combination
-- Pashanbheda (Bergenia ligulata) - litholytic (stone-dissolving) synergy
+- Pashanbheda (Bergenia ligulata) - traditionally combined for urinary support
 - [Varuna](/herb/varuna/) (Crataeva nurvala) - urinary tract support

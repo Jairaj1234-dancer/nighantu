@@ -168,13 +168,13 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 ## What do recent studies show?
 
 - Han S, Cao Y, Wu X and others 2024. [New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of clinical evidence and mechanisms](https://pubmed.ncbi.nlm.nih.gov/38424688/). *Phytotherapy research : PTR*. PMID [38424688](https://pubmed.ncbi.nlm.nih.gov/38424688/) · [doi:10.1002/ptr.8110](https://doi.org/10.1002/ptr.8110)  
-  Systematic review (through June 2023) assessing saffron's effects on cognition, depression, anxiety, sleep disorders, ADHD, and OCD, confirming broad neuropsychiatric therapeutic potential.
+  Systematic review (through June 2023) assessing saffron's effects on cognition, depression, anxiety, sleep disorders, ADHD, and OCD.
 - Dai L, Chen L, Wang W 2020. [Safety and Efficacy of Saffron (Crocus sativus L.) for Treating Mild to Moderate Depression: A Systematic Review and Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32221179/). *The Journal of nervous and mental disease*. PMID [32221179](https://pubmed.ncbi.nlm.nih.gov/32221179/) · [doi:10.1097/NMD.0000000000001118](https://doi.org/10.1097/NMD.0000000000001118)  
   Meta-analysis found large effect size (M ES = 1.62, P < 0.001) for saffron vs. placebo in treating depressive symptoms. Null effect size (M ES = -0.15) vs. antidepressants, indicating comparable efficacy.
 - Bathaei P, Imenshahidi M, Vahdati-Mashhadian N and others 2025. [Effects of Crocus sativus and its active constituents on cytochrome P450: a review](https://pubmed.ncbi.nlm.nih.gov/40167627/). *Naunyn-Schmiedeberg's archives of pharmacology*. PMID [40167627](https://pubmed.ncbi.nlm.nih.gov/40167627/) · [doi:10.1007/s00210-024-03525-6](https://doi.org/10.1007/s00210-024-03525-6)  
   Review cataloguing saffron and its constituents' (crocin, crocetin, safranal) effects on CYP [enzymes](/glossary/compounds-d-g/#enzymes), particularly CYP3A4 inhibition, with implications for drug interaction prediction.
 - Ziani A, Bekkouch O, Ouahhoud S and others 2025. [Phytochemistry, Biological Activities, Molecular Mechanisms, and Toxicity of Saffron (Crocus sativus L.): A Comprehensive Overview](https://pubmed.ncbi.nlm.nih.gov/41462633/). *Antioxidants (Basel, Switzerland)*. PMID [41462633](https://pubmed.ncbi.nlm.nih.gov/41462633/) · [doi:10.3390/antiox14121433](https://doi.org/10.3390/antiox14121433)  
-  Comprehensive overview confirming saffron's anti-inflammatory, antioxidant, neuroprotective, and [anticancer](/reference/anticancer/) properties with detailed toxicological profiling.
+  Comprehensive overview of saffron's reported anti-inflammatory, antioxidant, neuroprotective, and [anticancer](/reference/anticancer/) properties with detailed toxicological profiling.
 - Lu C, Ke L, Li J and others 2021. [Saffron (Crocus sativus L.) and health outcomes: a meta-research review of meta-analyses and an evidence mapping study](https://pubmed.ncbi.nlm.nih.gov/34419735/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [34419735](https://pubmed.ncbi.nlm.nih.gov/34419735/) · [doi:10.1016/j.phymed.2021.153699](https://doi.org/10.1016/j.phymed.2021.153699)  
   Meta-research review of meta-analyses mapping the full evidence landscape for saffron health outcomes across cardiovascular, metabolic, neurological, and other domains.
 
@@ -194,7 +194,7 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 
 ## Recommended Dosage
 
-Stigma: 20-30mg/day (up to 1.5g/day in research); With milk: 2-3 strands
+Stigma: 20-30mg/day (do not exceed 1.5g/day, the reported upper safety limit); With milk: 2-3 strands
 
 ## Safety, contraindications and cautions
 

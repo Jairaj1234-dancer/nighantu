@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shvet-Musli/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract twice daily; 5-10 g Musli Pak with warm milk
 
-**Bioavailability:** Saponin [glycosides](/glossary/compounds-g-l/#glycosides) (safed musli [saponins](/reference/saponins/)) have moderate oral bioavailability (20-30%), enhanced by milk and ghee co-administration (traditional Anupana). [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) ([galactomannan](/glossary/compounds-d-g/#galactomannan), [glucomannan](/glossary/compounds-d-g/#glucomannan), 30-40% of dry weight) act as prebiotics and have local GI effects rather than systemic absorption. Sapogenin aglycones are lipophilic and benefit from lipid-based formulations. Phytosome complexation improves saponin bioavailability by 2x.
+**Bioavailability:** Saponin [glycosides](/glossary/compounds-g-l/#glycosides) (safed musli [saponins](/reference/saponins/)) have oral bioavailability enhanced by milk and ghee co-administration (traditional Anupana). [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) ([galactomannan](/glossary/compounds-d-g/#galactomannan), [glucomannan](/glossary/compounds-d-g/#glucomannan), 30-40% of dry weight) act as prebiotics and have local GI effects rather than systemic absorption. Sapogenin aglycones are lipophilic and benefit from lipid-based formulations. Phytosome complexation improves saponin bioavailability by 2x.
 
 **Optimal Timing:** With warm milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) (reproductive tonic) action; morning dose with ghee for strength-building (Balya) applications
 

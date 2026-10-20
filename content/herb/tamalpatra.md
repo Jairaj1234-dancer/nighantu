@@ -63,6 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tamalpatra/meta-ana
 ### Synergistic Combinations
 
 - Ela (Elettaria cardamomum) - carminative synergy
-- [Tejapatra](/herb/tejapatra/) - closely related species, overlapping volatile profiles
 - [Dalchini](/herb/twak-cinnamon/) (Cinnamomum verum) - enhanced glycemic support
 - Shunthi ([ginger](/herb/ginger/)) - digestive stimulant synergy

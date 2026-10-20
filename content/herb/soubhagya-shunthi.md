@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Soubhagya Shunthi is a compound formulation of several ingredients. 6-Shogaol (formed during drying of fresh ginger) is more bioavailable than 6-gingerol. The compound formulation 'Soubhagya Shunthi' includes multiple ingredients that provide mutual bioenhancement."
+answer: "Soubhagya Shunthi is a compound formulation of several ingredients. 6-Shogaol (formed during drying of fresh ginger) is more bioavailable than 6-gingerol."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Soubhagya-Shunthi/meta-analys
 
 **Standard Dosage:** 1-3 g compound powder twice daily with warm water or milk; 500 mg tablet/capsule twice daily after meals; specific dosing per classical text formulation
 
-**Bioavailability:** Gingerols and shogaols (from Shunthi/[ginger](/herb/ginger/) base) show good oral bioavailability (35-55%). 6-Shogaol (formed during drying of fresh ginger) is more bioavailable than 6-[gingerol](/glossary/compounds-d-g/#gingerol). The compound formulation '[Soubhagya Shunthi](/herb/soubhagya-shunthi/)' includes multiple ingredients that provide mutual bioenhancement. [Piperine](/reference/piperine/) (if included) enhances absorption of other components by 1.5-3x via P-glycoprotein and CYP3A4 inhibition.
+**Bioavailability:** Gingerols and shogaols (from Shunthi/[ginger](/herb/ginger/) base) are absorbed orally. 6-Shogaol (formed during drying of fresh ginger) is more bioavailable than 6-[gingerol](/glossary/compounds-d-g/#gingerol). [Piperine](/reference/piperine/) (if included) enhances absorption of other components by 1.5-3x via P-glycoprotein and CYP3A4 inhibition.
 
-**Optimal Timing:** Before meals for [antiemetic](/glossary/pharmacology/#antiemetic) action; with warm milk after meals for postpartum nourishment; as directed by Ayurvedic practitioner for pregnancy support
+**Optimal Timing:** Before meals for [antiemetic](/glossary/pharmacology/#antiemetic) action; with warm milk after meals for postpartum nourishment; as directed by Ayurvedic practitioner for postpartum care
 
 **Standardized Extract:** Compound churna standardized to NLT 1.5% total gingerols + shogaols (as 6-gingerol equivalents by HPLC); individual ingredient identification by HPTLC fingerprint
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Soubhagya-Shunthi/meta-analys
 
 ### Synergistic Combinations
 
-- This IS a synergistic compound formulation, Shunthi (ginger) is the base combined with specific adjuncts for Soubhagya (auspiciousness/well-being during pregnancy)
+- This IS a synergistic compound formulation, Shunthi (ginger) is the base combined with specific adjuncts for Soubhagya (auspiciousness/well-being in the postpartum period)
 - Pippali (digestive and bioenhancer synergy)
 - Nagakeshara (antiemetic-[hemostatic](/glossary/pharmacology/#hemostatic) combination)
 - Ela (carminative and flavor enhancement)

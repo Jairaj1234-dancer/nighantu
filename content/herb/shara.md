@@ -62,6 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Shara/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Kusha](/herb/kusha/) (similar grass-type herbs in Trina Panchamula)
-- Darbha (five grasses combination for urinary disorders)
+- Darbha (grass of the Trina Panchamula group)
 - [Gokshura](/herb/gokshura/) ([diuretic](/reference/diuretic/) and litholytic synergy)
 - [Varuna](/herb/varuna/) (urinary calculus formulations)

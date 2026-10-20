@@ -23,11 +23,11 @@ Equipment for Udvartana therapy involving vigorous upward-stroke dry powder mass
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Ashtanga Hridaya Sutrasthana Chapter 2. Charaka describes Udvartana as one of the daily health practices that imparts firmness to limbs, dissolves fat, and gives skin a healthy glow.
+Charaka Samhita Sutrasthana Chapter 5 (Matrashitiya Adhyaya); Ashtanga Hridaya Sutrasthana Chapter 2. Charaka describes Udvartana as one of the daily health practices that imparts firmness to limbs, dissolves fat, and gives skin a healthy glow.
 
 ## How is it used traditionally?
 
-Obesity management (Sthaulya), Kapha disorders, cellulite, lymphatic drainage, skin exfoliation, improving skin complexion, and strengthening body tissues.
+Traditionally used in obesity (Sthaulya) and Kapha disorders, and for skin exfoliation, improving skin complexion, and strengthening body tissues.
 
 ## Traditional materials
 

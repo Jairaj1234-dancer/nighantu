@@ -31,10 +31,10 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## How does it work?
 
-- Smilax china (steroidal [saponins](/reference/saponins/), [flavonoids](/reference/flavonoids/)) provides anti-syphilitic and anti-inflammatory action through immune modulation and pathogen suppression
+- Smilax china (steroidal [saponins](/reference/saponins/), [flavonoids](/reference/flavonoids/)) has been reported to show antimicrobial activity and is traditionally used for Phiranga Roga (syphilis)
 - Shuddha [Gandhaka](/glossary/concepts-a-m/#gandhaka) (purified sulfur) provides [antimicrobial](/reference/antimicrobial/) and blood-purifying action, traditionally specific for venereal and skin diseases
 - [Guggulu](/formulation/guggulu/) (guggulsterones) provides anti-inflammatory, [hypolipidemic](/glossary/pharmacology/#hypolipidemic), and tissue-regenerating action for chronic skin conditions
-- 32-ingredient synergy corrects all seven Dhatus (tissue elements), providing comprehensive blood purification and tissue renewal
+- Traditionally held to act on all seven Dhatus (tissue elements) and to purify the blood and renew tissues
 - [Trikatu](/herb/trikatu/) enhances bioavailability of all active compounds through digestive stimulation and hepatic enzyme modulation
 
 ## Which traditional uses are supported by research?
@@ -52,7 +52,6 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## Recent safety updates
 
-- No known side effects when taken in prescribed dosage; considered safe for chronic skin disease management
 - Higher doses may cause stomach irritation; strictly use under medical supervision
 - Extra precaution required for pregnant and lactating mothers and children; contains [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) which requires proper Shodhana (purification)
 

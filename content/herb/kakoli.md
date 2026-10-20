@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 ## Recent safety updates
 
-- Traditionally used safely as part of Ashtavarga in [Chyawanprash](/formulation/chyawanprash/) and other rejuvenating formulations; no documented adverse effects at Ayurvedic therapeutic doses
+- Traditionally used as part of Ashtavarga in [Chyawanprash](/formulation/chyawanprash/) and other rejuvenating formulations; safety data for authentic material are not established
 - Critically endangered Himalayan species; authentication challenges and frequent substitution with other species pose safety and efficacy concerns in commercial products
 
 ## Dosage forms and preparation
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 **Standard Dosage:** 3-6g tuber powder twice daily; 50-100ml decoction; as component of Chyawanprash
 
-**Bioavailability:** Roscoea procera (syn. Fritillaria roylei per some references) - one of the Ashtavarga group. Contains mucilaginous polysaccharides, steroidal [saponins](/reference/saponins/), and [glycosides](/glossary/compounds-g-l/#glycosides). [Mucilage](/glossary/compounds-l-o/#mucilage) acts locally as demulcent. Steroidal saponins may be hydrolyzed by gut bacteria to absorbable sapogenins. Very limited modern pharmacokinetic data due to extreme rarity of authentic material.
+**Bioavailability:** Roscoea purpurea (also identified by some references with Fritillaria roylei) - one of the Ashtavarga group. Contains mucilaginous polysaccharides, steroidal [saponins](/reference/saponins/), and [glycosides](/glossary/compounds-g-l/#glycosides). [Mucilage](/glossary/compounds-l-o/#mucilage) acts locally as demulcent. Steroidal saponins may be hydrolyzed by gut bacteria to absorbable sapogenins. Very limited modern pharmacokinetic data due to extreme rarity of authentic material.
 
 **Optimal Timing:** With warm milk or ghee as Rasayana tonic; as part of Chyawanprash formulation
 

@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 - NF-kB inhibition: Plumbagin suppresses NF-kB-regulated transcription of pro-inflammatory cytokines (IFN-gamma, IL-6, iNOS).
 - Digestive fire enhancement (Deepana-Pachana): Stimulates gastric secretion and enhances digestive enzyme activity through pungent and hot potency.
-- [Anticancer](/reference/anticancer/) activity: Anti-proliferative, chemopreventive, radiosensitizing, anti-angiogenic, and anti-metastatic actions via multiple signaling pathways.
+- [Anticancer](/reference/anticancer/) activity: Preclinical studies of plumbagin have reported anti-proliferative, chemopreventive, radiosensitizing, anti-angiogenic, and anti-metastatic activity via multiple signaling pathways.
 - [Antioxidant](/reference/antioxidant/) mechanism: Generates phenoxyl radicals upon reaction with hydroxyl, alkyl peroxyl, and glutathiyl radicals, scavenging reactive oxygen species.
 - [Antimicrobial](/reference/antimicrobial/) action: Disrupts microbial cell membranes and inhibits essential [enzymes](/glossary/compounds-d-g/#enzymes) in pathogenic organisms.
 
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 - Plumbagin is toxic at high doses: causes cytotoxicity, organ toxicity, oxidative stress, and genotoxicity. Clinical use limited by narrow therapeutic window.
 - Contraindicated in peptic ulcer disease and ulcerative colitis due to strong Ushna Virya (hot potency). Overuse causes GI irritation, heartburn, and burning sensation.
-- Negligible interaction with CYP450 isozymes in polyherbal formulations (Trimada study), suggesting safety in combination preparations at therapeutic doses.
+- One study of the Trimada formulation reported negligible interaction with CYP450 isozymes.
 
 ## What is it made of?
 
@@ -91,11 +91,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 **Standard Dosage:** 1-3g root powder twice daily; 250-500mg extract capsule; 50-100ml decoction. CAUTION: Potent herb, do not exceed recommended dose. Contraindicated in pregnancy.
 
-**Bioavailability:** Plumbagin shows good oral bioavailability (40-55%) with rapid absorption (Tmax 0.5-1h). Highly lipophilic (logP ~3.0), lipid vehicles significantly enhance absorption. Plumbagin undergoes hepatic metabolism via CYP1A2 and CYP3A4. Narrow therapeutic index: precise dosing critical. Milk and ghee vehicles reduce GI irritation while maintaining absorption. Self-emulsifying formulations can improve bioavailability by 2-3x.
+**Bioavailability:** Plumbagin shows rapid absorption (Tmax 0.5-1h). Highly lipophilic (logP ~3.0), lipid vehicles significantly enhance absorption. Plumbagin undergoes hepatic metabolism via CYP1A2 and CYP3A4. Narrow therapeutic index: precise dosing critical. Milk and ghee vehicles reduce GI irritation while maintaining absorption. Self-emulsifying formulations can improve bioavailability by 2-3x.
 
 **Optimal Timing:** Before meals with warm water or buttermilk for digestive stimulation; with ghee or milk to reduce GI irritation; not at bedtime
 
-**Standardized Extract:** Root extract standardized to plumbagin NLT 1.5% (lower concentrations for safety); total naphthoquinones NLT 2%. Aqueous extract 5:1 for milder preparations.
+**Standardized Extract:** Root extract standardized to plumbagin NLT 1.5%; total naphthoquinones NLT 2%. Aqueous extract 5:1 for milder preparations.
 
 **Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 

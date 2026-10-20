@@ -58,6 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 ### Synergistic Combinations
 
 - With fenugreek seeds for comprehensive metabolic support
-- With [Gudmar](/herb/gudmar/) (Gymnema) for anti-diabetic synergy
+- Traditionally combined with [Gudmar](/herb/gudmar/) (Gymnema) to support healthy glucose metabolism
 - With [Tulsi](/herb/tulsi/) for immune-metabolic combination
 - With Curry leaves for iron-rich nutritive formulation

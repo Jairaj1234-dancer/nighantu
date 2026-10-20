@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 - Antiulcer activity via flavonoid-mediated (hesperidin, naringin) enhancement of gastric mucosal defense and inhibition of acid secretion
 - [Antidiabetic](/reference/antidiabetic/) action through alpha-amylase and alpha-glucosidase inhibition by polyphenolic compounds in peel and seed
 - [Antimicrobial](/reference/antimicrobial/) activity through essential oil [terpenoids](/glossary/compounds-t-z/#terpenoids) (limonene, citral) disrupting microbial membrane permeability
-- Anticholinesterase activity of peel compounds suggesting potential in neurodegenerative disease management
+- Peel compounds have shown anticholinesterase activity in laboratory studies
 
 ## Which traditional uses are supported by research?
 
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 **Bioavailability:** Citrus flavanones (hesperidin, [naringenin](/glossary/compounds-l-o/#naringenin)) show moderate oral bioavailability (15-30%). Flavanone [glycosides](/glossary/compounds-g-l/#glycosides) require gut microbial deglycosylation for absorption. Limonene from peel oil is rapidly absorbed (>90%). Vitamin C is well absorbed at typical doses. Administration with lipids enhances absorption of flavonoids. Honey vehicle (traditional Anupana) provides [fructose](/glossary/compounds-d-g/#fructose) that may enhance flavonoid absorption.
 
-**Optimal Timing:** With meals or after meals for digestive support; fresh juice in the morning for metabolic health; peel powder with honey for respiratory conditions
+**Optimal Timing:** With meals or after meals for digestive support; fresh juice in the morning; peel powder traditionally taken with honey in respiratory formulations
 
 **Standardized Extract:** Peel extract standardized to hesperidin NLT 5%; limonene NLT 60% in essential oil. Juice standardized to [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) content and vitamin C.
 

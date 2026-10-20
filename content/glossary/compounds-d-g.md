@@ -69,7 +69,7 @@ answer: "Phytochemical compounds (D-G) is a reference glossary of 73 entries dra
 - [Medasaka](/herb/medasaka/)
 - [Methi](/herb/methi/)
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
+- [Rishabhaka](/herb/rishabhaka/)
 - [Shvet Musli](/herb/shvet-musli/)
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 - [Talamuli](/herb/talamuli/)

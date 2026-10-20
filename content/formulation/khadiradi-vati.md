@@ -34,8 +34,8 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 - Oral antiseptic action: [Khadira](/herb/khadira/) bark rich in [catechins](/glossary/compounds-c-d/#catechins) ([flavonoids](/reference/flavonoids/), [catechin](/reference/catechin/), catechuic acid, pyrocatechin, [quercetin](/reference/quercetinquercetin/)) provides astringent and [antimicrobial](/reference/antimicrobial/) action against oral pathogens including Streptococcus mutans
 - Anti-inflammatory mucosal healing: [Yashtimadhu](/herb/yashtimadhu/) ([glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)) soothes inflamed oral and pharyngeal mucosa with cooling Virya (Madhura Rasa), while [Kankola](/herb/kankola/) and [Lavanga](/herb/lavanga/) reduce local inflammation
 - Bioavailability enhancement: [Pippali](/herb/pippali/) ([piperine](/reference/piperine/)) boosts bioavailability of active compounds and warms channels through Ushna Virya, clearing stagnation in respiratory and oral Srotas
-- Astringent tissue tonification: [Khadira](/herb/khadira/)'s Kashaya Rasa (astringent taste) tightens gum tissue, reduces bleeding, and strengthens oral mucosal integrity
-- Antimicrobial and deodorant: [Camphor](/herb/camphor/) (Kapoor) and [Lavanga](/herb/lavanga/) ([eugenol](/glossary/compounds-d-g/#eugenol)) provide broad-spectrum antimicrobial action and natural deodorant effect for halitosis management
+- Astringent tissue tonification: [Khadira](/herb/khadira/)'s Kashaya Rasa (astringent taste) is classically described as tightening gum tissue and supporting oral mucosal health
+- Antimicrobial and deodorant: [Camphor](/herb/camphor/) (Kapoor) and [Lavanga](/herb/lavanga/) ([eugenol](/glossary/compounds-d-g/#eugenol)) are traditionally used as antimicrobial and deodorant agents for halitosis
 
 ## Which traditional uses are supported by research?
 
@@ -52,7 +52,7 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## Recent safety updates
 
-- Generally safe for oral use as a lozenge/dissolvable tablet; contains [Gairika](/glossary/concepts-a-m/#gairika) (red ochre mineral) which is safe in traditional doses; avoid swallowing large quantities; not recommended for children under 5 years
+- Generally safe for oral use as a lozenge/dissolvable tablet; contains [Gairika](/glossary/concepts-a-m/#gairika) (red ochre mineral); avoid swallowing large quantities; not recommended for children under 5 years
 - [Camphor](/herb/camphor/) component contraindicated in very young children (risk of seizures); avoid in known allergy to any ingredient; long-term continuous use may cause oral dryness due to astringent action; pregnancy and lactation - use under guidance
 
 ## Dosage forms and preparation
@@ -73,7 +73,7 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Quality Parameters:** Weight variation (±5%), hardness (moderate for buccal use), dissolution time (5-15 min buccal), moisture (<6%), catechin content from [Khadira](/herb/khadira/) by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits (oral product), heavy metals
 
-**Vehicle (Anupana):** Not applicable, sucked directly in mouth. Do not chew or swallow whole.
+**Vehicle (Anupana):** Honey, per the formulary; tablets are sucked slowly in the mouth. Do not chew or swallow whole.
 
 ### Synergistic Combinations
 

@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 ## Recent safety updates
 
 - Juice of the plant acts as a purgative in higher doses; recommended to use under practitioner guidance for internal administration
-- Limited formal toxicological studies; traditional use suggests safety at recommended doses; not recommended during pregnancy due to potential uterine effects
+- Limited formal toxicological studies; safety at traditional doses has not been formally established; not recommended during pregnancy due to potential uterine effects
 
 ## Dosage forms and preparation
 
@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 2-5g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data. This herb (Ipomoea reniformis / Merremia emarginata) contains glycosides and flavonoids with moderate oral bioavailability. Fresh juice preparation retains more bioactive compounds. Traditional anupana with honey or warm water is recommended for improved absorption.
+**Bioavailability:** Limited modern pharmacokinetic data. This herb (Ipomoea reniformis / Merremia emarginata) contains glycosides and flavonoids; their oral bioavailability has not been established. Fresh juice preparation retains more bioactive compounds. Traditional anupana with honey or warm water is recommended for improved absorption.
 
 **Optimal Timing:** Early morning on empty stomach with honey for Medhya ([nootropic](/glossary/pharmacology/#nootropic)) action; before meals for digestive complaints
 

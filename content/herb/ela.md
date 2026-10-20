@@ -11,7 +11,7 @@ botanical: "Elettaria cardamomum"
 family: "Zingiberaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) and referenced in traditional Ayurveda, Unani, and Siddha medicine systems. Historical use documented since 4th century BCE. Not currently listed as a standalone WHO monograph; recognized by Indian pharmacopoeia standards for digestive, anti-inflammatory, and antimicrobial properties."
+whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) and referenced in traditional Ayurveda, Unani, and Siddha medicine systems. Historical use documented since 4th century BCE. Not currently listed as a standalone WHO monograph."
 aliases: ["Ela", "Elettaria cardamomum", "Cardamom", "Green Cardamom", "Elaichi", "Sukshma Ela"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 - Traditionally used as a digestive aid for nausea, flatulence, and indigestion. Pharmacological studies have reported carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) effects.
 - Traditionally used for asthma and bronchitis. Studies have reported bronchodilatory effects of 1,8-cineole (eucalyptol).
-- Traditionally used for teeth and gum infections. Randomized clinical trials have reported antibacterial and anti-inflammatory activity against periodontal pathogens.
+- Traditionally used for teeth and gum infections. Studies have reported antibacterial and anti-inflammatory activity against periodontal pathogens.
 - Blood pressure: a meta-analysis of randomized clinical trials reported reductions in systolic and diastolic blood pressure.
 - Metabolic disorders: randomized clinical trials have reported reductions in TNF-alpha, hs-CRP, and IL-6.
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 - Heydarian A, Tahvilian N, Shahinfar H and others 2024. [Effect of cardamom consumption on inflammation and blood pressure in adults: A systematic review and meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/38268891/). *Food science & nutrition*. PMID [38268891](https://pubmed.ncbi.nlm.nih.gov/38268891/) · [doi:10.1002/fsn3.3738](https://doi.org/10.1002/fsn3.3738)  
   Meta-analysis of 8 RCTs (595 patients) showed cardamom supplementation significantly reduces inflammatory markers (TNF-alpha, hs-CRP, IL-6) and blood pressure (both systolic and diastolic) in patients with metabolic syndrome and related disorders.
 - Yahyazadeh R, Ghasemzadeh Rahbardar M, Razavi BM and others 2021. [The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review](https://pubmed.ncbi.nlm.nih.gov/35317114/). *Iranian journal of basic medical sciences*. PMID [35317114](https://pubmed.ncbi.nlm.nih.gov/35317114/) · [doi:10.22038/IJBMS.2021.54417.12228](https://doi.org/10.22038/IJBMS.2021.54417.12228)  
-  Confirmed lipid-modifying, antihypertensive, anti-inflammatory, antioxidant, and antithrombotic properties of green cardamom attributed to polyphenol compounds, with therapeutic potential for metabolic syndrome.
+  Summarised reported lipid-modifying, antihypertensive, anti-inflammatory, antioxidant, and antithrombotic properties of green cardamom attributed to polyphenol compounds, with therapeutic potential for metabolic syndrome.
 - Kazemi S, Yaghooblou F, Siassi F and others 2017. [Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: a randomized double-blind clinical trial](https://pubmed.ncbi.nlm.nih.gov/28480505/). *Journal of the science of food and agriculture*. PMID [28480505](https://pubmed.ncbi.nlm.nih.gov/28480505/) · [doi:10.1002/jsfa.8414](https://doi.org/10.1002/jsfa.8414)  
   Double-blind RCT in 80 pre-diabetic women showed 3 g/day cardamom for 8 weeks significantly improved inflammatory markers and oxidative stress biomarkers compared to placebo.
 - Souissi M, Azelmat J, Chaieb K and others 2020. [Antibacterial and anti-inflammatory activities of cardamom (Elettaria cardamomum) extracts: Potential therapeutic benefits for periodontal infections](https://pubmed.ncbi.nlm.nih.gov/31430531/). *Anaerobe*. PMID [31430531](https://pubmed.ncbi.nlm.nih.gov/31430531/) · [doi:10.1016/j.anaerobe.2019.102089](https://doi.org/10.1016/j.anaerobe.2019.102089)  

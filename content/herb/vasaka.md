@@ -66,5 +66,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasaka/meta-analysis.md"
 - [Tulsi](/herb/tulsi/) - respiratory support combination
 - Mulethi/[Yashtimadhu](/herb/yashtimadhu/) - demulcent and [expectorant](/reference/expectorant/) synergy
 - [Pippali](/herb/pippali/) + [Madhu](/herb/madhu/) (honey) - traditional respiratory formulation
-- [Kantakari](/herb/kantakari/) + Vasaka - bronchospasm management
+- [Kantakari](/herb/kantakari/) + Vasaka - traditional respiratory combination
 - [Shirisha](/herb/shirisha/) (Albizia lebbeck) - anti-allergic respiratory combination

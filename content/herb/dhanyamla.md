@@ -37,10 +37,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 ## How does it work?
 
-- Anti-inflammatory action through organic acid-mediated modulation of local tissue pH and reduction of inflammatory mediators in musculoskeletal disorders
+- Proposed (unverified) anti-inflammatory action through organic acid-mediated modulation of local tissue pH, in its traditional use for musculoskeletal disorders
 - Lekhana (scraping/fat-reducing) effect through fermentation-derived bioactive compounds enhancing lipid metabolism
 - Digestive stimulation (Deepana-Pachana) through enhancement of appetite and digestive enzyme activity via probiotic microflora and organic acids
-- [Analgesic](/reference/analgesic/) effect in Dhara therapy through transdermal absorption of anti-inflammatory compounds and thermal vasodilation
+- Proposed (unverified): [Analgesic](/reference/analgesic/) effect in Dhara therapy through transdermal absorption of anti-inflammatory compounds and thermal vasodilation
 
 ## Which traditional uses are supported by research?
 

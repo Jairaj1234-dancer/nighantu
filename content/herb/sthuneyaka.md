@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Sthuneyaka (Taxus baccata) is a plant drug, from the Taxaceae family. Estimated moderate bioavailability (20-35%) based on phytochemical class. Lipophilic terpenoid constituents benefit from oil-based (taila) or milk-based administration. Traditional prescribing with specific Anupana (vehicle) likely optimizes bioavailability."
+answer: "Sthuneyaka (Taxus baccata) is a plant drug, from the Taxaceae family. Estimated moderate bioavailability based on phytochemical class. Lipophilic terpenoid constituents benefit from oil-based (taila) or milk-based administration. Traditional prescribing with specific Anupana (vehicle) likely optimizes bioavailability."
 botanical: "Taxus baccata"
 family: "Taxaceae"
 sanskrit: ""
@@ -38,9 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, Taila (medicated oil)
 
-**Standard Dosage:** 3-5 g powder per day; 50-100 mL kwatha twice daily; 500-1000 mg capsule twice daily
-
-**Bioavailability:** Limited pharmacokinetic data. Estimated moderate bioavailability (20-35%) based on phytochemical class. Lipophilic terpenoid constituents benefit from oil-based (taila) or milk-based administration. Traditional prescribing with specific Anupana (vehicle) likely optimizes bioavailability.
+**Bioavailability:** Limited pharmacokinetic data. Estimated moderate bioavailability based on phytochemical class. Lipophilic terpenoid constituents benefit from oil-based (taila) or milk-based administration. Traditional prescribing with specific Anupana (vehicle) likely optimizes bioavailability.
 
 **Optimal Timing:** After meals with warm water or milk; taila for external application as needed
 
@@ -50,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
-**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Total [alkaloids](/glossary/compounds-1-a/#alkaloids) (if present), Total flavonoids
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Total [alkaloids](/glossary/compounds-1-a/#alkaloids), Total flavonoids
 
 ### Extraction Methods
 

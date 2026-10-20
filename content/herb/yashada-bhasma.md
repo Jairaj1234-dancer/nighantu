@@ -34,11 +34,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 ## How does it work?
 
-- Anti-diabetic action through improvement of [glucose](/glossary/compounds-d-g/#glucose) tolerance, reduction of blood glucose levels, and modulation of insulin secretion via zinc-mediated enhancement of insulin receptor sensitivity
+- Animal studies report improved [glucose](/glossary/compounds-d-g/#glucose) tolerance, lower blood glucose levels, and modulation of insulin secretion, proposed to act via zinc-mediated enhancement of insulin receptor sensitivity
 - [Antioxidant](/reference/antioxidant/) activity through zinc-dependent superoxide dismutase (SOD) activation and ROS scavenging, protecting cells from oxidative stress damage
 - [Antimicrobial](/reference/antimicrobial/) effect via ZnO nanoparticle-mediated disruption of bacterial cell membranes and generation of reactive oxygen species toxic to microorganisms
 - Wound healing promotion through zinc-dependent collagen synthesis, cell proliferation stimulation, and immune cell recruitment to injury sites
-- Anti-angiogenic activity through modulation of vascular endothelial growth factor (VEGF) pathways, relevant for tumor suppression applications
+- Anti-angiogenic activity through modulation of vascular endothelial growth factor (VEGF) pathways
 
 ## Which traditional uses are supported by research?
 
@@ -57,14 +57,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 - Balkrishna A, Sharma D, Sharma RK and others 2023. [Investigating the Role of Classical Ayurveda-Based Incineration Process on the Synthesis of Zinc Oxide Based Jasada Bhasma Nanoparticles and Zn(2+) Bioavailability](https://pubmed.ncbi.nlm.nih.gov/36713743/). *ACS omega*. PMID [36713743](https://pubmed.ncbi.nlm.nih.gov/36713743/) · [doi:10.1021/acsomega.2c05391](https://doi.org/10.1021/acsomega.2c05391)  
   Classical calcination process produces nano ZnO particles with enhanced Zn2+ bioavailability compared to commercial zinc supplements. The Ayurvedic process creates unique surface chemistry favoring absorption.
 - Chavare A, Chowdari P, Ghosh S and others 2017. [Safety and bioactivity studies of Jasad Bhasma and its in-process intermediate in Swiss mice](https://pubmed.ncbi.nlm.nih.gov/27377339/). *Journal of ethnopharmacology*. PMID [27377339](https://pubmed.ncbi.nlm.nih.gov/27377339/) · [doi:10.1016/j.jep.2016.06.048](https://doi.org/10.1016/j.jep.2016.06.048)  
-  No major cytotoxicity at tested dose levels. No behavioral abnormality, clinical signs, or mortality. SGOT, SGPT, and serum urea not significantly altered, indicating no major organ toxicity. Zinc Bhasma appears safe for human use.
+  No major cytotoxicity at tested dose levels. No behavioral abnormality, clinical signs, or mortality. SGOT, SGPT, and serum urea not significantly altered, indicating no major organ toxicity. No major toxicity was observed in mice at the doses tested.
 
 ## Recent safety updates
 
-- SAFE PROFILE: No major organ toxicity at therapeutic doses. Liver and kidney function markers (SGOT, SGPT, serum urea) remained within normal limits in animal studies.
+- No major organ toxicity at tested doses in a mouse study. Liver and kidney function markers (SGOT, SGPT, serum urea) remained within normal limits in animal studies.
 - WELL-TOLERATED: No behavioral abnormalities, clinical signs, or mortality observed at tested dose levels in Swiss mice
 - ZINC TOXICITY THRESHOLD: Zinc has established upper intake limits (40 mg/day for adults per NIH). Excessive zinc can cause copper deficiency, nausea, and immune dysfunction.
-- ENHANCED BIOAVAILABILITY: Classical preparation method creates ZnO nanoparticles with enhanced bioavailability, meaning lower doses may achieve therapeutic effect compared to conventional zinc supplements
+- ENHANCED BIOAVAILABILITY: Classical preparation method creates ZnO nanoparticles with enhanced bioavailability
 
 ## What is it made of?
 

@@ -45,10 +45,10 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 ## How does it work?
 
 - [Vidari](/herb/vidari/) ([isoflavones](/glossary/compounds-g-l/#isoflavones)) provides anabolic and tissue-building action, supporting recovery from debility and emaciation
-- Dashamula group reduces systemic inflammation and soothes respiratory mucosa, addressing chronic bronchitis and asthma
+- Dashamula group is traditionally used in respiratory conditions such as chronic bronchitis and asthma
 - [Shatavari](/herb/shatavari/) and [Jivanti](/herb/jivanti/) provide [adaptogenic](/reference/adaptogenic/) and Ojas-building properties, enhancing vital energy and stamina
 - Ghee and milk base enhances bioavailability of fat-soluble nutrients and provides direct caloric nourishment in wasting conditions
-- Vata-Pitta shamana (pacification) addresses root cause of respiratory and debility conditions in Ayurvedic pathogenesis
+- Vata-Pitta shamana (pacification) is the classical rationale for its use in respiratory and debility conditions
 
 ## Which traditional uses are supported by research?
 
@@ -67,7 +67,7 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 ## Recent safety updates
 
-- No adverse effects reported in medical literature at recommended doses; considered safe for long-term use under practitioner supervision
+- No adverse effects reported in medical literature at recommended doses; use under practitioner supervision
 - Very high doses may cause diarrhea and indigestion; ghee content requires caution in hyperlipidemic patients
 - Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy publications for quality standardization
 
@@ -86,7 +86,7 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 **Standard Dosage:** 12-24ml with milk for strength/nutrition
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is regarded as a lipid carrier that may aid absorption of fat-soluble phytochemicals
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
@@ -94,12 +94,12 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** [Puerarin](/glossary/compounds-o-q/#puerarin), Shatavarin, [Withanolides](/glossary/compounds-t-z/#withanolides)
+**Marker Compounds:** [Puerarin](/glossary/compounds-o-q/#puerarin), Shatavarin
 
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Puerarin, Shatavarin, Withanolides
+**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Puerarin, Shatavarin
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidari](/herb/vidari/) (Pueraria tuberosa), [Shatavari](/herb/shatavari/), [Ashwagandha](/herb/ashwagandha/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: [Vidari](/herb/vidari/) (Pueraria tuberosa), [Shatavari](/herb/shatavari/); ghee enhances tissue penetration (yogavahi property)

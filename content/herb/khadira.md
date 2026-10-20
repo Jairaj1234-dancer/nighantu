@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 ## How does it work?
 
 - Catechin-mediated [antioxidant](/reference/antioxidant/) defense: Catechin and epicatechin scavenge superoxide and hydroxyl radicals, inhibit lipid peroxidation in skin cell membranes, and upregulate endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes)
-- Cytotoxic T-cell immunomodulation: Acacia catechu regulates cytotoxic T-cell activity, suppressing overactive immune responses implicated in psoriasis and autoimmune dermatitis
-- Tannin astringent wound healing: Condensed tannins precipitate [proteins](/glossary/compounds-o-q/#proteins) on wound surfaces forming a protective layer, reduce wound exudation, and promote faster healing through vasoconstriction of superficial blood vessels
-- Blood purification (Rakta Shodhaka) mechanism: [Polyphenols](/glossary/compounds-o-q/#polyphenols) promote hepatic detoxification pathways and reduce circulating inflammatory mediators that manifest as skin eruptions
+- Cytotoxic T-cell immunomodulation: research has reported immunomodulatory effects of Acacia catechu on cytotoxic T-cell activity
+- Tannin astringent wound healing: Condensed tannins precipitate [proteins](/glossary/compounds-o-q/#proteins) on wound surfaces forming a protective layer and reduce wound exudation
+- Blood purification (Rakta Shodhaka): a classical concept. A proposed, unsourced mechanism is that [polyphenols](/glossary/compounds-o-q/#polyphenols) promote hepatic detoxification pathways and reduce circulating inflammatory mediators that manifest as skin eruptions
 
 ## Which traditional uses are supported by research?
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally well-tolerated in traditional dose ranges (3-6 g powder daily); no significant adverse effects reported in Ayurvedic clinical studies. High tannin content may cause gastrointestinal discomfort in excessive doses
+- Generally well-tolerated in traditional dose ranges (3-6 g powder daily). High tannin content may cause gastrointestinal discomfort in excessive doses
 - Khadirarishta (fermented formulation) contains self-generated alcohol (5-10%); not recommended for patients with alcohol sensitivity or liver conditions. Standardization of catechin content varies across commercial preparations
 
 ## What is it made of?

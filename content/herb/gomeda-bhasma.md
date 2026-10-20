@@ -35,12 +35,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 ## How does it work?
 
-- [Neuroprotective](/reference/neuroprotective/) action through mineral-mediated modulation of neuronal excitability and neurotransmitter balance, supporting management of epilepsy and insomnia
-- [Cardioprotective](/reference/cardioprotective/) effect through regulation of cardiac conduction pathways and anti-arrhythmic properties, particularly useful for tachycardia and palpitation
+- [Neuroprotective](/reference/neuroprotective/) action through mineral-mediated modulation of neuronal excitability and neurotransmitter balance; traditionally used for epilepsy and insomnia
+- [Cardioprotective](/reference/cardioprotective/) effect through regulation of cardiac conduction pathways; traditionally used for tachycardia and palpitation
 - [Anxiolytic](/reference/anxiolytic/) and sedative action through CNS-modulating mineral constituents, promoting mental calm and stress reduction
 - Tridosha balancing through multi-mineral silicate composition providing trace elements needed for systemic homeostasis
 
-## Which traditional uses are supported by research?
+## Which traditional uses are recorded?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 ## Recent safety updates
 
-- NO ABSOLUTE CONTRAINDICATIONS: Gomed Stone Bhasma has no reported absolute contraindications per Ayurvedic literature
+- CONTRAINDICATIONS: No absolute contraindications are recorded in classical Ayurvedic literature; modern safety data are limited (see below)
 - LIMITED MODERN SAFETY DATA: Rigorous toxicological studies specifically on [Gomeda Bhasma](/herb/gomeda-bhasma/) are scarce. Most safety evidence is traditional/empirical.
 - ALUMINIUM CONTENT: Contains aluminium oxide; chronic aluminium exposure concerns apply, particularly for renal-compromised patients
 - PRACTITIONER SUPERVISION: Must be used only under guidance of qualified Ayurvedic practitioner due to limited standardization data

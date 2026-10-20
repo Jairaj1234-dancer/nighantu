@@ -32,7 +32,7 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 ## How does it work?
 
 - [Curcumin](/herb/curcumin/) from [Turmeric](/herb/turmeric/) promotes wound healing by upregulating TGF-beta and VEGF expression, enhancing collagen deposition, angiogenesis, and re-epithelialization
-- [Nimbidin](/glossary/compounds-l-o/#nimbidin) and [azadirachtin](/glossary/compounds-a-c/#azadirachtin) from [Neem](/herb/neem/) provide broad-spectrum [antimicrobial](/reference/antimicrobial/) activity (>80% inhibition of common skin pathogens at 10% concentration), preventing wound infection
+- [Nimbidin](/glossary/compounds-l-o/#nimbidin) and [azadirachtin](/glossary/compounds-a-c/#azadirachtin) from [Neem](/herb/neem/) are reported to have broad-spectrum [antimicrobial](/reference/antimicrobial/) activity
 - Karanjin (identified by HPTLC) from [Karanja](/herb/karanja/) provides anti-inflammatory and antimicrobial effects specifically targeting wound-colonizing bacteria
 - Beta-sitosterol and lupeol (identified by HPTLC) provide anti-inflammatory action and stimulate fibroblast proliferation, accelerating granulation tissue formation
 
@@ -49,9 +49,9 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 - Shailajan S, Menon S, Pednekar S and others 2011. [Wound healing efficacy of Jatyadi Taila: in vivo evaluation in rat using excision wound model](https://pubmed.ncbi.nlm.nih.gov/21907784/). *Journal of ethnopharmacology*. PMID [21907784](https://pubmed.ncbi.nlm.nih.gov/21907784/) · [doi:10.1016/j.jep.2011.08.050](https://doi.org/10.1016/j.jep.2011.08.050)  
   Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.
 - Prasannan D, Shindhe PS, Jadar PG and others 2023. [Efficacy of Jatyadi, Madhughrita and honey tulle in wound management: a three-arm randomized controlled clinical trial](https://pubmed.ncbi.nlm.nih.gov/37271064/). *Journal of Ayurveda and integrative medicine*. PMID [37271064](https://pubmed.ncbi.nlm.nih.gov/37271064/) · [doi:10.1016/j.jaim.2023.100719](https://doi.org/10.1016/j.jaim.2023.100719)  
-  Published in PMC, the randomized controlled trial comparing [Jatyadi Taila](/formulation/jatyadi-taila/) dressings vs. standard povidone-iodine for venous ulcers showed 20% faster wound area reduction in the Jatyadi group, with enhanced collagen deposition and angiogenesis on histopathology.
+  Published in PMC, this three-arm randomized controlled trial compared [Jatyadi Taila](/formulation/jatyadi-taila/), Madhughrita and honey tulle dressings in wound management.
 - Chavan SV, Guha S, Raza K and others 2025. [QbD Optimized Nanoemulsion Based Topical Formulation of Jatyadi Taila: Unveiling its In Vitro and In Vivo Efficacy for Enhanced Wound Healing](https://pubmed.ncbi.nlm.nih.gov/41350969/). *Pharmaceutical research*. PMID [41350969](https://pubmed.ncbi.nlm.nih.gov/41350969/) · [doi:10.1007/s11095-025-03929-w](https://doi.org/10.1007/s11095-025-03929-w)  
-  Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats, demonstrating modern drug delivery can enhance traditional formulation efficacy.
+  Published in Pharmaceutical Research (Springer), a nanoemulsion formulation of JT showed enhanced in vitro fibroblast proliferation and migration, with improved in vivo wound healing in full-thickness wound-bearing Wistar rats.
 
 ## Recent safety updates
 

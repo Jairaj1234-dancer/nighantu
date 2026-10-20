@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 - Sodium chloride with sodium sulfide
 - Sodium sulfate (Na2SO4)
-- Iron sulfide (FeS, greigite)
+- Iron sulfide (FeS)
 - Hydrogen sulfide (H2S - volatile, gives egg-like odor)
 - Sodium bisulfate and sodium bisulfite
 - Iron compounds (Fe2+, Fe3+)
@@ -40,8 +40,8 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 ## How does it work?
 
 - Digestive stimulant: Sulfur compounds stimulate bile production in liver and gastric acid secretion, enhancing overall digestive capacity and appetite
-- Anti-flatulent: Hydrogen sulfide at therapeutic doses modulates intestinal smooth muscle motility, reduces gas accumulation, and relieves abdominal heaviness
-- Mild anti-anemic: Iron sulfide provides bioavailable ferrous iron that can increase hemoglobin levels with regular dietary use
+- Anti-flatulent: traditionally used to reduce gas accumulation and abdominal heaviness
+- Mild anti-anemic: contains iron sulfide; traditionally used as a dietary supplement in Pandu (anemia)
 - Srotoshodhana (channel clearing): Light, sharp, and hot qualities clear Kapha-obstructed channels; aromatic sulfur compounds have mild [expectorant](/reference/expectorant/) and decongestant properties
 
 ## Which traditional uses are supported by research?

@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Cross-Tradition"
 subcategory: "Kidney--Urinary-Across-Traditions.md"
 group: ""
-answer: "Kidney & Urinary: Across Traditions is a reference entry in the Nighantu. Comparing approaches to kidney & urinary across 5 healing traditions."
+answer: "Kidney & Urinary: Across Traditions is a reference entry in the Nighantu. Comparing approaches to kidney & urinary across several healing traditions."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 204
 srcRel: "_Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md"
 ---
-*Comparing approaches to kidney & urinary across 5 healing traditions*
+*Comparing approaches to kidney & urinary across several healing traditions*
 
 - **Ayurveda:** 71 entries
 - **TCM:** 101 entries

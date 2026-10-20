@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Lehams-Avalehas-Pastes"
-answer: "Haridra Khanda is a classical Ayurvedic avaleha, a semi-solid herbal confection. Referenced in Ayurvedic Pharmacopoeia of India (API)."
+answer: "Haridra Khanda is a classical Ayurvedic khanda, a granular herbal confection. Referenced in Ayurvedic Pharmacopoeia of India (API)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Kh
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upanishads (earliest [turmeric](/herb/turmeric/) therapeutic references); Bhaishajya Ratnavali
+Bhaishajya Ratnavali
 
 ## How does it work?
 
 - Experimental studies using LC-ESI-MS/MS have reported that [Curcumin](/herb/curcumin/) modulates [histamine](/glossary/compounds-g-l/#histamine) release and mast cell degranulation, which suggests anti-allergic activity.
-- Anti-inflammatory action through NF-kB pathway inhibition reduces allergic tissue inflammation and hypersensitivity reactions
-- Antipruritic properties of [turmeric](/herb/turmeric/) combined with Lauha Bhasma provide relief from allergic itching and urticaria
-- Blood purifying (Rakta Shodhaka) action of [Haridra](/herb/haridra/) with [Triphala](/herb/triphala/) and [Vidanga](/herb/vidanga/) clears toxins underlying chronic skin allergies
-- Lauha Bhasma (iron calx) corrects anemia that may underlie chronic allergic conditions while providing mineral supplementation
+- Anti-inflammatory action through NF-kB pathway inhibition has been reported for curcumin in experimental studies
+- [Turmeric](/herb/turmeric/) combined with Lauha Bhasma is traditionally used for allergic itching and urticaria
+- [Haridra](/herb/haridra/) with [Triphala](/herb/triphala/) and [Vidanga](/herb/vidanga/) is classically described as blood purifying (Rakta Shodhaka) and traditionally used in chronic skin allergies
+- Lauha Bhasma (iron calx) is traditionally used for anemia and as mineral supplementation
 
 ## Which traditional uses are supported by research?
 

@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Charaka Samhita and Ashtanga Hridaya. Kumari (Aloe vera) monograph in Ayurvedic Pharmacopoeia of India."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Kumari (Aloe vera) monograph in Ayurvedic Pharmacopoeia of India."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -32,9 +32,9 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 ## How does it work?
 
 - [Hepatoprotective](/reference/hepatoprotective/) action through reduction of liver [enzymes](/glossary/compounds-d-g/#enzymes) (SGOT, SGPT, ALP) and promotion of hepatocyte recovery
-- Hormonal regulation through Apana Vata balancing restores normal ovulation and menstruation in PCOS
+- Traditionally described as balancing Apana Vata in menstrual disorders
 - Deepana-Pachana (appetite stimulant and digestive) action enhances digestive capacity and nutrient absorption
-- Iron supplementation through [Loha Bhasma](/herb/loha-bhasma/) addresses anemia commonly associated with gynecological disorders
+- Contains [Loha Bhasma](/herb/loha-bhasma/), an iron-based component traditionally used in Pandu (anemia)
 
 ## Which traditional uses are supported by research?
 
@@ -63,7 +63,7 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 18-24½.
 
-**Bioavailability:** Fermentation converts aloe [polysaccharides](/glossary/compounds-o-q/#polysaccharides) to simpler sugars and generates novel metabolites. Alcohol enhances absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) and [Loha Bhasma](/herb/loha-bhasma/) iron. Iron from Bhasma form is nano-particulate and highly bioavailable, superior to conventional iron supplements. Fermentation medium provides ideal environment for iron absorption.
+**Bioavailability:** Fermentation converts aloe [polysaccharides](/glossary/compounds-o-q/#polysaccharides) to simpler sugars and generates novel metabolites. Alcohol enhances absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) and [Loha Bhasma](/herb/loha-bhasma/) iron.
 
 **Optimal Timing:** After meals, twice daily, for Yakrit Roga (liver disorders), Pandu (anemia), and Udara Roga (abdominal disorders)
 

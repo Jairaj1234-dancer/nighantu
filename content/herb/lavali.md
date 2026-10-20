@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 ## How does it work?
 
 - Ursolic acid and oleanolic acid exhibit anti-inflammatory activity through inhibition of NF-kB pathway, suppression of COX-2/iNOS expression, and reduction of pro-inflammatory cytokine production
-- Scopoletin exerts [antidiabetic](/reference/antidiabetic/) effects through inhibition of alpha-glucosidase and aldose reductase [enzymes](/glossary/compounds-d-g/#enzymes), reducing postprandial hyperglycemia and diabetic complications
+- Scopoletin exerts [antidiabetic](/reference/antidiabetic/) effects through inhibition of alpha-glucosidase and aldose reductase [enzymes](/glossary/compounds-d-g/#enzymes)
 - Lupeol and betulin demonstrate [hepatoprotective](/reference/hepatoprotective/) effects by enhancing [antioxidant](/reference/antioxidant/) enzyme activity (SOD, catalase, GPx) and reducing lipid peroxidation in hepatocytes
 
 ## Which traditional uses are supported by research?
@@ -71,17 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Bioavailability:** Moderate bioavailability of phenolic compounds and organic acids. Ascorbic acid and [flavonoids](/reference/flavonoids/) show reasonable GI absorption. Oxalic acid content may interfere with mineral absorption. [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (in ripe fruit) show limited but significant systemic availability.
-
 **Optimal Timing:** Between meals for digestive benefits; morning for nutritive supplementation; avoid in patients with kidney disorders
-
-**Standardized Extract:** Spray-dried fruit extract (15:1) standardized to minimum 5% total phenolics (as gallic acid equivalents) and minimum 10% vitamin C. Freeze-dried powder retaining 90%+ of original vitamin C.
 
 **Shelf Life:** Fresh fruit: 5-7 days refrigerated. Spray-dried powder: 18 months. Freeze-dried powder: 24 months. Capsules/tablets: 24 months.
 
-**Storage:** Fresh fruit at 5-10 deg C. Dried extracts in airtight, moisture-proof containers below 25 deg C with desiccant. Protect from light to preserve vitamin C content. Nitrogen-flush packaging recommended.
-
-**Marker Compounds:** Ascorbic acid, Oxalic acid, Gallic acid, [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins), [Saponins](/reference/saponins/), Caramboxin
+**Storage:** Fresh fruit at 5-10 deg C. Dried extracts in airtight, moisture-proof containers below 25 deg C with desiccant. Protect from light. Nitrogen-flush packaging recommended.
 
 ### Extraction Methods
 
@@ -93,7 +87,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Amalaki (synergistic vitamin C and antioxidant effect)
 - [Haritaki](/herb/haritaki/) (digestive and Tridosha balancing)
 - [Draksha](/herb/draksha/) (nutritive and blood-building combination)
 - [Pippali](/herb/pippali/) (bioenhancement of phenolic absorption)

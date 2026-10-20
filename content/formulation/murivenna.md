@@ -41,10 +41,10 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## How does it work?
 
-- [Karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) from [Karanja](/herb/karanja/) leaves provide potent anti-inflammatory and [antimicrobial](/reference/antimicrobial/) activity, inhibiting bacterial colonization at wound sites
-- [Acemannan](/glossary/compounds-1-a/#acemannan) [polysaccharides](/glossary/compounds-o-q/#polysaccharides) from [Aloe vera](/herb/aloe-vera/) stimulate macrophage activation and fibroblast proliferation, accelerating wound closure and granulation tissue formation
+- [Karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) from [Karanja](/herb/karanja/) leaves provide potent anti-inflammatory and [antimicrobial](/reference/antimicrobial/) activity
+- [Acemannan](/glossary/compounds-1-a/#acemannan) [polysaccharides](/glossary/compounds-o-q/#polysaccharides) from [Aloe vera](/herb/aloe-vera/) stimulate macrophage activation and fibroblast proliferation
 - [Moringa](/herb/moringa/) leaf [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) provide broad-spectrum antibacterial activity and reduce oxidative stress at wound sites through potent [antioxidant](/reference/antioxidant/) action
-- [Coconut oil](/glossary/concepts-a-m/#coconut-oil) base provides medium-chain fatty acids (lauric acid) with inherent antimicrobial properties, and superior wound moisture retention compared to [sesame oil](/glossary/concepts-m-y/#tila-taila)
+- [Coconut oil](/glossary/concepts-a-m/#coconut-oil) base provides medium-chain fatty acids (lauric acid) with inherent antimicrobial properties
 
 ## Which traditional uses are supported by research?
 
@@ -62,7 +62,7 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## Recent safety updates
 
-- Generally well-tolerated for external wound application. Mild stinging may occur on fresh wounds - this is transient. No significant adverse effects documented in clinical studies or traditional practice. Kerala Journal of Ayurveda (2018) found 75% faster wound closure compared to plain [sesame oil](/glossary/concepts-m-y/#tila-taila).
+- Generally well-tolerated for external wound application. Mild stinging may occur on fresh wounds - this is transient. No significant adverse effects documented in clinical studies or traditional practice.
 - Not for internal consumption. Avoid on deep infected wounds requiring surgical management. Those with [coconut oil](/glossary/concepts-a-m/#coconut-oil) allergy should avoid this formulation. Not to be used as sole treatment for fractures - complementary to proper orthopedic management.
 
 ## What is it made of?
@@ -80,9 +80,9 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 **Standard Dosage:** External application on wounds and fractures
 
-**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
+**Optimal Timing:** External: before bath or at bedtime
 
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
@@ -92,7 +92,7 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Karanjin, [Berberine](/glossary/compounds-a-c/#berberine)
 
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
+**Vehicle (Anupana):** External: massage into affected area
 
 ### Synergistic Combinations
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Mukta Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Mukta Pishti is a pishti, a pearl-derived calcium preparation made by fine trituration without heating, unlike the heat-processed Mukta Bhasma."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -28,8 +28,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 ## How does it work?
 
 - Acid-neutralizing and gastroprotective: Calcium carbonate (aragonite form) directly neutralizes gastric acid; the ultra-fine particle size from traditional trituration enhances surface area and buffering capacity
-- [Anxiolytic](/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission; calcium supplementation stabilizes cardiac rhythm, reducing palpitations
-- Pitta-pacifying cooling action: The high calcium content combined with organic pearl matrix provides systemic cooling effect; reduces cortisol (stress hormone) levels, attenuating stress and improving sleep
+- [Anxiolytic](/reference/anxiolytic/) and cardiac calming: Conchiolin [peptides](/glossary/compounds-o-q/#peptides) may cross the blood-brain barrier and modulate GABAergic and serotonergic neurotransmission
+- Pitta-pacifying cooling action: The high calcium content combined with organic pearl matrix provides systemic cooling effect
 - Bone mineralization support: Bioavailable calcium from aragonite form is absorbed and contributes to bone mineral density
 
 ## Which traditional uses are supported by research?
@@ -48,10 +48,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 ## Recent safety updates
 
-- GENERALLY SAFE: [Mukta Pishti](/herb/mukta-pishti/) is one of the safest Ayurvedic mineral preparations as it contains no heavy metals (mercury, arsenic, lead) - it is essentially a processed natural calcium supplement
-- Likely safe in pregnancy at recommended doses; used traditionally for pregnancy-related Pitta conditions under physician guidance
+- [Mukta Pishti](/herb/mukta-pishti/) is pearl-derived and is not formulated with heavy metals (mercury, arsenic, lead); it is essentially a processed natural calcium preparation
+- Safety in pregnancy not established; used traditionally for pregnancy-related Pitta conditions under physician guidance
 - Dose-dependent caution: Exceeding 250 mg twice daily may cause bloating, constipation, or calcium imbalance; maximum recommended daily dose should not exceed 500 mg
-- Quality control concern: Without proper Shodhana, impurities like aragonite microshards can damage GI lining - always use authenticated, laboratory-tested products from GMP-certified manufacturers
+- Quality control concern: Without proper Shodhana, impurities like sharp undissolved particles can damage GI lining - always use authenticated, laboratory-tested products from GMP-certified manufacturers
 
 ## What is it made of?
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 **Standard Dosage:** 60–125 mg twice daily (Pishti); Bhasma: 30–60 mg
 
-**Bioavailability:** Excellent; nacre calcium carbonate (aragonite) with protein matrix, 3× more bioavailable than limestone calcium
+**Bioavailability:** Excellent; nacre calcium carbonate (aragonite) with protein matrix
 
 **Optimal Timing:** With honey, Malai, or Gulkand; best taken at bedtime for calming effect
 

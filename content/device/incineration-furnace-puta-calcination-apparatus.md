@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Medical-Devices"
 subcategory: "Preparation-and-Pharmaceutical-Equipment"
 group: "Incineration-Furnace-Puta-Calcination-Apparatus"
-answer: "Incineration Furnace Puta Calcination Apparatus (Sanskrit: Puta Yantra / Putapaka Yantra) is an instrument used in preparation and pharmaceutical equipment. A specially constructed furnace/pit arrangement for Putapaka (incineration/calcination) process used to convert metals and minerals into therapeutically safe Bhasma (calcined ash). Different sized Putas (fuel arrangements) provide different temperature ranges."
+answer: "Incineration Furnace Puta Calcination Apparatus (Sanskrit: Puta Yantra / Putapaka Yantra) is an instrument used in preparation and pharmaceutical equipment. A specially constructed furnace/pit arrangement for Putapaka (incineration/calcination) process used in Rasashastra to convert metals and minerals into Bhasma (calcined ash) that the texts consider fit for therapeutic use. Different sized Putas (fuel arrangements) provide different temperature ranges."
 botanical: ""
 family: ""
 sanskrit: "Puta Yantra / Putapaka Yantra"
@@ -19,11 +19,11 @@ productHints: []
 words: 162
 srcRel: "Ayurveda/Medical-Devices/Preparation-and-Pharmaceutical-Equipment/Incineration-Furnace-Puta-Calcination-Apparatus/device-info.md"
 ---
-A specially constructed furnace/pit arrangement for Putapaka (incineration/calcination) process used to convert metals and minerals into therapeutically safe Bhasma (calcined ash). Different sized Putas (fuel arrangements) provide different temperature ranges.
+A specially constructed furnace/pit arrangement for Putapaka (incineration/calcination) process used in Rasashastra to convert metals and minerals into Bhasma (calcined ash) that the texts consider fit for therapeutic use. Different sized Putas (fuel arrangements) provide different temperature ranges.
 
 ## Where is it described in the classical texts?
 
-Rasaratna Samuchaya; Rasa Tarangini (Taranga 2); Rasaprakasha Sudhakara. Puta is the cornerstone process of Rasashastra for making metals therapeutically safe through repeated calcination.
+Rasaratna Samuchaya; Rasa Tarangini (Taranga 2); Rasaprakasha Sudhakara. Puta is the cornerstone process of Rasashastra, which the texts describe as rendering metals fit for therapeutic use through repeated calcination.
 
 ## How is it used traditionally?
 

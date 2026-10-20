@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 
 **Bioavailability:** Andrographis paniculata contains [andrographolide](/glossary/compounds-1-a/#andrographolide) (primary bioactive diterpene lactone) with moderate oral bioavailability (~2.67% in rats, higher in humans ~21%). Andrographolide is lipophilic but has limited aqueous solubility (50 μg/mL). Enhancement strategies: (1) Solid dispersion with PVP or HPMC improves dissolution 4-6x; (2) Self-nanoemulsifying formulations (SNEDDS) enhance bioavailability 3-4x; (3) Phospholipid complexation (phytosome); (4) Cyclodextrin inclusion complexes; (5) Nanoparticle formulations. Andrographolide undergoes hepatic metabolism via CYP [enzymes](/glossary/compounds-d-g/#enzymes) and glucuronidation.
 
-**Optimal Timing:** Before meals with warm water; for acute conditions (colds/flu): start at first symptom, 3 times daily for 5-7 days
+**Optimal Timing:** Before meals with warm water
 
 **Standardized Extract:** Standardized extract at 10% andrographolide (most common commercial grade); premium extract at 30% andrographolide; 50% andrographolide (highly purified, for specific formulations)
 
@@ -53,8 +53,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kalmegh/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guduchi](/herb/guduchi/) for immune modulation and fever
+- Traditionally combined with [Guduchi](/herb/guduchi/) in formulations used for fever
 - With [Tulsi](/herb/tulsi/) for respiratory infection support
 - With [Katuki](/herb/katuki/) (Picrorhiza) for [hepatoprotective](/reference/hepatoprotective/) synergy
 - With [Haridra](/herb/haridra/) for anti-inflammatory action
-- With [Neem](/herb/neem/) for [antipyretic](/reference/antipyretic/) effect
+- Traditionally combined with [Neem](/herb/neem/) in [antipyretic](/reference/antipyretic/) formulations

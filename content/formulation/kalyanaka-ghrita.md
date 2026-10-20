@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Ghritams-Medicated-Ghee"
-answer: "Kalyanaka Ghrita is a classical Ayurvedic ghrita, a medicated ghee. Lipid matrix enhances BBB penetration of Medhya (nootropic) compounds. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix."
+answer: "Kalyanaka Ghrita is a classical Ayurvedic ghrita, a medicated ghee. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,10 +40,9 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## How does it work?
 
-- Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/reference/neuroprotective/) compounds
+- Polyherbal synergy of plant extracts in lipid medium enhances bioavailability of [neuroprotective](/reference/neuroprotective/) compounds
 - [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
 - [Sariva](/herb/sariva/) and [Daruharidra](/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
-- Lipid-based ghee medium crosses the blood-brain barrier, delivering active compounds directly to CNS
 - Balances Tridosha with emphasis on Vata-Pitta pacification, restoring equilibrium in Manovaha Srotas (mental channels)
 
 ## Which traditional uses are supported by research?
@@ -61,7 +60,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## Recent safety updates
 
-- Clinical trials confirm safe profile in children with cognitive deficits; no adverse events reported during treatment periods
+- One prospective clinical evaluation (not identified here) reported no adverse events in children with cognitive deficits
 - Caution advised for individuals with diabetes, high cholesterol, heart diseases, and hypertension due to ghee base
 - Excessive consumption could lead to gastrointestinal distress; should be used under medical supervision
 
@@ -71,7 +70,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Standard Dosage:** 12 g twice daily on empty stomach with warm water/milk, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
-**Bioavailability:** Ghee base provides optimal vehicle for 30+ herbs with diverse solubility profiles. Lipid matrix enhances BBB penetration of Medhya ([nootropic](/glossary/pharmacology/#nootropic)) compounds. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
+**Bioavailability:** Ghee base provides optimal vehicle for herbs with diverse solubility profiles. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
 
 **Optimal Timing:** On empty stomach, morning and evening. For psychiatric conditions: continuous use for 3-6 months minimum.
 
@@ -79,9 +78,9 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** Bacoside A (from [Brahmi](/herb/brahmi/)), Alpha-santalol, Beta-asarone (from [Vacha](/herb/vacha/), within limits), [Piperine](/reference/piperine/), Gallic acid, Ursolic acid (from [Sariva](/herb/sariva/))
+**Marker Compounds:** Alpha-santalol, Gallic acid, Ursolic acid (from [Sariva](/herb/sariva/))
 
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, bacoside A (from [Brahmi](/herb/brahmi/)), alpha-santalol (from [Chandana](/herb/chandana/)), HPTLC multi-marker fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, alpha-santalol (from [Chandana](/herb/chandana/)), HPTLC multi-marker fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

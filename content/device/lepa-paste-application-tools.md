@@ -23,7 +23,7 @@ Tools for preparing and applying medicated herbal pastes (Lepa) to the body. Inc
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Chikitsasthana (various chapters); Sushruta Samhita Chikitsasthana. Sharangdhara Samhita Madhyama Khanda Chapter 11 describes Lepa Kalpana in detail - paste should be applied against the direction of hair growth (Pratiloma), thickness of buffalo hide.
+Charaka Samhita Chikitsasthana (various chapters); Sushruta Samhita Chikitsasthana. Sharangdhara Samhita Uttara Khanda Chapter 11 describes Lepa Kalpana in detail - paste should be applied against the direction of hair growth (Pratiloma), thickness of buffalo hide.
 
 ## How is it used traditionally?
 

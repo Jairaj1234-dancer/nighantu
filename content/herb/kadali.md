@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kadali |
+| English | Banana |
 | Latin/Botanical | *Musa paradisiaca L.* |
 
 ## Key Phytochemical Constituents
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Apakva Kadali (unripe banana): traditionally used in Ayurveda for Atisara (diarrhea) and Grahani (IBS). A meta-analysis of randomized controlled trials in children reported antidiarrhoeal activity.
-- Traditionally used for Amlapitta (gastric ulcers). A study that isolated sitoindoside IV reported anti-ulcerogenic and gastroprotective effects.
+- Traditionally used for Amlapitta (hyperacidity). A study that isolated sitoindoside IV reported anti-ulcerogenic and gastroprotective effects.
 - Anti-urolithiatic activity (kidney stones): animal studies in hyperoxaluric models have reported reduced urinary oxalate excretion.
 
 ## What do recent studies show?
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 **Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
 
-**Optimal Timing:** Stem juice: morning on empty stomach for renal calculi. Flower powder: with buttermilk for menstrual disorders. Unripe fruit: as part of meals.
+**Optimal Timing:** Traditionally, stem juice is taken in the morning on an empty stomach for renal calculi, and flower powder is taken with buttermilk for menstrual complaints. Unripe fruit: as part of meals.
 
 **Standardized Extract:** Stem juice (fresh or spray-dried); unripe fruit extract standardized to resistant starch content; flower extract with HPTLC fingerprint
 
@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/herb/gokshura/) for kidney stone management (stem juice)
-- With [Varuna](/herb/varuna/) for urinary calculi
+- Traditionally combined with [Gokshura](/herb/gokshura/) for kidney stones (stem juice)
+- Traditionally combined with [Varuna](/herb/varuna/) for urinary calculi
 - With Amalaki for gastric ulcer support
 - With [Yashtimadhu](/herb/yashtimadhu/) for mucosal protection

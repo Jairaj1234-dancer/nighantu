@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 ## How does it work?
 
-- Pancreatic beta-cell regeneration and insulin secretion enhancement through [Swarna Bhasma](/herb/swarna-bhasma/)'s bioactive nanoparticles stimulating [glucose](/glossary/compounds-d-g/#glucose) metabolism
+- Preclinical studies report improved serum insulin and glycaemic parameters in diabetic rats; the mechanism is not established
 - [Antioxidant](/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
 - [Neuroprotective](/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
 - [Cardioprotective](/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
@@ -50,11 +50,11 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 ## Recent safety updates
 
-- Contains mercury as HgS (mercuric sulfide) in processed form; the Shodhana process converts elemental mercury to an insoluble sulfide form that has significantly lower bioavailability than organic mercury compounds
+- Contains mercury as HgS (mercuric sulfide) in processed form; after Shodhana (purification), trituration with sulfur (Kajjali preparation) converts mercury to an insoluble sulfide form that has significantly lower bioavailability than organic mercury compounds
 - A 2008 JAMA study found that 20% of Ayurvedic medicines purchased online (including rasa shastra products) contained detectable lead, mercury, or arsenic, with some products having levels 100-10,000 times above acceptable limits - highlighting the critical importance of sourcing from GMP-certified manufacturers
 - Preclinical studies show safety at therapeutic doses in animal models, but long-term human toxicity data is lacking; contains multiple heavy metals (gold, silver, tin, lead, mercury) requiring strict quality control
 - Contraindicated in pregnancy, lactation, children, and patients with renal or hepatic impairment; must be taken strictly under qualified Ayurvedic physician supervision with periodic monitoring of renal and hepatic function
-- WHO permissible limits: 10 ppm for lead, 1 ppm for mercury and arsenic - products should be lab-tested to confirm compliance before use
+- WHO contaminant limits for herbal products: 10 ppm for lead, 1 ppm for mercury and arsenic; these limits are for contamination and do not apply to the mercury intentionally included in this formulation, so products should be lab-tested by a qualified laboratory before use
 
 ## What is it made of?
 
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 **Standard Dosage:** 125 mg twice daily
 
-**Bioavailability:** Excellent; premium multi-metal Rasaushadhi with broad-spectrum bioavailability
+**Bioavailability:** Not established in humans.
 
 **Optimal Timing:** Morning and evening with honey, Amalaki Swarasa, or milk
 

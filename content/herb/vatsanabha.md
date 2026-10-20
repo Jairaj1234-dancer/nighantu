@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 **Standard Dosage:** TOXIC HERB - Only after Shodhana: 15-60 mg of Shodhit (purified) powder per dose; NEVER exceed 125 mg/day; ONLY under qualified Ayurvedic physician supervision
 
-**Bioavailability:** Aconitine and related diterpene alkaloids are rapidly and almost completely absorbed orally (bioavailability >80-90%), which contributes to extreme toxicity. Lethal dose of crude aconitine is 2-5 mg in adults. Onset of toxicity within 10-20 minutes of ingestion. Shodhana (purification by processing with cow urine or cow milk) hydrolyzes aconitine to less toxic benzylaconitine and aconine (1000-fold less toxic). Even after Shodhana, significant residual toxicity remains. Transdermal absorption is also rapid and clinically significant (poisoning from skin contact documented).
+**Bioavailability:** Aconitine and related diterpene alkaloids are rapidly and almost completely absorbed orally (bioavailability >80-90%), which contributes to extreme toxicity. Lethal dose of crude aconitine is 2-5 mg in adults. Onset of toxicity within 10-20 minutes of ingestion. Shodhana (purification by processing with cow urine or cow milk) hydrolyzes aconitine to less toxic benzoylaconine and aconine (1000-fold less toxic). Even after Shodhana, significant residual toxicity remains. Transdermal absorption is also rapid and clinically significant (poisoning from skin contact documented).
 
 **Optimal Timing:** Only as prescribed by qualified Vaidya; typically after meals with specific anupana; short-term use only
 
@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 **Storage:** POISON CUPBOARD - locked storage with restricted access. Airtight containers at 15-25 deg C. Label: SCHEDULE E1 / VISHA DRAVYA / POISON. Complete batch documentation and chain-of-custody records mandatory. Separate from non-toxic materials.
 
-**Marker Compounds:** Aconitine (must be below safety limit post-Shodhana), Mesaconitine, Hypaconitine, Benzylaconitine (less toxic hydrolysis product), Aconine (non-toxic hydrolysis product), Pseudaconitine, Bikhaconitine
+**Marker Compounds:** Aconitine (must be below safety limit post-Shodhana), Mesaconitine, Hypaconitine, Benzoylaconine (less toxic hydrolysis product), Aconine (non-toxic hydrolysis product), Pseudaconitine, Bikhaconitine
 
 ### Extraction Methods
 

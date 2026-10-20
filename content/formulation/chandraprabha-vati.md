@@ -32,10 +32,9 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 ## How does it work?
 
 - Multi-target metabolic modulation: Network pharmacology reveals 328 bioactives acting on multiple targets for obesity, hyperglycemia, and dyslipidemia simultaneously.
-- Anti-inflammatory cytokine suppression: Reduces IL-6 and TNF-alpha secretion in urinary tract and bladder tissue.
+- Anti-inflammatory activity: An in vitro study on bladder cells reported anti-inflammatory activity, described in the source notes as reduced IL-6 and TNF-alpha secretion.
 - Anti-hyperglycemic action: Modulates [glucose](/glossary/compounds-d-g/#glucose) metabolism and insulin sensitivity pathways, attenuating lipid profile alterations.
-- Mineral bioavailability enhancement: [Shilajit](/herb/shilajit/)-derived fulvic acid increases absorption of zinc and [magnesium](/glossary/compounds-l-o/#magnesium) essential for enzymatic and reproductive functions.
-- [Diuretic](/reference/diuretic/) and litholytic effects: Promotes urine flow and may help dissolve urinary calculi through combined action of [Gokshura](/herb/gokshura/), [Shilajit](/herb/shilajit/), and other ingredients.
+- [Diuretic](/reference/diuretic/) effects: Traditionally described as promoting urine flow through combined action of [Gokshura](/herb/gokshura/), [Shilajit](/herb/shilajit/), and other ingredients.
 
 ## Which traditional uses are supported by research?
 
@@ -62,7 +61,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 **Standard Dosage:** 250-500 mg twice daily with warm water or milk. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 40-44.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. Shilajatu (fulvic acid) enhances mineral absorption. Bhasma nano-particles (50-100 nm) provide high bioavailability. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all co-ingredients.
+**Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all co-ingredients.
 
 **Optimal Timing:** After meals, twice daily, or as directed. Often taken with meals for urogenital conditions.
 

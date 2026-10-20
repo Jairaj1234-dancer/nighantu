@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Abhraka Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Tridosha-balancing and Rasayana properties support anti-cancer potential. Pandit VA, Singhal SK, Deshmane GB and others 2024."
+answer: "Abhraka Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 ## How does it work?
 
-- Anti-cancer activity through dose-dependent cytotoxicity, apoptosis induction via mitochondrial pathway, and inhibition of tumor cell proliferation in breast and lung cancer cell lines
+- In vitro studies have reported dose-dependent cytotoxicity, apoptosis induction via mitochondrial pathway, and inhibition of tumor cell proliferation in breast and lung cancer cell lines
 - DNA repair enhancement through stimulation of base excision repair (BER) pathway, protecting against genotoxic damage and chromosomal aberrations
 - [Immunomodulatory](/reference/immunomodulatory/) action through modulation of innate and adaptive immune responses, supporting [Rasayana](/reference/rasayana/) (rejuvenation) properties described in classical texts
 - [Hepatoprotective](/reference/hepatoprotective/) effect at therapeutic doses through [antioxidant](/reference/antioxidant/) and cellular membrane stabilization, supporting traditional use in liver disorders
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 **Standard Dosage:** 125–250 mg with honey/ghee
 
-**Bioavailability:** Nano-particulate form ensures high bioavailability; particle size 50–80 nm post-Puta
+**Bioavailability:** Nano-particulate form; particle size 50–80 nm post-Puta
 
 **Optimal Timing:** With morning/evening meals; with specific anupana
 

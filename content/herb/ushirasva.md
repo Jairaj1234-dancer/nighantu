@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushirasva/meta-analysis.md"
 
 ### Extraction Methods
 
-- Traditional Sandhana Kalpana (fermentation): decoction of Ushira and other herbs mixed with jaggery/sugar and Dhataki pushpa (Woodfordia fruticosa flowers) as fermenting agent, sealed in earthen pot for 30-45 days
+- Traditional Sandhana Kalpana (fermentation): Ushira and other herbs (without prior decoction) mixed with jaggery/sugar and Dhataki pushpa (Woodfordia fruticosa flowers) as fermenting agent, sealed in earthen pot for 30-45 days
 - Modern controlled fermentation with Saccharomyces cerevisiae
 - Asava process does not require prior decoction (unlike Arishta)
 

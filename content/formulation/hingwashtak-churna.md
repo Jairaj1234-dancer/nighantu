@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Hingwashtak Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga Ratnakara and Sharangdhara Samhita (17th century)."
+answer: "Hingwashtak Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga Ratnakara and Sharangdhara Samhita."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churn
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga Ratnakara and Sharangdhara Samhita (17th century). The name 'Ashtak' signifies the eight primary ingredients.
+Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga Ratnakara and Sharangdhara Samhita. The name 'Ashtak' signifies the eight primary ingredients.
 
 ## How does it work?
 
 - Carminative action: Asafoetida (Hing) contains ferulic acid and volatile sulfur compounds that reduce intestinal gas formation and promote gas expulsion.
 - Digestive enzyme stimulation: [Trikatu](/herb/trikatu/) ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) stimulates secretion of digestive [enzymes](/glossary/compounds-d-g/#enzymes) including pepsin, lipase, and amylase.
-- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Volatile oils from [cumin](/herb/cumin/) and [ajwain](/herb/ajwain/) relax intestinal smooth muscle, reducing cramping and colic.
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Volatile oils from [cumin](/herb/cumin/) and [ajwain](/herb/ajwain/) are reported to relax intestinal smooth muscle.
 - [Antimicrobial](/reference/antimicrobial/) action: Ferulic acid and [thymol](/glossary/compounds-t-z/#thymol) (from [ajwain](/herb/ajwain/)) provide broad-spectrum activity against gut pathogens (E. coli, S. aureus).
-- Gastroprotective mucosal defense: [Ginger](/herb/ginger/) compounds protect gastric mucosa against NSAID-induced and ethanol-induced ulceration.
+- Gastroprotective mucosal defense: Animal studies report that [ginger](/herb/ginger/) compounds protected gastric mucosa in NSAID-induced and ethanol-induced ulcer models.
 
 ## Which traditional uses are supported by research?
 
@@ -85,7 +85,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde, ferulic acid, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** With first morsel of food, or with warm water/buttermilk
+**Vehicle (Anupana):** Ghee, as given in the formulary; with first morsel of food
 
 ### Synergistic Combinations
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Joint-Musculoskeletal"
-answer: "Paribhadra (Erythrina variegata) is a plant drug, also called Kantakimsuka, Mandarah and Paribhadrah. Isoflavonoids show moderate absorption (20-35%). Alkaloid absorption may be pH-dependent with enhanced uptake in alkaline intestinal environment. First-pass hepatic metabolism is significant; consider sustained-release formulations for maintaining therapeutic levels."
+answer: "Paribhadra (Erythrina variegata) is a plant drug, also called Kantakimsuka, Mandarah and Paribhadrah."
 botanical: "Erythrina variegata"
 family: "Fabaceae"
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 | Language | Name |
 |----------|------|
-| English | Paribhadra |
+| English | Coral tree |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 **Bioavailability:** Erythrina [alkaloids](/glossary/compounds-1-a/#alkaloids) (erysodine, erysovine) have moderate oral bioavailability (25-45%) with nicotinic receptor activity. [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) show moderate absorption (20-35%). Alkaloid absorption may be pH-dependent with enhanced uptake in alkaline intestinal environment. First-pass hepatic metabolism is significant; consider sustained-release formulations for maintaining therapeutic levels.
 
-**Optimal Timing:** After meals to reduce GI irritation from alkaloids. Evening dosing may be preferred for conditions requiring sedative/[anxiolytic](/reference/anxiolytic/) effect.
+**Optimal Timing:** After meals to reduce GI irritation from alkaloids.
 
 **Standardized Extract:** Paribhadra bark extract (8:1) standardized to total alkaloids 1-2% (as erysodine), total isoflavonoids >3%. Safety-tested for alkaloid content within therapeutic window.
 

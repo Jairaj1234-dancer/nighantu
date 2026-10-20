@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Masi is a substance used in the Ayurvedic materia medica. Iron oxide nanoparticles in Masi (ink/iron-based Bhasma) show enhanced absorption compared to conventional iron supplements. Particle size (typically 30-100 nm in properly prepared Bhasma) facilitates paracellular and transcellular absorption."
+answer: "Masi is a substance used in the Ayurvedic materia medica. Iron oxide nanoparticles in Masi (ink/iron-based Bhasma) are reported to show enhanced absorption compared to conventional iron supplements (UNSOURCED). Particle size (typically 30-100 nm in properly prepared Bhasma) facilitates paracellular and transcellular absorption."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Masi/meta-analysis.md"
 
 **Standard Dosage:** 125-500 mg Bhasma per day with appropriate Anupana (honey, ghee, or buttermilk); typically in divided doses twice daily
 
-**Bioavailability:** Bhasma preparations are nano-particulate inorganic compounds with unique bioavailability characteristics. Iron oxide nanoparticles in Masi (ink/iron-based Bhasma) show enhanced absorption compared to conventional iron supplements. Particle size (typically 30-100 nm in properly prepared Bhasma) facilitates paracellular and transcellular absorption. Bioavailability is 2-3 times higher than ferrous sulfate in some comparative studies. Anupana (vehicle) plays critical role in directing absorption.
+**Bioavailability:** Bhasma preparations are nano-particulate inorganic compounds with unique bioavailability characteristics. Iron oxide nanoparticles in Masi (ink/iron-based Bhasma) are reported to show enhanced absorption compared to conventional iron supplements (UNSOURCED). Particle size (typically 30-100 nm in properly prepared Bhasma) facilitates paracellular and transcellular absorption. Anupana (vehicle) plays critical role in directing absorption.
 
 **Optimal Timing:** Before meals with honey for Kapha conditions; after meals with ghee for Vata conditions; with buttermilk for Pitta conditions and iron supplementation
 

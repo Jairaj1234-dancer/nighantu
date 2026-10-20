@@ -62,4 +62,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Ksheera/meta-analys
 
 - As component of Arka Taila for Vata disorders (external)
 - With processed [Vatsanabha](/herb/vatsanabha/) in highly specialized formulations (toxic combination, expert use only)
-- With [Nirgundi](/herb/nirgundi/) Taila for musculoskeletal pain (external)
+- Traditionally combined with [Nirgundi](/herb/nirgundi/) Taila in external applications for musculoskeletal complaints

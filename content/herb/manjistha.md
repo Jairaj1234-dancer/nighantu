@@ -11,7 +11,7 @@ botanical: "Rubia cordifolia"
 family: "Rubiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Monographed in the Ayurvedic Pharmacopoeia of India (API) for stem; root monograph not yet in API. Classified in Charaka Samhita as varnya (complexion enhancer), jvarahara (antipyretic), visaghna (detoxifier), and rasayana (rejuvenator). European Medicines Agency (EMA) issued a Community Herbal Monograph on Rubia cordifolia L., radix (2022). No standalone WHO monograph identified. Listed in multiple traditional pharmacopeias across Ayurveda, TCM, and Unani systems."
+whoStatus: "Monographed in the Ayurvedic Pharmacopoeia of India (API) for stem; root monograph not yet in API. Classified in Charaka Samhita as varnya (complexion enhancer), jvarahara (antipyretic), visaghna (detoxifier), and rasayana (rejuvenator). No standalone WHO monograph identified. Listed in multiple traditional pharmacopeias across Ayurveda, TCM, and Unani systems."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 - [Antioxidant](/reference/antioxidant/): [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) with hydroxyl substitutions modulate antioxidant activity through radical stabilization and metal chelation.
 - [Neuroprotective](/reference/neuroprotective/): [Purpurin](/glossary/compounds-o-q/#purpurin) exhibits neuroprotection through antioxidant mechanisms and DNA intercalation properties.
 - [Antimicrobial](/reference/antimicrobial/): Structure-activity relationships of anthraquinones reveal antibacterial properties linked to hydroxyl group positioning.
-- Gut microbiota modulation: Prebiotic-like effects demonstrated in human clinical trial via 16S rRNA profiling.
+- Gut microbiota modulation: A pilot RCT reported gut microbiota changes suggesting prebiotic-like activity (16S rRNA profiling).
 - Key active constituents: [Alizarin](/glossary/compounds-1-a/#alizarin), munjistin, rubiadin, purpurin, mollugin, cyclic hexapeptides (RA-V, RA-VII), and xanthopurpurin.
 
 ## What do recent studies show?
@@ -69,9 +69,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract daily; 50-100 mL decoction twice daily; topical as directed
 
-**Bioavailability:** Same pharmacokinetic profile as [Manjishtha](/herb/manjishtha/) (Rubia cordifolia). Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo colonic hydrolysis for absorption. Bioavailability of alizarin approximately 25-35%. Enhanced by lipid co-administration. Topical anthraquinone penetration is effective through stratum corneum.
+**Bioavailability:** Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo colonic hydrolysis for absorption. Bioavailability of alizarin approximately 25-35%. Enhanced by lipid co-administration. Topical anthraquinone penetration is effective through stratum corneum.
 
-**Optimal Timing:** Morning on empty stomach for internal blood purification; topical application at night for skin repair and depigmentation (avoid sun exposure after topical anthraquinone application)
+**Optimal Timing:** Traditionally taken in the morning on an empty stomach; topical use usually at night (avoid sun exposure after topical anthraquinone application)
 
 **Standardized Extract:** Root extract standardized to minimum 2% total anthraquinones. Cyclodextrin-complexed extract for cosmetic applications with improved stability. Nano-emulsion concentrate (5% anthraquinones) for serum formulations. Liposomal alizarin for targeted skin delivery.
 

@@ -26,7 +26,7 @@ srcRel: "_Hub/Body-Systems/Digestive-Health.md"
 - [Agnijara](/herb/agnijara/)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts* (Antioxidant, Anticancer, Wound Healing)
 - [Agnikumarika](/herb/agnikumarika/)
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)* (Diuretic, Analgesic, Anti-inflammatory)
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia* (Diuretic, Analgesic, Anti-inflammatory)
 - [Agnitundi Vati](/formulation/agnitundi-vati/) (Antispasmodic)
 - [Aja Dugdha](/glossary/concepts-a-m/#aja-dugdha) (Rasayana)
 - [Ajamoda Arka](/formulation/ajamoda-arka/)

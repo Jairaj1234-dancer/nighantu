@@ -11,7 +11,7 @@ botanical: "Nigella sativa"
 family: "Ranunculaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Pharmacopoeia of India at recommended dose of 0.5-4 g seed powder for digestive and carminative purposes. Recognized in Unani medicine (Tibb-e-Nabawi) and traditional Islamic medicine with extensive historical documentation. Not yet included in WHO monographs as a standalone entry, though substantial peer-reviewed evidence supports therapeutic applications."
+whoStatus: "Listed in the Pharmacopoeia of India at recommended dose of 0.5-4 g seed powder for digestive and carminative purposes. Recognized in Unani medicine and in Prophetic medicine (Tibb-e-Nabawi, traditional Islamic medicine) with extensive historical documentation. Not yet included in WHO monographs as a standalone entry, though substantial peer-reviewed evidence supports therapeutic applications."
 aliases: ["Nigella sativa"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 ## Recent safety updates
 
-- Phase I study established safe daily thymoquinone dosage below 48.6 mg per adult (based on NOAEL of 5 mg/kg in 90-day rat studies, converted to human equivalent dose)
+- An estimated safe daily thymoquinone dosage below 48.6 mg per adult has been calculated (based on NOAEL of 5 mg/kg in 90-day rat studies, converted to human equivalent dose)
 - Very low toxicity profile; two cases of contact dermatitis reported with topical use; no significant adverse effects on liver or kidney function with oral administration of seed extract or oil
 - Caution advised with concurrent use of antidiabetic, [antihypertensive](/glossary/pharmacology/#antihypertensive), and immunosuppressive drugs due to potential synergistic effects; not recommended during pregnancy without medical supervision
 
@@ -117,6 +117,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 ### Synergistic Combinations
 
 - With Honey for immune support (Prophetic medicine tradition)
-- With [Haridra](/herb/haridra/) for systemic anti-inflammatory action
+- With [Haridra](/herb/haridra/) (traditionally combined)
 - With [Ajwain](/herb/ajwain/) for digestive support
-- With [Methi](/herb/methi/) seeds for metabolic syndrome management
+- With [Methi](/herb/methi/) seeds (traditionally combined to support metabolic function)

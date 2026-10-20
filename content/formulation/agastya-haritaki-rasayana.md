@@ -32,9 +32,9 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 ## How does it work?
 
 - [Haritaki](/herb/haritaki/) (chebulinic acid, gallic acid) provides [antioxidant](/reference/antioxidant/), anti-inflammatory, and bronchodilatory effects on respiratory mucosa
-- Dashamula group provides potent anti-inflammatory action, reducing bronchial inflammation and edema in chronic respiratory disease
-- [Bharangi](/herb/bharangi/) (clerodendrin) acts as a specific [bronchodilator](/reference/bronchodilator/), relaxing airway smooth muscle and reducing bronchospasm
-- Pushkaramoola ([inulin](/glossary/compounds-g-l/#inulin), [alantolactone](/glossary/compounds-1-a/#alantolactone)) provides direct anti-asthmatic action through mast cell stabilization
+- Dashamula group is traditionally used for its anti-inflammatory action in chronic respiratory conditions
+- [Bharangi](/herb/bharangi/) (clerodendrin) is traditionally used as a [bronchodilator](/reference/bronchodilator/) to ease bronchospasm
+- Pushkaramoola ([inulin](/glossary/compounds-g-l/#inulin), [alantolactone](/glossary/compounds-1-a/#alantolactone)) is traditionally used for asthma; mast cell stabilization has been proposed as a mechanism
 - Approximately 100 synergistic components work collectively for comprehensive respiratory support and Rasayana (rejuvenation) effects
 
 ## Which traditional uses are supported by research?
@@ -52,7 +52,6 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ## Recent safety updates
 
-- Considered very safe for long-term use compared to other Ayurvedic respiratory medicines; advantageous safety profile for chronic administration
 - Some formulations may contain trace heavy metals from botanical sources - appropriate quality control and testing recommended
 - Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/reference/laxative/) properties
 

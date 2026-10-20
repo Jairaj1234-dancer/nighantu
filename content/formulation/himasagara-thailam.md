@@ -49,9 +49,9 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 ## How does it work?
 
 - Santalol from [Chandana](/herb/chandana/) (Sandalwood) provides cooling and anti-inflammatory effects by inhibiting cyclooxygenase and lipoxygenase pathways, addressing Pitta-type burning sensations
-- Valerenic acid from [Tagara](/herb/tagara/) provides GABA-A receptor agonist activity, inducing calming and [anxiolytic](/reference/anxiolytic/) effects beneficial for insomnia, anger outbursts, and psychiatric Vata-Pitta conditions
+- Pharmacological studies report GABA-A receptor agonist activity and calming, [anxiolytic](/reference/anxiolytic/) effects of valerenic acid from [Tagara](/herb/tagara/)
 - Multiple cooling juice bases ([Shatavari](/herb/shatavari/), [Vidari](/herb/vidari/), [Kushmanda](/herb/kushmanda/), Amalaki, coconut water) provide intensive Pitta-pacification through [phytosterols](/glossary/compounds-o-q/#phytosterols), [saponins](/reference/saponins/), and vitamin C
-- [Jatamansi](/herb/jatamansi/)'s nardostachin crosses the blood-brain barrier via nasal/topical absorption, providing [neuroprotective](/reference/neuroprotective/) and anti-depressant effects in burning sensation disorders
+- Pharmacological studies have reported [neuroprotective](/reference/neuroprotective/) activity of [Jatamansi](/herb/jatamansi/)
 
 ## Which traditional uses are supported by research?
 
@@ -68,7 +68,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 ## Recent safety updates
 
 - Generally well-tolerated for external use. The cooling formulation is specifically designed for Pitta-type individuals and conditions with burning sensation. May cause mild cooling sensation that is therapeutic. Avoid in very cold conditions or in extreme Kapha aggravation.
-- Internal use should be under practitioner supervision. Not well-studied in large-scale clinical trials. While it is described as mildly heating for Pitta types, it is predominantly cooling due to its multiple cooling juice bases. Avoid direct application on open wounds.
+- Not well-studied in large-scale clinical trials. It is predominantly cooling due to its multiple cooling juice bases. Avoid direct application on open wounds.
 
 ## Dosage forms and preparation
 
@@ -76,17 +76,17 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily.
 
-**Bioavailability:** Topical application provides direct dermal absorption of [camphor](/herb/camphor/) and cooling volatiles. [Camphor](/herb/camphor/) activates TRPM8 cold receptors producing cooling sensation. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) MCTs enhance skin penetration.
+**Bioavailability:** Topical application provides direct dermal absorption. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery.
 
 **Optimal Timing:** As needed for headache, burning sensation, skin irritation. Apply 2-3 times daily or at bedtime.
 
 **Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
-**Storage:** Store in tightly sealed amber glass bottles. Camphor is volatile, airtight sealing essential. Temperature not exceeding 25°C. Protect from heat and light.
+**Storage:** Store in tightly sealed amber glass bottles. Temperature not exceeding 25°C. Protect from heat and light.
 
-**Marker Compounds:** Camphor, Alpha-santalol, Beta-santalol, [Vetiverol](/glossary/compounds-t-z/#vetiverol) (from Usheera), Lauric acid (from [coconut oil](/glossary/concepts-a-m/#coconut-oil))
+**Marker Compounds:** Alpha-santalol, Beta-santalol
 
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, camphor content by GC, alpha-santalol content, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
+**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, alpha-santalol content, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only. Gentle massage on affected area.
 

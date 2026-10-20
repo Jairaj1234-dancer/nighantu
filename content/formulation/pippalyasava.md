@@ -33,10 +33,10 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 - Bioavailability enhancement by [piperine](/reference/piperine/) increases absorption of co-administered therapeutics by 30-200%
 - Agni (digestive fire) stimulation through [Trikatu](/herb/trikatu/) and Chitraka improves digestive and absorptive capacity
-- Bronchodilatory and [expectorant](/reference/expectorant/) action from [Pippali](/herb/pippali/) addresses respiratory conditions including cough and asthma
-- Tridosha balancing through the multi-herb fermented formulation addresses broad-spectrum digestive and respiratory disorders
+- [Pippali](/herb/pippali/), to which [expectorant](/reference/expectorant/) action is attributed, is traditionally used for respiratory conditions including cough and asthma
+- Sharangadhara Samhita and Bhaishajya Ratnavali describe the formulation for digestive and respiratory disorders
 
-## Which traditional uses are supported by research?
+## What is it traditionally used for?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 

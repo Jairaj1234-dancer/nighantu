@@ -33,9 +33,9 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 - Calcium channel blockade: Kutaja (Holarrhena antidysenterica) extract blocks calcium channels in intestinal smooth muscle, reducing cramping and motility.
 - [Potassium](/glossary/compounds-o-q/#potassium) channel and nitric oxide pathway modulation: Antidiarrheal effect mediated through potassium channels and NO pathway (not alpha-2 adrenergic receptors).
-- Bacterial adenylate cyclase inhibition: Conessine (major steroidal alkaloid) inhibits bacterial adenylate cyclase, directly reducing toxin-mediated secretory diarrhea.
+- Bacterial adenylate cyclase inhibition: Conessine (major steroidal alkaloid) has been reported to inhibit bacterial adenylate cyclase, which may reduce toxin-mediated secretion.
 - Antisecretory action: Reduces excessive intestinal fluid secretion by modulating electrolyte transport across intestinal epithelium.
-- [Antimicrobial](/reference/antimicrobial/) activity: [Alkaloids](/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) exhibit potent activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
+- [Antimicrobial](/reference/antimicrobial/) activity: [Alkaloids](/glossary/compounds-1-a/#alkaloids) (conessine, kurchine) have been reported to show activity against enteric pathogens including E. histolytica, Shigella, and E. coli.
 
 ## Which traditional uses are supported by research?
 
@@ -66,7 +66,7 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 **Optimal Timing:** After meals, twice daily
 
-**Shelf Life:** Indefinite per classical texts; commercially labeled 5-10 years. Improves with age.
+**Shelf Life:** Indefinite per classical texts; commercially labeled 5-10 years.
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
@@ -78,4 +78,4 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ### Synergistic Combinations
 
-- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Kutaja (Holarrhena antidysenterica), [Dhataki](/herb/dhataki/)

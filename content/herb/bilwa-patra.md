@@ -64,9 +64,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 ## Recent safety updates
 
-- Leaf preparations have been used safely in traditional medicine for centuries; in vitro study (2024) confirmed minimal cytotoxicity on human fibroblasts at therapeutic concentrations
+- Leaf preparations have a long history of traditional use; an in vitro study (2024) reported minimal cytotoxicity on gingival fibroblasts at low concentrations
 - Aegeline was flagged by FDA in 2013 regarding certain commercial supplements (OxyElite Pro), though this involved synthetic/concentrated forms rather than traditional leaf preparations
-- Leaf decoctions and infusions considered safe at standard Ayurvedic doses; avoid high-dose concentrated extracts during pregnancy
+- Leaf decoctions and infusions are traditionally used at standard Ayurvedic doses; avoid high-dose concentrated extracts during pregnancy
 
 ## Dosage forms and preparation
 

@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta
 
 ## Where is it described in the classical texts?
 
-Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushruta Samhita, and Ashtanga Hridaya with references dating to approximately 500 CE; prominently featured in Bhaishajya Ratnavali
+Sharangdhara Samhita (Madhyama Khanda); prominently featured in Bhaishajya Ratnavali
 
 ## How does it work?
 
 - Ama Pachana (toxin digestion): Katu (pungent) and Tikta (bitter) Rasa with light, sharp, dry qualities and warm potency collectively digest metabolic toxins (Ama) and prevent further formation by correcting Mandagni
-- Diaphoretic [antipyretic](/reference/antipyretic/): The formulation induces perspiration, breaks the fever cycle, and reduces body temperature through peripheral vasodilation and enhanced heat dissipation
+- Diaphoretic [antipyretic](/reference/antipyretic/): Classically described as diaphoretic and traditionally used for fever (Jwara); this mechanism has not been established for the formulation
 - [Antimicrobial](/reference/antimicrobial/) defense: [Vidanga](/herb/vidanga/) ([embelin](/glossary/compounds-d-g/#embelin)), [Vacha](/herb/vacha/) (beta-asarone), and [Guduchi](/herb/guduchi/) demonstrate activity against Salmonella typhi, H. pylori, and other enteric pathogens
-- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) as an adaptogen and immunomodulator enhances overall immunity and manages chronic fevers and infections through upregulation of phagocytic activity
-- Toxin neutralization (Vishaghna): Shuddha [Vatsanabha](/herb/vatsanabha/) (processed aconite) in micro-doses acts as a powerful Vishaghna (antitoxin) while processed Bhallataka provides antirheumatic and immune-stimulant action
+- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) is traditionally used in chronic fevers; studies on Guduchi have reported increased phagocytic activity, which has not been shown for the formulation
+- Toxin neutralization (Vishaghna): Shuddha [Vatsanabha](/herb/vatsanabha/) (processed aconite) is classically described as Vishaghna (antitoxin), while processed Bhallataka is traditionally used as antirheumatic
 
 ## Which traditional uses are supported by research?
 

@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 
 **Bioavailability:** Moderate bioavailability of diterpenoid compounds. Caesalpins show variable absorption depending on GI pH. [Tannins](/reference/tannins/) in the extract may reduce absorption of concurrent medications. Cassane-type [diterpenes](/glossary/compounds-d-g/#diterpenes) undergo hepatic metabolism via CYP450 [enzymes](/glossary/compounds-d-g/#enzymes).
 
-**Optimal Timing:** Before meals for anti-malarial and antiparasitic indications; with meals for general tonic effects; topical application twice daily
+**Optimal Timing:** Before meals or with meals; topical application twice daily
 
 **Standardized Extract:** Purified seed kernel extract (10:1 hydroalcoholic) standardized to minimum 2% caesalpins. Leaf extract standardized to minimum 3% total [flavonoids](/reference/flavonoids/). Oil extract for topical use at 5-10% concentration.
 
@@ -60,9 +60,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 - Cold maceration for heat-sensitive diterpenoids
 - Sequential extraction (petroleum ether, chloroform, ethanol, water)
 
-### Synergistic Combinations
+### Traditional Combinations
 
-- [Karanja](/herb/karanja/) (dermatological synergy)
+- [Karanja](/herb/karanja/) (traditionally paired for skin use)
 - [Nimba](/herb/nimba/)/[Neem](/herb/neem/) ([antimicrobial](/reference/antimicrobial/) combination)
-- [Haridra](/herb/haridra/) (anti-inflammatory and wound healing)
-- [Vidanga](/herb/vidanga/) (antiparasitic potentiation)
+- [Haridra](/herb/haridra/) (traditionally paired for inflammation and wounds)
+- [Vidanga](/herb/vidanga/) (traditionally paired for parasitic conditions)

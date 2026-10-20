@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sitopalasav/meta-analysis.md"
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water; children 5-15 mL twice daily (age-dependent)
 
-**Bioavailability:** Self-generated alcohol (5-10% v/v) in asava/arishta acts as a natural solvent and bioenhancer, improving absorption of herbal constituents by 2-3x compared to aqueous preparations. Alcohol facilitates extraction of both hydrophilic and lipophilic compounds during fermentation. Fermentation-generated metabolites (organic acids, esters) may have independent bioactivity. Rapid oral absorption due to alcohol vehicle.
+**Bioavailability:** Self-generated alcohol in asava/arishta acts as a natural solvent and bioenhancer, improving absorption of herbal constituents by 2-3x compared to aqueous preparations. Alcohol facilitates extraction of both hydrophilic and lipophilic compounds during fermentation. Fermentation-generated metabolites (organic acids, esters) may have independent bioactivity. Rapid oral absorption due to alcohol vehicle.
 
 **Optimal Timing:** After meals with equal volume of water; twice daily
 

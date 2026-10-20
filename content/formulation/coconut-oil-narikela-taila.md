@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Coconut Oil Narikela Taila is a classical Ayurvedic taila, a medicated oil."
+answer: "Coconut Oil Narikela Taila is coconut oil used in Ayurveda on its own and as a base oil for medicated tailas."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 ## How does it work?
 
-- [Antimicrobial](/reference/antimicrobial/): Lauric acid and its monoglyceride monolaurin disrupt lipid bilayer cell membranes of bacteria, fungi, and enveloped viruses; broad-spectrum activity confirmed against Gram-positive and Gram-negative pathogens
-- MCT-mediated energy and cognition: Medium-chain fatty acids bypass normal fat digestion, are rapidly absorbed and converted to ketone bodies in the liver, providing alternative brain fuel; relevant for Alzheimer's and neurodegeneration
-- Cooling and Pitta-pacifying: Sweet taste and cooling virya make it the ideal oil for Pitta constitution and hot-climate Abhyanga; reduces inflammatory heat in skin conditions
+- [Antimicrobial](/reference/antimicrobial/): Lauric acid and its monoglyceride monolaurin disrupt lipid bilayer cell membranes of bacteria, fungi, and enveloped viruses; broad-spectrum activity reported against Gram-positive and Gram-negative pathogens
+- MCT-mediated energy and cognition: Medium-chain fatty acids bypass normal fat digestion, are rapidly absorbed and converted to ketone bodies in the liver, providing alternative brain fuel
+- Cooling and Pitta-pacifying: classically regarded as sweet in taste and cooling in virya, suited to Pitta constitution and hot-climate Abhyanga; traditionally used in Pitta skin conditions
 - Skin barrier repair: Saturated fatty acid composition closely mimics skin lipid profile; enhances stratum corneum integrity, reduces transepidermal water loss, and provides occlusive moisturization
 
 ## Which traditional uses are supported by research?

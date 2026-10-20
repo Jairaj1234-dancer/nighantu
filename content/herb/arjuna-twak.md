@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 **Bioavailability:** Same as [Arjuna](/herb/arjuna/) (this is the bark/Twak of Terminalia arjuna specifically designated). Arjunolic acid bioavailability ~8-12%. Kshirapaka enhances triterpene absorption significantly. Tannin-rich matrix provides sustained release of active compounds. [Piperine](/reference/piperine/) co-administration can enhance arjunolic acid bioavailability by 30-40%.
 
-**Optimal Timing:** Morning and evening with warm milk (Kshirapaka) for cardiovascular support. Continuous administration for chronic cardiac conditions.
+**Optimal Timing:** Morning and evening with warm milk (Kshirapaka) for cardiovascular support.
 
 **Standardized Extract:** Bark extract standardized to minimum 2.5% arjunolic acid and minimum 18% total [tannins](/reference/tannins/) (as gallic acid). HPLC-verified arjunolic acid content for extract standardization.
 
@@ -62,6 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 ### Synergistic Combinations
 
 - With [Ashwagandha](/herb/ashwagandha/) for cardiac strengthening
-- With [Punarnava](/herb/punarnava/) for congestive heart failure adjunct
-- With Pushkaramoola for anginal symptoms
+- With [Punarnava](/herb/punarnava/), traditionally paired in cardiac formulations
+- With Pushkaramoola, traditionally paired in cardiac formulations
 - With [Dalchini](/herb/twak-cinnamon/) (cinnamon) for metabolic cardioprotection

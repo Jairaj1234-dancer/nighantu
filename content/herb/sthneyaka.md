@@ -86,21 +86,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule
-
-**Standard Dosage:** 3-5 g powder per day in divided doses; 50-100 mL kwatha twice daily; 500 mg capsule twice daily
-
-**Bioavailability:** Limited pharmacokinetic data available. Estimated moderate bioavailability (20-35%) for phenolic and flavonoid constituents based on structural class. Traditional warm water or milk vehicle enhances absorption.
-
-**Optimal Timing:** After meals with warm water or milk
-
-**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint profile; standardized to NLT 2% total phenolics by Folin-Ciocalteu method
+**Standard Dosage:** No safe dose established; raw plant must not be consumed.
 
 **Shelf Life:** 24 months for churna; 30 months for capsules and tablets
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
-
-**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Total phenolics, Total [flavonoids](/reference/flavonoids/)
 
 ### Extraction Methods
 
@@ -108,9 +98,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 - Hydroalcoholic extraction (50% ethanol)
 - Cold maceration
 - Percolation with graded alcohol
-
-### Synergistic Combinations
-
-- [Ashwagandha](/herb/ashwagandha/) (Balya, strength-building combinations)
-- [Shatavari](/herb/shatavari/) (nourishing formulations)
-- [Bala](/herb/bala/) (Vatahara and tonic synergy)

@@ -24,7 +24,7 @@ srcRel: "_Hub/Body-Systems/Joint--Musculoskeletal.md"
 ## Ayurveda
 
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts* (Antioxidant, Anticancer, Wound Healing)
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)* (Diuretic, Analgesic, Anti-inflammatory)
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia; Clerodendrum phlomidis also used as Agnimantha* (Diuretic, Analgesic, Anti-inflammatory)
 - [Ambasthaki](/herb/ambasthaki/), *Cissampelos pareira L.* (Antioxidant, Anticancer, Antidiabetic)
 - [Ankola](/herb/ankola/), *Alangium salviifolium (L.f.) Wangerin* (Antioxidant, Anticancer, Wound Healing)
 - [Bala Mool](/herb/bala-mool/) (Adaptogenic, Rasayana)

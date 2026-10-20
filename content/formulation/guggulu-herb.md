@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 ### Key Active Markers
 
-- Derived from constituent herbs (see individual herb profiles)
+- Z-Guggulsterone and E-Guggulsterone (see Marker Compounds below)
 - Standardized on primary bioactive markers
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 **Shelf Life:** Raw resin: 5+ years if stored properly; Purified: 5 years
 
-**Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle. Store in cloth bags in cool, dry place. Temperature not exceeding 30°C.
+**Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I-III, Myrrhanol A, Cembrene, Mukulol
 

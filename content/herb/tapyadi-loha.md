@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Tapyadi Loha is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Listed in Ayurveda Sara Sangraha; recognized as a classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; manufactured by licensed pharmacies under AYUSH guidelines."
+answer: "Tapyadi Loha is a compound loha formulation of bhasmas (mineral or metal preparations reduced to ash by repeated calcination) and herbs, given as Vati. Listed in Ayurveda Sara Sangraha; recognized as a classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; manufactured by licensed pharmacies under AYUSH guidelines."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -31,12 +31,12 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 ## How does it work?
 
-- Triple iron source ([Loha Bhasma](/herb/loha-bhasma/) + [Mandura Bhasma](/herb/mandura-bhasma/) + Swarnamakshik Bhasma) provides multi-form bioavailable iron for robust hemoglobin synthesis
+- Triple iron source ([Loha Bhasma](/herb/loha-bhasma/) + [Mandura Bhasma](/herb/mandura-bhasma/) + Swarnamakshik Bhasma) provides several iron-bearing ingredients, traditionally used in Pandu (anemia)
 - [Raupya Bhasma](/herb/raupya-bhasma/) (silver calx) has [antimicrobial](/reference/antimicrobial/) and Pitta-pacifying properties, supporting liver detoxification pathways
-- [Shilajit](/herb/shilajit/) acts as a potent bioenhancer containing fulvic acid that markedly improves mineral absorption and cellular iron uptake
+- [Shilajit](/herb/shilajit/) is traditionally regarded as a bioenhancer and contains fulvic acid
 - [Daruharidra](/herb/daruharidra/) (Berberis aristata) contains [berberine](/glossary/compounds-a-c/#berberine), providing [hepatoprotective](/reference/hepatoprotective/) and cholagogue effects supporting liver and biliary function
 - [Trikatu](/herb/trikatu/) enhances bioavailability and digestive fire (Agni deepana) for optimal nutrient assimilation
-- [Triphala](/herb/triphala/) provides [antioxidant](/reference/antioxidant/) protection, gentle bowel regulation (preventing iron-induced constipation), and vitamin C for iron absorption
+- [Triphala](/herb/triphala/) provides [antioxidant](/reference/antioxidant/) protection, gentle bowel regulation, and vitamin C for iron absorption
 
 ## Which traditional uses are supported by research?
 
@@ -48,13 +48,13 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 ## What do recent studies show?
 
 - Hinge PH, Tambe MS, Murudkar PH and others 2024. [Acute and subacute oral toxicity evaluation of Ayurvedic formulation Tapyadi loha in rats](https://pubmed.ncbi.nlm.nih.gov/39165010/). *Drug and chemical toxicology*. PMID [39165010](https://pubmed.ncbi.nlm.nih.gov/39165010/) · [doi:10.1080/01480545.2024.2389965](https://doi.org/10.1080/01480545.2024.2389965)  
-  [Tapyadi Loha](/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities - confirmed safe at tested doses
+  [Tapyadi Loha](/herb/tapyadi-loha/) showed no mortality or signs of toxicity at single oral dose of 2000 mg/kg; 28-day repeated dose at 1000 mg/kg showed no behavioral, hematological, biochemical, or histopathological abnormalities in rats at the tested doses
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- 2024 toxicity study confirmed safety at single dose of 2000 mg/kg and 28-day repeated dose of 1000 mg/kg in rat models with no adverse effects
+- 2024 toxicity study observed no toxicity in rats at a single dose of 2000 mg/kg and a 28-day repeated dose of 1000 mg/kg
 - Contains multiple iron sources (Loha + Mandura + Swarnamakshik) - higher cumulative iron intake requires careful monitoring of serum ferritin and iron studies
 - [Raupya Bhasma](/herb/raupya-bhasma/) (silver) content requires verification of proper preparation (Shodhana) and heavy metal testing per API standards
 - Contraindicated in hemochromatosis, iron overload conditions, active liver disease (despite hepatoprotective herbs), and during pregnancy without supervision
@@ -79,13 +79,11 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 **Optimal Timing:** After meals with honey
 
-**Standardized Extract:** Multi-metal bhasma preparation: Loha + Tamra + Yashada + other metals with herbs
-
 **Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, Copper oxide, Zinc oxide, Multiple herbal compounds
+**Marker Compounds:** Iron oxide, Multiple herbal compounds
 
 **Quality Parameters:** Multi-metal assay, free metals below safety limits, standard tablet tests
 

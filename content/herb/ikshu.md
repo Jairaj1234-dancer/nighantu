@@ -41,15 +41,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 ## How does it work?
 
 - [Hepatoprotective](/reference/hepatoprotective/): Flavonoids and phenolic acids protect hepatocytes through CYP2E1 inhibition, Keap1/Nrf2 [antioxidant](/reference/antioxidant/) pathway activation, and NF-kB inflammatory cascade suppression
-- [Diuretic](/reference/diuretic/) (Mutrala): High potassium content and natural sugars promote renal osmotic diuresis; alkaline minerals help flush urinary tract
+- [Diuretic](/reference/diuretic/) (Mutrala): High potassium content and natural sugars promote renal osmotic diuresis
 - Cooling and Pitta-pacifying: Sweet taste and cooling virya directly counteract Pitta-related heat, burning sensations, and acid conditions; phenolic antioxidants reduce oxidative heat
-- Policosanol-mediated cardiovascular benefit: Octacosanol and other long-chain alcohols in sugarcane wax lower LDL cholesterol and inhibit platelet aggregation
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- [Kamala](/herb/kamala/) (jaundice/liver disorders): fresh sugarcane juice is traditionally used in jaundice.
+- Kamala (jaundice/liver disorders): fresh sugarcane juice is traditionally used in jaundice.
 - Mutrakricchra and Ashmari (dysuria and kidney stones): sugarcane juice is traditionally used in urinary disorders.
 - Daha (burning sensation/Pitta conditions): traditionally used as a Pitta-pacifying cooling agent, described as having cooling virya.
 
@@ -75,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 **Standard Dosage:** 50-100ml fresh sugarcane juice daily; 3-6g root powder; 10-20g jaggery as vehicle
 
-**Bioavailability:** Saccharum officinarum juice is rich in sucrose, polyphenols (including policosanols and flavonoids), and minerals with high oral bioavailability for sugars and minerals. Policosanols show moderate absorption (~10-15%). Octacosanol (C28 alcohol) absorption is enhanced with dietary fats. Root extract phenolics have variable bioavailability.
+**Bioavailability:** Saccharum officinarum juice is rich in sucrose, polyphenols (including flavonoids), policosanols, and minerals with high oral bioavailability for sugars and minerals. Policosanols show moderate absorption (~10-15%). Octacosanol (C28 alcohol) absorption is enhanced with dietary fats. Root extract phenolics have variable bioavailability.
 
 **Optimal Timing:** Fresh juice in morning or between meals; root decoction before meals
 

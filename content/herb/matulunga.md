@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Matulunga (Citrus medica L.) is a plant drug, also called Bijapurah, Matulungah and Bijaura, from the Rutaceae family. Not specifically listed in WHO monographs on medicinal plants; Citrus genus widely documented in pharmacopoeias worldwide; Matulunga referenced in Indian Ayurvedic Pharmacopoeia since 7th century."
+answer: "Matulunga (Citrus medica L.) is a plant drug, also called Bijapurah, Matulungah and Bijaura, from the Rutaceae family. Not specifically listed in WHO monographs on medicinal plants; Citrus genus widely documented in pharmacopoeias worldwide."
 botanical: "Citrus medica L."
 family: "Rutaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Not specifically listed in WHO monographs on medicinal plants; Citrus genus widely documented in pharmacopoeias worldwide; Matulunga referenced in Indian Ayurvedic Pharmacopoeia since 7th century"
+whoStatus: "Not specifically listed in WHO monographs on medicinal plants; Citrus genus widely documented in pharmacopoeias worldwide"
 aliases: ["Citrus medica L."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -41,8 +41,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## How does it work?
 
-- Limonene activates GST (glutathione S-transferase) detoxification [enzymes](/glossary/compounds-d-g/#enzymes) and inhibits Ras oncogene prenylation, providing chemopreventive effects against multiple cancer types
-- Hesperidin and naringin inhibit HMG-CoA reductase and enhance LDL receptor expression, reducing serum cholesterol levels and providing [cardioprotective](/reference/cardioprotective/) effects
+- Limonene activates GST (glutathione S-transferase) detoxification [enzymes](/glossary/compounds-d-g/#enzymes) and inhibits Ras oncogene prenylation
+- Hesperidin and naringin inhibit HMG-CoA reductase and enhance LDL receptor expression
 - [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) and vitamin C provide [antioxidant](/reference/antioxidant/) protection through direct free radical scavenging and regeneration of other antioxidants (vitamin E, glutathione); also enhance iron absorption from the gut
 
 ## Which traditional uses are supported by research?

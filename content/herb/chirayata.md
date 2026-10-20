@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Chirayata/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Kutki for hepatoprotective synergy
-- With [Guduchi](/herb/guduchi/) for antimalarial and [antipyretic](/reference/antipyretic/) combinations
+- Traditionally combined with [Guduchi](/herb/guduchi/) in fever ([antipyretic](/reference/antipyretic/)) formulations
 - With [Neem](/herb/neem/) for blood purification and skin diseases
-- With [Katuki](/herb/katuki/) for [Kamala](/herb/kamala/) (jaundice) management
+- Traditionally paired with [Katuki](/herb/katuki/) for Kamala (jaundice)
 - With [Bhunimba](/herb/bhunimba/) for comprehensive bitter tonic formulations

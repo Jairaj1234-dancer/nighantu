@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Brain-Nervous-System"
-answer: "Mandukparni (Centella asiatica) is a plant drug, also called Manduki, Brahma mamduki and Mandukaparni. Madecassoside shows similar absorption profile. Triterpene glycosides are hydrolyzed to aglycones (asiatic acid, madecassic acid) which are better absorbed. Lipid-based formulations (Ghrita, phospholipid complexes) increase bioavailability 2-3 fold."
+answer: "Mandukparni (Centella asiatica) is a plant drug, also called Manduki, Brahma mamduki and Mandukaparni. Triterpene glycosides are hydrolyzed to aglycones (asiatic acid, madecassic acid) which are better absorbed. Lipid-based formulations (Ghrita, phospholipid complexes) increase bioavailability 2-3 fold."
 botanical: "Centella asiatica"
 family: "Apiaceae"
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 
 **Optimal Timing:** Morning on empty stomach for cognitive enhancement (Medhya effect); Ghrita preparation with warm milk at bedtime; topical application twice daily for wound healing
 
-**Standardized Extract:** TECA-equivalent standardized extract: 40% asiaticoside, 29-30% madecassoside, 29-30% asiatic acid + madecassic acid. Phytosome complex with phosphatidylcholine for enhanced oral bioavailability. Fresh juice freeze-dried to preserve Medhya properties. Brahmi Ghrita prepared per AFI protocol.
+**Standardized Extract:** TECA-equivalent standardized extract: 40% asiaticoside, 29-30% asiatic acid, 29-30% madecassic acid. Phytosome complex with phosphatidylcholine for enhanced oral bioavailability. Fresh juice freeze-dried to preserve Medhya properties. Brahmi Ghrita prepared per AFI protocol.
 
 **Shelf Life:** Fresh juice: 2-4 hours (must be consumed immediately per classical texts). Dried powder: 18 months. Standardized extract capsules: 24-30 months. Ghrita: 24 months. Topical cream: 18 months.
 

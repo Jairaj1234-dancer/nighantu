@@ -23,7 +23,7 @@ A small funnel or cone-shaped device used to instill warm medicated oil into the
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Sushruta Samhita Chikitsasthana. Karna Purana (filling the ears with oil) is part of daily Ayurvedic routine.
+Charaka Samhita Sutrasthana Chapter 5 (Matrashitiya Adhyaya, daily regimen); Sushruta Samhita Chikitsasthana. Karna Purana (filling the ears with oil) is part of daily Ayurvedic routine.
 
 ## How is it used traditionally?
 

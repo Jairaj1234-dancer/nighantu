@@ -42,8 +42,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 **Bioavailability:** [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) and pterocarpans show moderate bioavailability (25-40%). Tectoridin (isoflavone glycoside) is hydrolyzed by intestinal beta-glucosidases to tectorigenin, which has improved absorption. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered minerals. Lipid co-administration enhances terpenoid absorption.
 
-**Optimal Timing:** Before meals for anti-diabetic applications; after meals for anti-inflammatory indications
-
 **Standardized Extract:** Heartwood extract (10:1 in 70% ethanol), standardized to NLT 3% total isoflavonoids (as tectoridin equivalents by HPLC); total phenolics NLT 5%
 
 **Shelf Life:** 24 months for churna; 36 months for extract capsules
@@ -61,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Asana](/herb/asana/) ([Vijaysar](/herb/vijaysar/), anti-diabetic synergy)
+- [Asana](/herb/asana/) ([Vijaysar](/herb/vijaysar/), traditionally combined)
 - [Haridra](/herb/haridra/) (anti-inflammatory combinations)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) and anti-diabetic formulations)
-- Meshashringi (blood sugar management combinations)
+- Meshashringi (used together in traditional formulations)

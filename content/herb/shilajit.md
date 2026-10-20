@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Mineral-Exudates"
-answer: "Shilajit is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. No dedicated WHO monograph."
+answer: "Shilajit is a mineral pitch, a resinous exudate from rock, used after purification. No dedicated WHO monograph."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 | Language | Name |
 |----------|------|
-| English | shilajit_mineral_pitch |
+| English | Mineral pitch |
 
 ## How does it work?
 
@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 - DBPs function as mitochondria-targeted antioxidants, working in tandem with CoQ10 in the electron transport chain
 - Fulvic acid chelates minerals enhancing bioavailability and facilitating transport across cell membranes
 - Fulvic acid blocks tau protein self-aggregation, relevant to Alzheimer's disease pathology
-- Modulates hypothalamic-pituitary-adrenal (HPA) axis to attenuate chronic fatigue syndrome symptoms
+- Reported in chronic fatigue research to modulate the hypothalamic-pituitary-adrenal (HPA) axis
 - Preserves mitochondrial membrane potential (MMP) and stabilizes complex enzyme activities preventing mitochondrial dysfunction
 - Reverses mitochondrial oxidative stress: normalizes NO concentration, lipid peroxidation, SOD, and catalase activities
 - Neuroprotection via cAMP/NO signaling pathway modulation and anti-neuroinflammatory activity
@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 ## What do recent studies show?
 
 - Stohs SJ 2014. [Safety and efficacy of shilajit (mumie, moomiyo)](https://pubmed.ncbi.nlm.nih.gov/23733436/). *Phytotherapy research : PTR*. PMID [23733436](https://pubmed.ncbi.nlm.nih.gov/23733436/) · [doi:10.1002/ptr.5018](https://doi.org/10.1002/ptr.5018)  
-  PRISMA-guided systematic review of 15 clinical studies (1,254 participants) across chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
+  Review of shilajit safety and efficacy literature covering chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
 - Das SS, Ramkumar M, Singh H and others 2026. [Pre-clinical Evaluation of Shilajit in Cancer: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/41640940/). *Cureus*. PMID [41640940](https://pubmed.ncbi.nlm.nih.gov/41640940/) · [doi:10.7759/cureus.101736](https://doi.org/10.7759/cureus.101736)  
   Systematic review found promising preclinical [anticancer](/reference/anticancer/) evidence but no randomized controlled clinical trials or human studies evaluating Shilajit as a primary anticancer therapy.
 - Basavaraja D, Katkar R, Dhaka P and others 2025. [Chemical Analysis of Native Himalayan Shilajit: An Evaluation of an Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/41404054/). *ACS omega*. PMID [41404054](https://pubmed.ncbi.nlm.nih.gov/41404054/) · [doi:10.1021/acsomega.5c05533](https://doi.org/10.1021/acsomega.5c05533)  
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 ## Recent safety updates
 
 - Processed Shilajit possibly safe at 500 mg daily for up to 48 weeks or 2 g daily for 45 days based on clinical evidence
-- Adverse events generally mild and transient: gastrointestinal discomfort, headache - no serious adverse events in systematic review of 15 studies
+- Adverse events generally mild and transient: gastrointestinal discomfort, headache - no serious adverse events reported in the review literature
 - CRITICAL: Raw, unpurified Shilajit may contain arsenic, lead, mercury, and other toxic heavy metals (~65 heavy metals identified including Cu, Al, Pb, As, Cd, Hg)
 - Thallium contamination identified in some Shilajit supplements (2025 PMC study) - potential risk from unregulated products
 - Drug interaction: may potentiate hypoglycemic agents causing dangerously low blood sugar

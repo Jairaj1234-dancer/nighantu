@@ -40,10 +40,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 ## How does it work?
 
-- Hypoallergenic action: Contains predominantly A2 beta-casein which does not release beta-casomorphin-7 (BCM-7), avoiding [histamine](/glossary/compounds-g-l/#histamine) and TNF-alpha release from mast cells
+- Proposed lower allergenicity: Contains predominantly A2 beta-casein, which has been proposed not to release beta-casomorphin-7 (BCM-7) and so to limit [histamine](/glossary/compounds-g-l/#histamine) and TNF-alpha release from mast cells; goat milk is not hypoallergenic and may still cause reactions (see safety updates)
 - Superior digestibility: Smaller fat globules and softer curd formation enable easier enzymatic digestion compared to cow milk
 - Prebiotic effect: Oligosaccharides promote beneficial gut microbiota growth and modulate intestinal immunity
-- Anti-inflammatory: Medium-chain fatty acids and bioactive peptides reduce systemic inflammation and oxidative stress
+- Anti-inflammatory: Medium-chain fatty acids and bioactive peptides have been proposed to reduce inflammation and oxidative stress; effects in humans are not established
 
 ## Which traditional uses are supported by research?
 

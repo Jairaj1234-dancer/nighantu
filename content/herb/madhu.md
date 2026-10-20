@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Madhu |
+| English | Honey |
 
 ## Key Phytochemical Constituents
 
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 ## How does it work?
 
 - Yogavahi (bioenhancer): Osmotic properties, enzyme content, and low molecular weight compounds enhance absorption and deep tissue penetration of co-administered drugs
-- Antibacterial: Dual mechanism via hydrogen peroxide generation (glucose oxidase) and non-peroxide factors (MGO, defensin-1, phenolic acids); effective against MRSA and VRE
+- Antibacterial: Dual mechanism via hydrogen peroxide generation (glucose oxidase) and non-peroxide factors (MGO, defensin-1, phenolic acids)
 - Wound healing: Creates moist healing environment, reduces inflammation via [antioxidant](/reference/antioxidant/) polyphenols, promotes angiogenesis and fibroblast proliferation
 - Anti-inflammatory: Flavonoids (chrysin, [quercetin](/reference/quercetinquercetin/)) inhibit COX-2 and NF-kB pathways; gluconic acid maintains optimal acidic wound pH
 

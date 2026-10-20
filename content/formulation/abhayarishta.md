@@ -32,9 +32,9 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 ## How does it work?
 
 - Cholagogue action increases bile secretion by the liver, stimulating intestinal peristalsis for smooth fecal passage
-- Venotonic effect reduces venous pressure in the hemorrhoidal plexus, shrinking piles
-- Mild [laxative](/reference/laxative/) action of [Haritaki](/herb/haritaki/) promotes regular bowel movements without dependency
-- Anti-inflammatory properties of [Vidanga](/herb/vidanga/) and [Haritaki](/herb/haritaki/) reduce swelling and pain in hemorrhoids
+- Venotonic activity has been reported in studies on [Haritaki](/herb/haritaki/)
+- [Haritaki](/herb/haritaki/) is described as having a mild [laxative](/reference/laxative/) action
+- [Vidanga](/herb/vidanga/) and [Haritaki](/herb/haritaki/) are described as having anti-inflammatory properties
 
 ## Which traditional uses are supported by research?
 

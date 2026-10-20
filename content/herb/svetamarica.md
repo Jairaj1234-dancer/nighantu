@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 | Language | Name |
 |----------|------|
-| English | Svetamarica |
+| English | White pepper |
+| Sanskrit | Svetamarica |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -62,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Svetamarica/meta-an
 
 ### Synergistic Combinations
 
-- Virtually ALL Ayurvedic herbs ([Trikatu](/herb/trikatu/) component, universal bioenhancer)
-- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (20x bioavailability enhancement, most studied combination)
+- Many Ayurvedic formulations ([Trikatu](/herb/trikatu/) component, used as a bioenhancer)
+- [Curcumin](/herb/curcumin/)/[Haridra](/herb/haridra/) (most studied combination)
 - [Ashwagandha](/herb/ashwagandha/) (enhanced withanolide absorption)
 - Boswellia/[Shallaki](/herb/shallaki/) (enhanced boswellic acid absorption)
 - CoQ10, [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), EGCG (nutraceutical bioenhancement)

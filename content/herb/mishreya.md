@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Essential oil, Svarasa/Ark (distillate - Saunf water), Capsules, Tablets, Gripe water component, Syrups, Infusion/Tea
+**Dosage Forms:** Churna (seed powder), Essential oil, Ark (distillate - Saunf water), Capsules, Tablets, Gripe water component, Syrups, Infusion/Tea
 
 **Standard Dosage:** 3-6 g seed powder per day; 0.1-0.5 mL essential oil; 10-30 mL Saunf Ark; 250-500 mg extract capsules after meals
 

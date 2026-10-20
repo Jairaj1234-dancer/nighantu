@@ -34,7 +34,7 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 - [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
 - Kutaja provides anti-dysenteric and anti-amoebic action complementing the antiparasitic activity
 - [Pippali](/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
-- [Immunomodulatory](/reference/immunomodulatory/) action of [Triphala](/herb/triphala/) and [Rasna](/herb/rasna/) strengthens host defense against parasitic reinfection
+- [Triphala](/herb/triphala/) and [Rasna](/herb/rasna/) are traditionally regarded as [immunomodulatory](/reference/immunomodulatory/)
 
 ## Which traditional uses are supported by research?
 

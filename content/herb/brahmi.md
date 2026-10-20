@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Brahmi/meta-analysis.m
 ## How does it work?
 
 - Active compounds: Bacosides A and B (dammarane-type triterpenoid [saponins](/reference/saponins/)), betulinic acid, loliolide, asiatic acid, [quercetin](/reference/quercetinquercetin/).
-- Neuronal repair: Bacoside aglycone units ([jujubogenin](/glossary/compounds-g-l/#jujubogenin)/pseudojujubogenin) repair damaged neurons, stimulate kinase activity, restore synaptic function, and improve nerve transmission.
+- Neuronal repair: Bacoside aglycone units ([jujubogenin](/glossary/compounds-g-l/#jujubogenin)/pseudojujubogenin) are reported to repair damaged neurons, stimulate kinase activity, restore synaptic function, and improve nerve transmission.
 - Acetylcholinesterase inhibition: [Quercetin](/reference/quercetinquercetin/), wogonin, [apigenin](/glossary/compounds-1-a/#apigenin), and bacopaside X dose-dependently inhibit AChE, with bacopaside X most potent.
 - Antioxidant: Increases glutathione peroxidase (GPx), superoxide dismutase (SOD), and catalase; decreases malondialdehyde (MDA).
 - Anti-inflammatory: Decreases IL-1beta, IL-6, and TNF-alpha; inhibits TNF-alpha and IL-6 release by activated N9 microglial cells.
@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Brahmi/meta-analysis.m
 
 ## How is it used traditionally?
 
-Named after Brahma (creator god) for its intellect-enhancing properties. One of four Medhya Rasayanas in Charaka Samhita. Used for Smriti (memory), Medha (intellect), and Unmada (mental disorders).
+Named after Brahma (creator god) for its intellect-enhancing properties. Counted in later tradition among the Medhya Rasayanas described in Charaka Samhita. Used for Smriti (memory), Medha (intellect), and Unmada (mental disorders).
 
 ## Where is it described in the classical texts?
 
@@ -155,7 +155,7 @@ Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
 
 **Bioavailability:** Bacoside A shows moderate oral bioavailability (30-40%) with Tmax of 2-3 hours. Bacosides undergo hydrolysis to jujubogenin and pseudojujubogenin aglycones in the GI tract. Lipid-based formulations (Ghrita) significantly enhance bacoside bioavailability (2-3x). Phosphatidylserine complex of bacosides shows improved brain penetration. SNEDDS formulations achieve 3-4x enhancement. Chronic dosing (8-12 weeks) needed for cognitive effects.
 
-**Optimal Timing:** Morning with milk or ghee for cognitive enhancement; consistent daily use for 8-12 weeks for full nootropic effect; Ghrita at bedtime for Vata pacification
+**Optimal Timing:** Morning with milk or ghee for cognitive enhancement; Ghrita at bedtime for Vata pacification
 
 **Standardized Extract:** Standardized extract with bacosides NLT 50% (by UV); NLT 25% bacoside A by HPLC. Whole plant extract 10:1 ratio for general preparations.
 

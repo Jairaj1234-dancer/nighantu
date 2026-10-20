@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjishtha/meta-analysis.md"
 - [Antioxidant](/reference/antioxidant/): [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) with hydroxyl substitutions modulate antioxidant activity through radical stabilization and metal chelation.
 - [Neuroprotective](/reference/neuroprotective/): [Purpurin](/glossary/compounds-o-q/#purpurin) exhibits neuroprotection through antioxidant mechanisms and DNA intercalation properties.
 - [Antimicrobial](/reference/antimicrobial/): Structure-activity relationships of anthraquinones reveal antibacterial properties linked to hydroxyl group positioning.
-- Gut microbiota modulation: Prebiotic-like effects demonstrated in human clinical trial via 16S rRNA profiling.
+- Gut microbiota modulation: Prebiotic-like effects suggested in a small human pilot RCT (16S rRNA profiling).
 - Key active constituents: [Alizarin](/glossary/compounds-1-a/#alizarin), munjistin, rubiadin, purpurin, mollugin, cyclic hexapeptides (RA-V, RA-VII), and xanthopurpurin.
 
 ## What do recent studies show?
@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjishtha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day in divided doses; 50-100 mL decoction twice daily; 500-1000 mg standardized extract daily; 15-30 mL Arishta after meals
 
-**Bioavailability:** Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo hydrolysis in the GI tract; aglycones ([alizarin](/glossary/compounds-1-a/#alizarin), [purpurin](/glossary/compounds-o-q/#purpurin)) are absorbed in the colon (~25-35% bioavailability). Rubiadinare moderately lipophilic with reasonable absorption. Purpurin shows enhanced absorption with fatty meals. First-pass hepatic metabolism is moderate. Topical absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) is good through intact skin.
+**Bioavailability:** Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo hydrolysis in the GI tract; aglycones ([alizarin](/glossary/compounds-1-a/#alizarin), [purpurin](/glossary/compounds-o-q/#purpurin)) are absorbed in the colon. Rubiadinare moderately lipophilic with reasonable absorption. Purpurin shows enhanced absorption with fatty meals. First-pass hepatic metabolism is moderate. Topical absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) is good through intact skin.
 
 **Optimal Timing:** Between meals for blood purification; morning for skin health; Arishta after meals; topical application morning and evening
 

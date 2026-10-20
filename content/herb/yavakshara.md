@@ -37,8 +37,8 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 ## How does it work?
 
-- Antacid action: Potassium carbonate and sodium carbonate directly neutralize excess hydrochloric acid in the stomach, providing rapid relief from hyperacidity and acid reflux
-- Anti-urolithiatic: Alkaline pH of urine after absorption dissolves calcium oxalate and uric acid crystals; potassium citrate formed in vivo inhibits new stone nucleation
+- Antacid action: Potassium carbonate and sodium carbonate neutralize gastric acid as alkalis; traditionally used for hyperacidity (Amlapitta)
+- Anti-urolithiatic: Traditionally used in Ashmari (urinary calculi); proposed mechanism not established
 - Digestive enhancement: Despite alkaline nature, Ushna virya (hot potency) stimulates Agni (digestive [enzymes](/glossary/compounds-d-g/#enzymes)) after initial acid neutralization, improving overall digestion
 - Srotoshodhana (channel clearing): Sharp and penetrating qualities clear obstructed srotas (channels), particularly in urinary and digestive tracts
 
@@ -74,8 +74,6 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 - Calcium carbonate 
 - Potassium chloride 
 - Mineral microelements from barley ash
-
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
 ## Dosage forms and preparation
 

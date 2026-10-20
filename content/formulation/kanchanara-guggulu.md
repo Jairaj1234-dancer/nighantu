@@ -31,8 +31,8 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## How does it work?
 
-- Thyroid function modulation: Kanchanara bark contains [flavonoids](/reference/flavonoids/) that balance Kapha dosha and reduce Medha Dhatu (adipose tissue), removing obstruction through Lekhana (scraping) action to normalize thyroid function
-- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/reference/quercetinquercetin/) derivatives inhibit cell proliferation pathways, showing potential against benign tumors, cysts, and abnormal tissue growths (Granthi)
+- Thyroid function modulation: Kanchanara bark contains [flavonoids](/reference/flavonoids/) that balance Kapha dosha and reduce Meda Dhatu (adipose tissue), classically described as acting through Lekhana (scraping); it is traditionally used in Galaganda (thyroid disorders)
+- Anti-tumor and anti-proliferative: Guggulsterones and [quercetin](/reference/quercetinquercetin/) derivatives have been reported in metabolomics and molecular docking studies to act on cell proliferation pathways; the formulation is traditionally used for Granthi (benign tumors, cysts, abnormal tissue growths)
 - Anti-inflammatory and decongestant: Combined action of [Triphala](/herb/triphala/) antioxidants and guggulsterone-mediated NF-kB inhibition reduces glandular swelling and lymphatic congestion
 - Metabolic correction: [Trikatu](/herb/trikatu/) enhances metabolic fire (Agni), while Kanchanara bark's Kashaya (astringent) properties reduce pathological tissue accumulation
 - Aldose reductase inhibition: [Quercetin](/reference/quercetinquercetin/) pentaacetate identified via molecular docking shows strong inhibition of aldose reductase, relevant to metabolic and diabetic complications
@@ -71,7 +71,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 **Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:1 states a dose of 3 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: mundi kvatha, khadira sara kvatha, haritaki. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 95-98.
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:1 states a dose of 3 g; this is much higher than the figure above, and the two sources disagree. The formulary's anupana: mundi kvatha, khadira sara kvatha, haritaki. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 95-98.
 
 **Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/herb/varuna/) [lupeol](/reference/lupeol/). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
 

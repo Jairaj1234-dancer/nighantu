@@ -52,8 +52,8 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## Recent safety updates
 
-- Multicenter clinical study confirms safety in 103 patients over 12-week period; all safety parameters within normal range; no adverse drug reactions or events reported
-- Safe for use during pregnancy for anemia management at 10ml daily for 30 days with no fetal or maternal side effects
+- A multicenter clinical study reported that, in 103 patients over a 12-week period, all safety parameters stayed within normal range and no adverse drug reactions or events occurred
+- A clinical study in pregnant subjects with anemia reported no fetal or maternal side effects at 10ml daily for 30 days
 - Standardized as per Ayurvedic Pharmacopoeia of India; procured from GMP-certified pharmaceutical industries
 
 ## Dosage forms and preparation
@@ -64,7 +64,7 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 **Bioavailability:** Ghee matrix enhances absorption of pomegranate polyphenols ([punicalagin](/glossary/compounds-o-q/#punicalagin), ellagic acid). Lipid base protects [ellagitannins](/glossary/compounds-d-g/#ellagitannins) from gastric degradation, enabling colonic conversion to urolithins (bioactive metabolites).
 
-**Optimal Timing:** Before meals or as directed, for Atisara (diarrhea) and Grahani conditions
+**Optimal Timing:** Before meals or as directed
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/) preparations
 

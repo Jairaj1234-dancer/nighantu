@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tagetes/meta-analys
 ### Synergistic Combinations
 
 - Bilberry (comprehensive eye health formulation)
-- Astaxanthin (carotenoid synergy for macular protection)
-- Omega-3 fatty acids (enhanced lutein absorption and retinal protection)
+- Astaxanthin (carotenoid often combined in eye-health formulations)
+- Omega-3 fatty acids (may enhance lutein absorption)
 - [Saffron](/herb/saffron/) (macular degeneration support)
 - Vitamin E + Zinc (AREDS-type eye supplement combination)

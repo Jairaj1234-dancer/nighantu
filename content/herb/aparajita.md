@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (delphinidin-3,5-diglucoside - ternatin series)
+- [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) (delphinidin-3,3',5'-triglucosides - ternatin series)
 - [Cyclotides](/glossary/compounds-c-d/#cyclotides) (ultra-stable macrocyclic [peptides](/glossary/compounds-o-q/#peptides))
 - [Kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)
 - [Quercetin](/reference/quercetinquercetin/) and [myricetin](/glossary/compounds-l-o/#myricetin) glycosides
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 - [Nootropic](/glossary/pharmacology/#nootropic) and memory-enhancing effects via acetylcholinesterase inhibition and modulation of cholinergic neurotransmission
 - Anti-inflammatory action through suppression of NF-kB pathway and interaction with SRC, ESR1, PI3KR1 protein targets
 - [Antioxidant](/reference/antioxidant/) activity via anthocyanin-mediated free radical scavenging and upregulation of endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes)
-- [Anxiolytic](/reference/anxiolytic/) effect through GABAergic modulation comparable to benzodiazepines
+- Proposed [anxiolytic](/reference/anxiolytic/) effect through GABAergic modulation
 
 ## Which traditional uses are supported by research?
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 **Standard Dosage:** 2-5g root powder twice daily; 500mg-1g extract capsule; 10-20ml flower juice; blue tea infusion ad libitum
 
-**Bioavailability:** Moderate oral bioavailability. Clitoria ternatea contains cyclotides (CT1-CT12), anthocyanins (ternatin A1-D3), and flavonol glycosides. Cyclotides have unusual oral stability due to cyclic cystine knot structure, survive GI transit with some intact absorption. Delphinidin-based anthocyanins (ternatins) have moderate bioavailability (~12-15%), enhanced by acidic medium. Taraxerol shows good absorption with lipid co-administration.
+**Bioavailability:** Moderate oral bioavailability. Clitoria ternatea contains cyclotides (CT1-CT12), anthocyanins (ternatin A1-D3), and flavonol glycosides. Cyclotides have unusual oral stability due to cyclic cystine knot structure, survive GI transit with some intact absorption. Bioavailability of delphinidin-based anthocyanins (ternatins) is not established; it is reported to be enhanced by acidic medium. Taraxerol shows good absorption with lipid co-administration.
 
 **Optimal Timing:** Morning on empty stomach for Medhya (cognitive) effects; blue tea anytime; root powder with warm milk at bedtime for Vata pacification
 

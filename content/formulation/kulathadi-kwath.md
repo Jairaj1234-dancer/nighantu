@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 **Quality Parameters:** pH, specific gravity, total solids, total protein (from [Kulattha](/herb/kulattha/)), extractive values, HPTLC fingerprint, total phenolics, [antioxidant](/reference/antioxidant/) activity, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Taken as warm decoction; may add Yavakshar (alkali) for enhanced litholytic effect
+**Vehicle (Anupana):** Taken as warm decoction; Yavakshar (alkali) may be added
 
 ### Synergistic Combinations
 

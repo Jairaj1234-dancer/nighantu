@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Ashokarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I (Stree Rogadhikara section). Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha Nighantu (Madhyamakhanda)."
+answer: "Ashokarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I (Stree Rogadhikara section). Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha (Madhyamakhanda)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashokar
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha Nighantu (Madhyamakhanda). One of the most prescribed arishtas for gynecological conditions in classical Ayurveda.
+Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also described in Sharangdhara Samhita (Madhyama Khanda - Asava Arishta Prakarana) and Bhavaprakasha (Madhyamakhanda). One of the most prescribed arishtas for gynecological conditions in classical Ayurveda.
 
 ## How does it work?
 
-- Uterine smooth muscle regulation: Saraca asoca bark phenolics produce rhythmic uterine contractions, controlling excessive bleeding through [hemostatic](/glossary/pharmacology/#hemostatic) action.
-- Estrogenic modulation: Phytoestrogens from [Ashoka](/herb/ashoka/) bark modulate estrogen receptor activity, balancing hormonal fluctuations in menopause and menorrhagia.
+- Uterine smooth muscle regulation: Saraca asoca bark phenolics are proposed to act on uterine smooth muscle, with a [hemostatic](/glossary/pharmacology/#hemostatic) action.
+- Estrogenic modulation: Phytoestrogens from [Ashoka](/herb/ashoka/) bark are proposed to modulate estrogen receptor activity.
 - Astringent hemostasis: Kashaya (astringent) rasa of [Ashoka](/herb/ashoka/) bark constricts blood vessels and reduces capillary permeability in uterine tissue.
 - Fermentation-enhanced bioavailability: [Dhataki](/herb/dhataki/)-mediated fermentation and self-generated alcohol (3-9%) improve extraction and absorption of [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin), and other [polyphenols](/glossary/compounds-o-q/#polyphenols).
-- Anti-inflammatory action: Reduces endometrial inflammation through cytokine modulation, addressing underlying causes of heavy menstrual bleeding.
+- Anti-inflammatory action: Proposed to reduce endometrial inflammation through cytokine modulation.
 
 ## Which traditional uses are supported by research?
 

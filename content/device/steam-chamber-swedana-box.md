@@ -23,7 +23,7 @@ An enclosed chamber or box in which the patient sits while medicated steam is di
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Sutrasthana Chapter 14; Sushruta Samhita Chikitsasthana Chapter 32. Thirteen types of Swedana are described including Sagni Sweda (with fire) and Niragni Sweda (without fire).
+Charaka Samhita Sutrasthana Chapter 14; Sushruta Samhita Chikitsasthana Chapter 32. Thirteen types of Sagni Sweda (with fire) are described, along with a separate group of Niragni Sweda (without fire).
 
 ## How is it used traditionally?
 

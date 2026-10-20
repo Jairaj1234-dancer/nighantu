@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Karanja Taila is a classical Ayurvedic taila, a medicated oil. Oil base ensures sustained contact with skin. Karanjin has UV-absorbing properties providing photoprotective effect. Penetrates stratum corneum effectively."
+answer: "Karanja Taila is a classical Ayurvedic taila, a medicated oil. Oil base ensures sustained contact with skin. Penetrates stratum corneum effectively."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Standard Dosage:** External application on affected skin, 1-2 times daily.
 
-**Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Karanjin has UV-absorbing properties providing photoprotective effect. Penetrates stratum corneum effectively.
+**Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Penetrates stratum corneum effectively.
 
 **Optimal Timing:** After bathing or at bedtime for Kushtha (skin diseases), Dadru (ringworm), and Krimi (parasitic infections)
 

@@ -31,10 +31,10 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## How does it work?
 
-- [Expectorant](/reference/expectorant/) and mucolytic: [Eugenol](/glossary/compounds-d-g/#eugenol) from [Lavanga](/herb/lavanga/) (clove) and warming herbs dilute thick mucus in the lungs, soothe airways, and facilitate expectoration of respiratory secretions
-- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue, easing pain and preventing pus formation
-- [Antimicrobial](/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/glossary/compounds-c-d/#catechins) from [Khadira](/herb/khadira/) provide broad-spectrum antimicrobial activity against respiratory pathogens (Streptococcus mutans, Staphylococcus aureus)
-- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/herb/trikatu/) and clove targets Kapha imbalances in the respiratory tract, easing cough, cold, and congestion
+- [Expectorant](/reference/expectorant/) and mucolytic: [Eugenol](/glossary/compounds-d-g/#eugenol) from [Lavanga](/herb/lavanga/) (clove) and warming herbs are traditionally used to loosen mucus and ease expectoration
+- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue
+- [Antimicrobial](/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/glossary/compounds-c-d/#catechins) from [Khadira](/herb/khadira/) provide broad-spectrum antimicrobial activity against oral and other pathogens (Streptococcus mutans, Staphylococcus aureus)
+- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/herb/trikatu/) and clove is classically described as reducing Kapha in the respiratory tract
 - [Immunomodulatory](/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
 
 ## Which traditional uses are supported by research?

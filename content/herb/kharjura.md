@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Kharjura |
+| English | Date |
 | Latin/Botanical | *Phoenix dactylifera L.* |
 
 ## Key Phytochemical Constituents
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 ## What do recent studies show?
 
 - Qadir A, Shakeel F, Ali A and others 2020. [Phytotherapeutic potential and pharmaceutical impact of Phoenix dactylifera (date palm): current research and future prospects](https://pubmed.ncbi.nlm.nih.gov/32180616/). *Journal of food science and technology*. PMID [32180616](https://pubmed.ncbi.nlm.nih.gov/32180616/) · [doi:10.1007/s13197-019-04096-8](https://doi.org/10.1007/s13197-019-04096-8)  
-  Comprehensive review confirmed [analgesic](/reference/analgesic/), anti-inflammatory, hepatoprotective, [anticancer](/reference/anticancer/), antioxidant, anti-proliferative, antifungal and antibacterial activities with identification of key polyphenolic and saponin fractions.
+  Comprehensive review summarised reported [analgesic](/reference/analgesic/), anti-inflammatory, hepatoprotective, [anticancer](/reference/anticancer/), antioxidant, anti-proliferative, antifungal and antibacterial activities with identification of key polyphenolic and saponin fractions.
 - Mahomoodally MF, Khadaroo SK, Hosenally M and others 2024. [Nutritional, medicinal and functional properties of different parts of the date palm and its fruit (Phoenix dactylifera L.) - A systematic review](https://pubmed.ncbi.nlm.nih.gov/37070182/). *Critical reviews in food science and nutrition*. PMID [37070182](https://pubmed.ncbi.nlm.nih.gov/37070182/) · [doi:10.1080/10408398.2023.2191285](https://doi.org/10.1080/10408398.2023.2191285)  
   An animal study reported that date palm pollen extract increased sperm count, motility and testosterone levels in male rats. Date palm pollen is traditionally used as an aphrodisiac.
 

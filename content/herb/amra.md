@@ -60,9 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 ## What do recent studies show?
 
 - Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
-  Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/reference/hepatoprotective/) and [immunomodulatory](/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins.
-- Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
-  Leaf and bark extracts showed significant anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.
+  Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/reference/hepatoprotective/) and [immunomodulatory](/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins. In cell-line (in vitro) work, leaf and bark extracts showed anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -98,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 5-10g Amchur as culinary-medicinal ingredient; 50-100ml Aam Panna
 
-**Bioavailability:** Good bioavailability for mangiferin (major xanthone), with oral bioavailability of approximately 5-8% for pure mangiferin but significantly enhanced (2-3x) by mango fruit matrix. Lipid co-administration increases mangiferin absorption by 40-60%. Gallic acid has high oral bioavailability (>70%). [Carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene) require fat for absorption.
+**Bioavailability:** Low bioavailability for mangiferin (major xanthone), with oral bioavailability of approximately 5-8% for pure mangiferin but significantly enhanced (2-3x) by mango fruit matrix. Lipid co-administration increases mangiferin absorption by 40-60%. Gallic acid has high oral bioavailability (>70%). [Carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene) require fat for absorption.
 
 **Optimal Timing:** Before meals for appetite stimulation (Amchur); with meals for digestive support; Aam Panna in summer afternoons for heat protection
 
@@ -121,6 +119,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Ela (cardamom) for digestive and cooling properties
-- With [Jeeraka](/herb/jeeraka/) and Saindhava in Aam Panna for heat stroke prevention
+- With [Jeeraka](/herb/jeeraka/) and Saindhava in Aam Panna, traditionally taken as a summer cooling drink
 - With Amalaki for antioxidant synergy
 - With [Pippali](/herb/pippali/) for enhanced mangiferin absorption

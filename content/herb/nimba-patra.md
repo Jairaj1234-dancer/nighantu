@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 
 **Bioavailability:** [Quercetin](/reference/quercetinquercetin/) and other [flavonoids](/reference/flavonoids/) from [neem](/herb/neem/) leaf show oral bioavailability of 15-25%; improved to 40-55% via phospholipid complexation or solid dispersion with PVP. [Nimbolide](/glossary/compounds-l-o/#nimbolide) from leaf has rapid oral absorption (Tmax ~1.5 h) but undergoes significant first-pass metabolism. Leaf [polyphenols](/glossary/compounds-o-q/#polyphenols) show pH-dependent absorption with better uptake in alkaline intestinal environment.
 
-**Optimal Timing:** Early morning on empty stomach for blood purification (Swarasa). After meals for blood sugar management. Mouthwash: after brushing, twice daily.
+**Optimal Timing:** Swarasa is traditionally taken early morning on an empty stomach for blood purification. Mouthwash: after brushing, twice daily.
 
 **Standardized Extract:** Standardized [neem](/herb/neem/) leaf extract (10:1) with minimum [quercetin](/reference/quercetinquercetin/) 2%, nimbolide 0.5%, and total phenolics >8% (GAE). Aqueous spray-dried extract with validated HPTLC fingerprint.
 
@@ -66,4 +66,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 - [Haridra](/herb/haridra/) (anti-inflammatory and [hepatoprotective](/reference/hepatoprotective/))
 - [Guduchi](/herb/guduchi/) (blood sugar management combination)
 - [Karanja](/herb/karanja/) Patra (dermatological combination)
-- [Triphala](/herb/triphala/) (comprehensive detox with neem leaf)
+- [Triphala](/herb/triphala/) (traditional combination with neem leaf)

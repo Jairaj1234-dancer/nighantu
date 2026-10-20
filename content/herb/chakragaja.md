@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ## How does it work?
 
-- Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
+- Anthraquinones (chrysophanol, emodin) exert antifungal activity by inhibiting fungal mitochondrial electron transport chain and disrupting cell wall biosynthesis in dermatophytes
 - Emodin and physcion modulate hepatic lipid metabolism through activation of AMPK pathway and inhibition of HMG-CoA reductase, providing [hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects
 - Obtusin and chryso-obtusin exhibit [laxative](/reference/laxative/) effects by stimulating colonic peristalsis through activation of chloride channels and inhibition of Na+/K+-ATPase in intestinal epithelium
 
@@ -98,7 +98,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 **Storage:** Cool, dry place in airtight containers. Follow general Ayurvedic herb storage guidelines.
 
-**Marker Compounds:** Beta-sitosterol, [Lupeol](/reference/lupeol/), Gallic acid, Flavonoid glycosides
+**Marker Compounds:** Chrysophanol, Emodin, Aurantio-obtusin, Beta-sitosterol
 
 ### Extraction Methods
 

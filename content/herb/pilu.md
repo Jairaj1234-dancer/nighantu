@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Pilu (Salvadora persica) is a plant drug, also called Piluh. Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Fluoride content (natural) in stems provides topical dental mineralization effect. Chloride ions in extract enhance salivary production locally."
+answer: "Pilu (Salvadora persica) is a plant drug, also called Piluh. Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Chloride ions in extract enhance salivary production locally."
 botanical: "Salvadora persica"
 family: "Salvadoraceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Pilu/meta-analysis.md"
 
 **Standard Dosage:** 2-4 g bark powder daily; 15-20 mL decoction twice daily; 500-750 mg standardized extract twice daily; dental use as needed
 
-**Bioavailability:** Salvadorine and other [alkaloids](/glossary/compounds-1-a/#alkaloids) from Salvadora persica (Pilu/Miswak) show moderate oral bioavailability (25-40%). Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Fluoride content (natural) in stems provides topical dental mineralization effect. Chloride ions in extract enhance salivary production locally. Systemic absorption from chewing stick use is minimal but sufficient for dental benefits.
+**Bioavailability:** Salvadorine and other [alkaloids](/glossary/compounds-1-a/#alkaloids) from Salvadora persica (Pilu/Miswak) show moderate oral bioavailability (25-40%). Benzyl isothiocyanate is rapidly absorbed from GI tract but also rapidly metabolized. Chloride ions in extract enhance salivary production locally. Systemic absorption from chewing stick use is minimal.
 
 **Optimal Timing:** Chewing stick: morning before meals (traditional dental hygiene). Oral supplements: after meals. Toothpaste/powder: twice daily brushing.
 

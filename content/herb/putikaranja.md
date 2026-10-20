@@ -65,6 +65,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putikaranja/meta-analysis.md"
 
 - [Neem](/herb/neem/) (synergistic biopesticide and dermatological)
 - [Haridra](/herb/haridra/) (anti-inflammatory skin formulation)
-- [Karanja](/herb/karanja/) + [Nimba](/herb/nimba/) Taila (combined oil for skin infections)
+- [Karanja](/herb/karanja/) + [Nimba](/herb/nimba/) Taila (combined oil traditionally used in skin formulations)
 - [Vidanga](/herb/vidanga/) (anthelmintic combination)
 - [Bakuchi](/herb/bakuchi/) (dermatological synergy for skin pigmentation disorders)

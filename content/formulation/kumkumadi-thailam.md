@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy. Referenced in Indian Pharmacopoeia Commission volumes 3 and 4.
+Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy. Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIMH) Volumes 3 and 4.
 
 ## How does it work?
 
@@ -68,7 +68,7 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Dosage Forms:** Thailam (medicated oil for facial/skin use), Serum (modern), Cream (modern)
 
-**Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime. The Ayurvedic Formulary of India attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
+**Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime. The Ayurvedic Formulary of India, unlike the Bhaishajya Ratnavali and Ashtanga Hridayam references given above, attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
 **Bioavailability:** Identical to [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). If [coconut oil](/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/reference/antimicrobial/) activity on facial skin.
 

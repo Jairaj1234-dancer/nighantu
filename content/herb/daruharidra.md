@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 ## How does it work?
 
 - JAK1/STAT1 pathway suppression: [Berberine](/glossary/compounds-a-c/#berberine) inhibits the JAK1/STAT1 signaling cascade, reducing keratinocyte hyperproliferation and inflammatory cytokine production in psoriasis
-- MMP-1 and MMP-9 inhibition for anti-aging: [Berberine](/glossary/compounds-a-c/#berberine) inhibits UV-induced MMP-1 and MMP-9 expression, prevents TPA-induced ERK activation and AP-1 DNA binding, protecting collagen and extracellular matrix from degradation
-- Anti-tyrosinase skin lightening: [Berberine](/glossary/compounds-a-c/#berberine) and Berberis aristata extracts inhibit tyrosinase enzyme activity, reducing melanin biosynthesis for skin lightening and hyperpigmentation correction
-- Anti-microbial S. aureus inhibition: [Berberine](/glossary/compounds-a-c/#berberine) inhibits Staphylococcus aureus colonization and mast cell degranulation, particularly relevant for eczema management where bacterial infection exacerbates symptoms
+- MMP-1 and MMP-9 inhibition: [Berberine](/glossary/compounds-a-c/#berberine) inhibits UV-induced MMP-1 and MMP-9 expression, prevents TPA-induced ERK activation and AP-1 DNA binding, protecting collagen and extracellular matrix from degradation
+- Anti-tyrosinase skin lightening: [Berberine](/glossary/compounds-a-c/#berberine) and Berberis aristata extracts inhibit tyrosinase enzyme activity, which may reduce melanin biosynthesis
+- Anti-microbial S. aureus inhibition: [Berberine](/glossary/compounds-a-c/#berberine) has been reported to inhibit Staphylococcus aureus colonization and mast cell degranulation
 
 ## Which traditional uses are supported by research?
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 - Saeidi S, Ghanadian SM, Poostiyan N and others 2024. [Evaluation of the effectiveness of Berberis integerrima Bunge root extract combined with spearmint essential oil in the treatment of acne vulgaris: A randomized controlled clinical trial](https://pubmed.ncbi.nlm.nih.gov/38545754/). *Journal of cosmetic dermatology*. PMID [38545754](https://pubmed.ncbi.nlm.nih.gov/38545754/) · [doi:10.1111/jocd.16291](https://doi.org/10.1111/jocd.16291)  
   A randomized controlled trial reported significant clinical improvement in acne vulgaris patients given Berberis root extract combined with spearmint oil.
 - Duda-Madej A, Lipska P, Viscardi S and others 2025. [Targeting Skin Neoplasms: A Review of Berberine's Anticancer Properties](https://pubmed.ncbi.nlm.nih.gov/40710294/). *Cells*. PMID [40710294](https://pubmed.ncbi.nlm.nih.gov/40710294/) · [doi:10.3390/cells14141041](https://doi.org/10.3390/cells14141041)  
-  Berberine demonstrated anticancer properties against various skin neoplasms through modulation of apoptotic pathways, cell cycle arrest, and inhibition of tumor proliferation signaling.
+  This review reports that berberine has shown anticancer properties against various skin neoplasms through modulation of apoptotic pathways, cell cycle arrest, and inhibition of tumor proliferation signaling.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -114,6 +114,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 
 - With [Pippali](/herb/pippali/) (Piper longum) - piperine enhances berberine bioavailability 5x
 - With [Haridra](/herb/haridra/) (Curcuma longa) for synergistic anti-inflammatory action
-- With Amalaki for diabetic management
+- With Amalaki
 - With [Triphala](/herb/triphala/) for ophthalmic applications
 - With [Nimba](/herb/nimba/) for skin disorders and antimicrobial synergy

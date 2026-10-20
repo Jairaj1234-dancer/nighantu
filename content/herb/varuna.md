@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Varuna (Crateva nurvala) is a plant drug, also called Barna. Betulinic acid similarly shows poor absorption. Saponins (varunosides) undergo partial hydrolysis by gut bacteria enhancing aglycone absorption. Glucosinolates (glucocapparin) are well absorbed and metabolized to bioactive isothiocyanates by myrosinase or gut bacteria."
+answer: "Varuna (Crateva nurvala) is a plant drug, also called Barna."
 botanical: "Crateva nurvala"
 family: "Capparaceae"
 sanskrit: ""
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gokshura](/herb/gokshura/) (Tribulus terrestris) - synergistic litholytic and diuretic action (Varunadi formulations)
-- Pashanbheda (Bergenia ligulata) - stone-dissolving combination
+- [Gokshura](/herb/gokshura/) (Tribulus terrestris) - traditionally combined for urinary stones and diuresis (Varunadi formulations)
+- Pashanbheda (Bergenia ligulata) - traditionally combined for urinary stones
 - [Shilajit](/herb/shilajit/) - mineral-rich adjunct for urinary conditions
 - [Punarnava](/herb/punarnava/) (Boerhavia diffusa) - renal supportive synergy
 - [Yavakshara](/herb/yavakshara/) (barley alkali) - alkalinizing combination for urinary pH management

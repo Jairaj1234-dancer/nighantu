@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 ## How does it work?
 
 - Anti-inflammatory action via triterpenoid-mediated (betulinic acid) inhibition of 5-LOX and COX-2 pathways
-- [Anticancer](/reference/anticancer/) activity through betulinic acid-induced mitochondrial apoptosis and caspase cascade activation in cancer cells
+- Studies of betulinic acid (a constituent) in cancer cells have reported [anticancer](/reference/anticancer/) activity through mitochondrial apoptosis and caspase cascade activation
 - [Anxiolytic](/reference/anxiolytic/) and anticonvulsant effects via GABAergic receptor modulation by bark alkaloid fractions
 - Oral health protection through [antimicrobial](/reference/antimicrobial/) activity against Streptococcus mutans and astringent tannin effects on gingival tissue
 

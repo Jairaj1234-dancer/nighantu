@@ -27,9 +27,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 ## How does it work?
 
-- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) acts as an immunomodulator and [Rasayana](/reference/rasayana/), enhancing cellular immunity and tissue regeneration through interactions with immune cell receptors
+- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) is traditionally regarded as a [Rasayana](/reference/rasayana/); immunomodulatory effects have been proposed but are not established in humans
 - Mukta Bhasma provides bioavailable calcium and conchiolin [peptides](/glossary/compounds-o-q/#peptides) that exert cooling, anti-inflammatory and antacid effects, pacifying Pitta dosha
-- Gold preparation increases sperm motility and prostatic activity, suggesting a hormonal modulation mechanism relevant to its traditional use as a [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac))
+- Gold preparations have been reported to affect sperm motility and prostatic activity; this is not established, and its relevance to the traditional use as a [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) is unclear
 
 ## Which traditional uses are supported by research?
 

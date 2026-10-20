@@ -32,8 +32,8 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 ## How does it work?
 
 - Dual digestive action: Unique combination acts as an appetizer (Deepana) when taken before meals and as a digestive (Pachana) when taken after meals, demonstrating biphasic pharmacodynamic action
-- Pitta regulation: Increases Pitta and regulates Vata in the stomach, promoting proper secretion of digestive Pitta (gastric juices) while Amalaki's cooling Vipaka prevents Pitta excess and heartburn
-- [Plumbagin](/glossary/compounds-o-q/#plumbagin)-mediated [antimicrobial](/reference/antimicrobial/): Plumbagin from Chitraka provides antimicrobial activity in the gut, maintaining healthy microbial balance and preventing opportunistic infections
+- Pitta regulation: Increases Pitta and regulates Vata in the stomach, promoting proper secretion of digestive Pitta (gastric juices)
+- [Plumbagin](/glossary/compounds-o-q/#plumbagin)-mediated [antimicrobial](/reference/antimicrobial/): Plumbagin from Chitraka is reported to have antimicrobial activity
 - Carminative and antiflatulent: Hing (asafoetida) and Rock Salt ([Saindhava Lavana](/herb/saindhava-lavana/)) reduce gas formation and aid electrolyte balance in the digestive tract
 - Bioavailability enhancement: [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all active phytoconstituents, increasing therapeutic efficacy
 
@@ -42,7 +42,6 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for functional dyspepsia. A randomized clinical study reported improvement in symptoms.
-- Traditionally used for heartburn and acid reflux, described in classical practice as [Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing).
 - Traditionally used for appetite stimulation (Deepana) and digestion (Pachana), taken before and after meals.
 - Traditionally used for flatulence and bloating. The carminative properties are attributed to the combination of Hing and [Saindhava Lavana](/herb/saindhava-lavana/).
 
@@ -52,8 +51,8 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ## Recent safety updates
 
-- Generally safe herbal formulation without heavy metals; mild GI irritation possible in sensitive individuals; avoid in active gastric/duodenal ulcer; Rock Salt content requires caution in patients with hypertension or sodium-restricted diets
-- Contraindicated during pregnancy due to Ushna Virya herbs; not recommended for children under 5 years without physician guidance; long-term use is generally safe but should be guided by a practitioner
+- Mild GI irritation possible in sensitive individuals; avoid in active gastric/duodenal ulcer; Rock Salt content requires caution in patients with hypertension or sodium-restricted diets
+- Contraindicated during pregnancy due to Ushna Virya herbs; not recommended for children under 5 years without physician guidance; long-term use should be guided by a practitioner
 
 ## Dosage forms and preparation
 

@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 ## Recent safety updates
 
-- Heartwood water ([Vijaysar](/herb/vijaysar/) tumbler water) is traditionally consumed daily for diabetes management and is considered safe; clinical safety established through widespread traditional use
+- Heartwood water ([Vijaysar](/herb/vijaysar/) tumbler water) is traditionally consumed daily; its clinical safety has not been established in controlled studies
 - Standardized extracts should be used under guidance for diabetic patients on concurrent hypoglycemic medications to avoid additive hypoglycemia risk. Kino gum is astringent and should be used cautiously in constipated patients.
 
 ## Modern Research (Meta-Analysis)
@@ -174,7 +174,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 **Bioavailability:** Moderate oral bioavailability. Pterocarpus marsupium heartwood contains [pterostilbene](/glossary/compounds-o-q/#pterostilbene) (dimethylated [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) analog) with significantly better bioavailability (~80%) compared to resveratrol (~20%). Epicatechin from heartwood has ~20% oral bioavailability. Marsupin and pterostilbene are well absorbed from GI tract. The traditional water-vessel preparation (Asana wood tumbler soaked with water overnight) represents a slow cold-extraction method.
 
-**Optimal Timing:** Water soaked in [Vijaysar](/herb/vijaysar/) tumbler overnight, consumed early morning empty stomach for diabetes. Powder/capsules before meals for glycemic control.
+**Optimal Timing:** Traditionally, water soaked in a [Vijaysar](/herb/vijaysar/) tumbler overnight is consumed early morning on an empty stomach. Powder/capsules are traditionally taken before meals.
 
 **Standardized Extract:** Heartwood extract (10:1) standardized to minimum 5% pterostilbene. Total polyphenol content minimum 20%. Epicatechin content minimum 3%. Marsupsin content minimum 1%.
 
@@ -197,5 +197,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 - With Meshashringi (Gymnema) for diabetes management
 - With [Haridra](/herb/haridra/) for anti-diabetic and anti-inflammatory synergy
 - With Amalaki for antioxidant and glycemic control
-- With Vijaysar (synonym) water for pre-diabetic management
 - Part of Asanadi Kwatha for Prameha (diabetes)

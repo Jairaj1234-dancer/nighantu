@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Navayasa Loha is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; standardization protocols established."
+answer: "Navayasa Loha is an iron preparation that combines Loha Bhasma with nine herbal drugs. Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; standardization protocols established."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -56,7 +56,7 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 - Clinical trials showed no side effects on liver or kidney function tests during treatment period
 - Prolonged use beyond prescribed duration may risk iron overload; periodic monitoring of serum ferritin and transferrin saturation recommended
 - Contraindicated in hemochromatosis and iron storage disorders; pre-treatment iron studies advised
-- Contains no mercury or other toxic heavy metals - purely herbo-iron formulation with better safety profile than mercury-containing Rasa preparations
+- The classical recipe contains no mercury, unlike mercury-containing Rasa preparations
 - Chitraka (Plumbago zeylanica) at high doses can be irritant; formulation ratio ensures safe levels but gastric sensitivity should be monitored
 
 ## What is it made of?
@@ -78,7 +78,7 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 
 **Optimal Timing:** After meals with honey or ghee
 
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) combined with [Triphala](/herb/triphala/) and five herbal components (total 9 ingredients: Nava = nine)
+**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) (9 parts) combined with nine herbal drugs: [Trikatu](/herb/trikatu/), [Triphala](/herb/triphala/), Chitraka, Vidanga and Musta (Nava = nine)
 
 **Shelf Life:** 2–3 years (churna); 3–5 years (vati)
 

@@ -129,8 +129,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
   Scoping review of 60 articles (Jan 1990-Sep 2024): 14 clinical trials reported adverse effects, 23 reported none, 13 did not report. Most common adverse effect was mild gastrointestinal discomfort. No fatalities attributed to fenugreek use.
 - Vajdi M, Noshadi N, Bonyadian A and others 2024. [Therapeutic effect of fenugreek supplementation on type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials](https://pubmed.ncbi.nlm.nih.gov/39286181/). *Heliyon*. PMID [39286181](https://pubmed.ncbi.nlm.nih.gov/39286181/) · [doi:10.1016/j.heliyon.2024.e36649](https://doi.org/10.1016/j.heliyon.2024.e36649)  
   Meta-analysis confirmed therapeutic benefit of fenugreek supplementation for T2DM management, with significant improvements in glycemic markers.
-- Majeed M, Majeed S, Narayanan NK and others 2019. [A pilot, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of a novel Boswellia serrata extract in the management of osteoarthritis of the knee](https://pubmed.ncbi.nlm.nih.gov/30838706/). *Phytotherapy research : PTR*. PMID [30838706](https://pubmed.ncbi.nlm.nih.gov/30838706/) · [doi:10.1002/ptr.6338](https://doi.org/10.1002/ptr.6338)  
-  Patented fenugreek seed extract demonstrated both safety and efficacy in T2DM patients in a rigorous randomized double-blind placebo-controlled design.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -141,8 +139,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 - Allergic reactions: 10 case reports/series documented allergic reactions or hypersensitivity (cross-reactivity possible with chickpeas and other legumes).
 - Maple syrup odor: Characteristic odor in sweat, urine, or skin of mothers and breastfed infants -- can mimic maple syrup urine disease in neonatal screening.
 - Suspected hypokalemia reported in some cases.
-- Pregnancy contraindicated: Not recommended during pregnancy due to potential uterotonic effects. Unknown if it passes into breast milk.
-- No known severe, serious, or moderate drug interactions documented, but caution with diabetes, asthma, and [potassium](/glossary/compounds-o-q/#potassium)-lowering medications.
+- Pregnancy contraindicated: Not recommended during pregnancy due to potential uterotonic effects.
+- Few drug interactions documented; caution with diabetes, asthma, and [potassium](/glossary/compounds-o-q/#potassium)-lowering medications.
 - Hepatotoxicity: No clinically apparent liver injury cases despite widespread use; prospective studies show no effect on serum enzyme levels at therapeutic doses.
 - Case report (2025): Ribociclib-induced hepatotoxicity potentially exacerbated by concurrent fenugreek supplement use, suggesting possible CYP-mediated interactions with oncology drugs.
 - No fatalities attributed to fenugreek use in the literature.
@@ -155,7 +153,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 **Dosage Forms:** Churna (seed powder), Capsules, Tablets, Decoction, Sprouted seeds, Extract (hydroalcoholic), [Mucilage](/glossary/compounds-l-o/#mucilage) gel, Topical paste/hair mask
 
-**Standard Dosage:** 5-30 g seed powder per day (diabetes management); 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily
+**Standard Dosage:** 5-30 g seed powder per day; 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily
 
 **Bioavailability:** 4-Hydroxyisoleucine has good oral bioavailability (~60%). Diosgenin is lipophilic with moderate absorption enhanced by lipid co-administration. Galactomannan fiber (50% of seed) is not absorbed but slows glucose and lipid absorption, providing therapeutic benefit. Trigonelline has good water solubility and oral bioavailability (~70%). Steroidal saponins undergo GI hydrolysis before absorption.
 

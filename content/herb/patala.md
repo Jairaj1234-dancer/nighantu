@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Heart-Circulation"
-answer: "Patala (Stereospermum chelonoides) is a plant drug, also called Khrisnavrna, Madhudui and Tamrapuspi. Lapachol is lipophilic and benefits from lipid-based delivery. Flavonoids (dinatin, scutellarein) show 15-30% bioavailability. Iridoid glycosides present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics."
+answer: "Patala (Stereospermum chelonoides) is a plant drug, also called Khrisnavrna, Madhudui and Tamrapuspi."
 botanical: "Stereospermum chelonoides"
 family: "Bignoniaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** [Lapachol](/glossary/compounds-g-l/#lapachol) and other naphthoquinones from Stereospermum suaveolens (Patala) have moderate oral bioavailability (25-40%). Lapachol is lipophilic and benefits from lipid-based delivery. [Flavonoids](/reference/flavonoids/) (dinatin, [scutellarein](/glossary/compounds-q-t/#scutellarein)) show 15-30% bioavailability. Iridoid [glycosides](/glossary/compounds-g-l/#glycosides) present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics.
+**Bioavailability:** [Lapachol](/glossary/compounds-g-l/#lapachol) and other naphthoquinones from Patala have moderate oral bioavailability (25-40%). Lapachol is lipophilic and benefits from lipid-based delivery. [Flavonoids](/reference/flavonoids/) (dinatin, [scutellarein](/glossary/compounds-q-t/#scutellarein)) show 15-30% bioavailability. Iridoid [glycosides](/glossary/compounds-g-l/#glycosides) present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics.
 
 **Optimal Timing:** After meals for general anti-inflammatory use. As part of Dashmool Kwatha: morning and evening between meals.
 

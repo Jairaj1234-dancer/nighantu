@@ -39,8 +39,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 - [Antispasmodic](/glossary/pharmacology/#antispasmodic) activity through calcium channel blockade and smooth muscle relaxation in gastrointestinal tract
 - [Antimicrobial](/reference/antimicrobial/) action via organosulfide-mediated disruption of microbial cell membranes
-- Cancer chemopreventive effects through ferulic acid-mediated inhibition of NF-kB and modulation of detoxification [enzymes](/glossary/compounds-d-g/#enzymes)
-- Hypotensive effect via vasodilation mediated by sesquiterpene coumarins
 
 ## Which traditional uses are supported by research?
 
@@ -68,14 +66,12 @@ Traditionally used in Ayurveda as a digestive, respiratory, and anti-infectious 
 ### Key Active Markers
 
 - Umbelliferone
-- Coumarin
 - Coumarins
 - Ferulic acid
-- 
 - Asaresinotannols A and B 
 - Organosulfides 
 - Volatile essential oils 
-- Sesquiterpene 
+- Sesquiterpene coumarins
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -85,7 +81,7 @@ Traditionally used in Ayurveda as a digestive, respiratory, and anti-infectious 
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Gardenia gummifera resin exudate contains [terpenoids](/glossary/compounds-t-z/#terpenoids) and gum [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Limited modern pharmacokinetic data. Terpenoid components likely have moderate lipophilic absorption. Traditional decoction preparation facilitates extraction of water-soluble constituents. Gum fraction acts as a soluble fiber with prebiotic potential.
+**Bioavailability:** Limited modern pharmacokinetic data. Traditional decoction preparation facilitates extraction of water-soluble constituents.
 
 **Optimal Timing:** Before or with meals with warm water
 
@@ -93,9 +89,9 @@ Traditionally used in Ayurveda as a digestive, respiratory, and anti-infectious 
 
 **Shelf Life:** 2 years (powder); 2 years (capsule)
 
-**Storage:** Cool, dry place below 25°C. Gum-resin is hygroscopic; airtight containers with desiccant essential.
+**Storage:** Cool, dry place below 25°C.
 
-**Marker Compounds:** Terpenoids (general TLC profiling), Gum polysaccharides (viscosity-based assay), [Isoflavones](/glossary/compounds-g-l/#isoflavones) (tentative)
+**Marker Compounds:** Umbelliferone, Ferulic acid, Organosulfides
 
 ### Extraction Methods
 

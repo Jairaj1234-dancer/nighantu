@@ -132,7 +132,7 @@ Fruit powder: 3-6g/day; As part of [Triphala](/herb/triphala/): 2-4g/day
 
 **Storage:** Cool, dry place in airtight containers. Hygroscopic powder requires moisture protection. Whole dried fruits store best. Temperature below 30°C.
 
-**Marker Compounds:** Gallic acid, Ellagic acid, Belleric acid (bellericanin), Chebulagic acid, Beta-sitosterol, Ethyl gallate, Galloyl [glucose](/glossary/compounds-d-g/#glucose), Lignans
+**Marker Compounds:** Gallic acid, Ellagic acid, Belleric acid, Bellericanin, Chebulagic acid, Beta-sitosterol, Ethyl gallate, Galloyl [glucose](/glossary/compounds-d-g/#glucose), Lignans
 
 ### Extraction Methods
 

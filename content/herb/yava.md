@@ -40,8 +40,8 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 
 ## How does it work?
 
-- Lekhana (scraping/fat reduction): Beta-glucan forms viscous gel in the gut that traps bile acids, forcing hepatic cholesterol conversion; reduces LDL cholesterol by 5-10% and promotes fat mobilization
-- Glycemic control: Resistant starch and beta-glucan slow carbohydrate digestion and [glucose](/glossary/compounds-d-g/#glucose) absorption, reducing postprandial glycemic spikes; chromium content improves insulin sensitivity
+- Lekhana (scraping/fat reduction): Beta-glucan forms viscous gel in the gut that traps bile acids, forcing hepatic cholesterol conversion
+- Glycemic control: Resistant starch and beta-glucan slow carbohydrate digestion and [glucose](/glossary/compounds-d-g/#glucose) absorption, reducing postprandial glycemic spikes
 - [Antioxidant](/reference/antioxidant/): Tocols and phenolic acids neutralize free radicals, protect LDL from oxidation, and reduce inflammatory markers
 - Prebiotic: Beta-glucan and arabinoxylan fermented by colonic bacteria produce short-chain fatty acids (butyrate, propionate) that nourish colonocytes and modulate lipid metabolism
 
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 
 - Prameha (diabetes/metabolic disorders): classically regarded as the best grain for prameha. Studies on barley beta-glucan have reported effects on blood glucose and insulin sensitivity.
 - Sthaulya and Medoroga (obesity and lipid disorders): traditionally used for its lekhana (scraping) action. Studies on beta-glucan have reported bile acid binding, cholesterol-lowering activity and effects on fat metabolism.
-- Mutra Roga (urinary disorders): barley water (Yava Kshira) is traditionally used as a kidney tonic. Studies have reported [diuretic](/reference/diuretic/) properties and anti-urolithiatic activity for alkaline compounds in barley.
+- Mutra Roga (urinary disorders): barley water is traditionally used as a kidney tonic. Studies have reported [diuretic](/reference/diuretic/) properties and anti-urolithiatic activity for alkaline compounds in barley.
 
 ## What do recent studies show?
 

@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karira/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Punarnava](/herb/punarnava/) for [hepatoprotective](/reference/hepatoprotective/) and anti-edema activity
-- [Gokshura](/herb/gokshura/) for urinary disorders
-- [Varuna](/herb/varuna/) for urinary calculi dissolution
+- [Punarnava](/herb/punarnava/) traditionally paired to support liver function ([hepatoprotective](/reference/hepatoprotective/) use) and in formulations for oedema
+- [Gokshura](/herb/gokshura/), traditionally paired to support urinary function
+- [Varuna](/herb/varuna/), traditionally paired in formulations for urinary calculi
 - [Guduchi](/herb/guduchi/) for liver protection

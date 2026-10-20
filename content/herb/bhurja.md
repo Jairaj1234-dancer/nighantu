@@ -38,11 +38,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bhurja/meta-analysis.md"
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Lepa (paste), Taila (oil), Capsule
 
-**Standard Dosage:** 3-6g bark powder twice daily; 50-100ml bark decoction; external paste as needed for wound care
+**Standard Dosage:** 3-6g bark powder twice daily; 50-100ml bark decoction; external paste as needed, traditionally used on wounds
 
 **Bioavailability:** [Betulin](/glossary/compounds-a-c/#betulin) and betulinic acid show low oral bioavailability (<5%) due to poor aqueous solubility. Cyclodextrin inclusion complexes or amorphous solid dispersions improve betulinic acid bioavailability by 4-8x. Lipid-based delivery (with ghee) moderately enhances absorption. Nanoformulations (PLGA nanoparticles) show significant improvement in preclinical models.
 
-**Optimal Timing:** With meals for general use; external paste applied morning and evening for skin conditions; decoction before meals for urinary disorders
+**Optimal Timing:** With meals for general use; external paste applied morning and evening for skin conditions; decoction before meals
 
 **Standardized Extract:** Bark extract standardized to betulin NLT 15%; betulinic acid NLT 3%. Total [triterpenes](/glossary/compounds-t-z/#triterpenes) NLT 20%.
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bhurja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Guggulu](/formulation/guggulu/) for anti-inflammatory and wound healing
+- With [Guggulu](/formulation/guggulu/), traditionally paired for anti-inflammatory and wound-healing use
 - With [Haridra](/herb/haridra/) for skin conditions
-- With [Manjishtha](/herb/manjishtha/) for blood purification
+- With [Manjishtha](/herb/manjishtha/), traditionally paired for blood purification
 - With [Lodhra](/herb/lodhra/) for astringent formulations

@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Morning_Glory/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder, micro-dosed), Kwatha (leaf/root decoction), Capsules (standardized extract), Topical paste, Taila (medicated oil)
+**Dosage Forms:** Churna (leaf/root powder), Kwatha (leaf/root decoction), Capsules (standardized extract), Topical paste, Taila (medicated oil)
 
 **Standard Dosage:** Seeds: NOT recommended for internal use due to ergot alkaloid content. Leaf/Root: 3-5 g powder per day; 50-100 mL decoction of leaves twice daily; topical as directed. CAUTION: Some species contain lysergic acid amide (LSA).
 

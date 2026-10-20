@@ -113,7 +113,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Kutaja (Holarrhena) for antidiarrheal synergy
-- With Musta (Cyperus rotundus) for GI astringent action
-- With [Haritaki](/herb/haritaki/) for comprehensive anthelmintic effect
+- With Kutaja (Holarrhena), traditionally paired for Atisara (diarrhea)
+- With Musta (Cyperus rotundus), traditionally paired as a GI astringent
+- With [Haritaki](/herb/haritaki/), traditionally paired for Krimi (intestinal parasites)
 - With Sunthi ([ginger](/herb/ginger/)) to balance astringent-induced constipation

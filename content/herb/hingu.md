@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - [Antispasmodic](/glossary/pharmacology/#antispasmodic) action through relaxation of smooth muscle via calcium channel antagonism, particularly in the gastrointestinal tract
 - Anti-inflammatory activity mediated by ferulic acid and sesquiterpene coumarins through inhibition of NF-kB and COX-2 pathways
 - Organosulfur compounds provide [antimicrobial](/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
-- Volatile oil components eliminated through the lungs provide [expectorant](/reference/expectorant/) and bronchodilatory effects for respiratory conditions
+- Volatile oil components eliminated through the lungs are proposed to have [expectorant](/reference/expectorant/) and bronchodilatory effects (not established in humans)
 - [Antioxidant](/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
 
 ## Which traditional uses are supported by research?

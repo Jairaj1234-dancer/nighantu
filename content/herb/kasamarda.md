@@ -39,9 +39,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 ## How does it work?
 
-- Anthraquinone-mediated fungal membrane disruption: Chrysophanol and emodin interact with [ergosterol](/glossary/compounds-d-g/#ergosterol) in fungal cell membranes, causing structural damage and cell death - particularly effective against Candida albicans linked to common skin candidiasis
+- Anthraquinone-mediated fungal membrane disruption: Chrysophanol and emodin interact with [ergosterol](/glossary/compounds-d-g/#ergosterol) in fungal cell membranes, causing structural damage and cell death; studies have reported activity against Candida albicans
 - Cassiollin chromone anti-inflammatory pathway: Unique chromone compound cassiollin modulates inflammatory signaling cascades, reducing skin inflammation and edema
-- Chrysophanic acid keratolytic action: Anthraquinone chrysophanic acid promotes gentle exfoliation of thickened, scaly skin in conditions like psoriasis and fungal infections
+- Chrysophanic acid keratolytic action: Anthraquinone chrysophanic acid has been proposed to promote gentle exfoliation of thickened, scaly skin
 - [Apigenin](/glossary/compounds-1-a/#apigenin) [antioxidant](/reference/antioxidant/) skin protection: Flavone [apigenin](/glossary/compounds-1-a/#apigenin) inhibits UV-induced oxidative damage, protects against DNA photodamage, and modulates inflammatory cytokine production in skin cells
 
 ## Which traditional uses are supported by research?
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Swarasa (leaf juice), Capsule, Tablet, Taila (infused oil for skin)
 
-**Standard Dosage:** 3-6 g seed/leaf powder twice daily; 50-100 mL decoction; 10-20 mL leaf juice; 500 mg capsule twice daily
+**Standard Dosage:** (Caution: oral seed and leaf use has been associated with hepatotoxicity and myotoxicity; see Recent safety updates.) 3-6 g seed/leaf powder twice daily; 50-100 mL decoction; 10-20 mL leaf juice; 500 mg capsule twice daily
 
 **Bioavailability:** Anthraquinone glycosides (chrysophanol, emodin) show moderate bioavailability with extensive hepatic conjugation (glucuronidation). Sennosides require colonic bacterial hydrolysis for activation, delayed onset of action (6-12 hours). Chrysophanol bioavailability enhanced through solid dispersion technology. Emodin shows improved absorption with phospholipid complexation.
 
@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 ### Synergistic Combinations
 
 - Bhringaraj for hepatoprotective formulations
-- Kutki for liver disorders and hepatitis
+- Kutki, traditionally combined in liver-supporting formulations
 - [Haritaki](/herb/haritaki/) for laxative synergy
 - [Bakuchi](/herb/bakuchi/) for skin depigmentation disorders
 - [Nimba](/herb/nimba/) for antifungal dermatological combinations

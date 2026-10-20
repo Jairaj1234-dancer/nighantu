@@ -31,9 +31,9 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 ## How does it work?
 
-- Nervine tonic action of [Bala](/herb/bala/) (Sida cordifolia) strengthens neural tissue and improves nerve conduction
+- [Bala](/herb/bala/) (Sida cordifolia) is regarded in classical practice as a nervine tonic
 - [Adaptogenic](/reference/adaptogenic/) and [immunomodulatory](/reference/immunomodulatory/) effects of [Ashwagandha](/herb/ashwagandha/) enhance stress resistance and immune function
-- Anti-inflammatory and [analgesic](/reference/analgesic/) properties reduce joint and muscle pain in rheumatic conditions
+- Anti-inflammatory and [analgesic](/reference/analgesic/) properties are traditionally attributed to it in joint and muscle pain
 - Nutritive and restorative (Balya) action improves overall body strength and organ nourishment
 
 ## Which traditional uses are supported by research?

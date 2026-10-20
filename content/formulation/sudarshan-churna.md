@@ -31,9 +31,9 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## How does it work?
 
-- [Antipyretic](/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita activates hypothalamic thermoregulatory centers and inhibits prostaglandin synthesis via COX-2 suppression, reducing fever
+- [Antipyretic](/reference/antipyretic/) pathway: Swertiamarin (terpenoid) in Swertia chirayita is proposed to act on hypothalamic thermoregulatory centers and to inhibit prostaglandin synthesis via COX-2 suppression
 - Antimalarial action: Chirayita and [Neem](/herb/neem/) contain bitter compounds (swertiamarin, [nimbin](/glossary/compounds-l-o/#nimbin)) with documented antiplasmodial activity against Plasmodium species
-- Diaphoretic and [diuretic](/reference/diuretic/): The combination induces perspiration and promotes urination, eliminating metabolic toxins and breaking the fever cycle
+- Diaphoretic and [diuretic](/reference/diuretic/): The combination is traditionally described as inducing perspiration and promoting urination
 - Agni-Ama axis regulation: Bitter-cool herbs clear Pitta and neutralize toxins while warming pungents (Shunthi, [Pippali](/herb/pippali/)) kindle Agni to metabolize Ama, restoring digestive equilibrium
 
 ## Which traditional uses are supported by research?
@@ -53,7 +53,7 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## Recent safety updates
 
-- Generally safe for short-term fever management; extremely bitter taste may cause nausea; avoid in patients with chronic diarrhea, peptic ulcer, or gastric hyperacidity due to predominance of bitter herbs
+- Extremely bitter taste may cause nausea; avoid in patients with chronic diarrhea, peptic ulcer, or gastric hyperacidity due to predominance of bitter herbs
 - Not recommended during pregnancy and lactation; caution in diabetic patients as several ingredients possess hypoglycemic activity; monitor blood sugar if used alongside antidiabetic medications
 
 ## What is it made of?

@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 **Storage:** Locked storage, clearly labeled as TOXIC/POISONOUS. Restricted access. Full safety documentation required. Not for general commercial storage or distribution.
 
-**Marker Compounds:** 12-O-Tetradecanoylphorbol-13-acetate (TPA/PMA) - toxic marker, must be monitored, Croton oil (irritant), Crotonic acid, Crotin protein (toxalbumin), Phorbol-12,13-dibutyrate
+**Marker Compounds:** 12-O-Tetradecanoylphorbol-13-acetate (TPA/PMA) - toxic marker, must be monitored, Croton oil (irritant), Crotonic acid, Crotin protein (toxalbumin)
 
 ### Extraction Methods
 

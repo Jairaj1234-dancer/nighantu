@@ -11,7 +11,7 @@ botanical: "Mentha spicata"
 family: "Lamiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the British Pharmacopoeia with specifications for essential oil composition (carvone >=55%, pulegone <0.5%). GRAS status recognized by US-FDA. Referenced in Ayurvedic texts including Mughal-era Ayurvedic manuals (Rasaratna Samucchaya). Not listed as standalone WHO monograph; additional clinical trial evidence needed."
+whoStatus: "Listed in the British Pharmacopoeia with specifications for essential oil composition (carvone >=55%, pulegone <0.5%). GRAS status recognized by US-FDA. Referenced in Ayurvedic texts including Rasaratna Samucchaya. Not listed as standalone WHO monograph; additional clinical trial evidence needed."
 aliases: ["Mentha spicata"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## How does it work?
 
-- Carvone inhibits pancreatic lipase activity, reducing dietary fat absorption relevant to obesity management
+- Carvone and spearmint essential oil have been reported to inhibit pancreatic lipase in laboratory studies; effects on fat absorption in humans have not been established
 - Rosmarinic acid provides potent [antioxidant](/reference/antioxidant/) activity through free radical scavenging and metal chelation, with additional immunosuppressant and anti-inflammatory effects
 - [Anxiolytic](/reference/anxiolytic/) and sedative effects mediated through GABAergic system modulation, enhancing GABA receptor activity
 - [Antimicrobial](/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation (particularly against MRSA)
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 - El Menyiy N, Mrabti HN, El Omari N and others 2022. [Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata](https://pubmed.ncbi.nlm.nih.gov/35463088/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [35463088](https://pubmed.ncbi.nlm.nih.gov/35463088/) · [doi:10.1155/2022/7990508](https://doi.org/10.1155/2022/7990508)  
   Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/reference/hepatoprotective/), [antidiabetic](/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
 - Mahendran G, Verma SK, Rahman LU 2021. [The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review](https://pubmed.ncbi.nlm.nih.gov/34087400/). *Journal of ethnopharmacology*. PMID [34087400](https://pubmed.ncbi.nlm.nih.gov/34087400/) · [doi:10.1016/j.jep.2021.114266](https://doi.org/10.1016/j.jep.2021.114266)  
-A chemical analysis identified a range of constituents in spearmint. In Ayurveda, it is traditionally used for digestive, cooling, and toxin-clearing purposes.
+A review of the traditional uses, phytochemistry and pharmacology of spearmint. In Ayurveda, it is traditionally used for digestive, cooling, and toxin-clearing purposes.
 - Ali-Shtayeh MS, Jamous RM, Abu-Zaitoun SY and others 2019. [Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Focus on Potential Benefits in the Treatment of Obesity, Alzheimer's Disease, Dermatophytosis, and Drug-Resistant Infections](https://pubmed.ncbi.nlm.nih.gov/31772594/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [31772594](https://pubmed.ncbi.nlm.nih.gov/31772594/) · [doi:10.1155/2019/3834265](https://doi.org/10.1155/2019/3834265)  
   Demonstrated pancreatic lipase inhibition by carvone and M. spicata essential oil for obesity management; also showed strong inhibitory effect on MRSA biofilm formation for drug-resistant infections.
 

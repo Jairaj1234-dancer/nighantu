@@ -41,8 +41,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 
 ## How does it work?
 
-- Piperine enhances bioavailability of co-administered drugs/nutrients by inhibiting CYP3A4 and P-glycoprotein efflux pump, and stimulating intestinal amino acid transporters; root has higher piperine concentration than fruit
-- Piperlongumine selectively kills cancer cells by elevating reactive oxygen species (ROS) through inhibition of glutathione S-transferase pi 1 (GSTP1), sparing normal cells with adequate [antioxidant](/reference/antioxidant/) defenses
+- Piperine enhances bioavailability of co-administered drugs/nutrients by inhibiting CYP3A4 and P-glycoprotein efflux pump, and stimulating intestinal amino acid transporters
+- Piperlongumine has been reported to raise reactive oxygen species (ROS) in cancer cells through inhibition of glutathione S-transferase pi 1 (GSTP1), with less effect on normal cells with adequate [antioxidant](/reference/antioxidant/) defenses
 - Sesamin and diaeudesmin from root exhibit anti-inflammatory effects through dual inhibition of COX-2 and 5-LOX pathways, reducing both prostaglandin and leukotriene synthesis
 
 ## Which traditional uses are supported by research?

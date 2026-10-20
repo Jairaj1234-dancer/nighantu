@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Shallaki (Boswellia serrata Roxb. ex Colebr.) is a plant drug, also called Sallaki and Salara, from the Burseraceae family. Included in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India; WHO traditional medicine resources acknowledge its anti-inflammatory applications; widely studied in WHO-supported research networks."
+answer: "Shallaki (Boswellia serrata Roxb. ex Colebr.) is a plant drug, also called Sallaki and Salara, from the Burseraceae family. Included in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India."
 botanical: "Boswellia serrata Roxb. ex Colebr."
 family: "Burseraceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Included in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India; WHO traditional medicine resources acknowledge its anti-inflammatory applications; widely studied in WHO-supported research networks"
+whoStatus: "Included in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India"
 aliases: ["Boswellia serrata Roxb. ex Colebr."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 ## How does it work?
 
 - Anti-inflammatory: AKBA is a potent direct inhibitor of 5-lipoxygenase (5-LOX), blocking leukotriene synthesis; also inhibits NF-kB, COX-2, MAPK, and NLRP3 inflammasome
-- Anti-arthritic: Boswellic acids inhibit MMP-3 and MMP-9 (matrix metalloproteinases), protecting cartilage from enzymatic degradation in osteoarthritis
+- Anti-arthritic: Boswellic acids are reported to inhibit MMP-3 and MMP-9 (matrix metalloproteinases), enzymes involved in cartilage degradation
 - [Immunomodulatory](/reference/immunomodulatory/): Modulates T-cell and B-cell function, shifts Th1/Th2 balance, and reduces autoimmune inflammatory cascades
 
 ## Which traditional uses are supported by research?
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 **Standard Dosage:** 400-1200 mg standardized extract per day (typically 300-400 mg three times daily); 3-6 g crude resin powder per day; topical gel 5-10% applied 2-3 times daily
 
-**Bioavailability:** Boswellic acids have poor oral bioavailability (5-10%) due to low aqueous solubility and extensive first-pass metabolism. AKBA (acetyl-11-keto-beta-boswellic acid) is the most potent but least bioavailable constituent. Bioavailability enhanced 3-5x by: (1) phospholipid complexation (Phytosome/Bospure), (2) lecithin-based formulations, (3) co-administration with high-fat meal, (4) nano-emulsion formulations, (5) [piperine](/reference/piperine/) co-administration (1.5-2x enhancement). Casperome (lecithin-based delivery) achieves 52% higher plasma levels.
+**Bioavailability:** Boswellic acids have poor oral bioavailability (5-10%) due to low aqueous solubility and extensive first-pass metabolism. AKBA (acetyl-11-keto-beta-boswellic acid) is the most potent but least bioavailable constituent. Bioavailability reportedly enhanced by: (1) phospholipid complexation (Phytosome/Bospure), (2) lecithin-based formulations, (3) co-administration with high-fat meal, (4) nano-emulsion formulations, (5) [piperine](/reference/piperine/) co-administration (1.5-2x enhancement). Casperome (lecithin-based delivery) achieves 52% higher plasma levels.
 
 **Optimal Timing:** With meals (high-fat meal preferred) for optimal boswellic acid absorption; three divided doses for sustained anti-inflammatory effect
 

@@ -37,8 +37,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-
 
 - Kaphahara (Kapha-reducing) action through mucolytic and [expectorant](/reference/expectorant/) properties, breaking down mucus viscosity and facilitating respiratory clearance
 - Anti-inflammatory effect through suppression of TNF-alpha and IL-6 inflammatory cytokines, reducing respiratory tract inflammation
-- Kshara (alkaline) action through pH modulation in digestive and urinary systems, creating hostile environment for pathogens and dissolving calculi
-- Emmenagogue action through stimulation of uterine contractions and menstrual flow regulation, useful for dysmenorrhea but contraindicated in pregnancy
+- Kshara (alkaline) action, described in Ayurvedic doctrine as acting through pH modulation in digestive and urinary systems
+- Emmenagogue action through stimulation of uterine contractions and menstrual flow regulation; contraindicated in pregnancy
 
 ## Which traditional uses are supported by research?
 
@@ -56,10 +56,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-
 
 ## Recent safety updates
 
-- PREGNANCY CONTRAINDICATED: Tankan Bhasma can cross the placental barrier. Long-term use (>2-4 weeks) in pregnancy may affect birth weight and fetal skeletal development. POSSIBLY UNSAFE in pregnancy and breastfeeding.
+- PREGNANCY CONTRAINDICATED: Tankan Bhasma can cross the placental barrier. POSSIBLY UNSAFE in breastfeeding.
 - MALE FERTILITY CAUTION: Long-term use (>2 months) in men seeking fertility treatment may cause oligospermia (low sperm count) due to Kshara properties
 - BORON ACCUMULATION: Gaps exist in long-term safety data regarding boron accumulation in the body. Periodic monitoring recommended.
-- SAFE AT RECOMMENDED DOSES: Properly purified and calcined [Tankana Bhasma](/herb/tankana-bhasma/) is safe at recommended doses. Toxicity arises only from overuse or poor-quality products.
 
 ## What is it made of?
 

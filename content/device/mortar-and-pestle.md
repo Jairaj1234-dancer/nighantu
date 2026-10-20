@@ -23,7 +23,7 @@ The most fundamental instrument in Ayurvedic pharmacy. A heavy mortar (Khalva) w
 
 ## Where is it described in the classical texts?
 
-Rasaratna Samuchaya Chapter 10; Rasa Tarangini; Sharangdhara Samhita. Essential for every Rasashastra laboratory. Used specifically in the Bhavana (wet trituration) process for preparing Bhasma and Kajjali.
+Rasaratna Samuchaya Chapter 10; Rasa Tarangini; Sharangdhara Samhita. Essential for every Rasashastra laboratory. Used in the Bhavana (wet trituration) process for preparing Bhasma, and in the dry trituration of Kajjali.
 
 ## How is it used traditionally?
 

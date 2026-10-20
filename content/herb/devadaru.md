@@ -100,7 +100,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 **Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/herb/trikatu/) enhances absorption.
 
-**Optimal Timing:** After meals with warm water for respiratory conditions; Taila application with gentle massage for joint disorders, preferably in the evening
+**Optimal Timing:** Traditionally taken after meals with warm water; Taila traditionally applied with gentle massage, preferably in the evening
 
 **Standardized Extract:** Essential oil: standardized to NLT 60% himachalol + himachalenes by GC-MS. Hydroalcoholic extract: NLT 3% total terpenoids. Extract ratio 6:1.
 

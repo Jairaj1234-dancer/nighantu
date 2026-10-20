@@ -64,8 +64,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 ## Recent safety updates
 
 - Acute toxicity studies showed aqueous extract safely tolerated up to 3.125 g/kg in rats with no mortality or adverse effects over the observation period
-- Leptaden (commercial formulation) described as non-hormonal and safe herbal drug, found safe for both mother and child with no toxic side effects
-- Listed as endangered/vulnerable species in India due to over-harvesting; sustainable sourcing is a critical concern; further formal human clinical trials needed to establish safety parameters
+- Leptaden (commercial formulation) has been described as a non-hormonal and safe herbal drug
+- Listed as a vulnerable species due to over-harvesting; sustainable sourcing is a critical concern; further formal human clinical trials needed to establish safety parameters
 
 ## Dosage forms and preparation
 

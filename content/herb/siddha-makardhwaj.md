@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 ## How does it work?
 
 - HgS nanoparticle complex with gold provides a stable, poorly soluble mineral matrix; the enhanced gold content in Siddha form is believed to improve [immunomodulatory](/reference/immunomodulatory/) and [Rasayana](/reference/rasayana/) (rejuvenative) potency
-- Acts at the cellular level to enhance metabolic processes; gold nanoparticles interact with immune cells to boost innate immunity
+- It has been proposed, but not established, that gold nanoparticles may interact with immune cells
 - The mercury sulfide component may modulate enzymatic pathways involved in cellular energy production, while gold particles serve as carrier for targeted tissue delivery
 
 ## Which traditional uses are supported by research?
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 **Standard Dosage:** 30–60 mg twice daily
 
-**Bioavailability:** Superior to standard Makaradhwaj; enhanced by additional herbal processing (Siddha = perfected)
+**Bioavailability:** Traditionally described as superior to standard Makaradhwaj because of additional herbal processing (Siddha = perfected); not established
 
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
 

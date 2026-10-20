@@ -100,7 +100,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Optimal Timing:** Before meals with warm water for metabolic and digestive indications; with [Dashamoola](/herb/dashamoola/) kwatha for inflammatory conditions
 
-**Standardized Extract:** Standardized to minimum 2.5% total flavonoids (as 5-hydroxymethylfurfural equivalent). Root bark extract with minimum 1% prematurrins.
+**Standardized Extract:** Standardized to minimum 2.5% total flavonoids. Root bark extract with minimum 1% prematurrins.
 
 **Shelf Life:** 2 years (powder); 3 years (tablets/capsules); 5 years (Asava-Arishta)
 
@@ -119,5 +119,4 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 - With [Bilva](/herb/bilva/) as part of [Dashamoola](/herb/dashamoola/) (ten roots) formulation
 - With [Shyonaka](/herb/shyonaka/), [Patala](/herb/patala/), [Gambhari](/herb/gambhari/) for anti-inflammatory action
-- With [Guduchi](/herb/guduchi/) for metabolic syndrome
-- With [Guggulu](/formulation/guggulu/) for thyroid support and lipid management
+

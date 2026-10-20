@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Medical-Devices"
 subcategory: "Modern-Ayurvedic-Devices"
 group: "Kansa-Bronze-Foot-Massage-Bowl"
-answer: "Kansa Bronze Foot Massage Bowl (Sanskrit: Kansa Thali Pada Abhyanga) is an instrument used in modern ayurvedic devices. A small bronze bowl used with ghee to massage the soles of the feet, stimulating reflex zones and Marma points on the feet. A traditional Kerala practice (Kansa Vataki) modernized as a wellness tool."
+answer: "Kansa Bronze Foot Massage Bowl (Sanskrit: Kansa Thali Pada Abhyanga) is an instrument used in modern ayurvedic devices. A small bronze bowl used with ghee to massage the soles of the feet. A traditional Kerala practice (Kansa Vataki) modernized as a wellness tool."
 botanical: ""
 family: ""
 sanskrit: "Kansa Thali Pada Abhyanga"
@@ -19,7 +19,7 @@ productHints: []
 words: 143
 srcRel: "Ayurveda/Medical-Devices/Modern-Ayurvedic-Devices/Kansa-Bronze-Foot-Massage-Bowl/device-info.md"
 ---
-A small bronze bowl used with ghee to massage the soles of the feet, stimulating reflex zones and Marma points on the feet. A traditional Kerala practice (Kansa Vataki) modernized as a wellness tool.
+A small bronze bowl used with ghee to massage the soles of the feet. A traditional Kerala practice (Kansa Vataki) modernized as a wellness tool.
 
 ## Where is it described in the classical texts?
 

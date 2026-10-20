@@ -30,8 +30,8 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Chyawanpra
 - Amalaki (Phyllanthus emblica / Indian gooseberry) - primary ingredient
 - [Guduchi](/herb/guduchi/) (Tinospora cordifolia)
 - [Shatavari](/herb/shatavari/) (Asparagus racemosus)
-- [Brahmi](/herb/brahmi/) (Bacopa monnieri)
-- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera)
+- [Brahmi](/herb/brahmi/) (Bacopa monnieri) (in some modern commercial versions, not classical)
+- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera) (in some modern commercial versions, not classical)
 - [Bala](/herb/bala/) (Sida cordifolia)
 - [Pippali](/herb/pippali/) (Piper longum)
 - [Gokshura](/herb/gokshura/) (Tribulus terrestris)
@@ -67,7 +67,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 ## What do recent studies show?
 
 - Sharma S, Sethuraman G, Kumari K 2024. [Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials](https://pubmed.ncbi.nlm.nih.gov/39544586/). *Cureus*. PMID [39544586](https://pubmed.ncbi.nlm.nih.gov/39544586/) · [doi:10.7759/cureus.71532](https://doi.org/10.7759/cureus.71532)  
-  Meta-analysis of 5 RCTs confirmed Chyawanprash provided prophylactic benefit against COVID-19 with 3-times immunity boost and no adverse effects across all age groups
+  A meta-analysis of 5 RCTs reported a prophylactic benefit of Chyawanprash against COVID-19 and no adverse effects
 - Balkrishna A, Tomer M, Manik M and others 2021. [Chyawanprash, An Ancient Indian Ayurvedic Medicinal Food, Regulates Immune Response in Zebrafish Model of Inflammation by Moderating Inflammatory Biomarkers](https://pubmed.ncbi.nlm.nih.gov/34867361/). *Frontiers in pharmacology*. PMID [34867361](https://pubmed.ncbi.nlm.nih.gov/34867361/) · [doi:10.3389/fphar.2021.751576](https://doi.org/10.3389/fphar.2021.751576)  
   Chyawanprash exerted strong prophylactic effect in zebrafish models, efficiently protecting from inflammatory manifestations at human equivalent dose through immunomodulation
 
@@ -75,7 +75,7 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 ## Recent safety updates
 
-- Meta-analysis of 5 RCTs confirms no adverse effects across 15-75 age groups when used throughout the year; safe for prophylactic daily use
+- A meta-analysis of 5 RCTs reported no adverse effects in participants aged 15-75 when used throughout the year
 - High sugar content requires monitoring in diabetic patients; sugar-free variants available for diabetics
 - API mandates minimum 0.5% gallic acid content as quality standard; consumer-grade products vary significantly in quality - brand verification important
 

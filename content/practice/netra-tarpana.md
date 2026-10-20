@@ -4,7 +4,7 @@ slug: "netra-tarpana"
 kind: "practice"
 level: "vaidya-only"
 sanskrit: "Netra-tarpaṇa"
-answer: "Netra-tarpaṇa pools warm medicated ghṛta over the closed eye inside a ring of dough, the person opening and closing the eyes while it sits, for around twenty minutes. Aṣṭāṅga Hṛdaya describes it in Sūtrasthāna 24. It is eye work for a qualified vaidya, not something to try at home."
+answer: "Netra-tarpaṇa pools warm medicated ghṛta over the closed eye inside a ring of dough, the person opening and closing the eyes while it sits. The source record gives around twenty minutes, while the classical text sets retention by condition. Aṣṭāṅga Hṛdaya describes it in Sūtrasthāna 24. It is eye work for a qualified vaidya, not something to try at home."
 classicalSource: "Aṣṭāṅga Hṛdaya Sūtrasthāna 24 (Tarpaṇa-Puṭapāka-Vidhi Adhyāya); also Suśruta Uttaratantra 18"
 citationVerified: true
 citationNote: "The record's citation was wrong and has been corrected. It gave Aṣṭāṅga Hṛdaya Uttara 24; Uttarasthāna 24 is Śiroroga Pratiṣedha, on diseases of the head (verified via easyayurveda.com chapter page). Tarpaṇa is Aṣṭāṅga Hṛdaya Sūtrasthāna 24, Tarpaṇa-Puṭapāka-Vidhi Adhyāya, verified by fetching easyayurveda.com's chapter translation, which states the sthāna and chapter explicitly and describes the dough wall, the ghee pouring and the blinking. Suśruta Uttaratantra 18 was separately verified (Bhishagratna: \"Preparations and medicinal measures for ocular affections in general\") as covering tarpaṇa among the kriyākalpa."

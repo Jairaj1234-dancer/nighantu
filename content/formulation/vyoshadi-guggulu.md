@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); clinical trial data published in peer-reviewed journals supporting thyroid and respiratory indications; recognized by CCRAS"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); recognized by CCRAS"
 aliases: ["Vyoshadi Guggulu", "VyoshadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -31,11 +31,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## How does it work?
 
-- Thyroid stimulation: Guggulsterones from [Guggulu](/formulation/guggulu/) possess thyroid stimulating activity, increasing T3/T4 output and normalizing TSH levels through direct action on thyroid tissue
+- Thyroid stimulation: Guggulsterones from [Guggulu](/formulation/guggulu/) are reported to have thyroid stimulating activity
 - Anti-inflammatory cytokine inhibition: Guggulsterones inhibit pro-inflammatory cytokines (TNF-alpha, IL-6) while [Trikatu](/herb/trikatu/) promotes GI absorption of these active compounds
-- Respiratory decongestant: Hot potency of [Trikatu](/herb/trikatu/) and [Guggulu](/formulation/guggulu/) targets Kapha stagnation in lungs, relieving nasal inflammation, congestion, discharge, and respiratory irritation
-- Mucosal tonicity: Terminalia fruit [tannins](/reference/tannins/) (from [Triphala](/herb/triphala/)) strengthen mucosal tissue in the respiratory tract, improving barrier function against pathogens
-- Metabolic and lipid regulation: Guggulsterones reduce cholesterol through FXR antagonism, stimulate phagocytosis by increasing leukocyte activity, and enhance overall metabolic function
+- Respiratory decongestant: Hot potency of [Trikatu](/herb/trikatu/) and [Guggulu](/formulation/guggulu/) are classically regarded as reducing Kapha stagnation in the lungs
+- Mucosal tonicity: Terminalia fruit [tannins](/reference/tannins/) (from [Triphala](/herb/triphala/)) are traditionally regarded as toning mucosal tissue in the respiratory tract
+- Metabolic and lipid regulation: Guggulsterones have been reported in laboratory studies to lower cholesterol through FXR antagonism and to stimulate phagocytosis
 
 ## Which traditional uses are supported by research?
 
@@ -54,7 +54,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Recent safety updates
 
-- Clinical trial confirmed safety - no adverse effects observed; LFT and RFT remained within normal limits; no adverse drug reactions in any treatment groups across multiple studies
+- Studies summarized in the source notes reported no adverse effects, with LFT and RFT within normal limits and no adverse drug reactions in the treatment groups
 - Standard guggulu precautions apply: contraindicated in pregnancy and lactation; may interact with thyroid medications (synergistic effect could cause hyperthyroidism); avoid in bleeding disorders as guggul may slow clotting; discontinue 2 weeks before surgery
 
 ## What is it made of?

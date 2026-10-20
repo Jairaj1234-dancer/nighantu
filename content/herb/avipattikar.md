@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar/meta-analysis.md"
 
 **Standard Dosage:** 3-6g churna with warm water or sugar cane juice before meals; 1-2 tablets (500mg each) twice daily
 
-**Bioavailability:** This is a COMPOUND FORMULATION (not a single herb). Contains multiple herbs whose bioactives have varied absorption profiles. The formulation includes [Trikatu](/herb/trikatu/) ([Pippali](/herb/pippali/), Maricha, Sunthi) which acts as a built-in bioenhancer via [piperine](/reference/piperine/), this is a classical example of intelligent formulation design where bioenhancers are incorporated into the compound. Sugar/Mishri component provides quick energy substrate and palatability. Overall excellent bioavailability profile due to self-enhancing design.
+**Bioavailability:** This is a COMPOUND FORMULATION (not a single herb). Contains multiple herbs whose bioactives have varied absorption profiles. The formulation includes [Trikatu](/herb/trikatu/) ([Pippali](/herb/pippali/), Maricha, Sunthi) which acts as a built-in bioenhancer via [piperine](/reference/piperine/), this is a classical example of intelligent formulation design where bioenhancers are incorporated into the compound. Sugar/Mishri component provides quick energy substrate and palatability.
 
 **Optimal Timing:** Before meals (30 minutes) with warm water for hyperacidity; with sugar cane juice per classical texts; or after meals for post-prandial acid reflux
 

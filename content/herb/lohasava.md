@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Lohasava is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Listed in Sharangdhara Samhita; recognized as a classical Ayurvedic Asava preparation; included in Ayurvedic Formulary of India (AFI); classified as a Classical Medicine under the Drugs and Cosmetics Act, 1940."
+answer: "Lohasava is an Asava, a self-generated fermented liquid preparation containing Loha (iron) and herbs. Listed in Sharangdhara Samhita; recognized as a classical Ayurvedic Asava preparation; included in Ayurvedic Formulary of India (AFI); classified as a Classical Medicine under the Drugs and Cosmetics Act, 1940."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -31,7 +31,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 ## How does it work?
 
-- Fermentation process (Sandhana Kalpana) converts iron into highly bioavailable ionic/colloidal form within a self-generated alcohol medium (4-10%), markedly enhancing GI absorption
+- Fermentation process (Sandhana Kalpana) converts iron into an ionic/colloidal form within a self-generated alcohol medium (4-10%), traditionally held to aid GI absorption
 - Self-generated alcohol acts as a natural preservative and delivery vehicle for both water-soluble and alcohol-soluble active herbal constituents
 - [Triphala](/herb/triphala/) components provide vitamin C for iron absorption, [antioxidant](/reference/antioxidant/) protection, and gentle hepatoprotection
 - [Trikatu](/herb/trikatu/) enhances digestive fire (Agni) and bioavailability of iron and other nutrients through [piperine](/reference/piperine/)-mediated absorption enhancement
@@ -74,13 +74,13 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 **Standard Dosage:** 15–30 mL twice daily after meals
 
-**Bioavailability:** Excellent; Sandhana Kalpana (fermentation) produces ~5–10% alcohol serving as bioenhancer and preservative; iron in chelated/complexed form
+**Bioavailability:** Sandhana Kalpana (fermentation) produces ~5–10% alcohol serving as bioenhancer and preservative; iron in chelated/complexed form
 
 **Optimal Timing:** After meals with equal water
 
 **Standardized Extract:** Fermented preparation with Loha (iron), [Triphala](/herb/triphala/), and aromatic herbs
 
-**Shelf Life:** Indefinite (improves with age; 10+ year old Asavas are premium)
+**Shelf Life:** Traditionally held to improve with age
 
 **Storage:** Earthen or glass vessel; avoid direct sunlight; room temperature
 

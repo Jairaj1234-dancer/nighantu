@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 
 **Bioavailability:** Euphorbia thymifolia/hirta (Dugdhika) contains [flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)), [tannins](/reference/tannins/), and [terpenoids](/glossary/compounds-t-z/#terpenoids). The milky latex contains diterpene esters with moderate dermal absorption for topical use. Oral bioavailability of flavonoid glycosides is moderate (15-25%); tannins act locally in GI tract. The latex [proteins](/glossary/compounds-o-q/#proteins) ([enzymes](/glossary/compounds-d-g/#enzymes)) are denatured by gastric acid. Enhancement: nanoparticle encapsulation of flavonoid-rich extract for improved oral delivery; liposomal gel for enhanced topical penetration of latex components.
 
-**Optimal Timing:** After meals for GI conditions; topical application of latex/paste 2-3 times daily for skin conditions and warts
+**Optimal Timing:** After meals for GI conditions; latex/paste traditionally applied topically to skin lesions and warts
 
 **Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent). Extract ratio 8:1. Total tannin content NLT 5% (as tannic acid equivalent).
 
@@ -63,6 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Kutaja for anti-diarrheal and anti-dysenteric action
-- With [Nagakesara](/herb/nagakesara/) for [hemostatic](/glossary/pharmacology/#hemostatic) synergy in bleeding disorders
+- With [Nagakesara](/herb/nagakesara/), traditionally combined for [hemostatic](/glossary/pharmacology/#hemostatic) action
 - With [Yashtimadhu](/herb/yashtimadhu/) for [galactagogue](/glossary/pharmacology/#galactagogue) (milk-promoting) combination
 - With [Durva](/herb/durva/) for hemostatic and [wound-healing](/reference/wound-healing/) applications

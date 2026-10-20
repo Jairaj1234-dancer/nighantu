@@ -76,9 +76,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 - Catechin
 - Gallic acid
 - Protocatechuic acid
-- 
 - Epigallocatechin-7-gallate
-- Epigallocatechin-5
+- Epigallocatechin-5,7-digallate
 - Pyrocatechol
 - Niloticane 
 - Arabinose
@@ -118,7 +117,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 ### Synergistic Combinations
 
 - With [Khadira](/herb/khadira/) for oral health and Mukhapaka (stomatitis)
-- With [Haridra](/herb/haridra/) for wound healing (external paste)
+- Traditionally combined with [Haridra](/herb/haridra/) in external pastes applied to wounds
 - With [Yashtimadhu](/herb/yashtimadhu/) for GI mucosal protection
 - With [Triphala](/herb/triphala/) for dental and gum health
-- With [Lodhra](/herb/lodhra/) for leucorrhea and uterine tonic action
+- Traditionally combined with [Lodhra](/herb/lodhra/) for leucorrhea and as a uterine tonic

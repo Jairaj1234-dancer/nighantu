@@ -32,7 +32,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 ## How does it work?
 
 - Adipogenesis inhibition: [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols) suppress the PI3K/Akt signaling pathway and downregulate PPARG and C/EBPalpha transcription factors, inhibiting fat cell differentiation and proliferation
-- Lipid metabolism regulation: Guggulsterones act as FXR antagonists promoting bile acid synthesis and cholesterol excretion; [Triphala](/herb/triphala/) components reduce LDL-C, total cholesterol, and triglycerides while increasing HDL
+- Lipid metabolism regulation: Guggulsterones act as FXR antagonists promoting bile acid synthesis and cholesterol excretion; some studies have reported effects of [Triphala](/herb/triphala/) components on lipid levels, though the placebo-controlled trial listed below found no significant effect on total or LDL cholesterol
 - Anti-inflammatory and [antioxidant](/reference/antioxidant/): Gallic acid, ellagic acid, and chebulagic acid from [Triphala](/herb/triphala/) reduce IL-6, CRP, and MDA levels while enhancing SOD and adiponectin
 - Gut microbiome modulation: [Triphala](/herb/triphala/) promotes growth of beneficial bacteria (Bifidobacterium, Lactobacillus) while inhibiting pathogenic bacteria, improving metabolic function
 - Neurotransmitter regulation: Animal studies show increased [serotonin](/glossary/compounds-q-t/#serotonin) and dopamine levels, suggesting regulation of appetite and mood pathways relevant to obesity
@@ -42,7 +42,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - A systematic review and meta-analysis reported anti-obesity effects. Mechanism studies reported modulation of the PI3K/Akt pathway.
-- Randomized controlled trials have reported reductions in LDL-C, total cholesterol, and triglycerides.
+- Evidence on lipids is mixed: the placebo-controlled randomized trial listed below found no statistically superior effect versus placebo on total and LDL cholesterol after three months.
 - Traditionally used for digestive regulation and Ama elimination. Studies have reported prebiotic effects on the gut microbiome and [laxative](/reference/laxative/) action.
 - In the context of metabolic syndrome, animal studies have reported effects on [glucose](/glossary/compounds-d-g/#glucose), leptin, adiponectin, and inflammatory markers.
 

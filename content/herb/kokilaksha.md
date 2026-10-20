@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kokilaksha/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Gokshura](/herb/gokshura/) for urinary and reproductive health synergy
-- [Kapikachhu](/herb/kapikachhu/) for male fertility enhancement
+- [Kapikachhu](/herb/kapikachhu/), traditionally combined for male reproductive health
 - [Ashwagandha](/herb/ashwagandha/) for anabolic and [adaptogenic](/reference/adaptogenic/) combination
 - [Shatavari](/herb/shatavari/) for comprehensive reproductive tonic
 - [Punarnava](/herb/punarnava/) for nephroprotective formulations

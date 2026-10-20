@@ -44,9 +44,9 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ## How does it work?
 
-- [Antispasmodic](/glossary/pharmacology/#antispasmodic) action on uterine and intestinal smooth muscle reduces menstrual cramps and abdominal pain
-- Potent [antioxidant](/reference/antioxidant/) activity (DPPH, FRAP, H2O2 scavenging) protects cells from oxidative damage
-- [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) properties through [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/) restore normal peristalsis and relieve constipation
+- Traditionally described as having [antispasmodic](/glossary/pharmacology/#antispasmodic) action on uterine and intestinal smooth muscle; used for menstrual cramps and abdominal pain
+- [Antioxidant](/reference/antioxidant/) activity (DPPH, FRAP, H2O2 scavenging) has been reported in lab assays
+- [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) properties through [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/) are traditionally said to support normal peristalsis and are used in constipation
 - Phytoestrogenic compounds from [Shatavari](/herb/shatavari/) and [Ashwagandha](/herb/ashwagandha/) support hormonal balance and reproductive health
 
 ## Which traditional uses are supported by research?
@@ -99,6 +99,4 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 
-### Synergistic Combinations
 
-- Classical combination of [Eranda](/herb/eranda/) mula, [Shatavari](/herb/shatavari/), [Triphala](/herb/triphala/), [Dashamoola](/herb/dashamoola/) provides synergistic therapeutic effect

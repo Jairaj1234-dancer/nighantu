@@ -29,7 +29,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - [Tannins](/reference/tannins/) (most abundant phytochemical class)
-- [Saponins](/reference/saponins/) ([galactomannan](/glossary/compounds-d-g/#galactomannan)-based)
+- [Saponins](/reference/saponins/)
+- [Galactomannan](/glossary/compounds-d-g/#galactomannan) (seed polysaccharide)
 - [Alkaloids](/glossary/compounds-1-a/#alkaloids) (strychnine-related, in lower amounts than S. nux-vomica)
 - [Flavonoids](/reference/flavonoids/) and phenols
 - Lignins
@@ -37,10 +38,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## How does it work?
 
-- Water purification via galactomannan protein-mediated coagulation and flocculation of suspended particles and microbes
+- Water purification via galactomannan- and protein-mediated coagulation and flocculation of suspended particles and microbes
 - Anti-inflammatory and antiarthritic action through inhibition of protein denaturation and membrane stabilization by tannin-rich fractions
-- Nephroprotective effect via [antioxidant](/reference/antioxidant/)-mediated protection of renal tubular cells against chemical toxins
-- [Antidiabetic](/reference/antidiabetic/) mechanism through alpha-glucosidase inhibition and improvement of insulin sensitivity
+- Proposed nephroprotective effect via [antioxidant](/reference/antioxidant/)-mediated protection of renal tubular cells against chemical toxins
+- Proposed [antidiabetic](/reference/antidiabetic/) mechanism through alpha-glucosidase inhibition
 
 ## Which traditional uses are supported by research?
 
@@ -60,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Seeds used for water purification are generally considered non-toxic and safe; unlike Strychnos nux-vomica, S. potatorum contains much lower levels of strychnine
+- Seeds have a long traditional use for water purification; unlike Strychnos nux-vomica, S. potatorum contains much lower levels of strychnine
 - Traditional processing (rubbing seeds on stone vessel) leaves minimal residue in purified water; internal medicinal use should follow Ayurvedic dosage guidelines; excessive use may cause astringent-related constipation
 
 ## What is it made of?
@@ -101,7 +102,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 - Aqueous extraction for coagulant protein fraction
 - Hydroalcoholic extraction (60% ethanol) for medicinal applications
-- Cold pressing for seed oil (Ben oil)
+- Cold pressing for seed oil
 - Protein precipitation and purification for water treatment applications
 
 ### Synergistic Combinations

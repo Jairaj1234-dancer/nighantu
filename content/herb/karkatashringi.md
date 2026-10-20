@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ## Recent safety updates
 
-- Generally safe at traditional Ayurvedic doses; insect galls are the primary medicinal part with centuries of safe pediatric use for cough and asthma
+- Insect galls are the primary medicinal part, traditionally used in children for cough and asthma; formal paediatric safety data are limited
 - Essential oil at high concentrations may cause mucosal irritation; cross-reactivity possible in patients allergic to other Anacardiaceae (cashew, mango skin); limited formal toxicological data
 
 ## What is it made of?
@@ -72,12 +72,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 - Catechin
 - Alpha-pinene
 - Beta-pinene
-- 1
 - Alpha-terpineol
-- 
-- Pistagremic acid 
+- Pistagremic acid
 - Gallic acid
-- 
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -111,5 +108,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 - [Vasa](/herb/vasa/) (Adhatoda vasica) for pediatric respiratory formulations
 - [Yashtimadhu](/herb/yashtimadhu/) (Licorice) for cough management
 - [Pippali](/herb/pippali/) for bronchodilation synergy
-- [Tulsi](/herb/tulsi/) for respiratory infections in children
+- [Tulsi](/herb/tulsi/), traditionally combined in paediatric respiratory formulations
 - [Sitopaladi Churna](/formulation/sitopaladi-churna/) as a base respiratory formulation

@@ -52,9 +52,9 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** [Atisine](/glossary/compounds-a-c/#atisine), [Heteratisine](/glossary/compounds-g-l/#heteratisine) (from Ativisha), Rotundine, [Cyperene](/glossary/compounds-c-d/#cyperene) (from Musta), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Loturine](/glossary/compounds-l-o/#loturine) (from [Lodhra](/herb/lodhra/))
+**Marker Compounds:** [Atisine](/glossary/compounds-a-c/#atisine), [Heteratisine](/glossary/compounds-g-l/#heteratisine) (from Ativisha), [Cyperene](/glossary/compounds-c-d/#cyperene) (from Musta), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Loturine](/glossary/compounds-l-o/#loturine) (from [Lodhra](/herb/lodhra/))
 
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), HPTLC fingerprint for atisine/ativine (from Ativisha), rotundine (from Musta), microbial limits, heavy metals, alkaloid content within safe limits
+**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), HPTLC fingerprint for atisine/ativine (from Ativisha), microbial limits, heavy metals, alkaloid content within safe limits
 
 **Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)) or warm water
 

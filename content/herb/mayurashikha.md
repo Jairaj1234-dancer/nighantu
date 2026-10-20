@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Mayurashikha/meta-analys
 
 **Bioavailability:** Selaginellin (biflavonoid) shows moderate oral bioavailability. [Amentoflavone](/glossary/compounds-1-a/#amentoflavone) has limited bioavailability (~15-20%) due to poor water solubility; significantly enhanced by phospholipid complexation. Trehalose is well absorbed. Phenolic compounds undergo hepatic conjugation. Lipid-based formulations improve biflavonoid absorption by 2-3 fold.
 
-**Optimal Timing:** Morning for cognitive and [neuroprotective](/reference/neuroprotective/) benefits; with meals for general tonic effect; topical application as needed
+**Optimal Timing:** Morning; with meals as a general tonic; topical application as needed
 
 **Standardized Extract:** Hydroalcoholic extract (10:1) standardized to minimum 3% total biflavonoids (as amentoflavone equivalents) and minimum 5% trehalose. Phospholipid complex for enhanced biflavonoid delivery.
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Mayurashikha/meta-analys
 ### Synergistic Combinations
 
 - [Brahmi](/herb/brahmi/) (cognitive and neuroprotective synergy)
-- [Shankhpushpi](/herb/shankhpushpi/) (memory enhancement)
+- [Shankhpushpi](/herb/shankhpushpi/) (traditionally combined)
 - [Ashwagandha](/herb/ashwagandha/) (neuroprotective combination)
 - [Haridra](/herb/haridra/) (anti-inflammatory)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) and [hepatoprotective](/reference/hepatoprotective/))

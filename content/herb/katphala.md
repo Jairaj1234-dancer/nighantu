@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Fever-Infection"
-answer: "Katphala (Myrica esculenta) is a plant drug, also called Mahavalkala, Kaphala and Kayphajl. Proanthocyanidin oligomers show better absorption profiles. Nasya (nasal) administration bypasses first-pass metabolism and provides rapid CNS delivery. Phospholipid complexation of myricetin improves bioavailability 4-fold."
+answer: "Katphala (Myrica esculenta) is a plant drug, also called Mahavalkala, Kaphala and Kayphajl."
 botanical: "Myrica esculenta"
 family: "Myricaceae"
 sanskrit: ""
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Katphala/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Haridra](/herb/haridra/) for anti-inflammatory and anti-allergic synergy
-- [Pippali](/herb/pippali/) for bioavailability enhancement and respiratory conditions
+- [Pippali](/herb/pippali/) for bioavailability enhancement; traditionally used together for respiratory complaints
 - [Vacha](/herb/vacha/) for Nasya formulations (cognitive and sinus)
 - [Trikatu](/herb/trikatu/) for enhanced absorption
-- [Shirisha](/herb/shirisha/) for allergic rhinitis
+- [Shirisha](/herb/shirisha/), traditionally used together for allergic rhinitis

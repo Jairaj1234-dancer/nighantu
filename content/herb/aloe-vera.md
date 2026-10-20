@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 ## What do recent studies show?
 
 - Sadoyu S, Rungruang C, Wattanavijitkul T and others 2021. [Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses](https://pubmed.ncbi.nlm.nih.gov/32924222/). *Phytotherapy research : PTR*. PMID [32924222](https://pubmed.ncbi.nlm.nih.gov/32924222/) · [doi:10.1002/ptr.6833](https://doi.org/10.1002/ptr.6833)  
-  Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (prevention of second-degree infusion phlebitis, chemotherapy-induced mucositis), while 42 outcomes had weak evidence.
+  Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (including prevention of second-degree infusion phlebitis and chemotherapy-induced mucositis), while 42 outcomes had weak evidence.
 - Catalano A, Ceramella J, Iacopetta D and others 2024. [Aloe vera-An Extensive Review Focused on Recent Studies](https://pubmed.ncbi.nlm.nih.gov/38998660/). *Foods (Basel, Switzerland)*. PMID [38998660](https://pubmed.ncbi.nlm.nih.gov/38998660/) · [doi:10.3390/foods13132155](https://doi.org/10.3390/foods13132155)  
   Updated review documenting broad spectrum of pharmacological activities with focus on recent clinical and preclinical evidence for therapeutic applications.
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 **Bioavailability:** Acemannan (primary polysaccharide) has limited oral bioavailability but significant [immunomodulatory](/reference/immunomodulatory/) action in the gut (Peyer's patches). Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) (aloin A/B) have good oral absorption and undergo colonic bacterial metabolism to active aglycones. Aloe-emodin reaches peak plasma levels in 6-8 hours. Fresh gel matrix enhances absorption of co-administered nutrients. Decolorized inner fillet gel has better tolerability profile.
 
-**Optimal Timing:** Fresh juice early morning on empty stomach for detox/digestive health. Kumaryasava after meals. Topical gel as needed. Avoid during pregnancy (uterine stimulant effect of anthraquinones).
+**Optimal Timing:** Fresh juice traditionally taken early morning on an empty stomach. Kumaryasava after meals. Topical gel as needed. Avoid during pregnancy (uterine stimulant effect of anthraquinones).
 
 **Standardized Extract:** Inner fillet gel: standardized to minimum 10% acemannan (dry weight), aloin < 10ppm. Whole leaf extract: standardized to 20% aloin (laxative grade). 200:1 freeze-dried gel concentrate.
 
@@ -85,7 +85,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for wound healing and anti-inflammatory action
-- With Kumari + [Guduchi](/herb/guduchi/) in Kumaryasava for liver and uterine health
+- With [Guduchi](/herb/guduchi/) in Kumaryasava, traditionally used for liver and uterine health
 - With [Shatavari](/herb/shatavari/) for female reproductive health
 - With Ghrita (ghee) for Pitta pacification and internal lubrication
-- With Amalaki for digestive tract healing
+- With Amalaki, a traditional combination in digestive formulations

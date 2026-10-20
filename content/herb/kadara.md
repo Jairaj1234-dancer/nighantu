@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadara/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Daruharidra](/herb/daruharidra/) for skin disorders
-- With [Nimba](/herb/nimba/) ([neem](/herb/neem/)) for blood purification
-- With [Manjishtha](/herb/manjishtha/) for skin health
-- With [Vidanga](/herb/vidanga/) for parasitic infections
+- With [Daruharidra](/herb/daruharidra/), traditionally used in skin disorders
+- With [Nimba](/herb/nimba/) ([neem](/herb/neem/)), traditionally used for blood purification
+- With [Manjishtha](/herb/manjishtha/), traditionally used for skin health
+- With [Vidanga](/herb/vidanga/), traditionally used in parasitic infections

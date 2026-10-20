@@ -11,7 +11,7 @@ botanical: "Smilax china L."
 family: "Smilacaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in WHO Traditional Medicine strategy for both South-East Asia and Western Pacific regions. Included in Chinese Pharmacopoeia (as Tu Fu Ling/Baqia). Also listed in Ayurvedic Pharmacopoeia of India. No dedicated WHO monograph."
+whoStatus: "Listed in WHO Traditional Medicine strategy for both South-East Asia and Western Pacific regions. Included in Chinese Pharmacopoeia (as Baqia). Also listed in Ayurvedic Pharmacopoeia of India. No dedicated WHO monograph."
 aliases: ["Smilax china L."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 - Steroidal saponin anti-inflammatory pathway: Smilagenin and dioscin modulate NF-kB and MAPK signaling, reducing pro-inflammatory cytokine production (TNF-alpha, IL-1beta, IL-6) in chronic skin conditions
 - Astilbin [immunomodulatory](/reference/immunomodulatory/) action: Flavonoid astilbin selectively suppresses activated T-lymphocyte proliferation while preserving normal immune function, relevant to autoimmune skin diseases like psoriasis and pemphigus
 - [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and stilbene [antioxidant](/reference/antioxidant/) defense: Oxyresveratrol and [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) scavenge free radicals, inhibit lipid peroxidation, and activate Nrf2/ARE pathway for endogenous antioxidant protection of skin
-- [Antimicrobial](/reference/antimicrobial/) and antisyphilitic activity: Traditional use for syphilis-related skin lesions supported by broad-spectrum antimicrobial activity of saponins and flavonoids against pathogenic microorganisms
+- [Antimicrobial](/reference/antimicrobial/) and antisyphilitic activity: Traditionally used for syphilis-related skin lesions; saponins and flavonoids are reported to have broad-spectrum antimicrobial activity, which does not establish efficacy against syphilis
 
 ## Which traditional uses are supported by research?
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 
 ## Recent safety updates
 
-- Long history of safe traditional use in both Ayurvedic and Traditional Chinese Medicine systems. No significant toxicity reported in available pharmacological studies at therapeutic doses
+- Long history of traditional use in both Ayurvedic and Traditional Chinese Medicine systems. Available pharmacological studies have not reported significant toxicity at therapeutic doses, though formal long-term safety data are limited
 - Saponin content may cause mild gastrointestinal irritation in sensitive individuals with oral use. Topical application is generally well-tolerated. Limited formal long-term safety data in modern clinical settings
 
 ## What is it made of?
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; traditionally used in prolonged courses (6-12 weeks) for chronic conditions
 
-**Bioavailability:** Smilax china, steroidal saponins ([sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin) glycosides) show moderate oral bioavailability (20-30%). Saponins undergo hydrolysis by gut microbiota to release aglycones which are better absorbed. Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) show moderate absorption. Decoction provides better saponin extraction than powder. Traditional prolonged administration (Prayoga Kala) ensures steady-state tissue levels for chronic conditions like Vatarakta (gout) and Upadamsha (syphilis).
+**Bioavailability:** Smilax china, steroidal saponins ([sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin) glycosides) show moderate oral bioavailability (20-30%). Saponins undergo hydrolysis by gut microbiota to release aglycones which are better absorbed. Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) show moderate absorption. Decoction provides better saponin extraction than powder. Prolonged administration (Prayoga Kala) is traditionally used in chronic conditions like Vatarakta (gout) and Upadamsha (syphilis).
 
 **Optimal Timing:** Before meals with warm water for anti-arthritic and blood-purifying effects; prolonged course of 6-12 weeks recommended for chronic conditions
 

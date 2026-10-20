@@ -39,7 +39,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 - Anti-inflammatory action: Phytochemical [alkaloids](/glossary/compounds-1-a/#alkaloids), [flavonoids](/reference/flavonoids/), [saponins](/reference/saponins/), and [tannins](/reference/tannins/) from the ten roots collectively inhibit inflammatory mediators (COX, LOX pathways).
 - [Analgesic](/reference/analgesic/) effect: Central and peripheral pain modulation through prostaglandin synthesis inhibition.
-- Anti-platelet activity: Prevents excessive platelet aggregation, potentially beneficial in inflammatory joint conditions.
+- Anti-platelet activity: An experimental study reported anti-platelet activity of Dashamoola.
 - Vata-pacifying action: In Ayurvedic pharmacology, the ten roots specifically balance Vata dosha, addressing neurological, musculoskeletal, and reproductive disorders.
 - Enhanced bioavailability: Self-generated alcohol (5-7%) from [Dhataki](/herb/dhataki/)-mediated fermentation acts as a natural solvent, improving extraction and absorption of lipophilic bioactives.
 

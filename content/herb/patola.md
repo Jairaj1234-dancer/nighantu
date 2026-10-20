@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-5 g dried fruit/leaf powder daily; 15-30 mL decoction twice daily; 500 mg extract twice daily
 
-**Bioavailability:** [Momordicin](/glossary/compounds-l-o/#momordicin) and [charantin](/glossary/compounds-c-d/#charantin) analogs from Trichosanthes dioica (Patola/pointed gourd) show moderate oral bioavailability (20-35%). [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic and absorbed well from the GI tract but undergo extensive hepatic metabolism. Fiber and [mucilage](/glossary/compounds-l-o/#mucilage) content may slow absorption of co-administered drugs. [Saponins](/reference/saponins/) are partially hydrolyzed by gut bacteria to sapogenins with improved absorption.
+**Bioavailability:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic and absorbed well from the GI tract but undergo extensive hepatic metabolism. Fiber and [mucilage](/glossary/compounds-l-o/#mucilage) content may slow absorption of co-administered drugs. [Saponins](/reference/saponins/) are partially hydrolyzed by gut bacteria to sapogenins with improved absorption.
 
-**Optimal Timing:** Fresh juice or decoction: morning on empty stomach for blood purification and liver health. As food: cooked preparation with meals. Extract supplements: after meals.
+**Optimal Timing:** Fresh juice or decoction: traditionally taken in the morning on an empty stomach. As food: cooked preparation with meals. Extract supplements: after meals.
 
 **Standardized Extract:** Patola fruit extract (10:1) standardized to total saponins >5%, cucurbitacins >0.5%. Leaf extract standardized to total phenolics >6% GAE.
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola/meta-analysis.md"
 
 **Storage:** Fresh fruit: 5-10 deg C, ventilated storage. Dried powder: airtight containers, below 25 deg C, RH <55%. Extracts: amber containers, cool and dry.
 
-**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Momordicin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), Ursolic acid, Gallic acid
+**Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), Ursolic acid, Gallic acid
 
 ### Extraction Methods
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Nimba](/herb/nimba/) (Tikta Rasa combination for blood purification)
-- [Guduchi](/herb/guduchi/) ([hepatoprotective](/reference/hepatoprotective/) and anti-diabetic synergy)
+- [Guduchi](/herb/guduchi/) (traditionally paired for liver support; see [hepatoprotective](/reference/hepatoprotective/))
 - [Haridra](/herb/haridra/) (anti-inflammatory and skin health)
-- Kutaki (cholagogue and liver protective)
-- [Karela](/herb/karela/)/[Bitter gourd](/herb/bitter-gourd/) (anti-diabetic combination)
+- Kutaki (traditionally used for liver support)
+- [Karela](/herb/karela/)/[Bitter gourd](/herb/bitter-gourd/) (traditional bitter-vegetable combination)

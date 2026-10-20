@@ -42,8 +42,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 ## How does it work?
 
 - Anthocyanins (cyanidin, delphinidin) inhibit neutrophil activation through downregulation of TLR4/NF-kB signaling, reducing reactive oxygen species generation and inflammatory cytokine release
-- [Quercetin](/reference/quercetinquercetin/) and myricetin exert anti-obesity effects by inhibiting adipogenesis through suppression of PPAR-gamma and C/EBP-alpha transcription factors in preadipocytes
-- Saponins and tannins reduce postprandial hyperglycemia by inhibiting alpha-amylase and alpha-glucosidase [enzymes](/glossary/compounds-d-g/#enzymes) in the digestive tract
+- [Quercetin](/reference/quercetinquercetin/) and myricetin have been reported to inhibit adipogenesis through suppression of PPAR-gamma and C/EBP-alpha transcription factors in preadipocytes
+- Saponins and tannins have been reported to inhibit alpha-amylase and alpha-glucosidase [enzymes](/glossary/compounds-d-g/#enzymes) in the digestive tract
 
 ## Which traditional uses are supported by research?
 
@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 **Bioavailability:** Musa paradisiaca inflorescence (banana flower/blossom) contains [flavonoids](/reference/flavonoids/), phenolic acids, tannins, saponins, and minerals. [Quercetin](/reference/quercetinquercetin/) and [catechins](/glossary/compounds-c-d/#catechins) from flower show ~5-10% oral bioavailability. Iron and zinc are moderately bioavailable. Fiber content supports local GI action. Traditional cooking of flowers in buttermilk may modulate mineral absorption.
 
-**Optimal Timing:** With meals (traditional food preparation with buttermilk); supplement form before meals for gynecological benefits
+**Optimal Timing:** With meals (traditional food preparation with buttermilk); supplement form before meals
 
 **Standardized Extract:** Freeze-dried flower powder (premium); hydroalcoholic extract standardized to 2% total flavonoids; aqueous extract per traditional method
 

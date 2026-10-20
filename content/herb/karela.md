@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Diabetes-Metabolism"
-answer: "Karela (Momordica charantia) is a plant drug, also called Karavellam, Kathillah and Kathilla. WHO has included M. Insulin receptor binding: Novel insulin receptor-binding protein enhances glucose uptake and clearance by triggering insulin receptor signaling pathway. Polypeptide-P: Insulin-mimetic protein (resembling bovine insulin) increases insulin secretion, tissue glucose uptake, liver/muscle glycogen synthesis, and glucose oxidation while decreasing hepatic gluconeogenesis."
+answer: "Karela (Momordica charantia) is a plant drug, also called Karavellam, Kathillah and Kathilla. WHO has included M. charantia in medicinal plant monograph documentation."
 botanical: "Momordica charantia"
 family: "Cucurbitaceae"
 sanskrit: ""
@@ -29,11 +29,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 - Insulin receptor binding: Novel insulin receptor-binding protein enhances [glucose](/glossary/compounds-d-g/#glucose) uptake and clearance by triggering insulin receptor signaling pathway.
 - Polypeptide-P: Insulin-mimetic protein (resembling bovine insulin) increases insulin secretion, tissue glucose uptake, liver/muscle glycogen synthesis, and glucose oxidation while decreasing hepatic gluconeogenesis.
-- [Charantin](/glossary/compounds-c-d/#charantin): Steroidal saponin (9.7 kDa) suppresses hepatic gluconeogenic [enzymes](/glossary/compounds-d-g/#enzymes) glucose-6-phosphatase and [fructose](/glossary/compounds-d-g/#fructose)-1,6-bisphosphatase; accelerates glucose metabolism via pentose phosphate pathway.
+- [Charantin](/glossary/compounds-c-d/#charantin): Steroidal saponin suppresses hepatic gluconeogenic [enzymes](/glossary/compounds-d-g/#enzymes) glucose-6-phosphatase and [fructose](/glossary/compounds-d-g/#fructose)-1,6-bisphosphatase; accelerates glucose metabolism via pentose phosphate pathway.
 - AMPK activation: Cucurbitane [glycosides](/glossary/compounds-g-l/#glycosides) and momordicosides activate AMPK pathway, stimulating GLUT4 translocation to cell membrane in muscle and adipocyte cell lines.
 - PPAR modulation: Increases mRNA expression of PPARgamma in adipose tissue, improving insulin resistance. Compound K16 upregulates AMPKalpha1, GLUT4, SIRT1, and PPARalpha.
 - PI3K/IRS-1 signaling: Activates insulin receptor substrate 1 and upregulates PI3K pathway, promoting GLUT-4 translocation in muscle and adipose tissue.
-- Beta-cell repair: Repairs damaged pancreatic beta-cells, increases insulin levels, and enhances insulin sensitivity.
+- Beta-cell effects: Extracts have been reported to repair damaged pancreatic beta-cells, increase insulin levels, and enhance insulin sensitivity.
 - Intestinal absorption reduction: Inhibits glucosidase and suppresses disaccharidase activity, reducing glucose absorption.
 
 ## Modern Research (Meta-Analysis)
@@ -127,7 +127,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 - Laczkó-Zöld E, Csupor-Löffler B, Kolcsár EB and others 2023. [The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/38274207/). *Frontiers in nutrition*. PMID [38274207](https://pubmed.ncbi.nlm.nih.gov/38274207/) · [doi:10.3389/fnut.2023.1200801](https://doi.org/10.3389/fnut.2023.1200801)  
   Contradictory findings: concluded that the metabolic effect cannot be definitively determined from available clinical evidence. Low to very low quality evidence for primary outcomes, with sparse safety data warranting further research.
 - Mes JJ, van den Belt M, van der Haar S and others 2025. [Bitter gourd (Momordica charantia L.) supplementation for twelve weeks improves biomarkers of glucose homeostasis in a prediabetic population](https://pubmed.ncbi.nlm.nih.gov/40199408/). *Journal of ethnopharmacology*. PMID [40199408](https://pubmed.ncbi.nlm.nih.gov/40199408/) · [doi:10.1016/j.jep.2025.119756](https://doi.org/10.1016/j.jep.2025.119756)  
-  Twelve-week supplementation improved glucose homeostasis biomarkers in prediabetic subjects, supporting preventive use in at-risk populations.
+  Twelve-week supplementation improved glucose homeostasis biomarkers in prediabetic subjects.
 - Kim B, Lee HS, Kim HJ and others 2023. [Momordica charantia (bitter melon) efficacy and safety on glucose metabolism in Korean prediabetes participants: a 12-week, randomized clinical study](https://pubmed.ncbi.nlm.nih.gov/37009042/). *Food science and biotechnology*. PMID [37009042](https://pubmed.ncbi.nlm.nih.gov/37009042/) · [doi:10.1007/s10068-022-01214-9](https://doi.org/10.1007/s10068-022-01214-9)  
   12-week RCT in Korean prediabetic participants demonstrated that bitter melon extract reduced average fasting glucose levels with a generally safe profile and no serious adverse events.
 - S P, R P, Kumar Mk L and others 2025. [Molecular Docking and In Silico Predictive Analysis of Potential Herb-Drug Interactions Between Momordica charantia and Miglitol](https://pubmed.ncbi.nlm.nih.gov/40568278/). *Cureus*. PMID [40568278](https://pubmed.ncbi.nlm.nih.gov/40568278/) · [doi:10.7759/cureus.84852](https://doi.org/10.7759/cureus.84852)  

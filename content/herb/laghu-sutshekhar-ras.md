@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 
 ## How does it work?
 
-- Acid-neutralizing action: [Shankha Bhasma](/herb/shankha-bhasma/) (calcium carbonate from conch shell) directly neutralizes excess gastric acid, functioning as a natural antacid similar to pharmaceutical calcium carbonate preparations
+- Acid-neutralizing action: [Shankha Bhasma](/herb/shankha-bhasma/) (calcium carbonate from conch shell), where present, is described as acid-neutralizing
 - Gastroprotective action: [Saffron](/herb/saffron/) (Kesar) and [camphor](/herb/camphor/) (Karpura) have demonstrated anti-inflammatory and mucosal protective properties; [piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability of other components
 - Pitta-pacifying mechanism: The cooling properties of pearl, coral, and conch shell bhasmas collectively reduce excessive Pitta (heat/acid) in the GI tract per Ayurvedic pharmacology
 

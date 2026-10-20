@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally safe for adults and children at recommended doses; no serious adverse reactions reported; mild side effects include stomach upset and skin rashes
+- Reported mild side effects include stomach upset and skin rashes
 - Contraindicated during pregnancy (potential uterine stimulant effects) and breastfeeding (limited safety data); avoid if allergic to Lamiaceae family plants
 
 ## Dosage forms and preparation

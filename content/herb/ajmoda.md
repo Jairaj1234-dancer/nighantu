@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, [Arka](/herb/arka/) (distillate), Taila (essential oil), Kwatha (decoction)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Arka (distillate), Taila (essential oil), Kwatha (decoction)
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg-1g extract capsule; 2-5 drops essential oil (diluted, for external use)
 

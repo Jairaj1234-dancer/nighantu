@@ -72,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 **Standard Dosage:** 100-250 mL warm milk as Anupana (vehicle) for herbs; Ksheera Paka: 100-200 mL once daily; Ksheera Basti: 200-500 mL as per Panchakarma protocol
 
-**Bioavailability:** Milk serves as a superior bioavailability enhancer (Anupana) for lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
+**Bioavailability:** Milk is used as an Anupana (vehicle) and may enhance bioavailability of lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
 
 **Optimal Timing:** Warm milk at bedtime for sleep and Vata pacification; Ksheera Paka morning or evening depending on herb used; Ksheera Basti as per Panchakarma schedule
 
@@ -97,4 +97,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 - [Shatavari](/herb/shatavari/) with milk for [galactagogue](/glossary/pharmacology/#galactagogue) effect
 - [Haridra](/herb/haridra/) Dugdha ([Turmeric](/herb/turmeric/) milk) for anti-inflammatory and immune support
 - [Bala](/herb/bala/) with milk for strength building
-- [Guduchi](/herb/guduchi/) with milk for fever management
+- [Guduchi](/herb/guduchi/) with milk, traditionally used for fever

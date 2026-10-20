@@ -36,7 +36,7 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 - Multiple metal Bhasmas (iron, tin, copper, bronze) provide mineral supplementation and metabolic activation
 - [Trikatu](/herb/trikatu/) enhances bioavailability of all mineral and herbal components through digestive fire stimulation
 - [Triphala](/herb/triphala/) provides detoxification support, [antioxidant](/reference/antioxidant/) protection, and gentle [laxative](/reference/laxative/) action to aid elimination of metabolic waste
-- [Vidanga](/herb/vidanga/) and Chitraka provide anthelmintic and anti-parasitic action relevant to filariasis-caused elephantiasis
+- In classical description, [Vidanga](/herb/vidanga/) and Chitraka are regarded as anthelmintic
 
 ## Which traditional uses are supported by research?
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Sariva (Hemidesmus indicus) is classified in Ayurveda as Raktashodhaka (Blood purifier), Jwaraghna (Antipyretic), from the Apocynaceae family. Parts used: root. One of the safest blood purifiers in Ayurveda."
+answer: "Sariva (Hemidesmus indicus) is classified in Ayurveda as Raktashodhaka (Blood purifier), Jwaraghna (Antipyretic), from the Apocynaceae family. Parts used: root. Traditionally regarded as one of the safest blood purifiers in Ayurveda."
 botanical: "Hemidesmus indicus"
 family: "Apocynaceae"
 sanskrit: ""
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sariva/meta-analysis.md"
 
 ## How is it used traditionally?
 
-One of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases), Raktapitta (bleeding disorders), Jwara (fever), and Daha (burning sensation). Component of famous formulation [Sarivadyasava](/formulation/sarivadyasava/).
+Traditionally regarded as one of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases), Raktapitta (bleeding disorders), Jwara (fever), and Daha (burning sensation). Component of famous formulation [Sarivadyasava](/formulation/sarivadyasava/).
 
 ## Where is it described in the classical texts?
 
@@ -78,11 +78,11 @@ One of the safest blood purifiers in Ayurveda. Used for Kushtha (skin diseases),
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/formulation/sarivadyasava/)): 15-30ml
+Root powder: 3-6g/day; Decoction: 50-100ml/day; Asava ([Sarivadyasava](/formulation/sarivadyasava/)): 15-30ml
 
 ## Safety, contraindications and cautions
 
-- Minimal known, one of the safest herbs
+- Few adverse effects known
 - Pregnancy (limited data)
 
 ## What is it made of?
@@ -92,7 +92,7 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Syrup ([Sarivadyasava](/formulat
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Kwatha (decoction), Churna (powder), Syrup ([Sarivadyasava](/formulation/sarivadyasava/)), Capsule, Ghana vati, Taila (medicated oil)
+**Dosage Forms:** Kwatha (decoction), Churna (powder), Asava ([Sarivadyasava](/formulation/sarivadyasava/)), Capsule, Ghana vati, Taila (medicated oil)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL kwatha twice daily; 15-30 mL syrup twice daily; 500 mg extract capsule twice daily
 

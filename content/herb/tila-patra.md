@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 
 - [Tila](/herb/tila/) (sesame seed oil) - comprehensive Sesamum-based formulation
 - [Nimba](/herb/nimba/) ([neem](/herb/neem/)) leaves - synergistic dermatological action
-- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - anti-inflammatory and [wound-healing](/reference/wound-healing/) potentiation
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/))
 - [Ghrita](/herb/ghrita/) (ghee) - vehicle for enhanced lipophilic compound absorption

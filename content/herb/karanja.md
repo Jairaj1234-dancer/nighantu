@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 ## Recent safety updates
 
 - Seed oil is primarily used externally in traditional medicine; internal consumption of raw seeds should be avoided due to potential toxicity of certain alkaloid fractions
-- Karanjin has shown low acute toxicity in animal models; however, standardized human safety data is limited. External application of seed oil is well-tolerated for skin conditions.
+- Karanjin has shown low acute toxicity in animal models; however, standardized human safety data is limited.
 
 ## What is it made of?
 
@@ -82,7 +82,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 - Kanjone
 - Pinnatin
 - Glabrin
-- Beta-
 - Oleic acid
 - Linoleic acid
 
@@ -118,5 +117,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 - [Nimba](/herb/nimba/) ([Neem](/herb/neem/)) for dermatological formulations and biopesticides
 - [Haridra](/herb/haridra/) ([Turmeric](/herb/turmeric/)) for anti-inflammatory skin preparations
 - [Vidanga](/herb/vidanga/) for anthelmintic activity
-- [Chakramarda](/herb/chakramarda/) for ringworm and fungal infections
-- [Bakuchi](/herb/bakuchi/) for leucoderma management
+- [Chakramarda](/herb/chakramarda/), traditionally combined in preparations for ringworm
+- [Bakuchi](/herb/bakuchi/), traditionally combined in preparations for leucoderma

@@ -23,7 +23,7 @@ A specially prepared surgical thread coated with three layers: latex of Snuhi (E
 
 ## Where is it described in the classical texts?
 
-Sushruta Samhita Chikitsasthana Chapter 17 (Bhagandarachikitsitam) describes Kshara Sutra for Bhagandara (fistula-in-ano). Further developed by Dhanwantari and described in Chakradatta, Rasaratna Samuchaya.
+Sushruta Samhita Chikitsasthana Chapter 17 (Visarpa-Nadi-Stanaroga Chikitsitam) describes Kshara Sutra for Nadi Vrana (sinus). It is also described in later texts such as Chakradatta and Rasaratna Samuchaya.
 
 ## How is it used traditionally?
 

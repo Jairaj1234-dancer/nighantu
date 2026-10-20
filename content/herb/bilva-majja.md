@@ -41,9 +41,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 ## How does it work?
 
-- Marmelosin and marmelide (furocoumarins) inhibit prostaglandin synthesis and exhibit antidiarrhoeal activity by reducing intestinal motility and enhancing water absorption in the gut
-- Psoralen and imperatorin exert [antidiabetic](/reference/antidiabetic/) effects by enhancing insulin secretion from pancreatic beta cells and improving peripheral [glucose](/glossary/compounds-d-g/#glucose) uptake through GLUT4 transporter upregulation
-- Pectin and mucilage in fruit pulp form a protective barrier on gastric mucosa, exhibiting gastroprotective activity against acid-induced ulceration
+- Marmelosin and marmelide (furocoumarins) are reported to inhibit prostaglandin synthesis and to show antidiarrhoeal activity by reducing intestinal motility and enhancing water absorption in the gut
+- Preclinical studies report that psoralen and imperatorin may have [antidiabetic](/reference/antidiabetic/) effects by enhancing insulin secretion from pancreatic beta cells and improving peripheral [glucose](/glossary/compounds-d-g/#glucose) uptake through GLUT4 transporter upregulation
+- Pectin and mucilage in fruit pulp are reported to form a protective barrier on gastric mucosa, with gastroprotective activity against acid-induced ulceration
 
 ## Which traditional uses are supported by research?
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 ## Recent safety updates
 
-- Fruit pulp is widely consumed as food and traditional medicine with long history of safe use; ethanolic leaf extract showed minimal cytotoxicity at low concentrations (6.3 ul/ml)
+- Fruit pulp is widely consumed as food and traditional medicine with long history of safe use
 - No significant systemic toxicity reported at therapeutic doses; variability in phytochemical composition between specimens may affect dosing consistency
 - Few clinical trials have assessed safety. Standardized formulations are needed for reliable therapeutic use.
 

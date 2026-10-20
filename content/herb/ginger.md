@@ -208,7 +208,7 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
 
 **Bioavailability:** [Zingiber](/herb/zingiber/) officinale contains gingerols (fresh) and shogaols (dried/heated). [6]-Gingerol has moderate oral bioavailability (~30%) with rapid absorption (Tmax 30-60 min). Shogaols are more lipophilic than gingerols and may have slightly higher permeability. Extensive hepatic metabolism via glucuronidation and sulfation. [6]-Gingerol's bioavailability improves with lipid-rich meals. Enhancement: SNEDDS formulation increases gingerol bioavailability 3-4 fold; nano-emulsion and phytosome technologies; [piperine](/reference/piperine/) co-administration ([Trikatu](/herb/trikatu/) formulation is the traditional bioenhancer). Drying converts gingerols to shogaols - different pharmacological profile (shogaols are more potent anti-emetics).
 
-**Optimal Timing:** Before meals for appetite stimulation and digestive support; before travel for motion sickness prevention (30 min prior); fresh ginger tea throughout the day for cold/flu
+**Optimal Timing:** Before meals for appetite stimulation and digestive support; traditionally taken before travel (30 min prior) for motion sickness; fresh ginger tea traditionally taken during colds
 
 **Standardized Extract:** Standardized extract NLT 5% total gingerols+shogaols by HPLC. Oleoresin: 25-35% pungent compounds. Essential oil: NLT 30% zingiberene by GC-MS. Supercritical CO2 extract: NLT 20% gingerols. Extract ratios: 10:1 to 20:1.
 
@@ -230,7 +230,7 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
 ### Synergistic Combinations
 
 - With [Pippali](/herb/pippali/) and Maricha as [Trikatu](/herb/trikatu/) (bioenhancer par excellence)
-- With Lemon and Honey for cold/flu remedy
+- With Lemon and Honey (traditional home preparation used during colds)
 - With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for synergistic anti-inflammatory action
 - With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/)-digestive combination
 - With [Fennel](/herb/fennel/) for carminative synergy

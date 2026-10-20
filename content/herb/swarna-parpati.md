@@ -31,12 +31,12 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 ## How does it work?
 
-- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) has potent [immunomodulatory](/reference/immunomodulatory/) effects, enhancing T-cell and macrophage function - relevant to tuberculosis and chronic infections
-- Gold nanoparticles at Bhasma scale (~56-60 nm) have demonstrated anti-inflammatory and [antioxidant](/reference/antioxidant/) properties protecting tissue from chronic disease damage
+- [Swarna Bhasma](/herb/swarna-bhasma/) (gold nanoparticles) has been reported to have [immunomodulatory](/reference/immunomodulatory/) effects, enhancing T-cell and macrophage function
+- Gold nanoparticles at Bhasma scale (~56-60 nm) have been reported to show anti-inflammatory and [antioxidant](/reference/antioxidant/) properties
 - Parada-[Gandhaka](/glossary/concepts-a-m/#gandhaka) Kajjali (HgS) acts as Yogavahi (catalytic carrier) enhancing tissue penetration and bioavailability of gold
 - [Rasayana](/reference/rasayana/) (rejuvenative) effect of gold strengthens Ojas (vital essence/immunity) and promotes tissue regeneration in wasting diseases
 - Parpati Kalpana (flake form) ensures rapid GI dissolution and enhanced absorption compared to Bhasma form
-- Combined Agni Deepana (digestive fire enhancement) property improves nutrient absorption in malnourished patients with TB and chronic illness
+- Classically described as having Agni Deepana (digestive fire enhancement) property
 
 ## Which traditional uses are supported by research?
 
@@ -50,7 +50,7 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 - Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
   Cumulative intake of 160 mg gold at 4 mg/day showed no toxic effects on human body as evidenced by clinical examination, stable body weight, absence of urinary pathology, and normal results on 30 biochemical and enzymatic tests
 - Paul W, Sharma CP 2011. [Blood compatibility studies of Swarna bhasma (gold bhasma), an Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/21897638/). *International journal of Ayurveda research*. PMID [21897638](https://pubmed.ncbi.nlm.nih.gov/21897638/) · [doi:10.4103/0974-7788.83183](https://doi.org/10.4103/0974-7788.83183)  
-  [Swarna Bhasma](/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
+  [Swarna Bhasma](/herb/swarna-bhasma/) demonstrated blood compatibility
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

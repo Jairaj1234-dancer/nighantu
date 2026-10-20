@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Aivana |
+| English | Sage (common sage) |
 | Latin/Botanical | *Salvia officinalis L.* |
 
 ## Key Phytochemical Constituents
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ## Recent safety updates
 
-- Thujone content in sage essential oil (alpha- and beta-thujone) is neurotoxic at high doses; EU regulations limit thujone intake to 6 mg/kg in foodstuffs; prolonged use of essential oil not recommended
+- Thujone content in sage essential oil (alpha- and beta-thujone) is neurotoxic at high doses; prolonged use of essential oil not recommended
 - Sage tea and aqueous extracts considered safe at normal culinary and therapeutic doses; no significant adverse effects reported in clinical trials at 600 mg/day for 16 weeks
 - Contraindicated in pregnancy (uterotonic effects) and during lactation (may reduce milk production); caution with epilepsy medications due to potential thujone interactions
 
@@ -78,9 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 - Ursolic acid
 - Alpha-thujone
 - Beta-thujone
-- 1
 - Salvianolic acids A and B
-- 
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

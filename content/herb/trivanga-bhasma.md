@@ -35,8 +35,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 ## How does it work?
 
+*These are proposed mechanisms; none is established in humans.*
+
 - Anti-diabetic action through combined zinc-mediated insulin sensitivity enhancement and pancreatic beta-cell support, with synergistic effects from trimetallic composition
-- Urinary system regulation through [diuretic](/reference/diuretic/) and anti-lithiatic effects of combined metals, supporting management of Prameha (urinary disorders)
+- Urinary system regulation through [diuretic](/reference/diuretic/) and anti-lithiatic effects of combined metals, traditionally linked to Prameha (urinary disorders)
 - Reproductive system support through tin (Vanga) mediated spermatogenesis enhancement and zinc-dependent reproductive hormone regulation
 - Metabolic regulation through multi-metal enzyme cofactor provision affecting carbohydrate, lipid, and protein metabolism pathways
 
@@ -60,10 +62,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 ## Recent safety updates
 
 - CONTAINS LEAD (31.67%): Despite Ayurvedic purification, lead content remains a serious safety concern. Lead has NO safe exposure level per modern toxicology.
-- SAFE AT THERAPEUTIC DOSE IN ANIMALS: NOEL of 78 mg/kg in mice. No treatment effects up to 10x therapeutic dose except at highest level (liver/kidney toxicity).
+- MOUSE REPEATED-DOSE STUDY: NOEL of 78 mg/kg in mice. No treatment effects up to 10x therapeutic dose except at highest level (liver/kidney toxicity).
 - LEAD ACCUMULATION RISK: Chronic use may lead to cumulative lead exposure. Blood lead level monitoring essential for any patient taking this preparation.
 - REGULATORY CONFLICT: While AYUSH permits its manufacture, FDA and WHO guidelines effectively prohibit lead-containing medicines. This creates a regulatory paradox.
-- SAFER ALTERNATIVES AVAILABLE: Zinc-only ([Yashada Bhasma](/herb/yashada-bhasma/)) preparations provide similar anti-diabetic benefits without lead toxicity risk.
 
 ## What is it made of?
 

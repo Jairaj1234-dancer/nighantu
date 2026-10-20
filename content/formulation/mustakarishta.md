@@ -32,9 +32,9 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 ## How does it work?
 
 - Anti-diarrheal and astringent action of [Nagarmotha](/herb/nagarmotha/) (Cyperus rotundus) reduces intestinal hypermotility and enhances water absorption
-- [Antimicrobial](/reference/antimicrobial/) activity from [Thymol](/glossary/compounds-t-z/#thymol), [Eugenol](/glossary/compounds-d-g/#eugenol), and [Piperine](/reference/piperine/) combats enteric pathogens causing diarrhea
-- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/herb/ajwain/), Shunthi) corrects Agnimandya
-- Anti-inflammatory and [antioxidant](/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) reduce intestinal inflammation
+- [Antimicrobial](/reference/antimicrobial/) activity has been reported for [Thymol](/glossary/compounds-t-z/#thymol), [Eugenol](/glossary/compounds-d-g/#eugenol), and [Piperine](/reference/piperine/)
+- Digestive stimulation through Agni-enhancing herbs (Chitraka, [Ajwain](/herb/ajwain/), Shunthi) are classically described for Agnimandya
+- Anti-inflammatory and [antioxidant](/reference/antioxidant/) compounds (alpha-Terpineol, 4H-Pyran-4-one) have been reported
 
 ## Which traditional uses are supported by research?
 
@@ -87,4 +87,4 @@ Sharangdhara Samhita and Bhavaprakasha. Referenced in Bhaishajya Ratnavali under
 
 ### Synergistic Combinations
 
-- Key herbs: Musta (Cyperus rotundus), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: Musta (Cyperus rotundus), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile

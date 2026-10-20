@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Shigru-Patra/meta-analysis.m
 
 **Bioavailability:** Isothiocyanate compounds (derived from [glucosinolates](/glossary/compounds-d-g/#glucosinolates) by [myrosinase](/glossary/compounds-l-o/#myrosinase) activation) show good oral bioavailability (50-70%) when consumed from fresh/minimally processed leaves. Heat processing above 70 deg C inactivates myrosinase and reduces isothiocyanate formation, use raw or mildly heated preparations. [Quercetin](/reference/quercetinquercetin/) and [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides) show moderate bioavailability (20-35%). Iron and calcium from leaves have moderate bioavailability (10-20%), enhanced by vitamin C content.
 
-**Optimal Timing:** Morning with breakfast for nutritional supplementation; before meals for blood sugar management
+**Optimal Timing:** Morning with breakfast for nutritional supplementation
 
 **Standardized Extract:** Freeze-dried leaf powder retaining NLT 0.5% total [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) (as moringin equivalents); standardized extract (5:1) NLT 3% total [flavonoids](/reference/flavonoids/) (as [quercetin](/reference/quercetinquercetin/) equivalents) and NLT 1% chlorogenic acid by HPLC
 

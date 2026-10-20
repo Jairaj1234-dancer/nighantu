@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 - Anti-neuroinflammatory: Beta-asarone suppresses TNF-alpha and IL-1beta secretion, reducing neuroinflammation.
 - Blood-brain barrier penetration: Both alpha- and beta-asarone cross the blood-brain barrier, enabling direct CNS activity.
 - [Antioxidant](/reference/antioxidant/) neuroprotection: Alpha-asarone normalizes increased superoxide dismutase and lipid peroxidation, restores catalase, glutathione peroxidase, reduced glutathione, and [vitamins](/glossary/compounds-t-z/#vitamins) C and E in brain regions.
-- GABAergic and NMDA modulation: Alpha-asarone shows anticonvulsant activity via GABA antagonist and NMDA receptor agonist properties.
+- GABAergic and NMDA modulation: Alpha-asarone shows anticonvulsant activity.
 - Sedative/tranquilizing: Asarones potentiate hypnosis in vivo through CNS depressant activity.
 - [Antimicrobial](/reference/antimicrobial/): Volatile compounds demonstrate activity against P. aeruginosa and S. aureus through membrane disruption.
 
@@ -142,7 +142,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 - Beta-asarone produced dose-dependent increase in leiomyosarcomas in the intestine of male rats at doses causing severe toxicity and increased mortality.
 - European Council limits: beta-asarone content restricted to 0.1 mg/kg in non-alcoholic drinks and 1 mg/kg in alcoholic drinks.
 - Classified as GHS Category 1B sensitiser and Category 2 irritant for rhizome oil (2025 OECD assessment).
-- Indian variety (diploid) contains highest beta-asarone content; North American variety (diploid) contains primarily alpha-asarone with much lower beta-asarone.
+- Indian variety (tetraploid) contains highest beta-asarone content; North American variety (diploid) contains primarily alpha-asarone with much lower beta-asarone.
 - 2025 Ames test found negative mutagenicity results for Indian extracts and beta-asarone, but this does not negate chronic carcinogenicity concerns.
 - Reported adverse events in humans: prolonged vomiting in 7 consumers exposed to asarones from A. calamus.
 - No human long-term safety or carcinogenicity studies exist.
@@ -159,7 +159,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 **Bioavailability:** beta-Asarone (primary active compound) has good oral bioavailability (~45-60%) with rapid absorption and blood-brain barrier penetration. However, it is classified as potentially genotoxic and carcinogenic (EFSA, FDA), severely limiting acceptable daily intake. alpha-Asarone has similar pharmacokinetics but lower toxicity concerns. Acoramone and other [phenylpropanoids](/glossary/compounds-o-q/#phenylpropanoids) are moderately bioavailable. Nasya administration allows direct CNS delivery via olfactory pathway, requiring lower doses.
 
-**Optimal Timing:** Morning on empty stomach for cognitive enhancement; Nasya in early morning; NOT recommended at bedtime
+**Optimal Timing:** Morning on empty stomach; Nasya in early morning; NOT recommended at bedtime
 
 **Standardized Extract:** Essential oil: quantify beta-asarone content (specify acceptable limit based on target market); hydroethanolic extract standardized to total phenylpropanoids >5% with beta-asarone content clearly declared. For low-asarone products: beta-asarone <0.1% in finished product.
 

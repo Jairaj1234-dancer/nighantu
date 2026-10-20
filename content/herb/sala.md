@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## Recent safety updates
 
-- Resin (sal dammar) is generally regarded as safe for external and internal use at traditional doses; used widely in food grade applications
+- Resin (sal dammar) has traditionally been used externally and internally; it is also used in food grade applications. Formal human safety data are limited.
 - Seed oil is considered safe for consumption as an edible oil substitute; no reports of significant adverse effects. Formal clinical safety trials in humans remain limited.
 
 ## Dosage forms and preparation

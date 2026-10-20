@@ -117,7 +117,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 **Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (primary active stilbene) has remarkably good oral bioavailability (~80%) due to dimethylation of hydroxyl groups (compared to [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol)'s ~20%), better metabolic stability, and enhanced lipophilicity. [Marsupsin](/glossary/compounds-l-o/#marsupsin) shows moderate oral bioavailability (~30-40%). [Epicatechin](/glossary/compounds-d-g/#epicatechin) (flavanol) has moderate bioavailability (~20-30%). The traditional 'tumbler method' (overnight water extraction in Vijaysar wood cup) provides slow extraction of water-soluble actives including epicatechin and kino-tannic acid.
 
-**Optimal Timing:** Morning on empty stomach for maximum glycemic impact; 30 minutes before meals; tumbler water first thing in morning
+**Optimal Timing:** Morning on empty stomach; 30 minutes before meals; tumbler water first thing in morning
 
 **Standardized Extract:** Heartwood extract standardized to >5% pterostilbene and >2% epicatechin by HPLC; total [polyphenols](/glossary/compounds-o-q/#polyphenols) >20% (as tannic acid equivalent); marsupsin content >1%
 
@@ -137,8 +137,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Gudmar](/herb/gudmar/) (Gymnema sylvestre) - synergistic blood sugar management (gymnemic acids + pterostilbene)
-- [Jamun](/herb/jamun/) (Syzygium cumini) - complementary anti-diabetic action
-- [Karela](/herb/karela/) (Momordica charantia) - multi-target glycemic control
+- [Gudmar](/herb/gudmar/) (Gymnema sylvestre)
+- [Jamun](/herb/jamun/) (Syzygium cumini)
+- [Karela](/herb/karela/) (Momordica charantia)
 - [Methi](/herb/methi/) (Trigonella foenum-graecum) - fiber and 4-hydroxyisoleucine synergy
 - [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - anti-inflammatory and metabolic syndrome support

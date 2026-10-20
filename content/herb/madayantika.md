@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 
 **Bioavailability:** Moderate bioavailability of [flavonoids](/reference/flavonoids/) and [alkaloids](/glossary/compounds-1-a/#alkaloids). Indole alkaloids show good GI absorption. Monoterpene indole alkaloids undergo significant first-pass hepatic metabolism. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered compounds. [Quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed in gut to absorbable aglycones.
 
-**Optimal Timing:** After meals for digestive and [hepatoprotective](/reference/hepatoprotective/) effects; evening for cooling and Pitta-pacifying actions; topical application as needed
+**Optimal Timing:** After meals (traditional recommendation); evening is traditionally recommended for cooling and Pitta-pacifying use; topical application as needed
 
-**Standardized Extract:** Flower extract (8:1 hydroalcoholic) standardized to minimum 2% total flavonoids (as quercetin equivalents). Fruit extract with minimum 1% lawsone. Essential oil from flowers for aromatic and therapeutic use.
+**Standardized Extract:** Flower extract (8:1 hydroalcoholic) standardized to minimum 2% total flavonoids (as quercetin equivalents). Essential oil from flowers for aromatic and therapeutic use.
 
 **Shelf Life:** 24 months for dried flower/fruit powder; 30 months for tablets/capsules; 18 months for Avaleha; 12 months for fresh juice preparations
 
-**Storage:** Store below 25 deg C in airtight, light-resistant containers. Flower preparations are photosensitive due to lawsone content. Protect from moisture. Avaleha in glass or food-grade containers at room temperature.
+**Storage:** Store below 25 deg C in airtight, light-resistant containers. Protect from moisture. Avaleha in glass or food-grade containers at room temperature.
 
 **Marker Compounds:** Lawsone (2-hydroxy-1,4-naphthoquinone), [Luteolin](/glossary/compounds-l-o/#luteolin), [Apigenin](/glossary/compounds-1-a/#apigenin), Cosmosiin, Gallic acid, Tannic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Laxanthone
 
@@ -66,4 +66,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Madayantika/meta-analysis
 - [Ushira](/herb/ushira/) (cooling and blood purifying)
 - [Sariva](/herb/sariva/) (skin health combination)
 - [Padmaka](/herb/padmaka/) (complexion enhancer)
-- [Kumuda](/herb/kumuda/) (cardiac tonic combination)
+- [Kumuda](/herb/kumuda/) (traditional combination)

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalmali/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Shalmali |
+| Sanskrit | Shalmali |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalmali/meta-analysis.md"
 
 **Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) (shamimicin, [quercetin](/reference/quercetinquercetin/) derivatives) show moderate bioavailability (20-35%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) from the gum (Mocharasa) are not systemically absorbed but exert local GI effects. [Tannins](/reference/tannins/) from bark have low systemic bioavailability but significant topical and local GI activity.
 
-**Optimal Timing:** Before meals for astringent action; Mocharasa with honey for diarrhea/dysentery; flower stamens with milk or sugar for reproductive health
+**Optimal Timing:** Before meals for astringent action; Mocharasa with honey traditionally used for diarrhea/dysentery; flower stamens traditionally taken with milk or sugar for reproductive health
 
 **Standardized Extract:** Bark extract (8:1 in 50% ethanol), standardized to NLT 5% total tannins by hide-powder method and NLT 2% total [flavonoids](/reference/flavonoids/); Mocharasa purified gum with swelling index NLT 5 mL/g
 

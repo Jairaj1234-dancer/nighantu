@@ -29,7 +29,7 @@ srcRel: "_Hub/Body-Systems/Antiinflammatory--Pain.md"
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.* (Antioxidant, Anticancer, Antidiabetic)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/) (Antioxidant, Bronchodilator, Laxative)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts* (Antioxidant, Anticancer, Wound Healing)
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)* (Diuretic, Analgesic, Anti-inflammatory)
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia; Clerodendrum phlomidis is also used as Agnimantha* (Diuretic, Analgesic, Anti-inflammatory)
 - [Agnitundi Vati](/formulation/agnitundi-vati/) (Antispasmodic)
 - [Ahiphena](/herb/ahiphena/), *Papaver somniferum L.* (Analgesic)
 - [Aivana](/herb/aivana/), *Salvia officinalis L.* (Antioxidant, Anticancer, Wound Healing)

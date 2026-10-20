@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Vidanga (Embelia ribes Burm.f.) is a plant drug, also called Amoghah, Vidangah and Vidamga. Anthelmintic activity confirmed by in vitro and clinical studies in children with Ascaris infections. Listed in Ayurvedic Pharmacopoeia of India."
+answer: "Vidanga (Embelia ribes Burm.f.) is a plant drug, also called Amoghah, Vidangah and Vidamga. Anthelmintic activity has been reported in in vitro and clinical studies in children with Ascaris infections. Listed in Ayurvedic Pharmacopoeia of India."
 botanical: "Embelia ribes Burm.f."
 family: "Primulaceae"
 sanskrit: ""
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vidanga/meta-analysis.md"
 - Embelinol
 - Embeliaribyl ester
 - Embeliol 
-- Volatile oils and 
+- Volatile oils
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 **Bioavailability:** Cynodon dactylon (Bermuda grass / Durva) contains [flavonoids](/reference/flavonoids/) ([apigenin](/glossary/compounds-1-a/#apigenin), [luteolin](/glossary/compounds-l-o/#luteolin), [orientin](/glossary/compounds-o-q/#orientin), [vitexin](/glossary/compounds-t-z/#vitexin)), [triterpenoids](/glossary/compounds-t-z/#triterpenoids), and [phytosterols](/glossary/compounds-o-q/#phytosterols). Flavone C-[glycosides](/glossary/compounds-g-l/#glycosides) (orientin, vitexin) are resistant to acid hydrolysis and absorbed intact through SGLT1 transporter with moderate bioavailability (20-35%). [Apigenin](/glossary/compounds-1-a/#apigenin) has moderate oral bioavailability (~25%) improved by lipid co-administration. Fresh juice provides labile enzyme and [chlorophyll](/glossary/compounds-c-d/#chlorophyll) components lost during drying. Enhancement: self-microemulsifying delivery system (SMEDDS) for terpenoid fraction; cyclodextrin inclusion for flavonoid stabilization.
 
-**Optimal Timing:** Fresh juice on empty stomach in the morning for blood purification and [hemostatic](/glossary/pharmacology/#hemostatic) effects; before meals for GI conditions; externally as needed
+**Optimal Timing:** Fresh juice traditionally taken on an empty stomach in the morning, where it is traditionally used for blood purification and as a [hemostatic](/glossary/pharmacology/#hemostatic); traditionally taken before meals for digestive complaints; externally as needed
 
 **Standardized Extract:** Aqueous or hydroalcoholic extract standardized to NLT 3% total flavonoids (as vitexin equivalent). Extract ratio 10:1. HPTLC fingerprint with characteristic orientin, vitexin, and luteolin bands.
 
@@ -64,6 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 - With [Ushira](/herb/ushira/) (vetiver) for hemostatic and Pitta-pacifying synergy
 - With [Lodhra](/herb/lodhra/) for uterine tonic combination
-- With [Nagakesara](/herb/nagakesara/) and [Ashoka](/herb/ashoka/) for menorrhagia management
+- With [Nagakesara](/herb/nagakesara/) and [Ashoka](/herb/ashoka/) in combinations traditionally used for menorrhagia
 - With [Chandana](/herb/chandana/) (sandalwood) for cooling and hemostatic Pitta formulations
 - With Amalaki for [antioxidant](/reference/antioxidant/) and [Rasayana](/reference/rasayana/) synergy

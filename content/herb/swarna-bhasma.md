@@ -61,10 +61,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SAFE AT THERAPEUTIC DOSES: No toxicity at doses up to 13.5 mg/kg body weight in acute studies; 90-day chronic study at 10x therapeutic dose showed no major organ damage in Wistar rats
-- BLOOD COMPATIBILITY: Preparations with crystallite sizes of 28-35 nm did not induce blood cell aggregation or protein adsorption, confirming hemocompatibility
+- ANIMAL TOXICITY FINDINGS: No toxicity at doses up to 13.5 mg/kg body weight in acute studies; 90-day chronic study at 10x therapeutic dose showed no major organ damage in Wistar rats
+- BLOOD COMPATIBILITY: Preparations with crystallite sizes of 28-35 nm were reported not to induce blood cell aggregation or protein adsorption
 - CELLULAR SAFETY: No cytotoxicity observed in HeLa or HFF-1 cell lines even at high concentrations and prolonged exposure times
-- HEAVY METAL CONCERN: Some commercially available samples may contain variable gold content; approximately 60-70% of analyzed samples showed trace amounts of gold, raising standardization concerns
+- STANDARDIZATION CONCERN: Some commercially available samples may contain variable gold content, raising standardization concerns
 - PEDIATRIC USE: Swarna Bindu Prashan (gold ash preparation used as immune booster in children) assessed for chronic administration safety in southern India; no significant adverse effects reported but long-term monitoring recommended
 
 ## What is it made of?
@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 **Standard Dosage:** 15–30 mg (premium preparation, precise dosing)
 
-**Bioavailability:** Exceptional; gold nanoparticles (20–50 nm) with superior tissue distribution and immunomodulatory activity
+**Bioavailability:** Not established in humans
 
 **Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
 
@@ -101,5 +101,5 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ### Stability Notes
 
-Gold bhasma is the most stable of all bhasmas, gold does not revert or oxidize
+Gold bhasma is described as the most stable of all bhasmas.
 

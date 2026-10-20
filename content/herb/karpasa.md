@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa/meta-analysis.md
 
 ### Synergistic Combinations
 
-- [Ashoka](/herb/ashoka/) for menstrual disorder management
+- [Ashoka](/herb/ashoka/), traditionally paired for menstrual complaints
 - [Lodhra](/herb/lodhra/) for uterine health
 - [Shatavari](/herb/shatavari/) for [galactagogue](/glossary/pharmacology/#galactagogue) formulations
 - [Eranda](/herb/eranda/) (Castor) for anti-inflammatory combinations

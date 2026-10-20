@@ -37,10 +37,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 ## How does it work?
 
-- Anti-asthmatic effect through mast cell stabilization and reduction of bronchial hyper-responsiveness via hydro-alcoholic extract
-- [Analgesic](/reference/analgesic/) activity through dose-dependent increase in latency period (258.9% at 500 mg/kg at 3h) via central pain modulation
-- [Anticancer](/reference/anticancer/) mechanisms through shikonin/onosmin-mediated topoisomerase inhibition, ROS generation, and apoptosis induction
-- Anti-inflammatory action via inhibition of pro-inflammatory mediators and stabilization of lysosomal membranes
+- Studies of a hydro-alcoholic extract have reported anti-asthmatic activity, with mast cell stabilization and reduced bronchial hyper-responsiveness
+- Studies have reported [analgesic](/reference/analgesic/) activity, with a dose-dependent increase in latency period
+- Laboratory studies have reported [anticancer](/reference/anticancer/) mechanisms through shikonin/onosmin-mediated topoisomerase inhibition, ROS generation, and apoptosis induction
+- Studies have reported anti-inflammatory action via inhibition of pro-inflammatory mediators and stabilization of lysosomal membranes
 
 ## Which traditional uses are supported by research?
 

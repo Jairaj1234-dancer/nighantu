@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 
 - Kumkuma ([Saffron](/herb/saffron/)) for uterine tonic effects
 - [Nagakesara](/herb/nagakesara/) for [hemostatic](/glossary/pharmacology/#hemostatic) activity
-- [Ashoka](/herb/ashoka/) for menorrhagia management
+- [Ashoka](/herb/ashoka/), traditionally combined for menorrhagia
 - [Lodhra](/herb/lodhra/) for gynecological formulations

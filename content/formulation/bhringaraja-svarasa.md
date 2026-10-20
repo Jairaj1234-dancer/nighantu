@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Svarasas-Fresh-Juices"
-answer: "Bhringaraja Svarasa is a classical Ayurvedic svarasa, a fresh plant juice. Rapid oral absorption with peak plasma levels at 1-2 hours. Hepatoprotective activity is superior in fresh juice form compared to dried extracts."
+answer: "Bhringaraja Svarasa is a classical Ayurvedic svarasa, a fresh plant juice."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base.
 
-**Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin. Rapid oral absorption with peak plasma levels at 1-2 hours. [Hepatoprotective](/reference/hepatoprotective/) activity is superior in fresh juice form compared to dried extracts.
+**Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin.
 
 **Optimal Timing:** Morning on empty stomach for hepatoprotective effect; externally before bath for hair health
 

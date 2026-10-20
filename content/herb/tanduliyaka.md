@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Tanduliyaka is a substance used in the Ayurvedic materia medica. Polyphenols and flavonoids undergo extensive Phase II metabolism. The high dietary fiber content slows gastric emptying and may modulate absorption kinetics of co-administered drugs."
+answer: "Tanduliyaka is a substance used in the Ayurvedic materia medica, described with Madhura rasa, Laghu and Ruksha guna, Sheeta virya and Madhura vipaka."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Tanduliyaka/meta-analysis.
 
 **Bioavailability:** Betalains (amaranthine, isoamaranthine) show moderate oral bioavailability (~20-30%) with rapid absorption in the upper GI tract. [Polyphenols](/glossary/compounds-o-q/#polyphenols) and [flavonoids](/reference/flavonoids/) undergo extensive Phase II metabolism. The high dietary fiber content slows gastric emptying and may modulate absorption kinetics of co-administered drugs. Iron and calcium from the plant matrix have moderate bioavailability enhanced by vitamin C co-administration.
 
-**Optimal Timing:** Before meals for hematinic effect; morning administration with honey or jaggery as traditional vehicle
+**Optimal Timing:** Traditionally taken before meals; morning administration with honey or jaggery as traditional vehicle
 
 **Standardized Extract:** Aqueous or hydroethanolic extract standardized to >0.5% total betalains (as amaranthine by UV-Vis at 538 nm); >2% total polyphenols (as gallic acid equivalent)
 

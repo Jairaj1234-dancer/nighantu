@@ -31,9 +31,9 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 ## How does it work?
 
-- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and volatile oils from [Talisa](/herb/talisa/) and [Pippali](/herb/pippali/) relax bronchial smooth muscle, improving airflow.
-- Anti-inflammatory cytokine suppression: [Gingerol](/glossary/compounds-d-g/#gingerol) (from Shunthi) and piperine inhibit IL-6 and TNF-alpha, reducing respiratory tract inflammation.
-- Mucolytic and [expectorant](/reference/expectorant/) activity: Reduces sputum viscosity and promotes expectoration, clearing respiratory passages.
+- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and volatile oils from [Talisa](/herb/talisa/) and [Pippali](/herb/pippali/) relax bronchial smooth muscle.
+- Anti-inflammatory cytokine suppression: [Gingerol](/glossary/compounds-d-g/#gingerol) (from Shunthi) and piperine have been reported in in vitro studies to inhibit IL-6 and TNF-alpha.
+- Mucolytic and [expectorant](/reference/expectorant/) activity: A pilot clinical study reported reduced sputum viscosity.
 - Bioavailability enhancement: Piperine enhances absorption of other active compounds ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), cardamom essential oils).
 - Digestive stimulation: [Trikatu](/herb/trikatu/) components kindle digestive fire (Agni), addressing the Ayurvedic principle that respiratory conditions often stem from impaired digestion.
 

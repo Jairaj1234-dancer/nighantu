@@ -31,9 +31,9 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## How does it work?
 
-- [Shatavari](/herb/shatavari/) provides phytoestrogenic support, nourishing ovaries, promoting reproductive hormones, and increasing libido
+- [Shatavari](/herb/shatavari/) is traditionally described as nourishing the female reproductive system and supporting libido
 - Kushta (Saussurea lappa) acts as uterine stimulant with [aphrodisiac](/glossary/pharmacology/#aphrodisiac) properties, maintaining semen morphology in males
-- [Vidarikand](/herb/vidarikand/) maintains reproductive health by improving libido and fertility via [adaptogenic](/reference/adaptogenic/) and anabolic mechanisms
+- [Vidarikand](/herb/vidarikand/) is traditionally described as supporting reproductive health, libido and fertility, and is regarded as [adaptogenic](/reference/adaptogenic/)
 - Tikta (bitter) and Madhura (sweet) rasa combination provides Dipana-Pachana (digestive stimulation) along with tissue nourishment
 - Ghee and milk base provides enhanced bioavailability of fat-soluble reproductive hormones and phytoestrogens
 
@@ -55,7 +55,7 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## Recent safety updates
 
-- Clinical study with 45 women confirmed no significant adverse effects during or after 3-month treatment, suggesting safe complementary fertility therapy
+- A clinical study of 45 women reported no significant adverse effects during or after 3-month treatment
 - Ghee and milk base requires caution in lactose-intolerant individuals and those with hyperlipidemia
 - Should be used under Ayurvedic practitioner guidance for infertility; not a replacement for modern fertility treatments when indicated
 
@@ -65,7 +65,7 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 **Standard Dosage:** 12-24ml for reproductive health. The Ayurvedic Formulary of India, Part I, entry 6:30 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½.
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is traditionally regarded as a carrier (yogavahi) for fat-soluble constituents
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 

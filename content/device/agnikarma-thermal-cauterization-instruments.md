@@ -23,20 +23,20 @@ A set of metal rods (Shalaka) of specific shapes - Suchi (needle-point), Bindu (
 
 ## Where is it described in the classical texts?
 
-Sushruta Samhita Sutrasthana Chapter 12 (Agnikarmavidhi Adhyaya). Sushruta declares: 'The disease which is not cured by medicines, is cured by Shastra Karma; that which is not cured by Shastra, is cured by Agni; that which is not cured by Agni has no cure.'
+Sushruta Samhita Sutrasthana Chapter 12 (Agnikarmavidhi Adhyaya).
 
 ## How is it used traditionally?
 
-Chronic musculoskeletal pain, plantar fasciitis, tennis elbow, frozen shoulder, calcaneal spur, warts, corn, hemorrhoids, skin tags, and conditions resistant to medication and surgery.
+The source notes list its traditional use for chronic musculoskeletal pain, plantar fasciitis, tennis elbow, frozen shoulder, calcaneal spur, warts, corn, hemorrhoids and skin tags.
 
 ## Traditional materials
 
 - Panchadhatu (five-metal alloy) rods - for muscle/bone cauterization
 - Suvarna (gold) rods - for delicate areas
 - Iron (Loha) rods - general use
-- [Pippali](/herb/pippali/) (Piper longum) - for mucosal cauterization
-- Godanta (bovine tooth) - for bone cauterization
-- [Madhu](/herb/madhu/) (honey) and [Guda](/glossary/concepts-a-m/#guda) (jaggery) - for skin cauterization
+- [Pippali](/herb/pippali/) (Piper longum) - for skin (twak) cauterization
+- Godanta (bovine tooth) - for skin (twak) cauterization
+- [Madhu](/herb/madhu/) (honey) and [Guda](/glossary/concepts-a-m/#guda) (jaggery) - for vessel, ligament, joint and bone (sira, snayu, sandhi, asthi) cauterization
 
 ## Modern variants
 

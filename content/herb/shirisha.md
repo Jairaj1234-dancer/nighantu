@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 
 ## Recent safety updates
 
-- Bark decoction is clinically used in Ayurvedic practice for bronchial asthma with established safety at standard doses
+- Bark decoction is traditionally used in Ayurvedic practice for bronchial asthma
 - Saponin-rich preparations may cause GI irritation at high doses; seed powder should be used with caution. Not recommended during pregnancy without supervision.
 
 ## What is it made of?

@@ -76,8 +76,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalparni/meta-analysis.md"
 - Gangetinin 
 - Gangetin
 - Desmodin
-- N
-- Flavone 
+- N,N-dimethyltryptamine
+- Flavone glycosides
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

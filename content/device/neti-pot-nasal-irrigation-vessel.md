@@ -27,7 +27,7 @@ Hatha Yoga Pradipika (Chapter 2, Shatkarma section); Gheranda Samhita; Charaka S
 
 ## How is it used traditionally?
 
-Nasal congestion, sinusitis, allergies, post-nasal drip, improving breathing and Pranayama practice. Removes pollen, dust, germs, and excess mucus from nasal passages.
+Nasal congestion, sinusitis, allergies, post-nasal drip, improving breathing and Pranayama practice. Traditionally described as clearing pollen, dust, and excess mucus from the nasal passages.
 
 ## Traditional materials
 

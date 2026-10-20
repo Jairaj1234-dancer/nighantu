@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 
 ## How does it work?
 
-- Anticonvulsant/sedative: Bile acids and [taurine](/glossary/compounds-t-z/#taurinetaurine) modulate GABA-A receptors and calcium channels in neurons, reducing neuronal excitability
+- Anticonvulsant/sedative: Bile acids and [taurine](/glossary/compounds-t-z/#taurinetaurine) are proposed to modulate GABA-A receptors and calcium channels in neurons, reducing neuronal excitability; this mechanism is not established
 - Anti-inflammatory and [antipyretic](/reference/antipyretic/): Bile salts inhibit NF-kB pathway and reduce prostaglandin synthesis; bilirubin acts as a potent [antioxidant](/reference/antioxidant/)
 - [Cardioprotective](/reference/cardioprotective/): [Taurine](/glossary/compounds-t-z/#taurinetaurine) stabilizes cardiac membrane potential, protects against arrhythmias by modulating calcium homeostasis
 - Alexeteric (anti-poison): Bile salt chelation of toxic compounds and [hepatoprotective](/reference/hepatoprotective/) activity enhance detoxification capacity

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Makoy (Solanum nigrum) is a plant drug, also called Kakamaci and Makoya. Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. Hepatoprotective effects are primarily via first-pass liver exposure. Diosgenin absorption is enhanced by lipid co-administration."
+answer: "Makoy (Solanum nigrum) is a plant drug, also called Kakamaci and Makoya. Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. Diosgenin absorption is enhanced by lipid co-administration."
 botanical: "Solanum nigrum"
 family: "Solanaceae"
 sanskrit: ""
@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Makoy/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-6 g powder per day; 50-100 mL decoction twice daily; 500 mg extract capsules twice daily
 
-**Bioavailability:** Steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasonine](/glossary/compounds-q-t/#solasonine), [solamargine](/glossary/compounds-q-t/#solamargine)) have moderate oral bioavailability (~25-35%). Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. [Hepatoprotective](/reference/hepatoprotective/) effects are primarily via first-pass liver exposure. [Diosgenin](/glossary/compounds-d-g/#diosgenin) absorption is enhanced by lipid co-administration.
+**Bioavailability:** Steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasonine](/glossary/compounds-q-t/#solasonine), [solamargine](/glossary/compounds-q-t/#solamargine)) have moderate oral bioavailability (~25-35%). Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. [Diosgenin](/glossary/compounds-d-g/#diosgenin) absorption is enhanced by lipid co-administration.
 
-**Optimal Timing:** Morning on empty stomach for hepatoprotective effects; before meals for digestive benefits; fresh juice preferably in morning
+**Optimal Timing:** Traditionally taken in the morning on an empty stomach; before meals in digestive use; fresh juice preferably in morning
 
 **Standardized Extract:** Standardized whole plant extract (8:1 hydroalcoholic) with minimum 1% total steroidal alkaloids (as solasonine equivalents) and controlled [solanine](/glossary/compounds-q-t/#solanine) below 0.1%. Spray-dried juice powder (10:1) preserving hepatoprotective glycoproteins.
 

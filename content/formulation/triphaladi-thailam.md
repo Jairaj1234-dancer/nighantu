@@ -31,9 +31,9 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/formulat
 
 ## How does it work?
 
-- Gallic acid and chebulagic acid from [Triphala](/herb/triphala/) provide potent [antioxidant](/reference/antioxidant/) protection to neural and optic tissues, reducing oxidative stress-related headaches and visual fatigue
-- [Guduchi](/herb/guduchi/)'s (Tinospora) [berberine](/glossary/compounds-a-c/#berberine) and tinosporine provide anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) effects on meningeal and scalp tissues, reducing chronic headache inflammation
-- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Asanaka (Pterocarpus marsupium) provides retinal neuroprotection and microvascular support, relevant to eye disorders (Netra Roga)
+- Gallic acid and chebulagic acid from [Triphala](/herb/triphala/) have reported [antioxidant](/reference/antioxidant/) activity
+- [Guduchi](/herb/guduchi/)'s (Tinospora) [berberine](/glossary/compounds-a-c/#berberine) and tinosporine are reported to have anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) activity
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Asanaka (Pterocarpus marsupium) has been reported in pharmacological studies to show retinal neuroprotective activity, relevant to eye disorders (Netra Roga)
 - Volatile compounds from [Ketaki](/herb/ketaki/) (Pandanus) provide cooling and calming effects on the scalp and head region through transdermal absorption during Shiro Abhyanga (head massage)
 
 ## Which traditional uses are supported by research?
@@ -68,11 +68,11 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/formulat
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
-**Standard Dosage:** External eye application (netra tarpana): prescribed amount
+**Standard Dosage:** External application (Shiro Abhyanga) or Nasya, as directed by a practitioner
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
+**Optimal Timing:** External: before bath or at bedtime
 
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
@@ -82,7 +82,7 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/formulat
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Gallic acid, [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
+**Vehicle (Anupana):** External: massage into affected area
 
 ### Synergistic Combinations
 

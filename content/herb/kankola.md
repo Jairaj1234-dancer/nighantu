@@ -39,8 +39,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 - Anti-inflammatory activity via cubebin-mediated inhibition of NF-kB pathway and suppression of pro-inflammatory cytokines
 - Antibacterial mechanism through disruption of bacterial cell membrane integrity by [lignans](/glossary/compounds-g-l/#lignans) and essential oil components
-- [Antidiabetic](/reference/antidiabetic/) effect through alpha-amylase and alpha-glucosidase enzyme inhibition reducing postprandial [glucose](/glossary/compounds-d-g/#glucose) spikes
-- [Hepatoprotective](/reference/hepatoprotective/) and nephroprotective activities through [antioxidant](/reference/antioxidant/)-mediated protection against oxidative stress-induced organ damage
+- Proposed [antidiabetic](/reference/antidiabetic/) mechanism: alpha-amylase and alpha-glucosidase enzyme inhibition
+- Proposed [hepatoprotective](/reference/hepatoprotective/) and nephroprotective mechanism: [antioxidant](/reference/antioxidant/) activity against oxidative stress
 
 ## Which traditional uses are supported by research?
 
@@ -83,11 +83,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); as adjuvant in formulations
 
-**Bioavailability:** Essential oil constituents (1,8-[cineole](/glossary/compounds-c-d/#cineole), [eugenol](/glossary/compounds-d-g/#eugenol)) are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
+**Bioavailability:** Essential oil constituents are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
 
 **Optimal Timing:** After meals for digestive support; before meals for appetite stimulation
 
-**Standardized Extract:** Standardized to minimum 10% essential oil content by steam distillation; volatile oil standardized to >30% 1,8-cineole and >5% cubebin
+**Standardized Extract:** Standardized to minimum 10% essential oil content by steam distillation
 
 **Shelf Life:** 18 months for powder (volatile loss); 24 months for tablets; 36 months for essential oil in sealed amber bottles
 

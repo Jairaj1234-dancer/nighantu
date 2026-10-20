@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/herb/trikatu/) ([Pippali](/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
 
-**Optimal Timing:** After meals with warm water; for skin conditions, external application twice daily
+**Optimal Timing:** After meals with warm water; Lepa applied externally as traditionally described
 
 **Standardized Extract:** Standardized to minimum 1.5% total alkaloids and 3% total phenolics (as gallic acid equivalents)
 
@@ -64,4 +64,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 - [Guduchi](/herb/guduchi/) for [immunomodulatory](/reference/immunomodulatory/) enhancement
 - [Haridra](/herb/haridra/) for anti-inflammatory synergy
 - Amalaki for [antioxidant](/reference/antioxidant/) potentiation
-- [Nimba](/herb/nimba/) for skin disorders

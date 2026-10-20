@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 ## How does it work?
 
 - [Hepatoprotective](/reference/hepatoprotective/) action at therapeutic doses through [antioxidant](/reference/antioxidant/) enzyme modulation and free radical scavenging, protecting liver cells from oxidative damage
-- [Antimicrobial](/reference/antimicrobial/) activity via copper ion release disrupting microbial cell membrane integrity and enzyme function, effective against both gram-positive and gram-negative bacteria
+- [Antimicrobial](/reference/antimicrobial/) activity via copper ion release disrupting microbial cell membrane integrity and enzyme function
 - Digestive fire (Agni) enhancement through stimulation of digestive enzyme secretion and improvement of metabolic processes in the GI tract
 - Anti-inflammatory effect through copper-mediated modulation of inflammatory cytokines and suppression of oxidative stress pathways
 

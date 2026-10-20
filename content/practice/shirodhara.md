@@ -28,7 +28,7 @@ faq:
 
 Aṣṭāṅga Hṛdaya, Sūtrasthāna 22, sets out four forms of murdha taila, oil applied to the head: abhyaṅga (smearing and mild massage), seka or pariṣeka (pouring oil in a continuous stream), picu (an oil-soaked cloth kept on the scalp) and śiro-basti (oil held standing on the head inside a collar), each described as more potent than the one before it. Śirodhārā is the seka form. Vāgbhaṭa indicates pariṣeka in scalp ulceration, headache, burning sensation, wounds and suppuration of the scalp.
 
-The record also credits Sahasrayogam, the Kerala formulary, and an Aṣṭāṅga Hṛdaya commentary. The Aṣṭāṅga Hṛdaya reference is better placed in the main text at Sūtrasthāna 22 than in a commentary, and that is the citation used above. The Sahasrayogam attribution is widely repeated in secondary literature but could not be checked against the text itself in this session. Sahasrayogam is, however, where Kṣīrabalā Taila, one of the oils named below, is first recorded.
+The record also credits Sahasrayogam, the Kerala formulary, and an Aṣṭāṅga Hṛdaya commentary. The Aṣṭāṅga Hṛdaya reference is better placed in the main text at Sūtrasthāna 22 than in a commentary, and that is the citation used above. The Sahasrayogam attribution is widely repeated in secondary literature but could not be checked against the text itself in this session.
 
 ## What it involves
 

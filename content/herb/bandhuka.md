@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Womens-Health"
-answer: "Bandhuka is a substance used in the Ayurvedic materia medica. Flavonoid glycosides likely undergo hepatic first-pass metabolism. Traditional use with honey (Madhu) or ghee as Anupana may enhance mucosal absorption. Anthocyanin pigments show moderate oral bioavailability (15-25%)."
+answer: "Bandhuka is a substance used in the Ayurvedic materia medica. Flavonoid glycosides likely undergo hepatic first-pass metabolism. Traditional use with honey (Madhu) or ghee as Anupana may enhance mucosal absorption."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Bandhuka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g flower powder twice daily; 10-20ml fresh juice; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Limited modern pharmacokinetic data. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) likely undergo hepatic first-pass metabolism. Traditional use with honey ([Madhu](/herb/madhu/)) or ghee as Anupana may enhance mucosal absorption. Anthocyanin pigments show moderate oral bioavailability (15-25%). Note: limited modern evidence available for this herb.
+**Bioavailability:** Limited modern pharmacokinetic data. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) likely undergo hepatic first-pass metabolism. Traditional use with honey ([Madhu](/herb/madhu/)) or ghee as Anupana may enhance mucosal absorption. Note: limited modern evidence available for this herb.
 
 **Optimal Timing:** With meals for general health; flower juice early morning on empty stomach for menstrual health; paste applied externally as needed
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Bandhuka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Lodhra](/herb/lodhra/) for menstrual disorders
+- Traditionally combined with [Lodhra](/herb/lodhra/) for menstrual complaints
 - With [Ashoka](/herb/ashoka/) for uterine health
-- With Nagakeshara for bleeding disorders
+- Traditionally combined with Nagakeshara for bleeding complaints
 - With [Durva](/herb/durva/) (Cynodon) for Pitta-related conditions

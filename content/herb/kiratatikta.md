@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 
 **Bioavailability:** [Amarogentin](/glossary/compounds-1-a/#amarogentin) (secoiridoid glycoside) and [swertiamarin](/glossary/compounds-q-t/#swertiamarin) show good oral bioavailability (35-45%). [Xanthones](/glossary/compounds-t-z/#xanthones) (swertianin, [mangiferin](/glossary/compounds-l-o/#mangiferin)) have lower bioavailability (15-20%) due to low aqueous solubility. [Piperine](/reference/piperine/) co-administration enhances xanthone absorption by 40%. Nano-emulsion formulations of amarogentin show 3-fold improved bioavailability. Bitter principles stimulate gastric secretion enhancing absorption of co-administered nutrients.
 
-**Optimal Timing:** Before meals (30 minutes) for appetite stimulation and digestive enzyme activation; for fever: every 6-8 hours; for liver conditions: twice daily with warm water
+**Optimal Timing:** Before meals (30 minutes) for appetite stimulation and digestive enzyme activation
 
 **Standardized Extract:** Standardized to minimum 1% amarogentin and 4% swertiamarin by HPLC (per API standards); xanthone content >0.5% (as mangiferin equivalents)
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kiratatikta/meta-analysis.md"
 ### Synergistic Combinations
 
 - Kutki (Picrorhiza) for comprehensive [hepatoprotective](/reference/hepatoprotective/) formulation
-- [Guduchi](/herb/guduchi/) for fever and hepatitis management
-- [Nimba](/herb/nimba/) for anti-malarial and febrifuge synergy
+- [Guduchi](/herb/guduchi/), traditionally combined in fever and liver formulations
+- [Nimba](/herb/nimba/), traditionally paired in fever formulations
 - [Haritaki](/herb/haritaki/) for digestive and [antipyretic](/reference/antipyretic/) combination
-- [Bhumyamalaki](/herb/bhumyamalaki/) for hepatitis B and C support
+- [Bhumyamalaki](/herb/bhumyamalaki/), traditionally combined in liver formulations

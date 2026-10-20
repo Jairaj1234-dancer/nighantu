@@ -29,11 +29,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - Phorbol esters (diterpene esters - purgative principle)
-- [Alkaloids](/glossary/compounds-1-a/#alkaloids) (6.2-9.5%)
-- [Flavonoids](/reference/flavonoids/) (35.63-43.33%)
-- Phenolics (38.43-43.44%)
-- [Tannins](/reference/tannins/) (13.26-18.3%)
-- [Terpenoids](/glossary/compounds-t-z/#terpenoids) (25.36-33.4%) and [saponins](/reference/saponins/) (9.9-13.2%)
+- [Alkaloids](/glossary/compounds-1-a/#alkaloids)
+- [Flavonoids](/reference/flavonoids/)
+- Phenolics
+- [Tannins](/reference/tannins/)
+- [Terpenoids](/glossary/compounds-t-z/#terpenoids) and [saponins](/reference/saponins/)
 
 ## How does it work?
 
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 ## What do recent studies show?
 
 - Jagannath S, Konappa N, Lokesh A and others 2021. [Bioactive compounds guided diversity of endophytic fungi from Baliospermum montanum and their potential extracellular enzymes](https://pubmed.ncbi.nlm.nih.gov/33245903/). *Analytical biochemistry*. PMID [33245903](https://pubmed.ncbi.nlm.nih.gov/33245903/) · [doi:10.1016/j.ab.2020.114024](https://doi.org/10.1016/j.ab.2020.114024)  
-  Explored endophytic fungi from B. montanum as sources of bioactive compounds, identifying novel antimicrobial and anticancer metabolites produced by fungal endophytes.
+  Explored endophytic fungi from B. montanum as sources of bioactive compounds and extracellular enzymes.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Trivrit](/herb/trivrit/) (Operculina turpethum) in [Avipattikar](/herb/avipattikar/) Churna for graded purgation
+- With [Trivrit](/herb/trivrit/) (Operculina turpethum) for graded purgation
 - With [Haritaki](/herb/haritaki/) for balanced bowel regulation
 - With Sunthi ([ginger](/herb/ginger/)) to reduce griping pain during purgation
 - With [Yavani](/herb/yavani/) (Trachyspermum) to prevent colic

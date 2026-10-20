@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Hajrul Yahood Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Kidney stones (Ashmari): Lithontriptic and diuretic activity confirmed in research."
+answer: "Hajrul Yahood Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. It is traditionally used for kidney stones (Ashmari); studies have reported lithontriptic and diuretic activity."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,18 +27,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 ## Key Phytochemical Constituents
 
-- Calcium silicate (CaSiO3) as primary constituent
-- Calcium oxide (CaO) from thermal decomposition
+- Calcium carbonate (CaCO3) as primary constituent
 - [Silicon](/glossary/compounds-q-t/#silicon) dioxide (SiO2)
 - Trace [magnesium](/glossary/compounds-l-o/#magnesium), iron, aluminum
 - Organic compounds from radish/herbal trituration media
 
 ## How does it work?
 
-- Lithontriptic (stone-dissolving) action through calcium silicate-mediated chemical dissolution of calcium oxalate and calcium phosphate kidney stones
+- Proposed lithontriptic (stone-dissolving) action; mechanism not established
 - [Diuretic](/reference/diuretic/) action through osmotic and ionic mechanisms, increasing urinary volume and flow to facilitate stone passage from kidneys through ureters
 - Anodyne (pain-relieving) action reducing renal colic, observed clinically within 2-3 doses, likely through smooth muscle relaxation in urinary tract
-- Gastroprotective effect through acid neutralization and mucosal protection, demonstrated in clinical trial showing 72% ulcer healing rate
+- Gastroprotective effect through acid neutralization and mucosal protection
 
 ## Which traditional uses are supported by research?
 
@@ -56,8 +55,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 ## Recent safety updates
 
-- RELATIVELY SAFE: Calcium silicate-based preparation without toxic heavy metals. Lower risk profile compared to metallic Bhasmas.
-- CLINICAL EVIDENCE: Clinical trial data available showing therapeutic efficacy, a rarity among Bhasma preparations
+- RELATIVELY SAFE: Calcium carbonate-based preparation without toxic heavy metals. Lower risk profile compared to metallic Bhasmas.
 - KIDNEY FUNCTION MONITORING: Long-term use should include periodic kidney function assessment, especially in patients with pre-existing renal conditions
 - DRUG INTERACTIONS: May interact with antibiotics (tetracyclines, fluoroquinolones) and other calcium-binding drugs. Spacing of administration recommended.
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Heart-Circulation"
-answer: "Raktamoola is a substance used in the Ayurvedic materia medica. Shikonin undergoes hepatic metabolism via CYP450 enzymes. Topical bioavailability is good for wound healing and dermatological applications due to lipophilic nature penetrating skin barrier."
+answer: "Raktamoola is a substance used in the Ayurvedic materia medica. Shikonin undergoes hepatic metabolism via CYP450 enzymes. Its lipophilic naphthoquinones penetrate the skin barrier, which is relevant to its traditional topical use on wounds and skin."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 
 **Standard Dosage:** 1-3 g root powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Alkannin and shikonin (naphthoquinone enantiomers) from Raktamoola (Alkanna/Onosma species or Arnebia species) have moderate oral bioavailability (20-35%) due to lipophilicity. Shikonin undergoes hepatic metabolism via CYP450 [enzymes](/glossary/compounds-d-g/#enzymes). Topical bioavailability is good for wound healing and dermatological applications due to lipophilic nature penetrating skin barrier. Beta-hydroxy-isovalerylshikonin shows enhanced topical penetration compared to free shikonin.
+**Bioavailability:** Alkannin and shikonin (naphthoquinone enantiomers) from Raktamoola (Alkanna/Onosma species or Arnebia species) have moderate oral bioavailability (20-35%) due to lipophilicity. Shikonin undergoes hepatic metabolism via CYP450 [enzymes](/glossary/compounds-d-g/#enzymes). Its lipophilic naphthoquinones penetrate the skin barrier, which is relevant to its traditional topical use on wounds and skin. Beta-hydroxy-isovalerylshikonin shows enhanced topical penetration compared to free shikonin.
 
 **Optimal Timing:** Oral: after meals. Topical: apply to clean wound/skin area twice daily. Oil preparation: gentle massage on affected area at night.
 

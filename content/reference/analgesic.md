@@ -23,7 +23,7 @@ srcRel: "_Hub/Pharmacology/Analgesic.md"
 
 ## Ayurveda (37)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (Clerodendrum phlomidis is also used as Agnimantha in some regions)*
 - [Ahiphena](/herb/ahiphena/), *Papaver somniferum L.*
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
 - [Akarakarabha](/herb/akarakarabha/), *Anacyclus pyrethrum (L.) Lag.*

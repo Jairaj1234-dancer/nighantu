@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Guduchi/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Same as [Giloy](/herb/guduchi/), alternate name used in classical texts. See [Giloy](/herb/guduchi/) entry.
+Same as [Giloy](/herb/guduchi/), alternate name used in classical texts.
 
 ## Where is it described in the classical texts?
 
@@ -115,11 +115,11 @@ Stem powder: 3-6g/day; Satva: 500mg-1g/day
 
 **Standard Dosage:** 10-20ml fresh stem juice; 3-6g powder twice daily; 500mg-1g Satva with honey twice daily; 50-100ml decoction; 500mg Ghana Vati twice daily
 
-**Bioavailability:** Guduchi is synonymous with [Giloy](/herb/guduchi/) (Tinospora cordifolia) - see Giloy entry for detailed bioavailability data. In brief: diterpenoid lactones ([tinosporaside](/glossary/compounds-t-z/#tinosporaside), columbin) have moderate oral bioavailability (20-35%); [berberine](/glossary/compounds-a-c/#berberine) fraction has low bioavailability (<5%); polysaccharide fraction (Satva) acts primarily through GALT. Fresh stem juice (Swarasa) is traditionally most valued. [Neem](/herb/neem/)-Guduchi (grown on Azadirachta indica) is considered therapeutically superior per classical texts. Enhancement: [piperine](/reference/piperine/) co-administration; phytosome technology for diterpenoid fraction.
+**Bioavailability:** Guduchi is synonymous with [Giloy](/herb/guduchi/) (Tinospora cordifolia). Diterpenoid lactones ([tinosporaside](/glossary/compounds-t-z/#tinosporaside), columbin) have moderate oral bioavailability (20-35%); [berberine](/glossary/compounds-a-c/#berberine) fraction has low bioavailability (<5%); polysaccharide fraction (Satva) acts primarily through GALT. Fresh stem juice (Swarasa) is traditionally most valued. [Neem](/herb/neem/)-Guduchi (grown on Azadirachta indica) is considered therapeutically superior per classical texts. Enhancement: [piperine](/reference/piperine/) co-administration; phytosome technology for diterpenoid fraction.
 
-**Optimal Timing:** Fresh juice or Satva on empty stomach with honey for immune support; Kashayam before meals for fever; Ghana Vati twice daily with meals
+**Optimal Timing:** Traditionally, fresh juice or Satva is taken on an empty stomach with honey for immune support, and Kashayam before meals in fever; Ghana Vati twice daily with meals
 
-**Standardized Extract:** Same as Giloy entry. Aqueous extract standardized to NLT 5% bitter principles (as columbin) or NLT 2.5% tinosporaside. Ghana Vati extract ratio 8:1 to 12:1. Satva: polysaccharide NLT 70%.
+**Standardized Extract:** Aqueous extract standardized to NLT 5% bitter principles (as columbin) or NLT 2.5% tinosporaside. Ghana Vati extract ratio 8:1 to 12:1. Satva: polysaccharide NLT 70%.
 
 **Shelf Life:** Fresh juice: 6 hours; 2 years (powder); 3 years (Satva); 3 years (Ghana Vati); Kashayam: 72 hours refrigerated
 

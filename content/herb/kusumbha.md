@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kusumbha/meta-analysis.md"
 
 **Bioavailability:** Hydroxysafflor yellow A (HSYA), primary flavonoid, has low oral bioavailability (~5-10%) due to poor membrane permeability and rapid hepatic metabolism. Linoleic acid in seed oil is well-absorbed (>80%). Carthamin (red pigment) has limited systemic absorption but good topical activity. Liposomal encapsulation of HSYA improves oral bioavailability by 5-fold. Sublingual or nasal delivery being explored for HSYA in cardiovascular applications.
 
-**Optimal Timing:** Oil: with meals for cardiovascular and metabolic benefit; flower preparations: after meals; decoction for emmenagogue effect: during relevant menstrual phase under guidance
+**Optimal Timing:** Oil: with meals; flower preparations: after meals; decoction for emmenagogue effect: during relevant menstrual phase under guidance
 
 **Standardized Extract:** Flower extract standardized to minimum 2% HSYA and 1% carthamin by HPLC; seed oil standardized to minimum 70% linoleic acid (high-linoleic variety) or 70% oleic acid (high-oleic variety)
 
@@ -66,4 +66,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kusumbha/meta-analysis.md"
 - Kumkuma ([Saffron](/herb/saffron/)) for [cardioprotective](/reference/cardioprotective/) and emmenagogue combination
 - [Arjuna](/herb/arjuna/) for cardiovascular support
 - [Guggulu](/formulation/guggulu/) for [hypolipidemic](/glossary/pharmacology/#hypolipidemic) formulations
-- [Methi](/herb/methi/) for metabolic syndrome management
+- [Methi](/herb/methi/), traditionally combined in formulations supporting metabolic function

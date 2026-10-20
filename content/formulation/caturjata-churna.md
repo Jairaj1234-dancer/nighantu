@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Caturjata Churna is a classical Ayurvedic churna, a fine herbal powder. Aromatic compounds enhance gastric motility and improve absorption of co-administered formulations. Acts as a bioavailability enhancer when used as adjuvant."
+answer: "Caturjata Churna is a classical Ayurvedic churna, a fine herbal powder."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Standard Dosage:** 2 to 4 g twice daily with honey or warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:10. The formulary's anupana: honey, ghee, water. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
 
-**Bioavailability:** Volatile oils ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa. Aromatic compounds enhance gastric motility and improve absorption of co-administered formulations. Acts as a bioavailability enhancer when used as adjuvant.
+**Bioavailability:** Volatile oils ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa.
 
 **Optimal Timing:** After meals as digestive adjuvant, or mixed into [Rasayana](/reference/rasayana/) formulations
 

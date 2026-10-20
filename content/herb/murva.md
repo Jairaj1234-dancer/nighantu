@@ -65,8 +65,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## Recent safety updates
 
-- Xiao-Ai-Ping injection (M. tenacissima-based) has been authorized in China for decades with no significant side effects reported in clinical settings when used alone or combined with chemotherapy/radiotherapy
-- Preliminary clinical studies suggest wide-ranging anti-cancer properties with minimal toxicity; however, standardization and quality control of C21 steroid content remain essential for safety
+- Xiao-Ai-Ping injection (M. tenacissima-based) has been authorized in China for decades; the source notes report no significant side effects in clinical settings when used alone or combined with chemotherapy/radiotherapy
+- Preliminary clinical studies have reported anti-cancer activity with minimal toxicity; however, standardization and quality control of C21 steroid content remain essential for safety
 
 ## What is it made of?
 
@@ -78,13 +78,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 - Sitosterol
 - Tenacigenoside A-L
 - Tenacigenin A-D
-- Eudesmane 
+- Eudesmane sesquiterpenoids
 - Nor-sesquiterpenoids
 - Pyrrole glycosides
 - Phenolic glycosides
 - Gallic acid
-- 
-- Beta-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

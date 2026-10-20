@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 ## Recent safety updates
 
-- Both sources of Rasna have long traditional safety records; Pluchea lanceolata is well-tolerated at standard doses with no significant toxicity in animal studies
+- The source notes report no significant toxicity for Pluchea lanceolata in animal studies; the studies are not named
 - Alpinia galanga preparations may cause mild gastric irritation in sensitive individuals; ensure correct botanical identity to avoid substitution-related safety issues
 
 ## Dosage forms and preparation
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasna/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder daily; 20-30 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily; Taila for external massage
 
-**Bioavailability:** Pluchea lanceolata (Rasna) contains flavonoids and [terpenoids](/glossary/compounds-t-z/#terpenoids) with moderate oral bioavailability (20-35%). [Quercetin](/reference/quercetinquercetin/) and isorhamnetin [glycosides](/glossary/compounds-g-l/#glycosides) are absorbed in the small intestine. Taraxasterol and other [triterpenes](/glossary/compounds-t-z/#triterpenes) have limited oral bioavailability (~10-20%) improved by lipid-based delivery. Topical Taila application provides effective local anti-inflammatory delivery for joint and muscle conditions.
+**Bioavailability:** Pluchea lanceolata (Rasna) contains flavonoids and [terpenoids](/glossary/compounds-t-z/#terpenoids) with moderate oral bioavailability (20-35%). [Quercetin](/reference/quercetinquercetin/) and isorhamnetin [glycosides](/glossary/compounds-g-l/#glycosides) are absorbed in the small intestine. Taraxasterol and other [triterpenes](/glossary/compounds-t-z/#triterpenes) have limited oral bioavailability (~10-20%) improved by lipid-based delivery. Taila is traditionally applied externally for joint and muscle complaints.
 
 **Optimal Timing:** Decoction: morning and evening between meals with warm water. Taila: warm oil massage before bath or at bedtime. Guggulu combination: after meals with warm water.
 

@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 ## Recent safety updates
 
-- Limited modern toxicological data available; traditional use at recommended Ayurvedic doses appears safe based on centuries of clinical practice
+- Limited modern toxicological data are available; safety at traditional doses has not been established by modern studies
 - Chemistry of the plant needs further exploration; standardization and quality control markers are lacking, increasing risk of adulteration
 
 ## What is it made of?
@@ -74,9 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 - Scindapsinidine A 
 - Scindapsinidine B 
 - Rhamnose
-- 
 - Phenolic compounds
-- 
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -86,8 +84,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 50ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Scindapsus officinalis (Gajapippali) fruit contains [piperine](/reference/piperine/)-like amides and terpenoids. The alkaloid amides have moderate oral bioavailability enhanced by the pungent principles that stimulate GI blood flow and inhibit drug-metabolizing enzymes (similar to [Pippali](/herb/pippali/) mechanism). The traditional use with warm water or honey as Anupana supports GI absorption. Enhancement: piperine-like constituents may self-enhance bioavailability through CYP3A4 and P-gp inhibition.
-
 **Optimal Timing:** Before meals with warm water or honey for respiratory conditions; after meals for digestive support
 
 **Standardized Extract:** Hydroalcoholic extract characterized by HPTLC fingerprint and total alkaloid content NLT 1%. Extract ratio 5:1. Limited standardized extract availability - develop in-house specifications.
@@ -95,8 +91,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 **Shelf Life:** 2 years (powder); 2.5 years (tablet/capsule)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Limited stability data - conduct accelerated stability studies for new formulations.
-
-**Marker Compounds:** Piperine analogs (amide [alkaloids](/glossary/compounds-1-a/#alkaloids)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Terpenoids, Total alkaloid content
 
 ### Extraction Methods
 

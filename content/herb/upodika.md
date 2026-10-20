@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Upodika (Basella alba) is a plant drug, also called Potaki and Poi. Oxalic acid is highly bioavailable and can contribute to calcium oxalate kidney stone risk at high doses. Saponins from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents."
+answer: "Upodika (Basella alba) is a plant drug, also called Potaki and Poi. Oxalic acid is only partly absorbed, but high intake can contribute to calcium oxalate kidney stone risk. Saponins from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents."
 botanical: "Basella alba"
 family: "Basellaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Upodika/meta-analysis.md"
 
 **Standard Dosage:** Cooked greens: 50-100 g daily as food; Fresh juice: 20-40 mL twice daily; Powder: 3-5 g twice daily
 
-**Bioavailability:** Betalains (betacyanins and betaxanthins) show moderate oral bioavailability (20-30%) with rapid absorption. Oxalic acid is highly bioavailable and can contribute to calcium oxalate kidney stone risk at high doses. [Saponins](/reference/saponins/) from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents. Iron and calcium bioavailability is moderate but reduced by the high oxalate content; co-administration with vitamin C improves iron absorption.
+**Bioavailability:** Betalains (betacyanins and betaxanthins) show moderate oral bioavailability (20-30%) with rapid absorption. Oxalic acid is only partly absorbed, but high intake can contribute to calcium oxalate kidney stone risk. [Saponins](/reference/saponins/) from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents. Iron and calcium bioavailability is moderate but reduced by the high oxalate content; co-administration with vitamin C improves iron absorption.
 
 **Optimal Timing:** With meals as food; fresh juice in morning on empty stomach for nutritive effect
 

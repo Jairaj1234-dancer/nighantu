@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Lodhra (Symplocos racemosa Roxb.) is a plant drug, from the Symplocaceae family. Menorrhagia management supported by observational clinical data showing reduced menstrual bleeding. Listed in Ayurvedic Pharmacopoeia of India (2001) as an ingredient in 32 classical formulations."
+answer: "Lodhra (Symplocos racemosa Roxb.) is a plant drug, from the Symplocaceae family. Traditionally used for menorrhagia; observational clinical data have reported reduced menstrual bleeding. Listed in Ayurvedic Pharmacopoeia of India (2001) as an ingredient in 32 classical formulations."
 botanical: "Symplocos racemosa Roxb."
 family: "Symplocaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 ## How does it work?
 
 - Astringent action: [Tannins](/reference/tannins/) precipitate [proteins](/glossary/compounds-o-q/#proteins) in mucosal lining and skin, tightening tissues and reducing exudation and bleeding.
-- COX-2 inhibition: Lodhra tannins confirmed to inhibit cyclooxygenase-2, reducing prostaglandin-mediated inflammation.
+- COX-2 inhibition: Lodhra tannins have been reported to inhibit cyclooxygenase-2, reducing prostaglandin-mediated inflammation.
 - Capillary permeability reduction: [Flavonoids](/reference/flavonoids/) and tannins synergistically slow capillary permeability, explaining [hemostatic](/glossary/pharmacology/#hemostatic) (bleeding-stopping) action.
 - [Antioxidant](/reference/antioxidant/): Flavonoids scavenge free radicals, protecting tissues from oxidative damage.
 - Estrogenic modulation: Bark extracts show phytoestrogenic activity, potentially explaining menstrual regulation effects.

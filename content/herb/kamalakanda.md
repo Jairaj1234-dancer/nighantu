@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamalakanda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g of powder twice daily; 10-20 mL fresh juice once daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Rhizome [alkaloids](/glossary/compounds-1-a/#alkaloids) ([nuciferine](/glossary/compounds-l-o/#nuciferine), [neferine](/glossary/compounds-l-o/#neferine)) show moderate bioavailability with significant first-pass metabolism. Co-administration with long pepper or [ginger](/herb/ginger/) enhances absorption. Nanoparticle encapsulation improves delivery of aporphine alkaloids.
+**Bioavailability:** The [alkaloids](/glossary/compounds-1-a/#alkaloids) ([nuciferine](/glossary/compounds-l-o/#nuciferine), [neferine](/glossary/compounds-l-o/#neferine)) show moderate bioavailability with significant first-pass metabolism. Co-administration with long pepper or [ginger](/herb/ginger/) enhances absorption. Nanoparticle encapsulation improves delivery of aporphine alkaloids.
 
 **Optimal Timing:** Before meals on empty stomach for maximum alkaloid absorption; with meals for digestive applications
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamalakanda/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Musta (Cyperus rotundus) for digestive disorders
+- Musta (Cyperus rotundus), traditionally combined to support digestion
 - [Vacha](/herb/vacha/) (Acorus calamus) for cognitive enhancement
 - [Sariva](/herb/sariva/) for blood purification
 - [Padmaka](/herb/padmaka/) for cardiac support

@@ -33,7 +33,7 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 - Blood purification (Raktashodhana) through elimination of toxins via hepatic and renal pathways
 - Anti-inflammatory and cooling (Sheeta Virya) action of [Sariva](/herb/sariva/) pacifies Pitta dosha and reduces skin inflammation
-- [Immunomodulatory](/reference/immunomodulatory/) synergy from [Guduchi](/herb/guduchi/), [Tulsi](/herb/tulsi/), and Amalaki strengthens host defense against skin infections
+- [Guduchi](/herb/guduchi/), [Tulsi](/herb/tulsi/), and Amalaki are traditionally regarded as [immunomodulatory](/reference/immunomodulatory/)
 - Detoxification through enhanced liver and kidney function promotes elimination of metabolic waste products
 
 ## Which traditional uses are supported by research?
@@ -53,7 +53,7 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 
 ## Recent safety updates
 
-- Contains 5-10% self-generated alcohol. Generally safe at recommended dosage. Clinicians note visible improvement in skin conditions within 10-14 days.
+- Contains 5-10% self-generated alcohol. Generally safe at recommended dosage.
 - Not recommended during pregnancy. May interact with immunosuppressive medications. Patients with diabetes should monitor blood sugar as some ingredients may have hypoglycemic effects.
 
 ## What is it made of?

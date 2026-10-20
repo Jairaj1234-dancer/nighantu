@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Agnikumarika is a substance used in the Ayurvedic materia medica. Traditional enhancement via Trikatu yoga (black pepper, long pepper, ginger) or honey as anupana. Presence of volatile oils suggests reasonable absorption of lipophilic fractions."
+answer: "Agnikumarika is a substance used in the Ayurvedic materia medica. Traditional enhancement via Trikatu yoga (black pepper, long pepper, ginger) or honey as anupana."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikumarika/meta-analysis.md
 
 **Standard Dosage:** 2-5g powder twice daily; 40-80ml decoction; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional enhancement via [Trikatu](/herb/trikatu/) yoga ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) or honey as anupana. Presence of volatile oils suggests reasonable absorption of lipophilic fractions. Aqueous constituents absorbed via paracellular and transcellular pathways.
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional enhancement via [Trikatu](/herb/trikatu/) yoga ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) or honey as anupana. Aqueous constituents absorbed via paracellular and transcellular pathways.
 
 **Optimal Timing:** Before meals with warm water to stimulate Agni (digestive fire)
 

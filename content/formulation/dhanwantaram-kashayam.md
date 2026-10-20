@@ -35,18 +35,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dhanwantaram
 - [Ashwagandha](/herb/ashwagandha/) (Withania somnifera)
 - [Shatavari](/herb/shatavari/) (Asparagus racemosus)
 - [Devadaru](/herb/devadaru/) (Cedrus deodara)
-- Cow's milk (as a processing medium)
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced in Yogaratnakara. Described as a premier postpartum tonic and [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) formulation with 42 herbs.
+Ashtanga Hridayam (Sharirasthana), named after Lord Dhanwantari. Also referenced in Yogaratnakara. Described as a premier postpartum tonic and [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) formulation with 42 herbs.
 
 ## How does it work?
 
-- COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) provides potent anti-inflammatory action
-- Nervine tonic activity of [Bala](/herb/bala/) (Sida cordifolia) strengthens neural tissue and balances Vata dosha
-- Uterine tonic action strengthens uterine muscles and supports postpartum recovery
-- [Neuroprotective](/reference/neuroprotective/) effects through BDNF upregulation and reduction of neuroinflammatory markers
+- COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) has been reported, which may relate to anti-inflammatory activity
+- [Bala](/herb/bala/) (Sida cordifolia) is traditionally regarded as a nervine tonic that balances Vata dosha
+- Traditionally described as a uterine tonic that supports postpartum recovery
+- [Neuroprotective](/reference/neuroprotective/) effects have been proposed but not established
 
 ## Which traditional uses are supported by research?
 
@@ -65,8 +64,8 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 ## Recent safety updates
 
-- Generally considered safe under physician supervision. Contains cow's milk as a processing medium, making it unsuitable for lactose-intolerant individuals.
-- Should be avoided during pregnancy without physician guidance due to potent Vata-balancing action. Overdose may cause gastric discomfort.
+- Generally considered safe under physician supervision.
+- It should be avoided during pregnancy without physician guidance due to potent Vata-balancing action. Overdose may cause gastric discomfort.
 
 ## What is it made of?
 

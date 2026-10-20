@@ -37,8 +37,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## How does it work?
 
-- Ocular health through lutein and zeaxanthin accumulation in macula, filtering blue light and protecting against age-related macular degeneration
-- Anti-cancer activity via glycolipid-mediated inhibition of DNA polymerase and anti-proliferative effects on cancer cell lines
+- Ocular health through lutein and zeaxanthin accumulation in macula, filtering blue light
+- In laboratory studies, glycolipids inhibited DNA polymerase and showed anti-proliferative effects on cancer cell lines
 - Anti-inflammatory mechanism through ecdysterone-mediated modulation of NF-kB pathway and phenolic acid-mediated COX inhibition
 - [Neuroprotective](/reference/neuroprotective/) effects via carotenoid and flavonoid-mediated reduction of oxidative stress in neuronal tissue
 

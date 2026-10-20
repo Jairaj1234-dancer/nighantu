@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 - Antidiarrheal bidirectional motility modulation: Slows intestinal motility during diarrhea and eases it in constipation, attributed to balance of [tannins](/reference/tannins/) and [mucilage](/glossary/compounds-l-o/#mucilage) -- a rare bidirectional property.
 - Anti-inflammatory: Marmelosin ([imperatorin](/glossary/compounds-g-l/#imperatorin)) inhibits TNF-alpha mediated inflammatory markers and possesses [antioxidant](/reference/antioxidant/) properties.
-- [Antidiabetic](/reference/antidiabetic/): Aegeline and marmelosin improve insulin signaling and reduce fasting [glucose](/glossary/compounds-d-g/#glucose); oral extract increases body weight, pancreas weight, and insulin levels with improved beta-cell functional state.
+- [Antidiabetic](/reference/antidiabetic/): Studies report that aegeline and marmelosin improve insulin signaling and reduce fasting [glucose](/glossary/compounds-d-g/#glucose); oral extract increases body weight, pancreas weight, and insulin levels with improved beta-cell functional state.
 - [Coumarins](/glossary/compounds-c-d/#coumarins) (marmelosin, imperatorin, psoralen) are the most frequently reported bioactive class linked to antidiabetic, antioxidant, and [antimicrobial](/reference/antimicrobial/) activities.
 - [Neuroprotective](/reference/neuroprotective/): Network pharmacology identifies multi-target mechanisms against Alzheimer's disease-related [proteins](/glossary/compounds-o-q/#proteins).
 - Antimicrobial and anti-biofilm: Fruit extract demonstrates activity against multi-drug-resistant Staphylococcus aureus biofilms.
@@ -86,8 +86,8 @@ A review reported neuroprotective potential for A. marmelos compounds, including
 
 ### Synergistic Combinations
 
-- With Kutaja (Holarrhena) for chronic diarrhea and IBS
+- With Kutaja (Holarrhena), traditionally used for chronic diarrhea
 - With Musta for digestive disorders
 - With Sunthi (dry [ginger](/herb/ginger/)) for appetizer formulations
-- With [Dadima](/herb/dadima/) for malabsorption syndromes
+- With [Dadima](/herb/dadima/) , traditionally used for malabsorption
 - With [Dhanyaka](/herb/dhanyaka/) ([coriander](/herb/coriander/)) for GI health

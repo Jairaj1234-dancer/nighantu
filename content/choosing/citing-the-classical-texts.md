@@ -48,7 +48,7 @@ description of the problem was better than ours:
 > form, which a reader will check against a vulgate edition and find the wrong verse
 
 The concept records themselves were not at fault. They name the translator and the numbering in the
-text a reader sees, on every citation. What would have gone wrong is the tidying: a concordance of
+text a reader sees. What would have gone wrong is the tidying: a concordance of
 clean-looking loci, built on top of a careful corpus, asserting a precision its sources do not have.
 
 That concordance is not published, and this page exists instead. The planned deliverable was the

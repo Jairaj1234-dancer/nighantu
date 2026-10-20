@@ -33,8 +33,8 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 - Anti-inflammatory activity through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) by [Rasna](/herb/rasna/) and [Guduchi](/herb/guduchi/)
 - Ama (toxin) digestion by [Rasna](/herb/rasna/)'s digestive action helps resolve metabolic waste contributing to joint inflammation
-- Vata-Kapha balancing through the synergistic seven-herb combination reduces joint stiffness and swelling
-- [Analgesic](/reference/analgesic/) action from [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/) provides direct pain relief in musculoskeletal conditions
+- Vata-Kapha balancing through the synergistic seven-herb combination is traditionally described as reducing joint stiffness and swelling
+- [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/) are traditionally described as [analgesic](/reference/analgesic/)
 
 ## Which traditional uses are supported by research?
 

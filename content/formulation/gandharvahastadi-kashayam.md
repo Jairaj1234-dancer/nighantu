@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Gandharvahastadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha balancing formulations. Also referenced in Sahasrayogam for constipation and flatulence management."
+answer: "Gandharvahastadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI), which attributes it to Sahasrayogam (kasayaprakarana). Traditionally used for constipation and flatulence."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali and Sharangadhara Samhita. Manufactured under Drug and Cosmetics Act, 1940."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI), which attributes it to Sahasrayoga (kasayaprakarana). Manufactured under Drug and Cosmetics Act, 1940."
 aliases: ["Gandharvahastadi Kashayam", "GandharvahastadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -33,8 +33,8 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 - Prostaglandin-mediated stimulation of intestinal motility by [Eranda](/herb/eranda/) (castor root) promotes bowel evacuation
 - Agni (digestive fire) enhancement by Shunthi and Musta improves overall digestive capacity
-- Mild purgative action of [Haritaki](/herb/haritaki/) and [Trivrit](/herb/trivrit/) clears lower intestinal blockages without causing dependency
-- [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) properties of [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/) relieve associated lower back pain and flatulence
+- [Haritaki](/herb/haritaki/) and [Trivrit](/herb/trivrit/) are classically described as mild purgatives
+- [Vata-balancing](/glossary/concepts-m-y/#vata-balancing) properties of [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/) are traditionally described as Vata-pacifying
 
 ## Which traditional uses are supported by research?
 
@@ -73,7 +73,7 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 **Bioavailability:** Hot decoction provides rapid absorption. When administered with [Eranda](/herb/eranda/) Taila, lipid-mediated absorption is enhanced. Shunthi ([ginger](/herb/ginger/)) acts as bioenhancer for other constituents.
 
-**Optimal Timing:** Before meals, preferably at bedtime with [Eranda](/herb/eranda/) Taila for Vatanulomana (normalizing Vata)
+**Optimal Timing:** Before meals, or at bedtime with [Eranda](/herb/eranda/) Taila for Vatanulomana (normalizing Vata)
 
 **Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 

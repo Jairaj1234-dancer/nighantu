@@ -37,14 +37,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 - Iron supplementation via bioavailable nano-iron oxide particles that enhance intestinal absorption through smaller particle size and increased surface area, bypassing typical ferrous iron GI side effects
 - Hematopoietic stimulation through provision of elemental iron in oxide form, supporting hemoglobin synthesis and red blood cell production in iron-deficiency states
-- Potential magnetic hyperthermia for cancer therapy: nanocrystalline magnetite in Lauha Bhasma can generate localized heat under alternating magnetic field for targeted cancer cell killing
 - Digestive fire (Agni) enhancement through iron-mediated stimulation of metabolic [enzymes](/glossary/compounds-d-g/#enzymes) and improvement of nutrient absorption in the gastrointestinal tract
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia. Clinical studies, including multi-center and double-blind studies, reported results comparable to ferrous sulfate with better tolerability.
+- Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia.
 - Digestive disorders: traditionally used to improve digestion and appetite, described as Agni-deepana (digestive fire enhancement). Clinical observations have reported improved digestion and appetite.
 - General debility and weakness (Daurbalya): traditionally used for general debility and weakness. Clinical studies have reported improved hemoglobin levels and improved clinical symptoms.
 
@@ -53,7 +52,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 - Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
   Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field.
 - Srikanth N, Rao BC, Yadav B and others 2021. [Dhatri Lauha in the management of iron deficiency anemia: A prospective open-label single-arm multi-center trial](https://pubmed.ncbi.nlm.nih.gov/37153071/). *Ayu*. PMID [37153071](https://pubmed.ncbi.nlm.nih.gov/37153071/) · [doi:10.4103/ayu.ayu_379_21](https://doi.org/10.4103/ayu.ayu_379_21)  
-  Multi-center clinical trial at 12 centers assessed clinical safety and efficacy of Lauha-based formulation in iron-deficiency anemia patients. Showed comparable hemoglobin improvement to ferrous sulfate with fewer gastrointestinal side effects.
+  Multi-center clinical trial at 12 centers assessed clinical safety and efficacy of Lauha-based formulation in iron-deficiency anemia patients.
 - Joshi N, Dash MK, Dwivedi L and others 2016. [Toxicity study of Lauha Bhasma (calcined iron) in albino rats](https://pubmed.ncbi.nlm.nih.gov/27143800/). *Ancient science of life*. PMID [27143800](https://pubmed.ncbi.nlm.nih.gov/27143800/) · [doi:10.4103/0257-7941.179870](https://doi.org/10.4103/0257-7941.179870)  
   No signs of toxicity or mortality observed up to 100x therapeutic dose in acute toxicity study. Safe at 1x and 5x therapeutic dose in subacute study. Some biochemical alterations at highest dose levels (10x) with histopathological changes.
 
@@ -84,7 +83,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm), superior bioavailability to ferrous sulfate tablets per clinical studies
+**Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm)
 
 **Optimal Timing:** After meals with honey, ghee, or [Triphala](/herb/triphala/) Kwatha
 
@@ -94,7 +93,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 **Storage:** Airtight glass or HDPE container; avoid moisture
 
-**Marker Compounds:** Fe2O3 (hematite, primary), Fe3O4 (magnetite), Trace minerals from Bhavana media
+**Marker Compounds:** Fe3O4 (magnetite, primary), Fe2O3 (hematite), Trace minerals from Bhavana media
 
 **Quality Parameters:** Total iron >55%, Varitaratva, Rekhapurnatva, Apunarbhava, Nischandratva (lusterless), particle size <100 nm, arsenic <3 ppm, lead <10 ppm
 

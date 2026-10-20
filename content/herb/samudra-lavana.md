@@ -38,12 +38,12 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 
 ## How does it work?
 
-- [Laxative](/reference/laxative/)/purgative action: Magnesium salts draw water into the intestinal lumen through osmotic effect, promoting bowel movements and relieving constipation
+- [Laxative](/reference/laxative/)/purgative action: Magnesium salts draw water into the intestinal lumen through osmotic effect, promoting bowel movements; sea salt is traditionally used as a mild purgative
 - Digestive stimulation: Saline taste triggers gastric acid and enzyme secretion; slightly heating potency enhances Agni but may aggravate Pitta
-- Colic relief (Shula Prashamana): Magnesium sulfate component has smooth muscle relaxant effect on intestinal and biliary smooth muscle, relieving spasmodic pain
+- Colic relief (Shula Prashamana): Magnesium sulfate component has smooth muscle relaxant effect on intestinal and biliary smooth muscle
 - Mild alkali properties: Bicarbonate content provides mild antacid effect, neutralizing excess gastric acid
 
-## Which traditional uses are supported by research?
+## Which traditional uses are recorded?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 

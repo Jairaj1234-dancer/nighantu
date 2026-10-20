@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Rudraksha/meta-analysi
 
 **Bioavailability:** Low to moderate bioavailability for alkaloid constituents; rudrakine and related [alkaloids](/glossary/compounds-1-a/#alkaloids) show 15-25% oral bioavailability. Bhasma form may enhance mineral bioavailability through nano-particulate formation during incineration process. Polyphenolic fraction shows improved absorption with lipid co-administration.
 
-**Optimal Timing:** Morning on empty stomach with water or honey for cardiovascular benefits; evening dose for [anxiolytic](/reference/anxiolytic/) effects
+**Optimal Timing:** Morning on empty stomach with water or honey; or an evening dose
 
 **Standardized Extract:** Aqueous extract of seed pulp (5:1), standardized to NLT 1.0% total alkaloids (as rudrakine equivalents); bhasma standardized for particle size (<100 nm by DLS) and elemental composition
 

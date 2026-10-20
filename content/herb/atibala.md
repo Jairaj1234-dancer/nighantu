@@ -65,4 +65,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Atibala/meta-analysis.md"
 - With [Bala](/herb/bala/) (Sida cordifolia) for Balya (strength-promoting) action, classical pair
 - With [Ashwagandha](/herb/ashwagandha/) for [adaptogenic](/reference/adaptogenic/) and strengthening effects
 - With [Gokshura](/herb/gokshura/) for urinary tract support
-- With [Yashtimadhu](/herb/yashtimadhu/) for ulcers and gastric mucosal protection
+- With [Yashtimadhu](/herb/yashtimadhu/) to support gastric mucosal health

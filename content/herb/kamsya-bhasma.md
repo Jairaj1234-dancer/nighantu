@@ -35,12 +35,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 ## How does it work?
 
-- Krimighna (anti-parasitic) action through copper and tin oxide-mediated disruption of parasitic cell membranes and metabolic processes
-- Kushthahara (anti-dermatological) effect through combined [antimicrobial](/reference/antimicrobial/) and anti-inflammatory properties of copper-tin oxide nanoparticles on skin lesions
-- Netra Roga (eye disease) management through cooling (Sheeta Virya) properties of bronze compounds, reducing Pitta-mediated ocular inflammation
-- Medohara (anti-obesity) action through metabolic regulation and lipid metabolism modulation attributed to copper-zinc enzyme cofactor effects
+- Classically described as Krimighna (anti-parasitic)
+- Classically described as Kushthahara (anti-dermatological)
+- Classically used in Netra Roga (eye disease), attributed to cooling (Sheeta Virya) properties
+- Classically described as Medohara (anti-obesity)
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
@@ -56,10 +56,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SAFE AT THERAPEUTIC DOSES: 60-120 mg dose range considered safe when prepared per classical guidelines
-- COPPER TOXICITY RISK: Given 80% copper content in source material, copper toxicity symptoms (nausea, vomiting, hepatotoxicity) possible with overdose
+- COPPER TOXICITY RISK: Copper toxicity symptoms (nausea, vomiting, hepatotoxicity) possible with overdose
 - LIMITED MODERN SAFETY DATA: Fewer toxicological studies available compared to single-metal Bhasmas. Most evidence is traditional/empirical.
-- ALLOY STANDARDIZATION: Variation in copper:tin ratio across commercial bronze sources may affect both efficacy and safety. Only traditional bell metal (Kansa) ratio recommended.
+- ALLOY STANDARDIZATION: Variation in copper:tin ratio across commercial bronze sources may affect both efficacy and safety.
 
 ## What is it made of?
 
@@ -77,7 +76,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; bronze converted to bioavailable copper-tin oxide nanoparticles
+**Bioavailability:** Not established.
 
 **Optimal Timing:** With honey; before meals for digestive conditions
 

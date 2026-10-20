@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Prapunnada/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g seed powder daily; 3-5 g leaf powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/glossary/compounds-c-d/#chrysophanol), [emodin](/glossary/compounds-d-g/#emodin), [rhein](/glossary/compounds-q-t/#rhein)) from Cassia occidentalis (Prapunnada/[Kasamarda](/herb/kasamarda/)) have moderate oral bioavailability (20-35%). Emodin undergoes extensive glucuronidation reducing systemic availability but providing enterohepatic recycling extending activity. Chrysophanol shows Tmax of 2-3 hours. Sennosides from seeds are pro-drugs activated by colonic bacteria; their [laxative](/reference/laxative/) effect is localized to the colon.
+**Bioavailability:** [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/glossary/compounds-c-d/#chrysophanol), [emodin](/glossary/compounds-d-g/#emodin), [rhein](/glossary/compounds-q-t/#rhein)) from Cassia occidentalis ([Kasamarda](/herb/kasamarda/)) have moderate oral bioavailability (20-35%). Emodin undergoes extensive glucuronidation reducing systemic availability but providing enterohepatic recycling extending activity. Chrysophanol shows Tmax of 2-3 hours. Sennosides from seeds are pro-drugs activated by colonic bacteria; their [laxative](/reference/laxative/) effect is localized to the colon.
 
 **Optimal Timing:** Seed powder for laxative effect: at bedtime. Leaf preparations for skin/eye conditions: morning and evening. Not on empty stomach due to potential GI irritation.
 

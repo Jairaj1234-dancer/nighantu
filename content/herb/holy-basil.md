@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Holy_Basil/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Swarasa (fresh juice), [Arka](/herb/arka/) (distillate), Essential oil, Tea/infusion, Tincture, Soft gel
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Swarasa (fresh juice), Arka (distillate), Essential oil, Tea/infusion, Tincture, Soft gel
 
 **Standard Dosage:** 300-600mg standardized extract twice daily; 3-5g dried leaf powder daily; 5-10ml fresh juice; 2-3 cups tea infusion daily
 
@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Holy_Basil/meta-analysis.md"
 
 **Standardized Extract:** Ethanolic extract standardized to 2.5% ursolic acid; hydroalcoholic extract standardized to 1% eugenol and 2% rosmarinic acid; essential oil (eugenol chemotype) with >60% eugenol
 
-**Shelf Life:** 2 years (dried powder); 3 years (standardized extract capsule/tablet); 2 years (essential oil); 1 year (fresh juice preparation)
+**Shelf Life:** 2 years (dried powder); 3 years (standardized extract capsule/tablet); 2 years (essential oil)
 
 **Storage:** Cool, dry place below 25°C, protected from light. Essential oil in amber glass, sealed tightly. Dried herb in airtight containers to preserve volatile content.
 

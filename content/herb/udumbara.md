@@ -42,6 +42,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## How does it work?
 
+*These are proposed mechanisms; they are not established in humans.*
+
 - [Antidiabetic](/reference/antidiabetic/) action via beta-sitosterol-mediated enhancement of insulin secretion and improvement of peripheral [glucose](/glossary/compounds-d-g/#glucose) uptake
 - [Hepatoprotective](/reference/hepatoprotective/) effect through bergenin-mediated reduction of liver enzyme levels and suppression of oxidative stress biomarkers
 - Anti-diarrheal activity through tannin-mediated astringent effects on intestinal mucosa and reduction of intestinal motility
@@ -95,7 +97,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ### Synergistic Combinations
 
-- [Ashoka](/herb/ashoka/) (Saraca asoca) - synergistic uterine tonic for menorrhagia
-- [Lodhra](/herb/lodhra/) (Symplocos racemosa) - astringent synergy for gynecological conditions
+- [Ashoka](/herb/ashoka/) (Saraca asoca) - traditionally paired as a uterine tonic for menorrhagia
+- [Lodhra](/herb/lodhra/) (Symplocos racemosa) - traditionally paired for astringent action in gynecological complaints
 - [Nyagrodha](/herb/nyagrodha/) (Ficus benghalensis) - Panchavalkal combination (five bark formula)
 - Gular bark in Panchvalkal with Ashvattha, [Plaksha](/herb/plaksha/), Parisha

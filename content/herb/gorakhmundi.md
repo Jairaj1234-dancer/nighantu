@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 - Kang S, Kim H, Bang C and others 2024. [The Herbal Blend of Sphaeranthus indicus and Garcinia mangostana Reduces Adiposity in High-Fat Diet Obese Mice](https://pubmed.ncbi.nlm.nih.gov/39335940/). *Foods (Basel, Switzerland)*. PMID [39335940](https://pubmed.ncbi.nlm.nih.gov/39335940/) · [doi:10.3390/foods13183013](https://doi.org/10.3390/foods13183013)  
   Meratrim (450 mg/kg) significantly reduced body weight and fat mass without affecting food consumption in C57BL/6NTac mice on high-fat diet.
 - Saiyed ZM, Sengupta K, Krishnaraju AV and others 2015. [Safety and toxicological evaluation of Meratrim®: an herbal formulation for weight management](https://pubmed.ncbi.nlm.nih.gov/25680508/). *Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association*. PMID [25680508](https://pubmed.ncbi.nlm.nih.gov/25680508/) · [doi:10.1016/j.fct.2015.02.010](https://doi.org/10.1016/j.fct.2015.02.010)  
-  LD50 > 5000 mg/kg (acute oral) and > 2000 mg/kg (dermal); non-mutagenic in genotoxicity studies; confirmed safe for weight management applications.
+  LD50 > 5000 mg/kg (acute oral) and > 2000 mg/kg (dermal); non-mutagenic in genotoxicity studies.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
