@@ -19,9 +19,19 @@ export const SCHEDULED_TERMS = [
   // s.3(b), the sexual-pleasure limb, which is the bulk of enforcement.
   'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
   'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
-  // s.3(a) and (c): procurement of miscarriage, and correction of menstrual disorders.
-  'abortifacient', 'miscarriage',
+  // The same limb, and the Schedule's sterility entry, reach claims about sperm and fertility.
+  'sperm', 'oligosperm', 'azoosperm', 'fertility', 'infertil', 'antifertil', 'vandhyatva',
+  // s.3(a) and (c): procurement of miscarriage, prevention of conception, and correction of
+  // menstrual disorders.
+  'abortifacient', 'miscarriage', 'contracept',
 ];
+
+/**
+ * Each term matches at the start of a word, so "sperm" finds "sperm count" and "spermatogenic"
+ * but not the plant family Menispermaceae or the genus Trachyspermum.
+ */
+export const termsIn = (text: string): string[] =>
+  SCHEDULED_TERMS.filter((t) => new RegExp(`\\b${t}`).test(text));
 
 const cache = new Map<string, any[]>();
 
@@ -43,5 +53,5 @@ export async function scheduledTermsOn(slug: string, collection: 'herb' | 'formu
     JSON.stringify((safety as any).records?.[slug] ?? ''),
     JSON.stringify((composition as any).records?.[slug] ?? ''),
   ].join(' ').toLowerCase();
-  return SCHEDULED_TERMS.filter((t) => haystack.includes(t));
+  return termsIn(haystack);
 }

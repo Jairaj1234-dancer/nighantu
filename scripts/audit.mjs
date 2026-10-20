@@ -233,19 +233,22 @@ if (fs.existsSync(DIST)) {
    * reason this was ever found was a research pass rather than a check. One page was in this state
    * when it was found, the Ashwagandha monograph, which is among the most visited on the site.
    *
-   * The terms are deliberately the ones the statute names, not a judgement about what is risky.
+   * The terms are the ones the statute names, plus the sperm, fertility and conception wording
+   * that its s.3(a) and (b) limbs and the Schedule's sterility entry reach.
    */
   const SCHEDULED_TERMS = [
     'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
     'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
-    'abortifacient', 'miscarriage',
+    'sperm', 'oligosperm', 'azoosperm', 'fertility', 'infertil', 'antifertil', 'vandhyatva',
+    'abortifacient', 'miscarriage', 'contracept',
   ];
   for (const f of htmlFiles) {
     const html = fs.readFileSync(f, 'utf8');
     // A WhatsApp invitation is commercial in the same sense as the product module.
     if (!/data-product-module|data-whatsapp-cta/.test(html)) continue;
     const text = html.toLowerCase();
-    const hit = SCHEDULED_TERMS.filter((t) => text.includes(t));
+    // Word-start matching, so "sperm" does not fire on Menispermaceae or Trachyspermum.
+    const hit = SCHEDULED_TERMS.filter((t) => new RegExp(`\\b${t}`).test(text));
     if (hit.length) {
       fail('scheduled-term-with-commerce',
         `${path.relative(DIST, f)} carries a product module or WhatsApp link and the scheduled term(s) ${hit.join(', ')}. `
