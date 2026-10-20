@@ -69,7 +69,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 - Ajmalicine
 - Reserpine
 - Ajmaline
-- 
 - Serpentine
 - Yohimbine
 - Rescinnamine
@@ -82,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 **Dosage Forms:** Vati (tablet), Churna (powder), Capsule, Tincture (mother tincture), Ghana vati (solid extract tablet), Sustained-release tablet
 
-**Standard Dosage:** 250-500 mg root powder per day; 2-4 mg reserpine equivalent per day in standardized extract form. Must be used under medical supervision due to potent hypotensive action.
+**Standard Dosage:** 250-500 mg root powder per day. Must be used under medical supervision due to potent hypotensive action.
 
 **Bioavailability:** Reserpine has high oral bioavailability (50-70%) with slow onset (days to weeks for full antihypertensive effect). Ajmaline shows moderate bioavailability (30-45%). Alkaloids are lipophilic bases with good intestinal absorption. Extensive hepatic metabolism generates active metabolites. Long biological half-life (45-168 hours for reserpine) due to tight binding to vesicular monoamine transporter.
 
@@ -105,7 +104,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/herb/jatamansi/) (antihypertensive synergy with anxiolytic benefit)
-- [Shankhpushpi](/herb/shankhpushpi/) (calming and blood pressure-lowering combination)
+- [Jatamansi](/herb/jatamansi/) (traditionally combined for calming support)
+- [Shankhpushpi](/herb/shankhpushpi/) (traditionally combined for calming support)
 - [Brahmi](/herb/brahmi/) (cognitive support with anti-anxiety action)
 - [Arjuna](/herb/arjuna/) (comprehensive cardiovascular formulation)

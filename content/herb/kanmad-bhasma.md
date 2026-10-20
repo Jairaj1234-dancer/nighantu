@@ -35,12 +35,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## How does it work?
 
-- Superior iron bioavailability through magnetite nanoparticle form providing both Fe2+ and Fe3+ ions in optimal ratio for intestinal absorption and hemoglobin synthesis
-- Potential magnetic hyperthermia therapy through nanocrystalline magnetite generating localized heat under alternating magnetic field for cancer cell killing
-- Hematopoietic support through efficient iron delivery to bone marrow for red blood cell production, superior to ordinary iron preparations
+- Iron supply through magnetite nanoparticle form providing both Fe2+ and Fe3+ ions for intestinal absorption and hemoglobin synthesis
+- Hematopoietic support through efficient iron delivery to bone marrow for red blood cell production
 - Metabolic enhancement through iron-dependent enzyme cofactor provision supporting cellular respiration, DNA synthesis, and energy metabolism
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
@@ -57,7 +56,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SUPERIOR TO ORDINARY IRON: Kanta [Loha Bhasma](/herb/loha-bhasma/) considered safest and most potent iron preparation in Ayurveda due to natural magnetite source
 - DOSE LIMIT: Should not exceed 500 mg/day. Overuse can cause constipation, stomach upset, or iron toxicity.
 - PROPER PREPARATION ESSENTIAL: Must undergo complete Shodhana, Marana, and Amruteekarana processes. Improperly prepared magnetite may contain heavy metal contaminants.
 - IRON OVERLOAD MONITORING: Like all iron preparations, periodic hemoglobin, serum ferritin, and liver function monitoring recommended during prolonged use
@@ -79,7 +77,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Moderate; mineral silicate form
+**Bioavailability:** Moderate
 
 **Optimal Timing:** With honey or specific formulation vehicle
 

@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 ## How does it work?
 
-- Phytoestrogenic: Puerarin and daidzein bind estrogen receptors (ER-alpha and ER-beta), providing mild estrogenic effects beneficial in menopausal symptoms
+- Phytoestrogenic: Puerarin and daidzein bind estrogen receptors (ER-alpha and ER-beta), providing mild estrogenic effects
 - [Neuroprotective](/reference/neuroprotective/): Tuberosin and puerarin reduce oxidative stress in neuronal cells, inhibit acetylcholinesterase, and promote BDNF expression
 - [Cardioprotective](/reference/cardioprotective/): [Isoflavones](/glossary/compounds-g-l/#isoflavones) improve endothelial function, reduce LDL oxidation, and inhibit platelet aggregation through NO-mediated vasodilation
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 ## Recent safety updates
 
-- Safe at standard doses; properly processed tubers have long traditional safety record; liver enzyme monitoring recommended for prolonged use
+- Generally reported as well tolerated at standard doses in traditional use; liver enzyme monitoring recommended for prolonged use
 - Contraindicated in hormone-sensitive cancers (phytoestrogenic activity), first trimester pregnancy, active hyperthyroidism; caution with anticoagulants and diabetes medications (potential synergy)
 
 ## Dosage forms and preparation
@@ -69,17 +69,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; [Ksheera](/herb/ksheera/) Paka: 100-200 mL at bedtime
 
-**Bioavailability:** If Ipomoea digitata (Kshira [Vidari](/herb/vidari/)): [Scopoletin](/glossary/compounds-q-t/#scopoletin) has moderate oral bioavailability (~30-40%). [Taraxerol](/glossary/compounds-t-z/#taraxerol) and beta-sitosterol have low bioavailability (<15%) enhanced by lipid vehicles. If Pueraria tuberosa (see [Vidari](/herb/vidari/) entry): puerarin bioavailability ~25-35%. Milk decoction (Ksheera Paka) significantly enhances bioavailability of lipophilic compounds through casein-mediated solubilization. High [starch](/glossary/compounds-q-t/#starch) content of tuber provides slow-release matrix effect in GI tract.
+**Bioavailability:** Puerarin bioavailability ~25-35%. Milk decoction (Ksheera Paka) significantly enhances bioavailability of lipophilic compounds through casein-mediated solubilization. High [starch](/glossary/compounds-q-t/#starch) content of tuber provides slow-release matrix effect in GI tract.
 
 **Optimal Timing:** After meals with warm milk; Ksheera Paka at bedtime; morning dosing for general tonic effect
 
-**Standardized Extract:** Ipomoea digitata extract: scopoletin >0.3% by HPLC; total [sterols](/glossary/compounds-q-t/#sterols) >1%; Pueraria tuberosa extract: puerarin >3% by HPLC. Ergot [alkaloids](/glossary/compounds-1-a/#alkaloids): absent (mandatory safety test).
+**Standardized Extract:** Pueraria tuberosa extract: puerarin >3% by HPLC. Ergot [alkaloids](/glossary/compounds-1-a/#alkaloids): absent (mandatory safety test).
 
 **Shelf Life:** Dried tuber: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Ksheera Paka: prepare fresh; Lehyam: 18 months
 
 **Storage:** Airtight, moisture-proof, insect-proof containers at 15-25 deg C. High starch content attracts insects; use appropriate pest-control packaging. Protect from humidity.
 
-**Marker Compounds:** Scopoletin (I. digitata), Taraxerol, beta-Sitosterol, Stigmasterol, Puerarin (P. tuberosa), Daidzein (P. tuberosa), [Coumarins](/glossary/compounds-c-d/#coumarins)
+**Marker Compounds:** Puerarin, Daidzein, beta-Sitosterol, Stigmasterol
 
 ### Extraction Methods
 

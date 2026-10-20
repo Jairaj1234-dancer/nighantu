@@ -123,7 +123,7 @@ Root powder: 3-6g/day (with milk); Extract: 500mg-1g/day
 - Diosgenin
 - Asparanin A-D
 
-### Isoflavones
+### Other constituents
 
 - Racemosol
 - Asparagamine A

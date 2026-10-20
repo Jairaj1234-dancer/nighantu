@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Lakuca (Artocarpus lacucha) is a plant drug, also called Airavata and Bariahala. Alkaloids (particularly lactucin-type) show moderate GI absorption. Lipid-based delivery systems enhance bioavailability of sesquiterpene lactones by approximately 30%."
+answer: "Lakuca (Artocarpus lacucha) is a plant drug, also called Airavata and Bariahala."
 botanical: "Artocarpus lacucha"
 family: "Moraceae"
 sanskrit: ""
@@ -40,17 +40,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL decoction twice daily; seed powder 1-3 g
 
-**Bioavailability:** Low to moderate bioavailability due to presence of latex [proteins](/glossary/compounds-o-q/#proteins) and complex [polysaccharides](/glossary/compounds-o-q/#polysaccharides). [Alkaloids](/glossary/compounds-1-a/#alkaloids) (particularly [lactucin](/glossary/compounds-g-l/#lactucin)-type) show moderate GI absorption. Lipid-based delivery systems enhance bioavailability of sesquiterpene lactones by approximately 30%.
+**Bioavailability:** Low to moderate bioavailability due to presence of latex [proteins](/glossary/compounds-o-q/#proteins) and complex [polysaccharides](/glossary/compounds-o-q/#polysaccharides).
 
-**Optimal Timing:** Evening administration for sleep-promoting effects; before meals for digestive applications
-
-**Standardized Extract:** Standardized hydroalcoholic extract (8:1), minimum 0.5% sesquiterpene lactones (as lactucin equivalents). Latex extract standardized to 1% [lactucopicrin](/glossary/compounds-g-l/#lactucopicrin).
+**Optimal Timing:** Before meals for digestive applications
 
 **Shelf Life:** 18 months for powder; 30 months for coated tablets/capsules; 12 months for liquid extracts
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Latex preparations are highly sensitive to light and oxidation; store under nitrogen in amber containers at 2-8 deg C.
 
-**Marker Compounds:** Lactucin, Lactucopicrin, Beta-amyrin, [Lupeol](/reference/lupeol/), [Taraxasterol](/glossary/compounds-q-t/#taraxasterol), Germanicol
+**Marker Compounds:** Beta-amyrin, [Lupeol](/reference/lupeol/), [Taraxasterol](/glossary/compounds-q-t/#taraxasterol), Germanicol
 
 ### Extraction Methods
 
@@ -61,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Jatamansi](/herb/jatamansi/) (sedative potentiation)
-- [Tagara](/herb/tagara/) ([anxiolytic](/reference/anxiolytic/) synergy)
-- [Brahmi](/herb/brahmi/) (cognitive support)
-- [Sarpagandha](/herb/sarpagandha/) ([antihypertensive](/glossary/pharmacology/#antihypertensive) combination)
+- [Jatamansi](/herb/jatamansi/)
+- [Tagara](/herb/tagara/)
+- [Brahmi](/herb/brahmi/)
+- [Sarpagandha](/herb/sarpagandha/)

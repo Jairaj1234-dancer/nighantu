@@ -56,11 +56,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, viscosity, gossypol content (must be within safe limits), rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** For external use: warm oil for massage. For internal: warm milk.
+**Vehicle (Anupana):** For external use: warm oil for massage. For internal: warm water or milk, per the formulary's anupana.
 
 ### Synergistic Combinations
 
-- [Karpasasthyadi Thailam](/formulation/karpasasthyadi-thailam/) (variant spelling)
 - [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)
 - [Bala](/herb/bala/) Taila
 - [Dashamularishta](/formulation/dashamularishta/) (internal)

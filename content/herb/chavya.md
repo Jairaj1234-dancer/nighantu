@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Chavya (Piper retrofractum Vahl (syn. Piper chaba Hunter)) is a plant drug, also called Cavika, from the Piperaceae family. Recognized in ASEAN traditional medicine systems; Piper species referenced in WHO monographs on medicinal plants commonly used in SEARO region."
+answer: "Chavya (Piper retrofractum Vahl (syn. Piper chaba Hunter)) is a plant drug from the Piperaceae family. Recognized in ASEAN traditional medicine systems; Piper species referenced in WHO monographs on medicinal plants commonly used in SEARO region."
 botanical: "Piper retrofractum Vahl (syn. Piper chaba Hunter)"
 family: "Piperaceae"
 sanskrit: ""
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Recent safety updates
 
-- Safe at culinary and traditional therapeutic doses; piperine's CYP3A4 inhibition may alter metabolism of co-administered drugs (caution with pharmaceuticals)
+- Piperine's CYP3A4 inhibition may alter metabolism of co-administered drugs (caution with pharmaceuticals)
 - High doses may cause gastrointestinal irritation and mucosal inflammation; avoid in active peptic ulcer disease and during pregnancy
 
 ## What is it made of?
@@ -82,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Component of [Trikatu](/herb/trikatu/) and digestive formulations
+**Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Component of digestive formulations
 
 **Standard Dosage:** 1-3g powder twice daily with warm water; 500mg extract capsule; 50-100ml decoction; commonly used as part of compound digestive formulations
 

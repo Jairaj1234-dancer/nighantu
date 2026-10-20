@@ -31,10 +31,10 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## How does it work?
 
-- Vidaryadi herbs provide Vata-pacifying action, relieving spasmodic pain in uterus and promoting smooth muscle relaxation
-- [Ashwagandha](/herb/ashwagandha/) ([withanolides](/glossary/compounds-t-z/#withanolides)) modulates hypothalamic-pituitary-ovarian axis, supporting hormonal balance and fertility
+- Vidaryadi herbs are traditionally described as Vata-pacifying
+- [Ashwagandha](/herb/ashwagandha/) ([withanolides](/glossary/compounds-t-z/#withanolides)) is reported to modulate the hypothalamic-pituitary-ovarian axis
 - [Bala](/herb/bala/) and [Shatavari](/herb/shatavari/) provide phytoestrogenic support, nourishing the female reproductive system
-- [Dashamoola](/herb/dashamoola/)'s anti-inflammatory action reduces pelvic inflammation and congestion
+- [Dashamoola](/herb/dashamoola/) is reported to have anti-inflammatory activity
 - Ghee medium enhances absorption of lipid-soluble phytoestrogens and [adaptogenic](/reference/adaptogenic/) compounds
 
 ## Which traditional uses are supported by research?
@@ -54,7 +54,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## Recent safety updates
 
-- Prospective clinical study confirms all safety laboratory parameters (liver and renal function) remained within normal limits throughout 84-day trial; no adverse events or adverse drug reactions reported
+- A prospective clinical study (not named in the source notes) reported that all safety laboratory parameters (liver and renal function) remained within normal limits throughout 84-day trial; no adverse events or adverse drug reactions reported
 - Compliant to standards laid in Ayurvedic Pharmacopoeia of India (API); manufactured by GMP-certified facilities
 - Not recommended during active menstruation in heavy flow; consult practitioner for use during pregnancy
 
@@ -73,7 +73,7 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 **Standard Dosage:** 12-24ml for gynecological and abdominal conditions
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is traditionally considered a carrier (yogavahi) for fat-soluble constituents
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 

@@ -62,6 +62,6 @@ Dashamula is a core component of the **kashaya phase**, the ten-root decoction i
 
 ## Safety
 
-Classical group formulation, safe at standard kashaya dosing (15–30 ml decoction, 1–3 g dried powder per dose). Kantakari / Brihati alkaloids warrant caution in pregnancy and in high-dose chronic use. Gokshura is diuretic. Monitor in renal disease.
+Classical group formulation, traditionally used at standard kashaya dosing (15–30 ml decoction, 1–3 g dried powder per dose). Kantakari / Brihati alkaloids warrant caution in pregnancy and in high-dose chronic use. Gokshura is diuretic. Monitor in renal disease.
 
 *Stub created 2026-04-17. Expand into per-constituent links and clinical-trial synthesis as the catalogue grows.*

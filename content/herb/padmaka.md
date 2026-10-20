@@ -38,10 +38,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ## How does it work?
 
-- Ursolic acid anti-inflammatory pathway: Inhibits NF-kB nuclear translocation and suppresses COX-2 and iNOS expression, reducing skin inflammation and redness
-- Phytosterol skin barrier enhancement: beta-Sitosterol and stigmasterol integrate into skin lipid bilayers, strengthening the stratum corneum barrier, reducing transepidermal water loss, and improving skin hydration
-- Flavonoid [antioxidant](/reference/antioxidant/) protection: Prunetinoside and neosakuranin scavenge free radicals and chelate metal ions, protecting skin from oxidative stress-induced aging and pigmentation
-- Astringent toning mechanism: Tannin-like compounds precipitate superficial skin [proteins](/glossary/compounds-o-q/#proteins), reducing pore size and improving skin texture and complexion
+- Ursolic acid anti-inflammatory pathway: proposed to inhibit NF-kB nuclear translocation and suppress COX-2 and iNOS expression
+- Phytosterol skin barrier enhancement: beta-Sitosterol and stigmasterol are proposed to integrate into skin lipid bilayers and support the stratum corneum barrier
+- Flavonoid [antioxidant](/reference/antioxidant/) protection: Prunetinoside and neosakuranin are proposed to scavenge free radicals and chelate metal ions
+- Astringent toning mechanism: Tannin-like compounds are proposed to precipitate superficial skin [proteins](/glossary/compounds-o-q/#proteins)
 
 ## Which traditional uses are supported by research?
 

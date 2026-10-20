@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Agnijara is a substance used in the Ayurvedic materia medica. Traditional Shodhana (purification) and Marana (calcination) processes convert it into nano-sized particles (bhasma) with significantly enhanced bioavailability. The bhasma form yields particles in the 50-100nm range, facilitating absorption."
+answer: "Agnijara is a substance used in the Ayurvedic materia medica. Traditional Shodhana (purification) and Marana (calcination) processes convert it into bhasma."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnijara/meta-analysis.md"
 
 **Standard Dosage:** 125-250mg bhasma twice daily with honey or ghee; 250-500mg pishti
 
-**Bioavailability:** Agnijara (a form of mineral/resinous amber or fossilized resin) has limited direct bioavailability. Traditional Shodhana (purification) and Marana (calcination) processes convert it into nano-sized particles (bhasma) with significantly enhanced bioavailability. The bhasma form yields particles in the 50-100nm range, facilitating absorption. Anupana of honey or ghee further enhances uptake.
+**Bioavailability:** Agnijara has limited direct bioavailability. Traditional Shodhana (purification) and Marana (calcination) processes convert it into bhasma. Anupana of honey or ghee further enhances uptake.
 
 **Optimal Timing:** Before meals with honey (Kapha conditions) or ghee (Pitta conditions)
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnijara/meta-analysis.md"
 
 **Storage:** Airtight glass or food-grade HDPE container. Keep dry. Bhasma is hygroscopic. Protect from moisture. Ambient temperature storage acceptable.
 
-**Marker Compounds:** Calcium carbonate (if calcified amber), Succinic acid (if Baltic-type amber), Trace minerals post-Marana
+**Marker Compounds:** Trace minerals post-Marana
 
 ### Extraction Methods
 

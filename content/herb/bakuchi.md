@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Taila (seed oil, topical), Capsule, Tablet, Lepa (seed paste, topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (for vitiligo), Ointment/cream
+**Dosage Forms:** Churna (seed powder), Taila (seed oil, topical), Capsule, Tablet, Lepa (seed paste, topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (traditionally used for vitiligo), Ointment/cream
 
 **Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic, photosensitivity management required.
 
@@ -112,8 +112,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Khadir (Acacia catechu) for leucoderma/vitiligo management
+- With Khadir (Acacia catechu), traditionally combined for leucoderma/vitiligo
 - With [Haridra](/herb/haridra/) for skin depigmentation disorders
 - With [Manjistha](/herb/manjistha/) for comprehensive skin health
-- With [Nimba](/herb/nimba/) for anti-psoriatic action
+- With [Nimba](/herb/nimba/) traditionally combined for psoriasis
 - Topical Bakuchi oil + controlled sun exposure (photochemotherapy principle)

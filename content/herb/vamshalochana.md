@@ -28,7 +28,7 @@ Translucent to opaque whitish-grey siliceous nodules, hard and brittle, sourced 
 ## Classical references
 
 - *Charaka Samhita*, named in medhya-rasayana contexts
-- *Bhavaprakasha Nighantu*, Haritakyadi Varga; cites *Kasahara* and *Daurbalyahara* actions
+- *Bhavaprakasha Nighantu*; cites *Kasahara* and *Daurbalyahara* actions
 - *Raja Nighantu*, "Vamsharochana"
 - *Sharangadhara Samhita*, prakshep in Avaleha kalpana
 

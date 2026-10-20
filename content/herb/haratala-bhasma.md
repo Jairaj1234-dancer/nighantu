@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Haratala Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Haratala's apoptotic mechanism aligns with this approved indication."
+answer: "Haratala Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -35,7 +35,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 ## How does it work?
 
-- Anti-leukemic potential: Shodhana may enhance synergistic effect of Haratala in cellular apoptosis for leukemia treatment, analogous to arsenic trioxide (approved drug) mechanism
 - Kaphahara (Kapha-reducing) action through stimulation of respiratory secretion clearance and bronchodilation, used traditionally for Shwasa (asthma) and Kasa (cough)
 - Kushthahara (skin disease management) through [antimicrobial](/reference/antimicrobial/) and keratolytic effects on skin lesions, traditionally used for chronic dermatological conditions
 - Jvaraghna ([antipyretic](/reference/antipyretic/)) action through modulation of inflammatory pathways involved in fever generation
@@ -78,7 +77,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 **Standard Dosage:** 30–60 mg (strict dosing)
 
-**Bioavailability:** Converted to non-toxic arsenic compound through proper Shodhana and Marana
+**Bioavailability:** Shodhana and Marana are intended to reduce toxicity; systemic arsenic absorption still occurs
 
 **Optimal Timing:** As directed by experienced physician only
 

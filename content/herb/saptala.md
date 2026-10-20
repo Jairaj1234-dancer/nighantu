@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Saptala (Euphorbia dracunculoides Lam.) is a plant drug, from the Euphorbiaceae family. Not in WHO monographs; listed in Ayurvedic texts under Virechana (purgative) drug category; limited formal pharmacopeia recognition; primarily referenced in 12th-century Ayurvedic compendia like Vrindamanjari."
+answer: "Saptala (Euphorbia dracunculoides Lam.) is a plant drug, from the Euphorbiaceae family. Not in WHO monographs; listed in Ayurvedic texts under Virechana (purgative) drug category; limited formal pharmacopeia recognition."
 botanical: "Euphorbia dracunculoides Lam."
 family: "Euphorbiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Not in WHO monographs; listed in Ayurvedic texts under Virechana (purgative) drug category; limited formal pharmacopeia recognition; primarily referenced in 12th-century Ayurvedic compendia like Vrindamanjari"
+whoStatus: "Not in WHO monographs; listed in Ayurvedic texts under Virechana (purgative) drug category; limited formal pharmacopeia recognition"
 aliases: ["Euphorbia dracunculoides Lam."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -87,27 +87,25 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g churna per day; 30-50 mL kwatha twice daily. Start at low dose and titrate upward due to purgative activity.
 
-**Bioavailability:** Saponin glycosides have moderate oral bioavailability (20-30%); hydrolyzed by intestinal microflora to sapogenin aglycones, which are better absorbed. Purgative compounds act locally in the colon. Systemic absorption of triterpenoid [saponins](/reference/saponins/) is dose-dependent and enhanced by food.
+**Bioavailability:** Not established.
 
 **Optimal Timing:** Early morning on empty stomach for purgative action; take with warm water
 
-**Standardized Extract:** Aqueous root extract (4:1), standardized to NLT 8% total saponins by hemolytic index method; hydroalcoholic extract standardized to NLT 2% triterpenoid sapogenins
+**Standardized Extract:** Not established.
 
 **Shelf Life:** 24 months for churna; 30 months for standardized extract capsules
 
 **Storage:** Store below 25 deg C in airtight containers, protected from moisture and light. RH <55%.
 
-**Marker Compounds:** Oleanolic acid, [Hederagenin](/glossary/compounds-g-l/#hederagenin), Saponins (total by hemolytic index), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Not established.
 
 ### Extraction Methods
 
 - Aqueous decoction
 - Hydroalcoholic extraction (50% ethanol)
-- Maceration in cold water for gentle saponin extraction
 - Percolation with graded ethanol concentrations
 
 ### Synergistic Combinations
 
 - [Trivrit](/herb/trivrit/) (synergistic purgative action for Virechana)
 - [Haritaki](/herb/haritaki/) (mild laxative formulations)
-- Kutaja (anti-diarrheal formulations for amoebiasis)

@@ -80,26 +80,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data. Salix caprea (goat willow) bark contains [salicin](/glossary/compounds-q-t/#salicin) (a prodrug of salicylic acid) with well-characterized bioavailability. Salicin is hydrolyzed to saligenin in the GI tract and oxidized to salicylic acid in the liver with overall bioavailability of ~80% for the active salicylic acid metabolite. Slower onset but longer duration compared to synthetic aspirin.
+**Bioavailability:** Limited modern pharmacokinetic data.
 
-**Optimal Timing:** After meals with warm water to reduce gastric irritation; for pain relief, as needed up to 3 times daily
+**Standardized Extract:** Not established for this herb; aqueous extract per traditional Kashayam method
 
-**Standardized Extract:** Bark extract standardized to 15-25% salicin (European standard for Salix preparations); aqueous extract per traditional Kashayam method
-
-**Shelf Life:** 2 years (bark powder); 3 years (standardized extract tablet/capsule)
-
-**Storage:** Cool, dry place below 25°C, protected from moisture. Bark powder in airtight containers.
-
-**Marker Compounds:** Salicin, Salicortin, Tremulacin, [Catechin](/reference/catechin/), Flavonoids
+**Storage:** Cool, dry place below 25°C, protected from moisture.
 
 ### Extraction Methods
 
-- Aqueous decoction (bark)
-- Hydroalcoholic extraction (70:30 ethanol:water) for salicin-enriched extract
+- Aqueous decoction
 - Dried aqueous extract (spray-dried)
 
-### Synergistic Combinations
-
-- With [Guggulu](/formulation/guggulu/) for anti-inflammatory action
-- With [Nirgundi](/herb/nirgundi/) for [analgesic](/reference/analgesic/) synergy
-- With [Rasna](/herb/rasna/) for rheumatic conditions

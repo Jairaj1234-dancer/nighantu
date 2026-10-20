@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Guloochyadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit mention in Sahasrayogam (circa 15th century CE southern compendium) under Jwara Chikitsa (fever treatment)."
+answer: "Guloochyadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Also described in Sahasrayogam (circa 15th century CE southern compendium) under Jwara Chikitsa (fever treatment)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Guloochyadi-
 
 ## Where is it described in the classical texts?
 
-Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit mention in Sahasrayogam (circa 15th century CE southern compendium) under Jwara Chikitsa (fever treatment).
+Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Also described in Sahasrayogam (circa 15th century CE southern compendium) under Jwara Chikitsa (fever treatment).
 
 ## How does it work?
 

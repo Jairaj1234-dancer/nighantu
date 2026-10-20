@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 
 **Optimal Timing:** After meals for digestive support; mouthwash after meals for dental care; morning and evening dosing
 
-**Standardized Extract:** Essential oil standardized to >10% hydroxy-alpha-sanshool; hydroethanolic extract standardized to >3% total alkylamides by HPLC; >2% total alkaloids
+**Standardized Extract:** Hydroethanolic extract standardized to >3% total alkylamides by HPLC; >2% total alkaloids
 
 **Shelf Life:** Dried fruits: 12-18 months; Essential oil: 24 months; Capsules/Tablets: 24 months; Mouthwash: 18 months
 

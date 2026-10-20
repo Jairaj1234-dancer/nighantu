@@ -39,9 +39,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 ## How does it work?
 
-- cis-Jasmone neuromodulatory aromatherapy: cis-Jasmone crosses the blood-brain barrier via olfactory pathways, modulating GABA receptors and reducing cortisol levels - lowering stress-induced skin inflammation, cortisol-driven acne, and stress-related dermatoses
+- cis-Jasmone neuromodulatory aromatherapy: cis-Jasmone has been proposed to act via olfactory pathways on stress responses; effects on skin conditions are not established
 - [Quercetin](/reference/quercetinquercetin/) and rutin [antioxidant](/reference/antioxidant/) protection: [Flavonoids](/reference/flavonoids/) scavenge free radicals, inhibit lipid peroxidation, and chelate pro-oxidant metal ions, protecting skin cells from oxidative damage and premature aging
-- [Antimicrobial](/reference/antimicrobial/) wound protection: Leaf extracts inhibit growth of wound-infecting pathogens including S. aureus and E. coli, preventing wound infection and supporting clean wound healing
+- [Antimicrobial](/reference/antimicrobial/) wound protection: In laboratory tests, leaf extracts inhibited growth of wound-infecting pathogens including S. aureus and E. coli
 - Linalool anti-inflammatory skin soothing: Monoterpene linalool inhibits NF-kB activation and reduces pro-inflammatory cytokine production, providing calming effects on irritated and inflamed skin
 
 ## Which traditional uses are supported by research?

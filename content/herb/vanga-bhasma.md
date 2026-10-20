@@ -36,8 +36,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 ## How does it work?
 
 - [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) action through testicular regenerative potential, enhancing spermatogenesis and male reproductive function as demonstrated in animal studies
-- Pramehaghna (anti-diabetic) activity through pancreatic beta-cell support and improvement of insulin sensitivity, part of [Trivanga Bhasma](/herb/trivanga-bhasma/)'s documented anti-diabetic mechanism
-- Medohara (anti-obesity) action through modulation of lipid metabolism pathways, reducing excessive adipose tissue accumulation
+- Pramehaghna (anti-diabetic): traditionally described; animal studies of [Trivanga Bhasma](/herb/trivanga-bhasma/), which includes it, have reported anti-diabetic activity
+- Traditionally described as Medohara (anti-obesity)
 - Mutravaha Srotas (urinary system) support through [diuretic](/reference/diuretic/) and anti-lithiatic effects, helping manage urinary tract disorders
 
 ## Which traditional uses are supported by research?
@@ -69,7 +69,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 ### Mineral/Elemental Profile
 
 - **Tin oxide (SnO2):** Major component
-- **Tin (Sn):** >90%
 - **Iron (Fe):** Trace
 
 **Analytical Methods:** XRD, ICP-OES, SEM-EDS

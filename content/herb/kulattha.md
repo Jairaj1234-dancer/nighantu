@@ -41,9 +41,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ## How does it work?
 
-- Antilithiatic (anti-kidney stone) mechanism through inhibition of calcium oxalate crystal nucleation and growth, with [diuretic](/reference/diuretic/) action promoting stone fragment passage
-- [Antidiabetic](/reference/antidiabetic/) action through alpha-amylase and alpha-glucosidase inhibition by [polyphenols](/glossary/compounds-o-q/#polyphenols), combined with high fiber content slowing carbohydrate absorption
-- [Cardioprotective](/reference/cardioprotective/) mechanism involving reduction of oxidative LDL modification and improvement of lipid profiles through phytosterol and fiber-mediated cholesterol reduction
+- Proposed antilithiatic (anti-kidney stone) mechanism (suggested by preclinical studies): inhibition of calcium oxalate crystal nucleation and growth, with [diuretic](/reference/diuretic/) action that may promote stone fragment passage
+- Proposed [antidiabetic](/reference/antidiabetic/) action (suggested by preclinical studies) through alpha-amylase and alpha-glucosidase inhibition by [polyphenols](/glossary/compounds-o-q/#polyphenols), combined with high fiber content slowing carbohydrate absorption
+- Proposed [cardioprotective](/reference/cardioprotective/) mechanism (suggested by preclinical studies) that may involve reduction of oxidative LDL modification and improvement of lipid profiles through phytosterol and fiber-mediated cholesterol reduction
 
 ## Which traditional uses are supported by research?
 
@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 **Bioavailability:** Polyphenols (gallic acid, [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability, traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
 
-**Optimal Timing:** Yusha: at lunch (mid-day meal) for optimal digestion; decoction: morning on empty stomach for urinary calculi; powder: after meals
+**Optimal Timing:** Yusha: at lunch (mid-day meal) for optimal digestion; decoction: traditionally taken in the morning on an empty stomach in Ashmari; powder: after meals
 
 **Standardized Extract:** Seed extract standardized to minimum 5% total polyphenols (as gallic acid equivalents) and 0.3% total isoflavones; protein content >22%
 
@@ -108,8 +108,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate) for urinary calculi dissolution synergy
+- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate), classically combined in formulations for Ashmari
 - [Gokshura](/herb/gokshura/) for comprehensive urinary health
-- [Varuna](/herb/varuna/) for renal stone management
+- [Varuna](/herb/varuna/), traditionally paired in formulations for Ashmari
 - [Punarnava](/herb/punarnava/) for kidney support
-- Pashanbheda for lithotriptic formulations
+- Pashanbheda, traditionally paired in formulations for Ashmari

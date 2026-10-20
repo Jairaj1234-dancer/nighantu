@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Pradarantak Lauh is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; manufactured by licensed Ayurvedic pharmacies under AYUSH guidelines."
+answer: "Pradarantak Lauh is a classical compound tablet (vati) containing Loha Bhasma and other bhasmas. Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; manufactured by licensed Ayurvedic pharmacies under AYUSH guidelines."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -31,12 +31,12 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ## How does it work?
 
-- [Loha Bhasma](/herb/loha-bhasma/) provides bioavailable iron to correct anemia secondary to excessive menstrual blood loss
+- [Loha Bhasma](/herb/loha-bhasma/) is the iron-bearing ingredient, traditionally used for anemia secondary to excessive menstrual blood loss
 - [Tamra Bhasma](/herb/tamra-bhasma/) (copper calx) supports copper-dependent [enzymes](/glossary/compounds-d-g/#enzymes) essential for iron metabolism and ceruloplasmin synthesis
-- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) provides trace minerals and acts as a [Rasayana](/reference/rasayana/) (rejuvenative), strengthening uterine tissue
+- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) provides trace minerals and is classically regarded as a [Rasayana](/reference/rasayana/) (rejuvenative) for uterine tissue
 - [Trikatu](/herb/trikatu/) (Shunthi + Maricha + [Pippali](/herb/pippali/)) enhances absorption of mineral Bhasmas and stimulates Agni (digestive fire)
-- [Triphala](/herb/triphala/) components provide [hemostatic](/glossary/pharmacology/#hemostatic), anti-inflammatory, and [antioxidant](/reference/antioxidant/) effects supporting uterine health
-- [Varatika Bhasma](/herb/varatika-bhasma/) (cowrie shell calx) provides calcium and acts as a uterine tonic reducing excessive bleeding
+- [Triphala](/herb/triphala/) components are traditionally described as having [hemostatic](/glossary/pharmacology/#hemostatic), anti-inflammatory, and [antioxidant](/reference/antioxidant/) effects
+- [Varatika Bhasma](/herb/varatika-bhasma/) (cowrie shell calx) provides calcium and is traditionally described as a uterine tonic for excessive bleeding
 
 ## Which traditional uses are supported by research?
 
@@ -84,7 +84,7 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, [Ashoka](/herb/ashoka/) [tannins](/reference/tannins/), [Lodhra](/herb/lodhra/) [alkaloids](/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Iron oxide
 
 **Quality Parameters:** Iron content as labeled, standard tablet tests
 

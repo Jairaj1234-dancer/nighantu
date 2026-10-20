@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 ## Recent safety updates
 
-- WHO includes it in manual 'The Use of Traditional Medicine in Primary Health Care' for cough, asthma; can be used safely for adults and children for extended periods at standard doses
+- WHO includes it in manual 'The Use of Traditional Medicine in Primary Health Care' for cough, asthma
 - Contraindicated in pregnancy due to uterotonic and potential abortifacient activity of vasicine; large doses may cause nausea and vomiting; WHO studied vasicine for fertility regulation in 1980s
 
 ## Dosage forms and preparation

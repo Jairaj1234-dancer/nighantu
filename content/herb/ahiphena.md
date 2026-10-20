@@ -62,8 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 **Bioavailability:** High oral bioavailability (60-80%) for morphine and codeine alkaloids. First-pass metabolism significant. Shodhana process (purification with cow's milk or Bhringaraja juice) modifies alkaloid profile and may reduce toxicity while retaining therapeutic activity. Traditional processing alters the ratio of opiate alkaloids.
 
-**Optimal Timing:** At bedtime for sleep-related indications; as prescribed by physician for pain management. Always with appropriate anupana as directed.
-
 **Standardized Extract:** Shodhita Ahiphena only, never raw opium. Alkaloid profile must be documented: morphine, codeine, thebaine, papaverine content per batch. Total alkaloid content typically 10-15% in raw; modified post-Shodhana.
 
 **Shelf Life:** 2 years (Shodhita powder in controlled storage); as per specific formulation monograph for compound preparations
@@ -81,5 +79,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 ### Synergistic Combinations
 
 - With [Jatiphala](/herb/jatiphala/) (nutmeg) in Ahiphenasava for diarrhea (classical)
-- With Sunthi and Maricha in small quantities for severe cough (under supervision)
-- With Tagar for severe insomnia (classical, restricted)
+- With Sunthi and Maricha in small quantities, traditionally used for cough
+- With Tagar, traditionally used for insomnia (classical, restricted)

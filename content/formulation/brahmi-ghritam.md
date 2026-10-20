@@ -31,11 +31,11 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## How does it work?
 
-- Bacosides modulate cholinergic receptors and promote synaptic plasticity, enhancing memory and cognitive function
-- Sesquiterpenes from [Vacha](/herb/vacha/) upregulate GABA activity, calming neural over-excitation and providing anticonvulsant effects
+- Bacosides modulate cholinergic receptors and promote synaptic plasticity
+- Sesquiterpenes from [Vacha](/herb/vacha/) upregulate GABA activity, calming neural over-excitation
 - Lipid-soluble ghee base facilitates transport of active compounds across the blood-brain barrier for enhanced CNS bioavailability
-- Combined [antioxidant](/reference/antioxidant/) action revitalizes brain functions and repairs oxidative damage in neural tissue
-- Nourishes medha dhatu (brain tissue), improves srotas flow in rasa dhatu channels, and clears ama obstructions in neurological pathways
+- Combined [antioxidant](/reference/antioxidant/) activity has been proposed to protect neural tissue from oxidative damage
+- Classically described as medhya (promoting intellect), and in Ayurvedic terms as improving srotas flow and clearing ama
 
 ## Which traditional uses are supported by research?
 
@@ -43,7 +43,7 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 - Apasmara (epilepsy): traditionally used for epilepsy. Animal studies using PTZ-induced seizure models have reported anticonvulsant activity.
 - Unmada (psychosis/psychiatric disorders): traditionally used for psychiatric disorders. Clinical reviews have reported benefits in anxiety, depression, and ADHD in children.
-- Smriti [Vriddhi](/herb/vriddhi/) (memory enhancement): traditionally used for memory enhancement. Double-blind clinical studies have reported improvement in memory retention and attention.
+- Smriti Vriddhi (memory enhancement): traditionally used for memory enhancement. Double-blind clinical studies have reported improvement in memory retention and attention.
 - CNS depressant and [anxiolytic](/reference/anxiolytic/) effects: experimental studies have reported anti-anxiety and calming properties.
 
 ## What do recent studies show?
@@ -67,7 +67,7 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 **Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
 
-**Optimal Timing:** Early morning on empty stomach and before bedtime for optimal cognitive benefit
+**Optimal Timing:** Early morning on empty stomach and before bedtime (traditional timing)
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/) preparations
 

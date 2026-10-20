@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Kapikachhu/meta-analys
 
 **Standard Dosage:** 3-6 g seed powder twice daily with milk or warm water; 500 mg standardized extract capsule twice daily
 
-**Bioavailability:** L-DOPA (3-6% in seeds) has good oral bioavailability (~30-40%) but undergoes significant peripheral decarboxylation. Co-administration with carbidopa analogs or natural decarboxylase inhibitors (green tea [catechins](/glossary/compounds-c-d/#catechins)) enhances central L-DOPA delivery. Milk as anupana provides amino acid buffering and improves tolerability. Mucuna pruriens seed coat removal increases L-DOPA extraction efficiency.
+**Bioavailability:** L-DOPA (3-6% in seeds) has good oral bioavailability (~30-40%) but undergoes significant peripheral decarboxylation. Co-administration with carbidopa analogs enhances central L-DOPA delivery. Milk as anupana provides amino acid buffering and improves tolerability. Mucuna pruriens seed coat removal increases L-DOPA extraction efficiency.
 
 **Optimal Timing:** With meals (preferably with warm milk) to reduce nausea; for Parkinsonism support, timed dosing to complement medication schedule; evening dosing for reproductive health
 

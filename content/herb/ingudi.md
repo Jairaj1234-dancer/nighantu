@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ## Recent safety updates
 
-- Toxicological studies have confirmed safety for medicinal purposes at recommended doses; fruit mesocarp is traditionally consumed as food
+- Fruit mesocarp is traditionally consumed as food
 - Saponin-rich kernel preparations should be used cautiously as high saponin concentrations may cause hemolysis; seed kernel detoxification processing required before consumption
 
 ## What is it made of?

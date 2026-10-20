@@ -112,4 +112,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 - With Sunthi ([ginger](/herb/ginger/)) for enhanced carminative action
 - With [Guduchi](/herb/guduchi/) for [antipyretic](/reference/antipyretic/) combination
 - With Musta for diarrhea and dyspepsia
-- With [Mishreya](/herb/mishreya/) ([fennel](/herb/fennel/)) in Shadangapaniya for fever management

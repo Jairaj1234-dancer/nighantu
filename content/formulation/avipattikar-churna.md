@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Included in the National Formulary of Unani Medicine. Widely recognized across Indian state pharmacopoeias. Referenced in multiple AYUSH-approved formulation compendia."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Widely recognized across Indian state pharmacopoeias. Referenced in multiple AYUSH-approved formulation compendia."
 aliases: ["Avipattikar Churna", "AvipattikarChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -31,8 +31,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 ## How does it work?
 
-- NF-kB signaling pathway suppression: Reduces TNF-alpha and IL-6 levels, decreasing inflammatory cell infiltration and promoting ulcer healing.
-- Acid neutralization: Sugar component directly neutralizes excess gastric acid.
+- NF-kB signaling pathway suppression: Studies have reported reduced TNF-alpha and IL-6 levels and decreased inflammatory cell infiltration.
 - Proton pump inhibition: Active compounds may inhibit gastric H+/K+ ATPase, reducing acid secretion.
 - [Antioxidant](/reference/antioxidant/) cytoprotection: [Quercetin](/reference/quercetinquercetin/), ellagic acid, and other [polyphenols](/glossary/compounds-o-q/#polyphenols) protect gastric mucosa from oxidative damage.
 - Carminative and [laxative](/reference/laxative/) action: [Trivrit](/herb/trivrit/) (Operculina turpethum) provides mild purgative effect; [Trikatu](/herb/trikatu/) stimulates digestive fire (Agni).
@@ -62,7 +61,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Standard Dosage:** 3-6 g twice daily with warm water or sugar, as given in the Ayurvedic Formulary of India, Part I, entry 7:2. The formulary's anupana: warm water. The formulary attributes this formula to Bhaisajyaratnavali, Amlapittadhikara; 24-25.
 
-**Bioavailability:** Fine particle size and [Trikatu](/herb/trikatu/) (Shunthi, Maricha, [Pippali](/herb/pippali/)) combination provides excellent bioenhancement through thermogenic and absorption-promoting effects. Piperine increases bioavailability of co-administered compounds by 20-30%.
+**Bioavailability:** Fine particle size and [Trikatu](/herb/trikatu/) (Shunthi, Maricha, [Pippali](/herb/pippali/)) combination is traditionally regarded as absorption-promoting. Piperine has been reported in studies to increase bioavailability of some co-administered compounds; the effect for this formulation is not established.
 
 **Optimal Timing:** After meals or at bedtime, especially for Amlapitta (hyperacidity)
 

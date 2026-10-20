@@ -23,11 +23,11 @@ A small cup or vessel used to measure and hold medicated oils, decoctions, or ot
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Sushruta Samhita Chikitsasthana Chapter 40; Ashtanga Hridaya Sutrasthana Chapter 22. Charaka attributes oil pulling with ability to treat about 30 systemic disorders.
+Charaka Samhita Sutrasthana Chapter 5 (Dinacharya); Sushruta Samhita Chikitsasthana Chapter 40; Ashtanga Hridaya Sutrasthana Chapter 22.
 
 ## How is it used traditionally?
 
-Oral health, prevention of dental caries and gingivitis, strengthening gums and teeth, treatment of jaw disorders, improving voice quality, treating oral ulcers. Recommended with [sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) Taila) as primary medium.
+Traditionally used for oral health, the teeth and gums, jaw disorders, voice quality and oral ulcers. Recommended with [sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) Taila) as primary medium.
 
 ## Traditional materials
 

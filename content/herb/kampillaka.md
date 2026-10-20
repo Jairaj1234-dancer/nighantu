@@ -59,23 +59,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Pericarp preparations ([Kamala](/herb/kamala/)) are safe at traditional anthelmintic doses; rottlerin has favorable pharmacokinetic profile with >35% oral bioavailability
+- Safety data for pericarp preparations ([Kamala](/herb/kamala/)) at traditional anthelmintic doses are limited
 - High doses may cause gastrointestinal irritation and purgation; not recommended during pregnancy; topical use of [Kamala](/herb/kamala/) dye may cause contact sensitization in rare cases
 
 ## What is it made of?
 
 ### Key Active Markers
 
-- Kamala
 - Bergenin
 - Friedelin
 - Sitosterol
 - Rottlerin 
 - Isorottlerin
-- 
 - Mallotophilippinens
 - Mallotucin D 
-- Beta-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

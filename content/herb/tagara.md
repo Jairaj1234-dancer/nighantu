@@ -111,7 +111,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Tagara/meta-analysis.m
 
 **Optimal Timing:** 30-60 minutes before bedtime for sleep promotion; divided doses during the day for anxiety management (lower doses)
 
-**Standardized Extract:** Root extract (4-6:1 in 70% ethanol), standardized to NLT 0.8% valerenic acid + acetoxyvalerenic acid by HPLC (per USP/PhEur monograph for Valerian); essential oil NLT 0.5% in dried root; valtrate content NLT 1% (if fresh root extract)
+**Standardized Extract:** Root extract (4-6:1 in 70% ethanol), standardized to NLT 0.8% valerenic acid + acetoxyvalerenic acid by HPLC; essential oil NLT 0.5% in dried root; valtrate content NLT 1% (if fresh root extract)
 
 **Shelf Life:** 24 months for standardized extract capsules; 18 months for churna (valtrate degradation); 36 months for tincture; 12 months for essential oil
 

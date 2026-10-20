@@ -87,7 +87,7 @@ Traditionally used as an [antispasmodic](/glossary/pharmacology/#antispasmodic) 
 ### Synergistic Combinations
 
 - [Brahmi](/herb/brahmi/) (premier nootropic synergy, clinically studied)
-- [Vacha](/herb/vacha/) (Medhya Rasayana combination per Charaka Samhita)
+- [Vacha](/herb/vacha/) (traditional Medhya combination)
 - [Jatamansi](/herb/jatamansi/) ([anxiolytic](/reference/anxiolytic/)-cognitive combination)
 - [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and memory-enhancing synergy)
 - [Mandukparni](/herb/mandukparni/) (comprehensive Medhya formulation)

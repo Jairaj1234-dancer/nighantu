@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Th
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care ([Bala](/herb/bala/) Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
+Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of the most important classical formulations for paediatric care (Bala Chikitsa) in Ayurveda, specifically mentioned for infant massage and child development.
 
 ## How does it work?
 
-- Lac resin ([Laksha](/glossary/concepts-a-m/#laksha)) provides calcium-like compounds and promotes osteoblast activity, supporting bone mineralization and skeletal development in growing infants
+- Lac resin ([Laksha](/glossary/concepts-a-m/#laksha)) showed osteogenic potential in an in vitro study; whether this applies to topical use in infants is not established
 - [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) provide [adaptogenic](/reference/adaptogenic/) and tissue-nourishing effects, supporting neuromuscular development through enhanced protein synthesis
-- [Curcumin](/herb/curcumin/) from [Turmeric](/herb/turmeric/) and antibacterial compounds from [Nirgundi](/herb/nirgundi/) and Nutgrass protect delicate infant skin from common bacterial and fungal infections
-- Dill (Shatapushpa) and Cedar ([Devadaru](/herb/devadaru/)) volatile oils provide mild warming and decongestant properties, protecting infants from cold and respiratory issues through transdermal absorption
+- [Curcumin](/herb/curcumin/) from [Turmeric](/herb/turmeric/) and antibacterial compounds from [Nirgundi](/herb/nirgundi/) and Nutgrass are proposed to contribute to the oil's traditional use for infant skin care
+- Dill (Shatapushpa) and Cedar ([Devadaru](/herb/devadaru/)) volatile oils are traditionally regarded as warming; the oil is traditionally used in massage for childhood cold and cough
 
 ## Which traditional uses are supported by research?
 
@@ -70,9 +70,9 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 **Standard Dosage:** External massage for infants and children
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
+**Optimal Timing:** External: before bath or at bedtime
 
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
@@ -82,7 +82,7 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Lacciferric acid, Withanolides
 
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
+**Vehicle (Anupana):** External: massage
 
 ### Synergistic Combinations
 

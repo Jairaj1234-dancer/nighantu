@@ -69,7 +69,7 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 **Bioavailability:** Fermentation enhances [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and polyphenol extraction. Alcohol medium improves lipophilic polyphenol absorption. Natural grape sugars partially convert to alcohol during fermentation, generating novel bioactive esters. Superior polyphenol bioavailability compared to simple decoction.
 
-**Optimal Timing:** After meals, twice daily. Useful as general tonic and for debility.
+**Optimal Timing:** After meals, twice daily. Traditionally used as a general tonic and in debility.
 
 **Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta
 

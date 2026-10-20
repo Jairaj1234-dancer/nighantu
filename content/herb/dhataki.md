@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dhataki/meta-analysis.md"
 
 **Bioavailability:** Woodfordia fruticosa flowers are rich in [tannins](/reference/tannins/) (particularly [ellagitannins](/glossary/compounds-d-g/#ellagitannins) and gallotannins) and [flavonoids](/reference/flavonoids/). Tannin bioavailability is low in parent form but gut microbiota convert ellagitannins to urolithins (bioavailable metabolites). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) ([myricetin](/glossary/compounds-l-o/#myricetin), [quercetin](/reference/quercetinquercetin/) glycosides) have moderate oral bioavailability (10-25%). The flower's traditional use as Sandhana Dravya (fermenter) introduces beneficial [enzymes](/glossary/compounds-d-g/#enzymes) and yeasts. Enhancement: phytosome technology for flavonoid-rich fraction; nanoparticle formulation of tannin fraction.
 
-**Optimal Timing:** After meals with warm water for GI conditions; between meals for menstrual disorders
+**Optimal Timing:** Traditionally taken after meals with warm water for digestive complaints, and between meals for menstrual complaints
 
 **Standardized Extract:** Hydroalcoholic extract standardized to NLT 15% total tannins (as tannic acid equivalent) and NLT 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent). Extract ratio 6:1.
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: ""
 aliases: ["Hinguvachadi Churna", "HinguvachadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India", "Ayurvedic Formulary of India, Part I"]
 productHints: []
 words: 265
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Churna/meta-analysis.md"

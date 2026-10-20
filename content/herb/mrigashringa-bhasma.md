@@ -35,10 +35,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## How does it work?
 
-- Calcium-phosphorus supplementation through natural ratio of Ca:P (approximately 2:1) optimal for bone mineralization and preventing calcium-phosphorus imbalance
-- Respiratory tract support through mucolytic and anti-inflammatory actions, facilitating expectoration and reducing bronchial inflammation in pneumonia and bronchitis
+- Supplies calcium and phosphorus in a natural Ca:P ratio (approximately 2:1)
+- Respiratory tract support through mucolytic and anti-inflammatory actions
 - [Cardioprotective](/reference/cardioprotective/) action through calcium and potassium provision supporting cardiac muscle contraction, electrical conduction, and rhythm regulation
-- Cartilage and joint repair through provision of calcium, phosphorus, and collagen-derived amino acids (from antler matrix) supporting connective tissue regeneration
 
 ## Which traditional uses are supported by research?
 
@@ -57,8 +56,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Animal-derived calcium preparation without toxic heavy metals. Natural calcium-phosphorus source.
-- OSTEOPOROSIS PREVENTION: Demonstrated bone-protective effects in ovariectomy-induced osteoporosis model (Calci-7 formulation)
 - WILDLIFE CONSERVATION: Only naturally shed antlers should be used. Ethical sourcing important under CITES and wildlife protection regulations.
 - HYPERCALCEMIA RISK: High calcium content (66%) means overdosage can cause hypercalcemia. Dose monitoring essential for prolonged use.
 
@@ -91,6 +88,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 **Marker Compounds:** Calcium phosphate (hydroxyapatite), Collagen derivatives, Trace minerals
 
-**Quality Parameters:** Calcium >30%, phosphorus >15%, standard bhasma tests, CITES compliance if applicable
+**Quality Parameters:** Standard bhasma tests, CITES compliance if applicable
 
 **Vehicle (Anupana):** Warm milk or honey

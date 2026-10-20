@@ -32,9 +32,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 ## How does it work?
 
 - Glomerular filtration enhancement: Steroidal [saponins](/reference/saponins/) ([protodioscin](/glossary/compounds-o-q/#protodioscin), [diosgenin](/glossary/compounds-d-g/#diosgenin)) from [Gokshura](/herb/gokshura/) (Tribulus terrestris) increase renal blood flow and glomerular filtration rate, promoting diuresis
-- Anti-lithiatic action: [Gokshura](/herb/gokshura/) constituents inhibit calcium oxalate crystal nucleation and aggregation, helping dissolve small calculi and preventing stone formation
+- Anti-lithiatic action: [Gokshura](/herb/gokshura/) constituents inhibit calcium oxalate crystal nucleation and aggregation
 - Anti-inflammatory and joint protection: Guggulsterones modulate cytokine pathways (NF-kB inhibition) to reduce inflammation in joints and urinary tract
-- Urinary tract tonification: The cold potency (Sheeta Virya) and anabolizing (Brimhana) effect of [Gokshura](/herb/gokshura/) nourishes and strengthens urinary tract tissues, reducing proteinuria and restoring kidney blood flow
+- Urinary tract tonification: The cold potency (Sheeta Virya) and anabolizing (Brimhana) effect of [Gokshura](/herb/gokshura/) nourishes and strengthens urinary tract tissues
 
 ## Which traditional uses are supported by research?
 

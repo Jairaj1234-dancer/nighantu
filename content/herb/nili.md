@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Nili (Indigofera tinctoria L.) is a plant drug, also called Kalkesi, Nilakah and Nilini. Indigofera tinctoria is listed in the Ayurvedic Pharmacopoeia of India and Traditional Chinese Medicine pharmacopoeia (as Qing Dai/indigo naturalis)."
+answer: "Nili (Indigofera tinctoria L.) is a plant drug, also called Kalkesi, Nilakah and Nilini. Indigofera tinctoria is listed in the Ayurvedic Pharmacopoeia of India."
 botanical: "Indigofera tinctoria L."
 family: "Fabaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Indigofera tinctoria is listed in the Ayurvedic Pharmacopoeia of India and Traditional Chinese Medicine pharmacopoeia (as Qing Dai/indigo naturalis). EU SCCS safety assessment completed for cosmetic use. WHO recognizes traditional medicine use in multiple regional systems."
+whoStatus: "Indigofera tinctoria is listed in the Ayurvedic Pharmacopoeia of India. EU SCCS safety assessment completed for cosmetic use. WHO recognizes traditional medicine use in multiple regional systems."
 aliases: ["Indigofera tinctoria L."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -39,10 +39,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 ## How does it work?
 
-- Indirubin anti-proliferative CDK/STAT3 inhibition: Indirubin inhibits cyclin-dependent kinases (CDKs) and STAT3 signaling, reducing the hyperproliferative keratinocyte division characteristic of psoriasis
-- Tryptanthrin IL-17 and Th17 suppression: Tryptanthrin decreases IL-17 production by Th17 cells, directly targeting the key inflammatory cytokine driving psoriatic inflammation and epidermal hyperplasia
-- Claudin-1 skin barrier restoration: Indigo naturalis components upregulate claudin-1 expression in tight junctions, restoring impaired skin barrier function in psoriasis and eczema
-- Synergistic neutrophil inflammation reduction: Combined action of indigo, indirubin, and tryptanthrin suppresses neutrophil infiltration and activation, reducing the inflammatory cascade that perpetuates psoriatic plaques
+*The mechanisms below are reported from research on indigo naturalis and its components.*
+
+- Indirubin anti-proliferative CDK/STAT3 inhibition: Studies report that indirubin inhibits cyclin-dependent kinases (CDKs) and STAT3 signaling and reduces keratinocyte proliferation
+- Tryptanthrin IL-17 and Th17 suppression: Studies report that tryptanthrin decreased IL-17 production by Th17 cells
+- Claudin-1 skin barrier restoration: Indigo naturalis components were reported to upregulate claudin-1 expression in tight junctions, supporting skin barrier function
+- Synergistic neutrophil inflammation reduction: Indigo, indirubin, and tryptanthrin together were reported to suppress neutrophil infiltration and activation
 
 ## Which traditional uses are supported by research?
 
@@ -56,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 ## What do recent studies show?
 
 - Wang C, Yang P, Wang J and others 2024. [Evidence and potential mechanism of action of indigo naturalis and its active components in the treatment of psoriasis](https://pubmed.ncbi.nlm.nih.gov/39316667/). *Annals of medicine*. PMID [39316667](https://pubmed.ncbi.nlm.nih.gov/39316667/) · [doi:10.1080/07853890.2024.2329261](https://doi.org/10.1080/07853890.2024.2329261)  
-  Comprehensive review confirmed that indigo, indirubin, and tryptanthrin work synergistically to treat psoriasis through keratinocyte proliferation inhibition, IL-17 reduction, skin barrier improvement via claudin-1 upregulation, and neutrophil inflammation suppression.
+  Review summarised evidence and proposed mechanisms for indigo naturalis and its components (indigo, indirubin, tryptanthrin) in psoriasis, including keratinocyte proliferation inhibition, IL-17 reduction, claudin-1 upregulation, and neutrophil inflammation suppression.
 - Wang P, Gao J, Guo S and others 2023. [Benefits of topical indigo naturalis nanofibrous patch on psoriatic skin: A transdermal strategy for botanicals](https://pubmed.ncbi.nlm.nih.gov/37593218/). *Materials today. Bio*. PMID [37593218](https://pubmed.ncbi.nlm.nih.gov/37593218/) · [doi:10.1016/j.mtbio.2023.100756](https://doi.org/10.1016/j.mtbio.2023.100756)  
   Indigo naturalis nanofibrous transdermal patches demonstrated enhanced delivery of indirubin and tryptanthrin to psoriatic skin, with significant reduction in inflammatory markers and improved clinical outcomes.
 

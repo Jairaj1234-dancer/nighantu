@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 
 **Standard Dosage:** 5-10 g dried fruit powder per day; 50-100 mL juice daily; fresh fruit as dietary supplement as tolerated
 
-**Bioavailability:** Good bioavailability of cucurbitane-type [triterpenoids](/glossary/compounds-t-z/#triterpenoids). [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic with moderate GI absorption improved by lipid co-administration. Tartaric and malic acids enhance mineral absorption. Fiber content may slow but prolong absorption of active compounds.
+**Bioavailability:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic with moderate GI absorption improved by lipid co-administration. Tartaric and malic acids enhance mineral absorption. Fiber content may slow but prolong absorption of active compounds.
 
 **Optimal Timing:** Morning on empty stomach for detoxification; between meals for digestive support; seed powder with meals
 

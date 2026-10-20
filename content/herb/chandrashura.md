@@ -41,9 +41,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 
 ## How does it work?
 
-- Glucosinolate metabolites (benzyl isothiocyanate, sulforaphane) activate Nrf2-ARE [antioxidant](/reference/antioxidant/) pathway, upregulating phase II detoxification [enzymes](/glossary/compounds-d-g/#enzymes) and providing chemopreventive effects
+- Glucosinolate metabolites (benzyl isothiocyanate, sulforaphane) activate Nrf2-ARE [antioxidant](/reference/antioxidant/) pathway, upregulating phase II detoxification [enzymes](/glossary/compounds-d-g/#enzymes); chemopreventive potential reported in preclinical studies
 - Mucilage polysaccharides form protective gel layer on gastrointestinal mucosa, reducing gastric acid damage and providing gastroprotective and [laxative](/reference/laxative/) effects
-- Lepidine alkaloids and [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) exhibit [galactagogue](/glossary/pharmacology/#galactagogue) activity through modulation of prolactin secretion pathways, enhancing milk production in lactating women
+- Lepidine alkaloids and [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) have been proposed to exhibit [galactagogue](/glossary/pharmacology/#galactagogue) activity through modulation of prolactin secretion pathways; human efficacy not established
 
 ## Which traditional uses are supported by research?
 
@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 
 ## Recent safety updates
 
-- Acute and subchronic toxicity studies in Wistar rats (14 weeks, 1-10% dietary incorporation) showed no mortality, no significant changes in body weight, organ weight, or hematological parameters - considered non-toxic and safe
+- Acute and subchronic toxicity studies in Wistar rats (14 weeks, 1-10% dietary incorporation) showed no mortality, no significant changes in body weight, organ weight, or hematological parameters; no toxicity observed in these rat studies, human safety not established
 - Majority of studies are animal-based; there is a critical need for human clinical efficacy and safety trials
 - Potential goitrogenic effects due to glucosinolate content; caution in patients with thyroid disorders; avoid high doses during pregnancy due to potential uterotonic effects
 

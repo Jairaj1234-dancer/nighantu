@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Drakshadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Resveratrol has moderate oral bioavailability (~20-30%): enhanced in hot aqueous medium. Polyphenols are rapidly absorbed from decoction form."
+answer: "Drakshadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Polyphenols are rapidly absorbed from decoction form."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:13 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 1; 55-57.
 
-**Bioavailability:** Natural sugars from [Draksha](/herb/draksha/) aid palatability and provide quick energy. [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) has moderate oral bioavailability (~20-30%), enhanced in hot aqueous medium. [Polyphenols](/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
+**Bioavailability:** Natural sugars from [Draksha](/herb/draksha/) aid palatability and provide quick energy. [Polyphenols](/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
 
 **Optimal Timing:** Before meals, morning and evening
 

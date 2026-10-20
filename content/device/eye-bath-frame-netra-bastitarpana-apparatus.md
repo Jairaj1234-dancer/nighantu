@@ -27,7 +27,7 @@ Sushruta Samhita Uttara Tantra (Shalakya Tantra - ophthalmology section); Ashtan
 
 ## How is it used traditionally?
 
-Eye rejuvenation, dry eyes, eye strain (computer vision syndrome), early cataracts, refractive errors, optic nerve nourishment, and prevention of eye diseases. Medicated ghee ([Triphala](/herb/triphala/) [Ghrita](/herb/ghrita/), Mahatriphala Ghrita) is used.
+Traditionally used for eye rejuvenation, dry eyes, eye strain (computer vision syndrome) and optic nerve nourishment. Medicated ghee ([Triphala](/herb/triphala/) [Ghrita](/herb/ghrita/), Mahatriphala Ghrita) is used.
 
 ## Traditional materials
 

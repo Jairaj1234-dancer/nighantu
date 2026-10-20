@@ -37,7 +37,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 - [Apigenin](/glossary/compounds-1-a/#apigenin)
 - [Umbelliferone](/glossary/compounds-t-z/#umbelliferone)
 - Balanophonin
-- [Lignans](/glossary/compounds-g-l/#lignans) (iridoid [glycosides](/glossary/compounds-g-l/#glycosides))
+- [Lignans](/glossary/compounds-g-l/#lignans)
+- Iridoid [glycosides](/glossary/compounds-g-l/#glycosides)
 
 ## How does it work?
 

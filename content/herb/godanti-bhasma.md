@@ -36,9 +36,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 ## How does it work?
 
 - [Antipyretic](/reference/antipyretic/) action through prostaglandin synthesis inhibition and thermoregulatory center modulation, effectively reducing yeast-induced hyperpyrexia in animal models
-- Gastroprotective effect through acid neutralization by calcium compounds and cytoprotective enhancement of gastric mucosal barrier against stress and NSAID-induced ulceration
+- Proposed gastroprotective effect through acid neutralization by calcium compounds; animal studies have reported gastroprotective activity in experimental ulcer models
 - Calcium supplementation through bioavailable calcium sulfate providing elemental calcium for bone metabolism, muscle function, and nerve transmission
-- Pitta-shamaka (cooling) action through alkaline pH buffering and reduction of inflammatory heat, addressing Pitta-predominant conditions systemically
+- Described classically as Pitta-shamaka (cooling); proposed to act through alkaline pH buffering
 
 ## Which traditional uses are supported by research?
 
@@ -56,8 +56,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 
 ## Recent safety updates
 
-- SAFE: LD50 in Class IV (>2000 mcg/kg) indicating low acute toxicity. Very safe in dose-dependent manner.
-- NO HEAVY METAL RISK: Calcium sulfate-based preparation without toxic heavy metals (lead, mercury, arsenic). One of the safest Bhasma preparations.
+- Acute toxicity: LD50 >2000 mg/kg indicating low acute toxicity.
+- HEAVY METALS: Calcium sulfate-based preparation, not a heavy-metal-based bhasma; heavy metal content (lead, mercury, arsenic) should still be tested and kept within limits.
 - PREGNANCY CAUTION: Best avoided during pregnancy and in infants. Can be administered in lower doses to lactating mothers and children.
 - HYPERCALCEMIA RISK: Excessive use may lead to elevated calcium levels. Appropriate dose monitoring recommended for prolonged use.
 

@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 
 **Bioavailability:** Leucas cephalotes contains [flavonoids](/reference/flavonoids/) ([luteolin](/glossary/compounds-l-o/#luteolin), [apigenin](/glossary/compounds-1-a/#apigenin) [glycosides](/glossary/compounds-g-l/#glycosides)), [terpenoids](/glossary/compounds-t-z/#terpenoids), and phenolic acids. Flavonoid glycosides have moderate oral bioavailability (15-30%) with gut deglycosylation releasing more permeable aglycones. Volatile terpenoid fraction is well absorbed but rapidly metabolized. Fresh juice (Swarasa) provides complete phytochemical matrix including labile compounds lost during drying. Enhancement: phospholipid complexation of flavonoid fraction; nano-emulsion of essential oil components.
 
-**Optimal Timing:** Before meals with warm water for respiratory conditions; fresh juice on empty stomach for [antipyretic](/reference/antipyretic/) and [hepatoprotective](/reference/hepatoprotective/) use
+**Optimal Timing:** Before meals with warm water for respiratory conditions; fresh juice on empty stomach where it is traditionally used as an [antipyretic](/reference/antipyretic/) and [hepatoprotective](/reference/hepatoprotective/)
 
 **Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as luteolin equivalent) by HPLC. Extract ratio 6:1. HPTLC fingerprint with characteristic bands at Rf values specific to luteolin and apigenin.
 

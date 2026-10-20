@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Suryavarta is a substance used in the Ayurvedic materia medica. Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa: onset of action within 15-30 minutes for headache relief."
+answer: "Suryavarta is a substance used in the Ayurvedic materia medica. Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Suryavarta/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder per day; 50-100 mL kwatha twice daily; 5-10 mL swarasa twice daily; 2-4 drops nasya oil per nostril for headache
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and phenolic acids show moderate oral bioavailability (25-35%). Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa, onset of action within 15-30 minutes for headache relief. Essential oil components are well-absorbed transdermally.
+**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and phenolic acids show moderate oral bioavailability (25-35%). Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa. Essential oil components are well-absorbed transdermally.
 
 **Optimal Timing:** Morning before sunrise for preventive headache management (per traditional rationale); nasya in morning after facial steaming; acute use as needed
 
@@ -63,6 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Suryavarta/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Shirisha](/herb/shirisha/) (anti-allergic headache formulations)
-- [Jatamansi](/herb/jatamansi/) (tension headache and anxiety)
-- [Brahmi](/herb/brahmi/) (migraine and cognitive support)
+- [Jatamansi](/herb/jatamansi/) (traditionally combined in headache formulations)
+- [Brahmi](/herb/brahmi/) (traditionally combined in headache formulations)
 - [Godanti Bhasma](/herb/godanti-bhasma/) (classical headache remedy combination)

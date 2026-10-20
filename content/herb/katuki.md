@@ -64,6 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Katuki/meta-analysis.md"
 
 - [Guggulu](/formulation/guggulu/) in Arogyavardhini Vati for comprehensive metabolic and hepatic support
 - [Bhumyamalaki](/herb/bhumyamalaki/) for hepatoprotective synergy
-- [Guduchi](/herb/guduchi/) for hepatitis management
-- [Nimba](/herb/nimba/) for cholestatic liver disease
+- [Guduchi](/herb/guduchi/), traditionally combined for liver support
+- [Nimba](/herb/nimba/), traditionally combined as a complementary bitter
 - [Chirayata](/herb/chirayata/) (Swertia) for bitter tonic and febrifuge combination

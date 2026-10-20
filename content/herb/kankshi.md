@@ -68,8 +68,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Bhasma (calcined ash), Kshara (alkali preparation), Capsule, External paste
 
-**Standard Dosage:** 500 mg - 2 g powder twice daily; 125-250 mg Kshara with honey or warm water
-
 **Bioavailability:** Mineral-rich alkaline preparation. Kshara form provides highly bioavailable [potassium](/glossary/compounds-o-q/#potassium) and calcium salts. Absorption enhanced when taken with acidic media (lemon juice, Amalaki juice). Chelated mineral forms show superior absorption compared to raw mineral preparations.
 
 **Optimal Timing:** After meals with warm water or honey; Kshara formulations best taken between meals
@@ -91,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Yavakshara](/herb/yavakshara/) for urinary calculi dissolution
-- [Shankha Bhasma](/herb/shankha-bhasma/) for acid-peptic disorders
+- [Yavakshara](/herb/yavakshara/), traditionally combined in formulations for urinary calculi
+- [Shankha Bhasma](/herb/shankha-bhasma/), traditionally combined in formulations for acid-peptic complaints
 - [Apamarga](/herb/apamarga/) Kshara for surgical applications (Kshara Sutra)
 - [Haritaki](/herb/haritaki/) for digestive support

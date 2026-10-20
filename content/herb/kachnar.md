@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 
 ### Synergistic Combinations
 
-- With Guggulu as Kanchanara Guggulu for thyroid disorders and lipomas
-- With [Varuna](/herb/varuna/) (Crataeva) for urinary calculi
+- With Guggulu as Kanchanara Guggulu, traditionally used for thyroid disorders and lipomas
+- With [Varuna](/herb/varuna/) (Crataeva), traditionally used for urinary calculi
 - With [Punarnava](/herb/punarnava/) for lymphatic drainage
 - With [Triphala](/herb/triphala/) for detoxification support

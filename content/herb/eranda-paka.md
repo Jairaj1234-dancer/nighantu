@@ -57,8 +57,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
   Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
-- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
-  Essential oil, beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -74,7 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 **Standard Dosage:** 10-20g Paka preparation once or twice daily as per classical dosing. Specific dose varies by formulation text followed.
 
-**Bioavailability:** [Eranda](/herb/eranda/) Paka is a processed preparation where castor root or oil is cooked with milk, sugar/jaggery, and supporting herbs following the Paka (confection) method. The lipid matrix (from castor oil or ghee used in Paka) enhances absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) and [sterols](/glossary/compounds-q-t/#sterols). The sugar matrix provides sustained release. Milk [proteins](/glossary/compounds-o-q/#proteins) may form complexes with [tannins](/reference/tannins/) reducing anti-nutritional effects. The Paka processing converts and concentrates bioactives while reducing harshness. This is a traditionally optimized sustained-release, bioavailability-enhanced formulation.
+**Bioavailability:** [Eranda](/herb/eranda/) Paka is a processed preparation where castor root or oil is cooked with milk, sugar/jaggery, and supporting herbs following the Paka (confection) method. The lipid matrix (from castor oil or ghee used in Paka) enhances absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) and [sterols](/glossary/compounds-q-t/#sterols). The sugar matrix provides sustained release. Milk [proteins](/glossary/compounds-o-q/#proteins) may form complexes with [tannins](/reference/tannins/) reducing anti-nutritional effects. The Paka processing converts and concentrates bioactives while reducing harshness.
 
 **Optimal Timing:** Morning on empty stomach or after meals with warm milk, as directed by classical text and practitioner
 

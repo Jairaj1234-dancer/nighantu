@@ -60,8 +60,8 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 ## Recent safety updates
 
-- CITES Appendix I: International trade in natural musk is prohibited; possession and sale of natural Kasturi is illegal in most jurisdictions without specific permits
-- Musk deer (Moschus moschiferus) is critically endangered; traditional harvesting killed the animal, though non-lethal extraction methods have been developed in Chinese musk deer farms
+- CITES Appendices I and II: International trade in natural musk is prohibited or strictly regulated; possession and sale of natural Kasturi is illegal in most jurisdictions without specific permits
+- Musk deer (Moschus spp.) are threatened; traditional harvesting killed the animal, though non-lethal extraction methods have been developed in Chinese musk deer farms
 - Clinical trial data in humans are lacking; most pharmacological evidence is from animal studies and in vitro research
 - Synthetic muscone and plant-based musk alternatives (Abelmoschus moschatus - Kasturi Bhendi) are recommended as ethical and legal substitutes
 
@@ -76,11 +76,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 - Cholesterol
 - Cholestanol
+- Androstenone
 
 ### Nitrogenous Compounds
 
 - Muscopyridine
-- Androstenone
 
 **Analytical Methods:** GC-MS (muscone), HPLC, LC-MS/MS
 

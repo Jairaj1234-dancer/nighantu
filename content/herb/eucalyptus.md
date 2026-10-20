@@ -60,5 +60,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Eucalyptus/meta-analysis
 - With [Menthol](/herb/menthol/) ([Pudina](/herb/pudina/)) for enhanced decongestant effect
 - With [Camphor](/herb/camphor/) for chest rub formulations
 - With Tea tree oil for [antimicrobial](/reference/antimicrobial/) synergy
-- With Nilgiri Taila in traditional respiratory formulations
 - With [Tulsi](/herb/tulsi/) for immune-respiratory support

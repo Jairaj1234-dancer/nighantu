@@ -23,7 +23,7 @@ srcRel: "_Hub/Pharmacology/Diuretic.md"
 
 ## Ayurveda (39)
 - [Abhayarishta](/formulation/abhayarishta/)
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia*
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
 - [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
 - [Alabu](/herb/alabu/), *Lagenaria siceraria (Molina) Standl.*

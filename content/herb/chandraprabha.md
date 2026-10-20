@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Rasayana-Immunity"
-answer: "Chandraprabha is classified in Ayurveda as Pramehaghna (Anti-diabetic), Mutrala (Urinary tonic), from the Multi-herb preparation family. Parts used: 37 ingredients including shilajit, guggulu, iron bhasma, loha bhasma, and multiple herbs. Name means 'moon-bright': said to make body radiant."
+answer: "Chandraprabha is classified in Ayurveda as Pramehaghna (Anti-diabetic), Mutrala (Urinary tonic), from the Multi-herb preparation family. Parts used: 37 ingredients including shilajit, guggulu, loha bhasma (iron bhasma), and multiple herbs. Name means 'moon-bright': said to make body radiant."
 botanical: ""
 family: "Multi-herb preparation"
 sanskrit: ""
@@ -14,7 +14,7 @@ ayurvedicCategory: "Pramehaghna (Anti-diabetic), Mutrala (Urinary tonic)"
 whoStatus: ""
 aliases: ["Compound formulation (37 herbs)"]
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Sharangadhara Samhita, Bhaishajya Ratnavali)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 483
 srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Chandraprabha/meta-analysis.md"
@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Chandraprabha/meta-analys
 
 ## Parts Used
 
-- 37 ingredients including [Shilajit](/herb/shilajit/), [Guggulu](/formulation/guggulu/), Iron bhasma, [Loha bhasma](/herb/loha-bhasma/), and multiple herbs
+- 37 ingredients including [Shilajit](/herb/shilajit/), [Guggulu](/formulation/guggulu/), [Loha bhasma](/herb/loha-bhasma/), and multiple herbs
 
 ## Dosha Effects
 
@@ -76,7 +76,7 @@ Name means 'moon-bright', said to make body radiant. Classical compound for Pram
 
 ## What is it made of?
 
-**Part(s) Analyzed:** 37 ingredients including [Shilajit](/herb/shilajit/), [Guggulu](/formulation/guggulu/), Iron bhasma, [Loha bhasma](/herb/loha-bhasma/), and multiple herbs
+**Part(s) Analyzed:** 37 ingredients including [Shilajit](/herb/shilajit/), [Guggulu](/formulation/guggulu/), [Loha bhasma](/herb/loha-bhasma/), and multiple herbs
 
 ## Dosage forms and preparation
 
@@ -84,7 +84,7 @@ Name means 'moon-bright', said to make body radiant. Classical compound for Pram
 
 **Standard Dosage:** 2 tablets (500mg each) twice daily with milk or water; 1-2g powder. This is a classical polyherbal formulation ([Chandraprabha Vati](/formulation/chandraprabha-vati/)) containing 37 ingredients per Sharangadhara Samhita.
 
-**Bioavailability:** Complex polyherbal formulation, bioavailability is a composite of multiple actives. [Shilajit](/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/herb/loha-bhasma/), etc.) are in nano/Bhasma form with enhanced bioavailability. Multiple herbs with [piperine](/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/herb/pippali/) included in formulation). Self-bioenhancing formulation design, classical Ayurvedic pharmaceutical sophistication.
+**Bioavailability:** Complex polyherbal formulation, bioavailability is a composite of multiple actives. [Shilajit](/herb/shilajit/) (a key ingredient) contains fulvic acid which acts as a natural bioenhancer. [Guggulu](/formulation/guggulu/) resin base improves absorption of lipophilic components. Iron and mineral components ([Loha Bhasma](/herb/loha-bhasma/), etc.) are in Bhasma form, which is claimed to improve bioavailability (not established). Multiple herbs with [piperine](/reference/piperine/)-like bioenhancement (Maricha, [Pippali](/herb/pippali/) included in formulation). Self-bioenhancing formulation design, classical Ayurvedic pharmaceutical sophistication.
 
 **Optimal Timing:** After meals with warm milk or water, twice daily; traditionally recommended for consistent use over 1-3 months for chronic conditions
 
@@ -108,4 +108,4 @@ Name means 'moon-bright', said to make body radiant. Classical compound for Pram
 - Internal synergies between 37 ingredients are the hallmark of this formulation
 - With [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/) for enhanced urological benefits
 - With [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) for liver-kidney combined support
-- With Punarnavadi Kwath for nephrological conditions
+- Traditionally paired with Punarnavadi Kwath in urinary disorders

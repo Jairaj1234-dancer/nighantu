@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 ## How does it work?
 
 - [Antidiabetic](/reference/antidiabetic/): [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) and [flavonoids](/reference/flavonoids/) stimulate insulin secretion, enhance [glucose](/glossary/compounds-d-g/#glucose) uptake in peripheral tissues, and inhibit alpha-glucosidase
-- [Anticancer](/reference/anticancer/): Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
+- [Anticancer](/reference/anticancer/): Laboratory studies report that Cucurbitacin B and E inhibit STAT3 and JAK2/STAT3 signaling, induce G2/M cell cycle arrest, and activate caspase-mediated apoptosis
 - Purgative: Colocynthin glycoside stimulates colonic motility through irritation of intestinal mucosa
 
 ## Which traditional uses are supported by research?

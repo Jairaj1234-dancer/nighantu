@@ -41,9 +41,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 ## How does it work?
 
-- Juglone induces apoptosis in cancer cells through reactive oxygen species (ROS) generation and mitochondrial membrane depolarization, activating caspase-3 and caspase-9 pathways
+- In vitro studies have reported that juglone induces apoptosis in cancer cell lines through reactive oxygen species (ROS) generation and mitochondrial membrane depolarization, activating caspase-3 and caspase-9 pathways
 - Animal studies have reported anti-inflammatory effects of the [polyphenols](/glossary/compounds-o-q/#polyphenols) ellagic acid and gallic acid. These studies reported inhibition of NF-kB signaling and reduced COX-2/LOX expression.
-- Alpha-linolenic acid (ALA) reduces serum LDL-cholesterol and triglycerides via upregulation of hepatic LDL receptors and inhibition of HMG-CoA reductase, supporting cardiovascular protection
+- Studies have reported that alpha-linolenic acid (ALA) may lower serum LDL-cholesterol and triglycerides via upregulation of hepatic LDL receptors and inhibition of HMG-CoA reductase
 
 ## Which traditional uses are supported by research?
 

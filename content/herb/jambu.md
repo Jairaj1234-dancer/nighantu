@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu/meta-analysis.md"
 **Journal:** Molecules (Basel, Switzerland) (2022)
 **PMID:** 36364010
 
-**Keywords:** Jamun, Syzygium [cumin](/herb/cumin/), diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
+**Keywords:** Jamun, Syzygium cumini, diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
 
 #### 2. Exploring the Chemical and Biological Potential of Jamun (Syzygium cumini (L.) Skeels) Leaves: A Comprehensive Review.
 
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu/meta-analysis.md"
 
 **Keywords:** adaptive evolution, genome assembly and annotation, genome sequencing, medicinal properties, secondary metabolism
 
-#### 6. None
+#### 6. (Title not available)
 
 **Authors:** Li Li, Mangali Sureshbabu, Kour Navneet et al.
 **Journal:** Journal of cancer research and therapeutics (2021)
@@ -145,6 +145,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Karela](/herb/karela/) ([bitter gourd](/herb/bitter-gourd/)) for blood sugar management
-- With [Gudmar](/herb/gudmar/) (Gymnema) for anti-diabetic synergy
+- With [Gudmar](/herb/gudmar/) (Gymnema), traditionally combined to support healthy blood sugar levels
 - With Amalaki for [antioxidant](/reference/antioxidant/) enhancement
 - With [Haridra](/herb/haridra/) for metabolic syndrome support

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Neelam Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Neelam Pishti is a pishti, a gem preparation made by fine grinding of the purified stone rather than by calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,11 +27,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ## How does it work?
 
-- Aluminum oxide nanoparticles: Similar to ruby-based [Manikya Pishti](/herb/manikya-pishti/), the Al2O3 base may exert [immunomodulatory](/reference/immunomodulatory/) and [neuroprotective](/reference/neuroprotective/) effects at therapeutic doses
 - Trace cobalt and titanium: These elements may contribute to unique biological activities distinct from ruby; cobalt is an essential component of vitamin B12 and participates in erythropoiesis
 - Tridosha balancing: Per Ayurvedic pharmacology, the cooling and stabilizing properties address imbalances across all three doshas, with particular emphasis on Vata pacification for neurological and musculoskeletal conditions
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
@@ -55,7 +54,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
+- **Primary component:** Purified mineral/metal oxide (after Shodhana)
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 

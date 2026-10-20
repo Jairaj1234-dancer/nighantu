@@ -48,9 +48,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 - **Poisoning case.** Rising incidence of synthetic cannabinoid-laced cannabis products in India causing severe toxicity including seizures, rhabdomyolysis, acute kidney injury, and deaths. Unlike natural cannabis, synthetic cannabinoids are full CB1 agonists with much higher toxicity.
 - **Poisoning case.** Pediatric edible cannabis intoxications increasing globally. Children present with lethargy, ataxia, respiratory depression, and coma after accidental ingestion of cannabis edibles. Duration of intoxication can be 12-24 hours.
 - **Antidote.** No specific antidote exists for cannabis intoxication. Treatment is supportive: benzodiazepines for severe anxiety/agitation, IV fluids for CHS-related dehydration. Rimonabant (CB1 antagonist) has been investigated but withdrawn due to psychiatric side effects.
-- **Maximum dose.** Ayurvedic dose of purified Bhanga (Shuddha Vijaya): 125-250 mg of leaf powder per day. Modern medicinal cannabis: THC 2.5-20 mg/day (titrated). FSSAI permits hemp seeds/oil with <0.3% THC as food ingredients.
+- **Dose.** Ayurvedic dose of purified Bhanga (Shuddha Vijaya): 125-250 mg of leaf powder per day. Modern medicinal cannabis: THC 2.5-20 mg/day (titrated). FSSAI permits hemp seeds/oil with <0.3% THC as food ingredients.
 - **Safety alert.** FSSAI approved hemp seed, hemp seed oil, and hemp flour as legal food ingredients in India (2021) with THC limit of 0.3%. Multiple Indian states (Uttarakhand, Himachal Pradesh) have issued hemp cultivation policies distinguishing industrial hemp from narcotic cannabis.
-- **Regulatory update.** AYUSH Ministry exploring framework for Ayurvedic cannabis-based medicines (Vijaya extract) with standardized THC/CBD ratios. Several companies granted licenses for cannabis-based Ayurvedic formulations under state AYUSH departments.
+- **Regulatory update.** AYUSH Ministry exploring framework for Ayurvedic cannabis-based medicines (Vijaya extract) with standardized THC/CBD ratios.
 
 ## What is it made of?
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 **Dosage Forms:** Churna (powder, purified), Modaka (sweetmeat preparation), Lepa (external paste), Taila (oil), Bhang Thandai (traditional beverage)
 
-**Standard Dosage:** 125-250mg purified leaf powder (after Shodhana); 500mg-1g in Modaka form. REGULATORY NOTE: Cannabis sativa is a controlled substance in many jurisdictions. Only leaves and seeds are permitted in Ayurvedic use in India (NDPS Act exemption). Use requires applicable licenses.
+**Standard Dosage:** 125-250mg purified leaf powder (after Shodhana); 500mg-1g in Modaka form. REGULATORY NOTE: Cannabis sativa is a controlled substance in many jurisdictions. Use requires applicable licenses.
 
 **Bioavailability:** THC: oral bioavailability 6-20% due to extensive first-pass metabolism; lipid vehicles (ghee, oil) increase to 20-35%. CBD: oral bioavailability 13-19%. Decarboxylation required for THCA/CBDA conversion (110°C, 30-45 min). Traditional fat-based preparations (with milk, ghee) align with modern lipid-based delivery strategies. Nanoemulsion formulations can increase bioavailability 3-5 fold.
 
@@ -87,4 +87,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 - With [Black Pepper](/herb/black-pepper/) ([Piperine](/reference/piperine/)) for enhanced cannabinoid absorption
 - With [Ashwagandha](/herb/ashwagandha/) for [anxiolytic](/reference/anxiolytic/) synergy
 - With Jatamamsi for sleep support
-- With Shankhapushpi for neurological conditions (traditional)
+- Traditionally combined with Shankhapushpi

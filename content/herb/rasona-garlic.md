@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Rasona Garlic (Allium sativum L.) is a plant drug, also called Lasunam, Rasonam and Lahasuna, from the Amaryllidaceae (Alliaceae) family. WHO monograph published for Bulbus Allii Sativi (Garlic|garlic bulb) in WHO Monographs on Selected Medicinal Plants Vol."
+answer: "Rasona Garlic (Allium sativum L.) is a plant drug, also called Lasunam, Rasonam and Lahasuna, from the Amaryllidaceae (Alliaceae) family. WHO monograph published for Bulbus Allii Sativi (garlic bulb) in WHO Monographs on Selected Medicinal Plants Vol."
 botanical: "Allium sativum L."
 family: "Amaryllidaceae (Alliaceae)"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "WHO monograph published for Bulbus Allii Sativi (Garlic|garlic bulb) in WHO Monographs on Selected Medicinal Plants Vol. 1; listed in multiple national pharmacopoeias worldwide including British, European, and Indian Pharmacopoeia"
+whoStatus: "WHO monograph published for Bulbus Allii Sativi (garlic bulb) in WHO Monographs on Selected Medicinal Plants Vol. 1; listed in multiple national pharmacopoeias worldwide including British, European, and Indian Pharmacopoeia"
 aliases: ["Allium sativum L.", "Rasona Garlic", "RasonaGarlic"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

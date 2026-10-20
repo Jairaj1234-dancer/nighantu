@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 ## How does it work?
 
 - Anti-inflammatory: Oleanolic acid and [saponins](/reference/saponins/) inhibit pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) via NF-kB pathway suppression
-- Wound healing: Biochanin A promotes fibroblast migration and collagen synthesis by modulating MMP-9 and TGF-beta signaling
+- Wound healing (proposed): a computational study reported that Biochanin A may bind wound-healing targets MMP-9 and TGF-beta
 - [Diuretic](/reference/diuretic/): Betaine and [potassium](/glossary/compounds-o-q/#potassium)-rich alkaline compounds enhance renal sodium and water excretion
 
 ## Which traditional uses are supported by research?
@@ -73,10 +73,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 - Achyranthine 
 - Oleanolic acid
 - Saponin A and B
-- 
 - Homovanillic acid
 - Biochanin A
-- Beta-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -86,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 0.5-1g Kshara with buttermilk/water; 50-100ml decoction
 
-**Bioavailability:** Moderate oral bioavailability. Achyranthes aspera contains saponins (achyranthine), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [triterpenoids](/glossary/compounds-t-z/#triterpenoids). Oleanolic acid has moderate bioavailability (~5-7%) improved by micronization or lipid-based formulations. Kshara (alkaline ash preparation) contains water-soluble mineral salts with high bioavailability. Betaine is well absorbed (>90%).
+**Bioavailability:** Moderate oral bioavailability. Achyranthes aspera contains saponins, [alkaloids](/glossary/compounds-1-a/#alkaloids) (achyranthine), and [triterpenoids](/glossary/compounds-t-z/#triterpenoids). Oleanolic acid has moderate bioavailability (~5-7%) improved by micronization or lipid-based formulations. Kshara (alkaline ash preparation) contains water-soluble mineral salts with high bioavailability. Betaine is well absorbed (>90%).
 
 **Optimal Timing:** Before meals with warm water for digestive indications; Kshara with buttermilk after meals for calculi; post-prandial for metabolic conditions
 
@@ -108,6 +106,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Varuna](/herb/varuna/) for urinary calculi (Kshara-based formulation)
-- With [Gokshura](/herb/gokshura/) and Pashanbheda for kidney stones
+- Traditionally combined with [Gokshura](/herb/gokshura/) and Pashanbheda for urinary calculi
 - With [Chitrak](/herb/chitrak/) for digestive stimulation
-- Apamarga Kshara in Kshara Sutra for fistula treatment
+- Apamarga Kshara is traditionally used in Kshara Sutra for fistula

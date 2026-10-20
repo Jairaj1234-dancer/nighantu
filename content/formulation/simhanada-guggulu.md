@@ -31,11 +31,10 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 ## How does it work?
 
-- DMARD-like action: The combined ingredients function as Disease Modifying Anti-Rheumatic Drugs, modulating immune response and preventing progressive joint destruction in rheumatoid arthritis
+- DMARD-like action: Some reviews describe DMARD-like activity for the combined ingredients in rheumatoid arthritis
 - Ama Pachana (toxin digestion): Shuddha [Gandhaka](/glossary/concepts-a-m/#gandhaka) (purified sulphur) and castor oil act synergistically to digest metabolic toxins (Ama) that are considered the root cause of Amavata in Ayurvedic pathology
 - Anti-inflammatory and anti-gout: [Triphala](/herb/triphala/) provides potent [antioxidant](/reference/antioxidant/), anti-inflammatory, and anti-hyperuricemic effects; guggulsterones inhibit pro-inflammatory cytokine cascades
 - Mild purgative detoxification: Castor oil ([Eranda](/herb/eranda/) Taila) provides gentle [laxative](/reference/laxative/) effect that eliminates accumulated Ama from the GI tract, breaking the Ama-Vata cycle
-- Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) modulates both innate and adaptive immune responses, reducing autoimmune-mediated joint destruction
 
 ## Which traditional uses are supported by research?
 

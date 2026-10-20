@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 ## How does it work?
 
-- Hematopoietic iron supplementation through bioavailable iron oxide particles that support hemoglobin synthesis without the typical GI side effects of conventional iron salts
+- Hematopoietic iron supplementation through bioavailable iron oxide particles that support hemoglobin synthesis
 - [Hepatoprotective](/reference/hepatoprotective/) and spleen-supportive action through iron-mediated improvement of reticuloendothelial system function and blood filtration
 - Deepana-Pachana (digestive enhancement) through iron-catalyzed metabolic enzyme activation and improvement of nutrient absorption
 - Raktavardhaka (blood-building) action through combined iron supplementation and vitamin C (from Amalaki processing) synergy enhancing iron absorption
@@ -58,9 +58,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 ## Recent safety updates
 
 - SAFE AT 5X DOSE: No serious toxic effects at 55 mg/kg (5x therapeutic dose) for 60 days in rat studies
-- CLINICAL SAFETY CONFIRMED: No adverse drug reactions or events in clinical trials with Punarnavadi Mandura formulation
+- CLINICAL SAFETY REPORTS: Clinical studies of the Punarnavadi Mandura formulation (not Mandura Bhasma alone) reported no adverse drug reactions or events
 - IRON OVERLOAD MONITORING: Excessive or long-term use without monitoring may lead to elevated serum ferritin and oxidative stress. Periodic hemoglobin and ferritin checks advised.
-- BETTER TOLERATED: Like [Loha Bhasma](/herb/loha-bhasma/), [Mandura Bhasma](/herb/mandura-bhasma/) causes fewer GI side effects than conventional iron supplements due to oxide nanoparticle form
+- TOLERABILITY: Like [Loha Bhasma](/herb/loha-bhasma/), [Mandura Bhasma](/herb/mandura-bhasma/) is said in the source notes to cause fewer GI side effects than conventional iron supplements (UNSOURCED)
 
 ## What is it made of?
 

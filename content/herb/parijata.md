@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 ## Recent safety updates
 
 - Most pharmacological studies lack proper dosage standardization, positive and negative controls; clinical human trials are limited
-- Leaves decoction used traditionally for fever is generally safe at recommended doses; excessive use may cause gastric irritation. Not recommended during pregnancy without medical supervision.
+- Leaves decoction is used traditionally for fever; excessive use may cause gastric irritation. Not recommended during pregnancy without medical supervision.
 
 ## Dosage forms and preparation
 
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 **Standard Dosage:** 1-3 g leaf powder daily; 15-30 mL leaf decoction twice daily; 10-15 mL fresh leaf juice; 500-750 mg standardized extract daily
 
-**Bioavailability:** Nyctanthic acid and arbortristosides show moderate oral bioavailability (20-35%). Iridoid glycosides undergo hydrolysis by intestinal beta-glucosidases releasing aglycones with enhanced absorption. Arbortristoside-A demonstrates anti-malarial activity with Tmax of 2-3 hours. Phenolic glycosides from leaves are moderately absorbed and undergo Phase II metabolism (glucuronidation, sulfation).
+**Bioavailability:** Nyctanthic acid and arbortristosides show moderate oral bioavailability (20-35%). Iridoid glycosides undergo hydrolysis by intestinal beta-glucosidases releasing aglycones with enhanced absorption. Phenolic glycosides from leaves are moderately absorbed and undergo Phase II metabolism (glucuronidation, sulfation).
 
 **Optimal Timing:** For fever: decoction taken early morning on empty stomach (traditional protocol). For arthritis and chronic conditions: after meals, twice daily. Fresh juice: morning on empty stomach.
 

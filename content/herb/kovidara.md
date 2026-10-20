@@ -11,7 +11,7 @@ botanical: "Bauhinia purpurea L."
 family: "Fabaceae (Caesalpinioideae)"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic texts as Kovidara. Used interchangeably with B. variegata in some formulations. No dedicated WHO monograph. Recognized in Thai traditional medicine and Indian AYUSH systems."
+whoStatus: "Listed in Ayurvedic texts as Kovidara. Used interchangeably with B. variegata in some formulations, although the safety notes advise differentiating the two. No dedicated WHO monograph. Recognized in Thai traditional medicine and Indian AYUSH systems."
 aliases: ["Bauhinia purpurea L."]
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 ## What do recent studies show?
 
 - Verma R, Dash S, Ankita and others 2024. [Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology- Exploring traditional uses and toxicological insights across Asia](https://pubmed.ncbi.nlm.nih.gov/39571414/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [39571414](https://pubmed.ncbi.nlm.nih.gov/39571414/) · [doi:10.1016/j.phymed.2024.156246](https://doi.org/10.1016/j.phymed.2024.156246)  
-  Comprehensive genus-level review confirmed [anticancer](/reference/anticancer/), antioxidant, [hypolipidemic](/glossary/pharmacology/#hypolipidemic), [antimicrobial](/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
+  Comprehensive genus-level review summarised reported [anticancer](/reference/anticancer/), antioxidant, [hypolipidemic](/glossary/pharmacology/#hypolipidemic), [antimicrobial](/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
 - Gudavalli D, Pandey K, Ede VG and others 2024. [Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review](https://pubmed.ncbi.nlm.nih.gov/38286316/). *Fitoterapia*. PMID [38286316](https://pubmed.ncbi.nlm.nih.gov/38286316/) · [doi:10.1016/j.fitote.2024.105830](https://doi.org/10.1016/j.fitote.2024.105830)  
   Identified [flavonoids](/reference/flavonoids/) (astragalin, [quercetin](/reference/quercetinquercetin/)), [steroids](/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
 
@@ -93,8 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 **Bioavailability:** Similar pharmacological profile to [Kanchanar](/herb/kanchanar/) (both Bauhinia species). Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) have moderate bioavailability (~20-25%). Tannin-protein interactions may reduce absorption if taken with protein-rich meals. [Guggulu](/formulation/guggulu/) combination (as in Kanchanar Guggulu analog) enhances bioavailability. Phytosome formulation of flavonoid fraction improves absorption 2-3 fold.
 
-**Optimal Timing:** Before meals for thyroid and lymphatic conditions; after meals for general wellness and GI applications
-
 **Standardized Extract:** Standardized to minimum 8% total [tannins](/reference/tannins/) and 2% total flavonoids (as quercetin equivalents) by HPLC
 
 **Shelf Life:** 24 months for bark powder; 18 months for capsules; 48 hours for fresh decoction (refrigerated)
@@ -112,7 +110,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ### Synergistic Combinations
 
-- Kanchanar (complementary Bauhinia species) for additive thyroid/lymphatic effects
-- Guggulu for thyroid and lipid management
-- [Varuna](/herb/varuna/) for urinary calculi
-- [Triphala](/herb/triphala/) for detoxification synergy
+- Kanchanar (complementary Bauhinia species)
+- Guggulu
+- [Varuna](/herb/varuna/)
+- [Triphala](/herb/triphala/)

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Shothari Loha is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation; manufactured under license by Ayurvedic pharmacies as per AYUSH guidelines and Drugs and Cosmetics Act, 1940."
+answer: "Shothari Loha is a classical iron-based compound formulation (vati) containing Loha Bhasma. Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation; manufactured under license by Ayurvedic pharmacies as per AYUSH guidelines and Drugs and Cosmetics Act, 1940."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -31,9 +31,9 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 ## How does it work?
 
-- [Loha Bhasma](/herb/loha-bhasma/) (48 g, highest proportion) corrects anemia which can be both a cause and consequence of chronic edema/inflammation
+- [Loha Bhasma](/herb/loha-bhasma/) (48 g, highest proportion) is traditionally used for anemia, which can be both a cause and consequence of chronic edema/inflammation
 - [Trikatu](/herb/trikatu/) (Shunthi + Maricha + [Pippali](/herb/pippali/)) provides anti-inflammatory action through inhibition of prostaglandin synthesis and COX pathway modulation
-- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate) acts as an alkalizing agent, promotes diuresis, and helps reduce fluid retention/edema
+- [Yavakshara](/herb/yavakshara/) ([potassium](/glossary/compounds-o-q/#potassium) carbonate) is regarded in classical practice as an alkalizing agent and diuretic, and is traditionally used for fluid retention/edema
 - [Piperine](/reference/piperine/) from Maricha and [Pippali](/herb/pippali/) enhances bioavailability of iron and other active compounds through inhibition of hepatic and intestinal glucuronidation
 - Shunthi ([ginger](/herb/ginger/)) has demonstrated anti-edema effects through inhibition of TNF-alpha and IL-6 inflammatory cytokines
 - Combined Kapha-reducing (Kapha hara) property reduces excess fluid accumulation (Kleda) in tissues according to Ayurvedic pharmacology
@@ -74,7 +74,7 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 **Standard Dosage:** 250 mg twice daily
 
-**Bioavailability:** Good; anti-edema herbs enhance iron delivery to tissues
+**Bioavailability:** Not established
 
 **Optimal Timing:** After meals with [Punarnava](/herb/punarnava/) Kwatha or warm water
 
@@ -84,7 +84,7 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Iron oxide, [Punarnava](/herb/punarnava/) [alkaloids](/glossary/compounds-1-a/#alkaloids), Diuretic compounds
+**Marker Compounds:** Iron oxide, Diuretic compounds
 
 **Quality Parameters:** Iron content as labeled, standard tablet tests
 

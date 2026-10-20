@@ -31,10 +31,10 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## How does it work?
 
-- Uric acid reduction: Guggulsterones promote renal excretion of uric acid by modulating renal tubular transporters (URAT1, GLUT9), reducing hyperuricemia
+- Uric acid reduction: Guggulsterones have been proposed to promote renal excretion of uric acid by modulating renal tubular transporters (URAT1, GLUT9)
 - Anti-inflammatory cascade: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) contains [berberine](/glossary/compounds-a-c/#berberine) and [tinosporaside](/glossary/compounds-t-z/#tinosporaside) that inhibit NF-kB signaling and suppress TNF-alpha, IL-1beta, and IL-6 production
 - [Antioxidant](/reference/antioxidant/) defense: [Triphala](/herb/triphala/) and [Guduchi](/herb/guduchi/) [polyphenols](/glossary/compounds-o-q/#polyphenols) scavenge reactive oxygen species, protecting joint cartilage from oxidative degradation
-- Blood purification (Rakta Shodhana): Combined action of [Guduchi](/herb/guduchi/) and [Triphala](/herb/triphala/) detoxify blood by enhancing hepatic conjugation pathways and promoting elimination of metabolic waste
+- Blood purification (Rakta Shodhana): Combined action of [Guduchi](/herb/guduchi/) and [Triphala](/herb/triphala/) has been proposed to act by enhancing hepatic conjugation pathways and promoting elimination of metabolic waste
 - Bioavailability enhancement: [Trikatu](/herb/trikatu/) (especially [piperine](/reference/piperine/) from Maricha and [Pippali](/herb/pippali/)) enhances intestinal absorption and inhibits P-glycoprotein efflux, increasing systemic availability of active compounds
 
 ## Which traditional uses are supported by research?
@@ -59,9 +59,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:2 states a dose of 3 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: Mudga yusa,milk,sugandhijala. The formulary attributes this formula to Bhaisajyaratnavali, Vataraktadhikara; 97-101.
+**Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:2 states a dose of 3 g; this is higher than the figure above, and the two are recorded here as differing sources. The formulary's anupana: Mudga yusa,milk,sugandhijala. The formulary attributes this formula to Bhaisajyaratnavali, Vataraktadhikara; 97-101.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as yogavahi, enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/herb/trikatu/) significantly enhances absorption of [berberine](/glossary/compounds-a-c/#berberine) and guggulsterones. Multi-herb synergy provides broad anti-inflammatory action with high tissue bioavailability.
+**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as yogavahi, enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/herb/trikatu/) significantly enhances absorption of [berberine](/glossary/compounds-a-c/#berberine) and guggulsterones.
 
 **Optimal Timing:** After meals, twice or thrice daily, for Vatarakta (gout), Kushtha (skin diseases), and inflammatory conditions
 
@@ -73,7 +73,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, berberine from [Guduchi](/herb/guduchi/), piperine, gallic acid, HPTLC fingerprint, microbial limits, heavy metals
 
-**Vehicle (Anupana):** Warm water or Guduchi kwath
+**Vehicle (Anupana):** Warm water or Guduchi kwath (this differs from the formulary's anupana given above)
 
 ### Synergistic Combinations
 

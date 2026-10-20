@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Karpooradi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Karpoora (Cinnamomum camphora / Camphor) - primary ingredient Ajamoda (Apium graveolens / Celery/Wild Celery) Coconut oil (Narikela taila) base (or Sesame oil in some preparations) Sahasrayogam (Taila Prakarana)."
+answer: "Karpooradi Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI). Its ingredients are Karpoora (Cinnamomum camphora, camphor) as the primary ingredient, Ajamoda (Apium graveolens, celery) and a coconut oil (Narikela taila) base, or sesame oil in some preparations. It is described in Sahasrayogam (Taila Prakarana)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -59,7 +59,7 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 ## Recent safety updates
 
 - CAUTION: Camphor is toxic if ingested - strictly for external use only. Harmful to adults, children, and pets if swallowed. Do not add to humidifiers or nebulizers as camphor is highly flammable. Camphor application can cause eczema in sensitive individuals.
-- NOT safe for infants and toddlers - camphor toxicity risk is higher in young children. Do not use frequently on young children. Patch test mandatory for first-time users. Avoid application near eyes, nostrils (internal), and mucous membranes. Discontinue if skin irritation, rash, or eczema develops.
+- NOT safe for infants and toddlers - camphor toxicity risk is higher in young children. Patch test mandatory for first-time users. Avoid application near eyes, nostrils (internal), and mucous membranes. Discontinue if skin irritation, rash, or eczema develops.
 
 ## What is it made of?
 

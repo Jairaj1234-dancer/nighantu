@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Water_Hyssop/meta-analysis.md
 
 **Bioavailability:** Bacosides A and B (primary triterpenoid [saponins](/reference/saponins/)) have moderate oral bioavailability (~25-35%) limited by P-glycoprotein efflux and hepatic metabolism. Bacoside A3, bacopaside I, II, and X are the specific active saponins. Bioavailability is enhanced 1.5-2x by lipid co-administration (ghee, [phospholipids](/glossary/compounds-o-q/#phospholipids)). Brahmi Ghrita (traditional ghee-based formulation) provides superior bacoside delivery through lipid solubilization. Bacosides cross the blood-brain barrier, which is essential for [nootropic](/glossary/pharmacology/#nootropic) activity. Tmax: 2-4 hours; elimination half-life: 6-8 hours.
 
-**Optimal Timing:** Morning and evening with meals (reduces GI side effects); Brahmi Ghrita at bedtime for cognitive [Rasayana](/reference/rasayana/) effect; allow 8-12 weeks for nootropic effects to manifest
+**Optimal Timing:** Morning and evening with meals (reduces GI side effects); Brahmi Ghrita at bedtime for cognitive [Rasayana](/reference/rasayana/) effect
 
 **Standardized Extract:** Standardized extract: 20-55% total bacosides (as bacoside A + bacopaside I) by HPLC; KeenMind: 55% bacosides; BacoMind: 25% bacosides (9 bioactives); fresh juice standardized to >2% total bacosides
 

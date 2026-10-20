@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagakesara/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Lodhra](/herb/lodhra/) (hemostatic combination - premier pairing)
-- [Ashoka](/herb/ashoka/) (menorrhagia management)
+- [Ashoka](/herb/ashoka/) (traditionally paired for menorrhagia)
 - [Mochras](/herb/mochras/) (hemostatic synergy)
 - Praval Pishti (cooling hemostatic)
 - [Haridra](/herb/haridra/) (anti-inflammatory and wound healing)

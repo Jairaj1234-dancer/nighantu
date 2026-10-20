@@ -31,9 +31,9 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/herb/rohitaka/) herb is cl
 
 ## How does it work?
 
-- [Hepatoprotective](/reference/hepatoprotective/) action through betulinic acid reduces liver enzyme elevation and promotes hepatocyte regeneration
+- [Hepatoprotective](/reference/hepatoprotective/) action attributed to betulinic acid, which may support liver function
 - Cholagogue action increases bile flow, protecting liver and gallbladder function
-- Spleno-protective action reduces inflammation and blockage in the enlarged spleen, restoring normal function
+- Classically used in spleen (Pleeha) disorders
 - Synergistic action of [Trikatu](/herb/trikatu/) (pungent trio) with [Rohitaka](/herb/rohitaka/) enhances bioavailability and deepens tissue penetration
 
 ## Which traditional uses are supported by research?

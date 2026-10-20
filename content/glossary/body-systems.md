@@ -26,7 +26,7 @@ answer: "Body systems and doshas is a reference glossary of 1 entries drawn from
 - [Coconut Oil Narikela Taila](/formulation/coconut-oil-narikela-taila/) (Antimicrobial, Anti-inflammatory)
 - [Japa](/herb/japa/) (Antioxidant)
 - [Jatamansi](/herb/jatamansi/) (Antioxidant, Nootropic, Medhya (Nootropic))
-- [Kankshi](/herb/kankshi/), *Abrus precatorius L. (seed coat/outer coating)* (Antioxidant, Hepatoprotective, Antitumor)
+- [Kankshi](/herb/kankshi/) (Antioxidant, Hepatoprotective, Antitumor)
 - [Kasturi](/herb/kasturi/) (Antioxidant, Anticancer, Neuroprotective)
 - [Kuntalakanti Tailam](/formulation/kuntalakanti-tailam/)
 - [Neelibringadi Thailam](/formulation/neelibringadi-thailam/) (Antioxidant)

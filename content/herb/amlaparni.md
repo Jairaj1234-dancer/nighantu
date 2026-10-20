@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 
 **Standard Dosage:** 3-5g powder twice daily; 40-80ml decoction twice daily; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional enhancement with honey, warm water, or [Trikatu](/herb/trikatu/) yoga recommended. The herb's acidic taste ([Amla](/herb/amla/) rasa) suggests presence of organic acids that are generally well absorbed orally.
+**Bioavailability:** Limited modern pharmacokinetic data. Traditional enhancement with honey, warm water, or [Trikatu](/herb/trikatu/) yoga recommended. The herb's acidic taste (Amla rasa) suggests presence of organic acids that are generally well absorbed orally.
 
 **Optimal Timing:** Before meals with warm water for digestive indications; with honey for respiratory conditions
 

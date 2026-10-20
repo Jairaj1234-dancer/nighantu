@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Lodhrasva is a compound formulation of several ingredients. Fermentation generates probiotic metabolites that enhance gut absorption. Phenolic acids formed during fermentation are highly bioavailable."
+answer: "Lodhrasva is a compound formulation of several ingredients. Phenolic acids formed during fermentation are highly bioavailable."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lodhrasva/meta-analysis.md"
 
 **Standard Dosage:** 15-30 mL twice daily after meals, mixed with equal quantity of water
 
-**Bioavailability:** Self-generated alcohol (5-10%) in fermented preparation acts as a natural solvent and bioenhancer, improving absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides) by 40-60% compared to aqueous decoctions. Fermentation generates probiotic metabolites that enhance gut absorption. Phenolic acids formed during fermentation are highly bioavailable.
+**Bioavailability:** Self-generated alcohol (5-10%) in fermented preparation acts as a natural solvent and bioenhancer, improving absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). Phenolic acids formed during fermentation are highly bioavailable.
 
 **Optimal Timing:** After meals, diluted with equal water. Evening dose preferred for gynecological indications.
 

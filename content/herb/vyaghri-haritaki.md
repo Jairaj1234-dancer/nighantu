@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 - Antitussive and bronchodilatory mechanism through [Kantakari](/herb/kantakari/) steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) relaxing bronchial smooth muscle and reducing cough reflex sensitivity, combined with [Haritaki](/herb/haritaki/)'s mucolytic action
 - Anti-inflammatory and anti-allergic mechanism through solasonine and tannin-mediated inhibition of mast cell degranulation and reduction of [histamine](/glossary/compounds-g-l/#histamine) release in airways
-- Mild [laxative](/reference/laxative/) and detoxification mechanism through Haritaki's chebulinic acid stimulating gentle peristalsis and binding toxins in the GI tract
+- Mild [laxative](/reference/laxative/) mechanism proposed through Haritaki's chebulinic acid stimulating gentle peristalsis
 
 ## Which traditional uses are supported by research?
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 ## Recent safety updates
 
-- Traditional avaleha preparation considered safe at recommended doses (5-10g with honey or warm water); Kantakari's steroidal alkaloids are buffered by the jaggery/honey matrix of the confection
+- Traditional avaleha preparation considered safe at recommended doses (5-10g with honey or warm water)
 - Solanine-containing herbs should be used cautiously during pregnancy; long-term safety data from controlled clinical trials is lacking; recommended to use under Ayurvedic practitioner supervision
 
 ## Dosage forms and preparation

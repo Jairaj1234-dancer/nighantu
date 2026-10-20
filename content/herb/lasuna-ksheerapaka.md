@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 **Standard Dosage:** 50-100 mL Ksheerapaka preparation twice daily (prepared from 5-10 g garlic in 200 mL milk reduced to half); concentrated powder 500-1000 mg twice daily
 
-**Bioavailability:** Milk lipids enhance absorption of garlic's lipophilic organosulfur compounds (diallyl sulfides). Casein [proteins](/glossary/compounds-o-q/#proteins) partially stabilize [allicin](/glossary/compounds-1-a/#allicin), slowing degradation. Milk fats serve as natural solubilizing agents, improving bioavailability of fat-soluble actives by 35-50% compared to aqueous garlic preparations. Calcium in milk may buffer gastric acid, further protecting alliinase activity.
+**Bioavailability:** Milk lipids enhance absorption of garlic's lipophilic organosulfur compounds (diallyl sulfides). Casein [proteins](/glossary/compounds-o-q/#proteins) partially stabilize [allicin](/glossary/compounds-1-a/#allicin), slowing degradation. Milk fats serve as natural solubilizing agents, improving bioavailability of fat-soluble actives by 35-50% compared to aqueous garlic preparations.
 
-**Optimal Timing:** Evening or bedtime administration for cardiovascular and Vata-pacifying effects; on empty stomach for respiratory conditions
+**Optimal Timing:** Traditionally given in the evening or at bedtime for cardiovascular and Vata-pacifying use, and on an empty stomach in respiratory complaints
 
 **Standardized Extract:** Spray-dried Ksheerapaka concentrate (20:1 ratio) standardized to minimum 0.3% organosulfur compounds. Reconstitution yields equivalent of traditional preparation. Lyophilized powder retaining minimum 85% of original SAC content.
 

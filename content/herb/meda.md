@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## Recent safety updates
 
-- Traditional Ayurvedic usage suggests a favorable safety profile when consumed as part of Ashtavarga formulations at recommended doses; no documented adverse effects in classical literature
+- Classical literature does not document adverse effects when Meda is used as part of Ashtavarga formulations; modern safety data are not established
 - Critically endangered status means most commercial products may contain adulterants or substitutes; authentication and quality control are essential safety considerations
 
 ## Dosage forms and preparation
@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g tuber powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily
 
-**Bioavailability:** Steroidal saponins show moderate oral bioavailability (15-25%). Sapogenins released by intestinal hydrolysis are better absorbed than glycosylated forms. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not absorbed but provide prebiotic and gut-protective effects. Ghrita-based preparations enhance sapogenin bioavailability by 40-60%.
+**Bioavailability:** Steroidal saponins show moderate oral bioavailability. Sapogenins released by intestinal hydrolysis are better absorbed than glycosylated forms. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not absorbed.
 
 **Optimal Timing:** With meals or with milk for [Rasayana](/reference/rasayana/) and nutritive effects; morning for tonic action; with Ghrita for reproductive health
 

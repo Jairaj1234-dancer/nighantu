@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Priyala/meta-analysis.md"
 ### Synergistic Combinations
 
 - Amalaki (antioxidant and rejuvenation combination)
-- [Yashtimadhu](/herb/yashtimadhu/) (wound healing and ulcer synergy)
+- [Yashtimadhu](/herb/yashtimadhu/) (traditionally combined for wounds and ulcers)
 - [Chandana](/herb/chandana/) (cooling formulation for pitta)
 - [Draksha](/herb/draksha/) (nutritive [Rasayana](/reference/rasayana/) combination)
-- [Nagakesara](/herb/nagakesara/) (hemorrhagic conditions)
+- [Nagakesara](/herb/nagakesara/) (traditionally combined for hemorrhagic conditions)

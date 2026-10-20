@@ -39,10 +39,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ## How does it work?
 
-- Neferine anti-photoaging through UVB mitochondrial protection: Neferine inhibits UVB-induced oxidative stress-mediated autophagy and mitochondrial dysfunction, providing robust photoprotective activity for skin cells
-- Flavonoid tyrosinase and collagenase dual inhibition: Kaempferol derivatives and [quercetin](/reference/quercetinquercetin/) glucuronide simultaneously inhibit tyrosinase (reducing melanin synthesis) and MMP-1/MMP-3 collagenase (preventing collagen breakdown), providing combined brightening and anti-aging effects
-- NF-kB and MAPK anti-inflammatory signaling: Lotus flavonoids and [alkaloids](/glossary/compounds-1-a/#alkaloids) modulate NF-kB, MAPK, and COX-2 pathways, suppressing TNF-alpha, IL-1beta, IL-6, NO, and PGE2 production for anti-inflammatory skin protection
-- Liensinine and [isoliensinine](/glossary/compounds-g-l/#isoliensinine) MMP-3 inhibition: Molecular dynamics studies identified liensinine and isoliensinine as potent MMP-3 inhibitors, preventing extracellular matrix degradation and maintaining skin structural integrity
+- Neferine anti-photoaging through UVB mitochondrial protection: Neferine was reported in cell studies to inhibit UVB-induced oxidative stress-mediated autophagy and mitochondrial dysfunction in skin cells
+- Flavonoid tyrosinase and collagenase dual inhibition: Kaempferol derivatives and [quercetin](/reference/quercetinquercetin/) glucuronide have been reported in laboratory studies to inhibit tyrosinase (involved in melanin synthesis) and MMP-1/MMP-3 collagenase (involved in collagen breakdown)
+- NF-kB and MAPK anti-inflammatory signaling: Lotus flavonoids and [alkaloids](/glossary/compounds-1-a/#alkaloids) modulate NF-kB, MAPK, and COX-2 pathways, with reported suppression of TNF-alpha, IL-1beta, IL-6, NO, and PGE2 production
+- Liensinine and [isoliensinine](/glossary/compounds-g-l/#isoliensinine) MMP-3 inhibition: Molecular dynamics studies identified liensinine and isoliensinine as potential MMP-3 inhibitors
 
 ## Which traditional uses are supported by research?
 
@@ -89,9 +89,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 **Bioavailability:** Nelumbo nucifera (sacred lotus) contains alkaloids (nuciferine, liensinine, neferine), flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides)), and megastigmanes. Nuciferine has moderate oral bioavailability (~20-30%) with good lipophilicity (logP 3.2) and crosses blood-brain barrier. Neferine has ~35% oral bioavailability in animal models. Liensinine shows variable absorption. Seed contains resistant [starch](/glossary/compounds-q-t/#starch) acting as prebiotic. Different plant parts have distinctly different phytochemistry and applications.
 
-**Optimal Timing:** Flower preparations: with cool water between meals. Seed: as snack or with milk. Leaf extract: before meals for weight management. Root decoction: before meals.
+**Optimal Timing:** Flower preparations: with cool water between meals. Seed: as snack or with milk. Leaf extract: before meals. Root decoction: before meals.
 
-**Standardized Extract:** Leaf extract standardized to 2% nuciferine (weight management applications); seed extract standardized to 1% neferine (cardiac applications); flower extract standardized to 5% total flavonoids (antioxidant applications); stamen extract per traditional methods
+**Standardized Extract:** Leaf extract standardized to 2% nuciferine; seed extract standardized to 1% neferine; flower extract standardized to 5% total flavonoids (antioxidant applications); stamen extract per traditional methods
 
 **Shelf Life:** 2 years (flower/leaf/seed powder); 3 years (standardized extract capsule/tablet); 1 year (fresh rhizome); 2 years (dried rhizome)
 
@@ -111,6 +111,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Ashoka](/herb/ashoka/) for female reproductive health (flower)
-- With [Brahmi](/herb/brahmi/) for cognitive enhancement (leaf/nuciferine)
+- With [Brahmi](/herb/brahmi/) (leaf/nuciferine)
 - With [Chandana](/herb/chandana/) (sandalwood) for Pitta-pacifying formulations
 - With Amalaki for antioxidant synergy

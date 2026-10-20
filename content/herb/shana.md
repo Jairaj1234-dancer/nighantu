@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Shana (Crotalaria juncea) is a plant drug, also called Malya Puspa and Sana. Pyrrolizidine alkaloids (if present) are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability."
+answer: "Shana (Crotalaria juncea) is a plant drug, also called Malya Puspa and Sana. Pyrrolizidine alkaloids are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability."
 botanical: "Crotalaria juncea"
 family: "Fabaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shana/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g seed/leaf powder per day; 50-100 mL kwatha twice daily; seed oil for external application
 
-**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) from Crotalaria juncea show moderate oral absorption (25-40%). Pyrrolizidine alkaloids (if present) are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability.
+**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) from Crotalaria juncea show moderate oral absorption (25-40%). Pyrrolizidine alkaloids are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability.
 
 **Optimal Timing:** External applications as needed; internal use (where appropriate): after meals
 

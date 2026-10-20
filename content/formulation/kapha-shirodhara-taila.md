@@ -14,7 +14,7 @@ ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Kapha-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Kapha Shirodhara Taila", "Kapha-Pacifying Shirodhara Oil", "Kapha Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "kapha-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
-sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954", "Companion document: Kapha oil write up - Bolstered.docx (Nitya Naturals)"]
+sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954"]
 productHints: ["Kapha Shirodhara Oil (Nitya Naturals)"]
 words: 712
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kapha-Shirodhara-Taila/meta-analysis.md"
@@ -87,4 +87,4 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 
 ## Which traditional uses are supported by research?
 
-*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*The research cited above covers Shirodhara as a procedure and individual herbs, not this specific formulation. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*

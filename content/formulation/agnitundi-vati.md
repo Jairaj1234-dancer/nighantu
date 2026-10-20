@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Agnitundi-Vati/meta
 
 ## Where is it described in the classical texts?
 
-Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnavali and Rasendra Sara Sangraha
+Bhaishajya Ratnavali (Agnimandyadirogadhikara, the source cited by the AFI); also described in Yoga Ratnakara (Agnimandya/Ajirna Chikitsa) and Rasendra Sara Sangraha
 
 ## How does it work?
 
 - Digestive fire kindling (Agni Deepana): [Trikatu](/herb/trikatu/) and Chitraka stimulate gastric acid and digestive enzyme secretion; Katu Rasa (pungent taste) directly stimulates Jatharagni
 - Carminative action: Hing (Ferula asafoetida) is a potent carminative reducing flatulence by calming Annavaha Srotas (digestive channels) and preventing gas accumulation
 - Ama mobilization: Ushna Virya (hot potency) penetrates deep tissues (Dhatus) to mobilize and digest accumulated metabolic toxins (Ama)
-- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Combined herbal ingredients relax smooth muscle spasms in the GI tract, relieving cramping and colic pain
+- [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Pharmacological studies have reported antispasmodic properties for the ingredients
 - Vata-Kapha correction: The formulation normalizes Vata (gas, bloating) and Kapha (heaviness, sluggish digestion) doshas in the digestive tract through hot, sharp, and dry qualities
 
 ## Which traditional uses are supported by research?
@@ -73,7 +73,7 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), uniformity of content, moisture content (<6%), microbial limits, heavy metals, alkaloid content assay for aconitine equivalents (must be within safe limits post-Shodhana), HPTLC fingerprint
 
-**Vehicle (Anupana):** Warm water or buttermilk
+**Vehicle (Anupana):** Lime juice or warm water
 
 ### Synergistic Combinations
 

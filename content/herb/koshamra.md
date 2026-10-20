@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Koshamra/meta-analysis.m
 
 **Standard Dosage:** 3-5 g bark powder twice daily; 50-100 mL decoction; 10-20 mL fruit juice; external paste as needed
 
-**Bioavailability:** [Tannins](/reference/tannins/) and [polyphenols](/glossary/compounds-o-q/#polyphenols) show limited systemic absorption but exert significant local GI effects (astringent, anti-diarrheal). Flavonoid aglycones have moderate bioavailability (~20-30%). Co-administration with lipid carriers or [piperine](/reference/piperine/) enhances polyphenol absorption. Decoction form pre-hydrolyzes [glycosides](/glossary/compounds-g-l/#glycosides) improving bioavailability of aglycone forms.
+**Bioavailability:** [Tannins](/reference/tannins/) and [polyphenols](/glossary/compounds-o-q/#polyphenols) show limited systemic absorption but may exert local GI effects (astringent). Flavonoid aglycones have moderate bioavailability (~20-30%). Co-administration with lipid carriers or [piperine](/reference/piperine/) enhances polyphenol absorption. Decoction form pre-hydrolyzes [glycosides](/glossary/compounds-g-l/#glycosides) improving bioavailability of aglycone forms.
 
-**Optimal Timing:** After meals for digestive astringent action; decoction between meals for anti-diarrheal use; fruit juice anytime as nutritive
+**Optimal Timing:** After meals for digestive astringent action; decoction between meals where traditionally used in diarrhoea; fruit juice anytime as nutritive
 
 **Standardized Extract:** Bark extract standardized to minimum 10% total tannins (as tannic acid) and 3% total [flavonoids](/reference/flavonoids/); seed oil standardized to fatty acid composition by GC
 
@@ -63,5 +63,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Koshamra/meta-analysis.m
 
 - [Amra](/herb/amra/) (Mango) for fruit-based nutritive preparations
 - Amalaki for [antioxidant](/reference/antioxidant/) synergy
-- Kutaja for anti-diarrheal combination
+- Kutaja, traditionally combined in formulations for diarrhoea
 - [Lodhra](/herb/lodhra/) for astringent formulations

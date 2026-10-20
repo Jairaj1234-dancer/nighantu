@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Panna Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Panna Pishti is a pishti, a preparation of purified emerald finely ground (triturated) without calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
+- **Primary component:** Finely ground beryl (beryllium aluminium silicate), purified by Shodhana, not calcined
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 

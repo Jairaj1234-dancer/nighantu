@@ -24,7 +24,7 @@ srcRel: "_Hub/Compounds/Flavonoids.md"
 ## Ayurveda
 
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia; also identified as Clerodendrum phlomidis*
 - [Atasi](/herb/atasi/), *Linum usitatissimum L.*
 - [Changeri](/herb/changeri/), *Oxalis corniculata L.*
 - [Chopchini](/herb/chopchini/), *Smilax china L.*

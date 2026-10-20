@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Dadhi"
-answer: "Dadhi is an animal-derived substance used in the Ayurvedic materia medica. It is curd, set by Lactobacillus bulgaricus and Streptococcus thermophilus, and the lactic acid they produce both sours it and raises the bioavailability of its calcium above milk."
+answer: "Dadhi is an animal-derived substance used in the Ayurvedic materia medica. It is curd, set by Lactobacillus bulgaricus and Streptococcus thermophilus, and the lactic acid they produce sours it."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,12 +40,12 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 ## How does it work?
 
-- Probiotic action: Live Lactobacillus cultures colonize the gut, compete with pathogenic bacteria, produce bacteriocins, and strengthen intestinal barrier function
+- Probiotic action: Live Lactobacillus cultures pass through the gut, compete with pathogenic bacteria, produce bacteriocins, and strengthen intestinal barrier function
 - Digestive enhancement (Deepana): Lactic acid lowers gut pH, stimulates gastric acid and enzyme secretion, improving protein and mineral digestion
 - Immunomodulation: Probiotic bacteria stimulate mucosal IgA production, activate dendritic cells and natural killer cells, and modulate T-helper cell balance
-- Calcium absorption: Lactic acid chelation increases calcium bioavailability by 30-40% compared to raw milk; supports bone health
+- Calcium absorption: Lactic acid chelation is said to increase calcium bioavailability compared to raw milk; supports bone health
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 

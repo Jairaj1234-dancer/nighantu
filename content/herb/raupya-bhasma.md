@@ -35,10 +35,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 ## How does it work?
 
-- Sedative-hypnotic action through modulation of GABAergic pathways, supporting [anxiolytic](/reference/anxiolytic/) and sleep-promoting effects observed in reverse pharmacological studies
-- [Analgesic](/reference/analgesic/) activity via peripheral pain pathway modulation, comparable to aspirin in mechanism, likely through prostaglandin synthesis inhibition
+- A mouse study reported a sedative-hypnotic effect, relevant to traditional [anxiolytic](/reference/anxiolytic/) and sleep-promoting uses; the mechanism is not established
+- [Analgesic](/reference/analgesic/) activity comparable to aspirin in peripheral pain models in mice (mechanism not established)
 - [Antimicrobial](/reference/antimicrobial/) properties inherent to nano-silver particles due to disruption of bacterial cell membrane integrity and interference with microbial enzyme systems
-- Nervine tonic effect through central nervous system modulation, reducing neuralgias and supporting memory function as per traditional indications
+- Traditionally described as a nervine tonic for neuralgias and memory; not shown in the cited studies
 
 ## Which traditional uses are supported by research?
 
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 **Standard Dosage:** 15–30 mg
 
-**Bioavailability:** Silver nanoparticles (30–60 nm); excellent tissue penetration
+**Bioavailability:** Silver nanoparticles (30–60 nm)
 
 **Optimal Timing:** With honey, ghee, or [Brahmi](/herb/brahmi/) Swarasa
 

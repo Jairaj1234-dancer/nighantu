@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 ## What do recent studies show?
 
 - Mukherjee PK, Kumar V, Kumar NS and others 2008. [The Ayurvedic medicine Clitoria ternatea--from traditional use to scientific assessment](https://pubmed.ncbi.nlm.nih.gov/18926895/). *Journal of ethnopharmacology*. PMID [18926895](https://pubmed.ncbi.nlm.nih.gov/18926895/) · [doi:10.1016/j.jep.2008.09.009](https://doi.org/10.1016/j.jep.2008.09.009)  
-  Documented extensive pharmacological and toxicological evaluation confirming nootropic, anxiolytic, antidepressant, anticonvulsant, and tranquilizing properties with a favorable safety profile.
+  Reviewed pharmacological and toxicological evaluations, summarising preclinical reports of nootropic, anxiolytic, antidepressant, anticonvulsant, and tranquilizing properties and a favorable safety profile.
 - Jeyaraj EJ, Lim YY, Choo WS 2021. [Extraction methods of butterfly pea (Clitoria ternatea) flower and biological activities of its phytochemicals](https://pubmed.ncbi.nlm.nih.gov/33967304/). *Journal of food science and technology*. PMID [33967304](https://pubmed.ncbi.nlm.nih.gov/33967304/) · [doi:10.1007/s13197-020-04745-3](https://doi.org/10.1007/s13197-020-04745-3)  
   Updated review covering botanical, phytochemical, and pharmacological profile including emerging applications in food science, cosmetics, and nutraceuticals alongside traditional medicinal uses.
 

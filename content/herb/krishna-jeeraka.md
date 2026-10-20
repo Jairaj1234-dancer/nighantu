@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 ### Synergistic Combinations
 
 - Honey ([Madhu](/herb/madhu/)), classical Prophetic medicine combination for immune support
-- Haldi ([Turmeric](/herb/turmeric/)/[curcumin](/herb/curcumin/)) for anti-inflammatory and anti-cancer potentiation
-- [Methi](/herb/methi/) (Fenugreek) for metabolic syndrome
+- Haldi ([Turmeric](/herb/turmeric/)/[curcumin](/herb/curcumin/)) traditionally combined for anti-inflammatory support
+- [Methi](/herb/methi/) (Fenugreek), traditionally combined for metabolic support
 - [Jeeraka](/herb/jeeraka/) ([Cumin](/herb/cumin/)) for digestive combination
 - Amalaki for antioxidant synergy

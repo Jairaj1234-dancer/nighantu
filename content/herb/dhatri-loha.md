@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Dhatri Loha is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Dhatri Loha is a compound iron preparation containing Loha Bhasma with herbal ingredients."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -31,7 +31,7 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 ## How does it work?
 
-- [Loha Bhasma](/herb/loha-bhasma/) provides bioavailable nano-particulate iron (Fe3O4/gamma-Fe2O3, ~34 nm) for direct hemoglobin synthesis and erythropoiesis
+- [Loha Bhasma](/herb/loha-bhasma/) provides iron, which the body uses for hemoglobin synthesis and erythropoiesis
 - Amalaki (Emblica officinalis) is rich in vitamin C, markedly enhancing non-heme iron absorption in the GI tract and acting as a potent [antioxidant](/reference/antioxidant/)
 - [Yashtimadhu](/herb/yashtimadhu/) (licorice) provides gastroprotective and anti-inflammatory effects, reducing GI irritation from iron supplementation
 - [Guduchi](/herb/guduchi/) (Tinospora cordifolia) has [immunomodulatory](/reference/immunomodulatory/) and [hepatoprotective](/reference/hepatoprotective/) properties, supporting liver function for optimal iron metabolism
@@ -53,7 +53,7 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 ## Recent safety updates
 
-- Multi-center trial (2023) confirmed Dhatri Lauha is well tolerated with no significant adverse effects at 500 mg twice daily for 45 days
+- The multi-center trial listed above reported Dhatri Lauha was well tolerated with no significant adverse effects at 500 mg twice daily for 45 days
 - Prolonged unsupervised use may lead to iron overload (hemochromatosis-like symptoms) - serum ferritin monitoring recommended beyond 8 weeks
 - Contraindicated in patients with hemochromatosis, thalassemia major, or conditions with existing iron overload
 - [Loha Bhasma](/herb/loha-bhasma/) toxicity study showed safety at therapeutic dose and 5x therapeutic dose; only at highest doses were biochemical alterations evident, confirming dose-dependent safety profile

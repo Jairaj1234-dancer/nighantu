@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 
 **Bioavailability:** [Eucalyptus](/herb/eucalyptus/) leaves contain [polyphenols](/glossary/compounds-o-q/#polyphenols) ([tannins](/reference/tannins/), ellagic acid, [flavonoids](/reference/flavonoids/)) in addition to essential oil. Aqueous infusion extracts primarily polyphenols and residual volatile oil. Polyphenol bioavailability is moderate (10-20% for flavonoids, low for condensed tannins). [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are metabolized by gut flora to urolithins. The residual essential oil (1,8-[cineole](/glossary/compounds-c-d/#cineole)) in dried leaf preparations contributes aroma and mild [expectorant](/reference/expectorant/) action but at lower levels than pure essential oil. Enhancement: standardized leaf extracts with defined polyphenol content in phytosome form.
 
-**Optimal Timing:** Infusion/tea: 2-3 times daily between meals for respiratory conditions; capsule: after meals twice daily; poultice: as needed for local pain relief
+**Optimal Timing:** Infusion/tea: 2-3 times daily between meals; capsule: after meals twice daily; poultice: applied externally as needed
 
 **Standardized Extract:** Leaf extract standardized to NLT 10% total polyphenols (as gallic acid equivalent) and NLT 1% 1,8-cineole (residual essential oil). Extract ratio 5:1 to 8:1.
 
@@ -58,6 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 ### Synergistic Combinations
 
 - With [Tulsi](/herb/tulsi/) leaf for respiratory and immune support
-- With Adulsa (Adhatoda) for bronchial conditions
-- With [Yashtimadhu](/herb/yashtimadhu/) for sore throat and cough
+- With Adulsa (Adhatoda), traditionally combined to support bronchial function
+- With [Yashtimadhu](/herb/yashtimadhu/) traditionally combined to support the throat
 - With [Ginger](/herb/ginger/) for enhanced expectorant and warming effect

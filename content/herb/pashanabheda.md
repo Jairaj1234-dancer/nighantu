@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 **Standard Dosage:** 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily
 
-**Bioavailability:** [Bergenin](/glossary/compounds-a-c/#bergenin) from Bergenia ligulata (primary Pashanabheda source) has moderate oral bioavailability (30-45%) with Tmax of 1.5-2.5 hours. Gallic acid is well absorbed (~35-45%). [Arbutin](/glossary/compounds-1-a/#arbutin) (if Saxifraga species source) is hydrolyzed by gut bacteria to hydroquinone which is the active metabolite; this conversion is variable between individuals (30-60% efficiency). [Catechin](/reference/catechin/) shows 20-30% oral bioavailability.
+**Bioavailability:** [Bergenin](/glossary/compounds-a-c/#bergenin) from Bergenia ligulata (a related Pashanabheda source) has moderate oral bioavailability (30-45%) with Tmax of 1.5-2.5 hours. Gallic acid is well absorbed (~35-45%). [Arbutin](/glossary/compounds-1-a/#arbutin) (if Saxifraga species source) is hydrolyzed by gut bacteria to hydroquinone which is the active metabolite; this conversion is variable between individuals (30-60% efficiency). [Catechin](/reference/catechin/) shows 20-30% oral bioavailability.
 
 **Optimal Timing:** Between meals with plenty of water (minimum 250 mL) for urinary and lithotriptic effects. Morning dose preferred for [diuretic](/reference/diuretic/) action.
 
@@ -58,12 +58,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 - Hydroalcoholic extraction (50-60% ethanol)
 - Methanol extraction for bergenin isolation
 - Ethyl acetate fractionation for enriched bergenin fraction
-- Percolation with 40% ethanol for Asava preparation
 
 ### Synergistic Combinations
 
 - [Gokshura](/herb/gokshura/) (urinary tract health and lithotriptic synergy)
-- [Varuna](/herb/varuna/) (renal calculi management - Varunadi Kwatha)
+- [Varuna](/herb/varuna/) (traditional pairing in Varunadi Kwatha)
 - [Punarnava](/herb/punarnava/) (diuretic and renal protective combination)
 - [Shilajit](/herb/shilajit/) (mineral supplementation and renal health)
 - Kulatha/Horse gram (traditional lithotriptic combination)

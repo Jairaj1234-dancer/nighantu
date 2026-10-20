@@ -36,12 +36,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 
 ## How does it work?
 
-- [Rasayana](/reference/rasayana/) (rejuvenation) action through multi-mineral supplementation providing essential trace elements (iron, [silica](/glossary/compounds-q-t/#silica), boron) for cellular repair and anti-aging
+- [Rasayana](/reference/rasayana/) (rejuvenation): classically regarded as a rejuvenative
 - [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)) effect through mineral cofactor provision supporting reproductive hormone synthesis and gonadal function
-- Pramehaghna (anti-diabetic) action through mineral-mediated improvement of insulin sensitivity and [glucose](/glossary/compounds-d-g/#glucose) metabolism regulation
+- Classically described as pramehaghna (used in prameha); no mechanism has been established
 - Tridosha balancing through complex multi-mineral composition addressing Vata (nervous), Pitta (metabolic), and Kapha (structural) imbalances simultaneously
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 

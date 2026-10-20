@@ -62,6 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vartaku/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Methi](/herb/methi/) (fenugreek) - combined glycemic support in dietary formulation
-- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - anti-inflammatory synergy in cooked preparation
-- [Nimba](/herb/nimba/) ([neem](/herb/neem/)) - combined anti-diabetic formulation
-- [Karvellaka](/herb/karvellaka/) ([bitter gourd](/herb/bitter-gourd/)) - complementary anti-hyperglycemic action
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - traditionally combined in cooked preparation
+- [Nimba](/herb/nimba/) ([neem](/herb/neem/)) - traditionally combined in dietary formulations
+- [Karvellaka](/herb/karvellaka/) ([bitter gourd](/herb/bitter-gourd/)) - traditionally paired in dietary preparations

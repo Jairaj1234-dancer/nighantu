@@ -40,11 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aranya-Jeeraka/meta-analysis.
 
 **Standard Dosage:** 1-3g seed powder twice daily; 500mg extract capsule; 2-5 drops essential oil diluted for external use
 
-**Bioavailability:** Moderate oral bioavailability. Wild [cumin](/herb/cumin/) (Aranya Jeeraka, potentially Cuminum cyminum var. or Vernonia anthelmintica depending on tradition), volatile oil constituents are well absorbed. [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) (if Cuminum) shows rapid GI absorption. Terpene compounds cross biological membranes effectively due to lipophilicity.
+**Bioavailability:** Moderate oral bioavailability. In Aranya Jeeraka (Centratherum anthelminticum, syn. Vernonia anthelmintica), volatile oil constituents are well absorbed. Terpene compounds cross biological membranes effectively due to lipophilicity.
 
 **Optimal Timing:** After meals with warm water for digestive support; before meals for appetite stimulation
 
-**Standardized Extract:** Seed extract standardized to minimum 2% volatile oil. If Cuminum: cuminaldehyde content minimum 25% in essential oil. TLC fingerprint for batch-to-batch quality.
+**Standardized Extract:** Seed extract standardized to minimum 2% volatile oil. TLC fingerprint for batch-to-batch quality.
 
 **Shelf Life:** 2 years (whole seeds); 1 year (powder due to volatile loss); 3 years (capsules in sealed packaging); 3 years (essential oil)
 

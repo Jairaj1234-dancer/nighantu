@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Hapusa |
+| English | Juniper |
+| Sanskrit | Hapusa |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -63,4 +64,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Hapusa/meta-analysis.md"
 
 - With [Gokshura](/herb/gokshura/) for urinary tract support
 - With [Punarnava](/herb/punarnava/) for [diuretic](/reference/diuretic/) synergy
-- With [Eranda](/herb/eranda/) (castor) oil for joint pain relief (external application)
+- With [Eranda](/herb/eranda/) (castor) oil for joint support (external application)

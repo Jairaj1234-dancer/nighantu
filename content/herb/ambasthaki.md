@@ -37,10 +37,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## How does it work?
 
-- Antimalarial/antiplasmodial activity via isoquinoline alkaloid-mediated disruption of Plasmodium parasite metabolism
-- Anti-inflammatory action through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) and NF-kB pathway modulation by magnoflorine
-- [Anticancer](/reference/anticancer/) activity through induction of apoptosis and cell cycle arrest in cancer cell lines by alkaloid fractions
-- [Antidiabetic](/reference/antidiabetic/) effect via alpha-glucosidase and alpha-amylase inhibition
+- Preclinical studies have reported antimalarial/antiplasmodial activity via isoquinoline alkaloid-mediated disruption of Plasmodium parasite metabolism
+- Preclinical studies have reported anti-inflammatory action through inhibition of pro-inflammatory cytokines (TNF-alpha, IL-6) and NF-kB pathway modulation by magnoflorine
+- Preclinical studies have reported [anticancer](/reference/anticancer/) activity through induction of apoptosis and cell cycle arrest in cancer cell lines by alkaloid fractions
+- Preclinical studies have reported an [antidiabetic](/reference/antidiabetic/) effect via alpha-glucosidase and alpha-amylase inhibition
 
 ## Which traditional uses are supported by research?
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## Recent safety updates
 
-- Traditional use over centuries suggests relative safety at recommended doses; however, systematic toxicological studies are limited
+- Systematic toxicological studies are limited
 - May cause uterine contractions; strictly contraindicated during pregnancy; potential interactions with anticoagulant medications due to alkaloid content
 
 ## What is it made of?
@@ -107,7 +107,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gokshura](/herb/gokshura/) for urinary tract disorders
-- With Pashanbheda for renal calculi
-- With [Guduchi](/herb/guduchi/) for fever management
-- With Kutaja for diarrhea and dysentery
+- Traditionally combined with [Gokshura](/herb/gokshura/) for urinary complaints
+- Traditionally combined with Pashanbheda for renal calculi
+- Traditionally combined with [Guduchi](/herb/guduchi/) for fevers
+- Traditionally combined with Kutaja for diarrhea and dysentery

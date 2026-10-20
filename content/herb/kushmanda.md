@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 ## Recent safety updates
 
 - Long history of dietary safety as a widely consumed vegetable; no significant toxicity reported in animal studies at doses up to 2000 mg/kg
-- Generally well-tolerated; may cause mild flatulence due to high fiber content; diabetic patients should monitor blood sugar (potential hypoglycemic synergy); no known drug interactions
+- Generally well-tolerated; may cause mild flatulence due to high fiber content; diabetic patients should monitor blood sugar (potential hypoglycemic synergy)
 
 ## Dosage forms and preparation
 
@@ -93,6 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 - [Brahmi](/herb/brahmi/) for cognitive enhancement (Medhya Rasayana)
 - [Ashwagandha](/herb/ashwagandha/) for comprehensive rejuvenation
-- [Yashtimadhu](/herb/yashtimadhu/) for gastric ulcer protection
+- [Yashtimadhu](/herb/yashtimadhu/), traditionally combined for gastric support
 - Amalaki for antioxidant potentiation
 - Shankhapushpi for [anxiolytic](/reference/anxiolytic/) and [nootropic](/glossary/pharmacology/#nootropic) synergy

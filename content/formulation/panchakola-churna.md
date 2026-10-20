@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Panchakola group (Gana) recognized in Sushruta Samhita and Ashtanga Hridayam; individual ingredients (Piper longum, Zingiber officinale, Piper nigrum) monographed in API Part I"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Panchakola group (Gana) recognized in Sushruta Samhita and Ashtanga Hridayam; individual ingredients (Piper longum, Zingiber officinale) monographed in API Part I"
 aliases: ["Panchakola Churna", "PanchakolaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -49,13 +49,13 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 ## What do recent studies show?
 
 - Singh RK, Banerjee R, Upadhyay S and others 2012. [Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats](https://pubmed.ncbi.nlm.nih.gov/23559809/). *Ayu*. PMID [23559809](https://pubmed.ncbi.nlm.nih.gov/23559809/) · [doi:10.4103/0974-8520.105257](https://doi.org/10.4103/0974-8520.105257)  
-  Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses.
+  Toxicological evaluation of Panchakola Avaleha (a different dosage form) in albino rats showed a safety profile within acceptable limits; this does not directly establish the safety of the churna in humans.
 
 *Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
-- Safe at recommended doses based on toxicological evaluation in animal models; may cause gastric irritation or heartburn in Pitta-predominant individuals; avoid in gastric ulcer, hyperacidity, and inflammatory bowel disease
+- A rat toxicity study of Panchakola Avaleha reported a safety profile within acceptable limits, which does not directly establish the churna's safety in humans; may cause gastric irritation or heartburn in Pitta-predominant individuals; avoid in gastric ulcer, hyperacidity, and inflammatory bowel disease
 - Contraindicated during pregnancy (all five ingredients are hot in potency); not recommended in children under 5 years without physician guidance; piperine content may alter drug pharmacokinetics - caution with concurrent prescription medications
 
 ## Dosage forms and preparation

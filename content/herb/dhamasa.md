@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ## Recent safety updates
 
-- Traditional use in Ayurvedic and Unani medicine across South Asia and Middle East suggests established safety profile at conventional doses; widely used as a folk remedy for cancer in Pakistan and India
-- Saponin content may cause GI irritation at high doses; systematic toxicological evaluation is limited; liposomal formulation research suggests enhanced safety through targeted delivery
+- Long traditional use in Ayurvedic and Unani medicine across South Asia and Middle East is recorded, but this does not establish safety; widely used as a folk remedy for cancer in Pakistan and India
+- Saponin content may cause GI irritation at high doses; systematic toxicological evaluation is limited
 
 ## Dosage forms and preparation
 

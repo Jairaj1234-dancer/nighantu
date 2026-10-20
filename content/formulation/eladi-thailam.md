@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eladi-Thail
 - [Bala](/herb/bala/) (Sida cordifolia)
 - [Hrivera](/herb/hrivera/) (Pavonia odorata)
 - Karpura (Cinnamomum camphora / [Camphor](/herb/camphor/))
-- Coconut milk or [Sesame oil](/glossary/concepts-m-y/#tila-taila) base
+- Coconut oil or [Sesame oil](/glossary/concepts-m-y/#tila-taila) base
 
 ## Where is it described in the classical texts?
 
@@ -46,8 +46,8 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 ## How does it work?
 
-- Volatile oils (1,8-[cineole](/glossary/compounds-c-d/#cineole)) from Cardamom provide anti-inflammatory and [antimicrobial](/reference/antimicrobial/) action on skin surface, reducing bacterial and fungal colonization in skin disorders
-- Boswellic acids from Indian Frankincense inhibit 5-lipoxygenase enzyme, reducing leukotriene-mediated inflammation in eczema and dermatitis
+- Volatile oils (1,8-[cineole](/glossary/compounds-c-d/#cineole)) from Cardamom provide anti-inflammatory and [antimicrobial](/reference/antimicrobial/) action on skin surface
+- Boswellic acids from Indian Frankincense have been reported in laboratory studies to inhibit the 5-lipoxygenase enzyme
 - Santalol from Sandalwood provides cooling, anti-inflammatory, and barrier-repair effects by reducing pro-inflammatory cytokines and transepidermal water loss
 - Nardostachin from [Jatamansi](/herb/jatamansi/) provides calming and antipruritic (anti-itch) effects through modulation of [histamine](/glossary/compounds-g-l/#histamine) receptors in the skin
 

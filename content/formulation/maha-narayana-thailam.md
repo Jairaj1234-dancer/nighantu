@@ -31,10 +31,10 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## How does it work?
 
-- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) suppress NF-kB pathway activation, reducing inflammatory cytokines (TNF-alpha, IL-6) at joint tissue level
+- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) have been reported to suppress NF-kB pathway activation and inflammatory cytokines (TNF-alpha, IL-6)
 - [Sesame oil](/glossary/concepts-m-y/#tila-taila) base serves as a penetration enhancer, delivering lipophilic [saponins](/reference/saponins/), [lignans](/glossary/compounds-g-l/#lignans), and phenolics transdermally to deep musculoskeletal tissues
-- [Guduchi](/herb/guduchi/)'s [berberine](/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/glossary/compounds-1-a/#alkaloids) provide [immunomodulatory](/reference/immunomodulatory/) and anti-arthritic effects by modulating T-cell response and reducing rheumatoid factor
-- [Rasna](/herb/rasna/)'s clerodane [diterpenes](/glossary/compounds-d-g/#diterpenes) provide specific anti-inflammatory action on synovial membranes, reducing joint swelling and stiffness
+- [Guduchi](/herb/guduchi/)'s [berberine](/glossary/compounds-a-c/#berberine) and tinosporine [alkaloids](/glossary/compounds-1-a/#alkaloids) have been reported in preclinical studies to have [immunomodulatory](/reference/immunomodulatory/) and anti-arthritic activity
+- [Rasna](/herb/rasna/)'s clerodane [diterpenes](/glossary/compounds-d-g/#diterpenes) have been reported to have anti-inflammatory activity
 
 ## Which traditional uses are supported by research?
 

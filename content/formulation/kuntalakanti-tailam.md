@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kuntalakant
 
 **Standard Dosage:** External: sufficient quantity for scalp massage, 30-60 minutes before hair wash, 2-3 times weekly, as per traditional texts
 
-**Bioavailability:** Scalp has rich blood supply, topical application provides follicular penetration of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) and other hair-growth-promoting compounds. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
+**Bioavailability:** Scalp has rich blood supply, topical application provides follicular penetration of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) and other constituents. [Coconut oil](/glossary/concepts-a-m/#coconut-oil) penetrates hair shaft (lauric acid has high affinity for hair protein). 30-60 minute pre-wash application provides optimal contact time.
 
 **Optimal Timing:** 30-60 minutes before hair wash, 2-3 times weekly. Overnight application once weekly for intensive treatment. Gentle scalp massage during application.
 

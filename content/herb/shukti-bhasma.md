@@ -36,9 +36,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 ## How does it work?
 
 - Antacid and gastroprotective action through calcium carbonate-mediated acid neutralization and mucosal barrier formation in the stomach and duodenum
-- Calcium supplementation through bioavailable marine-derived calcium supporting bone mineralization, with 2.5% lumbar spine density improvement demonstrated in clinical study
+- Calcium supplementation through bioavailable marine-derived calcium supporting bone mineralization
 - Pitta-shamana (cooling) action through alkaline buffering of Pitta-excess states including hyperacidity, inflammatory conditions, and burning sensations
-- Mucosal healing through calcium and trace mineral provision supporting epithelial cell regeneration in peptic ulcer and gastritis conditions
+- Calcium and trace mineral provision; traditionally used in peptic ulcer and gastritis conditions
 
 ## Which traditional uses are supported by research?
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 - SAFE AT RECOMMENDED DOSES: 125-250 mg once or twice daily considered safe under medical supervision
 - MILD SIDE EFFECTS: Overuse may cause dryness or constipation due to calcium carbonate excess
-- NO TOXIC METALS: Marine shell-based preparation without intentional toxic heavy metal content. Relatively low contamination risk.
+- NO INTENTIONALLY ADDED TOXIC METALS: Marine shell-based preparation without intentional toxic heavy metal content. Relatively low contamination risk.
 - MEDICAL SUPERVISION REQUIRED: Self-medication discouraged. Dose should be adjusted based on individual calcium needs and serum calcium levels.
 
 ## What is it made of?

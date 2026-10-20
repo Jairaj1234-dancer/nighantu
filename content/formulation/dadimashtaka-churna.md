@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Dadimashtaka Churna is a classical Ayurvedic churna, a fine herbal powder. Piperine from Trikatu enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate polyphenols are well-absorbed from powder form."
+answer: "Dadimashtaka Churna is a classical Ayurvedic churna, a fine herbal powder. Piperine from Trikatu enhances bioavailability. Sugar matrix aids palatability and provides rapid energy."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 **Standard Dosage:** 3-6 g twice daily with warm water or buttermilk.
 
-**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy. Pomegranate [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed from powder form.
+**Bioavailability:** Fine powder form with aromatic spices provides excellent GI absorption. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances bioavailability. Sugar matrix aids palatability and provides rapid energy.
 
 **Optimal Timing:** After meals, twice daily, for digestive conditions
 

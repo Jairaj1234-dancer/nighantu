@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 - [Laxative](/reference/laxative/): Sennosides and anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) stimulate colonic peristalsis by increasing Cl- secretion and inhibiting Na+/K+-ATPase in colonocytes
 - Anti-inflammatory: Rhein and emodin suppress NF-kB activation and reduce COX-2 expression in inflammatory cells
-- [Antidiabetic](/reference/antidiabetic/): [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase, reducing postprandial glycemic spikes
+- [Antidiabetic](/reference/antidiabetic/): [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), kaempferol) inhibit alpha-amylase and alpha-glucosidase
 
 ## Which traditional uses are supported by research?
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 ## Recent safety updates
 
-- Pod pulp is safe as a mild laxative at standard doses (LD50 > 5000 mg/kg in rodents); long-term high-dose anthraquinone use may cause melanosis coli
+- Pod pulp is traditionally used as a mild laxative; rodent acute-toxicity studies report LD50 > 5000 mg/kg; long-term high-dose anthraquinone use may cause melanosis coli
 - Not recommended during pregnancy due to uterine stimulant potential; chronic use may cause electrolyte imbalance (hypokalemia)
 
 ## What is it made of?
@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 
 **Bioavailability:** Moderate to good bioavailability. Cassia fistula fruit pulp contains anthraquinone glycosides (rhein, sennoside-like compounds) that pass through the small intestine largely intact and are activated by colonic bacterial beta-glucosidases, classical prodrug mechanism for laxative action. Free anthraquinones are absorbed in the small intestine. Fistulic acid and other organic acids are well absorbed.
 
-**Optimal Timing:** At bedtime with warm water or warm milk for laxative effect; morning empty stomach for skin conditions (internal detox); external paste anytime
+**Optimal Timing:** At bedtime with warm water or warm milk for laxative effect; morning empty stomach for skin conditions; external paste anytime
 
 **Standardized Extract:** Fruit pulp extract standardized to minimum 2% total anthraquinones (as rhein equivalent). Bark extract standardized to minimum 3% total [polyphenols](/glossary/compounds-o-q/#polyphenols). Fistulic acid content minimum 0.5%.
 

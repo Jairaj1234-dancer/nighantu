@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Brihatyadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Brihati (Solanum indicum) Kantakari (Solanum xanthocarpum) Prishniparni (Uraria picta) Shalaparni (Desmodium gangeticum) Gokshura (Tribulus|Tribulus terrestris) Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35."
+answer: "Brihatyadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Its key ingredients are Brihati (Solanum indicum), Kantakari (Solanum xanthocarpum), Prishniparni (Uraria picta), Shalaparni (Desmodium gangeticum) and Gokshura (Tribulus terrestris). It is described in Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -39,10 +39,10 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ## How does it work?
 
-- [Diuretic](/reference/diuretic/) action of [Gokshura](/herb/gokshura/) improves urine flow and facilitates dissolution and passage of urinary calculi
-- Anti-inflammatory properties of [Brihati](/herb/brihati/) and [Kantakari](/herb/kantakari/) reduce urinary tract inflammation and cystitis
+- [Diuretic](/reference/diuretic/) action of [Gokshura](/herb/gokshura/) is reported to increase urine flow; the formulation is traditionally used for urinary calculi
+- Anti-inflammatory properties have been reported for [Brihati](/herb/brihati/) and [Kantakari](/herb/kantakari/)
 - Coolant and diuretic properties of [Prishniparni](/herb/prishniparni/) support kidney function and reduce burning micturition
-- [Antimicrobial](/reference/antimicrobial/) activity of the combined formulation helps manage urinary tract infections
+- [Antimicrobial](/reference/antimicrobial/) activity has been reported for the combined formulation
 
 ## Which traditional uses are supported by research?
 

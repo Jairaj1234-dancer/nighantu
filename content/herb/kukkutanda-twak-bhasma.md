@@ -37,8 +37,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 - Bioavailable calcium supplementation through CaO nanoparticles providing elemental calcium for bone mineralization, muscle contraction, nerve impulse transmission, and blood clotting
 - [Antimicrobial](/reference/antimicrobial/) action through CaO nanoparticle-mediated disruption of microbial cell membranes; more effective as antifungal agent than antibacterial
-- Alkaline buffering through calcium oxide dissolution creating alkaline pH in stomach, neutralizing excess acid and providing gastroprotective effect
-- Bone density improvement through sustained release of bioavailable calcium with trace minerals (Mg, Zn) essential for optimal bone metabolism
+- Proposed alkaline buffering through calcium oxide dissolution, which may neutralize excess stomach acid (not clinically established)
+- Proposed to support bone mineralization (not clinically established) through release of calcium with trace minerals (Mg, Zn) essential for optimal bone metabolism
 
 ## Which traditional uses are supported by research?
 
@@ -58,15 +58,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 ## Recent safety updates
 
 - LIKELY SAFE: Classified as LIKELY SAFE AND WELL TOLERABLE in most people. No significant side effects reported with regular use for 3-6 months.
-- NO HEAVY METAL RISK: Animal-derived calcium preparation without toxic heavy metals. One of the safest Bhasma preparations.
-- TOXICITY STUDY PASSED: All preparations tested with different herbal juices found safe for medicinal use at recommended doses
 - EGG ALLERGY CAUTION: Patients with egg allergies should use with caution, though eggshell protein content is minimal after calcination
 
 ## What is it made of?
 
 ### Mineral/Elemental Profile
 
-- **Calcium carbonate (CaCO3):** Major component (eggshell, >94%)
+- **Calcium carbonate (CaCO3):** Major component of raw eggshell (>94%)
 - **Calcium (Ca):** ~38%
 - **Magnesium (Mg):** Trace
 - **Phosphorus (P):** Trace
@@ -90,7 +88,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 **Storage:** Airtight, dry container
 
-**Marker Compounds:** Calcium carbonate (94%), Magnesium carbonate, Calcium phosphate, Strontium
+**Marker Compounds:** Calcium carbonate (94% in raw eggshell), Magnesium carbonate, Calcium phosphate, Strontium
 
 **Quality Parameters:** Calcium >35%, microbial limits (organic origin), standard bhasma tests
 

@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 ## Recent safety updates
 
 - Contains significant oxalic acid content; excessive consumption may contribute to kidney stone formation (calcium oxalate stones) in susceptible individuals
-- Generally safe for short-term traditional use at recommended doses; not recommended for patients with hyperoxaluria, gout, or kidney disease; long-term safety data lacking
+- Not recommended for patients with hyperoxaluria, gout, or kidney disease; long-term safety data lacking
 
 ## Dosage forms and preparation
 

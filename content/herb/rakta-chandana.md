@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ## Key Phytochemical Constituents
 
-- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (stilbenoid - potent [antioxidant](/reference/antioxidant/) and anti-aging agent)
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (stilbenoid with [antioxidant](/reference/antioxidant/) activity)
 - Santalin A and Santalin B (red pigment compounds)
 - Savinin (lignan with UV-protective properties)
 - [Betulin](/glossary/compounds-a-c/#betulin) (pentacyclic triterpenoid)
@@ -38,10 +38,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ## How does it work?
 
-- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene)-mediated Nrf2 activation: [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) activates the Nrf2/ARE antioxidant defense pathway, upregulating endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, glutathione peroxidase) to protect skin from oxidative damage and photoaging
-- Selective NF-kB inflammatory gene suppression: Red sandalwood extract selectively inhibits pro-inflammatory gene expression (VCAM-1, E-selectin, IL-8) without broadly suppressing all NF-kB targets, providing targeted anti-inflammatory action
-- Collagen synthesis and wound healing: Betulin and triterpenoid constituents promote fibroblast proliferation and collagen deposition, accelerating wound closure and tissue regeneration
-- UV-B photoprotection via savinin: Lignan compound savinin absorbs UV-B radiation and protects keratinocytes from photodamage
+- [Pterostilbene](/glossary/compounds-o-q/#pterostilbene)-mediated Nrf2 activation: [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) activates the Nrf2/ARE antioxidant defense pathway, upregulating endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, glutathione peroxidase)
+- Selective NF-kB inflammatory gene suppression: Red sandalwood extract selectively inhibits pro-inflammatory gene expression (VCAM-1, E-selectin, IL-8) without broadly suppressing all NF-kB targets
+- Collagen synthesis and wound healing: Betulin and triterpenoid constituents promote fibroblast proliferation and collagen deposition
+- UV-B photoprotection via savinin: Lignan compound savinin absorbs UV-B radiation
 
 ## Which traditional uses are supported by research?
 
@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily; topical paste as needed
 
-**Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Pterocarpus santalinus (Red Sandalwood) has good oral bioavailability (~60-80%), significantly better than its analog [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), due to two methoxy groups reducing glucuronidation. Santalin A and B (red pigments) have limited oral bioavailability due to large molecular size. Isoflavonoids show moderate absorption (20-35%). Topical application delivers bioactives effectively for skin conditions.
+**Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Pterocarpus santalinus (Red Sandalwood) has good oral bioavailability (~60-80%), significantly better than its analog [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), due to two methoxy groups reducing glucuronidation. Santalin A and B (red pigments) have limited oral bioavailability due to large molecular size. Isoflavonoids show moderate absorption (20-35%).
 
 **Optimal Timing:** Oral: after meals with warm water. Topical paste: apply for 20-30 minutes, wash off. Best applied in evening for facial preparations. Oil: massage at night.
 

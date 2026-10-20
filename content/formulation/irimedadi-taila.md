@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Oral-grade preparation requires enhanced cleanliness standards.
 
-**Marker Compounds:** [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin) (from [Khadira](/herb/khadira/)), Mahanimbine (from [Bakula](/herb/bakula/)), [Sesamin](/glossary/compounds-q-t/#sesamin) (from [sesame oil](/glossary/concepts-m-y/#tila-taila)), Gallic acid
+**Marker Compounds:** [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin) (from [Khadira](/herb/khadira/)), [Sesamin](/glossary/compounds-q-t/#sesamin) (from [sesame oil](/glossary/concepts-m-y/#tila-taila)), Gallic acid
 
 **Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, catechin content from Khadira by HPLC, total tannins, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits (critical for oral use), heavy metals
 

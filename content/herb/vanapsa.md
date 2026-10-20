@@ -86,7 +86,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 15-30 mL syrup twice daily
 
-**Bioavailability:** Violin (cyclotide) is a peptide with poor oral bioavailability due to enzymatic degradation in GI tract, though cyclotides have unusual protease resistance due to cyclic backbone. Rutin and other flavonoids have moderate bioavailability (15-25%) improved by gut microbiota deglycosylation. Salicylic acid derivatives (methyl salicylate from leaves) have high oral bioavailability (~70-80%). [Mucilage](/glossary/compounds-l-o/#mucilage) provides local demulcent action without systemic absorption.
+**Bioavailability:** Violin (cyclotide) is a peptide whose oral bioavailability is not established; cyclotides have unusual protease resistance due to their cyclic backbone. Rutin and other flavonoids have moderate bioavailability (15-25%) improved by gut microbiota deglycosylation. Salicylic acid derivatives (methyl salicylate from leaves) have high oral bioavailability (~70-80%). [Mucilage](/glossary/compounds-l-o/#mucilage) provides local demulcent action without systemic absorption.
 
 **Optimal Timing:** Morning and evening for respiratory conditions; at bedtime with warm milk for mild sedative/calming effect
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Sharapunkha (Tephrosia purpurea) is a plant drug, also called Sarapumkha and Saraphomka. Rotenoids are lipophilic and benefit from lipid-based delivery. Isoflavonoids undergo intestinal metabolism by gut microflora. Co-administration with piperine improves flavonoid bioavailability by 1.5-2x."
+answer: "Sharapunkha (Tephrosia purpurea) is a plant drug, also called Sarapumkha and Saraphomka."
 botanical: "Tephrosia purpurea"
 family: "Fabaceae"
 sanskrit: ""
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sharapunkha/meta-analysis.md"
 
 **Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) ([rutin](/glossary/compounds-q-t/#rutin), [quercetin](/reference/quercetinquercetin/)) show moderate oral bioavailability (20-35%). Rotenoids are lipophilic and benefit from lipid-based delivery. [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) undergo intestinal metabolism by gut microflora. Co-administration with [piperine](/reference/piperine/) improves flavonoid bioavailability by 1.5-2x.
 
-**Optimal Timing:** Before meals on empty stomach for hepatosplenic conditions; morning dose preferred for Pitta-pacifying action
+**Optimal Timing:** Before meals on empty stomach for hepatosplenic conditions; morning dose preferred
 
 **Standardized Extract:** Whole plant extract (8:1 in 60% ethanol), standardized to NLT 3% total [flavonoids](/reference/flavonoids/) (as rutin equivalents by HPLC); rotenoid content NMT 0.5% for safety; total phenolics NLT 5% by Folin-Ciocalteu
 

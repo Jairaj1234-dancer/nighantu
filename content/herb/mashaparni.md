@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 ## Recent safety updates
 
-- Traditionally used safely in Ayurvedic formulations including [Chyawanprash](/formulation/chyawanprash/); high nutritional value with significant protein (22.86%), mineral, and amino acid content supports safety for dietary use
+- Used in Ayurvedic formulations including [Chyawanprash](/formulation/chyawanprash/); reported protein content of 22.86%, along with mineral and amino acid content
 - No significant adverse effects documented in preclinical pharmacological studies; however, systematic toxicological evaluation is limited
 
 ## Dosage forms and preparation
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from moisture and light. Ghrita in glass containers at room temperature. Taila in amber glass bottles.
 
-**Marker Compounds:** Genistein, Daidzein, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), [Galactomannan](/glossary/compounds-d-g/#galactomannan), Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
+**Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), [Galactomannan](/glossary/compounds-d-g/#galactomannan), Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
 
 ### Extraction Methods
 

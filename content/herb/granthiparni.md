@@ -64,4 +64,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 - With [Haridra](/herb/haridra/) for anti-inflammatory topical applications
 - With [Guduchi](/herb/guduchi/) for immune support
 - With [Nimba](/herb/nimba/) for dermatological conditions
-- With Kushtha (Saussurea) for skin disease management
+- With Kushtha (Saussurea), traditionally used for skin conditions

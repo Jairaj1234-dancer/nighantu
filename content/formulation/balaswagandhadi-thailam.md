@@ -42,10 +42,10 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 ## How does it work?
 
-- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) enhance protein synthesis in muscle tissue, providing anabolic and [adaptogenic](/reference/adaptogenic/) effects that counteract muscle wasting and debility
-- [Ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) from [Bala](/herb/bala/) (Sida cordifolia) strengthen neuromuscular junctions and provide [analgesic](/reference/analgesic/) activity via adrenergic receptor pathways
-- Gamma-[sitosterol](/glossary/compounds-q-t/#sitosterol) and [campesterol](/glossary/compounds-a-c/#campesterol) (identified by GC-MS) exert anti-inflammatory effects by modulating prostaglandin synthesis and stabilizing cell membranes
-- Vitamin E and beta-eudesmol (identified in GC-MS analysis) provide potent [antioxidant](/reference/antioxidant/) protection, reducing oxidative stress in weakened or recovering tissues
+- [Withanolides](/glossary/compounds-t-z/#withanolides) from [Ashwagandha](/herb/ashwagandha/) have been studied for effects on protein synthesis in muscle tissue and for [adaptogenic](/reference/adaptogenic/) activity
+- [Ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) from [Bala](/herb/bala/) (Sida cordifolia) have been proposed to contribute [analgesic](/reference/analgesic/) activity via adrenergic receptor pathways
+- Gamma-[sitosterol](/glossary/compounds-q-t/#sitosterol) and [campesterol](/glossary/compounds-a-c/#campesterol) (identified by GC-MS) are proposed to have anti-inflammatory activity by modulating prostaglandin synthesis
+- Vitamin E and beta-eudesmol (identified in GC-MS analysis) have [antioxidant](/reference/antioxidant/) properties
 
 ## Which traditional uses are supported by research?
 

@@ -35,12 +35,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 - Gallic acid and ellagic acid (from [Triphala](/herb/triphala/) components)
 - [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/), if included)
 - [Saponins](/reference/saponins/) (from [Sariva](/herb/sariva/) and other herbs)
-- [Vacha](/herb/vacha/) [alkaloids](/glossary/compounds-1-a/#alkaloids) (alpha-asarone, beta-asarone)
+- [Vacha](/herb/vacha/) phenylpropanoids (alpha-asarone, beta-asarone)
 - [Tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) from multiple herbal components
 
 ## How does it work?
 
-- Blood purifying (Raktashodhaka) mechanism through anthraquinone-mediated enhancement of hepatic detoxification, anti-inflammatory action reducing systemic inflammation, and [antimicrobial](/reference/antimicrobial/) elimination of blood-borne pathogens
+- Blood purifying (Raktashodhaka) mechanism through anthraquinone-mediated enhancement of hepatic detoxification, anti-inflammatory action reducing systemic inflammation, and [antimicrobial](/reference/antimicrobial/) activity
 - Anti-allergic mechanism through inhibition of [histamine](/glossary/compounds-g-l/#histamine) release from mast cells and modulation of IgE-mediated immune hypersensitivity responses
 - Skin-healing mechanism through anthraquinone promotion of wound healing, melanin synthesis regulation (Varnya action), and [antioxidant](/reference/antioxidant/) protection against UV-induced skin damage
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 
 ## Recent safety updates
 
-- Classical decoction preparation generally well-tolerated at recommended doses (15-30ml twice daily with water); polyherbal composition provides natural dose buffering of individual ingredient potencies
+- Classical decoction preparation generally well-tolerated at recommended doses (15-30ml twice daily with water)
 - Some constituent herbs ([Vacha](/herb/vacha/) - beta-asarone content) have regulatory concerns in certain countries; long-term use should be supervised by qualified Ayurvedic practitioner; may interact with blood-thinning medications
 
 ## What is it made of?
@@ -68,12 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 ### Key Active Markers
 
 - Purpurin
-- Anthraquinones
-- Manjistha
 - Alizarin
-- Manjistha
-- Glycosides
-- Manjistha
 - Curcumin
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)

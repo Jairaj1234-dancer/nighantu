@@ -40,9 +40,8 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 ## How does it work?
 
-- Agni Deepana (digestive fire stimulation): Light and dry qualities combined with lactic acid stimulate digestive enzyme secretion without overloading the GI tract; ideal for Mandagni (low digestive fire)
-- Probiotic gut restoration: Lactobacillus species restore healthy gut microbiome, produce bacteriocins against pathogens, and generate short-chain fatty acids for colonocyte nutrition
-- Sphingolipid-mediated gut barrier repair: Milk fat globule membrane sphingolipids strengthen tight junctions between intestinal epithelial cells, reducing gut permeability ('leaky gut')
+- Agni Deepana (digestive fire stimulation): Light and dry qualities combined with lactic acid stimulate digestive enzyme secretion without overloading the GI tract; classically indicated in Mandagni (low digestive fire)
+- Probiotic gut restoration: Lactobacillus species are studied for effects on gut microbiota, including bacteriocin and short-chain fatty acid production
 - Vata-Kapha pacification: Sour-astringent taste and hot virya pacify Vata while light-dry qualities prevent Kapha accumulation; specific mechanism for Grahani (malabsorption)
 
 ## Which traditional uses are supported by research?
@@ -61,7 +60,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally well tolerated across most constitutions (Tridosha-friendly in appropriate preparations); one of the safest dairy-based therapeutics
+- Generally well tolerated across most constitutions (Tridosha-friendly in appropriate preparations)
 - Contraindicated during acute bleeding, wounds, and in summer heat for Pitta-dominant individuals (per Ashtanga Hridaya)
 - Quality of Takra depends on source curd and preparation method; commercially available buttermilk may lack probiotic potency compared to freshly churned traditional Takra
 - Those with severe lactose intolerance may still experience symptoms though Takra has lower lactose than milk due to bacterial fermentation

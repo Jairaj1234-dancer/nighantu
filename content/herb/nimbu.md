@@ -96,7 +96,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 **Bioavailability:** [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) and ascorbic acid are rapidly and nearly completely absorbed (>90% bioavailability). Limonene from peel oil shows moderate oral bioavailability (~40-60%) with rapid absorption. Flavonoids (hesperidin, eriocitrin) have variable bioavailability (10-30%) improved by co-administration with [pectin](/glossary/compounds-o-q/#pectin) or bioflavonoid complex. Vitamin C degrades rapidly in solution at pH >4 and elevated temperatures.
 
-**Optimal Timing:** Morning on empty stomach with warm water for detoxification. Before meals as appetite stimulant. Post-meal for digestive comfort.
+**Optimal Timing:** Morning on empty stomach with warm water. Before meals as appetite stimulant. Post-meal for digestive comfort.
 
 **Standardized Extract:** Spray-dried lemon juice powder with minimum 8% citric acid and 2% ascorbic acid. Lemon peel extract standardized to hesperidin >5% and eriocitrin >2%. Essential oil: limonene >60%, [citral](/glossary/compounds-c-d/#citral) 2-5%.
 

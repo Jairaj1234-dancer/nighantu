@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally regarded as safe at traditional Ayurvedic doses; used extensively as part of [Dashamoola](/herb/dashamoola/) for centuries with no documented serious adverse effects
+- Traditionally used as part of [Dashamoola](/herb/dashamoola/); formal human safety data is limited
 - Preclinical toxicity data supports safety at therapeutic doses; baicalein and chrysin have favorable safety profiles in available studies, though human clinical trial data remains limited
 
 ## What is it made of?
@@ -92,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily; 15-30 mL arishta after meals
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) (baicalein, chrysin, oroxylin A) show moderate to good oral bioavailability (30-45%). Baicalein has relatively high bioavailability due to favorable lipophilicity and minimal efflux by P-glycoprotein. Oroxylin A undergoes glucuronidation, but the glucuronide is bioactive. Co-administration with [piperine](/reference/piperine/) enhances bioavailability by 1.5-2x.
+**Bioavailability:** Flavone aglycones (baicalein, chrysin, oroxylin A) show low oral bioavailability because of extensive glucuronidation and sulfation. Oroxylin A undergoes glucuronidation, but the glucuronide is bioactive. Co-administration with [piperine](/reference/piperine/) enhances bioavailability by 1.5-2x.
 
 **Optimal Timing:** After meals with warm water; traditionally as part of Dashmool kwatha taken warm for Vata-Kapha disorders
 

@@ -31,11 +31,10 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## How does it work?
 
-- Mast cell stabilization: Inhibits mast cell degranulation (65-74% protection), preventing [histamine](/glossary/compounds-g-l/#histamine) release and allergic responses in respiratory tissue.
-- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and essential oils relax bronchial smooth muscle, improving airway patency.
-- Anti-inflammatory cytokine suppression: 45% inhibition of TNF-alpha in lung cell lines, reducing respiratory tract inflammation.
-- Bioavailability synergy: Piperine from [Pippali](/herb/pippali/) enhances absorption of [cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak) by 30%, demonstrating classical formulation synergy.
-- [Antimicrobial](/reference/antimicrobial/) activity: Active against S. aureus and S. pneumoniae, providing direct action against respiratory pathogens.
+- Mast cell stabilization: A study reported 65-74% protection against mast cell degranulation, the process that releases [histamine](/glossary/compounds-g-l/#histamine).
+- [Bronchodilator](/reference/bronchodilator/) action: [Piperine](/reference/piperine/) and essential oils are reported to relax bronchial smooth muscle.
+- Bioavailability synergy: Piperine from [Pippali](/herb/pippali/) is reported to enhance absorption of [cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak).
+- [Antimicrobial](/reference/antimicrobial/) activity: Reported activity against S. aureus and S. pneumoniae.
 
 ## Which traditional uses are supported by research?
 
@@ -55,7 +54,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## Recent safety updates
 
-- Generally one of the safest Ayurvedic medicines with no significant side effects at recommended doses. Likely safe for pregnant and lactating women under physician supervision.
+- Safety in pregnancy and lactation is not established; consult a qualified practitioner.
 - Contains substantial sugar (Mishri/rock candy); diabetics and those with insulin resistance should exercise caution or seek sugar-free alternatives.
 - Hot potency (Ushna Virya) may cause issues in summer or when digestion is already strong; recommended to take one month gap after every 2-3 months of usage. May interact with anticoagulants, antiplatelets, and diabetes medications.
 

@@ -43,8 +43,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 ## How does it work?
 
 - Anti-inflammatory activity via inhibition of pro-inflammatory cytokines and COX [enzymes](/glossary/compounds-d-g/#enzymes) mediated by [flavonoids](/reference/flavonoids/) sorbifolin and scutellarein
-- [Antidiabetic](/reference/antidiabetic/) action through alpha-glucosidase inhibition and enhancement of insulin sensitivity by [triterpenoids](/glossary/compounds-t-z/#triterpenoids)
-- Wound healing through astringent tannin action, [antimicrobial](/reference/antimicrobial/) activity and promotion of collagen synthesis
+- Proposed [antidiabetic](/reference/antidiabetic/) action through alpha-glucosidase inhibition and enhancement of insulin sensitivity by [triterpenoids](/glossary/compounds-t-z/#triterpenoids)
+- Proposed wound-healing action through astringent tannin action, [antimicrobial](/reference/antimicrobial/) activity and promotion of collagen synthesis
 - Immunostimulatory effects via modulation of macrophage activity and enhancement of phagocytic index
 
 ## Which traditional uses are supported by research?
@@ -77,11 +77,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 - Sitosterol
 - Bergenin
 - Sorbifolin
-- 
 - Alpha-amyrin
 - Beta-amyrin
-- 
-- Beta-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -114,7 +111,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 ### Synergistic Combinations
 
 - [Ashoka](/herb/ashoka/) (uterine tonic - [Ashokarishta](/formulation/ashokarishta/)-like combinations)
-- Nyagrodha (combined Ficus species for hemorrhage)
+- Nyagrodha (combined Ficus species, traditionally used for hemorrhage)
 - [Udumbara](/herb/udumbara/) (tri-Ficus formula for gynecological health)
-- [Lodhra](/herb/lodhra/) (leucorrhea management)
+- [Lodhra](/herb/lodhra/) (traditionally used for leucorrhea)
 - [Durva](/herb/durva/) (hemostatic combination)

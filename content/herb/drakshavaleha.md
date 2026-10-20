@@ -44,7 +44,7 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ## How does it work?
 
-- [Draksha](/herb/draksha/) (raisins) provides natural iron, natural sugars, and polyphenol antioxidants that directly support hemoglobin synthesis
+- [Draksha](/herb/draksha/) (raisins) provides natural iron, natural sugars, and polyphenol antioxidants
 - Amalaki juice provides high vitamin C content that enhances non-heme iron absorption from dietary and supplemental sources
 - [Yashtimadhu](/herb/yashtimadhu/) provides gastroprotective action and enhances nutrient absorption while reducing inflammatory damage to GI mucosa
 - [Pippali](/herb/pippali/) ([piperine](/reference/piperine/)) enhances hepatic enzyme activity and bioavailability of iron and other nutritional compounds
@@ -68,7 +68,6 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ## Recent safety updates
 
-- No side effects reported in medical literature at recommended doses; safe for use in pregnancy for anemia management
 - Cytoprotective effect demonstrated against cyclophosphamide toxicity in pregnancy - fetal protective properties
 - High sugar content requires monitoring in diabetic patients; consult practitioner for sugar-free alternatives
 
@@ -78,7 +77,7 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 **Standard Dosage:** 10-20g (1-2 tablespoons) twice daily with warm milk or water. Classical dose as per text reference.
 
-**Bioavailability:** Polyherbal Avaleha preparation with ghee and honey as key vehicles. Ghee (clarified butter) serves as lipophilic carrier enhancing absorption of fat-soluble [polyphenols](/glossary/compounds-o-q/#polyphenols), [terpenoids](/glossary/compounds-t-z/#terpenoids), and [alkaloids](/glossary/compounds-1-a/#alkaloids) from herb components. Honey provides enzymatic activity and enhances mucosal absorption. The sugar matrix provides sustained release of actives in the GI tract. Multiple ingredients may provide mutual bioenhancement through inhibition of metabolic [enzymes](/glossary/compounds-d-g/#enzymes) and efflux transporters. This is a traditionally optimized bioavailability-enhanced formulation.
+**Bioavailability:** Polyherbal Avaleha preparation with honey as a key vehicle. Honey provides enzymatic activity and enhances mucosal absorption. The sugar matrix provides sustained release of actives in the GI tract. Multiple ingredients may provide mutual bioenhancement through inhibition of metabolic [enzymes](/glossary/compounds-d-g/#enzymes) and efflux transporters. This is a traditionally optimized bioavailability-enhanced formulation.
 
 **Optimal Timing:** After meals with warm milk for [Rasayana](/reference/rasayana/) (rejuvenation) effect; before meals for respiratory conditions; morning and evening doses
 
@@ -92,7 +91,7 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ### Extraction Methods
 
-- Traditional Avaleha Paka process: [Draksha](/herb/draksha/) Kashayam (decoction) concentrated, then cooked with sugar/jaggery to Avaleha consistency (thread test), then Prakshepa Dravya (fine powders) and ghee/honey added off heat
+- Generic Avaleha Paka process (not specific to this formula's ingredient list): [Draksha](/herb/draksha/) Kashayam (decoction) concentrated, then cooked with sugar/jaggery to Avaleha consistency (thread test), then Prakshepa Dravya (fine powders) and ghee/honey added off heat
 - No standalone extraction - the Paka process IS the manufacturing method
 
 ### Synergistic Combinations

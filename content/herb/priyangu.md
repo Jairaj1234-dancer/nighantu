@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 - Anti-inflammatory: Calliterpenone and luteolin inhibit pro-inflammatory mediators; demonstrated in carrageenan-induced edema models.
 - Uterine tonic action: Traditional Garbhashaya Shodhana (uterine cleansing) attributed to combined terpenoid and flavonoid activity on uterine smooth muscle.
 - [Antipyretic](/reference/antipyretic/): Reduces elevated body temperature through prostaglandin synthesis inhibition, comparable to paracetamol in animal models.
-- [Antimicrobial](/reference/antimicrobial/): [Flavonoids](/reference/flavonoids/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; effective against both Gram-positive and Gram-negative bacteria.
+- [Antimicrobial](/reference/antimicrobial/): [Flavonoids](/reference/flavonoids/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) disrupt microbial cell membranes; laboratory studies have reported activity against Gram-positive and Gram-negative bacteria.
 - [Antidiabetic](/reference/antidiabetic/): Alpha-glucosidase inhibition and insulin-sensitizing effects demonstrated in preclinical diabetes models.
 
 ## Which traditional uses are supported by research?
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 ## Recent safety updates
 
-- Limited toxicity data available. Traditional use indicates generally safe within Ayurvedic recommended dosages.
+- Limited toxicity data available.
 - Traditionally contraindicated during first trimester of pregnancy despite gynecological applications. Should be used under qualified practitioner guidance.
 - No significant adverse effects reported in available preclinical studies; however, comprehensive toxicological profiling is lacking.
 
@@ -76,10 +76,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 - Sitosterol
 - Calliterpenone 
 - Calliterpenone monoacetate
-- 
 - Ursolic acid
 - Betulinic acid
-- Beta-
 - Luteolin-7-O-glucuronide
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
@@ -90,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g flower powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily; topical paste as needed
 
-**Bioavailability:** Callicarpa macrophylla (Priyangu) flavonoids and terpenoids show moderate oral bioavailability (20-35%). Betulinic acid has limited oral bioavailability (~10-15%) due to poor aqueous solubility; nano-formulation or amorphous solid dispersion can improve this to 30-40%. Calliterpenone (specific to Callicarpa) shows moderate absorption. Topical paste application is effective for local skin conditions.
+**Bioavailability:** Callicarpa macrophylla (Priyangu) flavonoids and terpenoids show moderate oral bioavailability (20-35%). Betulinic acid has limited oral bioavailability (~10-15%) due to poor aqueous solubility; nano-formulation or amorphous solid dispersion can improve this to 30-40%. Calliterpenone (specific to Callicarpa) shows moderate absorption. Topical paste (lepa) is traditionally used for local skin conditions.
 
 **Optimal Timing:** For gynecological conditions: begin 5-7 days before expected menses, continue through menstruation. General use: after meals. Topical: as needed, morning and evening.
 

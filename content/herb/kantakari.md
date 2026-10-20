@@ -34,14 +34,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 - [Solasodine](/glossary/compounds-q-t/#solasodine)
 - Caffeic acid
 - [Carpesterol](/glossary/compounds-a-c/#carpesterol)
-- Esculentin ([coumarin](/glossary/compounds-c-d/#coumarin))
+- Esculetin ([coumarin](/glossary/compounds-c-d/#coumarin))
 - Beta-carotene
 
 ## How does it work?
 
 - Bronchodilatory: Steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) and glycoalkaloids inhibit [histamine](/glossary/compounds-g-l/#histamine) and acetylcholine-induced bronchospasm through muscarinic receptor antagonism
 - Anti-asthmatic: Solasodine stabilizes mast cells, reduces IgE-mediated degranulation, and suppresses eosinophil infiltration in airways
-- [Hepatoprotective](/reference/hepatoprotective/): Caffeic acid and [coumarins](/glossary/compounds-c-d/#coumarins) (esculentin) reduce lipid peroxidation and restore hepatic glutathione levels
+- [Hepatoprotective](/reference/hepatoprotective/): Caffeic acid and [coumarins](/glossary/compounds-c-d/#coumarins) (esculetin) reduce lipid peroxidation and restore hepatic glutathione levels
 
 ## Which traditional uses are supported by research?
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 ## Recent safety updates
 
-- Safe at traditional Ayurvedic doses; steroidal glycoalkaloids may cause gastrointestinal irritation at excessive doses
+- Steroidal glycoalkaloids may cause gastrointestinal irritation at excessive doses
 - Should not be used during pregnancy due to potential uterine stimulant activity of steroidal compounds; avoid in patients with known nightshade sensitivity
 
 ## Dosage forms and preparation

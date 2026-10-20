@@ -31,9 +31,9 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## How does it work?
 
-- [Hemostatic](/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients constrict uterine blood vessels and strengthen endometrial tissue, reducing excessive menstrual bleeding
-- Hormonal regulation: [Lodhra](/herb/lodhra/) (Symplocos racemosa) triggers hypothalamic FSH and LH release, stimulating progesterone production that stabilizes the endometrium and controls dysfunctional uterine bleeding
-- [Antimicrobial](/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/glossary/compounds-a-c/#berberine)), [Lodhra](/herb/lodhra/), and multiple astringent herbs provide broad-spectrum antibacterial and antifungal activity in the female reproductive tract
+- [Hemostatic](/glossary/pharmacology/#hemostatic) (Raktastambhaka) action: Kashaya Rasa (astringent taste) and Sheeta Veerya (cool potency) of majority ingredients are classically described as checking excessive menstrual bleeding
+- Hormonal regulation: research on [Lodhra](/herb/lodhra/) (Symplocos racemosa) extract has reported effects on FSH, LH and progesterone
+- [Antimicrobial](/reference/antimicrobial/) genitourinary defense: Rasanjana ([berberine](/glossary/compounds-a-c/#berberine)), [Lodhra](/herb/lodhra/), and multiple astringent herbs have been reported in research to show broad-spectrum antimicrobial activity
 - Anti-inflammatory and wound healing: Manjishta (Rubia cordifolia) and [Arjuna](/herb/arjuna/) bark provide anti-inflammatory and tissue-healing action in the endometrium and reproductive tract
 - Pitta-Vata pacification: Cool potency and astringent/bitter tastes pacify Pitta (bleeding tendency) and Vata (pain, irregularity) in the reproductive system
 

@@ -40,11 +40,10 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 ## How does it work?
 
 - Digestive stimulation: Sulfur compounds stimulate gastric acid and bile production; alkaline processing creates compounds that buffer excess acidity while enhancing overall digestive function
-- Anti-flatulent: Sodium sulfide and hydrogen sulfide at low concentrations modulate gut motility and reduce gas formation by inhibiting fermentative bacteria
-- Mild anti-anemic: Iron compounds (Fe2+ from iron sulfide) contribute bioavailable iron when consumed regularly in food
+- Anti-flatulent: traditionally used to relieve gas; any role of its sulfide compounds is not established
 - Srotoshodhana (channel clearing): Light and sharp qualities clear obstructed channels; sulfur compounds have mild mucolytic and [expectorant](/reference/expectorant/) action
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
@@ -96,8 +95,8 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 **Storage:** Airtight, dry container
 
-**Marker Compounds:** Sodium chloride, Ammonium chloride, Herbal extractives
+**Marker Compounds:** Sodium chloride, Sodium sulfide, Iron sulfide
 
-**Quality Parameters:** Chloride content, ammonium content, no excess heavy metals
+**Quality Parameters:** Chloride content, no excess heavy metals
 
 **Vehicle (Anupana):** Part of digestive formulations; Lavana Bhaskar Churna

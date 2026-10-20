@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Nimba (Azadirachta indica A. Juss.) is a plant drug, also called Nimbah, Arista and Aristah. Azadirachta indica is recognized by WHO as a traditional medicine plant widely used across developing countries (WHO reports 80% of developing world populations depend on neem-related traditional medicine)."
+answer: "Nimba (Azadirachta indica A. Juss.) is a plant drug, also called Nimbah, Arista and Aristah. Azadirachta indica is recognized by WHO as a traditional medicine plant widely used across developing countries."
 botanical: "Azadirachta indica A. Juss."
 family: "Meliaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Azadirachta indica is recognized by WHO as a traditional medicine plant widely used across developing countries (WHO reports 80% of developing world populations depend on neem-related traditional medicine). Listed in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India."
+whoStatus: "Azadirachta indica is recognized by WHO as a traditional medicine plant widely used across developing countries. Listed in Indian Pharmacopoeia and Ayurvedic Pharmacopoeia of India."
 aliases: ["Azadirachta indica A. Juss."]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -66,10 +66,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 ## How does it work?
 
-- Nimbolide antimicrobial cell wall disruption: Nimbolide inhibits microbial cell wall synthesis and shows greatest zone of inhibition against S. epidermidis, S. aureus, P. aeruginosa, and K. pneumoniae - directly targeting acne and skin infection pathogens
+- Nimbolide antimicrobial cell wall disruption: Nimbolide inhibits microbial cell wall synthesis and shows greatest zone of inhibition against S. epidermidis, S. aureus, P. aeruginosa, and K. pneumoniae
 - Azadirachtin [immunomodulatory](/reference/immunomodulatory/) activity: Modulates immune cell function including T-cell and macrophage activity, relevant to immune-mediated skin conditions like psoriasis and atopic dermatitis
-- Limonoid anti-inflammatory cascade: Nimbidin and gedunin suppress prostaglandin synthesis and inhibit complement activation, reducing skin inflammation in eczema and dermatitis
-- Antifungal membrane disruption: [Neem](/herb/neem/) compounds disrupt fungal cell membrane integrity, effective against dermatophytes (Trichophyton, Microsporum) and Malassezia species causing dandruff and tinea
+- Limonoid anti-inflammatory cascade: Nimbidin and gedunin suppress prostaglandin synthesis and inhibit complement activation
+- Antifungal membrane disruption: [Neem](/herb/neem/) compounds disrupt fungal cell membrane integrity, with reported activity against dermatophytes (Trichophyton, Microsporum) and Malassezia species
 
 ## Which traditional uses are supported by research?
 
@@ -93,7 +93,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 ## What do recent studies show?
 
 - Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
-  Comprehensive dermatology review confirmed [neem](/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
+  Dermatology review summarised reported uses and evidence for [neem](/herb/neem/) in acne, eczema, psoriasis, warts, and fungal infections, including proposed anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
 - Dani PB, Ghorpade VK 2025. [Effect of Neem Leaf Paste Application on Dandruff](https://pubmed.ncbi.nlm.nih.gov/40242687/). *Cureus*. PMID [40242687](https://pubmed.ncbi.nlm.nih.gov/40242687/) · [doi:10.7759/cureus.80685](https://doi.org/10.7759/cureus.80685)  
   A clinical study reported that applying neem leaf paste reduced dandruff symptoms. Neem is traditionally used for scalp conditions, including those linked to Malassezia species.
 
@@ -176,7 +176,7 @@ Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
 - Scopoletin (trace)
 - Margosine
 
-### Essential Oil Composition
+### Principal limonoid content
 
 - **Azadirachtin:** 0.2-0.6%
 - **Nimbin:** 0.1-0.3%

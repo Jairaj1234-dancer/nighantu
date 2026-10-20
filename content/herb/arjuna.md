@@ -138,7 +138,7 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 
 **Bioavailability:** Moderate oral bioavailability for arjunolic acid (major triterpene, ~8-12% bioavailability) and arjunic acid. Tannins (15-20%) are partially absorbed. Arjungenin is the active aglycone after glycoside hydrolysis. Kshirapaka (milk decoction) significantly enhances bioavailability, milk fat solubilizes [triterpenes](/glossary/compounds-t-z/#triterpenes), and milk [proteins](/glossary/compounds-o-q/#proteins) prevent tannin-mediated precipitation. This is a classical example where anupana (vehicle) profoundly affects pharmacokinetics. Nanoparticle and phytosome formulations under development show 3-5x enhanced bioavailability.
 
-**Optimal Timing:** Kshirapaka or powder with milk early morning and evening for cardiac support. Arjunarishta after meals. Continuous use for minimum 3-6 months recommended for cardiac benefits.
+**Optimal Timing:** Kshirapaka or powder with milk early morning and evening for cardiac support. Arjunarishta after meals.
 
 **Standardized Extract:** Bark extract standardized to minimum 15% total tannins (as gallic acid equivalent) and minimum 2% arjunolic acid. Triterpene-enriched extract: minimum 5% arjunolic acid + arjunic acid. 10:1 aqueous extract with minimum 20% tannins.
 
@@ -159,7 +159,7 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 ### Synergistic Combinations
 
 - With [Ashwagandha](/herb/ashwagandha/) for cardioprotection and stress management
-- With [Punarnava](/herb/punarnava/) for heart failure and edema
+- With [Punarnava](/herb/punarnava/), traditionally used for heart conditions and edema
 - With Amalaki for antioxidant cardioprotection
-- With Pushkaramoola for angina and cardiac arrhythmia
+- With Pushkaramoola, traditionally used for heart conditions
 - With [Guggulu](/formulation/guggulu/) for lipid management

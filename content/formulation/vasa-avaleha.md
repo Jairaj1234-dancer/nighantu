@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avale
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighantus (pharmaceutical texts); Ayurvedic Pharmacopoeia of India Part II
+Bhaisajyaratnavali, Rajayaksmadhikara (per the Ayurvedic Formulary of India); various Nighantus (pharmaceutical texts); Ayurvedic Pharmacopoeia of India Part II
 
 ## How does it work?
 
@@ -54,7 +54,7 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 ## Recent safety updates
 
-- Multicenter clinical trials confirm no adverse effects at indicated doses (6g twice daily for 28 days); safe for regular use in respiratory conditions
+- A multicenter clinical trial reported no adverse effects at indicated doses (6g twice daily for 28 days)
 - Excess amounts may cause stomach discomfort; recommended doses should not be exceeded without supervision
 - Included in Ayurvedic Pharmacopoeia of India Part II - manufacturing standards established by Government of India
 
@@ -71,7 +71,7 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 **Dosage Forms:** Avaleha (confection), Syrup
 
-**Standard Dosage:** 6-12g twice daily with honey, as given in the Ayurvedic Formulary of India, Part I, entry 3:26. The formulary's anupana: milk,water. The formulary attributes this formula to Bhaisajyaratnavali, Rajayaksmadhikara; 82-821.
+**Standard Dosage:** 6-12g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:26. The formulary's anupana: milk,water. The formulary attributes this formula to Bhaisajyaratnavali, Rajayaksmadhikara; 82-821.
 
 **Bioavailability:** Sugar-base matrix with honey provides sustained release of alkaloids
 
@@ -85,7 +85,7 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 **Quality Parameters:** Total sugar, moisture NMT 15%, vasicine content by HPLC
 
-**Vehicle (Anupana):** Honey
+**Vehicle (Anupana):** Honey in the source notes; the formulary gives milk or water
 
 ### Synergistic Combinations
 

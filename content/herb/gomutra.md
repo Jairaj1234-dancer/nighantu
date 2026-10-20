@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Animal-Derived-Products"
 group: "Gomutra"
-answer: "Gomutra is an animal-derived substance used in the Ayurvedic materia medica. It is cow urine, 95% water with urea at 2.5% and a further 2.5% of minerals and salts, plus the enzymes urokinase and creatinine."
+answer: "Gomutra is an animal-derived substance used in the Ayurvedic materia medica. It is cow urine, 95% water with urea at 2.5% and a further 2.5% of minerals and salts, plus the enzyme urokinase, and creatinine."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 - Water (95%)
 - Urea (2.5%)
 - Minerals and 24 types of salts (2.5%)
-- [Enzymes](/glossary/compounds-d-g/#enzymes) (urokinase, creatinine)
+- [Enzymes](/glossary/compounds-d-g/#enzymes) (urokinase, catalase)
 - Hormones (erythropoietin-like factors)
 - Phenolic acids, volatile organic acids
 - Hippuric acid, [allantoin](/glossary/compounds-1-a/#allantoin)
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 ## Recent safety updates
 
 - Heavy metal contamination is a significant concern; cow urine from industrially farmed cattle may contain lead, arsenic, and cadmium above safe limits
-- Not recommended as sole treatment for serious conditions (cancer, diabetes) despite traditional claims; should complement evidence-based medicine
+- Not recommended as sole treatment for serious conditions (cancer, diabetes) despite traditional claims; its efficacy for these has not been established
 - Potential for microbial contamination if not properly distilled or processed; fresh urine must be processed within hours
 - May cause gastric irritation in sensitive individuals when consumed undiluted; Ayurvedic texts recommend specific processing ([Arka](/herb/arka/)/distillate form)
 
@@ -99,7 +99,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 **Standard Dosage:** 10–30 mL of [Arka](/herb/arka/); 5–10 mL fresh (diluted)
 
-**Bioavailability:** Bioenhancer, increases absorption of co-administered herbs by 2–7x
+**Bioavailability:** Bioenhancer, reported to increase absorption of co-administered herbs
 
 **Optimal Timing:** Empty stomach, morning
 
@@ -113,4 +113,4 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 **Quality Parameters:** Specific gravity 1.025–1.045, pH 7.5–8.5, no pathogenic organisms
 
-**Vehicle (Anupana):** Bioenhancer for hepatoprotective and anticancer formulations
+**Vehicle (Anupana):** Used as a vehicle (yogavahi) in classical formulations

@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kitchen-Spices-Culinary"
-answer: "Twak Cinnamon (Cinnamomum verum) is a plant drug, also called Tvak and Dalacini, from the Lauraceae family. HMPC (Committee on Herbal Medicinal Products of EMA) has classified Cinnamon|cinnamon bark as a traditional herbal medicinal product."
+answer: "Twak Cinnamon (Cinnamomum verum) is a plant drug, also called Tvak and Dalacini, from the Lauraceae family. HMPC (Committee on Herbal Medicinal Products of EMA) has classified cinnamon bark as a traditional herbal medicinal product."
 botanical: "Cinnamomum verum"
 family: "Lauraceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "HMPC (Committee on Herbal Medicinal Products of EMA) has classified Cinnamon|cinnamon bark as a traditional herbal medicinal product. ESCOP (European Scientific Cooperative on Phytotherapy) recommends it for dyspeptic complaints. Listed in European Pharmacopoeia, British Pharmacopoeia, and Indian Pharmacopoeia. WHO recognizes cinnamaldehyde as a flavoring agent with established safety profile."
+whoStatus: "HMPC (Committee on Herbal Medicinal Products of EMA) has classified cinnamon bark as a traditional herbal medicinal product. ESCOP (European Scientific Cooperative on Phytotherapy) recommends it for dyspeptic complaints. Listed in European Pharmacopoeia, British Pharmacopoeia, and Indian Pharmacopoeia. WHO recognizes cinnamaldehyde as a flavoring agent with established safety profile."
 aliases: ["Twak", "Twak Cinnamon", "Twak-Cinnamon", "TwakCinnamon", "Cinnamomum verum", "Cinnamomum zeylanicum", "Ceylon Cinnamon", "True Cinnamon", "Dalchini"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -32,7 +32,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - [Eugenol](/glossary/compounds-d-g/#eugenol) (75-80% of leaf oil)
 - Cinnamyl acetate
 - [Linalool](/glossary/compounds-l-o/#linalool)
-- Cinnamic acid (polyphenol)
+- Cinnamic acid (phenylpropanoid)
 - [Coumarin](/glossary/compounds-c-d/#coumarin) (trace amounts: 0.012-0.143 mg/g in Ceylon variety)
 - [Camphor](/herb/camphor/)
 - Copane
@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 - Cinnamaldehyde enhances insulin receptor phosphorylation and increases GLUT4 translocation, improving cellular [glucose](/glossary/compounds-d-g/#glucose) uptake
 - Activation of AMPK (AMP-activated protein kinase) pathway leads to enhanced fatty acid oxidation and reduced lipogenesis
-- [Polyphenols](/glossary/compounds-o-q/#polyphenols) (cinnamic acid, eugenol) inhibit alpha-glucosidase and alpha-amylase, slowing carbohydrate digestion and absorption
+- Phenylpropanoids (cinnamic acid, eugenol) inhibit alpha-glucosidase and alpha-amylase, slowing carbohydrate digestion and absorption
 - Anti-inflammatory mechanism via suppression of NF-kB activation and reduction of pro-inflammatory cytokines (TNF-alpha, IL-6, CRP)
 - [Antioxidant](/reference/antioxidant/) activity through direct free radical scavenging and upregulation of endogenous antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) (SOD, catalase, GPx)
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - Gu DT, Tung TH, Jiesisibieke ZL and others 2021. [Safety of Cinnamon: An Umbrella Review of Meta-Analyses and Systematic Reviews of Randomized Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/35115937/). *Frontiers in pharmacology*. PMID [35115937](https://pubmed.ncbi.nlm.nih.gov/35115937/) · [doi:10.3389/fphar.2021.790901](https://doi.org/10.3389/fphar.2021.790901)  
   Systematic safety review found cinnamon supplementation to be generally safe in clinical trial settings with no serious adverse events reported; confirmed anti-inflammatory, antioxidant, and metabolic benefits.
 - Neto JCGL, Damasceno MMC, Ciol MA and others 2020. [Analysis of the effectiveness of cinnamon (Cinnamomum verum) in the reduction of glycemic and lipidic levels of adults with type 2 diabetes: A study protocol](https://pubmed.ncbi.nlm.nih.gov/31895796/). *Medicine*. PMID [31895796](https://pubmed.ncbi.nlm.nih.gov/31895796/) · [doi:10.1097/MD.0000000000018553](https://doi.org/10.1097/MD.0000000000018553)  
-  Phase II double-blind, placebo-controlled trial of 3 grams/day Cinnamomum verum for 90 days showed significant reductions in glycemic and lipid levels in adults with type 2 diabetes.
+  Protocol for a Phase II double-blind, placebo-controlled trial of 3 grams/day Cinnamomum verum for 90 days in adults with type 2 diabetes; it reports no results.
 - Silva ML, Bernardo MA, Singh J and others 2022. [Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus and Its Molecular Mechanism of Action: A Review](https://pubmed.ncbi.nlm.nih.gov/35807953/). *Nutrients*. PMID [35807953](https://pubmed.ncbi.nlm.nih.gov/35807953/) · [doi:10.3390/nu14132773](https://doi.org/10.3390/nu14132773)  
   Reviewed molecular mechanisms of cinnamon's [antidiabetic](/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
 
@@ -84,7 +84,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - Camphor
 - Cinnamaldehyde 
 - Cinnamyl acetate
-- 
 - Cinnamic acid 
 - Copane
 

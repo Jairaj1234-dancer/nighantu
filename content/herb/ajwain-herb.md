@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/herb/ajwain/) ka patta) contains [thymol](/glossary/compounds-t-z/#thymol) and [carvacrol](/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/herb/ajwain/) but has additional [flavonoids](/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
 
-**Optimal Timing:** Warm fresh juice with honey for cough/cold, 2-3 times daily between meals
+**Optimal Timing:** Traditionally taken as warm fresh juice with honey in cough and cold, 2-3 times daily between meals
 
 **Standardized Extract:** Leaf extract standardized to minimum 1% thymol and 0.5% carvacrol. Total essential oil content minimum 0.8% v/w in dried herb.
 
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Tulsi](/herb/tulsi/) for respiratory infections and cough
-- With Adrak ([ginger](/herb/ginger/)) for cold and congestion
+- Traditionally combined with [Tulsi](/herb/tulsi/) in cough preparations
+- Traditionally combined with Adrak ([ginger](/herb/ginger/)) in cold preparations
 - With [Madhu](/herb/madhu/) (honey) as [expectorant](/reference/expectorant/) combination
-- With [Haridra](/herb/haridra/) for anti-inflammatory action
+- Traditionally combined with [Haridra](/herb/haridra/)

@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 **Journal:** Molecules (Basel, Switzerland) (2022)
 **PMID:** 36364010
 
-**Keywords:** Jamun, Syzygium [cumin](/herb/cumin/), diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
+**Keywords:** Jamun, Syzygium cumini, diabetes mellitus, hyperlipidemia, metabolic syndrome, obesity
 
 #### 2. Exploring the Chemical and Biological Potential of Jamun (Syzygium cumini (L.) Skeels) Leaves: A Comprehensive Review.
 
@@ -75,7 +75,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 **Keywords:** adaptive evolution, genome assembly and annotation, genome sequencing, medicinal properties, secondary metabolism
 
-#### 6. None
+#### 6. (Title not recorded)
 
 **Authors:** Li Li, Mangali Sureshbabu, Kour Navneet et al.
 **Journal:** Journal of cancer research and therapeutics (2021)
@@ -115,7 +115,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 **Bioavailability:** Syzygium cumini (Jamun is the common Hindi name). Same pharmacokinetic profile as [Jambu](/herb/jambu/). Anthocyanin-rich fruit preparations have ~1-2% bioavailability but undergo extensive phase II metabolism. Urolithins (gut metabolites of [ellagitannins](/glossary/compounds-d-g/#ellagitannins)) are the primary bioavailable active metabolites with anti-inflammatory and anti-diabetic properties.
 
-**Optimal Timing:** Seed powder: 30 minutes before meals for glycemic control. Fruit juice: between meals. Vinegar: before meals diluted in water.
+**Optimal Timing:** Seed powder: 30 minutes before meals. Fruit juice: between meals. Vinegar: before meals diluted in water.
 
 **Standardized Extract:** Seed extract standardized to 20% tannins (gallic acid equivalent) and 1% ellagic acid; fruit extract standardized to 5% [anthocyanins](/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside)
 
@@ -135,7 +135,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Karela](/herb/karela/) and [Gudmar](/herb/gudmar/) as triple anti-diabetic combination
+- With [Karela](/herb/karela/) and [Gudmar](/herb/gudmar/) as a triple combination for blood sugar support
 - With Amalaki for antioxidant synergy
 - With [Haridra](/herb/haridra/) for anti-inflammatory action
 - With [Triphala](/herb/triphala/) for metabolic health

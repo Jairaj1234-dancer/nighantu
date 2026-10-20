@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 
 | Language | Name |
 |----------|------|
-| English | [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) [Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
+| English | [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) |
 
 ## Where is it described in the classical texts?
 
@@ -32,9 +32,8 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 ## How does it work?
 
 - Polyherbal synergy of 28+ plant extracts in lipid medium enhances bioavailability of [neuroprotective](/reference/neuroprotective/) compounds
-- [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) provides anti-inflammatory and [antioxidant](/reference/antioxidant/) effects on neural tissue, reducing neuroinflammation
+- [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) is reported to have anti-inflammatory and [antioxidant](/reference/antioxidant/) activity
 - [Sariva](/herb/sariva/) and [Daruharidra](/herb/daruharidra/) provide cooling, pitta-pacifying action that calms aggravated mental states
-- Lipid-based ghee medium crosses the blood-brain barrier, delivering active compounds directly to CNS
 - Balances Tridosha with emphasis on Vata-Pitta pacification, restoring equilibrium in Manovaha Srotas (mental channels)
 
 ## Which traditional uses are supported by research?
@@ -52,7 +51,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## Recent safety updates
 
-- Clinical trials confirm safe profile in children with cognitive deficits; no adverse events reported during treatment periods
+- A prospective clinical study (not identified on this page) reported on its safety in children with cognitive deficits
 - Caution advised for individuals with diabetes, high cholesterol, heart diseases, and hypertension due to ghee base
 - Excessive consumption could lead to gastrointestinal distress; should be used under medical supervision
 
@@ -62,7 +61,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Standard Dosage:** 12 g twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
-**Bioavailability:** Identical to Kalyanaka Ghrita. Ghee matrix provides superior absorption of both lipophilic and hydrophilic herbal actives. Enhanced CNS penetration for neurological indications.
+**Bioavailability:** Identical to Kalyanaka Ghrita.
 
 **Optimal Timing:** On empty stomach, morning and evening, for Unmada (psychiatric), Apasmara (epilepsy), and cognitive conditions
 

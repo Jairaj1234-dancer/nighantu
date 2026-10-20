@@ -515,7 +515,7 @@ answer: "Phytochemical compounds (G-L) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia / Clerodendrum phlomidis*
 - [Kurabaka](/herb/kurabaka/)
 - [Parijata](/herb/parijata/), *Nyctanthes arbor-tristis L.*
 - [Vyaghranakhi](/herb/vyaghranakhi/)

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Ghritams-Medicated-Ghee"
-answer: "Ashoka Ghrita is a classical Ayurvedic ghrita, a medicated ghee. Fat-soluble fraction crosses intestinal membrane more efficiently. Sustained release of uterotonic compounds over 4-6 hours."
+answer: "Ashoka Ghrita is a classical Ayurvedic ghrita, a medicated ghee."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Ashoka-Gh
 
 **Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 6:4. The formulary's anupana: warm water, warm milk. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 17 - 20.
 
-**Bioavailability:** Ghee matrix enhances absorption of lipophilic [flavonoids](/reference/flavonoids/) and [catechins](/glossary/compounds-c-d/#catechins) from [Ashoka](/herb/ashoka/) bark. Fat-soluble fraction crosses intestinal membrane more efficiently. Sustained release of uterotonic compounds over 4-6 hours.
+**Bioavailability:** Ghee matrix enhances absorption of lipophilic [flavonoids](/reference/flavonoids/) and [catechins](/glossary/compounds-c-d/#catechins) from [Ashoka](/herb/ashoka/) bark.
 
 **Optimal Timing:** On empty stomach or before meals, typically morning and evening
 

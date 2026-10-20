@@ -33,9 +33,9 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 - Panchagavya components provide ketogenic substrate through high-fat cow ghee content, mimicking ketogenic diet mechanism in epilepsy management
 - [Brahmi](/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
-- [Vacha](/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability and seizure threshold
+- [Vacha](/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability
 - Phytochemical profile includes [proteins](/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/glossary/compounds-1-a/#alkaloids), [steroids](/glossary/compounds-q-t/#steroids), phenolics, [tannins](/reference/tannins/), and [flavonoids](/reference/flavonoids/) with [antioxidant](/reference/antioxidant/) action reducing oxidative stress in brain
-- Synergistic interaction with conventional anticonvulsants (phenytoin, carbamazepine) enables dose reduction and improved tolerability
+- Studies have reported a possible interaction with conventional anticonvulsants (phenytoin, carbamazepine); anticonvulsant doses should not be changed without medical supervision
 
 ## Which traditional uses are supported by research?
 
@@ -44,7 +44,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 - Apasmara (epilepsy): traditionally used for apasmara. A clinical study reported complete seizure freedom in some patients. Animal studies have reported dose-dependent seizure protection.
 - Unmada (psychosis/mania): used in classical practice as a psychiatric indication. Pharmacological studies have reported neuroprotective and GABAergic activity.
 - Adjuvant anti-epileptic therapy: studies have reported a synergistic interaction with phenytoin and carbamazepine that allowed dose reduction.
-- [Kamala](/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/reference/hepatoprotective/) use referenced in Sushruta Samhita
+- Kamala (jaundice/liver disorders): traditional [hepatoprotective](/reference/hepatoprotective/) use referenced in Sushruta Samhita
 
 ## What do recent studies show?
 
@@ -54,7 +54,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 - No known side effects at recommended doses; however people with diabetes, high cholesterol, and heart disease should exercise precautions
 - Very high doses may cause diarrhea and indigestion; cow urine component requires quality-assured sourcing and proper processing per AFI standards
-- Interaction potential with conventional anticonvulsants noted - PG enhances efficacy of phenytoin and carbamazepine, requiring dose adjustment under medical supervision
+- Interaction potential with conventional anticonvulsants noted - PG may interact with phenytoin and carbamazepine; any dose adjustment only under medical supervision
 
 ## Dosage forms and preparation
 
@@ -62,7 +62,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 **Standard Dosage:** 6-12ml twice daily for neurological conditions
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is traditionally regarded as a lipid carrier (yogavahi) that may aid absorption of fat-soluble phytochemicals
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 

@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Palasha/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Vidanga](/herb/vidanga/) (anthelmintic synergy)
-- Palasha Kshara + [Gomutra](/herb/gomutra/) (urinary calculi dissolution)
-- [Haridra](/herb/haridra/) (anti-inflammatory and wound healing)
+- Palasha Kshara + [Gomutra](/herb/gomutra/) (traditionally used for urinary calculi)
+- [Haridra](/herb/haridra/) (traditionally combined for inflammation and wounds)
 - Kutaja (anti-diarrheal and anti-dysenteric)
 - [Triphala](/herb/triphala/) (digestive and detoxification combination)

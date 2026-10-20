@@ -23,19 +23,18 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatik
 
 | Language | Name |
 |----------|------|
-| English | Panchatikta Ghrita Mahatiktaka Ghrita |
+| English | Panchatikta Ghrita |
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
+Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
 
 ## How does it work?
 
 - Five bitter herbs (Panchatikta) provide potent Pitta-Rakta pacification, reducing inflammatory cascades in blood and skin
 - [Neem](/herb/neem/) ([nimbidin](/glossary/compounds-l-o/#nimbidin), [azadirachtin](/glossary/compounds-a-c/#azadirachtin)) delivers antibacterial, antifungal, and anti-inflammatory action targeting dermatological pathogens
-- [Guduchi](/herb/guduchi/) acts as an immunomodulator, restoring balanced immune response in autoimmune skin conditions
-- [Turmeric](/herb/turmeric/) ([curcumin](/herb/curcumin/)) inhibits NF-kB pathway, reducing chronic inflammation in psoriasis and eczema
-- Ghee base serves as Snehana (oleation) medium for Panchakarma preparatory procedures enhancing detoxification
+- [Guduchi](/herb/guduchi/) is described as an immunomodulator
+- Ghee base serves as Snehana (oleation) medium for Panchakarma preparatory procedures
 
 ## Which traditional uses are supported by research?
 
@@ -54,8 +53,6 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Ma
 
 ## Recent safety updates
 
-- Multicenter clinical trial confirms acceptable safety and tolerability in psoriasis patients over 12-week treatment period
-- [Mahatiktaka Ghrita](/glossary/concepts-a-m/#mahatiktaka-ghrita) demonstrates excellent microbial stability for over 494 days without preservatives - inherent self-preserving quality
 - Due to bitter taste, may cause mild nausea in sensitive individuals; ghee content requires caution in hyperlipidemic and diabetic patients
 
 ## What is it made of?
@@ -73,7 +70,7 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Ma
 
 **Standard Dosage:** 12-24ml for skin conditions and detox
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
+**Bioavailability:** Ghee is a lipid carrier for fat-soluble phytochemicals
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 
@@ -81,12 +78,12 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Ma
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
-**Marker Compounds:** Kutkin, [Vasicine](/glossary/compounds-t-z/#vasicine), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
+**Marker Compounds:** [Vasicine](/glossary/compounds-t-z/#vasicine), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
 
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, Vasicine, Tinosporin
+**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Vasicine, Tinosporin
 
 **Vehicle (Anupana):** Warm water or warm milk
 
 ### Synergistic Combinations
 
-- Key herbs: 5 bitter herbs: [Nimba](/herb/nimba/), [Guduchi](/herb/guduchi/), [Vasa](/herb/vasa/), [Katuki](/herb/katuki/), [Patola](/herb/patola/); ghee enhances tissue penetration (yogavahi property)
+- Key herbs: 5 bitter herbs: [Nimba](/herb/nimba/), [Guduchi](/herb/guduchi/), [Vasa](/herb/vasa/), Kantakari (Vyaghri), [Patola](/herb/patola/); ghee enhances tissue penetration (yogavahi property)

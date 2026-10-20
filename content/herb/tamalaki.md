@@ -41,10 +41,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ## How does it work?
 
-- Antiviral mechanism: inhibition of hepatitis B virus DNA polymerase, preventing viral replication; also demonstrated activity against HIV reverse transcriptase
+- Antiviral: studies have reported inhibition of hepatitis B virus DNA polymerase and activity against HIV reverse transcriptase
 - [Hepatoprotective](/reference/hepatoprotective/) mechanism through Nrf2 pathway activation upregulating [antioxidant](/reference/antioxidant/) defense [enzymes](/glossary/compounds-d-g/#enzymes), combined with NF-kB and MAPK pathway modulation reducing hepatic inflammation
 - Antilithiatic mechanism through inhibition of calcium oxalate crystal formation and growth, combined with [diuretic](/reference/diuretic/) and uricosuric actions reducing stone-forming potential
-- [Anticancer](/reference/anticancer/) synergy: phyllanthin and hypophyllanthin modulate P-glycoprotein efflux and sensitize resistant cancer cells to chemotherapeutic agents
+- [Anticancer](/reference/anticancer/) synergy: in a cell-line study, phyllanthin and hypophyllanthin increased the effect of doxorubicin against resistant breast cancer cells
 
 ## Which traditional uses are supported by research?
 
@@ -96,7 +96,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Bhumi Amalaki (Phyllanthus niruri) - hepatoprotective synergy
 - [Katuki](/herb/katuki/) (Picrorhiza kurroa) - enhanced hepatoprotection
 - [Guduchi](/herb/guduchi/) (Tinospora cordifolia) - [immunomodulatory](/reference/immunomodulatory/) potentiation
-- [Bhumyamalaki](/herb/bhumyamalaki/) + [Kalmegh](/herb/kalmegh/) (Andrographis) - complementary liver support
+- [Kalmegh](/herb/kalmegh/) (Andrographis) - complementary liver support

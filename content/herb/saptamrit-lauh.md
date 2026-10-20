@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Saptamrit Lauh is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation; referenced in multiple classical texts including Rasaratna Samuchaya and Bhavaprakasha Nighantu."
+answer: "Saptamrit Lauh is a herbo-mineral tablet (vati) containing Loha Bhasma with Triphala and Yashtimadhu. Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation; referenced in multiple classical texts including Rasaratna Samuchaya and Bhavaprakasha Nighantu."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,16 +27,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Sapt
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced in Rasaratna Samuchaya and Bhavaprakasha Nighantu (9th-12th century CE)
+Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced in Rasaratna Samuchaya and Bhavaprakasha Nighantu
 
 ## How does it work?
 
 - [Loha Bhasma](/herb/loha-bhasma/) provides bioavailable iron supporting hemoglobin synthesis and oxygen delivery to retinal tissues
-- [Triphala](/herb/triphala/) ([Haritaki](/herb/haritaki/) + Vibhitaki + Amalaki) provides potent [antioxidant](/reference/antioxidant/) protection to retinal cells, reducing oxidative damage from free radicals in eye tissues
+- [Triphala](/herb/triphala/) ([Haritaki](/herb/haritaki/) + Vibhitaki + Amalaki) is described as having [antioxidant](/reference/antioxidant/) activity
 - [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra) has anti-inflammatory and [neuroprotective](/reference/neuroprotective/) effects supporting optic nerve health
-- Amalaki specifically is rich in vitamin C and bioflavonoids that strengthen retinal capillaries, reducing hemorrhagic tendency
+- Amalaki specifically is rich in vitamin C and bioflavonoids
 - [Ghrita](/herb/ghrita/) (ghee) as adjuvant acts as a lipid-based bioenhancer improving absorption of fat-soluble phytochemicals and providing nourishment to eye tissues (Netra Tarpana)
-- Combined [Rasayana](/reference/rasayana/) (rejuvenative) effect improves microcirculation in the choroidal and retinal vasculature
+- Traditionally regarded as having a combined [Rasayana](/reference/rasayana/) (rejuvenative) effect for the eyes
 
 ## Which traditional uses are supported by research?
 

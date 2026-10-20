@@ -65,7 +65,7 @@ srcRel: "_Hub/Body-Systems/Mens-Health--Vitality.md"
 - [Phala Ghrita](/formulation/phala-ghrita/) (Adaptogenic, Aphrodisiac)
 - [Puga](/herb/puga/)
 - [Punarnavadi Guggulu](/formulation/punarnavadi-guggulu/) (Diuretic, Hepatoprotective, Anti-inflammatory)
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard* (Antioxidant, Aphrodisiac, Adaptogenic)
+- [Rishabhaka](/herb/rishabhaka/) (Antioxidant, Aphrodisiac, Adaptogenic)
 - [Saffron](/herb/saffron/), *Crocus sativus* (Antioxidant, Anticancer, Aphrodisiac)
 - [Shvet Musli](/herb/shvet-musli/) (Vajikarana)
 - [Sukumaram Ghritam](/formulation/sukumaram-ghritam/) (Adaptogenic, Anti-inflammatory)

@@ -39,9 +39,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## How does it work?
 
-- Nervine tonic: Phenolic acids (vanillic, syringic) and [flavonoids](/reference/flavonoids/) cross the blood-brain barrier and provide neuroprotection through [antioxidant](/reference/antioxidant/) activity and BDNF upregulation
+- Nervine tonic: Phenolic acids (vanillic, syringic) and [flavonoids](/reference/flavonoids/) have been reported in studies to show [antioxidant](/reference/antioxidant/) activity; blood-brain barrier penetration, neuroprotection and BDNF effects are not established
 - Anti-inflammatory: Protocatechuic acid and kaempferol inhibit COX-2, iNOS, and NF-kB-mediated inflammatory gene expression
-- Cardiotonic: Beta-sitosterol and flavonoids improve cardiac function through positive inotropic effect and reduction of myocardial oxidative stress
+- Cardiotonic: preliminary studies have reported a positive inotropic effect and reduced myocardial oxidative stress; the constituents responsible are not established
 
 ## Which traditional uses are supported by research?
 
@@ -59,7 +59,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 ## Recent safety updates
 
-- Long history of traditional use with good safety record; no significant toxicity reported at Ayurvedic therapeutic doses; limited modern toxicological evaluation
+- Long traditional use; no significant toxicity reported in the sources reviewed at Ayurvedic therapeutic doses; modern toxicological evaluation is limited
 - Dual identity (Grewia hirsuta vs. Sida veronicifolia) used as Nagabala creates potential for botanical confusion; ensure correct identification for safe use
 
 ## Dosage forms and preparation

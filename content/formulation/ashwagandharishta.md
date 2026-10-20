@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Ashwagandharishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a Rasayana (rejuvenator) specifically for improving Virya (vital strength) and fertility."
+answer: "Ashwagandharishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), which attributes it to Bhaisajyaratnavali. Described as a Rasayana (rejuvenator) specifically for improving Virya (vital strength) and fertility."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhavaprakasha and Sharangadhara Samhita. Ashwagandha root monograph in Ayurvedic Pharmacopoeia of India. HPLC-standardized formulations available."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Attributed to Bhaisajyaratnavali. Ashwagandha root monograph in Ayurvedic Pharmacopoeia of India. HPLC-standardized formulations available."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -27,13 +27,12 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashwaga
 
 ## Where is it described in the classical texts?
 
-Bhavaprakasha (circa 16th century CE) and Sharangadhara Samhita. Described as a [Rasayana](/reference/rasayana/) (rejuvenator) specifically for improving Virya (vital strength) and fertility.
+The Ayurvedic Formulary of India attributes it to Bhaisajyaratnavali (Murccha chapter). Described as a [Rasayana](/reference/rasayana/) (rejuvenator) specifically for improving Virya (vital strength) and fertility.
 
 ## How does it work?
 
 - [Adaptogenic](/reference/adaptogenic/) action through modulation of HPA axis and cortisol reduction ([Ashwagandha](/herb/ashwagandha/) [withanolides](/glossary/compounds-t-z/#withanolides))
-- BDNF boosting enhances synaptic plasticity, neuroprotection, and antidepressant effects
-- [Immunomodulatory](/reference/immunomodulatory/) action enhances both innate and adaptive immunity for faster convalescence
+- [Immunomodulatory](/reference/immunomodulatory/) action; traditionally used during convalescence
 - Rejuvenative (Rasayana) action through combined [antioxidant](/reference/antioxidant/), anti-inflammatory, and anabolic properties
 
 ## Which traditional uses are supported by research?

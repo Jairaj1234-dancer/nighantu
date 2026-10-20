@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Kasis Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. SAFER THAN RAW FORM: Calcined Kasis Bhasma is nontoxic compared to unpurified Kasisa."
+answer: "Kasis Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -35,10 +35,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 ## How does it work?
 
-- Enhanced iron supplementation through calcined ferrous sulfate with higher bioavailability than raw form, supporting hemoglobin synthesis without GI distress
+- Enhanced iron supplementation through calcined ferrous sulfate, supporting hemoglobin synthesis
 - Deepana (appetite stimulation) and Pachana (digestive fire strengthening) through iron-mediated metabolic enzyme activation in the gastrointestinal tract
 - [Hepatoprotective](/reference/hepatoprotective/) activity, with [antioxidant](/reference/antioxidant/) activity and cellular membrane stabilization, has been reported in studies of CCl4-induced liver toxicity.
-- Raktavardhaka (blood-enhancing) action through combined iron provision and improved intestinal absorption, addressing anemia at multiple levels
+- Traditionally described as Raktavardhaka (blood-enhancing), attributed to its iron content
 
 ## Which traditional uses are supported by research?
 
@@ -56,8 +56,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 ## Recent safety updates
 
-- SAFER THAN RAW FORM: Calcined [Kasis Bhasma](/herb/kasis-bhasma/) is nontoxic compared to unpurified Kasisa. Shodhana and Marana processes essential for safety.
-- NO GI SIDE EFFECTS: Stomach discomfort, breathing difficulty, constipation, and diarrhea common with ferrous sulfate are NOT reported with [Kasis Bhasma](/herb/kasis-bhasma/) use
+- PROCESSING: Classical texts hold that calcined [Kasis Bhasma](/herb/kasis-bhasma/) is less toxic than unpurified Kasisa, and that Shodhana and Marana are essential for safety.
 - PREGNANCY WARNING: POSSIBLY UNSAFE due to emmenagogue effects. Not recommended during pregnancy and breastfeeding.
 - LONG-TERM CAUTION: Like all iron preparations, prolonged unsupervised use may cause iron overload. Periodic monitoring recommended.
 

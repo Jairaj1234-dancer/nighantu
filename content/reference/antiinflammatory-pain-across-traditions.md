@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Cross-Tradition"
 subcategory: "Antiinflammatory--Pain-Across-Traditions.md"
 group: ""
-answer: "Anti inflammatory & Pain: Across Traditions is a reference entry in the Nighantu. Comparing approaches to anti-inflammatory & pain across 5 healing traditions."
+answer: "Anti inflammatory & Pain: Across Traditions is a reference entry in the Nighantu. Comparing approaches to anti-inflammatory & pain across healing traditions."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 200
 srcRel: "_Hub/Cross-Tradition/Antiinflammatory--Pain-Across-Traditions.md"
 ---
-*Comparing approaches to anti-inflammatory & pain across 5 healing traditions*
+*Comparing approaches to anti-inflammatory & pain across healing traditions*
 
 - **Ayurveda:** 351 entries
 - **TCM:** 210 entries

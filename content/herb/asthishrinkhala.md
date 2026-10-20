@@ -57,13 +57,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 ## What do recent studies show?
 
 - Na Takuathung M, Aisara J, Sawong S and others 2025. [The effects of Cissus quadrangularis on bone-related biomarkers in humans: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40707943/). *BMC complementary medicine and therapies*. PMID [40707943](https://pubmed.ncbi.nlm.nih.gov/40707943/) · [doi:10.1186/s12906-025-04995-8](https://doi.org/10.1186/s12906-025-04995-8)  
-  Meta-analysis of human studies confirmed that Cissus quadrangularis supplementation significantly improved bone-related biomarkers including alkaline phosphatase and calcium levels, promoting bone healing and density improvement.
+  Meta-analysis of human studies reported that Cissus quadrangularis supplementation improved bone-related biomarkers including alkaline phosphatase and calcium levels.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- 90-day subchronic toxicity study showed no adverse effects at doses up to 2500 mg/kg/day; in vitro and in vivo mutagenicity studies revealed no mutagenic potential; considered exceedingly safe at commonly used supplemental doses
+- 90-day subchronic toxicity study showed no adverse effects at doses up to 2500 mg/kg/day; in vitro and in vivo mutagenicity studies revealed no mutagenic potential
 - Minor reported side effects include headache, intestinal gas, diarrhea, and dry mouth; should be used with caution in diabetic patients due to hypoglycemic potential and in those on anticoagulants due to potential interactions
 
 ## Dosage forms and preparation
@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 **Bioavailability:** Good oral bioavailability for ketosteroids (particularly anabolic steroids like ketosterone). 3,3'-di-O-methylquercetin is a potent bioavailable flavonoid. [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and related [stilbenes](/glossary/compounds-q-t/#stilbenes) show moderate absorption (~20%). Calcium content in stems is bioavailable. Fresh stem juice has better bioavailability profile than dried preparations. Traditionally administered with milk (calcium + stem bioactives for synergistic bone healing).
 
-**Optimal Timing:** With warm milk twice daily for fracture healing (continue for 6-8 weeks). Before meals for osteoporosis prevention. External paste application at fracture site.
+**Optimal Timing:** Traditionally taken with warm milk twice daily in fracture management (continued for 6-8 weeks). External paste application at fracture site.
 
 **Standardized Extract:** Stem extract (10:1) standardized to minimum 3% 3,3'-di-O-methylquercetin and minimum 2.5% ketosterones. Calcium content minimum 4% (as eleite). Total flavonoid content minimum 5%.
 

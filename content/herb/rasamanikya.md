@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 **Standard Dosage:** 60–125 mg twice daily
 
-**Bioavailability:** Arsenic sulfide converted to non-toxic form through processing
+**Bioavailability:** Processing is traditionally held to reduce the toxicity of arsenic sulfide; blood arsenic still rises with use and chronic exposure carries risk (see safety updates)
 
 **Optimal Timing:** With honey or ghee; after meals
 

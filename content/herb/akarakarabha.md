@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 ## How does it work?
 
 - Anti-inflammatory activity through inhibition of nitric oxide (NO) production in macrophages via novel alkaloid compounds
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effect through modulation of hypothalamic-pituitary-gonadal axis
+- Animal studies have reported [aphrodisiac](/glossary/pharmacology/#aphrodisiac) and testosterone-enhancing effects, possibly through modulation of the hypothalamic-pituitary-gonadal axis
 - [Analgesic](/reference/analgesic/) and sialagogue action via N-isobutylamide (pellitorine) stimulation of nerve endings
 - [Immunomodulatory](/reference/immunomodulatory/) activity through modulation of innate and adaptive immune responses
 
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Recent safety updates
 
-- Generally recognized as safe at recommended doses; high doses may cause excessive salivation, oral mucosal irritation, and gastrointestinal discomfort due to pellitorine content
+- High doses may cause excessive salivation, oral mucosal irritation, and gastrointestinal discomfort due to pellitorine content
 - Not recommended during pregnancy and lactation due to potential uterine stimulant effects; limited toxicological data for long-term use
 
 ## What is it made of?

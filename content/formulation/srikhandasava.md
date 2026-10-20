@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Srikhandasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). Also known as Chandanasava in some traditions. Described for controlling Pitta-provoked conditions and adverse effects of intoxication."
+answer: "Srikhandasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). Described for controlling Pitta-provoked conditions and adverse effects of intoxication."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali. Sandalwood (Santalum album) monograph in Ayurvedic Pharmacopoeia of India. Also known as Chandanasava in South Indian pharmacopoeias."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali. Sandalwood (Santalum album) monograph in Ayurvedic Pharmacopoeia of India."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhan
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). Also known as Chandanasava in some traditions. Described for controlling Pitta-provoked conditions and adverse effects of intoxication.
+Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). Described for controlling Pitta-provoked conditions and adverse effects of intoxication.
 
 ## How does it work?
 
 - Sheeta Virya (cooling potency) of [Chandana](/herb/chandana/) and [Ushira](/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
-- Potent [antioxidant](/reference/antioxidant/) activity (santalols, [flavonoids](/reference/flavonoids/), phenolics) protects tissues from oxidative damage
+- In vitro assays have reported [antioxidant](/reference/antioxidant/) activity (santalols, [flavonoids](/reference/flavonoids/), phenolics)
 - [Antimicrobial](/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
-- Nervine calming effects of [Jatamansi](/herb/jatamansi/) and [Ushira](/herb/ushira/) address insomnia, irritability, and mental agitation from Pitta excess
+- [Jatamansi](/herb/jatamansi/) and [Ushira](/herb/ushira/) are traditionally described as calming and are used classically for agitation from Pitta excess
 
 ## Which traditional uses are supported by research?
 
@@ -70,7 +70,7 @@ An in vitro study reported high antioxidant activity in DPPH, FRAP, and ABTS ass
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:35. The formulary attributes this formula to Bhaisajyaratnavali, Madatyayadhikara; 24-264. (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26.
+**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:35. The formulary attributes this formula to Bhaisajyaratnavali, Madatyayadhikara; 24-26 (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26).
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

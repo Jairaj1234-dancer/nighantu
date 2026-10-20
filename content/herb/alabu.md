@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 ## What do recent studies show?
 
 - Roopan SM, Devi Rajeswari V, Kalpana VN and others 2016. [Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria: an overview](https://pubmed.ncbi.nlm.nih.gov/26637422/). *Applied microbiology and biotechnology*. PMID [26637422](https://pubmed.ncbi.nlm.nih.gov/26637422/) · [doi:10.1007/s00253-015-7190-0](https://doi.org/10.1007/s00253-015-7190-0)  
-  Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.
+  This review summarises animal studies reporting antihyperlipidemic and cardioprotective effects, with reduced serum cholesterol and triglycerides.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 **Standard Dosage:** 20-50ml fresh juice twice daily; 3-6g dried powder; as dietary vegetable (ad libitum)
 
-**Bioavailability:** Good bioavailability for water-soluble nutrients (cucurbitins, [vitamins](/glossary/compounds-t-z/#vitamins), minerals). Fresh juice retains maximum bioactivity. Cucurbitacins (bitter principles, present in bitter variety) are lipophilic with good oral absorption but GI irritant potential. The sweet variety (Lagenaria siceraria) is commonly used; bitter variety (tumbi) used with caution.
+**Bioavailability:** Good bioavailability for water-soluble nutrients (cucurbitins, [vitamins](/glossary/compounds-t-z/#vitamins), minerals). Fresh juice retains maximum bioactivity. Cucurbitacins (bitter principles, present in bitter variety) are lipophilic with good oral absorption but GI irritant potential. The sweet variety (Lagenaria siceraria) is commonly used; the bitter variety (high cucurbitacin) is toxic and should not be consumed.
 
 **Optimal Timing:** Fresh juice early morning on empty stomach for cardiovascular and metabolic benefits. Avoid at night (diuretic effect).
 
@@ -92,6 +92,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Arjuna](/herb/arjuna/) for cardioprotective action
-- With [Punarnava](/herb/punarnava/) for diuretic effect and edema
+- With [Punarnava](/herb/punarnava/) for diuretic effect
 - With [Guduchi](/herb/guduchi/) for hepatoprotective support
 - With [Gokshura](/herb/gokshura/) for urinary tract health

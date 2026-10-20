@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Elakanadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Also referenced in commentaries of Charaka Samhita's Nighantu section. Widely used in Kerala Ayurvedic tradition for chronic respiratory conditions."
+answer: "Elakanadi Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Widely used in Kerala Ayurvedic tradition for chronic respiratory conditions."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,13 +40,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Elakanadi-Ka
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu section. Widely used in Kerala Ayurvedic tradition for chronic respiratory conditions.
+Sahasrayogam. Widely used in Kerala Ayurvedic tradition for chronic respiratory conditions.
 
 ## How does it work?
 
-- Bronchodilatory action from 1,8-[cineole](/glossary/compounds-c-d/#cineole) and [Vasa](/herb/vasa/) (Adhatoda vasica) relieves bronchospasm in asthma and bronchitis
+- Bronchodilatory action has been attributed to 1,8-[cineole](/glossary/compounds-c-d/#cineole) and [Vasa](/herb/vasa/) (Adhatoda vasica); traditionally used in asthma and bronchitis
 - Bioavailability enhancement by [piperine](/reference/piperine/) (from [Pippali](/herb/pippali/)) increases absorption of other active constituents
-- [Antiemetic](/glossary/pharmacology/#antiemetic) properties of Ela (cardamom) relieve nausea, vomiting, and hiccups
+- Ela (cardamom), credited with [antiemetic](/glossary/pharmacology/#antiemetic) properties, is traditionally used for nausea, vomiting, and hiccups
 - [Immunomodulatory](/reference/immunomodulatory/) and anti-inflammatory effects of [Guduchi](/herb/guduchi/) and [Nimba](/herb/nimba/) support respiratory immunity
 
 ## Which traditional uses are supported by research?
@@ -66,7 +66,7 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## Recent safety updates
 
-- No known side effects at standard dosage. Overdosage may cause gastritis. Generally considered safe for long-term use under physician supervision.
+- Safety has not been established. Overdosage may cause gastritis.
 - May potentiate [antidiabetic](/reference/antidiabetic/) drugs and anticoagulants; blood sugar and clotting factors should be monitored closely. Large-scale RCTs and pharmacokinetic profiling still needed.
 
 ## What is it made of?

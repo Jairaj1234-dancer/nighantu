@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Panchamrita-Parpati"
-answer: "Panchamrita Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. It is traditionally used for Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions). Clinical studies, including a randomized controlled trial, have reported improvement in digestive symptoms. It is also traditionally used for Agni Mandya (weak digestive fire) with Ama formation, a primary classical indication. Its constituent Bhasmas are traditionally described as having Deepana-Pachana properties."
+answer: "Panchamrita Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. It is traditionally used for Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions). Clinical studies have reported improvement in digestive symptoms. It is also traditionally used for Agni Mandya (weak digestive fire) with Ama formation, a primary classical indication. Its constituent Bhasmas are traditionally described as having Deepana-Pachana properties."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -32,17 +32,17 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 ## How does it work?
 
 - Parada-[Gandhaka](/glossary/concepts-a-m/#gandhaka) Kajjali (HgS) acts as a catalytic carrier (Yogavahi) enhancing bioavailability of all other mineral Bhasmas
-- [Loha Bhasma](/herb/loha-bhasma/) (iron calx) supports hemoglobin synthesis and corrects anemia that often accompanies chronic Grahani (malabsorption)
-- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) acts as a [Rasayana](/reference/rasayana/) (rejuvenative) strengthening the GI mucosal lining and improving nutrient absorption
+- [Loha Bhasma](/herb/loha-bhasma/) (iron calx) is traditionally described as supporting blood formation in chronic Grahani (malabsorption)
+- [Abhraka Bhasma](/herb/abhraka-bhasma/) (mica calx) is traditionally described as a [Rasayana](/reference/rasayana/) (rejuvenative), said to support the digestive tract
 - [Tamra Bhasma](/herb/tamra-bhasma/) (copper calx) has Deepana (appetizer) and Lekhaniya (scraping) properties that remove Ama (digestive toxins) from the GI tract
 - Parpati Kalpana preparation (thin flake form) ensures rapid disintegration and absorption in the GI tract, specifically targeting the small intestine (Grahani)
-- Five metals/minerals (Pancha = five, Amrita = nectar) synergistically address all aspects of Grahani: digestion, absorption, assimilation, and elimination
+- Five metals/minerals (Pancha = five, Amrita = nectar) are traditionally held to act together on the digestion, absorption, assimilation and elimination involved in Grahani
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions): traditionally used for this condition. Clinical studies, including a randomized controlled trial, have reported improvement in digestive symptoms.
+- Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions): traditionally used for this condition. Clinical studies have reported improvement in digestive symptoms.
 - Agni Mandya (weak digestive fire) with Ama formation: a primary traditional indication. The constituent Bhasmas are traditionally described as having Deepana-Pachana properties.
 
 ## What do recent studies show?
@@ -53,7 +53,7 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 ## Recent safety updates
 
-- Contains mercury (Parada) as the primary component by weight - requires strict medical supervision and limited treatment duration
+- Contains mercury (Parada) as a major component - requires strict medical supervision and limited treatment duration
 - Heavy metal levels must comply with Ayurvedic Pharmacopoeia standards (lead <10 ppm); laboratory testing recommended for each batch
 - Iron ([Loha Bhasma](/herb/loha-bhasma/)) content contributes to cumulative iron load; monitoring recommended in patients with pre-existing iron storage disorders
 - Copper ([Tamra Bhasma](/herb/tamra-bhasma/)) content poses risk of copper toxicity at high doses or prolonged use; contraindicated in Wilson's disease
@@ -79,7 +79,7 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 **Optimal Timing:** With buttermilk or rice water
 
-**Standardized Extract:** Kajjali + Loha + Abhraka + Tamra + Swarna Bhasmas in Parpati form (five metals = Panchamrita)
+**Standardized Extract:** Kajjali (Parada + Gandhaka) + Loha + Abhraka + Tamra Bhasmas in Parpati form (five ingredients = Panchamrita)
 
 **Shelf Life:** Indefinite
 

@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Crocus sativus (saffron) is included in WHO's list of traditional medicinal plants. Kumkumadi Tailam is a classical Ayurvedic formulation documented in Ashtanga Hridayam (Uttarasthana). Regulated as traditional medicine under AYUSH, India. No specific WHO monograph for the compound formulation."
+whoStatus: "Crocus sativus (saffron) is included in WHO's list of traditional medicinal plants. Kumkumadi Tailam is a classical Ayurvedic formulation; the Ayurvedic Formulary of India attributes it to Yogaratnakara, Ksudrarogadhikara. Regulated as traditional medicine under AYUSH, India. No specific WHO monograph for the compound formulation."
 aliases: ["Kumkumadi Tailam", "KumkumadiTailam", "Polyherbal formulation (Kumkumadi Tailam) - primary ingredient: Crocus sativus L. (Saffron/Kumkuma)"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -38,14 +38,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-T
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy. Referenced in Indian Pharmacopoeia Commission volumes 3 and 4.
+Yogaratnakara, Ksudrarogadhikara (as cited by the Ayurvedic Formulary of India); Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtanga Hridayam. Formulation contains 21+ herbs for Varnya (complexion-enhancing) therapy. Referenced in Indian Pharmacopoeia Commission volumes 3 and 4.
 
 ## How does it work?
 
-- Crocin and crocetin anti-tyrosinase activity: Directly inhibit tyrosinase enzyme, reducing melanin biosynthesis and promoting even skin tone for pigmentation correction
+- Crocin and crocetin anti-tyrosinase activity: Studies report that crocin and crocetin inhibit the tyrosinase enzyme, reducing melanin biosynthesis
 - Carotenoid UV-photoprotection: Crocin and crocetin absorb UV radiation and scavenge UV-generated free radicals, protecting skin from photodamage and hyperpigmentation
 - Monoterpenoid anti-inflammatory action: Safranal modulates inflammatory mediators (COX-2, NF-kB) reducing skin inflammation, redness, and irritation
-- Kaempferol anti-wrinkle MMP inhibition: Flavonoid kaempferol inhibits MMP-1 and MMP-3 collagenase activity, preventing collagen degradation and reducing fine lines
+- Kaempferol anti-wrinkle MMP inhibition: Studies report that the flavonoid kaempferol inhibits MMP-1 and MMP-3 collagenase activity
 
 ## Which traditional uses are supported by research?
 
@@ -88,7 +88,7 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 **Standard Dosage:** External: 2-5 drops on face/skin, massage gently, once daily (usually at bedtime). The Ayurvedic Formulary of India attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
-**Bioavailability:** Facial skin is thin and highly vascular, topical actives are well-absorbed. Crocin and crocetin from saffron provide antioxidant activity directly in dermis. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/herb/manjishtha/) ([purpurin](/glossary/compounds-o-q/#purpurin), [alizarin](/glossary/compounds-1-a/#alizarin)) provides additional depigmenting action.
+**Bioavailability:** Facial skin is thin and highly vascular, topical actives are well-absorbed. Crocin and crocetin from saffron are reported to have antioxidant activity. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/herb/manjishtha/) ([purpurin](/glossary/compounds-o-q/#purpurin), [alizarin](/glossary/compounds-1-a/#alizarin)) is traditionally used for depigmentation.
 
 **Optimal Timing:** At bedtime (overnight application for maximum absorption and repair). Can also be applied in morning before makeup.
 

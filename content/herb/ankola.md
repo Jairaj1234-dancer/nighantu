@@ -43,7 +43,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 - Salviifosides A exerts COX-2 inhibitory effects, providing anti-inflammatory activity through selective cyclooxygenase-2 inhibition and reduction of prostaglandin E2 synthesis
 - Tubulosine alkaloid demonstrates cytotoxic activity against cancer cells by inhibiting protein synthesis and inducing apoptosis through activation of intrinsic mitochondrial pathways
-- Alangine and related [alkaloids](/glossary/compounds-1-a/#alkaloids) exhibit [antihypertensive](/glossary/pharmacology/#antihypertensive) effects through calcium channel blocking and ACE-inhibitory mechanisms in cardiovascular tissue
 
 ## Which traditional uses are supported by research?
 
@@ -93,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 **Optimal Timing:** As directed by Ayurvedic physician. External applications typically twice daily to affected area.
 
-**Standardized Extract:** Bark extract standardized to total alkaloid content (specify limit, typically 1-3% total alkaloids as alangine equivalent). Seed oil for external use, cold-pressed, unrefined.
+**Standardized Extract:** Bark extract standardized to total alkaloid content (typically 1-3% total alkaloids as alangine equivalent). Seed oil for external use, cold-pressed, unrefined.
 
 **Shelf Life:** 2 years (powder); 3 years (seed oil); 2 years (capsules)
 

@@ -31,10 +31,10 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 
 ## How does it work?
 
-- Navaratna (9 gems) concept provides synergistic mineral-gem therapy targeting all 7 Dhatus (body tissues) and 3 Doshas simultaneously
-- [Swarna Bhasma](/herb/swarna-bhasma/) (gold calx) acts as a potent [Rasayana](/reference/rasayana/) (rejuvenative) with [immunomodulatory](/reference/immunomodulatory/) and [neuroprotective](/reference/neuroprotective/) effects at nanoparticle scale
+- In Rasashastra theory, the Navaratna (9 gems) concept is held to provide synergistic mineral-gem therapy targeting all 7 Dhatus (body tissues) and 3 Doshas simultaneously
+- [Swarna Bhasma](/herb/swarna-bhasma/) (gold calx) is described in Rasashastra as a potent [Rasayana](/reference/rasayana/) (rejuvenative)
 - Parada-[Gandhaka](/glossary/concepts-a-m/#gandhaka) (mercury-sulfur) Kajjali base provides catalytic carrier for other Bhasmas, enhancing their tissue penetration (Yogavahi property)
-- Multiple metal Bhasmas (iron, copper, silver, tin) provide trace mineral supplementation addressing multi-system deficiencies
+- Multiple metal Bhasmas (iron, copper, silver, tin) are traditionally regarded as supplying mineral constituents
 - Gemstone Bhasmas (ruby, emerald, topaz, cat's eye, diamond) are believed to provide subtle energy influences on specific organ systems and chakras in traditional Rasashastra theory
 - Coral and Pearl Bhasmas provide bio-calcium and act as cooling agents balancing the heating effect of metallic Bhasmas
 
@@ -75,7 +75,7 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 
 **Standard Dosage:** 30–60 mg
 
-**Bioavailability:** Multi-component nanocomposite; broad-spectrum mineral bioavailability
+**Bioavailability:** Not established
 
 **Optimal Timing:** As directed by physician; with specific anupana per condition
 

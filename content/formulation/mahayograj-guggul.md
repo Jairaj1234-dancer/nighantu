@@ -32,9 +32,9 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 ## How does it work?
 
 - Anti-inflammatory action: Guggulsterones (E and Z) reduce joint inflammation by inhibiting NF-kB pathway and modulating pro-inflammatory cytokines (TNF-alpha, IL-6, IL-1beta)
-- Ama digestion and metabolic correction: The formulation's primary action is on Ama (metabolic toxins); it digests Ama and prevents further formation by rectifying digestive processes and metabolic activities
+- Ama digestion and metabolic correction: Traditional texts describe the formulation's primary action as being on Ama (metabolic toxins), digesting Ama and correcting digestive processes and metabolic activities
 - Lipid metabolism modulation: Guggulsterones act as FXR antagonists, promoting bile acid synthesis and cholesterol excretion
-- Mineral supplementation via bhasma: Processed metallic calx (iron, tin) provide bioavailable trace minerals that support enzymatic processes and tissue repair in musculoskeletal system
+- Mineral supplementation via bhasma: Processed metallic calx (including iron, tin, lead and mercury preparations; see safety section) provide bioavailable trace minerals that support enzymatic processes and tissue repair in musculoskeletal system
 - Bioavailability enhancement: [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) inhibits hepatic and intestinal glucuronidation and P-glycoprotein efflux, enhancing absorption of all active phytoconstituents
 
 ## Which traditional uses are supported by research?

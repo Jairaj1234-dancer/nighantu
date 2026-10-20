@@ -94,6 +94,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haritaki](/herb/haritaki/) for digestive disorders
-- With [Guduchi](/herb/guduchi/) for anti-inflammatory action
-- With Musta for diarrhea management
+- Traditionally combined with [Haritaki](/herb/haritaki/) in digestive complaints
+- Traditionally combined with [Guduchi](/herb/guduchi/) in inflammatory conditions
+- Traditionally combined with Musta in diarrhea

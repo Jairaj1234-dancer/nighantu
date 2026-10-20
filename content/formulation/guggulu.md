@@ -82,7 +82,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Ganamurali N, Devarajan M, Sabarathinam S 2026. [Guggulsterone, a Classical Lipid-Lowering Phytosteroidal FXR Antagonist, as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer](https://pubmed.ncbi.nlm.nih.gov/41326956/). *Lipids*. PMID [41326956](https://pubmed.ncbi.nlm.nih.gov/41326956/) · [doi:10.1002/lipd.70030](https://doi.org/10.1002/lipd.70030)  
   Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
 - Donato F, Raffetti E, Toninelli G and others 2021. [Guggulu and Triphala for the Treatment of Hypercholesterolaemia: A Placebo-Controlled, Double-Blind, Randomised Trial](https://pubmed.ncbi.nlm.nih.gov/33242870/). *Complementary medicine research*. PMID [33242870](https://pubmed.ncbi.nlm.nih.gov/33242870/) · [doi:10.1159/000510985](https://doi.org/10.1159/000510985)  
-  Double-blind RCT evaluating guggulu and [triphala](/herb/triphala/) combination for hypercholesterolemia management, providing modern clinical evidence for the traditional Ayurvedic application.
+  Double-blind RCT evaluating guggulu and [triphala](/herb/triphala/) combination for hypercholesterolemia.
 - Passeri D, Carotti A, Pittol JMR and others 2019. [Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool](https://pubmed.ncbi.nlm.nih.gov/31673308/). *MedChemComm*. PMID [31673308](https://pubmed.ncbi.nlm.nih.gov/31673308/) · [doi:10.1039/c9md00264b](https://doi.org/10.1039/c9md00264b)  
   Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
 
@@ -149,7 +149,7 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 
 **Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu)) twice daily.
 
-**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Act as yogavahi (biocarrier), enhance bioavailability of co-administered drugs. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
+**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Classically described as yogavahi (biocarrier), though guggulipid decreased the bioavailability of propranolol and diltiazem in healthy volunteers. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
 
 **Optimal Timing:** After meals, twice daily
 

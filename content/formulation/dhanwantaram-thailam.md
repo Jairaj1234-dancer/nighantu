@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Dhanwantaram Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in sesame oil with milk."
+answer: "Dhanwantaram Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Ashtanga Hridayam (Sharirasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in sesame oil with milk."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantara
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/glossary/concepts-m-y/#tila-taila) with milk.
+Ashtanga Hridayam (Sharirasthana); also referenced in Sahasrayogam (Taila Prakarana). Contains 28+ herbs processed in [sesame oil](/glossary/concepts-m-y/#tila-taila) with milk.
 
 ## How does it work?
 
@@ -53,7 +53,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 ## Recent safety updates
 
-- No absolute contraindications reported; generally safe for external use in pregnancy (avoid strong abdominal massage in first trimester). Rare cases of contact dermatitis in eczema-prone individuals - patch test recommended.
+- No absolute contraindications reported. For external use in pregnancy, avoid strong abdominal massage in the first trimester. Rare cases of contact dermatitis in eczema-prone individuals - patch test recommended.
 - Internal use safety not well-established for pregnant women; no adverse effects reported in lactating mothers or breastfeeding infants. No known drug-herb interactions for external use; internal ingestion with anticoagulants should be supervised by a practitioner.
 
 ## What is it made of?

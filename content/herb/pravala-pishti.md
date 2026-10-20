@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Pravala Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Pravala Pishti is a pishti, a coral preparation ground fine without calcination; Pravala Bhasma is the separate calcined form."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,9 +27,9 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ## How does it work?
 
-- Calcium supplementation: CaCO3 from coral provides bioavailable calcium for bone mineralization; the marine-derived form may have superior absorption compared to geological calcium carbonate due to trace mineral co-factors
-- Acid-neutralizing antacid: Calcium carbonate directly neutralizes excess gastric HCl, providing rapid relief from hyperacidity - mechanistically identical to pharmaceutical antacids
-- Pitta-pacifying and [hemostatic](/glossary/pharmacology/#hemostatic): The cooling property reduces Pitta-related bleeding disorders; calcium is essential for the coagulation cascade, supporting the traditional use in bleeding conditions
+- Calcium supplementation: CaCO3 from coral provides bioavailable calcium for bone mineralization
+- Acid-neutralizing antacid: Calcium carbonate neutralizes gastric HCl; traditionally used for hyperacidity
+- Pitta-pacifying and [hemostatic](/glossary/pharmacology/#hemostatic): Described as cooling and traditionally used for Pitta-related bleeding disorders; calcium is essential for the coagulation cascade, supporting the traditional use in bleeding conditions
 
 ## Which traditional uses are supported by research?
 
@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Like [Mukta Pishti](/herb/mukta-pishti/), [Pravala Pishti](/herb/pravala-pishti/) is a non-toxic mineral preparation containing no heavy metals when properly prepared - essentially a natural coral calcium supplement
+- GENERALLY SAFE: Like [Mukta Pishti](/herb/mukta-pishti/), [Pravala Pishti](/herb/pravala-pishti/) is essentially a natural coral calcium supplement; heavy-metal content depends on sourcing and should be tested
 - Dose-dependent side effects: Excess intake (>2500 mg/day) can cause abdominal distension, flatulence, loss of appetite, and risk of kidney stone formation due to hypercalcemia
 - Environmental concern: Coral harvesting raises ecological sustainability questions; sourcing from sustainable or cultivated coral stocks is recommended
 - Quality control: Marine-derived products should be tested for marine pollutants, microbiological contamination, and heavy metal residues; GMP-certified sourcing essential
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
+- **Primary component:** Calcium carbonate (coral), not calcined
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Excellent; coral calcium carbonate with natural marine mineral matrix, one of the most bioavailable calcium forms
+**Bioavailability:** Coral calcium carbonate with natural marine mineral matrix; comparative bioavailability not established
 
 **Optimal Timing:** With honey or Malai; with meals for calcium supplementation
 

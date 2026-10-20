@@ -27,14 +27,14 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Le
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval period, 8th-12th century CE); various classical compendia for Atisara and Grahani
+Sahasrayoga, Lehaprakarana (per the Ayurvedic Formulary of India); Bhaishajya Ratnavali and Sharangadhara Samhita (attribution not traced); Kerala Ayurveda tradition; various classical compendia for Atisara and Grahani
 
 ## How does it work?
 
-- Bilwa (Aegle marmelos) provides potent anti-diarrheal action through tannin-mediated astringent effect on intestinal mucosa
+- Bilwa (Aegle marmelos) is traditionally used for diarrhea; its astringent action on the intestinal mucosa is attributed to its tannins
 - Musta (Cyperus rotundus) provides Grahi (absorbent) and Deepana (digestive stimulant) properties, normalizing stool consistency
 - [Trikatu](/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
-- Carminative spices ([cumin](/herb/cumin/), [coriander](/herb/coriander/), cardamom, caraway) reduce intestinal gas, bloating, and abdominal spasm
+- Carminative spices ([cumin](/herb/cumin/), [coriander](/herb/coriander/), cardamom, caraway) are traditionally used to reduce intestinal gas, bloating, and abdominal spasm
 - Jaggery base provides prebiotic support and mild [laxative](/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
 
 ## Which traditional uses are supported by research?

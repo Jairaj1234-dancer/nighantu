@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 ## How does it work?
 
-- Multi-mineral anti-inflammatory action: The combination of copper ([Tamra Bhasma](/herb/tamra-bhasma/)), iron ([Loha Bhasma](/herb/loha-bhasma/)), and mica (Abhrak Bhasma) bhasmas provides trace minerals that modulate inflammatory pathways including COX-2 and lipoxygenase inhibition
+- Multi-mineral anti-inflammatory action: The combination of copper ([Tamra Bhasma](/herb/tamra-bhasma/)), iron ([Loha Bhasma](/herb/loha-bhasma/)), and mica (Abhrak Bhasma) bhasmas has been proposed to modulate inflammatory pathways; not established
 - [Neuroprotective](/reference/neuroprotective/) and [analgesic](/reference/analgesic/): Ras Sindoor (HgS) and Shring Bhasma provide neuroactive mineral compounds; Citrullus colocynthis has documented anti-nociceptive properties
 - Vata-pacifying mechanism: [Trikatu](/herb/trikatu/) ([ginger](/herb/ginger/), pepper, long pepper) improves digestion and bioavailability, while castor-based processing enhances anti-Vata (anti-degenerative/anti-neurological) properties per Ayurvedic pharmacology
 
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Iron oxide, Tin oxide, Lead oxide, [Guggulu](/formulation/guggulu/) compounds
+**Marker Compounds:** Mercury sulfide, Iron oxide, Tin oxide, Lead oxide
 
 **Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 

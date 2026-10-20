@@ -1024,16 +1024,6 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Myristicin](/glossary/compounds-l-o/#myristicin) (2 shared sources)
 - [Sabinene](/glossary/compounds-q-t/#sabinene) (2 shared sources)
 
-### Myristica fragrans {#myristica-fragrans}
-
-*Found in 5 entries across the catalogue*
-
-#### Often Found With
-
-- [Terminalia chebula](/glossary/compounds-t-z/#terminalia-chebula) (2 shared sources)
-- [Tsotel](/glossary/compounds-t-z/#tsotel) (2 shared sources)
-- [Zingiber](/herb/zingiber/) officinale (1 shared sources)
-
 ### Myristicin {#myristicin}
 
 *Found in 6 entries across the catalogue*

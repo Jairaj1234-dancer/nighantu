@@ -41,9 +41,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ## How does it work?
 
-- Anti-hemorrhoidal action through astringent tannins reducing vascular engorgement and anti-inflammatory flavonoids decreasing mucosal inflammation
-- Cytotoxic mechanism involving induction of apoptosis in hepatoma cell lines through mitochondrial pathway activation and caspase cascade triggering
-- Prebiotic and digestive mechanism through glucomannan dietary fiber promoting beneficial gut microbiota and improving bowel function in IBS
+- Astringent tannins and anti-inflammatory flavonoids have been proposed to underlie the traditional use in Arsha (piles); not established clinically
+- In vitro studies have reported induction of apoptosis in hepatoma cell lines through mitochondrial pathway activation and caspase cascade triggering
+- Prebiotic and digestive mechanism through glucomannan, a dietary fiber that supports bowel function
 
 ## Which traditional uses are supported by research?
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 ## Recent safety updates
 
 - Raw corms contain calcium oxalate crystals and acridity-causing compounds; Ayurvedic processing (Shodhana) through repeated washing and cooking with specific agents (lime water, tamarind) is essential to reduce irritant properties
-- Properly processed Surana is considered safe; clinical trials in hemorrhoid and IBS management reported no significant adverse effects at traditional therapeutic doses
+- Properly processed Surana is considered safe
 
 ## What is it made of?
 

@@ -31,8 +31,8 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ## How does it work?
 
-- Agni (digestive fire) kindling through Ushna Virya and Katu Vipaka improves appetite and nutrient absorption in children
-- [Immunomodulatory](/reference/immunomodulatory/) action through [alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) enhances innate and adaptive immunity in developing children
+- Agni (digestive fire) kindling through Ushna Virya and Katu Vipaka is traditionally held to support appetite and nutrient absorption in children
+- [Immunomodulatory](/reference/immunomodulatory/) action through [alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) is traditionally described as supporting immunity in children
 - Raktaprasadana (blood-enriching) activity of [Manjishtha](/herb/manjishtha/) and [Triphala](/herb/triphala/) supports healthy hematopoiesis
 - Medhya (intellect-promoting) action of [Vacha](/herb/vacha/) and [Jatamansi](/herb/jatamansi/) supports cognitive and mental development
 
@@ -51,7 +51,7 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 ## Recent safety updates
 
-- Contains 8-12% self-generated alcohol. NOT suitable for children under 5 years. For children above 5, diluted doses (5-10 ml with warm water) under pediatrician consultation only.
+- Contains self-generated alcohol. NOT suitable for children under 5 years. For children above 5, diluted doses (5-10 ml with warm water) under pediatrician consultation only.
 - Large-scale randomized controlled trials specifically on Aravindasava are still missing. Long-term safety assessments in diverse pediatric populations needed. Alcohol content requires careful monitoring.
 
 ## Dosage forms and preparation

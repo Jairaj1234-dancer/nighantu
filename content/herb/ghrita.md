@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 ## How does it work?
 
-- Bioavailability enhancement: Lipophilic medium enhances absorption of fat-soluble drugs and herbs; Siddha Ghrita preparations increase bioavailability of active phytochemicals across the blood-brain barrier
+- Bioavailability enhancement: Lipophilic medium enhances absorption of fat-soluble drugs and herbs
 - Anti-inflammatory via butyrate: Butyric acid inhibits NF-kB pathway, reduces inflammatory cytokines, strengthens intestinal barrier integrity, and supports healthy gut microbiome
 - [Neuroprotective](/reference/neuroprotective/): Butyrate increases brain-derived neurotrophic factor (BDNF), promotes neurogenesis, and reduces neuroinflammation; fat-soluble vitamin content supports myelin health
 - Digestive fire (Agni) enhancement: Short and medium-chain fatty acids are rapidly absorbed and metabolized, stimulating hepatic bile secretion and pancreatic enzyme activity
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 - Moderate consumption (1-2 tablespoons/day) shows neutral cardiovascular effects; excessive intake increases LDL cholesterol and cardiovascular risk
 - Patients with hyperlipidemia, obesity, or existing cardiovascular disease should limit ghee intake; Ayurvedic contraindications for Kapha disorders align with modern guidance
-- Ghee has high smoke point (250 degrees C) making it safe for cooking; does not generate trans fats or acrolein at normal cooking temperatures
+- Ghee has high smoke point (250 degrees C)
 - Quality depends on source (grass-fed cow ghee preferred); commercial ghee may contain added vegetable oils or be from grain-fed cattle with altered fatty acid profile
 
 ## What is it made of?
@@ -90,7 +90,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 **Standard Dosage:** 5–10 mL orally; variable in Snehapana (oleation therapy, up to 200 mL)
 
-**Bioavailability:** Excellent lipid-based vehicle; enhances absorption of lipophilic compounds 3–5x
+**Bioavailability:** Excellent lipid-based vehicle; enhances absorption of lipophilic compounds
 
 **Optimal Timing:** Before meals for Snehana; with meals for nutritive purposes
 

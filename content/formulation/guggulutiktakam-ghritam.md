@@ -33,15 +33,14 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 - Guggulsterones from [Guggulu](/formulation/guggulu/) provide potent anti-inflammatory action by modulating NF-kB and COX-2 pathways in bone and joint tissues
 - Panchatikta (five bitter herbs) synergistically reduce Pitta-mediated inflammation in skin and connective tissue
-- [Guduchi](/herb/guduchi/) ([berberine](/glossary/compounds-a-c/#berberine) [alkaloids](/glossary/compounds-1-a/#alkaloids)) provides [immunomodulatory](/reference/immunomodulatory/) action, restoring balanced immune function in autoimmune joint conditions
+- [Guduchi](/herb/guduchi/) ([berberine](/glossary/compounds-a-c/#berberine) [alkaloids](/glossary/compounds-1-a/#alkaloids)) is reported to have [immunomodulatory](/reference/immunomodulatory/) activity
 - Lipid-based ghee medium enhances bioavailability of guggulsterones and other lipophilic active compounds
-- Anti-hyperlipidemic action addresses metabolic syndrome components often associated with chronic bone and skin diseases
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Asthigata Vata (bone diseases/osteoporosis): traditionally used for this condition. Clinical studies in osteoarthritis have reported reduced pain and improved mobility.
+- Asthigata Vata (bone diseases/osteoporosis): traditionally used for this condition. Clinical studies in osteoarthritis (Sandhigata Vata), a different condition, have reported reduced pain and improved mobility.
 - Bhagandara (fistula-in-ano): traditionally used for this condition. [Guggulu](/formulation/guggulu/)-based [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) is an Ayurvedic surgical procedure traditionally used for fistula.
 - Kushta (chronic skin diseases): traditionally used for this condition. Pharmacological studies have reported anti-inflammatory and anti-microbial actions of its ingredients.
 - Vatarakta (gout): traditionally used for this condition. Experimental studies have reported anti-hyperuricemic and anti-inflammatory effects of [Guggulu](/formulation/guggulu/).
@@ -55,7 +54,6 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 ## Recent safety updates
 
-- Clinical studies show effective outcomes without noxious effects at recommended doses; considered safe for long-term use under supervision
 - Caution in patients with thyroid disorders as [Guggulu](/formulation/guggulu/) may affect thyroid function; monitor thyroid levels during prolonged use
 - Ghee base requires monitoring in patients with hyperlipidemia and cardiovascular conditions
 
@@ -65,9 +63,9 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 **Standard Dosage:** 12 g (1-2 teaspoons) twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:27. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 57-58 14.
 
-**Bioavailability:** Ghee matrix provides superior absorption of both lipophilic guggulsterones and hydrophilic bitter principles. [Guggulu](/formulation/guggulu/) acts as yogavahi further enhancing bioavailability of co-ingredients. Tikta rasa (bitter taste) stimulates hepatobiliary function, improving systemic absorption. Excellent vehicle for bone and joint conditions.
+**Bioavailability:** Ghee matrix provides superior absorption of both lipophilic guggulsterones and hydrophilic bitter principles. [Guggulu](/formulation/guggulu/) acts as yogavahi further enhancing bioavailability of co-ingredients. Tikta rasa (bitter taste) stimulates hepatobiliary function, improving systemic absorption.
 
-**Optimal Timing:** On empty stomach, morning and evening. Best for Vatarakta (gouty arthritis), Kushtha (skin diseases), and Asthi-Sandhi Vikara (bone/joint disorders).
+**Optimal Timing:** On empty stomach, morning and evening. Traditionally used for Vatarakta (gouty arthritis), Kushtha (skin diseases), and Asthi-Sandhi Vikara (bone/joint disorders).
 
 **Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/)
 

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Womens-Health"
-answer: "Mamsarohini is a substance used in the Ayurvedic materia medica. Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with piperine inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold."
+answer: "Mamsarohini is a substance used in the Ayurvedic materia medica."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Mamsarohini/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsules, Tablets, Avaleha (confection), [Ghrita](/herb/ghrita/) (medicated ghee)
 
-**Standard Dosage:** 1-3 g rhizome powder per day; 30-50 mL decoction twice daily; 250-500 mg standardized extract twice daily
+**Standard Dosage:** 1-3 g bark powder per day; 30-50 mL decoction twice daily; 250-500 mg standardized extract twice daily
 
 **Bioavailability:** [Berberine](/glossary/compounds-a-c/#berberine) and related protoberberine [alkaloids](/glossary/compounds-1-a/#alkaloids) have inherently low oral bioavailability (approximately 5% for [berberine](/glossary/compounds-a-c/#berberine)). Significant intestinal and hepatic first-pass metabolism. P-glycoprotein efflux limits absorption. Co-administration with [piperine](/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability by 2-fold. [Ghrita](/herb/ghrita/)-based preparations may improve lipophilic alkaloid absorption.
 

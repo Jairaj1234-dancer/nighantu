@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Kaharuba Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Kaharuba Pishti is a pishti, a finely ground preparation of amber (fossilized tree resin) made without calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -41,16 +41,15 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 ## What do recent studies show?
 
 - Joshi N, Ahuja MR, Rastogi GK and others 2020. [Characterization and antimicrobial study of Trinakantamani (Amber) Pishti](https://pubmed.ncbi.nlm.nih.gov/35813362/). *Ayu*. PMID [35813362](https://pubmed.ncbi.nlm.nih.gov/35813362/) · [doi:10.4103/ayu.AYU_155_19](https://doi.org/10.4103/ayu.AYU_155_19)  
-  EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
+  EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Amber is fossilized tree resin with no heavy metal toxicity concerns; tested heavy metals (As, Hg, Cd, Pb) were below permissible limits
+- Amber is fossilized tree resin; tested heavy metals (As, Hg, Cd, Pb) were below permissible limits
 - Possibly safe for most people with no reported side effects at therapeutic doses; maximum daily dose should not exceed 1500 mg to avoid headache
 - Microbial contamination and total microbial count found within permissible limits in analytical studies
-- One of the safest Pishti preparations - no mercury, arsenic, or toxic metals; suitable for broader clinical use compared to rasa shastra formulations
 
 ## What is it made of?
 

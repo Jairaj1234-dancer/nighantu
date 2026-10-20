@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Nadi Hingu (Gardenia gummifera) is a plant drug, also called Hingunadika, Dikamali and Naadihingu. Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract."
+answer: "Nadi Hingu (Gardenia gummifera) is a plant drug, also called Hingunadika, Dikamali and Naadihingu."
 botanical: "Gardenia gummifera"
 family: "Rubiaceae"
 sanskrit: ""
@@ -40,21 +40,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 **Standard Dosage:** 250-500 mg resin powder per day; typically in combination formulations at 125-250 mg per dose; with warm water or buttermilk
 
-**Bioavailability:** Ferulic acid and farnesiferols have moderate to good oral bioavailability (30-50%). Volatile sulfur compounds are rapidly absorbed but also rapidly metabolized. Gum-resin matrix provides sustained release of active compounds in the GI tract. [Umbelliferone](/glossary/compounds-t-z/#umbelliferone) shows good oral absorption (~45%).
+**Bioavailability:** Not established.
 
 **Optimal Timing:** Before meals for digestive stimulation; after meals for carminative effect; with warm water or buttermilk for enhanced action
-
-**Standardized Extract:** Purified oleo-gum-resin standardized to minimum 5% ferulic acid and 2% volatile oil content. Hydroalcoholic extract (8:1) with minimum 8% total phenolic acids. Volatile oil fraction by steam distillation for aromatherapy applications.
 
 **Shelf Life:** Crude resin: 36+ months. Purified resin powder: 24 months. Capsules/tablets: 30 months. Volatile oil: 24 months.
 
 **Storage:** Store resin in airtight containers below 30 deg C (softens at higher temperatures). Protect from light. Volatile oil in amber glass, tightly sealed. All forms protected from moisture. Keep away from strong-smelling substances as resin can absorb odors.
 
-**Marker Compounds:** Ferulic acid, Umbelliferone, Farnesiferol, Isopimpinellin, Volatile sulfur compounds, Gum [polysaccharides](/glossary/compounds-o-q/#polysaccharides), Sesquiterpene [coumarins](/glossary/compounds-c-d/#coumarins)
+**Marker Compounds:** Not established.
 
 ### Extraction Methods
 
-- Natural resin collection from root incision
+- Collection of resinous exudate from leaf buds and young shoots
 - Purification by dissolution in warm water and filtration
 - Hydroalcoholic extraction (70% ethanol)
 - Steam distillation for volatile oil fraction

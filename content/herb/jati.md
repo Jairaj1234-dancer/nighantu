@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Jati/meta-analysis.md"
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 30-60ml flower decoction; 5-10 drops essential oil (external or aromatherapy); 2-3 drops Nasya oil per nostril
 
-**Bioavailability:** Jasminum grandiflorum (Jati/Jasmine) flowers and leaves contain secoiridoids, [flavonoids](/reference/flavonoids/), and essential oil (jasminol, [linalool](/glossary/compounds-l-o/#linalool), benzyl acetate). Linalool has high oral bioavailability (~70%) and crosses blood-brain barrier. Secoiridoid [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut [enzymes](/glossary/compounds-d-g/#enzymes) to absorbable aglycones. Nasal administration (Nasya) provides direct CNS access bypassing first-pass metabolism.
+**Bioavailability:** Jati (Jasmine) flowers and leaves contain secoiridoids, [flavonoids](/reference/flavonoids/), and essential oil (jasminol, [linalool](/glossary/compounds-l-o/#linalool), benzyl acetate). Linalool has high oral bioavailability (~70%) and crosses blood-brain barrier. Secoiridoid [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut [enzymes](/glossary/compounds-d-g/#enzymes) to absorbable aglycones. Nasal administration (Nasya) provides direct CNS access bypassing first-pass metabolism.
 
 **Optimal Timing:** Nasya: morning on empty stomach. Internal use: after meals. Aromatherapy: as needed for relaxation.
 

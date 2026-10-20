@@ -60,7 +60,7 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 - [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
 - [Phala Ghrita](/formulation/phala-ghrita/)
 - [Renuka](/herb/renuka/), *Vitex agnus-castus L.*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
+- [Rishabhaka](/herb/rishabhaka/)
 - [Sanjivani Vati](/formulation/sanjivani-vati/)
 
 ## Related Body Systems

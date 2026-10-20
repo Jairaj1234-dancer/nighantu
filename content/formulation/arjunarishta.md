@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Arjunarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), where it is described as Arjuna Asava for strengthening the heart and enhancing stamina."
+answer: "Arjunarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), which attributes it to Bhaisajyaratnavali, Hrdrogadhikara."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -32,9 +32,9 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 ## How does it work?
 
 - [Cardioprotective](/reference/cardioprotective/) action through [flavonoids](/reference/flavonoids/), [glycosides](/glossary/compounds-g-l/#glycosides) ([arjunetin](/glossary/compounds-1-a/#arjunetin), arjunolic acid), and coenzyme Q10 protecting myocardial cells
-- [Antioxidant](/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/)) prevents oxidative damage to cardiac tissue
+- [Antioxidant](/reference/antioxidant/) activity (ellagic acid, gallic acid, [quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/)) has been reported in research
 - Anti-hypertensive effect through mild ACE inhibition and vasodilation
-- Myocardial calcium channel stabilization provides antiarrhythmic effects and reduces left ventricle hypertrophy
+- Research has reported calcium channel stabilization and antiarrhythmic activity
 
 ## Which traditional uses are supported by research?
 

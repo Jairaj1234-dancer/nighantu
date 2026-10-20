@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Bhasmas"
-answer: "Varatika Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Hyperacidity and gastritis (Amlapitta): Antacid activity confirmed through in-vitro studies and clinical observations."
+answer: "Varatika Bhasma is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. It is traditionally used for hyperacidity and gastritis (Amlapitta); in vitro studies and clinical observations have reported antacid activity."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -37,9 +37,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 ## How does it work?
 
 - Antacid action through calcium carbonate-mediated direct neutralization of excess gastric hydrochloric acid, providing rapid pH buffering in the stomach
-- Gastroprotective effect through formation of calcium-based protective film on gastric and duodenal mucosa, shielding against acid-pepsin erosion
 - Krimighna (anti-parasitic) action attributed to alkaline pH environment created in the intestinal tract, hostile to intestinal parasites and worms
-- Ushna Virya (hot potency) with alkaline effects: hot in nature but creates alkaline milieu in stomach, paradoxically balancing acid secretion and relieving heartburn
+- Ushna Virya (hot potency): in traditional accounts, hot in nature but described as creating an alkaline milieu in the stomach
 
 ## Which traditional uses are supported by research?
 
@@ -57,8 +56,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 ## Recent safety updates
 
-- GENERALLY SAFE: Marine shell-based calcium preparation without toxic heavy metals. Proven safety in toxicity testing.
-- NO SIGNIFICANT SIDE EFFECTS: Well-tolerated at recommended doses. Natural calcium carbonate source.
 - HYPERCALCEMIA CAUTION: Excessive use may lead to elevated calcium levels. Dose adherence important.
 - MARINE ALLERGEN CONSIDERATION: Patients with shellfish allergies should use with caution due to marine shell origin.
 

@@ -11,7 +11,7 @@ botanical: "Ocimum tenuiflorum (syn. O. sanctum)"
 family: "Lamiaceae"
 sanskrit: ""
 ayurvedicCategory: "Kasa-Shvasahara (Anti-tussive/Anti-asthmatic)"
-whoStatus: "No dedicated WHO monograph identified. Listed in Ayurvedic Pharmacopoeia of India. Tulsi extracts comply with USP requirements for dietary supplement quality (microbial limits, heavy metals, pesticides, aflatoxins, residual solvents). Recognized in multiple traditional medicine systems of Southeast Asia. 24+ clinical studies identified in systematic reviews supporting therapeutic efficacy."
+whoStatus: "No dedicated WHO monograph identified. Listed in Ayurvedic Pharmacopoeia of India. Tulsi extracts comply with USP requirements for dietary supplement quality (microbial limits, heavy metals, pesticides, aflatoxins, residual solvents). Recognized in multiple traditional medicine systems of Southeast Asia."
 aliases: ["Ocimum tenuiflorum (syn. O. sanctum)"]
 tags: ["ayurveda", "herb", "single-herb", "respiratory-health", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -66,10 +66,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Tulsi/meta-analysis.md"
 
 - Active compounds: Over 100 distinct compounds including eugenol, rosmarinic acid, various [flavonoids](/reference/flavonoids/), phenolics, [terpenoids](/glossary/compounds-t-z/#terpenoids), and fatty acid derivatives.
 - NF-kB inhibition and Nrf2 activation: Provides potent anti-inflammatory and antioxidant responses.
-- Cancer pathways: Induces apoptosis via mitochondrial and PI3K/AKT pathways.
+- Cancer pathways: Reported in studies to induce apoptosis via mitochondrial and PI3K/AKT pathways.
 - Metabolic regulation: Modulates [glucose](/glossary/compounds-d-g/#glucose) and lipid metabolism through AMPK activation and HMG-CoA reductase inhibition.
 - Multi-pathway pharmacology: Alters functionality of NF-kB, ERK, p38, and MAPK pathways.
-- Antimicrobial: Unsaturated fatty acids (linolic and linoleic acid) destabilize microbial membranes by interfering with electron transport chain.
+- Antimicrobial: Unsaturated fatty acids (linoleic and linolenic acid) destabilize microbial membranes by interfering with electron transport chain.
 - [Adaptogenic](/reference/adaptogenic/): Modulates cortisol and stress-response hormones including salivary amylase.
 - Antiviral: Eugenol inhibits SARS-CoV-2 spike protein interaction with ACE2.
 
@@ -88,7 +88,7 @@ Revered as sacred plant in Hinduism. Used for Kasa (cough), Shwasa (asthma), Jwa
 - Lopresti AL, Smith SJ, Metse AP and others 2022. [A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer(TM)) on stress, mood, and sleep in adults experiencing stress](https://pubmed.ncbi.nlm.nih.gov/36185698/). *Frontiers in nutrition*. PMID [36185698](https://pubmed.ncbi.nlm.nih.gov/36185698/) · [doi:10.3389/fnut.2022.965130](https://doi.org/10.3389/fnut.2022.965130)  
   8-week supplementation reduced objective and subjective stress measures; significantly lower hair cortisol, salivary cortisol, salivary amylase, and blood pressure vs placebo. Improved insomnia scores with good tolerability.
 - Arya R, Faruquee HM, Shakya H and others 2024. [Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum sanctum Linn (Tulsi)](https://pubmed.ncbi.nlm.nih.gov/39771214/). *Plants (Basel, Switzerland)*. PMID [39771214](https://pubmed.ncbi.nlm.nih.gov/39771214/) · [doi:10.3390/plants13243516](https://doi.org/10.3390/plants13243516)  
-  Comprehensive review of over 100 distinct phytochemicals in tulsi; confirmed antibacterial, anti-diabetic, and anti-carcinogenic properties with detailed molecular pathway analysis.
+  Comprehensive review of over 100 distinct phytochemicals in tulsi; summarised reported antibacterial, anti-diabetic, and anti-carcinogenic properties with detailed molecular pathway analysis.
 - Paidi RK, Jana M, Raha S and others 2021. [Eugenol, a Component of Holy Basil (Tulsi) and Common Spice Clove, Inhibits the Interaction Between SARS-CoV-2 Spike S1 and ACE2 to Induce Therapeutic Responses](https://pubmed.ncbi.nlm.nih.gov/34677731/). *Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology*. PMID [34677731](https://pubmed.ncbi.nlm.nih.gov/34677731/) · [doi:10.1007/s11481-021-10028-1](https://doi.org/10.1007/s11481-021-10028-1)  
   Eugenol, a key tulsi compound, demonstrated ability to inhibit the interaction between SARS-CoV-2 spike S1 protein and ACE2 receptor, suggesting antiviral therapeutic potential.
 

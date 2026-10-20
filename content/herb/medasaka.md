@@ -44,13 +44,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 
 **Optimal Timing:** With meals for nutritive effects; morning with warm milk for [Rasayana](/reference/rasayana/) action; Ghrita preparation with meals
 
-**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 4% total steroidal [saponins](/reference/saponins/). [Mucilage](/glossary/compounds-l-o/#mucilage) fraction isolated for GI-targeted preparations. Combined Ashtavarga extract for premium Rasayana products.
+**Standardized Extract:** [Mucilage](/glossary/compounds-l-o/#mucilage) fraction isolated for GI-targeted preparations.
 
-**Shelf Life:** Fresh tubers: 7-10 days refrigerated. Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months. Taila: 36 months.
+**Shelf Life:** Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months. Taila: 36 months.
 
 **Storage:** Same requirements as Meda. Store dried material below 25 deg C with desiccant protection. Ghrita and Taila at room temperature in glass or stainless steel containers. Protect from moisture and light.
 
-**Marker Compounds:** [Diosgenin](/glossary/compounds-d-g/#diosgenin), [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Hecogenin, [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) (mucilage), Saponin glycosides
+**Marker Compounds:** [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) (mucilage), Saponin glycosides
 
 ### Extraction Methods
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Meda (complementary within Ashtavarga)
+- Meda
 - [Jivaka](/herb/jivaka/)-[Rishabhaka](/herb/rishabhaka/) (Ashtavarga group members)
 - [Shatavari](/herb/shatavari/) (nutritive and reproductive tonic)
 - [Bala](/herb/bala/)-[Atibala](/herb/atibala/) (strengthening combination)

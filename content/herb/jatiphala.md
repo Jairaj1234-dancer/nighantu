@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 **Bioavailability:** Myristica fragrans (nutmeg) contains [myristicin](/glossary/compounds-l-o/#myristicin), [elemicin](/glossary/compounds-d-g/#elemicin), [safrole](/glossary/compounds-q-t/#safrole), and trimyristin. Myristicin is well absorbed orally with high lipophilicity (logP ~2.5). Myristicin is metabolized to MMDA-like compounds by CYP [enzymes](/glossary/compounds-d-g/#enzymes) (contributing to psychoactive effects at high doses). Essential oil components have high bioavailability via GI and inhalation routes. Trimyristin (myristic acid triglyceride) has standard lipid absorption.
 
-**Optimal Timing:** After meals for digestive support; at bedtime with warm milk (pinch of powder) for sleep
+**Optimal Timing:** After meals for digestive support; traditionally taken at bedtime with warm milk (pinch of powder) to support sleep
 
 **Standardized Extract:** Essential oil standardized to myristicin (5-15%), safrole (<1% IFRA limit); CO2 extract for trimyristin-rich fraction; powder with verified essential oil content >5%
 

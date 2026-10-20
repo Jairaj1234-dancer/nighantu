@@ -152,12 +152,6 @@ answer: "Plant families is a reference glossary of 24 entries drawn from the Ayu
 
 - [Brahmi](/herb/brahmi/), *Bacopa monnieri* (Antioxidant, Nootropic, Medhya (Nootropic))
 
-### Family: Polyherbal compound formula {#polyherbal-compound-formula}
-
-*4 members in the catalogue*
-
-- Gabur 25 original Tibetan formula, *Polyherbal formula (25 ingredients); includes [camphor](/herb/camphor/) as principal ingredient* (Anti-inflammatory, Antipyretic)
-
 ### Family: Ranunculaceae {#ranunculaceae}
 
 *15 members in the catalogue*

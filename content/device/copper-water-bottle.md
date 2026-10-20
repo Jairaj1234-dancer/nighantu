@@ -23,11 +23,11 @@ A modern portable adaptation of the traditional Tamra Patra (copper vessel), des
 
 ## Where is it described in the classical texts?
 
-Based on Charaka Samhita and Ashtanga Hridaya references to the therapeutic properties of water stored in copper vessels. The oligodynamic effect of copper on water is described in classical texts.
+Based on Charaka Samhita and Ashtanga Hridaya references to the therapeutic properties of water stored in copper vessels.
 
 ## How is it used traditionally?
 
-Daily hydration with copper-infused water for immune support, digestive health, anti-inflammatory benefits, joint health, thyroid support, and antimicrobial water purification.
+Traditionally used for daily hydration with water stored in copper vessels; specific health benefits are not established here.
 
 ## Traditional materials
 

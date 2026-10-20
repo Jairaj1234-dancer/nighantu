@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Joint-Musculoskeletal"
-answer: "Dhava (Anogeissus latifolia) is a plant drug, also called Dhavala, Baakali and Dhaura. Tannin-rich fraction has low systemic bioavailability but effective local GI action (astringent, anti-diarrheal). Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%)."
+answer: "Dhava (Anogeissus latifolia) is a plant drug, also called Dhavala, Baakali and Dhaura. Tannin-rich fraction has low systemic bioavailability and is thought to act locally in the GI tract as an astringent; it is traditionally used for diarrhea. Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%)."
 botanical: "Anogeissus latifolia"
 family: "Combretaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Dhava/meta-analysis.m
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Anogeissus latifolia (Dhava) bark contains [tannins](/reference/tannins/), [flavonoids](/reference/flavonoids/), and ellagic acid derivatives. Tannin-rich fraction has low systemic bioavailability but effective local GI action (astringent, anti-diarrheal). Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%). Enhancement: co-administration with lipid vehicles improves flavonoid absorption; the traditional practice of preparing Kashayam with jaggery ([Guda](/glossary/concepts-a-m/#guda)) may enhance palatability and provide matrix for improved absorption.
+**Bioavailability:** Anogeissus latifolia (Dhava) bark contains [tannins](/reference/tannins/), [flavonoids](/reference/flavonoids/), and ellagic acid derivatives. Tannin-rich fraction has low systemic bioavailability and is thought to act locally in the GI tract as an astringent; it is traditionally used for diarrhea. Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%). Enhancement: co-administration with lipid vehicles improves flavonoid absorption; the traditional practice of preparing Kashayam with jaggery ([Guda](/glossary/concepts-a-m/#guda)) may enhance palatability and provide matrix for improved absorption.
 
 **Optimal Timing:** Before meals with warm water or honey for digestive conditions; after meals for diarrhea management
 

@@ -27,11 +27,11 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 ## How does it work?
 
-- Multi-target anti-inflammatory action: Gold bhasma provides immunomodulation, copper bhasma offers anti-microbial activity, and mica bhasma supplies trace minerals - collectively targeting respiratory and skin inflammation
+- Proposed multi-target action (not established for this formulation): gold bhasma is attributed immunomodulation, copper bhasma anti-microbial activity, and mica bhasma trace minerals
 - Respiratory action: [Camphor](/herb/camphor/) and nutmeg have documented bronchodilatory and [expectorant](/reference/expectorant/) properties; the metallic bhasmas may enhance mucosal immunity in the respiratory tract
-- [Antimicrobial](/reference/antimicrobial/): Gold, copper, and tin bhasmas have demonstrated antimicrobial properties in various studies, supporting the formulation's traditional use in infectious conditions
+- [Antimicrobial](/reference/antimicrobial/): Gold, copper, and tin bhasmas have demonstrated antimicrobial properties in various studies
 
-## Which traditional uses are supported by research?
+## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 

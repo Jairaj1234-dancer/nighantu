@@ -51,7 +51,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 - Jamadagni S, Jamadagni P, Angom B and others 2020. [Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl(4) induced chronic hepatotoxicity](https://pubmed.ncbi.nlm.nih.gov/32035767/). *Journal of Ayurveda and integrative medicine*. PMID [32035767](https://pubmed.ncbi.nlm.nih.gov/32035767/) · [doi:10.1016/j.jaim.2019.09.005](https://doi.org/10.1016/j.jaim.2019.09.005)  
   [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
 - Kumar G, Srivastava A, Sharma SK and others 2012. [Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients: A pilot prospective cohort clinical study](https://pubmed.ncbi.nlm.nih.gov/23559790/). *Ayu*. PMID [23559790](https://pubmed.ncbi.nlm.nih.gov/23559790/) · [doi:10.4103/0974-8520.105238](https://doi.org/10.4103/0974-8520.105238)  
-  Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.
+  Pilot prospective cohort study in dyslipidemia patients evaluated the safety and efficacy of Arjuna powder with Arogyavardhini Vati.
 
 *Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
@@ -67,7 +67,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
 
-**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine, particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
+**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine, particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer).
 
 **Optimal Timing:** Before meals or after meals as directed, typically twice daily
 
@@ -79,7 +79,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/herb/loha-bhasma/) quality (Bhasma pariksha, rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
 
-**Vehicle (Anupana):** Warm water, buttermilk, or as directed based on specific condition
+**Vehicle (Anupana):** Ardraka svarasa, honey, nimba svarasa or water, per the Ayurvedic Formulary of India
 
 ### Synergistic Combinations
 

@@ -19,7 +19,7 @@ productHints: []
 words: 191
 srcRel: "Ayurveda/Medical-Devices/Modern-Ayurvedic-Devices/Kansa-Wand-Bronze-Massage-Tool/device-info.md"
 ---
-A dome-shaped massage tool with a handle, made from Kansa (traditional bronze alloy of copper and tin in specific proportions - approximately 78% copper and 22% tin). Used for facial and body massage. The metal is considered a 'healing metal' in Ayurveda that balances skin pH and electromagnetic energy.
+A dome-shaped massage tool with a handle, made from Kansa (traditional bronze alloy of copper and tin in specific proportions - approximately 78% copper and 22% tin). Used for facial and body massage. The metal is considered a 'healing metal' in Ayurveda.
 
 ## Where is it described in the classical texts?
 

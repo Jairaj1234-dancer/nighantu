@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Eye-Health"
-answer: "Chakshushya is a substance used in the Ayurvedic materia medica. Carotenoid-rich Chakshushya herbs show moderate oral bioavailability enhanced significantly by lipids (Ghrita is the classical vehicle for ophthalmic Ayurvedic preparations). Topical ocular preparations (Anjana, Aschyotana) provide direct local bioavailability bypassing systemic distribution."
+answer: "Chakshushya (eye-benefiting) is a functional category (Gana) of herbs and formulations in the Ayurvedic materia medica, rather than a single herb. Carotenoid-rich Chakshushya herbs show moderate oral bioavailability enhanced significantly by lipids (Ghrita is the classical vehicle for ophthalmic Ayurvedic preparations). Topical ocular preparations (Anjana, Aschyotana) provide direct local bioavailability bypassing systemic distribution."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -65,5 +65,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Chakshushya/meta-analysis.md"
 - With [Triphala](/herb/triphala/) for comprehensive eye care (Triphala Ghrita)
 - With [Shatavari](/herb/shatavari/) for nourishing ophthalmic formulations
 - With [Yashtimadhu](/herb/yashtimadhu/) for anti-inflammatory eye support
-- With Amalaki for [antioxidant](/reference/antioxidant/) eye protection
+- With Amalaki for [antioxidant](/reference/antioxidant/) eye support
 - With [Lodhra](/herb/lodhra/) for astringent ophthalmic preparations

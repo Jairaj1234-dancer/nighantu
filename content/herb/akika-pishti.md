@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Akika Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Akika Pishti is a pishti, a preparation of agate finely triturated with rose water without calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,8 +27,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 ## How does it work?
 
-- Pitta-pacifying cooling action: [Silica](/glossary/compounds-q-t/#silica)-based mineral matrix provides systemic cooling effect, calming aggravated Pitta dosha in conditions of heat, inflammation, and acute irritability
-- Cardiac tonic: Trace minerals (iron, [magnesium](/glossary/compounds-l-o/#magnesium), calcium) in the agate matrix support cardiovascular function; the cooling property reduces stress-related cardiac symptoms
+- Pitta-pacifying cooling action: [Silica](/glossary/compounds-q-t/#silica)-based mineral matrix is traditionally described as cooling and used to pacify aggravated Pitta dosha
+- Cardiac tonic: Trace minerals (iron, [magnesium](/glossary/compounds-l-o/#magnesium), calcium) in the agate matrix support cardiovascular function
 - [Hemostatic](/glossary/pharmacology/#hemostatic): [Silicon](/glossary/compounds-q-t/#silicon) dioxide and trace minerals may contribute to strengthening vascular walls and supporting coagulation, relevant to traditional use in bleeding disorders
 
 ## Which traditional uses are supported by research?
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 ## Recent safety updates
 
-- GENERALLY SAFE for oral ingestion: Silicon dioxide is classified as safe when taken orally at recommended doses; no significant toxicity concerns at therapeutic doses
+- Silicon dioxide is generally regarded as low-toxicity when ingested; the safety of this preparation itself has not been established
 - CRITICAL WARNING: Must NOT be inhaled - inhalation of silica powder can cause silicosis, a serious and irreversible lung fibrosis condition
 - Lab testing should verify heavy metal levels (lead, arsenic, mercury) are within Ayurvedic Pharmacopoeia limits, as natural agate may contain trace impurities depending on geological source
 - Clinical trial evidence is extremely limited - most data comes from small observational studies, case reports, or animal experiments

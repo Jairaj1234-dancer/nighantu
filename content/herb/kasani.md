@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder; 50-100 mL decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Chicoric acid and lactucin sesquiterpene lactones show moderate oral bioavailability (25-35%). Inulin (prebiotic fiber, 15-20% in root) is not absorbed but modulates gut microbiome favorably. Chlorogenic acid bioavailability ~33% with significant colonic metabolism. Co-administration with [piperine](/reference/piperine/) enhances phenolic acid absorption. Phytosome formulation of chicoric acid improves bioavailability 2.5-fold.
+**Bioavailability:** Chicoric acid and lactucin sesquiterpene lactones show moderate oral bioavailability (25-35%). Inulin (prebiotic fiber) is not absorbed but modulates gut microbiome favorably. Chlorogenic acid bioavailability ~33% with significant colonic metabolism. Co-administration with [piperine](/reference/piperine/) enhances phenolic acid absorption. Phytosome formulation of chicoric acid improves bioavailability 2.5-fold.
 
 **Optimal Timing:** Before meals for hepatoprotective and digestive benefits; root decoction as coffee substitute in the morning; prebiotic (inulin) preparations between meals
 

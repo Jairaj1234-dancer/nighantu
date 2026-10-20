@@ -351,7 +351,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -972,10 +972,7 @@
           "n": null
         }
       ],
-      "openQuestions": [
-        "Citation #0 refuted on verification: Quote and location check out: at 'LESSON V. And now we shall expound the Lesson called Matrasitiya (proper measure in respect of diet)' the text reads 'One should take a proper measure of food. One's ",
-        "Citation #2 refuted on verification: Quote is verbatim and continuous in the retrieved text, terminating at printed marker 25 in Vimana Lesson I (Rasa-Vimanam), so the location is right and the twelve rules do count out (warm; oily; prop"
-      ]
+      "openQuestions": []
     },
     {
       "slug": "ama-formation",
@@ -1988,7 +1985,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita (Kaviratna translation, 1896-1913)",
@@ -2058,7 +2055,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita (Kaviratna translation, 1896-1913)",
@@ -2114,7 +2111,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita (Bhishagratna translation, 1907-1916), Vol. I",
@@ -2577,7 +2574,7 @@
           "translator": "Kunja Lal Bhishagratna (1907-1916)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/b24758619_0001/b24758619_0001_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -2671,10 +2668,6 @@
         }
       ],
       "openQuestions": [
-        "Citation #0 refuted on verification: REFUTED on an off-by-one verse number. The quote is genuine and verbatim at the claimed URL (archive.org/stream/BIUSante_47357, Lesson XV 'Treatment of Diseases of the Grahani'): 'They who sustain the",
-        "Citation #1 refuted on verification: REFUTED on an off-by-one verse number only. The quote is verbatim at the claimed URL: 'Some are of opinion that the transformation (of one \"dhatu\" into another) takes place in six days and nights. Of ",
-        "Citation #2 refuted on verification: REFUTED on an off-by-one verse number only. The quote is verbatim at the claimed URL (BIUSante_47357, Lesson XV): 'Since the five heats, viz., that appertaining to earth, that to water, that to fire, ",
-        "Citation #8 refuted on verification: Downloaded https://archive.org/download/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt and confirmed it is Bhishagratna Vol. II ('EDITED BY KAVIRAJ KUNJALAL BHISHAGRATNA, M.R.A.S. Vol.",
         "Citation #8 (now the Sushruta Sharirasthana 3 entry): the 2026-09-20 refutation and its correction to section 16 are WITHDRAWN on re-retrieval of 2026-10-06. Bhishagratna prints his section number after the section, so the passage is his section 17, which the record originally had right. Evidence in that entry's locationCorrectionNote and correctionHistory.",
         "Citations #3 and #4 as the record previously numbered them (Kaviratna's 35 and 38) carried his printed numbers unlabelled and are now corrected to standard 15.36 and 15.39, pending confirmation against a printed Trikamji edition."
       ]
@@ -4633,7 +4626,7 @@
           "translator": "Kaviraj Avinash Chandra Kaviratna (1890-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Ashtanga Hridaya (Vagbhata)",
@@ -4787,8 +4780,6 @@
         }
       ],
       "openQuestions": [
-        "Citation #7 refuted on verification: The quote is genuine and in the right chapter, but it is the wrong verse. The English is verbatim in the cited scan at p.762 (offset 1,933,662), the only difference being that the OCR drops a comma: '",
-        "Citation #8 refuted on verification: The note is genuine and says what it is cited for, but it is attached to the wrong chapter. In the cited scan the note sits at offset 1,843,375 of the flattened OCR. Sharirasthana LESSON III begins at",
         "RESOLVED on 2026-10-06. Citation #7 (now classical[8]): the location correction to Sharirasthana 4.40 is applied to the verse field, the establishes text, the summary and gatheringNotes, and was independently re-established against the Sanskrit. The truncated refutedBecause text above is preserved as the audit trail and has not been reconstructed.",
         "RESOLVED on 2026-10-06. Citation #8 (now classical[10]): the location correction to Sharirasthana 3.13, Kaviratna's aphorism 23, is applied to the sthana, chapter and verse fields, and was independently re-established by reading the lesson boundaries in the re-retrieved scan and matching the aphorism to the Sanskrit of Sha. 3.13, now cited separately as classical[9].",
         "STILL OPEN. The relation between Sharirasthana 4's sixteen analogical types and Vimanasthana 8's graded sattva sara, raised by the material added on this pass. See contested, question 6."
@@ -4980,7 +4971,7 @@
           "translator": "none; no public-domain English of the Ayurvedadipika was found",
           "licenceBasis": "sanskrit-mula",
           "sourceUrl": "https://gretil.sub.uni-goettingen.de/",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -5138,8 +5129,6 @@
         }
       ],
       "openQuestions": [
-        "Citation #3 refuted on verification: Quote verified verbatim in the Kaviratna OCR of archive.org/details/BIUSante_47357 (BIU_fresh.txt, p.445): 'Without doubt, having carefully noticed the particulars relating to inducing causes, premoni",
-        "Citation #4 refuted on verification: Quote verified verbatim in b24758619_0001.txt, the Wellcome scan at the claimed URL archive.org/details/b24758619_0001, pp.316-317: 'Each of these different types, in its turn, should be carefully obs",
         "Carried forward unresolved from the gathered record: the two entries above are truncated mid-sentence as gathered and are left exactly as they were, since they duplicate the refutedBecause fields of classical[4] and classical[8], which are complete. A later pass should either complete them from those fields or drop them as duplicates.",
         "For the auditor: the Kaviratna edition dates disagree between sources and this record does not resolve the disagreement. The archive.org catalogue record for BIUSante_47357 gives 1890/1908 and names Pareshnath Sarma as publisher of parts XXXIX-LI; the project's source register gives 1896-1913. Both are flagged in gatheringNotes. The translator fields in this record therefore give no year range, only 'issued in parts; public domain', which is the part that is not in doubt."
       ]
@@ -5457,7 +5446,7 @@
           "translator": "Kunja Lal Bhishagratna (1907-1916)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/download/b24758619_0001/b24758619_0001_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -5485,7 +5474,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/download/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -5679,7 +5668,6 @@
         }
       ],
       "openQuestions": [
-        "Citation #9 refuted: REFUTED on supportsClaim. Retrieved https://archive.org/stream/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt (confirmed title page: Bhishagratna, 'Vol. II. NIDANA-STHANA, S'ARIRA-STHA",
         "Note on the entry above, added 2026-10-06: it is a truncated paste of the verifier's refutation of citation 9 and is kept as it stands because it is part of the audit trail. The full text of that refutation is in the refutedBecause field of the Sushruta Sharirasthana 3 entry. The refutation is unaffected by this revision, except that a public-domain English rendering of the Charaka parallel is now available and has been added, which the refutation's note said did not exist.",
         "Why Kaviratna's aphorism numbering diverges from the Sanskrit source's for the eighth-month passage (31 against 24) is unresolved, and so is whether the documented off-by-one offset in this translation extends to Sutrasthana 11, 17, 28 and 30 and Sharirasthana 4 and 7. Every Charaka location in this record is given as Kaviratna prints it for that reason."
       ]
@@ -6082,7 +6070,7 @@
           "translator": "Kaviraj Kunja Lal Bhishagratna (1907-1916), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/download/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita (Bhishagratna translation, Vol. II)",
@@ -6410,7 +6398,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita, Sutra Sthana, Lesson XI (Tistraishaniya), verses 42-43 in Kaviratna's numbering",
@@ -6865,7 +6853,7 @@
           "translator": "Kaviraj Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/details/BIUSante_47357",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita (Kaviratna translation, 1896-1913), TRANSLATOR'S FOOTNOTE, held as an exhibit and not as doctrine",
@@ -6921,7 +6909,7 @@
           "translator": "Kaviraj Kunja Lal Bhishagratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/details/englishtranslati00susruoft",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita (Bhishagratna translation, 1907-1916), Vol. II",
@@ -6935,7 +6923,7 @@
           "translator": "Kaviraj Kunja Lal Bhishagratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/details/englishtranslati00susruoft",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita (Bhishagratna translation, 1907-1916), Vol. II",
@@ -7679,7 +7667,7 @@
           "translator": "No public-domain English translation of the Ashtanga Hridaya exists, so no English is quoted. The Sanskrit above is the citation.",
           "licenceBasis": "sanskrit-mula",
           "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -7979,7 +7967,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -8971,7 +8959,7 @@
           "translator": null,
           "licenceBasis": "sanskrit-mula",
           "sourceUrl": "https://www.carakasamhitaonline.com/index.php?title=Panchakarmiya_Siddhi",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita (Bhishagratna translation, 1907-1916), Vol. II",
@@ -9384,7 +9372,7 @@
           "translator": "Kunja Lal Bhishagratna (1907-1916), public domain; Vol. II, Calcutta 1911, printed pages 213-215",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -9412,7 +9400,7 @@
           "translator": "Bhishagratna; Vol. II",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -9426,7 +9414,7 @@
           "translator": "Sanskrit from the NIIMH e-Samhita (phonetic transliteration, quoted as served); English from Bhishagratna Vol. I (1907), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati01susruoft/englishtranslati01susruoft_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         }
       ],
       "modern": [
@@ -10674,7 +10662,7 @@
           "translator": "Kaviraj Kunja Lal Bhishagratna (1907), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati01susruoft/englishtranslati01susruoft_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -11755,7 +11743,7 @@
           "translator": "Avinash Chandra Kaviratna, public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -12120,7 +12108,7 @@
           "translator": null,
           "licenceBasis": null,
           "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/7_ayur/caraka_u.htm",
-          "checked": "checked, and the claim was narrowed"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",

@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 
 **Bioavailability:** Syzygium cumini seed kernel ([Jambu](/herb/jambu/)-Beeja specifically refers to the seed/seed kernel). Active compounds including [jamboline](/glossary/compounds-g-l/#jamboline), [ellagitannins](/glossary/compounds-d-g/#ellagitannins), and gallic acid. Gallic acid has moderate bioavailability (~30%). Ellagitannins are converted to ellagic acid and subsequently to urolithins by gut microbiota. Seed kernel fractions show better blood [glucose](/glossary/compounds-d-g/#glucose)-lowering activity than whole seed preparations, suggesting higher concentration of active principles.
 
-**Optimal Timing:** 30 minutes before meals with water for blood sugar management
+**Optimal Timing:** 30 minutes before meals with water
 
 **Standardized Extract:** Seed kernel aqueous extract standardized to minimum 15% [tannins](/reference/tannins/) (gallic acid equivalent); hydroalcoholic extract standardized to 1% ellagic acid
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu-Beeja/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Gudmar](/herb/gudmar/) for enhanced anti-hyperglycemic action
-- With [Methi](/herb/methi/) (fenugreek) seeds for diabetes management
+- Traditionally combined with [Gudmar](/herb/gudmar/)
+- Traditionally combined with [Methi](/herb/methi/) (fenugreek) seeds
 - With [Neem](/herb/neem/) for metabolic support
 - With [Vijaysar](/herb/vijaysar/) for blood sugar regulation

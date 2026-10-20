@@ -40,17 +40,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Hrivera/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; external oil as needed
 
-**Bioavailability:** Coleus vettiveroides (Vetiveria zizanioides, Khus) root contains sesquiterpenes ([vetiverol](/glossary/compounds-t-z/#vetiverol), vetivone) with moderate lipophilic absorption. Essential oil components are well absorbed transdermally. Oral bioavailability of sesquiterpenes is moderate; lipid-based formulations may enhance absorption.
+**Bioavailability:** Coleus vettiveroides root contains sesquiterpenes with moderate lipophilic absorption. Essential oil components are well absorbed transdermally. Oral bioavailability of sesquiterpenes is moderate; lipid-based formulations may enhance absorption.
 
 **Optimal Timing:** Between meals with cool water or coconut water for Pitta disorders; externally as needed
-
-**Standardized Extract:** Essential oil standardized to vetiverol content (>15%); hydroalcoholic extract with characteristic HPTLC fingerprint
 
 **Shelf Life:** 2 years (powder); 3 years (essential oil, sealed); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C. Essential oil in amber glass containers. Root powder in airtight containers.
-
-**Marker Compounds:** Vetiverol, Vetivone (alpha and beta), [Khusimol](/glossary/compounds-g-l/#khusimol), [Isovalencenol](/glossary/compounds-g-l/#isovalencenol), Zizanal
 
 ### Extraction Methods
 

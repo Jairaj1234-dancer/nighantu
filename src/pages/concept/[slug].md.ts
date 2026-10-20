@@ -50,7 +50,10 @@ export const GET: APIRoute = ({ props }) => {
       'its source states it. No position is presented as the settled answer, because none of them is.', '');
     for (const c of r.contested) {
       out.push(`### ${c.question}`, '', 'This is contested.', '');
-      for (const p of c.positions ?? []) out.push(`- ${p}`);
+      // Positions are strings or { view, source } objects; see positionText in [slug].astro.
+      for (const p of c.positions ?? []) {
+        out.push(`- ${typeof p === 'string' ? p : [p?.view, p?.source].filter(Boolean).join(' ')}`);
+      }
       out.push('');
     }
   }

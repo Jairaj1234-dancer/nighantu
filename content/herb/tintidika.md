@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Tintidika (Rhus parviflora) is a plant drug, from the Anacardiaceae family. Polyphenols including proanthocyanidins and flavonoids have moderate bioavailability (15-25%). High organic acid content naturally enhances iron absorption from co-administered iron supplements or iron-rich foods."
+answer: "Tintidika (Rhus parviflora) is a plant drug, from the Anacardiaceae family. Polyphenols including proanthocyanidins and flavonoids have moderate bioavailability (15-25%)."
 botanical: "Rhus parviflora"
 family: "Anacardiaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.
 
 **Standard Dosage:** 3-6 g pulp powder with meals; 50-100 mL decoction twice daily; 10-20 g avaleha once daily
 
-**Bioavailability:** Tartaric acid (primary organic acid, 8-18%) is rapidly and nearly completely absorbed from the GI tract. [Polyphenols](/glossary/compounds-o-q/#polyphenols) including [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) and [flavonoids](/reference/flavonoids/) have moderate bioavailability (15-25%). High organic acid content naturally enhances iron absorption from co-administered iron supplements or iron-rich foods. Polysaccharide gums from seed kernel are not absorbed but function as dietary fiber and potential prebiotics.
+**Bioavailability:** Tartaric acid (primary organic acid, 8-18%) is rapidly and nearly completely absorbed from the GI tract. [Polyphenols](/glossary/compounds-o-q/#polyphenols) including [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) and [flavonoids](/reference/flavonoids/) have moderate bioavailability (15-25%). High organic acid content may support iron absorption from co-administered iron supplements or iron-rich foods. Polysaccharide gums from seed kernel are not absorbed but function as dietary fiber and potential prebiotics.
 
 **Optimal Timing:** With or after meals; commonly used as a culinary-medicinal ingredient; before meals for appetizer action
 

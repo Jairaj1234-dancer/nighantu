@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Asanadi Kwath is a classical Ayurvedic kashaya, a water decoction. Hot administration enhances gastric absorption. Pterostilbene has moderate oral bioavailability (~50-80% in aqueous medium)."
+answer: "Asanadi Kwath is a classical Ayurvedic kashaya, a water decoction."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 **Standard Dosage:** 40-80 mL twice daily before meals.
 
-**Bioavailability:** Aqueous decoction provides rapid absorption of water-soluble [pterostilbene](/glossary/compounds-o-q/#pterostilbene) [glycosides](/glossary/compounds-g-l/#glycosides). Hot administration enhances gastric absorption. [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) has moderate oral bioavailability (~50-80% in aqueous medium).
+**Bioavailability:** Not established.
 
 **Optimal Timing:** On empty stomach, morning and evening, especially for Prameha (metabolic conditions)
 

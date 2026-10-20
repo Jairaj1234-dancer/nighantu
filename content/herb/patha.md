@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guduchi](/herb/guduchi/) (anti-pyretic and immune synergy)
-- Kutaja (anti-diarrheal combination)
-- Musta (digestive and anti-diarrheal)
-- [Chirayata](/herb/chirayata/) (fever management)
-- [Nimba](/herb/nimba/) (blood purification and skin health)
+- [Guduchi](/herb/guduchi/) (traditionally combined for fever and immunity)
+- Kutaja (traditionally combined for diarrhea)
+- Musta (traditionally combined for digestion and diarrhea)
+- [Chirayata](/herb/chirayata/) (traditionally combined for fever)
+- [Nimba](/herb/nimba/) (traditionally combined for blood purification and skin)

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed
 
-**Bioavailability:** Moderate oral bioavailability. Curcuma amada (mango [ginger](/herb/ginger/)) contains curcuminoids similar to [turmeric](/herb/turmeric/) but in lower concentrations, plus unique difurocumenonol. Curcuminoid bioavailability is inherently low (<5%) but enhanced by [piperine](/reference/piperine/) (20-fold increase) or lipid formulations. The volatile oil content aids absorption. Phospholipid complexation (phytosome) technology can increase bioavailability 5-10x.
+**Bioavailability:** Curcuma amada (mango [ginger](/herb/ginger/)) contains curcuminoids similar to [turmeric](/herb/turmeric/) but in lower concentrations, plus unique difurocumenonol. Curcuminoid bioavailability is inherently low (<5%) but enhanced by [piperine](/reference/piperine/) (20-fold increase) or lipid formulations. The volatile oil content aids absorption. Phospholipid complexation (phytosome) technology can increase bioavailability 5-10x.
 
 **Optimal Timing:** With meals containing fat/oil for enhanced curcuminoid absorption; with warm milk at bedtime for anti-inflammatory and immune benefits
 

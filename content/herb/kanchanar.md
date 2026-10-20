@@ -59,13 +59,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 ## What do recent studies show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
-  Registered RCT comparing Kanchanar [Guggulu](/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
+  Protocol for an RCT comparing Kshar Basti with Kanchanar [Guggulu](/formulation/guggulu/) against levothyroxine in hypothyroidism, with enrollment from June 2024 to December 2025; no results reported yet.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Kanchanar [Guggulu](/formulation/guggulu/) formulation is widely used clinically in Ayurvedic practice with established safety profile at standard doses (1-2 tablets twice daily)
+- Kanchanar [Guggulu](/formulation/guggulu/) formulation is widely used in Ayurvedic practice; formal safety data from controlled trials is limited
 - Long-term safety data from controlled clinical trials is still being generated; caution advised in hyperthyroid patients due to anti-goitrogenic activity. Pregnancy use not well studied.
 
 ## What is it made of?

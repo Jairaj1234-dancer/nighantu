@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Ghritams-Medicated-Ghee"
-answer: "Indukantham Ghritam is a classical Ayurvedic ghrita, a medicated ghee. Listed in Sahasrayogam (official Kerala Ayurvedic formulary); available from GMP-certified Ayurvedic manufacturers; referenced in Ayurvedic Formulary of India."
+answer: "Indukantham Ghritam is a classical Ayurvedic ghrita, a medicated ghee. Listed in Sahasrayogam (traditional Kerala compendium of formulations); available from GMP-certified Ayurvedic manufacturers; referenced in Ayurvedic Formulary of India."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Sahasrayogam (official Kerala Ayurvedic formulary); available from GMP-certified Ayurvedic manufacturers; referenced in Ayurvedic Formulary of India"
+whoStatus: "Listed in Sahasrayogam (traditional Kerala compendium of formulations); available from GMP-certified Ayurvedic manufacturers; referenced in Ayurvedic Formulary of India"
 aliases: ["Indukantham Ghritam", "IndukanthamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -31,10 +31,10 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 ## How does it work?
 
-- Dashamula provides anti-inflammatory and [analgesic](/reference/analgesic/) action, reducing abdominal inflammation and pain
+- Dashamula provides anti-inflammatory and [analgesic](/reference/analgesic/) action
 - [Trikatu](/herb/trikatu/) stimulates Agni (digestive fire) through [piperine](/reference/piperine/)-mediated enhancement of digestive enzyme secretion
-- Chitraka ([plumbagin](/glossary/compounds-o-q/#plumbagin)) acts as a potent appetizer and digestive stimulant, reducing fat accumulation and improving gut motility
-- [Yavakshara](/herb/yavakshara/) provides antacid and [diuretic](/reference/diuretic/) properties, managing urinary and abdominal disorders
+- Chitraka ([plumbagin](/glossary/compounds-o-q/#plumbagin)) acts as a potent appetizer and digestive stimulant
+- [Yavakshara](/herb/yavakshara/) provides antacid and [diuretic](/reference/diuretic/) properties
 - [Immunomodulatory](/reference/immunomodulatory/) action of combined herbs supports immune function - demonstrated as adjuvant to chemotherapy
 
 ## Which traditional uses are supported by research?
@@ -55,7 +55,7 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 ## Recent safety updates
 
-- Considerably safe for most individuals in recommended dosage under professional supervision; no adverse effects reported in clinical use
+- Considerably safe for most individuals in recommended dosage under professional supervision
 - Safety for pregnant women and breastfeeding women has not been specifically studied - effects are unknown; use only under practitioner guidance
 - May cause mild digestive discomfort in high doses; avoid in individuals with severe gastric ulceration without supervision
 

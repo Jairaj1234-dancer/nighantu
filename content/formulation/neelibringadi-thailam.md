@@ -31,10 +31,10 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## How does it work?
 
-- [Wedelolactone](/glossary/compounds-t-z/#wedelolactone) and eclalbatin from [Bhringraj](/herb/bhringraj/) promote hair follicle proliferation by activating Wnt/beta-catenin signaling pathway, extending the anagen (growth) phase of hair cycle
-- [Indirubin](/glossary/compounds-g-l/#indirubin) from Neeli (Indigofera) provides anti-fungal activity against dermatophytes causing dandruff and inhibits premature greying through melanocyte stimulation
-- Gallic acid and vitamin C from [Amla](/herb/amla/) provide potent [antioxidant](/reference/antioxidant/) protection to hair follicles, neutralizing oxidative stress that causes premature greying and hair fall
-- Nardostachin from [Jatamansi](/herb/jatamansi/) calms the nervous system and improves scalp microcirculation, reducing stress-related hair loss
+- [Wedelolactone](/glossary/compounds-t-z/#wedelolactone) and eclalbatin from [Bhringraj](/herb/bhringraj/) are reported to promote hair follicle proliferation via the Wnt/beta-catenin signaling pathway
+- [Indirubin](/glossary/compounds-g-l/#indirubin) from Neeli (Indigofera) is reported to have anti-fungal activity against dermatophytes
+- Gallic acid and vitamin C from [Amla](/herb/amla/) have reported [antioxidant](/reference/antioxidant/) activity
+- Nardostachin from [Jatamansi](/herb/jatamansi/) is proposed to improve scalp microcirculation
 
 ## Which traditional uses are supported by research?
 
@@ -52,8 +52,8 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## Recent safety updates
 
-- No side effects reported in medical literature. Modern formulations per API standards use [Daruharidra](/herb/daruharidra/) (Berberis aristata) instead of traditional Anjana (Lead Sulphide), eliminating heavy metal concerns. Patch test recommended for first-time users as natural ingredients can cause allergic reactions in some individuals.
-- Each batch tested for microbes per Ayurvedic Pharmacopoeia of India (API) standards. Avoid contact with eyes. Discontinue if scalp irritation, redness, or itching occurs. Safe for regular use on hair and scalp.
+- Modern formulations per API standards use [Daruharidra](/herb/daruharidra/) (Berberis aristata) instead of traditional Anjana (Lead Sulphide), with each batch subject to testing. Patch test recommended for first-time users as natural ingredients can cause allergic reactions in some individuals.
+- Each batch tested for microbes per Ayurvedic Pharmacopoeia of India (API) standards. Avoid contact with eyes. Discontinue if scalp irritation, redness, or itching occurs.
 
 ## What is it made of?
 
@@ -70,9 +70,9 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 **Standard Dosage:** Scalp application: 10-15ml
 
-**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
+**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
+**Optimal Timing:** Before bath or at bedtime
 
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
@@ -82,7 +82,7 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Gallic acid, Indigotin
 
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
+**Vehicle (Anupana):** External: massage into affected area
 
 ### Synergistic Combinations
 

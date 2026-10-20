@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Vata Shirodhara Taila is a classical Ayurvedic taila, a medicated oil. Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita)."
+answer: "Vata Shirodhara Taila is an Ayurvedic taila, a medicated oil, formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita)."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -14,7 +14,7 @@ ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Vata-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Vata Shirodhara Taila", "Vata-Pacifying Shirodhara Oil", "Vata Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "vata-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
-sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954", "Companion document: Vata oil write up - Bolstered.docx (Nitya Naturals)"]
+sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954"]
 productHints: ["Vata Shirodhara Oil (Nitya Naturals)"]
 words: 654
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Vata-Shirodhara-Taila/meta-analysis.md"
@@ -48,9 +48,9 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 ## How does it work?
 
 - Shirodhara induces a hypometabolic, trophotropic state with measurable decreases in sympathetic activation and subjective stress scores in healthy volunteers.
-- External oleation with sesame-based warm oil supports parasympathetic tone and promotes a state described as *ananda-turiya* (blissful pre-sleep) by research groups investigating Ayurvedic oil-dripping therapy.
+- External oleation with sesame-based warm oil supports parasympathetic tone.
 - Aromatic volatile fractions (linalool, eugenol, lavandula esters) contribute olfactory input during the procedure that is associated with reduced anxiety markers in independent aromatherapy trials.
-- Ashwagandha withanolides and Bacopa/Valeriana constituents are associated with modulation of the HPA axis and GABAergic tone in oral preparations; their topical role in Shirodhara is traditionally framed as scalp absorption plus olfactory-limbic input.
+- Ashwagandha withanolides and Valeriana constituents are associated with modulation of the HPA axis and GABAergic tone in oral preparations; their topical role in Shirodhara is traditionally framed as scalp absorption plus olfactory-limbic input.
 
 ## Traditional Uses (External Shirodhara Context)
 
@@ -83,6 +83,4 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 - Not intended to diagnose, treat, cure or prevent any disease.
 - Store in a cool, dry place away from direct sunlight.
 
-## Which traditional uses are supported by research?
 
-*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*

@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Menthol/meta-analys
 
 **Standard Dosage:** Topical: 1-10% in formulations. Oral (lozenges): 5-10 mg per lozenge. Inhalation: 2-5 drops in steam. Internal: 0.2-0.4 mL peppermint oil (50-55% menthol) in enteric-coated capsules.
 
-**Bioavailability:** Excellent bioavailability via all routes. Oral: approximately 40-50% bioavailable with significant first-pass hepatic glucuronidation. Topical: rapidly penetrates skin reaching dermal tissue within 5-10 minutes. Inhalation: near-instant mucosal absorption with rapid onset of action. TRPM8 receptor activation occurs at sub-micromolar concentrations making menthol highly potent topically.
+**Bioavailability:** Oral: approximately 40-50% bioavailable with significant first-pass hepatic glucuronidation. Topical: rapidly penetrates skin reaching dermal tissue within 5-10 minutes. Inhalation: near-instant mucosal absorption with rapid onset of action. TRPM8 receptor activation occurs at micromolar concentrations making menthol highly potent topically.
 
 **Optimal Timing:** Topical: as needed for pain or cooling. Lozenges: as needed for throat/nasal congestion. Enteric capsules: 30 minutes before meals for IBS. Inhalation: as needed for respiratory relief.
 

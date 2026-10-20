@@ -47,8 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 ## What do recent studies show?
 
-- Darwish WS, Chen Z, Li Y and others 2021. [Retraction Note to: Deoxynivalenol-induced alterations in the redox status of HepG2 cells: identification of lipid hydroperoxides, the role of Nrf2-Keap1 signaling, and protective effects of zinc](https://pubmed.ncbi.nlm.nih.gov/34414528/). *Mycotoxin research*. PMID [34414528](https://pubmed.ncbi.nlm.nih.gov/34414528/) · [doi:10.1007/s12550-021-00440-0](https://doi.org/10.1007/s12550-021-00440-0)  
-  No specific published research was found for the term 'Nikochaka' in available scientific databases. The herb may be a rare or obsolete Sanskrit name requiring specialist Ayurvedic lexicography for positive identification.
+- No specific published research was found for the term 'Nikochaka' in available scientific databases. The herb may be a rare or obsolete Sanskrit name requiring specialist Ayurvedic lexicography for positive identification.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
@@ -67,25 +66,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 - Requires further ethnobotanical investigation
 - May correspond to a plant referenced only in specific Nighantu texts
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Lepa (paste for external use)
 
-**Standard Dosage:** 1-3 g dried powder twice daily; 15-20 mL decoction twice daily; external paste as directed
+**Standard Dosage:** No dosage can be given until the botanical identity is confirmed.
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional Ayurvedic texts indicate good absorption when administered with warm water (Ushna Jala Anupana). Alkaloid and tannin constituents expected to have moderate oral bioavailability (20-40%). Co-administration with [Pippali](/herb/pippali/) or [ginger](/herb/ginger/) may enhance absorption through bioenhancement.
-
-**Optimal Timing:** Best taken before meals with warm water for digestive indications; after meals for systemic therapeutic effects.
-
-**Standardized Extract:** Aqueous extract (5:1 ratio) with validated HPTLC fingerprint. Hydroalcoholic extract standardized based on total phenolic content (minimum 3% GAE).
+**Bioavailability:** Limited modern pharmacokinetic data available. Traditional Ayurvedic texts indicate good absorption when administered with warm water (Ushna Jala Anupana). Co-administration with [Pippali](/herb/pippali/) or [ginger](/herb/ginger/) may enhance absorption through bioenhancement.
 
 **Shelf Life:** Dried powder: 12-18 months; Hydroalcoholic extract: 18-24 months; Capsules/Tablets: 24 months
 
 **Storage:** Store in airtight containers below 25 deg C, RH <60%, protected from light. Double-sealed polyethylene-lined containers recommended for bulk powder.
-
-**Marker Compounds:** Total [tannins](/reference/tannins/) (as tannic acid), Total phenolics (as gallic acid equivalents), Total [alkaloids](/glossary/compounds-1-a/#alkaloids)
 
 ### Extraction Methods
 
@@ -94,9 +85,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 - Cold maceration in water for 12-24 hours
 - Methanol extraction for analytical characterization
 
-### Synergistic Combinations
 
-- [Haridra](/herb/haridra/) (anti-inflammatory synergy)
-- [Triphala](/herb/triphala/) (enhanced detoxification)
-- [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) combination)
-- [Yashtimadhu](/herb/yashtimadhu/) (gastroprotective synergy)

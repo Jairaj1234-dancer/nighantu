@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Amla/meta-analysis.md"
 
 ## Therapeutic Actions (Karma)
 
-- [Antioxidant](/reference/antioxidant/) (highest natural Vitamin C)
+- [Antioxidant](/reference/antioxidant/) (rich natural source of Vitamin C)
 - Rasayana (rejuvenative)
 - [Hepatoprotective](/reference/hepatoprotective/)
 - Anti-diabetic

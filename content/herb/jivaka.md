@@ -41,7 +41,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 - Anti-inflammatory mechanism involving inhibition of pro-inflammatory enzyme pathways (COX-2, 5-LOX) and cytokine production, as demonstrated in recent metabolite profiling studies
 - [Antioxidant](/reference/antioxidant/) and photoprotective action through free radical scavenging and UV-damage protection, mediated by phenolic and flavonoid constituents
-- Rejuvenating and [adaptogenic](/reference/adaptogenic/) mechanism through modulation of stress response pathways and enhancement of cellular energy metabolism
 
 ## Which traditional uses are supported by research?
 

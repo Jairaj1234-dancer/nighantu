@@ -33,8 +33,8 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 - COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) roots provides broad-spectrum anti-inflammatory action
 - Bioavailability enhancement by [Trikatu](/herb/trikatu/) (especially [Pippali](/herb/pippali/) and Maricha) increases systemic absorption of [glycosides](/glossary/compounds-g-l/#glycosides) by up to 50%
-- Bronchodilatory action from [Vasa](/herb/vasa/) (Adhatoda vasica) and [Trikatu](/herb/trikatu/) components improves respiratory function
-- Deep tissue warming action from the Katutraya (three pungent herbs) penetrates and resolves chronic Vata-Kapha disorders
+- [Vasa](/herb/vasa/) (Adhatoda vasica) and [Trikatu](/herb/trikatu/) components are traditionally used to support respiratory function
+- The Katutraya (three pungent herbs) is described classically as warming and is traditionally used for chronic Vata-Kapha disorders
 
 ## Which traditional uses are supported by research?
 
@@ -53,7 +53,7 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 ## Recent safety updates
 
-- Well-tolerated in clinical trials. The pungent herbs ([Trikatu](/herb/trikatu/)) may aggravate Pitta dosha; use cautiously in hyperacidity and peptic ulcer.
+- The pungent herbs ([Trikatu](/herb/trikatu/)) may aggravate Pitta dosha; use cautiously in hyperacidity and peptic ulcer.
 - May potentiate anti-inflammatory and anticoagulant drugs. Monitor closely in patients on concurrent NSAID or blood-thinning therapy.
 
 ## What is it made of?

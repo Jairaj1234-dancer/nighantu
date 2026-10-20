@@ -116,7 +116,7 @@ answer: "Pharmacology terms is a reference glossary of 10 entries drawn from the
 
 ### Antitumor Agents {#antitumor}
 
-*80 herbs and compounds with antitumor activity across traditions*
+*80 herbs and compounds listed under antitumor activity across traditions*
 
 #### Ayurveda (12)
 

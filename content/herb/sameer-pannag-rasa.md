@@ -72,13 +72,11 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 **Optimal Timing:** With honey and [ginger](/herb/ginger/) juice
 
-**Standardized Extract:** Kajjali + Naga + Vanga + other metals with herbal processing
-
 **Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Lead oxide, Tin oxide, Herbal [alkaloids](/glossary/compounds-1-a/#alkaloids)
+**Marker Compounds:** Mercury sulfide, Herbal [alkaloids](/glossary/compounds-1-a/#alkaloids)
 
 **Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 

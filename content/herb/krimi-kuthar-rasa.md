@@ -35,8 +35,8 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 - [Vidanga](/herb/vidanga/) (Embelia ribes) contains [embelin](/glossary/compounds-d-g/#embelin), a potent anthelmintic compound that paralyzes and expels intestinal worms
 - Palash Beej (Butea monosperma seeds) contain butin and palasonin with established anthelmintic activity against tapeworms
 - [Indrayava](/herb/indrayava/) (Holarrhena antidysenterica) has anti-amoebic and anti-dysenteric properties through conessine alkaloid content
-- Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) in micro-doses provides Ushna Virya (hot potency) and Vishagna (anti-toxic) action against parasitic toxins
-- [Loha Bhasma](/herb/loha-bhasma/) supports blood building to correct anemia caused by parasitic infection and intestinal blood loss
+- Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) in micro-doses is classically described as Ushna Virya (hot potency) and Vishagna (anti-toxic)
+- [Loha Bhasma](/herb/loha-bhasma/) is traditionally included to support blood building
 - Karpura ([camphor](/herb/camphor/)) has antiseptic and carminative properties aiding in intestinal environment restoration
 
 ## Which traditional uses are supported by research?

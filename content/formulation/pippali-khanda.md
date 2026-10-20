@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Lehams-Avalehas-Pastes"
-answer: "Pippali Khanda is a classical Ayurvedic avaleha, a semi-solid herbal confection. Pippali (Piper longum) monograph in Ayurvedic Pharmacopoeia of India (API); Pippali Rasayana referenced in Bhaishajya Ratnavali; Khanda preparation described in classical formularies."
+answer: "Pippali Khanda is a classical Ayurvedic Khanda, a granular sweet preparation. Pippali (Piper longum) monograph in Ayurvedic Pharmacopoeia of India (API); Pippali Rasayana referenced in Bhaishajya Ratnavali; Khanda preparation described in classical formularies."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -39,15 +39,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Pippali-Kh
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita (earliest mention as Pippalimula, circa 100 BCE); Sushruta Samhita (respiratory therapy context, circa 500 CE); Chakradatta by Chakrapani (14th century CE); Bhaishajya Ratnavali by Govind Das (17th century CE) - Rasayana Prakarana 73/18
+Sushruta Samhita (respiratory therapy context); Chakradatta by Chakrapani (14th century CE); Bhaishajya Ratnavali by Govind Das (17th century CE) - Rasayana Prakarana 73/18
 
 ## How does it work?
 
 - [Piperine](/reference/piperine/) alkaloid provides potent bioavailability enhancement by inhibiting hepatic and intestinal glucuronidation [enzymes](/glossary/compounds-d-g/#enzymes)
-- Volatile oils (pinene, [limonene](/glossary/compounds-g-l/#limonene)) impart mucolytic and bronchodilatory actions, clearing respiratory passages and reducing congestion
-- Anti-inflammatory action of piperine reduces bronchial mucosal inflammation and hyperreactivity in chronic respiratory conditions
-- Resins and [tannins](/reference/tannins/) provide mild astringent and anti-inflammatory properties supporting respiratory tissue healing
-- Deepana-Pachana (digestive stimulation) corrects Mandagni and improves nutrient absorption, addressing debility underlying respiratory weakness
+- Volatile oils (pinene, [limonene](/glossary/compounds-g-l/#limonene)) have been reported in experimental studies to have mucolytic and bronchodilatory actions
+- Piperine has been reported to have anti-inflammatory action
+- Resins and [tannins](/reference/tannins/) provide mild astringent and anti-inflammatory properties
+- Classically described as Deepana-Pachana (digestive stimulation), used for Mandagni
 
 ## Which traditional uses are supported by research?
 

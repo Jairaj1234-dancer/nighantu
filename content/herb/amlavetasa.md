@@ -82,13 +82,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations ([Avipattikar](/herb/avipattikar/) churna component)
+**Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg extract capsule; as component in compound formulations per classical proportion
 
 **Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions, identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/herb/saindhava-lavana/) enhances absorption.
 
-**Optimal Timing:** Before meals with warm water for hyperacidity; after meals for digestive support
+**Optimal Timing:** After meals for digestive support
 
 **Standardized Extract:** If Garcinia pedunculata: standardized to minimum 30% hydroxycitric acid (HCA). If Rheum emodi: standardized to minimum 2% total anthraquinones. Specify botanical source on label.
 
@@ -107,7 +107,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Part of Avipattikar Churna for acid dyspepsia
 - With Ela (cardamom) for digestive comfort
 - With [Draksha](/herb/draksha/) (raisins) for mild laxative action
-- With Sunthi for [Amla](/herb/amla/) Pitta (hyperacidity)

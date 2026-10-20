@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 ## How does it work?
 
 - Mercury sulfide (HgS) nanoparticles act as a bioavailable mineral complex that modulates cellular metabolism; the insoluble HgS form has dramatically reduced GI absorption compared to organic or ionic mercury, explaining reduced toxicity
-- Gold nanoparticles in the formulation act as immunostimulants and [Rasayana](/reference/rasayana/) agents, enhancing immune cell function and tissue regeneration
+- Gold nanoparticles in the formulation are proposed to act as immunostimulants and [Rasayana](/reference/rasayana/) agents; effects on immune cell function and tissue regeneration have not been established in humans
 - Acts as a catalytic agent at the cellular level, potentially activating calcium channels (shown to increase sperm count in related Rasasindura studies) and modulating mitochondrial function
 
 ## Which traditional uses are supported by research?
@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 **Standard Dosage:** 30–60 mg twice daily (potent, precise dosing)
 
-**Bioavailability:** Exceptional; gold-mercury-sulfur nanocomposite with superior tissue penetration
+**Bioavailability:** Not established; the HgS form is reported to be poorly absorbed.
 
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/); morning and evening
 

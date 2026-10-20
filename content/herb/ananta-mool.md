@@ -62,8 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Sariva](/herb/sariva/) (often considered synonymous in some texts) for blood purification
-- With [Manjistha](/herb/manjistha/) for skin disorders and blood purification
+- With [Manjistha](/herb/manjistha/), traditionally used for skin disorders and blood purification
 - With [Chandana](/herb/chandana/) (sandalwood) for urinary tract cooling
 - With [Ushira](/herb/ushira/) (vetiver) for cooling and Pitta pacification
-- With [Guduchi](/herb/guduchi/) for immune modulation and fever
+- With [Guduchi](/herb/guduchi/), traditionally used for immune support and in fever

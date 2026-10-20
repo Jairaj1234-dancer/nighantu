@@ -34,7 +34,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 - Gmelanone
 - [Luteolin](/glossary/compounds-l-o/#luteolin)
 - [Apigenin](/glossary/compounds-1-a/#apigenin)-7-rutinoside
-- [Verbascoside](/glossary/compounds-t-z/#verbascoside) (iridoid glycoside)
+- [Verbascoside](/glossary/compounds-t-z/#verbascoside) (phenylethanoid glycoside)
 - Paulownin (lignan)
 
 ## How does it work?
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20g fruit pulp
 
-**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside, arboreol), flavonoids, and lignans. Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/herb/trikatu/) for general bioenhancement.
+**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside), flavonoids, and lignans (arboreol). Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/herb/trikatu/) for general bioenhancement.
 
 **Optimal Timing:** Before meals with warm water for general tonic and anti-inflammatory effects; Kashayam morning and evening
 

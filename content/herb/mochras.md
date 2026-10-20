@@ -54,14 +54,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 ## What do recent studies show?
 
 - Kumari N, Radha, Puri S and others 2025. [Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development: A Review](https://pubmed.ncbi.nlm.nih.gov/40825150/). *Chemistry & biodiversity*. PMID [40825150](https://pubmed.ncbi.nlm.nih.gov/40825150/) · [doi:10.1002/cbdv.202500247](https://doi.org/10.1002/cbdv.202500247)  
-  Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/reference/immunomodulatory/) properties.
+  Reviewed therapeutic potential of Bombax ceiba flowers for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/reference/immunomodulatory/) properties.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Resin (Mochras) is generally safe for external and internal use at recommended Ayurvedic doses; primarily used as astringent and hemostatic
-- Limited formal toxicological studies on the resin specifically; some tannin-rich preparations may reduce iron absorption with prolonged use; generally well-tolerated
+- Resin (Mochras) is traditionally used externally and internally at Ayurvedic doses, primarily as an astringent and hemostatic
+- Limited formal toxicological studies on the resin specifically; some tannin-rich preparations may reduce iron absorption with prolonged use
 
 ## Dosage forms and preparation
 

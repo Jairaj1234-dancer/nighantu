@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kurabaka/meta-analysis.md"
 
 **Storage:** Store powder in airtight containers at 15-30°C. Essential oil in amber glass. Flower-based preparations protect from light and moisture.
 
-**Marker Compounds:** Barlerin, Shanzhiside, Lupulin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Iridoid [glycosides](/glossary/compounds-g-l/#glycosides), Essential oil terpenoids, Flavonoid glycosides
+**Marker Compounds:** Barlerin, Shanzhiside, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Iridoid [glycosides](/glossary/compounds-g-l/#glycosides), Essential oil terpenoids, Flavonoid glycosides
 
 ### Extraction Methods
 
@@ -63,6 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kurabaka/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Kanchanar](/herb/kanchanar/) for anti-inflammatory synergy
-- [Ashoka](/herb/ashoka/) for menstrual disorder management
+- [Ashoka](/herb/ashoka/), traditionally combined in menstrual formulations
 - [Lodhra](/herb/lodhra/) for gynecological formulations
 - [Haridra](/herb/haridra/) for skin health preparations

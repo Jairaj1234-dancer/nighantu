@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 ## Recent safety updates
 
-- Acute oral toxicity studies showed no adverse effects at 5000 mg/kg extract administration in animal models, indicating excellent oral safety profile
+- Acute oral toxicity studies in animal models reported no adverse effects at 5000 mg/kg extract administration
 - Traditionally consumed as food (fruits eaten fresh, dried, or as flour) with long safety history across Africa and India
 - No significant drug interactions documented; root extract used traditionally for fertility enhancement was found to be orally safe in preclinical evaluation
 

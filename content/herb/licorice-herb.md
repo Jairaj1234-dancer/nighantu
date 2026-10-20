@@ -58,9 +58,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Licorice_Herb/meta-analysis.m
 
 ### Synergistic Combinations
 
-- Adhatoda/[Vasa](/herb/vasa/) (respiratory synergy for cough)
+- Adhatoda/[Vasa](/herb/vasa/) (traditionally combined for cough)
 - Amalaki (gastric mucosal protection)
 - [Tulsi](/herb/tulsi/) ([immunomodulatory](/reference/immunomodulatory/) and respiratory)
 - [Haridra](/herb/haridra/) (anti-inflammatory and [hepatoprotective](/reference/hepatoprotective/))
 - [Ashwagandha](/herb/ashwagandha/) ([adaptogenic](/reference/adaptogenic/) and adrenal support)
-- [Pippali](/herb/pippali/) ([Trikatu](/herb/trikatu/) formulation for respiratory conditions)
+- [Pippali](/herb/pippali/) (traditionally combined in respiratory formulations)

@@ -42,11 +42,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 
 **Bioavailability:** Moderate to good bioavailability. The seed kernel (Mangifera indica kernel) is rich in [tannins](/reference/tannins/) (gallic acid, ellagic acid) and fats. Gallic acid has high oral bioavailability (~70%). Tannin-protein interactions in GI tract can reduce protein absorption but the tannins themselves are bioactive. Fat content of kernel aids absorption of lipophilic compounds. Defatted kernel extract shows better aqueous dissolution.
 
-**Optimal Timing:** Before meals with buttermilk or rice water for diarrhea; with honey for bleeding disorders
+**Optimal Timing:** Before meals with buttermilk or rice water (traditionally used for diarrhea); with honey (traditionally used for bleeding disorders)
 
 **Standardized Extract:** Kernel extract (10:1) standardized to minimum 20% total [polyphenols](/glossary/compounds-o-q/#polyphenols) (as gallic acid equivalent). Defatted kernel powder with minimum 15% tannins.
 
-**Shelf Life:** 18 months (kernel powder, defatted); 12 months (with fat, due to rancidity risk); 2 years (capsules/tablets); 6 months (decoction)
+**Shelf Life:** 18 months (kernel powder, defatted); 12 months (with fat, due to rancidity risk); 2 years (capsules/tablets)
 
 **Storage:** Cool, dry place below 25°C. Defatted powder in airtight containers. Full-fat powder requires nitrogen-flushed packaging and refrigeration.
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra-Beeja/meta-analysis
 
 ### Synergistic Combinations
 
-- With Kutaja for diarrhea and dysentery management
-- With [Lodhra](/herb/lodhra/) for menorrhagia (excessive menstrual bleeding)
-- With [Nagakesara](/herb/nagakesara/) for bleeding disorders
+- With Kutaja, traditionally used for diarrhea and dysentery
+- With [Lodhra](/herb/lodhra/), traditionally used for menorrhagia (excessive menstrual bleeding)
+- With [Nagakesara](/herb/nagakesara/), traditionally used for bleeding disorders
 - With Musta for GI disorders

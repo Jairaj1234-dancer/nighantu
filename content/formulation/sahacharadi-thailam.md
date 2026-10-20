@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Primary reference in Sahasrayogam. Recognized by AYUSH ministry. Manufactured by licensed Kerala Ayurvedic pharmacies under GMP standards."
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Recognized by AYUSH ministry. Manufactured by licensed Kerala Ayurvedic pharmacies under GMP standards."
 aliases: ["Sahacharadi Thailam", "SahacharadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -31,17 +31,17 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 
 ## How does it work?
 
-- [Catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from Sahachara inhibit prostaglandin synthesis, providing localized anti-inflammatory action on sciatic nerve and lower limb tissues
-- Curcuminoids (from [turmeric](/herb/turmeric/) component) act as antioxidants and inhibit NF-kB inflammatory pathways, reducing neuroinflammation along the sciatic nerve pathway
+- [Catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from Sahachara are proposed to inhibit prostaglandin synthesis
+- Curcuminoids (from [turmeric](/herb/turmeric/) component) are proposed to act as antioxidants and inhibit NF-kB inflammatory pathways
 - [Manjistha](/herb/manjistha/)'s [anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([purpurin](/glossary/compounds-o-q/#purpurin)) provide blood-purifying action and mild analgesia, improving microcirculation in the affected lower extremities
-- [Gokshura](/herb/gokshura/) and Shalaparni synergistically promote muscle health and reduce spasms through smooth muscle relaxation and [diuretic](/reference/diuretic/) effects that reduce tissue edema
+- [Gokshura](/herb/gokshura/) and Shalaparni are traditionally used to support muscle function, and [diuretic](/reference/diuretic/) effects are attributed to them
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Gridhrasi (sciatica): traditionally used for sciatic pain. Clinical studies have reported reduced sciatic pain and disability scores with Kati Basti application.
-- Lower back pain and chronic lumbar conditions: traditionally used for these conditions. A controlled pilot clinical study reported improvement in WOMAC scores.
+- Lower back pain and chronic lumbar conditions: traditionally used for these conditions.
 - Peripheral vascular insufficiency and lower limb weakness due to Vata: traditionally used for these conditions. Phytochemical reports have linked its anthraquinones and catechins to improved microcirculation.
 
 ## What do recent studies show?

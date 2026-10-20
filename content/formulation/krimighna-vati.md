@@ -41,10 +41,10 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## How does it work?
 
-- Parasitic membrane disruption: [Vidanga](/herb/vidanga/)'s [embelin](/glossary/compounds-d-g/#embelin) [alkaloids](/glossary/compounds-1-a/#alkaloids) impair parasitic cell membranes by interfering with mitochondrial electron transport chain, causing parasite death
+- Parasitic membrane disruption: [Vidanga](/herb/vidanga/)'s [embelin](/glossary/compounds-d-g/#embelin) (a benzoquinone) is held to impair parasitic cell membranes by interfering with mitochondrial electron transport chain, causing parasite death
 - Growth inhibition: [Neem](/herb/neem/)'s [azadirachtin](/glossary/compounds-a-c/#azadirachtin) disrupts parasitic growth by interfering with ecdysone-mediated molting cycle, preventing larval development and reproduction
-- Anti-inflammatory gut healing: [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) provides anti-inflammatory and [antimicrobial](/reference/antimicrobial/) effects in damaged gut mucosa, promoting healing of parasite-induced tissue damage
-- Digestive fire enhancement: [Pippali](/herb/pippali/) and [Vacha](/herb/vacha/) enhance Agni (digestive fire), creating an inhospitable environment for parasites and preventing reinfection by improving gut immunity
+- Anti-inflammatory gut support: [Haridra](/herb/haridra/) ([curcumin](/herb/curcumin/)) has shown anti-inflammatory and [antimicrobial](/reference/antimicrobial/) effects in studies
+- Digestive fire enhancement: [Pippali](/herb/pippali/) and [Vacha](/herb/vacha/) are classically held to enhance Agni (digestive fire), making the gut less hospitable to parasites
 - Ama mobilization: [Haritaki](/herb/haritaki/) gently mobilizes Ama (toxic residue) from the gut while [Pippali](/herb/pippali/) amplifies absorption through enhanced Srota (channel) penetration
 
 ## Which traditional uses are supported by research?
@@ -71,7 +71,7 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water.
 
-**Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract, does not need systemic absorption for action. Combined oral and luminal activity provides comprehensive anthelmintic effect.
+**Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract, does not need systemic absorption for action.
 
 **Optimal Timing:** On empty stomach, morning (Abhukta kala), for 3-7 days course. Follow with mild purgative ([Eranda](/herb/eranda/) Taila or [Triphala](/herb/triphala/)) to expel worms.
 

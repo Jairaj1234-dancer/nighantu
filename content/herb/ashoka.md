@@ -39,7 +39,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 - Estrogenic activity: Phytoestrogens (catechin, epicatechin) bind estrogen receptors, modulating reproductive hormone levels (FSH, LH, estradiol, progesterone).
 - Aromatase inhibition: Procyanidin B2 and luteolin inhibit aromatase enzyme, relevant for PCOS and estrogen-dependent conditions.
 - [Antioxidant](/reference/antioxidant/) action: [Flavonoids](/reference/flavonoids/) (kaempferol, rutin, gallic acid) scavenge free radicals and reduce malonaldehyde levels.
-- Uterine smooth muscle modulation: Oxytocic effect on uterine musculature, producing rhythmic contractions that help control menorrhagia.
+- Uterine smooth muscle modulation: Oxytocic effect on uterine musculature, producing rhythmic contractions.
 - Anti-inflammatory pathway: Inhibition of COX-2 and pro-inflammatory cytokines, contributing to [analgesic](/reference/analgesic/) and [antipyretic](/reference/antipyretic/) effects.
 
 ## Which traditional uses are supported by research?

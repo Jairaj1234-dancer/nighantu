@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamsha/meta-analysis.md"
 
 **Bioavailability:** Vamshalochana (bamboo manna/tabasheer) is primarily [silica](/glossary/compounds-q-t/#silica) (70-90% SiO2), mostly as amorphous opaline silica with moderate bioavailability (~25-35% as orthosilicic acid in gastric acid). Choline from bamboo leaves has high oral bioavailability (~70%). [Flavonoids](/reference/flavonoids/) ([orientin](/glossary/compounds-o-q/#orientin), [vitexin](/glossary/compounds-t-z/#vitexin), [isoorientin](/glossary/compounds-g-l/#isoorientin)) from leaves have moderate bioavailability (~15-25%). [Silicon](/glossary/compounds-q-t/#silicon) absorption is enhanced in acidic pH; co-administer with [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) or Amalaki (vitamin C source).
 
-**Optimal Timing:** After meals with honey for respiratory conditions; morning with warm milk for general tonic effect
+**Optimal Timing:** Traditionally taken after meals with honey in respiratory complaints, or in the morning with warm milk as a general tonic
 
 **Standardized Extract:** Vamshalochana standardized to >70% SiO2 by gravimetric/ICP-OES analysis; bamboo leaf extract standardized to >3% total flavonoids (as orientin equivalent by HPLC)
 

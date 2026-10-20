@@ -82,5 +82,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 - With [Punarnava](/herb/punarnava/) for [diuretic](/reference/diuretic/) and nephroprotective synergy
 - With [Ashwagandha](/herb/ashwagandha/) for vitality and reproductive health
 - With [Shilajit](/herb/shilajit/) for strength-building and [adaptogenic](/reference/adaptogenic/) combination
-- With [Varuna](/herb/varuna/) (Crataeva) for urinary stone management
+- With [Varuna](/herb/varuna/) (Crataeva), traditionally used for urinary stones
 - With Kapikacchu (Mucuna) for reproductive and dopaminergic synergy

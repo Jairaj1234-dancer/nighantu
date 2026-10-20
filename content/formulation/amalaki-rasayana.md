@@ -64,7 +64,7 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 ## Recent safety updates
 
-- Large-scale clinical study (686 of 720 participants completing study, 95.3% completion rate) confirms safety and tolerability in elderly population
+- A clinical study of 720 participants (686 completed) reported good tolerability in an elderly population
 - Mild acidity or loose stools possible in Pitta-predominant individuals; take with milk to mitigate
 - Honey component should not be heated; classical preparation methods ensure honey is added after cooling
 

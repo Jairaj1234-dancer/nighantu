@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Pitta Shirodhara Taila is a classical Ayurvedic taila, a medicated oil. Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Among its traditional indications is Pitta-vaishamya of the head region: over-active, sharp, heated mental states with burning sensation on the scalp or forehead, and difficulty letting the mind settle."
+answer: "Pitta Shirodhara Taila is a medicated oil formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Among its traditional indications is Pitta-vaishamya of the head region: over-active, sharp, heated mental states with burning sensation on the scalp or forehead, and difficulty letting the mind settle."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -14,7 +14,7 @@ ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Pitta-shamaka"
 whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
 aliases: ["Pitta Shirodhara Taila", "Pitta-Pacifying Shirodhara Oil", "Pitta Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "pitta-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
-sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954", "Companion document: Pitta oil write up - Bolstered.docx (Nitya Naturals)"]
+sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954"]
 productHints: ["Pitta Shirodhara Oil (Nitya Naturals)"]
 words: 644
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pitta-Shirodhara-Taila/meta-analysis.md"
@@ -86,4 +86,4 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 
 ## Which traditional uses are supported by research?
 
-*No published research is cited on this page. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No published study tests this exact formulation; the studies listed above concern Shirodhara and its constituent herbs.*

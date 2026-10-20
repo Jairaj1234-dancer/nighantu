@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Bimbi (Coccinia grandis) is a plant drug, also called Bimbaphalam, Tiktatundi and Tundika. Triterpenoids (cephalandrin) show moderate oral bioavailability. Beta-sitosterol is moderately absorbed (10-15%). Pectin and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa."
+answer: "Bimbi (Coccinia grandis) is a plant drug, also called Bimbaphalam, Tiktatundi and Tundika. Triterpenoids show moderate oral bioavailability. Beta-sitosterol is poorly absorbed. Pectin and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa."
 botanical: "Coccinia grandis"
 family: "Cucurbitaceae"
 sanskrit: ""
@@ -40,9 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 3-6g powder; 50-100ml decoction; applied externally as paste for skin conditions
 
-**Bioavailability:** Limited pharmacokinetic data for Coccinia grandis/indica. [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) (cephalandrin) show moderate oral bioavailability. Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) is moderately absorbed (10-15%). [Pectin](/glossary/compounds-o-q/#pectin) and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa. Co-administration with lipids enhances triterpenoid absorption.
+**Bioavailability:** Limited pharmacokinetic data for Coccinia grandis/indica. [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral bioavailability. Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) is poorly absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa. Co-administration with lipids enhances triterpenoid absorption.
 
-**Optimal Timing:** Early morning on empty stomach for blood sugar management; before meals for metabolic effects; juice ideally consumed fresh
+**Optimal Timing:** Traditionally taken early morning on an empty stomach or before meals; juice ideally consumed fresh
 
 **Standardized Extract:** Aerial part extract standardized to beta-sitosterol NLT 1%; total triterpenoids NLT 3%. Lyophilized juice extract preferred for maximum activity.
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Meshashringi (Gymnema) for [antidiabetic](/reference/antidiabetic/) synergy
-- With [Karela](/herb/karela/) ([bitter gourd](/herb/bitter-gourd/)) for blood [glucose](/glossary/compounds-d-g/#glucose) management
-- With [Haridra](/herb/haridra/) for metabolic syndrome
-- With [Vijaysar](/herb/vijaysar/) for diabetic formulations
+- Traditionally paired with Meshashringi (Gymnema) in formulas classed as [antidiabetic](/reference/antidiabetic/)
+- Traditionally paired with [Karela](/herb/karela/) ([bitter gourd](/herb/bitter-gourd/))
+- Traditionally paired with [Haridra](/herb/haridra/)
+- Traditionally paired with [Vijaysar](/herb/vijaysar/)

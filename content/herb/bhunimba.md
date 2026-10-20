@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Bhunimba is a substance used in the Ayurvedic materia medica. Extensive first-pass metabolism via CYP3A4 and CYP2C9. Nanoparticle formulations improve bioavailability by 2-4x. Andrographolide-phospholipid complex (phytosome) shows significantly improved Cmax. Self-nanoemulsifying systems show promising results in preclinical studies."
+answer: "Bhunimba is a substance used in the Ayurvedic materia medica. Its marker compound andrographolide shows moderate oral bioavailability and extensive first-pass metabolism via CYP3A4 and CYP2C9."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 **Bioavailability:** [Andrographolide](/glossary/compounds-1-a/#andrographolide) shows moderate oral bioavailability (25-35%) with rapid absorption (Tmax 1.5-2h). Extensive first-pass metabolism via CYP3A4 and CYP2C9. Nanoparticle formulations improve bioavailability by 2-4x. Andrographolide-phospholipid complex (phytosome) shows significantly improved Cmax. Self-nanoemulsifying systems show promising results in preclinical studies.
 
-**Optimal Timing:** Before meals with warm water for fever and infections; with honey for bitter taste mitigation; empty stomach for maximum absorption
+**Optimal Timing:** Before meals with warm water (traditionally used in fever and infections); with honey for bitter taste mitigation; empty stomach for maximum absorption
 
 **Standardized Extract:** Whole plant extract standardized to andrographolide NLT 10% (concentrated extract); NLT 30% for high-potency capsules. Total diterpene lactones NLT 15%.
 

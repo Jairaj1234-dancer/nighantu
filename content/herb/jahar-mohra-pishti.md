@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Pishtis"
-answer: "Jahar Mohra Pishti is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination."
+answer: "Jahar Mohra Pishti is a pishti, a mineral preparation made by grinding the purified stone with rose water, without calcination."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 ## How does it work?
 
-- Cardiotonic action: [Magnesium](/glossary/compounds-l-o/#magnesium) from the serpentine matrix is essential for cardiac muscle function, rhythm regulation, and blood pressure maintenance; magnesium supplementation is well-established for cardiac health
+- Cardiotonic action: [Magnesium](/glossary/compounds-l-o/#magnesium) from the serpentine matrix is essential for cardiac muscle function, rhythm regulation, and blood pressure maintenance
 - Antacid and anti-emetic: Magnesium silicate has documented antacid properties similar to pharmaceutical magnesium-based antacids; acts as a natural buffer against excess gastric acid
 - Detoxifying (Vishahara): Traditionally considered an antidote to poisons; the magnesium silicate matrix may adsorb toxins in the GI tract similar to activated charcoal's mechanism
 
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
+- **Primary component:** Serpentine (magnesium silicate) triturated with rose water (after Shodhana)
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 

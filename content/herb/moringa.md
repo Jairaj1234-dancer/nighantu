@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Moringa (Moringa oleifera) is classified in Ayurveda as Krimighna (Anthelmintic), Shothahara (Anti-inflammatory), from the Moringaceae family. Parts used: leaf, fruit, seed, bark. Used extensively in Dashamoola preparations. Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs."
+answer: "Moringa (Moringa oleifera) is classified in Ayurveda as Krimighna (Anthelmintic), Shothahara (Anti-inflammatory), from the Moringaceae family. Parts used: leaf, fruit, seed, bark. Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs."
 botanical: "Moringa oleifera"
 family: "Moringaceae"
 sanskrit: ""
 ayurvedicCategory: "Krimighna (Anthelmintic), Shothahara (Anti-inflammatory)"
-whoStatus: "Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs. Listed in the Ayurvedic Pharmacopoeia of India. FDA (US) and EFSA (EU) recognize Moringa oleifera as a food plant. FAO (Food and Agriculture Organization) has documented its nutritional and medicinal properties. Positive opinions from FDA, EFSA, and CosIng (Cosmetic Ingredients database) for leaves, seed oil, bark, fruits, flowers, and roots."
+whoStatus: "Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs. Listed in the Ayurvedic Pharmacopoeia of India. FDA (US) and EFSA (EU) recognize Moringa oleifera as a food plant. FAO (Food and Agriculture Organization) has documented its nutritional and medicinal properties. Positive opinions from FDA, EFSA, and CosIng (Cosmetic Ingredients database) for leaves, seed oil, bark, fruits, and flowers."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Moringa/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/herb/dashamoola/) preparations. Indicated for Shotha (inflammation), Krimi (parasites), and Vata disorders.
+Called 'Shigru' in Ayurveda. Indicated for Shotha (inflammation), Krimi (parasites), and Vata disorders.
 
 ## Where is it described in the classical texts?
 

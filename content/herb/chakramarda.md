@@ -35,12 +35,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 - [Rhein](/glossary/compounds-q-t/#rhein) (anthraquinone)
 - 1-Desmethylaurantio-obtusin
 - Toralactone (naphtho-pyranone)
-- Rubrofusarin (naphthoquinone)
+- Rubrofusarin (naphthopyranone)
 
 ## How does it work?
 
-- Anthraquinone antifungal mechanism: Chrysophanol and emodin disrupt fungal cell membrane integrity by interfering with [ergosterol](/glossary/compounds-d-g/#ergosterol) biosynthesis, leading to fungal cell lysis and death - particularly effective against ringworm (Microsporon, Trichophyton) species
-- Emodin anti-inflammatory NF-kB pathway: Emodin suppresses NF-kB activation and reduces pro-inflammatory cytokine cascade, alleviating inflammatory skin conditions like eczema and dermatitis
+- Anthraquinone antifungal mechanism: Chrysophanol and emodin disrupt fungal cell membrane integrity by interfering with [ergosterol](/glossary/compounds-d-g/#ergosterol) biosynthesis, leading to fungal cell lysis and death
+- Emodin anti-inflammatory NF-kB pathway: Emodin suppresses NF-kB activation and reduces pro-inflammatory cytokine cascade
 - Chrysophanol antibacterial action: Chrysophanol inhibits bacterial protein synthesis and damages bacterial DNA, providing broad-spectrum [antimicrobial](/reference/antimicrobial/) activity against skin pathogens including S. aureus and S. epidermidis
 - Toralactone [antioxidant](/reference/antioxidant/) protection: Naphtho-pyranone compounds scavenge free radicals and reduce oxidative stress in skin tissues, supporting overall skin health
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 ## Recent safety updates
 
 - Anthraquinone-containing preparations may cause contact dermatitis in sensitive individuals. Seeds contain anthraquinone glycosides with [laxative](/reference/laxative/) effects - oral use should be dose-controlled to avoid gastrointestinal disturbance
-- Limited formal toxicology data available for topical dermatological applications. Traditional use indicates safety for external application on skin fungal infections. Not recommended for prolonged internal use due to anthraquinone content
+- Limited formal toxicology data available for topical dermatological applications. Not recommended for prolonged internal use due to anthraquinone content
 
 ## What is it made of?
 

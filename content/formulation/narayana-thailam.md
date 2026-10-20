@@ -31,10 +31,10 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## How does it work?
 
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) lipid medium serves as a superior transdermal delivery vehicle for lipophilic [saponins](/reference/saponins/), [lignans](/glossary/compounds-g-l/#lignans), and phenolics, achieving therapeutic tissue concentrations at musculoskeletal sites
-- [Dashamoola](/herb/dashamoola/)'s combined action of 10 root extracts provides broad-spectrum anti-inflammatory activity through simultaneous inhibition of multiple inflammatory pathways (COX, LOX, NF-kB)
+- [Sesame oil](/glossary/concepts-m-y/#tila-taila) lipid medium serves as a transdermal delivery vehicle for lipophilic [saponins](/reference/saponins/), [lignans](/glossary/compounds-g-l/#lignans), and phenolics
+- [Dashamoola](/herb/dashamoola/)'s combined action of 10 root extracts is proposed to provide anti-inflammatory activity through simultaneous inhibition of multiple inflammatory pathways (COX, LOX, NF-kB)
 - [Tagara](/herb/tagara/)'s [valepotriates](/glossary/compounds-t-z/#valepotriates) and [Jatamansi](/herb/jatamansi/)'s nardostachin provide dual nervine sedative and [antispasmodic](/glossary/pharmacology/#antispasmodic) action, addressing both the pain and spasm components of Vata disorders
-- [Ashwagandha](/herb/ashwagandha/)'s [withanolides](/glossary/compounds-t-z/#withanolides) and [Bala](/herb/bala/)'s [ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) synergistically strengthen neuromuscular tissue while providing [analgesic](/reference/analgesic/) effects
+- [Ashwagandha](/herb/ashwagandha/)'s [withanolides](/glossary/compounds-t-z/#withanolides) and [Bala](/herb/bala/)'s [ephedrine](/glossary/compounds-d-g/#ephedrine) [alkaloids](/glossary/compounds-1-a/#alkaloids) are proposed to support neuromuscular function and to have [analgesic](/reference/analgesic/) effects
 
 ## Which traditional uses are supported by research?
 
@@ -50,8 +50,8 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## Recent safety updates
 
-- Generally safe for external application (Abhyanga, Basti, Nasya). Balanced formulation suitable for regular use. Mild skin warmth is normal after application. Patch test recommended for sensitive individuals. No significant drug interactions for external use reported.
-- Internal administration (Basti, oral use) should only be under Ayurvedic practitioner supervision. Not recommended during acute Pitta flare-ups or fever. Caution in individuals on anticoagulant or anti-inflammatory medications. The Maha Narayana version is more potent but also heavier and less suitable for daily use.
+- Generally safe for external application (Abhyanga). Balanced formulation suitable for regular use. Mild skin warmth is normal after application. Patch test recommended for sensitive individuals. No significant drug interactions for external use reported.
+- Internal administration (Basti, Nasya, oral use) should only be under Ayurvedic practitioner supervision. Not recommended during acute Pitta flare-ups or fever. Caution in individuals on anticoagulant or anti-inflammatory medications. The Maha Narayana version is more potent but also heavier and less suitable for daily use.
 
 ## Dosage forms and preparation
 

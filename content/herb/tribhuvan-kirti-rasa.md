@@ -27,9 +27,9 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 ## How does it work?
 
-- [Antipyretic](/reference/antipyretic/) action: [Trikatu](/herb/trikatu/) ([ginger](/herb/ginger/), [black pepper](/herb/black-pepper/), long pepper) combination stimulates Agni (digestive fire) and has proven bioactive compounds (gingerols, [piperine](/reference/piperine/)) with demonstrated antipyretic and anti-inflammatory effects through COX-2 inhibition
+- [Antipyretic](/reference/antipyretic/) action: [Trikatu](/herb/trikatu/) ([ginger](/herb/ginger/), [black pepper](/herb/black-pepper/), long pepper) combination is traditionally said to stimulate Agni (digestive fire); laboratory studies have reported antipyretic and anti-inflammatory activity for its compounds (gingerols, [piperine](/reference/piperine/)), attributed to COX-2 inhibition
 - Immunostimulatory: [Tulsi](/herb/tulsi/) (basil) juice provides [eugenol](/glossary/compounds-d-g/#eugenol), ursolic acid, and rosmarinic acid with documented [immunomodulatory](/reference/immunomodulatory/), antiviral, and antibacterial properties
-- Diaphoretic action: The combination induces sweating to reduce fever; [Vatsanabha](/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
+- Diaphoretic action: The combination is classically described as inducing sweating in jvara (fever); [Vatsanabha](/herb/vatsanabha/) (processed aconite) in micro-doses has [analgesic](/reference/analgesic/) and anti-inflammatory effects by modulating sodium channel activity
 
 ## Which traditional uses are supported by research?
 
@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Good; standard Rasaushadhi with anti-pyretic and anti-infective action
+**Bioavailability:** Not established
 
 **Optimal Timing:** With honey and [Tulsi](/herb/tulsi/) juice; or with Ardrak Swarasa
 

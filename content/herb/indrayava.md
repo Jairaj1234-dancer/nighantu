@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Indrayava/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Indrayava |
+| English | Conessi Seeds |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Indrayava/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Ativisha for antidiarrheal action
-- With [Bilva](/herb/bilva/) for dysentery management
+- With Ativisha, traditionally used for diarrhoea
+- With [Bilva](/herb/bilva/), traditionally used for dysentery
 - With Musta for digestive disorders
-- With Kutaja bark for comprehensive anti-amoebic therapy
+- Traditionally combined with Kutaja bark

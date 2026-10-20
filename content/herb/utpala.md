@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Utpala/meta-analysis.md"
 
 **Optimal Timing:** Morning for [Rasayana](/reference/rasayana/) effect; Nasya in morning after sunrise; ophthalmic application as directed by physician
 
-**Standardized Extract:** Hydroethanolic extract standardized to >0.5% nymphayol by HPLC; >2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent); aromatic water ([Arka](/herb/arka/)) with characteristic floral bouquet
+**Standardized Extract:** Hydroethanolic extract standardized to >0.5% nymphayol by HPLC; >2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent); aromatic water (Arka) with characteristic floral bouquet
 
 **Shelf Life:** Fresh flowers: 12-24 hours; Dried petals: 6-12 months; Powder: 12 months; Capsules: 24 months; Nasya oil: 12-18 months; Aromatic water: 6-12 months
 
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Utpala/meta-analysis.md"
 - Hydroethanolic extraction (50-60% ethanol)
 - Cold maceration for delicate flower petals
 - Supercritical CO2 extraction for steroidal fraction
-- Distillation for aromatic water (Utpala [Arka](/herb/arka/))
+- Distillation for aromatic water (Utpala Arka)
 
 ### Synergistic Combinations
 

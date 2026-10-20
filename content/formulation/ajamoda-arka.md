@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arkas-Distillates"
-answer: "Ajamoda Arka is a classical Ayurvedic arka, a herbal distillate. Nano-dispersed volatile oils in aqueous medium enhance bioavailability compared to crude drug."
+answer: "Ajamoda Arka is a classical Ayurvedic arka, a herbal distillate."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,11 +40,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** [Arka](/herb/arka/) (distillate), Liquid drops (modern)
+**Dosage Forms:** Arka (distillate), Liquid drops (modern)
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals, as given in the Ayurvedic Formulary of India, Part I, entry 2:1. The formulary attributes this formula to Arkaprakasa, Sataka 3: 7.
 
-**Bioavailability:** [Arka](/herb/arka/) (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract. Nano-dispersed volatile oils in aqueous medium enhance bioavailability compared to crude drug.
+**Bioavailability:** Arka (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract.
 
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
 

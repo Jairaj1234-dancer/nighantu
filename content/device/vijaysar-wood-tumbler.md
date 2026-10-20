@@ -27,7 +27,7 @@ Bhavaprakasha Nighantu (Vatadi Varga) describes [Vijaysar](/herb/vijaysar/)/Beej
 
 ## How is it used traditionally?
 
-Blood sugar management (Prameha/Madhumeha), cholesterol reduction, anti-obesity, liver support, and metabolic syndrome. Water is consumed empty stomach for 30+ days.
+Traditionally used in Prameha/Madhumeha. In traditional practice, water stored in the tumbler is drunk on an empty stomach, often for 30 days or more.
 
 ## Traditional materials
 
@@ -41,5 +41,5 @@ Blood sugar management (Prameha/Madhumeha), cholesterol reduction, anti-obesity,
 ## Regulatory status
 
 - **India (CDSCO):** Not classified as a medical device. However, [Vijaysar](/herb/vijaysar/)-based oral preparations are approved Ayurvedic medicines under AYUSH. The tumbler is sold as a traditional wellness product.
-- **US (FDA):** Not regulated as a medical device or drug. Would be considered a dietary supplement delivery method if health claims are made.
+- **US (FDA):** Not regulated as a medical device or drug. If marketed with disease-treatment claims, the FDA could regulate it as an unapproved drug.
 - **EU (MDR):** Not classified as a medical device.

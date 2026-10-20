@@ -27,15 +27,15 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Brahmi-Vati/meta-an
 
 ## Where is it described in the classical texts?
 
-Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Unmada/Apasmara Chikitsa) and Rasa Tarangini; the Suvarna (gold) variant is described in later Rasa Shastra texts
+Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Unmada/Apasmara Chikitsa) and Rasa Tarangini; the Suvarna (gold) variant is described in later Rasa Shastra texts. The Ayurvedic Formulary of India instead attributes the formula to Siddhayogasangraha, Vatarogadhikara.
 
 ## How does it work?
 
 - Synaptic repair and neuronal synthesis: Bacosides A and B enhance nerve impulse transmission and promote repair of damaged neurons by upregulating neuronal synthesis, kinase activity, and restoring synaptic function
 - Neurotransmitter modulation: Bacopa influences synthesis and availability of [serotonin](/glossary/compounds-q-t/#serotonin) (5-HT), acetylcholine, dopamine, and GABA, maintaining neurotransmitter balance critical for memory and mood
 - [Neuroprotective](/reference/neuroprotective/) [antioxidant](/reference/antioxidant/): Increases concentration of GSH and enzymatic antioxidants (SOD, CAT, GPx) and acts as free radical scavenging agent, protecting neurons from oxidative damage
-- Cholinergic enhancement: Inhibits acetylcholinesterase activity, increasing acetylcholine availability at synapses, improving cognitive function especially relevant in Alzheimer's pathology
-- Anti-anxiety (Medhya [Rasayana](/reference/rasayana/)): Modulates GABAergic and serotonergic pathways, reducing anxiety and promoting calm cognitive clarity without sedation
+- Cholinergic enhancement: Reported to inhibit acetylcholinesterase activity, increasing acetylcholine availability at synapses
+- Anti-anxiety (Medhya [Rasayana](/reference/rasayana/)): Reported to modulate GABAergic and serotonergic pathways
 
 ## Which traditional uses are supported by research?
 

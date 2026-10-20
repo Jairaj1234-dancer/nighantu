@@ -31,8 +31,8 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ## How does it work?
 
-- Lithotriptic action of [Varuna](/herb/varuna/) and Aerua lanata breaks down urinary stones into small pieces for easy expulsion
-- Potent [diuretic](/reference/diuretic/) effect increases urine output, flushing kidneys and bladder to aid stone passage
+- [Varuna](/herb/varuna/) and Aerua lanata are traditionally held to have lithotriptic action, breaking down urinary stones for expulsion
+- A [diuretic](/reference/diuretic/) effect is traditionally held to increase urine output and aid stone passage
 - Anti-inflammatory activity inhibits pro-inflammatory cytokines, reducing urinary tract and renal inflammation
 - Anti-obesity and lipid-lowering effects through inhibition of adipogenic regulators in visceral adipose tissue
 
@@ -40,7 +40,7 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Urinary stones (Mutrashmari/Urolithiasis): traditionally used for urinary stones. Studies, including clinical trials, have reported lithotriptic and diuretic activity.
+- Urinary stones (Mutrashmari/Urolithiasis): traditionally used for urinary stones. Studies have reported lithotriptic and diuretic activity.
 - Kidney and bladder disorders: traditionally used for kidney and bladder disorders. Studies in macrophages have reported anti-inflammatory activity.
 - Obesity: animal studies have reported anti-obesity activity.
 - Inflammatory conditions: traditionally used for inflammatory conditions. In vitro studies in THP-1 macrophages have reported cytokine inhibition.

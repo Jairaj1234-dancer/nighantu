@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 **Bioavailability:** Gymnema sylvestre whole leaf (as opposed to standardized extract) provides the full phytochemical matrix including gymnemic acids, [flavonoids](/reference/flavonoids/), [saponins](/reference/saponins/), [tannins](/reference/tannins/), and fiber. Gymnemic acid content in whole leaf is typically 1-4% (vs 25-75% in standardized extracts), meaning larger doses are needed. The fiber and tannin matrix may modulate absorption kinetics - slower release but potentially more sustained action. Whole leaf retains gurmarin peptide (partially destroyed during extraction) which contributes to sweet-taste suppression. Traditional decoction preparation partially hydrolyzes glycosidic bonds, potentially enhancing aglycone bioavailability.
 
-**Optimal Timing:** Tea or capsule 15-30 minutes before meals for [glucose](/glossary/compounds-d-g/#glucose) management; traditional leaf chewing before meals for sweet-taste suppression
+**Optimal Timing:** Tea or capsule 15-30 minutes before meals; traditional leaf chewing before meals for sweet-taste suppression
 
 **Standardized Extract:** Not applicable - this is a whole herb product. Characterize by: total gymnemic acid content (1-4%), HPTLC fingerprint, organoleptic profile, particle size distribution for powder, essential oil content.
 
@@ -57,6 +57,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 ### Synergistic Combinations
 
 - Same synergies as [Gudmar](/herb/gudmar/) (standardized) but at whole-herb potency levels
-- With [Jamun](/herb/jamun/) (Syzygium) leaf for anti-diabetic tea blend
+- With [Jamun](/herb/jamun/) (Syzygium) leaf in a traditional tea blend
 - With [Neem](/herb/neem/) leaf for blood-purifying and metabolic tea
 - With [Tulsi](/herb/tulsi/) for immune-metabolic herbal tea combination

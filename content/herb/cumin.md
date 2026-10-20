@@ -62,4 +62,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin/meta-analysis.md"
 - With [Ajwain](/herb/ajwain/) for carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) synergy
 - With Sunthi for digestive fire enhancement
 - With Hing (asafoetida) for bloating and flatulence
-- With [Methi](/herb/methi/) for metabolic syndrome management
+- With [Methi](/herb/methi/) to support metabolic function

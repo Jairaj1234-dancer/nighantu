@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Patrangasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Mentioned in Charaka Samhita (1st-2nd century CE) under Asava-Arishta category. Sushruta Samhita references it for gastrointestinal and gynecological disorders."
+answer: "Patrangasava is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI). Described in Bhaishajya Ratnavali in the chapter on stri roga (pradara)."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Charaka Samhita and Sushruta Samhita. Manufactured under Drug and Cosmetics Act, 1940."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Described in Bhaishajya Ratnavali. Manufactured under Drug and Cosmetics Act, 1940."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -41,14 +41,13 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Patrang
 
 ## Where is it described in the classical texts?
 
-Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhita (1st-2nd century CE) under Asava-Arishta category. Sushruta Samhita references it for gastrointestinal and gynecological disorders.
+Described in Bhaishajya Ratnavali, in the chapter on stri roga (pradara).
 
 ## How does it work?
 
-- [Hemostatic](/glossary/pharmacology/#hemostatic) and astringent action of Patranga and [Khadira](/herb/khadira/) controls heavy menstrual bleeding (menorrhagia)
-- Anti-inflammatory action of [Vasaka](/herb/vasaka/) and [Devadaru](/herb/devadaru/) reduces uterine inflammation and pain
-- Uterine tonic properties of [Bala](/herb/bala/) and Gurhal strengthen reproductive tissue and improve hormonal balance
-- Antacid and digestive action addresses associated digestive complaints with less rebound acidity than conventional antacids
+- [Hemostatic](/glossary/pharmacology/#hemostatic) and astringent action of Patranga and [Khadira](/herb/khadira/) is traditionally described as checking heavy menstrual bleeding (menorrhagia)
+- Anti-inflammatory action of [Vasaka](/herb/vasaka/) and [Devadaru](/herb/devadaru/) is traditionally used for uterine inflammation and pain
+- [Bala](/herb/bala/) and Gurhal are traditionally regarded as uterine tonics
 
 ## Which traditional uses are supported by research?
 

@@ -107,7 +107,7 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 **Standardized Extract:** Root extract standardized to NLT 0.1% total alkaloids (as ephedrine); NLT 1.5% beta-[sitosterol](/glossary/compounds-q-t/#sitosterol); aqueous extract 10:1 ratio
 
-**Shelf Life:** 2 years (powder/capsule); 3 years (tablet); 5 years (Taila, properly prepared)
+**Shelf Life:** 2 years (powder/capsule); 3 years (tablet)
 
 **Storage:** Cool, dry place away from direct sunlight. Oil preparations in amber glass bottles. Powder in airtight containers to prevent moisture absorption due to mucilage.
 
@@ -117,7 +117,7 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 - Hydroalcoholic extraction (70:30 ethanol:water)
 - Aqueous decoction for Kashayam
-- Cold-pressed oil infusion (Taila method: 1:4:16 kalka:taila:kwath)
+- Taila paka, oil cooked with kalka and kwath (1:4:16 kalka:taila:kwath)
 - Supercritical CO2 for alkaloid-rich fractions
 - Soxhlet extraction with methanol for research-grade extracts
 

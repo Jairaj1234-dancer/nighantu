@@ -76,7 +76,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classified as Varnya (complexion-enhancing), Kushthagna (anti-dermatosis), and Vishaghna (antitoxic). Golden milk (Haldi Doodh) is a traditional preparation.
+Used in many Ayurvedic formulations. Sacred in Hindu rituals. Classified as Varnya (complexion-enhancing), Kushthagna (anti-dermatosis), and Vishaghna (antitoxic). Golden milk (Haldi Doodh) is a traditional preparation.
 
 ## Where is it described in the classical texts?
 
@@ -120,7 +120,6 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailab
 - Demethoxycurcumin
 - Bisdemethoxycurcumin
 - Turmerone
-- Turmeric
 - Zingiberene
 - Curlone
 - Curcuminoids complex 
@@ -155,7 +154,7 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailab
 
 ### Synergistic Combinations
 
-- With [Pippali](/herb/pippali/) (Piper longum) for 20x bioavailability enhancement via piperine
+- With [Pippali](/herb/pippali/) (Piper longum), which contains piperine
 - With Maricha ([black pepper](/herb/black-pepper/)) for curcumin absorption
 - With [Guduchi](/herb/guduchi/) for immune modulation
 - With [Neem](/herb/neem/) for skin disorders

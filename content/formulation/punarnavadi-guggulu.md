@@ -41,9 +41,9 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## How does it work?
 
-- [Diuretic](/reference/diuretic/) and anti-edema action: [Punarnava](/herb/punarnava/) (Boerhavia diffusa) contains punarnavine and rotenoids that promote diuresis and reduce edema without disturbing electrolyte balance
+- [Diuretic](/reference/diuretic/) and anti-edema action: [Punarnava](/herb/punarnava/) (Boerhavia diffusa) contains punarnavine and rotenoids and is traditionally used to promote diuresis and reduce edema
 - Anti-inflammatory NF-kB modulation: Guggulsterones interfere with NF-kB, a key inflammation mediator, reducing inflammatory pathways in kidneys and joints
-- Renoprotective action: [Punarnava](/herb/punarnava/) improves glomerular filtration rate, reduces serum creatinine and blood urea nitrogen, and decreases albuminuria through nephroprotective mechanisms
+- Renoprotective action: studies of [Punarnava](/herb/punarnava/) preparations have reported reduced serum creatinine and blood urea and decreased albuminuria
 - [Hepatoprotective](/reference/hepatoprotective/) synergy: Combined [Punarnava](/herb/punarnava/) and [Triphala](/herb/triphala/) protect hepatocytes from oxidative damage, supporting liver-kidney detoxification axis
 
 ## Which traditional uses are supported by research?
@@ -60,7 +60,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 - Patel MV, Gupta SN, Patel NG 2011. [Effects of Ayurvedic treatment on 100 patients of chronic renal failure (other than diabetic nephropathy)](https://pubmed.ncbi.nlm.nih.gov/22661841/). *Ayu*. PMID [22661841](https://pubmed.ncbi.nlm.nih.gov/22661841/) · [doi:10.4103/0974-8520.96120](https://doi.org/10.4103/0974-8520.96120)  
   Study of 100 CRF patients showed serum creatinine reduced by 20.71%, blood urea reduced by 36.15%, albuminuria reduced by 36.70%, hemoglobin increased by 4.65%, and edema reduced by 71.56%.
 - Prashanth GS, Baghel MS, Ravishankar B and others 2010. [A clinical comparative study of the management of chronic renal failure with Punarnavadi compound](https://pubmed.ncbi.nlm.nih.gov/22131708/). *Ayu*. PMID [22131708](https://pubmed.ncbi.nlm.nih.gov/22131708/) · [doi:10.4103/0974-8520.72388](https://doi.org/10.4103/0974-8520.72388)  
-  Small study (N=30) found reduced ankle swelling within three weeks, improved kidney filtration capacity, and cleansed urinary tract with healthy urine output support.
+  Small study (N=30) found reduced ankle swelling within three weeks and improved kidney filtration capacity.
 
 *Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

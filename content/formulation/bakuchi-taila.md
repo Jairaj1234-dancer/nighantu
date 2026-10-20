@@ -42,8 +42,8 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 - Psoralen intercalates into DNA of melanocytes and, upon UV exposure, crosslinks DNA strands, stimulating melanocyte proliferation and melanin production (photochemotherapy mechanism - PUVA therapy basis)
 - Bakuchiol activates melanogenesis-related genes (TYR, TYRP1, DCT) in melanocytes independent of UV exposure, providing melanin-stimulating effects even without phototherapy
-- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) effects on depigmented skin, reducing autoimmune attack on melanocytes in vitiligo
-- Psoralen enhances UV sensitivity of depigmented patches, promoting selective repigmentation when combined with controlled UV-B exposure therapy
+- Flavonoids (corylin, psoralidin) provide anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) effects on depigmented skin
+- Psoralen enhances UV sensitivity of depigmented patches, promoting selective repigmentation when combined with controlled UV-A exposure therapy
 
 ## Which traditional uses are supported by research?
 

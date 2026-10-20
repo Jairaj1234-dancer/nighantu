@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Womens-Health"
-answer: "Lajjalu (Mimosa pudica) is a plant drug, also called Namaskari, Samamga and Samanga. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with piperine or lipid-based carriers can improve absorption of flavonoid glycosides by 25-40%."
+answer: "Lajjalu (Mimosa pudica) is a plant drug, also called Namaskari, Samamga and Samanga. Mimosine undergoes partial hepatic first-pass metabolism."
 botanical: "Mimosa pudica"
 family: "Fabaceae"
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Lajjalu |
+| English | Touch-me-not |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Bioavailability:** Moderate oral bioavailability; [tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) are absorbed in the upper GI tract. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with [piperine](/reference/piperine/) or lipid-based carriers can improve absorption of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) by 25-40%.
+**Bioavailability:** Moderate oral bioavailability; [tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) are absorbed in the upper GI tract. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with [piperine](/reference/piperine/) or lipid-based carriers can improve absorption of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides).
 
 **Optimal Timing:** Before meals for GI indications; with meals for systemic anti-inflammatory effects; topical application 2-3 times daily on affected area
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/herb/ashwagandha/) (stress and wound healing)
-- [Haridra](/herb/haridra/) (anti-inflammatory synergy)
-- [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) potentiation)
-- [Yashtimadhu](/herb/yashtimadhu/) (gastroprotective combination)
+- [Ashwagandha](/herb/ashwagandha/)
+- [Haridra](/herb/haridra/)
+- [Guduchi](/herb/guduchi/)
+- [Yashtimadhu](/herb/yashtimadhu/)

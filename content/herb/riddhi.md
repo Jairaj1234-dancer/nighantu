@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## Recent safety updates
 
-- No documented toxicity at traditional Ayurvedic doses; used safely as part of Ashtavarga and [Chyawanprash](/formulation/chyawanprash/) formulations for centuries
+- No documented toxicity at traditional Ayurvedic doses; it is a traditional ingredient of Ashtavarga and [Chyawanprash](/formulation/chyawanprash/) formulations
 - Critically endangered orchid species; authenticity of commercial samples is a major concern, with frequent adulteration by unrelated species posing potential safety risks
 
 ## Dosage forms and preparation
@@ -91,7 +91,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Ashwagandha](/herb/ashwagandha/) (Rasayana and strength combination - Ashtavarga member)
+- [Ashwagandha](/herb/ashwagandha/) (Rasayana and strength combination)
 - [Shatavari](/herb/shatavari/) (reproductive health and rejuvenation)
 - [Meda](/herb/meda/) (paired Ashtavarga herb for rejuvenation)
 - [Kakoli](/herb/kakoli/) (Ashtavarga combination for vitality)

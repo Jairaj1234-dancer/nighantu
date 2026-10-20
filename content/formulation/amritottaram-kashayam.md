@@ -32,8 +32,8 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 ## How does it work?
 
 - [Immunomodulatory](/reference/immunomodulatory/) action through enhanced NK cell activity and macrophage phagocytosis ([Guduchi](/herb/guduchi/))
-- Mild [antipyretic](/reference/antipyretic/) action targeting root cause of fever by addressing AMA (metabolic toxins) or microbial infections
-- [Hepatoprotective](/reference/hepatoprotective/) activity through reduction of ALT/AST [enzymes](/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration ([Haritaki](/herb/haritaki/), [Guduchi](/herb/guduchi/))
+- Mild [antipyretic](/reference/antipyretic/) action, traditionally attributed to addressing AMA (metabolic toxins)
+- [Hepatoprotective](/reference/hepatoprotective/) activity has been reported, with reduction of ALT/AST [enzymes](/glossary/compounds-d-g/#enzymes) ([Haritaki](/herb/haritaki/), [Guduchi](/herb/guduchi/))
 - Bioavailability enhancement by Shunthi ([ginger](/herb/ginger/)) improves absorption of active compounds from [Guduchi](/herb/guduchi/) and [Haritaki](/herb/haritaki/)
 
 ## Which traditional uses are supported by research?
@@ -52,7 +52,7 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 ## Recent safety updates
 
 - Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
-- May potentiate immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/herb/ginger/) component may interact with anticoagulant medications.
+- May counteract immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/herb/ginger/) component may interact with anticoagulant medications.
 
 ## Dosage forms and preparation
 

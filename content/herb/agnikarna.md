@@ -68,9 +68,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Taila (medicated oil for external use), Lepa (paste for topical application)
 
-**Standard Dosage:** 1-3g powder twice daily; 30-50ml decoction twice daily; external oil application as needed
+**Standard Dosage:** Internal use only after Shodhana and under qualified supervision; no safe self-administered dose is given here. External oil application as needed
 
-**Bioavailability:** Limited modern bioavailability data. Traditional texts suggest moderate absorption when taken with warm water or specific anupanas. The plant's alkaloid and terpenoid constituents suggest reasonable lipophilic absorption. Co-administration with [Trikatu](/herb/trikatu/) may enhance absorption via [piperine](/reference/piperine/)-mediated mechanisms.
+**Bioavailability:** Limited modern bioavailability data. Traditional texts suggest moderate absorption when taken with warm water or specific anupanas. The plant's alkaloid constituents suggest reasonable lipophilic absorption. Co-administration with [Trikatu](/herb/trikatu/) may enhance absorption via [piperine](/reference/piperine/)-mediated mechanisms.
 
 **Optimal Timing:** After meals with warm water for internal use; topical application as needed, typically twice daily
 
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 **Storage:** Cool, dry place away from light and moisture. Temperature below 30°C, RH < 65%.
 
-**Marker Compounds:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) (total alkaloid content), [Tannins](/reference/tannins/), [Flavonoids](/reference/flavonoids/) (total flavonoid by UV spectrophotometry)
+**Marker Compounds:** Colchicine, gloriosine ([Alkaloids](/glossary/compounds-1-a/#alkaloids), total alkaloid content)
 
 ### Extraction Methods
 

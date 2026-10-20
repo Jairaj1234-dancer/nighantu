@@ -63,8 +63,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Badara/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Ashwagandha](/herb/ashwagandha/) for anxiolytic and sleep-promoting synergy
+- With [Ashwagandha](/herb/ashwagandha/), traditionally paired for calming and sleep support
 - With [Brahmi](/herb/brahmi/) for cognitive support and stress relief
-- With [Yashtimadhu](/herb/yashtimadhu/) for sore throat and cough
+- With [Yashtimadhu](/herb/yashtimadhu/), traditionally used for sore throat and cough
 - With [Draksha](/herb/draksha/) (raisins) for blood nourishment and general debility
 - With [Ghrita](/herb/ghrita/) (ghee) for Vata pacification and nourishment

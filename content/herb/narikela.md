@@ -43,7 +43,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 ## How does it work?
 
 - [Antimicrobial](/reference/antimicrobial/) action via lauric acid metabolite monolaurin disrupting bacterial and fungal cell membrane integrity
-- [Cardioprotective](/reference/cardioprotective/) effects through medium-chain fatty acid-mediated improvement of HDL/LDL ratio and [antioxidant](/reference/antioxidant/) action
 - Anti-inflammatory activity via virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil) [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibiting COX-2 and LOX pathways
 - Rehydration and electrolyte balance through coconut water providing isotonic [potassium](/glossary/compounds-o-q/#potassium), sodium and natural sugar solution
 
@@ -68,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 ## Recent safety updates
 
 - [Coconut oil](/glossary/concepts-a-m/#coconut-oil) and coconut water are GRAS with extensive dietary use history; virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil) is generally well-tolerated
-- Debate continues regarding saturated fat (lauric acid) content and cardiovascular risk; current evidence suggests neutral to beneficial effects when consumed in moderation. Coconut allergy (rare but documented) exists.
+- Debate continues regarding saturated fat (lauric acid) content and cardiovascular risk. Coconut allergy (rare but documented) exists.
 
 ## What is it made of?
 

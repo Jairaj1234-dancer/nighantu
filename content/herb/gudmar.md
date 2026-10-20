@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md
 
 - Gymnemic acids increase insulin secretion by stimulating Ca2+ influx through voltage-gated calcium channels and protein kinase activation, raising intracellular calcium.
 - Alternative mechanism: increases membrane porosity (disruption) and permeability of beta-cells, promoting insulin release independently of classical Ca2+ channel cascade.
-- Promotes regeneration of islet cells and increases number of pancreatic beta-cells and islets of Langerhans.
+- Studies have reported regeneration of islet cells and increased numbers of pancreatic beta-cells and islets of Langerhans.
 - Increases utilization of [glucose](/glossary/compounds-d-g/#glucose) by enhancing activities of [enzymes](/glossary/compounds-d-g/#enzymes) responsible for insulin-dependent glucose utilization pathways.
 - Inhibits glucose absorption from intestine via gymnemic acid binding to intestinal receptors.
 - Gymnemic acids structurally mimic glucose molecules and compete for sweet taste receptors on the tongue, blocking sweet taste perception.
@@ -67,16 +67,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md
 > This systematic review and meta-analysis aims to find the effect of Gymnema sylvestre (GS) supplementation on glycemic control in type-2 diabetes mellitus (T2DM). PubMed, Cochrane library, Google Scholar, and Science Direct were searched from inception to June 2020 to identify the studies that reported GS supplementation on glycemic parameters. Standardized mean difference (SMD) was calculated by comparing the post-intervention data with baseline data. SMDs with 95% confidence intervals (CIs) were pooled using a random-effects model. Our meta-analysis consisting of 10 studies with a total of 419 participants showed that GS supplementation significantly reduces fasting blood glucose (FBG) (SMD 1.57 mg/dl, 95% CI 2.22 to -0.93, p < .0001, I...
 
 **Keywords:** Gymnema sylvestre, glycemic control, lipid profile, meta-analysis, systematic review, type-2 DM
-
-#### 4. Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights.
-
-**Authors:** Koutros Stella, Kiemeney Lambertus A, Pal Choudhury Parichoy et al.
-**Journal:** European urology (2023)
-**PMID:** 37210288
-
-> Genomic regions identified by genome-wide association studies (GWAS) for bladder cancer risk provide new insights into etiology....
-
-**Keywords:** Bladder cancer, Gene-environment interaction, Genome-Wide Association Study (GWAS), Germline genetics
 
 #### 5. Comparative Effects of 
 
@@ -120,7 +110,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 - Miranda DG, Tomé FM, Miguel MMV and others 2025. [Gymnema sylvestre as a Potential Anti-Inflammatory and Anti-Biofilm Agent Against Anaerobic Infections: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/40006756/). *Plants (Basel, Switzerland)*. PMID [40006756](https://pubmed.ncbi.nlm.nih.gov/40006756/) · [doi:10.3390/plants14040497](https://doi.org/10.3390/plants14040497)  
   First study to evaluate [antimicrobial](/reference/antimicrobial/) activity of Gymnema sylvestre extract against planktonic culture and biofilms of anaerobic bacteria, expanding applications beyond traditional diabetes use.
 - Al-Romaiyan A, Liu B, Persaud S and others 2020. [A novel Gymnema sylvestre extract protects pancreatic beta-cells from cytokine-induced apoptosis](https://pubmed.ncbi.nlm.nih.gov/31515869/). *Phytotherapy research : PTR*. PMID [31515869](https://pubmed.ncbi.nlm.nih.gov/31515869/) · [doi:10.1002/ptr.6512](https://doi.org/10.1002/ptr.6512)  
-  Novel extract demonstrated protective effects on pancreatic beta-cells against cytokine-induced programmed cell death, supporting regenerative potential for diabetes management.
+  Novel extract demonstrated protective effects on pancreatic beta-cells against cytokine-induced programmed cell death.
 
 ## Recent safety updates
 
@@ -141,7 +131,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 **Standard Dosage:** 3-6g leaf powder twice daily; 50-100ml decoction; 500mg standardized extract (25% gymnemic acids) twice daily; 400mg extract capsule 20 minutes before meals
 
-**Bioavailability:** Gymnema sylvestre leaves contain gymnemic acids (triterpenoid [saponins](/reference/saponins/)) as primary actives. Gymnemic acids have low to moderate oral bioavailability (10-20%) due to large molecular size and hydrophilicity. They act partially in the oral cavity (blocking sweet taste receptors) and in the GI tract (reducing glucose absorption through SGLT1 inhibition) - for these actions, local availability rather than systemic absorption is key. For systemic effects (pancreatic beta-cell regeneration), the absorbed fraction is relevant. Enhancement: deacylated gymnemic acid preparations; phospholipid complexation (Phytosome technology - GS Phytosome shows 5x improved absorption); nano-encapsulation; [piperine](/reference/piperine/) co-administration.
+**Bioavailability:** Gymnema sylvestre leaves contain gymnemic acids (triterpenoid [saponins](/reference/saponins/)) as primary actives. Gymnemic acids have low to moderate oral bioavailability (10-20%) due to large molecular size and hydrophilicity. They act partially in the oral cavity (blocking sweet taste receptors) and in the GI tract (reducing glucose absorption through SGLT1 inhibition) - for these actions, local availability rather than systemic absorption is key. For systemic effects (reported effects on pancreatic beta-cells), the absorbed fraction is relevant. Enhancement: deacylated gymnemic acid preparations; phospholipid complexation (Phytosome technology - GS Phytosome shows 5x improved absorption); nano-encapsulation; [piperine](/reference/piperine/) co-administration.
 
 **Optimal Timing:** 20-30 minutes before meals (allows gymnemic acids to reach intestinal absorption sites before food glucose arrives); 1-2 tablets/capsules before each main meal; leaf chewing before meals in traditional practice
 
@@ -163,9 +153,8 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 ### Synergistic Combinations
 
-- With Meshashringi (same plant, Unani name) for anti-diabetic protocols
 - With [Karela](/herb/karela/) (Momordica) for synergistic hypoglycemic action
 - With [Daruharidra](/herb/daruharidra/) ([berberine](/glossary/compounds-a-c/#berberine)) for multi-target anti-diabetic formulation
-- With [Vijaysar](/herb/vijaysar/) (Pterocarpus) for comprehensive diabetes management
+- With [Vijaysar](/herb/vijaysar/) (Pterocarpus), traditionally combined in formulations aimed at glucose metabolism
 - With [Methi](/herb/methi/) (fenugreek) for glycemic control through complementary mechanisms
 - With [Shilajit](/herb/shilajit/) for metabolic syndrome support

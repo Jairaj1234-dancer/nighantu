@@ -39,9 +39,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 ## How does it work?
 
 - Digestive stimulation: Stimulates salivary amylase and gastric acid secretion; mineral content activates digestive [enzymes](/glossary/compounds-d-g/#enzymes) and promotes bile flow without causing inflammatory heat
-- Electrolyte homeostasis: Balanced mineral profile (Na, K, Mg, Ca) supports cellular osmotic balance, nerve impulse transmission, and muscle contraction without pure sodium overload
 - Tridosha balance: Unique cooling virya among salts prevents Pitta aggravation; slight sweetness and unctuousness pacify Vata; light quality prevents Kapha accumulation
-- Cardiac support: Balanced mineral profile and lower pure sodium concentration per weight compared to refined salt may support better cardiovascular function
 
 ## Which traditional uses are supported by research?
 

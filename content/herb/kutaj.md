@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Kutaj (Holarrhena pubescens) is a plant drug, also called Imdrayava, Kurci and Kutaja. Readily crosses the blood-brain barrier (hence anti-amoebic CNS activity). Holarrhimine and kurchine are well-absorbed. Kutajarishta (self-generated alcohol content 5-10%) enhances alkaloid dissolution and absorption."
+answer: "Kutaj (Holarrhena pubescens) is a plant drug, also called Imdrayava, Kurci and Kutaja. Holarrhimine and kurchine are well-absorbed. Kutajarishta (self-generated alcohol content 5-10%) enhances alkaloid dissolution and absorption."
 botanical: "Holarrhena pubescens"
 family: "Apocynaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction; 500 mg standardized extract capsule twice daily; 15-30 mL Kutajarishta; Kutaja Parpati: 250-500 mg twice daily with buttermilk
 
-**Bioavailability:** Conessine (steroidal alkaloid) has good oral bioavailability (~45-55%) with moderate first-pass metabolism. Readily crosses the blood-brain barrier (hence anti-amoebic CNS activity). Holarrhimine and kurchine are well-absorbed. Kutajarishta (self-generated alcohol content 5-10%) enhances alkaloid dissolution and absorption. Co-administration with buttermilk (traditional Anupana) provides lipid carrier and probiotic synergy for GI-targeted delivery.
+**Bioavailability:** Conessine (steroidal alkaloid) has good oral bioavailability (~45-55%) with moderate first-pass metabolism. Holarrhimine and kurchine are well-absorbed. Kutajarishta (self-generated alcohol content 5-10%) enhances alkaloid dissolution and absorption. Co-administration with buttermilk (traditional Anupana) provides lipid carrier and probiotic synergy for GI-targeted delivery.
 
 **Optimal Timing:** Before meals for anti-diarrheal and digestive effects; Kutajarishta: after meals with equal quantity of water; Kutaja Parpati: with buttermilk after meals
 
@@ -62,8 +62,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Ativisha (Aconitum heterophyllum) for acute diarrhea (Kutaja + Ativisha is a classical combination)
-- [Bilva](/herb/bilva/) (Aegle marmelos) for chronic dysentery
-- [Dadima](/herb/dadima/) (Pomegranate) for IBS management
+- Ativisha (Aconitum heterophyllum), traditionally combined in acute diarrhea (Kutaja + Ativisha is a classical combination)
+- [Bilva](/herb/bilva/) (Aegle marmelos), traditionally combined in chronic dysentery
+- [Dadima](/herb/dadima/) (Pomegranate), traditionally combined to support digestive function
 - Musta for digestive and anti-diarrheal synergy
-- Kutajarishta with Dadima for comprehensive Atisara (diarrhea) management
+- Kutajarishta with Dadima, traditionally used in Atisara (diarrhea)

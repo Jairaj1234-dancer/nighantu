@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 **Bioavailability:** Flavonoid and phenolic constituents show moderate oral bioavailability (20-35%). Glycoside forms are hydrolyzed by intestinal beta-glucosidases. Fresh juice (swarasa) provides higher bioavailability of hydrophilic constituents compared to dried powder preparations.
 
-**Optimal Timing:** Before meals for anti-inflammatory and antivenom indications; fresh juice preferred for acute applications
+**Optimal Timing:** Before meals; fresh juice preferred for acute applications
 
 **Standardized Extract:** Hydroalcoholic whole plant extract (5:1), standardized to NLT 2% total [flavonoids](/reference/flavonoids/) (as [quercetin](/reference/quercetinquercetin/) equivalents); aqueous extract for traditional preparations
 
@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Shirisha](/herb/shirisha/) (anti-allergic and antivenom synergy)
+- [Shirisha](/herb/shirisha/) (anti-allergic combinations)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/) formulations)
 - [Haridra](/herb/haridra/) (anti-inflammatory combinations)
 - [Neem](/herb/neem/) (dermatological formulations)

@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
-answer: "Vyaghranakhi is a substance used in the Ayurvedic materia medica. Iridoid glycosides undergo gut microbial activation. Flavonoids are moderately absorbed with typical Phase II conjugation. External application (Lepa/Taila) provides local anti-inflammatory and analgesic activity through transdermal absorption of lipophilic terpenoids."
+answer: "Vyaghranakhi is a substance used in the Ayurvedic materia medica. Iridoid glycosides undergo gut microbial activation. Flavonoids are moderately absorbed with typical Phase II conjugation. External application (Lepa/Taila) is traditionally used for local pain and swelling."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Vyaghranakhi/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; external application as needed
 
-**Bioavailability:** Martynoside and other phenylethanoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability (~20-30%) with intestinal hydrolysis by beta-glucosidases releasing the active aglycone. Iridoid glycosides undergo gut microbial activation. [Flavonoids](/reference/flavonoids/) are moderately absorbed with typical Phase II conjugation. External application (Lepa/Taila) provides local anti-inflammatory and [analgesic](/reference/analgesic/) activity through transdermal absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids).
+**Bioavailability:** Martynoside and other phenylethanoid [glycosides](/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis by beta-glucosidases releasing the active aglycone. Iridoid glycosides undergo gut microbial activation. [Flavonoids](/reference/flavonoids/) are moderately absorbed with typical Phase II conjugation. External application (Lepa/Taila) is traditionally used for local pain and swelling.
 
 **Optimal Timing:** After meals for internal use; external application at night for joint/musculoskeletal conditions
 

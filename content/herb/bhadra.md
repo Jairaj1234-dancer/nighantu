@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 ## How does it work?
 
-- Canthin-6-one [alkaloids](/glossary/compounds-1-a/#alkaloids) exhibit anti-urolithiatic activity by inhibiting calcium oxalate crystal nucleation and aggregation in renal tubules, preventing kidney stone formation
+- Canthin-6-one [alkaloids](/glossary/compounds-1-a/#alkaloids) have been reported in preclinical studies to inhibit calcium oxalate crystal nucleation and aggregation
 - Kaempferol and [quercetin](/reference/quercetinquercetin/) [flavonoids](/reference/flavonoids/) provide nephroprotective effects through [antioxidant](/reference/antioxidant/)-mediated reduction of oxidative stress and inhibition of NF-kB-driven inflammatory pathways in renal tissue
 - Beta-carboline alkaloids demonstrate [antimicrobial](/reference/antimicrobial/) activity by intercalating with bacterial DNA and inhibiting topoisomerase II, disrupting cell division
 

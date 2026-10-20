@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Saraswatarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya Rasayana (mind rejuvenator) from the Vedic period (circa 1000 BCE)."
+answer: "Saraswatarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. The Ayurvedic Formulary of India attributes it to Bhaisajyaratnavali, Rasayanadhikara."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Referenced in Charaka Samhita and Bhaishajya Ratnavali. Recognized by PCIM&H. Available in AYUSH-approved manufacturing standards."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Referenced in Bhaishajya Ratnavali. Recognized by PCIM&H. Available in AYUSH-approved manufacturing standards."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -31,9 +31,9 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## How does it work?
 
-- Cholinergic modulation by [Brahmi](/herb/brahmi/) and Shankhapushpi enhances acetylcholine levels, improving memory and cognition
+- Cholinergic modulation by [Brahmi](/herb/brahmi/) and Shankhapushpi is a proposed mechanism linked to memory and cognition
 - BDNF (Brain-Derived Neurotrophic Factor) boosting by [Ashwagandha](/herb/ashwagandha/) supports synaptic plasticity and neuroprotection
-- GABAergic and serotonergic modulation by [Vacha](/herb/vacha/) and [Brahmi](/herb/brahmi/) produces [anxiolytic](/reference/anxiolytic/) and anti-epileptic effects
+- GABAergic and serotonergic modulation by [Vacha](/herb/vacha/) and [Brahmi](/herb/brahmi/) is a proposed mechanism for [anxiolytic](/reference/anxiolytic/) and anti-epileptic activity
 - [Neuroprotective](/reference/neuroprotective/) action through [antioxidant](/reference/antioxidant/) compounds reduces oxidative stress in neural tissue
 
 ## Which traditional uses are supported by research?
@@ -51,7 +51,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## Recent safety updates
 
-- Contains 5-10% self-generated alcohol from fermentation. Should be used cautiously in children, pregnant women, and individuals with liver conditions.
+- Contains self-generated alcohol from fermentation. Should be used cautiously in children, pregnant women, and individuals with liver conditions.
 - [Vacha](/herb/vacha/) (Acorus calamus) contains beta-asarone which has regulatory restrictions in some countries. Long-term use should be monitored by a qualified physician.
 
 ## Dosage forms and preparation

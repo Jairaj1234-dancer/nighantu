@@ -68,7 +68,7 @@ External: warm oil massage on affected areas; Basti: as per Panchakarma protocol
 
 ## Safety, contraindications and cautions
 
-- External use only
+- Internal routes (oral, Basti, Nasya) only under practitioner supervision
 - Skin sensitivity (test first)
 - Acute inflammation with heat
 

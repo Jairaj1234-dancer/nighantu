@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 ## What do recent studies show?
 
 - Yasin M, Hussain Janbaz K, Imran I and others 2014. [Pharmacological studies on the antispasmodic, bronchodilator and anti-platelet activities of Abies webbiana](https://pubmed.ncbi.nlm.nih.gov/24395464/). *Phytotherapy research : PTR*. PMID [24395464](https://pubmed.ncbi.nlm.nih.gov/24395464/) · [doi:10.1002/ptr.5112](https://doi.org/10.1002/ptr.5112)  
-  Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects mediated through calcium channel inhibition.
+  Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

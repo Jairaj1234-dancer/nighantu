@@ -11,7 +11,7 @@ botanical: "Withania somnifera"
 family: "Solanaceae"
 sanskrit: ""
 ayurvedicCategory: "Rasayana (Rejuvenative)"
-whoStatus: "WHO Monograph published in 2009 (WHO Monographs on Selected Medicinal Plants). Listed in Ayurvedic Pharmacopoeia of India, Indian Pharmacopoeia, British Pharmacopoeia, European Pharmacopoeia, USP, American Herbal Pharmacopoeia, Japanese Pharmacopoeia, and Pharmacopoeia of the People's Republic of China. However, regulatory landscape is fragmenting in EU: banned in Denmark (2023) and France (2025); under EU Article 8 review since June 2024."
+whoStatus: "WHO Monograph published in 2009 (WHO Monographs on Selected Medicinal Plants). Listed in Ayurvedic Pharmacopoeia of India, Indian Pharmacopoeia, British Pharmacopoeia, European Pharmacopoeia, USP, and American Herbal Pharmacopoeia. However, regulatory landscape is fragmenting in EU: banned in Denmark (2023) and France (2025); under EU Article 8 review since June 2024."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -191,9 +191,9 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 
 ### Synergistic Combinations
 
-- With [Brahmi](/herb/brahmi/) for cognitive enhancement and stress management
+- With [Brahmi](/herb/brahmi/), traditionally combined for cognition and stress
 - With [Shatavari](/herb/shatavari/) for adaptogenic synergy and reproductive health
-- With [Arjuna](/herb/arjuna/) for cardioprotection
+- With [Arjuna](/herb/arjuna/), traditionally combined for heart support
 - With Amalaki and [Guduchi](/herb/guduchi/) for Rasayana (rejuvenation)
 - With warm milk and ghee as classic Rasayana preparation
-- With Kapikacchu for male reproductive health
+- With Kapikacchu, traditionally combined for male reproductive support

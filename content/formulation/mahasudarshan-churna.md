@@ -31,7 +31,7 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 ## How does it work?
 
-- [Antipyretic](/reference/antipyretic/) action: [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) and [amarogentin](/glossary/compounds-1-a/#amarogentin) from Swertia chirata exert [immunomodulatory](/reference/immunomodulatory/) and [hepatoprotective](/reference/hepatoprotective/) actions; in vitro assays showed 60% inhibition of COX-2 by amarogentin providing molecular basis for anti-inflammatory and fever-reducing effects
+- [Antipyretic](/reference/antipyretic/) action: [Swertiamarin](/glossary/compounds-q-t/#swertiamarin) and [amarogentin](/glossary/compounds-1-a/#amarogentin) from Swertia chirata exert [immunomodulatory](/reference/immunomodulatory/) and [hepatoprotective](/reference/hepatoprotective/) actions
 - [Antimicrobial](/reference/antimicrobial/) defense: [Neem](/herb/neem/) bark ([nimbidin](/glossary/compounds-l-o/#nimbidin)) and [Daruharidra](/herb/daruharidra/) ([berberine](/glossary/compounds-a-c/#berberine)) provide broad-spectrum antimicrobial activity against gram-positive (S. aureus) and gram-negative (E. coli, K. pneumoniae) bacteria
 - Three-fold detoxification: Bitter-cool herbs ([Neem](/herb/neem/), [Chirayata](/herb/chirayata/)) clear Pitta excess and neutralize toxins; warming pungents (Shunthi, [Pippali](/herb/pippali/)) kindle Agni to metabolize Ama; [Triphala](/herb/triphala/) regulates bowel to prevent toxin reabsorption
 - Immunomodulation: [Guduchi](/herb/guduchi/) (Tinospora cordifolia) enhances phagocytic activity and modulates innate immune response against pathogens

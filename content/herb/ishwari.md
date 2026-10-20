@@ -68,13 +68,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Swarasa (fresh juice)
 
-**Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
+**Standard Dosage:** No safe dose established for internal human use; not recommended under any circumstances.
 
 **Bioavailability:** Aristolochia indica root contains aristolochic acids (CAUTION: nephrotoxic and carcinogenic) and [terpenoids](/glossary/compounds-t-z/#terpenoids). Aristolochic acids are well absorbed orally but are highly toxic. REGULATORY WARNING: Aristolochic acid-containing herbs are BANNED or restricted in many countries (USA, EU, UK, Australia). Modern formulations must demonstrate absence of aristolochic acids below detection limits or use aristolochic acid-free chemotypes if available.
 
-**Optimal Timing:** Traditional use only under strict physician supervision; NOT recommended for modern formulation
+**Optimal Timing:** NOT recommended for any internal use or modern formulation
 
-**Standardized Extract:** NOT RECOMMENDED for modern extract standardization due to aristolochic acid toxicity. Traditional aqueous decoction with Shodhana only under qualified Vaidya supervision.
+**Standardized Extract:** NOT RECOMMENDED for modern extract standardization due to aristolochic acid toxicity. Shodhana methods do NOT reliably eliminate aristolochic acids.
 
 **Shelf Life:** Not applicable for modern commercial products due to regulatory restrictions
 

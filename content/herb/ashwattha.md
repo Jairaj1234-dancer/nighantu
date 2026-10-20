@@ -93,7 +93,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 **Bioavailability:** Moderate oral bioavailability. Ficus religiosa bark contains bergapten (~45% bioavailability), [phytosterols](/glossary/compounds-o-q/#phytosterols) (moderate absorption, enhanced by bile salts), and tannins. Leaf [serotonin](/glossary/compounds-q-t/#serotonin) content is notable but oral serotonin is largely degraded by MAO in gut wall and liver. Bark [sterols](/glossary/compounds-q-t/#sterols) (beta-sitosterol, stigmasterol) show 5-10% absorption, enhanced by co-administration with lecithin. [Coumarin](/glossary/compounds-c-d/#coumarin) compounds are well absorbed.
 
-**Optimal Timing:** Bark decoction morning and evening for diabetes and wounds. Fruit powder with honey before meals. Kshirapaka at bedtime.
+**Optimal Timing:** Bark decoction is traditionally taken morning and evening. Fruit powder with honey before meals. Kshirapaka at bedtime.
 
 **Standardized Extract:** Bark extract standardized to minimum 2% bergapten and minimum 3% beta-sitosterol. Total phenolic content minimum 15%. Leaf extract (research grade) with documented serotonin content.
 

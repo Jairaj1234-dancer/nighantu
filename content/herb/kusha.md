@@ -61,7 +61,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kusha/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Darbha (complementary Kusha grass for sacred/ritual-therapeutic use)
 - [Gokshura](/herb/gokshura/) for urinary health synergy
 - [Punarnava](/herb/punarnava/) for renal support
 - [Varuna](/herb/varuna/) for lithotriptic formulations

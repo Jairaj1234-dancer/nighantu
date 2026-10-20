@@ -47,11 +47,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jyotishmati/meta-analy
 **Journal:** Journal of complementary & integrative medicine (2023)
 **PMID:** 34529902
 
-> OBJECTIVES: 
-METHODS: All available information concerning 
-RESULTS: 
-CONCLUSIONS: Several ...
-
 **Keywords:** Celastrus paniculatus, malkangni, [neuroprotective](/reference/neuroprotective/), [nootropic](/glossary/pharmacology/#nootropic), traditional uses, β-dihydroagarofuranoids sesquiterpenes
 
 #### 3. Application of Green Technologies in Design-Based Extraction of 
@@ -124,7 +119,7 @@ CONCLUSIONS: Several ...
 
 **Standard Dosage:** 5-15 drops seed oil twice daily; 500mg-1g seed powder; 250-500mg extract; 2-4 drops Nasya oil per nostril
 
-**Bioavailability:** Celastrus paniculatus seed oil contains sesquiterpenes, polyester [alkaloids](/glossary/compounds-1-a/#alkaloids) (celapanin, celastrine), and fatty acids. Seed oil fatty acids are well absorbed. Sesquiterpene and alkaloid components show good lipophilic absorption. Nasya (nasal) administration provides direct CNS access for nootropic effects, bypassing hepatic first-pass metabolism. Oil form has inherently good bioavailability for lipophilic actives.
+**Bioavailability:** Celastrus paniculatus seed oil contains sesquiterpenes, polyester [alkaloids](/glossary/compounds-1-a/#alkaloids) (celapanin, celastrine), and fatty acids. Seed oil fatty acids are well absorbed. Sesquiterpene and alkaloid components show good lipophilic absorption. Oil form has inherently good bioavailability for lipophilic actives.
 
 **Optimal Timing:** Morning on empty stomach with warm water/milk for cognitive effects; Nasya in early morning; gradual dose escalation over 2-3 weeks
 
@@ -148,5 +143,5 @@ CONCLUSIONS: Several ...
 - With [Brahmi](/herb/brahmi/) for cognitive enhancement and memory
 - With [Shankhpushpi](/herb/shankhpushpi/) for mental clarity
 - With [Jatamansi](/herb/jatamansi/) for [anxiolytic](/reference/anxiolytic/) and nootropic synergy
-- With [Vacha](/herb/vacha/) for speech and memory disorders
+- With [Vacha](/herb/vacha/), traditionally combined for speech and memory support
 - With [Ashwagandha](/herb/ashwagandha/) for neuroprotection

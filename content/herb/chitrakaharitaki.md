@@ -43,7 +43,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 - Mucolytic and [expectorant](/reference/expectorant/) mechanism through plumbagin and piperine stimulation of bronchial secretion clearance, combined with anti-inflammatory reduction of airway inflammation
 - Digestive enhancement through Agni deepana (digestive fire stimulation) via piperine and [gingerol](/glossary/compounds-d-g/#gingerol) activation of gastric acid secretion and enzyme release
-- [Immunomodulatory](/reference/immunomodulatory/) mechanism through synergistic action of vitamin C, tannins, and polyphenols enhancing both innate and adaptive immune responses
+- [Immunomodulatory](/reference/immunomodulatory/) activity has been reported for some constituents (vitamin C, tannins, polyphenols)
 
 ## Which traditional uses are supported by research?
 
@@ -70,13 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 ### Key Active Markers
 
 - Plumbagin
-- Chitrak
-- Haritaki
-- Haritaki
-- Amla
-- Tannins
+- Gallic acid
+- Chebulagic acid
+- Ellagic acid
 - Piperine
-- Pippali
+- Tannins
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -84,7 +82,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 **Dosage Forms:** Avaleha (confection/jam), Lehyam (electuary), Granules (modern adaptation)
 
-**Standard Dosage:** 5-10g (approximately 1-2 teaspoons) twice daily with warm water or milk. Classical Avaleha formulation per Ashtanga Hridaya/Charaka Samhita.
+**Standard Dosage:** 5-10g (approximately 1-2 teaspoons) twice daily with warm water or milk. Classical Avaleha formulation per Vrindamadhava.
 
 **Bioavailability:** Compound formulation where jaggery/sugar matrix provides slow release of actives. Plumbagin from Chitraka is partially detoxified by cooking process. Chebulagic acid and gallic acid from Haritaki show enhanced absorption in the sugar-ghee matrix. Piperine from [Pippali](/herb/pippali/) (often an ingredient) bioenhances other components. Traditional Avaleha preparation method (cooking to Paka stage) optimizes extraction and bioavailability of all components simultaneously.
 

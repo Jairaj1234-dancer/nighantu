@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Dhatupaushtik Churna is a classical Ayurvedic churna, a fine herbal powder. Fine particle size ensures rapid dissolution. Multiple adaptogenic herbs provide synergistic bioactivity."
+answer: "Dhatupaushtik Churna is a classical Ayurvedic churna, a fine herbal powder."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 
 **Standard Dosage:** 3-6 g twice daily with warm milk.
 
-**Bioavailability:** Administration with warm milk (lipid + protein vehicle) enhances absorption of steroidal [saponins](/reference/saponins/) and [withanolides](/glossary/compounds-t-z/#withanolides). Fine particle size ensures rapid dissolution. Multiple [adaptogenic](/reference/adaptogenic/) herbs provide synergistic bioactivity.
+**Bioavailability:** Administration with warm milk (lipid + protein vehicle) is thought to aid absorption of steroidal [saponins](/reference/saponins/) and [withanolides](/glossary/compounds-t-z/#withanolides) (not established for this formulation).
 
 **Optimal Timing:** Before bedtime with warm milk, or morning on empty stomach for [Rasayana](/reference/rasayana/) effect
 

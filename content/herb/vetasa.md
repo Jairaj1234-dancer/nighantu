@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vetasa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Guggulu](/formulation/guggulu/) (Commiphora mukul) - anti-inflammatory and anti-arthritic synergy
-- [Shallaki](/herb/shallaki/) (Boswellia serrata) - complementary anti-inflammatory via 5-LOX inhibition
-- [Nirgundi](/herb/nirgundi/) (Vitex negundo) - analgesic combination for musculoskeletal pain
-- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - multi-target anti-inflammatory synergy
+- [Guggulu](/formulation/guggulu/) (Commiphora mukul) - traditionally paired for joint complaints
+- [Shallaki](/herb/shallaki/) (Boswellia serrata) - traditionally paired for joint complaints
+- [Nirgundi](/herb/nirgundi/) (Vitex negundo) - traditionally combined for musculoskeletal complaints
+- [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) - traditionally paired in formulations

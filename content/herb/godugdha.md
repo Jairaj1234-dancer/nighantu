@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 ## How does it work?
 
-- Ojas enhancement: Rich bioactive peptides, immunoglobulins, and lactoferrin strengthen innate immunity and provide [antimicrobial](/reference/antimicrobial/) defense
+- Ojas enhancement: Milk contains bioactive peptides, immunoglobulins, and lactoferrin, which are reported to support innate immune and [antimicrobial](/reference/antimicrobial/) function
 - Tridosha balancing (esp. Vata-Pitta): Cooling potency and sweet taste pacify Pitta, unctuous heavy qualities ground Vata; proper processing prevents Kapha aggravation
 - [Rasayana](/reference/rasayana/) (rejuvenation): Complete amino acid profile, calcium, and growth factors support tissue regeneration and dhatu nourishment across all seven tissues
 - Shodhana (detoxification) vehicle: Polar and non-polar dissolving capacity enables effective toxin extraction in Ayurvedic purification processes

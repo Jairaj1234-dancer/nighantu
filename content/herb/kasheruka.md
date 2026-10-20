@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kidney-Urinary"
-answer: "Kasheruka (Scirpus kysoor) is a plant drug, from the Cyperaceae family. Starch content of tubers may slow absorption but provides sustained release effect. Co-administration with ginger enhances absorption and reduces potential GI discomfort. Traditional processing with buttermilk improves palatability and bioavailability."
+answer: "Kasheruka (Scirpus kysoor) is a plant drug, from the Cyperaceae family. Starch content of tubers may slow absorption but provides sustained release effect. Traditional processing with buttermilk improves palatability and bioavailability."
 botanical: "Scirpus kysoor"
 family: "Cyperaceae"
 sanskrit: ""
@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-80 mL decoction; 10-15 mL fresh juice
 
-**Bioavailability:** Sesquiterpene constituents show moderate lipophilicity and oral bioavailability. [Starch](/glossary/compounds-q-t/#starch) content of tubers may slow absorption but provides sustained release effect. Co-administration with [ginger](/herb/ginger/) enhances absorption and reduces potential GI discomfort. Traditional processing with buttermilk improves palatability and bioavailability.
+**Bioavailability:** Sesquiterpene constituents show moderate lipophilicity and oral bioavailability. [Starch](/glossary/compounds-q-t/#starch) content of tubers may slow absorption but provides sustained release effect. Traditional processing with buttermilk improves palatability and bioavailability.
 
 **Optimal Timing:** After meals with warm water or buttermilk; for urinary conditions, between meals with cooling liquids
 

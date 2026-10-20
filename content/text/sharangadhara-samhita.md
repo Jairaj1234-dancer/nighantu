@@ -36,15 +36,15 @@ The core of the text. One chapter per **kalpana** (dosage form):
 | Chapter | Kalpana | English |
 |---------|---------|---------|
 | 1 | Swarasa | Fresh juice |
-| 2 | Kalka | Paste |
-| 3 | Kashaya | Decoction |
+| 2 | Kashaya | Decoction |
+| 3 | Phanta | Hot infusion |
 | 4 | Hima | Cold infusion |
-| 5 | Phanta | Hot infusion |
-| 6 | Kshira-paka | Milk decoction |
-| 7 | Sandhana | Fermentation (Arishta, Asava) |
+| 5 | Kalka | Paste |
+| 6 | Churna | Powders |
+| 7 | Gutika, Vati | Pills, tablets |
 | 8 | **Avaleha** | **Medicated confections / Lehyas** |
-| 9 | Churna, Gutika, Vati | Powders, pills, tablets |
-| 10 | Sneha (Ghrita, Taila) | Medicated ghees and oils |
+| 9 | Sneha (Ghrita, Taila) | Medicated ghees and oils |
+| 10 | Sandhana | Fermentation (Arishta, Asava) |
 | 11 | Dhatu-shodhana, marana | Metal purification and calcination |
 | 12 | Rasa-kalpana | Mercurial preparations |
 
@@ -64,8 +64,8 @@ The **pakva stages** Sharangadhara defines (thread-tests between fingers) are st
 
 ## Commentaries
 
-- **Gudhartha-dipika** by Adhamalla (ca. 1350 CE)
-- **Dipika** by Kasirama Vaidya
+- **Dipika** by Adhamalla (ca. 1350 CE)
+- **Gudhartha-dipika** by Kasirama Vaidya
 - Modern English translations: Srikantha Murthy (Chowkhamba), P. Himasagara Chandra Murthy
 
 ## See also

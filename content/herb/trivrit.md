@@ -75,8 +75,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 - Alpha-turpethein 
 - Beta-turpethein
 - Turpethinic acids A-E
-- 
-- Beta-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 

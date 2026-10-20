@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Mahanimba (Melia azedarach) is a plant drug, also called Dreka, Mahanimbah and Ramyaka. Ailanthone undergoes significant hepatic first-pass metabolism. Quassinoids are better absorbed in fasting state. Bitter compounds stimulate bile secretion which paradoxically enhances absorption of subsequent doses."
+answer: "Mahanimba (Melia azedarach) is a plant drug, also called Dreka, Mahanimbah and Ramyaka."
 botanical: "Melia azedarach"
 family: "Meliaceae"
 sanskrit: ""
@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL decoction twice daily; 500-1000 mg standardized extract daily; external application as directed
 
-**Bioavailability:** Limonoids and quassinoids show moderate oral bioavailability (20-30%). Ailanthone undergoes significant hepatic first-pass metabolism. Quassinoids are better absorbed in fasting state. Bitter compounds stimulate bile secretion which paradoxically enhances absorption of subsequent doses. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered iron and [proteins](/glossary/compounds-o-q/#proteins).
+**Bioavailability:** Limonoids show moderate oral bioavailability (20-30%). Bitter compounds stimulate bile secretion which paradoxically enhances absorption of subsequent doses. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered iron and [proteins](/glossary/compounds-o-q/#proteins).
 
-**Optimal Timing:** Before meals for antiparasitic and appetite-stimulating effects; after meals for [hepatoprotective](/reference/hepatoprotective/) action; topical application twice daily
+**Optimal Timing:** Before meals when traditionally used for antiparasitic and appetite-stimulating purposes; after meals when traditionally used for [hepatoprotective](/reference/hepatoprotective/) purposes; topical application twice daily
 
-**Standardized Extract:** Bark extract (10:1 hydroalcoholic) standardized to minimum 1% quassinoids (as ailanthone equivalents) and maximum 0.1% meliatoxins (safety limit). Leaf extract standardized to minimum 3% total [flavonoids](/reference/flavonoids/).
+**Standardized Extract:** Bark extract (10:1 hydroalcoholic) standardized to maximum 0.1% meliatoxins (safety limit). Leaf extract standardized to minimum 3% total [flavonoids](/reference/flavonoids/).
 
 **Shelf Life:** 24 months for bark powder; 30 months for tablets/capsules; 18 months for liquid preparations; 24 months for topical oil
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Bark powder in moisture-proof containers. Topical oils in amber bottles at room temperature. Mark clearly as 'Not for unsupervised use' for internal formulations.
 
-**Marker Compounds:** Ailanthone, Melianone, [Nimbolide](/glossary/compounds-l-o/#nimbolide), Meliatoxin (control for safety), [Vanillin](/glossary/compounds-t-z/#vanillin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Kaempferol](/reference/kaempferol/), [Scopoletin](/glossary/compounds-q-t/#scopoletin)
+**Marker Compounds:** Melianone, [Nimbolide](/glossary/compounds-l-o/#nimbolide), Meliatoxin (control for safety), [Vanillin](/glossary/compounds-t-z/#vanillin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Kaempferol](/reference/kaempferol/), [Scopoletin](/glossary/compounds-q-t/#scopoletin)
 
 ### Extraction Methods
 
@@ -58,7 +58,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 - Hydroalcoholic extraction (70% ethanol)
 - Cold maceration for bitter principles
 - Soxhlet extraction with methanol
-- Sequential extraction for quassinoid isolation
 - Oil infusion for topical preparations
 
 ### Synergistic Combinations

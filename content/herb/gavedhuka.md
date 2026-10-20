@@ -63,6 +63,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 ### Synergistic Combinations
 
 - With [Yava](/herb/yava/) (barley) for [diuretic](/reference/diuretic/) and nutritive gruel
-- With [Guduchi](/herb/guduchi/) for immune support and fever management
-- With Musta for digestive and anti-diarrheal combination
+- With [Guduchi](/herb/guduchi/), traditionally combined for immune support and in fever
+- With Musta, traditionally combined in digestive formulations and for diarrhea
 - With [Bala](/herb/bala/) for strength-building formulation

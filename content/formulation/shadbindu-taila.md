@@ -31,17 +31,17 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## How does it work?
 
-- [Kaempferol](/reference/kaempferol/) (confirmed by HPTLC) acts as a potent anti-inflammatory and [antimicrobial](/reference/antimicrobial/) agent on nasal and sinus mucosa, reducing chronic inflammatory changes
-- Valeric acid derivatives from [Tagara](/herb/tagara/) (Valeriana) provide sedative and muscle-relaxant effects on nasal and sinus smooth muscle, promoting drainage of blocked sinuses
-- Shogaols from Shunthi ([ginger](/herb/ginger/)) provide mucolytic and vasodilatory effects, breaking down thick mucus and improving nasal airflow
-- Rock salt ([Saindhava Lavana](/herb/saindhava-lavana/)) provides osmotic action helping to draw out excess fluid from congested nasal tissues and has mild antimicrobial properties
+- [Kaempferol](/reference/kaempferol/) (confirmed by HPTLC) is described as having anti-inflammatory and [antimicrobial](/reference/antimicrobial/) activity; its effect in this oil on nasal and sinus mucosa has not been studied
+- Valeric acid derivatives from [Tagara](/herb/tagara/) (Valeriana) are proposed to have sedative and muscle-relaxant effects
+- Shogaols from Shunthi ([ginger](/herb/ginger/)) are proposed to have mucolytic and vasodilatory effects
+- Rock salt ([Saindhava Lavana](/herb/saindhava-lavana/)) is proposed to have osmotic action and mild antimicrobial properties
 
 ## Which traditional uses are supported by research?
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic sinusitis and nasal polyps: traditionally used as Nasya for chronic sinusitis and nasal polyps. A clinical study reported improvement in sinusitis symptoms after Nasya administration.
-- Headache and migraine (Shirahshula): traditionally used for headache and migraine. The formulation contains kaempferol and [Tagara](/herb/tagara/), and HPTLC analysis has reported the presence of [valepotriates](/glossary/compounds-t-z/#valepotriates).
+- Headache and migraine (Shirahshula): traditionally used for headache and migraine. The formulation contains kaempferol and [Tagara](/herb/tagara/).
 - Hair loss and premature greying: traditionally used for hair loss and premature greying through scalp and nasal administration. The base is [Bhringraj](/herb/bhringraj/) juice, which contains [wedelolactone](/glossary/compounds-t-z/#wedelolactone) compounds.
 
 ## What do recent studies show?
@@ -73,8 +73,6 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 **Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
 
-**Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
 **Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
@@ -82,8 +80,6 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 **Marker Compounds:** Eclipta [saponins](/reference/saponins/), Ricinoleic acid
 
 **Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Ricinoleic acid
-
-**Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
 ### Synergistic Combinations
 

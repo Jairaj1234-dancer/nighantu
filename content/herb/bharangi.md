@@ -39,9 +39,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## How does it work?
 
-- Anti-asthmatic: [Saponins](/reference/saponins/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) inhibit mast cell degranulation, reduce IgE levels, and suppress Th2 cytokine (IL-4, IL-5, IL-13) production
-- Anti-inflammatory: Oleanolic acid and hispidulin inhibit 5-LOX and COX-2, reducing leukotriene and prostaglandin synthesis
-- [Hepatoprotective](/reference/hepatoprotective/): Acteoside and [flavonoids](/reference/flavonoids/) scavenge hepatic free radicals and restore glutathione levels in damaged liver tissue
+- Anti-asthmatic: [Saponins](/reference/saponins/) and [terpenoids](/glossary/compounds-t-z/#terpenoids) are reported to inhibit mast cell degranulation, reduce IgE levels, and suppress Th2 cytokine (IL-4, IL-5, IL-13) production
+- Anti-inflammatory: Oleanolic acid and hispidulin are reported to inhibit 5-LOX and COX-2, reducing leukotriene and prostaglandin synthesis
+- [Hepatoprotective](/reference/hepatoprotective/): Acteoside and [flavonoids](/reference/flavonoids/) are reported to scavenge hepatic free radicals and restore glutathione levels in damaged liver tissue
 
 ## Which traditional uses are supported by research?
 
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## Recent safety updates
 
-- Non-toxic at therapeutic doses; LD50 > 2000 mg/kg in acute oral toxicity studies; seed extracts confirmed safe in recent 2025 evaluation
+- Acute oral toxicity studies reportedly found LD50 > 2000 mg/kg (UNSOURCED)
 - No significant drug interactions reported; however, patients on anti-asthmatic medications should use under medical supervision for potential synergistic effects
 
 ## What is it made of?
@@ -75,8 +75,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 - Spinasterol
 - Serratumin A
 - Oleanolic acid
-- 
-- Alpha-
 
 **Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
 
@@ -107,8 +105,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Kantakari](/herb/kantakari/) for bronchial asthma and respiratory disorders
-- With [Vasa](/herb/vasa/) (Adhatoda) for productive cough
-- With [Tulsi](/herb/tulsi/) for upper respiratory infections
+- Traditionally combined with [Kantakari](/herb/kantakari/) for respiratory conditions
+- Traditionally combined with [Vasa](/herb/vasa/) (Adhatoda) for cough
+- Traditionally combined with [Tulsi](/herb/tulsi/) for the upper respiratory tract
 - With [Pippali](/herb/pippali/) for enhanced bioavailability and Kapha reduction
 - With [Haridra](/herb/haridra/) for anti-allergic formulations

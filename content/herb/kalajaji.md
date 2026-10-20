@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## How does it work?
 
-- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, providing broad-spectrum anti-inflammatory and [anticancer](/reference/anticancer/) effects
+- Thymoquinone inhibits NF-kB nuclear translocation, suppresses COX-2 and iNOS expression, and modulates MAPK signaling pathways, mechanisms proposed in preclinical studies to underlie reported anti-inflammatory and [anticancer](/reference/anticancer/) activity
 - Alpha-hederin (triterpene saponin) disrupts cancer cell membranes through cholesterol binding and induces apoptosis via mitochondrial pathway activation (cytochrome c release, caspase-3/9 activation)
 - Thymoquinone protects pancreatic beta cells from oxidative damage and enhances insulin secretion through modulation of intracellular calcium homeostasis and AMPK pathway activation
 
@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 ## What do recent studies show?
 
 - Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
-  Systematic evaluation confirming [antioxidant](/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
+  Review summarising reported [antioxidant](/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

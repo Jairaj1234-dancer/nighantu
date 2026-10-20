@@ -31,11 +31,11 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## How does it work?
 
-- Surya Kshara ([potassium](/glossary/compounds-o-q/#potassium) nitrate) acts as a potent alkalizing agent, increasing urinary pH to dissolve uric acid and calcium oxalate stones
-- [Diuretic](/reference/diuretic/) action of potassium nitrate increases urine volume, flushing out small calculi and preventing new stone formation
+- Surya Kshara ([potassium](/glossary/compounds-o-q/#potassium) nitrate) is held to act as an alkalizing agent, increasing urinary pH
+- [Diuretic](/reference/diuretic/) action of potassium nitrate is proposed to increase urine volume
 - Sphatika (alum) has astringent and antiseptic properties, reducing urinary tract inflammation and infection
 - Navasadara (ammonium chloride) has urine-acidifying properties at certain concentrations but in Parpati form acts synergistically as a balanced urinary modifier
-- Antacid-like action in the GI tract alleviates dyspepsia and acid-related digestive disorders
+- Traditionally used in dyspepsia; an antacid-like action in the GI tract is proposed
 - Parpati Kalpana (flake preparation) method ensures rapid dissolution and absorption in the GI tract
 
 ## Which traditional uses are supported by research?
@@ -53,10 +53,10 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## Recent safety updates
 
-- This is a purely chemical/mineral formulation without iron - no iron overload risk
+- This formulation contains no iron - no iron overload risk
 - Potassium nitrate (Surya Kshara) in high doses may cause methemoglobinemia; strict dose adherence essential (125-500 mg)
 - Ammonium chloride may cause metabolic acidosis at high doses or in patients with renal impairment
-- Heavy metal contamination is not a primary concern for this mineral-salt formulation, but quality testing should verify absence of contaminants
+- The preparation contains mercury (as Kajjali); heavy-metal and free-mercury testing is essential
 - Contraindicated in patients with hyperkalemia, severe renal impairment, and cardiac conditions sensitive to potassium levels
 
 ## What is it made of?

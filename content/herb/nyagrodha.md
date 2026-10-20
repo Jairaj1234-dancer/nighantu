@@ -36,17 +36,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 - [Phytosterols](/glossary/compounds-o-q/#phytosterols)
 - Bengalenol
 - Bengalenoside
-- Triterpene (penfluridol)
 - [Quercetin](/reference/quercetinquercetin/)
 - [Rutin](/glossary/compounds-q-t/#rutin)
 - Gallic acid
 
 ## How does it work?
 
-- [Antidiabetic](/reference/antidiabetic/) activity through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
-- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
-- Anti-inflammatory action through suppression of TNF-alpha, IL-6, and prostaglandin synthesis
-- [Immunomodulatory](/reference/immunomodulatory/) activity via enhancement of macrophage phagocytosis and lymphocyte proliferation
+- [Antidiabetic](/reference/antidiabetic/) activity, proposed to act through leucocyanidin-mediated beta-cell regeneration and enhancement of insulin secretion
+- [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects, proposed to act via inhibition of HMG-CoA reductase and upregulation of hepatic LDL receptors
+- Anti-inflammatory action, proposed to act through suppression of TNF-alpha, IL-6, and prostaglandin synthesis
+- [Immunomodulatory](/reference/immunomodulatory/) activity, proposed to act via enhancement of macrophage phagocytosis and lymphocyte proliferation
 
 ## Which traditional uses are supported by research?
 
@@ -60,13 +59,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 ## What do recent studies show?
 
 - Murugesu S, Selamat J, Perumal V 2021. [Phytochemistry, Pharmacological Properties, and Recent Applications of Ficus benghalensis and Ficus religiosa](https://pubmed.ncbi.nlm.nih.gov/34961220/). *Plants (Basel, Switzerland)*. PMID [34961220](https://pubmed.ncbi.nlm.nih.gov/34961220/) · [doi:10.3390/plants10122749](https://doi.org/10.3390/plants10122749)  
-  Comprehensive analysis of 80+ compounds from both species confirmed antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
+  Comprehensive analysis of 80+ compounds from both species summarised reported antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Acute toxicity studies showed LD50 > 2000 mg/kg in rodent models, indicating a wide safety margin at therapeutic doses
+- Acute toxicity studies showed LD50 > 2000 mg/kg in rodent models
 - Latex consumption in large quantities may cause gastrointestinal irritation; should be used cautiously during pregnancy due to potential uterine stimulant effects
 
 ## What is it made of?
@@ -93,7 +92,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 **Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
 
-**Optimal Timing:** Bark decoction: morning and evening, between meals. For diabetes management: 30 minutes before meals. Topical applications: as needed, clean wound area first.
+**Optimal Timing:** Bark decoction: morning and evening, between meals. Topical applications: as needed, clean wound area first.
 
 **Standardized Extract:** Nyagrodha bark extract (8:1) standardized to total tannins >15% (as tannic acid), leucocyanidin >2%, beta-sitosterol >1%. Aqueous extract with validated phenolic profile by HPLC.
 
