@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia.
 - Diabetes (Madhumeha): traditionally used for diabetes.
 - Chronic fevers (Jeerna Jwara): traditionally used for chronic fevers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
   Lauha Bhasma from magnetite has great potential for noninvasive localized target killing of cancer cells via necrosis by application of alternating external magnetic field or photoelectron generation through X-rays.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

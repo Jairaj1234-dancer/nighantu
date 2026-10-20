@@ -97,14 +97,18 @@ export function applyToSection(kind, slug, content) {
   return { content: body, cited, dropped };
 }
 
-/** Note appended where a section lost claims, so the gap is stated rather than hidden. */
-export function shortfallNote(kind, dropped) {
+/**
+ * Note appended where a section lost claims, so the gap is stated rather than hidden. It says what
+ * the reader is looking at, not how the page was edited: `remaining` is false when nothing traced
+ * survived, so the note is the whole section.
+ */
+export function shortfallNote(kind, dropped, remaining = true) {
   if (!dropped) return '';
   const where = kind === 'formulation'
     ? 'Classical formulations are researched largely in journals that PubMed does not index, '
       + 'so an absence here reflects the reach of the index rather than the state of the evidence.'
     : 'An absence here means we could not identify the source, not that no work exists.';
-  return `\n\n*${dropped} further claim${dropped === 1 ? '' : 's'} previously listed here `
-    + `could not be traced to a published paper and ${dropped === 1 ? 'has' : 'have'} been removed. `
-    + `${where}*`;
+  return remaining
+    ? `\n\n*Only studies that could be traced to a published paper are listed here. ${where}*`
+    : `\n\n*No study for this section could be traced to a published paper. ${where}*`;
 }

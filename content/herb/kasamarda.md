@@ -46,20 +46,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin fungal infections (Dadru/Kushtha): traditionally used for these skin conditions. A study reported antifungal activity of root extracts against Candida albicans, Rhodotorula glutinis, and Aspergillus niger.
 - Inflammatory skin conditions: traditionally used for inflammatory skin conditions. Studies have reported anti-inflammatory activity of its chromone and flavone constituents.
 - Wounds: traditionally applied to wounds as a leaf poultice. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bolatkyzy N, Shepilov D, Turmanov R and others 2025. [Medicinal Plants for Skin Disorders: Phytochemistry and Pharmacological Insights](https://pubmed.ncbi.nlm.nih.gov/40807461/). *Molecules (Basel, Switzerland)*. PMID [40807461](https://pubmed.ncbi.nlm.nih.gov/40807461/) · [doi:10.3390/molecules30153281](https://doi.org/10.3390/molecules30153281)  
   Cassia occidentalis was identified among key medicinal plants for skin disorders, with documented antibacterial, antifungal, anti-diabetic, anti-inflammatory, anticancerous, antimutagenic, and [hepatoprotective](/reference/hepatoprotective/) activities.
 - Yadav JP, Arya V, Yadav S and others 2010. [Cassia occidentalis L.: a review on its ethnobotany, phytochemical and pharmacological profile](https://pubmed.ncbi.nlm.nih.gov/19796670/). *Fitoterapia*. PMID [19796670](https://pubmed.ncbi.nlm.nih.gov/19796670/) · [doi:10.1016/j.fitote.2009.09.008](https://doi.org/10.1016/j.fitote.2009.09.008)  
   Comprehensive pharmacological review confirmed a wide range of biological activities including potent antifungal properties attributable to anthraquinone and chromone constituents.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

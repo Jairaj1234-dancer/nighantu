@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Insomnia and anxiety: traditionally used for Anidra (insomnia) and Chittodvega (anxiety). An animal study in mice reported a sedative-hypnotic effect.
 - Pain: traditionally used for Shula (pain) and neuralgias. Animal studies have reported analgesic activity comparable to aspirin.
 - Neurological disorders: traditionally used for memory loss, convulsions, and nervous system disorders. Animal studies in rats have reported safety on neurobehavioral parameters.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Inder D, Kumar P 2014. [Sedative-hypnotic Effect of Ash of Silver in Mice: A Reverse Pharmacological Study](https://pubmed.ncbi.nlm.nih.gov/25379470/). *Journal of traditional and complementary medicine*. PMID [25379470](https://pubmed.ncbi.nlm.nih.gov/25379470/) · [doi:10.4103/2225-4110.129198](https://doi.org/10.4103/2225-4110.129198)  
   Ash of silver demonstrated significant sedative-hypnotic activity in mice, supporting traditional Ayurvedic claims for treating insomnia and anxiety. The 16 nm spherical nanostructure showed pharmacological activity at therapeutic doses.

@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Arsha (piles): traditionally used as a premier Ayurvedic remedy for piles. Clinical studies have reported reduced symptoms.
 - [Hepatoprotective](/reference/hepatoprotective/) activity has been reported in experimental studies. Traditionally used in liver disorders.
 - Shotha (inflammation): traditionally used for inflammation and pain conditions. Preclinical studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

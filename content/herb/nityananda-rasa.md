@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Classical Rasashastra formulation referenced in Bhaishajya Ratnavali; classified as Schedule E-1 restricted medicine; manufactured by licensed Ayurvedic pharmacies under AYUSH guidelines; requires prescription from qualified Ayurvedic physician"
 aliases: ["Nityananda Rasa", "NityanandaRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 513
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Nityananda-Rasa/meta-analysis.md"
@@ -40,17 +40,17 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Shlipada (elephantiasis/lymphatic filariasis): primary traditional indication, referenced in Bhaishajya Ratnavali. A toxicity study reported no safety concerns at the doses tested.
 - Vatarakta (gout) and Sthoulya (obesity): traditionally used for these conditions. In classical description, [Tamra Bhasma](/herb/tamra-bhasma/) is Kapha- and [Meda](/herb/meda/)-reducing (Lekhaniya), and [Trikatu](/herb/trikatu/) is described as metabolism-enhancing.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kshirsagar SR, Kumari M, Bajad SM and others 2023. [Assessment of sub-chronic oral toxicity of Nityanand Rasa: An ayurvedic herbo-metallic formulation](https://pubmed.ncbi.nlm.nih.gov/37054826/). *Journal of ethnopharmacology*. PMID [37054826](https://pubmed.ncbi.nlm.nih.gov/37054826/) · [doi:10.1016/j.jep.2023.116494](https://doi.org/10.1016/j.jep.2023.116494)  
   90-day study in Wistar rats at 30, 300, and 600 mg/kg: no mortality or severe behavioral changes; mild histopathological changes in liver/brain at high dose; mild genotoxicity at high dose; no detectable mercury but significant arsenic in blood at high dose; considered safe at therapeutic doses
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

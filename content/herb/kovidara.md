@@ -49,21 +49,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for inflammation and pain. Animal studies have reported reduced edema in a carrageenan model.
 - Traditionally used for wound healing. Animal studies in excision wound models have reported more collagen deposition and epithelialization.
 - Traditionally used for diabetes. Animal studies in alloxan-induced diabetic rats have reported hypoglycemic effects.
 - Traditionally used for diarrhea. Animal studies have reported anti-diarrheal activity in castor oil-induced diarrhea models.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Verma R, Dash S, Ankita and others 2024. [Genus Bauhinia (Fabaceae): A review from phytochemistry to pharmacology- Exploring traditional uses and toxicological insights across Asia](https://pubmed.ncbi.nlm.nih.gov/39571414/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [39571414](https://pubmed.ncbi.nlm.nih.gov/39571414/) · [doi:10.1016/j.phymed.2024.156246](https://doi.org/10.1016/j.phymed.2024.156246)  
   Comprehensive genus-level review confirmed [anticancer](/reference/anticancer/), antioxidant, [hypolipidemic](/glossary/pharmacology/#hypolipidemic), [antimicrobial](/reference/antimicrobial/), anti-inflammatory, antidiabetic, nephroprotective and antimalarial activities across Bauhinia species.
 - Gudavalli D, Pandey K, Ede VG and others 2024. [Phytochemistry and pharmacological activities of five species of Bauhinia genus: A review](https://pubmed.ncbi.nlm.nih.gov/38286316/). *Fitoterapia*. PMID [38286316](https://pubmed.ncbi.nlm.nih.gov/38286316/) · [doi:10.1016/j.fitote.2024.105830](https://doi.org/10.1016/j.fitote.2024.105830)  
   Identified [flavonoids](/reference/flavonoids/) (astragalin, [quercetin](/reference/quercetinquercetin/)), [steroids](/glossary/compounds-q-t/#steroids) and terpenoids as major bioactive classes across Bauhinia species with significant anti-inflammatory and antidiabetic potential.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

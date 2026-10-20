@@ -19,10 +19,9 @@ productHints: []
 words: 291
 srcRel: "_Hub/Pharmacology/Expectorant.md"
 ---
-*87 herbs and compounds with expectorant activity across traditions*
+*37 herbs and compounds with expectorant activity*
 
 ## Ayurveda (37)
-
 - [Ajwain Herb](/herb/ajwain-herb/)
 - [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/)
 - [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*

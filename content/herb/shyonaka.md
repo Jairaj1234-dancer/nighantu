@@ -51,20 +51,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in Vataroga. Animal studies on the root bark and stem bark have reported anti-inflammatory and anti-arthritic activity.
 - Traditionally used for liver disorders. Animal studies have reported [hepatoprotective](/reference/hepatoprotective/) activity, with liver [enzymes](/glossary/compounds-d-g/#enzymes) returning toward normal levels.
 - Traditionally applied topically for wound infections and skin diseases. Laboratory studies have reported [antimicrobial](/reference/antimicrobial/) activity against multiple pathogens.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Summat R, Waiwut P, Daodee S and others 2025. [Phytomedicine Potential of Oroxylum indicum Root and Its Constituents: Targeting Alzheimer's Disease](https://pubmed.ncbi.nlm.nih.gov/39861577/). *Plants (Basel, Switzerland)*. PMID [39861577](https://pubmed.ncbi.nlm.nih.gov/39861577/) · [doi:10.3390/plants14020223](https://doi.org/10.3390/plants14020223)  
   Root extract and key constituents (baicalein, chrysin, oroxylin A) inhibited beta-amyloid aggregation and acetylcholinesterase activity, with potent [antioxidant](/reference/antioxidant/) modulation of [proteins](/glossary/compounds-o-q/#proteins) implicated in amyloidogenesis and tau phosphorylation.
 - Thrigulla SR, Singh G, Soni H and others 2024. [In-silico evaluation of Oroxylum indicum vent compounds in the plausible treatment and prevention of nasopharyngeal cancer](https://pubmed.ncbi.nlm.nih.gov/38805854/). *Journal of Ayurveda and integrative medicine*. PMID [38805854](https://pubmed.ncbi.nlm.nih.gov/38805854/) · [doi:10.1016/j.jaim.2024.100986](https://doi.org/10.1016/j.jaim.2024.100986)  
   Molecular docking studies identified promising compounds against nasopharyngeal carcinoma targets, including both Epstein-Barr virus and cancer cell proliferation pathways.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

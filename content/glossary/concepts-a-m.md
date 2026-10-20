@@ -356,7 +356,6 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 Highly stable due to >90% saturated fat content. Resistant to oxidation
 
-*Generated for the AgeAyurveda Herb Catalogue*
 
 ### Dhanadanayanadi Kashayam {#dhanadanayanadi-kashayam}
 
@@ -1811,13 +1810,6 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
 #### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 #### Dosage forms and preparation
 

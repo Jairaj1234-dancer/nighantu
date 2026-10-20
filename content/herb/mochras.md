@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hemostatic and styptic (Raktastambhana): traditionally used to stop bleeding in wound care. This action is attributed to its astringent tannins.
 - Anti-diarrheal (Atisara-nashaka): traditionally used for diarrhea. This action is attributed to its tannins, which are described as reducing intestinal secretion and hypermotility.
 - Bone and tissue regeneration (Asthi-Sandhanakara): traditionally known as a bone setter. Studies have reported anti-inflammatory and wound healing activity.
 - [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/glossary/pharmacology/#vajikarana)): [Shalmali](/herb/shalmali/) resin is traditionally used for sexual health. Studies have looked at its nutritional value and reported hormonal modulation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kumari N, Radha, Puri S and others 2025. [Exploring the Therapeutic Potential of Bombax ceiba L. Flowers as Source of Functional Food Development: A Review](https://pubmed.ncbi.nlm.nih.gov/40825150/). *Chemistry & biodiversity*. PMID [40825150](https://pubmed.ncbi.nlm.nih.gov/40825150/) · [doi:10.1002/cbdv.202500247](https://doi.org/10.1002/cbdv.202500247)  
   Reviewed therapeutic potential of Bombax ceiba including flowers and resin for functional food development; documented antioxidant, anti-inflammatory, and [immunomodulatory](/reference/immunomodulatory/) properties.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

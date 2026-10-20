@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Referenced in the Ayurvedic Pharmacopoeia of India (API). Kutaja bark monograph available in API Part I. One of the most established anti-diarrheal formulations in classical Ayurveda with widespread clinical use."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 450
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kutajarishta/meta-analysis.md"
@@ -39,16 +39,16 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Amoebic dysentery: traditionally used for this condition. A clinical study reported reduced stool frequency in E. histolytica infection.
 - Non-infectious diarrhea: traditionally used for this condition. A randomized clinical study reported reduced stool frequency, with a greater reduction than loperamide.
 - Secretory diarrhea: traditionally used for this condition. Conessine has been reported to inhibit bacterial adenylate cyclase.
 - IBS with diarrhea: traditionally used for this condition. Mechanism studies have reported antimotility and antisecretory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -60,7 +60,7 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 12 to 24 ml with equal water after meals, as given in the Ayurvedic Formulary of India, Part I, entry 1:11. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Atisaradhikara; 97-98½.
+**Standard Dosage:** 12 to 24 ml with equal water after meals, as given in the Ayurvedic Formulary of India, Part I, entry 1:11. The formulary attributes this formula to Bhaisajyaratnavali, Atisaradhikara; 97-98½.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

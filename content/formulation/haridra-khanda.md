@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Ayurvedic Pharmacopoeia of India (API) published by Ministry of Health and Family Welfare, Department of AYUSH; standard physicochemical parameters established; used in Indian government Ayurvedic hospitals"
 aliases: ["Haridra Khanda", "HaridraKhanda"]
 tags: ["ayurveda", "formulation", "leham", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 454
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Haridra-Khanda/meta-analysis.md"
@@ -39,16 +39,16 @@ Charaka Samhita; Sushruta Samhita; Sharangadhara Samhita; Atharva Veda and Upani
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Sheetapitta (urticaria/allergic skin rash): traditionally used for allergic urticaria. A clinical evaluation reported improvement in allergic urticaria.
 - Pratishyaya (allergic rhinitis): traditionally used for allergic rhinitis. A pharmacological study in experimental models reported anti-histamine activity using LC-ESI-MS/MS.
 - Kushta (skin diseases): traditionally used as a blood-purifying and anti-allergic remedy. Studies have reported anti-inflammatory activity for [curcumin](/herb/curcumin/).
 - Kandu (pruritus/itching): traditionally used for itching. Studies have reported antipruritic, antihistamine and anti-inflammatory properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

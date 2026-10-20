@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in Ayurveda, as with [Pashanabheda](/herb/pashanabheda/), for Ashmari (urinary calculi). In vivo and in vitro studies have reported anti-urolithiasis (kidney stone dissolution) activity.
 - Traditionally used in Ayurveda for strangury and urinary disorders. [Diuretic](/reference/diuretic/) activity has been reported in pharmacological studies.
 - Traditionally used for respiratory conditions. Preclinical studies have reported anti-asthmatic and bronchodilatory effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Goyal M, Pareek A, Nagori BP and others 2011. [Aerva lanata: A review on phytochemistry and pharmacological aspects](https://pubmed.ncbi.nlm.nih.gov/22279378/). *Pharmacognosy reviews*. PMID [22279378](https://pubmed.ncbi.nlm.nih.gov/22279378/) · [doi:10.4103/0973-7847.91120](https://doi.org/10.4103/0973-7847.91120)  
   Documented diuretic, anti-inflammatory, hypoglycemic, antiparasitic, antimicrobial, [hepatoprotective](/reference/hepatoprotective/), anti-urolithiasis, and antifertility properties with identification of key alkaloids and flavonoids.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

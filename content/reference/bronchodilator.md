@@ -19,10 +19,9 @@ productHints: []
 words: 324
 srcRel: "_Hub/Pharmacology/Bronchodilator.md"
 ---
-*83 herbs and compounds with bronchodilator activity across traditions*
+*39 herbs and compounds with bronchodilator activity*
 
-## Ayurveda (44)
-
+## Ayurveda (39)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
 - [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.*

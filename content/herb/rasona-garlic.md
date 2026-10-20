@@ -47,13 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hridya (for the heart): traditionally used for the heart and as a [Rasayana](/reference/rasayana/). Clinical studies have reported reductions in blood pressure, serum cholesterol, and platelet aggregation.
 - Krimighna (antimicrobial): traditionally used in Ayurveda for antimicrobial applications. [Antimicrobial](/reference/antimicrobial/) activity has been reported against a broad range of bacteria, fungi, viruses, and parasites.
 - Rasayana (rejuvenating/immune-boosting): traditionally used as a rejuvenating herb. Clinical and preclinical studies have reported immunostimulant properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - El-Saadony MT, Saad AM, Korma SA and others 2024. [Garlic bioactive substances and their therapeutic applications for improving human health: a comprehensive review](https://pubmed.ncbi.nlm.nih.gov/38915405/). *Frontiers in immunology*. PMID [38915405](https://pubmed.ncbi.nlm.nih.gov/38915405/) · [doi:10.3389/fimmu.2024.1277074](https://doi.org/10.3389/fimmu.2024.1277074)  
   Comprehensive review documenting allicin's role in cardiovascular protection, antioxidant effects through NADPH oxidase inhibition, and direct ROS scavenging within cells.

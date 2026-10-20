@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridayam and Yogaratnakara. Widely manufactured by licensed Ayurvedic pharmacies under GMP standards."
 aliases: ["Dhanwantaram Kashayam", "DhanwantaramKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 441
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dhanwantaram-Kashayam/meta-analysis.md"
@@ -50,18 +50,18 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Postpartum care and uterine tonic: traditionally used after delivery as a uterine tonic. Observational studies have reported improved uterine involution.
 - Vata disorders including joint pain and neuralgia: traditionally used for these conditions. Studies have reported COX-2/5-LOX inhibition.
 - General weakness and debility after delivery: traditionally used for weakness after childbirth. [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/) are traditionally regarded as nervine tonics.
 - Gynecological disorders: traditionally used for gynecological disorders.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

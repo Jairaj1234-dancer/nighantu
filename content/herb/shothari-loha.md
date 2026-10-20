@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation; manufactured under license by Ayurvedic pharmacies as per AYUSH guidelines and Drugs and Cosmetics Act, 1940"
 aliases: ["Shothari Loha", "ShothariLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 372
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Shothari-Loha/meta-analysis.md"
@@ -40,16 +40,16 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Shotha (edema/swelling): traditionally used for edema and swelling. In classical practice, [Yavakshara](/herb/yavakshara/) is regarded as anti-edema and [diuretic](/reference/diuretic/), and [Trikatu](/herb/trikatu/) as anti-inflammatory.
 - Anemia with associated inflammatory conditions: used in classical practice for anemia with associated inflammatory conditions. Reports from clinical practice have described improved hemoglobin levels alongside fewer inflammatory symptoms.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

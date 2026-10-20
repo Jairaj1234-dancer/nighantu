@@ -81,7 +81,7 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 - Bhavaprakasha Nighantu
 - Ashtanga Hridaya
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jafari A, Abbastabar M, Alaghi A and others 2024. [Curcumin on Human Health: A Comprehensive Systematic Review and Meta-Analysis of 103 Randomized Controlled Trials](https://pubmed.ncbi.nlm.nih.gov/39478418/). *Phytotherapy research : PTR*. PMID [39478418](https://pubmed.ncbi.nlm.nih.gov/39478418/) · [doi:10.1002/ptr.8340](https://doi.org/10.1002/ptr.8340)  
   103 RCTs covering 42 outcomes in 7,216 participants. High-credibility evidence for improvements in fasting blood sugar, CRP, HDL cholesterol, and body weight.

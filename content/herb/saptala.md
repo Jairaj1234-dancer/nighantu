@@ -44,14 +44,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Purgative (Virechana): traditionally used as a purgative. Studies have reported stimulant [laxative](/reference/laxative/) action of diterpene esters on intestinal smooth muscle.
 - Skin diseases (Kushtha): traditionally used for psoriasis, ringworm, and warts. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 - Anti-rheumatic (Amavata): traditionally used for Amavata. Animal studies have reported anti-inflammatory and analgesic activity.
 - [Diuretic](/reference/diuretic/) (Mutrala): traditionally used as a diuretic, as described in Ayurvedic texts.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Majid M, Khan MR, Shah NA and others 2015. [Studies on phytochemical, antioxidant, anti-inflammatory and analgesic activities of Euphorbia dracunculoides](https://pubmed.ncbi.nlm.nih.gov/26445953/). *BMC complementary and alternative medicine*. PMID [26445953](https://pubmed.ncbi.nlm.nih.gov/26445953/) · [doi:10.1186/s12906-015-0868-0](https://doi.org/10.1186/s12906-015-0868-0)  
   Demonstrated significant antioxidant activity against hydroxyl and phosphomolybdate radicals; strong anti-inflammatory activity reducing carrageenan-induced paw edema in rats; confirmed analgesic properties.

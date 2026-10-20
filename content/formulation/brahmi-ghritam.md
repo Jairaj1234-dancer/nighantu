@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); mentioned in Ayurvedic Pharmacopoeia of India (API); standardization parameters established for physicochemical and phytochemical evaluation"
 aliases: ["Brahmi Ghritam", "BrahmiGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 531
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Brahmi-Ghritam/meta-analysis.md"
@@ -39,19 +39,19 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Apasmara (epilepsy): traditionally used for epilepsy. Animal studies using PTZ-induced seizure models have reported anticonvulsant activity.
 - Unmada (psychosis/psychiatric disorders): traditionally used for psychiatric disorders. Clinical reviews have reported benefits in anxiety, depression, and ADHD in children.
 - Smriti [Vriddhi](/herb/vriddhi/) (memory enhancement): traditionally used for memory enhancement. Double-blind clinical studies have reported improvement in memory retention and attention.
 - CNS depressant and [anxiolytic](/reference/anxiolytic/) effects: experimental studies have reported anti-anxiety and calming properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Moon S, Raut N, Moon H and others 2024. [Organoleptic, physicochemical, phytochemical and pharmacological evaluation of six medicated ghee used for Ayurvedic management of Epilepsy](https://pubmed.ncbi.nlm.nih.gov/39644797/). *Journal of Ayurveda and integrative medicine*. PMID [39644797](https://pubmed.ncbi.nlm.nih.gov/39644797/) · [doi:10.1016/j.jaim.2024.100995](https://doi.org/10.1016/j.jaim.2024.100995)  
   Of the six medicated ghees evaluated, Baidyanath's [Brahmi](/herb/brahmi/) [Ghrita](/herb/ghrita/) showed the greatest protection against the onset and duration of PTZ-induced convulsions in mice. This is the study's finding about the specific commercial sample it tested, not a general claim about the formulation
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

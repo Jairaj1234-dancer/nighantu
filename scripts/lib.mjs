@@ -428,3 +428,76 @@ export function dropMineralPlaceholder(body, { isPlant, subcategory, group } = {
   }
   return out.join('\n').replace(/\n{3,}/g, '\n\n');
 }
+
+/**
+ * Drop a templated Mineral/Elemental Profile that the rest of the page contradicts.
+ *
+ * The vault filled this block from a few templates chosen by name, so "Amalaki Rasayana" and
+ * "Ardraka Svarasa" (fresh ginger juice) were given the mercury one:
+ *
+ *   - **Primary component:** Mercury-based preparation (Parada) with herbal processing
+ *
+ * The mercury template is kept only where the same page, or the same glossary entry, names
+ * mercury, parada, hingula or kajjali somewhere else. TEMPLATE_PROFILE_FALSE lists pages where
+ * a template was checked and found wrong although that test would keep it: Gandhak Rasayan is
+ * purified sulfur and mentions mercury only as an impurity, Rasamanikya is an arsenic
+ * preparation, and the calcined-oxide or mineral-derived template sits on a pishti, a shell, alum,
+ * diamond, amber and shilajit, whose own pages say otherwise. As with dropMineralPlaceholder, the
+ * block is removed and nothing is written in its place.
+ */
+const TEMPLATE_PROFILE = /Primary component:\*{0,2}\s*(Mercury-based preparation \(Parada\)|Calcined mineral\/metal oxide \(after Shodhana and Marana\)|Mineral-derived preparation)/i;
+const MERCURY_TEMPLATE = /Mercury-based preparation \(Parada\)/i;
+const MERCURY_NAMED = /mercur|parada|hingula|kajjali|cinnabar/i;
+export const TEMPLATE_PROFILE_FALSE = new Set([
+  'herb/gandhak-rasayan', 'herb/rasamanikya', 'herb/akika-pishti', 'herb/kaharuba-pishti',
+  'herb/shukti-bhasma', 'herb/sphatika-bhasma', 'herb/vajra-bhasma', 'herb/shilajit',
+  'herb/saptamrit-lauh',
+]);
+
+export function dropContradictedProfile(body, page = '') {
+  const lines = body.split('\n');
+  const entryStart = (i) => { for (let k = i; k >= 0; k -= 1) if (/^### .*\{#[^}]+\}\s*$/.test(lines[k])) return k; return 0; };
+  const entryEnd = (i) => { for (let k = i + 1; k < lines.length; k += 1) if (/^### .*\{#[^}]+\}\s*$/.test(lines[k])) return k; return lines.length; };
+  const drop = new Set();
+  for (let i = 0; i < lines.length; i += 1) {
+    if (!MINERAL_PLACEHOLDER.test(lines[i])) continue;
+    let j = i + 1;
+    while (j < lines.length && !/^#{1,6}\s/.test(lines[j])) j += 1;
+    const block = lines.slice(i, j).join('\n');
+    if (!TEMPLATE_PROFILE.test(block)) continue;
+    let wrong = TEMPLATE_PROFILE_FALSE.has(page);
+    if (!wrong && MERCURY_TEMPLATE.test(block)) {
+      const rest = [...lines.slice(entryStart(i), i), ...lines.slice(j, entryEnd(i))].join('\n');
+      wrong = !MERCURY_NAMED.test(rest);
+    }
+    if (wrong) for (let k = i; k < j; k += 1) drop.add(k);
+  }
+  if (!drop.size) return body;
+  return lines.filter((_l, k) => !drop.has(k)).join('\n').replace(/\n{3,}/g, '\n\n');
+}
+
+/**
+ * Counts on a hub page, taken from what it lists.
+ *
+ * The vault's hub notes count members across every tradition ("Found in 91 entries across the
+ * catalogue", "## Ayurveda (57)", "115 herbs ... across traditions"), but a hub publishes only
+ * its Ayurveda members that have pages (dropUnresolvedListItems). So /reference/kaempferol/ said
+ * 91 and listed 63. Every count is replaced by the number of list items actually on the page.
+ */
+export function recountHub(text) {
+  const sections = text.split(/(?=^## )/m);
+  const items = (sec) => (sec.match(/^[-*] /gm) ?? []).length;
+  let listed = 0;
+  const out = sections.map((sec) => {
+    const h = /^## (Ayurveda)(?: \((\d+)\))?\s*$/m.exec(sec);
+    if (!h) return sec;
+    const n = items(sec);
+    listed += n;
+    return h[2] ? sec.replace(h[0], `## ${h[1]} (${n})`) : sec;
+  }).join('');
+  if (!listed) return out;
+  return out
+    .replace(/Found in \d+ entries across the catalogue/g, `Found in ${listed} entries`)
+    .replace(/Cross-tradition therapeutic reference: \d+ related entries\./g, `Therapeutic reference: ${listed} related entries.`)
+    .replace(/^(\*?)\d+ ([^*\n]*?) across traditions(\*?)$/gm, `$1${listed} $2$3`);
+}

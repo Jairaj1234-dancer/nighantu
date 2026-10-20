@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Amlaparni is traditionally used in Ayurveda in relation to blood sugar levels. In vivo studies have reported [antidiabetic](/reference/antidiabetic/) and hypoglycemic activity.
 - Traditionally applied topically in folk medicine for skin conditions and wounds. Preclinical studies have reported wound healing activity.
 - Traditionally used for liver disorders. Animal studies have reported [hepatoprotective](/reference/hepatoprotective/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Zhong T, He J, Zhao H and others 2025. [Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential](https://pubmed.ncbi.nlm.nih.gov/41300509/). *Antioxidants (Basel, Switzerland)*. PMID [41300509](https://pubmed.ncbi.nlm.nih.gov/41300509/) · [doi:10.3390/antiox14111352](https://doi.org/10.3390/antiox14111352)  
   Comprehensive review highlighting flavonoids, [polysaccharides](/glossary/compounds-o-q/#polysaccharides), and organic acids as dominant metabolites with antioxidant, anti-inflammatory, antimicrobial, [neuroprotective](/reference/neuroprotective/), hypoglycemic, and [anticancer](/reference/anticancer/) effects.
 - Sarfraz I, Rasul A, Hussain G and others 2022. [A Review on Phyto-pharmacology of Oxalis corniculata](https://pubmed.ncbi.nlm.nih.gov/34391377/). *Combinatorial chemistry & high throughput screening*. PMID [34391377](https://pubmed.ncbi.nlm.nih.gov/34391377/) · [doi:10.2174/1386207324666210813121431](https://doi.org/10.2174/1386207324666210813121431)  
   Plant demonstrated significant hepatoprotective, antidiabetic, and wound healing activities in preclinical models, supporting traditional ethnomedicinal claims.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Primary reference in Sahasrayogam. Both sesame oil and coconut oil variants are recognized. Manufactured by licensed Ayurvedic pharmacies (Kottakkal, AVP, Nagarjuna) under GMP standards."
 aliases: ["Triphaladi Thailam", "TriphaladiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 489
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Triphaladi-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Sahasrayogam (Taila Prakarana). Available as both [Triphaladi Thailam](/formulat
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic headache and migraine (Shirahshula): traditionally used for chronic headache, given as Nasya. Clinical observations have reported patient improvement with Nasya administration.
 - Eye disorders and visual fatigue (Netra Roga): traditionally used for eye disorders and visual fatigue. Pharmacological studies have reported retinal neuroprotective activity for [pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Asanaka, and antioxidant action of [Triphala](/herb/triphala/) on optic tissue.
 - Premature hair greying and hair fall: traditionally used for premature greying and hair fall. [Triphala](/herb/triphala/) has been reported to have antioxidant activity. [Amla](/herb/amla/) is traditionally used to strengthen hair by nourishing the follicles.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

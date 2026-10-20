@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Yogavahi (bioenhancer): traditionally used to enhance the action of co-administered substances. Pharmacological studies have reported that piperine can increase the absorption of co-administered compounds.
 - Shwasa, Kasa (respiratory disease): traditionally used for respiratory conditions. Studies have reported anti-inflammatory, bronchodilatory, and [immunomodulatory](/reference/immunomodulatory/) effects. High-quality randomized controlled trials are still lacking.
 - Deepana-Pachana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric secretion and gastrointestinal motility.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Biswas P, Ghorai M, Mishra T and others 2022. [Piper longum L.: A comprehensive review on traditional uses, phytochemistry, pharmacology, and health-promoting activities](https://pubmed.ncbi.nlm.nih.gov/36256521/). *Phytotherapy research : PTR*. PMID [36256521](https://pubmed.ncbi.nlm.nih.gov/36256521/) · [doi:10.1002/ptr.7649](https://doi.org/10.1002/ptr.7649)  
   Essential oils from roots and fruits documented as [antimicrobial](/reference/antimicrobial/), antiparasitic, anti-inflammatory, [analgesic](/reference/analgesic/), antioxidant, [anticancer](/reference/anticancer/), [neuroprotective](/reference/neuroprotective/), [hepatoprotective](/reference/hepatoprotective/), and immunomodulatory agents.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

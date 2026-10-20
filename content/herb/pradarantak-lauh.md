@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Bhaishajya Ratnavali; recognized as a classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; manufactured by licensed Ayurvedic pharmacies under AYUSH guidelines"
 aliases: ["Pradarantak Lauh", "PradarantakLauh"]
 tags: ["ayurveda", "loha", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 365
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Pradarantak-Lauh/meta-analysis.md"
@@ -40,16 +40,16 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Menorrhagia and metrorrhagia (Pradara/excessive menstrual bleeding): traditionally used for excessive menstrual bleeding. Clinical observations have reported reduced menstrual blood loss and improved hemoglobin.
 - Leucorrhea (Shweta Pradara): used in classical practice as a gynecological application for leucorrhea. Reports from clinical practice have described improvement in vaginal discharge and associated symptoms.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

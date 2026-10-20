@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Acacia catechu individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I and Indian Pharmacopoeia; quality standards established by CCRAS for Khadiradi Vati preparations"
 aliases: ["Khadiradi Vati", "KhadiradiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 559
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Khadiradi-Vati/meta-analysis.md"
@@ -39,16 +39,16 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for oral health (tonsillitis, gingivitis, stomatitis, mouth ulcers). In vitro studies have reported antimicrobial activity against Streptococcus and E. coli.
 - Traditionally used for cough and sore throat. A clinical study reported improvement in cough scores.
 - Traditionally used for halitosis (foul breath). The formulation includes [camphor](/herb/camphor/), clove, and cardamom.
 - Traditionally used for voice clarity and hoarseness. The formulation includes [Yashtimadhu](/herb/yashtimadhu/) and [Khadira](/herb/khadira/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

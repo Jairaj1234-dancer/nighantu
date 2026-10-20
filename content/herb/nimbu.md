@@ -50,21 +50,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive aid (Deepana-Pachana): traditionally used as a digestive aid. Clinical observations have reported carminative and stomachic effects.
 - Scurvy: traditionally used for scurvy and valued as a source of Vitamin C. Nutritional studies have reported it to be a source of Vitamin C.
 - Antimicrobial and preservative: traditionally used as an antimicrobial and preservative. Food science and MIC studies have reported activity against multiple pathogens.
 - Kidney stones: traditionally used for kidney stones. Clinical studies have reported an increase in urinary citrate.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Klimek-Szczykutowicz M, Szopa A, Ekiert H 2020. [Citrus limon (Lemon) Phenomenon-A Review of the Chemistry, Pharmacological Properties, Applications in the Modern Pharmaceutical, Food, and Cosmetics Industries, and Biotechnological Studies](https://pubmed.ncbi.nlm.nih.gov/31963590/). *Plants (Basel, Switzerland)*. PMID [31963590](https://pubmed.ncbi.nlm.nih.gov/31963590/) · [doi:10.3390/plants9010119](https://doi.org/10.3390/plants9010119)  
   Comprehensive review confirmed antioxidant, anti-inflammatory, antimicrobial, [antidiabetic](/reference/antidiabetic/), anticancer and [hepatoprotective](/reference/hepatoprotective/) activities attributed to [flavonoids](/reference/flavonoids/), limonoids, [coumarins](/glossary/compounds-c-d/#coumarins) and terpenes.
 - Singh N, Yarla NS, Siddiqi NJ and others 2021. [Features, Pharmacological Chemistry, Molecular Mechanism and Health Benefits of Lemon](https://pubmed.ncbi.nlm.nih.gov/32901586/). *Medicinal chemistry (Shariqah (United Arab Emirates))*. PMID [32901586](https://pubmed.ncbi.nlm.nih.gov/32901586/) · [doi:10.2174/1573406416666200909104050](https://doi.org/10.2174/1573406416666200909104050)  
   D-limonene demonstrated anticancer potential through induction of phase II detoxification [enzymes](/glossary/compounds-d-g/#enzymes) and inhibition of Ras-MAPK signaling pathway in cancer cell models.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

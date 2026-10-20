@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; classified under Schedule E(1) of Drugs and Cosmetics Act (contains Vatsanabha - requiring controlled dispensing); recognized by CCRAS; quality standards defined for Shuddha Vatsanabha and Shuddha Bhallataka processing"
 aliases: ["Sanjivani Vati", "SanjivaniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 446
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Sanjivani-Vati/meta-analysis.md"
@@ -39,16 +39,16 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Fever (Jwara Chikitsa): traditionally used for fever. Studies have reported diaphoretic and antipyretic activity.
 - Toxin elimination (Ama Pachana/Vishaghna): traditionally used to clear toxins. Studies have reported antimicrobial activity against Salmonella typhi and H. pylori.
 - Gastro-enteritis (Visuchika): traditionally used for gastro-enteritis. Studies have reported antimicrobial, anti-inflammatory and digestive actions.
 - Immunomodulation: used in classical practice to modulate immunity. Studies on [Guduchi](/herb/guduchi/) have reported increased phagocytic activity and adaptive immune response.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

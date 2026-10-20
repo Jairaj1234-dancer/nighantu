@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cardiotonic and heart-protective (Hridya): traditionally used to support the heart. Preclinical studies have reported reductions in cholesterol and triglycerides.
 - Cooling and [diuretic](/reference/diuretic/) (Sheetala, Mutrala): traditionally used as a cooling and diuretic herb. Pharmacological studies have reported diuretic activity.
 - Hepatoprotective (Yakrit-shodhana): traditionally used to protect the liver. Animal studies have reported protection against drug-induced liver toxicity.
 - Obesity: traditionally used for weight reduction. Several studies have reported antihyperlipidemic and anti-obesity effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Roopan SM, Devi Rajeswari V, Kalpana VN and others 2016. [Biotechnology and pharmacological evaluation of Indian vegetable crop Lagenaria siceraria: an overview](https://pubmed.ncbi.nlm.nih.gov/26637422/). *Applied microbiology and biotechnology*. PMID [26637422](https://pubmed.ncbi.nlm.nih.gov/26637422/) · [doi:10.1007/s00253-015-7190-0](https://doi.org/10.1007/s00253-015-7190-0)  
   Confirmed antihyperlipidemic and cardioprotective effects through reduction of serum cholesterol and triglycerides in animal models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

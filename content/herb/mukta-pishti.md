@@ -34,17 +34,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anxiety and palpitations (Hridrava, Chittodvega): traditionally used to calm the heart and mind.
 - Gastric disorders (Amlapitta, Parinamashoola): traditionally used as an antacid. A preclinical study reported anti-ulcerogenic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Balkrishna A, Sinha S, Shukla S and others 2025. [Anti-ulcerogenic activity of the marine-pearl derived medicine mukta Pishti in Rat model of pylorus ligation-induced peptic ulcer](https://pubmed.ncbi.nlm.nih.gov/39828143/). *Journal of ethnopharmacology*. PMID [39828143](https://pubmed.ncbi.nlm.nih.gov/39828143/) · [doi:10.1016/j.jep.2025.119378](https://doi.org/10.1016/j.jep.2025.119378)  
   [Mukta Pishti](/herb/mukta-pishti/) treatment significantly reduced ulcer index in stomach region and protected against epithelial damages, hemorrhages, and edema induced by pylorus ligation. Demonstrated gastroprotective properties through multiple mechanisms.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -91,4 +91,3 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 
 Stable indefinitely if kept dry. Aragonite crystal structure maintained in Pishti; converts to calcite in Bhasma (heat-processed)
 
-*Generated for the AgeAyurveda Herb Catalogue*

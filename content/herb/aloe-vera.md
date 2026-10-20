@@ -36,14 +36,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 - Aloe-[emodin](/glossary/compounds-d-g/#emodin) and other [anthraquinones](/glossary/compounds-1-a/#anthraquinones) exhibit antiproliferative and proapoptotic effects on cancer cell lines.
 - [Barbaloin](/glossary/compounds-a-c/#barbaloin) acts as a stimulant [laxative](/reference/laxative/) by increasing colonic motility and water/electrolyte secretion.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sadoyu S, Rungruang C, Wattanavijitkul T and others 2021. [Aloe vera and health outcomes: An umbrella review of systematic reviews and meta-analyses](https://pubmed.ncbi.nlm.nih.gov/32924222/). *Phytotherapy research : PTR*. PMID [32924222](https://pubmed.ncbi.nlm.nih.gov/32924222/) · [doi:10.1002/ptr.6833](https://doi.org/10.1002/ptr.6833)  
   Of 71 unique outcomes reviewed, 47 (67%) were nominally statistically significant, but only 3 outcomes supported by highly suggestive evidence (prevention of second-degree infusion phlebitis, chemotherapy-induced mucositis), while 42 outcomes had weak evidence.
 - Catalano A, Ceramella J, Iacopetta D and others 2024. [Aloe vera-An Extensive Review Focused on Recent Studies](https://pubmed.ncbi.nlm.nih.gov/38998660/). *Foods (Basel, Switzerland)*. PMID [38998660](https://pubmed.ncbi.nlm.nih.gov/38998660/) · [doi:10.3390/foods13132155](https://doi.org/10.3390/foods13132155)  
   Updated review documenting broad spectrum of pharmacological activities with focus on recent clinical and preclinical evidence for therapeutic applications.
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

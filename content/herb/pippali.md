@@ -79,7 +79,7 @@ Component of [Trikatu](/herb/trikatu/). Unique in Ayurveda for Rasayana through 
 - Sushruta Samhita
 - Bhavaprakasha Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Shah SB, Guttal GK, Chikkanna U and others 2022. [Efficacy of Pippali in vardhamana and fixed dosage pattern in primary hypothyroidism - A randomized clinical trial](https://pubmed.ncbi.nlm.nih.gov/35661936/). *Journal of Ayurveda and integrative medicine*. PMID [35661936](https://pubmed.ncbi.nlm.nih.gov/35661936/) · [doi:10.1016/j.jaim.2022.100555](https://doi.org/10.1016/j.jaim.2022.100555)  
   Published in J Ayurveda Integr Med, this RCT evaluated Pippali in graduated (vardhamana) versus fixed dosage patterns for primary hypothyroidism management.
@@ -90,7 +90,7 @@ Component of [Trikatu](/herb/trikatu/). Unique in Ayurveda for Rasayana through 
 - Conde J, Pumroy RA, Baker C and others 2021. [Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression](https://pubmed.ncbi.nlm.nih.gov/34079902/). *ACS central science*. PMID [34079902](https://pubmed.ncbi.nlm.nih.gov/34079902/) · [doi:10.1021/acscentsci.1c00070](https://doi.org/10.1021/acscentsci.1c00070)  
   Piperlongumine binds to a transient allosteric pocket on hTRPV2, demonstrating a new mode of [anticancer](/reference/anticancer/) activity against glioblastoma where TRPV2 is overexpressed.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

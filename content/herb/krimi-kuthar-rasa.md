@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Classical Rasashastra formulation from Bhaishajya Ratnavali; Schedule E-1 restricted medicine requiring prescription; manufactured under strict AYUSH licensing; regulatory scrutiny due to mercury and aconite content"
 aliases: ["Krimi Kuthar Rasa", "KrimiKutharRasa"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 514
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Krimi-Kuthar-Rasa/meta-analysis.md"
@@ -41,17 +41,17 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Intestinal parasites (Krimi Roga), including roundworms, tapeworms, and pinworms: traditionally used as the primary indication. Ingredients include [Vidanga](/herb/vidanga/) (embelin) and Palash seeds (palasonin), which are described as having anthelmintic activity.
 - Digestive disorders associated with parasitic infection: traditionally used for this purpose. Ingredients include [Indrayava](/herb/indrayava/), Ajamoda, and Karpura, which are described as having carminative, digestive, and anti-amoebic properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Saper RB, Phillips RS, Sehgal A and others 2008. [Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet](https://pubmed.ncbi.nlm.nih.gov/18728265/). *JAMA*. PMID [18728265](https://pubmed.ncbi.nlm.nih.gov/18728265/) · [doi:10.1001/jama.300.8.915](https://doi.org/10.1001/jama.300.8.915)  
   One-fifth of Ayurvedic medicines purchased online contained detectable lead, mercury, or arsenic exceeding acceptable daily intake standards; relevant to mercury-containing formulations like [Krimi Kuthar Rasa](/herb/krimi-kuthar-rasa/)
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

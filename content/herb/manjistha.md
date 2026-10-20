@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 - Gut microbiota modulation: Prebiotic-like effects demonstrated in human clinical trial via 16S rRNA profiling.
 - Key active constituents: [Alizarin](/glossary/compounds-1-a/#alizarin), munjistin, rubiadin, purpurin, mollugin, cyclic hexapeptides (RA-V, RA-VII), and xanthopurpurin.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Wen M, Chen Q, Chen W and others 2022. [A comprehensive review of Rubia cordifolia L.: Traditional uses, phytochemistry, pharmacological activities, and clinical applications](https://pubmed.ncbi.nlm.nih.gov/36160419/). *Frontiers in pharmacology*. PMID [36160419](https://pubmed.ncbi.nlm.nih.gov/36160419/) · [doi:10.3389/fphar.2022.965390](https://doi.org/10.3389/fphar.2022.965390)  
   Identified over 100 compounds including anthraquinones, naphthoquinones, bicyclic hexapeptides, [triterpenoids](/glossary/compounds-t-z/#triterpenoids), and [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Established multiple pharmacological activities: neuroprotective, anti-tumor, antibacterial, anti-inflammatory, antioxidant, and immunosuppressive.
@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 - Mustafa AM, Sayed GA, Hatem S and others 2025. [Therapeutic potential of purpurin, a natural anthraquinone dye, in neuroprotection and neurological disorders](https://pubmed.ncbi.nlm.nih.gov/41045341/). *Inflammopharmacology*. PMID [41045341](https://pubmed.ncbi.nlm.nih.gov/41045341/) · [doi:10.1007/s10787-025-01977-7](https://doi.org/10.1007/s10787-025-01977-7)  
   Purpurin from Rubia cordifolia demonstrated neuroprotective potential for neurological disorders through antioxidant and anti-inflammatory mechanisms.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

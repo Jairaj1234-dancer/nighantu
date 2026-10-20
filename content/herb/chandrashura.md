@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Stanyajanana (milk-promoting herb): traditionally used in Ayurveda as a galactagogue (milk-promoting) herb.
 - Asthi-Sandhaniya (bone healing): traditionally used in Ayurveda for bone strengthening and fracture repair. Preclinical studies have reported enhanced calcium absorption and osteoblast activity.
 - Shwasa (asthma) and Kasa (cough): traditionally used for these conditions. Preclinical studies have reported antiasthmatic and [expectorant](/reference/expectorant/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gupta S, Gupta R 2024. [Research Update on the Therapeutic Potential of Garden Cress (Lepidium sativum Linn.) with Threatened Status](https://pubmed.ncbi.nlm.nih.gov/37929722/). *Current drug research reviews*. PMID [37929722](https://pubmed.ncbi.nlm.nih.gov/37929722/) · [doi:10.2174/0125899775273877231023102011](https://doi.org/10.2174/0125899775273877231023102011)  
   Updated review documenting diverse pharmacological activities including galactagogue, anticarcinogenic, [antidiabetic](/reference/antidiabetic/), antiasthmatic, and antidiarrheal properties with emphasis on need for human clinical trials.
 - Vazifeh S, Kananpour P, Khalilpour M and others 2022. [Anti-inflammatory and Immunomodulatory Properties of Lepidium sativum](https://pubmed.ncbi.nlm.nih.gov/35937400/). *BioMed research international*. PMID [35937400](https://pubmed.ncbi.nlm.nih.gov/35937400/) · [doi:10.1155/2022/3645038](https://doi.org/10.1155/2022/3645038)  
   Garden cress seed extract significantly inhibited carrageenan-induced paw edema, reduced yeast-induced hyperpyrexia, and demonstrated dose-dependent [analgesic](/reference/analgesic/) activity.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

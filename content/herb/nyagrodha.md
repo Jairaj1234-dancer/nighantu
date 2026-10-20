@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Antidiabetic use: animal studies have reported hypoglycemic activity.
 - Traditionally used for diarrhea and dysentery. Animal studies using castor oil-induced diarrhea models have reported anti-diarrheal activity. Laboratory testing has also reported [antimicrobial](/reference/antimicrobial/) activity.
 - Traditionally used for wounds. Animal studies using excision wound models have reported faster wound closure and increased collagen synthesis.
 - [Analgesic](/reference/analgesic/) properties: animal studies using hot plate and tail flick models have reported pain-reducing activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Murugesu S, Selamat J, Perumal V 2021. [Phytochemistry, Pharmacological Properties, and Recent Applications of Ficus benghalensis and Ficus religiosa](https://pubmed.ncbi.nlm.nih.gov/34961220/). *Plants (Basel, Switzerland)*. PMID [34961220](https://pubmed.ncbi.nlm.nih.gov/34961220/) · [doi:10.3390/plants10122749](https://doi.org/10.3390/plants10122749)  
   Comprehensive analysis of 80+ compounds from both species confirmed antidiabetic, anti-inflammatory, hypolipidemic and immunomodulatory activities with identification of leucocyanidin as a key bioactive flavonoid.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

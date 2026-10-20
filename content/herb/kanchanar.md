@@ -49,19 +49,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as an anti-goitrogenic and for the thyroid. A clinical case series reported improved TSH and thyroid hormone levels.
 - Gandamala (lymphadenitis): traditionally used for this condition, including as Kanchanar [Guggulu](/formulation/guggulu/).
 - Traditionally used for inflammation and pain. Animal studies have reported reduced swelling in the carrageenan-induced paw edema model, along with [analgesic](/reference/analgesic/) effects.
 - [Hemostatic](/glossary/pharmacology/#hemostatic) and anti-hemorrhagic use: traditionally used to check bleeding. The plant contains astringent tannins.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
   Registered RCT comparing Kanchanar [Guggulu](/formulation/guggulu/) formulation with levothyroxine for hypothyroidism management, with enrollment from June 2024 to December 2025; recognizes growing clinical evidence.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

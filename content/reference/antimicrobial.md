@@ -19,10 +19,9 @@ productHints: []
 words: 304
 srcRel: "_Hub/Pharmacology/Antimicrobial.md"
 ---
-*417 herbs and compounds with antimicrobial activity across traditions*
+*39 herbs and compounds with antimicrobial activity*
 
-## Ayurveda (180)
-
+## Ayurveda (39)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
 - [Aivana](/herb/aivana/), *Salvia officinalis L.*

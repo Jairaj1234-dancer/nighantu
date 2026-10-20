@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Punarnava (Boerhavia diffusa) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; recognized by CCRAS for Shotha (edema) management"
 aliases: ["Punarnavadi Guggulu", "PunarnavadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 568
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Punarnavadi-Guggulu/meta-analysis.md"
@@ -48,21 +48,21 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic renal failure: traditionally used in classical practice for kidney conditions. A clinical study reported reductions in creatinine, blood urea, and edema.
 - Edema (Shotha): traditionally used for edema. Diuretic properties without electrolyte imbalance have been reported.
 - Kidney function: traditionally used for kidney health. Clinical studies have reported improved filtration capacity and reduced proteinuria.
 - Gout (Vatarakta): traditionally used for gout, including in combination with Kaishore [Guggulu](/formulation/guggulu/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Patel MV, Gupta SN, Patel NG 2011. [Effects of Ayurvedic treatment on 100 patients of chronic renal failure (other than diabetic nephropathy)](https://pubmed.ncbi.nlm.nih.gov/22661841/). *Ayu*. PMID [22661841](https://pubmed.ncbi.nlm.nih.gov/22661841/) · [doi:10.4103/0974-8520.96120](https://doi.org/10.4103/0974-8520.96120)  
   Study of 100 CRF patients showed serum creatinine reduced by 20.71%, blood urea reduced by 36.15%, albuminuria reduced by 36.70%, hemoglobin increased by 4.65%, and edema reduced by 71.56%.
 - Prashanth GS, Baghel MS, Ravishankar B and others 2010. [A clinical comparative study of the management of chronic renal failure with Punarnavadi compound](https://pubmed.ncbi.nlm.nih.gov/22131708/). *Ayu*. PMID [22131708](https://pubmed.ncbi.nlm.nih.gov/22131708/) · [doi:10.4103/0974-8520.72388](https://doi.org/10.4103/0974-8520.72388)  
   Small study (N=30) found reduced ankle swelling within three weeks, improved kidney filtration capacity, and cleansed urinary tract with healthy urine output support.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

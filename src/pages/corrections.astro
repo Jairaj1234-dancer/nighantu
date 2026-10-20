@@ -1,6 +1,7 @@
 ---
 import Page from '../layouts/Page.astro';
 import { rel } from '../lib/site';
+import superseded from '../data/dose-superseded.json';
 ---
 <Page
   title="Corrections"
@@ -31,7 +32,13 @@ import { rel } from '../lib/site';
 <p>Every formulation page states a dose. Those figures carried no source: of the 51 formulations where we hold the <cite>Ayurvedic Formulary of India</cite>'s own dose, three of our figures matched it, and no page attributed its figure to anything in particular. The dose is the most consequential claim on these pages and it was the least sourced thing on the site.</p>
 <p>What changed, by case:</p>
 <ul>
-  <li><strong>25 pages now state the formulary's figure</strong> instead of ours, cited to part and entry number, with the schedule and vehicle unchanged. The largest change is <a href={rel('/formulation/arogyavardhini-vati/')}>Arogyavardhini Vati</a>, where our 125-250&nbsp;mg became the formulary's 250-500&nbsp;mg; the others move by less. Each page says what it previously stated.</li>
+  <li><strong>25 pages now state the formulary's figure</strong> instead of ours, cited to part and entry number, with the schedule and vehicle unchanged. The largest change is <a href={rel('/formulation/arogyavardhini-vati/')}>Arogyavardhini Vati</a>, where our 125-250&nbsp;mg became the formulary's 250-500&nbsp;mg; the others move by less. The figures they replaced:
+    <ul>
+      {superseded.replaced.map((x) => (
+        <li><a href={rel(`/formulation/${x.slug}/`)}>{x.slug.replace(/-/g, ' ')}</a>: {x.supersededFigure}, now {x.replacedWith}</li>
+      ))}
+    </ul>
+  </li>
   <li><strong>5 kashayam pages keep their figure.</strong> The formulary's number for a decoction is the weight of powder used to prepare it, not the volume taken, so the two are not comparable and are no longer presented as though they were.</li>
   <li><strong>8 pages keep their figure</strong> because the formulary states a different unit, a weight against a volume or a powder weight against a tablet count, and relating them needs a density or a tablet mass the formulary does not give.</li>
   <li><strong>5 pages had no figure</strong> and now state the formulary's.</li>

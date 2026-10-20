@@ -19,10 +19,9 @@ productHints: []
 words: 314
 srcRel: "_Hub/Pharmacology/Hepatoprotective.md"
 ---
-*277 herbs and compounds with hepatoprotective activity across traditions*
+*39 herbs and compounds with hepatoprotective activity*
 
-## Ayurveda (140)
-
+## Ayurveda (39)
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*

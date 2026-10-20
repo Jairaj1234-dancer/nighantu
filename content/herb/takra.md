@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Grahani Roga (malabsorption/IBS): used in classical practice as the primary indication of Takra.
 - Arsha (hemorrhoids/piles): traditionally used for Arsha. In classical practice, Takra is combined with Chitraka or [Pippali](/herb/pippali/).
 - Shotha (edema): traditionally used for edema. Light buttermilk is classically regarded as [Diuretic](/reference/diuretic/) and as reducing Kapha accumulation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

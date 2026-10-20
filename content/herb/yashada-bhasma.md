@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Diabetes (Prameha/Madhumeha): traditionally used for Prameha and Madhumeha. Several studies have reported improvements in glucose parameters. It has also drawn interest in modern nanomedicine research.
 - Eye diseases (Netra Roga): traditionally used for Netra Roga. Modern ophthalmology research has described a role for zinc in retinal health and in macular degeneration.
 - Skin disorders and wound healing: traditionally used for skin disorders and wounds. Dermatological research has described a role for zinc in wound healing, collagen synthesis and skin integrity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Nille GC, Bhuyan M, Gupta LN and others 2025. [Characterization and potential novel applications of zinc-based traditional medicine, Yashad Bhasma](https://pubmed.ncbi.nlm.nih.gov/40886520/). *Journal of Ayurveda and integrative medicine*. PMID [40886520](https://pubmed.ncbi.nlm.nih.gov/40886520/) · [doi:10.1016/j.jaim.2025.101188](https://doi.org/10.1016/j.jaim.2025.101188)  
   Comprehensive characterization of [Yashada Bhasma](/herb/yashada-bhasma/) revealing antimicrobial, antioxidant, and anti-angiogenic activities. Novel applications identified beyond traditional uses.

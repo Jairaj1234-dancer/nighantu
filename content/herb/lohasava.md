@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Sharangdhara Samhita; recognized as a classical Ayurvedic Asava preparation; included in Ayurvedic Formulary of India (AFI); classified as a Classical Medicine under the Drugs and Cosmetics Act, 1940"
 aliases: []
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 434
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Lohasava/meta-analysis.md"
@@ -40,16 +40,16 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron deficiency anemia: traditionally used for iron deficiency anemia. A comparative study reported greater improvement in hemoglobin and iron parameters with Lohasava than with conventional iron therapy.
 - Liver and digestive disorders: traditionally used as a [hepatoprotective](/reference/hepatoprotective/) and digestive formulation. In classical practice, these uses are attributed to its [Triphala](/herb/triphala/) and [Trikatu](/herb/trikatu/) components and its fermentation process.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

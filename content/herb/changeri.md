@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anti-inflammatory and wound healing (Shotha-hara): traditionally used for inflammation and wound healing. Animal studies have reported anti-inflammatory activity.
 - [Antipyretic](/reference/antipyretic/) and cooling (Jvarahara, Pittahara): traditionally used to reduce fever and as a cooling herb. Pharmacological studies have reported fever reduction.
 - Digestive disorders and diarrhea (Atisara-nashaka): traditionally used for digestive disorders and diarrhea. Antimicrobial and astringent properties have been reported.
 - Eye conditions (Netra-roga): traditionally used as eye drops. Anti-inflammatory and antimicrobial activity has been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Zhong T, He J, Zhao H and others 2025. [Oxalis corniculata L. As a Source of Natural Antioxidants: Phytochemistry, Bioactivities, and Application Potential](https://pubmed.ncbi.nlm.nih.gov/41300509/). *Antioxidants (Basel, Switzerland)*. PMID [41300509](https://pubmed.ncbi.nlm.nih.gov/41300509/) · [doi:10.3390/antiox14111352](https://doi.org/10.3390/antiox14111352)  
   Identified dominant metabolite classes (flavonoids, polysaccharides, organic acids). Reported antioxidant-driven pharmacological properties, including neuroprotective and anti-inflammatory activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

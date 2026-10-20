@@ -9,7 +9,7 @@ import {
 import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
-  wordCount, resolveWikilinks, fixRegulatorLabels, dropUnresolvedListItems, dropDeniedReferences, redact, inferBotanical,
+  wordCount, resolveWikilinks, fixRegulatorLabels, dropContradictedProfile, recountHub, dropUnresolvedListItems, dropDeniedReferences, redact, inferBotanical,
   delinkPropertyRows, dropMineralPlaceholder,
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
@@ -44,6 +44,7 @@ for (const rel of all) {
 // ---------------------------------------------------------------- stage 2: parse
 /** Sections whose bullets were presented as studies. */
 const RESEARCH_HEADINGS = new Set([
+  'What do recent studies show?',
   'What do recent clinical trials show?',
   'What does modern research show?',
   'Which traditional uses are supported by research?',
@@ -147,7 +148,7 @@ function renderSections(p) {
     // from the vault can never reintroduce an unverifiable claim.
     if (RESEARCH_HEADINGS.has(rewriteHeading(s.heading))) {
       const r = applyToSection(p.kind, slugify(DUPLICATE_CANONICAL.get(p.identity) ?? p.identity), content);
-      content = r.content + shortfallNote(p.kind, r.dropped);
+      content = r.content + shortfallNote(p.kind, r.dropped, /[A-Za-z]/.test(r.content.replace(/^#+.*$/gm, '')));
       citeTally.cited += r.cited;
       citeTally.dropped += r.dropped;
     }
@@ -327,8 +328,9 @@ function transform(p) {
 
   let raw = dropDeniedReferences(bodyParts.join('\n\n'));
   if (p.kind === 'hub') raw = dropUnresolvedListItems(raw, resolver);
-  const body = applyRewrites(`${p.kind}/${p.slug}`,
-    fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver))))).text;
+  let body = applyRewrites(`${p.kind}/${p.slug}`,
+    dropContradictedProfile(fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver)))), `${p.kind}/${p.slug}`)).text;
+  if (p.kind === 'hub') body = recountHub(body);
   if (productHints.length) PRODUCT_HINTS.set(p.slug, productHints);
 
   return { body, answer: redact(answer), sources, productHints };

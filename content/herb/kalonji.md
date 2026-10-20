@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a digestive aid and carminative for bowel and indigestion problems. Pharmacological studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects.
 - Traditionally used for asthma and other respiratory complaints. Clinical studies have reported bronchodilatory effects and improved lung function in people with asthma.
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 - Traditionally used to lower lipids and protect the heart. Meta-analyses have reported improvements in lipid profiles.
 - Traditionally used for immune modulation and against infections. Immunological studies have reported enhanced immune cell function and antimicrobial activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
   Comprehensive review covering main compounds of Nigella sativa with their therapeutic effects, molecular structure, properties, and mechanisms of action, establishing scientific basis for traditional medicinal uses.
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 - Mashayekhi-Sardoo H, Rezaee R, Karimi G 2020. [Nigella sativa (black seed) safety: an overview](https://pubmed.ncbi.nlm.nih.gov/37551386/). *Asian biomedicine : research, reviews and news*. PMID [37551386](https://pubmed.ncbi.nlm.nih.gov/37551386/) · [doi:10.1515/abm-2020-0020](https://doi.org/10.1515/abm-2020-0020)  
   Safety overview establishing that N. sativa has a very low degree of toxicity; LD50 varies from 28.8 mL/kg to 3,371 mg/kg in mice; aqueous extracts at doses up to 6 g/kg showed no toxicity in subacute evaluations.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

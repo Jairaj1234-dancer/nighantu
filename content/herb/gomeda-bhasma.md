@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Neurological disorders (epilepsy, insomnia, paralysis): traditionally used for these conditions in classical practice.
 - Cardiac arrhythmias and palpitation: traditionally used for heart rhythm disorders and palpitation.
 - Stress and mental clarity: traditionally used to calm the mind and support mental clarity. Formal clinical trials are lacking.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Pal D, Sahu CK, Haldar A 2014. [Bhasma : The ancient Indian nanomedicine](https://pubmed.ncbi.nlm.nih.gov/24696811/). *Journal of advanced pharmaceutical technology & research*. PMID [24696811](https://pubmed.ncbi.nlm.nih.gov/24696811/) · [doi:10.4103/2231-4040.126980](https://doi.org/10.4103/2231-4040.126980)  
   Gemstone Bhasmas including Gomeda described as non-toxic nanomedicines when prepared following classical Ayurvedic processes. The incineration process is key to converting toxic starting materials to safe therapeutic forms.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

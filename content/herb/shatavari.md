@@ -79,7 +79,7 @@ Name means 'she who possesses 100 husbands', referring to female reproductive be
 - Bhavaprakasha Nighantu
 - Ashtanga Hridaya
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gudise VS, Dasari MP, Kuricheti SSK 2024. [Efficacy and Safety of Shatavari Root Extract for the Management of Menopausal Symptoms: A Double-Blind, Multicenter, Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/38725785/). *Cureus*. PMID [38725785](https://pubmed.ncbi.nlm.nih.gov/38725785/) · [doi:10.7759/cureus.57879](https://doi.org/10.7759/cureus.57879)  
   Multicenter RCT demonstrated Shatavari root extract was effective and safe for managing menopausal symptoms including hot flashes, night sweats, and mood disturbances.

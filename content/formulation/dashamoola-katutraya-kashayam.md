@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridaya and Kerala Bhaishajya Ratnavali. Dashamoola (component) separately listed in Ayurvedic Pharmacopoeia of India."
 aliases: ["Dashamoola Katutraya Kashayam", "DashamoolaKatutrayaKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 431
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-Katutraya-Kashayam/meta-analysis.md"
@@ -38,18 +38,18 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic arthritis and inflammation: traditionally used for chronic arthritis and inflammation. A randomized controlled clinical study reported reductions in CRP and ESR.
 - Respiratory disorders (asthma, chronic cough): traditionally used for asthma and chronic cough. A clinical study reported improvement in a lung function measure.
 - Post-natal weakness and recovery: traditionally used for post-natal weakness and recovery.
 - Vata-Kapha imbalances with joint and respiratory involvement: used in classical practice for Vata-Kapha imbalances affecting the joints and respiratory system.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

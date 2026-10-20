@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for dental and gum health. Studies have reported antimicrobial activity against S. mutans and periodontal pathogens.
 - Animal studies in rats have reported anti-ulcer activity in aspirin- and ethanol-induced gastric ulcer models.
 - Traditionally used as a heart tonic (Hridya). Studies in isoproterenol-induced myocardial infarction models have reported [cardioprotective](/reference/cardioprotective/) effects.
 - Traditionally used in snakebite first aid. Preliminary studies have reported anti-venom and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gami B, Pathak S, Parabia M 2012. [Ethnobotanical, phytochemical and pharmacological review of Mimusops elengi Linn](https://pubmed.ncbi.nlm.nih.gov/23570006/). *Asian Pacific journal of tropical biomedicine*. PMID [23570006](https://pubmed.ncbi.nlm.nih.gov/23570006/) · [doi:10.1016/S2221-1691(12)60221-4](https://doi.org/10.1016/S2221-1691(12)60221-4)  
   Alcohol extract showed notable anti-ulcer activity and anxiolytic effects in elevated plus maze model; identified novel [saponins](/reference/saponins/) from fruit with cytotoxic activity.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

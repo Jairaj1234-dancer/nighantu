@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 - Pseudoaldosteronism mechanism: Glycyrrhizic acid inhibits 11-beta-hydroxysteroid dehydrogenase type 2, preventing cortisol-to-cortisone conversion, leading to mineralocorticoid excess.
 - Key active constituents: [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (glycyrrhizic acid, ~10% dry weight), [glabridin](/glossary/compounds-d-g/#glabridin), [liquiritigenin](/glossary/compounds-l-o/#liquiritigenin), [isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin), licochalcone A, and 18-beta-glycyrrhetinic acid.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Matte S, Wanjari M, Nalban N and others 2025. [Pharmacological mechanisms of Glycyrrhiza glabra in peptic ulcer: a systems biology and experimental approach](https://pubmed.ncbi.nlm.nih.gov/41113164/). *In silico pharmacology*. PMID [41113164](https://pubmed.ncbi.nlm.nih.gov/41113164/) · [doi:10.1007/s40203-025-00429-y](https://doi.org/10.1007/s40203-025-00429-y)  
   Network pharmacology analysis identified 29 phytochemicals and 157 common target genes involved in anti-ulcer mechanisms. Confirmed multi-target therapeutic approach for peptic ulcer management.
@@ -51,7 +51,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 - Chavan S, Bhuvad S, Kumbhalkar B and others 2023. [Lipid-based ayurvedic formulations of a single herb-Yashtimadhu (Glycyrrhiza glabra): Pharmaceutical standardization, shelf-life estimation and comparative characterization](https://pubmed.ncbi.nlm.nih.gov/37104998/). *Journal of Ayurveda and integrative medicine*. PMID [37104998](https://pubmed.ncbi.nlm.nih.gov/37104998/) · [doi:10.1016/j.jaim.2023.100711](https://doi.org/10.1016/j.jaim.2023.100711)  
   Standardization study of Yashtimadhu [Ghrita](/herb/ghrita/) and Yashtimadhu Taila providing pharmaceutical quality parameters and shelf-life data for traditional licorice formulations.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

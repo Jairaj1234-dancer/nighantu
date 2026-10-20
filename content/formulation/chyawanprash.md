@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Official monograph in Ayurvedic Pharmacopoeia of India (API) with physicochemical and assay standards (minimum 0.5% gallic acid); listed in Ayurvedic Formulary of India; one of the most widely recognized and commercially produced Ayurvedic formulations globally"
 aliases: ["Chyawanprash", "Chyavanaprasha", "Chyawanprash Avaleha"]
 tags: ["ayurveda", "formulation", "leham", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 750
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Chyawanprash/meta-analysis.md"
@@ -57,21 +57,21 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rasayana (rejuvenation/immunity): traditionally used as a rasayana for rejuvenation and immunity. A meta-analysis of clinical trials reported [immunomodulatory](/reference/immunomodulatory/) and prophylactic effects, including against COVID-19.
 - Medhya Rasayana (cognitive enhancement): traditionally used as a cognitive enhancer for brain vitality and mental acuity.
 - Vyadhikshamatva (disease resistance): traditionally used to support disease resistance. Animal studies in zebrafish inflammation models and clinical studies have reported immunomodulatory effects.
 - Balya (strength-promoting): traditionally taken daily for general vitality, respiratory health, and anti-aging.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma S, Sethuraman G, Kumari K 2024. [Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials](https://pubmed.ncbi.nlm.nih.gov/39544586/). *Cureus*. PMID [39544586](https://pubmed.ncbi.nlm.nih.gov/39544586/) · [doi:10.7759/cureus.71532](https://doi.org/10.7759/cureus.71532)  
   Meta-analysis of 5 RCTs confirmed Chyawanprash provided prophylactic benefit against COVID-19 with 3-times immunity boost and no adverse effects across all age groups
 - Balkrishna A, Tomer M, Manik M and others 2021. [Chyawanprash, An Ancient Indian Ayurvedic Medicinal Food, Regulates Immune Response in Zebrafish Model of Inflammation by Moderating Inflammatory Biomarkers](https://pubmed.ncbi.nlm.nih.gov/34867361/). *Frontiers in pharmacology*. PMID [34867361](https://pubmed.ncbi.nlm.nih.gov/34867361/) · [doi:10.3389/fphar.2021.751576](https://doi.org/10.3389/fphar.2021.751576)  
   Chyawanprash exerted strong prophylactic effect in zebrafish models, efficiently protecting from inflammatory manifestations at human equivalent dose through immunomodulation
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -42,17 +42,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kidney stones (Ashmari): traditionally used for kidney stones. Studies have reported lithontriptic and diuretic activity. A clinical study reported reduced renal colic.
 - Gastric ulcers: traditionally used for gastric ulcers. A clinical trial reported a higher rate of ulcer resolution with Hajrul Yahood plus licorice than with ranitidine.
 - Dysuria and urinary disorders: traditionally used for painful urination (Mutrakrichra). Studies have reported diuretic and smooth muscle relaxant properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

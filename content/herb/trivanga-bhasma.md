@@ -42,20 +42,20 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Diabetes (Madhumeha): traditionally used for diabetes. Animal studies in STZ-induced diabetic rat models have reported reduced blood sugar. However, the risk of lead toxicity limits its clinical applicability.
 - Urinary disorders (Mutra Roga): traditionally used for urinary disorders. No clinical study has separated its benefits from its toxicity.
 - Infertility (Vandhyatva): traditionally used for infertility, with reproductive support attributed to the Vanga component. Its lead content makes this use particularly dangerous for reproductive health.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jamadagni PS, Jamadagni SB, Singh R and others 2013. [Repeated dose oral toxicity of Trivanga Bhasma in Swiss albino mice](https://pubmed.ncbi.nlm.nih.gov/24049417/). *Ayu*. PMID [24049417](https://pubmed.ncbi.nlm.nih.gov/24049417/) · [doi:10.4103/0974-8520.115449](https://doi.org/10.4103/0974-8520.115449)  
   No treatment-related effects up to 10x therapeutic dose (78 mg/kg body weight = NOEL). Normal cyto-architecture at therapeutic doses. Toxicity in liver and kidney observed only at very high dose (10x TED).
 - Rasheed A, Naik M, Mohammed-Haneefa KP and others 2014. [Formulation, characterization and comparative evaluation of Trivanga bhasma: a herbo-mineral Indian traditional medicine](https://pubmed.ncbi.nlm.nih.gov/25015442/). *Pakistan journal of pharmaceutical sciences*. PMID [25015442](https://pubmed.ncbi.nlm.nih.gov/25015442/)  
   Physicochemical characterization confirmed trimetallic composition. Comparative evaluation of preparations from different sources showed variations in metal content ratios.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

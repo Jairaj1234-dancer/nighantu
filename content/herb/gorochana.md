@@ -44,18 +44,18 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Apasmara (epilepsy/seizures): traditionally used for seizures in children and adults. Its constituents include [Taurine](/glossary/compounds-t-z/#taurinetaurine) and bile acids.
 - Visha Chikitsa (toxicology/anti-poisoning): used in classical practice as a key ingredient in anti-poison formulations (Agada preparations).
 - Jwara and Unmada (fever and psychiatric disorders): used in classical practice for fever and psychiatric disorders.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Takahashi K, Azuma Y, Kobayashi S and others 2009. [Tool from traditional medicines is useful for health-medication: Bezoar Bovis and taurine](https://pubmed.ncbi.nlm.nih.gov/19239140/). *Advances in experimental medicine and biology*. PMID [19239140](https://pubmed.ncbi.nlm.nih.gov/19239140/) · [doi:10.1007/978-0-387-75681-3_10](https://doi.org/10.1007/978-0-387-75681-3_10)  
   Water extract of Bezoar Bovis (BB) exhibited protection against arrhythmias produced by low and high Ca2+ environments; [taurine](/glossary/compounds-t-z/#taurinetaurine), a major constituent, showed cardioprotective and hepatoprotective activity.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

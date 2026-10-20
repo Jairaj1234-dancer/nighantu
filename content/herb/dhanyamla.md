@@ -44,18 +44,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Dhanyamla Dhara: traditionally used for musculoskeletal disorders such as arthritis and myalgia. Clinical observations have reported reduced pain in arthritis and myalgia.
 - Deepana (digestive stimulant): traditionally used to stimulate appetite and digestion, an action attributed to its fermented acids.
 - Sthoulya Chikitsa (obesity): used in classical practice for obesity, based on its Lekhana (fat-scraping) property.
 - Vata Vyadhi (neurological disorders): traditionally used as Dhara therapy in stroke rehabilitation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

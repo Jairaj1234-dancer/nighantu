@@ -1255,7 +1255,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life superior to most vegetable oils
 
-*Generated for the AgeAyurveda Herb Catalogue*
 
 ### Shaka {#shaka}
 
@@ -2354,7 +2353,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 **Analytical Methods:** HPLC-UV/PDA, LC-MS/MS, GC-MS (if volatile compounds), TLC
 
-*Generated for the AgeAyurveda Herb Catalogue*
 
 ### Vrihi {#vrihi}
 
@@ -2496,13 +2494,6 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 | **Vipaka** (Post-digestive) | Madhura | Post-digestive effect |
 
 #### What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 #### Dosage forms and preparation
 

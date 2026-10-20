@@ -31,6 +31,7 @@ const LIMIT = limitIdx > -1 ? Number(process.argv[limitIdx + 1]) : Infinity;
 
 /** Headings whose bullets are presented as studies. */
 const RESEARCH_HEADINGS = [
+  'What do recent studies show?',
   'What do recent clinical trials show?',
   'What does modern research show?',
   'Which traditional uses are supported by research?',

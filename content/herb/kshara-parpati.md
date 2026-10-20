@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Siddha Yoga Sangraha; recognized as a classical Ayurvedic Parpati Kalpana; included in Ayurvedic Formulary of India (AFI); classified under mineral preparations of the Drugs and Cosmetics Act, 1940"
 aliases: ["Kshara Parpati", "KsharaParpati"]
 tags: ["ayurveda", "rasa-shastra", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 381
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Kshara-Parpati/meta-analysis.md"
@@ -40,16 +40,16 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Mutrashmari (urinary calculi/kidney stones): traditionally used for this condition. A comparative clinical study reported litholytic and diuretic activity.
 - Mutrakrichra (dysuria/painful urination): a primary traditional indication in classical practice.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

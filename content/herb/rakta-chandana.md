@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Wound repair (Vranaropana): traditionally used for wounds. Animal studies have reported faster closure of punch and burn wounds, with increased collagen synthesis.
 - Anti-inflammatory skin care (Daha-shamana): traditionally used in skin care. In vitro studies have reported selective inhibition of pro-inflammatory genes in IL-1 stimulated cells.
 - Complexion enhancement (Varnya): traditionally used as a face pack. Antioxidant activity has been reported for [pterostilbene](/glossary/compounds-o-q/#pterostilbene). Large-scale clinical trials are lacking.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Biswas TK, Maity LN, Mukherjee B 2004. [Wound healing potential of Pterocarpus santalinus linn: a pharmacological evaluation](https://pubmed.ncbi.nlm.nih.gov/15866805/). *The international journal of lower extremity wounds*. PMID [15866805](https://pubmed.ncbi.nlm.nih.gov/15866805/) · [doi:10.1177/1534734604268385](https://doi.org/10.1177/1534734604268385)  
   Red sandalwood ointment significantly accelerated wound healing in punch and burn wound models, with enhanced collagenesis and supporting biochemical data in both normal and diabetic rats.
 - Natalia P, Zwirchmayr J, Rudžionytė I and others 2021. [Pterocarpus santalinus Selectively Inhibits a Subset of Pro-Inflammatory Genes in Interleukin-1 Stimulated Endothelial Cells](https://pubmed.ncbi.nlm.nih.gov/35115943/). *Frontiers in pharmacology*. PMID [35115943](https://pubmed.ncbi.nlm.nih.gov/35115943/) · [doi:10.3389/fphar.2021.802153](https://doi.org/10.3389/fphar.2021.802153)  
   Red sandalwood extract selectively inhibited a subset of pro-inflammatory gene expression in IL-1 stimulated endothelial cells, demonstrating targeted anti-inflammatory activity relevant to inflammatory skin conditions.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

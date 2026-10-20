@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Medhya [Rasayana](/reference/rasayana/) (cognitive enhancement): medicated ghees such as Saraswata Ghrita and [Brahmi](/herb/brahmi/) Ghrita are traditionally used to support cognition.
 - Agni Deepana without Pitta aggravation: traditionally used to stimulate digestion. Its cooling virya is traditionally held to keep this from aggravating Pitta.
 - Snehana (oleation therapy in Panchakarma): used in classical practice as the primary medium for internal oleation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kataria D, Singh G 2024. [Health benefits of ghee: Review of Ayurveda and modern science perspectives](https://pubmed.ncbi.nlm.nih.gov/38181707/). *Journal of Ayurveda and integrative medicine*. PMID [38181707](https://pubmed.ncbi.nlm.nih.gov/38181707/) · [doi:10.1016/j.jaim.2023.100819](https://doi.org/10.1016/j.jaim.2023.100819)  
   Systematic review of studies from 1994-2024 with 19,948 participants found ghee intake had neutral to positive effects on lipid profiles; butyrate content provides anti-inflammatory and neuroprotective benefits.
 - Xu Q, Liu X, Wang Z and others 2025. [Recent advancements and comprehensive analyses of butyric acid in cardiovascular diseases](https://pubmed.ncbi.nlm.nih.gov/40791947/). *Frontiers in cardiovascular medicine*. PMID [40791947](https://pubmed.ncbi.nlm.nih.gov/40791947/) · [doi:10.3389/fcvm.2025.1608658](https://doi.org/10.3389/fcvm.2025.1608658)  
   Butyric acid (abundant in ghee) diminishes atherosclerotic lesions, enhances plaque stability by inhibiting NF-kB activation, decreases inflammatory markers (IL-1beta, IL-6, TNF-alpha), and increases BDNF for neuroprotection.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -115,4 +115,3 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 Anhydrous preparation; stable if moisture kept below 0.5%. Rancidity indicates degradation.
 
-*Generated for the AgeAyurveda Herb Catalogue*

@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cooling and pitta-pacifying (Pittahara): traditionally used as a cooling herb to pacify pitta.
 - [Laxative](/reference/laxative/) (Bhedana): traditionally used as a mild laxative. The leaves contain dietary fiber and [magnesium](/glossary/compounds-l-o/#magnesium).
 - Blood builder (Raktavardhaka): traditionally used to build the blood. The leaves contain folate and iron, though oxalates reduce how well the iron is absorbed.
 - Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used to support the eyes. The leaves contain lutein and zeaxanthin.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Akbari F, Mollaei M, Argani P and others 2024. [Spinacia Oleracea: Exploring the Therapeutic Potential in Persian Medicine and Modern Pharmacology](https://pubmed.ncbi.nlm.nih.gov/38549540/). *Current drug discovery technologies*. PMID [38549540](https://pubmed.ncbi.nlm.nih.gov/38549540/) · [doi:10.2174/0115701638275971240201060710](https://doi.org/10.2174/0115701638275971240201060710)  
   Bridged traditional Persian/Ayurvedic uses with modern pharmacology; confirmed cooling, laxative, anti-inflammatory, and [hepatoprotective](/reference/hepatoprotective/) properties through scientific evidence.
 - Roberts JL, Moreau R 2016. [Functional properties of spinach (Spinacia oleracea L.) phytochemicals and bioactives](https://pubmed.ncbi.nlm.nih.gov/27353735/). *Food & function*. PMID [27353735](https://pubmed.ncbi.nlm.nih.gov/27353735/) · [doi:10.1039/c6fo00051g](https://doi.org/10.1039/c6fo00051g)  
   Documented functional properties of spinach glycolipids, carotenoids, and phenolics for prevention of inflammation, oxidative stress, and chronic diseases.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

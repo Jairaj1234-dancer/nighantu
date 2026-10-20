@@ -47,13 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in Ayurveda as a cooling, Pittahara (Pitta-pacifying) food medicine. Laboratory studies on macrophage polarization have reported anti-inflammatory activity, and [antioxidant](/reference/antioxidant/) assays have reported antioxidant activity.
 - Traditionally used for Prameha (diabetes). Laboratory studies have reported that hypoglycemic constituents isolated from the pericarps increase cellular glucose uptake.
 - Traditionally valued as nutritive and strength-promoting (Brimhana). Nutritional analysis has reported high [starch](/glossary/compounds-q-t/#starch), protein, mineral, and vitamin content.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Matovic V, Ljujic B, Radojevic I and others 2025. [Trapa natans L. Extract Attenuates Inflammation and Oxidative Damage in Cisplatin-Induced Cardiotoxicity in Rats by Promoting M2 Macrophage Polarization](https://pubmed.ncbi.nlm.nih.gov/39886549/). *Mediators of inflammation*. PMID [39886549](https://pubmed.ncbi.nlm.nih.gov/39886549/) · [doi:10.1155/mi/6587305](https://doi.org/10.1155/mi/6587305)  
   Water chestnut extract attenuated cisplatin-induced cardiotoxicity by promoting M2 macrophage polarization, reducing inflammation and oxidative damage in cardiac tissue.

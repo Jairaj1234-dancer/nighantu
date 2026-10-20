@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridayam and Charaka Samhita. Included in AYUSH protocol for preventive healthcare. Manufactured by major licensed pharmacies under GMP standards. Recommended in AYUSH COVID-19 advisory for daily nasal oil application."
 aliases: ["Anu Taila", "AnuTaila"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 700
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Anu-Taila/meta-analysis.md"
@@ -38,20 +38,20 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Sinusitis and allergic rhinitis: traditionally used for these nasal conditions. A pilot study reported lower nasal congestion scores.
 - Facial paralysis (Ardita): used in classical practice for this condition. A systematic review reported improvement in facial pain, speech disorder, and earache.
 - Respiratory and immune support: traditionally used for respiratory health. An animal study in a hamster model of COVID-19 reported reduced viral load and lung pathology with prophylactic nasal application.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Vijay B, Diwan B, Devkumar P and others 2023. [Nasal application of sesame oil-based Anu taila as 'biological mask' for respiratory health during COVID-19](https://pubmed.ncbi.nlm.nih.gov/37660545/). *Journal of Ayurveda and integrative medicine*. PMID [37660545](https://pubmed.ncbi.nlm.nih.gov/37660545/) · [doi:10.1016/j.jaim.2023.100773](https://doi.org/10.1016/j.jaim.2023.100773)  
   Published in PMC/ScienceDirect, prophylactic nasal instillation of Anu oil in a hamster SARS-CoV2 challenge model exhibited reduced viral load in lungs, reduced body weight loss, and reduced pneumonitis with histopathological analysis revealing reduced lung pathology.
 - Vivera MJ, Gomersall JS 2016. [The effectiveness of ayurvedic oil-based nasal instillation (Nasya) medicines in the treatment of facial paralysis (Ardita): a systematic review](https://pubmed.ncbi.nlm.nih.gov/27532316/). *JBI database of systematic reviews and implementation reports*. PMID [27532316](https://pubmed.ncbi.nlm.nih.gov/27532316/) · [doi:10.11124/JBISRIR-2016-2402](https://doi.org/10.11124/JBISRIR-2016-2402)  
   Systematic review found that participants receiving Nasya intervention with [Anu Taila](/formulation/anu-taila/) had 78.2% to 90.9% relief from symptoms of facial pain, speech disorder, and earache, graded as marked improvement.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

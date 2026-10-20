@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vidanga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - In vitro and clinical studies have reported anthelmintic activity. The clinical work was in children with Ascaris infections.
 - Laboratory studies have reported [Antimicrobial](/reference/antimicrobial/) activity against multiple bacterial strains.
@@ -55,14 +55,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vidanga/meta-analysis.md"
 - Preclinical studies have reported [Anticancer](/reference/anticancer/) potential involving XIAP inhibition and modulation of multiple pathways.
 - Antioxidant activity has been reported in DPPH and other radical scavenging assays.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma V, Gautam DNS, Radu AF and others 2022. [Reviewing the Traditional/Modern Uses, Phytochemistry, Essential Oils/Extracts and Pharmacology of Embelia ribes Burm](https://pubmed.ncbi.nlm.nih.gov/35883850/). *Antioxidants (Basel, Switzerland)*. PMID [35883850](https://pubmed.ncbi.nlm.nih.gov/35883850/) · [doi:10.3390/antiox11071359](https://doi.org/10.3390/antiox11071359)  
   Comprehensive review in Antioxidants journal detailing embelin and vilangin as major antioxidant compounds; established broad pharmacological profile including anthelmintic, anticancer, anti-inflammatory, and [antidiabetic](/reference/antidiabetic/) activities. Called for more rigorous clinical trials.
 - Kamath AJ, Chandy AS, Joseph AA and others 2023. [Embelin: A multifaceted anticancer agent with translational potential in targeting tumor progression and metastasis](https://pubmed.ncbi.nlm.nih.gov/38234968/). *EXCLI journal*. PMID [38234968](https://pubmed.ncbi.nlm.nih.gov/38234968/) · [doi:10.17179/excli2023-6590](https://doi.org/10.17179/excli2023-6590)  
   Comprehensive review confirming embelin modulates NF-kB, PI3K/AKT, and STAT3 signaling pathways. Demonstrated anti-proliferative, pro-apoptotic, and anti-metastatic activities across multiple cancer cell lines including glioma, breast, and leukemia.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

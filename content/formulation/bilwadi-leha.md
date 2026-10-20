@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Kerala Ayurveda traditional formulary; referenced in Bhaishajya Ratnavali and Sharangadhara Samhita; available from GMP-certified Ayurvedic manufacturers (Kottakkal, AVP, Dabur)"
 aliases: ["Bilwadi Leha", "BilwadiLeha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 519
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Bilwadi-Leha/meta-analysis.md"
@@ -39,19 +39,19 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Grahani (IBS): traditionally used for Grahani. A clinical study reported improvement in IBS symptoms, including pain, bloating, diarrhea, and mucus passage.
 - Atisara (diarrhea): traditionally used for Atisara. Pharmacological studies have reported anti-diarrheal activity of Bilwa through astringent and [antimicrobial](/reference/antimicrobial/) mechanisms.
 - Pravahika (dysentery): traditionally used for Pravahika. Bael has been reported to have antimicrobial and intestinal mucosal protective properties.
 - Agnimandya (digestive weakness): traditionally used for Agnimandya. [Trikatu](/herb/trikatu/) and carminative spices have been reported to enhance digestive enzyme activity and reduce flatulence.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tiwari R, Pandya DH, Baghel MS 2013. [Clinical evaluation of Bilvadileha in the management of irritable bowel syndrome](https://pubmed.ncbi.nlm.nih.gov/24696573/). *Ayu*. PMID [24696573](https://pubmed.ncbi.nlm.nih.gov/24696573/) · [doi:10.4103/0974-8520.127717](https://doi.org/10.4103/0974-8520.127717)  
   46 IBS patients treated for 12 weeks showed 67.09% improvement in abdominal pain, 100% resolution of bloating, 86.96% improvement in IBS-D, 100% resolution of mucus passage, and 97.50% improvement in urgency
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

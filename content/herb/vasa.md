@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kasa-Shwasahara: traditionally used as a bronchodilator and antitussive. Clinical and pharmacological studies have reported an expectorant action of vasicine.
 - [Hemostatic](/glossary/pharmacology/#hemostatic) use: traditionally used for Raktapitta. Studies in bleeding models have reported vasoconstriction and increased platelet aggregation with vasicinone.
 - [Antimicrobial](/reference/antimicrobial/) use: traditionally used for respiratory infections. Studies have reported antibacterial activity against common respiratory pathogens (S. pneumoniae, H. influenzae).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Rudrapal M, Vallinayagam S, Aldosari S and others 2023. [Valorization of Adhatoda vasica leaves: Extraction, in vitro analyses and in silico approaches](https://pubmed.ncbi.nlm.nih.gov/37063312/). *Frontiers in nutrition*. PMID [37063312](https://pubmed.ncbi.nlm.nih.gov/37063312/) · [doi:10.3389/fnut.2023.1161471](https://doi.org/10.3389/fnut.2023.1161471)  
   In silico and in vitro studies have reported [bronchodilator](/reference/bronchodilator/) activity for vasicine, with favorable binding to the beta-2 adrenergic receptor and muscarinic M3 receptor antagonism.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

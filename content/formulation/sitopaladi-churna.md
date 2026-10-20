@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Recognized in AYUSH recommended formulations for respiratory conditions. One of the most commonly dispensed respiratory churnas across Indian Ayurvedic hospitals and dispensaries."
 aliases: ["Sitopaladi Churna", "SitopaladiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 472
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sitopaladi-Churna/meta-analysis.md"
@@ -39,19 +39,19 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kasa (cough): traditionally used for cough. A randomized controlled trial reported reduced cough frequency compared with placebo.
 - Allergic respiratory conditions: traditionally used for allergic respiratory conditions. A study reported mast cell stabilizing activity comparable to ketotifen.
 - Respiratory tract infections: traditionally used for respiratory tract infections. Studies have reported antimicrobial activity against common respiratory pathogens.
 - Bronchial asthma and bronchospasm: traditionally used for bronchial asthma and bronchospasm. Studies have reported bronchodilator activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Makhija IK, Shreedhara CS, Ram HN 2013. [Mast cell stabilization potential of Sitopaladi churna: An ayurvedic formulation](https://pubmed.ncbi.nlm.nih.gov/24174826/). *Pharmacognosy research*. PMID [24174826](https://pubmed.ncbi.nlm.nih.gov/24174826/) · [doi:10.4103/0974-8490.118824](https://doi.org/10.4103/0974-8490.118824)  
   Aqueous extract (300 mg/kg) and methanolic extract (150-300 mg/kg) showed 65-74% mast cell degranulation protection, comparable to standard drug ketotifen (79%), with statistical significance (P < 0.0001).
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory disorders (Kasa, Shwasa): traditionally used for cough and breathing complaints. Pharmacological reviews have reported mucolytic, antitussive, and bronchodilatory properties in its constituent herbs.
 - Digestive weakness (Agnimandya): traditionally used for weak digestion. Carminative and digestive-stimulant properties have been reported for piperine, [ginger](/herb/ginger/), and other aromatic constituents.
 - Anthelmintic use (Krimi): traditionally used for worm infestation. Antiparasitic properties have been reported for [Chitrak](/herb/chitrak/) (plumbagin) and [Haritaki](/herb/haritaki/) (tannins).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bhinde SM, Bhinde SS, Kori VK and others 2020. [A compendious review of Chitraka Haritaki Avaleha - A polyherbal Ayurveda formulation for bronchial asthma](https://pubmed.ncbi.nlm.nih.gov/34566379/). *Ayu*. PMID [34566379](https://pubmed.ncbi.nlm.nih.gov/34566379/) · [doi:10.4103/ayu.AYU_340_20](https://doi.org/10.4103/ayu.AYU_340_20)  
   Comprehensive review documenting the formulation's evolution from 9th century Vrindamadhava text to modern practice, with evidence supporting use in bronchial asthma through mucolytic, anti-inflammatory, and bronchodilatory actions.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a digestive aid for nausea, flatulence, and indigestion. Pharmacological studies have reported carminative and [antispasmodic](/glossary/pharmacology/#antispasmodic) effects.
 - Traditionally used for asthma and bronchitis. Studies have reported bronchodilatory effects of 1,8-cineole (eucalyptol).
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 - Blood pressure: a meta-analysis of randomized clinical trials reported reductions in systolic and diastolic blood pressure.
 - Metabolic disorders: randomized clinical trials have reported reductions in TNF-alpha, hs-CRP, and IL-6.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Heydarian A, Tahvilian N, Shahinfar H and others 2024. [Effect of cardamom consumption on inflammation and blood pressure in adults: A systematic review and meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/38268891/). *Food science & nutrition*. PMID [38268891](https://pubmed.ncbi.nlm.nih.gov/38268891/) · [doi:10.1002/fsn3.3738](https://doi.org/10.1002/fsn3.3738)  
   Meta-analysis of 8 RCTs (595 patients) showed cardamom supplementation significantly reduces inflammatory markers (TNF-alpha, hs-CRP, IL-6) and blood pressure (both systolic and diastolic) in patients with metabolic syndrome and related disorders.
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 - Souissi M, Azelmat J, Chaieb K and others 2020. [Antibacterial and anti-inflammatory activities of cardamom (Elettaria cardamomum) extracts: Potential therapeutic benefits for periodontal infections](https://pubmed.ncbi.nlm.nih.gov/31430531/). *Anaerobe*. PMID [31430531](https://pubmed.ncbi.nlm.nih.gov/31430531/) · [doi:10.1016/j.anaerobe.2019.102089](https://doi.org/10.1016/j.anaerobe.2019.102089)  
   Studies have reported antibacterial and anti-inflammatory properties of cardamom extracts, with possible relevance to periodontal infections.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

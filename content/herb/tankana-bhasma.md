@@ -42,17 +42,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory disorders (Kasa, Shwasa): traditionally used for cough and bronchitis. Animal studies have reported anti-inflammatory activity, with decreased TNF-alpha and IL-6.
 - Skin disorders and acne: traditionally applied topically for skin disorders and acne. A dermatological study reported reduced acne severity.
 - Dysmenorrhea (Kashtartava): traditionally used for its emmenagogue action, based on traditional clinical observation. It is contraindicated in pregnancy.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

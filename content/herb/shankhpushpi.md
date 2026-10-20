@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhpushpi/meta-anal
 - Dual mechanism: Exerts [nootropic](/glossary/pharmacology/#nootropic) effects through combined anti-AChE and antioxidant action.
 - Key active constituents: Scopoletin, [quercetin](/reference/quercetinquercetin/), 4-hydroxycinnamic acid, ayapanin, convolamine, and [kaempferol](/reference/kaempferol/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma R, Singla RK, Banerjee S and others 2022. [Role of Shankhpushpi (Convolvulus pluricaulis) in neurological disorders: An umbrella review covering evidence from ethnopharmacology to clinical studies](https://pubmed.ncbi.nlm.nih.gov/35878793/). *Neuroscience and biobehavioral reviews*. PMID [35878793](https://pubmed.ncbi.nlm.nih.gov/35878793/) · [doi:10.1016/j.neubiorev.2022.104795](https://doi.org/10.1016/j.neubiorev.2022.104795)  
 Traditionally used as an [antispasmodic](/glossary/pharmacology/#antispasmodic) and [analgesic](/reference/analgesic/), and for inflammation, anxiety and memory. An umbrella review of neuropharmacological studies reported antispasmodic, analgesic, anti-inflammatory, anti-anxiety and memory-boosting effects. The review noted a need for multicentric clinical trials across diverse populations.
@@ -45,7 +45,7 @@ Traditionally used as an [antispasmodic](/glossary/pharmacology/#antispasmodic) 
 - Karunakaran KB, Thiyagaraj A, Santhakumar K 2022. [Novel insights on acetylcholinesterase inhibition by Convolvulus pluricaulis, scopolamine and their combination in zebrafish](https://pubmed.ncbi.nlm.nih.gov/35212831/). *Natural products and bioprospecting*. PMID [35212831](https://pubmed.ncbi.nlm.nih.gov/35212831/) · [doi:10.1007/s13659-022-00332-5](https://doi.org/10.1007/s13659-022-00332-5)  
   Zebrafish model demonstrated that C. pluricaulis treatment inhibits AChE activity comparable to standard AChE inhibitors. CP was superior as evidenced by retention of avoidance response behavior in adult zebrafish.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali and Sahasrayogam. Manufactured by licensed Ayurvedic pharmacies under GMP standards. Quality markers include presence of anthraquinones from Manjistha."
 aliases: ["Pinda Thailam", "PindaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 456
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Pinda-Thailam/meta-analysis.md"
@@ -38,15 +38,15 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Inflammatory skin conditions (psoriasis, eczema): traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory anthraquinones and [phytosterols](/glossary/compounds-o-q/#phytosterols) in [Manjistha](/herb/manjistha/) and [Sariva](/herb/sariva/).
 - Gout and inflammatory joint conditions: traditionally used for these conditions. A clinical study of oil-based therapy reported reduced pain in knee osteoarthritis.
 - Post-stroke rehabilitation (Pinda Sveda therapy): used in classical practice in post-stroke care. A randomized controlled trial of oil poultice sessions reported improved muscle strength in hemiparetic patients.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

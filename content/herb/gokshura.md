@@ -34,12 +34,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 - [Saponins](/reference/saponins/) suppress angiotensin II-induced vascular smooth muscle cell proliferation via inhibition of intracellular ROS production (antihyperlipidemic/antiatherosclerotic effect).
 - Saponins exhibit cytotoxic effects on cancer cell lines through multiple pathways.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Vilar Neto JO, de Moraes WMAM, Pinto DV and others 2025. [Effects of Tribulus (Tribulus terrestris L.) Supplementation on Erectile Dysfunction and Testosterone Levels in Men-A Systematic Review of Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/40219032/). *Nutrients*. PMID [40219032](https://pubmed.ncbi.nlm.nih.gov/40219032/) · [doi:10.3390/nu17071275](https://doi.org/10.3390/nu17071275)  
   Systematic review of 10 eligible studies (9 clinical trials + 1 quasi-experimental) from 162 screened articles. Jadad score revealed low methodological quality for 50% of studies, highlighting need for higher-quality trials.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

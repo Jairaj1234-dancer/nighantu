@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cardiovascular use (Hridya, Raktachapa-hara): traditionally used for the heart and blood pressure. Clinical studies have reported reductions in blood pressure, cholesterol, and platelet aggregation.
 - Antimicrobial use (Krimighna): traditionally used against infections. Studies have reported activity against a broad range of pathogens, including antibiotic-resistant bacteria (MRSA).
 - [Antidiabetic](/reference/antidiabetic/) use: traditionally used in this role. Clinical studies in people with type 2 diabetes have reported improved insulin sensitivity and lower fasting blood [glucose](/glossary/compounds-d-g/#glucose).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
   Identified bioactive compounds in garlic byproducts (skin, stem); documented novel applications in food preservation and pharmaceutical formulations.
 - Tudu CK, Dutta T, Ghorai M and others 2022. [Traditional uses, phytochemistry, pharmacology and toxicology of garlic (Allium sativum), a storehouse of diverse phytochemicals: A review of research from the last decade focusing on health and nutritional implications](https://pubmed.ncbi.nlm.nih.gov/36386956/). *Frontiers in nutrition*. PMID [36386956](https://pubmed.ncbi.nlm.nih.gov/36386956/) · [doi:10.3389/fnut.2022.929554](https://doi.org/10.3389/fnut.2022.929554)  
   Decade-long review confirming garlic's multi-target pharmacological activities including antihyperlipidemic, [antihypertensive](/glossary/pharmacology/#antihypertensive), anti-obesity, antimicrobial, and anti-Alzheimer activities.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

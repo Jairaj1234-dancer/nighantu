@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I. Primary reference in Bhaishajya Ratnavali. Also documented in Sahasrayogam (South Indian tradition). Manufactured by major licensed pharmacies (Kottakkal AVS, AVP, Nagarjuna) under AYUSH GMP certification."
 aliases: ["Maha Narayana Thailam", "MahaNarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 469
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Narayana-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Osteoarthritis and joint pain: traditionally applied through Abhyanga for these conditions. A study reported reduced symptoms with Abhyanga.
 - Vata-vyadhi (neuromuscular disorders) including paralysis, muscular atrophy, and tremors: traditionally used for these conditions. Pharmacological studies have reported compounds with [neuroprotective](/reference/neuroprotective/) and anti-inflammatory activity.
 - Bone and joint strengthening (Asthi-Sandhi Balya): traditionally used to strengthen bones and joints. Research has reported [phytosterols](/glossary/compounds-o-q/#phytosterols) and calcium-channel active compounds from [Dashamoola](/herb/dashamoola/) and [Ashwagandha](/herb/ashwagandha/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

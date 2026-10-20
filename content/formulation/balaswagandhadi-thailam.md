@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Primary reference in Sahasrayogam. Manufactured by licensed Ayurvedic pharmacies (Kottakkal AVS, Kerala Ayurveda, Sitaram) under AYUSH GMP certification."
 aliases: ["Balaswagandhadi Thailam", "BalaswagandhadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 635
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Balaswagandhadi-Thailam/meta-analysis.md"
@@ -49,18 +49,18 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Muscle weakness and general debility recovery: traditionally used for these conditions as daily abhyanga. A clinical study reported reduced pain scores with daily abhyanga.
 - Post-illness recovery and Dhatukshaya (tissue depletion): traditionally used for these conditions. A GC-MS analysis identified [phytosterols](/glossary/compounds-o-q/#phytosterols) and vitamin E in the formulation.
 - Neuralgia and neuromuscular pain conditions: traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory and neuromuscular-strengthening properties linked to [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sudhan A, Prabhu K, Jones S and others 2024. [GC-MS Analysis of the Ayurvedic Oil Balaswagandhadi Tailam](https://pubmed.ncbi.nlm.nih.gov/40061637/). *Journal of pharmacy & bioallied sciences*. PMID [40061637](https://pubmed.ncbi.nlm.nih.gov/40061637/) · [doi:10.4103/jpbs.jpbs_839_24](https://doi.org/10.4103/jpbs.jpbs_839_24)  
   A GC-MS study identified compounds in the traditional formulation, including vitamin E, campesterol, gamma-sitosterol, beta-eudesmol, and multiple fatty acid esters.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

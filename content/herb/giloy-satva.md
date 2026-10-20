@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as Amrita (divine nectar) for immunity, with [Rasayana](/reference/rasayana/) properties. Preclinical and clinical studies have reported immunomodulatory activity.
 - Traditionally used for Jwara (fever), including Vishama Jwara (intermittent/malarial fever). [Antipyretic](/reference/antipyretic/) activity has been reported in clinical studies in various febrile conditions.
 - Traditionally used for Prameha (diabetes). Clinical trials have reported improvement in glycemic parameters.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh J, Saxena E, Chaudhary AR and others 2025. [Immunomodulatory properties of Giloy (Tinospora cordifolia) leaves and its applications in value-added products](https://pubmed.ncbi.nlm.nih.gov/39758376/). *Heliyon*. PMID [39758376](https://pubmed.ncbi.nlm.nih.gov/39758376/) · [doi:10.1016/j.heliyon.2024.e40948](https://doi.org/10.1016/j.heliyon.2024.e40948)  
   Demonstrated immunomodulatory properties through NF-kB pathway modulation and interleukin regulation, with applications in functional food product development.
 - Gupta A, Gupta P, Bajpai G 2024. [Tinospora cordifolia (Giloy): An insight on the multifarious pharmacological paradigms of a most promising medicinal ayurvedic herb](https://pubmed.ncbi.nlm.nih.gov/38390130/). *Heliyon*. PMID [38390130](https://pubmed.ncbi.nlm.nih.gov/38390130/) · [doi:10.1016/j.heliyon.2024.e26125](https://doi.org/10.1016/j.heliyon.2024.e26125)  
   Comprehensive review documenting significant immunomodulatory, antioxidant, anti-inflammatory, antidiabetic, hepatoprotective, antibacterial, [anticancer](/reference/anticancer/), and [neuroprotective](/reference/neuroprotective/) properties of the plant.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

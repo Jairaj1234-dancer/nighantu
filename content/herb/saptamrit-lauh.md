@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation; referenced in multiple classical texts including Rasaratna Samuchaya and Bhavaprakasha Nighantu"
 aliases: ["Saptamrit Lauh", "SaptamritLauh"]
 tags: ["ayurveda", "loha", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 497
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Saptamrit-Lauh/meta-analysis.md"
@@ -40,19 +40,19 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hemorrhagic retinopathies (diabetic and hypertensive): traditionally used for these conditions. A clinical study reported rapid absorption of hemorrhage and less recurrence.
 - Myopia and visual disorders (Timira): traditionally used for these conditions. A comparative clinical study reported improved visual acuity with [Saptamrit Lauh](/herb/saptamrit-lauh/) therapy.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma KR, Bhatia RP, Kumar V 1992. [Role of the indigenous drug saptamrita lauha in hemorrhagic retinopathies](https://pubmed.ncbi.nlm.nih.gov/1543325/). *Annals of ophthalmology*. PMID [1543325](https://pubmed.ncbi.nlm.nih.gov/1543325/)  
   Study on 48 eyes showed rapid absorption of retinal hemorrhages (mean 16-17 days); recurrence was 25% in treated groups vs 50-60% in controls for both diabetic and hypertensive retinopathy
 - Bansal C 2014. [Comparative study on the effect of Saptamrita Lauha and Yoga therapy in myopia](https://pubmed.ncbi.nlm.nih.gov/25364195/). *Ayu*. PMID [25364195](https://pubmed.ncbi.nlm.nih.gov/25364195/) · [doi:10.4103/0974-8520.141904](https://doi.org/10.4103/0974-8520.141904)  
   60 patients (age 8-30 years) receiving Saptamrita Lauha 250 mg twice daily showed improvement in myopic refractive error and visual acuity
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -63,13 +63,6 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 - Heavy metal testing should confirm compliance with Ayurvedic Pharmacopoeia of India (API) limits; purchase only from licensed GMP-certified manufacturers
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 

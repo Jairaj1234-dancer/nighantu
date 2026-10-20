@@ -127,7 +127,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 **Keywords:** DNA damage, Momordica charantia, anticancer, apoptosis, bitter melon, medicinal applications.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Zhang X, Zhao Y, Song Y and others 2024. [Effects of Momordica charantia L. supplementation on glycemic control and lipid profile in type 2 diabetes mellitus patients: A systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/38784554/). *Heliyon*. PMID [38784554](https://pubmed.ncbi.nlm.nih.gov/38784554/) · [doi:10.1016/j.heliyon.2024.e31126](https://doi.org/10.1016/j.heliyon.2024.e31126)  
   Meta-analysis of RCTs found M. charantia supplementation reduced FPG, PPG, and HbA1c in T2DM patients, though evidence quality was low to very low for primary outcomes.

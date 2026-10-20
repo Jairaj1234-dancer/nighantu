@@ -51,19 +51,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for diarrhea and dysentery. Preclinical studies have reported antimicrobial and anti-motility activity.
 - Traditionally used for peptic ulcer. Preclinical studies in aspirin- and ethanol-induced ulcer models have reported anti-ulcer activity.
 - Traditionally used to protect the liver. Preclinical studies in CCl4-induced liver damage models have reported restoration of liver function markers.
 - Traditionally used for respiratory ailments. Preclinical studies have reported antihistaminic and bronchodilatory effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mohanty S, Pattnaik A 2025. [Ethnobotanical Significance, Phytopharmacology, and Toxicological Profile of Limonia acidissima L. (Rutaceae): A Review](https://pubmed.ncbi.nlm.nih.gov/38676498/). *Combinatorial chemistry & high throughput screening*. PMID [38676498](https://pubmed.ncbi.nlm.nih.gov/38676498/) · [doi:10.2174/0113862073285538240417051928](https://doi.org/10.2174/0113862073285538240417051928)  
   Comprehensive review documented [anticancer](/reference/anticancer/), antidiabetic, anti-diarrheal, antimicrobial, antiulcer, wound healing, antioxidant, hepatoprotective, [neuroprotective](/reference/neuroprotective/), antispermatogenic, [diuretic](/reference/diuretic/), and adsorbent activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

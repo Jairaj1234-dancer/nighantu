@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I (Stree Rogadhikara section). Described in Bhaishajya Ratnavali as a primary formulation for female disorders. Recognized by the Ministry of AYUSH as a standard Ayurvedic medicine. Widely manufactured under GMP compliance by licensed Ayurvedic pharmacies."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 610
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Ashokarishta/meta-analysis.md"
@@ -39,21 +39,21 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Menorrhagia: traditionally used for menorrhagia. A clinical study reported a significant reduction in menorrhagia.
 - Menopausal syndrome: traditionally used for menopausal symptoms. A clinical evaluation reported significant symptom improvement.
 - Uterine leiomyoma-associated bleeding: traditionally used for bleeding associated with uterine leiomyoma.
 - Uterine tonic and postpartum recovery: traditionally used as a uterine tonic and for postpartum recovery. Pharmacological studies have reported regulation of uterine smooth muscle.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Rajput S, Mata S, Saxena U and others 2025. [Ayurveda Management of Menorrhagia (Raktapradara): Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/40163851/). *JMIR research protocols*. PMID [40163851](https://pubmed.ncbi.nlm.nih.gov/40163851/) · [doi:10.2196/60801](https://doi.org/10.2196/60801)  
   Ongoing RCT with 79 patients enrolled as of December 2024. Treatment group receives 20 mL Ashokarishta with 250 mg Trinakantamani pishti and iron/folic acid tablets twice daily for 3 months. Data analysis expected by February 2026.
 - Modi MB, Donga SB, Dei L 2012. [Clinical evaluation of Ashokarishta, Ashwagandha Churna and Praval Pishti in the management of menopausal syndrome](https://pubmed.ncbi.nlm.nih.gov/23723668/). *Ayu*. PMID [23723668](https://pubmed.ncbi.nlm.nih.gov/23723668/) · [doi:10.4103/0974-8520.110529](https://doi.org/10.4103/0974-8520.110529)  
   Combined Ashokarishta regimen showed statistically significant improvement in menopausal symptoms including hot flashes, mood disturbances, and hormonal parameters.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -65,7 +65,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:5. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 114-116.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:5. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 114-116.
 
 **Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from [Ashoka](/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
 

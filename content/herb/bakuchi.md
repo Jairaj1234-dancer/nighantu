@@ -46,21 +46,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vitiligo (Shvitra/Kilasa): traditionally used for vitiligo. Clinical case studies have reported on PUVA therapy using psoralen as a photosensitizer.
 - Psoriasis (Ekakushtha): traditionally used for psoriasis. Psoralen-UVA combination therapy is used in dermatology and is described as derived from traditional Bakuchi use.
 - Anti-aging and photoprotection: double-blind clinical trials have reported bakuchiol as comparable to retinol for wrinkle reduction, pigmentation, and skin firmness.
 - Wound healing: traditionally applied topically to wounds. Preclinical studies have reported enhanced collagen synthesis and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Dhaliwal S, Rybak I, Ellis SR and others 2019. [Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing](https://pubmed.ncbi.nlm.nih.gov/29947134/). *The British journal of dermatology*. PMID [29947134](https://pubmed.ncbi.nlm.nih.gov/29947134/) · [doi:10.1111/bjd.16918](https://doi.org/10.1111/bjd.16918)  
   Bakuchiol is comparable with retinol in its ability to improve photoageing including wrinkles, pigmentation, elasticity, firmness, and overall photodamage, with significantly better tolerability and fewer side effects than retinol.
 - Bluemke A, Ring AP, Immeyer J and others 2022. [Multidirectional activity of bakuchiol against cellular mechanisms of facial ageing - Experimental evidence for a holistic treatment approach](https://pubmed.ncbi.nlm.nih.gov/35514037/). *International journal of cosmetic science*. PMID [35514037](https://pubmed.ncbi.nlm.nih.gov/35514037/) · [doi:10.1111/ics.12784](https://doi.org/10.1111/ics.12784)  
   Bakuchiol demonstrated holistic anti-aging treatment through stimulation of collagen I, III and IV synthesis, MMP-1 suppression, [antioxidant](/reference/antioxidant/) activity, and modulation of multiple skin aging pathways simultaneously.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

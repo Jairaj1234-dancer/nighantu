@@ -19,10 +19,9 @@ productHints: []
 words: 285
 srcRel: "_Hub/Pharmacology/Immunomodulatory.md"
 ---
-*314 herbs and compounds with immunomodulatory activity across traditions*
+*38 herbs and compounds with immunomodulatory activity*
 
-## Ayurveda (143)
-
+## Ayurveda (38)
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
 - [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)

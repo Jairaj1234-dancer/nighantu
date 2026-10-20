@@ -48,18 +48,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as Asthi Sandhanaka (bone setter) for bone fractures. Clinical studies and a meta-analysis reported improvement in bone biomarkers.
 - Clinical studies have reported weight and body fat reduction with supplementation of an extract of the herb.
 - Traditionally used for pain and musculoskeletal conditions. In vivo studies have reported analgesic and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Na Takuathung M, Aisara J, Sawong S and others 2025. [The effects of Cissus quadrangularis on bone-related biomarkers in humans: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40707943/). *BMC complementary medicine and therapies*. PMID [40707943](https://pubmed.ncbi.nlm.nih.gov/40707943/) · [doi:10.1186/s12906-025-04995-8](https://doi.org/10.1186/s12906-025-04995-8)  
   Meta-analysis of human studies confirmed that Cissus quadrangularis supplementation significantly improved bone-related biomarkers including alkaline phosphatase and calcium levels, promoting bone healing and density improvement.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

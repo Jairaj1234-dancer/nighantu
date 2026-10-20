@@ -45,13 +45,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Amavata: traditionally used in classical practice for this condition. Animal studies using carrageenan, formaldehyde, and adjuvant arthritis models have reported anti-arthritic and anti-inflammatory activity.
 - Vedana-sthapana: traditionally used for pain. Animal studies using central and peripheral pain models (hot plate, acetic acid writhing, formalin test) have reported analgesic activity.
 - [Hepatoprotective](/reference/hepatoprotective/) use: animal studies of carbon tetrachloride-induced liver toxicity have reported lower AST and ALT levels and restored liver architecture.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Phate PV, Patil AS 2026. [Vitex negundo Linn.: A decade of advances in phytochemistry, pharmacological activities, and biotechnological interventions (2015-2025) - A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/41650524/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [41650524](https://pubmed.ncbi.nlm.nih.gov/41650524/) · [doi:10.1016/j.phymed.2026.157895](https://doi.org/10.1016/j.phymed.2026.157895)  
   Comprehensive 10-year review covering phytochemistry, pharmacology, analytical standardization, and biotechnological advancements; confirmed multi-target therapeutic potential.

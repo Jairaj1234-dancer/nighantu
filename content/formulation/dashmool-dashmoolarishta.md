@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I and Part II. Dashamoola is one of the most fundamental herbal groups (Gana) in Ayurvedic pharmacology. Referenced in the National Formulary of Ayurvedic Medicine (Bangladesh, 2011). Widely recognized across all Indian state pharmacopoeias."
 aliases: ["Dashmool Dashmoolarishta", "DashmoolDashmoolarishta"]
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 677
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashmool-Dashmoolarishta/meta-analysis.md"
@@ -45,21 +45,21 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Postpartum care and recovery: traditionally used in postpartum care and recovery.
 - Osteoarthritis and joint pain: traditionally used for osteoarthritis and joint pain. An animal study in an MIA-induced osteoarthritis mouse model reported improvement in pain and joint pathology.
 - Inflammatory conditions and pain: traditionally used for inflammatory conditions and pain. Experimental studies have reported analgesic and anti-inflammatory activity.
 - Cervicitis and gynecological inflammation: traditionally used for cervicitis and gynecological inflammation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Parekar RR, Bolegave SS, Marathe PA and others 2015. [Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola](https://pubmed.ncbi.nlm.nih.gov/25878458/). *Journal of Ayurveda and integrative medicine*. PMID [25878458](https://pubmed.ncbi.nlm.nih.gov/25878458/) · [doi:10.4103/0975-9476.146565](https://doi.org/10.4103/0975-9476.146565)  
   [Dashamoola](/herb/dashamoola/) in arishta and kwath forms is traditionally used for pain and arthritis. Studies of these forms have reported analgesic, anti-inflammatory, and anti-platelet effects.
 - Shetty YC, Godbharle S, Brahma S and others 2017. [Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis](https://pubmed.ncbi.nlm.nih.gov/29040066/). *Journal of basic and clinical physiology and pharmacology*. PMID [29040066](https://pubmed.ncbi.nlm.nih.gov/29040066/) · [doi:10.1515/jbcpp-2016-0141](https://doi.org/10.1515/jbcpp-2016-0141)  
   Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Catechin.md"
 group: ""
-answer: "Catechin is a reference entry in the Nighantu. Found in 43 entries across the catalogue."
+answer: "Catechin is a reference entry in the Nighantu. Found in 33 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 229
 srcRel: "_Hub/Compounds/Catechin.md"
 ---
-*Found in 43 entries across the catalogue*
+*Found in 33 entries*
 
 ## Ayurveda
 

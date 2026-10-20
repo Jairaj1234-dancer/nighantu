@@ -80,7 +80,7 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 - Ashtanga Hridaya
 - Bhavaprakasha Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ramesh P, Palaniappan A 2023. [Terminalia arjuna, a Cardioprotective Herbal Medicine-Relevancy in the Modern Era of Pharmaceuticals and Green Nanomedicine-A Review](https://pubmed.ncbi.nlm.nih.gov/36678623/). *Pharmaceuticals (Basel, Switzerland)*. PMID [36678623](https://pubmed.ncbi.nlm.nih.gov/36678623/) · [doi:10.3390/ph16010126](https://doi.org/10.3390/ph16010126)  
   Review examining T. arjuna's pleiotropic cardiovascular effects including anti-atherogenic, hypotensive, inotropic, anti-inflammatory, anti-thrombotic and antioxidant actions, with exploration of nano-formulation approaches for improved bioavailability.
@@ -91,7 +91,7 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 - Maulik SK, Wilson V, Seth S and others 2016. [Clinical efficacy of water extract of stem bark of Terminalia arjuna (Roxb. ex DC.) Wight & Arn. in patients of chronic heart failure: a double-blind, randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/26988798/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [26988798](https://pubmed.ncbi.nlm.nih.gov/26988798/) · [doi:10.1016/j.phymed.2016.02.007](https://doi.org/10.1016/j.phymed.2016.02.007)  
   When added to standard pharmacotherapy in chronic heart failure for 12 weeks, Arjuna extract showed no significant change in LVEF but improved functional capacity, antioxidant reserves, and symptom-related quality of life. (Most recent large RCT available)
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

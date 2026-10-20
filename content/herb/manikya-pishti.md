@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Immunostimulation and tuberculosis (Rajayakshma): traditionally used to enhance immunity and for Rajayakshma. Studies on ruby nanoparticles have reported anticancer, apoptotic and immunomodulatory activity.
 - Cognitive enhancement and neuroprotection: traditionally used for improving Buddhi (intellect) and Smriti (memory). Preclinical studies have reported neuroprotective effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jha S, Trivedi V 2021. [Manikya Bhasma is a nanomedicine to affect cancer cell viability through induction of apoptosis](https://pubmed.ncbi.nlm.nih.gov/33358658/). *Journal of Ayurveda and integrative medicine*. PMID [33358658](https://pubmed.ncbi.nlm.nih.gov/33358658/) · [doi:10.1016/j.jaim.2020.11.001](https://doi.org/10.1016/j.jaim.2020.11.001)  
   Manikya Bhasma (70nm particles) reduced viability of MDAMB-231, HeLa, HCT-116, DLD-1, and MG-63 cancer cells with IC50 of 105.73-155.47 micrograms/ml. Cell death followed mitochondrial-dependent apoptosis involving loss of mitochondrial membrane potential, cytochrome c release, caspase activation, and DNA degradation.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

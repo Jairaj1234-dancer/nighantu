@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Referenced in Charaka Samhita and Bhaishajya Ratnavali. Recognized by PCIM&H. Available in AYUSH-approved manufacturing standards."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 383
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Saraswatarishta/meta-analysis.md"
@@ -38,16 +38,16 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Memory enhancement and cognitive support: traditionally used for memory and cognitive support. Animal studies in mice and a clinical study have reported effects on memory.
 - Speech disorders and stuttering in children: traditionally used for speech disorders and stuttering in children.
 - Anxiety and mental fatigue: traditionally used for anxiety and mental fatigue. Research has reported GABA and [serotonin](/glossary/compounds-q-t/#serotonin) modulation.
 - Epilepsy (adjunct): traditionally used as an adjunct in epilepsy. A network pharmacology analysis has reported pathways linked to anticonvulsant activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -58,7 +58,7 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 12 to 24 ml with equal water for brain health, as given in the Ayurvedic Formulary of India, Part I, entry 1:36. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Rasayanadhikara; 178-184.
+**Standard Dosage:** 12 to 24 ml with equal water for brain health, as given in the Ayurvedic Formulary of India, Part I, entry 1:36. The formulary attributes this formula to Bhaisajyaratnavali, Rasayanadhikara; 178-184.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

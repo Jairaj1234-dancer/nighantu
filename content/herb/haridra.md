@@ -67,7 +67,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vranaropana (wound care): traditionally used for wounds. A scoping review of clinical trials reported faster wound closure, greater collagen deposition and increased vascular density.
 - Ekakushtha (psoriasis): traditionally used for Ekakushtha. A randomized controlled trial reported that a [curcumin](/herb/curcumin/) microemulgel improved psoriasis severity scores and quality of life.
@@ -85,7 +85,7 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 - Bhavaprakasha Nighantu
 - Ashtanga Hridaya
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mo Z, Yuan J, Guan X and others 2024. [Advancements in Dermatological Applications of Curcumin: Clinical Efficacy and Mechanistic Insights in the Management of Skin Disorders](https://pubmed.ncbi.nlm.nih.gov/38765192/). *Clinical, cosmetic and investigational dermatology*. PMID [38765192](https://pubmed.ncbi.nlm.nih.gov/38765192/) · [doi:10.2147/CCID.S467442](https://doi.org/10.2147/CCID.S467442)  
   Comprehensive review demonstrated [curcumin](/herb/curcumin/)'s significant potential for atopic dermatitis, psoriasis, chronic wounds, skin cancer, and infections through anti-inflammatory, antioxidant, [anticancer](/reference/anticancer/), and antimicrobial mechanisms with improved PASI scores in psoriasis patients.
@@ -94,7 +94,7 @@ Used in virtually every Ayurvedic formulation. Sacred in Hindu rituals. Classifi
 - Nie Y, Li Y 2025. [Curcumin: a potential anti-photoaging agent](https://pubmed.ncbi.nlm.nih.gov/40395726/). *Frontiers in pharmacology*. PMID [40395726](https://pubmed.ncbi.nlm.nih.gov/40395726/) · [doi:10.3389/fphar.2025.1559032](https://doi.org/10.3389/fphar.2025.1559032)  
   Curcumin prevents ultraviolet radiation-induced skin photoaging by inhibiting melanin production, reducing wrinkles, providing antioxidant protection, and suppressing inflammatory responses through multiple molecular targets.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

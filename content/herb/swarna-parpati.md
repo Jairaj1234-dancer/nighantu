@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Classical Rasashastra Parpati Kalpana formulation from Rasa Tarangini; classified as Schedule E-1 restricted medicine; manufactured by select licensed Ayurvedic pharmacies with Rasashastra expertise; expensive formulation due to gold content"
 aliases: ["Swarna Parpati", "SwarnaParpati"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 539
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Parpati/meta-analysis.md"
@@ -40,19 +40,19 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rajayakshma (tuberculosis/chronic wasting diseases): traditionally used for this condition, which is its primary classical indication. Safety studies have reported immunomodulatory properties of gold nanoparticles, which are traditionally regarded as Rasayana.
 - Chronic bronchial diseases and respiratory conditions: traditionally used for these conditions. Preclinical studies have reported anti-inflammatory and immunoenhancing properties of [Swarna Bhasma](/herb/swarna-bhasma/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
   Cumulative intake of 160 mg gold at 4 mg/day showed no toxic effects on human body as evidenced by clinical examination, stable body weight, absence of urinary pathology, and normal results on 30 biochemical and enzymatic tests
 - Paul W, Sharma CP 2011. [Blood compatibility studies of Swarna bhasma (gold bhasma), an Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/21897638/). *International journal of Ayurveda research*. PMID [21897638](https://pubmed.ncbi.nlm.nih.gov/21897638/) · [doi:10.4103/0974-7788.83183](https://doi.org/10.4103/0974-7788.83183)  
   [Swarna Bhasma](/herb/swarna-bhasma/) found safe at all tested levels with no significant treatment-related clinical signs; demonstrated blood compatibility
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

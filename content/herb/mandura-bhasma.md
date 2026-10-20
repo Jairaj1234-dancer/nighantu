@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron-deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin levels, with no adverse effects reported.
 - Menstrual disorders (Raktapradar): traditionally used for this condition. A clinical study in women reported reduced menstrual blood loss.
 - Liver and spleen enlargement (Yakrit-Pleeha Vikara): traditionally used for this condition. Preclinical studies have reported hepatoprotective activity and reticuloendothelial support.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mulik SB, Jha CB 2011. [Physicochemical characterization of an Iron based Indian traditional medicine: Mandura Bhasma](https://pubmed.ncbi.nlm.nih.gov/23284206/). *Ancient science of life*. PMID [23284206](https://pubmed.ncbi.nlm.nih.gov/23284206/)  
   Iron oxide nanoparticles confirmed by XRD and SEM analysis. Particle size and iron oxide phases characterized, providing basis for standardization and quality control.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -49,19 +49,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kushtha (skin disease): traditionally used for skin disease. Studies have reported antimicrobial activity against dermatophytes and skin pathogens, as well as anti-inflammatory activity.
 - Traditionally used for hemorrhoids. Preclinical studies have reported anti-inflammatory and wound-healing activity.
 - In vitro studies have reported anthelmintic activity against Pheretima posthuma and Ascaridia galli.
 - Traditionally used for inflammation. Animal studies have reported anti-inflammatory activity in carrageenan-induced paw edema and cotton pellet granuloma models.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Al Muqarrabun LM, Ahmat N, Ruzaina SA and others 2013. [Medicinal uses, phytochemistry and pharmacology of Pongamia pinnata (L.) Pierre: a review](https://pubmed.ncbi.nlm.nih.gov/24016802/). *Journal of ethnopharmacology*. PMID [24016802](https://pubmed.ncbi.nlm.nih.gov/24016802/) · [doi:10.1016/j.jep.2013.08.041](https://doi.org/10.1016/j.jep.2013.08.041)  
   Furanoflavonoid karanjin showed potent anti-inflammatory and [analgesic](/reference/analgesic/) activities through COX-2 selective inhibition and modulation of arachidonic acid cascade.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

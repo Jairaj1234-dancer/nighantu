@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a digestive and carminative. Preclinical studies have reported spasmolytic and gastroprotective activity.
 - [Antiemetic](/glossary/pharmacology/#antiemetic) (Chardi-nashaka) use is described in traditional practice. Studies have reported 5-HT3 receptor modulation.
 - Traditionally used for voice and throat care. Fruit preparations are traditionally described as demulcent and anti-inflammatory.
 - [Cardioprotective](/reference/cardioprotective/) use is described in traditional practice. Preclinical studies have reported [antioxidant](/reference/antioxidant/) and anti-hyperlipidemic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chhikara N , Kour R , Jaglan S  and others 2018. [Citrus medica: nutritional, phytochemical composition and health benefits - a review](https://pubmed.ncbi.nlm.nih.gov/29594287/). *Food & function*. PMID [29594287](https://pubmed.ncbi.nlm.nih.gov/29594287/) · [doi:10.1039/c7fo02035j](https://doi.org/10.1039/c7fo02035j)  
   Documented anti-catarrhal, capillary protector, [antihypertensive](/glossary/pharmacology/#antihypertensive), [diuretic](/reference/diuretic/), cardioprotective, strong antioxidant and anticancer activities attributed to [polyphenols](/glossary/compounds-o-q/#polyphenols), [flavonoids](/reference/flavonoids/) and terpenes.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

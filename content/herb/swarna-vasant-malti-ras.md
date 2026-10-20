@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rejuvenative and [immunomodulatory](/reference/immunomodulatory/): traditionally used as a Rasayana (rejuvenative). A clinical study reported systemic bioavailability of gold and no acute toxicity. Larger controlled trials are needed.
 - Chronic fever and respiratory conditions: traditionally used for Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) in clinical practice. Rigorous clinical trials of these uses are lacking.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma DC, Jha J, Sharma P and others 2001. [Evaluation of safety and efficacy of a gold containing Ayurvedic drug](https://pubmed.ncbi.nlm.nih.gov/11831371/). *Indian journal of experimental biology*. PMID [11831371](https://pubmed.ncbi.nlm.nih.gov/11831371/)  
   20 male individuals taking 100 mg twice daily for 40 days (cumulative gold intake: 160 mg at 4 mg/day) showed no toxic effects based on clinical examination, unaltered body weight, absence of urinary pathology, and 30 sensitive biochemical and enzymatic tests. Gold was found in plasma, erythrocytes, and semen.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

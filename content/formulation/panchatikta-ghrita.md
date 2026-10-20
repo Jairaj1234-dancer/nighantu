@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Panchatikta Guggulu Ghrita in Ayurvedic Pharmacopoeia of India (API); standard quality parameters established for manufacturing"
 aliases: ["Panchatikta Ghrita", "PanchatiktaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 421
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatikta-Ghrita/meta-analysis.md"
@@ -39,18 +39,18 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Ma
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kushta (skin diseases including psoriasis, eczema): traditionally used for these skin conditions. Multicenter clinical trials have reported improvement when it was combined with supportive therapies.
 - Raktapitta (bleeding disorders): traditionally used for its blood-purifying and pitta-pacifying action.
 - Vrana (non-healing ulcers): traditionally used topically and internally for chronic wounds.
 - Snehapana (Panchakarma oleation): used in classical practice as a preparatory medium before Virechana in dermatological conditions.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

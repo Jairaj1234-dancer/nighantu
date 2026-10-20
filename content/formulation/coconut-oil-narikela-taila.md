@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kesha (hair health) and Khalitya (hair loss): traditionally used for hair health and hair loss. Scalp microbiome studies have reported antimicrobial activity against Malassezia fungi, which are linked to dandruff.
 - Daha and Pitta disorders (burning/inflammatory conditions): traditionally valued for its cooling virya. Used in classical practice for Pitta skin conditions and in Abhyanga.
 - Kavala/Gandusha (oil pulling): traditionally used for oil pulling with [coconut oil](/glossary/concepts-a-m/#coconut-oil). A randomized clinical study reported lower levels of periodontal pathogens and less oral inflammation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Pardiñas López S, García-Caro ME, Vallejo JA and others 2025. [Anti-inflammatory and antimicrobial efficacy of coconut oil for periodontal pathogens: a triple-blind randomized clinical trial](https://pubmed.ncbi.nlm.nih.gov/40085302/). *Clinical oral investigations*. PMID [40085302](https://pubmed.ncbi.nlm.nih.gov/40085302/) · [doi:10.1007/s00784-025-06267-8](https://doi.org/10.1007/s00784-025-06267-8)  
   Triple-blind RCT confirmed virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil) (47.92% lauric acid) demonstrated significant antimicrobial efficacy against periodontal pathogens and anti-inflammatory benefits in oral health.
 - M A, I MA, Ramalingam K and others 2024. [Biomedical Applications of Lauric Acid: A Narrative Review](https://pubmed.ncbi.nlm.nih.gov/39036266/). *Cureus*. PMID [39036266](https://pubmed.ncbi.nlm.nih.gov/39036266/) · [doi:10.7759/cureus.62770](https://doi.org/10.7759/cureus.62770)  
   Lauric acid disrupts bacterial, fungal, and viral cell membranes, leading to pathogen death; monolaurin (derived from lauric acid) has broad-spectrum antimicrobial activity including against MRSA, Helicobacter pylori, and Candida albicans.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

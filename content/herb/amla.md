@@ -83,7 +83,7 @@ One of the three fruits in [Triphala](/herb/triphala/). Classified as best among
 - Bhavaprakasha Nighantu
 - Ashtanga Hridaya
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Setayesh L, Haghighat N, Rasaei N and others 2023. [The impact of Emblica Officinalis (Amla) on lipid profile, glucose, and C-reactive protein: A systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/36934568/). *Diabetes & metabolic syndrome*. PMID [36934568](https://pubmed.ncbi.nlm.nih.gov/36934568/) · [doi:10.1016/j.dsx.2023.102729](https://doi.org/10.1016/j.dsx.2023.102729)  
   Meta-analysis of RCTs showed amla supplementation significantly improved lipid profiles (reduced LDL, elevated HDL), lowered glucose levels, and reduced C-reactive protein in adults.
@@ -96,7 +96,7 @@ One of the three fruits in [Triphala](/herb/triphala/). Classified as best among
 - Xiao L, Chen W, Guo W and others 2025. [Exploring the mechanism of action of Phyllanthus emblica in the treatment of epilepsy based on network pharmacology and molecular docking](https://pubmed.ncbi.nlm.nih.gov/39960946/). *Medicine*. PMID [39960946](https://pubmed.ncbi.nlm.nih.gov/39960946/) · [doi:10.1097/MD.0000000000041414](https://doi.org/10.1097/MD.0000000000041414)  
   Network pharmacology identified neuroactive ligand-receptor interactions, nitrogen metabolism, and serotonergic synapses as key pathways. Molecular docking showed strong binding to MAPK3, SRC, and MAPK1 targets.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

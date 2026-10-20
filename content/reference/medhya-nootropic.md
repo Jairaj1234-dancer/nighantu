@@ -19,10 +19,9 @@ productHints: []
 words: 214
 srcRel: "_Hub/Pharmacology/Medhya-Nootropic.md"
 ---
-*34 herbs and compounds with medhya (nootropic) activity across traditions*
+*31 herbs and compounds with medhya (nootropic) activity*
 
 ## Ayurveda (31)
-
 - [Akarakarabha](/herb/akarakarabha/), *Anacyclus pyrethrum (L.) Lag.*
 - [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
 - [Aparajita](/herb/aparajita/), *Clitoria ternatea L.*

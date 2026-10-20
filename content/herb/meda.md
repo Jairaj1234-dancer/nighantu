@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Animal studies using Plasmodium models and fever-inducing models have reported antimalarial and [antipyretic](/reference/antipyretic/) activity.
 - Traditionally used in urinary disorders and as a body purifier. Experimental studies have reported [diuretic](/reference/diuretic/) activity.
 - Traditionally used for infections. Laboratory studies have reported antibacterial and antifungal activity against several disease-causing organisms.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Suyal R, Jugran AK, Rawal RS and others 2021. [Morphological, phytochemical and genetic diversity of threatened Polygonatum verticillatum (L.) All. populations of different altitudes and habitat types in Himalayan region](https://pubmed.ncbi.nlm.nih.gov/34539117/). *Physiology and molecular biology of plants : an international journal of functional plant biology*. PMID [34539117](https://pubmed.ncbi.nlm.nih.gov/34539117/) · [doi:10.1007/s12298-021-01044-9](https://doi.org/10.1007/s12298-021-01044-9)  
   Documented significant phytochemical variation across altitudinal populations, with higher altitude specimens showing elevated saponin and phenolic content, providing insights for conservation and standardization.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

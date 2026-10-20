@@ -50,21 +50,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for inflammation and as an [analgesic](/reference/analgesic/). Animal studies have reported anti-inflammatory and analgesic activity in paw edema and hot plate models.
 - Animal studies have reported antiulcer activity in aspirin-induced and ethanol-induced gastric ulcer models.
 - Traditionally used for oral health. In vitro studies have reported antibacterial activity against Streptococcus mutans.
 - The seed oil (mahua butter) is traditionally used as a skin emollient. Studies have reported moisturizing and skin barrier activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Fatma A, Ahuja V, Ahuja A and others 2024. [Evaluation of Antibacterial Activity of Madhuca longifolia (Mahua) Stem Extract Against Streptococcus mutans: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/38348007/). *Cureus*. PMID [38348007](https://pubmed.ncbi.nlm.nih.gov/38348007/) · [doi:10.7759/cureus.52210](https://doi.org/10.7759/cureus.52210)  
   Madhuca longifolia is traditionally used for oral health and dental hygiene. An in vitro study reported antibacterial activity of the stem extract against Streptococcus mutans.
 - Roat P, Hada S, Chechani B and others 2023. [Madhuca indica: A Review on the Phytochemical and Pharmacological Aspects](https://pubmed.ncbi.nlm.nih.gov/37313437/). *Pharmaceutical chemistry journal*. PMID [37313437](https://pubmed.ncbi.nlm.nih.gov/37313437/) · [doi:10.1007/s11094-023-02878-1](https://doi.org/10.1007/s11094-023-02878-1)  
   Documented antiulcer, anti-inflammatory, [antioxidant](/reference/antioxidant/), antidiabetic, hepatoprotective, [anticancer](/reference/anticancer/), [cardioprotective](/reference/cardioprotective/) and [immunomodulatory](/reference/immunomodulatory/) activities with non-toxic profile even at high doses.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Virechana (purgation): traditionally used as a purgative. Studies have reported an EP3 receptor-mediated action on intestinal smooth muscle.
 - Vatahara: traditionally used for arthritic conditions. Studies have reported anti-inflammatory activity of ricinoleic acid through PPAR-gamma activation.
 - Traditionally used for wounds. Studies have reported [antimicrobial](/reference/antimicrobial/) activity and the promotion of granulation tissue formation in wound models.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
   Comprehensive review from Scopus, PubMed, and Web of Science documented analgesic, anti-bacterial, anti-cancer, anti-diabetic, and anti-inflammatory properties with three key compounds ([quercetin](/reference/quercetinquercetin/), ellagic acid, [apigenin](/glossary/compounds-1-a/#apigenin)) highlighted.
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
   Detailed multifunctional applications in therapeutic, pharmacological, and industrial domains; identified novel bioactive compounds with anti-cancer and [immunomodulatory](/reference/immunomodulatory/) potential.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

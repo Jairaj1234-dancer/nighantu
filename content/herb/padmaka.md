@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Complexion enhancement (Varnya): traditionally used in face packs. Research has reported antioxidant activity, and a Padmaka-based cosmetic face serum has been developed.
 - Skin rashes and itching: studies of bark powder application have reported reduced skin rashes and itching, linked to NF-kB suppression.
 - Skin discoloration: the heartwood is traditionally used for discoloration. Research has reported antioxidant activity, but clinical trials are still needed.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jyotshna, Shanker K 2025. [An Insight Review on Phytochemistry, Pharmacological Evidences, and Biosynthesis of Key Metabolites of Indian Himalayan Cherry (Prunus cerasoides Don.) with Emphasis on its Safety and Use in Tradtional Phytomedicine](https://pubmed.ncbi.nlm.nih.gov/39552266/). *Chemistry & biodiversity*. PMID [39552266](https://pubmed.ncbi.nlm.nih.gov/39552266/) · [doi:10.1002/cbdv.202401814](https://doi.org/10.1002/cbdv.202401814)  
   Comprehensive review identified over fifty diverse phytochemicals including flavones, [isoflavones](/glossary/compounds-g-l/#isoflavones), chalcones, [terpenoids](/glossary/compounds-t-z/#terpenoids), [glycosides](/glossary/compounds-g-l/#glycosides), and [sterols](/glossary/compounds-q-t/#sterols), confirming significant pharmacological potential for antioxidant, [antimicrobial](/reference/antimicrobial/), and anti-pyretic applications.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

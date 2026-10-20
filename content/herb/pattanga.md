@@ -46,20 +46,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Complexion enhancement (Varnya): traditionally used for complexion enhancement. An in vitro study in human melanoma cells reported that brazilin suppressed melanin synthesis.
 - Wound healing (Vrana Ropana): traditionally used for wound healing. An animal study reported improved incision wound healing with sappanwood extract.
 - Anti-inflammatory skin care (Daha Prashamana): traditionally used in skin care for inflammatory conditions. Studies have reported inhibition of NO and PGE2 production through iNOS and COX-2 suppression.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sucita RE, Fikri F, Purnomo A and others 2024. [The efficacy of topically applied Sappan wood (Caesalpinia sappan L.) ethanol extract during incision wound healing in albino rats](https://pubmed.ncbi.nlm.nih.gov/39175965/). *Open veterinary journal*. PMID [39175965](https://pubmed.ncbi.nlm.nih.gov/39175965/) · [doi:10.5455/OVJ.2024.v14.i7.5](https://doi.org/10.5455/OVJ.2024.v14.i7.5)  
   A 6.5% sappanwood ethanol extract demonstrated significant improvement in incision wound healing in albino rats, with enhanced tissue repair attributed to brazilin and related bioactive secondary metabolites.
 - Mitani K, Takano F, Kawabata T and others 2013. [Suppression of melanin synthesis by the phenolic constituents of sappanwood (Caesalpinia sappan)](https://pubmed.ncbi.nlm.nih.gov/23154842/). *Planta medica*. PMID [23154842](https://pubmed.ncbi.nlm.nih.gov/23154842/) · [doi:10.1055/s-0032-1327897](https://doi.org/10.1055/s-0032-1327897)  
   Brazilin and 4-O-methylsappanol strongly suppressed melanin synthesis in human melanoma HMV-II cells stimulated with forskolin, establishing the melanin-inhibitory basis for traditional complexion-enhancing use.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

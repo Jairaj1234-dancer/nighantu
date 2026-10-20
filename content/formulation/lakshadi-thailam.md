@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Ashtanga Hridayam (Uttarasthana). Listed in Ayurvedic Formulary of India. One of the most widely recommended Ayurvedic paediatric oils in South Indian tradition. Manufactured by licensed pharmacies under AYUSH GMP standards."
 aliases: ["Lakshadi Thailam", "LakshadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 495
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Lakshadi-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Ashtanga Hridayam (Uttarasthana - Balopacharaneeya / Paediatric chapter). One of
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Infant bone and skeletal strengthening: traditionally used for infant bone and skeletal strengthening. An in vitro study reported osteogenic potential of Lac resin. [Ashwagandha](/herb/ashwagandha/) is traditionally described as adaptogenic.
 - Infant skin protection and nourishment: traditionally used for infant skin protection and nourishment. In [antimicrobial](/reference/antimicrobial/) studies, [Nirgundi](/herb/nirgundi/), Nutgrass, and Licorice were reported to show activity against common infant skin pathogens.
 - Childhood respiratory protection (cold, cough): traditionally used in massage for childhood respiratory protection. Dill and Cedar contribute volatile oil components.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

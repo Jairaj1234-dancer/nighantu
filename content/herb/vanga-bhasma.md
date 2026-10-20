@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Male reproductive disorders (Vajikarana): traditionally used as an aphrodisiac. Animal studies have reported testicular regenerative potential.
 - Urinary disorders (Prameha/Mutra Roga): traditionally used for urinary disorders. Studies of [Trivanga Bhasma](/herb/trivanga-bhasma/), which includes it, have reported benefits to the urinary system.
 - Diabetes (Madhumeha): traditionally used for diabetes. Animal studies of [Trivanga Bhasma](/herb/trivanga-bhasma/), which includes it, have reported anti-diabetic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Nagaraju V, Joshi D, Aryya NC 1984. [TOXICITY STUDIES ON VANGA BHASMA (Part I - with special reference to G. I. T. Liver and Pancreas)](https://pubmed.ncbi.nlm.nih.gov/22557446/). *Ancient science of life*. PMID [22557446](https://pubmed.ncbi.nlm.nih.gov/22557446/)  
   No significant toxicity attributable to [Vanga Bhasma](/herb/vanga-bhasma/) observed even at 8 times higher dose than therapeutic dose on 10-day exposure. GIT, liver, and pancreas showed no pathological changes.

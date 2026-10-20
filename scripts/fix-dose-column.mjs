@@ -212,8 +212,7 @@ for (const file of fs.readdirSync(CONTENT).filter((f) => f.endsWith('.md'))) {
    */
   const rest = clinical.replace(pageQty, '').replace(/^[\s,]+/, '').trim();
   const replacement = `${m[1]} ${rec.dose}${rest ? ` ${rest}` : ''}, as given in the `
-    + `${attribution}.${anupana} This replaces a previously stated ${pageQty}, which carried no `
-    + `source.${attributes}`;
+    + `${attribution}.${anupana}${attributes}`;
   adopted.push({ slug, full, whole, replacement, from: pageQty, to: rec.dose });
   supersededLog.push({ slug, supersededFigure: pageQty, replacedWith: rec.dose, entry: rec.entryNumber, on: TODAY });
 }
@@ -244,8 +243,7 @@ for (const r of [...adopted, ...preparation, ...crossUnit, ...noFormularyEntry, 
 }
 fs.writeFileSync(SUPERSEDED, `${JSON.stringify({
   note: 'Dose figures replaced by the Ayurvedic Formulary of India\'s own figure because they '
-    + 'carried no source. Kept so the change is reversible and auditable; nothing here is '
-    + 'published.',
+    + 'carried no source. Kept so the change is reversible and auditable, and listed on /corrections/.',
   updatedAt: TODAY,
   replaced: supersededLog,
 }, null, 2)}\n`);

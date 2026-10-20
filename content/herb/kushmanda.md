@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Medhya (intellect-promoting): traditionally used to support the mind and intellect. Animal studies of an Alzheimer's disease model have reported restoration of neurotransmitter levels.
 - Traditionally used for ulcers. Studies have reported gastroprotective activity, with reduced gastric acid secretion and enhanced mucosal defense.
 - Mutrala: traditionally used as a [Diuretic](/reference/diuretic/) and for the kidneys. Studies have reported increased urine output and renal stone dissolution activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Islam MT, Quispe C, El-Kersh DM and others 2021. [A Literature-Based Update on Benincasa hispida (Thunb.) Cogn.: Traditional Uses, Nutraceutical, and Phytopharmacological Profiles](https://pubmed.ncbi.nlm.nih.gov/34925698/). *Oxidative medicine and cellular longevity*. PMID [34925698](https://pubmed.ncbi.nlm.nih.gov/34925698/) · [doi:10.1155/2021/6349041](https://doi.org/10.1155/2021/6349041)  
   Comprehensive review documenting antioxidant, anti-inflammatory, [analgesic](/reference/analgesic/), anti-asthmatic, diuretic, nephroprotective, [antidiabetic](/reference/antidiabetic/), [hypolipidemic](/glossary/pharmacology/#hypolipidemic), and [antimicrobial](/reference/antimicrobial/) effects.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

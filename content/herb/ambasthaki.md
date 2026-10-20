@@ -44,14 +44,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Antimalarial and [antipyretic](/reference/antipyretic/) (Jvara-nashaka): traditionally used for fevers. Phytochemical studies have reported [alkaloids](/glossary/compounds-1-a/#alkaloids) with antiplasmodial activity.
 - Menstrual regulation and uterine tonic (Artava-janana): traditionally used to regulate menstruation and as a uterine tonic.
 - Anti-inflammatory and antiarthritic (Shotha-hara): traditionally used for inflammation and arthritic conditions. Animal studies have reported anti-inflammatory activity.
 - Snakebite antidote (Visha-nashaka): traditionally used in folk medicine as an antidote for snakebite.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Thim-Uam A, Thepmalee C, Chaiwangyen W and others 2025. [Phytochemical Screening and In Vitro Antioxidant and Anticancer Evaluation of Stem and Leaf Extracts of Cissampelos pareira L](https://pubmed.ncbi.nlm.nih.gov/40689394/). *Mediators of inflammation*. PMID [40689394](https://pubmed.ncbi.nlm.nih.gov/40689394/) · [doi:10.1155/mi/7555073](https://doi.org/10.1155/mi/7555073)  
   Identified exceptionally high phenolic (95.73 mg GAE/g in leaves) and flavonoid (82.68 mg CE/g in leaves) content; demonstrated significant anticancer activity against multiple cancer cell lines.

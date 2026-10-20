@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Included in Ayurvedic Pharmacopoeia of India Part II (Government of India, Ministry of Health and Family Welfare); officially standardized formulation with established quality parameters"
 aliases: ["Vasa Avaleha", "VasaAvaleha"]
 tags: ["ayurveda", "formulation", "leham", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 365
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Vasa-Avaleha/meta-analysis.md"
@@ -39,18 +39,18 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Tamaka Shwasa (bronchial asthma): traditionally used for bronchial asthma. A randomized clinical study reported improvement in symptoms and lung function.
 - Kasa (chronic cough/bronchitis): traditionally used for chronic cough and bronchitis. A multicenter clinical study reported mucolytic and [bronchodilator](/reference/bronchodilator/) properties.
 - Raktapitta/hemoptysis (coughing blood): [Vasa](/herb/vasa/) is used in classical practice for its hemostatic (Raktastambhaka) action in respiratory hemorrhage.
 - Anti-allergic respiratory action: a clinical study reported a decreased eosinophil count, which may point to an anti-allergic action.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

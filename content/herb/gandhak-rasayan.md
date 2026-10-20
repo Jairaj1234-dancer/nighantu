@@ -43,18 +43,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kushtha (skin diseases): traditionally used for skin diseases. In vitro studies have reported antimicrobial activity against Staphylococcus aureus and Candida species.
 - [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used as a rejuvenative. Studies have reported immunomodulatory activity.
 - Traditionally used for detoxification. A pilot clinical study in eczema reported improvement in skin hydration.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mundugaru R, Ballal SR, Bhat S and others 2021. [Chronic toxicity studies of gandhaka rasayana - A herbo-mineral preparation used in Ayurvedic practice](https://pubmed.ncbi.nlm.nih.gov/34736857/). *Journal of Ayurveda and integrative medicine*. PMID [34736857](https://pubmed.ncbi.nlm.nih.gov/34736857/) · [doi:10.1016/j.jaim.2021.05.011](https://doi.org/10.1016/j.jaim.2021.05.011)  
   180-day chronic toxicity study in animal models showed the formulation is safe at traditional therapeutic doses; no significant toxic effects on hematological, biochemical, or histopathological parameters.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -62,13 +62,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 - Potential side effects include GI discomfort (nausea, diarrhea) and allergic reactions in sulfur-sensitive individuals; contraindicated in severe liver/kidney disease; should be sourced only from GMP-certified Ayurvedic manufacturers
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 ## Dosage forms and preparation
 

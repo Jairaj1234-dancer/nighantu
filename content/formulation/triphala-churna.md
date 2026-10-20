@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; all three ingredients individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; Terminalia chebula and Emblica officinalis listed in WHO monographs on selected medicinal plants; USP-verified Triphala supplements available in Western markets; European HMPC assessment available for individual ingredients"
 aliases: ["Triphala Churna", "TriphalaChurna"]
 tags: ["ayurveda", "formulation", "churna", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 589
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Triphala-Churna/meta-analysis.md"
@@ -39,21 +39,21 @@ Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive regulation and detoxification (Anulomana, Ama Pachana): traditionally used for digestive regulation and detoxification. Studies have reported prebiotic, prokinetic, and epithelial-restorative activity.
 - Rasayana (rejuvenative): traditionally used as a rejuvenative. Clinical and preclinical studies have reported antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging activity.
 - Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used for eye health. Studies have reported antioxidant and anti-inflammatory effects. Clinical studies on anti-cataract potential are reported to be ongoing.
 - Oral health (Kavala/Gandusha): traditionally used for oral health. Studies have reported antibacterial activity against dental caries pathogens, and clinical trials have reported reduced gingivitis.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tarasiuk A, Mosińska P, Fichna J 2018. [Triphala: current applications and new perspectives on the treatment of functional gastrointestinal disorders](https://pubmed.ncbi.nlm.nih.gov/30034512/). *Chinese medicine*. PMID [30034512](https://pubmed.ncbi.nlm.nih.gov/30034512/) · [doi:10.1186/s13020-018-0197-6](https://doi.org/10.1186/s13020-018-0197-6)  
   Research confirmed Triphala restores epithelial lining of the digestive tract, exhibits mild laxative properties facilitating colonic transit, and demonstrates free radical scavenging, antioxidant, anti-inflammatory, immunomodulating, antibacterial, and [anticancer](/reference/anticancer/) effects.
 - Peterson CT, Denniston K, Chopra D 2017. [Therapeutic Uses of Triphala in Ayurvedic Medicine](https://pubmed.ncbi.nlm.nih.gov/28696777/). *Journal of alternative and complementary medicine (New York, N.Y.)*. PMID [28696777](https://pubmed.ncbi.nlm.nih.gov/28696777/) · [doi:10.1089/acm.2017.0083](https://doi.org/10.1089/acm.2017.0083)  
   Studies have reported activities including appetite stimulation, reduced gastric hyperacidity, activity against dental caries, [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), antibacterial, antimutagenic, wound-repair, [hepatoprotective](/reference/hepatoprotective/), chemoprotective, and radioprotective activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

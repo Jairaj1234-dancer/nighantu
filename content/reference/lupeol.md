@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Lupeol.md"
 group: ""
-answer: "Lupeol is a reference entry in the Nighantu. Found in 63 entries across the catalogue."
+answer: "Lupeol is a reference entry in the Nighantu. Found in 59 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 358
 srcRel: "_Hub/Compounds/Lupeol.md"
 ---
-*Found in 63 entries across the catalogue*
+*Found in 59 entries*
 
 ## Ayurveda
 

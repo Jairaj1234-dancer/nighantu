@@ -45,17 +45,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a therapeutic emetic in Vamana.
 - Traditionally used for respiratory disorders. An in vitro study in human lung epithelial cells reported reduced IL-1beta.
 - Traditionally used for wound healing. Animal studies in excision wound models have reported [antimicrobial](/reference/antimicrobial/) activity and increased collagen synthesis.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

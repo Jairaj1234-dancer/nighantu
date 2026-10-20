@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); standardized with physicochemical parameters including ash value, acid insoluble ash, solid content, loss on drying, fat content, and HPTLC analysis"
 aliases: ["Agastya Haritaki Rasayana", "AgastyaHaritakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 476
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-Haritaki-Rasayana/meta-analysis.md"
@@ -39,18 +39,16 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Tamaka Shwasa (bronchial asthma): traditionally used for chronic asthma. A review has reported bronchodilatory and anti-inflammatory activity.
 - Kasa (chronic cough): used in classical practice for chronic cough, as a primary indication from Charaka Samhita Kasa Chikitsa.
 - Pranvaha Srotas health (respiratory channels): traditionally used for the respiratory channels. A clinical study reported improvement in cardiorespiratory parameters.
 - Pratishyaya (allergic rhinitis/sinusitis): traditionally used as a respiratory indication for allergic rhinitis and sinusitis.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-
-
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -59,13 +57,6 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 - Generally well-tolerated; excessive doses may cause mild loose stools due to Haritaki's [laxative](/reference/laxative/) properties
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 ## Dosage forms and preparation
 

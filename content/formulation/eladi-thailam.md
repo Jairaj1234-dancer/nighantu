@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Primary reference in Sahasrayogam (Taila Prakarana). Both sesame oil and coconut oil variants are officially recognized. Manufactured under GMP standards by licensed Kerala Ayurvedic pharmacies."
 aliases: ["Eladi Thailam", "EladiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 595
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Eladi-Thailam/meta-analysis.md"
@@ -53,17 +53,17 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Acne vulgaris: traditionally used for acne. A randomized controlled trial reported overall improvement and a reduction in lesions.
 - Urticaria (hives) and pruritus (itching): traditionally used for hives and itching. Pharmacological studies have reported antipruritic and anti-inflammatory properties of compounds from Cardamom and Frankincense.
 - Allergic dermatitis and eczema: traditionally used as a supportive therapy, with careful constitutional assessment. Pharmacological studies have reported anti-inflammatory activity of Boswellic acids and santalol.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

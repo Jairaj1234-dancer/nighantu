@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; described in Ayurvedic Pharmacopoeia of India (API); included in CCRAS clinical practice guidelines for Amavata (Rheumatoid Arthritis)"
 aliases: ["Simhanada Guggulu", "SimhanadaGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 444
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Guggulu/meta-analysis.md"
@@ -39,16 +39,16 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Amavata (rheumatoid arthritis): traditionally used in classical practice for this condition. Reviews have reported DMARD-like activity, with reductions in inflammation, pain, and stiffness.
 - Traditionally used for gout and high uric acid. Pharmacological studies have reported anti-hyperuricemic effects for [Triphala](/herb/triphala/).
 - Traditionally used to improve joint flexibility. Clinical observations have reported improved mobility and reduced swelling.
 - Traditionally used for detoxification and Ama elimination. The combination of castor oil and purified sulphur is traditionally described as having laxative and digestive actions.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

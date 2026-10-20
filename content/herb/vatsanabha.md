@@ -28,19 +28,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - **[Antipyretic](/reference/antipyretic/) (Jvarahara).** Traditionally used as a febrifuge. Animal studies have reported dose-dependent antipyretic activity, comparable to paracetamol.
 - **Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedanasthapana, Shothahara).** Traditionally used across Himalayan regions for rheumatic pain.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kent JT, Sathya A, Juurlink DN and others 2025. [Mass aconite poisoning from a mislabelled spice product](https://pubmed.ncbi.nlm.nih.gov/40637172/). *Clinical toxicology (Philadelphia, Pa.)*. PMID [40637172](https://pubmed.ncbi.nlm.nih.gov/40637172/) · [doi:10.1080/15563650.2025.2526115](https://doi.org/10.1080/15563650.2025.2526115)  
   11 patients presented with perioral paraesthesia (91%), nausea/vomiting/abdominal pain (64%) after consuming mislabelled aconite-containing spice product. Highlights danger of Aconitum species entering food supply chain.
 - Tomita Y, Suzuki K, Kaizaki-Mitsumoto A and others 2025. [Jesaconitine monitoring in a case of severe aconitum poisoning with torsade de pointes treated via extracorporeal membrane oxygenation](https://pubmed.ncbi.nlm.nih.gov/39980743/). *Acute medicine & surgery*. PMID [39980743](https://pubmed.ncbi.nlm.nih.gov/39980743/) · [doi:10.1002/ams2.70047](https://doi.org/10.1002/ams2.70047)  
   First case report of successful monitoring of jesaconitine levels during ECMO treatment for severe aconite poisoning with torsade de pointes arrhythmia. ECMO provided life-saving hemodynamic support.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

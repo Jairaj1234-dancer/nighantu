@@ -48,18 +48,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Galactagogue](/glossary/pharmacology/#galactagogue) (Stanyajanana): traditionally used in Ayurveda to enhance lactation. Pharmacological and molecular docking studies have reported prolactin-modulating activity.
 - [Rasayana](/reference/rasayana/) (rejuvenating/[adaptogenic](/reference/adaptogenic/)): traditionally classified as a life-giving (Jivanti) herb. Studies have reported [immunomodulatory](/reference/immunomodulatory/) and antioxidant activity.
 - Traditionally used for threatened abortion and as a uterine tonic. Preclinical studies have reported anti-abortifacient activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kumari S, Saini R, Bhatnagar A and others 2024. [A comprehensive review on ayurvedic herb Leptadenia reticulata (Jeevanti): a phytochemistry and pharmacological perspective](https://pubmed.ncbi.nlm.nih.gov/37990540/). *Natural product research*. PMID [37990540](https://pubmed.ncbi.nlm.nih.gov/37990540/) · [doi:10.1080/14786419.2023.2282119](https://doi.org/10.1080/14786419.2023.2282119)  
   Comprehensive review documenting diverse pharmacological activities including [antidiabetic](/reference/antidiabetic/), [antimicrobial](/reference/antimicrobial/), antioxidant, anti-abortifacient, [anticancer](/reference/anticancer/), [antipyretic](/reference/antipyretic/), [analgesic](/reference/analgesic/), anti-inflammatory, and antiulcer properties.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

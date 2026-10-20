@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Bleeding disorders (Raktapitta, Raktarsha): traditionally used for bloody diarrhea, hemorrhoids, and excessive menstruation. Amber is described in classical practice as astringent.
 - Heart tonic (Hridya): traditionally used as a cardiotonic.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Joshi N, Ahuja MR, Rastogi GK and others 2020. [Characterization and antimicrobial study of Trinakantamani (Amber) Pishti](https://pubmed.ncbi.nlm.nih.gov/35813362/). *Ayu*. PMID [35813362](https://pubmed.ncbi.nlm.nih.gov/35813362/) · [doi:10.4103/ayu.AYU_155_19](https://doi.org/10.4103/ayu.AYU_155_19)  
   EDEX study showed Pishti particles reduced to 701nm from 1-2 micrometers raw size, potentially enhancing bioavailability. Heavy metals were below permissible limits. Microbial contamination within acceptable range. The nanoparticle size positions this as a form of traditional nanomedicine.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -53,14 +53,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 - One of the safest Pishti preparations - no mercury, arsenic, or toxic metals; suitable for broader clinical use compared to rasa shastra formulations
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
-- **Particle size:** Sub-micron to nanoparticle range
-- **Note:** Exact composition depends on source material and preparation method
-
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
 
 ## Dosage forms and preparation
 

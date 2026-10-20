@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Ellagic-acid.md"
 group: ""
-answer: "Ellagic acid is a reference entry in the Nighantu. Found in 73 entries across the catalogue."
+answer: "Ellagic acid is a reference entry in the Nighantu. Found in 56 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 320
 srcRel: "_Hub/Compounds/Ellagic-acid.md"
 ---
-*Found in 73 entries across the catalogue*
+*Found in 56 entries*
 
 ## Ayurveda
 

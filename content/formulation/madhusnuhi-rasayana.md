@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Sahasrayogam (official Kerala Ayurvedic formulary); Brihat Madhusnuhi Rasayana described as classical formulation under Lehya Kalpana; available from GMP-certified manufacturers (AVP, Kottakkal)"
 aliases: ["Madhusnuhi Rasayana", "MadhusnuhiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 369
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Madhusnuhi-Rasayana/meta-analysis.md"
@@ -39,18 +39,16 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kushta (chronic skin diseases including psoriasis): traditionally used for chronic skin diseases. A comparative clinical study reported improvement in psoriasis.
 - Phiranga Roga (syphilis/venereal diseases): traditionally used for syphilis and venereal diseases, and historically regarded as a master drug for these conditions. Antimicrobial activity has been reported for Smilax china.
 - Rakta Shodhana (blood purification): traditionally used for blood purification and tissue cleansing, with [Gandhaka](/glossary/concepts-a-m/#gandhaka), [Guggulu](/formulation/guggulu/), and Smilax as combined ingredients.
 - Vatarakta and Amavata (gout and rheumatoid arthritis): traditionally used for gout and rheumatoid arthritis. Anti-inflammatory and anti-rheumatic properties have been reported for its ingredients.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-
-
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -60,18 +58,11 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Rasayana (rejuvenative confection)
 
-**Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:19. This replaces a previously stated 6-12g, which carried no source. The formulary attributes this formula to Sahasrayoga, Lehaprakarana; 41.
+**Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:19. The formulary attributes this formula to Sahasrayoga, Lehaprakarana; 41.
 
 **Bioavailability:** Confection base with jaggery aids sustained absorption
 

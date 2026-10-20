@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory tonic (Shvasa-hara): traditionally used as a respiratory tonic and for asthma. Studies have reported mast cell stabilization and reduced bronchial hyper-responsiveness.
 - Cooling and [antipyretic](/reference/antipyretic/) (Jvarahara): traditionally used in Unani and Ayurvedic practice as a cooling herb for fever.
 - Throat and oral health (Mukha-roga): traditionally used for throat and mouth conditions. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 - Heart tonic (Hridya): traditionally used as a heart tonic.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jabbar AA, Abdullah FO, Hassan AO and others 2022. [Ethnobotanical, Phytochemistry, and Pharmacological Activity of Onosma (Boraginaceae): An Updated Review](https://pubmed.ncbi.nlm.nih.gov/36557820/). *Molecules (Basel, Switzerland)*. PMID [36557820](https://pubmed.ncbi.nlm.nih.gov/36557820/) · [doi:10.3390/molecules27248687](https://doi.org/10.3390/molecules27248687)  
   Comprehensive review identifying shikonins and onosmins as the most significant bioactive constituents with potent anticancer, anti-inflammatory, and antimicrobial properties.
 - Kumar A, Attri S, Kaur S and others 2022. [Onosma L. as a source of anticancer agents: phytochemistry to mechanistic insight](https://pubmed.ncbi.nlm.nih.gov/36338520/). *Exploration of targeted anti-tumor therapy*. PMID [36338520](https://pubmed.ncbi.nlm.nih.gov/36338520/) · [doi:10.37349/etat.2022.00109](https://doi.org/10.37349/etat.2022.00109)  
   Reviewed anticancer potential of Onosma species with mechanistic insights into naphthoquinone-mediated apoptosis induction and cell cycle arrest in cancer cells.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

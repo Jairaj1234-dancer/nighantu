@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Mandura Bhasma is listed in the Ayurvedic Pharmacopoeia of India (API) with standardized monograph; preparation methods and quality parameters specified; widely recognized as a classical Ayurvedic hematinic"
 aliases: ["Madhu Mandur", "MadhuMandur"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 414
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Madhu-Mandur/meta-analysis.md"
@@ -39,16 +39,16 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin, especially when it was given with honey.
 - Anemia in children: traditionally used for anemia in children. A clinical evaluation reported an increase in hemoglobin with a combination of honey and Mandur Bhasma.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

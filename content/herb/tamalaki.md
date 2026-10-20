@@ -48,20 +48,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a [Pashanabheda](/herb/pashanabheda/) (stone breaker) for kidney stones. Clinical studies have reported reduced stone recurrence.
 - Traditionally used in liver diseases (Yakrit Vikara). In vitro and clinical studies have reported hepatoprotective and antiviral (Hepatitis B) activity.
 - Traditionally used in Ayurveda for urinary and inflammatory conditions. Pharmacological studies have reported anti-inflammatory and diuretic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Dhawan S, Olweny EO 2020. [Phyllanthus niruri (stone breaker) herbal therapy for kidney stones; a systematic review and meta-analysis of clinical efficacy, and Google Trends analysis of public interest](https://pubmed.ncbi.nlm.nih.gov/32333735/). *The Canadian journal of urology*. PMID [32333735](https://pubmed.ncbi.nlm.nih.gov/32333735/)  
   Systematic review and meta-analysis provided limited but supportive clinical evidence for modest efficacy in reducing kidney stone burden, with one RCT showing 62% reduction in stone recurrence with 500 mg twice daily over 12 months.
 - Abdel-Sattar OE, Allam RM, Al-Abd AM and others 2023. [Hypophyllanthin and Phyllanthin from Phyllanthus niruri Synergize Doxorubicin Anticancer Properties against Resistant Breast Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/37576627/). *ACS omega*. PMID [37576627](https://pubmed.ncbi.nlm.nih.gov/37576627/) · [doi:10.1021/acsomega.3c02953](https://doi.org/10.1021/acsomega.3c02953)  
   Demonstrated synergistic anticancer activity of phyllanthin and hypophyllanthin with doxorubicin against resistant breast cancer cell lines, suggesting potential as chemotherapy adjuvants.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

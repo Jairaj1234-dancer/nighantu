@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Tannins.md"
 group: ""
-answer: "Tannins is a reference entry in the Nighantu. Found in 67 entries across the catalogue."
+answer: "Tannins is a reference entry in the Nighantu. Found in 33 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 337
 srcRel: "_Hub/Compounds/Tannins.md"
 ---
-*Found in 67 entries across the catalogue*
+*Found in 33 entries*
 
 ## Ayurveda
 

@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Animal studies have reported anti-inflammatory activity in carrageenan-induced paw edema models.
 - Experimental studies have reported [Analgesic](/reference/analgesic/) activity comparable to standard analgesics.
@@ -55,11 +55,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 - Laboratory studies have reported antimicrobial activity against multiple pathogens.
 - Animal studies have reported anti-arthritic activity in a Freund's adjuvant arthritis model.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

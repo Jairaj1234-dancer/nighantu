@@ -35,14 +35,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 - Anti-inflammatory: Flavonoid constituents ([luteolin](/glossary/compounds-l-o/#luteolin), [apigenin](/glossary/compounds-1-a/#apigenin)) provide [antioxidant](/reference/antioxidant/) and anti-inflammatory effects on scalp tissue.
 - [Antihypertensive](/glossary/pharmacology/#antihypertensive): Increases urine volume and modulates lipid metabolism markers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Wang W, Wang H, Luo Y and others 2024. [Discovery of petroleum ether extract of eclipta targeting p53/Fas pathway for the treatment of chemotherapy-induced alopecia: Network pharmacology and experimental validation](https://pubmed.ncbi.nlm.nih.gov/38844249/). *Journal of ethnopharmacology*. PMID [38844249](https://pubmed.ncbi.nlm.nih.gov/38844249/) · [doi:10.1016/j.jep.2024.118405](https://doi.org/10.1016/j.jep.2024.118405)  
   A network pharmacology and experimental study reported that Eclipta extract modulated the p53/Fas pathway. It reported that the extract promoted hair matrix cell proliferation by inhibiting TGF-beta1 expression.
 - Timalsina D, Devkota HP 2021. [Eclipta prostrata (L.) L. (Asteraceae): Ethnomedicinal Uses, Chemical Constituents, and Biological Activities](https://pubmed.ncbi.nlm.nih.gov/34827736/). *Biomolecules*. PMID [34827736](https://pubmed.ncbi.nlm.nih.gov/34827736/) · [doi:10.3390/biom11111738](https://doi.org/10.3390/biom11111738)  
   Systematic review of over 100 studies confirmed hepatoprotective, anti-inflammatory, [antimicrobial](/reference/antimicrobial/), antioxidant, and hair-growth-promoting activities. Identified wedelolactone, eclalbasaponins, ursolic acid, and luteolin as key bioactives.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

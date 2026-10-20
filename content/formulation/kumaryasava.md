@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Charaka Samhita and Ashtanga Hridaya. Kumari (Aloe vera) monograph in Ayurvedic Pharmacopoeia of India."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 522
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Kumaryasava/meta-analysis.md"
@@ -38,19 +38,19 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Liver disorders (jaundice, hepatomegaly): traditionally used for these conditions. An animal study in rats reported hepatoprotective activity.
 - Gynecological disorders including PCOS: traditionally used for these conditions. A double-blind clinical study reported improved LH/FSH ratios.
 - Digestive weakness and anorexia: traditionally used for these conditions as a deepana-pachana formulation.
 - Anemia: traditionally used for this condition. The formulation contains [Loha Bhasma](/herb/loha-bhasma/), an iron-based component.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Khan MA, Gupta A, Sastry JL and others 2015. [Hepatoprotective potential of kumaryasava and its concentrate against CCl4-induced hepatic toxicity in Wistar rats](https://pubmed.ncbi.nlm.nih.gov/26681887/). *Journal of pharmacy & bioallied sciences*. PMID [26681887](https://pubmed.ncbi.nlm.nih.gov/26681887/) · [doi:10.4103/0975-7406.168029](https://doi.org/10.4103/0975-7406.168029)  
   PMC-published study demonstrated both Kumaryasava and its concentrate protected against CCl4-induced hepatotoxicity, evidenced by reduced SGOT, SGPT, ALP levels and elevated serum albumin.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

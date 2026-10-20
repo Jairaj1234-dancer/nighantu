@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

@@ -19,10 +19,9 @@ productHints: []
 words: 314
 srcRel: "_Hub/Pharmacology/Antiinflammatory.md"
 ---
-*975 herbs and compounds with anti-inflammatory activity across traditions*
+*38 herbs and compounds with anti-inflammatory activity*
 
-## Ayurveda (384)
-
+## Ayurveda (38)
 - [Abhayarishta](/formulation/abhayarishta/)
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*

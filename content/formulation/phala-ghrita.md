@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); described in classical pharmacopoeial texts; standardized formulation available from GMP-certified manufacturers"
 aliases: ["Phala Ghrita", "PhalaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 451
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghrita/meta-analysis.md"
@@ -39,19 +39,19 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vandhyatva (female infertility): traditionally used for female infertility. A clinical study reported conception and menstrual regulation in some participants.
 - Ovarian factor infertility: a study reported follicular development and ovulation comparable to clomiphene citrate.
 - Shukra Dosha (male infertility/oligozoospermia): traditionally used for male infertility. Case reports have described improved sperm parameters.
 - Artava Dushti (menstrual irregularities): traditionally used for menstrual irregularities. Clinical studies have reported cycle regularization.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Otta SP, Tripaty RN 2002. [Clinical trial of phalaghrita on female infertility](https://pubmed.ncbi.nlm.nih.gov/22557087/). *Ancient science of life*. PMID [22557087](https://pubmed.ncbi.nlm.nih.gov/22557087/)  
   [Phala Ghrita](/formulation/phala-ghrita/) demonstrated positive effects as Prajasthapana (conception-promoting) and Yoni Pradosha Nashaka (uterine disorder correcting) in infertile women
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

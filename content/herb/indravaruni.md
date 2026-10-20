@@ -45,13 +45,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for diabetes. Preclinical studies have reported alpha-glucosidase inhibition and improved insulin sensitivity.
 - Used in classical practice as a purgative (Virechana), with strict dose control. The traditional Ayurvedic Shodhana (purification) process is described as reducing toxicity.
 - Traditionally used for inflammation. Studies have reported cucurbitacin-mediated suppression of NF-kB and of pro-inflammatory cytokine production.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Cheng X, Qin M, Chen R and others 2023. [Citrullus colocynthis (L.) Schrad.: A Promising Pharmaceutical Resource for Multiple Diseases](https://pubmed.ncbi.nlm.nih.gov/37687049/). *Molecules (Basel, Switzerland)*. PMID [37687049](https://pubmed.ncbi.nlm.nih.gov/37687049/) · [doi:10.3390/molecules28176221](https://doi.org/10.3390/molecules28176221)  
   Comprehensive review of biological activities particularly in antidiabetic, anticancer, anti-inflammatory, [antioxidant](/reference/antioxidant/), insecticidal, and antibacterial applications.

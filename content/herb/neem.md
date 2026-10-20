@@ -85,7 +85,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 - Sushruta Samhita
 - Bhavaprakasha Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tufail T, Bader Ul Ain H, Ijaz A and others 2025. [Neem (Azadirachta indica): A Miracle Herb; Panacea for All Ailments](https://pubmed.ncbi.nlm.nih.gov/40901661/). *Food science & nutrition*. PMID [40901661](https://pubmed.ncbi.nlm.nih.gov/40901661/) · [doi:10.1002/fsn3.70820](https://doi.org/10.1002/fsn3.70820)  
   Comprehensive review covering neem's applications across pharmaceuticals, agriculture, cosmetics, and fuel production, with focus on broad-spectrum [antimicrobial](/reference/antimicrobial/), [anticancer](/reference/anticancer/), and anti-diabetic properties.
@@ -94,7 +94,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 - Wylie MR, Merrell DS 2022. [The Antimicrobial Potential of the Neem Tree Azadirachta indica](https://pubmed.ncbi.nlm.nih.gov/35712721/). *Frontiers in pharmacology*. PMID [35712721](https://pubmed.ncbi.nlm.nih.gov/35712721/) · [doi:10.3389/fphar.2022.891535](https://doi.org/10.3389/fphar.2022.891535)  
   Comprehensive review of antimicrobial activities across dentistry, food safety, bacteriology, mycology, virology, and parasitology. Nimbins demonstrated activity against four dengue virus strains.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

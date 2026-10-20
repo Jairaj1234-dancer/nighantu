@@ -45,17 +45,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for Shotha (edema/inflammation). Animal studies have reported anti-inflammatory activity.
 - Preclinical studies have reported improvement in cardiac biomarkers.
 - Traditionally used on wounds. Experimental studies have reported wound healing activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

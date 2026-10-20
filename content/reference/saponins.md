@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Saponins.md"
 group: ""
-answer: "Saponins is a reference entry in the Nighantu. Found in 41 entries across the catalogue."
+answer: "Saponins is a reference entry in the Nighantu. Found in 25 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 264
 srcRel: "_Hub/Compounds/Saponins.md"
 ---
-*Found in 41 entries across the catalogue*
+*Found in 25 entries*
 
 ## Ayurveda
 

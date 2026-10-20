@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Dadima](/herb/dadima/) Twak is traditionally used in Ayurveda for Krimi (intestinal parasites), including tapeworms. Pelletierine alkaloids have been identified in the rind.
 - Traditionally used for Atisara (diarrhea) and Pravahika (dysentery). Its tannins have been reported to have an astringent effect on the intestinal mucosa.
 - Pomegranate rind decoction is traditionally used for Mukha Roga (oral diseases). Antimicrobial activity against oral pathogens and gastrointestinal bacteria has been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Dogara AM, Hama HA, Ozdemir D 2024. [Update on the Potential of Punica granatum L. Traditional Uses and Pharmacological Uses: A Review](https://pubmed.ncbi.nlm.nih.gov/39649727/). *Advances in pharmacological and pharmaceutical sciences*. PMID [39649727](https://pubmed.ncbi.nlm.nih.gov/39649727/) · [doi:10.1155/adpp/6523809](https://doi.org/10.1155/adpp/6523809)  
   Comprehensive review documenting that pomegranate peel contains the highest concentration of bioactive polyphenolic compounds among all plant parts, with demonstrated anti-inflammatory, [cardioprotective](/reference/cardioprotective/), [anticancer](/reference/anticancer/), and antimicrobial properties.
 - Azmat F, Safdar M, Ahmad H and others 2024. [Phytochemical profile, nutritional composition of pomegranate peel and peel extract as a potential source of nutraceutical: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/38370077/). *Food science & nutrition*. PMID [38370077](https://pubmed.ncbi.nlm.nih.gov/38370077/) · [doi:10.1002/fsn3.3777](https://doi.org/10.1002/fsn3.3777)  
   Pomegranate peel extract showed significant [antioxidant](/reference/antioxidant/) capacity with highest concentrations of phenolic acids, [anthocyanins](/glossary/compounds-1-a/#anthocyanins), and [flavonoids](/reference/flavonoids/), positioning it as a nutraceutical ingredient.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

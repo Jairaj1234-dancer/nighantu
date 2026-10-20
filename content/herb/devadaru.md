@@ -51,19 +51,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for inflammatory and arthritic conditions. Animal studies have reported anti-inflammatory and anti-arthritic activity in carrageenan-induced paw edema and Freund's adjuvant models.
 - [Diuretic](/reference/diuretic/) and antiurolithiatic use: animal studies in rats have reported diuretic and antiurolithiatic effects in ethylene glycol-induced urolithiasis models.
 - Antifungal use: in vitro studies of the essential oil have reported activity against Aspergillus fumigatus and dermatophyte species.
 - Traditionally used for respiratory ailments. Preclinical studies have reported bronchodilatory and antiasthmatic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bisht A, Jain S, Misra A and others 2021. [Cedrus deodara (Roxb. ex D.Don) G.Don: A review of traditional use, phytochemical composition and pharmacology](https://pubmed.ncbi.nlm.nih.gov/34166738/). *Journal of ethnopharmacology*. PMID [34166738](https://pubmed.ncbi.nlm.nih.gov/34166738/) · [doi:10.1016/j.jep.2021.114361](https://doi.org/10.1016/j.jep.2021.114361)  
   Confirmed taxifolin and deodarin as major bark [flavonoids](/reference/flavonoids/) with potent antioxidant and anti-inflammatory properties; wood essential oil showed significant [analgesic](/reference/analgesic/) effects.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

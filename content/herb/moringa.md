@@ -85,7 +85,7 @@ Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/herb/dashamoola/)
 - Charaka Samhita
 - Bhavaprakasha Nighantu (Guduchyadi Varga)
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Crișan D, Gavrilaș L, Păltinean R and others 2025. [Effects of Moringa oleifera Lam. Supplementation on Cardiometabolic Outcomes: A Meta-Analysis of Randomized Controlled Trials with GRADE Assessment](https://pubmed.ncbi.nlm.nih.gov/41305552/). *Nutrients*. PMID [41305552](https://pubmed.ncbi.nlm.nih.gov/41305552/) · [doi:10.3390/nu17223501](https://doi.org/10.3390/nu17223501)  
   Comprehensive GRADE-assessed meta-analysis of RCTs evaluating moringa supplementation on anthropometric measures, lipid profile, glycemic indices, and blood pressure in adults.
@@ -98,7 +98,7 @@ Called 'Shigru' in Ayurveda. Used extensively in [Dashamoola](/herb/dashamoola/)
 - Mundkar M, Bijalwan A, Soni D and others 2022. [Neuroprotective potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review](https://pubmed.ncbi.nlm.nih.gov/36206551/). *Journal of food biochemistry*. PMID [36206551](https://pubmed.ncbi.nlm.nih.gov/36206551/) · [doi:10.1111/jfbc.14451](https://doi.org/10.1111/jfbc.14451)  
   Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

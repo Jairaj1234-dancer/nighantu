@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Charaka Samhita and Bhaishajya Ratnavali. Punarnava monograph included in Ayurvedic Pharmacopoeia of India. PCIM&H recognized."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 386
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Punarnavasava/meta-analysis.md"
@@ -38,16 +38,16 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin). The Arishta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Edema and dropsy (Shotha): traditionally used for these conditions. A randomized controlled trial in CKD patients reported a reduction in ankle circumference.
 - Kidney support: traditionally used to support the kidneys. Studies have reported diuretic and nephroprotective activity.
 - Liver disorders and hepatomegaly: traditionally used for these conditions. Studies with boeravinones have reported hepatocyte regeneration.
 - Anemia and spleen disorders: traditionally used for these conditions.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

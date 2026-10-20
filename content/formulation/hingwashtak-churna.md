@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Referenced in multiple state Ayurvedic pharmacopoeias across India. One of the most commonly prescribed digestive churnas in clinical Ayurvedic practice."
 aliases: ["Hingwashtak Churna", "HingwashtakChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 482
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hingwashtak-Churna/meta-analysis.md"
@@ -39,18 +39,18 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Functional dyspepsia and indigestion: traditionally used for these complaints. A clinical study reported improvement in symptoms.
 - Flatulence and bloating: traditionally used for these complaints. An animal study reported a reduction in intestinal gas volume.
 - IBS symptoms: traditionally used for these complaints. Preliminary clinical reports described changes in pain, bloating and stool consistency.
 - Stomach lining: animal studies in ibuprofen- and ethanol-induced ulcer models have reported mucosal protection.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -71,7 +71,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. This replaces a previously stated 1-3 g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
+**Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
 **Bioavailability:** Identical to [Hingvashtak Churna](/formulation/hingvashtak-churna/). Rapid-acting carminative and digestive stimulant with high bioavailability of volatile oil components.
 

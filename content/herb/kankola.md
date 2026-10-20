@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive and carminative (Deepana-Pachana): traditionally used as a digestive and carminative.
 - Respiratory disorders and cough (Kasa-hara): traditionally used as an [expectorant](/reference/expectorant/) for respiratory complaints and cough. Laboratory studies have reported [antimicrobial](/reference/antimicrobial/) activity of the essential oil against respiratory pathogens.
 - Urogenital health (Mutra-roga): traditionally used for urinary tract infections. Laboratory studies have reported antimicrobial activity.
 - Oral health freshener (Mukha-shodhana): traditionally used for oral care and to freshen the mouth. Laboratory studies have reported antibacterial activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Drissi BE, Mahdi I, Ortaakarsu AB and others 2024. [Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties](https://pubmed.ncbi.nlm.nih.gov/38835963/). *Frontiers in nutrition*. PMID [38835963](https://pubmed.ncbi.nlm.nih.gov/38835963/) · [doi:10.3389/fnut.2024.1352548](https://doi.org/10.3389/fnut.2024.1352548)  
   Identified novel dermacosmeceutical applications of cubeb extracts with documented antioxidant, anti-aging, and skin-protective properties alongside nutritional value.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

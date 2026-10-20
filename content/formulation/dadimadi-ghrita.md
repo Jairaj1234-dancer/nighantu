@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Pharmacopoeia of India (API); standardized following API norms; formulations procured from GMP-certified Ayurvedic pharmaceutical industries for clinical research"
 aliases: ["Dadimadi Ghrita", "DadimadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 451
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Dadimadi-Ghrita/meta-analysis.md"
@@ -39,16 +39,16 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Pandu (anemia): traditionally used for anemia. A clinical study reported improvement in serum iron and hemoglobin.
 - Garbhini Pandu (anemia in pregnancy): traditionally used for anemia in pregnancy. A clinical study in pregnant subjects reported no fetal harm.
 - Deepana (digestive stimulation): traditionally used to stimulate digestion and Agni (digestive power).
 - Arsha (hemorrhoids): traditionally used for hemorrhoids.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

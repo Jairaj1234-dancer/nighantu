@@ -42,17 +42,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Worm infestations (Krimi Roga): traditionally used for worm infestations.
 - Skin diseases (Kushtha): traditionally used for skin diseases.
 - Eye disorders (Netra Roga): traditionally used for eye disorders. Classical texts record the use of Kansa instruments in eye care since the Charaka period.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

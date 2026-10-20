@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as Deepana-Pachana (appetite and digestion promoter). Clinical and pharmacological studies have reported carminative and digestive activity.
 - Traditionally used as Stanyajanana (breast milk promoting). Clinical studies have reported increased milk production in breastfeeding women.
 - Traditionally used for pediatric GI complaints. Randomized clinical trials have reported antispasmodic activity in infantile colic.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Zahi A, Rani A, Aktary N and others 2025. [Cardiovascular Effects, Phytochemistry, Drug Interactions, and Safety Profile of Foeniculum vulgare Mill. (Fennel): A Comprehensive Review](https://pubmed.ncbi.nlm.nih.gov/41305003/). *Pharmaceuticals (Basel, Switzerland)*. PMID [41305003](https://pubmed.ncbi.nlm.nih.gov/41305003/) · [doi:10.3390/ph18111761](https://doi.org/10.3390/ph18111761)  
   Comprehensive review documenting [fennel](/herb/fennel/)'s cardiovascular effects including [antihypertensive](/glossary/pharmacology/#antihypertensive), [cardioprotective](/reference/cardioprotective/), and vasorelaxant properties, along with detailed drug interaction profiling and safety assessment.
 - Badgujar SB, Patel VV, Bandivdekar AH 2014. [Foeniculum vulgare Mill: a review of its botany, phytochemistry, pharmacology, contemporary application, and toxicology](https://pubmed.ncbi.nlm.nih.gov/25162032/). *BioMed research international*. PMID [25162032](https://pubmed.ncbi.nlm.nih.gov/25162032/) · [doi:10.1155/2014/842674](https://doi.org/10.1155/2014/842674)  
   Updated comprehensive review documenting antispasmodic, anti-inflammatory, [analgesic](/reference/analgesic/), hepatoprotective, [diuretic](/reference/diuretic/), antioxidant, and [anticancer](/reference/anticancer/) activities across traditional medicine systems.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

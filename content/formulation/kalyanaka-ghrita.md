@@ -48,16 +48,16 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Unmada (psychosis/schizophrenia): traditionally used for unmada. Clinical studies have reported improvement in psychiatric conditions, including OCD, at follow-up.
 - Cognitive deficit in children: traditionally used for cognitive deficit in children. A prospective clinical evaluation reported favourable safety and cognitive outcomes in children.
 - Fertility enhancement: traditionally used for both male (sperm quality) and female (ovum quality) fertility.
 - Apasmara (epilepsy): used in classical practice for apasmara. Pharmacological studies have reported anticonvulsant properties in its ingredients.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -69,7 +69,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 12 g twice daily on empty stomach with warm water/milk, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
+**Standard Dosage:** 12 g twice daily on empty stomach with warm water/milk, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
 **Bioavailability:** Ghee base provides optimal vehicle for 30+ herbs with diverse solubility profiles. Lipid matrix enhances BBB penetration of Medhya ([nootropic](/glossary/pharmacology/#nootropic)) compounds. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
 

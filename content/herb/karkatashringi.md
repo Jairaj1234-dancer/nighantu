@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Balaka Shwasa (asthma in children): traditionally used for asthma in children. Preclinical studies have reported bronchial smooth muscle relaxation and mast cell stabilization.
 - Kasa-hara (antitussive): traditionally used for cough. Studies in sulfur dioxide-induced and [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough models have reported reduced cough frequency.
 - Deepana (digestive): traditionally used for digestion. Studies have reported increased gastric enzyme secretion and carminative activity of its essential oil components.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bibi Y, Zia M, Qayyum A 2015. [Review-An overview of Pistacia integerrima a medicinal plant species: Ethnobotany, biological activities and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/26004708/). *Pakistan journal of pharmaceutical sciences*. PMID [26004708](https://pubmed.ncbi.nlm.nih.gov/26004708/)  
   Documented traditional use across Asian medicine systems; confirmed the insect galls as the primary medicinal part with anticonvulsant and muscle relaxant properties.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

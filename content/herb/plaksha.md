@@ -49,18 +49,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for wounds and ulcers. Clinical and preclinical studies on non-healing ulcers have reported wound-healing and anti-ulcer activity.
 - Traditionally used for inflammation and pain. Preclinical studies in carrageenan-induced paw edema models have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects.
 - Traditionally used for its [Hemostatic](/glossary/pharmacology/#hemostatic) (bleeding disorder) action. In vitro clotting studies have reported clotting activity, along with astringent tannin activity.
 - Traditionally used for diarrhea. Preclinical studies have reported reduced gastrointestinal motility.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

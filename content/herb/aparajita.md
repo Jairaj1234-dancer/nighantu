@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Memory enhancer and nootropic (Medhya [Rasayana](/reference/rasayana/)): traditionally used to support memory and learning. Animal studies have reported improved memory and learning, with a cholinergic mechanism proposed.
 - Anxiolytic and antidepressant (Unmada-nashaka): traditionally used for anxious and low mood states. Preclinical studies have reported anxiolytic and antidepressant-like effects.
 - Anti-diabetic (Pramehaghna): traditionally used for Prameha. In vivo studies have reported lower blood [glucose](/glossary/compounds-d-g/#glucose) and improved insulin sensitivity.
 - Complexion enhancer and eye health (Varnya, [Chakshushya](/herb/chakshushya/)): traditionally used for complexion and eye health.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ahmed N, Tabassum N, Rashid PT and others 2024. [Clitoria ternatea L. (Butterfly Pea) Flower Against Endometrial Pain: Integrating Preliminary In Vivo and In Vitro Experimentations Supported by Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulation Studies](https://pubmed.ncbi.nlm.nih.gov/39598271/). *Life (Basel, Switzerland)*. PMID [39598271](https://pubmed.ncbi.nlm.nih.gov/39598271/) · [doi:10.3390/life14111473](https://doi.org/10.3390/life14111473)  
   Demonstrated 91.47% suppression of heat-induced hemolysis and 81.89% inhibition of paw edema at 400 mg/kg; molecular docking showed strong binding of flavylium, kaempferol, and [quercetin](/reference/quercetinquercetin/) to SRC, ESR1, and PI3KR1 targets.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

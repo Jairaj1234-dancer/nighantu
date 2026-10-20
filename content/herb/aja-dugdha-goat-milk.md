@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rajayakshma (tuberculosis/wasting diseases): traditionally used in debilitated patients with wasting conditions. Studies have reported [immunomodulatory](/reference/immunomodulatory/) peptides and easily absorbable nutrients in goat milk.
 - Raktapitta (bleeding disorders): traditionally used for its cooling potency and [hemostatic](/glossary/pharmacology/#hemostatic) properties. Studies have reported anti-inflammatory activity.
 - Pediatric nutrition and cow milk allergy: used as an alternative milk for children with cow milk protein intolerance. Studies have reported A2 beta-casein and lower allergenicity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Zhang W, Abubaker MA, Li Z and others 2025. [Bioactive peptides with antioxidant and ACE inhibitory properties in goat milk protein hydrolysates: Peptidomics and molecular docking study](https://pubmed.ncbi.nlm.nih.gov/39863228/). *International journal of biological macromolecules*. PMID [39863228](https://pubmed.ncbi.nlm.nih.gov/39863228/) · [doi:10.1016/j.ijbiomac.2025.140286](https://doi.org/10.1016/j.ijbiomac.2025.140286)  
   Peptidomics and molecular docking studies identified novel bioactive peptides in goat milk hydrolysates with significant antioxidant and ACE-inhibitory (antihypertensive) properties.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

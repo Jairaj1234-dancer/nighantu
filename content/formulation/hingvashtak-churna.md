@@ -48,16 +48,16 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for functional dyspepsia and indigestion. A randomized controlled trial reported improvement in symptoms.
 - Traditionally used for flatulence and bloating. An animal study reported a reduction in intestinal gas volume.
 - Traditionally used for IBS symptoms. Preliminary clinical studies have reported improvement in pain, bloating, and stool consistency.
 - Traditionally used to protect the stomach. Studies in ibuprofen-induced and ethanol-induced ulcer models have reported mucosal protection.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -69,7 +69,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
-**Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. This replaces a previously stated 1-3 g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
+**Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
 **Bioavailability:** One of the most effective Agni-deepana formulations. [Piperine](/reference/piperine/) enhances bioavailability of all co-ingredients. [Cumin](/herb/cumin/) volatile oils stimulate gastric secretion within minutes. [Hingu](/herb/hingu/) (asafoetida) volatile oils are rapidly absorbed providing immediate carminative effect. Classical instruction to take with first morsel ensures mixing with food for optimal digestive action.
 

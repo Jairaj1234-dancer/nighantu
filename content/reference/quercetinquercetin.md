@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "QuercetinQuercetin.md"
 group: ""
-answer: "Quercetin is a reference entry in the Nighantu. Found in 121 entries across the catalogue."
+answer: "Quercetin is a reference entry in the Nighantu. Found in 78 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 451
 srcRel: "_Hub/Compounds/QuercetinQuercetin.md"
 ---
-*Found in 121 entries across the catalogue*
+*Found in 78 entries*
 
 ## Ayurveda
 

@@ -47,12 +47,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Garlic leaf preparations are traditionally used for infections. Studies have reported activity of organosulfur compounds against bacteria, fungi, and parasites.
 - Fresh garlic greens are traditionally valued as a health-promoting food in Ayurvedic dietary recommendations. Analyses of their phenolic and flavonoid content have reported antioxidant activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jain M, Patil N, Mohammed A and others 2025. [Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications](https://pubmed.ncbi.nlm.nih.gov/40135462/). *Journal of food science*. PMID [40135462](https://pubmed.ncbi.nlm.nih.gov/40135462/) · [doi:10.1111/1750-3841.70152](https://doi.org/10.1111/1750-3841.70152)  
   Garlic leaves and stems contain significant bioactive sulfur compounds, flavonoids, and phenolic acids with demonstrated antioxidant and antimicrobial properties, establishing their value as functional food ingredients.

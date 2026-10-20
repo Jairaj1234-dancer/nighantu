@@ -119,7 +119,7 @@ export const LIFTED_SECTIONS = new Set([
 // Question-form headings extract better in AI answers.
 export const HEADING_REWRITES = new Map(Object.entries({
   'Modern Research': 'What does modern research show?',
-  'Latest Clinical Research (2020-2026)': 'What do recent clinical trials show?',
+  'Latest Clinical Research (2020-2026)': 'What do recent studies show?',
   'Mechanisms of Action (Modern Research)': 'How does it work?',
   'Traditional Uses Validated by Modern Research': 'Which traditional uses are supported by research?',
   'Safety & Contraindications': 'Safety, contraindications and cautions',

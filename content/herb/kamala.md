@@ -46,13 +46,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin brightening and complexion (Varnya): traditionally used for skin brightening and complexion. A clinical study of cosmetics made with lotus callus extract reported a whitening effect.
 - Anti-aging and skin rejuvenation: traditionally used for skin rejuvenation. In silico and in vitro studies reported kaempferol-3-O-robinobioside as an inhibitor of skin aging [enzymes](/glossary/compounds-d-g/#enzymes).
 - Anti-inflammatory skin soothing (Pitta-shamana): traditionally used for soothing the skin. Studies have reported modulation of NF-kB, MAPK, and COX-2, with lower levels of inflammatory mediators in skin.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Nutho B, Tungmunnithum D 2023. [Exploring Major Flavonoid Phytochemicals from Nelumbo nucifera Gaertn. as Potential Skin Anti-Aging Agents: In Silico and In Vitro Evaluations](https://pubmed.ncbi.nlm.nih.gov/38068894/). *International journal of molecular sciences*. PMID [38068894](https://pubmed.ncbi.nlm.nih.gov/38068894/) · [doi:10.3390/ijms242316571](https://doi.org/10.3390/ijms242316571)  
   Among seven flavonoids studied, kaempferol-3-O-robinobioside showed the highest docking scores against three skin aging-related enzymes (MMP-1, elastase, tyrosinase), identifying it as the most promising anti-aging candidate from lotus.

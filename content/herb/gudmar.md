@@ -109,7 +109,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 > Genetic studies of blood pressure (BP) to date have mainly analyzed common variants (minor allele frequency > 0.05). In a meta-analysis of up to ~1.3 million participants, we discovered 106 new BP-associated genomic regions and 87 rare (minor allele frequency ≤ 0.01) variant BP associations (P < 5 × 10...
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Devangan S, Varghese B, Johny E and others 2021. [The effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34467577/). *Phytotherapy research : PTR*. PMID [34467577](https://pubmed.ncbi.nlm.nih.gov/34467577/) · [doi:10.1002/ptr.7265](https://doi.org/10.1002/ptr.7265)  
   Meta-analysis of 10 studies (419 participants) showed Gymnema sylvestre supplementation significantly reduces fasting blood glucose (FBG), postprandial blood glucose (PPBG), and glycated hemoglobin (HbA1c) compared to baseline.
@@ -133,7 +133,7 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

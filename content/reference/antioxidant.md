@@ -19,10 +19,9 @@ productHints: []
 words: 307
 srcRel: "_Hub/Pharmacology/Antioxidant.md"
 ---
-*710 herbs and compounds with antioxidant activity across traditions*
+*39 herbs and compounds with antioxidant activity*
 
-## Ayurveda (256)
-
+## Ayurveda (39)
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*

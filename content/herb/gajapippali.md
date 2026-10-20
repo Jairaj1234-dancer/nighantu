@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kasa-Shwasa (respiratory disease): traditionally used for respiratory disease. Research has reported expectorant activity in saponin-rich extracts.
 - [Antipyretic](/reference/antipyretic/) use: traditionally used to lower fever.
 - [Galactagogue](/glossary/pharmacology/#galactagogue) use: traditionally used to improve breast milk. Modern clinical studies of this use are still lacking.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Shivhare SC, Patidar AO, Malviya KG and others 2011. [Antioxidant and anticancer evaluation of Scindapsus officinalis (Roxb.) Schott fruits](https://pubmed.ncbi.nlm.nih.gov/22529657/). *Ayu*. PMID [22529657](https://pubmed.ncbi.nlm.nih.gov/22529657/) · [doi:10.4103/0974-8520.93921](https://doi.org/10.4103/0974-8520.93921)  
   Methanolic fruit extract showed cytotoxicity against human cancer cell lines; antioxidant effects reflected by decreased LPO and increased SOD and catalase activity.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

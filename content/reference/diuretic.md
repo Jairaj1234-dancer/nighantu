@@ -19,10 +19,9 @@ productHints: []
 words: 333
 srcRel: "_Hub/Pharmacology/Diuretic.md"
 ---
-*135 herbs and compounds with diuretic activity across traditions*
+*39 herbs and compounds with diuretic activity*
 
-## Ayurveda (65)
-
+## Ayurveda (39)
 - [Abhayarishta](/formulation/abhayarishta/)
 - [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*

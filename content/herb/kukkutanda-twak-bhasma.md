@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Calcium deficiency and bone disorders: traditionally used for Asthi Kshaya (bone depletion), rickets, and osteoporosis. Analytical studies have reported a high calcium content with high bioavailability.
 - Leukorrhea (Shweta Pradar): traditionally used in gynecological practice for this condition.
 - Urinary tract infections: traditionally used for Mutra Krichra (dysuria). Laboratory studies have reported antimicrobial activity of CaO nanoparticles and an alkaline pH.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh TR, Fanasiya KM, Bedarkar P and others 2017. [Analytical profile of Kukkutanda Tvak Bhasma (incinerated hen egg shells) prepared by two different methods](https://pubmed.ncbi.nlm.nih.gov/30254398/). *Ayu*. PMID [30254398](https://pubmed.ncbi.nlm.nih.gov/30254398/) · [doi:10.4103/ayu.AYU_209_17](https://doi.org/10.4103/ayu.AYU_209_17)  
   Comparative analytical study established quality parameters for two preparation methods. Confirmed calcium oxide as primary constituent with consistent physicochemical profiles.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

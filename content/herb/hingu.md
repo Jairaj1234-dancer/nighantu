@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a digestive aid for flatulence and dyspepsia. A double-blind randomized clinical study reported improvement in functional dyspepsia symptoms.
 - Traditionally used as an antispasmodic for colic and abdominal pain. Studies on smooth muscle have reported relaxant activity.
@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - Traditionally used for intestinal infections. In vitro studies have reported broad-spectrum antimicrobial activity.
 - Traditionally used for pain and swelling. Preclinical studies have reported COX-2 and NF-kB inhibition.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mala KN, Thomas J, Syam DS and others 2018. [Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/30224930/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30224930](https://pubmed.ncbi.nlm.nih.gov/30224930/) · [doi:10.1155/2018/4813601](https://doi.org/10.1155/2018/4813601)  
   In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.

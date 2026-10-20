@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Prameha: traditionally used for diabetes. Preclinical studies and a preliminary clinical trial have reported lower blood glucose.
 - An in vitro study and STZ-induced diabetic animal models have reported beta-cell regeneration with (-)-epicatechin.
 - Traditionally used for inflammation. Studies have reported selective COX-2 inhibition.
 - Kino gum: traditionally used for wounds and bleeding. Studies have reported astringent and [antimicrobial](/reference/antimicrobial/) properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Irfan Dar M, Qureshi MI, Zahiruddin S and others 2022. [In Silico Analysis of PTP1B Inhibitors and TLC-MS Bioautography-Based Identification of Free Radical Scavenging and α-Amylase Inhibitory Compounds from Heartwood Extract of Pterocarpus marsupium](https://pubmed.ncbi.nlm.nih.gov/36570189/). *ACS omega*. PMID [36570189](https://pubmed.ncbi.nlm.nih.gov/36570189/) · [doi:10.1021/acsomega.2c04283](https://doi.org/10.1021/acsomega.2c04283)  
   Identified [pterostilbene](/glossary/compounds-o-q/#pterostilbene) and epicatechin as specific PTP1B inhibitors and alpha-amylase inhibitors through bioautography-guided isolation and molecular docking.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

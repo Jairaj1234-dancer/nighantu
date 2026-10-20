@@ -19,10 +19,9 @@ productHints: []
 words: 331
 srcRel: "_Hub/Pharmacology/Analgesic.md"
 ---
-*224 herbs and compounds with analgesic activity across traditions*
+*37 herbs and compounds with analgesic activity*
 
-## Ayurveda (109)
-
+## Ayurveda (37)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
 - [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
 - [Ahiphena](/herb/ahiphena/), *Papaver somniferum L.*

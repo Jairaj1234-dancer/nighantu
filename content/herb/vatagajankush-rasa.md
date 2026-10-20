@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Sciatica (Gridhrasi): traditionally used for Vata-predominant nerve pain conditions. A clinical study reported improvement in symptoms.
 - Joint pain and arthritis (Sandhivata/Amavata): used in classical practice for musculoskeletal disorders.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chopra A, Saluja M, Tillu G 2010. [Ayurveda-modern medicine interface: A critical appraisal of studies of Ayurvedic medicines to treat osteoarthritis and rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/21547047/). *Journal of Ayurveda and integrative medicine*. PMID [21547047](https://pubmed.ncbi.nlm.nih.gov/21547047/) · [doi:10.4103/0975-9476.72620](https://doi.org/10.4103/0975-9476.72620)  
   Review noted that Ayurvedic herbo-mineral formulations including [Vatagajankush Rasa](/herb/vatagajankush-rasa/) showed promise in managing chronic pain and reducing inflammatory markers, but more large-scale randomized controlled trials are needed for standardized dosing and safety parameters.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

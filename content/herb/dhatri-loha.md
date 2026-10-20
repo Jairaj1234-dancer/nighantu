@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); recognized as classical Ayurvedic medicine under CCRAS (Central Council for Research in Ayurvedic Sciences), Ministry of AYUSH, Government of India"
 aliases: ["Dhatri Loha", "DhatriLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 471
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Dhatri-Loha/meta-analysis.md"
@@ -39,17 +39,17 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Pandu Roga (iron deficiency anemia): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin levels.
 - Digestive disorders with acid peptic symptoms: traditionally used for these complaints. The formulation includes Amalaki and [Yashtimadhu](/herb/yashtimadhu/) as components.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Srikanth N, Rao BC, Yadav B and others 2021. [Dhatri Lauha in the management of iron deficiency anemia: A prospective open-label single-arm multi-center trial](https://pubmed.ncbi.nlm.nih.gov/37153071/). *Ayu*. PMID [37153071](https://pubmed.ncbi.nlm.nih.gov/37153071/) · [doi:10.4103/ayu.ayu_379_21](https://doi.org/10.4103/ayu.ayu_379_21)  
   Multi-center trial across 12 centers (40 participants/site) showed Dhatri Lauha 500 mg twice daily for 45 days significantly improved hemoglobin, RBC, and iron metabolism parameters in IDA patients; well tolerated and clinically safe
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -46,21 +46,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Psoriasis: a review and transdermal patch studies have reported combined anti-psoriatic activity of indigo, indirubin, and tryptanthrin.
 - Hair and scalp health: traditionally used as a hair dye and conditioner. An EU safety assessment has reported on its safety for hair coloring applications.
 - Eczema: a pilot clinical study reported symptom improvement with a Nili extract gel.
 - Wound healing: animal studies have reported faster wound closure, increased collagen synthesis, and reduced inflammatory markers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Wang C, Yang P, Wang J and others 2024. [Evidence and potential mechanism of action of indigo naturalis and its active components in the treatment of psoriasis](https://pubmed.ncbi.nlm.nih.gov/39316667/). *Annals of medicine*. PMID [39316667](https://pubmed.ncbi.nlm.nih.gov/39316667/) · [doi:10.1080/07853890.2024.2329261](https://doi.org/10.1080/07853890.2024.2329261)  
   Comprehensive review confirmed that indigo, indirubin, and tryptanthrin work synergistically to treat psoriasis through keratinocyte proliferation inhibition, IL-17 reduction, skin barrier improvement via claudin-1 upregulation, and neutrophil inflammation suppression.
 - Wang P, Gao J, Guo S and others 2023. [Benefits of topical indigo naturalis nanofibrous patch on psoriatic skin: A transdermal strategy for botanicals](https://pubmed.ncbi.nlm.nih.gov/37593218/). *Materials today. Bio*. PMID [37593218](https://pubmed.ncbi.nlm.nih.gov/37593218/) · [doi:10.1016/j.mtbio.2023.100756](https://doi.org/10.1016/j.mtbio.2023.100756)  
   Indigo naturalis nanofibrous transdermal patches demonstrated enhanced delivery of indirubin and tryptanthrin to psoriatic skin, with significant reduction in inflammatory markers and improved clinical outcomes.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

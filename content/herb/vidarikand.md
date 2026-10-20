@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a [Rasayana](/reference/rasayana/) (rejuvenative) and [Vajikarana](/glossary/pharmacology/#vajikarana) ([aphrodisiac](/glossary/pharmacology/#aphrodisiac)). Animal studies have reported [nootropic](/glossary/pharmacology/#nootropic), [adaptogenic](/reference/adaptogenic/), and reproductive health effects.
 - Menopausal symptoms: a randomized clinical study of a standardized extract reported fewer hot flushes.
 - Balya (strength-promoting): traditionally used to promote strength. Pilot studies in athletes reported improved muscle recovery markers (creatine kinase).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bharti R, Chopra BS, Raut S and others 2020. [Pueraria tuberosa: A Review on Traditional Uses, Pharmacology, and Phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33708108/). *Frontiers in pharmacology*. PMID [33708108](https://pubmed.ncbi.nlm.nih.gov/33708108/) · [doi:10.3389/fphar.2020.582506](https://doi.org/10.3389/fphar.2020.582506)  
   Comprehensive review documenting [anticancer](/reference/anticancer/), anticonvulsant, [antidiabetic](/reference/antidiabetic/), anti-inflammatory, [antioxidant](/reference/antioxidant/), cardioprotective, [hepatoprotective](/reference/hepatoprotective/), [immunomodulatory](/reference/immunomodulatory/), nephroprotective, nootropic, and neuroprotective activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

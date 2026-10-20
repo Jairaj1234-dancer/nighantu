@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anupana (drug carrier): traditionally used as a carrier for other herbs, reflecting the Yogavahi concept. Studies have reported that honey may enhance the bioavailability of herbal compounds through osmotic facilitation, enzyme-mediated absorption, and tissue penetration.
 - Vrana Ropana (wound healing): traditionally used on wounds. Clinical studies have reported antibacterial, anti-inflammatory, and tissue-regenerative properties of honey in both acute and chronic wounds.
 - Kasa-Shwasa (cough and respiratory disorders): traditionally used for cough and respiratory complaints. Clinical studies have reported that honey reduced nocturnal cough in children more than dextromethorphan.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

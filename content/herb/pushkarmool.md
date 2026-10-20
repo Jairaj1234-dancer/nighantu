@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hridya (cardioprotective): traditionally used for the heart. Animal studies have reported HMG-CoA reductase inhibition and protection against myocardial ischemia.
 - Shwasahara (anti-asthmatic and bronchodilatory): traditionally used for asthma and breathing difficulty. Studies have reported bronchial smooth muscle relaxation and anti-histaminic activity.
 - Angina: traditionally used for angina. Preclinical studies have reported a coronary vasodilatory effect and lower myocardial oxygen demand.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Rathore S, Raj Y, Debnath P and others 2022. [Ethnopharmacology, phytochemistry, agrotechnology, and conservation of Inula racemosa Hook f. - A critically endangered medicinal plant of the western Himalaya](https://pubmed.ncbi.nlm.nih.gov/34600078/). *Journal of ethnopharmacology*. PMID [34600078](https://pubmed.ncbi.nlm.nih.gov/34600078/) · [doi:10.1016/j.jep.2021.114613](https://doi.org/10.1016/j.jep.2021.114613)  
   Documented critically endangered status and proposed agrotechnology protocols; confirmed broad spectrum of anti-inflammatory, [antimicrobial](/reference/antimicrobial/), and [hepatoprotective](/reference/hepatoprotective/) activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

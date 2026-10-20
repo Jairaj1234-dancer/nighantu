@@ -46,18 +46,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Wound healing (Vrana Ropana): traditionally used for wound healing. An in vitro study of an ethanolic leaf extract reported wound healing activity and increased collagen synthesis.
 - Skin disease (especially ringworm): the root is traditionally applied for skin disease, especially ringworm. Antimicrobial activity has been reported, though clinical evidence is limited.
 - Fragrance and aromatherapy for skin health: traditionally used in fragrance and aromatherapy. Its volatile compounds have been identified, including cis-jasmone, linalool, and benzyl acetate. Neuromodulatory and skin-soothing properties have been reported for these compounds.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Arun M, Satish S, Anima P 2016. [Evaluation of wound healing, antioxidant and antimicrobial efficacy of Jasminum auriculatum Vahl. leaves](https://pubmed.ncbi.nlm.nih.gov/27462552/). *Avicenna journal of phytomedicine*. PMID [27462552](https://pubmed.ncbi.nlm.nih.gov/27462552/)  
   Ethanolic leaf extract demonstrated potent wound healing activity with enhanced collagen synthesis, significant antioxidant DPPH scavenging activity, and broad-spectrum antimicrobial efficacy against wound-infecting pathogens.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

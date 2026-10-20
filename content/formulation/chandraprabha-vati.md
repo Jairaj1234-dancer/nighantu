@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Standardized according to the Ayurvedic Pharmacopoeia of India by the Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIM&H). One of the most widely prescribed classical formulations in Indian Ayurvedic practice."
 aliases: ["Chandraprabha Vati", "ChandraprabhaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 521
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/meta-analysis.md"
@@ -39,16 +39,16 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Urinary tract disorders and cystitis: traditionally used for urinary tract disorders and cystitis. An in vitro study on bladder cells reported anti-inflammatory activity.
 - Prameha/Diabetes: traditionally used for prameha. Animal studies have reported [antidiabetic](/reference/antidiabetic/) activity.
 - Metabolic syndrome: traditionally used for metabolic syndrome.
 - Male reproductive health and oligospermia: traditionally used for male reproductive health and oligospermia. A clinical study reported improvement in sperm count and motility.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*5 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

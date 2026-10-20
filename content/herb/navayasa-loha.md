@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); recognized classical Ayurvedic formulation under the Drugs and Cosmetics Act, 1940; standardization protocols established"
 aliases: ["Navayasa Loha", "NavayasaLoha"]
 tags: ["ayurveda", "loha", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 413
 srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Lohas-Iron-Preparations/Navayasa-Loha/meta-analysis.md"
@@ -40,16 +40,16 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical and observational studies have reported increases in hemoglobin, PCV, and RBC count.
 - General debility and weakness associated with anemia: traditionally used for this condition. Clinical studies have reported improvement in energy levels, appetite, and overall vitality.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

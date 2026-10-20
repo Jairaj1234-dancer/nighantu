@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali. Manufactured under Drug and Cosmetics Act, 1940 by licensed pharmacies."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 430
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Balarishta/meta-analysis.md"
@@ -38,16 +38,16 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - General debility and weakness post-illness: traditionally used for general debility and weakness after illness.
 - Rheumatic pain and joint disorders: traditionally used for rheumatic pain and joint disorders. Studies in arthritis models have reported anti-inflammatory activity.
 - Post-paralysis rehabilitation: traditionally used during recovery after paralysis. In classical practice, [Bala](/herb/bala/) is regarded as a nervine tonic.
 - Hemiplegia support: traditionally used as support in hemiplegia. Studies have reported [neuroprotective](/reference/neuroprotective/) activity and effects on neurotransmitters.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -58,7 +58,7 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 **Dosage Forms:** Arishta (fermented decoction), Syrup (modern), Capsules (modern)
 
-**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:24. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 569-571.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:24. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 569-571.
 
 **Bioavailability:** Alcohol medium enhances extraction and absorption of [Bala](/herb/bala/) alkaloids and [phytosterols](/glossary/compounds-o-q/#phytosterols). Fermentation produces novel metabolites. Adaptogenic compounds from [Ashwagandha](/herb/ashwagandha/) synergize in the fermented medium.
 
