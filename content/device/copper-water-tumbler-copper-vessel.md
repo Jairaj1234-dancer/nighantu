@@ -42,6 +42,6 @@ Daily drinking water (Tamra Jal) for immune support, digestive health, Tridosha 
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Regulated under food-grade vessel standards (FSSAI/BIS).
-- **Us Fda:** Not regulated as a medical device. Copper vessels for food contact must comply with FDA food contact material regulations (21 CFR).
-- **Eu Mdr:** Not classified as a medical device. Subject to EU food contact material regulations (EC 1935/2004).
+- **India (CDSCO):** Not classified as a medical device. Regulated under food-grade vessel standards (FSSAI/BIS).
+- **US (FDA):** Not regulated as a medical device. Copper vessels for food contact must comply with FDA food contact material regulations (21 CFR).
+- **EU (MDR):** Not classified as a medical device. Subject to EU food contact material regulations (EC 1935/2004).

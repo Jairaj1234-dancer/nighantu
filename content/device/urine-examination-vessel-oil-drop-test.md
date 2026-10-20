@@ -42,6 +42,6 @@ Assessment of Dosha imbalance through urine analysis. The direction, speed, and 
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device.
-- **Us Fda:** Not regulated as a medical device.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device.
+- **US (FDA):** Not regulated as a medical device.
+- **EU (MDR):** Not classified as a medical device.

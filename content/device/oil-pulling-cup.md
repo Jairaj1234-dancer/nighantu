@@ -44,6 +44,6 @@ Oral health, prevention of dental caries and gingivitis, strengthening gums and 
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. The cup itself is a general vessel.
-- **Us Fda:** Not regulated as a medical device. The oils used may be subject to cosmetic or supplement regulations.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device. The cup itself is a general vessel.
+- **US (FDA):** Not regulated as a medical device. The oils used may be subject to cosmetic or supplement regulations.
+- **EU (MDR):** Not classified as a medical device.

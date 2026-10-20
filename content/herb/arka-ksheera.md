@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Ksheera/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Arka [Ksheera](/herb/ksheera/)|[Arka](/herb/arka/) Ksheera |
+| English | Arka Ksheera |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

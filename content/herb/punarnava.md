@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gokshura](/herb/gokshura/) (diuretic and renal health combination - Punarnavadi [Guggulu](/formulation/guggulu/)|Punarnavadi Guggulu)
+- [Gokshura](/herb/gokshura/) (diuretic and renal health combination - [Punarnavadi Guggulu](/formulation/punarnavadi-guggulu/))
 - Mandoora Bhasma (iron + Punarnava for edema and anemia)
 - [Guduchi](/herb/guduchi/) (hepatoprotective and immunomodulatory)
 - [Varuna](/herb/varuna/) (urinary tract and renal health)

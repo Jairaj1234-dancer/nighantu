@@ -44,6 +44,6 @@ Therapeutic emesis for Kapha-dominant disorders: bronchial asthma, chronic cold,
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Considered general therapy furniture/equipment.
-- **Us Fda:** Emesis basins are general hospital supplies, not requiring specific FDA clearance.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device. Considered general therapy furniture/equipment.
+- **US (FDA):** Emesis basins are general hospital supplies, not requiring specific FDA clearance.
+- **EU (MDR):** Not classified as a medical device.

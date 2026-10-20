@@ -23,11 +23,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 
 | Language | Name |
 |----------|------|
-| English | Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita Amritaprasha [Ghrita](/herb/ghrita/)|Amritaprasha Ghrita |
+| English | Amrita Ghrita [Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/) |
 
 ## Where is it described in the classical texts?
 
-Bhavishya Ratnavali (Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam (Amritaprasha [Ghrita](/herb/ghrita/)|Amritaprasha Ghrita)
+Bhavishya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam ([Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/))
 
 ## How does it work?
 

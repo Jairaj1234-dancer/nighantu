@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-G
 
 | Language | Name |
 |----------|------|
-| English | Jatyadi [Ghrita](/herb/ghrita/)|Jatyadi Ghrita |
+| English | Jatyadi Ghrita |
 
 ## Where is it described in the classical texts?
 
@@ -48,7 +48,7 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 ## What do recent clinical trials show?
 
 - Mandrika I, Kumar S, Zandersone B and others 2021. [Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing](https://pubmed.ncbi.nlm.nih.gov/34306164/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [34306164](https://pubmed.ncbi.nlm.nih.gov/34306164/) · [doi:10.1155/2021/9991454](https://doi.org/10.1155/2021/9991454)  
-  Jatyadi [Ghrita](/herb/ghrita/)|Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
+  Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

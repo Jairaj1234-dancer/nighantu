@@ -43,6 +43,6 @@ Ear disorders (tinnitus, hearing loss, earache), TMJ disorders, neck stiffness, 
 
 ## Regulatory status
 
-- **India Cdsco:** Not specifically classified as a medical device.
-- **Us Fda:** Ear drops delivery devices may fall under Class I/II medical devices depending on design and claims.
-- **Eu Mdr:** May require classification if marketed as a medical device for ear treatment.
+- **India (CDSCO):** Not specifically classified as a medical device.
+- **US (FDA):** Ear drops delivery devices may fall under Class I/II medical devices depending on design and claims.
+- **EU (MDR):** May require classification if marketed as a medical device for ear treatment.

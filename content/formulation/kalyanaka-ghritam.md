@@ -23,11 +23,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka
 
 | Language | Name |
 |----------|------|
-| English | Kalyanaka [Ghrita](/herb/ghrita/)|Kalyanaka Ghrita [Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
+| English | [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) [Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam) |
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita (Kalyanaka [Ghrita](/herb/ghrita/)|Kalyanaka Ghrita); Chakradatta (Ksheerakalyanaka [Ghrita](/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
+Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concepts-a-m/#mahakalyanaka-ghritam)); Charaka Samhita ([Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)); Chakradatta (Ksheerakalyanaka [Ghrita](/herb/ghrita/)); Bhaisajya Ratnavali; Sharangadhara Samhita; Sahasrayoga
 
 ## How does it work?
 

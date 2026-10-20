@@ -240,11 +240,36 @@ export function wordCount(s) {
 }
 
 /**
+ * The vault's own auto-linker wrote links inside links, in the target or in the label:
+ *   [[Gokshuradi [[Guggulu|Guggulu]]|Gokshuradi Guggulu]]
+ *   [[Vrikshamla Phala|[[Vrikshamla|Vrikshamla]] Phala]]
+ * Resolving the inner one first published "Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi
+ * Guggulu". An inner link is reduced to its label, so the outer one resolves as written.
+ */
+export function flattenNestedWikilinks(text) {
+  const nested = /(\[\[[^\[\]]*)\[\[([^\[\]|]*)(?:\|([^\[\]]*))?\]\]/g;
+  let prev;
+  let out = text;
+  do { prev = out; out = out.replace(nested, (_a, head, t, l) => `${head}${l ?? t}`); } while (out !== prev);
+  return out;
+}
+
+/**
+ * Regulator labels as the vault types them ("India Cdsco") to the form a reader expects.
+ */
+const REGULATOR_LABELS = [
+  [/\*\*India Cdsco:\*\*/g, '**India (CDSCO):**'],
+  [/\*\*Us Fda:\*\*/g, '**US (FDA):**'],
+  [/\*\*Eu Mdr:\*\*/g, '**EU (MDR):**'],
+];
+export const fixRegulatorLabels = (text) => REGULATOR_LABELS.reduce((s, [re, to]) => s.replace(re, to), text);
+
+/**
  * Resolve [[wikilinks]]. `resolver(target)` returns a URL or null.
  * Unresolvable links render as plain text so no broken link is ever emitted.
  */
 export function resolveWikilinks(text, resolver) {
-  const out = text.replace(/\[\[([^\[\]]+)\]\]/g, (_all, inner) => {
+  const out = flattenNestedWikilinks(text).replace(/\[\[([^\[\]]+)\]\]/g, (_all, inner) => {
     const [rawTarget, rawLabel] = inner.split('|');
     const target = rawTarget.trim();
     const label = (rawLabel ?? rawTarget).trim();

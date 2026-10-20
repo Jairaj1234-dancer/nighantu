@@ -45,6 +45,6 @@ Primary therapy for Vata disorders, constipation, lower back pain, sciatica, art
 
 ## Regulatory status
 
-- **India Cdsco:** Modern enema equipment is classified under Class A/B medical devices when marketed for therapeutic use.
-- **Us Fda:** Enema kits are FDA-regulated Class I medical devices (Product Code FEF/FEG). 510(k) exempt in many cases.
-- **Eu Mdr:** Classified under Class I or IIa depending on invasiveness and intended use under EU MDR 2017/745.
+- **India (CDSCO):** Modern enema equipment is classified under Class A/B medical devices when marketed for therapeutic use.
+- **US (FDA):** Enema kits are FDA-regulated Class I medical devices (Product Code FEF/FEG). 510(k) exempt in many cases.
+- **EU (MDR):** Classified under Class I or IIa depending on invasiveness and intended use under EU MDR 2017/745.

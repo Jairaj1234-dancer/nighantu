@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-H
 
 | Language | Name |
 |----------|------|
-| English | Agastya [Haritaki](/herb/haritaki/) Rasayana|[Agastya](/herb/agastya/) [Haritaki](/herb/haritaki/) Rasayana |
+| English | Agastya Haritaki Rasayana |
 
 ## Where is it described in the classical texts?
 

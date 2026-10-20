@@ -618,7 +618,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | Phala Kalyana [Ghrita](/herb/ghrita/)|Phala Kalyana Ghrita |
+| English | Phala Kalyana Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1123,7 +1123,7 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
 
 | Language | Name |
 |----------|------|
-| English | Satavari [Ghrita](/herb/ghrita/)|Satavari Ghrita |
+| English | Satavari Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1442,7 +1442,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
 
 | Language | Name |
 |----------|------|
-| English | Shuddha [Guggulu](/formulation/guggulu/)|Shuddha Guggulu |
+| English | Shuddha Guggulu |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1662,9 +1662,9 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 #### Regulatory status
 
-- **India Cdsco:** Rubber catheters fall under Class A/B medical devices.
-- **Us Fda:** Nasal catheters are FDA-regulated Class I/II medical devices.
-- **Eu Mdr:** Classified under Class I or IIa depending on material and duration of use.
+- **India (CDSCO):** Rubber catheters fall under Class A/B medical devices.
+- **US (FDA):** Nasal catheters are FDA-regulated Class I/II medical devices.
+- **EU (MDR):** Classified under Class I or IIa depending on material and duration of use.
 
 ### Svalpa Khadiradi Vati {#svalpa-khadiradi-vati}
 
@@ -1672,7 +1672,7 @@ Deep nasal cleansing, removal of chronic nasal blockages, preparation for advanc
 
 | Language | Name |
 |----------|------|
-| English | Svalpa [Khadiradi Vati](/formulation/khadiradi-vati/)|Svalpa Khadiradi Vati |
+| English | Svalpa Khadiradi Vati |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1810,9 +1810,9 @@ Slow evaporation, gentle drying, and low-temperature processing of sensitive Ras
 
 #### Regulatory status
 
-- **India Cdsco:** Not classified as a medical device.
-- **Us Fda:** Not regulated as a medical device.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device.
+- **US (FDA):** Not regulated as a medical device.
+- **EU (MDR):** Not classified as a medical device.
 
 ### Tuttha {#tuttha}
 
@@ -2205,9 +2205,9 @@ Therapeutic venesection for Pitta-Rakta disorders, hypertension, skin diseases, 
 
 #### Regulatory status
 
-- **India Cdsco:** Lancets and phlebotomy needles are Class A/B medical devices under CDSCO MDR 2017.
-- **Us Fda:** Blood lancets are Class I/II medical devices (various product codes).
-- **Eu Mdr:** Class IIa medical devices under EU MDR.
+- **India (CDSCO):** Lancets and phlebotomy needles are Class A/B medical devices under CDSCO MDR 2017.
+- **US (FDA):** Blood lancets are Class I/II medical devices (various product codes).
+- **EU (MDR):** Class IIa medical devices under EU MDR.
 
 ### Vidaryadi Kashayam {#vidaryadi-kashayam}
 
@@ -2315,9 +2315,9 @@ Complex distillation and sublimation of mercury compounds and other volatile met
 
 #### Regulatory status
 
-- **India Cdsco:** Pharmaceutical equipment under AYUSH GMP.
-- **Us Fda:** Subject to cGMP requirements.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Pharmaceutical equipment under AYUSH GMP.
+- **US (FDA):** Subject to cGMP requirements.
+- **EU (MDR):** Not classified as a medical device.
 
 ### Vite React Shadcn Ts {#vite-react-shadcn-ts}
 

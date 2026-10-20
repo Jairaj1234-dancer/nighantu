@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 | Language | Name |
 |----------|------|
-| English | Vyaghri [Haritaki](/herb/haritaki/)|Vyaghri Haritaki |
+| English | Vyaghri Haritaki |
 | Latin/Botanical | *Polyherbal formulation: Solanum surattense Burm.f. ([Kantakari](/herb/kantakari/)/Vyaghri) + Terminalia chebula Retz. ([Haritaki](/herb/haritaki/)) as principal herbs* |
 
 ## Key Phytochemical Constituents

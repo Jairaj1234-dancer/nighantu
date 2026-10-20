@@ -64,6 +64,6 @@ Objective, reproducible Ayurvedic pulse diagnosis. Assessment of Tridosha balanc
 
 ## Regulatory status
 
-- **India Cdsco:** CDSCO license applied and acknowledged. AIPL is ISO 13485:2016 certified. First Ayurvedic diagnostic device to receive CDSCO recognition.
-- **Us Fda:** Not FDA-cleared. Would likely require 510(k) or De Novo classification as a novel diagnostic device.
-- **Eu Mdr:** Not CE-marked. Would require classification under EU MDR, likely Class IIa as a non-invasive diagnostic device.
+- **India (CDSCO):** CDSCO license applied and acknowledged. AIPL is ISO 13485:2016 certified. First Ayurvedic diagnostic device to receive CDSCO recognition.
+- **US (FDA):** Not FDA-cleared. Would likely require 510(k) or De Novo classification as a novel diagnostic device.
+- **EU (MDR):** Not CE-marked. Would require classification under EU MDR, likely Class IIa as a non-invasive diagnostic device.

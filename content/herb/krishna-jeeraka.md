@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 
 | Language | Name |
 |----------|------|
-| English | Krishna [Jeeraka](/herb/jeeraka/)|Krishna Jeeraka |
+| English | Krishna Jeeraka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

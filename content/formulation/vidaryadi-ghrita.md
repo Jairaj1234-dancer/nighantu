@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Vidaryadi
 
 | Language | Name |
 |----------|------|
-| English | Vidaryadi [Ghrita](/herb/ghrita/)|Vidaryadi Ghrita |
+| English | Vidaryadi Ghrita |
 
 ## Key Ingredients
 

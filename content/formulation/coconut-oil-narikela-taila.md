@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 
 | Language | Name |
 |----------|------|
-| English | Coconut Oil [Narikela](/herb/narikela/) Taila|[Coconut Oil](/glossary/concepts-a-m/#coconut-oil) [Narikela](/herb/narikela/) Taila |
+| English | Coconut Oil Narikela Taila |
 
 ## Key Phytochemical Constituents
 

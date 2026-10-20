@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Triphala-Gug
 
 | Language | Name |
 |----------|------|
-| English | Triphala [Guggulu](/formulation/guggulu/)|[Triphala](/herb/triphala/) Guggulu |
+| English | Triphala Guggulu |
 
 ## Where is it described in the classical texts?
 

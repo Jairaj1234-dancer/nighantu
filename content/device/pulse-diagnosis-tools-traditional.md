@@ -43,6 +43,6 @@ Assessment of Tridosha (Vata-Pitta-Kapha) balance and imbalance through pulse qu
 
 ## Regulatory status
 
-- **India Cdsco:** Traditional method requires no device regulation. Modern pulse diagnostic devices (see Nadi Tarangini below) are subject to CDSCO classification.
-- **Us Fda:** Traditional method not applicable. Modern sensor-based devices would require FDA classification.
-- **Eu Mdr:** Traditional method not applicable.
+- **India (CDSCO):** Traditional method requires no device regulation. Modern pulse diagnostic devices (see Nadi Tarangini below) are subject to CDSCO classification.
+- **US (FDA):** Traditional method not applicable. Modern sensor-based devices would require FDA classification.
+- **EU (MDR):** Traditional method not applicable.

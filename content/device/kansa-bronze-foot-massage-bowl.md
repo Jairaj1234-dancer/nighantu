@@ -42,6 +42,6 @@ Foot massage for improving sleep, reducing eye strain, calming Pitta, stimulatin
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device.
-- **Us Fda:** Not regulated as a medical device.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device.
+- **US (FDA):** Not regulated as a medical device.
+- **EU (MDR):** Not classified as a medical device.

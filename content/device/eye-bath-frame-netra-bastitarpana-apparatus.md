@@ -27,7 +27,7 @@ Sushruta Samhita Uttara Tantra (Shalakya Tantra - ophthalmology section); Ashtan
 
 ## How is it used traditionally?
 
-Eye rejuvenation, dry eyes, eye strain (computer vision syndrome), early cataracts, refractive errors, optic nerve nourishment, and prevention of eye diseases. Medicated ghee ([Triphala](/herb/triphala/) [Ghrita](/herb/ghrita/), Mahatriphala [Ghrita](/herb/ghrita/)|Mahatriphala Ghrita) is used.
+Eye rejuvenation, dry eyes, eye strain (computer vision syndrome), early cataracts, refractive errors, optic nerve nourishment, and prevention of eye diseases. Medicated ghee ([Triphala](/herb/triphala/) [Ghrita](/herb/ghrita/), Mahatriphala Ghrita) is used.
 
 ## Traditional materials
 
@@ -44,6 +44,6 @@ Eye rejuvenation, dry eyes, eye strain (computer vision syndrome), early catarac
 
 ## Regulatory status
 
-- **India Cdsco:** Frames/molds not classified as medical devices. Medicated ghee preparations regulated as Ayurvedic medicines under AYUSH.
-- **Us Fda:** Silicone frames could potentially fall under Class I general controls if marketed for therapeutic ophthalmic use.
-- **Eu Mdr:** May require Class I or IIa classification if marketed as an ophthalmic therapeutic device.
+- **India (CDSCO):** Frames/molds not classified as medical devices. Medicated ghee preparations regulated as Ayurvedic medicines under AYUSH.
+- **US (FDA):** Silicone frames could potentially fall under Class I general controls if marketed for therapeutic ophthalmic use.
+- **EU (MDR):** May require Class I or IIa classification if marketed as an ophthalmic therapeutic device.

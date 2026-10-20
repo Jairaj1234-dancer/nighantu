@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Amritar
 
 ### Synergistic Combinations
 
-- Amrita [Ghrita](/herb/ghrita/)|Amrita Ghrita
+- [Amrita Ghrita](/formulation/amrita-ghrita/)
 - [Guduchi](/herb/guduchi/) Satva
 - Sudarshana Churna
 - Panchanimba Churna

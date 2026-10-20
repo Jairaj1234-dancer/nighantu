@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 ### Synergistic Combinations
 
-- Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi Guggulu
+- [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/)
 - [Chandraprabha](/herb/chandraprabha/) Vati
 - [Varunadi Kwath](/glossary/concepts-m-y/#varunadi-kwath)
 - [Punarnava](/herb/punarnava/) Kwath

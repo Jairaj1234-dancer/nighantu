@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Simhanada-Gu
 
 | Language | Name |
 |----------|------|
-| English | Simhanada [Guggulu](/formulation/guggulu/)|Simhanada Guggulu |
+| English | Simhanada Guggulu |
 
 ## Where is it described in the classical texts?
 

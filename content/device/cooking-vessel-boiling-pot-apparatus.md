@@ -45,6 +45,6 @@ Preparation of Kashaya (decoction - reduced to 1/4), Hima (cold infusion), Phant
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as medical devices. Manufacturing equipment under AYUSH GMP.
-- **Us Fda:** Pharmaceutical manufacturing equipment under cGMP.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Not classified as medical devices. Manufacturing equipment under AYUSH GMP.
+- **US (FDA):** Pharmaceutical manufacturing equipment under cGMP.
+- **EU (MDR):** Not classified as medical devices.

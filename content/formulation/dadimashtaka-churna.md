@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dadimashtaka-Chur
 
 ### Synergistic Combinations
 
-- Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita
+- [Dadimadi Ghrita](/formulation/dadimadi-ghrita/)
 - [Bilwadi Leha](/formulation/bilwadi-leha/)
 - [Kutajarishta](/formulation/kutajarishta/)
 - Lavanbhaskar Churna

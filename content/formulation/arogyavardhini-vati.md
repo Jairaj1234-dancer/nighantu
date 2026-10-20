@@ -83,5 +83,5 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 - [Kumaryasava](/formulation/kumaryasava/)
 - Punarnavadi Mandura
-- Triphala [Guggulu](/formulation/guggulu/)|[Triphala](/herb/triphala/) Guggulu
+- [Triphala Guggulu](/formulation/triphala-guggulu/)
 - [Guduchi](/herb/guduchi/) Satva

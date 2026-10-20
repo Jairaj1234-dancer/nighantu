@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Rakta [Chandana](/herb/chandana/)|Rakta Chandana |
+| English | Rakta Chandana |
 | Latin/Botanical | *Pterocarpus santalinus L.f.* |
 
 ## Key Phytochemical Constituents

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Changeri-
 
 | Language | Name |
 |----------|------|
-| English | Changeri [Ghrita](/herb/ghrita/)|[Changeri](/herb/changeri/) Ghrita |
+| English | Changeri Ghrita |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

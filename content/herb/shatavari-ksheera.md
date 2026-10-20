@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Shatavari [Ksheera](/herb/ksheera/)|[Shatavari](/herb/shatavari/) Ksheera |
+| English | Shatavari Ksheera |
 | Latin/Botanical | *Asparagus racemosus Willd.* |
 
 ## Key Phytochemical Constituents

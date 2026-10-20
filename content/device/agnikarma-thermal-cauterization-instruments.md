@@ -46,6 +46,6 @@ Chronic musculoskeletal pain, plantar fasciitis, tennis elbow, frozen shoulder, 
 
 ## Regulatory status
 
-- **India Cdsco:** Traditional Agnikarma instruments not separately classified. Practice regulated under AYUSH para-surgical guidelines. Electrocautery devices are Class B/C medical devices.
-- **Us Fda:** Electrocautery equivalents are Class II medical devices. Traditional rods not specifically classified.
-- **Eu Mdr:** Electrocautery devices classified Class IIa/IIb.
+- **India (CDSCO):** Traditional Agnikarma instruments not separately classified. Practice regulated under AYUSH para-surgical guidelines. Electrocautery devices are Class B/C medical devices.
+- **US (FDA):** Electrocautery equivalents are Class II medical devices. Traditional rods not specifically classified.
+- **EU (MDR):** Electrocautery devices classified Class IIa/IIb.
