@@ -233,14 +233,17 @@ if (fs.existsSync(DIST)) {
    * reason this was ever found was a research pass rather than a check. One page was in this state
    * when it was found, the Ashwagandha monograph, which is among the most visited on the site.
    *
-   * The terms are the ones the statute names, plus the sperm, fertility and conception wording
-   * that its s.3(a) and (b) limbs and the Schedule's sterility entry reach.
+   * The terms are the ones the statute names, plus the sperm, fertility, conception, menstrual
+   * and uterine wording that its s.3 limbs and the Schedule's entries reach.
    */
   const SCHEDULED_TERMS = [
     'aphrodisiac', 'vajikarana', 'sexual pleasure', 'sexual vigour', 'sexual vigor',
     'libido', 'impotence', 'erectile', 'premature ejaculation', 'spermatogenic',
     'sperm', 'oligosperm', 'azoosperm', 'fertility', 'infertil', 'antifertil', 'vandhyatva',
     'abortifacient', 'miscarriage', 'contracept',
+    'menstrua', 'menses', 'amenorrh', 'dysmenorrh', 'menorrhag', 'metrorrhag', 'oligomenorrh',
+    'emmenagog', 'artava', 'pradara',
+    'uterus', 'uterine', 'yonivyapa', 'leucorrh', 'leukorrh', 'polycystic', 'pcos', 'gynec', 'gynaec',
   ];
   for (const f of htmlFiles) {
     const html = fs.readFileSync(f, 'utf8');
