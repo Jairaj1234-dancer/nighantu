@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Raw resin (for processing), Shuddha [Guggulu](/formulation/guggulu/)|Shuddha Guggulu (purified), Powder, Capsules (modern)
+**Dosage Forms:** Raw resin (for processing), Shuddha Guggulu (purified), Powder, Capsules (modern)
 
 **Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily.
 

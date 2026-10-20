@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Vyoshadi-Gug
 
 | Language | Name |
 |----------|------|
-| English | Vyoshadi [Guggulu](/formulation/guggulu/)|Vyoshadi Guggulu |
+| English | Vyoshadi Guggulu |
 
 ## Where is it described in the classical texts?
 
@@ -41,7 +41,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 - Thyroid function support (Galaganda) validated in RCT showing 16.61% TSH reduction with no adverse effects over 60-day treatment
 - Respiratory congestion and common cold (Pratishyaya) management validated through 30% improvement in cough frequency in clinical study
-- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi [Guggulu](/formulation/guggulu/)|Vyoshadi Guggulu with [Haritaki](/herb/haritaki/) Churna
+- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi Guggulu with [Haritaki](/herb/haritaki/) Churna
 - Voice hoarseness and throat disorders validated through anti-inflammatory and mucosal-strengthening mechanisms of combined ingredients
 
 ## What do recent clinical trials show?

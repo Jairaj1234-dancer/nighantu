@@ -43,6 +43,6 @@ Pelvic disorders, hemorrhoids (Arsha), fistula-in-ano (Bhagandara), urinary diso
 
 ## Regulatory status
 
-- **India Cdsco:** Not separately classified as a medical device.
-- **Us Fda:** Sitz baths are Class I medical devices (Product Code FMC), 510(k) exempt.
-- **Eu Mdr:** Class I medical device if therapeutic claims are made.
+- **India (CDSCO):** Not separately classified as a medical device.
+- **US (FDA):** Sitz baths are Class I medical devices (Product Code FMC), 510(k) exempt.
+- **EU (MDR):** Class I medical device if therapeutic claims are made.

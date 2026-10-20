@@ -76,7 +76,7 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 ### Synergistic Combinations
 
-- Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi Guggulu
+- [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/)
 - Punarnavadi Kwath
 - Shilapravang Vati
 - [Varunadi Kwath](/glossary/concepts-m-y/#varunadi-kwath)

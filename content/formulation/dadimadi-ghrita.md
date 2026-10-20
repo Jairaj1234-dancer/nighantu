@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Dadimadi-
 
 | Language | Name |
 |----------|------|
-| English | Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita |
+| English | Dadimadi Ghrita |
 
 ## Where is it described in the classical texts?
 

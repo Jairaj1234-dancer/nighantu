@@ -43,6 +43,6 @@ Facial massage for lymphatic drainage, reducing puffiness, improving circulation
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Marketed as a wellness/beauty tool.
-- **Us Fda:** Not regulated as a medical device. Considered a cosmetic/wellness tool unless medical claims are made.
-- **Eu Mdr:** Not classified as a medical device. Considered a cosmetic accessory.
+- **India (CDSCO):** Not classified as a medical device. Marketed as a wellness/beauty tool.
+- **US (FDA):** Not regulated as a medical device. Considered a cosmetic/wellness tool unless medical claims are made.
+- **EU (MDR):** Not classified as a medical device. Considered a cosmetic accessory.

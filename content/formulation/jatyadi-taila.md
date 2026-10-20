@@ -78,7 +78,7 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ### Synergistic Combinations
 
-- Jatyadi [Ghrita](/herb/ghrita/)|Jatyadi Ghrita (ghee variant)
+- [Jatyadi Ghrita](/formulation/jatyadi-ghrita/) (ghee variant)
 - [Triphala](/herb/triphala/) Kwath (wound wash)
 - Kaishore [Guggulu](/formulation/guggulu/) (internal)
 - [Gandhaka](/glossary/concepts-a-m/#gandhaka) [Rasayana](/reference/rasayana/) (internal)

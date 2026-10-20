@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Gokshuradi-G
 
 | Language | Name |
 |----------|------|
-| English | Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi Guggulu |
+| English | Gokshuradi Guggulu |
 
 ## Where is it described in the classical texts?
 

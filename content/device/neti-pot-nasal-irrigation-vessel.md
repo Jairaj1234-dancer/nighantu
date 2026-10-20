@@ -44,6 +44,6 @@ Nasal congestion, sinusitis, allergies, post-nasal drip, improving breathing and
 
 ## Regulatory status
 
-- **India Cdsco:** Not specifically classified under CDSCO MDR 2017 as a medical device.
-- **Us Fda:** FDA considers nasal irrigation devices (including neti pots) as medical devices. The FDA has issued safety guidance: must use distilled, sterile, or previously boiled water - tap water is not safe. FDA has issued multiple consumer safety warnings.
-- **Eu Mdr:** May be classified as Class I medical device if marketed with therapeutic claims under EU MDR 2017/745.
+- **India (CDSCO):** Not specifically classified under CDSCO MDR 2017 as a medical device.
+- **US (FDA):** FDA considers nasal irrigation devices (including neti pots) as medical devices. The FDA has issued safety guidance: must use distilled, sterile, or previously boiled water - tap water is not safe. FDA has issued multiple consumer safety warnings.
+- **EU (MDR):** May be classified as Class I medical device if marketed with therapeutic claims under EU MDR 2017/745.

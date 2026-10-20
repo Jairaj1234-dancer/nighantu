@@ -44,6 +44,6 @@ ENT disorders, sinusitis, headaches, neurological conditions, facial paralysis, 
 
 ## Regulatory status
 
-- **India Cdsco:** Nasya droppers not separately classified. Nasya Peeth chairs classified as therapy furniture, not medical devices.
-- **Us Fda:** Nasal instillation devices may fall under Class I nasal irrigators or drug delivery devices depending on claims.
-- **Eu Mdr:** Would depend on whether classified as a device or drug delivery system under EU MDR.
+- **India (CDSCO):** Nasya droppers not separately classified. Nasya Peeth chairs classified as therapy furniture, not medical devices.
+- **US (FDA):** Nasal instillation devices may fall under Class I nasal irrigators or drug delivery devices depending on claims.
+- **EU (MDR):** Would depend on whether classified as a device or drug delivery system under EU MDR.

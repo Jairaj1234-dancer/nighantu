@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 **Dosage Forms:** Churna (fruit powder), Kashayam (decoction), Ghana Vati (solid extract tablet), Capsule, Kwath Ghana, Taila (medicated oil), Component of Gokshuradi formulations
 
-**Standard Dosage:** 3-6g fruit powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule/tablet twice daily; Gokshuradi [Guggulu](/formulation/guggulu/)|Gokshuradi Guggulu: 2-4 tablets twice daily
+**Standard Dosage:** 3-6g fruit powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule/tablet twice daily; [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/): 2-4 tablets twice daily
 
 **Bioavailability:** Tribulus terrestris fruit contains steroidal saponins (protodioscin, protogracillin - collectively 'Tribulus saponins'), [flavonoids](/reference/flavonoids/), and [alkaloids](/glossary/compounds-1-a/#alkaloids) (harmine, harmaline). Protodioscin has moderate oral bioavailability (15-30%) with conversion to [diosgenin](/glossary/compounds-d-g/#diosgenin) by gut microbiota. Furostanol saponins are converted to spirostanol forms in the GI tract. The fruit spines contain concentrated saponins. Alkaloid fraction (harmine group) has good oral bioavailability but is present in small quantities. Enhancement: saponin-phospholipid complex (phytosome); co-administration with [Trikatu](/herb/trikatu/); SNEDDS for saponin-rich fraction.
 

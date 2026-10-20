@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-G
 
 | Language | Name |
 |----------|------|
-| English | Kanchanara [Guggulu](/formulation/guggulu/)|Kanchanara Guggulu |
+| English | Kanchanara Guggulu |
 
 ## Where is it described in the classical texts?
 

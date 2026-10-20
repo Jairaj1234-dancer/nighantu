@@ -42,6 +42,6 @@ Daily hydration with copper-infused water for immune support, digestive health, 
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Subject to food-grade standards (BIS/FSSAI).
-- **Us Fda:** Not regulated as a medical device. Copper water vessels subject to food contact material safety standards.
-- **Eu Mdr:** Not classified as a medical device. Subject to EU food contact regulations.
+- **India (CDSCO):** Not classified as a medical device. Subject to food-grade standards (BIS/FSSAI).
+- **US (FDA):** Not regulated as a medical device. Copper water vessels subject to food contact material safety standards.
+- **EU (MDR):** Not classified as a medical device. Subject to EU food contact regulations.

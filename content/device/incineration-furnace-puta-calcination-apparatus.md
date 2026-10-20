@@ -44,6 +44,6 @@ Preparation of Bhasma (calcined metallic/mineral ash), Sindura, and other Rasaus
 
 ## Regulatory status
 
-- **India Cdsco:** Furnaces not classified as medical devices. Bhasma manufacturing facilities regulated under AYUSH GMP and Drug & Cosmetics Act Schedule T.
-- **Us Fda:** Manufacturing equipment subject to cGMP if products are sold in the US.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Furnaces not classified as medical devices. Bhasma manufacturing facilities regulated under AYUSH GMP and Drug & Cosmetics Act Schedule T.
+- **US (FDA):** Manufacturing equipment subject to cGMP if products are sold in the US.
+- **EU (MDR):** Not classified as medical devices.

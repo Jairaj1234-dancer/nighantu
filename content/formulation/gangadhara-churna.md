@@ -62,5 +62,5 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 - [Kutajarishta](/formulation/kutajarishta/)
 - [Bilwadi Leha](/formulation/bilwadi-leha/)
-- Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita
-- Changeri [Ghrita](/herb/ghrita/)|[Changeri](/herb/changeri/) Ghrita
+- [Dadimadi Ghrita](/formulation/dadimadi-ghrita/)
+- [Changeri Ghrita](/formulation/changeri-ghrita/)

@@ -44,6 +44,6 @@ Treatment of insomnia, anxiety, neurological disorders, migraines, stress, PTSD,
 
 ## Regulatory status
 
-- **India Cdsco:** Not separately classified as a medical device under CDSCO MDR 2017. Regulated as Panchakarma therapy equipment under AYUSH ministry guidelines.
-- **Us Fda:** Not specifically regulated. Would fall under general wellness device if no medical claims are made.
-- **Eu Mdr:** Not specifically classified. May fall under Class I if marketed as a medical device with therapeutic claims.
+- **India (CDSCO):** Not separately classified as a medical device under CDSCO MDR 2017. Regulated as Panchakarma therapy equipment under AYUSH ministry guidelines.
+- **US (FDA):** Not specifically regulated. Would fall under general wellness device if no medical claims are made.
+- **EU (MDR):** Not specifically classified. May fall under Class I if marketed as a medical device with therapeutic claims.

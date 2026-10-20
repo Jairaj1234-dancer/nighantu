@@ -91,4 +91,4 @@ Bhaishajya Ratnavali; Sharangadhara Samhita; Kerala Ayurveda tradition (medieval
 - [Kutajarishta](/formulation/kutajarishta/)
 - [Gangadhara Churna](/formulation/gangadhara-churna/)
 - Bilwa Churna
-- Dadimadi [Ghrita](/herb/ghrita/)|Dadimadi Ghrita
+- [Dadimadi Ghrita](/formulation/dadimadi-ghrita/)

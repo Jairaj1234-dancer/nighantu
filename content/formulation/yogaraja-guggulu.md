@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Yogaraja-Gug
 
 | Language | Name |
 |----------|------|
-| English | Yogaraja [Guggulu](/formulation/guggulu/)|Yogaraja Guggulu |
+| English | Yogaraja Guggulu |
 
 ## Where is it described in the classical texts?
 

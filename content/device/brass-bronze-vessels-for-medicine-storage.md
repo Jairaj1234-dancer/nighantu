@@ -43,6 +43,6 @@ Storage of medicated oils (Taila), ghees ([Ghrita](/herb/ghrita/)), decoctions (
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as medical devices. Subject to food-grade vessel standards.
-- **Us Fda:** Subject to food contact material regulations if used for consumables.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Not classified as medical devices. Subject to food-grade vessel standards.
+- **US (FDA):** Subject to food contact material regulations if used for consumables.
+- **EU (MDR):** Not classified as medical devices.

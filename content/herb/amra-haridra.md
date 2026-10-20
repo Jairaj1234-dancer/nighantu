@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Amra [Haridra](/herb/haridra/)|[Amra](/herb/amra/) Haridra |
+| English | Amra Haridra |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

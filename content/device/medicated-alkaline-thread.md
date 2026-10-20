@@ -44,6 +44,6 @@ Fistula-in-ano (Bhagandara) - primary indication. Also used for hemorrhoids (Ars
 
 ## Regulatory status
 
-- **India Cdsco:** Kshara Sutra is recognized as a validated Ayurvedic surgical procedure. ICMR-validated. Taught in BAMS curriculum. Regulated under AYUSH surgical practice guidelines.
-- **Us Fda:** Not FDA-cleared. Would require regulatory pathway determination (likely Class II or III) if marketed as a medical device in the US.
-- **Eu Mdr:** Not CE-marked. Would require classification under EU MDR (likely Class III due to implantable/invasive nature).
+- **India (CDSCO):** Kshara Sutra is recognized as a validated Ayurvedic surgical procedure. ICMR-validated. Taught in BAMS curriculum. Regulated under AYUSH surgical practice guidelines.
+- **US (FDA):** Not FDA-cleared. Would require regulatory pathway determination (likely Class II or III) if marketed as a medical device in the US.
+- **EU (MDR):** Not CE-marked. Would require classification under EU MDR (likely Class III due to implantable/invasive nature).

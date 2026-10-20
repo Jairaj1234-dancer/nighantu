@@ -40,6 +40,6 @@ Blood sugar management (Prameha/Madhumeha), cholesterol reduction, anti-obesity,
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. However, [Vijaysar](/herb/vijaysar/)-based oral preparations are approved Ayurvedic medicines under AYUSH. The tumbler is sold as a traditional wellness product.
-- **Us Fda:** Not regulated as a medical device or drug. Would be considered a dietary supplement delivery method if health claims are made.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device. However, [Vijaysar](/herb/vijaysar/)-based oral preparations are approved Ayurvedic medicines under AYUSH. The tumbler is sold as a traditional wellness product.
+- **US (FDA):** Not regulated as a medical device or drug. Would be considered a dietary supplement delivery method if health claims are made.
+- **EU (MDR):** Not classified as a medical device.

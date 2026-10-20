@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Ashoka-Gh
 
 | Language | Name |
 |----------|------|
-| English | Ashoka [Ghrita](/herb/ghrita/)|[Ashoka](/herb/ashoka/) Ghrita |
+| English | Ashoka Ghrita |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

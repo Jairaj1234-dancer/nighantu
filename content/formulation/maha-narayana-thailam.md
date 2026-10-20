@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Naraya
 
 | Language | Name |
 |----------|------|
-| English | Maha [Narayana Thailam](/formulation/narayana-thailam/)|Maha Narayana Thailam |
+| English | Maha Narayana Thailam |
 
 ## Where is it described in the classical texts?
 

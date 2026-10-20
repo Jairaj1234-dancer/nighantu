@@ -23,11 +23,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchatik
 
 | Language | Name |
 |----------|------|
-| English | Panchatikta [Ghrita](/herb/ghrita/)|Panchatikta Ghrita Mahatiktaka [Ghrita](/herb/ghrita/)|Mahatiktaka Ghrita |
+| English | Panchatikta Ghrita Mahatiktaka Ghrita |
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali Kushta Adhikara (Panchatikta [Ghrita](/herb/ghrita/)|Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka [Ghrita](/herb/ghrita/)|Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
+Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Ashtanga Hridayam (Mahatiktaka Ghrita); Charaka Samhita Chikitsa Sthana; Sushruta Samhita
 
 ## How does it work?
 

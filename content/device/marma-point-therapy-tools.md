@@ -45,6 +45,6 @@ Stimulation of Marma points for pain relief, energy balancing, muscle relaxation
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as medical devices. Marketed as wellness tools.
-- **Us Fda:** Not regulated as medical devices unless electronic or making specific medical claims. Acupressure devices are generally unregulated.
-- **Eu Mdr:** Not classified as medical devices. May require classification if electronic stimulation is involved.
+- **India (CDSCO):** Not classified as medical devices. Marketed as wellness tools.
+- **US (FDA):** Not regulated as medical devices unless electronic or making specific medical claims. Acupressure devices are generally unregulated.
+- **EU (MDR):** Not classified as medical devices. May require classification if electronic stimulation is involved.

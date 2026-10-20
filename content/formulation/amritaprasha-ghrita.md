@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 | Language | Name |
 |----------|------|
-| English | Amritaprasha [Ghrita](/herb/ghrita/)|Amritaprasha Ghrita |
+| English | Amritaprasha Ghrita |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

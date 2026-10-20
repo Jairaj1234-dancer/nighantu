@@ -23,12 +23,12 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Punarnavadi-
 
 | Language | Name |
 |----------|------|
-| English | Punarnavadi [Guggulu](/formulation/guggulu/)|Punarnavadi Guggulu |
+| English | Punarnavadi Guggulu |
 
 ## Key Ingredients
 
 - [Punarnava](/herb/punarnava/) (Boerhavia diffusa)
-- Shuddha [Guggulu](/formulation/guggulu/)|Shuddha Guggulu (Commiphora wightii)
+- Shuddha Guggulu (Commiphora wightii)
 - [Triphala](/herb/triphala/) - [Haritaki](/herb/haritaki/) (Terminalia chebula), [Bibhitaki](/herb/bibhitaki/) (Terminalia bellirica), Amalaki (Emblica officinalis)
 - [Trikatu](/herb/trikatu/) - Shunthi ([Zingiber](/herb/zingiber/) officinale), Maricha (Piper nigrum), [Pippali](/herb/pippali/) (Piper longum)
 - [Eranda](/herb/eranda/) Taila (Castor oil - Ricinus communis)

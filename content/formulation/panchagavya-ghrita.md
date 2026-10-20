@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 
 | Language | Name |
 |----------|------|
-| English | Panchagavya [Ghrita](/herb/ghrita/)|Panchagavya Ghrita |
+| English | Panchagavya Ghrita |
 
 ## Where is it described in the classical texts?
 

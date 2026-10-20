@@ -43,6 +43,6 @@ Pitta and Rakta (blood) disorders, skin diseases, varicose veins, non-healing ul
 
 ## Regulatory status
 
-- **India Cdsco:** Leeches used in Ayurvedic practice are regulated under Ayurvedic therapy guidelines, not as medical devices.
-- **Us Fda:** Medicinal leeches (Hirudo medicinalis) are FDA-cleared as Class II medical devices (510(k) K040691, cleared 2004) for use in microsurgery and reconstructive surgery.
-- **Eu Mdr:** Medicinal leeches classified as medical devices in some EU member states.
+- **India (CDSCO):** Leeches used in Ayurvedic practice are regulated under Ayurvedic therapy guidelines, not as medical devices.
+- **US (FDA):** Medicinal leeches (Hirudo medicinalis) are FDA-cleared as Class II medical devices (510(k) K040691, cleared 2004) for use in microsurgery and reconstructive surgery.
+- **EU (MDR):** Medicinal leeches classified as medical devices in some EU member states.

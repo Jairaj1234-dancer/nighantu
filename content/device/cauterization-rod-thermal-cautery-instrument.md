@@ -44,6 +44,6 @@ Chronic pain, sciatica, plantar fasciitis, frozen shoulder, heel spur, warts, he
 
 ## Regulatory status
 
-- **India Cdsco:** Electrocautery devices classified as Class B/C medical devices under CDSCO MDR 2017. Traditional Agnikarma rods not separately classified.
-- **Us Fda:** Electrosurgical/cautery devices are Class II medical devices requiring 510(k) clearance.
-- **Eu Mdr:** Electrocautery classified as Class IIa/IIb under EU MDR.
+- **India (CDSCO):** Electrocautery devices classified as Class B/C medical devices under CDSCO MDR 2017. Traditional Agnikarma rods not separately classified.
+- **US (FDA):** Electrosurgical/cautery devices are Class II medical devices requiring 510(k) clearance.
+- **EU (MDR):** Electrocautery classified as Class IIa/IIb under EU MDR.

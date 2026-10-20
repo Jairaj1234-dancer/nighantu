@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nadi [Hingu](/herb/hingu/)|Nadi Hingu |
+| English | Nadi Hingu |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

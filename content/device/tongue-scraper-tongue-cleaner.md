@@ -45,6 +45,6 @@ Oral hygiene, removal of Ama (coating indicating toxins/poor digestion), improve
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Considered a personal hygiene product.
-- **Us Fda:** Tongue scrapers/cleaners are classified as Class I medical devices (Product Code EIW - Manual Toothbrush family), 510(k) exempt.
-- **Eu Mdr:** Generally not classified as a medical device in EU; considered a hygiene/cosmetic product.
+- **India (CDSCO):** Not classified as a medical device. Considered a personal hygiene product.
+- **US (FDA):** Tongue scrapers/cleaners are classified as Class I medical devices (Product Code EIW - Manual Toothbrush family), 510(k) exempt.
+- **EU (MDR):** Generally not classified as a medical device in EU; considered a hygiene/cosmetic product.

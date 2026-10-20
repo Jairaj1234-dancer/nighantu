@@ -46,6 +46,6 @@ Trituration (Mardana) of metals and minerals with herbal juices (Bhavana), grind
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Regulated as pharmaceutical manufacturing equipment under AYUSH GMP guidelines.
-- **Us Fda:** Pharmaceutical processing equipment subject to FDA cGMP requirements if used in drug manufacturing.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device. Regulated as pharmaceutical manufacturing equipment under AYUSH GMP guidelines.
+- **US (FDA):** Pharmaceutical processing equipment subject to FDA cGMP requirements if used in drug manufacturing.
+- **EU (MDR):** Not classified as a medical device.

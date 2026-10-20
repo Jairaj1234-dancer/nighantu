@@ -56,7 +56,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bhallataka-
 
 ### Synergistic Combinations
 
-- Triphala [Guggulu](/formulation/guggulu/)|[Triphala](/herb/triphala/) Guggulu
-- Kanchanara [Guggulu](/formulation/guggulu/)|Kanchanara Guggulu
+- [Triphala Guggulu](/formulation/triphala-guggulu/)
+- [Kanchanara Guggulu](/formulation/kanchanara-guggulu/)
 - [Vidanga](/herb/vidanga/) Churna
 - [Haridra](/herb/haridra/) Churna

@@ -512,9 +512,9 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 #### Regulatory status
 
-- **India Cdsco:** Pharmaceutical equipment under AYUSH GMP.
-- **Us Fda:** Subject to cGMP requirements.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Pharmaceutical equipment under AYUSH GMP.
+- **US (FDA):** Subject to cGMP requirements.
+- **EU (MDR):** Not classified as a medical device.
 
 ### Drakshadi Kwath {#drakshadi-kwath}
 
@@ -868,9 +868,9 @@ Preparation of Suvarna Prashana (gold-based immunization), storage of precious B
 
 #### Regulatory status
 
-- **India Cdsco:** Not classified as medical devices.
-- **Us Fda:** Not regulated as medical devices.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Not classified as medical devices.
+- **US (FDA):** Not regulated as medical devices.
+- **EU (MDR):** Not classified as medical devices.
 
 ### Gourd Instrument Gourd Cupping {#gourd-instrument-gourd-cupping}
 
@@ -896,9 +896,9 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 #### Regulatory status
 
-- **India Cdsco:** Not specifically classified.
-- **Us Fda:** Not specifically regulated.
-- **Eu Mdr:** Not specifically classified.
+- **India (CDSCO):** Not specifically classified.
+- **US (FDA):** Not specifically regulated.
+- **EU (MDR):** Not specifically classified.
 
 ### Guda {#guda}
 
@@ -1048,7 +1048,7 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 | Language | Name |
 |----------|------|
-| English | Hastikarna [Palasha](/herb/palasha/)|Hastikarna Palasha |
+| English | Hastikarna Palasha |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -1204,9 +1204,9 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 #### Regulatory status
 
-- **India Cdsco:** Not specifically classified. Modern cupping devices may fall under Class A.
-- **Us Fda:** Cupping devices are not specifically FDA-classified but are widely sold as wellness devices.
-- **Eu Mdr:** Generally considered wellness devices unless medical claims are made.
+- **India (CDSCO):** Not specifically classified. Modern cupping devices may fall under Class A.
+- **US (FDA):** Cupping devices are not specifically FDA-classified but are widely sold as wellness devices.
+- **EU (MDR):** Generally considered wellness devices unless medical claims are made.
 
 ### Immune System & Rasayana: Across Traditions {#immune-system-rasayana-across-traditions}
 
@@ -2237,7 +2237,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Mahatiktaka [Ghrita](/herb/ghrita/)|Mahatiktaka Ghrita |
+| English | Mahatiktaka Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2278,7 +2278,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Mahatriphala [Ghrita](/herb/ghrita/)|Mahatriphala Ghrita |
+| English | Mahatriphala Ghrita |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2371,7 +2371,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Makshika [Madhu](/herb/madhu/)|Makshika Madhu |
+| English | Makshika Madhu |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 
@@ -2449,7 +2449,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 | Language | Name |
 |----------|------|
-| English | Manibhadra [Guda](/glossary/concepts-a-m/#guda)|Manibhadra Guda |
+| English | Manibhadra Guda |
 
 #### Ayurvedic pharmacology (Dravyaguna)
 

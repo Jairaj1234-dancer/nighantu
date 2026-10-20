@@ -43,6 +43,6 @@ Gentle, uniform heating for Swedana (boiling) of minerals, preparation of medica
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device.
-- **Us Fda:** Laboratory/pharmaceutical equipment, not a medical device.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device.
+- **US (FDA):** Laboratory/pharmaceutical equipment, not a medical device.
+- **EU (MDR):** Not classified as a medical device.

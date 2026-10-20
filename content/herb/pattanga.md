@@ -106,7 +106,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- Rakta-[Chandana](/herb/chandana/)|Rakta-Chandana (synergistic blood purification and cooling)
+- [Rakta-Chandana](/herb/rakta-chandana/) (synergistic blood purification and cooling)
 - [Manjistha](/herb/manjistha/) (skin complexion and Rakta Dhatu purification)
 - [Lodhra](/herb/lodhra/) (gynecological health combination)
 - [Ashoka](/herb/ashoka/) (uterine tonic synergy)

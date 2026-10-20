@@ -45,6 +45,6 @@ Preparation of [Arka](/herb/arka/) (distilled herbal waters/hydrosols) such as [
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as a medical device. Pharmaceutical manufacturing equipment regulated under AYUSH GMP.
-- **Us Fda:** Subject to FDA cGMP requirements if used for manufacturing marketed products.
-- **Eu Mdr:** Not classified as a medical device.
+- **India (CDSCO):** Not classified as a medical device. Pharmaceutical manufacturing equipment regulated under AYUSH GMP.
+- **US (FDA):** Subject to FDA cGMP requirements if used for manufacturing marketed products.
+- **EU (MDR):** Not classified as a medical device.

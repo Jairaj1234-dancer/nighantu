@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 | Language | Name |
 |----------|------|
-| English | Ajamoda [Arka](/herb/arka/)|Ajamoda Arka |
+| English | Ajamoda Arka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

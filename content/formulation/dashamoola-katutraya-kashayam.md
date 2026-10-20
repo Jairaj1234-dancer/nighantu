@@ -88,4 +88,4 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 - [Dashamularishta](/formulation/dashamularishta/)
 - [Rasnadi Kwath](/glossary/concepts-m-y/#rasnadi-kwath)
 - [Guggulu](/formulation/guggulu/) preparations
-- Yogaraja [Guggulu](/formulation/guggulu/)|Yogaraja Guggulu
+- [Yogaraja Guggulu](/formulation/yogaraja-guggulu/)

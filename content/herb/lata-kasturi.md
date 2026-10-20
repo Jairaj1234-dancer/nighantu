@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lata-Kasturi/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Lata [Kasturi](/herb/kasturi/)|Lata Kasturi |
+| English | Lata Kasturi |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

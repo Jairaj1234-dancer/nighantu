@@ -85,4 +85,4 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 - [Chandraprabha](/herb/chandraprabha/) Vati
 - [Lodhra](/herb/lodhra/) Churna
 - [Shatavari](/herb/shatavari/) Churna
-- Ashoka [Ghrita](/herb/ghrita/)|[Ashoka](/herb/ashoka/) Ghrita
+- [Ashoka Ghrita](/formulation/ashoka-ghrita/)

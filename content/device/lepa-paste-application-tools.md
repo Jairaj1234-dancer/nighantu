@@ -45,6 +45,6 @@ Skin diseases (Kushtha), inflammation (Shotha), pain relief, wound healing, cosm
 
 ## Regulatory status
 
-- **India Cdsco:** Application tools not classified as medical devices. Herbal pastes regulated as Ayurvedic medicines.
-- **Us Fda:** Not regulated as medical devices.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Application tools not classified as medical devices. Herbal pastes regulated as Ayurvedic medicines.
+- **US (FDA):** Not regulated as medical devices.
+- **EU (MDR):** Not classified as medical devices.

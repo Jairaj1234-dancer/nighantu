@@ -43,6 +43,6 @@ Pain management, joint disorders, neurological conditions, rejuvenation, muscle 
 
 ## Regulatory status
 
-- **India Cdsco:** Not classified as medical devices. The herbal contents may be regulated as Ayurvedic medicines under AYUSH Drug Licensing.
-- **Us Fda:** Not specifically regulated. Would be considered general wellness or therapy equipment.
-- **Eu Mdr:** Not classified as medical devices.
+- **India (CDSCO):** Not classified as medical devices. The herbal contents may be regulated as Ayurvedic medicines under AYUSH Drug Licensing.
+- **US (FDA):** Not specifically regulated. Would be considered general wellness or therapy equipment.
+- **EU (MDR):** Not classified as medical devices.

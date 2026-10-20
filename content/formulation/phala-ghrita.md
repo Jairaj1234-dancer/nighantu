@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghr
 
 | Language | Name |
 |----------|------|
-| English | Phala [Ghrita](/herb/ghrita/)|Phala Ghrita Phala Kalyana [Ghrita](/herb/ghrita/)|Phala Kalyana Ghrita |
+| English | Phala Ghrita Phala Kalyana Ghrita |
 
 ## Where is it described in the classical texts?
 

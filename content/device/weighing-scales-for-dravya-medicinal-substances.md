@@ -43,6 +43,6 @@ Precise measurement of herbs, minerals, metals, and other ingredients for Ayurve
 
 ## Regulatory status
 
-- **India Cdsco:** Weighing instruments regulated under Legal Metrology Act, not CDSCO. Must be calibrated and certified.
-- **Us Fda:** Pharmaceutical scales are subject to FDA GMP requirements (21 CFR Part 211) for drug manufacturing but not classified as medical devices.
-- **Eu Mdr:** Not classified as medical devices. Subject to EU Measuring Instruments Directive.
+- **India (CDSCO):** Weighing instruments regulated under Legal Metrology Act, not CDSCO. Must be calibrated and certified.
+- **US (FDA):** Pharmaceutical scales are subject to FDA GMP requirements (21 CFR Part 211) for drug manufacturing but not classified as medical devices.
+- **EU (MDR):** Not classified as medical devices. Subject to EU Measuring Instruments Directive.

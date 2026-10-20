@@ -44,6 +44,6 @@ Pre-Panchakarma preparation (Purvakarma), muscle relaxation, joint stiffness, pa
 
 ## Regulatory status
 
-- **India Cdsco:** Steam generators may be classified under Class A medical devices if therapeutic claims are made.
-- **Us Fda:** Steam baths and saunas are generally not FDA-regulated as medical devices unless specific therapeutic claims are made.
-- **Eu Mdr:** Generally classified as wellness equipment; may require Class I classification if therapeutic claims are made.
+- **India (CDSCO):** Steam generators may be classified under Class A medical devices if therapeutic claims are made.
+- **US (FDA):** Steam baths and saunas are generally not FDA-regulated as medical devices unless specific therapeutic claims are made.
+- **EU (MDR):** Generally classified as wellness equipment; may require Class I classification if therapeutic claims are made.

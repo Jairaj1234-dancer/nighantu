@@ -87,7 +87,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 **Standard Dosage:** 1-3g seed powder twice daily; 2.5-5ml seed oil daily; 500mg extract twice daily; 200-500mg thymoquinone-standardized extract
 
-**Bioavailability:** Nigella sativa (Black [Cumin](/herb/cumin/)|black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
+**Bioavailability:** Nigella sativa (black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
 
 **Optimal Timing:** With meals (especially fatty meals) for optimal absorption; morning and evening doses. Traditional: mixed with honey on empty stomach.
 
