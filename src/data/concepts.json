@@ -8737,7 +8737,7 @@
         "ADDED 2026-10-06. Whether Charaka's contraindication of emesis for the atisthula at Si.2.8 and Vagbhata's indication of samshodhana for the sthaulya-adhika at AH.Su.14.12 are reconcilable. No retrieved source addresses it and no commentary was consulted. See contested item 5.",
         "ADDED 2026-10-06. What instrument the classical eligibility categories are operationalised with in current practice. PMID 42748372 screens for vamanarha, virechanarha and madhyama koshtha 'as assessed using a questionnaire' and names no questionnaire and cites no validation of one in its abstract; the full text was not retrieved.",
         "ADDED 2026-10-06. Whether the prasrita, which Sushruta Ci.XXXV defines in its main text as what the patient's own palms will hold, has ever been standardised or its variation between patients measured. Bhishagratna's footnote offers an absolute equivalence in palas and tolas, but that is his gloss and the main text declines it.",
-        "ADDED 2026-10-06. Samsarjana krama. This record names it as a component and asserts that the outcome of shodhana is held to depend on it, and quotes nothing for either. Charaka Siddhi Sthana 1 has a section on it, located in that chapter's retrieved contents but not retrieved or quoted here, so the component is now marked unsourced."
+        "REVISED 2026-10-20. Samsarjana krama. The regimen is no longer unquoted: the samsarjana-krama lexicon entry quotes Charaka Su. 15.16 (opening clause), Kaviratna's English of the full diet sequence and a fragment of Siddhi Sthana 1.11-12, and the component gloss now points there. Still not known: the full Sanskrit of Su. 15.16 in a numbered edition, and any passage or study bearing on the assertion that the outcome of shodhana depends on the regimen."
       ],
       "components": [
         {
@@ -8778,7 +8778,7 @@
         },
         {
           "term": "Samsarjana krama",
-          "gloss": "The graded re-feeding regimen that must follow shodhana. UNSOURCED IN THIS RECORD: no passage describing samsarjana krama has been retrieved and quoted here. Charaka Siddhi Sthana 1 has a section on it, which this revision located in the chapter's own contents but did not retrieve or quote, and the 2026 protocol at PMID 42748372 states that its participants received it. The claim that outcome depends on it is not addressed by anything quoted in this record.",
+          "gloss": "The graded re-feeding regimen that follows shodhana. The regimen itself is quoted in the samsarjana-krama lexicon entry: the opening clause of Charaka Su. 15.16 in Sanskrit, and Kaviratna's English of the same passage (his printed 18), which runs from thin gruel through mudga soup and meat broth to the usual diet after a week. Charaka Siddhi Sthana 1.11-12 gives its rationale, agni after shodhana kindled gradually like a small fire, quoted there as a fragment. The 2026 protocol at PMID 42748372 states that its participants received it. Whether the outcome of shodhana depends on it is not addressed by anything quoted in this record.",
           "order": "7",
           "lexicon": "samsarjana-krama"
         },

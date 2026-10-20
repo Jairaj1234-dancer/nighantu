@@ -63,7 +63,7 @@ export const GET: APIRoute = ({ props }) => {
         `${[x.sourceName, x.locator, x.sourceKind].filter(Boolean).join(' · ')}`
         + `${x.verbatim === false ? ' · our paraphrase of the source, not its words' : ''}`, '');
       if (x.locatorWithheld) out.push(`The source's own wording is not reproduced here: ${x.locatorWithheld}.`, '');
-      if (x.englishWithheld) out.push(`The source's rendering is not reproduced here: ${x.englishWithheld}.`, '');
+      if (x.englishWithheld) out.push(`The source's rendering is not reproduced here, because ${x.englishWithheld}.`, '');
       if (x.assessment) out.push(x.assessment, '');
       if (x.licence === 'nd-attribution') {
         out.push(`Reproduced unaltered and attributed from ${x.licenceNote}, which is what that`,

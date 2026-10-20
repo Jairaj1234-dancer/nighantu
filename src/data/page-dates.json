@@ -160,9 +160,9 @@
     "modified": "2026-10-08"
   },
   "concept/shodhana-shamana": {
-    "hash": "e87152a351906211",
+    "hash": "cdbdf5ffba77745f",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "concept/srotas-system": {
     "hash": "16a6d5f3d4c926d6",
@@ -3900,9 +3900,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/akriti-pariksha": {
-    "hash": "83b2c0ccc01a5fad",
+    "hash": "34ab46901f84b870",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/alochaka-pitta": {
     "hash": "6309ce0ead60543d",
@@ -3945,9 +3945,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/apana-vata": {
-    "hash": "da3ba4c40acf2c48",
+    "hash": "4a27aee4a7d78a2c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/apara-ojas": {
     "hash": "2408354f79270c7c",
@@ -3975,9 +3975,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/ashtavidha-pariksha": {
-    "hash": "860ab74cd094f7bb",
+    "hash": "c1205aa41ac8de7c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/asthi-dhatu": {
     "hash": "a983f64f7c0008ba",
@@ -4035,9 +4035,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/bhrajaka-pitta": {
-    "hash": "74de76e1b93ce735",
+    "hash": "d2455acc3113056e",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/bhutagni": {
     "hash": "c0b4b17ad77e7743",
@@ -4080,9 +4080,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/dashavidha-pariksha": {
-    "hash": "04eec0d38ad6b271",
+    "hash": "d3664617b1fa1d6c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/deha-prakriti": {
     "hash": "a6f24b831b214820",
@@ -4130,9 +4130,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/dosha-dushya-sammurchana": {
-    "hash": "e3c2d6a2a405ce40",
+    "hash": "155aae4fc66b3838",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/dosha-gati": {
     "hash": "33fcb3b69da3c843",
@@ -4230,9 +4230,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/jihva-pariksha": {
-    "hash": "41a57ff5febefa9a",
+    "hash": "d648434525e38f62",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/jnanendriya": {
     "hash": "db2238bbcdee8f4d",
@@ -4260,9 +4260,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/karma-dravyaguna": {
-    "hash": "6f5ba612e2529f7e",
+    "hash": "4118fe4571005b30",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/karmendriya": {
     "hash": "88b92c55703c3021",
@@ -4315,9 +4315,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/kledaka-kapha": {
-    "hash": "c4c95384c6a0331f",
+    "hash": "4de176120f3d8c34",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/koshtha": {
     "hash": "e7aa84a49ffb0b83",
@@ -4390,9 +4390,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/mala-pariksha": {
-    "hash": "120bcca9fccb26c9",
+    "hash": "3ae8b08edf78c8fd",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/mala-vriddhi": {
     "hash": "535a38884ec7ccc8",
@@ -4600,9 +4600,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/prakopa": {
-    "hash": "039fb0154f1373a0",
+    "hash": "615abef449f22510",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/prakriti": {
     "hash": "1ac755a911a26a20",
@@ -4615,9 +4615,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/prana-vata": {
-    "hash": "beb6500a1577f7a6",
+    "hash": "cc97d5bc2dba95be",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/pranavaha-srotas": {
     "hash": "83d65a3b896737b5",
@@ -4625,9 +4625,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/prasara": {
-    "hash": "8d0b65bdf75e8211",
+    "hash": "b9569570a016ce63",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/prashna": {
     "hash": "4d3485abd6905055",
@@ -4760,9 +4760,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/sadhaka-pitta": {
-    "hash": "1a8dbab6f1625512",
+    "hash": "b0a88f173b04e5bf",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/sadhya": {
     "hash": "998efa54107752a4",
@@ -4785,9 +4785,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/samana-vata": {
-    "hash": "d6d60d8b883c1ed2",
+    "hash": "bd46233e2fdedb76",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/samanya": {
     "hash": "b9b18eabdcc97443",
@@ -4805,9 +4805,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/samprapti": {
-    "hash": "70e541d7f3b311c1",
+    "hash": "6ba608a86835a687",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/samprapti-ghataka": {
     "hash": "9c4d2ff1fd56cfea",
@@ -4815,9 +4815,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/samsarjana-krama": {
-    "hash": "69bb679351f6073b",
+    "hash": "65346622ef566d65",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/samskara": {
     "hash": "aefe85e0fd646a55",
@@ -4830,9 +4830,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/sanchaya": {
-    "hash": "16287e6462c2b1f7",
+    "hash": "ed2ba28ad9785d73",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/sandra": {
     "hash": "46a088ca70f16678",
@@ -4895,9 +4895,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/shat-kriyakala": {
-    "hash": "f3fcce9b72af2022",
+    "hash": "182081b37f037186",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/shita": {
     "hash": "2f5083f30cb4b9f9",
@@ -4910,9 +4910,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/shleshaka-kapha": {
-    "hash": "5c8343b4519c691e",
+    "hash": "99373f353717a6ba",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/shodhana": {
     "hash": "6a704dfc39157881",
@@ -4955,14 +4955,14 @@
     "modified": "2026-10-07"
   },
   "lexicon/srotamsi": {
-    "hash": "42b9876fb2b2a3bd",
+    "hash": "4ecb3db6bb16b54c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/srotas": {
-    "hash": "448f718729231b73",
+    "hash": "95b957e58790bca4",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/srotodushti": {
     "hash": "693d82783133ba45",
@@ -4980,9 +4980,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/sthanasamshraya": {
-    "hash": "ce628cfd7e90b5c6",
+    "hash": "35582a4acf4014e7",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/sthira": {
     "hash": "5a68c4fc3a1c2b3a",
@@ -5025,9 +5025,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/swasthavritta": {
-    "hash": "2efe2cc74d9f7636",
+    "hash": "0026e164e0eb5e6d",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/swasthya": {
     "hash": "1798e05b01e6bdad",
@@ -5040,14 +5040,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/tantra-yukti": {
-    "hash": "02bfee8024fc8cea",
+    "hash": "81b3816d7ef857da",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/tarpaka-kapha": {
-    "hash": "4389ad61b5f10500",
+    "hash": "9b5750adbda09677",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/tejas": {
     "hash": "88eb0d20f8c99739",
@@ -5085,9 +5085,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/trividha-pariksha": {
-    "hash": "893ca9395b924e90",
+    "hash": "63fc87061d0df76f",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/udakavaha-srotas": {
     "hash": "99fd72487ce845b2",
@@ -5095,9 +5095,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/udana-vata": {
-    "hash": "77841654e9f2fb62",
+    "hash": "712e44a31134e1a9",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/upadhatu": {
     "hash": "b524db79bf54a0d1",
@@ -5105,9 +5105,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/upashaya": {
-    "hash": "d0acd5335d61ec65",
+    "hash": "42d681788a16f177",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/ushna": {
     "hash": "7ca37a53d7ae1bf0",
@@ -5115,9 +5115,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/vajikarana": {
-    "hash": "3aa0b17538356f0b",
+    "hash": "a9066fcb8d0726a3",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/vamana": {
     "hash": "93b232ace57ca49e",
@@ -5155,9 +5155,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/vipaka": {
-    "hash": "f74e7fda3bca35ba",
+    "hash": "391b19f964290e22",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/virechana": {
     "hash": "e36b917e5199b023",
@@ -5210,9 +5210,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/vyana-vata": {
-    "hash": "075541d544d6014c",
+    "hash": "47b7e2b5acdd2d6d",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/vyayama-shakti": {
     "hash": "ee8bc5386ed3384d",
