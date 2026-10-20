@@ -15,6 +15,7 @@ import {
 } from './lib.mjs';
 import { composeAnswer } from './answer.mjs';
 import { applyToSection, shortfallNote } from './lib/claims.mjs';
+import { applyRewrites } from './lib/rewrites.mjs';
 import { binomialFor } from './lib/binomials.mjs';
 
 const DRY = process.argv.includes('--dry-run');
@@ -326,7 +327,8 @@ function transform(p) {
 
   let raw = dropDeniedReferences(bodyParts.join('\n\n'));
   if (p.kind === 'hub') raw = dropUnresolvedListItems(raw, resolver);
-  const body = fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver))));
+  const body = applyRewrites(`${p.kind}/${p.slug}`,
+    fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver))))).text;
   if (productHints.length) PRODUCT_HINTS.set(p.slug, productHints);
 
   return { body, answer: redact(answer), sources, productHints };

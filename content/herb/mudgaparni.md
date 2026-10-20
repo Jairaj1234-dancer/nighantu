@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective property validated through preclinical studies showing protection against chemically induced liver damage, confirming traditional use in [Kamala](/herb/kamala/) (jaundice)
-- Antidiabetic activity experimentally confirmed with significant blood glucose reduction, supporting traditional use as a nutritive and metabolic regulator
-- Anthelmintic traditional use supported by documented antimicrobial activities against various pathogens
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for [Kamala](/herb/kamala/) (jaundice). Preclinical studies have reported protection against chemically induced liver damage.
+- Traditionally used as a nutritive and metabolic regulator. Experimental studies have reported a reduction in blood glucose.
+- Traditionally used as an anthelmintic. Studies have reported antimicrobial activity against various pathogens.
 
 ## What do recent clinical trials show?
 

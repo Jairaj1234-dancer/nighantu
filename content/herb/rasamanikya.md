@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Skin diseases (Kushtha): Traditional use in psoriasis and chronic dermatoses has indirect validation from historical Western medical use of arsenic for psoriasis (Fowler's solution, 19th century) and modern understanding of arsenic's anti-proliferative effects on keratinocytes - however, the practice was abandoned in Western medicine due to carcinogenic risk
-- Fever and respiratory conditions: Traditional use in Jwara (fever) and Shwasa (asthma) partially supported by arsenic's documented immunomodulatory properties, but no specific clinical trials validate these indications for Rasamanikya
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Skin diseases (Kushtha): traditionally used for psoriasis and chronic dermatoses. Arsenic was historically used in Western medicine for psoriasis (Fowler's solution). Arsenic has been reported to have anti-proliferative effects on keratinocytes. Western medicine abandoned this practice because of carcinogenic risk.
+- Fever and respiratory conditions: traditionally used for Jwara (fever) and Shwasa (asthma). Arsenic has been reported to have immunomodulatory properties. No clinical trials specific to Rasamanikya have been reported for these uses.
 
 ## What do recent clinical trials show?
 

@@ -47,18 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid for bloating, indigestion, and IBS - validated by double-blind clinical trial showing reduced bloating and discomfort with spearmint extract
-- Cooling and fever-reducing properties - supported by pharmacological studies confirming [antipyretic](/reference/antipyretic/) activity
-- Respiratory relief for cough, cold, and asthma - confirmed through bronchodilatory and [expectorant](/reference/expectorant/) studies
-- Antimicrobial use for oral and skin infections - validated by studies showing activity against drug-resistant bacteria including MRSA
-- Anxiolytic and calming effects - supported by preclinical studies demonstrating significant anxiolytic and sedative activity through GABAergic modulation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a digestive aid for bloating, indigestion, and IBS. A double-blind clinical study of spearmint extract reported reduced bloating and discomfort.
+- Traditionally used for its cooling and fever-reducing properties. Pharmacological studies have reported [antipyretic](/reference/antipyretic/) activity.
+- Traditionally used for cough, cold, and asthma. Studies have reported bronchodilatory and [expectorant](/reference/expectorant/) activity.
+- Traditionally used for oral and skin infections. Studies have reported activity against drug-resistant bacteria, including MRSA.
+- Traditionally used for its calming effects. Preclinical studies have reported anxiolytic and sedative activity through GABAergic modulation.
 
 ## What do recent clinical trials show?
 
 - El Menyiy N, Mrabti HN, El Omari N and others 2022. [Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata](https://pubmed.ncbi.nlm.nih.gov/35463088/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [35463088](https://pubmed.ncbi.nlm.nih.gov/35463088/) · [doi:10.1155/2022/7990508](https://doi.org/10.1155/2022/7990508)  
   Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/reference/hepatoprotective/), [antidiabetic](/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
 - Mahendran G, Verma SK, Rahman LU 2021. [The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review](https://pubmed.ncbi.nlm.nih.gov/34087400/). *Journal of ethnopharmacology*. PMID [34087400](https://pubmed.ncbi.nlm.nih.gov/34087400/) · [doi:10.1016/j.jep.2021.114266](https://doi.org/10.1016/j.jep.2021.114266)  
-  Identified 35 chemical constituents in spearmint; validated pharmacological properties support traditional uses including digestive, cooling, and toxin-clearing applications in Ayurveda.
+A chemical analysis identified a range of constituents in spearmint. In Ayurveda, it is traditionally used for digestive, cooling, and toxin-clearing purposes.
 - Ali-Shtayeh MS, Jamous RM, Abu-Zaitoun SY and others 2019. [Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Focus on Potential Benefits in the Treatment of Obesity, Alzheimer's Disease, Dermatophytosis, and Drug-Resistant Infections](https://pubmed.ncbi.nlm.nih.gov/31772594/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [31772594](https://pubmed.ncbi.nlm.nih.gov/31772594/) · [doi:10.1155/2019/3834265](https://doi.org/10.1155/2019/3834265)  
   Demonstrated pancreatic lipase inhibition by carvone and M. spicata essential oil for obesity management; also showed strong inhibitory effect on MRSA biofilm formation for drug-resistant infections.
 

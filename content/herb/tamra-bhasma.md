@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Digestive disorders (Agnimandya): Multiple clinical studies confirmed efficacy in improving digestive function with no adverse effects at therapeutic doses
-- Skin diseases (Kushtha): Antimicrobial and anti-inflammatory properties validated through in-vitro studies supporting traditional dermatological applications
-- Liver disorders (Yakrit Vikara): Hepatoprotective action demonstrated in animal models, though this is dose-dependent and reverses to hepatotoxicity at high doses
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive disorders (Agnimandya): traditionally used for digestive disorders. Clinical studies have reported improved digestive function, with no adverse effects reported at the doses studied.
+- Skin diseases (Kushtha): traditionally used for skin diseases. In vitro studies have reported antimicrobial and anti-inflammatory activity.
+- Liver disorders (Yakrit Vikara): traditionally used for liver disorders. Animal studies have reported a liver-protective action that depended on dose, with liver toxicity reported at high doses.
 
 ## What do recent clinical trials show?
 

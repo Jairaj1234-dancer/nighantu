@@ -28,8 +28,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- **Purgative (Virechana, Bhedana) for constipation and abdominal disorders.** Croton oil's powerful purgative action is well-established pharmacologically. It acts by stimulating intestinal secretion and motility through PKC-mediated prostaglandin release and direct irritation of GI mucosa. Used historically in Western medicine as a drastic cathartic before safer alternatives were developed.
-- **Anti-inflammatory and anti-tumor (Shothahara, Granthi).** Paradoxically, while phorbol esters are tumor promoters, specific fractions and derivatives of Croton tiglium show anti-tumor activity. Research demonstrates PKC-modulated apoptosis in certain cancer cell lines. Traditional application as external anti-inflammatory paste (after purification) is supported by its counter-irritant properties.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- **Traditional purgative use (Virechana, Bhedana) for constipation and abdominal disorders.** Traditionally used as a strong purgative (Virechana, Bhedana) for constipation and abdominal disorders. Pharmacological studies have reported that croton oil stimulates intestinal secretion and motility and irritates the gut lining. It was used historically in Western medicine as a drastic cathartic before safer alternatives were developed.
+- **Traditional anti-inflammatory and anti-tumor use (Shothahara, Granthi).** Used in classical practice as Shothahara and for Granthi. The phorbol esters in Croton tiglium are known tumor promoters. In vitro studies have reported anti-tumor activity, including cell death in certain cancer cell lines, for specific fractions and derivatives of the plant. Traditionally applied externally, after purification, as an anti-inflammatory paste for its counter-irritant action.
 
 ## What do recent clinical trials show?
 

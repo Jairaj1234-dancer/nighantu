@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 
 ## Which traditional uses are supported by research?
 
-- Rejuvenative and [immunomodulatory](/reference/immunomodulatory/): The clinical study confirmed systemic bioavailability of gold and absence of acute toxicity, partially supporting the traditional Rasayana (rejuvenative) claim, though large-scale controlled trials are needed
-- Chronic fever and respiratory conditions: Traditional use in Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) is empirically supported by clinical practice but lacks rigorous clinical trial validation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rejuvenative and [immunomodulatory](/reference/immunomodulatory/): traditionally used as a Rasayana (rejuvenative). A clinical study reported systemic bioavailability of gold and no acute toxicity. Larger controlled trials are needed.
+- Chronic fever and respiratory conditions: traditionally used for Jirna Jwara (chronic fever), Kasa (cough), and Shwasa (asthma) in clinical practice. Rigorous clinical trials of these uses are lacking.
 
 ## What do recent clinical trials show?
 

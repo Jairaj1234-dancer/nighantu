@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Carminative and digestive properties extensively validated through clinical and pharmacological studies, confirming premier Ayurvedic use as Deepana-Pachana (appetite and digestion promoter)
-- Galactagogue (breast milk promoting) activity supported by clinical evidence showing increased milk production in breastfeeding women, confirming traditional Stanyajanana use
-- Antispasmodic activity in infantile colic validated through randomized clinical trials, confirming traditional use for pediatric GI complaints
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as Deepana-Pachana (appetite and digestion promoter). Clinical and pharmacological studies have reported carminative and digestive activity.
+- Traditionally used as Stanyajanana (breast milk promoting). Clinical studies have reported increased milk production in breastfeeding women.
+- Traditionally used for pediatric GI complaints. Randomized clinical trials have reported antispasmodic activity in infantile colic.
 
 ## What do recent clinical trials show?
 

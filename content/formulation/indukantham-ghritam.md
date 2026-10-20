@@ -39,10 +39,12 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 ## Which traditional uses are supported by research?
 
-- Gulma and Udara Roga (abdominal tumors/diseases): validated through gastroprotective and anti-inflammatory studies of ingredients
-- Agnimandya (digestive weakness): [Trikatu](/herb/trikatu/) and Panchakola ingredients confirmed to enhance digestive enzyme activity
-- Immunomodulation: demonstrated as adjuvant to cancer chemotherapy via immune stimulation in published research
-- Amlapitta (acid peptic disorders): individual ingredient screening validates antacid and mucosal protective mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Gulma and Udara Roga (abdominal tumors/diseases): traditionally used for these conditions. Studies of individual ingredients have reported gastroprotective and anti-inflammatory activity.
+- Agnimandya (digestive weakness): traditionally used for this condition. Studies of the [Trikatu](/herb/trikatu/) and Panchakola ingredients have reported increased digestive enzyme activity.
+- Immunomodulation: published research has reported immune stimulation when used alongside cancer chemotherapy.
+- Amlapitta (acid peptic disorders): traditionally used for this condition. Screening studies of individual ingredients have reported antacid and mucosal protective activity.
 
 ## What do recent clinical trials show?
 

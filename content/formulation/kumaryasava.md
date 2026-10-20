@@ -38,10 +38,12 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 ## Which traditional uses are supported by research?
 
-- Liver disorders (jaundice, hepatomegaly) - validated by PMC-published hepatoprotective study in rat models
-- Gynecological disorders including PCOS - supported by double-blind trial showing improved LH/FSH ratios
-- Digestive weakness and anorexia - corroborated by deepana-pachana mechanism studies
-- Anemia - traditional use supported by iron supplementation through [Loha Bhasma](/herb/loha-bhasma/) component
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Liver disorders (jaundice, hepatomegaly): traditionally used for these conditions. An animal study in rats reported hepatoprotective activity.
+- Gynecological disorders including PCOS: traditionally used for these conditions. A double-blind clinical study reported improved LH/FSH ratios.
+- Digestive weakness and anorexia: traditionally used for these conditions as a deepana-pachana formulation.
+- Anemia: traditionally used for this condition. The formulation contains [Loha Bhasma](/herb/loha-bhasma/), an iron-based component.
 
 ## What do recent clinical trials show?
 

@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vidanga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic activity confirmed by in vitro and clinical studies in children with Ascaris infections.
-- [Antimicrobial](/reference/antimicrobial/) properties validated against multiple bacterial strains.
-- Anti-inflammatory activity supported by NF-kB inhibition studies.
-- [Anticancer](/reference/anticancer/) potential validated through XIAP inhibition and multi-pathway modulation in preclinical models.
-- Antioxidant activity confirmed by DPPH and other radical scavenging assays.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- In vitro and clinical studies have reported anthelmintic activity. The clinical work was in children with Ascaris infections.
+- Laboratory studies have reported [Antimicrobial](/reference/antimicrobial/) activity against multiple bacterial strains.
+- Studies have reported anti-inflammatory activity involving NF-kB inhibition.
+- Preclinical studies have reported [Anticancer](/reference/anticancer/) potential involving XIAP inhibition and modulation of multiple pathways.
+- Antioxidant activity has been reported in DPPH and other radical scavenging assays.
 
 ## What do recent clinical trials show?
 

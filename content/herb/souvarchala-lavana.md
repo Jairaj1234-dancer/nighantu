@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-- Gulma and Shula (abdominal tumor/colic pain): Bile-stimulating and smooth muscle-relaxing effects of sulfur compounds validate traditional use in abdominal pain and colic
-- Vibandha (constipation): Bile secretion enhancement and mild osmotic effect from mineral content support traditional [laxative](/reference/laxative/) indication
-- Pandu (anemia): Iron sulfide content providing bioavailable iron validates traditional use in anemia management as dietary supplement
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Gulma and Shula (abdominal tumor/colic pain): traditionally used for abdominal pain and colic.
+- Vibandha (constipation): traditionally used as a [laxative](/reference/laxative/).
+- Pandu (anemia): traditionally used as a dietary supplement in anemia.
 
 ## What do recent clinical trials show?
 

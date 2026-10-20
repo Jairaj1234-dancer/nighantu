@@ -39,10 +39,12 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 ## Which traditional uses are supported by research?
 
-- Vandhyatva (female infertility): clinical trial shows 21.43% conception rate and 23.80% menstrual regulation after 3-month course
-- Ovarian factor infertility: demonstrated comparable efficacy to clomiphene citrate for follicular development and ovulation
-- Shukra Dosha (male infertility/oligozoospermia): case reports validate traditional use for improving sperm parameters
-- Artava Dushti (menstrual irregularities): clinical evidence supports cycle regularization
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vandhyatva (female infertility): traditionally used for female infertility. A clinical study reported conception and menstrual regulation in some participants.
+- Ovarian factor infertility: a study reported follicular development and ovulation comparable to clomiphene citrate.
+- Shukra Dosha (male infertility/oligozoospermia): traditionally used for male infertility. Case reports have described improved sperm parameters.
+- Artava Dushti (menstrual irregularities): traditionally used for menstrual irregularities. Clinical studies have reported cycle regularization.
 
 ## What do recent clinical trials show?
 

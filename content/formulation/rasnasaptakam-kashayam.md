@@ -38,10 +38,12 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ## Which traditional uses are supported by research?
 
-- Joint pain and rheumatoid arthritis - validated by clinical trial showing 35% improvement in pain scores
-- Chronic low back pain - supported by double-blind trial at Amrita Institute
-- Fever associated with body aches - supported by anti-inflammatory and [antipyretic](/reference/antipyretic/) properties of [Guduchi](/herb/guduchi/)
-- Sciatica and neuralgia - traditional use corroborated by analgesic mechanisms of [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Joint pain and rheumatoid arthritis: traditionally used for joint pain and rheumatoid arthritis. A clinical study reported improvement in pain scores.
+- Chronic low back pain: traditionally used for chronic low back pain.
+- Fever associated with body aches: traditionally used for fever associated with body aches. [Guduchi](/herb/guduchi/) is described as having anti-inflammatory and [antipyretic](/reference/antipyretic/) properties.
+- Sciatica and neuralgia: traditionally used for sciatica and neuralgia. [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/) are described as having analgesic properties.
 
 ## What do recent clinical trials show?
 

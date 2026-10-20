@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory use validated through inhibition of pro-inflammatory mediators and reduction of edema in animal models
-- [Hepatoprotective](/reference/hepatoprotective/) traditional use confirmed by reduction of liver [enzymes](/glossary/compounds-d-g/#enzymes) (ALT, AST) in hepatotoxicity models
-- Alpha-glucosidase inhibitory activity of leaf flavonoids supports traditional [antidiabetic](/reference/antidiabetic/) use
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for inflammation. Animal studies have reported inhibition of pro-inflammatory mediators and reduced edema.
+- Traditionally used as a [hepatoprotective](/reference/hepatoprotective/). Studies in hepatotoxicity models have reported lower liver [enzymes](/glossary/compounds-d-g/#enzymes) (ALT, AST).
+- Traditionally used as an [antidiabetic](/reference/antidiabetic/). Research has reported alpha-glucosidase inhibitory activity in leaf flavonoids.
 
 ## What do recent clinical trials show?
 

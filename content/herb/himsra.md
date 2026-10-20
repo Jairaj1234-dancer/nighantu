@@ -38,21 +38,23 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 ## How does it work?
 
 - [Hepatoprotective](/reference/hepatoprotective/) activity via rutin and [quercetin](/reference/quercetinquercetin/)-mediated [antioxidant](/reference/antioxidant/) protection and anti-inflammatory action - key ingredient in Liv.52 formulation
-- [Antidiabetic](/reference/antidiabetic/) effect through reduction of fasting blood [glucose](/glossary/compounds-d-g/#glucose), HbA1c, and triglycerides (clinically validated at 400 mg TID for 2 months)
+- [Antidiabetic](/reference/antidiabetic/): a clinical study reported reductions in fasting blood [glucose](/glossary/compounds-d-g/#glucose), HbA1c, and triglycerides.
 - Anti-inflammatory mechanism via glucosinolate-derived isothiocyanate modulation of NF-kB and MAPK pathways
 - [Neuroprotective](/reference/neuroprotective/) activity through antioxidant and anti-inflammatory protection of neuronal cells
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective (Yakrit-hara) - strongly validated as key ingredient in Liv.52; clinical studies confirm protection against drug-induced and alcoholic liver damage
-- Antidiabetic (Prameha-hara) - validated through clinical trial showing significant blood glucose and HbA1c reduction
-- Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedana-sthapana) - confirmed through multiple preclinical anti-inflammatory models
-- Digestive stimulant (Rochana) - traditional appetizer use validated through clinical observations of improved appetite
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hepatoprotective (Yakrit-hara): traditionally used to protect the liver. It is a key ingredient in Liv.52. Clinical studies have reported protection against drug-induced and alcoholic liver damage.
+- Antidiabetic (Prameha-hara): traditionally used for prameha. A clinical trial reported reductions in blood glucose and HbA1c.
+- Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedana-sthapana): traditionally used to ease pain. Preclinical studies in several anti-inflammatory models have reported anti-inflammatory activity.
+- Digestive stimulant (Rochana): traditionally used as an appetizer. Clinical observations have reported improved appetite.
 
 ## What do recent clinical trials show?
 
 - Alsharif B, Boylan F 2025. [Capparis L. (Capparaceae): A Scoping Review of Phytochemistry, Ethnopharmacology and Pharmacological Activities](https://pubmed.ncbi.nlm.nih.gov/41011598/). *Molecules (Basel, Switzerland)*. PMID [41011598](https://pubmed.ncbi.nlm.nih.gov/41011598/) · [doi:10.3390/molecules30183705](https://doi.org/10.3390/molecules30183705)  
-  Scoping review covering the entire genus documenting the diversity of bioactive compounds and their validated pharmacological activities including antidiabetic and [anticancer](/reference/anticancer/) potential.
+  A scoping review covering the entire genus documented the diversity of bioactive compounds and their reported pharmacological activities, including antidiabetic and [anticancer](/reference/anticancer/) potential.
 - Yousefi E, Abedi M, Aghajanzadeh TA and others 2025. [Caper bush (Capparis spinosa L.) bioactive compounds and antioxidant capacity as affected by adaptation to harsh soils](https://pubmed.ncbi.nlm.nih.gov/40195406/). *Scientific reports*. PMID [40195406](https://pubmed.ncbi.nlm.nih.gov/40195406/) · [doi:10.1038/s41598-025-97298-4](https://doi.org/10.1038/s41598-025-97298-4)  
   Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
 

@@ -28,9 +28,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- **[Analgesic](/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara).** Multiple clinical trials and systematic reviews confirm cannabis/cannabinoids effective for chronic pain, neuropathic pain, and spasticity. Sativex (THC:CBD 1:1 spray) approved in 30+ countries for MS spasticity. FDA approved dronabinol and nabilone for pain.
-- **Appetite stimulant and anti-emetic (Deepana, Chhardinashaka).** Dronabinol (synthetic THC, Marinol) FDA-approved for anorexia in AIDS wasting and chemotherapy-induced nausea/vomiting. CB1 receptor activation in hypothalamus stimulates appetite through modulation of ghrelin and leptin signaling.
-- **Anticonvulsant (Apasmara).** Epidiolex (pure CBD) FDA-approved for Dravet syndrome and Lennox-Gastaut syndrome. Multiple RCTs demonstrate significant seizure reduction. Validates traditional Ayurvedic use of Vijaya for Apasmara (epilepsy).
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- **[Analgesic](/reference/analgesic/) and anti-spasmodic (Vedanasthapana, Shulahara).** Traditionally used for pain and spasm. Clinical studies and systematic reviews have reported reduced chronic pain, neuropathic pain and spasticity with cannabis and cannabinoids.
+- **Appetite stimulant and anti-emetic (Deepana, Chhardinashaka).** Traditionally used to stimulate appetite and to reduce nausea and vomiting.
+- **Anticonvulsant (Apasmara).** Vijaya is used in classical practice for Apasmara (epilepsy). Randomized clinical studies have reported reduced seizures.
 
 ## What do recent clinical trials show?
 

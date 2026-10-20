@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic activity validated in alloxan and STZ-induced diabetic animal models with significant blood glucose reduction
-- Anti-diarrheal properties confirmed through castor oil-induced diarrhea models showing significant reduction in frequency and volume
-- Wound healing activity demonstrated in excision and incision wound models with improved collagen deposition and epithelialization
-- Gastroprotective activity validated against aspirin and ethanol-induced gastric ulcer models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Animal studies using alloxan- and STZ-induced diabetic models have reported reduced blood glucose.
+- Animal studies using castor oil-induced diarrhea models have reported reduced frequency and volume of diarrhea.
+- Animal studies using excision and incision wound models have reported improved collagen deposition and epithelialization.
+- Animal studies have reported gastroprotective activity in aspirin- and ethanol-induced gastric ulcer models.
 
 ## What do recent clinical trials show?
 

@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-- Antitussive and anti-asthmatic efficacy validated through pharmacological studies confirming bronchodilatory and cough-suppressant properties, supporting premier use in Kasa (cough) and Shwasa (asthma)
-- Treatment of Pratishyaya (chronic rhinitis/sinusitis) supported by anti-inflammatory and [antimicrobial](/reference/antimicrobial/) properties of constituent herbs
-- Mild laxative and detoxification role validated through Haritaki's well-established purgative pharmacology, confirming traditional use in maintaining digestive health
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a premier remedy in Kasa (cough) and Shwasa (asthma). Pharmacological studies have reported bronchodilatory and cough-suppressant properties.
+- Traditionally used for Pratishyaya (chronic rhinitis/sinusitis). Anti-inflammatory and [antimicrobial](/reference/antimicrobial/) properties have been reported for its constituent herbs.
+- Traditionally used as a mild laxative and for detoxification, to maintain digestive health. Pharmacological studies have reported a purgative action for Haritaki.
 
 ## What do recent clinical trials show?
 

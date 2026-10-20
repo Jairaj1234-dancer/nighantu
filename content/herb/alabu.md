@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cardiotonic and heart-protective (Hridya) - validated through preclinical studies showing cholesterol and triglyceride reduction
-- Cooling and [diuretic](/reference/diuretic/) (Sheetala, Mutrala) - confirmed diuretic properties in pharmacological studies
-- Hepatoprotective (Yakrit-shodhana) - validated against drug-induced liver toxicity in animal models
-- Anti-obesity and weight management - confirmed antihyperlipidemic and anti-obesity effects in multiple studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cardiotonic and heart-protective (Hridya): traditionally used to support the heart. Preclinical studies have reported reductions in cholesterol and triglycerides.
+- Cooling and [diuretic](/reference/diuretic/) (Sheetala, Mutrala): traditionally used as a cooling and diuretic herb. Pharmacological studies have reported diuretic activity.
+- Hepatoprotective (Yakrit-shodhana): traditionally used to protect the liver. Animal studies have reported protection against drug-induced liver toxicity.
+- Obesity: traditionally used for weight reduction. Several studies have reported antihyperlipidemic and anti-obesity effects.
 
 ## What do recent clinical trials show?
 

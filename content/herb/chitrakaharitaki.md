@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disorder management (Kasa, Shwasa) validated through clinical observations and pharmacological review of mucolytic, antitussive, and bronchodilatory properties of constituent herbs
-- Digestive weakness (Agnimandya) treatment supported by documented carminative and digestive-stimulant properties of piperine, [ginger](/herb/ginger/), and other aromatic constituents
-- Anthelmintic (Krimi) activity supported by documented antiparasitic properties of [Chitrak](/herb/chitrak/) (plumbagin) and [Haritaki](/herb/haritaki/) (tannins)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Respiratory disorders (Kasa, Shwasa): traditionally used for cough and breathing complaints. Pharmacological reviews have reported mucolytic, antitussive, and bronchodilatory properties in its constituent herbs.
+- Digestive weakness (Agnimandya): traditionally used for weak digestion. Carminative and digestive-stimulant properties have been reported for piperine, [ginger](/herb/ginger/), and other aromatic constituents.
+- Anthelmintic use (Krimi): traditionally used for worm infestation. Antiparasitic properties have been reported for [Chitrak](/herb/chitrak/) (plumbagin) and [Haritaki](/herb/haritaki/) (tannins).
 
 ## What do recent clinical trials show?
 

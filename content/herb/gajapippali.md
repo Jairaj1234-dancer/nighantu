@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Gajapippali (Scindapsus officinalis (Roxb.) Schott) is a plant drug, from the Araceae family. Respiratory disease treatment (Kasa-Shwasa) partially validated by expectorant activity of saponin-rich extracts Antipyretic use supported by traditional clinical evidence and preliminary pharmacological data Galactagogue use (breast milk improvement) remains to be validated through modern clinical studies"
+answer: "Gajapippali (Scindapsus officinalis (Roxb.) Schott) is a plant drug from the Araceae family. It is traditionally used for respiratory disease (Kasa-Shwasa). Research has reported expectorant activity in saponin-rich extracts. It is also traditionally used to lower fever, and as a galactagogue to improve breast milk. Modern clinical studies of the galactagogue use are still lacking."
 botanical: "Scindapsus officinalis (Roxb.) Schott"
 family: "Araceae"
 sanskrit: ""
@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Respiratory disease treatment (Kasa-Shwasa) partially validated by expectorant activity of saponin-rich extracts
-- [Antipyretic](/reference/antipyretic/) use supported by traditional clinical evidence and preliminary pharmacological data
-- [Galactagogue](/glossary/pharmacology/#galactagogue) use (breast milk improvement) remains to be validated through modern clinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kasa-Shwasa (respiratory disease): traditionally used for respiratory disease. Research has reported expectorant activity in saponin-rich extracts.
+- [Antipyretic](/reference/antipyretic/) use: traditionally used to lower fever.
+- [Galactagogue](/glossary/pharmacology/#galactagogue) use: traditionally used to improve breast milk. Modern clinical studies of this use are still lacking.
 
 ## What do recent clinical trials show?
 

@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory activity confirmed in carrageenan-induced paw edema models.
-- [Analgesic](/reference/analgesic/) activity validated and found comparable to standard analgesics.
-- Antipyretic effects demonstrated in experimental fever models.
-- Antimicrobial activity confirmed against multiple pathogens.
-- Anti-arthritic potential validated in Freund's adjuvant arthritis model.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Animal studies have reported anti-inflammatory activity in carrageenan-induced paw edema models.
+- Experimental studies have reported [Analgesic](/reference/analgesic/) activity comparable to standard analgesics.
+- Experimental studies have reported antipyretic effects in fever models.
+- Laboratory studies have reported antimicrobial activity against multiple pathogens.
+- Animal studies have reported anti-arthritic activity in a Freund's adjuvant arthritis model.
 
 ## What do recent clinical trials show?
 

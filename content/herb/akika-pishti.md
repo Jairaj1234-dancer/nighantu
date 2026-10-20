@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Pitta disorders (heat, inflammation, irritability): The cooling mineral composition of silica-based agate provides mechanistic rationale for Pitta-pacifying claims, though rigorous clinical validation is lacking
-- Cardiac conditions and bleeding disorders: Trace mineral content (iron, magnesium, calcium) provides partial mechanistic support, but no controlled clinical trials specifically validate these indications
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pitta disorders (heat, inflammation, irritability): traditionally used to pacify Pitta. Agate is a silica-based mineral described as cooling. Rigorous clinical studies are lacking.
+- Cardiac conditions and bleeding disorders: traditionally used for these conditions. Agate contains trace minerals such as iron, magnesium and calcium. No controlled clinical trials have looked at these uses specifically.
 
 ## What do recent clinical trials show?
 

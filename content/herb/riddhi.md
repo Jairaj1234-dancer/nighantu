@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antioxidant and free radical scavenging activity experimentally validated, confirming its traditional Rasayana (rejuvenation) role
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and general tonic properties partially supported by nutritional profiling showing high calcium and mineral content
-- Immune-boosting activity supported by preliminary immunological studies, confirming traditional use as a vitality-enhancing herb
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a Rasayana (rejuvenation) herb. Experimental studies have reported antioxidant and free radical scavenging activity.
+- Traditionally used as an [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and general tonic. Nutritional profiling has reported high calcium and mineral content.
+- Traditionally used as a vitality-enhancing herb. Preliminary immunological studies have reported immune-boosting activity.
 
 ## What do recent clinical trials show?
 

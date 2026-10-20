@@ -40,8 +40,10 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 ## Which traditional uses are supported by research?
 
-- Rajayakshma (tuberculosis/chronic wasting diseases) - primary classical indication; supported by immunomodulatory and Rasayana properties of gold nanoparticles demonstrated in safety studies
-- Chronic bronchial diseases and respiratory conditions - traditional use supported by the anti-inflammatory and immunoenhancing properties of [Swarna Bhasma](/herb/swarna-bhasma/) demonstrated in preclinical research
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rajayakshma (tuberculosis/chronic wasting diseases): traditionally used for this condition, which is its primary classical indication. Safety studies have reported immunomodulatory properties of gold nanoparticles, which are traditionally regarded as Rasayana.
+- Chronic bronchial diseases and respiratory conditions: traditionally used for these conditions. Preclinical studies have reported anti-inflammatory and immunoenhancing properties of [Swarna Bhasma](/herb/swarna-bhasma/).
 
 ## What do recent clinical trials show?
 

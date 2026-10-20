@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Cancer and tumors (Arbuda): Animal studies showed significant tumor volume reduction, metastasis inhibition, and increased survival in tumor-bearing animals
-- Immune deficiency: Immunomodulatory activity confirmed through enhanced NK cell activity and lymphocyte proliferation in preclinical models
-- Tuberculosis (Rajayakshma): Anti-inflammatory and immune-enhancing properties provide mechanistic basis, though specific clinical validation for TB is limited
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cancer and tumors (Arbuda): traditionally used for Arbuda in classical practice. Animal studies have reported reduced tumor volume, less metastasis, and longer survival in tumor-bearing animals.
+- Immune deficiency: preclinical studies have reported immunomodulatory activity, including increased NK cell activity and lymphocyte proliferation.
+- Tuberculosis (Rajayakshma): traditionally used for Rajayakshma in classical practice. Anti-inflammatory and immune-enhancing activity has been reported, but clinical research specific to TB is limited.
 
 ## What do recent clinical trials show?
 
@@ -55,7 +57,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 ## Recent safety updates
 
-- HIGH SAFETY MARGIN: Murine toxicological assessments show no hepatotoxicity, nephrotoxicity, or genotoxicity at therapeutic equivalent doses when prepared through validated methods
+- Safety: toxicology studies in mice have reported no hepatotoxicity, nephrotoxicity, or genotoxicity at doses equivalent to those used in practice, for preparations made by validated methods.
 - STABLE HEMATOLOGY: Hematological profiles remained stable in animal studies; histopathological examination showed no cellular inflammation or necrosis
 - LIMITED HUMAN DATA: Clinical trials in humans are still limited; most safety data from animal models and pilot studies
 - PREPARATION-DEPENDENT: Adverse reactions usually due to improperly prepared or contaminated formulations; may include gastric irritation, metallic taste, or rare hypersensitivity

@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Immunomodulatory and rejuvenation properties validated through preclinical studies demonstrating enhanced immune cell activity, confirming [Rasayana](/reference/rasayana/) application
-- Hepatoprotective activity confirmed through experimental liver injury models, supporting traditional use in liver health
-- Antioxidant and nutritive properties validated through chemical profiling showing rich mineral and carotenoid content, confirming traditional use as a body strengthener
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a [Rasayana](/reference/rasayana/) for rejuvenation. Preclinical studies have reported enhanced immune cell activity.
+- Traditionally used for liver health. Studies in experimental liver injury models have reported hepatoprotective activity.
+- Traditionally used as a body strengthener. Chemical profiling has reported a rich mineral and carotenoid content.
 
 ## What do recent clinical trials show?
 

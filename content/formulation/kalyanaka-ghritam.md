@@ -39,10 +39,12 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## Which traditional uses are supported by research?
 
-- Unmada (psychosis/schizophrenia): clinical studies confirm efficacy in psychiatric conditions including OCD with 44% improvement at follow-up
-- Cognitive deficit in children: prospective clinical evaluation validates safety and efficacy for pediatric cognitive enhancement
-- Fertility enhancement: traditionally used for both male (sperm quality) and female (ovum quality) fertility - clinically recommended by practitioners
-- Apasmara (epilepsy): classical indication supported by pharmacological studies on anticonvulsant properties of ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Unmada (psychosis/schizophrenia): traditionally used for unmada. Clinical studies have reported improvement in psychiatric conditions including OCD.
+- Cognitive deficit in children: traditionally used for cognitive support in children. A prospective clinical study reported on its safety and on cognitive improvement in children.
+- Fertility enhancement: traditionally used for both male (sperm quality) and female (ovum quality) fertility.
+- Apasmara (epilepsy): used in classical practice for apasmara. Pharmacological studies have reported anticonvulsant properties in its ingredients.
 
 ## What do recent clinical trials show?
 

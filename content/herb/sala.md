@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Wound healing use validated through excision wound models with significantly accelerated closure and improved histological markers
-- Anti-inflammatory activity confirmed in carrageenan-induced paw edema and cotton pellet granuloma models
-- [Antipyretic](/reference/antipyretic/) activity confirmed in Brewer's yeast-induced fever model in rodents
-- Antibacterial properties validated against common wound pathogens including S. aureus and E. coli
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for wounds. Animal studies using excision wound models have reported faster wound closure and improved histological markers.
+- Animal studies using carrageenan-induced paw edema and cotton pellet granuloma models have reported anti-inflammatory activity.
+- [Antipyretic](/reference/antipyretic/) activity has been reported in animal studies using a Brewer's yeast-induced fever model in rodents.
+- Laboratory studies have reported antibacterial activity against common wound pathogens, including S. aureus and E. coli.
 
 ## What do recent clinical trials show?
 

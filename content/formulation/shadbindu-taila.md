@@ -38,9 +38,11 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## Which traditional uses are supported by research?
 
-- Chronic sinusitis and nasal polyps - validated by clinical study (2019) showing 70% marked improvement in sinusitis symptoms after 30 days of Nasya treatment
-- Headache and migraine (Shirahshula) - supported by the [analgesic](/reference/analgesic/) and anti-inflammatory actions of kaempferol and [Tagara](/herb/tagara/)'s [valepotriates](/glossary/compounds-t-z/#valepotriates) confirmed by HPTLC analysis
-- Hair loss prevention and premature greying - supported by the [Bhringraj](/herb/bhringraj/) juice base providing established hair growth-promoting [wedelolactone](/glossary/compounds-t-z/#wedelolactone) compounds via scalp and nasal administration
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic sinusitis and nasal polyps: traditionally used as Nasya for chronic sinusitis and nasal polyps. A clinical study reported improvement in sinusitis symptoms after Nasya administration.
+- Headache and migraine (Shirahshula): traditionally used for headache and migraine. The formulation contains kaempferol and [Tagara](/herb/tagara/), and HPTLC analysis has reported the presence of [valepotriates](/glossary/compounds-t-z/#valepotriates).
+- Hair loss and premature greying: traditionally used for hair loss and premature greying through scalp and nasal administration. The base is [Bhringraj](/herb/bhringraj/) juice, which contains [wedelolactone](/glossary/compounds-t-z/#wedelolactone) compounds.
 
 ## What do recent clinical trials show?
 

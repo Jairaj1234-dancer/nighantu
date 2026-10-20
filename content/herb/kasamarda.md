@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Skin fungal infections (Dadru/Kushtha): Validated by 2024 study confirming antifungal activity of root extracts against Candida albicans, Rhodotorula glutinis, and Aspergillus niger
-- Anti-inflammatory skin conditions: Supported by demonstrated anti-inflammatory activity of chromone and flavone constituents
-- Wound healing: Traditional leaf poultice application supported by [antimicrobial](/reference/antimicrobial/) and anti-inflammatory mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Skin fungal infections (Dadru/Kushtha): traditionally used for these skin conditions. A study reported antifungal activity of root extracts against Candida albicans, Rhodotorula glutinis, and Aspergillus niger.
+- Inflammatory skin conditions: traditionally used for inflammatory skin conditions. Studies have reported anti-inflammatory activity of its chromone and flavone constituents.
+- Wounds: traditionally applied to wounds as a leaf poultice. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

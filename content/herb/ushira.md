@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anxiolytic and nootropic (memory-enhancing) effects validated in mouse models, confirming traditional Ayurvedic use as a brain tonic (Medhya)
-- Anti-inflammatory and cooling properties validated through pharmacological studies, confirming traditional use in Pitta disorders and burning sensation (Daha)
-- [Antimicrobial](/reference/antimicrobial/) activity confirmed against multiple bacterial and fungal strains, supporting traditional use in skin infections and wound healing
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a brain tonic (Medhya). Studies in mice have reported anxiolytic and nootropic (memory-enhancing) effects.
+- Traditionally used for Pitta disorders and burning sensation (Daha). Pharmacological studies have reported anti-inflammatory and cooling properties.
+- Traditionally used for skin infections and wounds. [Antimicrobial](/reference/antimicrobial/) activity against multiple bacterial and fungal strains has been reported in studies.
 
 ## What do recent clinical trials show?
 

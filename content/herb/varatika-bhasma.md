@@ -43,9 +43,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-- Hyperacidity and gastritis (Amlapitta): Antacid activity confirmed through in-vitro studies and clinical observations. Effective acid neutralization validated.
-- Intestinal worms (Krimi Roga): Anti-parasitic action attributed to alkaline pH creation, supported by traditional empirical evidence
-- Indigestion and bloating (Ajirna, Adhmana): Digestive improvement through acid-base balance restoration confirmed in clinical practice
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hyperacidity and gastritis (Amlapitta): traditionally used for hyperacidity and gastritis. In vitro studies and clinical observations have reported antacid and acid-neutralizing activity.
+- Intestinal worms (Krimi Roga): traditionally used for intestinal worms. Traditional accounts attribute this use to the creation of an alkaline pH.
+- Indigestion and bloating (Ajirna, Adhmana): used in classical practice for indigestion and bloating. Traditional accounts explain this use as restoring acid-base balance.
 
 ## What do recent clinical trials show?
 

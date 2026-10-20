@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Rasa-Shastra-Alchemical-Preparations"
 group: "Panchamrita-Parpati"
-answer: "Panchamrita Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions) - validated by RCT and clinical studies showing improvement in digestive symptoms Agni Mandya (weak digestive fire) with Ama formation - traditional primary indication supported by known Deepana-Pachana properties of constituent Bhasmas"
+answer: "Panchamrita Parpati is a rasa preparation, a herbo-mineral formulation of the rasa shastra tradition. It is traditionally used for Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions). Clinical studies, including a randomized controlled trial, have reported improvement in digestive symptoms. It is also traditionally used for Agni Mandya (weak digestive fire) with Ama formation, a primary classical indication. Its constituent Bhasmas are traditionally described as having Deepana-Pachana properties."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -40,8 +40,10 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 ## Which traditional uses are supported by research?
 
-- Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions) - validated by RCT and clinical studies showing improvement in digestive symptoms
-- Agni Mandya (weak digestive fire) with Ama formation - traditional primary indication supported by known Deepana-Pachana properties of constituent Bhasmas
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions): traditionally used for this condition. Clinical studies, including a randomized controlled trial, have reported improvement in digestive symptoms.
+- Agni Mandya (weak digestive fire) with Ama formation: a primary traditional indication. The constituent Bhasmas are traditionally described as having Deepana-Pachana properties.
 
 ## What do recent clinical trials show?
 

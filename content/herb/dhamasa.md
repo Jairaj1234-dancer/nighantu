@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated through COX inhibition studies and in vivo models, confirming traditional use in pain and inflammatory conditions
-- [Anticancer](/reference/anticancer/)/cytotoxic activity validated against multiple cancer cell lines, supporting its extensive folk use as an anticancer remedy (particularly in Pakistan and India)
-- Antithrombotic properties experimentally confirmed, supporting traditional use in blood-related disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for pain and inflammatory conditions. COX inhibition studies and animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
+- Traditionally used in folk practice as an anticancer remedy, particularly in Pakistan and India. In vitro studies have reported [Anticancer](/reference/anticancer/) and cytotoxic activity against multiple cancer cell lines.
+- Traditionally used for blood-related disorders. Experimental studies have reported antithrombotic activity.
 
 ## What do recent clinical trials show?
 

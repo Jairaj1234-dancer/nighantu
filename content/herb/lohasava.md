@@ -40,8 +40,10 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 
 ## Which traditional uses are supported by research?
 
-- Iron deficiency anemia - validated by comparative study showing Lohasava was more effective than conventional iron therapy in improving hemoglobin and iron parameters
-- Liver and digestive disorders - traditional [hepatoprotective](/reference/hepatoprotective/) and digestive claims supported by pharmacological actions of [Triphala](/herb/triphala/) and [Trikatu](/herb/trikatu/) components and the bioenhancing fermentation process
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron deficiency anemia: traditionally used for iron deficiency anemia. A comparative study reported greater improvement in hemoglobin and iron parameters with Lohasava than with conventional iron therapy.
+- Liver and digestive disorders: traditionally used as a [hepatoprotective](/reference/hepatoprotective/) and digestive formulation. In classical practice, these uses are attributed to its [Triphala](/herb/triphala/) and [Trikatu](/herb/trikatu/) components and its fermentation process.
 
 ## What do recent clinical trials show?
 

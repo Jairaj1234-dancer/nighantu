@@ -44,9 +44,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Apasmara (epilepsy/seizures): [Taurine](/glossary/compounds-t-z/#taurinetaurine) and bile acid-mediated GABA modulation provides scientific basis for traditional anticonvulsant use in pediatric and adult seizure management
-- Visha Chikitsa (toxicology/anti-poisoning): Bile salt chelation properties and hepatoprotective effects validate traditional use as a key ingredient in anti-poison formulations (Agada preparations)
-- Jwara and Unmada (fever and psychiatric disorders): Anti-inflammatory, antipyretic, and CNS-modulating effects of bile acids and bilirubin support classical indications
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Apasmara (epilepsy/seizures): traditionally used for seizures in children and adults. Its constituents include [Taurine](/glossary/compounds-t-z/#taurinetaurine) and bile acids.
+- Visha Chikitsa (toxicology/anti-poisoning): used in classical practice as a key ingredient in anti-poison formulations (Agada preparations).
+- Jwara and Unmada (fever and psychiatric disorders): used in classical practice for fever and psychiatric disorders.
 
 ## What do recent clinical trials show?
 

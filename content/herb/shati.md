@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cough and respiratory disorders (Kasa-hara, Shvasa-hara) - validated through confirmed antihistaminic, bronchodilatory, and [expectorant](/reference/expectorant/) properties
-- Fever reduction (Jvarahara) - confirmed [antipyretic](/reference/antipyretic/) activity through anti-inflammatory mechanisms
-- Anti-emetic and nausea relief (Chhardi-nigrahana) - traditional digestive use supported by carminative and [antiemetic](/glossary/pharmacology/#antiemetic) studies
-- Anti-inflammatory (Shotha-hara) - validated through in vivo carrageenan-induced paw edema models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Cough and respiratory disorders (Kasa-hara, Shvasa-hara): traditionally used for cough and breathing complaints. Studies have reported antihistaminic, bronchodilatory, and [expectorant](/reference/expectorant/) properties.
+- Fever (Jvarahara): traditionally used to reduce fever. Studies have reported [antipyretic](/reference/antipyretic/) activity, attributed to anti-inflammatory mechanisms.
+- Nausea and vomiting (Chhardi-nigrahana): traditionally used as a digestive remedy for nausea. Studies have reported carminative and [antiemetic](/glossary/pharmacology/#antiemetic) activity.
+- Inflammation (Shotha-hara): traditionally used for swelling. Animal studies using carrageenan-induced paw edema models have reported anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

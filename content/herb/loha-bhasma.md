@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 ## Which traditional uses are supported by research?
 
-- Iron-deficiency anemia (Pandu Roga): Multiple clinical trials including multi-center and double-blind studies confirmed efficacy comparable to ferrous sulfate with better tolerability
-- Digestive disorders: Improved digestion and appetite confirmed through clinical observations; Agni-deepana (digestive fire enhancement) property validated
-- General debility and weakness (Daurbalya): Iron supplementation effects validated through hemoglobin improvement and clinical symptom resolution in multiple studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia. Clinical studies, including multi-center and double-blind studies, reported results comparable to ferrous sulfate with better tolerability.
+- Digestive disorders: traditionally used to improve digestion and appetite, described as Agni-deepana (digestive fire enhancement). Clinical observations have reported improved digestion and appetite.
+- General debility and weakness (Daurbalya): traditionally used for general debility and weakness. Clinical studies have reported improved hemoglobin levels and improved clinical symptoms.
 
 ## What do recent clinical trials show?
 

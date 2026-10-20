@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 ## Which traditional uses are supported by research?
 
-- Calcium deficiency and bone disorders: 60.83% calcium content with high bioavailability confirmed analytically, validating use for Asthi Kshaya (bone depletion), rickets, and osteoporosis
-- Leukorrhea (Shweta Pradar): Traditional gynecological use supported by calcium's role in reproductive health and mucosal integrity
-- Urinary tract infections: Antimicrobial CaO nanoparticle activity and alkaline pH effects support traditional use for Mutra Krichra (dysuria)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Calcium deficiency and bone disorders: traditionally used for Asthi Kshaya (bone depletion), rickets, and osteoporosis. Analytical studies have reported a high calcium content with high bioavailability.
+- Leukorrhea (Shweta Pradar): traditionally used in gynecological practice for this condition.
+- Urinary tract infections: traditionally used for Mutra Krichra (dysuria). Laboratory studies have reported antimicrobial activity of CaO nanoparticles and an alkaline pH.
 
 ## What do recent clinical trials show?
 

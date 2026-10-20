@@ -40,8 +40,10 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 ## Which traditional uses are supported by research?
 
-- Hemorrhagic retinopathies (diabetic and hypertensive) - validated by clinical study showing rapid hemorrhage absorption and reduced recurrence
-- Myopia and visual disorders (Timira) - validated by comparative clinical study showing improvement in visual acuity with [Saptamrit Lauh](/herb/saptamrit-lauh/) therapy
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hemorrhagic retinopathies (diabetic and hypertensive): traditionally used for these conditions. A clinical study reported rapid absorption of hemorrhage and less recurrence.
+- Myopia and visual disorders (Timira): traditionally used for these conditions. A comparative clinical study reported improved visual acuity with [Saptamrit Lauh](/herb/saptamrit-lauh/) therapy.
 
 ## What do recent clinical trials show?
 

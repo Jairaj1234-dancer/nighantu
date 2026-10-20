@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Purgative use (Virechana) validated through stimulation of colonic peristalsis and fluid secretion in animal models
-- Anti-helminthic use (Krimighna) confirmed by in vitro activity against intestinal parasites including Ascaris and Taenia species
-- Anti-inflammatory use supported by COX-2 and iNOS inhibition through scopoletin and lupeol in carrageenan-induced edema model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Virechana (purgation): traditionally used as a purgative. Animal studies have reported stimulation of colonic peristalsis and fluid secretion.
+- Krimighna (anti-helminthic): traditionally used against intestinal worms. In vitro studies have reported activity against intestinal parasites, including Ascaris and Taenia species.
+- Anti-inflammatory use: traditionally used for inflammation. An animal study using a carrageenan-induced edema model reported COX-2 and iNOS inhibition linked to scopoletin and lupeol.
 
 ## What do recent clinical trials show?
 

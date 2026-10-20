@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/reference/antidiabetic/) and hypoglycemic activity validated through in vivo studies confirming traditional Ayurvedic use of Amlaparni for managing blood sugar levels
-- Wound healing properties confirmed in preclinical models consistent with traditional topical application for skin conditions and wound management in folk medicine
-- [Hepatoprotective](/reference/hepatoprotective/) effects demonstrated in animal models supporting traditional use for liver disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amlaparni is traditionally used in Ayurveda in relation to blood sugar levels. In vivo studies have reported [antidiabetic](/reference/antidiabetic/) and hypoglycemic activity.
+- Traditionally applied topically in folk medicine for skin conditions and wounds. Preclinical studies have reported wound healing activity.
+- Traditionally used for liver disorders. Animal studies have reported [hepatoprotective](/reference/hepatoprotective/) effects.
 
 ## What do recent clinical trials show?
 

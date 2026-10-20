@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prasarini/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-rheumatic use (Vatahara) validated through anti-inflammatory and [analgesic](/reference/analgesic/) activity in carrageenan and formalin models
-- Antidiarrheal use confirmed by reduction of gastrointestinal motility and fluid accumulation in castor oil-induced diarrhea model
-- Gastroprotective use validated by PGE2-mediated increase in gastric mucus secretion and ulcer protection
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an anti-rheumatic (Vatahara). Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity in carrageenan and formalin models.
+- Traditionally used for diarrhea. Animal studies have reported reduced gastrointestinal motility and fluid accumulation in a castor oil-induced diarrhea model.
+- Traditionally used to protect the stomach. Research has reported a PGE2-mediated increase in gastric mucus secretion and a protective effect against ulcers.
 
 ## What do recent clinical trials show?
 

@@ -44,9 +44,11 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Amlapitta (hyperacidity/GERD): Direct acid-neutralizing mechanism scientifically validates primary traditional indication; comparable to modern antacid drugs
-- Ashmari (urinary calculi/kidney stones): Alkalinization of urine and crystal dissolution properties provide strong scientific basis for traditional anti-urolithiatic use
-- Gulma and Anaha (abdominal distension/bloating): Acid neutralization reduces bloating from acid-mediated fermentation; improved digestion reduces gas production
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amlapitta (hyperacidity/GERD): traditionally used as a primary remedy for hyperacidity.
+- Ashmari (urinary calculi/kidney stones): traditionally used for urinary calculi.
+- Gulma and Anaha (abdominal distension/bloating): traditionally used for abdominal distension and bloating.
 
 ## What do recent clinical trials show?
 

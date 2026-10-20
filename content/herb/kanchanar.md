@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-goitrogenic and thyroid-supportive use validated through clinical case series showing improved TSH and thyroid hormone levels
-- Lymphadenitis (Gandamala) treatment confirmed through clinical observations and Kanchanar [Guggulu](/formulation/guggulu/) studies
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated through carrageenan-induced paw edema model with 46-77% inhibition
-- [Hemostatic](/glossary/pharmacology/#hemostatic) and anti-hemorrhagic use supported by astringent tannin content and clinical observations in menorrhagia
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an anti-goitrogenic and for the thyroid. A clinical case series reported improved TSH and thyroid hormone levels.
+- Gandamala (lymphadenitis): traditionally used for this condition, including as Kanchanar [Guggulu](/formulation/guggulu/).
+- Traditionally used for inflammation and pain. Animal studies have reported reduced swelling in the carrageenan-induced paw edema model, along with [analgesic](/reference/analgesic/) effects.
+- [Hemostatic](/glossary/pharmacology/#hemostatic) and anti-hemorrhagic use: traditionally used to check bleeding. The plant contains astringent tannins.
 
 ## What do recent clinical trials show?
 

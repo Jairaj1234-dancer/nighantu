@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-- Anti-asthmatic use in children (Balaka Shwasa) supported by bronchial smooth muscle relaxation and mast cell stabilization in preclinical studies
-- Antitussive use (Kasa-hara) confirmed by reduction of cough frequency in SO2-induced cough model and [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough model
-- Digestive use (Deepana) supported by enhancement of gastric enzyme secretion and carminative activity of essential oil components
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Balaka Shwasa (asthma in children): traditionally used for asthma in children. Preclinical studies have reported bronchial smooth muscle relaxation and mast cell stabilization.
+- Kasa-hara (antitussive): traditionally used for cough. Studies in sulfur dioxide-induced and [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)-induced cough models have reported reduced cough frequency.
+- Deepana (digestive): traditionally used for digestion. Studies have reported increased gastric enzyme secretion and carminative activity of its essential oil components.
 
 ## What do recent clinical trials show?
 

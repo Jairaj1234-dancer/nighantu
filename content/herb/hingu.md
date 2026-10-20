@@ -11,7 +11,7 @@ botanical: "Ferula asafoetida"
 family: "Apiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) and referenced in foundational Ayurvedic texts (Charaka Samhita, Sushruta Samhita). Recognized in Unani medicine pharmacopoeia. Limited WHO-specific monograph coverage; identified as requiring further rigorous controlled clinical trials for formal therapeutic validation."
+whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) and referenced in foundational Ayurvedic texts (Charaka Samhita, Sushruta Samhita). Recognized in Unani medicine pharmacopoeia. Limited WHO-specific monograph coverage. Further rigorous controlled clinical trials have been identified as needed before any therapeutic claims can be made."
 aliases: ["Ferula asafoetida"]
 tags: ["ayurveda", "herb", "single-herb", "digestive-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -46,11 +46,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid for flatulence and dyspepsia - validated by double-blind RCT showing 81% improvement in functional dyspepsia symptoms
-- Antispasmodic for colic and abdominal pain - confirmed through smooth muscle relaxation studies
-- Expectorant for asthma and bronchitis - supported by network pharmacology and molecular docking studies identifying anti-asthmatic targets
-- Antimicrobial agent against intestinal infections - validated by in vitro studies demonstrating broad-spectrum activity
-- Anti-inflammatory for pain and swelling - supported by multiple preclinical studies showing COX-2 and NF-kB inhibition
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as a digestive aid for flatulence and dyspepsia. A double-blind randomized clinical study reported improvement in functional dyspepsia symptoms.
+- Traditionally used as an antispasmodic for colic and abdominal pain. Studies on smooth muscle have reported relaxant activity.
+- Traditionally used as an expectorant for asthma and bronchitis. Network pharmacology and molecular docking studies have identified possible anti-asthmatic targets.
+- Traditionally used for intestinal infections. In vitro studies have reported broad-spectrum antimicrobial activity.
+- Traditionally used for pain and swelling. Preclinical studies have reported COX-2 and NF-kB inhibition.
 
 ## What do recent clinical trials show?
 
@@ -59,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - Thulluri SP, Selvaraj K, Yerraguntla DP and others 2025. [A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage](https://pubmed.ncbi.nlm.nih.gov/40144445/). *Cureus*. PMID [40144445](https://pubmed.ncbi.nlm.nih.gov/40144445/) · [doi:10.7759/cureus.79545](https://doi.org/10.7759/cureus.79545)  
   Demonstrated [hepatoprotective](/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
 - Qasim M, Abdullah M, Ali Ashfaq U and others 2023. [Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/36568408/). *Saudi journal of biological sciences*. PMID [36568408](https://pubmed.ncbi.nlm.nih.gov/36568408/) · [doi:10.1016/j.sjbs.2022.103527](https://doi.org/10.1016/j.sjbs.2022.103527)  
-  Network pharmacology analysis identified key molecular targets and signaling pathways through which asafoetida components exert anti-asthmatic effects, validating traditional use for respiratory conditions.
+  A network pharmacology analysis identified molecular targets and signaling pathways through which asafoetida components may have anti-asthmatic effects.
 - Niazmand R, Razavizadeh BM 2021. [Ferula asafoetida: chemical composition, thermal behavior, antioxidant and antimicrobial activities of leaf and gum hydroalcoholic extracts](https://pubmed.ncbi.nlm.nih.gov/33967312/). *Journal of food science and technology*. PMID [33967312](https://pubmed.ncbi.nlm.nih.gov/33967312/) · [doi:10.1007/s13197-020-04724-8](https://doi.org/10.1007/s13197-020-04724-8)  
   Characterized chemical composition and confirmed significant antioxidant capacity and broad-spectrum antimicrobial activity of both leaf and gum resin extracts.
 

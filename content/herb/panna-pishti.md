@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 ## Which traditional uses are supported by research?
 
-- Digestive and hepatic disorders: Traditional use in liver disorders has theoretical support from the trace chromium content's potential role in metabolic regulation, but no clinical trials validate this specific indication
-- Cooling and Pitta-pacifying: Traditional cooling use has Ayurvedic theoretical basis but lacks modern pharmacological validation specific to emerald-derived preparations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive and hepatic disorders: traditionally used for liver disorders. No clinical trials have been reported for this specific use.
+- Cooling and Pitta-pacifying: traditionally used in Ayurveda as a cooling, Pitta-pacifying preparation. No modern pharmacological studies specific to emerald-derived preparations have been reported.
 
 ## What do recent clinical trials show?
 

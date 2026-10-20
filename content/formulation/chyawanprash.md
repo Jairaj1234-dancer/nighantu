@@ -57,10 +57,12 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 ## Which traditional uses are supported by research?
 
-- Rasayana (rejuvenation/immunity): meta-analysis of 5 RCTs validates [immunomodulatory](/reference/immunomodulatory/) and prophylactic benefits including COVID-19 prevention
-- Medhya Rasayana (cognitive enhancement): 2025 research validates role as cognitive enhancer for brain vitality and mental acuity
-- Vyadhikshamatva (disease resistance): immunomodulatory effects validated in zebrafish inflammation models and human clinical trials
-- Balya (strength-promoting): daily use validated for general vitality, respiratory health, and anti-aging benefits across multiple studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rasayana (rejuvenation/immunity): traditionally used as a rasayana for rejuvenation and immunity. A meta-analysis of clinical trials reported [immunomodulatory](/reference/immunomodulatory/) and prophylactic effects, including against COVID-19.
+- Medhya Rasayana (cognitive enhancement): traditionally used as a cognitive enhancer for brain vitality and mental acuity.
+- Vyadhikshamatva (disease resistance): traditionally used to support disease resistance. Animal studies in zebrafish inflammation models and clinical studies have reported immunomodulatory effects.
+- Balya (strength-promoting): traditionally taken daily for general vitality, respiratory health, and anti-aging.
 
 ## What do recent clinical trials show?
 

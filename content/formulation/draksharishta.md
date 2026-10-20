@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory and analgesic effects (validated by carrageenan-induced paw edema and acetic acid writhing models)
-- General debility and convalescence (validated by clinical observations of improved appetite and energy)
-- Digestive impairment (validated by emerging digestive enzyme modulation research)
-- Antioxidant tissue protection (validated by [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and catechin biomarker identification in TLC profiling)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anti-inflammatory and analgesic activity: animal studies using carrageenan-induced paw edema and acetic acid writhing models have reported anti-inflammatory and analgesic effects.
+- General debility and convalescence: traditionally used for general debility and during convalescence. Clinical observations have reported improved appetite and energy.
+- Digestive impairment: traditionally used for digestive impairment. Early research has reported modulation of digestive enzymes.
+- Antioxidant markers: TLC profiling has reported the presence of [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and catechin.
 
 ## What do recent clinical trials show?
 

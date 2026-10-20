@@ -43,10 +43,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Immunomodulation and [Rasayana](/reference/rasayana/) (rejuvenation): Validated by multiple studies showing enhanced immune cell activity, increased WBC counts, and improved adaptive immune responses in animal models
-- Anti-diabetic activity: Gold nanoparticles demonstrated profound control over anti-oxidant enzymes and blood [glucose](/glossary/compounds-d-g/#glucose) in diabetic mice models, supporting traditional use in Prameha (diabetes)
-- Rheumatoid arthritis management: Comprehensive review (2024) confirmed anti-inflammatory mechanisms via NF-kB pathway inhibition, validating traditional use in Amavata (joint inflammation)
-- Nervous system disorders: Behavioral assessment in zebrafish and rat models confirmed no neurotoxicity and showed analgesic and anti-depressant activities, supporting use in neurological conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Immunomodulation and [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used as a rasayana for rejuvenation. Animal studies have reported increased immune cell activity, higher WBC counts and stronger adaptive immune responses.
+- Anti-diabetic activity: traditionally used in Prameha (diabetes). Animal studies in diabetic mice have reported that gold nanoparticles influenced antioxidant enzymes and blood [glucose](/glossary/compounds-d-g/#glucose).
+- Rheumatoid arthritis: traditionally used in Amavata (joint inflammation). A review reported anti-inflammatory activity through NF-kB pathway inhibition.
+- Nervous system disorders: traditionally used for neurological conditions. Animal studies in zebrafish and rats have reported no neurotoxicity, along with analgesic and anti-depressant activity.
 
 ## What do recent clinical trials show?
 

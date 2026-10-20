@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-inflammatory activity validated through isolation of vitexin as a key 5-LOX inhibitor, confirming traditional use in inflammatory conditions and rheumatism
-- Immunomodulatory properties experimentally confirmed, supporting traditional use as a body strengthener and vitality enhancer
-- Antidiabetic potential supported by in vivo studies with [coumarin](/glossary/compounds-c-d/#coumarin)-rich fractions, partially validating traditional use in Prameha (metabolic disorders)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for inflammatory conditions and rheumatism. A study that isolated vitexin reported it as a key 5-LOX inhibitor with anti-inflammatory activity.
+- Traditionally used as a body strengthener and vitality enhancer. Experimental studies have reported immunomodulatory properties.
+- Traditionally used in Prameha (metabolic disorders). In vivo studies with [coumarin](/glossary/compounds-c-d/#coumarin)-rich fractions have reported antidiabetic potential.
 
 ## What do recent clinical trials show?
 

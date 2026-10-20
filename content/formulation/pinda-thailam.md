@@ -38,9 +38,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 ## Which traditional uses are supported by research?
 
-- Inflammatory skin conditions (psoriasis, eczema) - validated by pharmacological confirmation of anti-inflammatory anthraquinones and [phytosterols](/glossary/compounds-o-q/#phytosterols) from [Manjistha](/herb/manjistha/) and [Sariva](/herb/sariva/)
-- Gout and inflammatory joint conditions - validated by clinical study (2017) showing superior pain reduction in OA knees with oil-based therapy
-- Post-stroke rehabilitation (Pinda Sveda therapy) - validated by RCT (2019) demonstrating improved muscle strength in hemiparetic patients after 12 oil poultice sessions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Inflammatory skin conditions (psoriasis, eczema): traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory anthraquinones and [phytosterols](/glossary/compounds-o-q/#phytosterols) in [Manjistha](/herb/manjistha/) and [Sariva](/herb/sariva/).
+- Gout and inflammatory joint conditions: traditionally used for these conditions. A clinical study of oil-based therapy reported reduced pain in knee osteoarthritis.
+- Post-stroke rehabilitation (Pinda Sveda therapy): used in classical practice in post-stroke care. A randomized controlled trial of oil poultice sessions reported improved muscle strength in hemiparetic patients.
 
 ## What do recent clinical trials show?
 

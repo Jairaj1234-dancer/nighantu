@@ -34,8 +34,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 ## Which traditional uses are supported by research?
 
-- Anti-diabetic activity: Multiple preclinical studies (2020-2024) validate traditional use in Prameha (diabetes) showing dose-dependent blood glucose reduction, improved insulin sensitivity, and protection against diabetic complications including retinopathy, cardiomyopathy, and encephalopathy
-- Rejuvenative ([Rasayana](/reference/rasayana/)) action: Traditional use as a rejuvenative tonic partially validated by studies showing antioxidant properties and multi-organ protective effects in diabetic animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anti-diabetic activity: traditionally used for Prameha (diabetes). Preclinical studies have reported lower blood glucose, improved insulin sensitivity, and protection against diabetic complications including retinopathy, cardiomyopathy, and encephalopathy.
+- Rejuvenative ([Rasayana](/reference/rasayana/)) action: traditionally used as a rejuvenative tonic. Animal studies in diabetic models have reported antioxidant properties and protective effects across multiple organs.
 
 ## What do recent clinical trials show?
 

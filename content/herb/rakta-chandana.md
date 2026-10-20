@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Wound healing (Vranaropana): Validated in animal models showing significantly accelerated healing of punch and burn wounds with enhanced collagen synthesis
-- Anti-inflammatory skin care (Daha-shamana): Validated by in vitro studies showing selective inhibition of pro-inflammatory genes in IL-1 stimulated cells
-- Complexion enhancement (Varnya): Traditional face pack use partially supported by antioxidant activity of [pterostilbene](/glossary/compounds-o-q/#pterostilbene), though large-scale clinical trials are lacking
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Wound repair (Vranaropana): traditionally used for wounds. Animal studies have reported faster closure of punch and burn wounds, with increased collagen synthesis.
+- Anti-inflammatory skin care (Daha-shamana): traditionally used in skin care. In vitro studies have reported selective inhibition of pro-inflammatory genes in IL-1 stimulated cells.
+- Complexion enhancement (Varnya): traditionally used as a face pack. Antioxidant activity has been reported for [pterostilbene](/glossary/compounds-o-q/#pterostilbene). Large-scale clinical trials are lacking.
 
 ## What do recent clinical trials show?
 

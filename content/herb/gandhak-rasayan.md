@@ -43,9 +43,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- Antimicrobial and skin disease applications validated through in vitro studies showing activity against Staphylococcus aureus and Candida species, confirming use in Kushtha (skin diseases)
-- [Rasayana](/reference/rasayana/) (rejuvenation) properties partially validated through immunomodulatory studies and chronic toxicity safety data supporting long-term use
-- Detoxification role supported by sulfur biochemistry (glutathione metabolism) and improvement in skin hydration demonstrated in pilot clinical study for eczema
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kushtha (skin diseases): traditionally used for skin diseases. In vitro studies have reported antimicrobial activity against Staphylococcus aureus and Candida species.
+- [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used as a rejuvenative. Studies have reported immunomodulatory activity.
+- Traditionally used for detoxification. A pilot clinical study in eczema reported improvement in skin hydration.
 
 ## What do recent clinical trials show?
 

@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hridya (cardiac tonic): Muscone's cardioprotective and inotropic effects validate traditional use in cardiac formulations including Kasturi Bhairava Rasa and Mrigamadasava
-- Unmada and Apasmara (psychiatric/neurological disorders): Muscone's ability to cross BBB and modulate neuroinflammation supports classical Ayurvedic use in stroke, seizures, and psychiatric conditions
-- Vishamjwara (intermittent fevers) and Sannipata: Anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) properties provide basis for traditional use in severe febrile and toxic conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hridya (cardiac tonic): traditionally used in cardiac formulations including Kasturi Bhairava Rasa and Mrigamadasava. Studies have reported cardioprotective and inotropic effects of muscone.
+- Unmada and Apasmara (psychiatric/neurological disorders): used in classical Ayurvedic practice for stroke, seizures, and psychiatric conditions. Studies have reported that muscone can cross the blood-brain barrier and modulate neuroinflammation.
+- Vishamjwara (intermittent fevers) and Sannipata: traditionally used in severe febrile and toxic conditions. Studies have reported anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) properties.
 
 ## What do recent clinical trials show?
 

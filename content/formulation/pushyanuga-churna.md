@@ -39,10 +39,12 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia (Raktapradara/DUB) management validated in clinical study showing highly significant (P<0.001) reduction in uterine hemorrhage with 68% good-to-fair response rate
-- Leucorrhoea (Shweta Pradara) management validated through demonstrated antimicrobial and astringent mechanisms in the female genitourinary tract
-- Hormonal balance for menstrual disorders validated through demonstrated FSH/LH/progesterone regulation by [Lodhra](/herb/lodhra/) extract
-- Reproductive tract infection management validated through broad-spectrum antimicrobial activity against gynecological pathogens
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Raktapradara (menorrhagia/DUB): traditionally used for heavy uterine bleeding. A clinical study reported a reduction in uterine hemorrhage.
+- Shweta Pradara (leucorrhoea): traditionally used for leucorrhoea. Research has reported antimicrobial and astringent activity in the female genitourinary tract.
+- Traditionally used for menstrual disorders. Research on [Lodhra](/herb/lodhra/) extract has reported effects on FSH, LH and progesterone.
+- Traditionally used for reproductive tract infections. Research has reported broad-spectrum antimicrobial activity against gynecological pathogens.
 
 ## What do recent clinical trials show?
 

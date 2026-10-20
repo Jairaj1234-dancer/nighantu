@@ -28,8 +28,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- **[Antipyretic](/reference/antipyretic/) (Jvarahara).** Aconitum [alkaloids](/glossary/compounds-1-a/#alkaloids) at sub-toxic doses suppress prostaglandin-mediated fever pathways. Traditional use as febrifuge validated by in vivo studies showing dose-dependent antipyretic activity comparable to paracetamol in animal models.
-- **Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedanasthapana, Shothahara).** Low-dose processed aconitine preparations show significant anti-inflammatory activity by suppressing NF-kB pathway and COX-2 expression. Analgesic effect mediated through sodium channel modulation at sub-toxic doses. Used in traditional medicine across Himalayan regions for rheumatic pain.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- **[Antipyretic](/reference/antipyretic/) (Jvarahara).** Traditionally used as a febrifuge. Animal studies have reported dose-dependent antipyretic activity, comparable to paracetamol.
+- **Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedanasthapana, Shothahara).** Traditionally used across Himalayan regions for rheumatic pain.
 
 ## What do recent clinical trials show?
 

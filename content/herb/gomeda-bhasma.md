@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-- Neurological disorders (epilepsy, insomnia, paralysis): Traditional indications documented through extensive clinical practice; mineral composition provides mechanistic plausibility for neuromodulation
-- Cardiac arrhythmias and palpitation: Traditional use for heart rhythm disorders supported by mineral electrolyte effects on cardiac conduction
-- Stress and mental clarity: Anxiolytic properties supported by traditional clinical observations, though formal clinical trials lacking
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Neurological disorders (epilepsy, insomnia, paralysis): traditionally used for these conditions in classical practice.
+- Cardiac arrhythmias and palpitation: traditionally used for heart rhythm disorders and palpitation.
+- Stress and mental clarity: traditionally used to calm the mind and support mental clarity. Formal clinical trials are lacking.
 
 ## What do recent clinical trials show?
 

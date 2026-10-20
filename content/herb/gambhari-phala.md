@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-- Raktasthambhaka ([hemostatic](/glossary/pharmacology/#hemostatic)/anti-hemorrhagic) activity partially validated; Charaka Samhita states '[Gambhari](/herb/gambhari/) fruit is best among substances useful in bleeding disorders' - supported by tannin and phenolic content
-- Brain tonic (Medhya) and nourishing properties supported by nutritional analysis showing significant protein, mineral, and vitamin content in fruit preparations
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects validated in preclinical models supporting traditional use for Shotha (inflammation) and Jwara (fever)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Raktasthambhaka ([hemostatic](/glossary/pharmacology/#hemostatic)/anti-hemorrhagic): traditionally used for bleeding disorders. Charaka Samhita describes [Gambhari](/herb/gambhari/) fruit as best among substances useful in bleeding disorders. The fruit is reported to contain tannins and phenolic compounds.
+- Medhya (brain tonic): traditionally used as a brain tonic and for nourishment. Nutritional analysis has reported protein, mineral, and vitamin content in fruit preparations.
+- Shotha (inflammation) and Jwara (fever): traditionally used for these conditions. Preclinical studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects.
 
 ## What do recent clinical trials show?
 

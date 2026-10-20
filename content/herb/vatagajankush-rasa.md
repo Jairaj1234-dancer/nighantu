@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 ## Which traditional uses are supported by research?
 
-- Sciatica (Gridhrasi): Clinical study (2023) showed significant symptom improvement, validating the traditional use in Vata-predominant nerve pain conditions
-- Joint pain and arthritis (Sandhivata/Amavata): The multi-mineral anti-inflammatory composition provides mechanistic support for traditional use in musculoskeletal disorders; clinical practice experience supports efficacy
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Sciatica (Gridhrasi): traditionally used for Vata-predominant nerve pain conditions. A clinical study reported improvement in symptoms.
+- Joint pain and arthritis (Sandhivata/Amavata): used in classical practice for musculoskeletal disorders.
 
 ## What do recent clinical trials show?
 

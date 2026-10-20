@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 ## Which traditional uses are supported by research?
 
-- Rajayakshma (tuberculosis/wasting diseases): Validated by modern evidence showing [immunomodulatory](/reference/immunomodulatory/) peptides and easily absorbable nutrients support recovery in debilitated patients
-- Raktapitta (bleeding disorders): Cooling potency and [hemostatic](/glossary/pharmacology/#hemostatic) properties confirmed through traditional clinical observation; modern studies support its role in reducing Pitta-related inflammation
-- Pediatric nutrition and cow milk allergy: A2 beta-casein and lower allergenicity scientifically validated as a suitable alternative for children with cow milk protein intolerance
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rajayakshma (tuberculosis/wasting diseases): traditionally used in debilitated patients with wasting conditions. Studies have reported [immunomodulatory](/reference/immunomodulatory/) peptides and easily absorbable nutrients in goat milk.
+- Raktapitta (bleeding disorders): traditionally used for its cooling potency and [hemostatic](/glossary/pharmacology/#hemostatic) properties. Studies have reported anti-inflammatory activity.
+- Pediatric nutrition and cow milk allergy: used as an alternative milk for children with cow milk protein intolerance. Studies have reported A2 beta-casein and lower allergenicity.
 
 ## What do recent clinical trials show?
 

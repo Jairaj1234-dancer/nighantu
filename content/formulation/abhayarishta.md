@@ -38,10 +38,12 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 ## Which traditional uses are supported by research?
 
-- Constipation (Vibandha) - validated by double-blind study showing significant relief in 4 weeks
-- Piles/Hemorrhoids (Arsha) - supported by venotonic and anti-inflammatory studies on [Haritaki](/herb/haritaki/)
-- Abdominal distension and flatulence - corroborated by cholagogue mechanism increasing bile flow
-- Dysuria (difficult urination) - traditional use supported by [Gokshura](/herb/gokshura/)'s [diuretic](/reference/diuretic/) properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Constipation (Vibandha): traditionally used for constipation. A double-blind clinical study reported significant improvement.
+- Piles/Hemorrhoids (Arsha): traditionally used for piles. Studies on [Haritaki](/herb/haritaki/) have reported venotonic and anti-inflammatory activity.
+- Abdominal distension and flatulence: traditionally used for abdominal distension and flatulence. A cholagogue action that increases bile flow has been reported.
+- Dysuria (difficult urination): traditionally used for difficult urination. [Gokshura](/herb/gokshura/) is described as having [diuretic](/reference/diuretic/) properties.
 
 ## What do recent clinical trials show?
 

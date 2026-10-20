@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Galactagogue (milk-promoting) activity validated through traditional use documentation and preliminary pharmacological evidence supporting Ayurvedic use as Stanyajanana (milk-promoting herb)
-- Bone strengthening and fracture healing validated through preclinical studies showing enhanced calcium absorption and osteoblast activity, supporting traditional use for Asthi-Sandhaniya (bone healing) in Ayurveda
-- Antiasthmatic and [expectorant](/reference/expectorant/) effects confirmed in preclinical models supporting traditional use for Shwasa (asthma) and Kasa (cough)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Stanyajanana (milk-promoting herb): traditionally used in Ayurveda as a galactagogue (milk-promoting) herb.
+- Asthi-Sandhaniya (bone healing): traditionally used in Ayurveda for bone strengthening and fracture repair. Preclinical studies have reported enhanced calcium absorption and osteoblast activity.
+- Shwasa (asthma) and Kasa (cough): traditionally used for these conditions. Preclinical studies have reported antiasthmatic and [expectorant](/reference/expectorant/) effects.
 
 ## What do recent clinical trials show?
 

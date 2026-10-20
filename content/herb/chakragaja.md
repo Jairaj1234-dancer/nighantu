@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Chakragaja (Cassia tora L. (Senna tora) / Uncertain identification) is a plant drug, from the Fabaceae (Caesalpiniaceae) family. Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name 'Dadrughna' (ringworm destroyer) Laxative effects confirmed pharmacologically, supporting traditional use as a mild purgative in Ayurveda"
+answer: "Chakragaja (Cassia tora L. (Senna tora) / Uncertain identification) is a plant drug from the Fabaceae (Caesalpiniaceae) family. It is traditionally used for ringworm (Dadru), and it carries the traditional Ayurvedic name 'Dadrughna' (ringworm destroyer). In vitro studies have reported antifungal activity against Trichophyton and Microsporum species. It is also traditionally used in Ayurveda as a mild purgative. Pharmacological studies have reported laxative effects."
 botanical: "Cassia tora L. (Senna tora) / Uncertain identification"
 family: "Fabaceae (Caesalpiniaceae)"
 sanskrit: ""
@@ -47,8 +47,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antifungal activity against ringworm (Dadru) validated through in vitro studies against Trichophyton and Microsporum species, supporting the traditional Ayurvedic name '[Dadrughna](/herb/dadrughna/)' (ringworm destroyer)
-- Laxative effects confirmed pharmacologically, supporting traditional use as a mild purgative in Ayurveda
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Dadru (ringworm): traditionally used for ringworm, as its Ayurvedic name '[Dadrughna](/herb/dadrughna/)' (ringworm destroyer) shows. In vitro studies have reported antifungal activity against Trichophyton and Microsporum species.
+- Traditionally used in Ayurveda as a mild purgative. Pharmacological studies have reported laxative effects.
 
 ## What do recent clinical trials show?
 

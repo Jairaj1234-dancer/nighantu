@@ -1511,7 +1511,7 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g powder twice daily; 30-60ml decoction; external paste as needed
 
-**Bioavailability:** Peristrophe bicalyculata - limited modern pharmacokinetic data. Contains [flavonoids](/reference/flavonoids/), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [terpenoids](/glossary/compounds-t-z/#terpenoids). Flavonoid components likely have moderate bioavailability similar to other Acanthaceae family members. Alkaloid fraction may contribute to observed biological activities. Traditional decoction preparation is the validated route of administration.
+**Bioavailability:** Peristrophe bicalyculata - limited modern pharmacokinetic data. Contains [flavonoids](/reference/flavonoids/), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [terpenoids](/glossary/compounds-t-z/#terpenoids). Flavonoid components likely have moderate bioavailability similar to other Acanthaceae family members. Alkaloid fraction may contribute to observed biological activities. Decoction is the traditional route of administration.
 
 **Optimal Timing:** Before meals with warm water
 

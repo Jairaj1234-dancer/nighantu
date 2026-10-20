@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-- Thyroid function support (Galaganda) validated in RCT showing 16.61% TSH reduction with no adverse effects over 60-day treatment
-- Respiratory congestion and common cold (Pratishyaya) management validated through 30% improvement in cough frequency in clinical study
-- Obesity management validated in prospective multicenter study confirming safety and efficacy of combined Vyoshadi Guggulu with [Haritaki](/herb/haritaki/) Churna
-- Voice hoarseness and throat disorders validated through anti-inflammatory and mucosal-strengthening mechanisms of combined ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Galaganda (thyroid swelling): traditionally used for thyroid conditions. A randomized controlled trial reported a reduction in TSH levels, with no adverse effects reported.
+- Pratishyaya (respiratory congestion and common cold): traditionally used for congestion and colds. A clinical study reported improvement in cough frequency.
+- Obesity: used in classical practice for excess weight. A prospective multicenter study reported on the safety and outcomes of Vyoshadi Guggulu combined with [Haritaki](/herb/haritaki/) Churna.
+- Voice hoarseness and throat disorders: traditionally used for hoarseness and throat complaints.
 
 ## What do recent clinical trials show?
 

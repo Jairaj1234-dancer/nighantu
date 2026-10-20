@@ -40,13 +40,15 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 - [Camphor](/herb/camphor/) activates TRPM8 (cold-sensitive) and TRPA1 receptors on sensory neurons, producing [analgesic](/reference/analgesic/) and counter-irritant effects that override pain signals
 - [Camphor](/herb/camphor/) vapors stimulate cold-sensitive receptors in respiratory epithelium, causing reflex bronchodilation and subjective relief of nasal and chest congestion
 - [Apigenin](/glossary/compounds-1-a/#apigenin) from Ajamoda (celery) provides anti-inflammatory and smooth muscle relaxant effects, complementing [camphor](/herb/camphor/)'s decongestant action on airways
-- COX-2 downregulation by [camphor](/herb/camphor/) reduces prostaglandin-mediated inflammation at the site of topical application, validated in rat paw edema models
+- Animal studies in rat paw edema models have reported that [camphor](/herb/camphor/) downregulated COX-2 and reduced prostaglandin-mediated inflammation at the site of topical application.
 
 ## Which traditional uses are supported by research?
 
-- Joint pain and musculoskeletal conditions - validated by pilot study (2020) showing significant VAS score reduction in knee OA over 8 weeks of topical use
-- Respiratory congestion (chest rub application) - validated by pharmacological evidence of TRPM8 receptor-mediated reflex bronchodilation from [camphor](/herb/camphor/) vapors
-- Kapha-predominant conditions with stiffness and congestion - supported by anti-inflammatory COX-2 mechanism (2022) and smooth muscle relaxant action of celery compounds
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Joint pain and musculoskeletal conditions: traditionally used as a topical application. A pilot clinical study reported reduced pain scores in knee osteoarthritis with topical use.
+- Respiratory congestion (chest rub application): traditionally used as a chest rub. Pharmacological studies have reported TRPM8 receptor-mediated reflex bronchodilation from [camphor](/herb/camphor/) vapors.
+- Kapha-predominant conditions with stiffness and congestion: used in classical practice for these conditions. Research has reported anti-inflammatory COX-2 activity and a smooth muscle relaxant action of celery compounds.
 
 ## What do recent clinical trials show?
 

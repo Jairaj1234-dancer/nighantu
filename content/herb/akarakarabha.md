@@ -45,10 +45,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Aphrodisiac and male fertility enhancer ([Vajikarana](/glossary/pharmacology/#vajikarana)) - validated through studies showing increased testosterone and sperm parameters in animal models
-- Oral health and toothache remedy (Dantavedanashaka) - confirmed analgesic properties of pellitorine on nerve endings
-- Cognitive enhancer and nervine tonic (Medhya) - supported by neuropharmacological studies showing memory enhancement
-- Anti-inflammatory and anti-rheumatic - validated by in vivo anti-inflammatory studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Vajikarana](/glossary/pharmacology/#vajikarana): traditionally used as an aphrodisiac and for male fertility. Animal studies have reported increased testosterone and improved sperm parameters.
+- Dantavedanashaka: traditionally used for oral health and toothache. Studies have reported analgesic activity of pellitorine on nerve endings.
+- Medhya: traditionally used as a cognitive and nervine tonic. Neuropharmacological studies have reported memory enhancement.
+- Inflammatory and rheumatic conditions: traditionally used for inflammation and rheumatic complaints. In vivo studies have reported anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

@@ -67,10 +67,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Wound healing (Vranaropana): Validated by 2025 scoping review of multiple clinical trials confirming faster wound closure, enhanced collagen deposition, and increased vascular density
-- Psoriasis treatment (Ekakushtha): Validated by RCT showing 0.5% [curcumin](/herb/curcumin/) microemulgel significantly improved PASI scores and quality of life
-- Skin brightening and complexion (Varnya): Validated by demonstrated dual tyrosinase inhibition and MITF transcriptional regulation reducing melanin synthesis
-- Anti-aging and photoprotection: Validated by 2025 research confirming UV-photoaging prevention through MMP suppression, [antioxidant](/reference/antioxidant/) protection, and anti-inflammatory mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vranaropana (wound care): traditionally used for wounds. A scoping review of clinical trials reported faster wound closure, greater collagen deposition and increased vascular density.
+- Ekakushtha (psoriasis): traditionally used for Ekakushtha. A randomized controlled trial reported that a [curcumin](/herb/curcumin/) microemulgel improved psoriasis severity scores and quality of life.
+- Varnya (skin complexion): traditionally used for complexion. Research has reported tyrosinase inhibition and MITF regulation, with reduced melanin synthesis.
+- Anti-aging and photoprotection: research has reported reduced UV-induced photoaging, linked to MMP suppression, [antioxidant](/reference/antioxidant/) protection and anti-inflammatory activity.
 
 ## How is it used traditionally?
 

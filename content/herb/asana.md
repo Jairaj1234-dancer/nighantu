@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic (Prameha) use validated through multiple preclinical studies and preliminary clinical trial confirming significant blood glucose reduction
-- Beta-cell regeneration by (-)-epicatechin validated in vitro and in STZ-induced diabetic models
-- Anti-inflammatory use confirmed through COX-2 selective inhibition studies
-- Wound healing and anti-hemorrhagic use (kino gum) validated through astringent and [antimicrobial](/reference/antimicrobial/) property studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Prameha: traditionally used for diabetes. Preclinical studies and a preliminary clinical trial have reported lower blood glucose.
+- An in vitro study and STZ-induced diabetic animal models have reported beta-cell regeneration with (-)-epicatechin.
+- Traditionally used for inflammation. Studies have reported selective COX-2 inhibition.
+- Kino gum: traditionally used for wounds and bleeding. Studies have reported astringent and [antimicrobial](/reference/antimicrobial/) properties.
 
 ## What do recent clinical trials show?
 

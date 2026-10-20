@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and tonic properties supported by preclinical studies demonstrating [adaptogenic](/reference/adaptogenic/) effects, confirming traditional [Vajikarana](/glossary/pharmacology/#vajikarana) use
-- Antibacterial activity validated against multiple pathogenic strains, supporting traditional use in infectious and dental conditions
-- Antiulcer activity confirmed through gastroprotective studies in animal models, validating traditional use in digestive disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and tonic: traditionally used in [Vajikarana](/glossary/pharmacology/#vajikarana). Preclinical studies have reported [adaptogenic](/reference/adaptogenic/) effects.
+- Traditionally used in infectious and dental conditions. Studies have reported antibacterial activity against several pathogenic strains.
+- Traditionally used for digestive disorders. Animal studies have reported antiulcer and gastroprotective activity.
 
 ## What do recent clinical trials show?
 

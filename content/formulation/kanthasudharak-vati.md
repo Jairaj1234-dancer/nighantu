@@ -49,10 +49,12 @@ Referenced in Bhaishajya Ratnavali and Yoga Ratnakara (Kasa/Swarabheda Chikitsa 
 
 ## Which traditional uses are supported by research?
 
-- Sore throat and pharyngitis relief validated through anti-inflammatory and mucosal-soothing mechanisms of [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and eugenol
-- Cough management (Kasa) validated through demonstrated expectorant and mucolytic properties of [Yashtimadhu](/herb/yashtimadhu/) and [Javitri](/herb/javitri/)
-- Voice improvement (Swarabheda) validated through throat-soothing and anti-inflammatory action reducing laryngeal inflammation
-- Oral freshness and halitosis management validated through antimicrobial and deodorant properties of [camphor](/herb/camphor/), cardamom, and clove
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for sore throat and pharyngitis.
+- Kasa (cough): traditionally used for cough, with [Yashtimadhu](/herb/yashtimadhu/) and [Javitri](/herb/javitri/) as key herbs for this use.
+- Swarabheda (voice disorders): traditionally used to soothe the throat and support the voice.
+- Traditionally used for oral freshness and bad breath, drawing on [camphor](/herb/camphor/), cardamom, and clove.
 
 ## What do recent clinical trials show?
 

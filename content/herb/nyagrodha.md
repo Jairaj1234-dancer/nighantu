@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic use confirmed through multiple in vivo studies demonstrating significant hypoglycemic activity
-- Anti-diarrheal and dysentery treatment validated via castor oil-induced diarrhea models and [antimicrobial](/reference/antimicrobial/) testing
-- Wound healing confirmed through excision wound models with accelerated closure and collagen synthesis
-- [Analgesic](/reference/analgesic/) properties validated in hot plate and tail flick animal models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Antidiabetic use: animal studies have reported hypoglycemic activity.
+- Traditionally used for diarrhea and dysentery. Animal studies using castor oil-induced diarrhea models have reported anti-diarrheal activity. Laboratory testing has also reported [antimicrobial](/reference/antimicrobial/) activity.
+- Traditionally used for wounds. Animal studies using excision wound models have reported faster wound closure and increased collagen synthesis.
+- [Analgesic](/reference/analgesic/) properties: animal studies using hot plate and tail flick models have reported pain-reducing activity.
 
 ## What do recent clinical trials show?
 

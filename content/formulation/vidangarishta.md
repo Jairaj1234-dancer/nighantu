@@ -38,10 +38,12 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## Which traditional uses are supported by research?
 
-- Intestinal parasites (Krimi Roga) - validated by clinical pilot showing 78% worm load reduction
-- Abdominal bloating and flatulence - supported by digestive and carminative properties of formulation
-- Skin abscesses and boils - traditional use corroborated by antibacterial profiling studies
-- Urinary disorders and prostate enlargement - supported by anti-inflammatory and [diuretic](/reference/diuretic/) properties of components
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Intestinal parasites (Krimi Roga): traditionally used for intestinal parasites. A clinical pilot study reported a reduction in worm load.
+- Abdominal bloating and flatulence: traditionally used as a digestive and carminative for abdominal bloating and flatulence.
+- Skin abscesses and boils: traditionally used for skin abscesses and boils. Antibacterial profiling studies have reported antibacterial activity.
+- Urinary disorders and prostate enlargement: traditionally used for urinary disorders and prostate enlargement. Its components are traditionally regarded as anti-inflammatory and [diuretic](/reference/diuretic/).
 
 ## What do recent clinical trials show?
 

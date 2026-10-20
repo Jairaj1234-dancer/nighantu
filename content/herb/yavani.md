@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive stimulant and carminative (Deepana-Pachana) - strongly validated through enhanced enzyme secretion and antispasmodic activity
-- Anti-flatulence (Anaha-nashaka) - confirmed through antispasmodic and carminative effects reducing bloating and gas
-- Anti-cough and respiratory (Kasa-Shvasa-hara) - validated bronchodilatory and [expectorant](/reference/expectorant/) effects
-- Anti-parasitic and anthelmintic (Krimighna) - confirmed nematicidal and anthelmintic activities of thymol against intestinal parasites
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive stimulant and carminative (Deepana-Pachana): traditionally used to stimulate digestion and as a carminative. Studies have reported increased enzyme secretion and antispasmodic activity.
+- Anti-flatulence (Anaha-nashaka): traditionally used for bloating and gas. Studies have reported antispasmodic and carminative effects.
+- Anti-cough and respiratory (Kasa-Shvasa-hara): traditionally used for cough and breathing complaints. Studies have reported bronchodilatory and [expectorant](/reference/expectorant/) effects.
+- Anti-parasitic and anthelmintic (Krimighna): traditionally used against intestinal parasites. Studies have reported nematicidal and anthelmintic activity of thymol.
 
 ## What do recent clinical trials show?
 

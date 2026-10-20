@@ -40,8 +40,10 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ## Which traditional uses are supported by research?
 
-- Menorrhagia and metrorrhagia (Pradara/excessive menstrual bleeding) - traditional use supported by clinical observations showing reduced menstrual blood loss and improved hemoglobin
-- Leucorrhea (Shweta Pradara) - traditional gynecological application validated through clinical practice with reported improvement in vaginal discharge and associated symptoms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Menorrhagia and metrorrhagia (Pradara/excessive menstrual bleeding): traditionally used for excessive menstrual bleeding. Clinical observations have reported reduced menstrual blood loss and improved hemoglobin.
+- Leucorrhea (Shweta Pradara): used in classical practice as a gynecological application for leucorrhea. Reports from clinical practice have described improvement in vaginal discharge and associated symptoms.
 
 ## What do recent clinical trials show?
 

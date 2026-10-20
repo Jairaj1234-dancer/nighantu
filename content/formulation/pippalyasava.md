@@ -38,10 +38,12 @@ Classical Ayurvedic texts under Sandhana Kalpana (fermented preparations). Refer
 
 ## Which traditional uses are supported by research?
 
-- Indigestion and poor appetite (Agnimandya) - validated by digestive fire stimulation studies
-- Cough and asthma (Kasa, Shwasa) - supported by bronchodilatory and expectorant mechanisms
-- Anemia - traditional use corroborated by enhanced nutrient absorption and iron bioavailability
-- Gastric disorders and malabsorption - supported by clinical observation of improved Dhatwagni
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Indigestion and poor appetite (Agnimandya): traditionally used for indigestion and poor appetite.
+- Cough and asthma (Kasa, Shwasa): traditionally used for cough and asthma.
+- Anemia: traditionally used for anemia.
+- Gastric disorders and malabsorption: traditionally used for gastric disorders and malabsorption. Clinical observations have reported improved Dhatwagni.
 
 ## What do recent clinical trials show?
 

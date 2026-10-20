@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Wound healing (Vrana Ropana): Validated by in vitro study demonstrating potent wound healing activity with enhanced collagen synthesis from ethanolic leaf extract
-- Skin disease treatment (especially ringworm): Traditional root application supported by demonstrated antimicrobial activity, though limited clinical evidence
-- Fragrance and aromatherapy for skin health: Validated by identified volatile compound profile including cis-jasmone, linalool, and benzyl acetate with neuromodulatory and skin-soothing properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Wound healing (Vrana Ropana): traditionally used for wound healing. An in vitro study of an ethanolic leaf extract reported wound healing activity and increased collagen synthesis.
+- Skin disease (especially ringworm): the root is traditionally applied for skin disease, especially ringworm. Antimicrobial activity has been reported, though clinical evidence is limited.
+- Fragrance and aromatherapy for skin health: traditionally used in fragrance and aromatherapy. Its volatile compounds have been identified, including cis-jasmone, linalool, and benzyl acetate. Neuromodulatory and skin-soothing properties have been reported for these compounds.
 
 ## What do recent clinical trials show?
 

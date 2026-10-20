@@ -39,10 +39,12 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## Which traditional uses are supported by research?
 
-- Pandu (anemia): multicenter clinical trial validates significant improvement in serum iron and hemoglobin with 103 patients
-- Garbhini Pandu (anemia in pregnancy): validated safe and effective in 35 pregnant subjects without fetal harm
-- Deepana (digestive stimulation): confirmed improvement in Agni (digestive power) and nutritional status
-- Arsha (hemorrhoids): traditional indication supported by anti-inflammatory and digestive properties of ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pandu (anemia): traditionally used for anemia. A clinical study reported improvement in serum iron and hemoglobin.
+- Garbhini Pandu (anemia in pregnancy): traditionally used for anemia in pregnancy. A clinical study in pregnant subjects reported no fetal harm.
+- Deepana (digestive stimulation): traditionally used to stimulate digestion and Agni (digestive power).
+- Arsha (hemorrhoids): traditionally used for hemorrhoids.
 
 ## What do recent clinical trials show?
 

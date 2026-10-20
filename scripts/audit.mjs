@@ -96,6 +96,26 @@ for (const f of files) {
 }
 
 /**
+ * 2a. "Validated" as a verdict on a health effect.
+ *
+ * The vault's research lists said a use was "validated by" a study the page never names, which is
+ * a health claim in the site's own voice. data/research-rewrites.json rewords them (applied at
+ * ingest and by scripts/fix-research-claims.mjs); this keeps the wording from coming back. A
+ * validated analytical method (HPTLC, an assay, a quality parameter) is a different sense of the
+ * word and is allowed, and so is a cited paper's title, which is quoted as published.
+ */
+const ANALYTIC = /\b(hptlc|hplc|tlc|gc-ms|lc-ms|tem|assay\w*|method\w*|analytical|fingerprint|marker|quantif\w*|standardi[sz]\w*|protocol|parameters?|ppm|purification|bhasma tests|phorbol|muffle|organoleptic|physicochemical|saponification|alkalinity|mic testing|api norms|per api)\b/i;
+for (const f of files) {
+  for (const line of f.raw.split('\n')) {
+    if (!/\bvalidat\w*/i.test(line)) continue;
+    // A cited paper's title is quoted as published.
+    if (/pubmed\.ncbi|doi\.org/.test(line)) continue;
+    const near = [...line.matchAll(/\bvalidat\w*/gi)].every((m) => ANALYTIC.test(line.slice(Math.max(0, m.index - 60), m.index + 60)));
+    if (!near) fail('validated-claim', `${f.rel}: ${line.trim().slice(0, 140)}`);
+  }
+}
+
+/**
  * 2b. Em dashes in authored prose.
  *
  * The house rule is no em dashes in anything this project writes. 3,556 of them accumulated in

@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cardioprotective use (Hridya) validated through HMG-CoA reductase inhibition and myocardial ischemia protection in animal models
-- Anti-asthmatic and bronchodilatory use (Shwasahara) confirmed by bronchial smooth muscle relaxation and anti-histaminic activity
-- Angina treatment use supported by coronary vasodilatory effect and reduction of myocardial oxygen demand in preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hridya (cardioprotective): traditionally used for the heart. Animal studies have reported HMG-CoA reductase inhibition and protection against myocardial ischemia.
+- Shwasahara (anti-asthmatic and bronchodilatory): traditionally used for asthma and breathing difficulty. Studies have reported bronchial smooth muscle relaxation and anti-histaminic activity.
+- Angina: traditionally used for angina. Preclinical studies have reported a coronary vasodilatory effect and lower myocardial oxygen demand.
 
 ## What do recent clinical trials show?
 

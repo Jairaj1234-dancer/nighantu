@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hemostatic and styptic (Raktastambhana) - validated through astringent tannin-mediated hemostatic action in wound care
-- Anti-diarrheal (Atisara-nashaka) - confirmed through tannin-mediated reduction of intestinal secretion and hypermotility
-- Bone and tissue regeneration (Asthi-Sandhanakara) - traditional reputation as bone setter supported by anti-inflammatory and wound healing data
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/glossary/pharmacology/#vajikarana)) - traditional use of [Shalmali](/herb/shalmali/) resin for sexual health partially supported by nutritional and hormonal modulation studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hemostatic and styptic (Raktastambhana): traditionally used to stop bleeding in wound care. This action is attributed to its astringent tannins.
+- Anti-diarrheal (Atisara-nashaka): traditionally used for diarrhea. This action is attributed to its tannins, which are described as reducing intestinal secretion and hypermotility.
+- Bone and tissue regeneration (Asthi-Sandhanakara): traditionally known as a bone setter. Studies have reported anti-inflammatory and wound healing activity.
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) ([Vajikarana](/glossary/pharmacology/#vajikarana)): [Shalmali](/herb/shalmali/) resin is traditionally used for sexual health. Studies have looked at its nutritional value and reported hormonal modulation.
 
 ## What do recent clinical trials show?
 

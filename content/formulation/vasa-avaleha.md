@@ -39,10 +39,12 @@ Charaka Samhita (2500 BCE/1000 BCE); Sushruta Samhita (500 BCE); various Nighant
 
 ## Which traditional uses are supported by research?
 
-- Tamaka Shwasa (bronchial asthma): randomized clinical study validates significant improvement in symptoms and lung function in 66 patients
-- Kasa (chronic cough/bronchitis): multicenter study confirms clinical efficacy with mucolytic and [bronchodilator](/reference/bronchodilator/) properties
-- Raktapitta/hemoptysis (coughing blood): hemostatic (Raktastambhaka) action of [Vasa](/herb/vasa/) validated for controlling respiratory hemorrhage
-- Anti-allergic respiratory action: decreased eosinophil count in clinical study confirms anti-allergic mechanism
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Tamaka Shwasa (bronchial asthma): traditionally used for bronchial asthma. A randomized clinical study reported improvement in symptoms and lung function.
+- Kasa (chronic cough/bronchitis): traditionally used for chronic cough and bronchitis. A multicenter clinical study reported mucolytic and [bronchodilator](/reference/bronchodilator/) properties.
+- Raktapitta/hemoptysis (coughing blood): [Vasa](/herb/vasa/) is used in classical practice for its hemostatic (Raktastambhaka) action in respiratory hemorrhage.
+- Anti-allergic respiratory action: a clinical study reported a decreased eosinophil count, which may point to an anti-allergic action.
 
 ## What do recent clinical trials show?
 

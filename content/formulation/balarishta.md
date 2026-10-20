@@ -38,10 +38,12 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 ## Which traditional uses are supported by research?
 
-- General debility and weakness post-illness - validated by adaptogenic and nutritive mechanisms
-- Rheumatic pain and joint disorders - supported by anti-inflammatory studies in arthritis models
-- Post-paralysis rehabilitation - traditional use corroborated by nervine tonic properties of [Bala](/herb/bala/)
-- Hemiplegia support - supported by [neuroprotective](/reference/neuroprotective/) and neurotransmitter modulation studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- General debility and weakness post-illness: traditionally used for general debility and weakness after illness.
+- Rheumatic pain and joint disorders: traditionally used for rheumatic pain and joint disorders. Studies in arthritis models have reported anti-inflammatory activity.
+- Post-paralysis rehabilitation: traditionally used during recovery after paralysis. In classical practice, [Bala](/herb/bala/) is regarded as a nervine tonic.
+- Hemiplegia support: traditionally used as support in hemiplegia. Studies have reported [neuroprotective](/reference/neuroprotective/) activity and effects on neurotransmitters.
 
 ## What do recent clinical trials show?
 

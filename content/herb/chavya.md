@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive stimulant (Deepana-Pachana) validated by enhancement of gastric acid and enzyme secretion in animal models
-- Bioenhancer activity confirmed by increased bioavailability of [curcumin](/herb/curcumin/), rifampicin, and other drugs when co-administered with piperine
-- Anti-obesity use supported by AMPK activation and lipid metabolism modulation in preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive stimulant (Deepana-Pachana): traditionally used to support digestion. Animal studies have reported increased gastric acid and enzyme secretion.
+- Bioenhancer: studies have reported increased bioavailability of [curcumin](/herb/curcumin/), rifampicin and other drugs when co-administered with piperine.
+- Obesity: traditionally used for obesity. Preclinical studies have reported AMPK activation and changes in lipid metabolism.
 
 ## What do recent clinical trials show?
 

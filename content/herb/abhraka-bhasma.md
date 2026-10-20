@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-- Hepatitis and liver disorders: Hepatoprotective effects confirmed at therapeutic doses in animal models, validating Yakrit Roga (liver disease) indication
-- Respiratory diseases (Shwasa, Kasa): Anti-inflammatory and respiratory support properties demonstrated through preclinical studies on lung cancer cells
-- Cancer management: Cytotoxicity against breast and lung cancer cell lines validates traditional use for Arbuda (tumor) conditions, though clinical translation pending
-- Rejuvenation (Rasayana): DNA repair enhancement and immunomodulatory activities support the classical Rasayana (rejuvenation/anti-aging) claims
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Hepatitis and liver disorders: traditionally used for Yakrit Roga (liver disease). Animal studies have reported hepatoprotective effects.
+- Respiratory diseases (Shwasa, Kasa): traditionally used for Shwasa and Kasa. Preclinical studies on lung cancer cells have reported anti-inflammatory properties.
+- Cancer: traditionally used for Arbuda (tumor) conditions. In vitro studies have reported cytotoxicity against breast and lung cancer cell lines. Clinical translation is pending.
+- Rejuvenation (Rasayana): used in classical practice as a Rasayana (rejuvenation/anti-aging). Studies have reported DNA repair enhancement and immunomodulatory activity.
 
 ## What do recent clinical trials show?
 

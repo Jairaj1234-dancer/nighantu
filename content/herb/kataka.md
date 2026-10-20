@@ -44,15 +44,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Water purification (Jala-shodhana) - strongly validated as natural coagulant and [antimicrobial](/reference/antimicrobial/) agent for water treatment; extensively studied
-- Eye health ([Chakshushya](/herb/chakshushya/)) - traditional eye drops (Kataka seed water) supported by antimicrobial and anti-inflammatory data
-- Anti-diarrheal (Atisara-nashaka) - validated through tannin-mediated astringent and antimicrobial activity
-- Diabetes management (Prameha) - supported by preclinical antidiabetic studies showing blood [glucose](/glossary/compounds-d-g/#glucose) reduction
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Water purification (Jala-shodhana): traditionally used to purify water. Studies have reported activity as a natural coagulant and [antimicrobial](/reference/antimicrobial/) agent.
+- Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used as eye drops made from Kataka seed water. Research has reported antimicrobial and anti-inflammatory activity.
+- Anti-diarrheal (Atisara-nashaka): traditionally used for diarrhea. Research has reported astringent and antimicrobial activity attributed to tannins.
+- Diabetes (Prameha): traditionally used for prameha. Preclinical studies have reported reduced blood [glucose](/glossary/compounds-d-g/#glucose).
 
 ## What do recent clinical trials show?
 
 - Yadav KN, Kadam PV, Patel JA and others 2014. [Strychnos potatorum: Phytochemical and pharmacological review](https://pubmed.ncbi.nlm.nih.gov/24600197/). *Pharmacognosy reviews*. PMID [24600197](https://pubmed.ncbi.nlm.nih.gov/24600197/) · [doi:10.4103/0973-7847.125533](https://doi.org/10.4103/0973-7847.125533)  
-  Documented comprehensive phytochemical profile with tannins, saponins, and alkaloids as major classes; validated antimicrobial, antidiarrheal, [antipyretic](/reference/antipyretic/), and contraceptive activities.
+  Studies have described a phytochemical profile with tannins, saponins, and alkaloids as major classes. Research has reported antimicrobial, antidiarrheal, [antipyretic](/reference/antipyretic/), and contraceptive activities.
 
 *2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
 

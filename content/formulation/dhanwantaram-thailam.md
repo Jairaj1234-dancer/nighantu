@@ -38,9 +38,11 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 ## Which traditional uses are supported by research?
 
-- Neuromuscular strengthening and postpartum recovery - validated by clinical observations showing improved muscle tone and reduced pain in postnatal women
-- Rheumatic and joint pain management - supported by GC-MS analysis (2024) confirming anti-inflammatory bioactive compounds correlating with traditional claims
-- Vata-vyadhi (neurological disorders) including facial palsy, paralysis, and tremors - supported by pilot clinical studies showing measurable improvement in neuromuscular function
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Neuromuscular strengthening and postpartum recovery: traditionally used for these purposes. Clinical observations have reported improved muscle tone and reduced pain in postnatal women.
+- Rheumatic and joint pain: traditionally used for these conditions. A GC-MS analysis reported bioactive compounds associated with anti-inflammatory activity.
+- Vata-vyadhi (neurological disorders) including facial palsy, paralysis, and tremors: used in classical practice for these conditions. Pilot clinical studies have reported improvement in neuromuscular function.
 
 ## What do recent clinical trials show?
 

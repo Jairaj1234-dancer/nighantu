@@ -42,15 +42,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 ## How does it work?
 
-- Reticulin and deniculatin modulate prolactin secretion through dopamine D2 receptor antagonism, enhancing lactogenesis - validated through in-silico molecular docking studies (2024)
+- An in silico molecular docking study reported that reticulin and deniculatin may modulate prolactin secretion through dopamine D2 receptor antagonism, which may relate to lactogenesis.
 - Beta-amyrin and alpha-amyrin [triterpenes](/glossary/compounds-t-z/#triterpenes) inhibit NF-kB and MAPK inflammatory signaling pathways, reducing pro-inflammatory cytokine expression and providing anti-inflammatory effects
 - [Apigenin](/glossary/compounds-1-a/#apigenin) and diosmetin exhibit [antioxidant](/reference/antioxidant/)-mediated cytoprotective effects through Nrf2 pathway activation and upregulation of HO-1, protecting tissues from oxidative damage
 
 ## Which traditional uses are supported by research?
 
-- [Galactagogue](/glossary/pharmacology/#galactagogue) (Stanyajanana) activity validated through pharmacological studies and molecular docking confirming prolactin-modulating mechanism, supporting traditional Ayurvedic use for enhancing lactation
-- [Rasayana](/reference/rasayana/) (rejuvenating/[adaptogenic](/reference/adaptogenic/)) properties partially validated through [immunomodulatory](/reference/immunomodulatory/) and antioxidant studies supporting traditional classification as a life-giving (Jivanti) herb
-- Anti-abortifacient activity validated through preclinical studies, supporting traditional use for prevention of threatened abortion and as a uterine tonic
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Galactagogue](/glossary/pharmacology/#galactagogue) (Stanyajanana): traditionally used in Ayurveda to enhance lactation. Pharmacological and molecular docking studies have reported prolactin-modulating activity.
+- [Rasayana](/reference/rasayana/) (rejuvenating/[adaptogenic](/reference/adaptogenic/)): traditionally classified as a life-giving (Jivanti) herb. Studies have reported [immunomodulatory](/reference/immunomodulatory/) and antioxidant activity.
+- Traditionally used for threatened abortion and as a uterine tonic. Preclinical studies have reported anti-abortifacient activity.
 
 ## What do recent clinical trials show?
 

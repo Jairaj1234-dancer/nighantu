@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic use of bark and leaf decoctions validated through multiple preclinical studies and preliminary clinical observations
-- Anti-diarrheal and dysentery treatment validated through [antimicrobial](/reference/antimicrobial/) activity and astringent tannin effects in animal models
-- Oral health use (bark decoction as mouthwash) validated through antimicrobial activity against oral pathogens
-- Anemia management supported by iron content in leaves and fruits and confirmed hematopoietic effects in deficient models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Bark and leaf decoctions are traditionally used for diabetes. Preclinical studies and preliminary clinical observations have reported antidiabetic activity.
+- Traditionally used for diarrhea and dysentery. Animal studies have reported [antimicrobial](/reference/antimicrobial/) activity and astringent effects of tannins.
+- Bark decoction is traditionally used as a mouthwash for oral health. Studies have reported antimicrobial activity against oral pathogens.
+- Traditionally used for anemia. The leaves and fruits are reported to contain iron. Studies in deficient models have reported hematopoietic effects.
 
 ## What do recent clinical trials show?
 

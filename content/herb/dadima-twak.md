@@ -42,14 +42,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 ## How does it work?
 
 - Punicalagin and ellagic acid are hydrolyzed by gut microbiota to urolithins (A, B, C, D), which exert anti-inflammatory effects by inhibiting NF-kB and MAPK signaling pathways
-- Pelletierine and isopelletierine [alkaloids](/glossary/compounds-1-a/#alkaloids) exhibit anthelmintic activity by paralyzing tapeworm musculature through nicotinic receptor agonism, validated since antiquity
+- Pelletierine and isopelletierine [alkaloids](/glossary/compounds-1-a/#alkaloids) have been reported to have anthelmintic activity, paralyzing tapeworm musculature through nicotinic receptor agonism.
 - Gallic acid and [catechins](/glossary/compounds-c-d/#catechins) provide [antimicrobial](/reference/antimicrobial/) activity through disruption of bacterial cell membrane integrity and inhibition of biofilm formation by chelating metal ions essential for bacterial adhesion
 
 ## Which traditional uses are supported by research?
 
-- Anthelmintic activity (against tapeworms) validated through identification of pelletierine alkaloids in rind, confirming traditional Ayurvedic use of [Dadima](/herb/dadima/) Twak for Krimi (intestinal parasites)
-- Antidiarrhoeal properties validated through tannin-mediated astringent effects on intestinal mucosa, supporting traditional use for Atisara (diarrhea) and Pravahika (dysentery)
-- Antimicrobial activity against oral pathogens and gastrointestinal bacteria confirmed, supporting traditional use of pomegranate rind decoction for Mukha Roga (oral diseases)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Dadima](/herb/dadima/) Twak is traditionally used in Ayurveda for Krimi (intestinal parasites), including tapeworms. Pelletierine alkaloids have been identified in the rind.
+- Traditionally used for Atisara (diarrhea) and Pravahika (dysentery). Its tannins have been reported to have an astringent effect on the intestinal mucosa.
+- Pomegranate rind decoction is traditionally used for Mukha Roga (oral diseases). Antimicrobial activity against oral pathogens and gastrointestinal bacteria has been reported.
 
 ## What do recent clinical trials show?
 

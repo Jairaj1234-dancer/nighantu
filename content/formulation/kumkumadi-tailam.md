@@ -49,10 +49,12 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## Which traditional uses are supported by research?
 
-- Facial complexion enhancement (Varnya): Validated by clinical studies showing 75% participant improvement in skin tone with [saffron](/herb/saffron/) application
-- Skin brightening and anti-pigmentation (Vyanga Chikitsa): Validated by demonstrated anti-tyrosinase activity of crocin/crocetin reducing melanin synthesis
-- Anti-aging facial rejuvenation: Validated by double-blind trial showing 22% hydration improvement and visible anti-wrinkle effects
-- Skin redness and inflammation reduction: Supported by safranal-mediated anti-inflammatory activity in clinical observations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Facial complexion enhancement (Varnya): traditionally used to enhance facial complexion. A clinical study reported improvement in skin tone with [saffron](/herb/saffron/) application.
+- Skin brightening and anti-pigmentation (Vyanga Chikitsa): traditionally used for skin brightening and pigmentation. Studies have reported anti-tyrosinase activity of crocin and crocetin, with reduced melanin synthesis.
+- Anti-aging facial rejuvenation: traditionally used for facial rejuvenation. A double-blind trial reported improved skin hydration and visible anti-wrinkle effects.
+- Skin redness and inflammation reduction: traditionally used for skin redness and inflammation. Clinical observations have reported safranal-mediated anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

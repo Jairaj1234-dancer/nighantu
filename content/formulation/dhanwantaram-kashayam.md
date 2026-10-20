@@ -50,10 +50,12 @@ Ashtanga Hridayam (Sutrasthana), named after Lord Dhanwantari. Also referenced i
 
 ## Which traditional uses are supported by research?
 
-- Postpartum care and uterine tonic - validated by observational studies showing improved uterine involution
-- Vata disorders including joint pain and neuralgia - supported by COX-2/5-LOX inhibition studies
-- General weakness and debility after delivery - supported by nervine tonic action of [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/)
-- Gynecological disorders - traditional use corroborated by anti-inflammatory and hormonal support mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Postpartum care and uterine tonic: traditionally used after delivery as a uterine tonic. Observational studies have reported improved uterine involution.
+- Vata disorders including joint pain and neuralgia: traditionally used for these conditions. Studies have reported COX-2/5-LOX inhibition.
+- General weakness and debility after delivery: traditionally used for weakness after childbirth. [Bala](/herb/bala/) and [Ashwagandha](/herb/ashwagandha/) are traditionally regarded as nervine tonics.
+- Gynecological disorders: traditionally used for gynecological disorders.
 
 ## What do recent clinical trials show?
 

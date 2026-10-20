@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Hepatoprotective activity validated through multiple in vivo studies and NRF2 pathway research, confirming traditional use in liver disorders
-- Anti-inflammatory and wound healing properties confirmed through modern pharmacological studies, supporting traditional topical oil applications (Abhyanga)
-- Cholesterol-lowering and [cardioprotective](/reference/cardioprotective/) effects validated through clinical and preclinical studies, confirming Ayurvedic use for heart health and as a [Rasayana](/reference/rasayana/)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for liver disorders. In vivo studies have reported hepatoprotective activity, and research has looked at the NRF2 pathway.
+- Traditionally applied as a topical oil in Abhyanga. Pharmacological studies have reported anti-inflammatory and wound healing properties.
+- Used in Ayurveda for heart health and as a [Rasayana](/reference/rasayana/). Clinical and preclinical studies have reported cholesterol-lowering and [cardioprotective](/reference/cardioprotective/) effects.
 
 ## What do recent clinical trials show?
 

@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Grahani (malabsorption/IBS): Probiotic restoration of gut flora and enhanced digestion scientifically validated as therapeutic for IBS, malabsorption, and chronic diarrhea
-- Deepana-Pachana (appetizer and digestant): Lactic acid-mediated stimulation of gastric secretions and enzyme activity confirms traditional classification as a digestive stimulant
-- Aruchi (anorexia/loss of appetite): Sour taste stimulates salivary and gastric secretion reflex; probiotic metabolites improve gut-brain signaling for appetite regulation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Grahani (malabsorption/IBS): traditionally used for malabsorption, IBS-like complaints, and chronic diarrhea.
+- Deepana-Pachana (appetizer and digestant): traditionally classified as a digestive stimulant.
+- Aruchi (anorexia/loss of appetite): traditionally used for loss of appetite. Its sour taste is traditionally linked to stimulating appetite.
 
 ## What do recent clinical trials show?
 
@@ -59,7 +61,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 ## Recent safety updates
 
-- Ayurvedic restriction against nighttime consumption validated: heavy, sour, and hot properties may exacerbate acid reflux and disturb sleep; increases Kapha when consumed at night
+- Ayurvedic restriction against nighttime consumption: classical practice advises against eating it at night. Its heavy, sour, and hot properties are said to increase Kapha at night, and are described as possibly aggravating acid reflux and disturbing sleep.
 - Regular excessive consumption may aggravate Rakta (blood) disorders, skin diseases, and Kapha conditions per Ayurvedic texts; modern evidence links excess dairy to acne in susceptible individuals
 - Contraindicated in Hematemesis (Raktapitta), bleeding disorders, and during fever according to Ayurvedic texts
 - Lactose intolerant individuals may tolerate yogurt better than milk due to bacterial lactase, but sensitivity varies

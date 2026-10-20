@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 ## Which traditional uses are supported by research?
 
-- Bronchial asthma (Tamaka Shwasa): Validated by a randomized double-blind clinical study (2014) showing significant improvement in peak expiratory flow rate, reduced eosinophil count, and clinical symptom improvement in 52 patients
-- Respiratory disorders: Chronic cough and mild asthma uses supported by clinical practice experience and the documented anti-inflammatory and bronchodilatory effects
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Bronchial asthma (Tamaka Shwasa): traditionally used for this condition. A randomized double-blind clinical study reported improvement in peak expiratory flow rate, a reduced eosinophil count, and improved clinical symptoms.
+- Respiratory disorders: traditionally used for chronic cough and mild asthma.
 
 ## What do recent clinical trials show?
 

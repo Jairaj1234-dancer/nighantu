@@ -47,11 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Deepana-Pachana (digestive stimulant) activity confirmed by gastric secretion enhancement studies.
-- Anti-inflammatory properties validated through NF-kB pathway inhibition research.
-- Antimicrobial activity confirmed against multiple bacterial and fungal strains.
-- [Hepatoprotective](/reference/hepatoprotective/) effects demonstrated in animal models of liver injury.
-- Wound healing properties validated in preclinical models.
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Deepana-Pachana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric secretion.
+- Research has reported anti-inflammatory activity involving inhibition of the NF-kB pathway.
+- Studies have reported antimicrobial activity against several bacterial and fungal strains.
+- [Hepatoprotective](/reference/hepatoprotective/) effects have been reported in animal studies of liver injury.
+- Preclinical studies have reported wound healing activity.
 
 ## What do recent clinical trials show?
 

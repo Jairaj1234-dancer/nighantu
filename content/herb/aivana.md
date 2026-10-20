@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Cognitive enhancement and memory improvement validated through placebo-controlled clinical trials showing improved immediate and delayed recall in elderly subjects
-- Antimicrobial activity against oral pathogens and skin infections confirmed through in vitro studies supporting traditional use for throat infections and wound healing
-- Hypoglycemic effects validated in preclinical models supporting traditional Ayurvedic/European use for metabolic disorders
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Placebo-controlled clinical studies in elderly subjects have reported improved immediate and delayed recall.
+- Traditionally used for throat infections and wounds. In vitro studies have reported antimicrobial activity against oral pathogens and pathogens linked to skin infections.
+- Traditionally used in Ayurvedic and European practice for metabolic disorders. Preclinical studies have reported hypoglycemic effects.
 
 ## What do recent clinical trials show?
 

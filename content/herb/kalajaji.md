@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/reference/antidiabetic/) activity validated through multiple clinical trials demonstrating improved glycemic control in type 2 diabetes patients, confirming traditional use for blood sugar management
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects confirmed in clinical and preclinical studies supporting traditional use for rheumatic conditions and pain relief
-- [Immunomodulatory](/reference/immunomodulatory/) effects validated through clinical evidence showing enhanced immune response, supporting the traditional Islamic medicine description as 'cure for everything except death'
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for raised blood sugar. [Antidiabetic](/reference/antidiabetic/) activity has been reported in clinical studies, with improved glycemic control in people with type 2 diabetes.
+- Traditionally used for rheumatic conditions and pain. Anti-inflammatory and [analgesic](/reference/analgesic/) effects have been reported in clinical and preclinical studies.
+- Held in very high regard in traditional Islamic medicine. [Immunomodulatory](/reference/immunomodulatory/) effects, with an enhanced immune response, have been reported in clinical studies.
 
 ## What do recent clinical trials show?
 

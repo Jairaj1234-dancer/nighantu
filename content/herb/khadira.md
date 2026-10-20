@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Psoriasis management (Ekakushtha): Validated by clinical study showing significant PASI score improvement in 40 patients treated with Khadira powder
-- Blood purification for skin diseases (Raktashodhaka): Khadirarishta formulation validated for eczema, acne, and chronic skin disorders through systemic polyphenol activity
-- Skin allergies and urticaria (Sheetapitta): Traditional use supported by demonstrated T-cell [immunomodulatory](/reference/immunomodulatory/) properties
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Psoriasis (Ekakushtha): traditionally used for psoriasis. A clinical study reported improvement in PASI scores in patients given Khadira powder.
+- Blood purification for skin diseases (Raktashodhaka): Khadirarishta is used in classical practice for eczema, acne, and chronic skin disorders.
+- Skin allergies and urticaria (Sheetapitta): traditionally used for skin allergies and urticaria. Research has reported T-cell [immunomodulatory](/reference/immunomodulatory/) properties.
 
 ## What do recent clinical trials show?
 

@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Skin brightening and complexion (Varnya): Validated by clinical trial showing significant whitening effect in 21 volunteers with lotus callus extract cosmetics
-- Anti-aging and skin rejuvenation: Validated by in silico and in vitro studies identifying kaempferol-3-O-robinobioside as potent inhibitor of skin aging [enzymes](/glossary/compounds-d-g/#enzymes)
-- Anti-inflammatory skin soothing (Pitta-shamana): Validated by demonstrated NF-kB, MAPK, and COX-2 modulation reducing inflammatory mediators in skin
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Skin brightening and complexion (Varnya): traditionally used for skin brightening and complexion. A clinical study of cosmetics made with lotus callus extract reported a whitening effect.
+- Anti-aging and skin rejuvenation: traditionally used for skin rejuvenation. In silico and in vitro studies reported kaempferol-3-O-robinobioside as an inhibitor of skin aging [enzymes](/glossary/compounds-d-g/#enzymes).
+- Anti-inflammatory skin soothing (Pitta-shamana): traditionally used for soothing the skin. Studies have reported modulation of NF-kB, MAPK, and COX-2, with lower levels of inflammatory mediators in skin.
 
 ## What do recent clinical trials show?
 

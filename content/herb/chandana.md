@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chandana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Complexion enhancement (Varnya): Validated by clinical studies showing skin brightening, anti-wrinkle, and anti-aging effects through MMP-1 inhibition and antioxidant activity
-- Anti-inflammatory skin soothing (Daha-prashamana): alpha-Santalol COX-2 inhibition validated in laboratory and clinical settings for eczema and dermatitis relief
-- [Antimicrobial](/reference/antimicrobial/) wound care: Demonstrated broad-spectrum antimicrobial activity against acne-causing bacteria and skin pathogens including S. aureus
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Complexion enhancement (Varnya): traditionally used to enhance complexion. Clinical studies have reported skin brightening, anti-wrinkle and anti-aging effects. Antioxidant activity has also been reported.
+- Anti-inflammatory skin soothing (Daha-prashamana): traditionally used for soothing inflamed skin. Laboratory and clinical studies have reported anti-inflammatory activity of alpha-santalol in the context of eczema and dermatitis.
+- [Antimicrobial](/reference/antimicrobial/) wound care: traditionally used in wound care. Laboratory studies have reported broad-spectrum antimicrobial activity against acne-causing bacteria and skin pathogens, including S. aureus.
 
 ## What do recent clinical trials show?
 

@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Rasayana (rejuvenation therapy): Confirmed by modern evidence of immunoglobulin, lactoferrin, and growth factor content supporting tissue repair and immune function
-- Insomnia and mental health (Nidrajanana): Tryptophan content and opioid peptides from casein digestion validated as promoting sleep and calming the nervous system
-- Vehicle for herbal medicines (Anupana): Scientific evidence supports that milk proteins and fats enhance bioavailability of lipophilic herbal compounds
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rasayana (rejuvenation therapy): traditionally used as a rejuvenative. Modern analyses have reported that milk contains immunoglobulins, lactoferrin and growth factors.
+- Insomnia and mental health (Nidrajanana): traditionally used to promote sleep and calm the mind. Milk has been reported to contain tryptophan, and casein digestion has been reported to yield opioid peptides.
+- Vehicle for herbal medicines (Anupana): used in classical practice as a vehicle for herbal medicines. Research has reported that milk proteins and fats may increase the bioavailability of fat-soluble herbal compounds.
 
 ## What do recent clinical trials show?
 

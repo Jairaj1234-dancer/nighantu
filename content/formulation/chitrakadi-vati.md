@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Vatis-Tablets"
-answer: "Chitrakadi Vati is a classical Ayurvedic vati, a herbal tablet or pill. Listed in Ayurvedic Formulary of India (AFI) Part I; HPTLC-validated quality standards published (2022); individual ingredients monographed in Ayurvedic Pharmacopoeia of India (API) Part I."
+answer: "Chitrakadi Vati is a classical Ayurvedic vati, a herbal tablet or pill. Listed in Ayurvedic Formulary of India (AFI) Part I; HPTLC-validated quality standards published; individual ingredients monographed in Ayurvedic Pharmacopoeia of India (API) Part I."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; HPTLC-validated quality standards published (2022); individual ingredients monographed in Ayurvedic Pharmacopoeia of India (API) Part I"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; HPTLC-validated quality standards published; individual ingredients monographed in Ayurvedic Pharmacopoeia of India (API) Part I"
 aliases: ["Chitrakadi Vati", "ChitrakadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
@@ -39,10 +39,12 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ## Which traditional uses are supported by research?
 
-- Functional dyspepsia management validated in randomized trial showing 70% improvement rate
-- Heartburn and acid reflux relief validated through [Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing) mechanism with 60% symptom relief over 4 weeks
-- Appetite stimulation (Deepana) and digestion enhancement (Pachana) validated through dual-action mechanism before and after meals
-- Flatulence and bloating relief validated through carminative properties of Hing and [Saindhava Lavana](/herb/saindhava-lavana/) combination
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for functional dyspepsia. A randomized clinical study reported improvement in symptoms.
+- Traditionally used for heartburn and acid reflux, described in classical practice as [Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing).
+- Traditionally used for appetite stimulation (Deepana) and digestion (Pachana), taken before and after meals.
+- Traditionally used for flatulence and bloating. The carminative properties are attributed to the combination of Hing and [Saindhava Lavana](/herb/saindhava-lavana/).
 
 ## What do recent clinical trials show?
 

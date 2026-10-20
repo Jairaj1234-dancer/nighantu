@@ -38,10 +38,12 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/herb/rohitaka/) herb is cl
 
 ## Which traditional uses are supported by research?
 
-- Liver disorders (hepatomegaly, jaundice) - validated by hepatoprotective studies showing enzyme normalization comparable to silymarin
-- Splenomegaly (enlarged spleen) - supported by clinical management studies showing spleen size reduction
-- Ascites and edema - traditional use corroborated by cholagogue and hepatoprotective mechanisms
-- Anemia - supported by iron metabolism-enhancing properties of the formulation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Liver disorders (hepatomegaly, jaundice): traditionally used for these conditions. Studies of liver-protective activity have reported normalization of liver enzymes comparable to silymarin.
+- Splenomegaly (enlarged spleen): traditionally used for this condition. Clinical studies have reported a reduction in spleen size.
+- Ascites and edema: traditionally used for these conditions.
+- Anemia: traditionally used for this condition.
 
 ## What do recent clinical trials show?
 

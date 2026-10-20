@@ -40,8 +40,10 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 
 ## Which traditional uses are supported by research?
 
-- Pandu (anemia) and Kamla (jaundice-like conditions) - validated through traditional clinical use and supported by the known hematinic and hepatoprotective actions of constituent ingredients
-- Liver and spleen disorders (Yakrit-Pliha Roga) - traditional use supported by hepatoprotective properties of [Daruharidra](/herb/daruharidra/) ([berberine](/glossary/compounds-a-c/#berberine)), [Shilajit](/herb/shilajit/), and [Triphala](/herb/triphala/); 2024 toxicity study showed no hepatotoxicity
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pandu (anemia) and Kamla (jaundice-like conditions): traditionally used for these conditions in classical practice.
+- Liver and spleen disorders (Yakrit-Pliha Roga): traditionally used for these conditions. Ingredients include [Daruharidra](/herb/daruharidra/) ([berberine](/glossary/compounds-a-c/#berberine)), [Shilajit](/herb/shilajit/), and [Triphala](/herb/triphala/). A toxicity study reported no liver toxicity.
 
 ## What do recent clinical trials show?
 

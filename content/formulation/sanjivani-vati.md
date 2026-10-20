@@ -39,10 +39,12 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Charaka Samhita, Sushr
 
 ## Which traditional uses are supported by research?
 
-- Fever management (Jwara Chikitsa) validated through demonstrated diaphoretic and antipyretic mechanisms breaking fever cycle
-- Toxin elimination (Ama Pachana/Vishaghna) validated through antimicrobial activity against Salmonella typhi and H. pylori and cellular-level metabolic correction
-- Gastro-enteritis (Visuchika) management validated through combined antimicrobial, anti-inflammatory, and digestive-correcting actions
-- Immunomodulation validated through [Guduchi](/herb/guduchi/)'s demonstrated enhancement of phagocytic activity and adaptive immune response
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Fever (Jwara Chikitsa): traditionally used for fever. Studies have reported diaphoretic and antipyretic activity.
+- Toxin elimination (Ama Pachana/Vishaghna): traditionally used to clear toxins. Studies have reported antimicrobial activity against Salmonella typhi and H. pylori.
+- Gastro-enteritis (Visuchika): traditionally used for gastro-enteritis. Studies have reported antimicrobial, anti-inflammatory and digestive actions.
+- Immunomodulation: used in classical practice to modulate immunity. Studies on [Guduchi](/herb/guduchi/) have reported increased phagocytic activity and adaptive immune response.
 
 ## What do recent clinical trials show?
 

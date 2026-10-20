@@ -39,10 +39,12 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 ## Which traditional uses are supported by research?
 
-- Amoebic dysentery (validated by clinical trial showing 60% reduction in stool frequency against E. histolytica)
-- Non-infectious diarrhea (validated by RCT showing 58% stool frequency reduction within 3 days, outperforming loperamide)
-- Secretory diarrhea (validated by conessine-mediated bacterial adenylate cyclase inhibition)
-- IBS with diarrhea (supported by antimotility and antisecretory mechanism studies)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amoebic dysentery: traditionally used for this condition. A clinical study reported reduced stool frequency in E. histolytica infection.
+- Non-infectious diarrhea: traditionally used for this condition. A randomized clinical study reported reduced stool frequency, with a greater reduction than loperamide.
+- Secretory diarrhea: traditionally used for this condition. Conessine has been reported to inhibit bacterial adenylate cyclase.
+- IBS with diarrhea: traditionally used for this condition. Mechanism studies have reported antimotility and antisecretory activity.
 
 ## What do recent clinical trials show?
 

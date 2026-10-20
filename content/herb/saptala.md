@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Purgative (Virechana) - validated through confirmed stimulant [laxative](/reference/laxative/) action of diterpene esters on intestinal smooth muscle
-- Skin diseases (Kushtha) - traditional use against psoriasis, ringworm, and warts partially supported by [antimicrobial](/reference/antimicrobial/) and anti-inflammatory data
-- Anti-rheumatic (Amavata) - supported by anti-inflammatory and analgesic studies in animal models
-- [Diuretic](/reference/diuretic/) (Mutrala) - traditional diuretic use cited in Ayurvedic texts; limited pharmacological validation
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Purgative (Virechana): traditionally used as a purgative. Studies have reported stimulant [laxative](/reference/laxative/) action of diterpene esters on intestinal smooth muscle.
+- Skin diseases (Kushtha): traditionally used for psoriasis, ringworm, and warts. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
+- Anti-rheumatic (Amavata): traditionally used for Amavata. Animal studies have reported anti-inflammatory and analgesic activity.
+- [Diuretic](/reference/diuretic/) (Mutrala): traditionally used as a diuretic, as described in Ayurvedic texts.
 
 ## What do recent clinical trials show?
 

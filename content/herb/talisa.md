@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- [Bronchodilator](/reference/bronchodilator/) and antitussive activity validated through pharmacological studies showing calcium channel-mediated smooth muscle relaxation, confirming use in Kasa (cough) and Shwasa (asthma)
-- Anti-inflammatory activity validated through in vivo models, supporting traditional use in respiratory inflammation
-- [Antipyretic](/reference/antipyretic/) activity supported by preclinical evidence, confirming traditional use in Jwara (fever)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Bronchodilator](/reference/bronchodilator/) and antitussive activity has been reported in pharmacological studies, linked to calcium channel-mediated smooth muscle relaxation. Traditionally used for Kasa (cough) and Shwasa (asthma).
+- Traditionally used for respiratory inflammation. Animal studies have reported anti-inflammatory activity.
+- [Antipyretic](/reference/antipyretic/) activity has been reported in preclinical studies. Traditionally used for Jwara (fever).
 
 ## What do recent clinical trials show?
 

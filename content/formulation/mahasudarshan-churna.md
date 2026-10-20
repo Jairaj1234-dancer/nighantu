@@ -39,10 +39,12 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 ## Which traditional uses are supported by research?
 
-- Antipyretic action (Jwaraghna) validated in pilot study showing 25% faster fever reduction compared to placebo
-- Antimicrobial activity validated against K. pneumoniae, E. coli, S. aureus, and P. vulgaris in disc diffusion assay
-- Immunomodulatory activity validated through anti-inflammatory and antihistamine pharmacological studies
-- Digestive improvement and appetite restoration validated through Agni-enhancing mechanisms of [Trikatu](/herb/trikatu/) and bitter herbs
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Jwaraghna (antipyretic): traditionally used to reduce fever. A pilot study reported faster fever reduction compared to placebo.
+- Antimicrobial activity: an in vitro disc diffusion study reported activity against K. pneumoniae, E. coli, S. aureus, and P. vulgaris.
+- Immunomodulatory activity: pharmacological studies have reported anti-inflammatory and antihistamine activity.
+- Digestion and appetite: traditionally used to improve digestion and restore appetite. Classical practice links this to the Agni-enhancing action of [Trikatu](/herb/trikatu/) and bitter herbs.
 
 ## What do recent clinical trials show?
 

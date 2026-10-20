@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anticancer activity spectacularly validated - paclitaxel is among the most successful plant-derived anticancer drugs, used globally for ovarian, breast, lung, and Kaposi's sarcoma treatment
-- Anti-inflammatory and [analgesic](/reference/analgesic/) properties validated in Ayurvedic context for regulated traditional use (under strict supervision), supporting kapha-pacifying indications described in classical texts
-- Traditional use requires extreme caution: validated pharmacological activity exists but therapeutic window is extremely narrow, making unsupervised use potentially fatal
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Paclitaxel, a plant-derived anticancer drug from this plant, is used globally in ovarian, breast and lung cancer and in Kaposi's sarcoma.
+- Used in classical practice, under strict supervision, for kapha-pacifying indications described in classical texts. Anti-inflammatory and [analgesic](/reference/analgesic/) properties have been described in the Ayurvedic context.
+- Traditional use requires extreme caution. Pharmacological activity has been reported, but the therapeutic window is extremely narrow. Unsupervised use can be fatal.
 
 ## What do recent clinical trials show?
 

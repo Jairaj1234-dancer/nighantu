@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-urolithiatic (kidney stone dissolving) activity validated through in vitro and in vivo studies, confirming premier Ayurvedic use in Ashmari (renal calculi)
-- Antidiabetic potential confirmed through enzyme inhibition and in vivo blood [glucose](/glossary/compounds-d-g/#glucose) studies, supporting traditional use in Prameha
-- Bronchodilatory and anti-asthmatic properties supported by preliminary studies, partially validating traditional use in Shwasa (respiratory conditions)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Used in classical practice for Ashmari (renal calculi). In vitro and in vivo studies have reported anti-urolithiatic (kidney stone dissolving) activity.
+- Traditionally used for Prameha. Enzyme inhibition studies and in vivo blood [glucose](/glossary/compounds-d-g/#glucose) studies have reported antidiabetic potential.
+- Traditionally used for Shwasa (respiratory conditions). Preliminary studies have reported bronchodilatory and anti-asthmatic properties.
 
 ## What do recent clinical trials show?
 

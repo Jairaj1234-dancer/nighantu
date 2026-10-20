@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- Galactagogue use (Stanya-janana) validated through RCTs showing increased breast milk volume and prolactin levels in lactating women
-- Menopausal symptom relief confirmed by 2025 RCT demonstrating significant reduction in hot flushes and sleep disturbance
-- Adaptogenic-[Rasayana](/reference/rasayana/) use supported by HPA axis modulation and improvement of stress biomarkers in clinical and preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Stanya-janana (galactagogue): traditionally used to support breast milk production. Randomized controlled trials have reported increased breast milk volume and prolactin levels in lactating women.
+- Traditionally used for menopausal symptoms. A randomized controlled trial reported a reduction in hot flushes and sleep disturbance.
+- Traditionally used as an adaptogen and [Rasayana](/reference/rasayana/). Clinical and preclinical studies have reported HPA axis modulation and improvement in stress biomarkers.
 
 ## What do recent clinical trials show?
 

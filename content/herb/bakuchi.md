@@ -46,10 +46,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Vitiligo (Shvitra/Kilasa) treatment: Validated through multiple clinical case studies and PUVA therapy protocols using psoralen as the gold-standard photosensitizer
-- Psoriasis (Ekakushtha) management: Psoralen-UVA combination therapy is an established dermatological treatment, directly derived from traditional Bakuchi use
-- Anti-aging and photoprotection: Bakuchiol validated in double-blind RCTs as comparable to retinol for wrinkle reduction, pigmentation, and skin firmness improvement
-- Wound healing: Traditional topical application validated by preclinical studies showing enhanced collagen synthesis and anti-inflammatory effects
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Vitiligo (Shvitra/Kilasa): traditionally used for vitiligo. Clinical case studies have reported on PUVA therapy using psoralen as a photosensitizer.
+- Psoriasis (Ekakushtha): traditionally used for psoriasis. Psoralen-UVA combination therapy is used in dermatology and is described as derived from traditional Bakuchi use.
+- Anti-aging and photoprotection: double-blind clinical trials have reported bakuchiol as comparable to retinol for wrinkle reduction, pigmentation, and skin firmness.
+- Wound healing: traditionally applied topically to wounds. Preclinical studies have reported enhanced collagen synthesis and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

@@ -48,9 +48,11 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## Which traditional uses are supported by research?
 
-- Wound healing and minor trauma management - validated by in-vivo study (2021) showing enhanced collagen deposition and by Kerala Journal study (2018) showing 75% faster closure than control
-- Fracture support and soft tissue trauma (sprain, dislocation) - supported by RCT (n=40) showing 60% pain decrease within 3 days of Murivenna massage for ankle sprains
-- Episiotomy wound care - validated by clinical study (2021) demonstrating superior pain-relieving and tenderness-diminishing properties in postpartum wound management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Wounds and minor trauma: traditionally used for wound care and minor injuries. An in vivo study reported increased collagen deposition. Another study reported faster wound closure than control.
+- Fracture support and soft tissue trauma (sprain, dislocation): traditionally used for these conditions. A randomized controlled trial reported reduced pain after Murivenna massage for ankle sprains.
+- Episiotomy wound care: traditionally used for episiotomy wounds. A clinical study reported reduced pain and tenderness in postpartum episiotomy wounds.
 
 ## What do recent clinical trials show?
 

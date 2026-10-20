@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Anti-menorrhagic (reducing excessive menstrual bleeding) activity partially validated through traditional use documentation and supported by astringent tannin content and beta-sitosterol effects
-- Anti-inflammatory properties validated through in vivo acute lung injury models and in vitro studies, supporting traditional use of banana flower decoction for inflammatory conditions
-- [Antidiabetic](/reference/antidiabetic/) effects supported by alpha-glucosidase inhibition studies, validating traditional use for blood sugar management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used to reduce excessive menstrual bleeding (anti-menorrhagic use). The flower contains astringent tannins and beta-sitosterol.
+- Banana flower decoction is traditionally used for inflammatory conditions. Animal studies using acute lung injury models and in vitro studies have reported anti-inflammatory activity.
+- [Antidiabetic](/reference/antidiabetic/) use: traditionally used for high blood sugar. Studies have reported alpha-glucosidase inhibition.
 
 ## What do recent clinical trials show?
 

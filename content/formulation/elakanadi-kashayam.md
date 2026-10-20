@@ -51,10 +51,12 @@ Sahasrayogam. Also referenced in commentaries of Charaka Samhita's Nighantu sect
 
 ## Which traditional uses are supported by research?
 
-- Chronic respiratory diseases (asthma, bronchitis) - validated by clinical trials showing bronchodilatory effects
-- Adjuvant in tuberculosis treatment - supported by immunomodulatory and anti-inflammatory properties
-- Vomiting and hiccup (Chardi and Hikka) - corroborated by antiemetic properties of cardamom
-- Chronic cough with sputum - supported by study showing sputum viscosity reduction
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Chronic respiratory diseases (asthma, bronchitis): traditionally used for these conditions. Clinical studies have reported bronchodilatory effects.
+- Tuberculosis: traditionally used as an adjuvant alongside other care.
+- Vomiting and hiccup (Chardi and Hikka): traditionally used for vomiting and hiccup.
+- Chronic cough with sputum: traditionally used for chronic cough with sputum. A study reported reduced sputum viscosity.
 
 ## What do recent clinical trials show?
 

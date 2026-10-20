@@ -40,8 +40,10 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 
 ## Which traditional uses are supported by research?
 
-- Rejuvenation and anti-aging (Rasayana) - traditional use as a potent rejuvenative for debility and aging; limited modern validation due to safety concerns precluding clinical trials
-- Tridosha balance and multi-system tonic - traditional claim for balancing all three Doshas; conceptually supported by the multi-mineral composition but lacks rigorous clinical evidence
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rejuvenation and anti-aging (Rasayana): traditionally used as a potent rejuvenative for debility and aging. Modern research is limited because safety concerns have precluded clinical trials.
+- Tridosha balance and multi-system tonic: traditionally used for balancing all three Doshas. Rigorous clinical evidence is lacking.
 
 ## What do recent clinical trials show?
 

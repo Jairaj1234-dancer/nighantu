@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Laxative and purgative (Virechana) activity thoroughly validated through pharmacological studies confirming ricinoleic acid-mediated stimulation of intestinal motility, supporting core Ayurvedic indication
-- Anti-arthritic and anti-rheumatic effects validated in preclinical models showing reduction of joint inflammation and pain, supporting traditional use for Amavata (rheumatoid conditions)
-- Digestive stimulant (Deepana) activity confirmed through studies showing enhanced gastric motility and secretion when processed with jaggery
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Virechana (laxative and purgative): traditionally used as a laxative and purgative. Pharmacological studies have reported stimulation of intestinal motility linked to ricinoleic acid.
+- Amavata (rheumatoid conditions): traditionally used for joint and rheumatic complaints. Preclinical studies have reported reduced joint inflammation and pain.
+- Deepana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric motility and secretion when the herb was processed with jaggery.
 
 ## What do recent clinical trials show?
 

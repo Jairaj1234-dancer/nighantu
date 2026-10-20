@@ -42,9 +42,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-- Bleeding disorders (Raktapitta): Styptic and astringent properties well-documented in modern pharmacology, validating traditional hemostatic use
-- Respiratory diseases (Kasa, Shwasa): Antibacterial activity against respiratory pathogens and mucosal-drying properties support traditional use for cough and bronchitis
-- Skin diseases and wounds: Broad-spectrum antimicrobial and anti-biofilm activity validates traditional use for skin infections and wound management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Bleeding disorders (Raktapitta): traditionally used to stop bleeding. Pharmacological studies have reported styptic and astringent properties.
+- Respiratory diseases (Kasa, Shwasa): traditionally used for cough and bronchitis. Studies have reported antibacterial activity against respiratory pathogens and mucosal-drying properties.
+- Skin diseases and wounds: traditionally used for skin infections and wounds. Studies have reported broad-spectrum antimicrobial and anti-biofilm activity.
 
 ## What do recent clinical trials show?
 

@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Prameha (diabetes/metabolic disorders): Beta-glucan mediated glycemic control and insulin sensitization strongly validate the classical designation as the best grain for diabetes; FDA-approved health claim supports this
-- Sthaulya and Medoroga (obesity and lipid disorders): Lekhana (scraping) action validated by beta-glucan's bile acid trapping, cholesterol reduction, and fat metabolism enhancement
-- Mutra Roga (urinary disorders): Barley water (Yava Kshira) as a traditional kidney tonic validated by [diuretic](/reference/diuretic/) properties and anti-urolithiatic activity of barley alkaline compounds
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Prameha (diabetes/metabolic disorders): classically regarded as the best grain for prameha. Studies on barley beta-glucan have reported effects on blood glucose and insulin sensitivity.
+- Sthaulya and Medoroga (obesity and lipid disorders): traditionally used for its lekhana (scraping) action. Studies on beta-glucan have reported bile acid binding, cholesterol-lowering activity and effects on fat metabolism.
+- Mutra Roga (urinary disorders): barley water (Yava Kshira) is traditionally used as a kidney tonic. Studies have reported [diuretic](/reference/diuretic/) properties and anti-urolithiatic activity for alkaline compounds in barley.
 
 ## What do recent clinical trials show?
 

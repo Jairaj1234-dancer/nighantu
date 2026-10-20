@@ -38,10 +38,12 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Earliest explicit men
 
 ## Which traditional uses are supported by research?
 
-- Fever of various etiologies - validated by immunomodulatory and antipyretic studies
-- Burning sensation (Daha) - supported by cooling properties of Raktachandana and [Padmaka](/herb/padmaka/)
-- Loss of appetite and nausea during fever - corroborated by digestive and [antiemetic](/glossary/pharmacology/#antiemetic) properties
-- Infections with inflammatory component - supported by anti-inflammatory CRP reduction data
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Fever of various etiologies: traditionally used for fever. Studies have reported immunomodulatory and antipyretic activity.
+- Burning sensation (Daha): traditionally used for burning sensation. Raktachandana and [Padmaka](/herb/padmaka/) are described as cooling in classical practice.
+- Loss of appetite and nausea during fever: traditionally used for these complaints. The formulation is described as having digestive and [antiemetic](/glossary/pharmacology/#antiemetic) properties.
+- Infections with inflammatory component: traditionally used for these conditions. Studies have reported anti-inflammatory activity, including reduced CRP.
 
 ## What do recent clinical trials show?
 

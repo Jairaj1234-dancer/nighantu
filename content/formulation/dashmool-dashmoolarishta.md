@@ -45,15 +45,17 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ## Which traditional uses are supported by research?
 
-- Postpartum care and recovery (validated by gynecological review and traditional obstetric practice documentation)
-- Osteoarthritis and joint pain (validated by MIA-induced osteoarthritis mouse model showing pain and pathology improvement)
-- Inflammatory conditions and pain management (validated by analgesic and anti-inflammatory experimental studies)
-- Cervicitis and gynecological inflammation (validated by proof-of-concept clinical study)
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Postpartum care and recovery: traditionally used in postpartum care and recovery.
+- Osteoarthritis and joint pain: traditionally used for osteoarthritis and joint pain. An animal study in an MIA-induced osteoarthritis mouse model reported improvement in pain and joint pathology.
+- Inflammatory conditions and pain: traditionally used for inflammatory conditions and pain. Experimental studies have reported analgesic and anti-inflammatory activity.
+- Cervicitis and gynecological inflammation: traditionally used for cervicitis and gynecological inflammation.
 
 ## What do recent clinical trials show?
 
 - Parekar RR, Bolegave SS, Marathe PA and others 2015. [Experimental evaluation of analgesic, anti-inflammatory and anti-platelet potential of Dashamoola](https://pubmed.ncbi.nlm.nih.gov/25878458/). *Journal of Ayurveda and integrative medicine*. PMID [25878458](https://pubmed.ncbi.nlm.nih.gov/25878458/) · [doi:10.4103/0975-9476.146565](https://doi.org/10.4103/0975-9476.146565)  
-  [Dashamoola](/herb/dashamoola/) in arishta and kwath forms demonstrated significant analgesic, anti-inflammatory, and anti-platelet effects, validating traditional use in pain and arthritis management.
+  [Dashamoola](/herb/dashamoola/) in arishta and kwath forms is traditionally used for pain and arthritis. Studies of these forms have reported analgesic, anti-inflammatory, and anti-platelet effects.
 - Shetty YC, Godbharle S, Brahma S and others 2017. [Evaluation of oral multi-herbal preparation of Dashmoolarishta on mice model of osteoarthritis](https://pubmed.ncbi.nlm.nih.gov/29040066/). *Journal of basic and clinical physiology and pharmacology*. PMID [29040066](https://pubmed.ncbi.nlm.nih.gov/29040066/) · [doi:10.1515/jbcpp-2016-0141](https://doi.org/10.1515/jbcpp-2016-0141)  
   Significant improvement in pain parameters and pathological markers in MIA-induced osteoarthritis mouse model, with reduction in inflammatory mediators and cartilage preservation.
 

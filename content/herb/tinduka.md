@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Astringent and anti-diarrheal use validated through tannin content analysis and intestinal motility studies
-- Wound and ulcer treatment confirmed through [antimicrobial](/reference/antimicrobial/) activity and healing promotion in preclinical models
-- Anticancer potential validated through NSCLC immunotherapy studies and cytotoxicity assays
-- Oral health (gargle for sore throat) use supported by antimicrobial and astringent properties of fruit extracts
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an astringent and for diarrhea. Analytical studies have reported tannin content in the plant.
+- Traditionally used for wounds and ulcers. Preclinical studies have reported [antimicrobial](/reference/antimicrobial/) activity and wound-healing activity.
+- Studied for anticancer potential. In vitro cytotoxicity assays have reported cytotoxic activity, and it has been examined in NSCLC immunotherapy research.
+- Traditionally used for oral health, as a gargle for sore throat. Laboratory studies have reported antimicrobial and astringent properties of fruit extracts.
 
 ## What do recent clinical trials show?
 

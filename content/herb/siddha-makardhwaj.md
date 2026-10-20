@@ -33,8 +33,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 ## Which traditional uses are supported by research?
 
-- Rejuvenation and vitality: Animal safety studies indirectly support the Rasayana claim by demonstrating that the preparation enhances metabolic parameters without causing organ toxicity at therapeutic doses
-- Rheumatoid arthritis and neurological disorders: Traditional use documented in classical texts; the anti-inflammatory and immunomodulatory mechanisms identified in related formulation studies provide preliminary mechanistic support
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rejuvenation and vitality: traditionally used as a Rasayana for rejuvenation and vitality. Animal safety studies have reported improved metabolic parameters without organ toxicity.
+- Rheumatoid arthritis and neurological disorders: traditionally used for these conditions, as documented in classical texts. Studies on related formulations have reported anti-inflammatory and immunomodulatory activity.
 
 ## What do recent clinical trials show?
 

@@ -46,10 +46,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Psoriasis treatment: Validated by 2024 comprehensive review and transdermal patch studies confirming synergistic anti-psoriatic activity of indigo, indirubin, and tryptanthrin
-- Hair and scalp health: Validated by traditional use as hair dye and conditioner, with EU safety assessment confirming safety for hair coloring applications
-- Eczema management: Validated by 2023 pilot clinical trial showing 70% symptom improvement with 3% Nili extract gel in 30 patients
-- Wound healing: Supported by animal studies showing accelerated wound closure, enhanced collagen synthesis, and reduced inflammatory markers
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Psoriasis: a review and transdermal patch studies have reported combined anti-psoriatic activity of indigo, indirubin, and tryptanthrin.
+- Hair and scalp health: traditionally used as a hair dye and conditioner. An EU safety assessment has reported on its safety for hair coloring applications.
+- Eczema: a pilot clinical study reported symptom improvement with a Nili extract gel.
+- Wound healing: animal studies have reported faster wound closure, increased collagen synthesis, and reduced inflammatory markers.
 
 ## What do recent clinical trials show?
 

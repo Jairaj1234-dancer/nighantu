@@ -55,11 +55,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 
 ## Which traditional uses are supported by research?
 
-- Toothache and dental pain relief - extensively validated; eugenol is an established dental analgesic and antiseptic used worldwide in dental practice
-- Antimicrobial for oral infections and wound care - confirmed by in vitro and clinical studies showing broad-spectrum activity including against MDR bacteria
-- Digestive aid for flatulence, colic, and nausea - supported by pharmacological studies demonstrating [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects
-- Anti-inflammatory for joint and muscle pain - validated by studies showing COX-2 inhibition and reduced inflammatory markers
-- Respiratory relief for cough and sore throat - supported by [expectorant](/reference/expectorant/) and antimicrobial studies relevant to upper respiratory infections
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Toothache and dental pain: traditionally used for toothache and dental pain. Eugenol is used in dental practice as an analgesic and antiseptic.
+- Oral infections and wounds: traditionally used for oral infections and wound care. In vitro and clinical studies have reported broad-spectrum antimicrobial activity, including against multidrug-resistant bacteria.
+- Flatulence, colic and nausea: traditionally used as a digestive aid for flatulence, colic and nausea. Pharmacological studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) and carminative effects.
+- Joint and muscle pain: traditionally used for joint and muscle pain. Studies have reported COX-2 inhibition and reduced inflammatory markers.
+- Cough and sore throat: traditionally used for cough and sore throat. Studies have reported [expectorant](/reference/expectorant/) and antimicrobial activity.
 
 ## What do recent clinical trials show?
 

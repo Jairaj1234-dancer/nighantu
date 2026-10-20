@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Ashwattha (Ficus religiosa L.) is a plant drug, also called Asvatthah, Pippala and Pippalah, from the Moraceae family. coli, and Candida albicans validated via disc diffusion and MIC assays Listed in WHO Traditional Medicine Strategy as a plant used in traditional medicine systems; included in the Ayurvedic Pharmacopoeia of India."
+answer: "Ashwattha (Ficus religiosa L.) is a plant drug, also called Asvatthah, Pippala and Pippalah, from the Moraceae family. In vitro studies using disc diffusion and MIC assays have reported activity against E. coli and Candida albicans. Listed in WHO Traditional Medicine Strategy as a plant used in traditional medicine systems; included in the Ayurvedic Pharmacopoeia of India."
 botanical: "Ficus religiosa L."
 family: "Moraceae"
 sanskrit: ""
@@ -51,10 +51,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-- Antidiabetic activity confirmed in multiple in vivo studies showing significant blood [glucose](/glossary/compounds-d-g/#glucose) reduction in alloxan-induced diabetic models
-- Wound healing properties validated through preclinical studies demonstrating accelerated epithelialization and increased tensile strength
-- Anti-inflammatory and [analgesic](/reference/analgesic/) effects confirmed in carrageenan-induced paw edema and acetic acid-induced writhing models
-- [Antimicrobial](/reference/antimicrobial/) activity against Staphylococcus aureus, E. coli, and Candida albicans validated via disc diffusion and MIC assays
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Animal studies have reported lower blood [glucose](/glossary/compounds-d-g/#glucose) in alloxan-induced diabetic models.
+- Preclinical studies have reported faster epithelialization and increased tensile strength in wound models.
+- Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects in carrageenan-induced paw edema and acetic acid-induced writhing models.
+- [Antimicrobial](/reference/antimicrobial/) activity against Staphylococcus aureus, E. coli, and Candida albicans has been reported in in vitro studies using disc diffusion and MIC assays.
 
 ## What do recent clinical trials show?
 

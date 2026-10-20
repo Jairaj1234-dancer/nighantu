@@ -49,10 +49,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Skin disease (Kushtha) treatment validated through antimicrobial and anti-inflammatory studies on dermatophytes and skin pathogens
-- Anti-hemorrhoidal use supported by anti-inflammatory and wound healing preclinical studies
-- Anthelmintic activity confirmed against Pheretima posthuma and Ascaridia galli in vitro
-- Anti-inflammatory use validated in carrageenan-induced paw edema and cotton pellet granuloma models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kushtha (skin disease): traditionally used for skin disease. Studies have reported antimicrobial activity against dermatophytes and skin pathogens, as well as anti-inflammatory activity.
+- Traditionally used for hemorrhoids. Preclinical studies have reported anti-inflammatory and wound-healing activity.
+- In vitro studies have reported anthelmintic activity against Pheretima posthuma and Ascaridia galli.
+- Traditionally used for inflammation. Animal studies have reported anti-inflammatory activity in carrageenan-induced paw edema and cotton pellet granuloma models.
 
 ## What do recent clinical trials show?
 

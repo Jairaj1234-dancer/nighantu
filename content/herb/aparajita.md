@@ -44,10 +44,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Memory enhancer and nootropic (Medhya [Rasayana](/reference/rasayana/)) - validated through multiple studies showing improved memory and learning in animal models via cholinergic mechanism
-- Anxiolytic and antidepressant (Unmada-nashaka) - confirmed anxiolytic and antidepressant effects comparable to standard drugs in preclinical studies
-- Anti-diabetic (Pramehaghna) - validated through in vivo studies showing blood [glucose](/glossary/compounds-d-g/#glucose) reduction and improved insulin sensitivity
-- Complexion enhancer and eye health (Varnya, [Chakshushya](/herb/chakshushya/)) - partially validated through antioxidant and anti-inflammatory mechanisms
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Memory enhancer and nootropic (Medhya [Rasayana](/reference/rasayana/)): traditionally used to support memory and learning. Animal studies have reported improved memory and learning, with a cholinergic mechanism proposed.
+- Anxiolytic and antidepressant (Unmada-nashaka): traditionally used for anxious and low mood states. Preclinical studies have reported anxiolytic and antidepressant-like effects.
+- Anti-diabetic (Pramehaghna): traditionally used for Prameha. In vivo studies have reported lower blood [glucose](/glossary/compounds-d-g/#glucose) and improved insulin sensitivity.
+- Complexion enhancer and eye health (Varnya, [Chakshushya](/herb/chakshushya/)): traditionally used for complexion and eye health.
 
 ## What do recent clinical trials show?
 

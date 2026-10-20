@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- Bioavailability enhancement (Yogavahi) validated - piperine's ability to increase absorption of co-administered compounds is well-established pharmacologically, confirming the traditional Ayurvedic concept of Yogavahi (bioenhancer)
-- Respiratory disease treatment (Shwasa, Kasa) supported by documented anti-inflammatory, bronchodilatory, and [immunomodulatory](/reference/immunomodulatory/) effects, though high-quality RCTs are still needed
-- Deepana-Pachana (digestive stimulant) activity validated through studies showing enhanced gastric secretion and gastrointestinal motility
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Yogavahi (bioenhancer): traditionally used to enhance the action of co-administered substances. Pharmacological studies have reported that piperine can increase the absorption of co-administered compounds.
+- Shwasa, Kasa (respiratory disease): traditionally used for respiratory conditions. Studies have reported anti-inflammatory, bronchodilatory, and [immunomodulatory](/reference/immunomodulatory/) effects. High-quality randomized controlled trials are still lacking.
+- Deepana-Pachana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric secretion and gastrointestinal motility.
 
 ## What do recent clinical trials show?
 

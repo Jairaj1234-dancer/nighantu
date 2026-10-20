@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Medhya [Rasayana](/reference/rasayana/) (cognitive enhancement): Butyrate-mediated BDNF increase and fat-soluble vitamin transport validate traditional use of medicated ghees (Saraswata Ghrita, [Brahmi](/herb/brahmi/) Ghrita) for cognitive improvement
-- Agni Deepana without Pitta aggravation: Rapid metabolism of short/medium-chain fatty acids stimulates digestion while cooling virya prevents inflammatory overactivation - unique dual mechanism validated
-- Snehana (oleation therapy in Panchakarma): Lipophilic drug delivery and membrane fluidity enhancement scientifically support ghee's role as the primary internal oleation medium
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Medhya [Rasayana](/reference/rasayana/) (cognitive enhancement): medicated ghees such as Saraswata Ghrita and [Brahmi](/herb/brahmi/) Ghrita are traditionally used to support cognition.
+- Agni Deepana without Pitta aggravation: traditionally used to stimulate digestion. Its cooling virya is traditionally held to keep this from aggravating Pitta.
+- Snehana (oleation therapy in Panchakarma): used in classical practice as the primary medium for internal oleation.
 
 ## What do recent clinical trials show?
 

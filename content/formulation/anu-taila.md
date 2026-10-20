@@ -38,9 +38,11 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 ## Which traditional uses are supported by research?
 
-- Sinusitis and allergic rhinitis - validated by pilot study (2018) showing 40% reduction in nasal congestion scores over 4 weeks
-- Facial paralysis (Ardita) - validated by systematic review (2016) showing 78-91% symptom relief in facial pain, speech disorder, and earache
-- Respiratory protection and immune modulation - validated by COVID-19 hamster model study (2023) showing reduced viral load and lung pathology with prophylactic nasal application
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Sinusitis and allergic rhinitis: traditionally used for these nasal conditions. A pilot study reported lower nasal congestion scores.
+- Facial paralysis (Ardita): used in classical practice for this condition. A systematic review reported improvement in facial pain, speech disorder, and earache.
+- Respiratory and immune support: traditionally used for respiratory health. An animal study in a hamster model of COVID-19 reported reduced viral load and lung pathology with prophylactic nasal application.
 
 ## What do recent clinical trials show?
 

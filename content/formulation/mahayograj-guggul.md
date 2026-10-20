@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Guggulus-Resin-Based"
-answer: "Mahayograj Guggul is a classical Ayurvedic guggulu, a resin-based preparation. Listed in Ayurvedic Formulary of India (AFI) Part I; quality standards established by CCRAS; UHPLC/HPTLC validated quality control methods published (2022)."
+answer: "Mahayograj Guggul is a classical Ayurvedic guggulu, a resin-based preparation. It is listed in the Ayurvedic Formulary of India (AFI) Part I. CCRAS has set quality standards for it, and validated UHPLC/HPTLC quality control methods have been published."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; quality standards established by CCRAS; UHPLC/HPTLC validated quality control methods published (2022)"
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. CCRAS has set quality standards for it, and validated UHPLC/HPTLC quality control methods have been published."
 aliases: ["Mahayograj Guggul", "MahayograjGuggul"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
@@ -39,10 +39,12 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 ## Which traditional uses are supported by research?
 
-- Rheumatoid arthritis (Amavata) management validated in double-blind clinical study showing 30% greater DAS28 score reduction than standard guggul extract
-- Comprehensive joint disorder relief validated through broad anti-inflammatory and [analgesic](/reference/analgesic/) mechanisms across multiple pharmacological studies
-- Gout management supported by uric acid reduction and anti-inflammatory mechanisms validated in clinical observations
-- Neurological and musculoskeletal pain relief supported by Vata-pacifying and nervine properties confirmed in traditional prescribing data
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Amavata (rheumatoid arthritis): traditionally used for amavata. A double-blind clinical study reported a greater reduction in disease activity scores than with a standard guggul extract.
+- Joint disorders: traditionally used for joint disorders. Pharmacological studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
+- Gout: traditionally used for gout. Clinical observations have reported lower uric acid levels and anti-inflammatory effects.
+- Neurological and musculoskeletal pain: traditionally used for neurological and musculoskeletal pain. Traditional prescribing describes it as Vata-pacifying and nervine.
 
 ## What do recent clinical trials show?
 

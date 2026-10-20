@@ -52,10 +52,12 @@ Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhit
 
 ## Which traditional uses are supported by research?
 
-- Heavy menstrual bleeding (Raktapradar/Menorrhagia) - validated by hemostatic and astringent mechanism studies
-- Leucorrhea (Shweta Pradar) - supported by uterine tonic and [antimicrobial](/reference/antimicrobial/) properties
-- PCOS and menstrual irregularity - supported by clinical study showing improved menstrual regularity
-- Endometriosis-related pain - corroborated by clinical observation of pain and inflammation reduction
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Heavy menstrual bleeding (Raktapradar/Menorrhagia): traditionally used for heavy menstrual bleeding. Studies have reported hemostatic and astringent activity.
+- Leucorrhea (Shweta Pradar): traditionally used for leucorrhea. It has been described as having uterine tonic and [antimicrobial](/reference/antimicrobial/) properties.
+- PCOS and menstrual irregularity: used in practice for menstrual irregularity, including PCOS. A clinical study reported improved menstrual regularity.
+- Endometriosis-related pain: used in practice for pain related to endometriosis. Clinical observations have reported reduced pain and inflammation.
 
 ## What do recent clinical trials show?
 

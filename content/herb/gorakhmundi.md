@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-obesity and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) use validated through multiple RCTs showing significant weight loss and improved lipid parameters
-- Anxiolytic use confirmed through modulation of GABAergic neurotransmission in elevated plus maze and open field test models
-- Anti-diabetic use (Prameha-hara) supported by antihyperglycemic activity and insulin resistance prevention in glucocorticoid-induced diabetes model
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as an anti-obesity and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) herb. Clinical studies have reported weight loss and improved lipid parameters.
+- Traditionally used as an anxiolytic. Animal studies have reported anxiolytic activity involving GABAergic neurotransmission in elevated plus maze and open field test models.
+- Traditionally used as an anti-diabetic herb (Prameha-hara). Animal studies have reported antihyperglycemic activity and reduced insulin resistance in a glucocorticoid-induced diabetes model.
 
 ## What do recent clinical trials show?
 

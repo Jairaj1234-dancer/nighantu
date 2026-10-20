@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Mineral-Metal-Preparations"
 group: "Lohas-Iron-Preparations"
-answer: "Madhu Mandur is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. Iron deficiency anemia (Pandu Roga) - validated by clinical studies showing significant hemoglobin improvement, especially with honey co-administration Anemia in children - validated by clinical evaluation showing 21.86% hemoglobin increase with honey + Mandur Bhasma combination"
+answer: "Madhu Mandur is a bhasma, a mineral or metal preparation reduced to ash by repeated calcination. It is traditionally used for iron deficiency anemia (Pandu Roga), including anemia in children. Clinical studies have reported improvement in hemoglobin, especially when it was given with honey. A clinical evaluation in children reported an increase in hemoglobin with a combination of honey and Mandur Bhasma."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -39,8 +39,10 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 
 ## Which traditional uses are supported by research?
 
-- Iron deficiency anemia (Pandu Roga) - validated by clinical studies showing significant hemoglobin improvement, especially with honey co-administration
-- Anemia in children - validated by clinical evaluation showing 21.86% hemoglobin increase with honey + Mandur Bhasma combination
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin, especially when it was given with honey.
+- Anemia in children: traditionally used for anemia in children. A clinical evaluation reported an increase in hemoglobin with a combination of honey and Mandur Bhasma.
 
 ## What do recent clinical trials show?
 

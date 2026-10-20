@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Kshara (alkaline preparation) for urinary calculi validated by in vitro lithotriptic activity and renal stone dissolution studies
-- Anti-hemorrhoidal use confirmed by wound healing and anti-inflammatory effects in rectal tissue models
-- Diuretic action (Mutrala) validated through increased urine output and sodium excretion in animal studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Kshara (alkaline preparation): traditionally used for urinary calculi. In vitro studies have reported lithotriptic activity and renal stone dissolution.
+- Traditionally used for hemorrhoids. Studies in rectal tissue models have reported wound repair and anti-inflammatory effects.
+- Mutrala (diuretic): traditionally used to increase urine flow. Animal studies have reported increased urine output and sodium excretion.
 
 ## What do recent clinical trials show?
 

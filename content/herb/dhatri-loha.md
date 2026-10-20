@@ -39,8 +39,10 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 ## Which traditional uses are supported by research?
 
-- Iron deficiency anemia (Pandu Roga) - validated in multiple clinical trials showing significant hemoglobin improvement (1.5-2 g/dL rise over 8 weeks)
-- Digestive disorders with acid peptic symptoms - traditional use supported by the gastroprotective action of Amalaki and [Yashtimadhu](/herb/yashtimadhu/) components
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Pandu Roga (iron deficiency anemia): traditionally used for this condition. Clinical studies have reported improvement in hemoglobin levels.
+- Digestive disorders with acid peptic symptoms: traditionally used for these complaints. The formulation includes Amalaki and [Yashtimadhu](/herb/yashtimadhu/) as components.
 
 ## What do recent clinical trials show?
 

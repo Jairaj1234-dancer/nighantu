@@ -73,10 +73,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Acne treatment (Yauvanpidika): Validated by clinical trial showing 79% of participants had reduced inflammatory acne with [neem](/herb/neem/) face wash
-- Antifungal skin infections (Dadru/Kushtha): Validated by demonstrated broad-spectrum antifungal activity against dermatophytes and Malassezia
-- Dandruff/scalp conditions: 2025 clinical study confirmed efficacy of [neem](/herb/neem/) leaf paste for dandruff reduction
-- Wound healing and antiseptic use (Vrana): Supported by antimicrobial activity against major wound-infecting pathogens
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Acne (Yauvanpidika): traditionally used for acne. A clinical study reported reduced inflammatory acne in participants using a [neem](/herb/neem/) face wash.
+- Fungal skin infections (Dadru/Kushtha): traditionally used for fungal skin infections. Research has reported broad-spectrum antifungal activity against dermatophytes and Malassezia.
+- Dandruff/scalp conditions: traditionally used for dandruff and scalp conditions. A clinical study reported reduced dandruff with [neem](/herb/neem/) leaf paste.
+- Wounds and antiseptic use (Vrana): traditionally used on wounds and as an antiseptic. Research has reported antimicrobial activity against major wound-infecting pathogens.
 
 ## How is it used traditionally?
 
@@ -93,7 +95,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 - Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
   Comprehensive dermatology review confirmed [neem](/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
 - Dani PB, Ghorpade VK 2025. [Effect of Neem Leaf Paste Application on Dandruff](https://pubmed.ncbi.nlm.nih.gov/40242687/). *Cureus*. PMID [40242687](https://pubmed.ncbi.nlm.nih.gov/40242687/) · [doi:10.7759/cureus.80685](https://doi.org/10.7759/cureus.80685)  
-  Clinical study demonstrated neem leaf paste application significantly reduced dandruff symptoms, validating traditional antifungal use for scalp conditions caused by Malassezia species.
+  A clinical study reported that applying neem leaf paste reduced dandruff symptoms. Neem is traditionally used for scalp conditions, including those linked to Malassezia species.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 

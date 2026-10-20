@@ -51,10 +51,12 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ## Which traditional uses are supported by research?
 
-- Dysmenorrhea and menstrual irregularity - validated by clinical observations showing antispasmodic and hormonal effects
-- Constipation and digestive disorders - supported by prokinetic action of [Dashamoola](/herb/dashamoola/) and [Eranda](/herb/eranda/) root constituents
-- Polycystic ovarian disease and uterine fibroids - partially validated by clinical case studies showing cyst size reduction
-- Infertility support - traditional use supported by phytoestrogenic activity of key ingredients
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Dysmenorrhea and menstrual irregularity: traditionally used for these conditions. Clinical observations have reported antispasmodic and hormonal effects.
+- Constipation and digestive disorders: traditionally used for these complaints. Prokinetic action has been reported for [Dashamoola](/herb/dashamoola/) and [Eranda](/herb/eranda/) root constituents.
+- Polycystic ovarian disease and uterine fibroids: traditionally used for these conditions. Clinical case studies have reported a reduction in cyst size.
+- Infertility support: traditionally used to support fertility. Phytoestrogenic activity has been reported for key ingredients.
 
 ## What do recent clinical trials show?
 

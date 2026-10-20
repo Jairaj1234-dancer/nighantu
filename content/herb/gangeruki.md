@@ -47,9 +47,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Anti-anemia (iron supplementation) validated through comparative clinical study demonstrating efficacy similar to ferrous gluconate in women with iron deficiency anemia
-- Antidiarrhoeal and gut-soothing effects validated through in vivo and ex vivo pharmacodynamic studies supporting traditional Ayurvedic use for Atisara (diarrhea)
-- Hepatoprotective activity validated in CCl4-induced liver damage models, supporting traditional use for liver-related conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Anti-anemia (iron supplementation): a comparative clinical study in women with iron deficiency anemia reported results similar to ferrous gluconate.
+- Atisara (diarrhea): traditionally used in Ayurveda for Atisara. In vivo and ex vivo pharmacodynamic studies have reported antidiarrhoeal and gut-soothing effects.
+- Liver-related conditions: traditionally used for liver-related conditions. Animal studies using carbon tetrachloride-induced liver damage models have reported hepatoprotective activity.
 
 ## What do recent clinical trials show?
 

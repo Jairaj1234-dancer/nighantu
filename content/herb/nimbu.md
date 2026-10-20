@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Digestive aid (Deepana-Pachana) use validated through carminative and stomachic effects in clinical observations
-- Scurvy prevention and Vitamin C source validated historically and through nutritional studies
-- Antimicrobial and preservative use validated through extensive food science and MIC studies against multiple pathogens
-- Kidney stone prevention supported by urinary citrate-increasing effects documented in clinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Digestive aid (Deepana-Pachana): traditionally used as a digestive aid. Clinical observations have reported carminative and stomachic effects.
+- Scurvy: traditionally used for scurvy and valued as a source of Vitamin C. Nutritional studies have reported it to be a source of Vitamin C.
+- Antimicrobial and preservative: traditionally used as an antimicrobial and preservative. Food science and MIC studies have reported activity against multiple pathogens.
+- Kidney stones: traditionally used for kidney stones. Clinical studies have reported an increase in urinary citrate.
 
 ## What do recent clinical trials show?
 

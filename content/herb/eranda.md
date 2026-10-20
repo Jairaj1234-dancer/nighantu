@@ -45,9 +45,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Purgative (Virechana) activity validated by clinical use and EP3 receptor-mediated mechanism in intestinal smooth muscle
-- Anti-arthritic use (Vatahara) supported by anti-inflammatory activity of ricinoleic acid through PPAR-gamma activation
-- Wound healing use confirmed by [antimicrobial](/reference/antimicrobial/) activity and promotion of granulation tissue formation in wound models
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Virechana (purgation): traditionally used as a purgative. Studies have reported an EP3 receptor-mediated action on intestinal smooth muscle.
+- Vatahara: traditionally used for arthritic conditions. Studies have reported anti-inflammatory activity of ricinoleic acid through PPAR-gamma activation.
+- Traditionally used for wounds. Studies have reported [antimicrobial](/reference/antimicrobial/) activity and the promotion of granulation tissue formation in wound models.
 
 ## What do recent clinical trials show?
 

@@ -39,10 +39,12 @@ Yoga Ratnakara (Agnimandya/Ajirna Chikitsa); also described in Bhaishajya Ratnav
 
 ## Which traditional uses are supported by research?
 
-- Non-ulcer dyspepsia management validated in clinical study showing significant symptom reduction after 2-week treatment
-- Flatulence and bloating relief validated through demonstrated carminative and antispasmodic pharmacological properties
-- Agnimandya (digestive impairment) correction validated through stimulation of gastric acid and enzyme secretion
-- Ama Pachana (toxin digestion) validated through hot potency-mediated mobilization and metabolism of accumulated toxins
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for non-ulcer dyspepsia. A clinical study reported a reduction in symptoms.
+- Traditionally used for flatulence and bloating. Pharmacological studies have reported carminative and antispasmodic properties.
+- Agnimandya (digestive impairment): traditionally used to correct impaired digestion.
+- Ama Pachana (toxin digestion): used in classical practice to digest accumulated toxins, an action traditionally attributed to its hot potency.
 
 ## What do recent clinical trials show?
 

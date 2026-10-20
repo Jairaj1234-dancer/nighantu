@@ -48,9 +48,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-- Bone fracture healing acceleration validated through human clinical trials and meta-analysis showing significant improvement in bone biomarkers, confirming premier Ayurvedic use as Asthi Sandhanaka (bone setter)
-- Anti-obesity and metabolic benefits validated through clinical studies showing weight and body fat reduction with CQR-300 extract supplementation
-- Analgesic and anti-inflammatory properties validated through in vivo studies, confirming traditional use in pain management and musculoskeletal conditions
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used as Asthi Sandhanaka (bone setter) for bone fractures. Clinical studies and a meta-analysis reported improvement in bone biomarkers.
+- Clinical studies have reported weight and body fat reduction with supplementation of an extract of the herb.
+- Traditionally used for pain and musculoskeletal conditions. In vivo studies have reported analgesic and anti-inflammatory activity.
 
 ## What do recent clinical trials show?
 

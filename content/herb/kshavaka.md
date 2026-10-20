@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Kshavaka (Amaranthus spinosus L.) is a plant drug, also called Tanduliya and Kamta caulai, from the Amaranthaceae family. Diuretic activity validated through pharmacological studies supporting traditional Ayurvedic use for Mutrakrichchhra (dysuria) and urinary disorders Anti-inflammatory and wound healing properties confirmed in preclinical models, supporting traditional topical use for skin conditions and wound management"
+answer: "Kshavaka (Amaranthus spinosus L.) is a plant drug, also called Tanduliya and Kamta caulai, from the Amaranthaceae family. Traditionally used in Ayurveda for Mutrakrichchhra (dysuria) and urinary disorders. Pharmacological studies have reported diuretic activity. Traditionally applied topically for skin conditions and wounds. Preclinical studies have reported anti-inflammatory activity and effects on wound repair."
 botanical: "Amaranthus spinosus L."
 family: "Amaranthaceae"
 sanskrit: ""
@@ -47,8 +47,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Diuretic activity validated through pharmacological studies supporting traditional Ayurvedic use for Mutrakrichchhra (dysuria) and urinary disorders
-- Anti-inflammatory and wound healing properties confirmed in preclinical models, supporting traditional topical use for skin conditions and wound management
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Mutrakrichchhra (dysuria): traditionally used in Ayurveda for Mutrakrichchhra and urinary disorders. Pharmacological studies have reported diuretic activity.
+- Skin conditions and wounds: traditionally applied topically. Preclinical studies have reported anti-inflammatory activity and effects on wound repair.
 
 ## What do recent clinical trials show?
 

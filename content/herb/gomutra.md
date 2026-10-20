@@ -46,9 +46,11 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-- Shodhana (purification of toxins/minerals): Validated as an effective medium for reducing heavy metal toxicity in Ayurvedic mineral preparations through chelation and chemical transformation
-- Bioenhancer (Yogavahi): US Patent and multiple studies confirm cow urine distillate enhances bioavailability of antibiotics, antifungals, and anti-tubercular drugs by 2-7 fold
-- Wound healing and skin diseases: Allantoin content and antimicrobial properties provide scientific basis for traditional topical applications
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Shodhana (purification of toxins/minerals): used in classical practice as a medium for purifying Ayurvedic mineral preparations. Studies have reported reduced heavy metal toxicity in these preparations, attributed to chelation and chemical transformation.
+- Bioenhancer (Yogavahi): traditionally used as a yogavahi. A US patent and several studies have reported that cow urine distillate increases the bioavailability of antibiotics, antifungals and anti-tubercular drugs.
+- Wounds and skin diseases: traditionally applied topically. Its allantoin content and antimicrobial properties have been reported.
 
 ## What do recent clinical trials show?
 

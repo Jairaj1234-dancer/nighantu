@@ -42,14 +42,16 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 ## How does it work?
 
 - Juglone induces apoptosis in cancer cells through reactive oxygen species (ROS) generation and mitochondrial membrane depolarization, activating caspase-3 and caspase-9 pathways
-- Ellagic acid and gallic acid [polyphenols](/glossary/compounds-o-q/#polyphenols) inhibit NF-kB signaling and reduce COX-2/LOX expression, providing anti-inflammatory effects validated in multiple in vivo models
+- Animal studies have reported anti-inflammatory effects of the [polyphenols](/glossary/compounds-o-q/#polyphenols) ellagic acid and gallic acid. These studies reported inhibition of NF-kB signaling and reduced COX-2/LOX expression.
 - Alpha-linolenic acid (ALA) reduces serum LDL-cholesterol and triglycerides via upregulation of hepatic LDL receptors and inhibition of HMG-CoA reductase, supporting cardiovascular protection
 
 ## Which traditional uses are supported by research?
 
-- [Antidiabetic](/reference/antidiabetic/) effects validated through clinical and preclinical studies showing improved glycemic control consistent with traditional Ayurvedic use of Akshotaka for Prameha (diabetes)
-- Anti-inflammatory and wound healing properties confirmed through in vitro and in vivo studies supporting traditional topical application of walnut bark and leaf preparations
-- [Neuroprotective](/reference/neuroprotective/) and cognitive benefits validated through clinical studies showing walnut consumption improves memory and cognitive function in elderly populations
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Akshotaka is traditionally used in Ayurveda for Prameha (diabetes). Clinical and preclinical studies have reported [Antidiabetic](/reference/antidiabetic/) effects, including improved glycemic control.
+- Walnut bark and leaf preparations are traditionally applied to the skin. In vitro and animal studies have reported anti-inflammatory and wound healing activity.
+- Clinical studies have reported [Neuroprotective](/reference/neuroprotective/) and cognitive benefits. They linked walnut consumption to improved memory and cognitive function in elderly people.
 
 ## What do recent clinical trials show?
 

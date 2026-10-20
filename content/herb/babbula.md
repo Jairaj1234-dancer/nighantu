@@ -50,10 +50,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-- Dental and oral hygiene use validated through antimicrobial activity against oral pathogens and gingival health studies (babool datun)
-- Anti-diarrheal use confirmed through castor oil-induced diarrhea models and tannin-mediated astringent action
-- Wound healing validated through antimicrobial, astringent and collagen synthesis promotion studies
-- Antidiabetic use supported by alpha-amylase inhibition and hypoglycemic effects in preclinical studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Traditionally used for dental and oral hygiene (babool datun). Studies have reported antimicrobial activity against oral pathogens.
+- Traditionally used for diarrhea. Animal studies using castor oil-induced diarrhea models have reported anti-diarrheal activity, attributed to the astringent action of tannins.
+- Traditionally used for wounds. Studies have reported antimicrobial and astringent activity and promotion of collagen synthesis.
+- Traditionally used for diabetes. Preclinical studies have reported alpha-amylase inhibition and hypoglycemic effects.
 
 ## What do recent clinical trials show?
 

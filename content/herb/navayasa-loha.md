@@ -40,8 +40,10 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 
 ## Which traditional uses are supported by research?
 
-- Iron deficiency anemia (Pandu Roga) - validated in multiple clinical and observational studies showing statistically significant increases in hemoglobin, PCV, and RBC count
-- General debility and weakness associated with anemia - clinical studies confirm improvement in energy levels, appetite, and overall vitality metrics
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Iron deficiency anemia (Pandu Roga): traditionally used for this condition. Clinical and observational studies have reported increases in hemoglobin, PCV, and RBC count.
+- General debility and weakness associated with anemia: traditionally used for this condition. Clinical studies have reported improvement in energy levels, appetite, and overall vitality.
 
 ## What do recent clinical trials show?
 

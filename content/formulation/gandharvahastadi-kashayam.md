@@ -38,10 +38,12 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 ## Which traditional uses are supported by research?
 
-- Constipation - validated by case series showing effective bowel regulation over 21 days
-- Flatulence and bloating - supported by digestive fire (Agni) enhancement mechanism
-- Vata disorders with low back pain - corroborated by anti-inflammatory properties of [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/)
-- Loss of appetite - supported by prokinetic action of Shunthi and Musta
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Constipation: traditionally used for constipation. A case series reported improved bowel regulation.
+- Flatulence and bloating: traditionally used for flatulence and bloating, to enhance digestive fire (Agni).
+- Vata disorders with low back pain: traditionally used for Vata disorders with low back pain. Its ingredients include [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/).
+- Loss of appetite: traditionally used for loss of appetite. Its ingredients include Shunthi and Musta.
 
 ## What do recent clinical trials show?
 

@@ -52,10 +52,12 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 ## Which traditional uses are supported by research?
 
-- Rajayakshma (phthisis/pulmonary tuberculosis): classical primary indication supported by respiratory-protective and nutritive actions of ingredients
-- Kshaya (debility/emaciation): anabolic and tissue-building properties validated pharmacologically for wasting diseases
-- Shwasa-Kasa (asthma and chronic cough): anti-inflammatory and mucosal soothing actions support respiratory use
-- Badhirya (hearing loss): recent case series validates broader therapeutic potential including auditory health
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- Rajayakshma (phthisis/pulmonary tuberculosis): used in classical practice as a primary indication.
+- Kshaya (debility/emaciation): traditionally used in wasting diseases. Pharmacological studies have reported anabolic and tissue-building properties.
+- Shwasa-Kasa (asthma and chronic cough): traditionally used for asthma and chronic cough.
+- Badhirya (hearing loss): a case series has reported its use in hearing loss.
 
 ## What do recent clinical trials show?
 

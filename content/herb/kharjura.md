@@ -48,17 +48,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and fertility enhancement (Vajikara) validated through spermatogenic studies with date palm pollen in animal models
-- [Expectorant](/reference/expectorant/) and antitussive use validated through demulcent and bronchodilatory effects in preclinical models
-- Nutritive tonic (Balya) use supported by rich mineral, vitamin and caloric profile documentation
-- [Laxative](/reference/laxative/) use validated through high dietary fiber content and bulk-forming mechanism studies
+*These summaries come from the source notes. The studies behind them are not identified on this page.*
+
+- [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and fertility enhancement (Vajikara): traditionally used as an aphrodisiac and to enhance fertility. Animal studies with date palm pollen have reported spermatogenic effects.
+- [Expectorant](/reference/expectorant/) and antitussive: traditionally used as an expectorant and antitussive. Preclinical studies have reported demulcent and bronchodilatory effects.
+- Nutritive tonic (Balya): traditionally used as a nutritive tonic. Its mineral, vitamin and caloric content has been documented.
+- [Laxative](/reference/laxative/): traditionally used as a laxative. It has a high dietary fiber content, and studies have described a bulk-forming mechanism.
 
 ## What do recent clinical trials show?
 
 - Qadir A, Shakeel F, Ali A and others 2020. [Phytotherapeutic potential and pharmaceutical impact of Phoenix dactylifera (date palm): current research and future prospects](https://pubmed.ncbi.nlm.nih.gov/32180616/). *Journal of food science and technology*. PMID [32180616](https://pubmed.ncbi.nlm.nih.gov/32180616/) · [doi:10.1007/s13197-019-04096-8](https://doi.org/10.1007/s13197-019-04096-8)  
   Comprehensive review confirmed [analgesic](/reference/analgesic/), anti-inflammatory, hepatoprotective, [anticancer](/reference/anticancer/), antioxidant, anti-proliferative, antifungal and antibacterial activities with identification of key polyphenolic and saponin fractions.
 - Mahomoodally MF, Khadaroo SK, Hosenally M and others 2024. [Nutritional, medicinal and functional properties of different parts of the date palm and its fruit (Phoenix dactylifera L.) - A systematic review](https://pubmed.ncbi.nlm.nih.gov/37070182/). *Critical reviews in food science and nutrition*. PMID [37070182](https://pubmed.ncbi.nlm.nih.gov/37070182/) · [doi:10.1080/10408398.2023.2191285](https://doi.org/10.1080/10408398.2023.2191285)  
-  Date palm pollen extract demonstrated significant fertility-enhancing effects in male rats with increased sperm count, motility and testosterone levels, validating traditional aphrodisiac use.
+  An animal study reported that date palm pollen extract increased sperm count, motility and testosterone levels in male rats. Date palm pollen is traditionally used as an aphrodisiac.
 
 *1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
 
