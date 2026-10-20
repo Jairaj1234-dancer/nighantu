@@ -119,7 +119,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 > Fenugreek is a herb that is widely used in cooking and as a traditional medicine for diabetes in Asia. It has been shown to acutely lower postprandial glucose levels, but the long-term effect on glycemia remains uncertain. We systematically reviewed clinical trials of the effect of fenugreek intake on markers of glucose homeostasis....
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Fakhr L, Chehregosha F, Zarezadeh M and others 2023. [Effects of fenugreek supplementation on the components of metabolic syndrome: A systematic review and dose-response meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/36470549/). *Pharmacological research*. PMID [36470549](https://pubmed.ncbi.nlm.nih.gov/36470549/) · [doi:10.1016/j.phrs.2022.106594](https://doi.org/10.1016/j.phrs.2022.106594)  
   Dose-response meta-analysis demonstrated beneficial effects of fenugreek supplementation on multiple metabolic syndrome components including glycemic and lipid parameters in randomized clinical trials.
@@ -132,7 +132,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 - Majeed M, Majeed S, Narayanan NK and others 2019. [A pilot, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of a novel Boswellia serrata extract in the management of osteoarthritis of the knee](https://pubmed.ncbi.nlm.nih.gov/30838706/). *Phytotherapy research : PTR*. PMID [30838706](https://pubmed.ncbi.nlm.nih.gov/30838706/) · [doi:10.1002/ptr.6338](https://doi.org/10.1002/ptr.6338)  
   Patented fenugreek seed extract demonstrated both safety and efficacy in T2DM patients in a rigorous randomized double-blind placebo-controlled design.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -149,7 +149,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

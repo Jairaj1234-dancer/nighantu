@@ -19,10 +19,9 @@ productHints: []
 words: 245
 srcRel: "_Hub/Pharmacology/Rasayana.md"
 ---
-*123 herbs and compounds with rasayana activity across traditions*
+*39 herbs and compounds with rasayana activity*
 
-## Ayurveda (110)
-
+## Ayurveda (39)
 - [Abhraka Bhasma](/herb/abhraka-bhasma/)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
 - [Aja Dugdha](/glossary/concepts-a-m/#aja-dugdha)

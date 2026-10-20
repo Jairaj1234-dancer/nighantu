@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a carminative and for flatulence. Pharmacological studies have reported [antispasmodic](/glossary/pharmacology/#antispasmodic) effects on gastrointestinal smooth muscle.
 - Traditionally used for dyspepsia and digestive disorders. Studies have reported increased digestive enzyme secretion.
@@ -55,12 +55,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 - Traditionally used for intestinal parasites and infections. In vitro studies have reported antimicrobial activity against multiple pathogens.
 - Traditionally used as an [analgesic](/reference/analgesic/) for abdominal and dental pain. Animal studies have reported antinociceptive effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Saraswat N, Sachan N, Chandra P 2021. [Acute and Sub-Acute Toxicity Studies and Pharmacodynamic Studies of Standardized Extract of Trachyspermum ammi (L.) Sprague (Fruits) Against Chemically Induced Inflammation in Rats](https://pubmed.ncbi.nlm.nih.gov/32957888/). *Current drug discovery technologies*. PMID [32957888](https://pubmed.ncbi.nlm.nih.gov/32957888/) · [doi:10.2174/1570163817999200918103041](https://doi.org/10.2174/1570163817999200918103041)  
   Standardized ajwain extract showed no toxicity in acute and sub-acute studies, while demonstrating significant anti-inflammatory action against chemically induced inflammation in rat models.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

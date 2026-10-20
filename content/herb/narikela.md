@@ -49,21 +49,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Mutraroga (urinary disorders): traditionally used for urinary disorders. Preclinical studies have reported [diuretic](/reference/diuretic/) and nephroprotective activity.
 - Wounds: [coconut oil](/glossary/concepts-a-m/#coconut-oil) is traditionally applied to wounds. Studies have reported antimicrobial activity and effects on epithelialization.
 - Rehydration: coconut water is traditionally used for rehydration. An analysis of its electrolyte composition reported it as comparable to ORS formulations.
 - Charma roga (skin disorders): traditionally used in skin care. Studies have reported emollient, antimicrobial and anti-inflammatory properties of virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bhardwaj V 2025. [Antimicrobial Potential of Cocos nucifera (Coconut) Oil on Bacterial Isolates](https://pubmed.ncbi.nlm.nih.gov/37594604/). *Advances in experimental medicine and biology*. PMID [37594604](https://pubmed.ncbi.nlm.nih.gov/37594604/) · [doi:10.1007/5584_2023_786](https://doi.org/10.1007/5584_2023_786)  
   [Coconut oil](/glossary/concepts-a-m/#coconut-oil) demonstrated significant antimicrobial activity attributed to lauric acid conversion to monolaurin, which disrupts bacterial cell membrane integrity through peptidoglycan mimicry.
 - Lima EB, Sousa CN, Meneses LN and others 2015. [Cocos nucifera (L.) (Arecaceae): A phytochemical and pharmacological review](https://pubmed.ncbi.nlm.nih.gov/26292222/). *Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas*. PMID [26292222](https://pubmed.ncbi.nlm.nih.gov/26292222/) · [doi:10.1590/1414-431X20154773](https://doi.org/10.1590/1414-431X20154773)  
   Confirmed antihelminthic, anti-inflammatory, antinociceptive, antioxidant, antifungal, [antitumor](/glossary/pharmacology/#antitumor), [antihypertensive](/glossary/pharmacology/#antihypertensive), cardioprotective and [hepatoprotective](/reference/hepatoprotective/) activities across various coconut-derived products.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

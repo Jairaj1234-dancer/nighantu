@@ -40,13 +40,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Rasayana](/reference/rasayana/)/Avaleha (semi-solid), Churna form, Capsules (modern)

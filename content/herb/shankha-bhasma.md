@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hyperacidity and GERD (Amlapitta): traditionally used for these conditions. A clinical study reported a reduction in GERD symptoms with lemon-purified [Shankha Bhasma](/herb/shankha-bhasma/).
 - Digestive disorders (Agnimandya, Ajirna): traditionally used as a digestive aid and antacid. A high acid neutralization capacity has been reported.
 - Calcium deficiency: traditionally used for bone health and Asthi Dhatu nourishment. It is described as containing marine-derived calcium.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chavan S, Tayade S, Gupta V and others 2018. [Pharmaceutical Standardization and Physicochemical Characterization of Traditional Ayurvedic Marine Drug: Incinerated Conch Shell (Shankha Bhasma)](https://pubmed.ncbi.nlm.nih.gov/30445775/). *Marine drugs*. PMID [30445775](https://pubmed.ncbi.nlm.nih.gov/30445775/) · [doi:10.3390/md16110450](https://doi.org/10.3390/md16110450)  
   Standardized compressed tablet form developed. Calcium content estimation and acid neutralization capacity confirmed strong antacid properties. Physicochemical parameters established for quality control.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

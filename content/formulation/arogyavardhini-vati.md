@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); recognized by AYUSH Ministry standards"
 aliases: ["Arogyavardhini Vati", "ArogyavardhiniVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 695
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Arogyavardhini-Vati/meta-analysis.md"
@@ -39,21 +39,21 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Fatty liver disease (NAFLD/AFLD): clinical and preclinical studies have reported a dose-dependent liver-protective action.
 - [Hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects: clinical trials have reported reductions in total cholesterol, LDL and triglycerides.
 - Kushtha (skin disease): traditionally used for skin conditions. Dermatological studies have reported anti-inflammatory and blood-purifying activity.
 - Agni deepana (digestive fire enhancement): traditionally used to kindle digestion. Clinical observations have reported improved appetite and digestive enzyme secretion.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jamadagni S, Jamadagni P, Angom B and others 2020. [Tissue distribution of mercury and copper after Aarogyavardhini Vati treatment in rat model of CCl(4) induced chronic hepatotoxicity](https://pubmed.ncbi.nlm.nih.gov/32035767/). *Journal of Ayurveda and integrative medicine*. PMID [32035767](https://pubmed.ncbi.nlm.nih.gov/32035767/) · [doi:10.1016/j.jaim.2019.09.005](https://doi.org/10.1016/j.jaim.2019.09.005)  
   [Arogyavardhini Vati](/formulation/arogyavardhini-vati/) did not exhibit biologically significant toxicity from mercury or copper content when administered for prolonged duration in rats with chronic hepatotoxicity, supporting traditional safety claims at recommended doses.
 - Kumar G, Srivastava A, Sharma SK and others 2012. [Safety and efficacy evaluation of Ayurvedic treatment (Arjuna powder and Arogyavardhini Vati) in dyslipidemia patients: A pilot prospective cohort clinical study](https://pubmed.ncbi.nlm.nih.gov/23559790/). *Ayu*. PMID [23559790](https://pubmed.ncbi.nlm.nih.gov/23559790/) · [doi:10.4103/0974-8520.105238](https://doi.org/10.4103/0974-8520.105238)  
   Pilot prospective cohort study demonstrated hypolipidemic activity comparable to fenofibrate in Triton WR-1339-induced hyperlipidemic models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -65,7 +65,7 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Dosage Forms:** Vati (tablet/pill), Modern compressed tablet, Capsule (modern)
 
-**Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. This replaces a previously stated 125-250 mg, which carried no source. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
+**Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
 
 **Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine, particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer). [Aloe vera](/herb/aloe-vera/) juice bhavana improves hepatoprotective compound delivery.
 

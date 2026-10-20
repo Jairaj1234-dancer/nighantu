@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Toothache and dental pain: traditionally used for toothache and dental pain. Eugenol is used in dental practice as an analgesic and antiseptic.
 - Oral infections and wounds: traditionally used for oral infections and wound care. In vitro and clinical studies have reported broad-spectrum antimicrobial activity, including against multidrug-resistant bacteria.
@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 - Joint and muscle pain: traditionally used for joint and muscle pain. Studies have reported COX-2 inhibition and reduced inflammatory markers.
 - Cough and sore throat: traditionally used for cough and sore throat. Studies have reported [expectorant](/reference/expectorant/) and antimicrobial activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Yimsoo T, Taychaworaditsakul W, Chuntakaruk H and others 2026. [Antitumor Activity of the Ethanolic Extract from Syzygium aromaticum in Colorectal Cancer Xenograft Mice](https://pubmed.ncbi.nlm.nih.gov/41599187/). *Pharmaceutics*. PMID [41599187](https://pubmed.ncbi.nlm.nih.gov/41599187/) · [doi:10.3390/pharmaceutics18010079](https://doi.org/10.3390/pharmaceutics18010079)  
   Demonstrated anticancer efficacy of clove extract rich in gallic acid, ellagic acid, and eugenol in colorectal cancer xenograft models, with significant tumor growth inhibition and induction of apoptosis.

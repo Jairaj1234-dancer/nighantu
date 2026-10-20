@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for liver disorders. In vivo studies have reported hepatoprotective activity, and research has looked at the NRF2 pathway.
 - Traditionally applied as a topical oil in Abhyanga. Pharmacological studies have reported anti-inflammatory and wound healing properties.
 - Used in Ayurveda for heart health and as a [Rasayana](/reference/rasayana/). Clinical and preclinical studies have reported cholesterol-lowering and [cardioprotective](/reference/cardioprotective/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sumbul, Sultana A, Heyat MBB and others 2024. [Efficacy and classification of Sesamum indicum linn seeds with Rosa damascena mill oil in uncomplicated pelvic inflammatory disease using machine learning](https://pubmed.ncbi.nlm.nih.gov/38629105/). *Frontiers in chemistry*. PMID [38629105](https://pubmed.ncbi.nlm.nih.gov/38629105/) · [doi:10.3389/fchem.2024.1361980](https://doi.org/10.3389/fchem.2024.1361980)  
   Clinical study demonstrated therapeutic efficacy and safety of sesame seeds with Rosa damascena oil in uncomplicated pelvic inflammatory disease, with machine learning analysis for patient classification.
 - Wei P, Zhao F, Wang Z and others 2022. [Sesame (Sesamum indicum L.): A Comprehensive Review of Nutritional Value, Phytochemical Composition, Health Benefits, Development of Food, and Industrial Applications](https://pubmed.ncbi.nlm.nih.gov/36235731/). *Nutrients*. PMID [36235731](https://pubmed.ncbi.nlm.nih.gov/36235731/) · [doi:10.3390/nu14194079](https://doi.org/10.3390/nu14194079)  
   Extensive review documenting sesamin and sesamolin as key bioactive [lignans](/glossary/compounds-g-l/#lignans) with proven antioxidant, antimutagenic, estrogenic, anti-inflammatory, [antimicrobial](/reference/antimicrobial/), and [hypolipidemic](/glossary/pharmacology/#hypolipidemic) properties.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

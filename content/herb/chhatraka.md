@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Antidiabetic](/reference/antidiabetic/) activity: animal studies have reported insulin-releasing and insulin-like effects in diabetic animal models.
 - [Immunomodulatory](/reference/immunomodulatory/) and [rasayana](/reference/rasayana/) (rejuvenating) properties: traditionally described in Ayurveda as a strength-promoting food. Research on beta-glucans has reported immunomodulatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gray AM, Flatt PR 1998. [Insulin-releasing and insulin-like activity of Agaricus campestris (mushroom)](https://pubmed.ncbi.nlm.nih.gov/9659289/). *The Journal of endocrinology*. PMID [9659289](https://pubmed.ncbi.nlm.nih.gov/9659289/) · [doi:10.1677/joe.0.1570259](https://doi.org/10.1677/joe.0.1570259)  
   An animal study reported that A. campestris showed antihyperglycaemic, insulin-releasing and insulin-like activity and lowered hyperglycemia in streptozotocin-diabetic mice.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for arthritic and inflammatory conditions. Animal studies in rodent arthritis models have reported reduced swelling.
 - Hridya (cardiotonic): traditionally used as a heart tonic. Research has reported cardioprotective activity, with reduced myocardial oxidative stress.
 - Traditionally used for wounds. Studies in excision wound models have reported increased fibroblast proliferation and collagen synthesis.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Warrier RR, Priya SM, Kalaiselvi R 2021. [Gmelina arborea- an indigenous timber species of India with high medicinal value: A review on its pharmacology, pharmacognosy and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33217516/). *Journal of ethnopharmacology*. PMID [33217516](https://pubmed.ncbi.nlm.nih.gov/33217516/) · [doi:10.1016/j.jep.2020.113593](https://doi.org/10.1016/j.jep.2020.113593)  
   Identified 69 phytochemicals including lignans, iridoid glycosides, flavonoids, and flavone glycosides; confirmed multiple pharmacological activities in vitro and in vivo.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

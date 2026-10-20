@@ -73,7 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Acne (Yauvanpidika): traditionally used for acne. A clinical study reported reduced inflammatory acne in participants using a [neem](/herb/neem/) face wash.
 - Fungal skin infections (Dadru/Kushtha): traditionally used for fungal skin infections. Research has reported broad-spectrum antifungal activity against dermatophytes and Malassezia.
@@ -90,14 +90,14 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 - Sushruta Samhita
 - Bhavaprakasha Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gopinath H, Karthikeyan K 2021. [Neem in Dermatology: Shedding Light on the Traditional Panacea](https://pubmed.ncbi.nlm.nih.gov/35283494/). *Indian journal of dermatology*. PMID [35283494](https://pubmed.ncbi.nlm.nih.gov/35283494/) · [doi:10.4103/ijd.ijd_562_21](https://doi.org/10.4103/ijd.ijd_562_21)  
   Comprehensive dermatology review confirmed [neem](/herb/neem/)'s efficacy in treating acne, eczema, psoriasis, warts, and fungal infections through anti-inflammatory, antimicrobial, and antioxidant mechanisms, while noting the need for more rigorous clinical trials.
 - Dani PB, Ghorpade VK 2025. [Effect of Neem Leaf Paste Application on Dandruff](https://pubmed.ncbi.nlm.nih.gov/40242687/). *Cureus*. PMID [40242687](https://pubmed.ncbi.nlm.nih.gov/40242687/) · [doi:10.7759/cureus.80685](https://doi.org/10.7759/cureus.80685)  
   A clinical study reported that applying neem leaf paste reduced dandruff symptoms. Neem is traditionally used for scalp conditions, including those linked to Malassezia species.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

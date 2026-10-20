@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Modified form listed in Ayurveda Formulary of India (AFI). Primary reference in Kerala Vaidya Chikitsamanjari tradition. Manufactured by licensed Kerala Ayurvedic pharmacies under GMP standards. One of the most commonly used first-aid oils in Kerala traditional medicine."
 aliases: []
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 548
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Murivenna/meta-analysis.md"
@@ -48,17 +48,17 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Wounds and minor trauma: traditionally used for wound care and minor injuries. An in vivo study reported increased collagen deposition. Another study reported faster wound closure than control.
 - Fracture support and soft tissue trauma (sprain, dislocation): traditionally used for these conditions. A randomized controlled trial reported reduced pain after Murivenna massage for ankle sprains.
 - Episiotomy wound care: traditionally used for episiotomy wounds. A clinical study reported reduced pain and tenderness in postpartum episiotomy wounds.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

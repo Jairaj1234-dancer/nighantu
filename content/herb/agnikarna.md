@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vatarakta (gout and arthritic conditions): traditionally used for gout and arthritic conditions.
 - Kushtha (wounds and skin diseases): traditionally used for wounds and skin diseases. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 - Prasava-janana (labor induction): used in classical practice as a uterine stimulant to induce labor. This use is dangerous. Colchicine is a known uterine stimulant, and use is strictly contraindicated without medical supervision.
 - Krimighna (anthelmintic): traditionally used against worms. In vitro studies have reported antiparasitic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Pandey DK, Kaur P, Kumar V and others 2021. [Screening the elite chemotypes of Gloriosa superba L. in India for the production of anticancer colchicine: simultaneous microwave-assisted extraction and HPTLC studies](https://pubmed.ncbi.nlm.nih.gov/33546591/). *BMC plant biology*. PMID [33546591](https://pubmed.ncbi.nlm.nih.gov/33546591/) · [doi:10.1186/s12870-021-02843-8](https://doi.org/10.1186/s12870-021-02843-8)  
   Identified elite chemotypes across India with highest colchicine content through HPTLC analysis, establishing parameters for sustainable medicinal sourcing of this endangered species.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

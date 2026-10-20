@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Paclitaxel, a plant-derived anticancer drug from this plant, is used globally in ovarian, breast and lung cancer and in Kaposi's sarcoma.
 - Used in classical practice, under strict supervision, for kapha-pacifying indications described in classical texts. Anti-inflammatory and [analgesic](/reference/analgesic/) properties have been described in the Ayurvedic context.
 - Traditional use requires extreme caution. Pharmacological activity has been reported, but the therapeutic window is extremely narrow. Unsupervised use can be fatal.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Dumitraş DA, Bunea A, Vodnar DC and others 2022. [Phytochemical Characterization of Taxus baccata L. Aril with Emphasis on Evaluation of the Antiproliferative and Pro-Apoptotic Activity of Rhodoxanthin](https://pubmed.ncbi.nlm.nih.gov/35739936/). *Antioxidants (Basel, Switzerland)*. PMID [35739936](https://pubmed.ncbi.nlm.nih.gov/35739936/) · [doi:10.3390/antiox11061039](https://doi.org/10.3390/antiox11061039)  
   Rhodoxanthin carotenoid isolated from yew aril demonstrated antiproliferative and pro-apoptotic activity against cancer cell lines, identifying a novel bioactive compound beyond taxanes.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

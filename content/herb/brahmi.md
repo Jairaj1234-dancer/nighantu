@@ -80,7 +80,7 @@ Named after Brahma (creator god) for its intellect-enhancing properties. One of 
 - Sushruta Samhita
 - Bhavaprakasha Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Lopresti AL, Smith SJ 2025. [The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/41091332/). *Clinical drug investigation*. PMID [41091332](https://pubmed.ncbi.nlm.nih.gov/41091332/) · [doi:10.1007/s40261-025-01492-1](https://doi.org/10.1007/s40261-025-01492-1)  
   12-week supplementation did not show greater cognitive performance improvement vs placebo, but significantly reduced self-reported stress reactivity and fatigue after cognitive-demanding tasks.
@@ -91,7 +91,7 @@ Named after Brahma (creator god) for its intellect-enhancing properties. One of 
 - Sushma, Sahu MR, Murugan NA and others 2024. [Amelioration of Amyloid-β Induced Alzheimer's Disease by Bacopa monnieri through Modulation of Mitochondrial Dysfunction and GSK-3β/Wnt/β-Catenin Signaling](https://pubmed.ncbi.nlm.nih.gov/38143280/). *Molecular nutrition & food research*. PMID [38143280](https://pubmed.ncbi.nlm.nih.gov/38143280/) · [doi:10.1002/mnfr.202300245](https://doi.org/10.1002/mnfr.202300245)  
   Bacopa monnieri demonstrated significant amelioration of amyloid-beta-induced Alzheimer's pathology via mitochondrial function restoration and GSK-3beta/Wnt/beta-catenin pathway modulation.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

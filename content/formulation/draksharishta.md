@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Approved in the National Formulary of Ayurvedic Medicine (Bangladesh, 2011). Referenced in Ayurvedic Pharmacopoeia of India. Quality standards documented though comprehensive safety evaluation methods are still being established."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 619
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Draksharishta/meta-analysis.md"
@@ -39,21 +39,21 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anti-inflammatory and analgesic activity: animal studies using carrageenan-induced paw edema and acetic acid writhing models have reported anti-inflammatory and analgesic effects.
 - General debility and convalescence: traditionally used for general debility and during convalescence. Clinical observations have reported improved appetite and energy.
 - Digestive impairment: traditionally used for digestive impairment. Early research has reported modulation of digestive enzymes.
 - Antioxidant markers: TLC profiling has reported the presence of [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and catechin.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kabir AU, Samad MB, D Costa NM and others 2012. [Investigation of the central and peripheral analgesic and anti-inflammatory activity of Draksharishta an Indian Ayurvedic formulation](https://pubmed.ncbi.nlm.nih.gov/24826047/). *Journal of basic and clinical pharmacy*. PMID [24826047](https://pubmed.ncbi.nlm.nih.gov/24826047/) · [doi:10.4103/0976-0105.105335](https://doi.org/10.4103/0976-0105.105335)  
   Carrageenan-induced paw edema and acetic acid writhing tests showed significant results (P < 0.05), indicating peripheral analgesic and anti-inflammatory action. DRK significantly suppressed inflammatory pain (P < 0.05) but not neurogenic pain.
 - Pillai D, Pandita N 2016. [Determination of Quality Standards for Draksharishta, a Polyherbal Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/27168691/). *Indian journal of pharmaceutical sciences*. PMID [27168691](https://pubmed.ncbi.nlm.nih.gov/27168691/) · [doi:10.4103/0250-474x.180262](https://doi.org/10.4103/0250-474x.180262)  
   TLC profiling identified gallic acid, catechin, and [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) as key bioactive markers. Established physicochemical quality standards including pH, specific gravity, alcohol content, total solids, and reducing sugars.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

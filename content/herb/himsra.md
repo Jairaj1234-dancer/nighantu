@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hepatoprotective (Yakrit-hara): traditionally used to protect the liver. It is a key ingredient in Liv.52. Clinical studies have reported protection against drug-induced and alcoholic liver damage.
 - Antidiabetic (Prameha-hara): traditionally used for prameha. A clinical trial reported reductions in blood glucose and HbA1c.
 - Anti-inflammatory and [analgesic](/reference/analgesic/) (Vedana-sthapana): traditionally used to ease pain. Preclinical studies in several anti-inflammatory models have reported anti-inflammatory activity.
 - Digestive stimulant (Rochana): traditionally used as an appetizer. Clinical observations have reported improved appetite.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Alsharif B, Boylan F 2025. [Capparis L. (Capparaceae): A Scoping Review of Phytochemistry, Ethnopharmacology and Pharmacological Activities](https://pubmed.ncbi.nlm.nih.gov/41011598/). *Molecules (Basel, Switzerland)*. PMID [41011598](https://pubmed.ncbi.nlm.nih.gov/41011598/) · [doi:10.3390/molecules30183705](https://doi.org/10.3390/molecules30183705)  
   A scoping review covering the entire genus documented the diversity of bioactive compounds and their reported pharmacological activities, including antidiabetic and [anticancer](/reference/anticancer/) potential.
 - Yousefi E, Abedi M, Aghajanzadeh TA and others 2025. [Caper bush (Capparis spinosa L.) bioactive compounds and antioxidant capacity as affected by adaptation to harsh soils](https://pubmed.ncbi.nlm.nih.gov/40195406/). *Scientific reports*. PMID [40195406](https://pubmed.ncbi.nlm.nih.gov/40195406/) · [doi:10.1038/s41598-025-97298-4](https://doi.org/10.1038/s41598-025-97298-4)  
   Demonstrated that caper plants adapted to harsh soil conditions maintain high levels of bioactive compounds including [glucosinolates](/glossary/compounds-d-g/#glucosinolates), phenolics, and flavonoids with strong antioxidant capacity.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

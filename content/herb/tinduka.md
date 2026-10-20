@@ -49,21 +49,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as an astringent and for diarrhea. Analytical studies have reported tannin content in the plant.
 - Traditionally used for wounds and ulcers. Preclinical studies have reported [antimicrobial](/reference/antimicrobial/) activity and wound-healing activity.
 - Studied for anticancer potential. In vitro cytotoxicity assays have reported cytotoxic activity, and it has been examined in NSCLC immunotherapy research.
 - Traditionally used for oral health, as a gargle for sore throat. Laboratory studies have reported antimicrobial and astringent properties of fruit extracts.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bhootra S, Jill N, Rajak R and others 2023. [Diospyros malabarica fruit preparation mediates immunotherapeutic modulation and epigenetic regulation to evoke protection against non-small cell lung cancer (NSCLC)](https://pubmed.ncbi.nlm.nih.gov/37149067/). *Journal of ethnopharmacology*. PMID [37149067](https://pubmed.ncbi.nlm.nih.gov/37149067/) · [doi:10.1016/j.jep.2023.116525](https://doi.org/10.1016/j.jep.2023.116525)  
   Fruit preparation showed significant anticancer activity against NSCLC through immunomodulation and epigenetic regulation, demonstrating histone modification and immune cell activation in tumor microenvironment.
 - Rauf A, Akram Z, Hafeez N and others 2024. [Anticancer therapeutic potential of genus Diospyros: From phytochemistry to clinical applications-A review](https://pubmed.ncbi.nlm.nih.gov/39479648/). *Food science & nutrition*. PMID [39479648](https://pubmed.ncbi.nlm.nih.gov/39479648/) · [doi:10.1002/fsn3.4375](https://doi.org/10.1002/fsn3.4375)  
   Genus-level review identified diospyrin and betulinic acid as potent anticancer compounds with activity against breast, lung, cervical and hepatocellular carcinoma cell lines through apoptosis induction.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

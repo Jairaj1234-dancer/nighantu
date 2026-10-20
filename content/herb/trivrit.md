@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Virechana (purgation): traditionally used as a purgative. Animal studies have reported stimulation of colonic peristalsis and fluid secretion.
 - Krimighna (anti-helminthic): traditionally used against intestinal worms. In vitro studies have reported activity against intestinal parasites, including Ascaris and Taenia species.
 - Anti-inflammatory use: traditionally used for inflammation. An animal study using a carrageenan-induced edema model reported COX-2 and iNOS inhibition linked to scopoletin and lupeol.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gupta S, Ved A 2017. [Operculina turpethum (Linn.) Silva Manso as a Medicinal Plant Species: A Review on Bioactive Components and Pharmacological Properties](https://pubmed.ncbi.nlm.nih.gov/28989252/). *Pharmacognosy reviews*. PMID [28989252](https://pubmed.ncbi.nlm.nih.gov/28989252/) · [doi:10.4103/phrev.phrev_6_17](https://doi.org/10.4103/phrev.phrev_6_17)  
   Documented [antimicrobial](/reference/antimicrobial/), antihepatotoxic, antinephrotoxic, antiulcer, antidiarrheal, [antidiabetic](/reference/antidiabetic/), cytotoxic, [analgesic](/reference/analgesic/), anti-arthritic, and anti-inflammatory activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

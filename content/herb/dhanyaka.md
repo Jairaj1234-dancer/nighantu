@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Deepana-Pachana: traditionally used in digestive disorders (Agnimandya). Clinical and preclinical studies have reported digestive and carminative activity.
 - Traditionally used as a cooling and calming herb. Animal studies have reported a dose-dependent reduction in anxiety markers.
 - Prameha (diabetes): traditionally used in Prameha. In vivo studies and some clinical studies have reported hypoglycemic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chaurasia PK, Bharati SL 2025. [Coriander: A holistic outlook on its chemistry and pharmacology](https://pubmed.ncbi.nlm.nih.gov/39719783/). *Food chemistry*. PMID [39719783](https://pubmed.ncbi.nlm.nih.gov/39719783/) · [doi:10.1016/j.foodchem.2024.142444](https://doi.org/10.1016/j.foodchem.2024.142444)  
   Holistic review documenting the full phytochemical spectrum including essential oils, flavonoids, phenolic compounds, and fatty acids, with emphasis on pharmacological mechanisms and drug delivery advancements.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Kaempferol.md"
 group: ""
-answer: "Kaempferol is a reference entry in the Nighantu. Found in 91 entries across the catalogue."
+answer: "Kaempferol is a reference entry in the Nighantu. Found in 63 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 370
 srcRel: "_Hub/Compounds/Kaempferol.md"
 ---
-*Found in 91 entries across the catalogue*
+*Found in 63 entries*
 
 ## Ayurveda
 

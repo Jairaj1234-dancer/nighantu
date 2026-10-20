@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a bowel stimulant (Virechana dravya). Clinical studies and pharmacological research have reported laxative activity.
 - Traditionally used beyond purgation. In vitro studies have reported antimicrobial activity against several bacterial and fungal strains.
 - Preclinical studies have reported anti-inflammatory activity, though this is not the primary traditional use.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Alshehri MM, Quispe C, Herrera-Bravo J and others 2022. [A Review of Recent Studies on the Antioxidant and Anti-Infectious Properties of Senna Plants](https://pubmed.ncbi.nlm.nih.gov/35154569/). *Oxidative medicine and cellular longevity*. PMID [35154569](https://pubmed.ncbi.nlm.nih.gov/35154569/) · [doi:10.1155/2022/6025900](https://doi.org/10.1155/2022/6025900)  
   Documented significant antioxidant and anti-infectious properties of Senna species beyond traditional laxative use, with potential applications in antimicrobial therapy.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

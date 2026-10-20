@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Shwasa-Kasahara: traditionally used for asthma. Animal studies using an ovalbumin-induced asthma model have reported reduced bronchial inflammation and IgE.
 - Traditionally used as an anti-inflammatory for joint disorders. Animal studies have reported inhibition of carrageenan-induced edema.
 - Traditionally used to protect the liver. Animal studies in CCl4-induced hepatotoxicity models have reported normalization of liver [enzymes](/glossary/compounds-d-g/#enzymes).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Arora P, Ansari SH, Nainwal LM 2022. [Clerodendrum serratum extract attenuates production of inflammatory mediators in ovalbumin-induced asthma in rats](https://pubmed.ncbi.nlm.nih.gov/38143476/). *Turkish journal of chemistry*. PMID [38143476](https://pubmed.ncbi.nlm.nih.gov/38143476/) · [doi:10.3906/kim-2107-22](https://doi.org/10.3906/kim-2107-22)  
   Ethanolic root extract significantly diminished infiltration of inflammatory cells, IgE, cytokines, and nitrites in blood serum and bronchoalveolar fluid in OVA-induced asthma model.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

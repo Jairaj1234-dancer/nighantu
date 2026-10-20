@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Pharmacopoeia of India (API); enlisted under National List of Essential Ayush Medicines (Ministry of Ayush, Government of India, January 2022); standardized per API norms by GMP-certified manufacturers"
 aliases: ["Kalyanaka Ghritam", "KalyanakaGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 445
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Kalyanaka-Ghritam/meta-analysis.md"
@@ -39,16 +39,16 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Unmada (psychosis/schizophrenia): traditionally used for unmada. Clinical studies have reported improvement in psychiatric conditions including OCD.
 - Cognitive deficit in children: traditionally used for cognitive support in children. A prospective clinical study reported on its safety and on cognitive improvement in children.
 - Fertility enhancement: traditionally used for both male (sperm quality) and female (ovum quality) fertility.
 - Apasmara (epilepsy): used in classical practice for apasmara. Pharmacological studies have reported anticonvulsant properties in its ingredients.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -60,7 +60,7 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Dosage Forms:** Ghritam (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 12 g twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
+**Standard Dosage:** 12 g twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
 **Bioavailability:** Identical to Kalyanaka Ghrita. Ghee matrix provides superior absorption of both lipophilic and hydrophilic herbal actives. Enhanced CNS penetration for neurological indications.
 

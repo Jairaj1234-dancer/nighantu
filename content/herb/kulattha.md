@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Used in classical practice for Ashmari (renal calculi). In vitro and in vivo studies have reported anti-urolithiatic (kidney stone dissolving) activity.
 - Traditionally used for Prameha. Enzyme inhibition studies and in vivo blood [glucose](/glossary/compounds-d-g/#glucose) studies have reported antidiabetic potential.
 - Traditionally used for Shwasa (respiratory conditions). Preliminary studies have reported bronchodilatory and anti-asthmatic properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Oli P, Joshi K, Punetha S 2024. [Traditional uses, phytochemistry, pharmacology, and nutraceutical potential of horse gram (Macrotyloma uniflorum): A systematic review](https://pubmed.ncbi.nlm.nih.gov/39656760/). *Journal of food science*. PMID [39656760](https://pubmed.ncbi.nlm.nih.gov/39656760/) · [doi:10.1111/1750-3841.17594](https://doi.org/10.1111/1750-3841.17594)  
   Comprehensive systematic review documenting antioxidant, antidiabetic, anti-inflammatory, anticarcinogenic, [antimicrobial](/reference/antimicrobial/), antidiarrheal, and [neuroprotective](/reference/neuroprotective/) effects of horse gram bioactive compounds.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

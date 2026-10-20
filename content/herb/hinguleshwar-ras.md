@@ -33,19 +33,19 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cough and cold (Kasa-Pratishyaya): traditionally used for cough and cold. The formulation includes cinnabar and [Pippali](/herb/pippali/).
 - Respiratory congestion: traditionally used in respiratory disorders. The formulation combines [Pippali](/herb/pippali/) with ingredients traditionally regarded as [expectorant](/reference/expectorant/) and anti-inflammatory.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Liu J, Shi JZ, Yu LM and others 2008. [Mercury in traditional medicines: is cinnabar toxicologically similar to common mercurials?](https://pubmed.ncbi.nlm.nih.gov/18445765/). *Experimental biology and medicine (Maywood, N.J.)*. PMID [18445765](https://pubmed.ncbi.nlm.nih.gov/18445765/) · [doi:10.3181/0712-MR-336](https://doi.org/10.3181/0712-MR-336)  
   Cinnabar (HgS) is insoluble and poorly absorbed from the GI tract. Absorbed mercury from cinnabar accumulates mainly in kidneys, resembling inorganic mercury disposition. In risk assessment, cinnabar is less toxic than many other forms of mercury. Adverse effects at therapeutic doses of sulfide drugs like cinnabar are rare, generally reversible and tolerable.
 - Jain A, Sarsaiya S, Wu Q and others 2019. [New insights and rethinking of cinnabar for chemical and its pharmacological dynamics](https://pubmed.ncbi.nlm.nih.gov/31431119/). *Bioengineered*. PMID [31431119](https://pubmed.ncbi.nlm.nih.gov/31431119/) · [doi:10.1080/21655979.2019.1652491](https://doi.org/10.1080/21655979.2019.1652491)  
   Cinnabar after traditional Shodhana significantly reduces heavy metal levels to safe limits. The processed HgS form has sedative, hypnotic, and anti-anxiety properties potentially related to GABAergic system modulation.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

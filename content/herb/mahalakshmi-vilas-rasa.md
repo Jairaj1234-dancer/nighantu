@@ -33,12 +33,12 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Upper respiratory disorders (Urdhwa Jatrugata Roga): traditionally used for rhinitis, sinusitis, and respiratory infections. The formulation includes [camphor](/herb/camphor/) and nutmeg.
 - Rheumatoid arthritis (Amavata): traditionally used for this condition. The formulation has a multi-mineral composition that includes gold bhasma.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Srikanth N, Singh A, Ota S and others 2019. [Chemical characterization of an Ayurvedic herbo-mineral preparation- Mahalaxmivilas Rasa](https://pubmed.ncbi.nlm.nih.gov/30466809/). *Journal of Ayurveda and integrative medicine*. PMID [30466809](https://pubmed.ncbi.nlm.nih.gov/30466809/) · [doi:10.1016/j.jaim.2018.01.002](https://doi.org/10.1016/j.jaim.2018.01.002)  
   Elemental analysis confirmed presence of Mercury, Sulfur, Calcium, Copper, Gold, Iron & Tin. Identified cinnabar (HgS), cassiterite (SnO2), orpiment (As2S3), and mica. Drug was tested for residual pesticides and microbiological contamination, found within permissible limits. Provided analytical characterization data for quality standardization.

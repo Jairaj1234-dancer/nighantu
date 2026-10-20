@@ -19,10 +19,9 @@ productHints: []
 words: 295
 srcRel: "_Hub/Pharmacology/Cardioprotective.md"
 ---
-*82 herbs and compounds with cardioprotective activity across traditions*
+*37 herbs and compounds with cardioprotective activity*
 
 ## Ayurveda (37)
-
 - [Aja Dugdha Goat Milk](/herb/aja-dugdha-goat-milk/)
 - [Alabu](/herb/alabu/), *Lagenaria siceraria (Molina) Standl.*
 - [Amalaki Rasayana](/formulation/amalaki-rasayana/)

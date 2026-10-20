@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridayam and Sharangadhara Samhita. Standardization study (PMC 2013) established physicochemical and chromatographic quality parameters. Manufactured under GMP standards."
 aliases: ["Shadbindu Taila", "ShadbinduTaila"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 552
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Shadbindu-Taila/meta-analysis.md"
@@ -38,18 +38,18 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic sinusitis and nasal polyps: traditionally used as Nasya for chronic sinusitis and nasal polyps. A clinical study reported improvement in sinusitis symptoms after Nasya administration.
 - Headache and migraine (Shirahshula): traditionally used for headache and migraine. The formulation contains kaempferol and [Tagara](/herb/tagara/), and HPTLC analysis has reported the presence of [valepotriates](/glossary/compounds-t-z/#valepotriates).
 - Hair loss and premature greying: traditionally used for hair loss and premature greying through scalp and nasal administration. The base is [Bhringraj](/herb/bhringraj/) juice, which contains [wedelolactone](/glossary/compounds-t-z/#wedelolactone) compounds.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Shailajan S, Menon SN, Tiwari BR and others 2013. [Standardization of Shadbindu Taila: An Ayurvedic oil based medicine](https://pubmed.ncbi.nlm.nih.gov/24049414/). *Ayu*. PMID [24049414](https://pubmed.ncbi.nlm.nih.gov/24049414/) · [doi:10.4103/0974-8520.115442](https://doi.org/10.4103/0974-8520.115442)  
   Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

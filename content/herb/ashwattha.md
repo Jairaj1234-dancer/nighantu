@@ -51,19 +51,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Animal studies have reported lower blood [glucose](/glossary/compounds-d-g/#glucose) in alloxan-induced diabetic models.
 - Preclinical studies have reported faster epithelialization and increased tensile strength in wound models.
 - Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects in carrageenan-induced paw edema and acetic acid-induced writhing models.
 - [Antimicrobial](/reference/antimicrobial/) activity against Staphylococcus aureus, E. coli, and Candida albicans has been reported in in vitro studies using disc diffusion and MIC assays.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chen M, Liu J, Zou S and others 2025. [A review on the ethnopharmacology, metabolites, pharmacological uses, and toxicology of Ficus hirta (Moraceae) Vahl](https://pubmed.ncbi.nlm.nih.gov/40385474/). *Frontiers in pharmacology*. PMID [40385474](https://pubmed.ncbi.nlm.nih.gov/40385474/) · [doi:10.3389/fphar.2025.1545348](https://doi.org/10.3389/fphar.2025.1545348)  
   Identified novel phenolic sesquiterpenes, furanocoumarins and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) with potent anti-inflammatory and neuroprotective mechanisms across Ficus species including F. religiosa.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

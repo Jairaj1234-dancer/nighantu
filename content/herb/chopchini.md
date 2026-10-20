@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic skin diseases (eczema, psoriasis): traditionally used for these conditions. Studies have reported anti-inflammatory and immunomodulatory activity, involving NF-kB and T-cell modulation.
 - Syphilis-related skin manifestations: traditionally used for these skin signs. Studies have reported antimicrobial activity against various pathogens. Modern antibiotics have replaced this use.
 - Blood purification for skin clarity: traditionally used to purify the blood for clearer skin. Studies have reported [hepatoprotective](/reference/hepatoprotective/) and detoxification-enhancing properties for its saponins and polyphenols.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Wang M, Bai QX, Zheng XX and others 2024. [Smilax china L.: A review of its botany, ethnopharmacology, phytochemistry, pharmacological activities, actual and potential applications](https://pubmed.ncbi.nlm.nih.gov/37541403/). *Journal of ethnopharmacology*. PMID [37541403](https://pubmed.ncbi.nlm.nih.gov/37541403/) · [doi:10.1016/j.jep.2023.116992](https://doi.org/10.1016/j.jep.2023.116992)  
   Comprehensive review identified over 200 chemical components including saponins, flavonoids, stilbenes, and polysaccharides, confirming pharmacological activities relevant to inflammatory skin disorders and immune modulation.
 - Li L, Zhang L, Li Y and others 2025. [Overview of current research on traditional Chinese medicine in skin disease treatment: a bibliometric analysis from 2014 to 2024](https://pubmed.ncbi.nlm.nih.gov/39745060/). *Pharmaceutical biology*. PMID [39745060](https://pubmed.ncbi.nlm.nih.gov/39745060/) · [doi:10.1080/13880209.2024.2443415](https://doi.org/10.1080/13880209.2024.2443415)  
   Bibliometric analysis identified Smilax china (Baqia) as a significant traditional Chinese medicine for inflammatory skin disease treatment, with growing research interest in its stilbene and saponin compounds.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

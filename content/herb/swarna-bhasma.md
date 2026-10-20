@@ -43,21 +43,21 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Immunomodulation and [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used as a rasayana for rejuvenation. Animal studies have reported increased immune cell activity, higher WBC counts and stronger adaptive immune responses.
 - Anti-diabetic activity: traditionally used in Prameha (diabetes). Animal studies in diabetic mice have reported that gold nanoparticles influenced antioxidant enzymes and blood [glucose](/glossary/compounds-d-g/#glucose).
 - Rheumatoid arthritis: traditionally used in Amavata (joint inflammation). A review reported anti-inflammatory activity through NF-kB pathway inhibition.
 - Nervous system disorders: traditionally used for neurological conditions. Animal studies in zebrafish and rats have reported no neurotoxicity, along with analgesic and anti-depressant activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kashani AS, Kuruvinashetti K, Beauet D and others 2018. [Enhanced Internalization of Indian Ayurvedic Swarna Bhasma (Gold Nanopowder) for Effective Interaction with Human Cells](https://pubmed.ncbi.nlm.nih.gov/29954495/). *Journal of nanoscience and nanotechnology*. PMID [29954495](https://pubmed.ncbi.nlm.nih.gov/29954495/) · [doi:10.1166/jnn.2018.15503](https://doi.org/10.1166/jnn.2018.15503)  
   Gold ash particles showed no impact on cellular viability of HeLa and HFF-1 cells even at high concentrations or long incubation times. Gold nanoparticles in [Swarna Bhasma](/herb/swarna-bhasma/) exhibited superior cellular internalization compared to chemically synthesized gold nanoparticles.
 - Biswas S, Dhumal R, Selkar N and others 2020. [Physicochemical characterization of Suvarna Bhasma, its toxicity profiling in rat and behavioural assessment in zebrafish model](https://pubmed.ncbi.nlm.nih.gov/31730889/). *Journal of ethnopharmacology*. PMID [31730889](https://pubmed.ncbi.nlm.nih.gov/31730889/) · [doi:10.1016/j.jep.2019.112388](https://doi.org/10.1016/j.jep.2019.112388)  
   Comprehensive toxicity profiling found [Swarna Bhasma](/herb/swarna-bhasma/) safe at therapeutic and higher dose levels in rats. Zebrafish behavioral models showed no neurotoxic effects. Physicochemical analysis confirmed nano-particulate gold composition.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -103,4 +103,3 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 Gold bhasma is the most stable of all bhasmas, gold does not revert or oxidize
 
-*Generated for the AgeAyurveda Herb Catalogue*

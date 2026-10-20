@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Referenced in Sushruta Samhita, Ashtanga Hridayam, and Bhaishajya Ratnavali. HPTLC standardization markers (beta-sitosterol, lupeol, karanjin) have been established for quality control. Manufactured under GMP standards."
 aliases: ["Jatyadi Taila", "JatyadiTaila"]
 tags: ["ayurveda", "formulation", "taila", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 672
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Jatyadi-Taila/meta-analysis.md"
@@ -38,13 +38,13 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic wounds and venous ulcers: traditionally used for chronic wounds and venous ulcers. A clinical study reported faster reduction in wound area compared with povidone-[iodine](/glossary/compounds-g-l/#iodine) dressings.
 - Burn wounds: traditionally used for burn wounds. Animal studies have reported increased collagen deposition and epithelialization in excision wound models.
 - Fissure-in-ano (anal fissures): traditionally used for anal fissure wounds. Clinical studies have reported faster wound repair when it was used alongside [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) therapy.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Shailajan S, Menon S, Pednekar S and others 2011. [Wound healing efficacy of Jatyadi Taila: in vivo evaluation in rat using excision wound model](https://pubmed.ncbi.nlm.nih.gov/21907784/). *Journal of ethnopharmacology*. PMID [21907784](https://pubmed.ncbi.nlm.nih.gov/21907784/) · [doi:10.1016/j.jep.2011.08.050](https://doi.org/10.1016/j.jep.2011.08.050)  
   Published in Journal of Ethnopharmacology/PubMed, the study demonstrated significant wound healing acceleration in rats, with enhanced collagen deposition, epithelialization, and wound contraction compared to control groups.

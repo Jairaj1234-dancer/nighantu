@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali and Sharangadhara Samhita. Manufactured under Drug and Cosmetics Act, 1940."
 aliases: ["Gandharvahastadi Kashayam", "GandharvahastadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 420
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahastadi-Kashayam/meta-analysis.md"
@@ -38,18 +38,18 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Constipation: traditionally used for constipation. A case series reported improved bowel regulation.
 - Flatulence and bloating: traditionally used for flatulence and bloating, to enhance digestive fire (Agni).
 - Vata disorders with low back pain: traditionally used for Vata disorders with low back pain. Its ingredients include [Devadaru](/herb/devadaru/) and [Daruharidra](/herb/daruharidra/).
 - Loss of appetite: traditionally used for loss of appetite. Its ingredients include Shunthi and Musta.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

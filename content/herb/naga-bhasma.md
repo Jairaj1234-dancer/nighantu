@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Diabetes (Madhumeha): traditionally used for this condition. No modern clinical evidence shows lead to be safe for this use. The risk far outweighs any theoretical benefit.
 - Spleen enlargement (Pleehodara): traditionally used for this condition. No clinical trial evidence exists for this use. Lead toxicity itself causes organ damage.
 - Skin diseases (Kushtha): traditionally used for these conditions. This use is untested and dangerous. Lead exposure causes more skin and systemic toxicity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh SK, Gautam DN, Kumar M and others 2010. [Synthesis, characterization and histopathological study of a lead-based Indian traditional drug: naga bhasma](https://pubmed.ncbi.nlm.nih.gov/20582186/). *Indian journal of pharmaceutical sciences*. PMID [20582186](https://pubmed.ncbi.nlm.nih.gov/20582186/) · [doi:10.4103/0250-474X.62232](https://doi.org/10.4103/0250-474X.62232)  
   Repeated calcination converts lead to nano-crystalline lead sulfide form. The Shodhana process removes heavy metals other than lead. However, the drug still contains lead as its primary constituent.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

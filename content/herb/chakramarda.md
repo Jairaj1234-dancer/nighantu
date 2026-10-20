@@ -46,18 +46,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Dadru (ringworm): traditionally used for ringworm. Laboratory studies have reported that isolated [anthraquinones](/glossary/compounds-1-a/#anthraquinones) (chrysophanol, emodin, physcion) showed stronger antifungal activity than the crude extract against T. mentagrophyte.
 - Kushtha (skin fungal infections): traditionally used for skin fungal infections. Laboratory studies have reported broad-spectrum antifungal activity against Microsporon nanum, Candida albicans, and other dermatophytes.
 - Eczema and inflammatory skin conditions: traditionally used for eczema and inflammatory skin conditions. Studies have reported anti-inflammatory activity of emodin linked to NF-kB suppression.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kim YM, Lee CH, Kim HG and others 2004. [Anthraquinones isolated from Cassia tora (Leguminosae) seed show an antifungal property against phytopathogenic fungi](https://pubmed.ncbi.nlm.nih.gov/15453672/). *Journal of agricultural and food chemistry*. PMID [15453672](https://pubmed.ncbi.nlm.nih.gov/15453672/) · [doi:10.1021/jf049379p](https://doi.org/10.1021/jf049379p)  
   Emodin, physcion, and rhein demonstrated strong and moderate fungicidal activities against multiple fungal species (B. cinerea, E. graminis, P. infestans, R. solani), establishing the antifungal basis for traditional ringworm treatment.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

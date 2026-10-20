@@ -40,17 +40,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditional uses remain uncertain until the botanical identity is settled
 - Name may appear in specific Nighantu (Ayurvedic lexicon) texts such as Dhanvantari Nighantu, Raja Nighantu, or Bhavaprakasha Nighantu requiring targeted scholarly investigation
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Darwish WS, Chen Z, Li Y and others 2021. [Retraction Note to: Deoxynivalenol-induced alterations in the redox status of HepG2 cells: identification of lipid hydroperoxides, the role of Nrf2-Keap1 signaling, and protective effects of zinc](https://pubmed.ncbi.nlm.nih.gov/34414528/). *Mycotoxin research*. PMID [34414528](https://pubmed.ncbi.nlm.nih.gov/34414528/) · [doi:10.1007/s12550-021-00440-0](https://doi.org/10.1007/s12550-021-00440-0)  
   No specific published research was found for the term 'Nikochaka' in available scientific databases. The herb may be a rare or obsolete Sanskrit name requiring specialist Ayurvedic lexicography for positive identification.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

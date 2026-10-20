@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 - Reverses mitochondrial oxidative stress: normalizes NO concentration, lipid peroxidation, SOD, and catalase activities
 - Neuroprotection via cAMP/NO signaling pathway modulation and anti-neuroinflammatory activity
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Stohs SJ 2014. [Safety and efficacy of shilajit (mumie, moomiyo)](https://pubmed.ncbi.nlm.nih.gov/23733436/). *Phytotherapy research : PTR*. PMID [23733436](https://pubmed.ncbi.nlm.nih.gov/23733436/) · [doi:10.1002/ptr.5018](https://doi.org/10.1002/ptr.5018)  
   PRISMA-guided systematic review of 15 clinical studies (1,254 participants) across chronic fatigue syndrome, high-altitude sickness, cognitive decline, and infertility. Generally mild adverse events (GI discomfort, headache); no serious adverse events reported.
@@ -45,7 +45,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 - Basavaraja D, Katkar R, Dhaka P and others 2025. [Chemical Analysis of Native Himalayan Shilajit: An Evaluation of an Ayurvedic Formulation](https://pubmed.ncbi.nlm.nih.gov/41404054/). *ACS omega*. PMID [41404054](https://pubmed.ncbi.nlm.nih.gov/41404054/) · [doi:10.1021/acsomega.5c05533](https://doi.org/10.1021/acsomega.5c05533)  
   ACS Omega publication providing detailed chemical characterization of Himalayan Shilajit identifying dibenzo-alpha-pyrones, fulvic acids, humic acids, trace minerals, and heavy metal profiles.
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -62,13 +62,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 - Not monitored by FDA for quality or purity - third-party testing (USP, NSF) recommended
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mineral-derived preparation
-- **Note:** Composition varies by specific preparation method
-
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
 
 ## Dosage forms and preparation
 
@@ -108,4 +101,3 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 Resinous form is inherently stable. Hygroscopic. Protect from moisture. Tablet/capsule forms need moisture barrier packaging
 
-*Generated for the AgeAyurveda Herb Catalogue*

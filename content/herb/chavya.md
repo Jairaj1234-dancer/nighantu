@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive stimulant (Deepana-Pachana): traditionally used to support digestion. Animal studies have reported increased gastric acid and enzyme secretion.
 - Bioenhancer: studies have reported increased bioavailability of [curcumin](/herb/curcumin/), rifampicin and other drugs when co-administered with piperine.
 - Obesity: traditionally used for obesity. Preclinical studies have reported AMPK activation and changes in lipid metabolism.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kim KJ, Lee MS, Jo K and others 2011. [Piperidine alkaloids from Piper retrofractum Vahl. protect against high-fat diet-induced obesity by regulating lipid metabolism and activating AMP-activated protein kinase](https://pubmed.ncbi.nlm.nih.gov/21741367/). *Biochemical and biophysical research communications*. PMID [21741367](https://pubmed.ncbi.nlm.nih.gov/21741367/) · [doi:10.1016/j.bbrc.2011.06.153](https://doi.org/10.1016/j.bbrc.2011.06.153)  
   Piperidine alkaloids regulated lipid metabolism and activated AMP-activated protein kinase (AMPK), reducing fat accumulation in high-fat diet mouse models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

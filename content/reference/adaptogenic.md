@@ -19,10 +19,9 @@ productHints: []
 words: 285
 srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 ---
-*115 herbs and compounds with adaptogenic activity across traditions*
+*40 herbs and compounds with adaptogenic activity*
 
-## Ayurveda (57)
-
+## Ayurveda (40)
 - [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
 - [Amrita Ghrita](/formulation/amrita-ghrita/)
 - [Arjunarishta](/formulation/arjunarishta/)

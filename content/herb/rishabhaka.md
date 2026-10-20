@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Aphrodisiac](/glossary/pharmacology/#aphrodisiac) and tonic: traditionally used in [Vajikarana](/glossary/pharmacology/#vajikarana). Preclinical studies have reported [adaptogenic](/reference/adaptogenic/) effects.
 - Traditionally used in infectious and dental conditions. Studies have reported antibacterial activity against several pathogenic strains.
 - Traditionally used for digestive disorders. Animal studies have reported antiulcer and gastroprotective activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ibrahim AE, Saraya RE, Saleh H and others 2019. [Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms](https://pubmed.ncbi.nlm.nih.gov/31049430/). *Heliyon*. PMID [31049430](https://pubmed.ncbi.nlm.nih.gov/31049430/) · [doi:10.1016/j.heliyon.2019.e01518](https://doi.org/10.1016/j.heliyon.2019.e01518)  
   Validated analytical methods for simultaneous estimation of myricetin and [quercetin](/reference/quercetinquercetin/) as quality markers in leaf extract, following ICH guidelines for standardization.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

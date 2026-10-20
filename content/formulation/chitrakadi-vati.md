@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; HPTLC-validated quality standards published; individual ingredients monographed in Ayurvedic Pharmacopoeia of India (API) Part I"
 aliases: ["Chitrakadi Vati", "ChitrakadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 510
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chitrakadi-Vati/meta-analysis.md"
@@ -39,16 +39,16 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for functional dyspepsia. A randomized clinical study reported improvement in symptoms.
 - Traditionally used for heartburn and acid reflux, described in classical practice as [Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing).
 - Traditionally used for appetite stimulation (Deepana) and digestion (Pachana), taken before and after meals.
 - Traditionally used for flatulence and bloating. The carminative properties are attributed to the combination of Hing and [Saindhava Lavana](/herb/saindhava-lavana/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

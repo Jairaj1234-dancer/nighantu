@@ -33,16 +33,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Strong purgation (Virechana) for Panchakarma: traditionally used as a powerful cathartic. Croton oil's phorbol esters have been reported to stimulate intestinal secretion and motility.
 - Ascites (Jalodara) and severe constipation: traditionally used for fluid retention and obstinate constipation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

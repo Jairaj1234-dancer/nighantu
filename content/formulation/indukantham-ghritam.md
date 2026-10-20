@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Sahasrayogam (official Kerala Ayurvedic formulary); available from GMP-certified Ayurvedic manufacturers; referenced in Ayurvedic Formulary of India"
 aliases: ["Indukantham Ghritam", "IndukanthamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 499
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Indukantham-Ghritam/meta-analysis.md"
@@ -39,19 +39,19 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Gulma and Udara Roga (abdominal tumors/diseases): traditionally used for these conditions. Studies of individual ingredients have reported gastroprotective and anti-inflammatory activity.
 - Agnimandya (digestive weakness): traditionally used for this condition. Studies of the [Trikatu](/herb/trikatu/) and Panchakola ingredients have reported increased digestive enzyme activity.
 - Immunomodulation: published research has reported immune stimulation when used alongside cancer chemotherapy.
 - Amlapitta (acid peptic disorders): traditionally used for this condition. Screening studies of individual ingredients have reported antacid and mucosal protective activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - George SK, Rajesh R, Kumar S S and others 2008. [A polyherbal ayurvedic drug--Indukantha Ghritha as an adjuvant to cancer chemotherapy via immunomodulation](https://pubmed.ncbi.nlm.nih.gov/18765169/). *Immunobiology*. PMID [18765169](https://pubmed.ncbi.nlm.nih.gov/18765169/) · [doi:10.1016/j.imbio.2008.02.004](https://doi.org/10.1016/j.imbio.2008.02.004)  
   Indukantha Ghritha demonstrated potential as an adjuvant to cancer chemotherapy through immunomodulatory action, supporting immune function during cytotoxic treatment
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

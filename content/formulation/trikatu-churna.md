@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; all three ingredients individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; Piper nigrum and Zingiber officinale listed in WHO monographs on selected medicinal plants; Piper longum in Indian Pharmacopoeia"
 aliases: ["Trikatu Churna", "TrikatuChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 444
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Trikatu-Churna/meta-analysis.md"
@@ -38,16 +38,16 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Agni Deepana (digestive fire enhancement): traditionally used to kindle digestion. Studies have reported increases in salivary amylase, gastric acid and pancreatic enzyme secretion.
 - Yogavahi (bioavailability enhancement): traditionally regarded as a carrier that enhances other substances. Studies have reported that piperine can increase the absorption of certain compounds.
 - Obesity: a placebo-controlled clinical study reported significant effects on body weight parameters.
 - Kapha-reducing action: traditionally used to reduce Kapha and to clear respiratory congestion. All three ingredients are described as having thermogenic and mucolytic properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -58,7 +58,7 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 3 g before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:14. The formulary's anupana: honey, warm water. This replaces a previously stated 1-3g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Paribhasaprakarana; 16.
+**Standard Dosage:** 3 g before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:14. The formulary's anupana: honey, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Paribhasaprakarana; 16.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

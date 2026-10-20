@@ -19,10 +19,9 @@ productHints: []
 words: 287
 srcRel: "_Hub/Pharmacology/Antipyretic.md"
 ---
-*128 herbs and compounds with antipyretic activity across traditions*
+*39 herbs and compounds with antipyretic activity*
 
-## Ayurveda (60)
-
+## Ayurveda (39)
 - [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
 - [Ambasthaki](/herb/ambasthaki/), *Cissampelos pareira L.*
 - [Amrita Ghrita](/formulation/amrita-ghrita/)

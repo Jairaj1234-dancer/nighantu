@@ -121,7 +121,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 **Keywords:** Biochemistry, Cancer research, Cell biology, Evidence-based medicine, Molecular biology, Oncology
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Narayana DBA, Mukne A 2025. [Reporting negative Ames test results for Indian Acorus calamus L., rhizome, extracts, and beta asarone](https://pubmed.ncbi.nlm.nih.gov/40844059/). *Indian journal of pharmacology*. PMID [40844059](https://pubmed.ncbi.nlm.nih.gov/40844059/) · [doi:10.4103/ijp.ijp_391_24](https://doi.org/10.4103/ijp.ijp_391_24)  
   Indian A. calamus rhizome extracts and beta-asarone tested negative in Ames mutagenicity assay, challenging earlier assumptions about genotoxicity, though carcinogenicity concerns from chronic feeding studies remain.
@@ -149,7 +149,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

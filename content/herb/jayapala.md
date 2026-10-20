@@ -28,12 +28,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - **Traditional purgative use (Virechana, Bhedana) for constipation and abdominal disorders.** Traditionally used as a strong purgative (Virechana, Bhedana) for constipation and abdominal disorders. Pharmacological studies have reported that croton oil stimulates intestinal secretion and motility and irritates the gut lining. It was used historically in Western medicine as a drastic cathartic before safer alternatives were developed.
 - **Traditional anti-inflammatory and anti-tumor use (Shothahara, Granthi).** Used in classical practice as Shothahara and for Granthi. The phorbol esters in Croton tiglium are known tumor promoters. In vitro studies have reported anti-tumor activity, including cell death in certain cancer cell lines, for specific fractions and derivatives of the plant. Traditionally applied externally, after purification, as an anti-inflammatory paste for its counter-irritant action.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jamadagni P, Ranade A, Bharsakale S and others 2023. [Impact of Shodhana an Ayurvedic purification process on cytotoxicity and mutagenicity of Croton tiglium Linn](https://pubmed.ncbi.nlm.nih.gov/37230917/). *Journal of Ayurveda and integrative medicine*. PMID [37230917](https://pubmed.ncbi.nlm.nih.gov/37230917/) · [doi:10.1016/j.jaim.2023.100710](https://doi.org/10.1016/j.jaim.2023.100710)  
   Shodhana process significantly reduced cytotoxicity and mutagenicity of Croton tiglium seeds. Purified seeds showed reduced DNA damage potential in Ames test and reduced cytotoxicity in cell viability assays while retaining purgative efficacy.
@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

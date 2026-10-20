@@ -45,13 +45,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for inflammation. Animal studies have reported inhibition of pro-inflammatory mediators and reduced edema.
 - Traditionally used as a [hepatoprotective](/reference/hepatoprotective/). Studies in hepatotoxicity models have reported lower liver [enzymes](/glossary/compounds-d-g/#enzymes) (ALT, AST).
 - Traditionally used as an [antidiabetic](/reference/antidiabetic/). Research has reported alpha-glucosidase inhibitory activity in leaf flavonoids.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Arthanari S, Periyasamy P 2020. [Phenolic composition, antioxidant and anti-fibrotic effects of Sesbania grandiflora L. (Agastya) - An edible medicinal plant](https://pubmed.ncbi.nlm.nih.gov/35813364/). *Ayu*. PMID [35813364](https://pubmed.ncbi.nlm.nih.gov/35813364/) · [doi:10.4103/ayu.AYU_198_19](https://doi.org/10.4103/ayu.AYU_198_19)  
   Aqueous ethanol extract of leaves demonstrated significant antioxidant and anti-fibrotic capacity, with leaves showing greater activity than flowers.

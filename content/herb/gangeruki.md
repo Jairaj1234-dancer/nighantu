@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anti-anemia (iron supplementation): a comparative clinical study in women with iron deficiency anemia reported results similar to ferrous gluconate.
 - Atisara (diarrhea): traditionally used in Ayurveda for Atisara. In vivo and ex vivo pharmacodynamic studies have reported antidiarrhoeal and gut-soothing effects.
 - Liver-related conditions: traditionally used for liver-related conditions. Animal studies using carbon tetrachloride-induced liver damage models have reported hepatoprotective activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Rehman NU, Ansari MN, Ahmad W and others 2022. [The Detailed Pharmacodynamics of the Gut Relaxant Effect and GC-MS Analysis of the Grewia tenax Fruit Extract: In Vivo and Ex Vivo Approach](https://pubmed.ncbi.nlm.nih.gov/36558012/). *Molecules (Basel, Switzerland)*. PMID [36558012](https://pubmed.ncbi.nlm.nih.gov/36558012/) · [doi:10.3390/molecules27248880](https://doi.org/10.3390/molecules27248880)  
   G. tenax fruit extract showed dose-mediated antidiarrheal effect by inhibiting castor-oil-evoked diarrhea; GC-MS analysis identified key bioactive constituents responsible for gut relaxant activity.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Sahasrayogam and Kerala Ayurvedic pharmacopoeias. Available as standardized tablets and liquid decoctions from licensed manufacturers."
 aliases: ["Rasnasaptakam Kashayam", "RasnasaptakamKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 379
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Rasnasaptakam-Kashayam/meta-analysis.md"
@@ -38,18 +38,18 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Joint pain and rheumatoid arthritis: traditionally used for joint pain and rheumatoid arthritis. A clinical study reported improvement in pain scores.
 - Chronic low back pain: traditionally used for chronic low back pain.
 - Fever associated with body aches: traditionally used for fever associated with body aches. [Guduchi](/herb/guduchi/) is described as having anti-inflammatory and [antipyretic](/reference/antipyretic/) properties.
 - Sciatica and neuralgia: traditionally used for sciatica and neuralgia. [Devadaru](/herb/devadaru/) and [Eranda](/herb/eranda/) are described as having analgesic properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

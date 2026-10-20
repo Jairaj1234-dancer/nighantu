@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Sharangadharasamhita and Bhavaprakasha. Vidanga (Embelia ribes) monograph in Ayurvedic Pharmacopoeia of India."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 368
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Vidangarishta/meta-analysis.md"
@@ -38,16 +38,16 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Intestinal parasites (Krimi Roga): traditionally used for intestinal parasites. A clinical pilot study reported a reduction in worm load.
 - Abdominal bloating and flatulence: traditionally used as a digestive and carminative for abdominal bloating and flatulence.
 - Skin abscesses and boils: traditionally used for skin abscesses and boils. Antibacterial profiling studies have reported antibacterial activity.
 - Urinary disorders and prostate enlargement: traditionally used for urinary disorders and prostate enlargement. Its components are traditionally regarded as anti-inflammatory and [diuretic](/reference/diuretic/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

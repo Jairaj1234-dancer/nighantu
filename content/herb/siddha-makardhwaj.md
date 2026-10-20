@@ -33,12 +33,12 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rejuvenation and vitality: traditionally used as a Rasayana for rejuvenation and vitality. Animal safety studies have reported improved metabolic parameters without organ toxicity.
 - Rheumatoid arthritis and neurological disorders: traditionally used for these conditions, as documented in classical texts. Studies on related formulations have reported anti-inflammatory and immunomodulatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kumar G, Srivastava A, Sharma SK and others 2014. [Safety evaluation of mercury based Ayurvedic formulation (Sidh Makardhwaj) on brain cerebrum, liver & kidney in rats](https://pubmed.ncbi.nlm.nih.gov/24927349/). *The Indian journal of medical research*. PMID [24927349](https://pubmed.ncbi.nlm.nih.gov/24927349/)  
   At therapeutic dose (10 mg/kg) and up to 5x the human dose for 28 days, no significant toxicity was observed in liver, kidney, or brain cerebrum of rats, despite mercury content far exceeding EPA reference dose. The Ayurvedic detoxification process (Sodhana) may modify metal properties, abolishing toxicity while retaining pharmacological activity.

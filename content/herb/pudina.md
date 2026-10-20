@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a digestive aid for bloating, indigestion, and IBS. A double-blind clinical study of spearmint extract reported reduced bloating and discomfort.
 - Traditionally used for its cooling and fever-reducing properties. Pharmacological studies have reported [antipyretic](/reference/antipyretic/) activity.
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 - Traditionally used for oral and skin infections. Studies have reported activity against drug-resistant bacteria, including MRSA.
 - Traditionally used for its calming effects. Preclinical studies have reported anxiolytic and sedative activity through GABAergic modulation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - El Menyiy N, Mrabti HN, El Omari N and others 2022. [Medicinal Uses, Phytochemistry, Pharmacology, and Toxicology of Mentha spicata](https://pubmed.ncbi.nlm.nih.gov/35463088/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [35463088](https://pubmed.ncbi.nlm.nih.gov/35463088/) · [doi:10.1155/2022/7990508](https://doi.org/10.1155/2022/7990508)  
   Comprehensive review confirming antibacterial, antifungal, antioxidant, [hepatoprotective](/reference/hepatoprotective/), [antidiabetic](/reference/antidiabetic/), cytotoxic, anti-inflammatory, larvicidal, antigenotoxic, and antiandrogenic activities of M. spicata extracts and essential oils.
@@ -64,7 +64,7 @@ A chemical analysis identified a range of constituents in spearmint. In Ayurveda
 - Ali-Shtayeh MS, Jamous RM, Abu-Zaitoun SY and others 2019. [Biological Properties and Bioactive Components of Mentha spicata L. Essential Oil: Focus on Potential Benefits in the Treatment of Obesity, Alzheimer's Disease, Dermatophytosis, and Drug-Resistant Infections](https://pubmed.ncbi.nlm.nih.gov/31772594/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [31772594](https://pubmed.ncbi.nlm.nih.gov/31772594/) · [doi:10.1155/2019/3834265](https://doi.org/10.1155/2019/3834265)  
   Demonstrated pancreatic lipase inhibition by carvone and M. spicata essential oil for obesity management; also showed strong inhibitory effect on MRSA biofilm formation for drug-resistant infections.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

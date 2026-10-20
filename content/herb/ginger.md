@@ -163,7 +163,7 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 
 > [Turmeric](/herb/turmeric/) (rich in curcuminoids) and ginger (rich in gingerols and shogaols) rhizomes have been widely used as dietary spices and to treat different diseases in Ayurveda/Chinese medicine since antiquity. Here, we compared the anti-inflammatory/anti-oxidant activity of these two plants in rat adjuvant-induced arthritis (AIA). Both plants (at dose 200 mg/kg body weight) significantly suppressed (but with different degrees) the incidence and severity of arthritis by increasing/decreasing the production of anti-inflammatory/pro-inflammatory cytokines, respectively, and activating the anti-oxidant defence system. The anti-arthritic activity of [turmeric](/herb/turmeric/) exceeded that of ginger and indomethacin (a non-steroidal anti-inflammatory drug), especially when the treatment started from the day of arthriti...
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Matin M, Matin FB, Ksepka N and others 2024. [The Clinical Research on Ginger (Zingiber officinale): Insights from ClinicalTrials.gov analysis](https://pubmed.ncbi.nlm.nih.gov/38944033/). *Planta medica*. PMID [38944033](https://pubmed.ncbi.nlm.nih.gov/38944033/) · [doi:10.1055/a-2357-7064](https://doi.org/10.1055/a-2357-7064)  
   Analysis of 89 registered clinical trials: treatment objectives predominant (47.2%), covering antiemetic activity, analgesic function, quality of life, blood pressure, energy expenditure, and xerostomia reduction. Identified low reporting rate of final results.
@@ -172,7 +172,7 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 - Ayustaningwarno F, Anjani G, Ayu AM and others 2024. [A critical review of Ginger's (Zingiber officinale) antioxidant, anti-inflammatory, and immunomodulatory activities](https://pubmed.ncbi.nlm.nih.gov/38903613/). *Frontiers in nutrition*. PMID [38903613](https://pubmed.ncbi.nlm.nih.gov/38903613/) · [doi:10.3389/fnut.2024.1364836](https://doi.org/10.3389/fnut.2024.1364836)  
   Comprehensive review confirmed ginger's triple action as antioxidant, anti-inflammatory, and immunomodulatory agent, with doses of 1-3 g daily commonly used for therapeutic effects and 500-1500 mg daily in divided doses for pregnancy-associated nausea.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

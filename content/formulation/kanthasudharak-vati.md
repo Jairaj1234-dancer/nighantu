@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); individual ingredients (Glycyrrhiza glabra, Elettaria cardamomum, Syzygium aromaticum) monographed in Ayurvedic Pharmacopoeia of India (API) Part I; classified as an over-the-counter Ayurvedic proprietary medicine"
 aliases: ["Kanthasudharak Vati", "KanthasudharakVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 539
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Kanthasudharak-Vati/meta-analysis.md"
@@ -49,18 +49,18 @@ Referenced in Bhaishajya Ratnavali and Yoga Ratnakara (Kasa/Swarabheda Chikitsa 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for sore throat and pharyngitis.
 - Kasa (cough): traditionally used for cough, with [Yashtimadhu](/herb/yashtimadhu/) and [Javitri](/herb/javitri/) as key herbs for this use.
 - Swarabheda (voice disorders): traditionally used to soothe the throat and support the voice.
 - Traditionally used for oral freshness and bad breath, drawing on [camphor](/herb/camphor/), cardamom, and clove.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

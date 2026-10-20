@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in classical Ayurvedic pharmacopoeias; listed in Ayurvedic Formulary of India; manufactured by multiple GMP-certified companies (Dabur, Kottakkal)"
 aliases: ["Brahma Rasayana", "BrahmaRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 557
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Brahma-Rasayana/meta-analysis.md"
@@ -40,19 +40,19 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Medhya (cognitive enhancement/memory): traditionally used for memory and cognition. Clinical studies have reported improvement in memory recall and MMSE scores.
 - Vayasthapana (anti-aging/longevity): traditionally used for longevity and healthy aging. Studies have reported antioxidant and neuroprotective activity in relation to age-related neural damage.
 - Smriti [Vriddhi](/herb/vriddhi/) (memory improvement): traditionally used for memory improvement. Animal studies have reported memory restorative activity.
 - Ojas Vardhana (vital energy): traditionally used to build vital energy. Laboratory studies have reported [immunomodulatory](/reference/immunomodulatory/) activity, including IL-2 upregulation, and [adaptogenic](/reference/adaptogenic/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Joshi H, Parle M 2006. [Brahmi rasayana improves learning and memory in mice](https://pubmed.ncbi.nlm.nih.gov/16550227/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [16550227](https://pubmed.ncbi.nlm.nih.gov/16550227/) · [doi:10.1093/ecam/nek014](https://doi.org/10.1093/ecam/nek014)  
   [Brahma Rasayana](/formulation/brahma-rasayana/) improved learning and memory in mice models, proving useful as a memory restorative agent potentially applicable in dementia treatment
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -62,18 +62,11 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha/Rasayana (semi-solid confection), Capsules (modern), Granules (modern)
 
-**Standard Dosage:** 12 g twice daily on empty stomach with milk, as given in the Ayurvedic Formulary of India, Part I, entry 3:20. The formulary's anupana: water, milk. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 39; 15-19½.
+**Standard Dosage:** 12 g twice daily on empty stomach with milk, as given in the Ayurvedic Formulary of India, Part I, entry 3:20. The formulary's anupana: water, milk. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 39; 15-19½.
 
 **Bioavailability:** Multi-lipid base (ghee + [sesame oil](/glossary/concepts-m-y/#tila-taila)) provides excellent absorption of both lipophilic (bacosides, withanolides) and hydrophilic (gallic acid, ascorbic acid) actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances bioavailability by 25-40%. Medhya Rasayana herbs cross the blood-brain barrier more effectively in lipid matrix.
 

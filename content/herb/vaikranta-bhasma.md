@@ -43,18 +43,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Diabetes (Prameha): traditionally used for diabetes.
 - Anemia: traditionally used for blood deficiency conditions. Physicochemical analysis has reported iron content in the preparation.
 - Respiratory disorders (Shwasa, Kasa): traditionally used for asthma and chronic cough.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tripathi R, Rathore AS, Mehra BL and others 2013. [Physico-chemical study of Vaikrānta bhasma](https://pubmed.ncbi.nlm.nih.gov/24991067/). *Ancient science of life*. PMID [24991067](https://pubmed.ncbi.nlm.nih.gov/24991067/) · [doi:10.4103/0257-7941.131971](https://doi.org/10.4103/0257-7941.131971)  
   SEM, EDX, FTIR, and ICP analysis confirmed [Vaikranta Bhasma](/herb/vaikranta-bhasma/) as multi-mineral compound with iron and silica as major constituents. Established analytical parameters for standardization.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

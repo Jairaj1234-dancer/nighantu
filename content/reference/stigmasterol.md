@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Stigmasterol.md"
 group: ""
-answer: "Stigmasterol is a reference entry in the Nighantu. Found in 64 entries across the catalogue."
+answer: "Stigmasterol is a reference entry in the Nighantu. Found in 50 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 320
 srcRel: "_Hub/Compounds/Stigmasterol.md"
 ---
-*Found in 64 entries across the catalogue*
+*Found in 50 entries*
 
 ## Ayurveda
 

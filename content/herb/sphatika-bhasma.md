@@ -42,17 +42,15 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Bleeding disorders (Raktapitta): traditionally used to stop bleeding. Pharmacological studies have reported styptic and astringent properties.
 - Respiratory diseases (Kasa, Shwasa): traditionally used for cough and bronchitis. Studies have reported antibacterial activity against respiratory pathogens and mucosal-drying properties.
 - Skin diseases and wounds: traditionally used for skin infections and wounds. Studies have reported broad-spectrum antimicrobial and anti-biofilm activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-
-
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -62,14 +60,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 - RENAL PATIENTS: Aluminium-containing preparations contraindicated in patients with impaired renal function due to reduced aluminium excretion capacity
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
-- **Particle size:** Sub-micron to nanoparticle range
-- **Note:** Exact composition depends on source material and preparation method
-
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
 
 ## Dosage forms and preparation
 

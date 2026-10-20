@@ -34,14 +34,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 - [Neuroprotective](/reference/neuroprotective/): Network pharmacology identifies multi-target mechanisms against Alzheimer's disease-related [proteins](/glossary/compounds-o-q/#proteins).
 - Antimicrobial and anti-biofilm: Fruit extract demonstrates activity against multi-drug-resistant Staphylococcus aureus biofilms.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
 A review reported neuroprotective potential for A. marmelos compounds, including marmelosin, aegeline and imperatorin. It noted that more clinical trials are needed to assess their potency and safety in neurological use.
 - Chopra NK, Mehta V, Nagu P 2026. [Unraveling the neuroprotective potential of Aegle marmelos in Alzheimer's disease: a network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/41613637/). *In silico pharmacology*. PMID [41613637](https://pubmed.ncbi.nlm.nih.gov/41613637/) · [doi:10.1007/s40203-026-00559-x](https://doi.org/10.1007/s40203-026-00559-x)  
   Network pharmacology and molecular docking study identified multiple targets for neuroprotection in Alzheimer's disease, suggesting multi-target therapeutic potential.
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -56,7 +56,7 @@ A review reported neuroprotective potential for A. marmelos compounds, including
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

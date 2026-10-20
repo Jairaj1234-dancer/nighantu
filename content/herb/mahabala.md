@@ -46,13 +46,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in Vataroga (joint and muscular conditions). Animal studies have reported anti-inflammatory and analgesic activity.
 - Traditionally used for wounds and infectious conditions. [Antimicrobial](/reference/antimicrobial/) activity against bacteria and fungi has been reported in studies.
 - Used in ethnomedicine for fever and malaria. Studies have reported antimalarial activity against Plasmodium species.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jiménez-Ferrer E, Herrera-Ruiz M, Campos-Vidal Y and others 2025. [Sida L.: Ethnobotany, Pharmacology, and Phytochemistry: A Review](https://pubmed.ncbi.nlm.nih.gov/41095255/). *Plants (Basel, Switzerland)*. PMID [41095255](https://pubmed.ncbi.nlm.nih.gov/41095255/) · [doi:10.3390/plants14193115](https://doi.org/10.3390/plants14193115)  
   Comprehensive genus-level review identifying approximately 142 chemical constituents across Sida species, with alkaloids, flavonoids, and ecdysteroids as predominant bioactive groups.

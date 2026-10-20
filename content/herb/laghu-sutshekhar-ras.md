@@ -33,16 +33,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hyperacidity and acid reflux (Amlapitta): traditionally used as an antacid and digestive aid. A pilot clinical study reported improvement in functional dyspepsia symptoms.
 - Digestive disorders: traditionally used for digestive disorders. Its calcium carbonate content from [Shankha Bhasma](/herb/shankha-bhasma/) is described as having an acid-neutralizing action.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

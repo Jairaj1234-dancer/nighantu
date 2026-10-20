@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prasarini/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as an anti-rheumatic (Vatahara). Animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity in carrageenan and formalin models.
 - Traditionally used for diarrhea. Animal studies have reported reduced gastrointestinal motility and fluid accumulation in a castor oil-induced diarrhea model.
 - Traditionally used to protect the stomach. Research has reported a PGE2-mediated increase in gastric mucus secretion and a protective effect against ulcers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chanda S, Deb L, Tiwari RK and others 2015. [Gastroprotective mechanism of Paederia foetida Linn. (Rubiaceae)--a popular edible plant used by the tribal community of North-East India](https://pubmed.ncbi.nlm.nih.gov/26335308/). *BMC complementary and alternative medicine*. PMID [26335308](https://pubmed.ncbi.nlm.nih.gov/26335308/) · [doi:10.1186/s12906-015-0831-0](https://doi.org/10.1186/s12906-015-0831-0)  
   Demonstrated gastroprotective activity through prostaglandin E2-mediated mechanism, increasing gastric mucus secretion and reducing acid output in ulcer models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -64,13 +64,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prasarini/meta-analysis.md"
 - Foetid odor (from sulfur-containing compounds) may cause nausea in some individuals; limited data on chronic toxicity and drug interactions
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 ## Dosage forms and preparation
 

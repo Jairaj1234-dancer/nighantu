@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hridya (cardiac tonic): traditionally used in cardiac formulations including Kasturi Bhairava Rasa and Mrigamadasava. Studies have reported cardioprotective and inotropic effects of muscone.
 - Unmada and Apasmara (psychiatric/neurological disorders): used in classical Ayurvedic practice for stroke, seizures, and psychiatric conditions. Studies have reported that muscone can cross the blood-brain barrier and modulate neuroinflammation.
 - Vishamjwara (intermittent fevers) and Sannipata: traditionally used in severe febrile and toxic conditions. Studies have reported anti-inflammatory and [immunomodulatory](/reference/immunomodulatory/) properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Liu K, Xie L, Deng M and others 2021. [Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus): a review](https://pubmed.ncbi.nlm.nih.gov/34147113/). *Chinese medicine*. PMID [34147113](https://pubmed.ncbi.nlm.nih.gov/34147113/) · [doi:10.1186/s13020-021-00457-8](https://doi.org/10.1186/s13020-021-00457-8)  
   Comprehensive review confirmed muscone possesses potent anti-inflammatory, [neuroprotective](/reference/neuroprotective/), anticancer, [antioxidant](/reference/antioxidant/), and cardiovascular protective effects; muscone activates cAMP/PKA signaling pathway for neuroprotection.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

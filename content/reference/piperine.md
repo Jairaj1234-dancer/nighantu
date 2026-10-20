@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Piperine.md"
 group: ""
-answer: "Piperine is a reference entry in the Nighantu. Found in 66 entries across the catalogue."
+answer: "Piperine is a reference entry in the Nighantu. Found in 61 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 322
 srcRel: "_Hub/Compounds/Piperine.md"
 ---
-*Found in 66 entries across the catalogue*
+*Found in 61 entries*
 
 ## Ayurveda
 

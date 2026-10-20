@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); included in CCRAS recommended formulations for Galaganda (thyroid disorders)"
 aliases: ["Kanchanara Guggulu", "KanchanaraGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 572
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Kanchanara-Guggulu/meta-analysis.md"
@@ -39,19 +39,19 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Galaganda (thyroid disorder): traditionally used for galaganda. A clinical study reported improvement in TSH levels and thyroid function in hypothyroid patients.
 - Granthi (cysts and tumors): traditionally used for granthi. LC-MS/MS metabolomics and molecular docking studies have reported possible anti-proliferative mechanisms.
 - Lymphatic system and PCOS: traditionally used for lymphatic support and PCOS, based on its Lekhana (scraping) and Kapha-reducing actions.
 - Lipoma and benign growths: traditionally used for lipoma and other benign growths. Compounds with reported anti-proliferative activity have been identified.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
   RCT protocol registered comparing [Kanchanar](/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

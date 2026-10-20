@@ -48,21 +48,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for obesity and weight control. Preclinical studies have reported that HCA inhibits lipogenesis. Clinical study results have been mixed.
 - Traditionally used as a digestive and carminative. Studies have reported gastroprotective and anti-ulcerogenic activity.
 - Traditionally used for inflammation. Preclinical studies have reported that garcinol inhibits COX-2 and LOX.
 - Traditionally used to protect the heart. Animal studies using a high-fat diet have reported antioxidant and anti-hyperlipidemic effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Lim SH, Lee HS, Lee CH and others 2021. [Pharmacological Activity of Garcinia indica (Kokum): An Updated Review](https://pubmed.ncbi.nlm.nih.gov/34959738/). *Pharmaceuticals (Basel, Switzerland)*. PMID [34959738](https://pubmed.ncbi.nlm.nih.gov/34959738/) · [doi:10.3390/ph14121338](https://doi.org/10.3390/ph14121338)  
   Updated review confirmed antioxidant, anti-obesity, anti-arthritic, anti-inflammatory, antibacterial, [hepatoprotective](/reference/hepatoprotective/), cardioprotective, antidepressant and [anxiolytic](/reference/anxiolytic/) effects attributed to garcinol and HCA.
 - van Breemen RB, Roe AL, Akhtar N 2025. [Hepatotoxicity of dietary supplements containing Garcinia gummi-gutta (L.) N. Robson](https://pubmed.ncbi.nlm.nih.gov/41262061/). *Pharmaceutical biology*. PMID [41262061](https://pubmed.ncbi.nlm.nih.gov/41262061/) · [doi:10.1080/13880209.2025.2591467](https://doi.org/10.1080/13880209.2025.2591467)  
   Systematic review identified 34 case reports of hepatotoxicity including 1 death and 9 liver transplants from Garcinia cambogia supplements; proposed HLA-B*35:01 genetic predisposition mechanism. Note: This primarily relates to G. cambogia but cross-contamination risk exists with G. indica.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

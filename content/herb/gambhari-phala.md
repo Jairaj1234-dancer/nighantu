@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Raktasthambhaka ([hemostatic](/glossary/pharmacology/#hemostatic)/anti-hemorrhagic): traditionally used for bleeding disorders. Charaka Samhita describes [Gambhari](/herb/gambhari/) fruit as best among substances useful in bleeding disorders. The fruit is reported to contain tannins and phenolic compounds.
 - Medhya (brain tonic): traditionally used as a brain tonic and for nourishment. Nutritional analysis has reported protein, mineral, and vitamin content in fruit preparations.
 - Shotha (inflammation) and Jwara (fever): traditionally used for these conditions. Preclinical studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Warrier RR, Priya SM, Kalaiselvi R 2021. [Gmelina arborea- an indigenous timber species of India with high medicinal value: A review on its pharmacology, pharmacognosy and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/33217516/). *Journal of ethnopharmacology*. PMID [33217516](https://pubmed.ncbi.nlm.nih.gov/33217516/) · [doi:10.1016/j.jep.2020.113593](https://doi.org/10.1016/j.jep.2020.113593)  
   Documented wide spectrum of pharmacological properties including wound healing, cytotoxic, cardioprotective, antimicrobial, anti-inflammatory, antioxidant, and antidiabetic potential.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

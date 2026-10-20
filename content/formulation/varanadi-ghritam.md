@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy publications (1986, 2004); listed in Ayurvedic Formulary of India"
 aliases: ["Varanadi Ghritam", "VaranadiGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 520
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Varanadi-Ghritam/meta-analysis.md"
@@ -54,19 +54,19 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Granthi (tumors/cysts): traditionally used for tumors and cysts. Case reports have described [Varanadi Ghritam](/formulation/varanadi-ghritam/)-based protocols used in lipoma and abnormal growths.
 - Arbuda (tumors/cancer adjuvant): traditionally used as an adjuvant for tumors. A clinical study in head and neck cancer patients reported biological response modifier activity.
 - Medoroga (obesity/metabolic disorders): traditionally used for obesity and metabolic disorders. Pharmacological studies have reported Lekhana and Medohara actions for its ingredients.
 - Gulma (abdominal masses): traditionally used for abdominal growths, with channel-clearing and anti-Kapha actions described in classical practice.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ravindran D, Hariharan I, Muwonge R and others 2014. [Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier](https://pubmed.ncbi.nlm.nih.gov/25558162/). *Ayu*. PMID [25558162](https://pubmed.ncbi.nlm.nih.gov/25558162/) · [doi:10.4103/0974-8520.146236](https://doi.org/10.4103/0974-8520.146236)  
   Varanadi [Ghrita](/herb/ghrita/) demonstrated biological response modifier activity in treated head and neck cancer patients, supporting immune function post-treatment
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

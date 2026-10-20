@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Primary reference in Sahasrayogam. Modern formulations comply with Ayurvedic Pharmacopoeia of India (API) standards including substitution of Anjana with Daruharidra for safety. Microbial testing per API standards mandatory."
 aliases: ["Neelibringadi Thailam", "NeelibringadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 488
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Neelibringadi-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hair fall and hair growth: traditionally used for hair fall and to promote hair growth. A clinical study reported reduced hair shedding, and a hair density study reported increased hair density compared with placebo.
 - Premature greying (Palitya): traditionally used for premature greying of hair. The oil's ingredients include Neeli (Indigofera) and [Amla](/herb/amla/).
 - Dandruff and scalp infections: traditionally used for dandruff and scalp infections. An in vitro study reported anti-dermatophyte activity of Neeli extract against Trichophyton strains.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

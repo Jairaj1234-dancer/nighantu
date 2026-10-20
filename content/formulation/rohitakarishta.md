@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali and Charaka Samhita. Tecomella undulata is listed in IUCN conservation lists in some regions."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 382
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Rohitakarishta/meta-analysis.md"
@@ -38,18 +38,18 @@ Bhaishajya Ratnavali and Charaka Samhita. [Rohitaka](/herb/rohitaka/) herb is cl
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Liver disorders (hepatomegaly, jaundice): traditionally used for these conditions. Studies of liver-protective activity have reported normalization of liver enzymes comparable to silymarin.
 - Splenomegaly (enlarged spleen): traditionally used for this condition. Clinical studies have reported a reduction in spleen size.
 - Ascites and edema: traditionally used for these conditions.
 - Anemia: traditionally used for this condition.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

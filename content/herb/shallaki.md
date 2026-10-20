@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for Sandhivata (arthritic conditions). Randomized clinical trials have reported improvement in knee osteoarthritis symptoms comparable to NSAIDs.
 - Traditionally used for inflammatory conditions. Studies have reported 5-LOX inhibition and NF-kB suppression. Clinical trials in inflammatory bowel disease have reported improvement.
 - Traditionally used as Shwasahara for asthma. Clinical trials in bronchial asthma patients have reported improvement in FEV1 and a reduction in eosinophil count.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Peng C, Yang Y, Wang Y and others 2025. [From bench to bedside, boswellic acids in anti-inflammatory therapy - mechanistic insights, bioavailability challenges, and optimization approaches](https://pubmed.ncbi.nlm.nih.gov/41341032/). *Frontiers in pharmacology*. PMID [41341032](https://pubmed.ncbi.nlm.nih.gov/41341032/) · [doi:10.3389/fphar.2025.1692443](https://doi.org/10.3389/fphar.2025.1692443)  
   Comprehensive review of boswellic acid mechanisms spanning NF-kB, MAPK, 5-LOX, COX-2, and NLRP3 inflammasome pathways; addressed bioavailability challenges and novel delivery strategies.
 - Salter D, Yalamanchi H, Yalamanchi A and others 2025. [Ten days of supplementation with a standardized Boswellia serrata extract attenuates soreness and accelerates recovery after repeated bouts of downhill running in recreationally active men](https://pubmed.ncbi.nlm.nih.gov/39917273/). *Frontiers in sports and active living*. PMID [39917273](https://pubmed.ncbi.nlm.nih.gov/39917273/) · [doi:10.3389/fspor.2025.1488821](https://doi.org/10.3389/fspor.2025.1488821)  
   Standardized extract attenuated exercise-induced muscle soreness and accelerated recovery in recreationally active men after repeated bouts of downhill running.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

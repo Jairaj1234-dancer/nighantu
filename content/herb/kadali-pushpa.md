@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used to reduce excessive menstrual bleeding (anti-menorrhagic use). The flower contains astringent tannins and beta-sitosterol.
 - Banana flower decoction is traditionally used for inflammatory conditions. Animal studies using acute lung injury models and in vitro studies have reported anti-inflammatory activity.
 - [Antidiabetic](/reference/antidiabetic/) use: traditionally used for high blood sugar. Studies have reported alpha-glucosidase inhibition.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gadelha FAAF, Cavalcanti RFP, Vieira CID and others 2024. [Musa paradisiaca L. Inflorescence Abrogates Neutrophil Activation by Downregulating TLR4/NF-KB Signaling Pathway in LPS-Induced Acute Lung Injury Model](https://pubmed.ncbi.nlm.nih.gov/39861071/). *Pharmaceuticals (Basel, Switzerland)*. PMID [39861071](https://pubmed.ncbi.nlm.nih.gov/39861071/) · [doi:10.3390/ph18010008](https://doi.org/10.3390/ph18010008)  
   Banana inflorescence extract reduced neutrophil activation and lung inflammation by downregulating TLR4/NF-kB signaling pathway in acute lung injury, demonstrating potent anti-inflammatory potential.
 - Widoyanti AAE, Chaikong K, Rangsinth P and others 2023. [Valorization of Nam Wah Banana (Musa paradisiaca L.) Byproducts as a Source of Bioactive Compounds with Antioxidant and Anti-inflammatory Properties: In Vitro and In Silico Studies](https://pubmed.ncbi.nlm.nih.gov/37959074/). *Foods (Basel, Switzerland)*. PMID [37959074](https://pubmed.ncbi.nlm.nih.gov/37959074/) · [doi:10.3390/foods12213955](https://doi.org/10.3390/foods12213955)  
   Banana flower extract showed promising antioxidant, anti-inflammatory, and anti-obese effects attributed to significant total phenol content and flavonoid composition.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

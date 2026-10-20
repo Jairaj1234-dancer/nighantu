@@ -49,18 +49,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Animal studies using alloxan- and STZ-induced diabetic models have reported reduced blood glucose.
 - Animal studies using castor oil-induced diarrhea models have reported reduced frequency and volume of diarrhea.
 - Animal studies using excision and incision wound models have reported improved collagen deposition and epithelialization.
 - Animal studies have reported gastroprotective activity in aspirin- and ethanol-induced gastric ulcer models.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

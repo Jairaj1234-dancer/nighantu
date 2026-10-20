@@ -34,19 +34,19 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Anti-diabetic activity: traditionally used for Prameha (diabetes). Preclinical studies have reported lower blood glucose, improved insulin sensitivity, and protection against diabetic complications including retinopathy, cardiomyopathy, and encephalopathy.
 - Rejuvenative ([Rasayana](/reference/rasayana/)) action: traditionally used as a rejuvenative tonic. Animal studies in diabetic models have reported antioxidant properties and protective effects across multiple organs.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh AD, Chawda MB, Kulkarni YA 2024. [Cardioprotective Effects of 'Vasant Kusumakar Rasa,' a Herbo-metallic Formulation, in Type 2 Diabetic Cardiomyopathy in Rats](https://pubmed.ncbi.nlm.nih.gov/39023814/). *Cardiovascular toxicology*. PMID [39023814](https://pubmed.ncbi.nlm.nih.gov/39023814/) · [doi:10.1007/s12012-024-09891-0](https://doi.org/10.1007/s12012-024-09891-0)  
   VKR treatment significantly improved glycemic and lipid profiles, serum insulin, CK-MB, LDH, and cardiac troponin-I in diabetic rats, and improved hemodynamic parameters while reducing cardiac tissue inflammation.
 - Singh AD, Chawda M, Kulkarni YA 2024. [Vasant Kusumakar Rasa Ameliorates Diabetic Encephalopathy by Reducing Oxidative Stress and Neuroinflammation and Improving Neurotransmitter Levels in Experimental Animals](https://pubmed.ncbi.nlm.nih.gov/39830570/). *Cureus*. PMID [39830570](https://pubmed.ncbi.nlm.nih.gov/39830570/) · [doi:10.7759/cureus.75905](https://doi.org/10.7759/cureus.75905)  
   VKR at doses 28 mg/kg and 56 mg/kg administered intragastrically to diabetic rats for 16 weeks showed neuroprotective effects by reducing oxidative stress, neuroinflammation, and improving neurotransmitter levels in diabetic encephalopathy.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

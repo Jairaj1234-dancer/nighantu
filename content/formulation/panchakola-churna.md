@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Panchakola group (Gana) recognized in Sushruta Samhita and Ashtanga Hridayam; individual ingredients (Piper longum, Zingiber officinale, Piper nigrum) monographed in API Part I"
 aliases: ["Panchakola Churna", "PanchakolaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 488
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Panchakola-Churna/meta-analysis.md"
@@ -39,19 +39,19 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Agni Deepana (digestive fire stimulation): traditionally used to kindle digestive fire. A pilot trial reported improved gastric motility and reduced flatulence.
 - Fat digestion: traditionally used to aid fat digestion. In vitro studies have reported lipase activation by [Chavya](/herb/chavya/) and [Pippali](/herb/pippali/) extracts.
 - Bioavailability enhancement: piperine has been reported to increase the absorption of co-administered compounds.
 - Ama Pachana (toxin digestion): traditionally used for the digestion of toxins.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh RK, Banerjee R, Upadhyay S and others 2012. [Toxicological evaluation of Panchakola Avaleha, an Ayurvedic classical formulation, in albino rats](https://pubmed.ncbi.nlm.nih.gov/23559809/). *Ayu*. PMID [23559809](https://pubmed.ncbi.nlm.nih.gov/23559809/) · [doi:10.4103/0974-8520.105257](https://doi.org/10.4103/0974-8520.105257)  
   Toxicological evaluation in albino rats showed safety profile within acceptable limits, supporting traditional use at recommended doses.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

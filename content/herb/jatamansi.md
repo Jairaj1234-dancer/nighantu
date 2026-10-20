@@ -122,7 +122,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 **Keywords:** Alzheimer’s disease, Drosophila, Nardostachys jatamansi, anti-inflammation, antioxidant, extracellular-signal-regulated kinase
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jismi VS, Ramakrishna KK, Mehta UM and others 2025. [Efficacy of Nardostachys Jatamansi DC as an adjuvant to escitalopram in the treatment of major depressive disorder - A randomized double-blind placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/40651126/). *Asian journal of psychiatry*. PMID [40651126](https://pubmed.ncbi.nlm.nih.gov/40651126/) · [doi:10.1016/j.ajp.2025.104611](https://doi.org/10.1016/j.ajp.2025.104611)  
   Randomized double-blind placebo-controlled study demonstrated that N. jatamansi DC is effective as an adjuvant to escitalopram in treating major depressive disorder, suggesting compatibility with conventional antidepressant medications.
@@ -131,7 +131,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 - Li R, Wang ZM, Wang Y and others 2021. [Antidepressant activities and regulative effects on serotonin transporter of Nardostachys jatamansi DC](https://pubmed.ncbi.nlm.nih.gov/33220358/). *Journal of ethnopharmacology*. PMID [33220358](https://pubmed.ncbi.nlm.nih.gov/33220358/) · [doi:10.1016/j.jep.2020.113601](https://doi.org/10.1016/j.jep.2020.113601)  
   N. jatamansi extract regulates serotonin transporter function, contributing to its antidepressant mechanism. Acute administration significantly increased serotonin (5-HT) and 5-HIAA levels; 15-day treatment increased serotonin and other monoamines.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

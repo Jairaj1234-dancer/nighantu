@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a [Rasayana](/reference/rasayana/) (rejuvenating) and Ojas-enhancing food. Clinical nutrition studies have reported a role for milk in immune function and tissue nourishment.
 - Used in classical practice as a pharmaceutical vehicle (Anupana/Ksheera Paka). Studies have reported that milk-based processing of herbs may increase the bioavailability of lipophilic compounds and reduce irritant properties.
 - Ksheera Basti (milk enema): traditionally used for Vataroga (neurological/musculoskeletal conditions). Clinical studies have reported benefit in sciatica.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Dube N, Nimgulkar C, Bharatraj DK 2017. [Validation of therapeutic anti-inflammatory potential of Arjuna Ksheera Paka - A traditional Ayurvedic formulation of Terminalia arjuna](https://pubmed.ncbi.nlm.nih.gov/29034188/). *Journal of traditional and complementary medicine*. PMID [29034188](https://pubmed.ncbi.nlm.nih.gov/29034188/) · [doi:10.1016/j.jtcme.2016.11.006](https://doi.org/10.1016/j.jtcme.2016.11.006)  
   A study reported that milk-based processing (Ksheera Paka) of Terminalia [arjuna](/herb/arjuna/) increased anti-inflammatory activity. In classical practice, milk is used as a pharmaceutical vehicle/adjuvant.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

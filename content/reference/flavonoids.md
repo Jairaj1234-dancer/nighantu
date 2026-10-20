@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Flavonoids.md"
 group: ""
-answer: "Flavonoids is a reference entry in the Nighantu. Found in 163 entries across the catalogue."
+answer: "Flavonoids is a reference entry in the Nighantu. Found in 43 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 367
 srcRel: "_Hub/Compounds/Flavonoids.md"
 ---
-*Found in 163 entries across the catalogue*
+*Found in 43 entries*
 
 ## Ayurveda
 

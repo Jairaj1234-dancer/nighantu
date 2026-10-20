@@ -49,19 +49,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as an anthelmintic and antiparasitic. Studies have reported molluscicidal and antischistosomal activity.
 - Traditionally used on wounds. Studies have reported [antimicrobial](/reference/antimicrobial/) activity and promotion of tissue repair.
 - [Laxative](/reference/laxative/): traditionally used as a laxative. Preclinical studies have reported effects on motility.
 - Traditionally used for skin diseases, including leprosy and leukoderma. Preclinical studies have reported antimicrobial and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ibrahim OHM, Al-Qurashi AD, Asiry KA and others 2022. [Investigation of Potential In Vitro Anticancer and Antimicrobial Activities of Balanites aegyptiaca (L.) Delile Fruit Extract and Its Phytochemical Components](https://pubmed.ncbi.nlm.nih.gov/36235487/). *Plants (Basel, Switzerland)*. PMID [36235487](https://pubmed.ncbi.nlm.nih.gov/36235487/) · [doi:10.3390/plants11192621](https://doi.org/10.3390/plants11192621)  
   Fruit extract demonstrated significant antiproliferative activity against lung, liver and brain carcinoma cell lines with concurrent antimicrobial effects against clinical isolates.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

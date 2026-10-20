@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Chakradutta and Bhaishajya Ratnavali. Varuna (Crataeva nurvala) bark monograph included in Ayurvedic Pharmacopoeia of India."
 aliases: ["Varunadi Kashayam", "VarunadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 412
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Varunadi-Kashayam/meta-analysis.md"
@@ -38,19 +38,19 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Urinary stones (Mutrashmari/Urolithiasis): traditionally used for urinary stones. Studies, including clinical trials, have reported lithotriptic and diuretic activity.
 - Kidney and bladder disorders: traditionally used for kidney and bladder disorders. Studies in macrophages have reported anti-inflammatory activity.
 - Obesity: animal studies have reported anti-obesity activity.
 - Inflammatory conditions: traditionally used for inflammatory conditions. In vitro studies in THP-1 macrophages have reported cytokine inhibition.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chinchu JU, Mohan MC, Devi SJR and others 2018. [Evaluation of anti-inflammatory effect of Varanadi Kashayam (decoction) in THP-1-derived macrophages](https://pubmed.ncbi.nlm.nih.gov/31367148/). *Ayu*. PMID [31367148](https://pubmed.ncbi.nlm.nih.gov/31367148/) · [doi:10.4103/ayu.AYU_53_18](https://doi.org/10.4103/ayu.AYU_53_18)  
   PMC-published study demonstrated significant anti-inflammatory effects through inhibition of pro-inflammatory cytokines in THP-1 macrophage cell lines.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

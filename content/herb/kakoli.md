@@ -46,18 +46,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a [Rasayana](/reference/rasayana/) for rejuvenation. Preclinical studies have reported enhanced immune cell activity.
 - Traditionally used for liver health. Studies in experimental liver injury models have reported hepatoprotective activity.
 - Traditionally used as a body strengthener. Chemical profiling has reported a rich mineral and carotenoid content.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Balkrishna A, Joshi M, Varshney Y and others 2024. [In-depth phytochemical profiling of Roscoea purpurea (Kakoli): Comparative UHPLC-MS/QToF and GC-MS/MS analysis of supercritical CO(2) fluid - and conventional solvent - based extractive processes](https://pubmed.ncbi.nlm.nih.gov/39197202/). *Journal of pharmaceutical and biomedical analysis*. PMID [39197202](https://pubmed.ncbi.nlm.nih.gov/39197202/) · [doi:10.1016/j.jpba.2024.116444](https://doi.org/10.1016/j.jpba.2024.116444)  
   First-time identification of carotenoid metabolite 15-methyl retinol in the species; fatty acid analysis of supercritical fluid extract revealed elevated unsaturated fatty acids, particularly oleic and linoleic acids.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

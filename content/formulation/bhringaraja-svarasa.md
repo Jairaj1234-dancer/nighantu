@@ -40,13 +40,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Svarasa (fresh juice), Preserved juice (modern), Capsules (modern), Hair oil base (external)

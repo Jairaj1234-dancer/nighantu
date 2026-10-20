@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Ashtangahrudayam and Charaka Samhita. Individual ingredients listed in the Ayurvedic Pharmacopoeia of India."
 aliases: ["Brihatyadi Kashayam", "BrihatyadiKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 419
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Brihatyadi-Kashayam/meta-analysis.md"
@@ -46,18 +46,18 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Urinary disorders (dysuria, retention): traditionally used for these conditions. Studies have reported diuretic action of [Gokshura](/herb/gokshura/).
 - Urinary calculi (stones): traditionally used for urinary stones. Experimental studies have reported lithotriptic effects.
 - Urinary tract infections: traditionally used for these conditions. Studies have reported antimicrobial activity of the combined formulation.
 - Respiratory conditions (adjunct use): traditionally used as an adjunct for respiratory conditions. Anti-tussive and [expectorant](/reference/expectorant/) properties have been reported for [Brihati](/herb/brihati/) and [Kantakari](/herb/kantakari/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

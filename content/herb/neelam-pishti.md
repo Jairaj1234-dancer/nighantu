@@ -33,16 +33,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory conditions (Shwasa, Kasa): traditionally, [Neelam Pishti](/herb/neelam-pishti/) is used for dyspnea and cough.
 - General tonic and Tridosha balancer: traditionally used to nourish all Dhatus and pacify Tridosha.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

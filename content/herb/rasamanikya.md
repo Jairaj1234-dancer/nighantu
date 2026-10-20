@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin diseases (Kushtha): traditionally used for psoriasis and chronic dermatoses. Arsenic was historically used in Western medicine for psoriasis (Fowler's solution). Arsenic has been reported to have anti-proliferative effects on keratinocytes. Western medicine abandoned this practice because of carcinogenic risk.
 - Fever and respiratory conditions: traditionally used for Jwara (fever) and Shwasa (asthma). Arsenic has been reported to have immunomodulatory properties. No clinical trials specific to Rasamanikya have been reported for these uses.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Srimannarayana K, Patgiri BJ, Prajapati PK 2010. [Process standardization of rasamanikya](https://pubmed.ncbi.nlm.nih.gov/22131676/). *Ayu*. PMID [22131676](https://pubmed.ncbi.nlm.nih.gov/22131676/) · [doi:10.4103/0974-8520.68195](https://doi.org/10.4103/0974-8520.68195)  
   Established standardized manufacturing procedures. Shodhana significantly reduced arsenic content compared to raw orpiment. ICP-AES confirmed arsenic and sulfur as major constituents. Different preparation methods yielded products with varying arsenic concentrations.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -54,13 +54,6 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 - Cases of chronic arsenic poisoning following Ayurvedic medication use (including Rasamanikya) have been documented in medical literature; symptoms include skin hyperpigmentation, keratoses, neuropathy, and organ damage
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 ## Dosage forms and preparation
 

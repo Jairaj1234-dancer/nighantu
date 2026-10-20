@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Antidiabetic](/reference/antidiabetic/) activity: traditionally used for Prameha (diabetes) in Ayurveda. Animal studies have reported reductions in blood [glucose](/glossary/compounds-d-g/#glucose).
 - Traditionally used in Ayurveda for joint pain and rheumatism (Amavata). Preclinical studies have reported antiarthritic and anti-inflammatory activity.
 - Traditionally used as a snakebite remedy. In vitro studies have reported antivenom activity, including neutralization of venom phospholipase activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

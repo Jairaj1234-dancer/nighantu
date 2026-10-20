@@ -84,7 +84,7 @@ const jsonld = [
     <strong>{name}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>} is an
     Ayurvedic technical term.
     {distinct.length === 1 && <> It is rendered into English as "{r.renderings[0].english}".</>}
-    {distinct.length > 1 && <> It is rendered into English in {distinct.length} different ways, which is the reason this page exists: the renderings do not agree, and the difference between them changes what the term is taken to mean.</>}
+    {distinct.length > 1 && <> It is rendered into English in {distinct.length} different ways{r.renderings.length > distinct.length && <> across {r.renderings.length} sources</>}, which is the reason this page exists: the renderings do not agree, and the difference between them changes what the term is taken to mean.</>}
     {distinct.length === 0 && <> No published English rendering was found for it.</>}
   </p>
 

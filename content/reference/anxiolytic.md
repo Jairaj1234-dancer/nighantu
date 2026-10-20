@@ -19,10 +19,9 @@ productHints: []
 words: 253
 srcRel: "_Hub/Pharmacology/Anxiolytic.md"
 ---
-*133 herbs and compounds with anxiolytic activity across traditions*
+*35 herbs and compounds with anxiolytic activity*
 
-## Ayurveda (36)
-
+## Ayurveda (35)
 - [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Aparajita](/herb/aparajita/), *Clitoria ternatea L.*
 - [Ashwagandharishta](/formulation/ashwagandharishta/)

@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Ursolic-acid.md"
 group: ""
-answer: "Ursolic acid is a reference entry in the Nighantu. Found in 62 entries across the catalogue."
+answer: "Ursolic acid is a reference entry in the Nighantu. Found in 35 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 251
 srcRel: "_Hub/Compounds/Ursolic-acid.md"
 ---
-*Found in 62 entries across the catalogue*
+*Found in 35 entries*
 
 ## Ayurveda
 

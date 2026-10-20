@@ -48,13 +48,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Murva/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - In vitro and animal studies have reported anti-tumor activity, including inhibition of several cancer cell lines.
 - Laboratory studies have reported anti-HIV activity, including inhibition of viral replication.
 - [Immunomodulatory](/reference/immunomodulatory/) properties have been reported in studies, linked to polysaccharides activating immune signaling pathways.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Du TT, Fan MH, Liu JL and others 2024. [Three New Steroids from the Roots of Marsdenia tenacissima](https://pubmed.ncbi.nlm.nih.gov/39211952/). *Chemistry & biodiversity*. PMID [39211952](https://pubmed.ncbi.nlm.nih.gov/39211952/) · [doi:10.1002/cbdv.202401801](https://doi.org/10.1002/cbdv.202401801)  
   Isolated two formerly undescribed eudesmane sesquiterpenoids and six known nor-sesquiterpenoids, along with an unreported pyrrole glycoside and two phenolic glycosides from the roots.

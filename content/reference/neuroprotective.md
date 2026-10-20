@@ -19,10 +19,9 @@ productHints: []
 words: 299
 srcRel: "_Hub/Pharmacology/Neuroprotective.md"
 ---
-*263 herbs and compounds with neuroprotective activity across traditions*
+*40 herbs and compounds with neuroprotective activity*
 
-## Ayurveda (70)
-
+## Ayurveda (40)
 - [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*
 - [Akhuparni](/herb/akhuparni/), *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*

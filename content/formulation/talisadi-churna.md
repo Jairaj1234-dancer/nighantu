@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Referenced in Sharangdhara Samhita official compendia. Recognized by AYUSH as a standard respiratory formulation."
 aliases: ["Talisadi Churna", "TalisadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 422
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/meta-analysis.md"
@@ -39,18 +39,18 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Chronic bronchitis: traditionally used for chronic bronchitis. A clinical study reported improvements in cough and lung function scores.
 - Productive cough and sputum: traditionally used for productive cough with sputum. A pilot clinical study reported reduced sputum viscosity.
 - Respiratory tract inflammation: traditionally used for inflammation of the respiratory tract. In vitro studies have reported inhibition of IL-6 and TNF-alpha.
 - Digestive weakness associated with respiratory conditions: traditionally used as a carminative and digestive stimulant for this purpose.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -71,7 +71,7 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 3 g with honey, as given in the Ayurvedic Formulary of India, Part I, entry 7:13. This replaces a previously stated 1-3g, which carried no source. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131.
+**Standard Dosage:** 3 g with honey, as given in the Ayurvedic Formulary of India, Part I, entry 7:13. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

@@ -19,10 +19,9 @@ productHints: []
 words: 342
 srcRel: "_Hub/Pharmacology/Wound-Healing.md"
 ---
-*174 herbs and compounds with wound healing activity across traditions*
+*38 herbs and compounds with wound healing activity*
 
-## Ayurveda (72)
-
+## Ayurveda (38)
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*
 - [Aivana](/herb/aivana/), *Salvia officinalis L.*
 - [Akarakarabha](/herb/akarakarabha/), *Anacyclus pyrethrum (L.) Lag.*

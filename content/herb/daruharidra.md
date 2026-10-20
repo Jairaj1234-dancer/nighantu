@@ -46,21 +46,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin diseases and acne (Kushtha/Yauvanpidika): traditionally used for skin diseases and acne. Clinical studies have reported that berberine-containing extracts showed activity against acne-associated bacteria (P. acnes, S. epidermidis) and improvement in inflammatory acne.
 - Skin lightening and exfoliation (Varnya): traditionally used in scrub preparations for skin lightening and exfoliation. In vitro studies have reported competitive inhibition of the enzyme tyrosinase.
 - Eye diseases with skin manifestation (Netra Roga): traditionally used for eye diseases with skin manifestation. Studies have reported broad [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity for berberine.
 - Wound healing (Vrana): traditionally used for wound healing. Studies have reported anti-inflammatory and antimicrobial activity for berberine.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Saeidi S, Ghanadian SM, Poostiyan N and others 2024. [Evaluation of the effectiveness of Berberis integerrima Bunge root extract combined with spearmint essential oil in the treatment of acne vulgaris: A randomized controlled clinical trial](https://pubmed.ncbi.nlm.nih.gov/38545754/). *Journal of cosmetic dermatology*. PMID [38545754](https://pubmed.ncbi.nlm.nih.gov/38545754/) · [doi:10.1111/jocd.16291](https://doi.org/10.1111/jocd.16291)  
   A randomized controlled trial reported significant clinical improvement in acne vulgaris patients given Berberis root extract combined with spearmint oil.
 - Duda-Madej A, Lipska P, Viscardi S and others 2025. [Targeting Skin Neoplasms: A Review of Berberine's Anticancer Properties](https://pubmed.ncbi.nlm.nih.gov/40710294/). *Cells*. PMID [40710294](https://pubmed.ncbi.nlm.nih.gov/40710294/) · [doi:10.3390/cells14141041](https://doi.org/10.3390/cells14141041)  
   Berberine demonstrated anticancer properties against various skin neoplasms through modulation of apoptotic pathways, cell cycle arrest, and inhibition of tumor proliferation signaling.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

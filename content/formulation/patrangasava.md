@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Charaka Samhita and Sushruta Samhita. Manufactured under Drug and Cosmetics Act, 1940."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 434
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Patrangasava/meta-analysis.md"
@@ -52,18 +52,18 @@ Brihat Trayi (the three great classics of Ayurveda). Mentioned in Charaka Samhit
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Heavy menstrual bleeding (Raktapradar/Menorrhagia): traditionally used for heavy menstrual bleeding. Studies have reported hemostatic and astringent activity.
 - Leucorrhea (Shweta Pradar): traditionally used for leucorrhea. It has been described as having uterine tonic and [antimicrobial](/reference/antimicrobial/) properties.
 - PCOS and menstrual irregularity: used in practice for menstrual irregularity, including PCOS. A clinical study reported improved menstrual regularity.
 - Endometriosis-related pain: used in practice for pain related to endometriosis. Clinical observations have reported reduced pain and inflammation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

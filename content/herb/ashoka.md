@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) Part I; bark monograph recommends use in metrorrhagia, menorrhagia, chronic lymphadenitis, and inflammations. Also listed in the Ayurvedic Formulary of India (AFI). Classified as Vulnerable on IUCN Red List due to over-exploitation."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "womens-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 815
 srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Ashoka/meta-analysis.md"
@@ -44,7 +44,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Menorrhagia and metrorrhagia: traditionally used for these conditions. Clinical studies have reported [hemostatic](/glossary/pharmacology/#hemostatic) and uterotonic effects.
 - PCOS: traditionally used in this context. Studies have reported hormonal modulation and aromatase inhibition.
@@ -52,7 +52,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 - Antipyretic action: traditionally used for fever. Preclinical studies of seed extract have reported antipyretic activity.
 - Anti-inflammatory and analgesic effects: traditionally used for inflammation and pain. Studies have reported COX-2 inhibition and cytokine modulation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bu N, Jamil A, Hussain L and others 2023. [Phytochemical-Based Study of Ethanolic Extract of Saraca asoca in Letrozole-Induced Polycystic Ovarian Syndrome in Female Adult Rats](https://pubmed.ncbi.nlm.nih.gov/38024692/). *ACS omega*. PMID [38024692](https://pubmed.ncbi.nlm.nih.gov/38024692/) · [doi:10.1021/acsomega.3c05274](https://doi.org/10.1021/acsomega.3c05274)  
   HPLC analysis revealed kaempferol, rutin, epicatechin, salicylic acid, and gallic acid. EESA reduced body weight and cystic follicles, lowered serum testosterone, LH, insulin, and malonaldehyde levels, while increasing FSH, estradiol, progesterone, prolactin, and antioxidant [enzymes](/glossary/compounds-d-g/#enzymes) in PCOS rats.
@@ -61,7 +61,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 - Urumarudappa SKJ, Rosario S, G R and others 2023. [A comprehensive review on Saraca asoca (Fabaceae) - Historical perspective, traditional uses, biological activities, and conservation](https://pubmed.ncbi.nlm.nih.gov/37390875/). *Journal of ethnopharmacology*. PMID [37390875](https://pubmed.ncbi.nlm.nih.gov/37390875/) · [doi:10.1016/j.jep.2023.116861](https://doi.org/10.1016/j.jep.2023.116861)  
   Comprehensive review cataloguing anti-inflammatory, analgesic, antipyretic, antibacterial, antioxidant, [anticancer](/reference/anticancer/), and uterotonic activities. Emphasized need for more quality control, standardization, and clinical trials to utilize the plant as effective anti-cancer drug.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -71,7 +71,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 ## What is it made of?
 
-*The marker compounds for this drug are not recorded here yet.*
+*The marker compounds are listed under Dosage forms and preparation, below.*
 
 ## Dosage forms and preparation
 

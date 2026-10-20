@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Indexed in Ayurvedic Pharmacopoeia of India (API) as drug used in treatment of Sandhigata Vata (osteoarthritis), Vatarakta (gout), and Asthigata Vata (osteoporosis); listed in Ayurvedic Formulary of India (AFI)"
 aliases: ["Guggulutiktakam Ghritam", "GuggulutiktakamGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 534
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Guggulutiktakam-Ghritam/meta-analysis.md"
@@ -39,19 +39,19 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Asthigata Vata (bone diseases/osteoporosis): traditionally used for this condition. Clinical studies in osteoarthritis have reported reduced pain and improved mobility.
 - Bhagandara (fistula-in-ano): traditionally used for this condition. [Guggulu](/formulation/guggulu/)-based [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) is an Ayurvedic surgical procedure traditionally used for fistula.
 - Kushta (chronic skin diseases): traditionally used for this condition. Pharmacological studies have reported anti-inflammatory and anti-microbial actions of its ingredients.
 - Vatarakta (gout): traditionally used for this condition. Experimental studies have reported anti-hyperuricemic and anti-inflammatory effects of [Guggulu](/formulation/guggulu/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sheik SM, Bakthavatchalam P, Shenoy RP and others 2022. [Anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effect of the drug Guggulutiktaka ghrita on high-fat diet-induced obese rats](https://pubmed.ncbi.nlm.nih.gov/35759880/). *Journal of Ayurveda and integrative medicine*. PMID [35759880](https://pubmed.ncbi.nlm.nih.gov/35759880/) · [doi:10.1016/j.jaim.2022.100583](https://doi.org/10.1016/j.jaim.2022.100583)  
   Guggulutiktaka [Ghrita](/herb/ghrita/) demonstrated significant anti-hyperglycemic, anti-hyperlipidemic, and anti-inflammatory effects in high-fat diet-induced obese rats, modulating proinflammatory cytokines
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -63,7 +63,7 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
-**Standard Dosage:** 12 g (1-2 teaspoons) twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:27. The formulary's anupana: milk, warm water. This replaces a previously stated 6-12 g, which carried no source. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 57-58 14.
+**Standard Dosage:** 12 g (1-2 teaspoons) twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:27. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 57-58 14.
 
 **Bioavailability:** Ghee matrix provides superior absorption of both lipophilic guggulsterones and hydrophilic bitter principles. [Guggulu](/formulation/guggulu/) acts as yogavahi further enhancing bioavailability of co-ingredients. Tikta rasa (bitter taste) stimulates hepatobiliary function, improving systemic absorption. Excellent vehicle for bone and joint conditions.
 

@@ -45,20 +45,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Stanya-janana (galactagogue): traditionally used to support breast milk production. Randomized controlled trials have reported increased breast milk volume and prolactin levels in lactating women.
 - Traditionally used for menopausal symptoms. A randomized controlled trial reported a reduction in hot flushes and sleep disturbance.
 - Traditionally used as an adaptogen and [Rasayana](/reference/rasayana/). Clinical and preclinical studies have reported HPA axis modulation and improvement in stress biomarkers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Oyovwi MO, Chijiokwu EA, Ben-Azu B and others 2025. [Shatavari (Asparagus racemosus): A Promising Ally for Fertility](https://pubmed.ncbi.nlm.nih.gov/40974515/). *Current nutrition reports*. PMID [40974515](https://pubmed.ncbi.nlm.nih.gov/40974515/) · [doi:10.1007/s13668-025-00694-5](https://doi.org/10.1007/s13668-025-00694-5)  
   Systematic review evaluating effects on reproductive health; found enhancement of fertility rates and improvement of breast milk quality and quantity for postpartum care.
 - Ademola J, Ajgaonkar A, Debnath T and others 2025. [Efficacy and safety of Shatavari root extract (Asparagus racemosus) for menopausal symptoms: a randomized, double-blind, three-arm, placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/41394012/). *Frontiers in reproductive health*. PMID [41394012](https://pubmed.ncbi.nlm.nih.gov/41394012/) · [doi:10.3389/frph.2025.1654503](https://doi.org/10.3389/frph.2025.1654503)  
   RCT demonstrated significant reduction in menopausal symptoms (hot flushes, sleep disturbance, mood changes) with good safety profile; only mild adverse events reported.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

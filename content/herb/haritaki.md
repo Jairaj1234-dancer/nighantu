@@ -112,7 +112,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 **Keywords:** Combretaceae, Terminalia chebula, antioxidants, bioactivity, phenolic acids, tannins
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chakkalakal M, Pan A, Nadora D and others 2023. [Randomized Double-Blind Placebo-Controlled Supplementation with Standardized Terminalia chebula Fruit Extracts Reduces Facial Sebum Excretion, Erythema, and Wrinkle Severity](https://pubmed.ncbi.nlm.nih.gov/36836126/). *Journal of clinical medicine*. PMID [36836126](https://pubmed.ncbi.nlm.nih.gov/36836126/) · [doi:10.3390/jcm12041591](https://doi.org/10.3390/jcm12041591)  
   8-week RCT (NCT04597502) on healthy females aged 25-65 supplemented with 250 mg Synastol TC twice daily showed that oral T. chebula extract significantly reduced facial sebum excretion, erythema, and wrinkle severity.
@@ -121,7 +121,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 - Hassan Bulbul MR, Uddin Chowdhury MN, Naima TA and others 2022. [A comprehensive review on the diverse pharmacological perspectives of Terminalia chebula Retz](https://pubmed.ncbi.nlm.nih.gov/36051270/). *Heliyon*. PMID [36051270](https://pubmed.ncbi.nlm.nih.gov/36051270/) · [doi:10.1016/j.heliyon.2022.e10220](https://doi.org/10.1016/j.heliyon.2022.e10220)  
   Documented antioxidative, antiproliferative, antimicrobial, proapoptotic, antidiabetic, anti-aging, hepatoprotective, anti-inflammatory, antimutagenic, and antiepileptic properties through multiple laboratory approaches.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

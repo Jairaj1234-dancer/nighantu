@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Oleanolic-acid.md"
 group: ""
-answer: "Oleanolic acid is a reference entry in the Nighantu. Found in 47 entries across the catalogue."
+answer: "Oleanolic acid is a reference entry in the Nighantu. Found in 31 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 201
 srcRel: "_Hub/Compounds/Oleanolic-acid.md"
 ---
-*Found in 47 entries across the catalogue*
+*Found in 31 entries*
 
 ## Ayurveda
 

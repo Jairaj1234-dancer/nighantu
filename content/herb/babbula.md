@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for dental and oral hygiene (babool datun). Studies have reported antimicrobial activity against oral pathogens.
 - Traditionally used for diarrhea. Animal studies using castor oil-induced diarrhea models have reported anti-diarrheal activity, attributed to the astringent action of tannins.
 - Traditionally used for wounds. Studies have reported antimicrobial and astringent activity and promotion of collagen synthesis.
 - Traditionally used for diabetes. Preclinical studies have reported alpha-amylase inhibition and hypoglycemic effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Batiha GE, Akhtar N, Alsayegh AA and others 2022. [Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Genus Acacia](https://pubmed.ncbi.nlm.nih.gov/36364163/). *Molecules (Basel, Switzerland)*. PMID [36364163](https://pubmed.ncbi.nlm.nih.gov/36364163/) · [doi:10.3390/molecules27217340](https://doi.org/10.3390/molecules27217340)  
   Genus Acacia compounds showed potent acetylcholinesterase inhibitory activity alongside antimicrobial, antidiabetic and gastroprotective effects in preclinical models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

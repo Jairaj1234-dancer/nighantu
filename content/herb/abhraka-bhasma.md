@@ -44,14 +44,14 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hepatitis and liver disorders: traditionally used for Yakrit Roga (liver disease). Animal studies have reported hepatoprotective effects.
 - Respiratory diseases (Shwasa, Kasa): traditionally used for Shwasa and Kasa. Preclinical studies on lung cancer cells have reported anti-inflammatory properties.
 - Cancer: traditionally used for Arbuda (tumor) conditions. In vitro studies have reported cytotoxicity against breast and lung cancer cell lines. Clinical translation is pending.
 - Rejuvenation (Rasayana): used in classical practice as a Rasayana (rejuvenation/anti-aging). Studies have reported DNA repair enhancement and immunomodulatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Soman Pillai D, Karavettekudy Ranjit A 2025. [Abhraka Bhasma (mica based nanomedicine): an ayurvedic herbomineral perspective in breast cancer management](https://pubmed.ncbi.nlm.nih.gov/41487493/). *Frontiers in pharmacology*. PMID [41487493](https://pubmed.ncbi.nlm.nih.gov/41487493/) · [doi:10.3389/fphar.2025.1656846](https://doi.org/10.3389/fphar.2025.1656846)  
   [Abhraka Bhasma](/herb/abhraka-bhasma/) exhibits dose-dependent cytotoxicity, apoptosis induction, immunomodulatory activity, and inhibition of teratoma-formation in breast cancer cell lines. Tridosha-balancing and Rasayana properties support anti-cancer potential.
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 - Kulala DS, Prasad K, Reddy PS and others 2023. [Understanding the effects of Abhraka Bhasma on genotoxicity and its DNA repair potential in mouse model](https://pubmed.ncbi.nlm.nih.gov/35973910/). *Journal of Ayurveda and integrative medicine*. PMID [35973910](https://pubmed.ncbi.nlm.nih.gov/35973910/) · [doi:10.1016/j.jaim.2022.100598](https://doi.org/10.1016/j.jaim.2022.100598)  
   [Abhraka Bhasma](/herb/abhraka-bhasma/) is not genotoxic or reproductive toxic. Shows protective role against ethyl methanesulfonate-induced chromosomal damage and enhanced constitutive DNA base excision repair in mice.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -108,4 +108,3 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 
 Properly prepared bhasma is indefinitely stable. Reversion to metallic form indicates improper preparation
 
-*Generated for the AgeAyurveda Herb Catalogue*

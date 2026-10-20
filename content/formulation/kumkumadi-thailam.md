@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy (PCIMH) Volumes 3 and 4. Listed in Ayurvedic Formulary of India. Classical references in Bhaishajya Ratnavali and Ashtanga Hridayam."
 aliases: ["Kumkumadi Thailam", "KumkumadiThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 474
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kumkumadi-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin brightening and complexion enhancement (Varnya): traditionally used to brighten the skin and enhance complexion. Clinical trials have reported reduced melanin with regular use.
 - Post-acne marks and scars: traditionally used to fade post-acne marks and scars. Case series from Ayurvedic clinics have reported visible fading of marks in some participants.
 - Skin hydration and anti-aging: traditionally used for skin hydration and anti-aging. Clinical measurements have reported increased skin hydration, improved elasticity and reduced transepidermal water loss.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

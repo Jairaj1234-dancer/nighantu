@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Amalaki has a monograph in the Ayurvedic Pharmacopoeia of India (API). Amalaki Rasayana is described in Charaka Samhita as an official Rasayana preparation. Pharmacognostic and phytochemical analyses of it have been published."
 aliases: ["Amalaki Rasayana", "AmalakiRasayana"]
 tags: ["ayurveda", "formulation", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 598
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaki-Rasayana/meta-analysis.md"
@@ -46,21 +46,21 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vayasthapana (anti-aging/rejuvenation): traditionally used for rejuvenation. A clinical study in humans reported telomerase activation and maintenance of telomere length.
 - Hridya ([cardioprotective](/reference/cardioprotective/)): traditionally used for the heart. A study in a hypertrophy model reported improved cardiac mitochondrial function and contractile performance.
 - Rasayana (comprehensive rejuvenation): used in classical practice for rejuvenation. A review has reported antioxidant, [immunomodulatory](/reference/immunomodulatory/), and anti-aging activity.
 - DNA repair and cellular protection: a clinical study reported maintained DNA strand break repair in aged individuals.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Guruprasad KP, Dash S, Shivakumar MB and others 2017. [Influence of Amalaki Rasayana on telomerase activity and telomere length in human blood mononuclear cells](https://pubmed.ncbi.nlm.nih.gov/28602428/). *Journal of Ayurveda and integrative medicine*. PMID [28602428](https://pubmed.ncbi.nlm.nih.gov/28602428/) · [doi:10.1016/j.jaim.2017.01.007](https://doi.org/10.1016/j.jaim.2017.01.007)  
   45-day administration in healthy aged volunteers (45-60 years) showed increased telomerase activity that facilitated maintenance of telomere length, potentially promoting healthy aging
 - Kumar V, Aneesh KA, Kshemada K and others 2017. [Amalaki rasayana, a traditional Indian drug enhances cardiac mitochondrial and contractile functions and improves cardiac function in rats with hypertrophy](https://pubmed.ncbi.nlm.nih.gov/28819266/). *Scientific reports*. PMID [28819266](https://pubmed.ncbi.nlm.nih.gov/28819266/) · [doi:10.1038/s41598-017-09225-x](https://doi.org/10.1038/s41598-017-09225-x)  
   [Amalaki Rasayana](/formulation/amalaki-rasayana/) enhanced cardiac mitochondrial function and contractile performance, improving cardiac function in rats with cardiac hypertrophy
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -69,13 +69,6 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 - Honey component should not be heated; classical preparation methods ensure honey is added after cooling
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
 
 ## Dosage forms and preparation
 

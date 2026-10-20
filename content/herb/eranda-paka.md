@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Virechana (laxative and purgative): traditionally used as a laxative and purgative. Pharmacological studies have reported stimulation of intestinal motility linked to ricinoleic acid.
 - Amavata (rheumatoid conditions): traditionally used for joint and rheumatic complaints. Preclinical studies have reported reduced joint inflammation and pain.
 - Deepana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric motility and secretion when the herb was processed with jaggery.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
   Comprehensive review documenting the diverse therapeutic applications of castor-derived preparations including anti-inflammatory, [antimicrobial](/reference/antimicrobial/), laxative, and wound healing properties across different formulation types.
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
   Essential oil, beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), cepharadiones, and [piperine](/reference/piperine/)-like compounds identified as key pharmacologically active constituents with [antioxidant](/reference/antioxidant/), anti-inflammatory, and antimicrobial activities.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

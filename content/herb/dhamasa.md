@@ -46,20 +46,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for pain and inflammatory conditions. COX inhibition studies and animal studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
 - Traditionally used in folk practice as an anticancer remedy, particularly in Pakistan and India. In vitro studies have reported [Anticancer](/reference/anticancer/) and cytotoxic activity against multiple cancer cell lines.
 - Traditionally used for blood-related disorders. Experimental studies have reported antithrombotic activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Badawy SA, Hassan AR, Shafaa MW and others 2025. [Liposomal formulation of Fagonia arabica L. enhances antithrombotic efficacy: phytochemical, pharmacological, and computational investigations](https://pubmed.ncbi.nlm.nih.gov/41306891/). *RSC advances*. PMID [41306891](https://pubmed.ncbi.nlm.nih.gov/41306891/) · [doi:10.1039/d5ra06347g](https://doi.org/10.1039/d5ra06347g)  
   Developed liposomal nanoparticles of saponin-rich extract, enhancing bioavailability and confirming thrombolytic and anticoagulant potential through in vitro and computational molecular docking studies.
 - Mohamed EIA, Elwekeel AH, Mohamed DEA and others 2024. [Validating anti-inflammatory and cytotoxic properties of Fagonia cretica L. through metabolic, in vitro, and in silico profiling](https://pubmed.ncbi.nlm.nih.gov/39609685/). *BMC complementary medicine and therapies*. PMID [39609685](https://pubmed.ncbi.nlm.nih.gov/39609685/) · [doi:10.1186/s12906-024-04684-y](https://doi.org/10.1186/s12906-024-04684-y)  
   Metabolic profiling by LC-HRMS identified 21 compounds (flavonoids, diterpenes, sterols, [triterpenes](/glossary/compounds-t-z/#triterpenes)); demonstrated COX-1/COX-2 inhibition and cytotoxic activity against MCF-7, HepG2, and CACO2 cell lines.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

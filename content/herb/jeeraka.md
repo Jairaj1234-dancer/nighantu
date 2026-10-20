@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a Deepaniya (appetizer) and Pachaniya (digestive) herb. Clinical studies have reported digestive and carminative properties.
 - Traditionally used in metabolic disorders. Clinical studies have reported improvement in glycemic parameters.
 - Traditionally used in cardiovascular conditions. Clinical studies have reported [hypolipidemic](/glossary/pharmacology/#hypolipidemic) effects, including lower total cholesterol and triglycerides.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Singh N, Yadav SS, Kumar S and others 2021. [A review on traditional uses, phytochemistry, pharmacology, and clinical research of dietary spice Cuminum cyminum L](https://pubmed.ncbi.nlm.nih.gov/33893678/). *Phytotherapy research : PTR*. PMID [33893678](https://pubmed.ncbi.nlm.nih.gov/33893678/) · [doi:10.1002/ptr.7133](https://doi.org/10.1002/ptr.7133)  
   Comprehensive clinical and preclinical evidence review documenting [cumin](/herb/cumin/)'s efficacy in metabolic disorders, diabetes management, hyperlipidemia, and weight management.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

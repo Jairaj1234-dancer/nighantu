@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; described in Charaka Samhita (one of the Brihattrayi foundational texts); individual ingredients including Lodhra, Manjishta, Arjuna monographed in Ayurvedic Pharmacopoeia of India (API) Part I; CCRAS-recognized formulation for Stri Roga (gynecological disorders)"
 aliases: ["Pushyanuga Churna", "PushyanugaChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 464
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Pushyanuga-Churna/meta-analysis.md"
@@ -39,16 +39,16 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Raktapradara (menorrhagia/DUB): traditionally used for heavy uterine bleeding. A clinical study reported a reduction in uterine hemorrhage.
 - Shweta Pradara (leucorrhoea): traditionally used for leucorrhoea. Research has reported antimicrobial and astringent activity in the female genitourinary tract.
 - Traditionally used for menstrual disorders. Research on [Lodhra](/herb/lodhra/) extract has reported effects on FSH, LH and progesterone.
 - Traditionally used for reproductive tract infections. Research has reported broad-spectrum antimicrobial activity against gynecological pathogens.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

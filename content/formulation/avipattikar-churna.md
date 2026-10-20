@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Included in the National Formulary of Unani Medicine. Widely recognized across Indian state pharmacopoeias. Referenced in multiple AYUSH-approved formulation compendia."
 aliases: ["Avipattikar Churna", "AvipattikarChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 462
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churna/meta-analysis.md"
@@ -39,16 +39,16 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hyperacidity and peptic ulcer: traditionally used for hyperacidity and peptic ulcer. Studies have reported anti-ulcer activity comparable to ranitidine, along with activity on the NF-kB pathway.
 - Constipation: traditionally used for constipation. Its [Trivrit](/herb/trivrit/) and [Triphala](/herb/triphala/) components are traditionally regarded as mild laxatives.
 - Digestive fire: traditionally used to strengthen digestive fire. Its [Trikatu](/herb/trikatu/) component is traditionally regarded as carminative.
 - Gastric mucosal protection: traditionally used to protect the stomach lining. Studies have reported antioxidant and cytoprotective activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*4 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

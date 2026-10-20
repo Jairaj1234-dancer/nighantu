@@ -44,14 +44,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory disorders and cough (Kasa-hara): traditionally used for these conditions. Studies have reported expectorant, anti-inflammatory, and [antimicrobial](/reference/antimicrobial/) properties.
 - [Antipyretic](/reference/antipyretic/) (Jvarahara): traditionally used for this purpose. Pharmacological studies have reported diaphoretic and antipyretic activities.
 - Skin health and complexion (Varnya): traditionally used in face preparations. Studies have reported anti-inflammatory and [antioxidant](/reference/antioxidant/) activity.
 - Sleep aid and [anxiolytic](/reference/anxiolytic/) (Nidrajanana): traditionally used as a sedative. Studies have reported calming effects on the central nervous system linked to flavonoids.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - El-Feky AM, El-Rashedy AA 2025. [Anti-inflammatory and cytotoxic assessment of flavonoids isolated from Viola odorata flowers with computer-guided docking study](https://pubmed.ncbi.nlm.nih.gov/40968164/). *Scientific reports*. PMID [40968164](https://pubmed.ncbi.nlm.nih.gov/40968164/) · [doi:10.1038/s41598-025-19442-4](https://doi.org/10.1038/s41598-025-19442-4)  
   Isolated specific flavonoids from flowers and demonstrated significant anti-inflammatory and anticancer activities; molecular docking confirmed strong binding to inflammatory and cancer-related protein targets.

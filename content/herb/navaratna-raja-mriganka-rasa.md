@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Classical Rasashastra formulation from Rasendra Sara Sangraha; manufactured by select licensed Ayurvedic pharmacies under AYUSH guidelines; classified as a Rasa Aushadhi (mineral medicine) requiring Schedule E-1 prescription; regulatory scrutiny due to heavy metal content"
 aliases: ["Navaratna Raja Mriganka Rasa", "NavaratnaRajaMrigankaRasa"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 468
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Navaratna-Raja-Mriganka-Rasa/meta-analysis.md"
@@ -40,16 +40,16 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rejuvenation and anti-aging (Rasayana): traditionally used as a potent rejuvenative for debility and aging. Modern research is limited because safety concerns have precluded clinical trials.
 - Tridosha balance and multi-system tonic: traditionally used for balancing all three Doshas. Rigorous clinical evidence is lacking.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

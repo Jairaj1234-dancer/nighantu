@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Diuretic (Mutrala): traditionally used as a diuretic. Pharmacological studies have reported diuretic activity.
 - Hepatoprotective (Yakrit-shodhana): traditionally used for the liver. Experimental studies have reported protection against chemically induced and paracetamol-induced liver damage.
 - Anti-inflammatory and anti-edema (Shotha-hara): traditionally used for swelling and inflammation. Animal studies using carrageenan-induced paw edema and cotton pellet granuloma models have reported anti-inflammatory activity.
 - Rejuvenative ([Rasayana](/reference/rasayana/)): traditionally used as a rejuvenative. Pharmacological studies have reported antioxidant, immunomodulatory and anti-aging activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Patil KS, Bhalsing SR 2016. [Ethnomedicinal uses, phytochemistry and pharmacological properties of the genus Boerhavia](https://pubmed.ncbi.nlm.nih.gov/26844923/). *Journal of ethnopharmacology*. PMID [26844923](https://pubmed.ncbi.nlm.nih.gov/26844923/) · [doi:10.1016/j.jep.2016.01.042](https://doi.org/10.1016/j.jep.2016.01.042)  
   Reviewed 46 compounds isolated from Boerhavia erecta; documented anti-inflammatory, [anticancer](/reference/anticancer/), hepatoprotective, [antidiabetic](/reference/antidiabetic/), and antibacterial activities across the genus.
 - Patel N, Mishra R, Rajput D and others 2025. [A comprehensive review of the phytochemistry, pharmacology, pharmacokinetics, and green nanotechnological significance of Boerhavia diffusa Linn](https://pubmed.ncbi.nlm.nih.gov/40334820/). *Fitoterapia*. PMID [40334820](https://pubmed.ncbi.nlm.nih.gov/40334820/) · [doi:10.1016/j.fitote.2025.106599](https://doi.org/10.1016/j.fitote.2025.106599)  
   Comprehensive review documenting punarnavine and other alkaloids, flavonoids, phenolics, and saponins as key constituents with diverse pharmacological activities.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -200,9 +200,9 @@
     "modified": "2026-10-08"
   },
   "corrections": {
-    "hash": "dba0bd3bdd7db22c",
+    "hash": "34963b65e75419f1",
     "published": "2026-10-10",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "crosswalk": {
     "hash": "c8bf272afcdc41b1",
@@ -420,27 +420,27 @@
     "modified": "2026-10-11"
   },
   "formulation": {
-    "hash": "af6982b7353056ee",
+    "hash": "924373e75916b2e4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/abhayarishta": {
-    "hash": "10c91a89ef048974",
+    "hash": "db0291364de77862",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/agastya-haritaki-rasayana": {
-    "hash": "8f1fba0f341c2923",
+    "hash": "c07e7c5be61dcfb8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/agnitundi-vati": {
-    "hash": "1bba8ef0affe8219",
+    "hash": "082c0cbcd5d17903",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/ajamoda-arka": {
-    "hash": "eaca16ed5420998b",
+    "hash": "14011d8d10208bf8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -450,17 +450,17 @@
     "modified": "2026-10-12"
   },
   "formulation/amalaka-rasayana": {
-    "hash": "ed2a10cf571f0664",
+    "hash": "b8835bd3ef868780",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "formulation/amalaki-rasayana": {
-    "hash": "1b1bfdbaca138616",
+    "hash": "f667a91161a5e3e1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/amrita-ghrita": {
-    "hash": "8abe0eaa1d83a02b",
+    "hash": "641d50bce80eded4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -475,12 +475,12 @@
     "modified": "2026-10-20"
   },
   "formulation/amritottaram-kashayam": {
-    "hash": "3aca7235c9ddff67",
+    "hash": "1d49604acf30058c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/anu-taila": {
-    "hash": "f3d9f0c3acf4a45b",
+    "hash": "f0dbff5caaa103f7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -490,14 +490,14 @@
     "modified": "2026-10-11"
   },
   "formulation/aravindasava": {
-    "hash": "1477a05d306b2ca8",
+    "hash": "8d98ac839ae33628",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/ardraka-svarasa": {
-    "hash": "cc749a47481adebf",
+    "hash": "09e541c81a12f90f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "formulation/arishtaka": {
     "hash": "779aa22c7744c74f",
@@ -505,12 +505,12 @@
     "modified": "2026-10-11"
   },
   "formulation/arjunarishta": {
-    "hash": "f78a1740d5d47abe",
+    "hash": "1abd099d871bd0c9",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/arogyavardhini-vati": {
-    "hash": "c82dfc28ccc86ba0",
+    "hash": "13afa223fd1a4d8d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -520,17 +520,17 @@
     "modified": "2026-10-11"
   },
   "formulation/ashoka-ghrita": {
-    "hash": "7d9f50107c88762c",
+    "hash": "a5b5b80eb1a2f508",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/ashokarishta": {
-    "hash": "39ca4a9e69e2e156",
+    "hash": "8c51ee7b280aa8c3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/ashwagandharishta": {
-    "hash": "afe3ab33da594c3d",
+    "hash": "c101c02195925429",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -540,7 +540,7 @@
     "modified": "2026-10-12"
   },
   "formulation/avipattikar-churna": {
-    "hash": "5582a4f1db4e781a",
+    "hash": "1530b6145c236262",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -550,17 +550,17 @@
     "modified": "2026-10-11"
   },
   "formulation/bakuchi-taila": {
-    "hash": "9fba8d7fa1ae9e37",
+    "hash": "2d70f85b1a4dc89c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/balarishta": {
-    "hash": "9c01dae92d3315b0",
+    "hash": "0d3ee7bcb68d8120",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/balaswagandhadi-thailam": {
-    "hash": "a2807ca04528205a",
+    "hash": "f3fa3332a5501a80",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -570,42 +570,42 @@
     "modified": "2026-10-20"
   },
   "formulation/bhringaraja-svarasa": {
-    "hash": "bcd9ec1944d6f2cd",
+    "hash": "1da6661336d849af",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "formulation/bilwadi-leha": {
-    "hash": "0b8062fc21173674",
+    "hash": "94f00d80f1ba4c76",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/brahma-rasayana": {
-    "hash": "131a86a3457abc29",
+    "hash": "5b68cfa3f85568ce",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/brahmi-ghritam": {
-    "hash": "3f020ac16983e006",
+    "hash": "d91d15fdb29ea2b2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/brahmi-vati": {
-    "hash": "02445bc28ca36907",
+    "hash": "dc8bbc038d4e4028",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/brihatyadi-kashayam": {
-    "hash": "df0c63b090761a9f",
+    "hash": "04252486725bfce4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/caturjata-churna": {
-    "hash": "5b03426715c7eb14",
+    "hash": "88360ddb69e75ee2",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "formulation/chandraprabha-vati": {
-    "hash": "4e5137fc6a5a3280",
+    "hash": "2c7d637e33e3a20a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -615,22 +615,22 @@
     "modified": "2026-10-20"
   },
   "formulation/chitrakadi-vati": {
-    "hash": "03d5ebafb4589cd6",
+    "hash": "aa5bedbb2291e9c7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/chyawanprash": {
-    "hash": "1d465ab46ca3d79b",
+    "hash": "640bd620262db515",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/coconut-oil-narikela-taila": {
-    "hash": "f9f1c2c754e8eca1",
+    "hash": "028bfc447122cb57",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/dadimadi-ghrita": {
-    "hash": "8afa86638f389590",
+    "hash": "f1062da89d25d666",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -640,7 +640,7 @@
     "modified": "2026-10-20"
   },
   "formulation/dashamoola-katutraya-kashayam": {
-    "hash": "65f8e97d88cfa0f3",
+    "hash": "c36f7965fa3f23ac",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -655,7 +655,7 @@
     "modified": "2026-10-12"
   },
   "formulation/dashmool-dashmoolarishta": {
-    "hash": "0a91200e30235efc",
+    "hash": "f091ab47ee18854f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -665,12 +665,12 @@
     "modified": "2026-10-11"
   },
   "formulation/dhanwantaram-kashayam": {
-    "hash": "e4283c82ce9645eb",
+    "hash": "0600112df37cee21",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/dhanwantaram-thailam": {
-    "hash": "72acdaaa01236649",
+    "hash": "bbe46b80a340dda0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -685,12 +685,12 @@
     "modified": "2026-10-12"
   },
   "formulation/draksharishta": {
-    "hash": "67a27ff97b01812f",
+    "hash": "ccb65a2bf5effa36",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/eladi-thailam": {
-    "hash": "3bb207efd44c5dd7",
+    "hash": "4f361bea6da2c935",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -700,7 +700,7 @@
     "modified": "2026-10-11"
   },
   "formulation/elakanadi-kashayam": {
-    "hash": "18c4b584fc461712",
+    "hash": "db43c8a490b42496",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -710,7 +710,7 @@
     "modified": "2026-10-10"
   },
   "formulation/gandharvahastadi-kashayam": {
-    "hash": "5d9dc00f8f2dbd63",
+    "hash": "71b37abbd72144bd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -720,14 +720,14 @@
     "modified": "2026-10-20"
   },
   "formulation/gokshuradi-guggulu": {
-    "hash": "2310eb0ed3927c56",
+    "hash": "e55175446ada2317",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/guggulu": {
-    "hash": "8f75771f346a49c3",
+    "hash": "2f82ceadff3a8626",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-20"
   },
   "formulation/guggulu-herb": {
     "hash": "b2199e862205ddf1",
@@ -735,7 +735,7 @@
     "modified": "2026-10-20"
   },
   "formulation/guggulutiktakam-ghritam": {
-    "hash": "427f36c27167d5d7",
+    "hash": "b7c056eca0833219",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -745,37 +745,37 @@
     "modified": "2026-10-11"
   },
   "formulation/guloochyadi-kashayam": {
-    "hash": "a6f0130dd406f539",
+    "hash": "45cac962afb45ce4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/haridra-khanda": {
-    "hash": "93501111e6c346b8",
+    "hash": "bc42a840b110c012",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/himasagara-thailam": {
-    "hash": "0fa3630d63ed0a51",
+    "hash": "bd349a3ea7f059c3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/hinguvachadi-churna": {
-    "hash": "0a65ab43a1efd930",
+    "hash": "c9248d0f9f526c9d",
     "published": "2026-09-09",
-    "modified": "2026-10-12"
+    "modified": "2026-10-20"
   },
   "formulation/hingvashtak-churna": {
-    "hash": "fb97d659d9ab7853",
+    "hash": "3350ad54ec140f42",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/hingwashtak-churna": {
-    "hash": "626d6a9aed233a92",
+    "hash": "26c05d0d0ed8826d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/indukantham-ghritam": {
-    "hash": "53b0390ef7d965f1",
+    "hash": "f081c34abf3dbd93",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -785,12 +785,12 @@
     "modified": "2026-10-10"
   },
   "formulation/jatyadi-ghrita": {
-    "hash": "0cf6f801403fd4c7",
+    "hash": "6b9530d835218931",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/jatyadi-taila": {
-    "hash": "110e077203c963d2",
+    "hash": "340b161949918c9d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -800,27 +800,27 @@
     "modified": "2026-10-12"
   },
   "formulation/kaishore-guggul": {
-    "hash": "0a2eae187119c543",
+    "hash": "6e94e081fa3213c2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kalyanaka-ghrita": {
-    "hash": "4306503c3e255261",
+    "hash": "18cd35e2b3d7eb24",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kalyanaka-ghritam": {
-    "hash": "be6241063b352ee5",
+    "hash": "00846778e19eea5c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kanchanara-guggulu": {
-    "hash": "bb2cd287904f7828",
+    "hash": "cc637df7f73faa3a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kanthasudharak-vati": {
-    "hash": "a5cf514a42ce5d55",
+    "hash": "eb9baf17a04c6ba8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -845,27 +845,27 @@
     "modified": "2026-10-12"
   },
   "formulation/karpooradi-thailam": {
-    "hash": "839231ecbd5cffec",
+    "hash": "71ca3fc2b89e0a26",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/khadiradi-vati": {
-    "hash": "e25269d5a98d4987",
+    "hash": "73b8972abf2d7784",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kottamchukkadi-thailam": {
-    "hash": "a2966581f399b92c",
+    "hash": "a21d26aff8cb64af",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/krimighna-vati": {
-    "hash": "d11c3de84aba41b8",
+    "hash": "f4b6dd7e8ed754bc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kshirabala-thailam": {
-    "hash": "d021389484638db1",
+    "hash": "7b5f730eb2e0eca3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -875,17 +875,17 @@
     "modified": "2026-10-20"
   },
   "formulation/kumaryasava": {
-    "hash": "b2755581b5c9d776",
+    "hash": "2b7fa65160aaa30d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kumkumadi-tailam": {
-    "hash": "44f25e73dfe21185",
+    "hash": "8e1a28ea36a5bd0e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/kumkumadi-thailam": {
-    "hash": "c54f42b7c1e9b0d9",
+    "hash": "467491562f9fb7d3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -895,97 +895,97 @@
     "modified": "2026-10-11"
   },
   "formulation/kutajarishta": {
-    "hash": "07e70058ca3b3206",
+    "hash": "af24d74f7a71979c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/lakshadi-thailam": {
-    "hash": "5c53ff52c6e8af2b",
+    "hash": "ef7555cbd8d04c43",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/lavangadi-vati": {
-    "hash": "9e8eea9ca913c847",
+    "hash": "d4c08d6de321c927",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/madhusnuhi-rasayana": {
-    "hash": "9ea731e834303768",
+    "hash": "6f1b1079db9b825b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/maha-narayana-thailam": {
-    "hash": "b1162c42976ec66e",
+    "hash": "f52444f4f7252326",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/mahasudarshan-churna": {
-    "hash": "bd068aa41f2e1a1a",
+    "hash": "fa37e9f2c83429ba",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/mahayograj-guggul": {
-    "hash": "70abb66aaa1c1b84",
+    "hash": "3aee3246adf12ea3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/murivenna": {
-    "hash": "a5b470cf70aa868b",
+    "hash": "cdd821d7bb2c7c42",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/mustakarishta": {
-    "hash": "14f27aaa94e9470a",
+    "hash": "365345c7e2c1da1b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/narayana-thailam": {
-    "hash": "542b3000b50252a0",
+    "hash": "c9e0e39bf34a1709",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/neelibringadi-thailam": {
-    "hash": "6780c4f59ce8287e",
+    "hash": "4d15822d8df7c508",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/panchagavya-ghrita": {
-    "hash": "4ff9d4ad3ad49d3c",
+    "hash": "13b607dd37aefd0b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/panchakola-churna": {
-    "hash": "50cf9f3e03505c3c",
+    "hash": "5dc35546011ab9a6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/panchatikta-ghrita": {
-    "hash": "81253b4fdcdf024d",
+    "hash": "affe08c526816e7f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/patrangasava": {
-    "hash": "1ad0dda7cbd70255",
+    "hash": "0c2be8b312cc5879",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/phala-ghrita": {
-    "hash": "5fabf02a83709ddb",
+    "hash": "8310c9448dc5f542",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/pinda-thailam": {
-    "hash": "73f3211de5b4d78e",
+    "hash": "f3798273c4d1142c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/pippali-khanda": {
-    "hash": "53640e5e7f518b14",
+    "hash": "f7a1729aa7fc907b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/pippalyasava": {
-    "hash": "8e5a556e50c59599",
+    "hash": "40ca47195246df7d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -995,122 +995,122 @@
     "modified": "2026-10-11"
   },
   "formulation/punarnavadi-guggulu": {
-    "hash": "e81fc5322b01f43f",
+    "hash": "6417d860176308b8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/punarnavasava": {
-    "hash": "487411324862e5f1",
+    "hash": "4d6af91842705210",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/pushyanuga-churna": {
-    "hash": "72654890ed439e90",
+    "hash": "50995e474d51a7f7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/rasnasaptakam-kashayam": {
-    "hash": "9a586b2764693716",
+    "hash": "d648d8eb2abc0178",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/rohitakarishta": {
-    "hash": "15eb93c4b41cbc60",
+    "hash": "57e7e60f65f79558",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sahacharadi-thailam": {
-    "hash": "542bc988c5c597e7",
+    "hash": "b28fe94ab526dc42",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sanjivani-vati": {
-    "hash": "0651a3602cefbbd6",
+    "hash": "3b3dcb62fcb74591",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/saraswatarishta": {
-    "hash": "ab057ad5d1ddf12f",
+    "hash": "6a88492c1e1126f2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sarivadyasava": {
-    "hash": "661454de5ac48ba0",
+    "hash": "b60777388b15b936",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/shadbindu-taila": {
-    "hash": "0639592e8d0ce311",
+    "hash": "572fb3a2232a2120",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/simhanada-guggulu": {
-    "hash": "13eb33564f2d629f",
+    "hash": "645a87cf7ef9d145",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sitopaladi-churna": {
-    "hash": "4f50998f1cdc280e",
+    "hash": "6c580608e3f2090a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/srikhandasava": {
-    "hash": "deebe48fa5ca24c9",
+    "hash": "120f8988714c92c3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sudarshan-churna": {
-    "hash": "3075a36e688bb000",
+    "hash": "a412c9b2a31df3e8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sukumara-kashayam": {
-    "hash": "7d77464c8547996a",
+    "hash": "d34481a04ecfbf45",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/sukumaram-ghritam": {
-    "hash": "12ece963d036e9ba",
+    "hash": "07ff37854d8643a5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/talisadi-churna": {
-    "hash": "809051eecc9bd16a",
+    "hash": "91ce2da06607f92e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/trikatu-churna": {
-    "hash": "dbf8522cd11461a2",
+    "hash": "bfd507d1893ce615",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/triphala-churna": {
-    "hash": "599be1bce974188f",
+    "hash": "280189ec020d3faf",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/triphala-guggulu": {
-    "hash": "a7cf715a494020f5",
+    "hash": "56b02dd778580eea",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/triphaladi-thailam": {
-    "hash": "683c07caaf5dbc5f",
+    "hash": "0ed29573388d2eff",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/varanadi-ghritam": {
-    "hash": "65af9af0d68fb7d4",
+    "hash": "42515487d1a7a4aa",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/varunadi-kashayam": {
-    "hash": "78a8964cd9437a29",
+    "hash": "d8d6d6cdaaf8f384",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/vasa-avaleha": {
-    "hash": "99ad963cd8c46d0b",
+    "hash": "361c6ba63126a254",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1120,22 +1120,22 @@
     "modified": "2026-10-11"
   },
   "formulation/vidangarishta": {
-    "hash": "1e7d89e6e9f6d0cd",
+    "hash": "038f27e03aa796c5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/vidaryadi-ghrita": {
-    "hash": "80139860da21409c",
+    "hash": "d027e3a2aacd6493",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/vyoshadi-guggulu": {
-    "hash": "f85c98185e4180e7",
+    "hash": "43df6a7ed534c667",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "formulation/yogaraja-guggulu": {
-    "hash": "f15340378150689f",
+    "hash": "0a05d3865d991b6c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1195,12 +1195,12 @@
     "modified": "2026-09-18"
   },
   "glossary/concepts-a-m": {
-    "hash": "4644da3504a5d35f",
+    "hash": "7d4bd30e9a5a1047",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "glossary/concepts-m-y": {
-    "hash": "47437ce184c48777",
+    "hash": "5313163f0ee58092",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1300,22 +1300,22 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "b89a3f68b6a373ec",
+    "hash": "17e0a86d5145324a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/abhraka-bhasma": {
-    "hash": "d173580d1334b983",
+    "hash": "643becb5fe5ee5eb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/adhaki": {
-    "hash": "c574bcb017f7a9cb",
+    "hash": "402cff9e4d88a1f5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/agastya": {
-    "hash": "76a9fe630c651c40",
+    "hash": "841ce1c5d73539cb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1325,7 +1325,7 @@
     "modified": "2026-10-10"
   },
   "herb/agnikarna": {
-    "hash": "a636f7069e0cd06d",
+    "hash": "ea56bad9d57a0815",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1340,17 +1340,17 @@
     "modified": "2026-10-11"
   },
   "herb/ahiphena": {
-    "hash": "97d1a79844957846",
+    "hash": "10817bac103d42ca",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/aivana": {
-    "hash": "5ba3e97b67faadf1",
+    "hash": "dc5dea6b11b4ab4d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/aja-dugdha-goat-milk": {
-    "hash": "07001d9c9a3a8306",
+    "hash": "f797126104ee765d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1360,7 +1360,7 @@
     "modified": "2026-10-11"
   },
   "herb/ajwain": {
-    "hash": "ee17b39cda3f9b5f",
+    "hash": "b921e22b56e4dc36",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1370,57 +1370,57 @@
     "modified": "2026-10-11"
   },
   "herb/akarakarabha": {
-    "hash": "c186d95f9760be16",
+    "hash": "7e3fc3e840de054c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/akhuparni": {
-    "hash": "e9ec21476541beb7",
+    "hash": "910456d80ce63d67",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/akika-pishti": {
-    "hash": "0df3fcd4ee601191",
+    "hash": "c8b8e59ad6250e3d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/akshotaka": {
-    "hash": "49ede7355bcbab15",
+    "hash": "273470ead1051009",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/alabu": {
-    "hash": "d4faa1685b65d156",
+    "hash": "05e104847e692ffd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/aloe-vera": {
-    "hash": "7aae5d0256d27a68",
+    "hash": "c10fcf9c83ed39ea",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/ambasthaki": {
-    "hash": "95d90275cdfc78c8",
+    "hash": "ba6bf26fab4fd7c2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/amla": {
-    "hash": "db924ab21d3b2672",
+    "hash": "7c4fe8556443bd90",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/amlaparni": {
-    "hash": "dc08dc51dbd5fa65",
+    "hash": "d9d0590cd31fbadd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/amlavetasa": {
-    "hash": "12c5440d94ac63dd",
+    "hash": "06e9810ea41d8bd1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/amra": {
-    "hash": "e7a4f1504de8c86f",
+    "hash": "b9a67f2ab2356da8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1445,22 +1445,22 @@
     "modified": "2026-10-10"
   },
   "herb/ankola": {
-    "hash": "730f73b3febee05f",
+    "hash": "8a97d9242e81c625",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/apamarga": {
-    "hash": "8ac1994a186021ae",
+    "hash": "d8927d7180584585",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/aparajita": {
-    "hash": "0092cf1ffdd2b3d5",
+    "hash": "35344bf8c023fc1c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/aragwadha": {
-    "hash": "d7813a41d76516dd",
+    "hash": "0c728bd5cf53a80a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1470,9 +1470,9 @@
     "modified": "2026-10-20"
   },
   "herb/arjuna": {
-    "hash": "811929bc5fa4fcc2",
+    "hash": "e16c8ad6d32fdd0c",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/arjuna-twak": {
     "hash": "e981dd427ba791ea",
@@ -1495,32 +1495,32 @@
     "modified": "2026-10-11"
   },
   "herb/asana": {
-    "hash": "8cdc7418da36b996",
+    "hash": "9796d2d9b3f53238",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ashoka": {
-    "hash": "c625c005e9bfe192",
+    "hash": "ded13e3fe04c2d80",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ashwagandha": {
-    "hash": "890e72017ca287a4",
+    "hash": "9b62393e251e5900",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ashwattha": {
-    "hash": "4f8d4cc6f029fdde",
+    "hash": "2f1482597a9dae7e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/asthishrinkhala": {
-    "hash": "fe7665526f71237c",
+    "hash": "9a794698d39a6743",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/atasi": {
-    "hash": "1d9b36f2f65e891e",
+    "hash": "fde9c88e69dbc14f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1530,17 +1530,17 @@
     "modified": "2026-10-11"
   },
   "herb/avipattikar": {
-    "hash": "7c8f7f99e760fee4",
+    "hash": "d76120ff079b9570",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/avipattikar-herbs": {
-    "hash": "34570db7c071304a",
+    "hash": "cac4d72311466758",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/babbula": {
-    "hash": "2b3ccdb8d82a2082",
+    "hash": "264f429f285f1e2a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1550,12 +1550,12 @@
     "modified": "2026-10-11"
   },
   "herb/bakuchi": {
-    "hash": "44e71e2260aaa7a1",
+    "hash": "52a05ab8bfddc0e8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bakula": {
-    "hash": "276435fbbdf3a9de",
+    "hash": "3b9acb09404f0c4f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1575,22 +1575,22 @@
     "modified": "2026-10-10"
   },
   "herb/bhadra": {
-    "hash": "457ff52637ec34c6",
+    "hash": "f0b6c66d08fc0c37",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bhanga": {
-    "hash": "41a7a4f59ead1468",
+    "hash": "a6551f7efefd223e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bharangi": {
-    "hash": "8c7beb51a9f0736a",
+    "hash": "4eca427af33832b6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bhringraj": {
-    "hash": "8d1ce1538dcea825",
+    "hash": "77ee6cfa54ff59c1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1630,22 +1630,22 @@
     "modified": "2026-10-10"
   },
   "herb/bijapura": {
-    "hash": "3b3a4796fb05ecfa",
+    "hash": "2052fe149472b504",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bilva": {
-    "hash": "3802c5a360e119b1",
+    "hash": "ca053a5975c2e2e6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bilva-majja": {
-    "hash": "4692ee6f021b777c",
+    "hash": "59567c0a2d34d8c7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/bilwa-patra": {
-    "hash": "4e5fe1a5169ebae0",
+    "hash": "c16c24f050ee3bf1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1670,27 +1670,27 @@
     "modified": "2026-10-10"
   },
   "herb/brahmi": {
-    "hash": "bfc4a05eb93950c6",
+    "hash": "47102c1ee6fd5a64",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/brihati": {
-    "hash": "430f5f88476d09b6",
+    "hash": "eeb7a0aaa47eb895",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/camphor": {
-    "hash": "5f2b646a56531888",
+    "hash": "1e051c799c5fa187",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/chakragaja": {
-    "hash": "2912c267d59f3b93",
+    "hash": "90234d6f489f8c32",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/chakramarda": {
-    "hash": "c458fbb5b872dcef",
+    "hash": "5820423bd2a876cb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1700,7 +1700,7 @@
     "modified": "2026-10-10"
   },
   "herb/chandana": {
-    "hash": "4bf37889662eca94",
+    "hash": "97295746baef693d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1710,12 +1710,12 @@
     "modified": "2026-10-11"
   },
   "herb/chandrashura": {
-    "hash": "173cd5e80dbbfcaf",
+    "hash": "4f3cf4c966d4e01b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/changeri": {
-    "hash": "65f86c93c2752c2d",
+    "hash": "49cfb84686be4053",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1725,12 +1725,12 @@
     "modified": "2026-10-11"
   },
   "herb/chavya": {
-    "hash": "f60d6d8029b920fd",
+    "hash": "1bfae68a32109a72",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/chhatraka": {
-    "hash": "6986c67e7e4a42c9",
+    "hash": "00254fab02028f26",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1745,7 +1745,7 @@
     "modified": "2026-10-11"
   },
   "herb/chitrak": {
-    "hash": "4a1ab0a5fd49665a",
+    "hash": "4aa75005a0411660",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1755,19 +1755,19 @@
     "modified": "2026-10-11"
   },
   "herb/chitrakaharitaki": {
-    "hash": "77bcaa97d93dc5d5",
+    "hash": "cf2997a69fe402e6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/chopchini": {
-    "hash": "da3c2032e09fa3db",
+    "hash": "eed021fba03e9f5a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/coriander": {
-    "hash": "817dc95e5d3f4d55",
+    "hash": "df56f0d8d5295ee3",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/coriander-herb": {
     "hash": "973b54ee7becaf0b",
@@ -1775,9 +1775,9 @@
     "modified": "2026-10-11"
   },
   "herb/cumin": {
-    "hash": "0a5eecc2890f6ef0",
+    "hash": "9281247d130f0c50",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/cumin-herb": {
     "hash": "941258a880f15f37",
@@ -1790,7 +1790,7 @@
     "modified": "2026-10-10"
   },
   "herb/dadhi": {
-    "hash": "32d922b5bae2d10b",
+    "hash": "bf183994c94a9881",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1800,7 +1800,7 @@
     "modified": "2026-10-11"
   },
   "herb/dadima-twak": {
-    "hash": "0cb5b8124a111c52",
+    "hash": "16fef9cd200f95b3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1810,7 +1810,7 @@
     "modified": "2026-10-10"
   },
   "herb/danti": {
-    "hash": "17e68352a0876b16",
+    "hash": "59781bce6db3a6e1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1820,7 +1820,7 @@
     "modified": "2026-10-11"
   },
   "herb/daruharidra": {
-    "hash": "9a77c00e7e0b1f8f",
+    "hash": "0c478f3f1738336d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1835,22 +1835,22 @@
     "modified": "2026-10-10"
   },
   "herb/devadaru": {
-    "hash": "924b601e488ed37a",
+    "hash": "3920b0a86fabc1d7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/dhamasa": {
-    "hash": "745cadda19f9d28f",
+    "hash": "c28f8b9d5313b815",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/dhanyaka": {
-    "hash": "860487c0e608eae7",
+    "hash": "4ec13470ed02a145",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/dhanyamla": {
-    "hash": "718db5196e5dcf92",
+    "hash": "a6c459d13e0a7b1a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1860,7 +1860,7 @@
     "modified": "2026-10-11"
   },
   "herb/dhatri-loha": {
-    "hash": "34f12d5250cfafdb",
+    "hash": "932606bb3ca9f5aa",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1875,7 +1875,7 @@
     "modified": "2026-10-11"
   },
   "herb/drakshavaleha": {
-    "hash": "ea8eb876b9da5efe",
+    "hash": "beb07347e0b271e9",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1895,12 +1895,12 @@
     "modified": "2026-10-11"
   },
   "herb/ela": {
-    "hash": "5feb424f7c9e9bfc",
+    "hash": "f4342e4fd8270633",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/eranda": {
-    "hash": "5ec8e496522883b2",
+    "hash": "f841eb04eac51a47",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1910,62 +1910,62 @@
     "modified": "2026-10-11"
   },
   "herb/eranda-paka": {
-    "hash": "fef4cf84ec2c7f0f",
+    "hash": "e538c1510bdd9430",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/eranda-patra": {
-    "hash": "c280102792105e61",
+    "hash": "b5fad31534141687",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/eucalyptus": {
-    "hash": "7fbd7fd784bb76f3",
+    "hash": "2c6a7206e57b1160",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/eucalyptus-herb": {
-    "hash": "e987164166fe4473",
+    "hash": "134cd55727f28223",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/fennel": {
-    "hash": "02008a49c19093b0",
+    "hash": "1feb9ac58be9e8aa",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/fennel-herb": {
-    "hash": "62aa87d14229c10e",
+    "hash": "da305ecc638dd0bb",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/fenugreek-herb": {
-    "hash": "3b0144c8565a1837",
+    "hash": "4ac799e5f20488c0",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/gajapippali": {
-    "hash": "8becde90e4281665",
+    "hash": "2eb0c46eabb285f2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gambhari": {
-    "hash": "6ce4eb6153d042de",
+    "hash": "9376777f2b511859",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gambhari-phala": {
-    "hash": "aa940b8c314aff01",
+    "hash": "81e71b4ee47844c4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gandhak-rasayan": {
-    "hash": "f9d0f9434fdf44fd",
+    "hash": "26b0dc45a536a414",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gangeruki": {
-    "hash": "7774d3be48979607",
+    "hash": "68ebf267587d0137",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -1975,62 +1975,62 @@
     "modified": "2026-10-11"
   },
   "herb/ghrita": {
-    "hash": "0a80bd41f8b64e68",
+    "hash": "1b3538483033dee3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/giloy-satva": {
-    "hash": "112a8d21da7877b8",
+    "hash": "fced319baff7dfdd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ginger": {
-    "hash": "2746a2f0c2d7cdce",
+    "hash": "f33b5f17d58836eb",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-20"
   },
   "herb/godanti-bhasma": {
-    "hash": "54d5ea815a4a36cb",
+    "hash": "0d37eb34028eae74",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/godugdha": {
-    "hash": "ec39b0cdeb1ff9d9",
+    "hash": "33a8c8c0e104317b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gojihva": {
-    "hash": "1c053049c554a233",
+    "hash": "1686e56d7cb4048f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gokarna": {
-    "hash": "8426b34133cfad03",
+    "hash": "56fcecd0875040ea",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gokshura": {
-    "hash": "3a78497ea3afb347",
+    "hash": "d4b17a833e57e5f5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gomeda-bhasma": {
-    "hash": "74499d24d725aa1e",
+    "hash": "af90b3d7d3553a1e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gomutra": {
-    "hash": "2074523995bfedb4",
+    "hash": "00e777940579cb92",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gorakhmundi": {
-    "hash": "56449bffa9a02b0e",
+    "hash": "1ec17613fb4030e6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/gorochana": {
-    "hash": "882c000eb548fb69",
+    "hash": "0f5eedb74a1cd2b8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2045,14 +2045,14 @@
     "modified": "2026-10-10"
   },
   "herb/gudmar": {
-    "hash": "1c4317c6bf2f3803",
+    "hash": "6b9f0c4223e5db3b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/gudmar-herb": {
-    "hash": "7ebad6a34115bdef",
+    "hash": "2769a62bef8af6a6",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/guduchi": {
     "hash": "b367498d1139fe06",
@@ -2060,7 +2060,7 @@
     "modified": "2026-10-11"
   },
   "herb/hajrul-yahood-bhasma": {
-    "hash": "54a1ed6ec4e79f8e",
+    "hash": "579333fec5d70e91",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2070,37 +2070,37 @@
     "modified": "2026-10-11"
   },
   "herb/haratala-bhasma": {
-    "hash": "6b6773c91f210f10",
+    "hash": "97abf876998ac069",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/haridra": {
-    "hash": "4e8bd63cee6d6944",
+    "hash": "d8533e99fc194d07",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/haritaki": {
-    "hash": "bb520b5d6d77048d",
+    "hash": "9c9892185854297a",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/himsra": {
-    "hash": "6c18393c5e9f17e1",
+    "hash": "ffb216b5c1f2a853",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/hingu": {
-    "hash": "a4a078704da8f5ed",
+    "hash": "9cda02be45476522",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/hinguleshwar-ras": {
-    "hash": "53e872deb287e2b5",
+    "hash": "6c3e9e0b5ee61ac8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/hingupatri": {
-    "hash": "285fc3739a93bb6f",
+    "hash": "55ba66e37c0d854c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2115,17 +2115,17 @@
     "modified": "2026-10-10"
   },
   "herb/icchabhedi-rasa": {
-    "hash": "28366dcc6ffbfd95",
+    "hash": "44ea2386f9996798",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ikshu": {
-    "hash": "2cc41f33d6cae8a4",
+    "hash": "471e0cc33c3ee6fc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/indravaruni": {
-    "hash": "45fcff3a953cd4df",
+    "hash": "8895652c93244e5a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2135,14 +2135,14 @@
     "modified": "2026-10-11"
   },
   "herb/ingudi": {
-    "hash": "2d6f685092986b9c",
+    "hash": "5c33db061d373124",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/isabgol": {
-    "hash": "73e4a7f417c5d518",
+    "hash": "02d2e99b2e670f7a",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/ishabgula": {
     "hash": "edfe0c0cad756029",
@@ -2150,24 +2150,24 @@
     "modified": "2026-10-11"
   },
   "herb/ishwari": {
-    "hash": "efb03d9d7e0e59fc",
+    "hash": "b93ec05c965207e7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jahar-mohra-pishti": {
-    "hash": "389fcca4b20cdd7a",
+    "hash": "978b4cf34561f852",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jalavetasa": {
-    "hash": "2e3712239cb691ae",
+    "hash": "e17e5ef58a499463",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jambu": {
-    "hash": "1daf1c10acd9f2eb",
+    "hash": "2137c3e0acd9316d",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/jambu-beeja": {
     "hash": "3f445019710debad",
@@ -2175,9 +2175,9 @@
     "modified": "2026-10-11"
   },
   "herb/jamun": {
-    "hash": "471818a604bc3c0a",
+    "hash": "3db5c897fc0ed94e",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/japa": {
     "hash": "2daceb2398033fe8",
@@ -2185,9 +2185,9 @@
     "modified": "2026-10-11"
   },
   "herb/jatamansi": {
-    "hash": "86d49ade4ab3e1a3",
+    "hash": "f0ccf23b8a25ca9b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/jati": {
     "hash": "c14dd1a19a150038",
@@ -2205,29 +2205,29 @@
     "modified": "2026-10-11"
   },
   "herb/jayapala": {
-    "hash": "6103461400601565",
+    "hash": "aeba74762dfee857",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jeeraka": {
-    "hash": "c007e3ec5075a2a0",
+    "hash": "9af9f00fecd047bc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jivaka": {
-    "hash": "0dbde440a644d7e7",
+    "hash": "ab780a6e1208f51d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jivanti": {
-    "hash": "2ecbee9c5fa9983e",
+    "hash": "78ff71443eb7f6bb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/jyotishmati": {
-    "hash": "7b0c0a034d39fa4c",
+    "hash": "0b77c211f4596394",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/kachnar": {
     "hash": "d273516e91569050",
@@ -2235,22 +2235,22 @@
     "modified": "2026-10-11"
   },
   "herb/kachura": {
-    "hash": "11f2fe206f83684d",
+    "hash": "8b347d35c4a195fc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kadali": {
-    "hash": "161615966e2e63c7",
+    "hash": "aec152df73692f0d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kadali-pushpa": {
-    "hash": "ba33e8d3958693d1",
+    "hash": "b3b816f323cc2240",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kadamba": {
-    "hash": "3d6f2687944e519f",
+    "hash": "8f33261cc53de3b5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2260,7 +2260,7 @@
     "modified": "2026-10-10"
   },
   "herb/kaharuba-pishti": {
-    "hash": "0c4ae85aba9a4889",
+    "hash": "c50223052aa263a9",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2275,12 +2275,12 @@
     "modified": "2026-10-10"
   },
   "herb/kakoli": {
-    "hash": "f2eb20c5b108118b",
+    "hash": "c8e04216d351f3c4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kalajaji": {
-    "hash": "2c7f0fdfc5055b0a",
+    "hash": "50ebb7a218ca2c32",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2290,12 +2290,12 @@
     "modified": "2026-10-11"
   },
   "herb/kalonji": {
-    "hash": "0202050728746a3b",
+    "hash": "3dc27776e5b7b47b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kamala": {
-    "hash": "bc0f744207535c2e",
+    "hash": "c6ef69f24f482859",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2310,17 +2310,17 @@
     "modified": "2026-10-11"
   },
   "herb/kampillaka": {
-    "hash": "908db63b343e6ab2",
+    "hash": "2feca8e65e7cd558",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kamsya-bhasma": {
-    "hash": "b1edcfb4a7f639ad",
+    "hash": "957fdb2d023da96a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kanchanar": {
-    "hash": "8d0a3dd63456fa37",
+    "hash": "4506d12b197874c5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2330,22 +2330,22 @@
     "modified": "2026-10-10"
   },
   "herb/kankola": {
-    "hash": "28e73218e0caba65",
+    "hash": "3f647310afd2ab9f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kankshi": {
-    "hash": "4195ab5bfec26190",
+    "hash": "6951af6567a12282",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kanmad-bhasma": {
-    "hash": "034aa833b5b9b917",
+    "hash": "c21108c14ef0f540",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kantakari": {
-    "hash": "a926e008f90412fc",
+    "hash": "31583b1305db4062",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2355,19 +2355,19 @@
     "modified": "2026-10-10"
   },
   "herb/kapittha": {
-    "hash": "4f06f8ca6f5e2dc8",
+    "hash": "966b727af5fc34bd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/karanja": {
-    "hash": "93fbdf441eeeb0b6",
+    "hash": "b73ca1744fe6bb74",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/karela": {
-    "hash": "cfa22e04bbb357e0",
+    "hash": "636c26e52c4155e5",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/karira": {
     "hash": "002d1eee98e24872",
@@ -2375,7 +2375,7 @@
     "modified": "2026-10-11"
   },
   "herb/karkatashringi": {
-    "hash": "540f70982904a6ce",
+    "hash": "5f7a93f0af0c81a0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2405,17 +2405,17 @@
     "modified": "2026-10-10"
   },
   "herb/karvellaka": {
-    "hash": "780b20837912a87e",
+    "hash": "3bec04a02fc4c8d4",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/kasamarda": {
-    "hash": "f997efa0beb85897",
+    "hash": "2ffbaaed72afb713",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kasani": {
-    "hash": "e66c930d1f4eec70",
+    "hash": "becc27e57dbe2a73",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2425,17 +2425,17 @@
     "modified": "2026-10-11"
   },
   "herb/kasis-bhasma": {
-    "hash": "b11486d898251e5f",
+    "hash": "256a3667a86f8745",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kasturi": {
-    "hash": "4052ff0bc8e41f14",
+    "hash": "6b7755c7d7c89adc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kataka": {
-    "hash": "25ba257286fae95e",
+    "hash": "f8b5510ec726ab67",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2460,12 +2460,12 @@
     "modified": "2026-10-11"
   },
   "herb/khadira": {
-    "hash": "3b24a5c145edce30",
+    "hash": "d813b76ec12d4002",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kharjura": {
-    "hash": "c79da6788d5bc137",
+    "hash": "8e6ac365af37a986",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2490,12 +2490,12 @@
     "modified": "2026-10-11"
   },
   "herb/kovidara": {
-    "hash": "45738454630f889b",
+    "hash": "1bd2b3254c6255f5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/krimi-kuthar-rasa": {
-    "hash": "46bd72369b7e9f7d",
+    "hash": "64e7bf04d64bffbc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2505,17 +2505,17 @@
     "modified": "2026-10-20"
   },
   "herb/kshara-parpati": {
-    "hash": "2c88fb9ec21ff652",
+    "hash": "bfa71958c6df6db4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kshavaka": {
-    "hash": "8ea32059807c72cc",
+    "hash": "86b5fb2c856cd61a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/ksheera": {
-    "hash": "c17c3f3ceadd977e",
+    "hash": "f66c51bf2a4fab28",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2525,12 +2525,12 @@
     "modified": "2026-10-10"
   },
   "herb/kukkutanda-twak-bhasma": {
-    "hash": "d8b6295c5504ea14",
+    "hash": "938bbf2edab9c193",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/kulattha": {
-    "hash": "2787627c79e45a3c",
+    "hash": "c1a0b92d3ad8cd1a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2560,7 +2560,7 @@
     "modified": "2026-10-12"
   },
   "herb/kushmanda": {
-    "hash": "2be6ed14833b0082",
+    "hash": "7eb96843ff59a1b0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2575,7 +2575,7 @@
     "modified": "2026-10-11"
   },
   "herb/laghu-sutshekhar-ras": {
-    "hash": "bb5bb2152bb9b000",
+    "hash": "09c3186e395c22d3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2590,7 +2590,7 @@
     "modified": "2026-10-11"
   },
   "herb/lasuna": {
-    "hash": "50829209a98249d3",
+    "hash": "40b5aa9fa370a728",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2610,27 +2610,27 @@
     "modified": "2026-10-11"
   },
   "herb/laung": {
-    "hash": "32f504411ce6a999",
+    "hash": "cf100daccf1df568",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/lavali": {
-    "hash": "aa485f3022d7958d",
+    "hash": "4ea4dcb4d3fa9c3c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/lavanga": {
-    "hash": "7af7606b46ac6ab0",
+    "hash": "2aaf81b215ee0436",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/licorice-herb": {
-    "hash": "b243c1863dfc2e47",
+    "hash": "d1376ca9de00f69d",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/lodhra": {
-    "hash": "bf6238c0e4676eaa",
+    "hash": "1f9a73704f4b4e9a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2640,17 +2640,17 @@
     "modified": "2026-10-10"
   },
   "herb/loha-bhasma": {
-    "hash": "d5ac4ebe6f200c95",
+    "hash": "0014b0d42cfb3bc2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/lohasava": {
-    "hash": "334d3c7effee2a01",
+    "hash": "b5e7b2a50ce124dd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/madanaphala": {
-    "hash": "c7817d551c81b066",
+    "hash": "e3df4f2db23c58f2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2660,17 +2660,17 @@
     "modified": "2026-10-11"
   },
   "herb/madhu": {
-    "hash": "f23f34416b9910e4",
+    "hash": "e45e36986c34c942",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/madhu-mandur": {
-    "hash": "15bcde7d90740eaa",
+    "hash": "d150e4cf486e8352",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/madhuka": {
-    "hash": "80d355c171613743",
+    "hash": "c6c2551ffc239ba0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2685,17 +2685,17 @@
     "modified": "2026-10-10"
   },
   "herb/mahabala": {
-    "hash": "2d4b0372c65ff2b6",
+    "hash": "e00a3fbd1d1c14c8",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/mahalakshmi-vilas-rasa": {
-    "hash": "60a7a07278590b4c",
+    "hash": "ca98071d5f9e81ea",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/mahamanjishthadi": {
-    "hash": "2019ffc3d86d6a29",
+    "hash": "273334627a4ada8c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2710,7 +2710,7 @@
     "modified": "2026-10-11"
   },
   "herb/makaradhwaj-vati": {
-    "hash": "b1794797a09f86dd",
+    "hash": "193e805c3c9fa8a6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2730,27 +2730,27 @@
     "modified": "2026-10-11"
   },
   "herb/mandura-bhasma": {
-    "hash": "a7c674699742b33b",
+    "hash": "7ee632d09bc6bb1d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/manikya-pishti": {
-    "hash": "6ea68baa0964324a",
+    "hash": "566398669171d1d3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/manjishtha": {
-    "hash": "d0faf0687c3222b2",
+    "hash": "69d0b437e650c4b5",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/manjistha": {
-    "hash": "9151dbcd3c37b646",
+    "hash": "28247e096babf4e3",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/mashaparni": {
-    "hash": "ee83564e215a08f0",
+    "hash": "d5489102475212bd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2765,14 +2765,14 @@
     "modified": "2026-10-11"
   },
   "herb/matulunga": {
-    "hash": "be48275b9c50b2e2",
+    "hash": "84f3af50fbf6217b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/matulunga-rasa": {
-    "hash": "741ea6b1e7fc7f7f",
+    "hash": "77c0fc6acf0a19af",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-20"
   },
   "herb/mayurashikha": {
     "hash": "c20137e3b702b375",
@@ -2780,7 +2780,7 @@
     "modified": "2026-10-11"
   },
   "herb/meda": {
-    "hash": "c2d504f167a710b4",
+    "hash": "7a70ea3edf157cea",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2790,47 +2790,47 @@
     "modified": "2026-10-11"
   },
   "herb/menthol": {
-    "hash": "c8d69f9e09955af4",
+    "hash": "bc1479374319eecc",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/methi": {
-    "hash": "6eae7b81a11ac336",
+    "hash": "c7cf70f25729f381",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/mishreya": {
-    "hash": "79d2facce1b4a34f",
+    "hash": "e543377b3d65a3f6",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/mochras": {
-    "hash": "9a76419ff6516856",
+    "hash": "9a9229dc2dd5d732",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/moringa": {
-    "hash": "cd5900070cedc789",
+    "hash": "849c6409a3c8eb54",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-20"
   },
   "herb/morning-glory": {
-    "hash": "6bf876e1a3de65b7",
+    "hash": "9ccddf713a7ece61",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/mrigashringa-bhasma": {
-    "hash": "42c7d22721760fcf",
+    "hash": "7cacc29a840f5c61",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/mudgaparni": {
-    "hash": "f8cff6d70ba22c30",
+    "hash": "e85e018caa318cfe",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/mukta-pishti": {
-    "hash": "dea0bc7de617dfd6",
+    "hash": "80bc00355c9016d1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2840,7 +2840,7 @@
     "modified": "2026-10-11"
   },
   "herb/murva": {
-    "hash": "cd577abb9870ceb1",
+    "hash": "02b8f14fee5a6941",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2850,12 +2850,12 @@
     "modified": "2026-10-20"
   },
   "herb/naga-bhasma": {
-    "hash": "db3a83a3ca787a23",
+    "hash": "fd7c2ac1c4c77a8e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/nagabala": {
-    "hash": "00514fea7cd1f4e5",
+    "hash": "3d2a33e1e4baf186",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2875,7 +2875,7 @@
     "modified": "2026-10-10"
   },
   "herb/narikela": {
-    "hash": "a8717a3cbb997161",
+    "hash": "66177b980b3e9b5b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2885,37 +2885,37 @@
     "modified": "2026-10-11"
   },
   "herb/navaratna-raja-mriganka-rasa": {
-    "hash": "17dc0a37a8bac64e",
+    "hash": "32bb1d7cb041d99e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/navayasa-loha": {
-    "hash": "ae853e7e9ccda4be",
+    "hash": "cdcc6e7744706427",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/neelam-pishti": {
-    "hash": "dd993cb619bfadf7",
+    "hash": "6237284f70f46cde",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/neem": {
-    "hash": "e51d4623db754adf",
+    "hash": "79876bf2e97d7936",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/nikochaka": {
-    "hash": "9bec23702c566dfe",
+    "hash": "c6e25070220b8942",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/nili": {
-    "hash": "98ad6ae494b2c55c",
+    "hash": "a3b96e1b3984a5ec",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/nimba": {
-    "hash": "b66b82b1a13492a1",
+    "hash": "23bc1a7796a9b9f0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2930,12 +2930,12 @@
     "modified": "2026-10-11"
   },
   "herb/nimbu": {
-    "hash": "4acd628035c0c4ad",
+    "hash": "3b49770006c82475",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/nirgundi": {
-    "hash": "edcbe8ae7bdcf708",
+    "hash": "398a388c492ab3d3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2945,17 +2945,17 @@
     "modified": "2026-10-11"
   },
   "herb/nityananda-rasa": {
-    "hash": "43e956f80f9e9887",
+    "hash": "7c22eb4799191d6d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/nyagrodha": {
-    "hash": "e3df74f0aebc5b6a",
+    "hash": "4c6804cf85170e80",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/padmaka": {
-    "hash": "1dcc350dc212cf43",
+    "hash": "18fc002c3db994f7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2965,7 +2965,7 @@
     "modified": "2026-10-11"
   },
   "herb/palankya": {
-    "hash": "f6a1a6096837edfd",
+    "hash": "af4d47549499e0b2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2980,12 +2980,12 @@
     "modified": "2026-10-11"
   },
   "herb/panchamrita-parpati": {
-    "hash": "abb96e5d58c3feb5",
+    "hash": "4a390e9ba41835af",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/panna-pishti": {
-    "hash": "f54337a0ad2c2987",
+    "hash": "57e8170b00833a94",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -2995,7 +2995,7 @@
     "modified": "2026-10-11"
   },
   "herb/parijata": {
-    "hash": "63189584b3026f50",
+    "hash": "99cecfaffaefecad",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3035,7 +3035,7 @@
     "modified": "2026-10-10"
   },
   "herb/pattanga": {
-    "hash": "26405cb596b0fdac",
+    "hash": "e0385f5f54881284",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3045,22 +3045,22 @@
     "modified": "2026-10-20"
   },
   "herb/pippali": {
-    "hash": "2fef4e3355b49c48",
+    "hash": "30ab245859b445fd",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/pippali-moola": {
-    "hash": "f7942b885a394ed5",
+    "hash": "875b3547747151bc",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/plaksha": {
-    "hash": "d9d6b1a3634b9c17",
+    "hash": "5377b8557764732e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/pradarantak-lauh": {
-    "hash": "4f3c04c5f34b6977",
+    "hash": "9f4f829b9565d458",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3070,17 +3070,17 @@
     "modified": "2026-10-11"
   },
   "herb/prasarini": {
-    "hash": "822c51fcea57c03b",
+    "hash": "d1b4e5a6ba8e7d6b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/pravala-pishti": {
-    "hash": "2535f1e18291e9e2",
+    "hash": "6eabc8a3a85855d7",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/prishniparni": {
-    "hash": "da1a7f2723d5dbc2",
+    "hash": "acfe8f58bc0fd611",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3090,12 +3090,12 @@
     "modified": "2026-10-11"
   },
   "herb/priyangu": {
-    "hash": "598659c617f5b95b",
+    "hash": "f2ec2f3ba6711041",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/pudina": {
-    "hash": "936d78266ce67f90",
+    "hash": "bee193cb0f876e01",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3105,12 +3105,12 @@
     "modified": "2026-10-11"
   },
   "herb/punarnava": {
-    "hash": "cc2e6c7f32277294",
+    "hash": "70fb2aa6e0109aa4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/pushkarmool": {
-    "hash": "a71101675cba4036",
+    "hash": "111f8233114a2573",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3130,7 +3130,7 @@
     "modified": "2026-10-10"
   },
   "herb/rakta-chandana": {
-    "hash": "aceddaa651a5c44b",
+    "hash": "18b0db0a11a56b77",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3140,42 +3140,42 @@
     "modified": "2026-10-10"
   },
   "herb/rasamanikya": {
-    "hash": "d60b201311e403e7",
+    "hash": "f242d6d7e9e4d8d0",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/rasna": {
-    "hash": "1eae59ad726b31c7",
+    "hash": "e5edbc9c13f60d06",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/rasona-garlic": {
-    "hash": "5ba94f94d31f8b32",
+    "hash": "284cbb5c6479ae10",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/rasona-patra": {
-    "hash": "c80fb4635b82f10d",
+    "hash": "9869ef541bca016e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/raupya-bhasma": {
-    "hash": "1d3171f42ef737a2",
+    "hash": "67b4066b373c16ac",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/renuka": {
-    "hash": "eb0c4573f08591a1",
+    "hash": "c5e39de3617e40ba",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/riddhi": {
-    "hash": "2ce4eeb68abb562b",
+    "hash": "d0ab44089f5b1615",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/rishabhaka": {
-    "hash": "de6fc13bb844be1f",
+    "hash": "73cad35231fec66b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3195,12 +3195,12 @@
     "modified": "2026-10-11"
   },
   "herb/saffron": {
-    "hash": "9608062e170274c3",
+    "hash": "45f5a1a337c5f951",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/saindhava-lavana": {
-    "hash": "277a957eb7021244",
+    "hash": "7a16affae12e4f5e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3210,27 +3210,27 @@
     "modified": "2026-10-11"
   },
   "herb/sala": {
-    "hash": "c70ce6e599dda2f9",
+    "hash": "47c08f05a7bd80fe",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/sameer-pannag-rasa": {
-    "hash": "fe6ef8dcea847f31",
+    "hash": "88fdd10de6bb1971",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/samudra-lavana": {
-    "hash": "0619f664a321dabb",
+    "hash": "847f46ffdcbcf75c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/saptala": {
-    "hash": "c8abca7fa37f598d",
+    "hash": "266c6a106dd634cb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/saptamrit-lauh": {
-    "hash": "945ae3bd2ee32747",
+    "hash": "78b95f37ab999f12",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3250,7 +3250,7 @@
     "modified": "2026-10-11"
   },
   "herb/sarpagandha": {
-    "hash": "2f5ceb91cbf0d20d",
+    "hash": "9e13217447fe931e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3265,12 +3265,12 @@
     "modified": "2026-10-11"
   },
   "herb/senna": {
-    "hash": "62dde0c60e264b77",
+    "hash": "57de1e3589d64091",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/shallaki": {
-    "hash": "ebe31ee150b55f0d",
+    "hash": "784b3c4763447b96",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3280,7 +3280,7 @@
     "modified": "2026-10-11"
   },
   "herb/shalparni": {
-    "hash": "5aa62eef828a09e2",
+    "hash": "8a78e2cc65fe0275",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3290,7 +3290,7 @@
     "modified": "2026-10-11"
   },
   "herb/shankha-bhasma": {
-    "hash": "84e46e6d4694823c",
+    "hash": "331efb897efca59d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3300,7 +3300,7 @@
     "modified": "2026-10-10"
   },
   "herb/shankhpushpi": {
-    "hash": "aa8408cab213ca6c",
+    "hash": "1ba0123d412b1801",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3315,17 +3315,17 @@
     "modified": "2026-10-11"
   },
   "herb/shatavari": {
-    "hash": "e6fe47df1ff87f7c",
+    "hash": "7c711647d9aaa046",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/shatavari-ksheera": {
-    "hash": "5153845c55bc3708",
+    "hash": "bf7ade7ee7f537c9",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/shati": {
-    "hash": "1684d97962a78e2e",
+    "hash": "523de3696e7f9826",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3335,27 +3335,27 @@
     "modified": "2026-10-11"
   },
   "herb/shilajit": {
-    "hash": "16dbef55731775fd",
+    "hash": "b06e0464d951fee4",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/shirisha": {
-    "hash": "e2d8b4e48ad3c708",
+    "hash": "a9ec78cccf90e587",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/shothari-loha": {
-    "hash": "43970fd1b0809982",
+    "hash": "dcad15c5eff92f26",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/shrigataka": {
-    "hash": "2af910e5e60c59cb",
+    "hash": "85209b9d5176aa0e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/shukti-bhasma": {
-    "hash": "51667ab21e2e7e33",
+    "hash": "2c29f5a3d1a44c85",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3365,12 +3365,12 @@
     "modified": "2026-10-11"
   },
   "herb/shyonaka": {
-    "hash": "77674231ff40b0da",
+    "hash": "1e77473260b0666e",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/siddha-makardhwaj": {
-    "hash": "e19c6776988c531e",
+    "hash": "8bf8fe7a96ebab32",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3400,17 +3400,17 @@
     "modified": "2026-10-10"
   },
   "herb/souvarchala-lavana": {
-    "hash": "85f6ab82ab996498",
+    "hash": "c3a11a521f28fa42",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/sphatika-bhasma": {
-    "hash": "325eb6cd1e06c55b",
+    "hash": "8db527f0a2c1ef49",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/sthneyaka": {
-    "hash": "7e304eed41e17b27",
+    "hash": "535e60c0a7f89477",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3420,7 +3420,7 @@
     "modified": "2026-10-11"
   },
   "herb/surana": {
-    "hash": "d17ec53980891b51",
+    "hash": "c526cf5fad1e841c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3435,24 +3435,24 @@
     "modified": "2026-10-10"
   },
   "herb/swarna-bhasma": {
-    "hash": "948d900795e69046",
+    "hash": "274c4d990fb7c548",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/swarna-parpati": {
-    "hash": "b7b2cf3923fa163b",
+    "hash": "932a5b5e2d51cc17",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/swarna-vasant-malti-ras": {
-    "hash": "2cd6db17a6e391e4",
+    "hash": "f40bffbaca7bbc7f",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/tagara": {
-    "hash": "f6bc4c7acdcc49d9",
+    "hash": "188b5650df0935ea",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/tagetes": {
     "hash": "da04c7499ebbe415",
@@ -3460,7 +3460,7 @@
     "modified": "2026-10-10"
   },
   "herb/takra": {
-    "hash": "6c78a3cdf36f1913",
+    "hash": "8e4192b606ba0ed3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3475,7 +3475,7 @@
     "modified": "2026-10-11"
   },
   "herb/talisa": {
-    "hash": "1437d0e98092436d",
+    "hash": "afc318478840f4c4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3485,7 +3485,7 @@
     "modified": "2026-10-11"
   },
   "herb/tamalaki": {
-    "hash": "e95dd966c749b794",
+    "hash": "1f6bb4df99b292eb",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3495,7 +3495,7 @@
     "modified": "2026-10-11"
   },
   "herb/tamra-bhasma": {
-    "hash": "ba65948b018c7d72",
+    "hash": "fb55c06df072e10b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3505,12 +3505,12 @@
     "modified": "2026-10-10"
   },
   "herb/tankana-bhasma": {
-    "hash": "0b4c63c1bd906f23",
+    "hash": "9c312ba307fe3658",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/tapyadi-loha": {
-    "hash": "11579f95b47e1d63",
+    "hash": "b9ec5f0358acd11b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3525,7 +3525,7 @@
     "modified": "2026-10-11"
   },
   "herb/tila": {
-    "hash": "73d398cb98997c75",
+    "hash": "18504cf1c0996058",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3540,7 +3540,7 @@
     "modified": "2026-10-10"
   },
   "herb/tinduka": {
-    "hash": "fa398ae7eb486cab",
+    "hash": "483d60c2c0eb11f4",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3555,7 +3555,7 @@
     "modified": "2026-10-11"
   },
   "herb/tribhuvan-kirti-rasa": {
-    "hash": "4c4fec5f770fc4f7",
+    "hash": "cff6b14b405b1831",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3565,9 +3565,9 @@
     "modified": "2026-10-11"
   },
   "herb/triphala": {
-    "hash": "de15b03245aadd00",
+    "hash": "93681197fd83b949",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/triphala-herbs": {
     "hash": "4ac397ae5e38d73d",
@@ -3575,19 +3575,19 @@
     "modified": "2026-10-10"
   },
   "herb/trivanga-bhasma": {
-    "hash": "9beb162b37f8bb37",
+    "hash": "0e7619533c61ffe9",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/trivrit": {
-    "hash": "3750a76bcc85f218",
+    "hash": "e467078068428818",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/tulsi": {
-    "hash": "a3718391abccbf35",
+    "hash": "85a66af27c0aba30",
     "published": "2026-09-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-20"
   },
   "herb/tumburu": {
     "hash": "f82af5b9d52b721d",
@@ -3595,17 +3595,17 @@
     "modified": "2026-10-11"
   },
   "herb/turmeric": {
-    "hash": "53d64bacea019136",
+    "hash": "1d698d2ee312f242",
     "published": "2026-09-09",
-    "modified": "2026-10-10"
+    "modified": "2026-10-20"
   },
   "herb/twak-cinnamon": {
-    "hash": "38bb836ded89eb68",
+    "hash": "c2d5868f96da6360",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/udumbara": {
-    "hash": "1fe0504b15554124",
+    "hash": "7f8c17fe2f4cce71",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3615,7 +3615,7 @@
     "modified": "2026-10-11"
   },
   "herb/ushira": {
-    "hash": "c2fe960fba9bb149",
+    "hash": "2a830508513cbdce",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3635,17 +3635,17 @@
     "modified": "2026-10-10"
   },
   "herb/vacha": {
-    "hash": "a2f95c17e118dc6f",
+    "hash": "0af4332d9c052cfa",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/vaikranta-bhasma": {
-    "hash": "a0289730824259fc",
+    "hash": "099f69bed3cc2b13",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/vajra-bhasma": {
-    "hash": "6e7458861a38e385",
+    "hash": "be839c9de0595e58",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3660,12 +3660,12 @@
     "modified": "2026-10-14"
   },
   "herb/vanapsa": {
-    "hash": "c197d12f48456068",
+    "hash": "511fb03fe573c038",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/vanga-bhasma": {
-    "hash": "7b1c5285df2b0a22",
+    "hash": "9554d6a5a1026d8d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3675,12 +3675,12 @@
     "modified": "2026-10-11"
   },
   "herb/varatika-bhasma": {
-    "hash": "94d64208bd155385",
+    "hash": "cda73fb4325b0e1d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/varshabhu": {
-    "hash": "6e71b64c2e346d96",
+    "hash": "e60c227d30ffa821",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3695,7 +3695,7 @@
     "modified": "2026-10-11"
   },
   "herb/vasa": {
-    "hash": "37658131cf3c140b",
+    "hash": "e5429d108a1ab47b",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3705,12 +3705,12 @@
     "modified": "2026-10-11"
   },
   "herb/vasant-kusumakar-rasa": {
-    "hash": "6ec4ddaa8bf198f6",
+    "hash": "66d833e0df0e8cf2",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/vatagajankush-rasa": {
-    "hash": "35c2feae51c4cb93",
+    "hash": "07b723d6cc84ccf3",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3720,7 +3720,7 @@
     "modified": "2026-10-11"
   },
   "herb/vatsanabha": {
-    "hash": "115347c795466369",
+    "hash": "358753b97d27f2f1",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3730,12 +3730,12 @@
     "modified": "2026-10-10"
   },
   "herb/vida-lavana": {
-    "hash": "6b634036c565785b",
+    "hash": "0d46957995d11395",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/vidanga": {
-    "hash": "c4e5dc52967f7776",
+    "hash": "e24b384b25b554df",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3745,14 +3745,14 @@
     "modified": "2026-10-11"
   },
   "herb/vidarikand": {
-    "hash": "039d270c80ed5400",
+    "hash": "7cca5ded06b6d505",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/vijaysar": {
-    "hash": "5dd4c61c119ae251",
+    "hash": "d2616b4beadf8161",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/vriddhadaru": {
     "hash": "65a1d592e7615b91",
@@ -3765,7 +3765,7 @@
     "modified": "2026-10-10"
   },
   "herb/vrikshamla": {
-    "hash": "e4f77b0f5e5940ef",
+    "hash": "a0db3ed0dda2d8cd",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3780,7 +3780,7 @@
     "modified": "2026-10-10"
   },
   "herb/vyaghri-haritaki": {
-    "hash": "80722c1158bdb86c",
+    "hash": "80b2920e2e88fb79",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3790,27 +3790,27 @@
     "modified": "2026-10-11"
   },
   "herb/yashada-bhasma": {
-    "hash": "3ed2cdb74e43523b",
+    "hash": "3583b71467cdc69c",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/yashtimadhu": {
-    "hash": "f6846424552f211f",
+    "hash": "35a4da57ad4305b7",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "herb/yava": {
-    "hash": "bbc8e21d4f4220fc",
+    "hash": "18f25afa3e0a0ec5",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/yavakshara": {
-    "hash": "03f8e98c40e04752",
+    "hash": "eaea29363637b27d",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
   "herb/yavani": {
-    "hash": "70075900bf8d8019",
+    "hash": "98a7a07af8ca8c97",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3820,7 +3820,7 @@
     "modified": "2026-10-11"
   },
   "herb/yuthika": {
-    "hash": "9a9abe47ba7f34a4",
+    "hash": "6494267eb2c26f0a",
     "published": "2026-09-09",
     "modified": "2026-10-20"
   },
@@ -3850,14 +3850,14 @@
     "modified": "2026-10-07"
   },
   "lexicon/adana-kala": {
-    "hash": "e928415408f56276",
+    "hash": "68589ac52bc1d738",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/adharaniya-vega": {
-    "hash": "727d10090902da05",
+    "hash": "900565defedf0d0f",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/agantu-roga": {
     "hash": "876f67dea4dc7a12",
@@ -3865,19 +3865,19 @@
     "modified": "2026-10-08"
   },
   "lexicon/agni": {
-    "hash": "10a5748f6df36caf",
+    "hash": "c3c7f5a152a6fc70",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/agnimandya": {
-    "hash": "b6f6531feb941252",
+    "hash": "6266cd2f1396d88c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/ahara": {
-    "hash": "187e348498380fdb",
+    "hash": "9c4ed4cf13c82af1",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/ahara-shakti": {
     "hash": "1b71fb15f29ec3d7",
@@ -3895,9 +3895,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/akasha": {
-    "hash": "e6d32ae3ab8fb0eb",
+    "hash": "4d092112d7f50f97",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/akriti-pariksha": {
     "hash": "34ab46901f84b870",
@@ -3920,9 +3920,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/amla": {
-    "hash": "180f8e0f05a7dba3",
+    "hash": "e9244d747737f9f3",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/annavaha-srotas": {
     "hash": "38ba45655a4ed8cf",
@@ -3930,9 +3930,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/anupana": {
-    "hash": "b38771534706dea2",
+    "hash": "c43452cda0bccb17",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/anupashaya": {
     "hash": "ecb1d355fe19610b",
@@ -3955,9 +3955,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/apathya": {
-    "hash": "3c99ad48c60515d8",
+    "hash": "ef417f4c6ebf9384",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/artavavaha-srotas": {
     "hash": "e1e0a74f2488b867",
@@ -3965,9 +3965,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/asadhya": {
-    "hash": "bea99c72fd860bcc",
+    "hash": "6dc1a0e9eff19e57",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/asatmyendriyartha-samyoga": {
     "hash": "e5b75c6090808764",
@@ -4025,9 +4025,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/basti": {
-    "hash": "bdb5337f8a66d413",
+    "hash": "a24bbc022786e593",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/bheda": {
     "hash": "72a782597a3af591",
@@ -4070,9 +4070,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/daiva-vyapashraya": {
-    "hash": "3bc26c6d9a1013e6",
+    "hash": "ae8b812704d8458c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/darshana": {
     "hash": "9059d593c606f920",
@@ -4090,9 +4090,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/dharaniya-vega": {
-    "hash": "f9dcc8389a0ec852",
+    "hash": "8a6255242de14fbb",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/dhatu": {
     "hash": "f8d69b1564cdbe61",
@@ -4120,9 +4120,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/dinacharya": {
-    "hash": "d4e6c78e1c441154",
+    "hash": "8b8209b432914366",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/dosha": {
     "hash": "93c4f9521c1f42e3",
@@ -4155,9 +4155,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/dosha-prashamana": {
-    "hash": "2dae1a9071ad39ea",
+    "hash": "9ff0741179fe8ef1",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/dosha-vriddhi": {
     "hash": "c568b1743e1ebd3f",
@@ -4165,19 +4165,19 @@
     "modified": "2026-10-08"
   },
   "lexicon/drava": {
-    "hash": "03239a4f767a2307",
+    "hash": "9825b5a2e9614a15",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/dravya": {
-    "hash": "1cc808349372c31b",
+    "hash": "c8e5170ba27c9f66",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/drik-pariksha": {
-    "hash": "d05e1f608d7af010",
+    "hash": "cd688dc69be1c604",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/duhkhayu": {
     "hash": "91487506fe8462da",
@@ -4215,14 +4215,14 @@
     "modified": "2026-10-07"
   },
   "lexicon/indriya-artha": {
-    "hash": "64ff0b1438f4e42a",
+    "hash": "7134370c3ff42c47",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/jala": {
-    "hash": "7dbdd71ba7e68862",
+    "hash": "07398f06a90c785c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/jatharagni": {
     "hash": "2b89148be88a8cdc",
@@ -4230,19 +4230,19 @@
     "modified": "2026-10-08"
   },
   "lexicon/jihva-pariksha": {
-    "hash": "d648434525e38f62",
+    "hash": "8ee6c4a944a0ff10",
     "published": "2026-10-07",
     "modified": "2026-10-20"
   },
   "lexicon/jnanendriya": {
-    "hash": "db2238bbcdee8f4d",
+    "hash": "e1ac6c37276254f1",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/kala": {
-    "hash": "243b092a47a7f4ec",
+    "hash": "79c1afd6e0ce791e",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/kapha": {
     "hash": "42f8cf9018db995a",
@@ -4255,9 +4255,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/karma": {
-    "hash": "642691a920c5a8e2",
+    "hash": "09ed25e48153abd9",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/karma-dravyaguna": {
     "hash": "4118fe4571005b30",
@@ -4330,14 +4330,14 @@
     "modified": "2026-10-07"
   },
   "lexicon/kshira-dadhi-nyaya": {
-    "hash": "66e6117e86d057ac",
+    "hash": "0741415b89c2b961",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/laghu": {
-    "hash": "c6b53b8645e2439c",
+    "hash": "50f84f15211292bf",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/lakshana": {
     "hash": "4195337363554719",
@@ -4380,9 +4380,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/mala": {
-    "hash": "272567361bb019d8",
+    "hash": "a7d4ed549d60d01a",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/mala-kshaya": {
     "hash": "72cb649535e18838",
@@ -4390,7 +4390,7 @@
     "modified": "2026-10-07"
   },
   "lexicon/mala-pariksha": {
-    "hash": "3ae8b08edf78c8fd",
+    "hash": "c1f174360e247d58",
     "published": "2026-10-07",
     "modified": "2026-10-20"
   },
@@ -4425,9 +4425,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/manda": {
-    "hash": "0078cb1c136b3852",
+    "hash": "763a9c9650fda79d",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/manda-agni": {
     "hash": "67de0220000d3f1f",
@@ -4470,19 +4470,19 @@
     "modified": "2026-10-07"
   },
   "lexicon/mutravaha-srotas": {
-    "hash": "78d7f21ab4cf542a",
+    "hash": "88ad3b824c5789c8",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/nadi-pariksha": {
-    "hash": "b15cb6162cb938a4",
+    "hash": "44025ec3d1a1e559",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/nasya": {
-    "hash": "a717914ea5240701",
+    "hash": "c5bdfbca0a97fe30",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/nidana": {
     "hash": "f388c7a41aa2daa4",
@@ -4490,9 +4490,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/nidana-panchaka": {
-    "hash": "96c178cf848bf804",
+    "hash": "23ef2d01d5b50e4f",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-20"
   },
   "lexicon/nidana-parivarjana": {
     "hash": "ce2980316c199731",
@@ -4500,9 +4500,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/nidra": {
-    "hash": "671493207bf9673d",
+    "hash": "99febd9701b86e61",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/nija-roga": {
     "hash": "217c8ad94347f35e",
@@ -4535,9 +4535,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/panchakarma": {
-    "hash": "a807e7b3f1f4e79a",
+    "hash": "ffdf53ae837ce7f2",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/panchakosha-ayurveda": {
     "hash": "db78fab94bea7dee",
@@ -4545,14 +4545,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/panchamahabhuta": {
-    "hash": "648d096ba60e2916",
+    "hash": "3151f7837cd4202e",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/panchendriya": {
-    "hash": "8bd0f6b25a0386a7",
+    "hash": "708e7d212ed5e62b",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/para-ojas": {
     "hash": "8c9faf8982f31246",
@@ -4560,9 +4560,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/parinama": {
-    "hash": "39ffb4e520459114",
+    "hash": "db097a95445d109d",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/paschatkarma": {
     "hash": "94f5dd5613527373",
@@ -4575,9 +4575,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/picchila": {
-    "hash": "90ce432862f45d96",
+    "hash": "cee61974790e0c01",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/pitta": {
     "hash": "60ee273543176264",
@@ -4595,9 +4595,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/prajnaparadha": {
-    "hash": "ec34749c7263c3fa",
+    "hash": "7d99d7847084a61d",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/prakopa": {
     "hash": "615abef449f22510",
@@ -4675,9 +4675,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/raktamokshana": {
-    "hash": "a6532ba9d57f778f",
+    "hash": "77c76380c3d1082e",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/raktavaha-srotas": {
     "hash": "6a0da31639230f6b",
@@ -4690,9 +4690,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/rasa": {
-    "hash": "b2947ca161de47f8",
+    "hash": "84e45e0f37862670",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/rasa-dhatu": {
     "hash": "783a52519cd4b87f",
@@ -4705,9 +4705,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/rasayana": {
-    "hash": "cf9ebeb32bfc0007",
+    "hash": "5e57572565892ae6",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/ratricharya": {
     "hash": "bf1312a851c5cc04",
@@ -4715,9 +4715,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/ritu": {
-    "hash": "6112be7dbe02c598",
+    "hash": "a331f72a5dc62467",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/ritucharya": {
     "hash": "fdc6798669873a84",
@@ -4745,9 +4745,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/ruksha": {
-    "hash": "abf0a0afa3fed469",
+    "hash": "a1e7a097b1201bc4",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/rukshana": {
     "hash": "7aa3bd9505313687",
@@ -4765,14 +4765,14 @@
     "modified": "2026-10-20"
   },
   "lexicon/sadhya": {
-    "hash": "998efa54107752a4",
+    "hash": "bf9a106032921dc6",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sadvritta": {
-    "hash": "220cfc90756bb407",
+    "hash": "1887d1c3d02364f7",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sama-agni": {
     "hash": "6aa4f4a65909b2cd",
@@ -4790,9 +4790,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/samanya": {
-    "hash": "b9b18eabdcc97443",
+    "hash": "ad90e6ee727cea06",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/samavaya": {
     "hash": "f1924a0d19d99f74",
@@ -4820,14 +4820,14 @@
     "modified": "2026-10-20"
   },
   "lexicon/samskara": {
-    "hash": "aefe85e0fd646a55",
+    "hash": "feb3c3ab2b744e30",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/samyoga": {
-    "hash": "0e4ce8f9ad4f0e7d",
+    "hash": "69b6dd2eb78c0a66",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sanchaya": {
     "hash": "ed2ba28ad9785d73",
@@ -4835,9 +4835,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/sandra": {
-    "hash": "46a088ca70f16678",
+    "hash": "5411ed4246c48b62",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sanga": {
     "hash": "4d06cc695c3c7e0f",
@@ -4870,9 +4870,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/shabda-pariksha": {
-    "hash": "f06d10169bfede90",
+    "hash": "b27aff1d4e014caa",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/shad-padartha": {
     "hash": "c9c0a7bffe747054",
@@ -4900,14 +4900,14 @@
     "modified": "2026-10-20"
   },
   "lexicon/shita": {
-    "hash": "2f5083f30cb4b9f9",
+    "hash": "c6b78785387193f0",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/shlakshna": {
-    "hash": "631877833299c7f3",
+    "hash": "3a9b0c2bbfb5e621",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/shleshaka-kapha": {
     "hash": "99373f353717a6ba",
@@ -4915,9 +4915,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/shodhana": {
-    "hash": "6a704dfc39157881",
+    "hash": "4fc9ec75fd51b24b",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/shukra-dhatu": {
     "hash": "3407c6640c76cf00",
@@ -4935,24 +4935,24 @@
     "modified": "2026-10-08"
   },
   "lexicon/snehana": {
-    "hash": "bd68aed0e13da758",
+    "hash": "e3913dbe8732d77b",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/snigdha": {
-    "hash": "aead185c382ce513",
+    "hash": "af057d0fc0a4c36a",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sparsha-pariksha": {
-    "hash": "b98ea7779a30119c",
+    "hash": "f1372f708004472c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sparshana": {
-    "hash": "6701db43d16d7cec",
+    "hash": "f1144f50be86eb9e",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/srotamsi": {
     "hash": "4ecb3db6bb16b54c",
@@ -4985,9 +4985,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/sthira": {
-    "hash": "5a68c4fc3a1c2b3a",
+    "hash": "636cd4a54aa9b4c3",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/sthula": {
     "hash": "2cfb4d3d71e7e7e3",
@@ -5050,14 +5050,14 @@
     "modified": "2026-10-20"
   },
   "lexicon/tejas": {
-    "hash": "88eb0d20f8c99739",
+    "hash": "e3eda7124fc1e460",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/tikshna": {
-    "hash": "6e0decffab865fda",
+    "hash": "0b2950f4b93d52d9",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/tikshna-agni": {
     "hash": "1c37ae4e1553ad82",
@@ -5065,9 +5065,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/tikta": {
-    "hash": "7d6cee6157de9f1e",
+    "hash": "661573978dfdb217",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/trayopasthambha": {
     "hash": "bf989ea4ad0b44c5",
@@ -5135,14 +5135,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/vayu": {
-    "hash": "7096d36981f33a4f",
+    "hash": "01462e36a22fb1b3",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/vega-dharana": {
-    "hash": "cdba63e269056a7c",
+    "hash": "def73de88ad98188",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/vikriti": {
     "hash": "047b0fa60ed9a1fa",
@@ -5165,19 +5165,19 @@
     "modified": "2026-10-07"
   },
   "lexicon/viruddha-ahara": {
-    "hash": "d5c0b9b4bd7dbe9f",
+    "hash": "04c7be186563c725",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/virya": {
-    "hash": "59754827b21e2a0a",
+    "hash": "6feb21430960e8b1",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/visarga-kala": {
-    "hash": "e16af0694ef10a1b",
+    "hash": "dda2d33a17740ce8",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/vishada": {
     "hash": "08760b776eb8e14b",
@@ -5220,14 +5220,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/yapya": {
-    "hash": "a88b658a27f0143a",
+    "hash": "15afce4f02d23751",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "lexicon/yukti-vyapashraya": {
-    "hash": "815aeb0d7449d76f",
+    "hash": "dcc79797f5d99602",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-20"
   },
   "manufacturers": {
     "hash": "b4272c25528d0ddc",
@@ -5460,39 +5460,39 @@
     "modified": "2026-10-17"
   },
   "reference": {
-    "hash": "1a3a18f5dae7749c",
+    "hash": "b17ec269b2732f71",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/adaptogenic": {
-    "hash": "64264a03e9b515b6",
+    "hash": "9f712db06caa521d",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/analgesic": {
-    "hash": "f70c1ca9416ac056",
+    "hash": "d6a8b5b358d752f1",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/anticancer": {
-    "hash": "592f06a0fcc6529d",
+    "hash": "e22935e95f649fd5",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antidiabetic": {
-    "hash": "33c52dd88486c773",
+    "hash": "0fa5f0d7e80e1231",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antiinflammatory": {
-    "hash": "aa8360ec4e315f48",
+    "hash": "02bbe9816b99906f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antiinflammatory-pain": {
-    "hash": "1e7cab0c6ccda47d",
+    "hash": "92f61d6ed4f2b775",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antiinflammatory-pain-across-traditions": {
     "hash": "a57b453b491558ca",
@@ -5500,74 +5500,74 @@
     "modified": "2026-10-11"
   },
   "reference/antimicrobial": {
-    "hash": "39e4216f1af2a914",
+    "hash": "6c76b0e08548ae8a",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antioxidant": {
-    "hash": "b4d189b5a5884762",
+    "hash": "ae80fa9382dab026",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/antipyretic": {
-    "hash": "94b70888c3fc37f7",
+    "hash": "c168b51dfbd47fe4",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/anxiolytic": {
-    "hash": "e535e8a4bf5f4d52",
+    "hash": "8a32ef99bfe72ce4",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/brain-nervous-system": {
-    "hash": "9b58b2ccec1ba443",
+    "hash": "e7a82ea9eff12f1b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/bronchodilator": {
-    "hash": "a6ea6acfb1369ad1",
+    "hash": "192972e20c528823",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/cardioprotective": {
-    "hash": "74ecf7051f1c29a0",
+    "hash": "7fa5cc63a9e7de33",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/catechin": {
-    "hash": "6a54f12551f9b647",
+    "hash": "d5726bd57fe09c6f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/diabetes-metabolism": {
-    "hash": "b08dc0195dd8e225",
+    "hash": "c3d5d24990126eeb",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/digestive-health": {
-    "hash": "60088aab91541c79",
+    "hash": "ae3c43d047bc3297",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/diuretic": {
-    "hash": "3712651ad60cad8e",
+    "hash": "f02541d623d6ff3d",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/ellagic-acid": {
-    "hash": "4ed705edb419ba29",
+    "hash": "40bd065626a65c44",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/expectorant": {
-    "hash": "91537ff0c738d483",
+    "hash": "16a95cc29046aff4",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/eye-health": {
-    "hash": "3f83cb8b0f215413",
+    "hash": "a3ef4d197f3e77ba",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/fabaceae": {
     "hash": "55c25867a8ff4165",
@@ -5575,54 +5575,54 @@
     "modified": "2026-10-11"
   },
   "reference/fever-infection": {
-    "hash": "dbd164500e7b3fda",
+    "hash": "818257d6298f1737",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/flavonoids": {
-    "hash": "3fdf48d8301ad6bd",
+    "hash": "248eb8aa73e42a75",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/gallic-acid": {
-    "hash": "a1531196b7630726",
+    "hash": "e2755178ca04c435",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/heart-cardiovascular": {
-    "hash": "ac1fc0117701faa6",
+    "hash": "9636babc04473fac",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/hepatoprotective": {
-    "hash": "0e92e5719fd2ceaf",
+    "hash": "07cacac0a8cc274b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/immune-system-rasayana": {
-    "hash": "709419408955c9dd",
+    "hash": "4829ad5d6eb948df",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/immunomodulatory": {
-    "hash": "c085f95b8fa9d07b",
+    "hash": "ed1546d07e699820",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/joint-musculoskeletal": {
-    "hash": "4a2934a134e52848",
+    "hash": "2a0aecf04227871c",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/kaempferol": {
-    "hash": "37897fa0fcf99f89",
+    "hash": "23483397ed49d867",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/kidney-urinary": {
-    "hash": "8a0ad3d5640dda37",
+    "hash": "dcb51b1b5315654f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/kidney-urinary-across-traditions": {
     "hash": "4fdae7950776e738",
@@ -5630,59 +5630,59 @@
     "modified": "2026-10-11"
   },
   "reference/laxative": {
-    "hash": "2b553c3b3b6e3888",
+    "hash": "7c978bc30caa3781",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/liver-detoxification": {
-    "hash": "6e66b4ede2583a46",
+    "hash": "d624392cce55c9ee",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/lupeol": {
-    "hash": "8025528aabdaaf94",
+    "hash": "21e6a5cab8eea17b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/medhya-nootropic": {
-    "hash": "58c8d0650f1ebf91",
+    "hash": "b98bf7792d10e4a2",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/mens-health-vitality": {
-    "hash": "6e5e7ffceda01cbc",
+    "hash": "84696790b1db8a53",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/neuroprotective": {
-    "hash": "902732db6b7f7bd2",
+    "hash": "19fc08c7b43aed25",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/oleanolic-acid": {
-    "hash": "0b191b0ad7456538",
+    "hash": "70ea2005a473ab9f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/piperine": {
-    "hash": "9ca176d449c7bb2c",
+    "hash": "a0ef996473e71fec",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/quercetinquercetin": {
-    "hash": "7ebdc262c03bbbc8",
+    "hash": "4dc994480ae35ba9",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/rasayana": {
-    "hash": "3906c2b1c04cc0d2",
+    "hash": "a07075827eec8af9",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/respiratory-health": {
-    "hash": "198ecec7992cfdbe",
+    "hash": "3bbed1a1dd214dae",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/rosaceae": {
     "hash": "7ad260484dd0b864",
@@ -5690,39 +5690,39 @@
     "modified": "2026-10-11"
   },
   "reference/saponins": {
-    "hash": "cdc3b7caef9c2c5b",
+    "hash": "36b394faabccff6b",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/skin-beauty": {
-    "hash": "6858932e2301450f",
+    "hash": "a7357cc0531b64a2",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/stigmasterol": {
-    "hash": "335e0d4a0df8df74",
+    "hash": "f7175ff5a436ee0c",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/tannins": {
-    "hash": "6f62abe61039656c",
+    "hash": "cf3bd6cd439a740f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/ursolic-acid": {
-    "hash": "f728f0019964dc47",
+    "hash": "f97165de0a5664c5",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/womens-health": {
-    "hash": "af4aec191785812a",
+    "hash": "363eb0193fd3db7a",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/wound-healing": {
-    "hash": "36e9377f2d542187",
+    "hash": "7ccbb646b0fa039f",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-20"
   },
   "reference/zingiberaceae": {
     "hash": "0ed2ea0744f129ee",

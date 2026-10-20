@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Brain tonic and intellect enhancer (Medhya): traditionally used as a brain tonic and intellect enhancer. Animal studies have reported improved memory retention and learning.
 - Anxiolytic (Manasa-Dosha-hara): traditionally used as an anxiolytic. Pharmacological studies have reported benzodiazepine-like anxiolytic activity.
 - Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used for eye health. Research has reported antioxidant protection of ocular tissues.
 - Complexion and skin health (Varnya): traditionally used for complexion and skin health. Antioxidant and anti-inflammatory activity has been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mukherjee PK, Kumar V, Kumar NS and others 2008. [The Ayurvedic medicine Clitoria ternatea--from traditional use to scientific assessment](https://pubmed.ncbi.nlm.nih.gov/18926895/). *Journal of ethnopharmacology*. PMID [18926895](https://pubmed.ncbi.nlm.nih.gov/18926895/) · [doi:10.1016/j.jep.2008.09.009](https://doi.org/10.1016/j.jep.2008.09.009)  
   Documented extensive pharmacological and toxicological evaluation confirming nootropic, anxiolytic, antidepressant, anticonvulsant, and tranquilizing properties with a favorable safety profile.
 - Jeyaraj EJ, Lim YY, Choo WS 2021. [Extraction methods of butterfly pea (Clitoria ternatea) flower and biological activities of its phytochemicals](https://pubmed.ncbi.nlm.nih.gov/33967304/). *Journal of food science and technology*. PMID [33967304](https://pubmed.ncbi.nlm.nih.gov/33967304/) · [doi:10.1007/s13197-020-04745-3](https://doi.org/10.1007/s13197-020-04745-3)  
   Updated review covering botanical, phytochemical, and pharmacological profile including emerging applications in food science, cosmetics, and nutraceuticals alongside traditional medicinal uses.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

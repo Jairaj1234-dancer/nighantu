@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Strong purgative (Tikshna Virechana): traditionally used as a strong stimulant [laxative](/reference/laxative/) and purgative in Panchakarma Virechana therapy.
 - Skin diseases and leprosy (Kushtha): traditionally used for skin diseases and leprosy. Studies have reported [antimicrobial](/reference/antimicrobial/) and anti-inflammatory activity.
 - Anti-helminthic (Krimighna): traditionally used against intestinal worms. An in vitro study reported anthelmintic activity against Pheretima posthuma.
 - Anti-dropsy and edema (Shotha-hara): traditionally used for dropsy and edema. Studies have reported [diuretic](/reference/diuretic/) and anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jagannath S, Konappa N, Lokesh A and others 2021. [Bioactive compounds guided diversity of endophytic fungi from Baliospermum montanum and their potential extracellular enzymes](https://pubmed.ncbi.nlm.nih.gov/33245903/). *Analytical biochemistry*. PMID [33245903](https://pubmed.ncbi.nlm.nih.gov/33245903/) · [doi:10.1016/j.ab.2020.114024](https://doi.org/10.1016/j.ab.2020.114024)  
   Explored endophytic fungi from B. montanum as sources of bioactive compounds, identifying novel antimicrobial and anticancer metabolites produced by fungal endophytes.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

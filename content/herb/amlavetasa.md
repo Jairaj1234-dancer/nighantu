@@ -44,21 +44,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Deepana-Pachana (digestive stimulant and carminative): traditionally used to stimulate digestion and as a carminative. Studies have reported increased digestive enzyme activity.
 - Medohara (anti-obesity): traditionally used to reduce excess fat. Clinical studies on related Garcinia species have reported that HCA inhibits lipogenesis.
 - Yakrit-shodhana (liver): traditionally used for the liver. Preclinical studies have reported protection of the liver from chemical toxins.
 - Bhedana (laxative): traditionally used as a laxative. Research on Rheum emodi has reported laxative action linked to anthraquinones.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Fan X, Guo J, Feng D and others 2024. [Chromones and biflavonoids from Garcinia pedunculata and Garcinia nujiangensis and their anti-inflammatory activity](https://pubmed.ncbi.nlm.nih.gov/38810815/). *Phytochemistry*. PMID [38810815](https://pubmed.ncbi.nlm.nih.gov/38810815/) · [doi:10.1016/j.phytochem.2024.114166](https://doi.org/10.1016/j.phytochem.2024.114166)  
   Isolated four new compounds (garpedunchromones A-C and nujiangbiflavone A) along with 15 known analogs; demonstrated significant anti-inflammatory activity of isolated compounds.
 - Yang X, Dai L, Yan F and others 2024. [The phytochemistry and pharmacology of three Rheum species: A comprehensive review with future perspectives](https://pubmed.ncbi.nlm.nih.gov/38852474/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [38852474](https://pubmed.ncbi.nlm.nih.gov/38852474/) · [doi:10.1016/j.phymed.2024.155772](https://doi.org/10.1016/j.phymed.2024.155772)  
   Comprehensive review on Rheum emodi documenting new compound isolation from both aerial parts and roots/rhizomes; highlighted anthraquinones and [stilbenes](/glossary/compounds-q-t/#stilbenes) as key bioactive classes.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

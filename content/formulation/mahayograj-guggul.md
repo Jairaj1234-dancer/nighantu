@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. CCRAS has set quality standards for it, and validated UHPLC/HPTLC quality control methods have been published."
 aliases: ["Mahayograj Guggul", "MahayograjGuggul"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 445
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Mahayograj-Guggul/meta-analysis.md"
@@ -39,16 +39,16 @@ Bhaishajya Ratnavali (Amavata Chikitsa); also referenced in Sharangdhara Samhita
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Amavata (rheumatoid arthritis): traditionally used for amavata. A double-blind clinical study reported a greater reduction in disease activity scores than with a standard guggul extract.
 - Joint disorders: traditionally used for joint disorders. Pharmacological studies have reported anti-inflammatory and [analgesic](/reference/analgesic/) activity.
 - Gout: traditionally used for gout. Clinical observations have reported lower uric acid levels and anti-inflammatory effects.
 - Neurological and musculoskeletal pain: traditionally used for neurological and musculoskeletal pain. Traditional prescribing describes it as Vata-pacifying and nervine.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

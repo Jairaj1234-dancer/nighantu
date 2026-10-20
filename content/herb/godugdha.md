@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rasayana (rejuvenation therapy): traditionally used as a rejuvenative. Modern analyses have reported that milk contains immunoglobulins, lactoferrin and growth factors.
 - Insomnia and mental health (Nidrajanana): traditionally used to promote sleep and calm the mind. Milk has been reported to contain tryptophan, and casein digestion has been reported to yield opioid peptides.
 - Vehicle for herbal medicines (Anupana): used in classical practice as a vehicle for herbal medicines. Research has reported that milk proteins and fats may increase the bioavailability of fat-soluble herbal compounds.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Jeong H, Park YS, Yoon SS 2024. [A2 milk consumption and its health benefits: an update](https://pubmed.ncbi.nlm.nih.gov/38274187/). *Food science and biotechnology*. PMID [38274187](https://pubmed.ncbi.nlm.nih.gov/38274187/) · [doi:10.1007/s10068-023-01428-5](https://doi.org/10.1007/s10068-023-01428-5)  
   A2 milk (from indigenous cow breeds) avoids BCM-7 production during digestion, reducing gastrointestinal discomfort, systemic inflammation, and potentially lowering risk of type-1 diabetes and cardiovascular disease compared to A1 milk.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

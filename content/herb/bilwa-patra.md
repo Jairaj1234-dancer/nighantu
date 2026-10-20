@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Bael leaves are traditionally used for Prameha (diabetes) in Ayurveda. In vivo studies have reported hypoglycemic/[antidiabetic](/reference/antidiabetic/) activity, and limited clinical studies have reported similar activity.
 - Leaf paste and decoction are traditionally used for infectious diseases. In vitro studies have reported antimicrobial and anti-infective activity against several pathogens.
 - Traditionally used for Shotha (inflammation) and pain conditions. Animal studies using carrageenan-induced paw edema models have reported anti-inflammatory and [analgesic](/reference/analgesic/) effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sharma A, Gugulothu D, Virmani T and others 2025. [Ethnopharmacological Profile, Phytochemistry and Therapeutic Potential of Aegle marmelos L. for the Treatment of Neurological Disorders](https://pubmed.ncbi.nlm.nih.gov/40535825/). *Journal of nutrition and metabolism*. PMID [40535825](https://pubmed.ncbi.nlm.nih.gov/40535825/) · [doi:10.1155/jnme/2275526](https://doi.org/10.1155/jnme/2275526)  
   Bioactive compounds from bael leaves including [alkaloids](/glossary/compounds-1-a/#alkaloids), [flavonoids](/reference/flavonoids/), and essential oils show therapeutic potential for neurological disorders through [neuroprotective](/reference/neuroprotective/) and anti-neuroinflammatory mechanisms.
 - Dey M, Rao S, Pl R and others 2024. [Evaluation of the Effect of Aegle marmelos (Bael Leaf) Extract on Human Fibroblast Viability: An In Vitro Study](https://pubmed.ncbi.nlm.nih.gov/39600753/). *Cureus*. PMID [39600753](https://pubmed.ncbi.nlm.nih.gov/39600753/) · [doi:10.7759/cureus.72466](https://doi.org/10.7759/cureus.72466)  
   Bael leaf extract exhibited minimal cytotoxicity on gingival fibroblasts at low concentrations, supporting safety for potential dental applications.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

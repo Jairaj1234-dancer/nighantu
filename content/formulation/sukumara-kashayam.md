@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Manufactured under Drug and Cosmetics Act, 1940 guidelines. Referenced in Sahasrayogam, a classical Kerala pharmacopoeia."
 aliases: ["Sukumara Kashayam", "SukumaraKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 432
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Sukumara-Kashayam/meta-analysis.md"
@@ -51,18 +51,18 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Dysmenorrhea and menstrual irregularity: traditionally used for these conditions. Clinical observations have reported antispasmodic and hormonal effects.
 - Constipation and digestive disorders: traditionally used for these complaints. Prokinetic action has been reported for [Dashamoola](/herb/dashamoola/) and [Eranda](/herb/eranda/) root constituents.
 - Polycystic ovarian disease and uterine fibroids: traditionally used for these conditions. Clinical case studies have reported a reduction in cyst size.
 - Infertility support: traditionally used to support fertility. Phytoestrogenic activity has been reported for key ingredients.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

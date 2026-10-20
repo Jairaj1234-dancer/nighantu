@@ -33,16 +33,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Panna-Pishti/meta-an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive and hepatic disorders: traditionally used for liver disorders. No clinical trials have been reported for this specific use.
 - Cooling and Pitta-pacifying: traditionally used in Ayurveda as a cooling, Pitta-pacifying preparation. No modern pharmacological studies specific to emerald-derived preparations have been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Antidiabetic](/reference/antidiabetic/) activity: traditionally used for diabetes. In vivo studies have reported hypoglycemic effects.
 - [Antimicrobial](/reference/antimicrobial/) properties: bioassay-guided isolation studies have reported isoflavonoids, [anthraquinones](/glossary/compounds-1-a/#anthraquinones), and pterocarpanoids with activity against S. aureus, including MDR strains.
 - [Hepatoprotective](/reference/hepatoprotective/) effects: safety assessment studies have reported protection of liver and kidney function markers.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gajurel G, Sharma AR, Abdel-Karim S and others 2025. [Enhanced Production of Anti-Inflammatory and Antibacterial Prenylated Isoflavonoids in Pigeon Pea (Cajanus cajan) Hairy Root Cultures](https://pubmed.ncbi.nlm.nih.gov/40009762/). *Journal of agricultural and food chemistry*. PMID [40009762](https://pubmed.ncbi.nlm.nih.gov/40009762/) · [doi:10.1021/acs.jafc.4c12406](https://doi.org/10.1021/acs.jafc.4c12406)  
   Three new prenylated isoflavonoids (cajaisoflavanone A, cajaisoflavanone B, and cajasan) were isolated from hairy root cultures; cajasan exhibited significant anti-inflammatory activity by reducing nitrite and IL-6 levels.
 - Vo TL, Cai XM, Liao JW and others 2023. [Safety Assessment and Hepatic-Renal Protection of Cajanus cajan (L.) Millsp. Root and Its Soy Isoflavone Contents](https://pubmed.ncbi.nlm.nih.gov/37764747/). *Nutrients*. PMID [37764747](https://pubmed.ncbi.nlm.nih.gov/37764747/) · [doi:10.3390/nu15183963](https://doi.org/10.3390/nu15183963)  
   No mutagenic or cytotoxic effects found in ethanolic extract of C. cajan roots in 90-day Wistar rat study; safe daily human intake estimated at 972 mg/60 kg person/day.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

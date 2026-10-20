@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Yakrit-Shodhaka (liver): traditionally used for the liver. Clinical and preclinical studies have reported lower liver [enzymes](/glossary/compounds-d-g/#enzymes) and hepatocyte regeneration.
 - Traditionally used for digestion. Research has reported that inulin fermentation increased beneficial gut bacteria (Bifidobacteria).
 - Traditionally used in diabetes. Clinical studies have reported improved glycemic control and insulin sensitivity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Aisa HA, Xin XL, Tang D 2020. [Chemical constituents and their pharmacological activities of plants from Cichorium genus](https://pubmed.ncbi.nlm.nih.gov/36119016/). *Chinese herbal medicines*. PMID [36119016](https://pubmed.ncbi.nlm.nih.gov/36119016/) · [doi:10.1016/j.chmed.2020.05.001](https://doi.org/10.1016/j.chmed.2020.05.001)  
   Identified over 100 individual compounds from the plant; majority from roots; documented sesquiterpene lactones as key bioactive anti-inflammatory and [anticancer](/reference/anticancer/) agents.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI), Parts I and II. Referenced in Bhaishajya Ratnavali and Charaka Samhita. Widely manufactured by major Ayurvedic pharmacies under GMP standards."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 453
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Abhayarishta/meta-analysis.md"
@@ -38,18 +38,18 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Constipation (Vibandha): traditionally used for constipation. A double-blind clinical study reported significant improvement.
 - Piles/Hemorrhoids (Arsha): traditionally used for piles. Studies on [Haritaki](/herb/haritaki/) have reported venotonic and anti-inflammatory activity.
 - Abdominal distension and flatulence: traditionally used for abdominal distension and flatulence. A cholagogue action that increases bile flow has been reported.
 - Dysuria (difficult urination): traditionally used for difficult urination. [Gokshura](/herb/gokshura/) is described as having [diuretic](/reference/diuretic/) properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -69,7 +69,7 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 
 **Dosage Forms:** Arishta (fermented liquid), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 12 to 24 ml twice daily after meals with equal quantity of water, as given in the Ayurvedic Formulary of India, Part I, entry 1:1. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Arsorogadhikara; 105-107.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal quantity of water, as given in the Ayurvedic Formulary of India, Part I, entry 1:1. The formulary attributes this formula to Bhaisajyaratnavali, Arsorogadhikara; 105-107.
 
 **Bioavailability:** Self-generated alcohol (5-12%) acts as a bio-enhancer and preservative, improving absorption of active phytoconstituents. Fermentation yields novel metabolites with enhanced bioavailability compared to simple decoctions.
 

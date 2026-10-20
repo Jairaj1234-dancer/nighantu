@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Blood sugar regulation in diabetes: traditionally used for blood sugar regulation. Clinical trials and meta-analyses have reported improvements in blood glucose and HbA1c.
 - Carminative and digestive aid: traditionally used for dyspepsia and flatulence.
@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - [Antimicrobial](/reference/antimicrobial/) use: traditionally used for infections. In vitro and in vivo studies have reported broad-spectrum activity of cinnamaldehyde.
 - Lipid lowering: traditionally used for cardiovascular health. Clinical trials have reported reduced triglycerides, LDL-C, and total cholesterol.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gou H, Zhong L, Wei Q and others 2025. [The effects of cinnamon on patients with metabolic diseases: an umbrella review of meta-analyses of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/41256917/). *Frontiers in nutrition*. PMID [41256917](https://pubmed.ncbi.nlm.nih.gov/41256917/) · [doi:10.3389/fnut.2025.1683477](https://doi.org/10.3389/fnut.2025.1683477)  
   Comprehensive umbrella review across PubMed, Web of Science, Embase, Scopus, and Cochrane Library (up to March 2025) confirmed cinnamon supplementation improves metabolic parameters in diabetes, metabolic syndrome, PCOS, NAFLD, and hypertension.
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - Silva ML, Bernardo MA, Singh J and others 2022. [Cinnamon as a Complementary Therapeutic Approach for Dysglycemia and Dyslipidemia Control in Type 2 Diabetes Mellitus and Its Molecular Mechanism of Action: A Review](https://pubmed.ncbi.nlm.nih.gov/35807953/). *Nutrients*. PMID [35807953](https://pubmed.ncbi.nlm.nih.gov/35807953/) · [doi:10.3390/nu14132773](https://doi.org/10.3390/nu14132773)  
   Reviewed molecular mechanisms of cinnamon's [antidiabetic](/reference/antidiabetic/) activity: enhances insulin receptor signaling, increases GLUT4 translocation, activates AMPK pathway, and inhibits alpha-glucosidase.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

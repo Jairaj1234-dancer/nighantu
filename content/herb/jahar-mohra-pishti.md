@@ -33,16 +33,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cardiac tonic (Hridya): traditionally used as a cardiac tonic. Specific clinical trials on [Jahar Mohra Pishti](/herb/jahar-mohra-pishti/) are lacking.
 - Antidote to poisons (Vishanashak) and anti-emetic: traditionally used as an antidote to poisons and as an anti-emetic.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

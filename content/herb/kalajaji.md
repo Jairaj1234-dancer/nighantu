@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for raised blood sugar. [Antidiabetic](/reference/antidiabetic/) activity has been reported in clinical studies, with improved glycemic control in people with type 2 diabetes.
 - Traditionally used for rheumatic conditions and pain. Anti-inflammatory and [analgesic](/reference/analgesic/) effects have been reported in clinical and preclinical studies.
 - Held in very high regard in traditional Islamic medicine. [Immunomodulatory](/reference/immunomodulatory/) effects, with an enhanced immune response, have been reported in clinical studies.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Alberts A, Moldoveanu ET, Niculescu AG and others 2024. [Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications](https://pubmed.ncbi.nlm.nih.gov/39769174/). *International journal of molecular sciences*. PMID [39769174](https://pubmed.ncbi.nlm.nih.gov/39769174/) · [doi:10.3390/ijms252413410](https://doi.org/10.3390/ijms252413410)  
   Systematic evaluation confirming [antioxidant](/reference/antioxidant/), anti-inflammatory, antibacterial, antifungal, antiviral, anticancer, antidiabetic, [neuroprotective](/reference/neuroprotective/), and gastroprotective effects with 51 clinical trials identified on ClinicalTrials.gov.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

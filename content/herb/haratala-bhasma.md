@@ -42,17 +42,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Skin diseases (Kushtha): traditionally used for skin diseases. Safer modern alternatives exist.
 - Asthma/respiratory disorders (Shwasa/Kasa): traditionally used for asthma and respiratory disorders. Arsenic toxicity makes this use unjustifiable.
 - Leukemia: arsenic trioxide is FDA-approved for acute promyelocytic leukemia. That approval covers arsenic trioxide, not Haratala.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

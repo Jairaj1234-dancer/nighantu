@@ -19,10 +19,9 @@ productHints: []
 words: 291
 srcRel: "_Hub/Pharmacology/Laxative.md"
 ---
-*81 herbs and compounds with laxative activity across traditions*
+*40 herbs and compounds with laxative activity*
 
-## Ayurveda (50)
-
+## Ayurveda (40)
 - [Abhayarishta](/formulation/abhayarishta/)
 - [Agastya Haritaki Rasayana](/formulation/agastya-haritaki-rasayana/)
 - [Aloe Vera](/herb/aloe-vera/), *Aloe barbadensis Mill. (syn. [Aloe vera](/herb/aloe-vera/) (L.) Burm.f.)*

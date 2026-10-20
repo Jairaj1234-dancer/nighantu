@@ -45,17 +45,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Raktachapa-hara (antihypertensive): traditionally used to lower blood pressure. Reserpine was one of the first antihypertensive drugs used in Western medicine.
 - Nidrajanana (sedative): traditionally used as a sedative and [anxiolytic](/reference/anxiolytic/). A mechanism involving VMAT2 inhibition and central monoamine depletion has been described.
 - Anti-arrhythmic use: traditionally used for irregular heart rhythm. Ajmaline is still used clinically in the Ajmaline test, a diagnostic test for Brugada syndrome.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

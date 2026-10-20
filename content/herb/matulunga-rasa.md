@@ -36,13 +36,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga-Rasa/meta-analysis.
 
 ## What is it made of?
 
-### Mineral/Elemental Profile
-
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
-- **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
-
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh juice (primary form), Concentrated juice, Syrup, Panak (medicated beverage), Freeze-dried juice powder, Effervescent tablets

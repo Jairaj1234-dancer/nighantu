@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Hingupatri/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive and carminative (Deepana, Anulomana): traditionally used as a digestive and carminative. Studies have reported antispasmodic and carminative properties.
 - Anti-epileptic and nervine (Apasmara-hara): traditionally used for epilepsy and as a nervine. The plant has been reported to contain CNS-active sesquiterpene compounds.
 - Anti-infectious and antimicrobial (Krimighna): traditionally used as an anti-infectious agent. Studies have reported broad-spectrum antimicrobial activity of its organosulfides.
 - Respiratory conditions (Kasa-Shvasa): traditionally used for respiratory conditions. Studies have reported [expectorant](/reference/expectorant/) and bronchodilatory effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mahendra P, Bisht S 2012. [Ferula asafoetida: Traditional uses and pharmacological activity](https://pubmed.ncbi.nlm.nih.gov/23055640/). *Pharmacognosy reviews*. PMID [23055640](https://pubmed.ncbi.nlm.nih.gov/23055640/) · [doi:10.4103/0973-7847.99948](https://doi.org/10.4103/0973-7847.99948)  
 Traditionally used in Ayurveda as a digestive, respiratory, and anti-infectious agent. Studies have reported antispasmodic, expectorant, antiviral, and antifungal properties.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

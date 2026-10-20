@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia. Clinical studies, including multi-center and double-blind studies, reported results comparable to ferrous sulfate with better tolerability.
 - Digestive disorders: traditionally used to improve digestion and appetite, described as Agni-deepana (digestive fire enhancement). Clinical observations have reported improved digestion and appetite.
 - General debility and weakness (Daurbalya): traditionally used for general debility and weakness. Clinical studies have reported improved hemoglobin levels and improved clinical symptoms.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
   Medicinal grade Lauha Bhasma comprises slightly modified magnetite structure with Fe2+/Fe3+ ratio of approximately 40:60. SEM/XRD studies reveal nanocrystalline iron oxide with potential for targeted cancer cell killing via alternating external magnetic field.
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 - Joshi N, Dash MK, Dwivedi L and others 2016. [Toxicity study of Lauha Bhasma (calcined iron) in albino rats](https://pubmed.ncbi.nlm.nih.gov/27143800/). *Ancient science of life*. PMID [27143800](https://pubmed.ncbi.nlm.nih.gov/27143800/) · [doi:10.4103/0257-7941.179870](https://doi.org/10.4103/0257-7941.179870)  
   No signs of toxicity or mortality observed up to 100x therapeutic dose in acute toxicity study. Safe at 1x and 5x therapeutic dose in subacute study. Some biochemical alterations at highest dose levels (10x) with histopathological changes.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

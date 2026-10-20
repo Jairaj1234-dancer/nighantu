@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Sahasrayogam and Bhaishajya Ratnavali. Simple three-ingredient formulation widely used in Ayurvedic clinical practice."
 aliases: ["Amritottaram Kashayam", "AmritottaramKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 427
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Amritottaram-Kashayam/meta-analysis.md"
@@ -38,16 +38,16 @@ Sahasrayogam, Jwara Chikitsa (fever treatment section). Also referenced in Rasa 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Jwara Chikitsa (fever care): traditionally used for fever. Research has reported immunomodulatory and antipyretic activity.
 - Traditionally used to protect the liver in mild hepatitis. A clinical study reported lower ALT and AST levels.
 - Traditionally used to support general immunity. Research has reported NK cell and macrophage activation.
 - Traditionally used for digestive support during febrile illness. Shunthi is traditionally valued for its digestive properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

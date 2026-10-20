@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Bhaishajya Ratnavali. Sandalwood (Santalum album) monograph in Ayurvedic Pharmacopoeia of India. Also known as Chandanasava in South Indian pharmacopoeias."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 438
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Srikhandasava/meta-analysis.md"
@@ -38,19 +38,19 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). A
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Burning sensation (Daha) from Pitta aggravation: traditionally used for this. Studies have reported cooling and anti-inflammatory activity.
 - Adverse effects of alcohol/intoxication: traditionally used for Madatyaya. Studies have reported [hepatoprotective](/reference/hepatoprotective/) and antioxidant activity.
 - Burning micturition and UTI: traditionally used for these conditions. Studies have reported antimicrobial activity and cooling [diuretic](/reference/diuretic/) properties.
 - Skin conditions with burning and inflammation: traditionally used for these conditions. Studies have reported antioxidant and antimicrobial activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sanapati K, Kalaivannan J, Jones S and others 2024. [Antioxidant Studies of One Ayurvedic Medicine, Srikhandasavam](https://pubmed.ncbi.nlm.nih.gov/40061773/). *Journal of pharmacy & bioallied sciences*. PMID [40061773](https://pubmed.ncbi.nlm.nih.gov/40061773/) · [doi:10.4103/jpbs.jpbs_990_24](https://doi.org/10.4103/jpbs.jpbs_990_24)  
 An in vitro study reported high antioxidant activity in DPPH, FRAP, and ABTS assays. The formulation is traditionally described as Pitta-pacifying and tissue-protective.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -70,7 +70,7 @@ An in vitro study reported high antioxidant activity in DPPH, FRAP, and ABTS ass
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:35. This replaces a previously stated 15-30ml, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Madatyayadhikara; 24-264. (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26.
+**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:35. The formulary attributes this formula to Bhaisajyaratnavali, Madatyayadhikara; 24-264. (Devanagari line: भैषज्यरत्नावली, मदात्ययाधिकारः 24-26.
 
 **Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Psoralea corylifolia is listed in the Ayurvedic Pharmacopoeia of India (API) as the official source of the drug 'Bakuchi'. Also recognized in Chinese Pharmacopoeia, British Pharmacopoeia, and American Pharmacopoeia. Documented in Indian Pharmaceutical Codex and multiple traditional medicine systems (Ayurveda, Unani, Siddha)."
 aliases: ["Bakuchi Taila", "BakuchiTaila"]
 tags: ["ayurveda", "formulation", "taila", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 663
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Bakuchi-Taila/meta-analysis.md"
@@ -47,18 +47,18 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Shvitra (vitiligo/leucoderma): traditionally used for repigmentation. A randomized controlled trial reported improvement in repigmentation. A clinical study reported improvement with an Ayurvedic formulation compared with oral PUVA.
 - Kushtha (psoriasis and chronic skin disorders): traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory and immunomodulatory properties of psoralen and flavonoids.
 - Alopecia and hair loss: traditionally used for these conditions. Studies have reported that bakuchiol may stimulate hair follicle melanocytes and promote pigmentation.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gao SY, Zhao JC, Xia Q and others 2024. [Evaluation of the hepatotoxicity of Psoralea corylifolia L. based on a zebrafish model](https://pubmed.ncbi.nlm.nih.gov/38449808/). *Frontiers in pharmacology*. PMID [38449808](https://pubmed.ncbi.nlm.nih.gov/38449808/) · [doi:10.3389/fphar.2024.1308655](https://doi.org/10.3389/fphar.2024.1308655)  
   Published in Frontiers in Pharmacology, the study identified bavachin, psoralidin, bavachinin, neobavaisoflavone, and bakuchiol as the main hepatotoxic constituents, with hepatotoxicity mechanism related to effects on liver lipid metabolism and mitochondrial dysfunction.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

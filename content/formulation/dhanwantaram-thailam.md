@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I. Referenced in Sahasrayogam and Ashtanga Hridayam. Manufactured under GMP standards by licensed Ayurvedic pharmacies across India."
 aliases: ["Dhanwantaram Thailam", "DhanwantaramThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 571
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Dhanwantaram-Thailam/meta-analysis.md"
@@ -38,18 +38,18 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sahasrayogam (Taila Prakaran
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Neuromuscular strengthening and postpartum recovery: traditionally used for these purposes. Clinical observations have reported improved muscle tone and reduced pain in postnatal women.
 - Rheumatic and joint pain: traditionally used for these conditions. A GC-MS analysis reported bioactive compounds associated with anti-inflammatory activity.
 - Vata-vyadhi (neurological disorders) including facial palsy, paralysis, and tremors: used in classical practice for these conditions. Pilot clinical studies have reported improvement in neuromuscular function.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Brindha TR, Prabhu K, Jones S and others 2024. [The GC-MS Study of the Ayurvedic Formulation "Dhanwantharam Thailam" Used for Rheumatism](https://pubmed.ncbi.nlm.nih.gov/38882853/). *Journal of pharmacy & bioallied sciences*. PMID [38882853](https://pubmed.ncbi.nlm.nih.gov/38882853/) · [doi:10.4103/jpbs.jpbs_14_24](https://doi.org/10.4103/jpbs.jpbs_14_24)  
   GC-MS profiling revealed crucial bioactive molecules including oleic acid, dodecanoic acid 1,2,3-propanetriyl ester, ethenyl ester, and 9,12-octadecadienoyl chloride (Z,Z), correlating with its documented anti-rheumatic and analgesic properties.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

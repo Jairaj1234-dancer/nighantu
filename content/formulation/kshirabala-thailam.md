@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridayam and Sahasrayogam. The 101 Avarti form is a speciality product unique to the Kerala Ayurvedic tradition. Manufactured by major Ayurvedic companies (Kottakkal, Kerala Ayurveda, Vaidyaratnam) under GMP standards."
 aliases: ["Kshirabala Thailam", "KshirabalaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 536
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Kshirabala-Thailam/meta-analysis.md"
@@ -38,17 +38,17 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Neurological disorders (facial paralysis, hemiplegia, sciatica): traditionally used for these conditions. Clinical studies have reported [neuroprotective](/reference/neuroprotective/) activity and improved motor function.
 - Cervical and lumbar spondylosis: traditionally used for these conditions. Randomized trials have reported less pain and stiffness, comparable to conventional therapy.
 - Insomnia and anxiety (Vata-related mental disorders): traditionally used as a nervine tonic for these conditions. Pharmacological studies have reported GABA-modulatory properties of [Bala](/herb/bala/) alkaloids.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

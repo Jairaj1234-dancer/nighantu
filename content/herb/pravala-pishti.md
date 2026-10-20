@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Calcium deficiency and bone disorders: traditionally used for calcium deficiency and bone disorders. A preclinical study reported less bone loss linked to calcium and estrogen deficit. A multicenter clinical study in menopausal women reported on its safety.
 - Hyperacidity (Amlapitta) and bleeding disorders (Raktapitta): traditionally used as an antacid and for bleeding disorders. It contains calcium carbonate.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Reddy PN, Lakshmana M, Udupa UV 2003. [Effect of Praval bhasma (Coral calx), a natural source of rich calcium on bone mineralization in rats](https://pubmed.ncbi.nlm.nih.gov/14527824/). *Pharmacological research*. PMID [14527824](https://pubmed.ncbi.nlm.nih.gov/14527824/) · [doi:10.1016/s1043-6618(03)00224-x](https://doi.org/10.1016/s1043-6618(03)00224-x)  
   Praval Bhasma was effective in the prevention of calcium and estrogen deficit bone loss in experimental models, supporting its use as a natural calcium supplement for bone health.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

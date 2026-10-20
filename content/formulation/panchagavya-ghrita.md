@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) for Apasmara (epilepsy), Jvara (fever), Unmada (mania), and Kamala (jaundice); standardization based on AFI preparation methods; regulated under Drugs and Cosmetics Act, 1940"
 aliases: ["Panchagavya Ghrita", "PanchagavyaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 434
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagavya-Ghrita/meta-analysis.md"
@@ -39,16 +39,16 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Apasmara (epilepsy): traditionally used for apasmara. A clinical study reported complete seizure freedom in some patients. Animal studies have reported dose-dependent seizure protection.
 - Unmada (psychosis/mania): used in classical practice as a psychiatric indication. Pharmacological studies have reported neuroprotective and GABAergic activity.
 - Adjuvant anti-epileptic therapy: studies have reported a synergistic interaction with phenytoin and carbamazepine that allowed dose reduction.
 - [Kamala](/herb/kamala/) (jaundice/liver disorders): traditional [hepatoprotective](/reference/hepatoprotective/) use referenced in Sushruta Samhita
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

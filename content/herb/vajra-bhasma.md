@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Cancer and tumors (Arbuda): traditionally used for Arbuda in classical practice. Animal studies have reported reduced tumor volume, less metastasis, and longer survival in tumor-bearing animals.
 - Immune deficiency: preclinical studies have reported immunomodulatory activity, including increased NK cell activity and lymphocyte proliferation.
 - Tuberculosis (Rajayakshma): traditionally used for Rajayakshma in classical practice. Anti-inflammatory and immune-enhancing activity has been reported, but clinical research specific to TB is limited.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Paladhi A, Rej A, Sarkar D and others 2022. [Nanoscale Diamond-Based Formulation as an Immunomodulator and Potential Therapeutic for Lymphoma](https://pubmed.ncbi.nlm.nih.gov/35444547/). *Frontiers in pharmacology*. PMID [35444547](https://pubmed.ncbi.nlm.nih.gov/35444547/) · [doi:10.3389/fphar.2022.852065](https://doi.org/10.3389/fphar.2022.852065)  
   Functional nanodiamond-based Heerak Bhasma demonstrated immunostimulation that significantly reduced tumor cell proliferation, induced apoptosis, reduced tumor volume, inhibited metastasis, and increased life span of tumor-bearing animals.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -64,14 +64,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 - EXTREME COST: Very expensive preparation, limiting widespread use and also increasing adulteration/substitution risk in commercial products
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
-- **Particle size:** Sub-micron to nanoparticle range
-- **Note:** Exact composition depends on source material and preparation method
-
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
 
 ## Dosage forms and preparation
 

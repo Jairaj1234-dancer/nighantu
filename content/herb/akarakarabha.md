@@ -45,21 +45,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Vajikarana](/glossary/pharmacology/#vajikarana): traditionally used as an aphrodisiac and for male fertility. Animal studies have reported increased testosterone and improved sperm parameters.
 - Dantavedanashaka: traditionally used for oral health and toothache. Studies have reported analgesic activity of pellitorine on nerve endings.
 - Medhya: traditionally used as a cognitive and nervine tonic. Neuropharmacological studies have reported memory enhancement.
 - Inflammatory and rheumatic conditions: traditionally used for inflammation and rheumatic complaints. In vivo studies have reported anti-inflammatory activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chen H, Aisa HA 2025. [Alkaloids from Anacyclus pyrethrum](https://pubmed.ncbi.nlm.nih.gov/39216630/). *Phytochemistry*. PMID [39216630](https://pubmed.ncbi.nlm.nih.gov/39216630/) · [doi:10.1016/j.phytochem.2024.114255](https://doi.org/10.1016/j.phytochem.2024.114255)  
   Twelve undescribed alkaloids including eight pyrrolo[3,2-g]isoquinoline and four pyrrolo[2,3-g]quinoline alkaloids were isolated from roots; some showed significant inhibition of NO production in LPS-induced RAW 264.7 cells.
 - Baz AE, Mrabti HN, Ashmawy NS and others 2024. [Phytochemical characterization, antimicrobial properties and in silico modeling perspectives of Anacyclus pyrethrum essential oil](https://pubmed.ncbi.nlm.nih.gov/39220961/). *Heliyon*. PMID [39220961](https://pubmed.ncbi.nlm.nih.gov/39220961/) · [doi:10.1016/j.heliyon.2024.e35079](https://doi.org/10.1016/j.heliyon.2024.e35079)  
   Identified santolina alcohol as the major essential oil component (40.7%), followed by [germacrene-D](/glossary/compounds-d-g/#germacrene-d) (8.9%); in silico molecular docking showed strong binding to bacterial target [proteins](/glossary/compounds-o-q/#proteins).
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

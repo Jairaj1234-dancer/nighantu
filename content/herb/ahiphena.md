@@ -28,13 +28,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - **[Analgesic](/reference/analgesic/) use.** Traditionally used for pain. Morphine, derived from opium, is used as an analgesic in modern medicine. The WHO Essential Medicines List includes morphine for moderate to severe pain. Systematic reviews have reported analgesic activity of morphine in cancer pain, post-surgical pain, and chronic pain.
 - **Anti-diarrheal (Atisara/Pravahika).** Traditionally used in Ayurveda for dysentery and diarrhea. Codeine and morphine are known to cause constipation by reducing gut motility through mu-receptors. Loperamide (Imodium), a synthetic opioid derivative, is a common OTC anti-diarrheal.
 - **Antitussive (cough suppressant - Kasa).** Traditionally used for Kasa (cough). Codeine is widely prescribed as an antitussive. Noscapine (narcotine) from opium is a non-addictive cough suppressant sold OTC in many countries. WHO recognizes codeine as an antitussive.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Machado RSR, Bonhomme V, Soteras R and others 2025. [The origins and spread of the opium poppy (Papaver somniferum L.) revealed by genomics and seed morphometrics](https://pubmed.ncbi.nlm.nih.gov/40370019/). *Philosophical transactions of the Royal Society of London. Series B, Biological sciences*. PMID [40370019](https://pubmed.ncbi.nlm.nih.gov/40370019/) · [doi:10.1098/rstb.2024.0198](https://doi.org/10.1098/rstb.2024.0198)  
   Genomic analysis revealed that P. somniferum subsp. setigerum is the only taxa genetically close to somniferum and can be better described as a subspecies, providing new insights into domestication history of opium poppy.

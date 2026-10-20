@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I. Primary reference in Bhaishajya Ratnavali (verses 140-150). One of the most widely used Vata-pacifying Tailas in Ayurvedic practice. Manufactured by all major licensed Ayurvedic pharmacies under GMP standards."
 aliases: ["Narayana Thailam", "NarayanaThailam"]
 tags: ["ayurveda", "formulation", "taila", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 480
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Narayana-Thailam/meta-analysis.md"
@@ -38,15 +38,15 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vatavyadhi (Vata-related conditions), including paralysis, tremors, and muscular atrophy: traditionally used for these conditions. Observational studies have reported improvement in neuromuscular function.
 - Lower back pain and lumbar spasm: traditionally used for these complaints. A pilot clinical study reported improvement in pain with nightly oleation and Swedana.
 - Osteoarthritis stiffness and swelling: traditionally used for these complaints. Observational studies have reported reduced symptoms with regular Abhyanga.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

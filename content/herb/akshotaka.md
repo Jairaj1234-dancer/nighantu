@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Akshotaka is traditionally used in Ayurveda for Prameha (diabetes). Clinical and preclinical studies have reported [Antidiabetic](/reference/antidiabetic/) effects, including improved glycemic control.
 - Walnut bark and leaf preparations are traditionally applied to the skin. In vitro and animal studies have reported anti-inflammatory and wound healing activity.
 - Clinical studies have reported [Neuroprotective](/reference/neuroprotective/) and cognitive benefits. They linked walnut consumption to improved memory and cognitive function in elderly people.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ghasemzadeh Rahbardar M, Rashki M, Boskabady MH 2025. [A Review of Antioxidant Activity, Anti-Inflammatory Properties, Apoptosis-Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)](https://pubmed.ncbi.nlm.nih.gov/41179368/). *Food science & nutrition*. PMID [41179368](https://pubmed.ncbi.nlm.nih.gov/41179368/) · [doi:10.1002/fsn3.71081](https://doi.org/10.1002/fsn3.71081)  
   Walnut phytochemical profile contributes to therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses through multiple molecular pathways.
 - Arshed N, Shabbir A, Khan HM and others 2025. [Juglans regia L. (Walnut) Leaf Extract Ameliorates Pulmonary Edema Against Airway Inflammation via Upregulation of Tight Junction Proteins and Heme Oxygenase-1 in the Lungs of Asthmatic Mice](https://pubmed.ncbi.nlm.nih.gov/40421046/). *Journal of tropical medicine*. PMID [40421046](https://pubmed.ncbi.nlm.nih.gov/40421046/) · [doi:10.1155/jotm/6976932](https://doi.org/10.1155/jotm/6976932)  
   Walnut leaf extract reduced pulmonary edema in asthmatic mice by upregulating tight junction proteins (claudin-1, occludin) and heme oxygenase-1, demonstrating anti-inflammatory airway protection.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

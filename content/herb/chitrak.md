@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Deepana-Pachana (digestive stimulant): traditionally used to stimulate digestion. Studies have reported increased gastric secretion.
 - Research has reported anti-inflammatory activity involving inhibition of the NF-kB pathway.
@@ -55,14 +55,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 - [Hepatoprotective](/reference/hepatoprotective/) effects have been reported in animal studies of liver injury.
 - Preclinical studies have reported wound healing activity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bhinde SS, Ravi AK, Patgiri BJ and others 2020. [Standard operating procedure of Purification of Chitraka (Plumbago zeylanica Linn.) along with pharmacognostical and analytical profiles of Plumbagin](https://pubmed.ncbi.nlm.nih.gov/34908796/). *Ayu*. PMID [34908796](https://pubmed.ncbi.nlm.nih.gov/34908796/) · [doi:10.4103/ayu.AYU_299_20](https://doi.org/10.4103/ayu.AYU_299_20)  
   Established SOPs for traditional Shodhana (purification) of Chitrak root, with analytical profiling confirming plumbagin retention after purification. Purification process reduces toxicity while preserving therapeutic activity.
 - Thekkumkara S, Longchar A, Venkidasamy B and others 2025. [Different Derivatives of Plumbagin Analogue: Bioavailability and Their Toxicity Studies](https://pubmed.ncbi.nlm.nih.gov/40842665/). *Food science & nutrition*. PMID [40842665](https://pubmed.ncbi.nlm.nih.gov/40842665/) · [doi:10.1002/fsn3.70720](https://doi.org/10.1002/fsn3.70720)  
   Investigated plumbagin derivatives to address poor bioavailability due to low solubility and metabolic instability. Novel analogues showed improved pharmacokinetic profiles with reduced toxicity compared to parent compound.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

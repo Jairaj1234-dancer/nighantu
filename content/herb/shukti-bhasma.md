@@ -42,17 +42,15 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hyperacidity and peptic ulcer (Amlapitta): traditionally used as an antacid for these conditions. A clinical study reported a reduction in heartburn symptoms.
 - Osteoporosis and bone disorders (Asthi Kshaya): traditionally used as a source of calcium. A clinical study in osteopenic subjects reported an improvement in lumbar spine bone mineral density.
 - Respiratory and musculoskeletal diseases: traditionally used in Ayurveda and Siddha for diverse conditions, including respiratory and joint disorders.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-
-
-*4 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
@@ -62,14 +60,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 - MEDICAL SUPERVISION REQUIRED: Self-medication discouraged. Dose should be adjusted based on individual calcium needs and serum calcium levels.
 
 ## What is it made of?
-
-### Mineral/Elemental Profile
-
-- **Primary component:** Calcined mineral/metal oxide (after Shodhana and Marana)
-- **Particle size:** Sub-micron to nanoparticle range
-- **Note:** Exact composition depends on source material and preparation method
-
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
 
 ## Dosage forms and preparation
 

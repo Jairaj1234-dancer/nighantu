@@ -6,7 +6,7 @@ section: "_Hub"
 category: "Compounds"
 subcategory: "Gallic-acid.md"
 group: ""
-answer: "Gallic acid is a reference entry in the Nighantu. Found in 177 entries across the catalogue."
+answer: "Gallic acid is a reference entry in the Nighantu. Found in 137 entries."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -19,7 +19,7 @@ productHints: []
 words: 630
 srcRel: "_Hub/Compounds/Gallic-acid.md"
 ---
-*Found in 177 entries across the catalogue*
+*Found in 137 entries*
 
 ## Ayurveda
 

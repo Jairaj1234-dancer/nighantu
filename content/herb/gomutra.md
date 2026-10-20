@@ -46,18 +46,18 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Shodhana (purification of toxins/minerals): used in classical practice as a medium for purifying Ayurvedic mineral preparations. Studies have reported reduced heavy metal toxicity in these preparations, attributed to chelation and chemical transformation.
 - Bioenhancer (Yogavahi): traditionally used as a yogavahi. A US patent and several studies have reported that cow urine distillate increases the bioavailability of antibiotics, antifungals and anti-tubercular drugs.
 - Wounds and skin diseases: traditionally applied topically. Its allantoin content and antimicrobial properties have been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Pant L, Thapa S, Dahal B and others 2024. [In Silico and In Vitro Studies of Antibacterial Activity of Cow Urine Distillate (CUD)](https://pubmed.ncbi.nlm.nih.gov/38225974/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [38225974](https://pubmed.ncbi.nlm.nih.gov/38225974/) · [doi:10.1155/2024/1904763](https://doi.org/10.1155/2024/1904763)  
   CUD showed significant antibacterial activity against tested strains with zone of inhibition (ZOI) ranging from 13-24 mm and MIC values ranging from 12.5 to 50 microg/ml; in silico docking confirmed binding to bacterial target [proteins](/glossary/compounds-o-q/#proteins).
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -78,7 +78,7 @@ Most famous Ayurvedic compound. Charaka says Triphala Rasayana can make one live
 - Ashtanga Hridaya
 - Sharangadhara Samhita
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Phimarn W, Sungthong B, Itabe H 2021. [Effects of Triphala on Lipid and Glucose Profiles and Anthropometric Parameters: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/33886393/). *Journal of evidence-based integrative medicine*. PMID [33886393](https://pubmed.ncbi.nlm.nih.gov/33886393/) · [doi:10.1177/2515690X211011038](https://doi.org/10.1177/2515690X211011038)  
   Systematic review of 9 trials (551 patients) found Triphala reduced LDL-C, total cholesterol, and triglycerides while increasing HDL levels. Safe when used for 25 days to 1 year.
@@ -89,7 +89,7 @@ Most famous Ayurvedic compound. Charaka says Triphala Rasayana can make one live
 - Gurjar S, Taliyan R, Kumari S and others 2025. [The interplay of triphala and its constituents with respect to metabolic disorders and gut-microbiome](https://pubmed.ncbi.nlm.nih.gov/40466870/). *Fitoterapia*. PMID [40466870](https://pubmed.ncbi.nlm.nih.gov/40466870/) · [doi:10.1016/j.fitote.2025.106642](https://doi.org/10.1016/j.fitote.2025.106642)  
   Comprehensive review confirming Triphala polyphenols modulate gut microbiota by promoting Bifidobacterium and Lactobacillus while inhibiting pathogenic E. coli, and that microbial transformation produces active urolithins.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

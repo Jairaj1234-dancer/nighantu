@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Water purification (Jala-shodhana): traditionally used to purify water. Studies have reported activity as a natural coagulant and [antimicrobial](/reference/antimicrobial/) agent.
 - Eye health ([Chakshushya](/herb/chakshushya/)): traditionally used as eye drops made from Kataka seed water. Research has reported antimicrobial and anti-inflammatory activity.
 - Anti-diarrheal (Atisara-nashaka): traditionally used for diarrhea. Research has reported astringent and antimicrobial activity attributed to tannins.
 - Diabetes (Prameha): traditionally used for prameha. Preclinical studies have reported reduced blood [glucose](/glossary/compounds-d-g/#glucose).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Yadav KN, Kadam PV, Patel JA and others 2014. [Strychnos potatorum: Phytochemical and pharmacological review](https://pubmed.ncbi.nlm.nih.gov/24600197/). *Pharmacognosy reviews*. PMID [24600197](https://pubmed.ncbi.nlm.nih.gov/24600197/) · [doi:10.4103/0973-7847.125533](https://doi.org/10.4103/0973-7847.125533)  
   Studies have described a phytochemical profile with tannins, saponins, and alkaloids as major classes. Research has reported antimicrobial, antidiarrheal, [antipyretic](/reference/antipyretic/), and contraceptive activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

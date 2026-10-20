@@ -19,10 +19,9 @@ productHints: []
 words: 335
 srcRel: "_Hub/Pharmacology/Antidiabetic.md"
 ---
-*198 herbs and compounds with antidiabetic activity across traditions*
+*40 herbs and compounds with antidiabetic activity*
 
-## Ayurveda (93)
-
+## Ayurveda (40)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
 - [Ajwain](/herb/ajwain/), *Trachyspermum ammi*

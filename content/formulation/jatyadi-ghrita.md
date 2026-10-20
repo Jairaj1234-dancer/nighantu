@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) with specification of 11 herbs plus Siktha and Tuttha; standardized monograph available in official Ayurvedic pharmacopoeia"
 aliases: ["Jatyadi Ghrita", "JatyadiGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 606
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Jatyadi-Ghrita/meta-analysis.md"
@@ -40,19 +40,19 @@ Chakradatta (12th century CE) - earliest clear mention; Sushruta Samhita (wound 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Dushta Vrana (chronic/infected wounds): traditionally used for chronic and infected wounds. Clinical studies have reported wound repair comparable to the antibiotic ointment mupirocin.
 - Dagdha Vrana (burn wounds): traditionally used for burn wounds. Animal studies have reported faster burn wound repair.
 - Antibacterial action: studies have reported activity against MRSA and multidrug-resistant organisms involved in diabetic foot infections.
 - Radiation-induced wounds: an experimental study reported a reduction in wound area in a gamma-radiation skin wound model.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mandrika I, Kumar S, Zandersone B and others 2021. [Antibacterial and Anti-Inflammatory Potential of Polyherbal Formulation Used in Chronic Wound Healing](https://pubmed.ncbi.nlm.nih.gov/34306164/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [34306164](https://pubmed.ncbi.nlm.nih.gov/34306164/) · [doi:10.1155/2021/9991454](https://doi.org/10.1155/2021/9991454)  
   Jatyadi Ghrita extracts showed significant antibacterial activity against MRSA and multidrug-resistant P. aeruginosa in diabetic foot infections, with MICs ranging from 1.95 to 62.5 mg/mL against Gram-positive bacteria
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

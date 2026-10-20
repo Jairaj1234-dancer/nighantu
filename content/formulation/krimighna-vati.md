@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Krimighna Gana (antiparasitic group) recognized in all major Samhitas; Vidanga (Embelia ribes) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; Azadirachta indica in API and Indian Pharmacopoeia"
 aliases: ["Krimighna Vati", "KrimighnaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 574
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Krimighna-Vati/meta-analysis.md"
@@ -49,16 +49,16 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as an anthelmintic. A case study reported activity against a Hymenolepis nana tapeworm infection.
 - Traditionally used for broad-spectrum antiparasitic action. Studies have reported membrane-disrupting and growth-inhibiting activity of [Vidanga](/herb/vidanga/) and [Neem](/herb/neem/).
 - Traditionally used to restore intestinal health. Studies have reported anti-inflammatory and antimicrobial properties of [curcumin](/herb/curcumin/) ([Haridra](/herb/haridra/)) in the gut mucosa.
 - Kushtha/Krimi (parasitic skin conditions): traditionally used for parasitic skin conditions. Studies have reported antimicrobial activity of [Neem](/herb/neem/) and [Haridra](/herb/haridra/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

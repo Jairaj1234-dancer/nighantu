@@ -46,18 +46,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chandana/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Complexion enhancement (Varnya): traditionally used to enhance complexion. Clinical studies have reported skin brightening, anti-wrinkle and anti-aging effects. Antioxidant activity has also been reported.
 - Anti-inflammatory skin soothing (Daha-prashamana): traditionally used for soothing inflamed skin. Laboratory and clinical studies have reported anti-inflammatory activity of alpha-santalol in the context of eczema and dermatitis.
 - [Antimicrobial](/reference/antimicrobial/) wound care: traditionally used in wound care. Laboratory studies have reported broad-spectrum antimicrobial activity against acne-causing bacteria and skin pathogens, including S. aureus.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Moy RL, Levenson C 2017. [Sandalwood Album Oil as a Botanical Therapeutic in Dermatology](https://pubmed.ncbi.nlm.nih.gov/29344319/). *The Journal of clinical and aesthetic dermatology*. PMID [29344319](https://pubmed.ncbi.nlm.nih.gov/29344319/)  
   Clinical trials demonstrated sandalwood album oil efficacy in treating acne, psoriasis, eczema, common warts, and molluscum contagiosum through anti-inflammatory, antimicrobial, and anti-proliferative mechanisms.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

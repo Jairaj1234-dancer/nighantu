@@ -16,7 +16,8 @@ import path from 'node:path';
  */
 const FILE = path.join('data', 'research-rewrites.json');
 export const SECTION = '## Which traditional uses are supported by research?';
-export const UNIDENTIFIED_NOTE = '*These summaries come from the source notes. The studies behind them are not identified on this page.*';
+export const UNIDENTIFIED_NOTE = '*These summaries come from the source notes, which do not name the studies behind them.*';
+const OLD_NOTES = ['*These summaries come from the source notes. The studies behind them are not identified on this page.*'];
 
 export const plainKey = (s) => String(s)
   .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
@@ -58,6 +59,7 @@ export function applyRewrites(page, text) {
     if (section === SECTION && /^\s*[-*]\s/.test(line) && !/pubmed|doi\.org|PMID/i.test(line)) needsNote = true;
   }
   let result = out.join('\n');
+  for (const old of OLD_NOTES) result = result.split(old).join(UNIDENTIFIED_NOTE);
   if (needsNote && !result.includes(UNIDENTIFIED_NOTE)) {
     result = result.replace(`${SECTION}\n\n`, `${SECTION}\n\n${UNIDENTIFIED_NOTE}\n\n`);
   }

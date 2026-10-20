@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in topical applications. In vitro enzyme inhibition assays have reported anti-inflammatory and photoprotective activity.
 - Traditionally used as a rejuvenating ([Rasayana](/reference/rasayana/)) herb. Antioxidant profiling has reported strong free radical scavenging activity.
 - Traditionally used as an [Aphrodisiac](/glossary/pharmacology/#aphrodisiac). Studies on related Ashtavarga species, not on this herb itself, have reported adaptogenic properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bose B, Choudhury H, Tandon P and others 2017. [Studies on secondary metabolite profiling, anti-inflammatory potential, in vitro photoprotective and skin-aging related enzyme inhibitory activities of Malaxis acuminata, a threatened orchid of nutraceutical importance](https://pubmed.ncbi.nlm.nih.gov/28743100/). *Journal of photochemistry and photobiology. B, Biology*. PMID [28743100](https://pubmed.ncbi.nlm.nih.gov/28743100/) · [doi:10.1016/j.jphotobiol.2017.07.010](https://doi.org/10.1016/j.jphotobiol.2017.07.010)  
   Demonstrated significant anti-inflammatory potential and photoprotective activity with skin anti-aging enzyme inhibition properties of the metabolite profile.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

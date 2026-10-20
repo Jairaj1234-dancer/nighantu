@@ -19,10 +19,9 @@ productHints: []
 words: 347
 srcRel: "_Hub/Pharmacology/Anticancer.md"
 ---
-*271 herbs and compounds with anticancer activity across traditions*
+*37 herbs and compounds with anticancer activity*
 
-## Ayurveda (100)
-
+## Ayurveda (37)
 - [Adhaki](/herb/adhaki/), *Cajanus cajan (L.) Millsp.*
 - [Agastya](/herb/agastya/), *Sesbania grandiflora (L.) Pers.*
 - [Agnikarna](/herb/agnikarna/), *Gloriosa superba L. ([Agnikumarika](/herb/agnikumarika/)/Agnimukhi); also associated with Litsea species in some texts*

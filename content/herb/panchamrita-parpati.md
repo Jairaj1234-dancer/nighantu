@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Classical Rasashastra Parpati Kalpana preparation; standardization parameters established for large-scale production; manufactured under AYUSH licensing; classified as Schedule E-1 restricted medicine requiring prescription"
 aliases: ["Panchamrita Parpati", "PanchamritaParpati"]
 tags: ["ayurveda", "rasa-shastra", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 438
 srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Panchamrita-Parpati/meta-analysis.md"
@@ -40,16 +40,16 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Grahani Roga (malabsorption syndrome/chronic diarrhea/IBS-like conditions): traditionally used for this condition. Clinical studies, including a randomized controlled trial, have reported improvement in digestive symptoms.
 - Agni Mandya (weak digestive fire) with Ama formation: a primary traditional indication. The constituent Bhasmas are traditionally described as having Deepana-Pachana properties.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

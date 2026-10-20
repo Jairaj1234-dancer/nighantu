@@ -82,7 +82,7 @@ Classified as Balya (strength-promoting), Brimhana (nourishing), and Rasayana (r
 - Bhavaprakasha Nighantu
 - Ashtanga Hridaya
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Bonilla DA, Moreno Y, Gho C and others 2021. [Effects of Ashwagandha (Withania somnifera) on Physical Performance: Systematic Review and Bayesian Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/33670194/). *Journal of functional morphology and kinesiology*. PMID [33670194](https://pubmed.ncbi.nlm.nih.gov/33670194/) · [doi:10.3390/jfmk6010020](https://doi.org/10.3390/jfmk6010020)  
   13 studies analyzed; medium overall effect size for strength/power improvements in healthy individuals with ashwagandha supplementation.

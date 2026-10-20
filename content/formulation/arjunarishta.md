@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Terminalia arjuna bark monograph included in Ayurvedic Pharmacopoeia of India. HPLC-standardized formulations available commercially. AYUSH-approved manufacturing standards."
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 431
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arjunarishta/meta-analysis.md"
@@ -38,16 +38,16 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Heart tonic (Hridya): traditionally used as a heart tonic. Studies have reported reduced post-ischemic damage.
 - Cardiac weakness and palpitations: traditionally used for cardiac weakness and palpitations. Research has reported antiarrhythmic activity and calcium channel stabilization.
 - Hypertension: traditionally used in hypertension. Research has reported ACE inhibition and vasodilatory activity.
 - Hyperlipidemia: traditionally used in hyperlipidemia. Research has reported antioxidant and lipid-lowering properties for [Arjuna](/herb/arjuna/).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -58,7 +58,7 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 **Dosage Forms:** Arishta (fermented decoction), Capsules (modern), Syrup (modern)
 
-**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:21. This replaces a previously stated 15-30 mL, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Hrdrogadhikara; 73-74½.
+**Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:21. The formulary attributes this formula to Bhaisajyaratnavali, Hrdrogadhikara; 73-74½.
 
 **Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/reference/tannins/) provide sustained-release cardioprotective activity.
 

@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive stimulant (Deepana-Pachana): traditionally used in Ayurveda for Agnimandya (digestive weakness). Pharmacological studies have reported enhanced gastric motility and enzyme secretion.
 - Anti-emetic and Hridya (cardiac tonic): traditionally used in Pitta disorders and cardiac conditions. Studies on hesperidin have reported cardioprotective effects.
 - Anthelmintic: citron rind preparations are traditionally used for Krimi (worms). In vitro studies have reported activity against intestinal parasites.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chhikara N , Kour R , Jaglan S  and others 2018. [Citrus medica: nutritional, phytochemical composition and health benefits - a review](https://pubmed.ncbi.nlm.nih.gov/29594287/). *Food & function*. PMID [29594287](https://pubmed.ncbi.nlm.nih.gov/29594287/) · [doi:10.1039/c7fo02035j](https://doi.org/10.1039/c7fo02035j)  
   Comprehensive review confirming nutraceutical benefits including anti-catarrhal, capillary protector, anti-hypertensive, [diuretic](/reference/diuretic/), anthelmintic, and antihyperglycemic properties.
 - Dahan A, Yarmolinsky L, Nakonechny F and others 2025. [Etrog Citron (Citrus medica) as a Novel Source of Antimicrobial Agents: Overview of Its Bioactive Phytochemicals and Delivery Approaches](https://pubmed.ncbi.nlm.nih.gov/40574073/). *Pharmaceutics*. PMID [40574073](https://pubmed.ncbi.nlm.nih.gov/40574073/) · [doi:10.3390/pharmaceutics17060761](https://doi.org/10.3390/pharmaceutics17060761)  
   Documented novel antimicrobial delivery approaches using citron bioactive compounds with significant activity against foodborne and clinical pathogens.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

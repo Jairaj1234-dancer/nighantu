@@ -49,18 +49,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - In vitro studies using disc diffusion and MIC tests have reported [Antimicrobial](/reference/antimicrobial/) activity against wound-infecting pathogens.
 - Traditionally used for diarrhea. Animal studies using castor oil-induced diarrhea models have reported a reduction in stool frequency.
 - Animal studies have reported [Antipyretic](/reference/antipyretic/) activity in a Brewer's yeast-induced fever model in rats.
 - Traditionally used for inflammation. Animal studies have reported reduced paw edema in carrageenan-induced models.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Sweetener and demulcent (Madhura): traditionally used as a sweetener and demulcent. Its [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content has been reported to be far sweeter than [sucrose](/glossary/compounds-q-t/#sucrose), with possible pharmaceutical applications.
 - Anti-inflammatory (Shotha-hara): traditionally used for inflammation. Several studies have reported anti-inflammatory activity linked to [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin).
 - Hair care and external applications: traditionally used in hair oil preparations made with purified seeds. Antimicrobial activity has been reported.
 - Contraceptive (Garbha-nirodha): traditionally used as a contraceptive. Animal studies have reported antifertility activity, but it is considered too toxic for safe human use.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Qian H, Wang L, Li Y and others 2022. [The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/35714881/). *Journal of ethnopharmacology*. PMID [35714881](https://pubmed.ncbi.nlm.nih.gov/35714881/) · [doi:10.1016/j.jep.2022.115463](https://doi.org/10.1016/j.jep.2022.115463)  
   Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/glossary/compounds-t-z/#terpenoids), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [proteins](/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -47,18 +47,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Bronchodilator](/reference/bronchodilator/) and antitussive activity has been reported in pharmacological studies, linked to calcium channel-mediated smooth muscle relaxation. Traditionally used for Kasa (cough) and Shwasa (asthma).
 - Traditionally used for respiratory inflammation. Animal studies have reported anti-inflammatory activity.
 - [Antipyretic](/reference/antipyretic/) activity has been reported in preclinical studies. Traditionally used for Jwara (fever).
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Yasin M, Hussain Janbaz K, Imran I and others 2014. [Pharmacological studies on the antispasmodic, bronchodilator and anti-platelet activities of Abies webbiana](https://pubmed.ncbi.nlm.nih.gov/24395464/). *Phytotherapy research : PTR*. PMID [24395464](https://pubmed.ncbi.nlm.nih.gov/24395464/) · [doi:10.1002/ptr.5112](https://doi.org/10.1002/ptr.5112)  
   Demonstrated significant antispasmodic and bronchodilator activity supporting respiratory applications, along with anti-platelet effects mediated through calcium channel inhibition.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -33,17 +33,17 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Bronchial asthma (Tamaka Shwasa): traditionally used for this condition. A randomized double-blind clinical study reported improvement in peak expiratory flow rate, a reduced eosinophil count, and improved clinical symptoms.
 - Respiratory disorders: traditionally used for chronic cough and mild asthma.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Mashru M, Galib R, Shukla VJ and others 2013. [Effect of Sameera Pannaga Rasa (arsenomercurial formulation) in the management of Tamaka Shwasa (bronchial asthma) - Randomized double blind clinical study](https://pubmed.ncbi.nlm.nih.gov/24696570/). *Ayu*. PMID [24696570](https://pubmed.ncbi.nlm.nih.gov/24696570/) · [doi:10.4103/0974-8520.127692](https://doi.org/10.4103/0974-8520.127692)  
   52 patients treated with 30 mg twice daily for 4 weeks showed significant improvement in subjective asthma parameters, control of asthma recurrence, increased peak expiratory flow rate, considerable decrease in total and absolute acute eosinophil count and ESR.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

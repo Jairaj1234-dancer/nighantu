@@ -50,21 +50,21 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Bark and leaf decoctions are traditionally used for diabetes. Preclinical studies and preliminary clinical observations have reported antidiabetic activity.
 - Traditionally used for diarrhea and dysentery. Animal studies have reported [antimicrobial](/reference/antimicrobial/) activity and astringent effects of tannins.
 - Bark decoction is traditionally used as a mouthwash for oral health. Studies have reported antimicrobial activity against oral pathogens.
 - Traditionally used for anemia. The leaves and fruits are reported to contain iron. Studies in deficient models have reported hematopoietic effects.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
   Documented anticancer, anti-inflammatory, antidiabetic, antioxidant, antibacterial, gastroprotective, [hepatoprotective](/reference/hepatoprotective/) and [immunomodulatory](/reference/immunomodulatory/) activities attributed primarily to mangiferin and gallotannins.
 - Ediriweera MK, Tennekoon KH, Samarakoon SR 2017. [A Review on Ethnopharmacological Applications, Pharmacological Activities, and Bioactive Compounds of Mangifera indica (Mango)](https://pubmed.ncbi.nlm.nih.gov/29456572/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [29456572](https://pubmed.ncbi.nlm.nih.gov/29456572/) · [doi:10.1155/2017/6949835](https://doi.org/10.1155/2017/6949835)  
   Leaf and bark extracts showed significant anticancer activity in MCF-7 breast cancer and HeLa cervical cancer cell lines through apoptosis induction via caspase-3 activation.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

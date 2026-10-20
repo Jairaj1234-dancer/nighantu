@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Pharmacopoeia of India (API); standardized as per API norms; manufactured under GMP-certification; available in Sahasrayogam formulary"
 aliases: ["Sukumaram Ghritam", "SukumaramGhritam"]
 tags: ["ayurveda", "formulation", "ghritam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 404
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Sukumaram-Ghritam/meta-analysis.md"
@@ -39,18 +39,18 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Rajonirvritti (menopausal syndrome): traditionally used for menopausal symptoms. A prospective clinical study reported improvement in symptoms.
 - Yoni Roga (gynecological disorders): traditionally used for dysmenorrhea, menstrual irregularities, and pelvic pain. Clinical reviews have reported improvement in these conditions.
 - Vandhyatva (infertility): traditionally used for fertility enhancement. Pharmacological studies have reported hormonal modulation.
 - Gulma (abdominal masses): traditionally used for its Vata-pacifying action in abdominal conditions. Anti-inflammatory activity has also been reported.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

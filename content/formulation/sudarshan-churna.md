@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Swertia chirata monographed in Ayurvedic Pharmacopoeia of India (API) Part I and Indian Pharmacopoeia; HPTLC-validated biomarker methods developed (mangiferin, swertiamarin, oleanolic acid)"
 aliases: ["Sudarshan Churna", "SudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 402
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Sudarshan-Churna/meta-analysis.md"
@@ -38,18 +38,18 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Jwara Chikitsa (fever care): traditionally used for fever. A pilot study reported faster fever resolution compared to placebo.
 - Antiplasmodial properties have been reported for Swertia chirata and [Neem](/herb/neem/).
 - [Antimicrobial](/reference/antimicrobial/) activity against gram-positive and gram-negative bacteria has been reported in in vitro disc diffusion assays.
 - Traditionally used to restore appetite and improve digestion. In classical practice this is attributed to the Agni-enhancing action of [Trikatu](/herb/trikatu/) components.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 
@@ -69,7 +69,7 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 2 to 4 g with warm water for fever, as given in the Ayurvedic Formulary of India, Part I, entry 7:35. The formulary's anupana: warm water. This replaces a previously stated 3-6g, which carried no source. The formulary attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 308-312.
+**Standard Dosage:** 2 to 4 g with warm water for fever, as given in the Ayurvedic Formulary of India, Part I, entry 7:35. The formulary's anupana: warm water. The formulary attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 308-312.
 
 **Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
 

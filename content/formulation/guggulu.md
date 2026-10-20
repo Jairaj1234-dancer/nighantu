@@ -77,7 +77,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Bhavaprakasha Nighantu
 - Sharangadhara Samhita
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Ganamurali N, Devarajan M, Sabarathinam S 2026. [Guggulsterone, a Classical Lipid-Lowering Phytosteroidal FXR Antagonist, as a Modulator of Lipid Signaling and Metabolic Reprogramming in Cancer](https://pubmed.ncbi.nlm.nih.gov/41326956/). *Lipids*. PMID [41326956](https://pubmed.ncbi.nlm.nih.gov/41326956/) · [doi:10.1002/lipd.70030](https://doi.org/10.1002/lipd.70030)  
   Guggulsterone identified as a classical lipid-lowering phytosteroidal FXR antagonist that modulates lipid signaling and metabolic reprogramming relevant to cancer treatment.
@@ -86,7 +86,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 - Passeri D, Carotti A, Pittol JMR and others 2019. [Dissecting the allosteric FXR modulation: a chemical biology approach using guggulsterone as a chemical tool](https://pubmed.ncbi.nlm.nih.gov/31673308/). *MedChemComm*. PMID [31673308](https://pubmed.ncbi.nlm.nih.gov/31673308/) · [doi:10.1039/c9md00264b](https://doi.org/10.1039/c9md00264b)  
   Guggulsterone acts as a peculiar FXR antagonist with gene-selective modulation capability, suggesting a nuanced pharmacological profile beyond simple receptor antagonism.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

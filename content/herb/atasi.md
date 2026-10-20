@@ -44,19 +44,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Laxative](/reference/laxative/) and digestive (Bhedana): traditionally used as a bulk-forming laxative.
 - Skin and hair health (Tvachya, Keshya): traditionally used for skin and hair health.
 - Anti-inflammatory (Shothaghna): traditionally used for inflammation. Preclinical and clinical studies have reported reductions in inflammatory markers.
 - Cardiovascular health (Hridya): traditionally used for heart health. Clinical studies have reported reductions in blood pressure, cholesterol, and triglycerides.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Akter Y, Junaid M, Afrose SS and others 2021. [A Comprehensive Review on Linum usitatissimum Medicinal Plant: Its Phytochemistry, Pharmacology, and Ethnomedicinal Uses](https://pubmed.ncbi.nlm.nih.gov/33535948/). *Mini reviews in medicinal chemistry*. PMID [33535948](https://pubmed.ncbi.nlm.nih.gov/33535948/) · [doi:10.2174/1389557521666210203153436](https://doi.org/10.2174/1389557521666210203153436)  
   Confirmed [hepatoprotective](/reference/hepatoprotective/), renoprotective, and immunosuppressive activities of pure compounds and crude extracts from flaxseed in multiple animal models.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

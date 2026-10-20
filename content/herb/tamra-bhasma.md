@@ -42,13 +42,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Digestive disorders (Agnimandya): traditionally used for digestive disorders. Clinical studies have reported improved digestive function, with no adverse effects reported at the doses studied.
 - Skin diseases (Kushtha): traditionally used for skin diseases. In vitro studies have reported antimicrobial and anti-inflammatory activity.
 - Liver disorders (Yakrit Vikara): traditionally used for liver disorders. Animal studies have reported a liver-protective action that depended on dose, with liver toxicity reported at high doses.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Chaudhari SY, Nariya MB, Galib R and others 2016. [Acute and subchronic toxicity study of Tamra Bhasma (incinerated copper) prepared with and without Amritikarana](https://pubmed.ncbi.nlm.nih.gov/27297506/). *Journal of Ayurveda and integrative medicine*. PMID [27297506](https://pubmed.ncbi.nlm.nih.gov/27297506/) · [doi:10.1016/j.jaim.2015.11.001](https://doi.org/10.1016/j.jaim.2015.11.001)  
   [Tamra Bhasma](/herb/tamra-bhasma/) with Amritikarana showed improved safety profile. Without Amritikarana, higher doses showed hepatotoxic and nephrotoxic potential. The additional purification step significantly reduces residual toxicity.
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 - Chaudhari SY, Ruknuddin G, Biswajyoti JP and others 2014. [Effect of tamra bhasma (calcined copper) on ponderal and biochemical parameters](https://pubmed.ncbi.nlm.nih.gov/25253924/). *Toxicology international*. PMID [25253924](https://pubmed.ncbi.nlm.nih.gov/25253924/) · [doi:10.4103/0971-6580.139796](https://doi.org/10.4103/0971-6580.139796)  
   At therapeutic doses, Tamra Bhasma showed no significant adverse effects on body weight, organ weight, or biochemical parameters in experimental animals.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

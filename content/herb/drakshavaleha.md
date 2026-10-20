@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Referenced in Pharmacopoeia Commission for Indian Medicine & Homoeopathy publications (1986, 1999); formulation based on Ashtanga Hridaya classical standards"
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 695
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Drakshavaleha/meta-analysis.md"
@@ -52,19 +52,19 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Pandu (anemia): traditionally used for anemia. A clinical study reported improvement in pregnancy-related anemia.
 - Daurbalya (debility/weakness): traditionally used for chronic debility, valued in classical practice for its nutritive and energy-providing properties.
 - Yakrit Roga (liver disorders): used in classical practice for hepatic conditions, as indicated in the Ashtanga Hridaya. Its ingredient profile is described as [hepatoprotective](/reference/hepatoprotective/).
 - Garbhini Paricharya (pregnancy care): traditionally used in pregnancy care. An animal study reported fetal protection against cyclophosphamide-induced toxicity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kumar S, Singh G, Reddy KR 2013. [Effect of Drakshavaleha in cyclophosphamide induced weight loss and reduction in crown-rump length in developing mice embryo](https://pubmed.ncbi.nlm.nih.gov/24250134/). *Ayu*. PMID [24250134](https://pubmed.ncbi.nlm.nih.gov/24250134/) · [doi:10.4103/0974-8520.119686](https://doi.org/10.4103/0974-8520.119686)  
   Oral administration of Drakshavaleha to pregnant mice minimized cyclophosphamide-induced body weight loss with statistically significant recovery (P<0.001)
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

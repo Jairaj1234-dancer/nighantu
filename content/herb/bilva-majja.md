@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - [Bilva](/herb/bilva/) Majja is traditionally used in Ayurveda for Atisara (diarrhea) and Grahani (IBS). Pharmacological studies have reported antidiarrhoeal activity.
 - Traditionally used for Prameha (diabetes) in classical Ayurvedic texts. Studies of a [coumarins](/glossary/compounds-c-d/#coumarins)-enriched extract have reported antidiabetic effects.
 - Preclinical studies have reported radioprotective activity. This finding is not among the traditional uses.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Tiwari R, Mishra S, Danaboina G and others 2023. [Comprehensive chemo-profiling of coumarins enriched extract derived from Aegle marmelos (L.) Correa fruit pulp, as an anti-diabetic and anti-inflammatory agent](https://pubmed.ncbi.nlm.nih.gov/37564748/). *Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society*. PMID [37564748](https://pubmed.ncbi.nlm.nih.gov/37564748/) · [doi:10.1016/j.jsps.2023.101708](https://doi.org/10.1016/j.jsps.2023.101708)  
   Studies have reported anti-diabetic and anti-inflammatory activity for coumarins enriched from bael fruit pulp, suggesting potential for phytopharmaceutical development.
 - Manandhar B, Paudel KR, Sharma B and others 2018. [Phytochemical profile and pharmacological activity of Aegle marmelos Linn](https://pubmed.ncbi.nlm.nih.gov/29709412/). *Journal of integrative medicine*. PMID [29709412](https://pubmed.ncbi.nlm.nih.gov/29709412/) · [doi:10.1016/j.joim.2018.04.007](https://doi.org/10.1016/j.joim.2018.04.007)  
   Fruit pulp contains bioactive coumarins, [alkaloids](/glossary/compounds-1-a/#alkaloids), and [terpenoids](/glossary/compounds-t-z/#terpenoids) exhibiting antidiarrhoeal, [antimicrobial](/reference/antimicrobial/), antiviral, radioprotective, and [anticancer](/reference/anticancer/) properties.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

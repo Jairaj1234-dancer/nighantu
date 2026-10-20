@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Amrita (Guduchi) monograph in Ayurvedic Pharmacopoeia of India (API); Amritaprasha Ghrita listed in Ayurvedic Formulary of India; formulation standards regulated under PCIM&H"
 aliases: ["Amrita Ghrita", "AmritaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 462
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Ghrita/meta-analysis.md"
@@ -39,16 +39,16 @@ Bhavishya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (prepara
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Vyadhikshamatva (immunity enhancement): traditionally used for enhancing immunity. A clinical study reported an increase in serum [immunoglobulins](/glossary/compounds-g-l/#immunoglobulins) in elderly subjects.
 - [Rasayana](/reference/rasayana/) (rejuvenation): traditionally used for rejuvenation. Preclinical studies have reported [immunomodulatory](/reference/immunomodulatory/) and adaptogenic activities.
 - Jvara (fever): traditionally used for fever. Pharmacological studies have reported immunostimulant and [antipyretic](/reference/antipyretic/) activities of [Guduchi](/herb/guduchi/).
 - Ojas Vardhana (vital energy enhancement): traditionally used for enhancing strength, immunity, and longevity.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

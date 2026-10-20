@@ -37,14 +37,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 - Anti-angiogenic: Punarnavine downregulates VEGF expression both in vitro and in vivo.
 - Key active constituents: Boeravinones A-G, punarnavine, rotenoids, flavonoids, [quercetin](/reference/quercetinquercetin/), and syringaresinol mono-beta-D-glucoside.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Khalid M, Alqarni MH, Shoaib A and others 2022. [Anti-Obesity Action of Boerhavia diffusa in Rats against High-Fat Diet-Induced Obesity by Blocking the Cannabinoid Receptors](https://pubmed.ncbi.nlm.nih.gov/35567159/). *Plants (Basel, Switzerland)*. PMID [35567159](https://pubmed.ncbi.nlm.nih.gov/35567159/) · [doi:10.3390/plants11091158](https://doi.org/10.3390/plants11091158)  
   Molecular docking revealed B. diffusa phytoconstituents bind to cannabinoid receptors. In vivo study in HFD-induced obese rats showed significant reduction in body weight, organ fat pad weight, and improved lipid profile and liver biomarkers.
 - Das S, Singh PK, Ameeruddin S and others 2023. [Ethnomedicinal values of Boerhaavia diffusa L. as a panacea against multiple human ailments: a state of art review](https://pubmed.ncbi.nlm.nih.gov/38033469/). *Frontiers in chemistry*. PMID [38033469](https://pubmed.ncbi.nlm.nih.gov/38033469/) · [doi:10.3389/fchem.2023.1297300](https://doi.org/10.3389/fchem.2023.1297300)  
   Comprehensive review confirmed activities including immunomodulation, hepatoprotection, antifibrinolysis, [anticancer](/reference/anticancer/), [antidiabetic](/reference/antidiabetic/), anti-inflammatory, and diuretic effects. Highlighted need for additional clinical trials.
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

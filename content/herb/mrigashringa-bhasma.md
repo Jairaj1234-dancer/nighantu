@@ -42,18 +42,18 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Respiratory infections (pneumonia, bronchitis, influenza): traditionally used for these conditions. This traditional use is extensively documented.
 - Bone disorders and osteoporosis: traditionally used for Asthi Kshaya. An animal study reported an optimal Ca:P ratio and a protective effect against osteoporosis.
 - Cardiac conditions (Hritshula - cardiac pain): traditionally used for angina pectoris and cardiac pain. This use is documented since the Samhita period.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Faldu KG, Duvva H, Shah JS and others 2016. [An ayurvedic proprietary herbal preparation, Calci-7, prevents ovariectomy-induced osteoporosis in rats](https://pubmed.ncbi.nlm.nih.gov/29491679/). *Ayu*. PMID [29491679](https://pubmed.ncbi.nlm.nih.gov/29491679/) · [doi:10.4103/ayu.AYU_4_16](https://doi.org/10.4103/ayu.AYU_4_16)  
   Calci-7 formulation containing [Mrigashringa Bhasma](/herb/mrigashringa-bhasma/) prevented ovariectomy-induced osteoporosis in rat models. Demonstrated bone-protective effects through calcium and phosphorus supplementation.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

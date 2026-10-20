@@ -47,17 +47,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used in tribal practice for diabetes. Preliminary pharmacological studies have reported antidiabetic and antihyperglycemic activity.
 - Traditionally used in folk medicine for dysentery and skin infections. [Antimicrobial](/reference/antimicrobial/) activity against bacterial and fungal pathogens has been reported in vitro.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Boruah JLH, Gogoi M, Famhawite V and others 2025. [Phytochemical Characterization, Prooxidant, Antiproliferative and Anti-Inflammatory Potential of Meyna spinosa Roxb. Ex Link Ripe Fruit](https://pubmed.ncbi.nlm.nih.gov/39715024/). *Chemistry & biodiversity*. PMID [39715024](https://pubmed.ncbi.nlm.nih.gov/39715024/) · [doi:10.1002/cbdv.202402342](https://doi.org/10.1002/cbdv.202402342)  
   Comprehensive review documenting antimicrobial, antioxidant, cytotoxic, antidiabetic, nephroprotective, and hepatoprotective potential, noting the plant remains significantly under-researched.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -47,13 +47,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used as a brain tonic (Medhya). Studies in mice have reported anxiolytic and nootropic (memory-enhancing) effects.
 - Traditionally used for Pitta disorders and burning sensation (Daha). Pharmacological studies have reported anti-inflammatory and cooling properties.
 - Traditionally used for skin infections and wounds. [Antimicrobial](/reference/antimicrobial/) activity against multiple bacterial and fungal strains has been reported in studies.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Gunasekar CJ, Majdalawieh AF, Abu-Yousef IA and others 2025. [Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review of Its Medicinal Applications and Future Prospects](https://pubmed.ncbi.nlm.nih.gov/41008619/). *Biomolecules*. PMID [41008619](https://pubmed.ncbi.nlm.nih.gov/41008619/) · [doi:10.3390/biom15091312](https://doi.org/10.3390/biom15091312)  
   Comprehensive review documenting antioxidant, anti-inflammatory, antifungal, antibacterial, antitubercular, antihyperglycemic, antidepressant, [hepatoprotective](/reference/hepatoprotective/), and nephroprotective activities of vetiver essential oil.

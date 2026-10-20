@@ -47,20 +47,20 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Apakva Kadali (unripe banana): traditionally used in Ayurveda for Atisara (diarrhea) and Grahani (IBS). A meta-analysis of randomized controlled trials in children reported antidiarrhoeal activity.
 - Traditionally used for Amlapitta (gastric ulcers). A study that isolated sitoindoside IV reported anti-ulcerogenic and gastroprotective effects.
 - Anti-urolithiatic activity (kidney stones): animal studies in hyperoxaluric models have reported reduced urinary oxalate excretion.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kwok JJN, Chen MK, Ong CW and others 2025. [Antidiabetic Potential of Bananas (Musa spp.): A Systematic Review of Bioactive Compounds and Antihyperglycemic Activities](https://pubmed.ncbi.nlm.nih.gov/40011287/). *Current nutrition reports*. PMID [40011287](https://pubmed.ncbi.nlm.nih.gov/40011287/) · [doi:10.1007/s13668-025-00629-0](https://doi.org/10.1007/s13668-025-00629-0)  
   Systematic review documented that bioactive compounds across various banana parts demonstrate significant antihyperglycemic activities through multiple mechanisms.
 - Gallo Ruelas M, Gomez-Herrera GP, Noa-Peralta KF and others 2024. [Role of green banana consumption in the treatment of acute and persistent diarrhea in children: a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/38972965/). *European journal of pediatrics*. PMID [38972965](https://pubmed.ncbi.nlm.nih.gov/38972965/) · [doi:10.1007/s00431-024-05679-0](https://doi.org/10.1007/s00431-024-05679-0)  
   Meta-analysis of RCTs confirmed green banana reduces duration and severity of both acute and persistent diarrhea in children, providing high-level evidence for this traditional use.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -50,19 +50,19 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Traditionally used for fevers as an [Antipyretic](/reference/antipyretic/) and antimalarial. Animal studies in Plasmodium berghei-infected mice have reported antimalarial activity.
 - Traditionally used for arthritis. Animal studies in adjuvant-induced arthritis models have reported reduced paw edema and joint inflammation.
 - In vitro studies have reported anthelmintic activity against Ascaridia galli and Pheretima posthuma.
 - Animal studies in rodents have reported protective effects against paracetamol-induced liver damage.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Aggarwal A, Mehta DK, Bhardwaj A and others 2026. [Nyctanthes arbor-tristis: A Multifaceted Medicinal Plant in Traditional and Contemporary Medicine](https://pubmed.ncbi.nlm.nih.gov/41213599/). *Planta medica*. PMID [41213599](https://pubmed.ncbi.nlm.nih.gov/41213599/) · [doi:10.1055/a-2706-7358](https://doi.org/10.1055/a-2706-7358)  
   Comprehensive review confirmed [neuroprotective](/reference/neuroprotective/), immunomodulatory, and hepatoprotective potential of arbortristosides and nyctanthin through modulation of oxidative stress and inflammatory cascades.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

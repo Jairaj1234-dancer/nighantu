@@ -165,7 +165,7 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 
 **Keywords:** Crocus sativus L., by-products, chronic kidney diseases, circular economy, depression, metabolic syndrome, natural bioactive compounds
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Han S, Cao Y, Wu X and others 2024. [New horizons for the study of saffron (Crocus sativus L.) and its active ingredients in the management of neurological and psychiatric disorders: A systematic review of clinical evidence and mechanisms](https://pubmed.ncbi.nlm.nih.gov/38424688/). *Phytotherapy research : PTR*. PMID [38424688](https://pubmed.ncbi.nlm.nih.gov/38424688/) · [doi:10.1002/ptr.8110](https://doi.org/10.1002/ptr.8110)  
   Systematic review (through June 2023) assessing saffron's effects on cognition, depression, anxiety, sleep disorders, ADHD, and OCD, confirming broad neuropsychiatric therapeutic potential.
@@ -178,7 +178,7 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 - Lu C, Ke L, Li J and others 2021. [Saffron (Crocus sativus L.) and health outcomes: a meta-research review of meta-analyses and an evidence mapping study](https://pubmed.ncbi.nlm.nih.gov/34419735/). *Phytomedicine : international journal of phytotherapy and phytopharmacology*. PMID [34419735](https://pubmed.ncbi.nlm.nih.gov/34419735/) · [doi:10.1016/j.phymed.2021.153699](https://doi.org/10.1016/j.phymed.2021.153699)  
   Meta-research review of meta-analyses mapping the full evidence landscape for saffron health outcomes across cardiovascular, metabolic, neurological, and other domains.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

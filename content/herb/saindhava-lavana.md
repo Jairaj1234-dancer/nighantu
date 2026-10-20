@@ -45,17 +45,17 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Agni Deepana (digestive stimulant): traditionally used as a digestive stimulant. Rock salt has been reported to stimulate salivary and gastric enzyme production and bile secretion.
 - Netra Hita (beneficial for eyes): used in classical practice in eye wash preparations with Saindhava. These preparations have been described as having an [antimicrobial](/reference/antimicrobial/) basis.
 - Hridya (cardiotonic): traditionally described as a cardiotonic. Rock salt is described as having a balanced mineral profile and a lower sodium-per-weight ratio than refined salt.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*No study for this section could be traced to a published paper. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

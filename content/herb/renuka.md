@@ -44,14 +44,14 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Menstrual regulation and PMS: traditionally used for menstrual regulation and premenstrual complaints. Clinical studies have reported reduced PMS symptoms.
 - Stanya-shodhana: used in classical practice under this category. Clinical studies have reported reduced prolactin levels and proposed a dopamine D2 receptor mechanism.
 - Menopausal symptoms: traditionally used for menopausal complaints. Clinical studies have reported reductions in vasomotor symptoms, mood disorders and sleep disturbances.
 - Female reproductive health (Stri-roga): traditionally used for female reproductive conditions. Clinical studies have reported menstrual cycle normalization.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Sopjani M, Murati V, Mataj-Berisha D and others 2026. [Vitex agnus-castus in Menopause: Phytochemistry, Mechanistic Insights, Clinical Applications, and Safety Perspectives](https://pubmed.ncbi.nlm.nih.gov/41630367/). *Phytotherapy research : PTR*. PMID [41630367](https://pubmed.ncbi.nlm.nih.gov/41630367/) · [doi:10.1002/ptr.70237](https://doi.org/10.1002/ptr.70237)  
   Comprehensive review of VAC in menopause management documenting phytoestrogenic, dopaminergic, and opioidergic mechanisms; reviewed clinical evidence for vasomotor symptom reduction and hormonal balance.

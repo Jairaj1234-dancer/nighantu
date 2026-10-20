@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); clinical trial data published in peer-reviewed journals supporting thyroid and respiratory indications; recognized by CCRAS"
 aliases: ["Vyoshadi Guggulu", "VyoshadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 456
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Vyoshadi-Guggulu/meta-analysis.md"
@@ -39,18 +39,18 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Galaganda (thyroid swelling): traditionally used for thyroid conditions. A randomized controlled trial reported a reduction in TSH levels, with no adverse effects reported.
 - Pratishyaya (respiratory congestion and common cold): traditionally used for congestion and colds. A clinical study reported improvement in cough frequency.
 - Obesity: used in classical practice for excess weight. A prospective multicenter study reported on the safety and outcomes of Vyoshadi Guggulu combined with [Haritaki](/herb/haritaki/) Churna.
 - Voice hoarseness and throat disorders: traditionally used for hoarseness and throat complaints.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 
 
-*3 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*No study for this section could be traced to a published paper. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

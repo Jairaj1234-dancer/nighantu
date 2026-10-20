@@ -45,18 +45,18 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Kshara (alkaline preparation): traditionally used for urinary calculi. In vitro studies have reported lithotriptic activity and renal stone dissolution.
 - Traditionally used for hemorrhoids. Studies in rectal tissue models have reported wound repair and anti-inflammatory effects.
 - Mutrala (diuretic): traditionally used to increase urine flow. Animal studies have reported increased urine output and sodium excretion.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Garg AK, Chouhan P, Sen B 2025. [High resolution-mass spectrometry (hR-MS) profiling of Apamarga Ksharodaka (herbal alkaline water from Achyranthes aspera Linn.) and computational screening of bioactive phytochemicals for wound healing applications](https://pubmed.ncbi.nlm.nih.gov/41085550/). *Natural product research*. PMID [41085550](https://pubmed.ncbi.nlm.nih.gov/41085550/) · [doi:10.1080/14786419.2025.2568949](https://doi.org/10.1080/14786419.2025.2568949)  
   HR-MS identified 25 compounds in Apamarga Ksharodaka; Homovanillic acid and Biochanin A showed significant binding affinities to [wound-healing](/reference/wound-healing/) targets (MMP-9, TGF-beta).
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "NOT listed under this name in the Ayurvedic Formulary of India, which carries Sudarsana Curna (entry 7:35) and no maha- entry; Swertia chirata individually monographed in API Part I and Indian Pharmacopoeia"
 aliases: ["Mahasudarshan Churna", "MahasudarshanChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu)"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 505
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Mahasudarshan-Churna/meta-analysis.md"
@@ -39,19 +39,19 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 ## Which traditional uses are supported by research?
 
-*These summaries come from the source notes. The studies behind them are not identified on this page.*
+*These summaries come from the source notes, which do not name the studies behind them.*
 
 - Jwaraghna (antipyretic): traditionally used to reduce fever. A pilot study reported faster fever reduction compared to placebo.
 - Antimicrobial activity: an in vitro disc diffusion study reported activity against K. pneumoniae, E. coli, S. aureus, and P. vulgaris.
 - Immunomodulatory activity: pharmacological studies have reported anti-inflammatory and antihistamine activity.
 - Digestion and appetite: traditionally used to improve digestion and restore appetite. Classical practice links this to the Agni-enhancing action of [Trikatu](/herb/trikatu/) and bitter herbs.
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Kaur P, Gupta RC, Dey A and others 2020. [Validation and quantification of major biomarkers in 'Mahasudarshan Churna'- an ayurvedic polyherbal formulation through high-performance thin-layer chromatography](https://pubmed.ncbi.nlm.nih.gov/32527318/). *BMC complementary medicine and therapies*. PMID [32527318](https://pubmed.ncbi.nlm.nih.gov/32527318/) · [doi:10.1186/s12906-020-02970-z](https://doi.org/10.1186/s12906-020-02970-z)  
   Developed validated HPTLC method for quantification of [mangiferin](/glossary/compounds-l-o/#mangiferin) (xanthonoid), oleanolic acid and ursolic acid ([triterpenoids](/glossary/compounds-t-z/#triterpenoids)), gallic acid, [quercetin](/reference/quercetinquercetin/), and [curcumin](/herb/curcumin/) as biomarkers in the formulation.
 
-*2 further claims previously listed here could not be traced to a published paper and have been removed. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
+*Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 
 ## Recent safety updates
 

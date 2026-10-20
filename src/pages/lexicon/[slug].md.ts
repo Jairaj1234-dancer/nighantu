@@ -32,7 +32,8 @@ export const GET: APIRoute = ({ props }) => {
   ];
 
   if (distinct.length > 1) {
-    out.push(`An Ayurvedic technical term, rendered into English in ${distinct.length} different ways.`,
+    const across = r.renderings.length > distinct.length ? ` across ${r.renderings.length} sources` : '';
+    out.push(`An Ayurvedic technical term, rendered into English in ${distinct.length} different ways${across}.`,
       'The renderings do not agree, and the difference between them changes what the term is taken',
       'to mean.', '');
   } else if (distinct.length === 1) {

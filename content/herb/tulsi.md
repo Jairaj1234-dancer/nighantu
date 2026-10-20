@@ -83,7 +83,7 @@ Revered as sacred plant in Hinduism. Used for Kasa (cough), Shwasa (asthma), Jwa
 - Bhavaprakasha Nighantu (Pushpa Varga)
 - Dhanvantari Nighantu
 
-## What do recent clinical trials show?
+## What do recent studies show?
 
 - Lopresti AL, Smith SJ, Metse AP and others 2022. [A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer(TM)) on stress, mood, and sleep in adults experiencing stress](https://pubmed.ncbi.nlm.nih.gov/36185698/). *Frontiers in nutrition*. PMID [36185698](https://pubmed.ncbi.nlm.nih.gov/36185698/) · [doi:10.3389/fnut.2022.965130](https://doi.org/10.3389/fnut.2022.965130)  
   8-week supplementation reduced objective and subjective stress measures; significantly lower hair cortisol, salivary cortisol, salivary amylase, and blood pressure vs placebo. Improved insomnia scores with good tolerability.
@@ -92,7 +92,7 @@ Revered as sacred plant in Hinduism. Used for Kasa (cough), Shwasa (asthma), Jwa
 - Paidi RK, Jana M, Raha S and others 2021. [Eugenol, a Component of Holy Basil (Tulsi) and Common Spice Clove, Inhibits the Interaction Between SARS-CoV-2 Spike S1 and ACE2 to Induce Therapeutic Responses](https://pubmed.ncbi.nlm.nih.gov/34677731/). *Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology*. PMID [34677731](https://pubmed.ncbi.nlm.nih.gov/34677731/) · [doi:10.1007/s11481-021-10028-1](https://doi.org/10.1007/s11481-021-10028-1)  
   Eugenol, a key tulsi compound, demonstrated ability to inhibit the interaction between SARS-CoV-2 spike S1 protein and ACE2 receptor, suggesting antiviral therapeutic potential.
 
-*1 further claim previously listed here could not be traced to a published paper and has been removed. An absence here means we could not identify the source, not that no work exists.*
+*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
