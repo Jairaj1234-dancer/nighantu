@@ -74,26 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-5 g dried peel powder per day; 500 mg standardized extract capsules twice daily; essential oil for aromatherapy 3-5 drops
 
-**Bioavailability:** Limonene and other [monoterpenes](/glossary/compounds-l-o/#monoterpenes) are rapidly absorbed orally with good bioavailability (60-70%). Citrus flavonoids (hesperidin, naringin) have moderate bioavailability (~20-30%) improved by micronization. Ascorbic acid well absorbed in upper GI. Essential oil components rapidly absorbed via inhalation. Pectin and dietary fiber in fruit pulp are not absorbed but provide prebiotic benefits.
-
 **Optimal Timing:** Morning for digestive stimulation; before meals for appetite enhancement; after meals for digestive comfort; aromatherapy as needed for nausea
-
-**Standardized Extract:** Cold-pressed essential oil standardized to minimum 65% D-limonene. Peel extract (10:1) standardized to minimum 10% hesperidin. Juice concentrate standardized to minimum 5% [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) and 50 mg/100 mL vitamin C.
-
-**Shelf Life:** Fresh fruit: 2-4 weeks refrigerated. Essential oil: 24 months. Dried peel: 18 months. Capsules: 24 months. Avaleha: 24 months. Juice: 6 months pasteurized, 48 hours fresh.
 
 **Storage:** Essential oil in amber glass, tightly sealed, below 20 deg C (limonene oxidizes at higher temperatures). Dried peel in airtight containers with nitrogen flushing. Fresh juice refrigerated at 2-8 deg C. Avaleha at room temperature in glass containers.
 
 **Marker Compounds:** D-Limonene, Hesperidin, Naringin, Citral, [Linalool](/glossary/compounds-l-o/#linalool), [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Ascorbic acid, [Nobiletin](/glossary/compounds-l-o/#nobiletin)
-
-### Extraction Methods
-
-- Cold pressing of peel for essential oil
-- Steam distillation of peel
-- Hydroalcoholic extraction (50% ethanol) of fruit and peel
-- Fresh juice extraction
-- Supercritical CO2 for terpenoid-rich extract
-- Pectin extraction from fruit pulp
 
 ### Synergistic Combinations
 

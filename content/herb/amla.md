@@ -110,7 +110,7 @@ One of the three fruits in [Triphala](/herb/triphala/). Classified as best among
 
 ## Recommended Dosage
 
-Fresh fruit: 1-2 fruits/day; Powder (Churna): 3-6g/day; Juice: 10-20ml/day
+Fresh fruit: 1-2 fruits/day; Powder (Churna) and Juice: see Standard Dosage under Dosage forms and preparation
 
 ## Safety, contraindications and cautions
 
@@ -157,33 +157,17 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna): 3-6g/day; Juice: 10-20ml/day
 - **Phosphorus:** 21 mg/100g
 - **Fiber:** 3.4%
 
-**Analytical Methods:** HPLC-PDA (polyphenols), Titration (Vitamin C), UV spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Swarasa (fresh juice), Capsule, Tablet, Avaleha/[Chyawanprash](/formulation/chyawanprash/) (confection), [Amalaki Rasayana](/formulation/amalaki-rasayana/), [Triphala](/herb/triphala/) component, Murabba (preserve), Taila (hair oil)
 
 **Standard Dosage:** 3-6g powder twice daily; 15-30ml fresh juice; 500mg-1g extract capsule twice daily; 1-2 tsp Chyawanprash daily
 
-**Bioavailability:** Excellent bioavailability due to natural vitamin C content (ascorbic acid is well absorbed, but Amla vitamin C is more stable due to tannin complexation). Gallic acid and ellagic acid have moderate oral bioavailability (25-30%). [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are metabolized to urolithins by colonic microbiota. The tannin-vitamin C complex provides sustained release of vitamin C (higher AUC than synthetic ascorbic acid). Emblicanin A and B show good absorption.
-
 **Optimal Timing:** Morning on empty stomach for Rasayana effects; with meals for iron absorption enhancement; at bedtime with warm milk for rejuvenation
-
-**Standardized Extract:** Standardized to minimum 40% tannins (as gallic acid equivalent) OR minimum 20% vitamin C (natural). Low-tannin extract for palatability: 10% tannins, 30% vitamin C. Emblicanin-enriched extract: minimum 10% emblicanins A+B.
-
-**Shelf Life:** 2 years (powder); 3 years (tablets/capsules); 2 years (Chyawanprash); 1 year (preserved juice); 18 months (Murabba, refrigerated)
 
 **Storage:** Airtight containers, cool and dry place below 25°C. Protect from light (photo-degradation of vitamin C and tannins). Hygroscopic powder requires desiccant in packaging.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B, Phyllemblin, [Corilagin](/glossary/compounds-c-d/#corilagin), Chebulagic acid, Ascorbic acid, Punigluconin
-
-### Extraction Methods
-
-- Aqueous extraction (hot water, 80°C, 2 hours)
-- Hydroalcoholic extraction (50:50 ethanol-water)
-- Spray drying of juice concentrate
-- Supercritical CO2 for tannin-enriched extract
-- Traditional Swarasa (fresh juice expression and preservation with self-generated preservatives)
 
 ### Synergistic Combinations
 

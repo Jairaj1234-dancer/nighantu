@@ -63,25 +63,17 @@ Earliest reference in Ashtanga Hridaya commentaries. Hints of formula in Vangase
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
 
 **Standard Dosage:** 15-30ml twice daily. The Ayurvedic Formulary of India, Part II, entry 4:20 specifies 10 to 50 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Bhaisajyaratnavali, Amavatadhikara; 9.
 
-**Bioavailability:** Aqueous decoction provides good bioavailability for water-soluble compounds; concentration step may reduce volatile components
-
 **Optimal Timing:** Before meals, typically morning and evening
-
-**Shelf Life:** 1 day (fresh kashayam); 2 years (kashayam tablet); 6 months (concentrated liquid with preservative)
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
 **Marker Compounds:** Isorasnol
-
-**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Isorasnol
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 

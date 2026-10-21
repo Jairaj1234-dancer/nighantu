@@ -68,25 +68,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mashaparni/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g whole plant powder per day; 50-100 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) show moderate oral bioavailability (20-30%). [Genistein](/glossary/compounds-d-g/#genistein) and [daidzein](/glossary/compounds-c-d/#daidzein) (if present) are well-studied with known pharmacokinetics. [Phytosterols](/glossary/compounds-o-q/#phytosterols) are poorly absorbed (2-5%) but therapeutically active at the gut level. [Ghrita](/herb/ghrita/)-based preparations enhance absorption of lipophilic [isoflavones](/glossary/compounds-g-l/#isoflavones) significantly.
-
 **Optimal Timing:** With meals for nutritive and tonic effects; morning with milk for [Rasayana](/reference/rasayana/) benefits; Taila application for musculoskeletal complaints
-
-**Standardized Extract:** Whole plant extract (8:1 hydroalcoholic) standardized to minimum 1% total isoflavonoids. Ghrita preparation per classical texts. Combined Mashaparni-[Mudgaparni](/herb/mudgaparni/) extract for Jivaniya formulations.
-
-**Shelf Life:** 24 months for dried powder; 30 months for capsules/tablets; 24 months for Ghrita; 36 months for Taila
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from moisture and light. Ghrita in glass containers at room temperature. Taila in amber glass bottles.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), [Galactomannan](/glossary/compounds-d-g/#galactomannan), Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Oil extraction for Taila preparation
-- Ghrita Paka method
-- Methanol extraction for flavonoid enrichment
 
 ### Synergistic Combinations
 

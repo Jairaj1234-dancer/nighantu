@@ -83,30 +83,15 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kovidara/meta-analysis.m
 - Lupeol
 - Glycosides
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Capsule, Kwatha (concentrated decoction), Lepa (paste)
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Similar pharmacological profile to [Kanchanar](/herb/kanchanar/) (both Bauhinia species). Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) have moderate bioavailability (~20-25%). Tannin-protein interactions may reduce absorption if taken with protein-rich meals. [Guggulu](/formulation/guggulu/) combination (as in Kanchanar Guggulu analog) enhances bioavailability. Phytosome formulation of flavonoid fraction improves absorption 2-3 fold.
-
-**Standardized Extract:** Standardized to minimum 8% total [tannins](/reference/tannins/) and 2% total flavonoids (as quercetin equivalents) by HPLC
-
-**Shelf Life:** 24 months for bark powder; 18 months for capsules; 48 hours for fresh decoction (refrigerated)
-
 **Storage:** Store in airtight containers at 15-30°C. Protect bark powder from moisture and insect infestation. Decoctions refrigerated (2-8°C).
 
 **Marker Compounds:** Quercetin, Kaempferol, Gallic acid, Ellagic acid, Beta-sitosterol, Lupeol, Bauhiniastatin, Stigmasterol
-
-### Extraction Methods
-
-- Water decoction (traditional, reduced to 1/4th volume)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Methanol extraction for flavonoid-rich fraction
-- Sequential extraction for fractionation
 
 ### Synergistic Combinations
 

@@ -9,7 +9,7 @@ import {
 import {
   walk, isDenied, identityOf, slugify, parseFrontmatter, splitSections,
   parseFacts, stripMarkup, dropLines, rewriteHeading, isLifted, isStrippedSection,
-  wordCount, resolveWikilinks, fixRegulatorLabels, dropContradictedProfile, recountHub, dropUnresolvedListItems, dropDeniedReferences, redact, inferBotanical,
+  wordCount, resolveWikilinks, fixRegulatorLabels, dropSpecFields, dropContradictedProfile, recountHub, dropUnresolvedListItems, dropDeniedReferences, redact, inferBotanical,
   delinkPropertyRows, dropMineralPlaceholder,
   normaliseBinomial, stripSubsections, yamlValue,
 } from './lib.mjs';
@@ -329,7 +329,7 @@ function transform(p) {
   let raw = dropDeniedReferences(bodyParts.join('\n\n'));
   if (p.kind === 'hub') raw = dropUnresolvedListItems(raw, resolver);
   let body = applyRewrites(`${p.kind}/${p.slug}`,
-    dropContradictedProfile(fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver)))), `${p.kind}/${p.slug}`)).text;
+    dropContradictedProfile(dropSpecFields(fixRegulatorLabels(delinkPropertyRows(redact(resolveWikilinks(raw, resolver))))), `${p.kind}/${p.slug}`)).text;
   if (p.kind === 'hub') body = recountHub(body);
   if (productHints.length) PRODUCT_HINTS.set(p.slug, productHints);
 

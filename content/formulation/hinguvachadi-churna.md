@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Hinguvachadi-Chur
 
 **Standard Dosage:** 2 to 4 g twice daily before meals with warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:39. The formulary's anupana: warm water, butter milk. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 14; 31-32.
 
-**Bioavailability:** [Hingu](/herb/hingu/) volatile oils (ferulic acid esters) are rapidly absorbed and provide quick Vata-Kapha pacifying action. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. [Vacha](/herb/vacha/) (calamus) beta-asarone crosses BBB but must be within safety limits.
-
 **Optimal Timing:** Before meals (Bhojana-purva), 15-30 minutes before food, for Agnimandya (poor digestion) and Adhmana (bloating)
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Strong aromatic odour, requires sealed packaging. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Ferulic acid, Farnesiferol A-C (from [Hingu](/herb/hingu/)), Beta-asarone (from [Vacha](/herb/vacha/)), Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), ferulic acid content from Hingu by HPLC, beta-asarone from Vacha (within safety limits <10 mg/kg), piperine content, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or buttermilk
 

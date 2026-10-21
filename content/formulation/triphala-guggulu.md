@@ -67,25 +67,17 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Sushruta Sa
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
 
 **Standard Dosage:** 3 g, as given in the Ayurvedic Formulary of India, Part I, entry 5:5. 2 tablets twice daily. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: Warm water.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** 2 years ([guggulu](/formulation/guggulu/) preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
 **Marker Compounds:** Guggulsterone, Gallic acid, [Piperine](/reference/piperine/)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Gallic acid, Piperine, guggulsterone content
 
 **Vehicle (Anupana):** Warm water
 

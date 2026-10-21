@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-5 g dried fruit/leaf powder daily; 15-30 mL decoction twice daily; 500 mg extract twice daily
 
-**Bioavailability:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic and absorbed well from the GI tract but undergo extensive hepatic metabolism. Fiber and [mucilage](/glossary/compounds-l-o/#mucilage) content may slow absorption of co-administered drugs. [Saponins](/reference/saponins/) are partially hydrolyzed by gut bacteria to sapogenins with improved absorption.
-
 **Optimal Timing:** Fresh juice or decoction: traditionally taken in the morning on an empty stomach. As food: cooked preparation with meals. Extract supplements: after meals.
-
-**Standardized Extract:** Patola fruit extract (10:1) standardized to total saponins >5%, cucurbitacins >0.5%. Leaf extract standardized to total phenolics >6% GAE.
-
-**Shelf Life:** Fresh fruit: 3-5 days refrigerated; Dried powder: 12-18 months; Extract: 24 months; Capsules: 24 months
 
 **Storage:** Fresh fruit: 5-10 deg C, ventilated storage. Dried powder: airtight containers, below 25 deg C, RH <55%. Extracts: amber containers, cool and dry.
 
 **Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), Ursolic acid, Gallic acid
-
-### Extraction Methods
-
-- Fresh juice extraction
-- Aqueous decoction of fruit/leaves
-- Hydroalcoholic extraction (50-60% ethanol)
-- Methanol extraction for cucurbitacin profiling
-- Ethyl acetate fractionation for sapogenin enrichment
 
 ### Synergistic Combinations
 

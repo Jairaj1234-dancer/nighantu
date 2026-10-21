@@ -71,25 +71,17 @@ Ashtangahrudayam Chikitsasthana, Mutraghata Adhyaya 11/35. Also referenced in Ch
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL (liquid) or 2 tablets twice daily before meals.
 
-**Bioavailability:** Hot decoction form provides rapid absorption of steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasodine](/glossary/compounds-q-t/#solasodine)) and [saponins](/reference/saponins/). Oral bioavailability of solasodine is moderate, enhanced by hot aqueous medium.
-
 **Optimal Timing:** Before meals (Bhojana-purva), morning and evening
-
-**Shelf Life:** Same day (fresh), 6 months (preserved liquid), 3 years (tablet)
 
 **Storage:** Fresh kashayam: use same day. Concentrates: amber glass bottles at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** Solasodine, [Solamargine](/glossary/compounds-q-t/#solamargine), [Solasonine](/glossary/compounds-q-t/#solasonine), [Diosgenin](/glossary/compounds-d-g/#diosgenin), [Carpesterol](/glossary/compounds-a-c/#carpesterol)
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, solasodine content by HPLC, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (for tablets); as is (for liquid kashayam)
 

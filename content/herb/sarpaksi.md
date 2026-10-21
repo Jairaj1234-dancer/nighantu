@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpaksi/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily
 
-**Bioavailability:** Flavonoid and phenolic constituents show moderate oral bioavailability (20-35%). Glycoside forms are hydrolyzed by intestinal beta-glucosidases. Fresh juice (swarasa) provides higher bioavailability of hydrophilic constituents compared to dried powder preparations.
-
 **Optimal Timing:** Before meals; fresh juice preferred for acute applications
-
-**Standardized Extract:** Hydroalcoholic whole plant extract (5:1), standardized to NLT 2% total [flavonoids](/reference/flavonoids/) (as [quercetin](/reference/quercetinquercetin/) equivalents); aqueous extract for traditional preparations
-
-**Shelf Life:** 7 days for swarasa (refrigerated); 24 months for churna; 30 months for capsules
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C, use within 7 days. Churna and capsules: below 25 deg C, airtight containers, protect from moisture.
 
 **Marker Compounds:** Quercetin, [Kaempferol](/reference/kaempferol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, Camptothecin (trace, must be below safety limit <0.001%)
-
-### Extraction Methods
-
-- Cold pressing for swarasa
-- Aqueous decoction
-- Hydroalcoholic extraction (50% ethanol)
-- Maceration in water at room temperature
 
 ### Synergistic Combinations
 

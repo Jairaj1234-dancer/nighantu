@@ -103,7 +103,7 @@ Sushruta Samhita has an entire chapter (Guggulu Kalpa) dedicated to it. Describe
 
 ## Recommended Dosage
 
-Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
+Purified guggulu: see Standard Dosage below; Guggulsterones: 25mg three times daily
 
 ## Safety, contraindications and cautions
 
@@ -141,25 +141,17 @@ Purified guggulu: 500mg-2g/day; Guggulsterones: 25mg three times daily
 - Cineole
 - Limonene
 
-**Analytical Methods:** HPLC-UV (guggulsterones E & Z), GC-MS (volatile fraction), TLC
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu) (purified resin), Guggulu tablets, Capsules (modern)
 
 **Standard Dosage:** 250-500 mg ([Shuddha Guggulu](/glossary/concepts-m-y/#shuddha-guggulu)) twice daily.
 
-**Bioavailability:** Guggulsterones are lipophilic and moderately absorbed orally (~40-50%). Classically described as yogavahi (biocarrier), though guggulipid decreased the bioavailability of propranolol and diltiazem in healthy volunteers. [Triphala](/herb/triphala/) kwath Shodhana adds gallic acid and [tannins](/reference/tannins/) that modulate absorption. Resin matrix provides sustained release.
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** 5 years from date of manufacture as per ASU guidelines
 
 **Storage:** Store in airtight containers in a cool, dry place. Becomes very hard if dried excessively. Maintain optimal moisture. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I, Guggulsterol II, Guggulsterol III, Myrrhanol A
-
-**Quality Parameters:** Z-guggulsterone and E-guggulsterone content by HPLC (NLT 2.5% combined), total extractive value, acid value, volatile oil content, ash value, moisture (<12%), foreign organic matter (<2%), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water, or specific kashayam as directed
 

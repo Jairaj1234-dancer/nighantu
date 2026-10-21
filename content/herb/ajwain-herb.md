@@ -31,24 +31,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh leaf juice twice daily; 2-4g dried leaf powder twice daily; 500mg extract capsule
 
-**Bioavailability:** Moderate bioavailability. The leaf (Coleus aromaticus / Plectranthus amboinicus, sometimes called [Ajwain](/herb/ajwain/) ka patta) contains [thymol](/glossary/compounds-t-z/#thymol) and [carvacrol](/glossary/compounds-a-c/#carvacrol) in lower concentrations than seed [Ajwain](/herb/ajwain/) but has additional [flavonoids](/reference/flavonoids/). Fresh juice preparations show better absorption profile than dried powder. [Mucilage](/glossary/compounds-l-o/#mucilage) content may slow but prolong absorption.
-
 **Optimal Timing:** Traditionally taken as warm fresh juice with honey in cough and cold, 2-3 times daily between meals
-
-**Standardized Extract:** Leaf extract standardized to minimum 1% thymol and 0.5% carvacrol. Total essential oil content minimum 0.8% v/w in dried herb.
-
-**Shelf Life:** 1 day (fresh juice without preservative); 18 months (dried powder); 2 years (capsules); 3 years (essential oil)
 
 **Storage:** Fresh leaves refrigerated (2-8°C). Dried herb in airtight containers away from light and moisture. Essential oil in amber glass at 15-25°C.
 
 **Marker Compounds:** Thymol, Carvacrol, Rosmarinic acid, [Eugenol](/glossary/compounds-d-g/#eugenol), Beta-caryophyllene, Cirsimaritin
-
-### Extraction Methods
-
-- Cold-pressed juice from fresh leaves
-- Hydroalcoholic extraction (60:40)
-- Steam distillation for essential oil
-- Aqueous infusion (Phanta, hot water steep for 5-10 minutes)
 
 ### Synergistic Combinations
 

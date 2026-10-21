@@ -31,25 +31,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Holy_Basil/meta-analysis.md"
 
 **Standard Dosage:** 300-600mg standardized extract twice daily; 3-5g dried leaf powder daily; 5-10ml fresh juice; 2-3 cups tea infusion daily
 
-**Bioavailability:** Ocimum tenuiflorum (O. sanctum) contains [eugenol](/glossary/compounds-d-g/#eugenol), rosmarinic acid, ursolic acid, and ocimumosides. Eugenol is rapidly absorbed (Tmax ~1 hour) with moderate bioavailability. Rosmarinic acid shows ~1-2% bioavailability but significant first-pass metabolism. Ursolic acid has poor water solubility (~0.4% bioavailability); nanoformulations and phospholipid complexes can enhance absorption 5-10x. SNEDDS formulations improve terpenoid bioavailability.
-
 **Optimal Timing:** Morning on empty stomach for [adaptogenic](/reference/adaptogenic/) effect; with meals for digestive support; as tea throughout the day
-
-**Standardized Extract:** Ethanolic extract standardized to 2.5% ursolic acid; hydroalcoholic extract standardized to 1% eugenol and 2% rosmarinic acid; essential oil (eugenol chemotype) with >60% eugenol
-
-**Shelf Life:** 2 years (dried powder); 3 years (standardized extract capsule/tablet); 2 years (essential oil)
 
 **Storage:** Cool, dry place below 25°C, protected from light. Essential oil in amber glass, sealed tightly. Dried herb in airtight containers to preserve volatile content.
 
 **Marker Compounds:** Eugenol, Rosmarinic acid, Ursolic acid, Oleanolic acid, Ocimumosides A and B, [Apigenin](/glossary/compounds-1-a/#apigenin), [Luteolin](/glossary/compounds-l-o/#luteolin), Beta-caryophyllene
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60:40 to 80:20 ethanol:water)
-- Steam distillation (essential oil, eugenol-rich)
-- Aqueous extraction (rosmarinic acid-rich)
-- Supercritical CO2 extraction (terpenoid-enriched fraction)
-- Standardized ethanolic extract (ursolic acid-enriched)
 
 ### Synergistic Combinations
 

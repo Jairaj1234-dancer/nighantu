@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20g fruit pulp
 
-**Bioavailability:** Gmelina arborea root bark and fruit contain iridoid glycosides (gmelinoside), flavonoids, and lignans (arboreol). Iridoid glycosides have moderate oral bioavailability (20-40%) and are partially hydrolyzed in the GI tract to release aglycones with higher absorption. Fruit pulp provides natural sugars and [mucilage](/glossary/compounds-l-o/#mucilage) that may enhance dissolution and GI transit time for better absorption. The bark Kashayam form is traditionally favored for systemic effects. Enhancement: self-emulsifying formulations for lipophilic lignans; co-administration with [Trikatu](/herb/trikatu/) for general bioenhancement.
-
 **Optimal Timing:** Before meals with warm water for general tonic and anti-inflammatory effects; Kashayam morning and evening
-
-**Standardized Extract:** Root bark extract standardized to NLT 2% total iridoid glycosides by HPLC. Fruit extract: characterized by sugar profile and HPTLC fingerprint. Extract ratio 6:1 to 8:1.
-
-**Shelf Life:** 2 years (bark powder); 2 years (fruit powder); 3 years (tablet/capsule); 3 years (Taila)
 
 **Storage:** Bark powder: airtight containers below 25 deg C, protected from moisture. Fruit preparations: refrigerate fresh pulp, dried powder in moisture-proof containers. Taila: amber glass at room temperature.
 
 **Marker Compounds:** Gmelinoside, Arboreol, Ursolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Hentriacontanol
-
-### Extraction Methods
-
-- Aqueous decoction of root bark (traditional Kashayam)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Cold maceration of fruit pulp
-- Spray-dried aqueous extract for Kwath Ghana
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) processing for Taila
 
 ### Synergistic Combinations
 

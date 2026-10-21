@@ -73,7 +73,7 @@ one: it renders as a fact and pulls in research about a different plant.
 
 309 herb pages here once carried no botanical name. Verification passes have since resolved
 169 of them, and classified another 107 as substances that are not plants at all: 32 examined
-individually, 75 from the category they were filed under. 42 are still deliberately blank.
+individually, 75 from the category they were filed under. The rest are still deliberately blank.
 Bhasmas, rasa preparations, salts and animal products now say what they are in place of a
 Latin name, because a blank on those pages reads as "we do not know" when the answer is "the
 question does not apply".

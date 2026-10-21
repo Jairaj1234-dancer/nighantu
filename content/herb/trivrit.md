@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Trivrit/meta-analysis.md"
 - Beta-turpethein
 - Turpethinic acids A-E
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Avaleha (Trivrit Lehyam), Sneha (medicated oil/ghee)
 
 **Standard Dosage:** 1-4 g powder as a single purgative dose; 3-6 g in lehyam form; dose titrated to individual purgative response
 
-**Bioavailability:** Turpethin (glycosidic resin) and turpethinic acids are the active purgative principles. They are poorly absorbed systemically (bioavailability <5%) and act primarily by local irritation of colonic mucosa, stimulating peristalsis and fluid secretion. This local mechanism is therapeutically desirable. The glycosidic resins are partially hydrolyzed by colonic bacteria to aglycones with increased activity.
-
 **Optimal Timing:** Early morning on empty stomach for purgative action; in Panchakarma, administered after proper Snehana (oleation) and Swedana (sudation) pre-procedures
-
-**Standardized Extract:** Root bark extract standardized to >8% turpethin (glycosidic resin) by gravimetric method; total resin content >12%
-
-**Shelf Life:** Powder: 18-24 months; Tablets/Capsules: 24-36 months; Lehyam: 18-24 months
 
 **Storage:** Store in airtight containers at 15-25 deg C, protected from moisture. Root bark powder is moderately hygroscopic. Keep out of reach of children due to potent purgative activity.
 
 **Marker Compounds:** Turpethin, Turpethinic acid A, Turpethinic acid B, Scopoletin, beta-Sitosterol, Operculinic acid
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (60-70% ethanol)
-- Powdering of dried root cortex
-- Sequential extraction (petroleum ether defatting followed by ethanol extraction)
 
 ### Synergistic Combinations
 

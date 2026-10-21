@@ -79,34 +79,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 - Mucilage
 - Saponins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Taila (medicated oil), Capsules, Tablets, [Ghrita](/herb/ghrita/) (medicated ghee), Basti preparations (enema)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; Taila for external application as directed; 500-1000 mg extract capsules twice daily
 
-**Bioavailability:** Moderate oral bioavailability. Ephedrine-type alkaloids (in some Sida species) show good absorption with 85-95% oral bioavailability. Ecdysteroids show limited but consistent absorption (10-15%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not absorbed but exert prebiotic effects. Oil-based preparations (Taila, Ghrita) significantly enhance absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids).
-
 **Optimal Timing:** Morning for tonic and strength-building effects; before meals with warm water or milk; Taila application morning and evening with gentle massage; Basti as per Panchakarma schedule
-
-**Standardized Extract:** Root extract (8:1 hydroalcoholic) standardized to minimum 0.5% total alkaloids and 0.3% [ecdysterone](/glossary/compounds-d-g/#ecdysterone). Mahabala Taila prepared per AFI guidelines. Mucilage-free extract for capsule filling.
-
-**Shelf Life:** 24 months for root powder; 30 months for tablets/capsules; 36 months for Taila; 24 months for Ghrita preparations
 
 **Storage:** Root powder in airtight containers below 25 deg C. Taila in amber glass bottles, protected from light, at room temperature. Ghrita in clean, dry glass or stainless steel containers. All forms protected from moisture.
 
 **Marker Compounds:** Ecdysterone (20-hydroxyecdysone), Cryptolepine, Quindoline, Quindimine, Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), Mucilage polysaccharides, Ephedrine (trace, species-dependent)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Oil extraction (Taila Paka method)
-- Cold maceration for mucilage
-- Alkaloid extraction with acidified water
-- Ghrita Paka (ghee-based extraction)
 
 ### Synergistic Combinations
 

@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 - Serratumin A
 - Oleanolic acid
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), Vati (traditional pill)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; traditionally 1-3g with honey for respiratory conditions
 
-**Bioavailability:** Hispidulin and related flavonoids show moderate oral bioavailability (25-40%). Clerodane [diterpenes](/glossary/compounds-d-g/#diterpenes) have good lipophilicity favoring absorption. Administration with honey (traditional Anupana for Kapha disorders) enhances mucosal absorption and provides additional [antimicrobial](/reference/antimicrobial/) synergy. [Piperine](/reference/piperine/) co-administration can enhance diterpene absorption.
-
 **Optimal Timing:** Before meals with honey for respiratory conditions; with warm water for anti-inflammatory effects; twice daily for chronic conditions
-
-**Standardized Extract:** Root extract standardized to hispidulin NLT 0.5%; total diterpenes NLT 2%; aqueous extract 8:1 concentration ratio
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (decoction)
 
 **Storage:** Cool, dry place away from light. Airtight containers for powder. Tablets in blister packs to protect from moisture.
 
 **Marker Compounds:** Hispidulin, Scutellarein-7-glucuronide, Bharangin (clerodane diterpene), Clerosterol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, Oleanolic acid
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Aqueous decoction for Kashayam
-- Methanol extraction for diterpene-rich fractions
-- Ethyl acetate partitioning for flavonoid isolation
 
 ### Synergistic Combinations
 

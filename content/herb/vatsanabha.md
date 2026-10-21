@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 - **Poisoning case.** 2025: Mass poisoning event from mislabelled aconite spice product - 11 patients hospitalized with onset within minutes. Perioral paraesthesia was the hallmark symptom (91% of cases). All survived with aggressive supportive care.
 - **Poisoning case.** 2024-2025: Multiple cases of accidental aconite poisoning from herbal liquors and traditional medicines in China and South Asia. A 2025 convergent analytical approach identified aconitine in homemade herbal liquors linked to fatal poisoning cases.
 - **Antidote.** NO SPECIFIC ANTIDOTE EXISTS. Treatment is entirely supportive: IV amiodarone or lidocaine for ventricular arrhythmias (limited efficacy), sodium bicarbonate for wide-complex tachycardia, vasopressors for hypotension, temporary pacing for bradycardia. ECMO (extracorporeal membrane oxygenation) has been life-saving in severe cases with refractory cardiogenic shock.
-- **Maximum dose.** Purified (Shuddha) Vatsanabha dose: 15-30 mg per day (after proper Shodhana). NEVER use unpurified root. Raw root: 1-2 mg of aconitine is lethal. The therapeutic window is extremely narrow even after purification.
+- **Maximum dose.** Purified (Shuddha) Vatsanabha dose: only as given under Standard Dosage (after proper Shodhana). NEVER use unpurified root. Raw root: 1-2 mg of aconitine is lethal. The therapeutic window is extremely narrow even after purification.
 - **Safety alert.** EXTREMELY DANGEROUS: Aconitum ferox is one of the most toxic plants known. Toxicity can occur from skin contact alone. Processing does not eliminate all toxicity. Even purified preparations can cause fatal arrhythmias if dose is exceeded. Must be prescribed only by experienced practitioners.
 - **Forensic concern.** Aconitine is virtually undetectable by standard toxicology screens and has been used as a homicidal poison historically ('queen of poisons'). Detection requires specific LC-MS/MS analysis of blood and urine. Post-mortem redistribution complicates forensic analysis.
 
@@ -57,24 +57,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 **Standard Dosage:** TOXIC HERB - Only after Shodhana: 15-60 mg of Shodhit (purified) powder per dose; NEVER exceed 125 mg/day; ONLY under qualified Ayurvedic physician supervision
 
-**Bioavailability:** Aconitine and related diterpene alkaloids are rapidly and almost completely absorbed orally (bioavailability >80-90%), which contributes to extreme toxicity. Lethal dose of crude aconitine is 2-5 mg in adults. Onset of toxicity within 10-20 minutes of ingestion. Shodhana (purification by processing with cow urine or cow milk) hydrolyzes aconitine to less toxic benzoylaconine and aconine (1000-fold less toxic). Even after Shodhana, significant residual toxicity remains. Transdermal absorption is also rapid and clinically significant (poisoning from skin contact documented).
-
 **Optimal Timing:** Only as prescribed by qualified Vaidya; typically after meals with specific anupana; short-term use only
-
-**Standardized Extract:** Shodhit (purified) powder only; residual aconitine <0.05% by LC-MS/MS (mandatory safety limit); total alkaloid content reduced to <0.3% post-Shodhana
-
-**Shelf Life:** Shodhit powder: 12-18 months; Vati: 24 months; Must be retested for aconitine content if storage exceeds labeled shelf life
 
 **Storage:** POISON CUPBOARD - locked storage with restricted access. Airtight containers at 15-25 deg C. Label: SCHEDULE E1 / VISHA DRAVYA / POISON. Complete batch documentation and chain-of-custody records mandatory. Separate from non-toxic materials.
 
 **Marker Compounds:** Aconitine (must be below safety limit post-Shodhana), Mesaconitine, Hypaconitine, Benzoylaconine (less toxic hydrolysis product), Aconine (non-toxic hydrolysis product), Pseudaconitine, Bikhaconitine
-
-### Extraction Methods
-
-- NOT extracted in crude form for internal use
-- Shodhana process: repeated trituration with cow's milk, cow's urine, or [Triphala](/herb/triphala/) decoction (7-21 cycles) to hydrolyze toxic ester alkaloids
-- Traditional Shodhana as per Rasa Tarangini or Rasatarangini text
-- For analytical purposes only: methanol extraction for alkaloid quantification by LC-MS
 
 ### Synergistic Combinations
 

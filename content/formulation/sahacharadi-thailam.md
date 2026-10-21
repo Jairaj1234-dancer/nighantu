@@ -62,25 +62,17 @@ Sahasrayogam (Taila Prakarana); also referenced in Ashtanga Hridayam. A signatur
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** 6 to 12 g, as given in the Ayurvedic Formulary of India, Part I, entry 8:59. External massage for Vata/neurological conditions. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 66 - 67½.
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Lupeol](/reference/lupeol/)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Sesamin, Lupeol
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 

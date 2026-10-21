@@ -120,25 +120,11 @@ Powder (Churna): 3-6g/day before bed with warm water; As eye wash: decoction
 
 **Standard Dosage:** 3-6 g powder at bedtime with warm water; 500 mg-1 g tablet/capsule twice daily; 50-100 mL decoction
 
-**Bioavailability:** Gallic acid has good oral bioavailability (~40-50%) with rapid absorption. Ellagic acid has low bioavailability (<10%) but is converted by gut microbiota to urolithins A and B, which have prolonged half-lives and significant biological activity. Chebulagic acid and chebulinic acid are partially hydrolyzed in the GI tract releasing ellagic acid. Emblicanin A and B (from Amalaki component) are moderately bioavailable. The three-fruit combination provides a broader spectrum of tannins with complementary absorption profiles.
-
 **Optimal Timing:** At bedtime with warm water for mild laxative effect; before meals for digestive stimulation; morning for Rasayana (rejuvenative) effect
-
-**Standardized Extract:** Standardized to >35% total tannins (as gallic acid equivalent by Folin-Ciocalteu); >5% gallic acid by HPLC; >2% ellagic acid by HPLC; Vitamin C >3% (as ascorbic acid)
-
-**Shelf Life:** Churna: 12-18 months; Tablets/Capsules: 24-36 months; Aqueous decoction: prepare fresh; Ghrita: 24 months; Guggulu tablets: 24-36 months
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C, protected from light. Vitamin C content degrades faster at higher temperatures; cool storage preferred for premium products. Ghrita formulations in glass jars at room temperature.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Chebulagic acid, Chebulinic acid, [Corilagin](/glossary/compounds-c-d/#corilagin), Emblicanin A, Emblicanin B, beta-Glucogallin, Bellericanin
-
-### Extraction Methods
-
-- Simple blending of three fruit powders (1:1:1 by weight)
-- Aqueous decoction
-- Hydroethanolic extraction (50-70% ethanol)
-- Spray drying of aqueous extract
-- Standardized dry extract by vacuum concentration
 
 ### Synergistic Combinations
 

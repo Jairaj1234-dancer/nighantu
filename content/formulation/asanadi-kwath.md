@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Asanadi-Kwat
 
 **Standard Dosage:** 40-80 mL twice daily before meals.
 
-**Bioavailability:** Not established.
-
 **Optimal Timing:** On empty stomach, morning and evening, especially for Prameha (metabolic conditions)
-
-**Shelf Life:** Same day (fresh kwath), 6 months (preserved liquid), 3 years (tablet form)
 
 **Storage:** Fresh: prepare and use same day. Concentrates: amber glass bottles at room temperature with approved preservatives. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** Pterostilbene, [Marsupsin](/glossary/compounds-l-o/#marsupsin), [Pterosupin](/glossary/compounds-o-q/#pterosupin), [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin)
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, pterostilbene content by HPLC, total phenolics, total [flavonoids](/reference/flavonoids/), microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or honey
 

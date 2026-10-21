@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagakesara/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g stamen powder per day; 250-500 mg standardized extract twice daily; 30-50 mL decoction twice daily; topical as directed
 
-**Bioavailability:** [Xanthones](/glossary/compounds-t-z/#xanthones) (mesua ferrin) show moderate oral bioavailability (~25-35%). [Coumarins](/glossary/compounds-c-d/#coumarins) are well absorbed in the upper GI tract. Mesuol has good lipophilicity favoring absorption. Fixed oil from seeds enhances absorption of co-administered lipophilic compounds. First-pass hepatic metabolism is moderate for xanthone compounds.
-
 **Optimal Timing:** Between meals for [hemostatic](/glossary/pharmacology/#hemostatic) and Pitta-pacifying effects; morning for skin health; after meals for digestive action; topical application morning and evening
-
-**Standardized Extract:** Stamen extract (8:1 hydroalcoholic) standardized to minimum 2% total xanthones (as mesuaferrin equivalents) and minimum 1% mesuol. Cold-pressed seed oil for topical formulations. Aqueous extract for astringent and hemostatic preparations.
-
-**Shelf Life:** Dried stamens: 24 months. Powder: 18 months. Capsules/tablets: 30 months. Seed oil: 24 months. Taila: 36 months.
 
 **Storage:** Stamens and powder in airtight, light-resistant containers below 25 deg C. Protect from moisture. Seed oil in amber glass, tightly sealed. Taila at room temperature. Store in dry location as xanthones can degrade with humidity.
 
 **Marker Compounds:** Mesuaferrin A and B, Mesuol, Mesuone, Mammeisin, Beta-amyrin, Mesuanic acid, Euxanthone, Calophyllolide
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70% ethanol)
-- Aqueous decoction
-- Cold pressing of seeds for Nagakesara oil
-- Supercritical CO2 extraction for xanthone enrichment
-- Methanol extraction for comprehensive phytochemical recovery
-- Oil infusion for Taila preparation
 
 ### Synergistic Combinations
 

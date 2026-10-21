@@ -67,26 +67,16 @@ Rasa Yoga Sagara; Siddha Yoga Sangraha; also referenced in Rasa Tarangini and ot
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Parpati (flake form)
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Enhanced by Parpati (flake) form, maximum surface area
-
 **Optimal Timing:** With buttermilk or rice water
-
-**Standardized Extract:** Kajjali (Parada + Gandhaka) + Loha + Abhraka + Tamra Bhasmas in Parpati form (five ingredients = Panchamrita)
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Multi-metal oxide nanoparticles, Mercury sulfide, Sulfur compounds
-
-**Quality Parameters:** Flake formation, uniform thickness, multi-metal assay, free metals below limits
 
 **Vehicle (Anupana):** Buttermilk (mandatory for Parpati)

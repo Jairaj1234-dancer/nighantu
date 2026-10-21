@@ -59,17 +59,11 @@ Sahasrayogam (Taila Prakarana). A signature Kerala Ayurvedic formulation for Vat
 
 **Standard Dosage:** External application: sufficient quantity for local massage, 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Tailaprakarana; 12.
 
-**Bioavailability:** Oil base provides excellent transdermal delivery of [costunolide](/glossary/compounds-c-d/#costunolide) (sesquiterpene lactone) and [gingerol](/glossary/compounds-d-g/#gingerol)/shogaol derivatives. Counter-irritant effect of [ginger](/herb/ginger/) compounds increases local blood flow enhancing drug penetration. Massage application further enhances absorption through mechanical action.
-
 **Optimal Timing:** Morning and/or evening for joint pain, arthritis, and musculoskeletal conditions. Warm oil application preferred.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** Costunolide, Dehydrocostuslactone, 6-Shogaol, 6-Gingerol, [Sesamin](/glossary/compounds-q-t/#sesamin), [Cedrene](/glossary/compounds-c-d/#cedrene) (from [Devadaru](/herb/devadaru/))
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, costunolide content by HPLC, 6-shogaol content (from dried [ginger](/herb/ginger/)), total sesquiterpene lactones, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only. Warm oil for massage.
 

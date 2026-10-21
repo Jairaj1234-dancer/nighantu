@@ -61,19 +61,13 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Standard Dosage:** 3-6 g twice daily with warm water or sugar, as given in the Ayurvedic Formulary of India, Part I, entry 7:2. The formulary's anupana: warm water. The formulary attributes this formula to Bhaisajyaratnavali, Amlapittadhikara; 24-25.
 
-**Bioavailability:** Fine particle size and [Trikatu](/herb/trikatu/) (Shunthi, Maricha, [Pippali](/herb/pippali/)) combination is traditionally regarded as absorption-promoting. Piperine has been reported in studies to increase bioavailability of some co-administered compounds; the effect for this formulation is not established.
-
 **Optimal Timing:** After meals or at bedtime, especially for Amlapitta (hyperacidity)
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (hygroscopic due to sugar). Temperature not exceeding 30°C. Use desiccant in packaging.
 
 **Marker Compounds:** Piperine, [Embelin](/glossary/compounds-d-g/#embelin), Operculin (from [Trivrit](/herb/trivrit/)), Eugenol (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), Gallic acid
 
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), pH of 10% solution, HPTLC fingerprint for piperine, embelin, and operculin (from [Trivrit](/herb/trivrit/)), heavy metals, microbial limits, aflatoxins, uniformity of content
-
-**Vehicle (Anupana):** Warm water, sugar water, or honey
+**Vehicle (Anupana):** Warm water
 
 ### Synergistic Combinations
 

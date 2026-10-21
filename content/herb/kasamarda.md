@@ -72,24 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 
 **Standard Dosage:** (Caution: oral seed and leaf use has been associated with hepatotoxicity and myotoxicity; see Recent safety updates.) 3-6 g seed/leaf powder twice daily; 50-100 mL decoction; 10-20 mL leaf juice; 500 mg capsule twice daily
 
-**Bioavailability:** Anthraquinone glycosides (chrysophanol, emodin) show moderate bioavailability with extensive hepatic conjugation (glucuronidation). Sennosides require colonic bacterial hydrolysis for activation, delayed onset of action (6-12 hours). Chrysophanol bioavailability enhanced through solid dispersion technology. Emodin shows improved absorption with phospholipid complexation.
-
 **Optimal Timing:** Before bedtime for [laxative](/reference/laxative/) effect (sennoside activation takes 6-12 hours); after meals for hepatoprotective applications
-
-**Standardized Extract:** Standardized to minimum 1.5% total anthraquinones (as chrysophanol) by HPLC; seed extract standardized after roasting process
-
-**Shelf Life:** 24 months for roasted seed powder; 18 months for capsules; 12 months for leaf juice preparations
 
 **Storage:** Store in airtight containers at 15-30°C. Protect from light (anthraquinones are photosensitive). Moisture content must be kept below 10% to prevent microbial growth.
 
 **Marker Compounds:** Chrysophanol, Emodin, Physcion, Sennoside A, Sennoside B, Cassiollin, Chryso-obtusin, [Galactomannan](/glossary/compounds-d-g/#galactomannan)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Water decoction for traditional preparations
-- Methanol extraction for anthraquinone-rich fractions
-- Sequential extraction: hexane, ethyl acetate, ethanol, water
 
 ### Synergistic Combinations
 

@@ -63,23 +63,13 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** Nasya: 2-6 drops per nostril
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
-
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
-
-**Marker Compounds:** Eclipta [saponins](/reference/saponins/), Ricinoleic acid
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Ricinoleic acid
 
 ### Synergistic Combinations
 

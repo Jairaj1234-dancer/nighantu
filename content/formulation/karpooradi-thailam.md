@@ -68,25 +68,17 @@ Sahasrayogam (Taila Prakarana). A characteristically simple 3-ingredient formula
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external use), Balm (modern), Roll-on (modern)
 
 **Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily.
 
-**Bioavailability:** Topical application provides rapid transdermal absorption of camphor. Camphor activates TRPM8 and TRPV3 receptors producing alternating cool-warm sensation. Counter-irritant mechanism increases local blood flow. Eucalyptol (if included) provides additional anti-inflammatory action via COX-2 inhibition.
-
 **Optimal Timing:** As needed for pain, headache, nasal congestion. Apply 2-3 times daily. Avoid near eyes and on broken skin.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in tightly sealed amber glass bottles. Camphor is highly volatile, loss occurs with loose sealing. Temperature not exceeding 25°C. Keep away from heat sources and flame (camphor is flammable).
 
 **Marker Compounds:** Camphor, 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (eucalyptol), [Borneol](/glossary/compounds-a-c/#borneol), [Camphene](/glossary/compounds-a-c/#camphene)
-
-**Quality Parameters:** Acid value, peroxide value, camphor content by GC (10-20% w/v), eucalyptol content (if included), total volatile oils, refractive index, specific gravity, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only. Apply and massage gently on painful area.
 

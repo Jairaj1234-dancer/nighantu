@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Shankhini/meta-analysi
 
 **Standard Dosage:** 2-4 g powder per day; 50-100 mL kwatha twice daily; 500 mg capsule twice daily
 
-**Bioavailability:** Alkaloid constituents show moderate oral bioavailability (30-45%). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis. First-pass metabolism is moderate. Absorption is enhanced by warm water vehicle as traditionally prescribed.
-
 **Optimal Timing:** Morning on empty stomach for Medhya (cognitive) indications; with honey as Anupana (vehicle)
-
-**Standardized Extract:** Aqueous-ethanolic extract (6:1), characterized by HPTLC fingerprint profile; standardized to NLT 1% total [alkaloids](/glossary/compounds-1-a/#alkaloids) by titrimetric method
-
-**Shelf Life:** 24 months for churna; 30 months for capsules and tablets
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
 
 **Marker Compounds:** Alkaloids (total by gravimetric method), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Flavonoids](/reference/flavonoids/) (total), [Tannins](/reference/tannins/)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration
-- Percolation with 60% ethanol
 
 ### Synergistic Combinations
 

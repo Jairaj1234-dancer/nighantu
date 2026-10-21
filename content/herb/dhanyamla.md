@@ -73,31 +73,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyamla/meta-analysis.md"
 - Organic acids 
 - Probiotic microorganisms 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Liquid preparation (fermented), Parisheka (pouring therapy), Dhara (stream pouring for external therapy), Avagaha (sitz bath additive)
 
 **Standard Dosage:** External use primarily: 500ml-2L for Dhara/Parisheka therapy (30-45 min sessions); Internal use: 15-30ml twice daily before meals (as digestive, in some traditions)
 
-**Bioavailability:** Dhanyamla is a fermented preparation (grains/cereals fermented in water) producing organic acids (lactic, acetic, citric). The low pH (3.0-4.5) and organic acid content ensure rapid penetration through skin during external therapies. For internal use, organic acids are readily absorbed from the GI tract. The fermentation process produces B-[vitamins](/glossary/compounds-t-z/#vitamins) and short-chain fatty acids that are highly bioavailable. No enhancement needed - the preparation itself is a bioavailability-optimized traditional formulation.
-
 **Optimal Timing:** External Dhara therapy: morning sessions preferred, patient should not be fasting. Internal use: before meals for digestive stimulation
-
-**Standardized Extract:** Not an extract - it is a complete fermented preparation. Standardize by: pH (3.0-4.5), total titratable acidity (1.5-3.0% as lactic acid), specific gravity (1.005-1.020), alcohol content (<2%).
-
-**Shelf Life:** 3-6 months (unpasteurized, refrigerated); 1 year (pasteurized, sealed in glass bottles)
 
 **Storage:** Unpasteurized: refrigerate at 2-8 deg C. Pasteurized: store in airtight glass containers at room temperature away from direct sunlight. Do not use metal containers (acid corrosion). Traditional: earthen pot storage at cool ambient temperature.
 
 **Marker Compounds:** Lactic acid, Acetic acid, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Total organic acids, Alcohol content (ethanol), B-vitamins (B1, B2, B6, B12)
-
-### Extraction Methods
-
-- Traditional fermentation: cereals (Shashtika rice, horse gram, millet) fermented in earthen pot with water for 7-14 days
-- Controlled fermentation with starter culture at 28-35 deg C
-- No extraction per se - the entire fermented liquid is the product
 
 ### Synergistic Combinations
 

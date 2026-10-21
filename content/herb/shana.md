@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shana/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g seed/leaf powder per day; 50-100 mL kwatha twice daily; seed oil for external application
 
-**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) from Crotalaria juncea show moderate oral absorption (25-40%). Pyrrolizidine alkaloids are hepatotoxic and must be strictly limited. Fiber content of seeds may reduce absorption of co-administered drugs. Seed oil fatty acids have high bioavailability.
-
 **Optimal Timing:** External applications as needed; internal use (where appropriate): after meals
-
-**Standardized Extract:** Leaf extract (5:1 in 50% ethanol), tested for pyrrolizidine alkaloid absence (<LOD by LC-MS/MS); standardized to NLT 2% total [flavonoids](/reference/flavonoids/)
-
-**Shelf Life:** 18 months for seed oil; 24 months for churna and capsules
 
 **Storage:** Store below 25 deg C in airtight containers. Seed oil in amber glass, nitrogen-flushed. Protect from light and moisture.
 
 **Marker Compounds:** [Vitexin](/glossary/compounds-t-z/#vitexin), [Isovitexin](/glossary/compounds-g-l/#isovitexin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Pyrrolizidine alkaloids (must be absent/below detection limit)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50% ethanol)
-- Cold pressing for seed oil
-- Acid-water extraction for alkaloid profiling
 
 ### Synergistic Combinations
 

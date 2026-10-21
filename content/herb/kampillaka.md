@@ -74,32 +74,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 - Mallotophilippinens
 - Mallotucin D 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Lepa (external paste), Taila (oil for external application)
 
 **Standard Dosage:** 1-3 g powder with honey or warm water; for anthelmintic use: 3-6 g single dose; external application as needed
 
-**Bioavailability:** Rottlerin, the primary bioactive, has poor aqueous solubility (log P ~4.2). Bioavailability enhanced through solid lipid nanoparticle formulation, cyclodextrin complexation, or co-administration with lipid-rich adjuvants. [Piperine](/reference/piperine/) co-administration improves systemic availability by 30-40%.
-
 **Optimal Timing:** Early morning on empty stomach for anthelmintic use; external application any time as needed
-
-**Standardized Extract:** Standardized to minimum 5% rottlerin by HPLC; total phenolic content >8% (as gallic acid equivalents)
-
-**Shelf Life:** 24 months for powder in airtight containers; 36 months for tablets and capsules
 
 **Storage:** Store in airtight, light-resistant containers at 15-30°C. Keep away from moisture. The red glandular hair powder is prone to caking if exposed to humidity.
 
 **Marker Compounds:** Rottlerin (mallotoxin), Isorottlerin, Kamalin, Rottlerin dimethyl ether, Mallotophenone
-
-### Extraction Methods
-
-- Ethanol extraction (90-95% for rottlerin)
-- Acetone extraction for glandular hair resinous fraction
-- Supercritical CO2 extraction
-- Sequential petroleum ether followed by ethanol extraction
 
 ### Synergistic Combinations
 

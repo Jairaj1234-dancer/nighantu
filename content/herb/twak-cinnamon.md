@@ -87,33 +87,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Twak-Cinnamon/meta-
 - Cinnamic acid 
 - Copane
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Kwatha (decoction), Essential oil, Tincture, Softgel, Tea/Infusion
 
 **Standard Dosage:** 1-3 g powder twice daily; 250-500 mg standardized extract twice daily; 1-2 drops essential oil in warm water
 
-**Bioavailability:** Trans-cinnamaldehyde (primary active) has good oral bioavailability (~50-60%) with rapid absorption and Tmax of 30-60 minutes; rapidly oxidized to cinnamic acid and conjugated to hippuric acid for renal excretion. Type-A [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) (insulin-sensitizing fraction) have low oral bioavailability (<10%) but may act locally on GI epithelium. Coumarin (significant in Cinnamomum cassia, much lower in C. verum) has high bioavailability (~60-80%) but hepatotoxicity concern limits acceptable daily intake to <0.1 mg/kg/day (EFSA).
-
 **Optimal Timing:** With or after meals for glycemic management; before meals for appetite stimulation; morning and evening dosing
-
-**Standardized Extract:** Bark extract standardized to >8% type-A proanthocyanidins (for glycemic support, e.g., Cinnulin PF); essential oil standardized to >65% cinnamaldehyde by GC-FID; total polyphenols >20% (as gallic acid equivalent). Coumarin <0.1% for C. verum origin.
-
-**Shelf Life:** Bark sticks: 24-36 months; Ground powder: 12-18 months; Essential oil: 36 months; Capsules/Tablets: 24-36 months; Tincture: 36-48 months
 
 **Storage:** Airtight containers at 15-25 deg C, protected from light and moisture. Essential oil in amber glass. Bark sticks have longer shelf life than ground powder. Cinnamaldehyde oxidizes on prolonged air exposure.
 
 **Marker Compounds:** trans-Cinnamaldehyde, Cinnamyl acetate, Eugenol, Coumarin, Proanthocyanidin A2, Cinnamic acid, Linalool, beta-Caryophyllene, Cinnamyl alcohol
-
-### Extraction Methods
-
-- Steam distillation for essential oil (bark and leaf)
-- Hydroethanolic extraction (60-80% ethanol)
-- Supercritical CO2 extraction
-- Aqueous decoction
-- Water-ethanol extraction for proanthocyanidin-rich fraction
 
 ### Synergistic Combinations
 

@@ -83,33 +83,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 - Elliptinone
 - Beta-
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root powder), Tablet, Capsule, Kashayam (decoction), [Chitrakaharitaki](/herb/chitrakaharitaki/) Avaleha, [Chitrakadi Vati](/formulation/chitrakadi-vati/)
 
 **Standard Dosage:** 1-3g root powder twice daily; 250-500mg extract capsule; 50-100ml decoction. CAUTION: Potent herb, do not exceed recommended dose. Contraindicated in pregnancy.
 
-**Bioavailability:** Plumbagin shows rapid absorption (Tmax 0.5-1h). Highly lipophilic (logP ~3.0), lipid vehicles significantly enhance absorption. Plumbagin undergoes hepatic metabolism via CYP1A2 and CYP3A4. Narrow therapeutic index: precise dosing critical. Milk and ghee vehicles reduce GI irritation while maintaining absorption. Self-emulsifying formulations can improve bioavailability by 2-3x.
-
 **Optimal Timing:** Before meals with warm water or buttermilk for digestive stimulation; with ghee or milk to reduce GI irritation; not at bedtime
-
-**Standardized Extract:** Root extract standardized to plumbagin NLT 1.5%; total naphthoquinones NLT 2%. Aqueous extract 5:1 for milder preparations.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Airtight, light-protected containers, plumbagin is photosensitive. Cool, dry conditions below 25°C. Keep away from children. Clearly labeled as potent herb.
 
 **Marker Compounds:** Plumbagin, 3,3'-Biplumbagin, Chitranone, Droserone, Elliptinone, Beta-sitosterol, Zeylanone
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (80:20 ethanol:water) for plumbagin enrichment
-- Ethanol extraction (95%) for maximum plumbagin yield
-- Aqueous decoction for milder preparations
-- Supercritical CO2 for plumbagin-rich fraction
-- Soxhlet with chloroform for research-grade plumbagin
 
 ### Synergistic Combinations
 

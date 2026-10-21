@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Panasa/meta-analysis.md"
 
 **Standard Dosage:** 100-200 g fresh fruit; 5-10 g seed powder daily; 500 mg - 1 g seed extract twice daily
 
-**Bioavailability:** [Carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene, [lutein](/glossary/compounds-l-o/#lutein)) from jackfruit flesh have moderate bioavailability (15-25%) enhanced by co-ingestion with fat. Jacalin (lectin from seeds) is degraded by digestive proteases with negligible systemic absorption. [Flavonoids](/reference/flavonoids/) from fruit show 15-30% bioavailability. Seed [starch](/glossary/compounds-q-t/#starch) provides slow-release carbohydrate energy. Artocarpanone from heartwood has limited data on human pharmacokinetics.
-
 **Optimal Timing:** Fruit: as a meal or snack, not on empty stomach due to high sugar. Seed powder: with meals. Seed extract supplements: after meals.
-
-**Standardized Extract:** Jackfruit seed extract (10:1) standardized to total flavonoids >3%, total phenolics >5% GAE. Fruit powder with minimum beta-carotene 50 mcg/g, total dietary fiber >5%.
-
-**Shelf Life:** Dried fruit: 6-12 months; Seed flour: 6-12 months (due to residual oil rancidity); Seed extract: 18-24 months; Capsules: 18-24 months
 
 **Storage:** Dried fruit: below 25 deg C, RH <45%, moisture-barrier packaging. Seed flour: refrigerated or below 25 deg C, protect from moisture and oxidation. Extract: airtight, below 25 deg C, protect from light.
 
 **Marker Compounds:** Artocarpanone, Artocarpesin, Morin, Dihydromorin, Beta-carotene, Lutein, Jacalin (lectin, for identity), Cycloartenone
-
-### Extraction Methods
-
-- Mechanical extraction and drying of fruit flesh
-- Seed flour preparation by drying and milling
-- Hydroalcoholic extraction of seed for flavonoid fraction
-- Hot water extraction of seed for starch isolation
-- Methanol extraction of heartwood for artocarpanone
-- Enzyme-assisted extraction for improved polyphenol yield
 
 ### Synergistic Combinations
 

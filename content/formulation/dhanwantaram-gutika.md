@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Dhanwantaram-Gutika
 
 **Standard Dosage:** 1-2 tablets (250-500 mg each) twice daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Gutikaprakarana, 56.
 
-**Bioavailability:** Gutika form provides controlled oral release. Multi-herb combination provides broad-spectrum activity. Bhavana with kashayas enhances potency through phytochemical impregnation.
-
 **Optimal Timing:** Before meals or as directed, typically for Vata disorders
-
-**Shelf Life:** 3 years (herbal only), 5 years (with Bhasma) from date of manufacture
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Withanolide A (from [Ashwagandha](/herb/ashwagandha/)), [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/) (from [Dashamoola](/herb/dashamoola/))
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time, moisture (<6%), HPTLC fingerprint for key markers, heavy metals, microbial limits. If Bhasma-containing: additional Bhasma quality tests
 
 **Vehicle (Anupana):** Warm water or warm milk
 

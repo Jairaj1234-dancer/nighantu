@@ -78,7 +78,7 @@ Charaka classifies it as Lekhaniya (scraping/reducing). Called Musta/Mustaka in 
 
 ## Recommended Dosage
 
-Tuber powder: 3-6g/day; Decoction: 50-100ml/day
+Tuber powder: 3-6g/day; Decoction: as given under Standard Dosage
 
 ## Safety, contraindications and cautions
 
@@ -96,26 +96,11 @@ Tuber powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Standard Dosage:** 3-6 g rhizome powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily; 1-3 drops essential oil (diluted)
 
-**Bioavailability:** Sesquiterpenes (cyperene, cyperotundone) have moderate oral bioavailability (~30-40%). Alpha-cyperone shows good GI absorption. Essential oil components are well absorbed via inhalation and topically. Rotundone has extremely low olfactory threshold making trace amounts organoleptically significant. [Flavonoids](/reference/flavonoids/) undergo hepatic conjugation.
-
 **Optimal Timing:** Before meals for appetite stimulation and digestive fire enhancement; between meals for bloating and gas; morning for menstrual regulation; Arishta after meals
-
-**Standardized Extract:** Essential oil standardized to minimum 30% alpha-cyperone and 15% cyperene. Rhizome extract (8:1 hydroalcoholic) with minimum 5% total sesquiterpenes. Aqueous extract for Kashaya preparations with minimum 3% total phenolics. Mustaka-Arishta with 5-8% self-generated alcohol.
-
-**Shelf Life:** Whole rhizomes: 36 months. Powder: 24 months. Essential oil: 36 months sealed. Capsules/tablets: 30 months. Arishta: 5+ years.
 
 **Storage:** Whole rhizomes in well-ventilated, dry storage at room temperature. Powder in airtight containers below 25 deg C. Essential oil in amber glass, tightly sealed. Arishta at room temperature in glass containers. Protect all forms from moisture.
 
 **Marker Compounds:** Alpha-cyperone, Cyperene, Cyperotundone, Rotundone, Selinene, Cyperol, Isocyperol, [Patchoulenone](/glossary/compounds-o-q/#patchoulenone)
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 0.5-1.5%)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Aqueous decoction
-- Supercritical CO2 extraction
-- Solvent extraction with hexane for sesquiterpene enrichment
-- Fermentation for Musta-Arishta
 
 ### Synergistic Combinations
 

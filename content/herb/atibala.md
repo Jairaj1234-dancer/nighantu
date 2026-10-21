@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Atibala/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 10-20ml fresh juice; Taila for external Abhyanga
 
-**Bioavailability:** Moderate oral bioavailability. Abutilon indicum (Atibala) contains [mucilage](/glossary/compounds-l-o/#mucilage) (which provides sustained-release matrix), beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) (5-10% absorbed), and [flavonoids](/reference/flavonoids/). Asparagine (an amino acid present abundantly) has near-complete oral bioavailability. Mucilage creates gel matrix that slows but prolongs drug release, natural sustained-release mechanism. Oil-based preparations (Taila, Ghrita) enhance lipophilic constituent absorption.
-
 **Optimal Timing:** With warm milk at bedtime for [Rasayana](/reference/rasayana/) and strength-building. Before meals with warm water for urinary and digestive indications. Taila for external Abhyanga (oil massage), morning preferred.
-
-**Standardized Extract:** Root extract (10:1) standardized to minimum 2% beta-sitosterol and minimum 5% total flavonoids. Mucilage content minimum 15% in whole plant material.
-
-**Shelf Life:** 2 years (powder); 3 years (capsules/tablets); 3 years (Taila); 2 years (Ghrita)
 
 **Storage:** Cool, dry place below 25°C. Mucilaginous powders are hygroscopic, use desiccant in packaging. Oil preparations in amber glass.
 
 **Marker Compounds:** Beta-sitosterol, Asparagine, Gallic acid, Caffeic acid, p-Coumaric acid, [Quercetin](/reference/quercetinquercetin/), [Luteolin](/glossary/compounds-l-o/#luteolin) [glycosides](/glossary/compounds-g-l/#glycosides), Mucilage [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashaya)
-- Hydroalcoholic extraction (60:40)
-- Fresh juice expression
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) infusion (Taila Paka vidhi) for external preparation
-- Ghee processing for Ghrita preparation
 
 ### Synergistic Combinations
 

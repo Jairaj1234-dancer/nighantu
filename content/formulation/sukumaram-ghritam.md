@@ -65,25 +65,17 @@ Ashtanga Hridayam (Vidaryadi group of herbs); Sahasrayogam (Saptavarti preparati
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml for gynecological and abdominal conditions
 
-**Bioavailability:** Ghee is traditionally considered a carrier (yogavahi) for fat-soluble constituents
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Shatavarin, Ricinoleic acid
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Shatavarin, Ricinoleic acid
 
 **Vehicle (Anupana):** Warm water or warm milk
 

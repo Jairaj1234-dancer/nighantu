@@ -70,17 +70,11 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Standard Dosage:** 12 g twice daily on empty stomach with warm water/milk, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
-**Bioavailability:** Ghee base provides optimal vehicle for herbs with diverse solubility profiles. Multi-compound synergy provides broad-spectrum activity with individual compound bioavailability enhanced by ghee matrix.
-
 **Optimal Timing:** On empty stomach, morning and evening. For psychiatric conditions: continuous use for 3-6 months minimum.
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/)
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** Alpha-santalol, Gallic acid, Ursolic acid (from [Sariva](/herb/sariva/))
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, alpha-santalol (from [Chandana](/herb/chandana/)), HPTLC multi-marker fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

@@ -63,17 +63,11 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 **Standard Dosage:** 12 g (1-2 teaspoons) twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:27. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 21; 57-58 14.
 
-**Bioavailability:** Ghee matrix provides superior absorption of both lipophilic guggulsterones and hydrophilic bitter principles. [Guggulu](/formulation/guggulu/) acts as yogavahi further enhancing bioavailability of co-ingredients. Tikta rasa (bitter taste) stimulates hepatobiliary function, improving systemic absorption.
-
 **Optimal Timing:** On empty stomach, morning and evening. Traditionally used for Vatarakta (gouty arthritis), Kushtha (skin diseases), and Asthi-Sandhi Vikara (bone/joint disorders).
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/)
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light and moisture.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, [Azadirachtin](/glossary/compounds-a-c/#azadirachtin), [Nimbin](/glossary/compounds-l-o/#nimbin) (from [Nimba](/herb/nimba/)), [Berberine](/glossary/compounds-a-c/#berberine) (from [Guduchi](/herb/guduchi/)), Gallic acid, [Piperine](/reference/piperine/)
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), guggulsterone content (Z+E) by HPLC, azadirachtin from [Nimba](/herb/nimba/), [berberine](/glossary/compounds-a-c/#berberine) from [Guduchi](/herb/guduchi/), rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

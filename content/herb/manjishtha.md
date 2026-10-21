@@ -11,7 +11,7 @@ botanical: "Rubia cordifolia"
 family: "Rubiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Monographed in the Ayurvedic Pharmacopoeia of India (API) for stem; root monograph not yet in API. Classified in Charaka Samhita as varnya (complexion enhancer), jvarahara (antipyretic), visaghna (detoxifier), and rasayana (rejuvenator). European Medicines Agency (EMA) issued a Community Herbal Monograph on Rubia cordifolia L., radix (2022). No standalone WHO monograph identified. Listed in multiple traditional pharmacopeias across Ayurveda, TCM, and Unani systems."
+whoStatus: "Monographed in the Ayurvedic Pharmacopoeia of India (API). Classified in Charaka Samhita as varnya (complexion enhancer), jvarahara (antipyretic), visaghna (detoxifier), and rasayana (rejuvenator). European Medicines Agency (EMA) issued a Community Herbal Monograph on Rubia cordifolia L., radix (2022). No standalone WHO monograph identified. Listed in multiple traditional pharmacopeias across Ayurveda, TCM, and Unani systems."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
@@ -73,26 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjishtha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day in divided doses; 50-100 mL decoction twice daily; 500-1000 mg standardized extract daily; 15-30 mL Arishta after meals
 
-**Bioavailability:** Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo hydrolysis in the GI tract; aglycones ([alizarin](/glossary/compounds-1-a/#alizarin), [purpurin](/glossary/compounds-o-q/#purpurin)) are absorbed in the colon. Rubiadinare moderately lipophilic with reasonable absorption. Purpurin shows enhanced absorption with fatty meals. First-pass hepatic metabolism is moderate. Topical absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) is good through intact skin.
-
 **Optimal Timing:** Between meals for blood purification; morning for skin health; Arishta after meals; topical application morning and evening
-
-**Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 2% total anthraquinones (as alizarin equivalents). Purpurin-enriched extract for topical skin-brightening products. Manjistharishta with 5-8% self-generated alcohol.
-
-**Shelf Life:** 36 months for root powder; 30 months for capsules/tablets; 5+ years for Arishta; 24 months for topical products; 36 months for Taila
 
 **Storage:** Store in airtight, light-resistant (amber) containers below 25 deg C. Anthraquinones degrade with light exposure. Root powder protected from moisture. Arishta at room temperature in glass containers. Topical products at 15-25 deg C.
 
 **Marker Compounds:** Alizarin, Purpurin, Munjistin, Rubiadin, Rubiadinmethylether, Mollugin, Furanoquinones, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Cold maceration for anthraquinone preservation
-- Supercritical CO2 for anthraquinone-enriched extract
-- Oil infusion for topical Taila
-- Fermentation for Arishta
 
 ### Synergistic Combinations
 

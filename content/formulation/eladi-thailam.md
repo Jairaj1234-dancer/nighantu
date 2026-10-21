@@ -77,25 +77,17 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external use), Cream (modern), Lotion (modern)
 
 **Standard Dosage:** External application: sufficient quantity on affected area, twice daily.
 
-**Bioavailability:** [Coconut oil](/glossary/concepts-a-m/#coconut-oil) base (rich in lauric acid and MCTs) provides excellent transdermal penetration. Aromatic compounds from Ela and Agaru are rapidly absorbed through skin. Direct dermal delivery bypasses first-pass metabolism for local skin conditions.
-
 **Optimal Timing:** After bath or before bedtime for skin conditions. Can be used for facial application.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila preparations
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Alpha-santalol (from [Chandana](/herb/chandana/) if included), Agarospirol (from Agaru)
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity, 1,8-cineole content from Ela by GC, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only
 

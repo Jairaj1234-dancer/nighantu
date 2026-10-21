@@ -76,17 +76,11 @@ Charaka Samhita Chikitsa Sthana (Rasayana Adhyaya) - described as Vayasthapana R
 
 **Standard Dosage:** 3-6 g twice daily or 10-20 g as Avaleha.
 
-**Bioavailability:** Tannin-ascorbic acid complex provides slow-release antioxidant activity with 6-8 hour sustained action. Bhavana processing with self-juice (swarasa bhavana) enhances particle-level impregnation of phytoconstituents.
-
 **Optimal Timing:** Early morning on empty stomach and/or at bedtime
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines
 
 **Storage:** Store in airtight amber glass or HDPE containers in a cool, dry place away from sunlight. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Ascorbic acid, Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B
-
-**Quality Parameters:** Ascorbic acid content (NLT 0.5% in churna), gallic acid by HPLC, total [tannins](/reference/tannins/), total ash, acid-insoluble ash, loss on drying (<10%), particle size for churna, pH for avaleha, microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk or honey
 

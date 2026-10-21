@@ -60,17 +60,11 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin).
 
 **Standard Dosage:** 15-30ml with equal water
 
-**Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** Indefinite per classical texts; commercially labeled 5-10 years. Improves with age.
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
 **Marker Compounds:** Punarnavine, Boeravinone B
-
-**Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Punarnavine, Boeravinone B
 
 **Vehicle (Anupana):** Equal quantity of water after meals
 

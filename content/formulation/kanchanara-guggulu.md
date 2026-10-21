@@ -65,25 +65,17 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Guggulu](/formulation/guggulu/) (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:1 states a dose of 3 g; this is much higher than the figure above, and the two sources disagree. The formulary's anupana: mundi kvatha, khadira sara kvatha, haritaki. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 95-98.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi enhancing systemic delivery of Kanchanara flavonoids and [Varuna](/herb/varuna/) [lupeol](/reference/lupeol/). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption. Kanchanara bark [polyphenols](/glossary/compounds-o-q/#polyphenols) are well-absorbed in guggulu matrix. Targets thyroid and lymphatic tissues.
-
 **Optimal Timing:** After meals, twice or thrice daily, for Galaganda (goiter/thyroid), Gandamala (lymph nodes), and Granthi (cysts/tumors)
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Guggulu preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Lupeol (from [Varuna](/herb/varuna/)), Gallic acid, Piperine, Kaempferol (from Kanchanara)
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, gallic acid, piperine, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or Varuna kwath
 

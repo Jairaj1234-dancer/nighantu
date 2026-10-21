@@ -62,17 +62,11 @@ Charaka Samhita (Chikitsa Sthana) - Kutaja referenced for Pravahika (dysentery w
 
 **Standard Dosage:** 12 to 24 ml with equal water after meals, as given in the Ayurvedic Formulary of India, Part I, entry 1:11. The formulary attributes this formula to Bhaisajyaratnavali, Atisaradhikara; 97-98½.
 
-**Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** Indefinite per classical texts; commercially labeled 5-10 years.
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
 **Marker Compounds:** Conessine, Kurchine
-
-**Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Conessine, Kurchine
 
 **Vehicle (Anupana):** Equal quantity of water after meals
 

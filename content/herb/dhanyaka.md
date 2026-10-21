@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhanyaka/meta-analysis.md"
 - Coumarins
 - Tocopherols
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Hima (cold infusion), Tablet, Capsule, Essential oil, [Arka](/herb/arka/) (distillate)
 
 **Standard Dosage:** 3-6g seed powder twice daily; 50-100ml decoction or cold infusion twice daily; 500mg extract capsule twice daily; essential oil: 1-3 drops in carrier
 
-**Bioavailability:** Coriandrum sativum seeds contain linalool (60-70% of essential oil), flavonoids, and coumarins. Linalool has good oral bioavailability (>60%) due to favorable lipophilicity and small molecular size. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) (rutin, [quercetin](/reference/quercetinquercetin/)-3-glucuronide) have moderate bioavailability (15-25%), improved by gut microbial deglycosylation. Cold infusion (Hima) preserves volatile constituents better than hot decoction. The traditional practice of light roasting (Bharjana) before use modifies volatile profile and may improve digestibility.
-
 **Optimal Timing:** After meals as digestive aid; before meals for appetite stimulation; Hima (cold infusion) throughout the day for Pitta conditions and burning sensation
-
-**Standardized Extract:** Essential oil: standardized to NLT 65% linalool by GC-MS. Seed extract: NLT 1% total flavonoids (as rutin). Extract ratio 5:1.
-
-**Shelf Life:** 1 year (powder - due to volatile loss); 2 years (tablet/capsule); 3 years (essential oil in sealed amber bottle); whole seeds: 2-3 years
 
 **Storage:** Whole seeds in airtight containers at room temperature. Powder: airtight, moisture-proof containers below 25 deg C - use quickly after grinding. Essential oil: amber glass, cool place, nitrogen headspace.
 
 **Marker Compounds:** Linalool, [Geraniol](/glossary/compounds-d-g/#geraniol), Geranyl acetate, [Camphor](/herb/camphor/), Rutin, [Quercetin](/reference/quercetinquercetin/), Coumarins
-
-### Extraction Methods
-
-- Steam distillation for essential oil (Dhanyaka Taila)
-- Cold infusion (Hima - traditional)
-- Aqueous decoction
-- Hydroalcoholic extraction (50:50)
-- Supercritical CO2 for high-quality essential oil
 
 ### Synergistic Combinations
 

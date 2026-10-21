@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Grinjana/meta-analysis.md"
 
 **Standard Dosage:** Fresh root: 50-100g daily in diet; Dried powder: 3-6g twice daily; 50-100ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Daucus carota (carrot / Grinjana) root contains [carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene, alpha-carotene, [lutein](/glossary/compounds-l-o/#lutein)), [polyacetylenes](/glossary/compounds-o-q/#polyacetylenes) (falcarinol, [falcarindiol](/glossary/compounds-d-g/#falcarindiol)), and [anthocyanins](/glossary/compounds-1-a/#anthocyanins) (in purple varieties). Beta-carotene bioavailability is highly dependent on food matrix and fat content: raw carrot (~3% absorption) vs cooked with oil (~30-40%). Carotenoids are fat-soluble - co-administration with lipids (ghee, oil) dramatically enhances absorption. Traditional Ayurvedic practice of cooking carrots with ghee aligns with modern bioavailability science. Polyacetylenes have moderate oral bioavailability. Enhancement: cooking and pureeing disrupts cell walls releasing carotenoids; oil-based formulations; nano-emulsions.
-
 **Optimal Timing:** With meals containing fat/oil for maximum carotenoid absorption; fresh juice in the morning; Avaleha after meals as nutritive tonic
-
-**Standardized Extract:** Carrot extract standardized to NLT 10% total carotenoids (as beta-carotene) by HPLC. Cold-pressed carrot seed oil: rich in carotol and daucol. Freeze-dried carrot powder: beta-carotene NLT 200 ppm.
-
-**Shelf Life:** Fresh root: 2-4 weeks refrigerated; Dried powder: 1.5 years (protect from light - carotenoid degradation); Capsule: 2 years; Juice: 7 days refrigerated, 6 months pasteurized sealed
 
 **Storage:** Fresh: refrigerate at 2-8 deg C. Dried powder and extracts: airtight, opaque containers below 25 deg C - carotenoids degrade rapidly on light exposure. Nitrogen-flush packaging recommended. Seed oil: refrigerate after opening.
 
 **Marker Compounds:** Beta-carotene, Alpha-carotene, Lutein, Falcarinol, Falcarindiol, Carotol (seed oil), Anthocyanins (purple carrot varieties)
-
-### Extraction Methods
-
-- Fresh juice expression (Swarasa)
-- Hot water extraction for Kashayam
-- Supercritical CO2 for carotenoid-rich extract
-- Oil-based extraction for fat-soluble carotenoids
-- Freeze-drying for preservation of labile nutrients
-- Ethanol extraction for polyacetylene fraction
 
 ### Synergistic Combinations
 

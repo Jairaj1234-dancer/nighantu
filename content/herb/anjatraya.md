@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Anjatraya/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 30-60ml decoction twice daily
 
-**Bioavailability:** Very limited modern pharmacokinetic data. This is a relatively obscure Dravya in Ayurvedic Materia Medica. Traditional preparation guidelines should be followed. Co-administration with warm water, honey, or ghee as appropriate anupana based on Dosha indication.
-
 **Optimal Timing:** As directed by Ayurvedic physician based on specific condition and Dosha assessment
-
-**Standardized Extract:** Limited standardization data. Establish TLC/HPTLC fingerprint for identity and batch consistency. Document extractive values (water-soluble and alcohol-soluble).
-
-**Shelf Life:** 2 years (powder); 2.5 years (capsules/tablets)
 
 **Storage:** Cool, dry place protected from light and moisture. Temperature below 30°C.
 
 **Marker Compounds:** TLC fingerprint markers (to be established), Total phenolics, Total [alkaloids](/glossary/compounds-1-a/#alkaloids) (if applicable), Ash values as quality parameter
-
-### Extraction Methods
-
-- Aqueous decoction (classical Kashaya vidhi)
-- Hydroalcoholic extraction (50:50)
-- Cold maceration for heat-sensitive constituents
 
 ### Synergistic Combinations
 

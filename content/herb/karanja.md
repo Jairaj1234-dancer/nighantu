@@ -85,32 +85,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karanja/meta-analysis.md
 - Oleic acid
 - Linoleic acid
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (oil for external use), Churna (powder), Kashayam (decoction), Lepa (paste), Capsule, Ointment/Cream
 
 **Standard Dosage:** 1-3 g powder twice daily (internal); Taila for external application as needed; 30-50 mL decoction twice daily
 
-**Bioavailability:** Karanjin and pongamol are highly lipophilic flavonoids with limited oral bioavailability (~15-20%). Self-nanoemulsifying drug delivery systems (SNEDDS) improve oral bioavailability by 4-5 fold. For dermatological use, penetration enhancers ([eucalyptus](/herb/eucalyptus/) oil, oleic acid) significantly improve transdermal delivery. [Piperine](/reference/piperine/) co-administration enhances systemic absorption.
-
 **Optimal Timing:** Internal: after meals; external (oil/ointment): apply to affected areas twice daily, preferably morning and before bed
-
-**Standardized Extract:** Seed oil standardized to minimum 2% karanjin and 1% pongamol by HPLC; bark extract standardized to minimum 5% total flavonoids
-
-**Shelf Life:** 24 months for seed oil; 24 months for powder; 18 months for ointments/creams; 36 months for capsules with antioxidant stabilization
 
 **Storage:** Oil should be stored in amber glass bottles at 15-30°C, protected from light and heat. Powder in airtight containers. Add BHT (0.02%) or tocopherol (0.05%) as antioxidant for oil stability.
 
 **Marker Compounds:** Karanjin, Pongamol, Pongapin, Glabrin, Kanjone, Pongaglabol, Beta-sitosterol, [Furanoflavonoids](/glossary/compounds-d-g/#furanoflavonoids)
-
-### Extraction Methods
-
-- Cold pressing of seeds for Karanja oil
-- Hydroalcoholic extraction (70-80% ethanol) for flavonoid enrichment
-- Supercritical CO2 extraction for karanjin-rich fractions
-- Soxhlet extraction with petroleum ether for fixed oil
 
 ### Synergistic Combinations
 

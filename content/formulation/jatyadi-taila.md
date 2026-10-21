@@ -64,17 +64,11 @@ Sushruta Samhita (Chikitsa Sthana) and Ashtanga Hridayam. One of the premier Vra
 
 **Standard Dosage:** Topical application on wounds, ulcers, fistula, sufficient quantity 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 9; 168-170.
 
-**Bioavailability:** [Sesame oil](/glossary/concepts-m-y/#tila-taila) base provides excellent wound penetration. [Sesamin](/glossary/compounds-q-t/#sesamin) and [sesamolin](/glossary/compounds-q-t/#sesamolin) from [sesame oil](/glossary/concepts-m-y/#tila-taila) add inherent anti-inflammatory activity. Oil vehicle maintains moist wound environment promoting granulation. Direct delivery of antimicrobials ([berberine](/glossary/compounds-a-c/#berberine), azadirachtin, [curcumin](/herb/curcumin/)) to wound bed.
-
 **Optimal Timing:** After wound cleaning with [Triphala](/herb/triphala/) kwath, 1-2 times daily
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Enhanced microbial controls for wound-care product.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), Azadirachtin, [Curcumin](/herb/curcumin/), Karanjin, Sesamin, [Jasmone](/glossary/compounds-g-l/#jasmone)
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, iodine value, refractive index, specific gravity, berberine content, azadirachtin, curcumin, rancidity test negative, sterility testing, HPTLC fingerprint, microbial limits (strict), heavy metals
 
 **Vehicle (Anupana):** Not applicable, topical use only. For Nadivrana: soak cotton wick (pichu) and insert.
 

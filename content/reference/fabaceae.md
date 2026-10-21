@@ -19,8 +19,6 @@ productHints: []
 words: 221
 srcRel: "_Hub/Families/Fabaceae.md"
 ---
-*18 members in the catalogue*
-
 - [Aparajita](/herb/aparajita/), *Clitoria ternatea L.* (Antioxidant, Anticancer, Nootropic)
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)* (Antioxidant, Wound Healing, Nootropic)
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)* (Antioxidant, Bronchodilator, Antidiabetic)

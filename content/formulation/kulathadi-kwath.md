@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Kulathadi-Kw
 
 **Standard Dosage:** 40-80 mL twice daily before meals, as per classical texts
 
-**Bioavailability:** Hot decoction form provides rapid absorption. [Kulattha](/herb/kulattha/) [proteins](/glossary/compounds-o-q/#proteins) and phenolics are well-extracted in prolonged boiling. [Isoflavones](/glossary/compounds-g-l/#isoflavones) from horse gram have moderate oral bioavailability.
-
 **Optimal Timing:** Before meals, morning and evening, especially for Ashmari (urinary calculi) and Mutra Roga (urinary disorders)
-
-**Shelf Life:** Same day (fresh), 2 years (Kwath Churna)
 
 **Storage:** Fresh: use same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Daidzein](/glossary/compounds-c-d/#daidzein), [Genistein](/glossary/compounds-d-g/#genistein), Phytic acid, Gallic acid, [Quercetin](/reference/quercetinquercetin/)
-
-**Quality Parameters:** pH, specific gravity, total solids, total protein (from [Kulattha](/herb/kulattha/)), extractive values, HPTLC fingerprint, total phenolics, [antioxidant](/reference/antioxidant/) activity, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as warm decoction; Yavakshar (alkali) may be added
 

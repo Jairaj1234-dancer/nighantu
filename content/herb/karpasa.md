@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa/meta-analysis.md
 
 **Standard Dosage:** 3-5 g seed powder twice daily; 5-10 mL cottonseed oil; 50-100 mL root bark decoction
 
-**Bioavailability:** [Gossypol](/glossary/compounds-g-l/#gossypol) (polyphenolic aldehyde) has variable bioavailability (30-50%) influenced by dietary protein and mineral content. Gossypol chelates iron and calcium, reducing both mineral and gossypol absorption. Protein-rich meals reduce gossypol absorption. Refined cottonseed oil (gossypol-free) has standard lipid bioavailability. Cyclodextrin complexation can modulate gossypol release profile.
-
 **Optimal Timing:** Root bark decoction: after meals; seed preparations: with meals to moderate gossypol absorption
-
-**Standardized Extract:** Root bark extract standardized to minimum 3% total [flavonoids](/reference/flavonoids/); seed extract: gossypol content must be quantified and controlled (<0.05% for food-grade; specific higher levels for pharmaceutical research)
-
-**Shelf Life:** 18 months for root bark powder; 24 months for refined cottonseed oil; 24 months for capsules
 
 **Storage:** Cottonseed oil in cool, dark place (15-25°C) in amber glass or food-grade HDPE. Root bark powder in airtight containers protected from moisture. Gossypol-containing preparations require restricted storage.
 
 **Marker Compounds:** Gossypol, Gossypin (flavonoid), [Gossypetin](/glossary/compounds-g-l/#gossypetin), [Herbacetin](/glossary/compounds-g-l/#herbacetin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Linoleic acid, Oleic acid
-
-### Extraction Methods
-
-- Cold pressing of seeds for oil
-- Solvent extraction (hexane) for commercial oil production
-- Hydroalcoholic extraction of root bark
-- Selective extraction for gossypol using acetic acid-diethyl ether
 
 ### Synergistic Combinations
 

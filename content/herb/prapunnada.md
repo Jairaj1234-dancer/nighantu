@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Prapunnada/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g seed powder daily; 3-5 g leaf powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/glossary/compounds-c-d/#chrysophanol), [emodin](/glossary/compounds-d-g/#emodin), [rhein](/glossary/compounds-q-t/#rhein)) from Cassia occidentalis ([Kasamarda](/herb/kasamarda/)) have moderate oral bioavailability (20-35%). Emodin undergoes extensive glucuronidation reducing systemic availability but providing enterohepatic recycling extending activity. Chrysophanol shows Tmax of 2-3 hours. Sennosides from seeds are pro-drugs activated by colonic bacteria; their [laxative](/reference/laxative/) effect is localized to the colon.
-
 **Optimal Timing:** Seed powder for laxative effect: at bedtime. Leaf preparations for skin/eye conditions: morning and evening. Not on empty stomach due to potential GI irritation.
-
-**Standardized Extract:** Prapunnada leaf extract (8:1) standardized to total anthraquinones 1-3% (as emodin). Seed extract: heat-treated, standardized to chrysophanol >1%, with toxalbumin testing (must be negative).
-
-**Shelf Life:** Dried leaves: 12-18 months; Seed powder (heat-treated): 12-18 months; Extract: 18-24 months; Capsules: 24 months
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <55%, protected from light and moisture. Seeds: pest-proof containers, cool and dry. Eye wash: sterile container, 2-8 deg C, use within 24 hours of preparation.
 
 **Marker Compounds:** Chrysophanol, Emodin, Rhein, [Physcion](/glossary/compounds-o-q/#physcion), Aloe-emodin, Sennosides, Gallic acid, Xanthone
-
-### Extraction Methods
-
-- Aqueous decoction of leaves/seeds
-- Hydroalcoholic extraction (60-70% ethanol)
-- Methanol extraction for anthraquinone profiling
-- Chloroform extraction for emodin-rich fraction
-- Traditional eye wash preparation (filtered cold infusion of leaves)
 
 ### Synergistic Combinations
 

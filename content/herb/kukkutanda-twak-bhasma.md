@@ -70,26 +70,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 - **Phosphorus (P):** Trace
 - **Strontium (Sr):** Trace
 
-**Analytical Methods:** XRD, FTIR, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; eggshell calcium carbonate with natural matrix
-
 **Optimal Timing:** With meals for calcium absorption
-
-**Standardized Extract:** Calcined eggshell bhasma, natural calcium source
-
-**Shelf Life:** 12–24 months (organic origin; shorter than mineral bhasmas)
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Calcium carbonate (94% in raw eggshell), Magnesium carbonate, Calcium phosphate, Strontium
-
-**Quality Parameters:** Calcium >35%, microbial limits (organic origin), standard bhasma tests
 
 **Vehicle (Anupana):** Honey or warm milk

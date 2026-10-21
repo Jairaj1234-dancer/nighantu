@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Simhamoola/meta-analy
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL kwatha twice daily; 500-1000 mg capsule twice daily
 
-**Bioavailability:** Phenolic and flavonoid constituents show moderate oral bioavailability (20-35%). Terpenoid fraction is lipophilic and benefits from oil-based (taila) preparations. Traditional use with warm water or milk enhances absorption.
-
 **Optimal Timing:** After meals with warm water or milk for Vatahara (anti-Vata) action; taila for external application as needed
-
-**Standardized Extract:** Root extract (6:1 in 60% ethanol), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics (as gallic acid equivalents) and NLT 1.5% total [flavonoids](/reference/flavonoids/)
-
-**Shelf Life:** 24 months for churna; 30 months for capsules; 24 months for taila
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Oleanolic acid, Gallic acid, [Quercetin](/reference/quercetinquercetin/)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for taila preparation
-- Percolation with graded ethanol
 
 ### Synergistic Combinations
 

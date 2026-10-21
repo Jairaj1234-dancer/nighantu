@@ -105,7 +105,7 @@ Named after Arjuna of Mahabharata. Vagbhata describes Arjuna Ksheerapaka for Hri
 
 ## Recommended Dosage
 
-Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20ml twice daily
+Bark powder at the dose given under Standard Dosage (with milk or water); Ksheerapaka (milk decoction): 10-20ml twice daily
 
 ## Safety, contraindications and cautions
 
@@ -128,33 +128,17 @@ Bark powder: 3-6g/day (with milk or water); Ksheerapaka (milk decoction): 10-20m
 - Arjungenin
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Capsule, Tablet, Kashayam (decoction), Kshirapaka (milk decoction), Arishta ([Arjunarishta](/formulation/arjunarishta/), fermented), Ghana Vati (concentrated extract tablet)
 
 **Standard Dosage:** 3-6g bark powder twice daily with milk; 500mg-1g extract capsule twice daily; 15-30ml Arjunarishta after meals; Kshirapaka: 3-6g boiled in milk
 
-**Bioavailability:** Moderate oral bioavailability for arjunolic acid (major triterpene, ~8-12% bioavailability) and arjunic acid. Tannins (15-20%) are partially absorbed. Arjungenin is the active aglycone after glycoside hydrolysis. Kshirapaka (milk decoction) significantly enhances bioavailability, milk fat solubilizes [triterpenes](/glossary/compounds-t-z/#triterpenes), and milk [proteins](/glossary/compounds-o-q/#proteins) prevent tannin-mediated precipitation. This is a classical example where anupana (vehicle) profoundly affects pharmacokinetics. Nanoparticle and phytosome formulations under development show 3-5x enhanced bioavailability.
-
 **Optimal Timing:** Kshirapaka or powder with milk early morning and evening for cardiac support. Arjunarishta after meals.
-
-**Standardized Extract:** Bark extract standardized to minimum 15% total tannins (as gallic acid equivalent) and minimum 2% arjunolic acid. Triterpene-enriched extract: minimum 5% arjunolic acid + arjunic acid. 10:1 aqueous extract with minimum 20% tannins.
-
-**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5-10 years (Arjunarishta); 1 year (Kshirapaka, prepared fresh is best)
 
 **Storage:** Bark powder in airtight containers, cool and dry place below 25°C. Arjunarishta in amber glass at room temperature, improves with age. Capsules with desiccant.
 
 **Marker Compounds:** Arjunolic acid, Arjunic acid, Arjungenin, Arjunetin, Arjunaphthanol, Casuarinin, Gallic acid, Ellagic acid, Luteolin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Kshirapaka (1 part herb: 8 parts milk: 32 parts water, reduced to milk volume)
-- Hydroalcoholic extraction (70:30) for triterpene enrichment
-- Supercritical CO2 for triterpene-enriched extract
-- Standardized aqueous extract (spray-dried)
 
 ### Synergistic Combinations
 

@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitraka-Moola/meta-analysis.
 
 **Standard Dosage:** 1-2g root powder twice daily; 250-500mg extract capsule; 30-50ml mild decoction. Same cautions as [Chitrak](/herb/chitrak/), root is the most potent part.
 
-**Bioavailability:** Root (Moola) of Plumbago zeylanica contains the highest concentration of [plumbagin](/glossary/compounds-o-q/#plumbagin) (1.5-3.5%). Bioavailability profile identical to [Chitrak](/herb/chitrak/) but with higher active concentration per unit weight. Lipophilic plumbagin is rapidly absorbed; half-life approximately 4-6 hours. Root cortex (outer bark) has the highest plumbagin concentration; stele (inner wood) has lower levels. Precise extraction and dose standardization are even more critical for root-specific preparations.
-
 **Optimal Timing:** Before meals with warm milk or ghee to buffer GI irritation; traditional preparations ([Chitrakaharitaki](/herb/chitrakaharitaki/)) after meals
-
-**Standardized Extract:** Root extract standardized to plumbagin 1.5-2.5% (controlled range for safety); purified root extract (post Kshira Paka) with reduced free plumbagin.
-
-**Shelf Life:** 2 years (dried root powder); 3 years (tablet/capsule)
 
 **Storage:** Airtight, light-protected containers. Cool storage below 25°C. Root material clearly labeled with caution warnings. Keep away from children. Separate from food-grade products.
 
 **Marker Compounds:** Plumbagin, Chitranone, Isoshinanolone, 3,3'-Biplumbagin, Plumbagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (80:20) of root cortex for maximum plumbagin
-- Aqueous decoction for traditional milder preparations
-- Ethanol maceration for standardized extracts
-- Traditional milk-boiling method (Kshira Paka) for detoxified preparations
 
 ### Synergistic Combinations
 

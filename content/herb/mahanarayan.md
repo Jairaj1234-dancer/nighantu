@@ -81,32 +81,17 @@ External: warm oil massage on affected areas; Basti: as per Panchakarma protocol
 - Sesame Oil
 - Combined actives of 40
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (medicated oil - primary form), Soft gel capsules (oral oil), Topical liniment, Basti preparation (enema), Nasya drops (nasal administration)
 
 **Standard Dosage:** External: 10-30 mL oil for massage as needed. Internal: 5-10 mL with warm water or milk. Basti: 60-120 mL as Anuvasana Basti. Nasya: 2-4 drops per nostril.
 
-**Bioavailability:** Topical application provides direct local delivery to musculoskeletal tissues. [Sesame oil](/glossary/concepts-m-y/#tila-taila) base ([Tila](/herb/tila/) Taila) enhances transdermal penetration of fat-soluble actives by 3-5 fold. Oral bioavailability of oil-solubilized compounds is significantly higher than aqueous preparations. [Withanolides](/glossary/compounds-t-z/#withanolides) and Dashamula [terpenoids](/glossary/compounds-t-z/#terpenoids) show 40-60% transdermal absorption through massage application.
-
 **Optimal Timing:** Topical: morning or evening massage, 30-60 minutes before bath. Oral: morning on empty stomach with warm water. Basti: as per Panchakarma schedule. Nasya: morning after dental hygiene.
-
-**Standardized Extract:** Finished Taila is the extract product. Quality parameters: acid value below 5, saponification value 185-195, [iodine](/glossary/compounds-g-l/#iodine) value 100-115, specific gravity 0.915-0.935, peroxide value below 10 meq/kg. Total phenolic content minimum 2 mg GAE/g oil. Withanolide content minimum 0.05% w/w.
-
-**Shelf Life:** 36-48 months for Taila in proper storage (classical texts say it improves with age). Soft gels: 24 months. Nasya preparations: 24 months.
 
 **Storage:** Store in amber glass bottles or stainless steel containers at room temperature (15-30 deg C). Protect from sunlight and moisture. Do not refrigerate as oil may solidify or separate. Classical texts recommend storage in earthenware for optimal aging. Keep container tightly closed to prevent oxidation.
 
 **Marker Compounds:** Withaferin A (from [Ashwagandha](/herb/ashwagandha/)), [Sesamin](/glossary/compounds-q-t/#sesamin) (from sesame oil), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Camphor](/herb/camphor/), Bornyl acetate, [Aegeline](/glossary/compounds-1-a/#aegeline) (from [Bilva](/herb/bilva/)), [Piperine](/reference/piperine/) (from [Pippali](/herb/pippali/))
-
-### Extraction Methods
-
-- Classical Sneha Paka (Taila Paka) method: herbs processed in sesame oil with water decoction per AFI protocol
-- Three-stage cooking process (Mridu/Madhyama/Khara Paka) depending on application
-- Modern vacuum oil extraction for temperature-sensitive compounds
-- Herb decoction prepared first, then combined with oil for processing
 
 ### Synergistic Combinations
 

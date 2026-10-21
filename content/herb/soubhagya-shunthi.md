@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Soubhagya-Shunthi/meta-analys
 
 **Standard Dosage:** 1-3 g compound powder twice daily with warm water or milk; 500 mg tablet/capsule twice daily after meals; specific dosing per classical text formulation
 
-**Bioavailability:** Gingerols and shogaols (from Shunthi/[ginger](/herb/ginger/) base) are absorbed orally. 6-Shogaol (formed during drying of fresh ginger) is more bioavailable than 6-[gingerol](/glossary/compounds-d-g/#gingerol). [Piperine](/reference/piperine/) (if included) enhances absorption of other components by 1.5-3x via P-glycoprotein and CYP3A4 inhibition.
-
 **Optimal Timing:** Before meals for [antiemetic](/glossary/pharmacology/#antiemetic) action; with warm milk after meals for postpartum nourishment; as directed by Ayurvedic practitioner for postpartum care
-
-**Standardized Extract:** Compound churna standardized to NLT 1.5% total gingerols + shogaols (as 6-gingerol equivalents by HPLC); individual ingredient identification by HPTLC fingerprint
-
-**Shelf Life:** 24 months for compound churna; 36 months for tablets and capsules
 
 **Storage:** Store below 25 deg C in airtight containers. Ginger-based preparations are somewhat hygroscopic, RH <55%. Protect from light and moisture.
 
 **Marker Compounds:** 6-Gingerol, 6-Shogaol, Piperine (if formulation includes [Pippali](/herb/pippali/)), Volatile oil content (from Shunthi), Individual ingredient markers per formulation composition
-
-### Extraction Methods
-
-- Traditional Churna preparation (drying, powdering, and precise mixing of multiple ingredients per text proportion)
-- Not typically extracted, used as compound powder formulation
-- Individual ingredient extraction for standardized capsule formulation
 
 ### Synergistic Combinations
 

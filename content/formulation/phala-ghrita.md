@@ -65,17 +65,11 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 **Standard Dosage:** 12-24ml for reproductive health. The Ayurvedic Formulary of India, Part I, entry 6:30 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½.
 
-**Bioavailability:** Ghee is traditionally regarded as a carrier (yogavahi) for fat-soluble constituents
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for ghrita preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Shatavarin, [Withanolides](/glossary/compounds-t-z/#withanolides)
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Shatavarin, Withanolides
 
 **Vehicle (Anupana):** Warm water or warm milk
 

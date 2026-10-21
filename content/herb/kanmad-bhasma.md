@@ -69,26 +69,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 - **Silicon (Si):** Trace
 - **Aluminum (Al):** Trace
 
-**Analytical Methods:** XRD, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Moderate
-
 **Optimal Timing:** With honey or specific formulation vehicle
-
-**Standardized Extract:** Calcined mineral bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Calcium silicate, Iron oxide, [Magnesium](/glossary/compounds-l-o/#magnesium)
-
-**Quality Parameters:** Standard bhasma tests, heavy metals within limits
 
 **Vehicle (Anupana):** Honey

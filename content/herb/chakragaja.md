@@ -80,32 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 - Aurantio-obtusin
 - Beta-
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Lepa (paste), Capsule
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; external paste as needed. Note: limited modern standardization data available.
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with specific Anupana (vehicles) based on condition. Water-soluble constituents are bioavailable via decoction. Lipid-soluble components may benefit from ghee or oil vehicles. Further pharmacokinetic research recommended.
-
 **Optimal Timing:** As directed by qualified Vaidya based on condition; generally before meals with appropriate vehicle
-
-**Standardized Extract:** Standardization parameters require development due to limited modern characterization. Whole plant extract 10:1 ratio as starting specification.
-
-**Shelf Life:** 18 months (powder); 2 years (capsule)
 
 **Storage:** Cool, dry place in airtight containers. Follow general Ayurvedic herb storage guidelines.
 
 **Marker Compounds:** Chrysophanol, Emodin, Aurantio-obtusin, Beta-sitosterol
-
-### Extraction Methods
-
-- Aqueous decoction (traditional method)
-- Hydroalcoholic extraction (50:50)
-- Cold maceration for heat-sensitive constituents
-- Fresh plant juice extraction
 
 ### Synergistic Combinations
 

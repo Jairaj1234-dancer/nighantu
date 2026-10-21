@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kachnar/meta-analysis.md
 
 **Standard Dosage:** 3-6g bark powder twice daily; 500mg-1g extract; 50-100ml decoction; 2-4 Kanchanara Guggulu tablets twice daily
 
-**Bioavailability:** Bauhinia variegata bark contains [flavonoids](/reference/flavonoids/) ([kaempferol](/reference/kaempferol/), [quercetin](/reference/quercetinquercetin/)), [tannins](/reference/tannins/), and [phytosterols](/glossary/compounds-o-q/#phytosterols). Quercetin has ~5-10% oral bioavailability enhanced by lipids and [piperine](/reference/piperine/). Kaempferol shows similar absorption profile. Tannins are poorly absorbed but may have local anti-inflammatory effects in GI tract. Guggulu combination (Kanchanara Guggulu) may enhance bioavailability via guggulsterone-mediated permeability enhancement.
-
 **Optimal Timing:** Before meals with warm water; Kanchanara Guggulu: twice daily before meals
-
-**Standardized Extract:** Bark aqueous extract standardized to 2% total flavonoids (as quercetin); hydroalcoholic extract with characteristic HPTLC fingerprint; Kanchanara Guggulu tablet per API formulation
-
-**Shelf Life:** 2 years (bark powder); 3 years (Kanchanara Guggulu tablets); 3 years (standardized extract capsule)
 
 **Storage:** Cool, dry place below 25°C. Bark powder in airtight containers. Guggulu tablets are hygroscopic; moisture-proof packaging required.
 
 **Marker Compounds:** Quercetin, Kaempferol, Bauhinianin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Ellagic acid
-
-### Extraction Methods
-
-- Aqueous decoction of bark (traditional Kwath)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Methanol extraction for flavonoid-enriched fraction
-- Traditional Guggulu preparation (Kanchanara Guggulu - compound formulation)
 
 ### Synergistic Combinations
 

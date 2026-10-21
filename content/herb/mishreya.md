@@ -73,26 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g seed powder per day; 0.1-0.5 mL essential oil; 10-30 mL Saunf Ark; 250-500 mg extract capsules after meals
 
-**Bioavailability:** Trans-anethole has excellent oral bioavailability (~60-70%) due to high lipophilicity. Rapidly absorbed in upper GI tract. Metabolized hepatically via O-demethylation and omega-oxidation. Fenchone has moderate bioavailability. Essential oil components readily absorbed via inhalation and buccal mucosa. Estragole undergoes extensive first-pass metabolism.
-
 **Optimal Timing:** After meals for digestive and carminative effects; between meals for bloating relief; Saunf Ark can be consumed throughout the day; nursing mothers: between feedings for galactagogue effect
-
-**Standardized Extract:** Essential oil (BP/EP grade) with minimum 80% trans-anethole and maximum 5% estragole. Aqueous distillate (Saunf Ark) with 0.01-0.05% dissolved volatiles. Standardized seed extract (5:1) with minimum 3% anethole. De-estragole processed oil for safety-conscious markets.
-
-**Shelf Life:** Whole seeds: 24 months. Ground powder: 12 months (volatile loss). Essential oil: 36 months sealed. Saunf Ark: 12 months. Capsules: 24 months.
 
 **Storage:** Whole seeds in airtight containers at room temperature. Ground powder nitrogen-flushed in foil pouches. Essential oil in amber glass, tightly sealed, below 25 deg C. Saunf Ark refrigerate after opening.
 
 **Marker Compounds:** Trans-anethole, Fenchone, Estragole (controlled), Alpha-pinene, Limonene, Methyl chavicol, Anisaldehyde
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 2-6%)
-- Hydrodistillation for Saunf Ark
-- Aqueous infusion
-- Hydroalcoholic extraction (50% ethanol)
-- Supercritical CO2 extraction
-- Cold pressing of seeds
 
 ### Synergistic Combinations
 

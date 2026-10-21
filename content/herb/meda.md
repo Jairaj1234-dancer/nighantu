@@ -71,25 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g tuber powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily
 
-**Bioavailability:** Steroidal saponins show moderate oral bioavailability. Sapogenins released by intestinal hydrolysis are better absorbed than glycosylated forms. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not absorbed.
-
 **Optimal Timing:** With meals or with milk for [Rasayana](/reference/rasayana/) and nutritive effects; morning for tonic action; with Ghrita for reproductive health
-
-**Standardized Extract:** Tuber extract (8:1 hydroalcoholic) standardized to minimum 5% total steroidal saponins (as diosgenin equivalents). [Mucilage](/glossary/compounds-l-o/#mucilage)-rich aqueous extract for GI applications. Ghrita preparation per classical Ashtavarga Ghrita formula.
-
-**Shelf Life:** Fresh tubers: 7-10 days refrigerated. Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months.
 
 **Storage:** Fresh tubers at 5-10 deg C. Dried material below 25 deg C in airtight containers with desiccant due to hygroscopic mucilage. Ghrita in glass containers at room temperature. Protect from light and excessive heat.
 
 **Marker Compounds:** Diosgenin, Polygonatum saponins, Convallarin, Convallamarin, Polysaccharides (fructans), Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Ghrita Paka method for classical preparation
-- Ethanol extraction for saponin enrichment
-- Cold maceration for mucilage
 
 ### Synergistic Combinations
 

@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 
 **Standard Dosage:** 1-3 g root powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Alkannin and shikonin (naphthoquinone enantiomers) from Raktamoola (Alkanna/Onosma species or Arnebia species) have moderate oral bioavailability (20-35%) due to lipophilicity. Shikonin undergoes hepatic metabolism via CYP450 [enzymes](/glossary/compounds-d-g/#enzymes). Its lipophilic naphthoquinones penetrate the skin barrier, which is relevant to its traditional topical use on wounds and skin. Beta-hydroxy-isovalerylshikonin shows enhanced topical penetration compared to free shikonin.
-
 **Optimal Timing:** Oral: after meals. Topical: apply to clean wound/skin area twice daily. Oil preparation: gentle massage on affected area at night.
-
-**Standardized Extract:** Raktamoola root extract (8:1) standardized to total naphthoquinones >3% (as shikonin + alkannin). Oil preparation with red color index specification and validated HPTLC fingerprint.
-
-**Shelf Life:** Dried root: 18-24 months; Root powder: 12-18 months; Extract: 24 months; Medicated oil: 18-24 months; Capsules: 24 months
 
 **Storage:** Dried root: airtight, below 25 deg C, protected from light (naphthoquinone photodegradation). Extracts: amber containers, nitrogen-flushed, cool storage. Oil: amber glass, below 25 deg C.
 
 **Marker Compounds:** Shikonin, Alkannin, Beta-hydroxyisovalerylshikonin, Acetylshikonin, Deoxyshikonin, Arnebinol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Oil extraction (traditional red-colored medicated oil)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Methanol extraction for naphthoquinone profiling
-- Hexane extraction for lipophilic pigments
-- Acetone extraction for shikonin isolation
-- Supercritical CO2 for high-purity naphthoquinone fraction
 
 ### Synergistic Combinations
 

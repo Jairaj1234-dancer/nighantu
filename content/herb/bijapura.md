@@ -75,25 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 **Standard Dosage:** 10-20ml fresh juice with honey; 1-3g dried peel powder; 5-10g Avaleha; juice as per palatability for digestive aid
 
-**Bioavailability:** Citrus flavanones (hesperidin, [naringenin](/glossary/compounds-l-o/#naringenin)) show moderate oral bioavailability (15-30%). Flavanone [glycosides](/glossary/compounds-g-l/#glycosides) require gut microbial deglycosylation for absorption. Limonene from peel oil is rapidly absorbed (>90%). Vitamin C is well absorbed at typical doses. Administration with lipids enhances absorption of flavonoids. Honey vehicle (traditional Anupana) provides [fructose](/glossary/compounds-d-g/#fructose) that may enhance flavonoid absorption.
-
 **Optimal Timing:** With meals or after meals for digestive support; fresh juice in the morning; peel powder traditionally taken with honey in respiratory formulations
-
-**Standardized Extract:** Peel extract standardized to hesperidin NLT 5%; limonene NLT 60% in essential oil. Juice standardized to [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) content and vitamin C.
-
-**Shelf Life:** 3 days (fresh juice, refrigerated); 2 years (peel powder); 2 years (essential oil); 1 year (syrup with preservative)
 
 **Storage:** Fresh juice refrigerated at 2-8°C. Dried peel in airtight containers away from moisture. Essential oil in amber glass, cool storage. Protect from light to prevent vitamin C and terpene degradation.
 
 **Marker Compounds:** Hesperidin, Naringin, Limonene, Citral, Vitamin C (ascorbic acid), Citric acid, Linalool, Beta-pinene, Pectin
-
-### Extraction Methods
-
-- Cold pressing for peel essential oil
-- Fresh juice extraction (Swarasa)
-- Hydroalcoholic extraction (60:40) for flavonoid-rich peel extract
-- Steam distillation for essential oil
-- Aqueous extraction for pectin-rich fractions
 
 ### Synergistic Combinations
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 
 **Standard Dosage:** 5-10g grain powder twice daily; 50-100ml decoction; Yavagu as directed (as dietary preparation); 500-1000mg extract capsule twice daily
 
-**Bioavailability:** Coix lacryma-jobi (Job's tears / Gavedhuka) seeds contain coixenolide, coixol, [stigmasterol](/reference/stigmasterol/), and high-quality protein. Coixenolide has moderate oral bioavailability with good GI absorption. Coixol (a benzoxazinone) has moderate bioavailability (~30%). As a cereal grain, the [starch](/glossary/compounds-q-t/#starch) matrix provides slow release of embedded bioactives. Cooking (as in Yavagu preparation) gelatinizes starch and improves digestibility and nutrient bioavailability. Lipid content (5-8%) provides a natural vehicle for lipophilic constituents. Enhancement: de-hulled seeds have higher bioactive accessibility than hulled.
-
 **Optimal Timing:** Yavagu (gruel) in the morning as breakfast or meal replacement; powder/capsule before meals with warm water; traditionally consumed as part of therapeutic diet
-
-**Standardized Extract:** Seed extract standardized to NLT 1% coixenolide by HPLC. Seed oil: cold-pressed, standardized to fatty acid profile. Aqueous extract ratio 5:1. Protein content NLT 15% for nutraceutical grade.
-
-**Shelf Life:** Whole grain: 1-2 years; 1.5 years (powder); 2 years (tablet/capsule); 1 year (seed oil)
 
 **Storage:** Whole grain: cool, dry, ventilated area, protected from insects. Powder and extracts: airtight containers below 25 deg C. Seed oil: refrigerate after opening, use within 6 months. Protect from moisture and pest infestation.
 
 **Marker Compounds:** Coixenolide, Coixol, Stigmasterol, [Sitosterol](/glossary/compounds-q-t/#sitosterol), Oleic acid, Linoleic acid, Coixan A/B/C ([polysaccharides](/glossary/compounds-o-q/#polysaccharides))
-
-### Extraction Methods
-
-- Aqueous decoction of seeds
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Traditional Yavagu preparation (grain cooked in water/milk to gruel consistency)
-- Supercritical CO2 for coixenolide extraction
-- Oil extraction (cold-press) for seed oil
 
 ### Synergistic Combinations
 

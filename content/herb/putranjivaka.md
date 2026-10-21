@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putranjivaka/meta-analysis.md
 
 **Standard Dosage:** 1-3 g seed powder daily; 3-5 g bark powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Putranjiva roxburghii (Putranjivaka) contains [glucosinolates](/glossary/compounds-d-g/#glucosinolates) that undergo enzymatic hydrolysis ([myrosinase](/glossary/compounds-l-o/#myrosinase)) to release [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) with moderate bioavailability (30-45%). Triterpenoid [saponins](/reference/saponins/) show limited oral bioavailability (10-25%) but are partially converted by gut bacteria to sapogenins with improved absorption. Seed oil fatty acids are well absorbed. Limited modern pharmacokinetic data; traditional texts suggest enhanced absorption with ghee (Ghrita) as vehicle.
-
 **Optimal Timing:** Traditional use for fertility: with ghee and milk, morning on empty stomach or before bedtime. General use: after meals with warm water.
-
-**Standardized Extract:** Putranjivaka seed extract (6:1) standardized to total glucosinolates >1%, total saponins >3%. Ghrita preparation with validated physicochemical parameters per API.
-
-**Shelf Life:** Seeds: 12-18 months (monitor oil rancidity); Powder: 12-18 months; Extract: 24 months; Ghrita: 24-36 months; Capsules: 24 months
 
 **Storage:** Seeds: cool, dry, pest-proof storage, below 20 deg C. Powder and extracts: airtight, below 25 deg C, RH <55%. Ghrita: clean, dry glass containers, below 30 deg C, protect from moisture.
 
 **Marker Compounds:** Glucosinolates (as glucococlearin), Putranjivic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Oleic acid, Triterpenoid saponins, [Friedelin](/glossary/compounds-d-g/#friedelin)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold-press seed oil extraction
-- Methanol extraction for glucosinolate profiling
-- Traditional Ghrita Paka for medicated ghee preparation
 
 ### Synergistic Combinations
 

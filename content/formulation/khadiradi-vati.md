@@ -61,17 +61,11 @@ Sharangdhara Samhita (Madhyama Khanda); described in various Samhitas and classi
 
 **Standard Dosage:** 2 g, as given in the Ayurvedic Formulary of India, Part I, entry 12:6. 1-2 tablets to be sucked slowly, 3-4 times daily. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: honey. The formulary attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 26; 206-210½.
 
-**Bioavailability:** Buccal dissolution provides direct delivery of catechin and [tannins](/reference/tannins/) to oral mucosa. Catechin has astringent and antimicrobial action on oral tissues. [Camphor](/herb/camphor/) and Ela volatiles provide immediate sensory effect. No first-pass metabolism for buccally absorbed compounds.
-
 **Optimal Timing:** As needed for Mukha roga (oral diseases), throat irritation, or after meals for oral hygiene
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Vati
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and heat. Temperature not exceeding 25°C. Individual wrapping recommended.
 
 **Marker Compounds:** Catechin, [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Camphor](/herb/camphor/), Eugenol (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela)
-
-**Quality Parameters:** Weight variation (±5%), hardness (moderate for buccal use), dissolution time (5-15 min buccal), moisture (<6%), catechin content from [Khadira](/herb/khadira/) by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits (oral product), heavy metals
 
 **Vehicle (Anupana):** Honey, per the formulary; tablets are sucked slowly in the mouth. Do not chew or swallow whole.
 

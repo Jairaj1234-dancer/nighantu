@@ -63,17 +63,11 @@ Charaka Samhita and Ashtanga Hridaya. Chavannapalli's commentary on Madhava Nida
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 18-24½.
 
-**Bioavailability:** Fermentation converts aloe [polysaccharides](/glossary/compounds-o-q/#polysaccharides) to simpler sugars and generates novel metabolites. Alcohol enhances absorption of [anthraquinones](/glossary/compounds-1-a/#anthraquinones) and [Loha Bhasma](/herb/loha-bhasma/) iron.
-
 **Optimal Timing:** After meals, twice daily, for Yakrit Roga (liver disorders), Pandu (anemia), and Udara Roga (abdominal disorders)
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Asava preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
 **Marker Compounds:** [Barbaloin](/glossary/compounds-a-c/#barbaloin) (Aloin A), Aloe-[emodin](/glossary/compounds-d-g/#emodin), Iron (from [Loha Bhasma](/herb/loha-bhasma/)), [Piperine](/reference/piperine/), Gallic acid
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-12%), total solids, total sugar, total acidity, aloin content (within safe limits), total anthraquinones, iron content (from Loha Bhasma, within therapeutic limits), barbaloin by HPLC, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of water
 

@@ -81,24 +81,15 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gorochana/meta-analysis.md"
 - Calcium carbonate (major)
 - Calcium phosphate
 
-**Analytical Methods:** HPLC (bile acids), UV-Vis (bilirubin), XRD (minerals)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Component in Rasa preparations
 
 **Standard Dosage:** 125–250 mg with honey or ghee
 
-**Bioavailability:** Moderate; bile acid components readily absorbed
-
 **Optimal Timing:** Morning, empty stomach
-
-**Standardized Extract:** Purified ox bile extract
-
-**Shelf Life:** 2–3 years in airtight container
 
 **Storage:** Cool, dry place; light-protected
 
 **Marker Compounds:** Bilirubin, Bile acids, Cholesterol derivatives, Calcium bilirubinate
 
-**Quality Parameters:** Bilirubin content >30%, ash value <5%, heavy metals within AYUSH limits

@@ -79,7 +79,7 @@ One of three fruits in [Triphala](/herb/triphala/). Specifically acts on Kapha a
 
 ## Recommended Dosage
 
-Fruit powder: 3-6g/day; As part of [Triphala](/herb/triphala/): 2-4g/day
+Fruit powder: see Standard Dosage below; as part of [Triphala](/herb/triphala/): 2-4g/day
 
 ## Safety, contraindications and cautions
 
@@ -114,33 +114,17 @@ Fruit powder: 3-6g/day; As part of [Triphala](/herb/triphala/): 2-4g/day
 - Oleic acid (24%)
 - Linoleic acid (31%)
 
-**Analytical Methods:** HPLC-PDA (tannins), GC-MS (fatty acid profile), UV spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Kwath Ghana (solid extract), Avalehya (confection), Arishta (fermented)
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg-1g standardized extract; 50-100ml decoction; as part of [Triphala](/herb/triphala/) (equal parts with [Haritaki](/herb/haritaki/) and Amalaki)
 
-**Bioavailability:** Gallic acid shows good oral bioavailability (40-60%). Ellagic acid has lower bioavailability (10-15%) due to poor solubility, but gut microbial conversion to urolithins improves systemic availability. [Tannins](/reference/tannins/) undergo partial hydrolysis in the gut, releasing absorbable phenolic acids. Belleric acid bioavailability enhanced by lipid co-administration. Hot water extraction (decoction) improves phenolic availability compared to cold preparations.
-
 **Optimal Timing:** At bedtime with warm water for bowel regulation; before meals for metabolic conditions; as Triphala, at bedtime or early morning
-
-**Standardized Extract:** Fruit extract standardized to gallic acid NLT 10%; total tannins NLT 25%; belleric acid NLT 1.5%. Triphala extract ratio: 1:1:1 by weight.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 5 years (properly stored whole dried fruit)
 
 **Storage:** Cool, dry place in airtight containers. Hygroscopic powder requires moisture protection. Whole dried fruits store best. Temperature below 30°C.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Belleric acid, Bellericanin, Chebulagic acid, Beta-sitosterol, Ethyl gallate, Galloyl [glucose](/glossary/compounds-d-g/#glucose), Lignans
-
-### Extraction Methods
-
-- Aqueous decoction (1:16 reduced to 1:4) for Kashayam
-- Hydroalcoholic extraction (50:50) for balanced tannin-flavonoid extract
-- Hot water extraction for polyphenol-rich fractions
-- Ethyl acetate fractionation for belleric acid isolation
-- Spray drying for instant decoction powder
 
 ### Synergistic Combinations
 

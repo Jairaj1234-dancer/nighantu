@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Pattanga/meta-analysis.md"
 - Caesalpin 
 - Sappanchalcone
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (heartwood powder), Kwatha (decoction), Capsule, Tablet, Lepa (paste), Taila (oil)
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Brazilin from Caesalpinia sappan (Pattanga/sappanwood) has moderate oral bioavailability (~30-40%) with Tmax of 1-2 hours. Brazilin undergoes oxidation to brazilein (deeper red color) which also has pharmacological activity. Protosappanin derivatives show 20-35% bioavailability. Homoisoflavonoids are moderately absorbed and undergo hepatic conjugation. Lipid-based formulations can improve brazilin bioavailability by 30-40%.
-
 **Optimal Timing:** After meals with warm water for systemic effects. Traditional use specifies intake with honey for blood-related disorders.
-
-**Standardized Extract:** Pattanga heartwood extract (10:1) standardized to brazilin >3%, total homoisoflavonoids >5%. Aqueous extract with validated color index and HPLC fingerprint.
-
-**Shelf Life:** Heartwood: 36-60 months (very stable); Powder: 24-36 months; Extract: 24-36 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Heartwood pieces: cool, dry, pest-free storage, can last years. Powder and extracts: airtight, below 25 deg C, protected from light and oxidation. Nitrogen-flushed packaging for brazilin-standardized extracts.
 
 **Marker Compounds:** Brazilin, Brazilein, Protosappanin A, Protosappanin B, Sappanone A, Sappanchalcone, 3-Deoxysappanone, Hematoxylol
-
-### Extraction Methods
-
-- Aqueous decoction (produces characteristic red extract)
-- Hydroalcoholic extraction (50-70% ethanol)
-- Methanol extraction for brazilin isolation
-- Hot water extraction with pH control for color stability
-- Ultrasound-assisted extraction for improved yield
 
 ### Synergistic Combinations
 

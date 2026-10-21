@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadara/meta-analysis.md"
 
 **Standard Dosage:** 3-6g heartwood powder twice daily; 50-100ml decoction; 15-30ml Asava
 
-**Bioavailability:** Acacia catechu ([Khadira](/herb/khadira/)/Kadara) heartwood contains [catechins](/glossary/compounds-c-d/#catechins) ([catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) and [tannins](/reference/tannins/) (catechu-tannic acid). Catechin has moderate oral bioavailability (~20-30%) with Tmax of ~2 hours. Epicatechin shows better bioavailability (~30-40%). Condensed tannins have poor absorption but act locally in GI and oral mucosa. Khadirarishta (fermented preparation) may enhance polyphenol extraction and absorption via self-generated alcohol.
-
 **Optimal Timing:** After meals for skin conditions; as mouth rinse for oral health; Khadirarishta after meals with equal water
-
-**Standardized Extract:** Heartwood aqueous extract (Katha/Catechu) standardized to minimum 50% catechin; hydroalcoholic extract standardized to 30% total catechins
-
-**Shelf Life:** 2 years (heartwood powder); 3 years (Katha solid extract); 5 years (Khadirarishta); 3 years (capsule)
 
 **Storage:** Cool, dry place below 25°C. Katha in airtight containers (hygroscopic). Arishta in glass bottles away from light.
 
 **Marker Compounds:** Catechin, Epicatechin, Catechu-tannic acid, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), [Fisetin](/glossary/compounds-d-g/#fisetinfisetin)
-
-### Extraction Methods
-
-- Aqueous decoction of heartwood (traditional Kashayam)
-- Hot water extraction to produce Katha/Catechu (concentrated aqueous extract)
-- Hydroalcoholic extraction (50:50 to 70:30)
-- Fermentation (Khadirarishta preparation)
-- Acetone-water extraction for condensed tannin fraction
 
 ### Synergistic Combinations
 

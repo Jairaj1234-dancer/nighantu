@@ -75,26 +75,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Loha-Bhasma/meta-ana
 - **Silicon (Si):** Trace
 - **Manganese (Mn):** Trace
 
-**Analytical Methods:** XRD (confirms Fe2O3/Fe3O4), ICP-OES, SEM-EDS, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Excellent; iron oxide nanoparticles (50–100 nm)
-
 **Optimal Timing:** After meals with honey, ghee, or [Triphala](/herb/triphala/) Kwatha
-
-**Standardized Extract:** Shataputi [Loha Bhasma](/herb/loha-bhasma/) (100-Puta), standard therapeutic grade
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight glass or HDPE container; avoid moisture
 
 **Marker Compounds:** Fe3O4 (magnetite, primary), Fe2O3 (hematite), Trace minerals from Bhavana media
-
-**Quality Parameters:** Total iron >55%, Varitaratva, Rekhapurnatva, Apunarbhava, Nischandratva (lusterless), particle size <100 nm, arsenic <3 ppm, lead <10 ppm
 
 **Vehicle (Anupana):** Honey + ghee (unequal parts), [Triphala](/herb/triphala/) Kwatha, [Amla](/herb/amla/) juice, or [Mandura Bhasma](/herb/mandura-bhasma/) combination

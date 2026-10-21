@@ -27,7 +27,6 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 ## How does it work?
 
-- Multi-mineral anti-inflammatory action: The combination of copper ([Tamra Bhasma](/herb/tamra-bhasma/)), iron ([Loha Bhasma](/herb/loha-bhasma/)), and mica (Abhrak Bhasma) bhasmas has been proposed to modulate inflammatory pathways; not established
 - [Neuroprotective](/reference/neuroprotective/) and [analgesic](/reference/analgesic/): Ras Sindoor (HgS) and Shring Bhasma provide neuroactive mineral compounds; Citrullus colocynthis has documented anti-nociceptive properties
 - Vata-pacifying mechanism: [Trikatu](/herb/trikatu/) ([ginger](/herb/ginger/), pepper, long pepper) improves digestion and bioavailability, while castor-based processing enhances anti-Vata (anti-degenerative/anti-neurological) properties per Ayurvedic pharmacology
 
@@ -60,26 +59,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125 mg twice daily
 
-**Bioavailability:** Good; multi-metal Rasaushadhi with musculoskeletal tropism
-
 **Optimal Timing:** With Dashamula Kwatha, [Eranda](/herb/eranda/) Taila, or warm milk
-
-**Standardized Extract:** Kajjali + Loha + Vanga + Naga + anti-Vata herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Iron oxide, Tin oxide, Lead oxide
-
-**Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 
 **Vehicle (Anupana):** Dashamula Kwatha, [Eranda](/herb/eranda/) Taila (castor oil), or warm milk

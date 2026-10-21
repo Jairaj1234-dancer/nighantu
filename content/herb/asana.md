@@ -164,33 +164,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Asana/meta-analysis.md"
 - Erythrodiol-3-monoacetate
 - Pseudobaptigenin 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (heartwood powder), Kashayam (decoction), Asanadi Kwatha, Capsule, Tablet, Arishta component
 
 **Standard Dosage:** 3-6g heartwood powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Pterocarpus marsupium heartwood contains [pterostilbene](/glossary/compounds-o-q/#pterostilbene) (dimethylated [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) analog) with significantly better bioavailability (~80%) compared to resveratrol (~20%). Epicatechin from heartwood has ~20% oral bioavailability. Marsupin and pterostilbene are well absorbed from GI tract. The traditional water-vessel preparation (Asana wood tumbler soaked with water overnight) represents a slow cold-extraction method.
-
 **Optimal Timing:** Traditionally, water soaked in a [Vijaysar](/herb/vijaysar/) tumbler overnight is consumed early morning on an empty stomach. Powder/capsules are traditionally taken before meals.
-
-**Standardized Extract:** Heartwood extract (10:1) standardized to minimum 5% pterostilbene. Total polyphenol content minimum 20%. Epicatechin content minimum 3%. Marsupsin content minimum 1%.
-
-**Shelf Life:** 3 years (heartwood powder); 3 years (capsules/tablets); Vijaysar tumbler usable for 2-3 months (replace when color leaching stops); 5 years (Arishta)
 
 **Storage:** Heartwood stores well, naturally resistant to degradation due to high tannin/phenolic content. Store in dry place. Capsules with desiccant below 25°C.
 
 **Marker Compounds:** Pterostilbene, Epicatechin, Marsupsin, Marsupin, Pterosupin, Liquiritigenin, Isoliquiritigenin, Pterocarpol, Kinotannic acid
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30) for pterostilbene enrichment
-- Cold aqueous maceration (overnight soaking, traditional tumbler method)
-- Ethanol extraction for flavonoid enrichment
-- Supercritical CO2 for pterostilbene isolation
 
 ### Synergistic Combinations
 

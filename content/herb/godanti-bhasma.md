@@ -70,26 +70,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Godanti-Bhasma/meta-
 - **Sulfur (S):** 18.6%
 - **Oxygen:** 55.8%
 
-**Analytical Methods:** XRD, FTIR, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; calcium sulfate converted to bioavailable calcium form through calcination
-
 **Optimal Timing:** With meals for calcium absorption; empty stomach for fever
-
-**Standardized Extract:** Calcined gypsum bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; moisture-sensitive
 
 **Marker Compounds:** Calcium sulfate (primary), Calcium oxide, Trace minerals
-
-**Quality Parameters:** Varitaratva, Rekhapurnatva, calcium content >25%, heavy metals within limits
 
 **Vehicle (Anupana):** Honey for fever; ghee for calcium supplementation

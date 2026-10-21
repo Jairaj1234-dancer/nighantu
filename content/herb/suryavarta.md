@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Suryavarta/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder per day; 50-100 mL kwatha twice daily; 5-10 mL swarasa twice daily; 2-4 drops nasya oil per nostril for headache
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and phenolic acids show moderate oral bioavailability (25-35%). Nasya (nasal) administration provides rapid absorption of volatile and lipophilic constituents via nasal mucosa. Essential oil components are well-absorbed transdermally.
-
 **Optimal Timing:** Morning before sunrise for preventive headache management (per traditional rationale); nasya in morning after facial steaming; acute use as needed
-
-**Standardized Extract:** Whole plant extract (6:1 in 50% ethanol), characterized by HPTLC fingerprint; nasya oil processed per Sneha Kalpana with standardized herb content
-
-**Shelf Life:** 7 days for swarasa; 24 months for churna and capsules; 24 months for nasya oil
 
 **Storage:** Swarasa: refrigerate 2-8 deg C. Churna and capsules: below 25 deg C, airtight, protect from light. Nasya oil: amber glass dropper bottles at room temperature.
 
 **Marker Compounds:** [Acteoside](/glossary/compounds-1-a/#acteoside) (if Clerodendrum species), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid, [Flavonoids](/reference/flavonoids/) (total), Essential oil constituents
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold pressing for swarasa
-- Maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for nasya preparation
-- Steam distillation for volatile fraction
 
 ### Synergistic Combinations
 

@@ -67,24 +67,16 @@ Ayurveda Sara Sangraha (Ayurved Saar Sangrah); also referenced in classical Rasa
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Enhanced; multiple metals provide comprehensive mineral supplementation
-
 **Optimal Timing:** After meals with honey
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide, Multiple herbal compounds
-
-**Quality Parameters:** Multi-metal assay, free metals below safety limits, standard tablet tests
 
 **Vehicle (Anupana):** Honey, [Guduchi](/herb/guduchi/) Swarasa, or [Triphala](/herb/triphala/) Kwatha

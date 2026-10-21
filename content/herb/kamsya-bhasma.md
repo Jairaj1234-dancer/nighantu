@@ -68,26 +68,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kamsya-Bhasma/meta-a
 - **Copper (Cu):** ~78%
 - **Tin (Sn):** ~22%
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Not established.
-
 **Optimal Timing:** With honey; before meals for digestive conditions
-
-**Standardized Extract:** Calcined bronze bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Copper oxide, Tin oxide, Trace zinc
-
-**Quality Parameters:** Standard bhasma tests, copper content within therapeutic range, no free metal
 
 **Vehicle (Anupana):** Honey or [Triphala](/herb/triphala/) Kwatha

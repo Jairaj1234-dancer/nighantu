@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Vriddhi/meta-analysis
 
 **Standard Dosage:** 3-6 g tuber powder twice daily with milk; 50-100 mL decoction twice daily
 
-**Bioavailability:** Habenaria/orchid [alkaloids](/glossary/compounds-1-a/#alkaloids) have moderate oral bioavailability (~20-35%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) from tubers are not systemically absorbed but act as prebiotics. Steroidal [saponins](/reference/saponins/) show low oral bioavailability (<15%) enhanced by milk or ghee co-administration. The Ksheera Paka (milk decoction) preparation significantly improves absorption of lipophilic compounds through casein solubilization.
-
 **Optimal Timing:** After meals with warm milk for [Rasayana](/reference/rasayana/) and [Vajikarana](/glossary/pharmacology/#vajikarana) effect; evening dosing preferred; Ksheera Paka at bedtime
-
-**Standardized Extract:** Tuber extract standardized to >5% total saponins (by hemolytic method); [mucilage](/glossary/compounds-l-o/#mucilage) content >15% by gravimetric method; authentication by microscopy and HPTLC fingerprint
-
-**Shelf Life:** Dried tubers: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24 months; Lehyam: 18 months; Ksheera Paka: prepare fresh
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C. Mucilaginous material is highly hygroscopic; include desiccant. Protect from insects. Store raw material with documentation of legal sourcing.
 
 **Marker Compounds:** Habenariol, Dactylorhin A, Militarine, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Daucosterol](/glossary/compounds-c-d/#daucosterol), [Glucomannan](/glossary/compounds-d-g/#glucomannan) (mucilage), Orchinol
-
-### Extraction Methods
-
-- Aqueous decoction
-- Milk decoction (Ksheera Paka)
-- Hydroethanolic extraction (50-60% ethanol)
-- Cold maceration for mucilage extraction
 
 ### Synergistic Combinations
 

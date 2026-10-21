@@ -77,33 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 - Cineole
 - Thymol 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), [Arka](/herb/arka/) (distillate/hydrosol), Taila (essential oil), Capsule, Tablet, Kashayam (decoction)
 
 **Standard Dosage:** 1-3g seed powder twice daily; 10-20ml [Arka](/herb/arka/) twice daily; 500mg extract capsule; 1-2 drops essential oil in warm water (internal, short-term)
 
-**Bioavailability:** High bioavailability of thymol (the primary active compound, 35-50% of essential oil). Thymol is rapidly absorbed from the GI tract with peak plasma levels in 1-2 hours. Self-emulsifying property of the volatile oil enhances absorption. The herb itself acts as a bioenhancer for co-administered compounds.
-
 **Optimal Timing:** After meals with warm water for digestive support; before meals with black salt for appetite stimulation
-
-**Standardized Extract:** Essential oil standardized to minimum 40% thymol, 15% p-cymene, 10% gamma-terpinene. Seed extract (10:1) standardized to minimum 5% thymol.
-
-**Shelf Life:** 3 years (whole seeds); 1 year (powder); 2 years (capsules); 3 years (Arka in glass); 4 years (essential oil, properly stored)
 
 **Storage:** Whole seeds in airtight containers at ambient temperature. Essential oil in amber glass, tightly sealed, at 15-25°C. Powder in nitrogen-flushed sealed packs. Keep away from direct sunlight.
 
 **Marker Compounds:** Thymol, p-Cymene, Gamma-terpinene, Carvacrol, Beta-pinene, [Limonene](/glossary/compounds-g-l/#limonene), Terpinen-4-ol
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 2-5%)
-- Hydrodistillation (Clevenger apparatus)
-- Supercritical CO2 extraction
-- Hydroalcoholic extraction (70:30) for non-volatile constituents
-- Arka preparation (traditional distillation)
 
 ### Synergistic Combinations
 

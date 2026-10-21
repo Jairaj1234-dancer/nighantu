@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tamalaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; 10-20 mL fresh juice once daily
 
-**Bioavailability:** Phyllanthin and hypophyllanthin show moderate oral bioavailability (~25-35%) due to moderate lipophilicity and significant hepatic first-pass metabolism via CYP3A4. Bioavailability improves with [piperine](/reference/piperine/) co-administration (up to 1.5-fold increase). Lignans are well absorbed from GI tract but undergo extensive glucuronidation. [Tannins](/reference/tannins/) may bind to [proteins](/glossary/compounds-o-q/#proteins) reducing availability of co-administered compounds.
-
 **Optimal Timing:** Before meals on empty stomach for hepatoprotective effect; morning administration preferred for diuretic action
-
-**Standardized Extract:** Standardized aqueous or hydroethanolic extract containing minimum 2.0% phyllanthin and 1.0% hypophyllanthin by HPLC; total tannins >8% (as gallic acid equivalent)
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12 months; Dry extract capsules: 24-36 months; Syrup: 18 months
 
 **Storage:** Store in airtight containers at 15-25 deg C, protected from light and moisture. Fresh juice must be refrigerated at 2-8 deg C and used within 48 hours.
 
 **Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, Corilagin, [Quercetin](/reference/quercetinquercetin/)
-
-### Extraction Methods
-
-- Hydroethanolic extraction (50-70% ethanol)
-- Aqueous decoction
-- Maceration in methanol for lignan enrichment
-- Supercritical CO2 extraction for phyllanthin-rich fraction
-- Spray drying of aqueous extract for instant formulations
 
 ### Synergistic Combinations
 

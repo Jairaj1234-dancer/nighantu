@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Dhatupaushtik-Chu
 
 **Standard Dosage:** 3-6 g twice daily with warm milk.
 
-**Bioavailability:** Administration with warm milk (lipid + protein vehicle) is thought to aid absorption of steroidal [saponins](/reference/saponins/) and [withanolides](/glossary/compounds-t-z/#withanolides) (not established for this formulation).
-
 **Optimal Timing:** Before bedtime with warm milk, or morning on empty stomach for [Rasayana](/reference/rasayana/) effect
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C. Protect from moisture.
 
 **Marker Compounds:** Withanolide A, Withaferin A, Shatavarin IV, L-DOPA (from Mucuna, within safe limits), Saponins (from Musali), [Protodioscin](/glossary/compounds-o-q/#protodioscin) (from [Gokshura](/herb/gokshura/))
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), withanolides from [Ashwagandha](/herb/ashwagandha/) by HPLC, saponin content from Musali, total [alkaloids](/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint, microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk with ghee and sugar/honey
 

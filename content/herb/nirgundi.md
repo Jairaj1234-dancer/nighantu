@@ -71,26 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g leaf powder twice daily; 500-750 mg standardized extract twice daily; 10-20 mL decoction twice daily; [Nirgundi Taila](/glossary/concepts-m-y/#nirgundi-taila) for external massage
 
-**Bioavailability:** Casticin and agnuside show moderate oral bioavailability (25-40%). Flavonoids benefit from lipid-based formulations. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) ([sabinene](/glossary/compounds-q-t/#sabinene), beta-caryophyllene) are well absorbed but rapidly metabolized. Topical application of Nirgundi oil provides effective local delivery of anti-inflammatory actives with minimal systemic absorption. [Piperine](/reference/piperine/) co-administration increases casticin bioavailability by ~30%.
-
 **Optimal Timing:** Oral: after meals for systemic anti-inflammatory effect. Topical oil: warm oil massage before bath or at bedtime for joint/muscle pain. Poultice: apply warm to affected area for 20-30 minutes.
-
-**Standardized Extract:** Nirgundi leaf extract (8:1) standardized to casticin >1.5% and agnuside >0.8%. Essential oil with sabinene >15%, beta-caryophyllene >10%. Nirgundi Taila prepared per API standards with validated organoleptic and physicochemical parameters.
-
-**Shelf Life:** Dried leaf powder: 18-24 months; Standardized extract: 24-36 months; Essential oil: 18-24 months; Nirgundi Taila: 24-36 months; Tablets: 24-36 months
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <60%. Essential oil: amber glass, 15-25 deg C, tightly sealed. Taila: amber glass or HDPE, room temperature, protect from light and moisture.
 
 **Marker Compounds:** Casticin, Agnuside, Vitexin, Isovitexin, Sabinene, Beta-caryophyllene, Alpha-pinene, 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Luteolin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Steam distillation for essential oil
-- Traditional oil preparation (Taila Paka Vidhi)
-- Aqueous decoction
-- Supercritical CO2 extraction for volatile-rich fractions
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) base
 
 ### Synergistic Combinations
 

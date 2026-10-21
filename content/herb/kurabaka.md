@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kurabaka/meta-analysis.md"
 
 **Standard Dosage:** 2-4 g powder twice daily; 40-80 mL decoction; external oil and paste application as needed
 
-**Bioavailability:** Essential oil [terpenoids](/glossary/compounds-t-z/#terpenoids) from flowers are readily absorbed via oral and transdermal routes. [Flavonoids](/reference/flavonoids/) show moderate oral bioavailability. Bark [tannins](/reference/tannins/) exert primarily local GI action with limited systemic absorption. Lipid-based formulations (Taila) enhance transdermal penetration of bioactives for topical applications.
-
 **Optimal Timing:** After meals for internal use; external applications morning and evening; flower preparations for aromatic therapy anytime
-
-**Standardized Extract:** Bark extract standardized to minimum 5% total tannins and 2% total flavonoids; flower oil minimum 0.3% yield with characterized terpenoid profile
-
-**Shelf Life:** 24 months for bark powder; 18 months for flower preparations; 36 months for oil; 24 months for capsules
 
 **Storage:** Store powder in airtight containers at 15-30°C. Essential oil in amber glass. Flower-based preparations protect from light and moisture.
 
 **Marker Compounds:** Barlerin, Shanzhiside, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Iridoid [glycosides](/glossary/compounds-g-l/#glycosides), Essential oil terpenoids, Flavonoid glycosides
-
-### Extraction Methods
-
-- Steam distillation for essential oil from flowers
-- Hydroalcoholic extraction (60% ethanol) of bark
-- Water decoction (traditional)
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for Taila
-- Hydrodistillation of flowers
 
 ### Synergistic Combinations
 

@@ -49,7 +49,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 - Aluminum oxide (Al2O3) is the primary component - while generally considered inert and safe at low doses, chronic aluminum exposure has been controversially linked to neurodegenerative conditions
 - Preclinical toxicity study showed safety of traditionally prepared formulation in rats, but long-term human safety data is lacking
 - The nanoparticle size (70nm) raises questions about tissue penetration and accumulation that are relevant to modern nanotoxicology frameworks
-- Must be taken strictly under medical supervision; recommended dose 125-250 mg once or twice daily; exceeding recommended doses not advised
+- Must be taken strictly under medical supervision at the dose given under Dosage; exceeding recommended doses not advised
 
 ## What is it made of?
 
@@ -60,26 +60,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Manikya-Pishti/meta-
 - **Chromium (Cr):** Trace (gives red color)
 - **Iron (Fe):** Trace
 
-**Analytical Methods:** XRD, SEM-EDS, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Pishti
 
 **Standard Dosage:** 15–30 mg (precious stone, precise dosing)
 
-**Bioavailability:** Good; ruby aluminum oxide in ultra-fine form
-
 **Optimal Timing:** With honey or cream of milk
-
-**Standardized Extract:** Ruby pishti, cold-processed precious stone preparation
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Aluminium oxide (corundum), Chromium (gives red color), Trace elements
-
-**Quality Parameters:** Standard pishti tests, gemstone authentication, particle size
 
 **Vehicle (Anupana):** Honey, Malai, or as part of Ratna (gem) formulations

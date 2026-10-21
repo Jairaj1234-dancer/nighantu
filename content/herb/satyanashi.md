@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Satyanashi/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root/whole plant powder per day; 5-10 mL seed oil externally; 50-100 mL kwatha twice daily. Use cautiously, latex is toxic in large doses.
 
-**Bioavailability:** Isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) ([sanguinarine](/glossary/compounds-q-t/#sanguinarine), [berberine](/glossary/compounds-a-c/#berberine)) show moderate oral bioavailability (25-40%). Sanguinarine undergoes extensive hepatic metabolism. Seed oil fatty acids (linoleic, oleic) have high bioavailability (>70%). Argemone oil must be distinguished from mustard oil, adulteration causes epidemic dropsy.
-
 **Optimal Timing:** External applications: twice daily on affected areas. Internal use (where permitted): after meals under medical supervision
-
-**Standardized Extract:** Root extract (8:1 in 70% ethanol), standardized to NLT 0.5% total isoquinoline alkaloids (as sanguinarine equivalents by HPLC); seed oil cold-pressed, standardized to fatty acid profile by GC
-
-**Shelf Life:** 18 months for seed oil; 24 months for churna; 30 months for external formulation products
 
 **Storage:** Store below 25 deg C. Seed oil in amber glass bottles, nitrogen-flushed. Keep away from food products to prevent accidental contamination. Clearly label as NOT FOR INTERNAL USE (for oil preparations).
 
 **Marker Compounds:** Sanguinarine, Dihydrosanguinarine, [Berberine](/glossary/compounds-a-c/#berberine), [Protopine](/glossary/compounds-o-q/#protopine), Argemone oil (fatty acid profile: linoleic acid >55%)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol) for alkaloids
-- Cold pressing for seed oil
-- Acid-water extraction for alkaloid enrichment
-- Aqueous decoction of roots
-- Soxhlet with chloroform-methanol for total alkaloid extract
 
 ### Synergistic Combinations
 

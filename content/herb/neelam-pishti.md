@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 - Very limited safety data: No peer-reviewed safety studies specific to [Neelam Pishti](/herb/neelam-pishti/) exist in published literature
 - Primary component is aluminum oxide (Al2O3) - same concerns as [Manikya Pishti](/herb/manikya-pishti/) regarding chronic aluminum exposure and potential neurotoxicity at high doses
 - Cobalt trace content requires monitoring if used long-term as excessive cobalt exposure can cause cardiomyopathy (cobalt toxicity)
-- Extremely small recommended dose (62.5-125 mg) reflects the traditional recognition of potency; must be taken under strict medical supervision
+- Extremely small recommended dose reflects the traditional recognition of potency; must be taken under strict medical supervision
 
 ## What is it made of?
 
@@ -58,26 +58,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Pishti
 
 **Standard Dosage:** 15–30 mg
 
-**Bioavailability:** Moderate; sapphire corundum in ultra-fine form
-
 **Optimal Timing:** With honey or specified vehicle
-
-**Standardized Extract:** Blue sapphire pishti, premium gemstone preparation
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Aluminium oxide (corundum), Iron/titanium (blue color), Trace elements
-
-**Quality Parameters:** Gemstone authentication, standard pishti tests
 
 **Vehicle (Anupana):** Honey or as part of Ratna formulations

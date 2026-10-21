@@ -62,25 +62,17 @@ Ashtanga Hridayam (Vatarakta Chikitsa chapter). The 101 Avarti (101 times proces
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external/internal use), Capsules (modern), Nasal drops (for Nasya)
 
 **Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India, Part I, entry 8:11 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
 
-**Bioavailability:** Oil-milk processing creates unique liposomal-like phospholipid complexes enhancing dermal and mucosal absorption. Internal use provides systemic distribution via lipid absorption pathway.
-
 **Optimal Timing:** External: morning Abhyanga. Internal: before meals or bedtime. Nasya: morning on empty stomach.
-
-**Shelf Life:** 3 years from date of manufacture. Multi-avartana versions may have longer practical shelf life.
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light. Nasya variant requires enhanced microbial standards.
 
 **Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Phospholipid complexes (from milk processing)
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, refractive index, specific gravity, viscosity (increases with avartana number), HPTLC fingerprint (band intensity increases with avartana), ephedrine equivalents, total alkaloids, microbial limits (strict for Nasya variant), heavy metals
 
 **Vehicle (Anupana):** External: warm oil. Internal: warm milk. Nasya: lukewarm oil.
 

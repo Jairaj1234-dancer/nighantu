@@ -67,26 +67,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg
 
-**Bioavailability:** Good; cowrie shell calcium carbonate in natural matrix
-
 **Optimal Timing:** With honey or warm water; before meals for Amlapitta
-
-**Standardized Extract:** Calcined cowrie shell bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Calcium carbonate (90%+), Conchiolin, Trace [strontium](/glossary/compounds-q-t/#strontium)
-
-**Quality Parameters:** Calcium >35%, standard bhasma tests
 
 **Vehicle (Anupana):** Honey, warm water

@@ -64,25 +64,17 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
 
 **Standard Dosage:** 1 g, as given in the Ayurvedic Formulary of India, Part I, entry 12:26. 1-2 tablets to dissolve in mouth. The page's tablet count and this weight relate only through the mass of a tablet, which the formulary does not state. The formulary's anupana: warm water. The formulary attributes this formula to Vaidyajivanam, kasasvasacikitsa, 7.
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
-
 **Optimal Timing:** Before or after meals as indicated
-
-**Shelf Life:** 2 years per ASU guidelines for vati
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Eugenol, [Cineole](/glossary/compounds-c-d/#cineole)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Eugenol, Cineole
 
 **Vehicle (Anupana):** Warm water or as specified
 

@@ -71,24 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 **Standard Dosage:** 1-3g fruit powder (use with caution due to purgative action); 250-500mg extract; external oil as directed
 
-**Bioavailability:** Citrullus colocynthis contains cucurbitacins (potent cytotoxic [triterpenoids](/glossary/compounds-t-z/#triterpenoids)) with good oral absorption due to lipophilicity. Colocynthin glycoside is hydrolyzed in GI tract to active aglycone. Narrow therapeutic index; precise dosing is critical. Bioavailability enhancement is not typically sought given potency and toxicity concerns.
-
 **Optimal Timing:** Under physician supervision only; typically at bedtime for purgative action; externally as needed for joint pain
-
-**Standardized Extract:** Shodhita (purified) aqueous extract; cucurbitacin B/E standardized extract for research purposes only (not for general supplementation)
-
-**Shelf Life:** 2 years (Shodhita powder); 3 years (purified extract capsule)
 
 **Storage:** Cool, dry place below 25°C. Keep away from children. Clearly labeled as toxic substance requiring professional guidance.
 
 **Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Colocynthin, Colocynthetin, Citrullol
-
-### Extraction Methods
-
-- Aqueous decoction (traditional, milder)
-- Hydroalcoholic extraction (50:50) for cucurbitacin-enriched fraction
-- Petroleum ether extraction for lipophilic compounds
-- Shodhana (detoxification) processing mandatory before internal use
 
 ### Synergistic Combinations
 

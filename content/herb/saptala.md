@@ -79,31 +79,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 - Flavonoid 
 - Latex compounds 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule
 
 **Standard Dosage:** 1-3 g churna per day; 30-50 mL kwatha twice daily. Start at low dose and titrate upward due to purgative activity.
 
-**Bioavailability:** Not established.
-
 **Optimal Timing:** Early morning on empty stomach for purgative action; take with warm water
-
-**Standardized Extract:** Not established.
-
-**Shelf Life:** 24 months for churna; 30 months for standardized extract capsules
 
 **Storage:** Store below 25 deg C in airtight containers, protected from moisture and light. RH <55%.
 
 **Marker Compounds:** Not established.
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50% ethanol)
-- Percolation with graded ethanol concentrations
 
 ### Synergistic Combinations
 

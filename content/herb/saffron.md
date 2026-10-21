@@ -103,8 +103,6 @@ DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an acc
 **Journal:** Nutrients (2022)
 **PMID:** 35276955
 
-> Saffron (...
-
 **Keywords:** age-related diseases, crocetin, crocins, crocus sativus, neuropsychiatric diseases, nutrients, picrocrocin, saffron, safranal
 
 #### 3. Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action.
@@ -214,33 +212,17 @@ Stigma: 20-30mg/day (do not exceed 1.5g/day, the reported upper safety limit); W
 - Safranal
 - Picrocrocin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tincture, Capsule, Kesar milk (traditional preparation), Soft gelatin capsule, Sublingual tablet, Ophthalmic solution
 
 **Standard Dosage:** 20-100 mg standardized extract per day (typical clinical dose 30 mg/day for mood support); 50-200 mg dried stigma in traditional use; do not exceed 1.5 g/day
 
-**Bioavailability:** Crocin (water-soluble carotenoid glycoside) has moderate oral bioavailability (15-25%); hydrolyzed to crocetin in the GI tract, which is the primary absorbed form with 50-65% bioavailability. Safranal is volatile and rapidly absorbed. Bioavailability improved with phospholipid complexation (Phytosome technology) and nanoemulsion formulations. Sublingual delivery bypasses first-pass metabolism for safranal.
-
 **Optimal Timing:** Morning dose for mood and cognitive benefits; with warm milk at bedtime per traditional use (Kesar-Doodh)
-
-**Standardized Extract:** Standardized stigma extract (affron or equivalent), NLT 3.5% Lepticrosalides (crocins + safranal combined); or standardized to NLT 2% crocin and NLT 0.3% safranal by HPLC-DAD
-
-**Shelf Life:** 24 months for standardized extract capsules in aluminum blisters; 12-18 months for raw stigma (whole); 36 months for properly sealed nitrogen-flushed capsules
 
 **Storage:** Store at 15-25 deg C in airtight, light-protected containers (amber glass or aluminum blisters). Nitrogen atmosphere recommended. RH <40%. Whole stigmas in sealed tins away from light, heat, and moisture.
 
 **Marker Compounds:** Crocin-1 (trans-crocin-4), Crocin-2, Crocetin, Safranal, Picrocrocin, [Kaempferol](/reference/kaempferol/)
-
-### Extraction Methods
-
-- Aqueous extraction (cold maceration for crocin preservation)
-- Hydroalcoholic extraction (40-50% ethanol)
-- Supercritical CO2 for safranal-enriched fractions
-- UAE (ultrasound-assisted extraction) for improved yield
-- Enzyme-assisted extraction for enhanced crocin recovery
 
 ### Synergistic Combinations
 

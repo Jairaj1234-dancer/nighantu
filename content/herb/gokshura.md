@@ -56,25 +56,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Gokshura/meta-analysis
 
 **Standard Dosage:** 3-6g fruit powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule/tablet twice daily; [Gokshuradi Guggulu](/formulation/gokshuradi-guggulu/): 2-4 tablets twice daily
 
-**Bioavailability:** Tribulus terrestris fruit contains steroidal saponins (protodioscin, protogracillin - collectively 'Tribulus saponins'), [flavonoids](/reference/flavonoids/), and [alkaloids](/glossary/compounds-1-a/#alkaloids) (harmine, harmaline). Protodioscin has moderate oral bioavailability (15-30%) with conversion to [diosgenin](/glossary/compounds-d-g/#diosgenin) by gut microbiota. Furostanol saponins are converted to spirostanol forms in the GI tract. The fruit spines contain concentrated saponins. Alkaloid fraction (harmine group) has good oral bioavailability but is present in small quantities. Enhancement: saponin-phospholipid complex (phytosome); co-administration with [Trikatu](/herb/trikatu/); SNEDDS for saponin-rich fraction.
-
 **Optimal Timing:** Before meals with warm water for urinary conditions; with milk at bedtime for reproductive health and [Rasayana](/reference/rasayana/) effect
-
-**Standardized Extract:** Standardized extract NLT 40% total saponins (as protodioscin) by HPLC for concentrated capsules; NLT 20% for standard-strength tablets. Furostanol:spirostanol ratio characterization. Extract ratio 10:1 to 20:1. Kwath Ghana: 8:1 ratio.
-
-**Shelf Life:** 2 years (fruit powder); 3 years (standardized extract capsule/tablet); 3 years (Ghana Vati)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Saponins are relatively stable under normal storage conditions. Protect extract from excessive humidity which can cause caking.
 
 **Marker Compounds:** Protodioscin, Protogracillin, Diosgenin (aglycone), Tribulosaponin A/B, [Kaempferol](/reference/kaempferol/), [Quercetin](/reference/quercetinquercetin/), Harmine (trace), Tribulusamide A/B
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashayam)
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Ethanol extraction for saponin-rich fraction
-- Spray-dried aqueous extract for Ghana Vati
-- Supercritical CO2 for selective saponin extraction
 
 ### Synergistic Combinations
 

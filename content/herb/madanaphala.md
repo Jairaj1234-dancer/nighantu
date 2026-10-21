@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Madanaphala/meta-analysis.md"
 - Tartaric acid
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), [Pippali](/herb/pippali/)-Madanaphala yoga (combination), Capsules, Tablets (for sub-emetic doses), Lepa (topical)
 
 **Standard Dosage:** Emetic dose: 3-6 g powder with honey and rock salt for Vamana therapy. Sub-emetic dose: 500 mg-1 g for [expectorant](/reference/expectorant/) effect. External use as paste.
 
-**Bioavailability:** Saponins are moderately absorbed orally; emetic effect is primarily local on gastric mucosa via vagal stimulation. Randiasaponins show limited systemic bioavailability which is therapeutically appropriate as primary action is emetic/expectorant. Hepatic metabolism is rapid for absorbed fractions.
-
 **Optimal Timing:** Early morning on empty stomach for Vamana procedure; before meals for expectorant effect; specific timing as per Panchakarma protocol
-
-**Standardized Extract:** Shodhita (purified) fruit powder standardized to 4-6% total saponins (as randiasaponin equivalents). Sub-emetic extract (2:1 aqueous) with controlled saponin content of 2-3% for expectorant formulations.
-
-**Shelf Life:** 24 months for Shodhita powder; 30 months for tablets/capsules; 18 months for decoction concentrate
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from moisture as saponins are hygroscopic. Keep in restricted access storage due to emetic potency. Label clearly with 'For Practitioner Use Only' for Vamana preparations.
 
 **Marker Compounds:** Randiasaponin I-IV, Randianin, Ursolic acid, Oleanolic acid, Saponin glycosides, [Mannitol](/glossary/compounds-l-o/#mannitolmannitol)
-
-### Extraction Methods
-
-- Aqueous extraction (for emetic preparations)
-- Hydroalcoholic extraction (50% ethanol)
-- Saponin-enriched extraction using butanol partitioning
-- Traditional processing with [Phanita](/glossary/concepts-m-y/#phanita) (sugar syrup) for Shodhana
 
 ### Synergistic Combinations
 

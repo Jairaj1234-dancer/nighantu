@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Medasaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 500 mg extract capsules twice daily
 
-**Bioavailability:** Similar profile to [Meda](/herb/meda/). Saponin [glycosides](/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis. Sapogenins show improved absorption with lipid vehicles. Mucilaginous fraction provides local GI effects without systemic absorption. Overall moderate bioavailability for steroidal components.
-
 **Optimal Timing:** With meals for nutritive effects; morning with warm milk for [Rasayana](/reference/rasayana/) action; Ghrita preparation with meals
-
-**Standardized Extract:** [Mucilage](/glossary/compounds-l-o/#mucilage) fraction isolated for GI-targeted preparations.
-
-**Shelf Life:** Dried powder: 18 months. Extract capsules: 24 months. Ghrita: 24 months. Taila: 36 months.
 
 **Storage:** Same requirements as Meda. Store dried material below 25 deg C with desiccant protection. Ghrita and Taila at room temperature in glass or stainless steel containers. Protect from moisture and light.
 
 **Marker Compounds:** [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) (mucilage), Saponin glycosides
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Ghrita Paka method
-- Oil extraction for Taila
-- Sequential extraction for saponin fractionation
 
 ### Synergistic Combinations
 

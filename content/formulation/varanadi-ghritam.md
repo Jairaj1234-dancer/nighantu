@@ -81,25 +81,17 @@ Ashtanga Hridayam (Varunadi Gana by Vagbhata Acharya); Bhaishajya Ratnavali (Utt
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml before meals
 
-**Bioavailability:** Ghee is used as a lipid carrier for fat-soluble phytochemicals
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), Plumbagin
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Lupeol, Plumbagin
 
 **Vehicle (Anupana):** Warm water or warm milk
 

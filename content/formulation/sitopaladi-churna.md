@@ -65,25 +65,17 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 6. Also referenced in Chakradatta
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
 **Standard Dosage:** 1-3g with honey 3-4 times daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:34. The formulary's anupana: ghee, honey. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 134-135 4.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Multiple times daily for cough
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Piperine, [Cineole](/glossary/compounds-c-d/#cineole)
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Cineole
 
 **Vehicle (Anupana):** Honey
 

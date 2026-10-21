@@ -82,34 +82,19 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Ghrita/meta-analysis.md"
 - **Vitamin E:** 2.8mg/100g
 - **Vitamin K2:** Present
 
-**Analytical Methods:** GC-FID (fatty acid profile), HPLC (vitamins), Peroxide value, Acid value
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Plain ghee, Medicated ghee (Siddha Ghrita), Panchagavya component
 
 **Standard Dosage:** 5–10 mL orally; variable in Snehapana (oleation therapy, up to 200 mL)
 
-**Bioavailability:** Excellent lipid-based vehicle; enhances absorption of lipophilic compounds
-
 **Optimal Timing:** Before meals for Snehana; with meals for nutritive purposes
-
-**Standardized Extract:** N/A, used as base/vehicle for medicated ghees
-
-**Shelf Life:** 12–24 months if properly prepared (moisture <0.5%)
 
 **Storage:** Room temperature in airtight container; avoid moisture ingress
 
 **Marker Compounds:** Butyric acid, Conjugated linoleic acid, Fat-soluble vitamins A/D/E/K, Short-chain fatty acids
 
-**Quality Parameters:** Moisture <0.5%, FFA <1%, peroxide value <5 meq/kg, no rancidity
-
 **Vehicle (Anupana):** Premier lipophilic vehicle (Sneha) in Ayurveda; used for >100 medicated ghee preparations
-
-### Extraction Methods
-
-- Traditional: slow heating of butter (Navaneetam) until moisture evaporates and milk solids settle
-- Modern: centrifugal clarification at 110–120°C
 
 ### Stability Notes
 

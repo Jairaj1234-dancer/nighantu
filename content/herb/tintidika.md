@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.
 
 **Standard Dosage:** 3-6 g pulp powder with meals; 50-100 mL decoction twice daily; 10-20 g avaleha once daily
 
-**Bioavailability:** Tartaric acid (primary organic acid, 8-18%) is rapidly and nearly completely absorbed from the GI tract. [Polyphenols](/glossary/compounds-o-q/#polyphenols) including [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) and [flavonoids](/reference/flavonoids/) have moderate bioavailability (15-25%). High organic acid content may support iron absorption from co-administered iron supplements or iron-rich foods. Polysaccharide gums from seed kernel are not absorbed but function as dietary fiber and potential prebiotics.
-
 **Optimal Timing:** With or after meals; commonly used as a culinary-medicinal ingredient; before meals for appetizer action
-
-**Standardized Extract:** Pulp extract standardized to >10% tartaric acid by titration; >3% total polyphenols (as gallic acid equivalent); seed extract standardized to >60% xyloglucan polysaccharide
-
-**Shelf Life:** Pulp paste: 12 months with preservative; Spray-dried powder: 24 months; Syrup: 18 months; Seed kernel powder: 24 months
 
 **Storage:** Pulp products in airtight containers at 15-25 deg C; highly hygroscopic - moisture-barrier packaging essential. Seed powder in cool, dry conditions. Protect from insects (particularly weevils) with appropriate pest control.
 
 **Marker Compounds:** Tartaric acid, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Proanthocyanidin B2, [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Vitexin](/glossary/compounds-t-z/#vitexin), [Orientin](/glossary/compounds-o-q/#orientin), Xyloglucan
-
-### Extraction Methods
-
-- Hot water extraction for pulp decoction
-- Hydroethanolic extraction (40-60% ethanol)
-- Cold maceration in water for mucilaginous seed extract
-- Spray drying of aqueous extract
-- Acid hydrolysis for free phenolic enrichment
 
 ### Synergistic Combinations
 

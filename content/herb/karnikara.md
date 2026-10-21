@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karnikara/meta-analysis.
 
 **Standard Dosage:** 2-4 g powder twice daily; 50-80 mL decoction twice daily; external oil application as needed
 
-**Bioavailability:** Iridoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability with significant hepatic first-pass metabolism. Flavonoid constituents benefit from lipid co-administration. Self-microemulsifying formulations enhance bioavailability of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids). Decoction form provides pre-hydrolyzed glycosides with improved absorption.
-
 **Optimal Timing:** After meals with warm water; external application twice daily
-
-**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/reference/flavonoids/) (as [luteolin](/glossary/compounds-l-o/#luteolin) equivalents) and 1% iridoid glycosides
-
-**Shelf Life:** 24 months for powder; 18 months for capsules; 36 months for oil preparations
 
 **Storage:** Store in airtight, light-resistant containers at 15-30°C. Oil preparations in amber glass bottles. Protect from moisture.
 
 **Marker Compounds:** Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Friedelin](/glossary/compounds-d-g/#friedelin), Pterospermone, [Kaempferol](/reference/kaempferol/) glycosides
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Hydroalcoholic extraction (60% ethanol)
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for Taila
-- Soxhlet extraction with ethanol for standardized extract
 
 ### Synergistic Combinations
 

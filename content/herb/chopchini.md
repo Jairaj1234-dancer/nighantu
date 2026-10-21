@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chopchini/meta-analysis.md"
 - Polysaccharides
 - Kaempferol
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; traditionally used in prolonged courses (6-12 weeks) for chronic conditions
 
-**Bioavailability:** Smilax china, steroidal saponins ([sarsasapogenin](/glossary/compounds-q-t/#sarsasapogenin) glycosides) show moderate oral bioavailability (20-30%). Saponins undergo hydrolysis by gut microbiota to release aglycones which are better absorbed. Flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/)) show moderate absorption. Decoction provides better saponin extraction than powder. Prolonged administration (Prayoga Kala) is traditionally used in chronic conditions like Vatarakta (gout) and Upadamsha (syphilis).
-
 **Optimal Timing:** Before meals with warm water for anti-arthritic and blood-purifying effects; prolonged course of 6-12 weeks recommended for chronic conditions
-
-**Standardized Extract:** Tuber extract standardized to total saponins NLT 5%; sarsasapogenin NLT 0.5%; total flavonoids NLT 2%
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (decoction)
 
 **Storage:** Cool, dry place in airtight containers. Tuber powder is relatively stable. Protect from moisture to prevent [starch](/glossary/compounds-q-t/#starch)-related clumping.
 
 **Marker Compounds:** Sarsasapogenin, Smilacin, Smilagenin, [Diosgenin](/glossary/compounds-d-g/#diosgenin), Kaempferol, [Quercetin](/reference/quercetinquercetin/), [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) (trace), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Aqueous decoction (1:16 reduced to 1:4) for traditional Kashayam
-- Hydroalcoholic extraction (60:40) for saponin-rich extract
-- Ethanol extraction (70%) for flavonoid and saponin co-extraction
-- Maceration in cold water for 12-24 hours
 
 ### Synergistic Combinations
 

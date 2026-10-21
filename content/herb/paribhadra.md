@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Paribhadra/meta-analy
 
 **Standard Dosage:** 1-3 g bark powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Erythrina [alkaloids](/glossary/compounds-1-a/#alkaloids) (erysodine, erysovine) have moderate oral bioavailability (25-45%) with nicotinic receptor activity. [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) show moderate absorption (20-35%). Alkaloid absorption may be pH-dependent with enhanced uptake in alkaline intestinal environment. First-pass hepatic metabolism is significant; consider sustained-release formulations for maintaining therapeutic levels.
-
 **Optimal Timing:** After meals to reduce GI irritation from alkaloids.
-
-**Standardized Extract:** Paribhadra bark extract (8:1) standardized to total alkaloids 1-2% (as erysodine), total isoflavonoids >3%. Safety-tested for alkaloid content within therapeutic window.
-
-**Shelf Life:** Bark powder: 18-24 months; Standardized extract: 24 months; Tablets/Capsules: 24-36 months; Taila: 18-24 months
 
 **Storage:** Store in airtight containers, below 25 deg C, RH <55%, protected from light. Alkaloid-containing extracts require secure storage per schedule requirements. Keep out of reach of children.
 
 **Marker Compounds:** Erysodine, Erysovine, Erysopine, Erythraline, Erycristagallin, Isoflavonoids, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid
-
-### Extraction Methods
-
-- Aqueous decoction of bark
-- Hydroalcoholic extraction (60-70% ethanol)
-- Acid-base extraction for alkaloid isolation
-- Oil infusion for topical preparations
-- Methanol extraction for isoflavonoid fraction
 
 ### Synergistic Combinations
 

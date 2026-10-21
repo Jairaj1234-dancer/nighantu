@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Beeja/meta-analysis.md"
 
 **Standard Dosage:** 500-1000 mg [neem](/herb/neem/) seed oil in soft gel capsules daily; 1-2 g de-oiled seed cake powder daily; topical oil application diluted 2-5% in carrier oil
 
-**Bioavailability:** [Azadirachtin](/glossary/compounds-a-c/#azadirachtin) from seed has limited oral bioavailability (~10-20%) due to instability in gastric acid and poor membrane permeability. Self-emulsifying drug delivery systems (SEDDS) or nanoemulsions improve bioavailability 2-4 fold. [Neem](/herb/neem/) seed oil fatty acids (oleic, stearic, palmitic) are well absorbed and may enhance co-absorption of lipophilic actives. Topical bioavailability depends on oil concentration and skin integrity.
-
 **Optimal Timing:** Oral: after meals with food to improve lipid-based absorption. Topical: evening application preferred; avoid sun exposure on treated areas due to photosensitivity potential.
-
-**Standardized Extract:** Cold-pressed neem seed oil with minimum azadirachtin 1500 ppm, acid value <8 mg KOH/g, peroxide value <10 mEq/kg. De-oiled seed cake extract standardized to azadirachtin >0.3%.
-
-**Shelf Life:** Cold-pressed oil: 12-18 months; De-oiled cake powder: 12-18 months; Soft gel capsules: 18-24 months; Standardized extract: 24 months
 
 **Storage:** Oil: amber glass or HDPE containers, below 25 deg C, nitrogen headspace to prevent oxidation. Powder/extract: airtight containers, below 25 deg C, RH <50%. Avoid direct sunlight and heat sources.
 
 **Marker Compounds:** Azadirachtin A, Azadirachtin B, [Nimbin](/glossary/compounds-l-o/#nimbin), [Salannin](/glossary/compounds-q-t/#salannin), Oleic acid, [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid), Palmitic acid, [Gedunin](/glossary/compounds-d-g/#gedunin)
-
-### Extraction Methods
-
-- Cold-press mechanical extraction of seed oil (traditional Ghani method)
-- Solvent extraction with food-grade hexane (industrial scale)
-- Supercritical CO2 extraction for high-purity azadirachtin fractions
-- Aqueous kernel extraction for water-soluble bioactives
-- Enzymatic extraction for improved oil yield
 
 ### Synergistic Combinations
 

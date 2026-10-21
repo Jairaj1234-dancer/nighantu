@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Talamuli/meta-analysis
 
 **Standard Dosage:** 3-6 g tuber powder per day; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Steroidal [saponins](/reference/saponins/) and sapogenins show moderate oral bioavailability (20-35%), enhanced by milk or ghee co-administration. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) provide local GI effects (demulcent, prebiotic) rather than systemic absorption. [Diosgenin](/glossary/compounds-d-g/#diosgenin) derivatives are lipophilic and benefit from lipid-based formulations. Traditional [Ghrita](/herb/ghrita/) preparation enhances lipophilic constituent bioavailability by 2-3x.
-
 **Optimal Timing:** With warm milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) action; morning dose with ghee for [Rasayana](/reference/rasayana/) (rejuvenative) effects
-
-**Standardized Extract:** Rhizome extract (8:1 in 60% ethanol), standardized to NLT 2% curculigoside by HPLC; total saponins NLT 10% by gravimetric method; [mucilage](/glossary/compounds-l-o/#mucilage) content 15-25% for quality characterization
-
-**Shelf Life:** 12 months for swarasa (refrigerated with preservative); 24 months for churna; 36 months for standardized extract capsules; 12 months for Ghrita
 
 **Storage:** Swarasa: refrigerate 2-8 deg C. Churna: below 25 deg C in airtight containers with desiccant, hygroscopic. Capsules: standard storage below 25 deg C. Ghrita: glass jars at room temperature, protect from light.
 
 **Marker Compounds:** Curculigoside, Curculigoside B, Curculigosaponin C, Curculigine, Diosgenin, Yuccagenin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Fresh tuber juice extraction
-- Traditional Ghrita preparation (tuber paste cooked in ghee with decoction)
-- Spray-drying of aqueous extract for powder form
 
 ### Synergistic Combinations
 

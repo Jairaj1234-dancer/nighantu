@@ -81,33 +81,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 - P-cymene
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Essential oil, Jeerakadyarishta (fermented preparation), Kashayam (decoction), [Arka](/herb/arka/) (distillate)
 
 **Standard Dosage:** 3-6g powder daily (culinary use); 300-600mg extract twice daily; 15-30ml Arishta; 15-30ml [Arka](/herb/arka/)
 
-**Bioavailability:** Cuminum cyminum ([cumin](/herb/cumin/)) contains cuminaldehyde (4-isopropylbenzaldehyde) as primary volatile marker with rapid oral absorption (Tmax ~1 hour). Cuminaldehyde bioavailability ~50-60%. Flavonoids ([apigenin](/glossary/compounds-1-a/#apigenin), luteolin) have moderate bioavailability. [Cumin](/herb/cumin/) enhances bioavailability of co-administered drugs/herbs via CYP modulation and increased GI motility. Essential oil components readily absorbed via GI tract and inhalation.
-
 **Optimal Timing:** After meals for digestive support; Jeerakadyarishta after meals with equal water
-
-**Standardized Extract:** Essential oil standardized to minimum 40% cuminaldehyde; hydroalcoholic extract standardized to 1% cuminaldehyde and 2% total [polyphenols](/glossary/compounds-o-q/#polyphenols); CO2 extract for flavor applications
-
-**Shelf Life:** 2 years (whole seeds); 1 year (ground powder); 3 years (essential oil, sealed); 3 years (Arishta); 3 years (capsule/tablet)
 
 **Storage:** Cool, dry place below 25°C. Whole seeds far more stable than ground. Ground cumin in nitrogen-flushed or vacuum-packed containers. Essential oil in amber glass.
 
 **Marker Compounds:** Cuminaldehyde (4-isopropylbenzaldehyde), Cuminol, Gamma-terpinene, Beta-pinene, p-Cymene, [Apigenin](/glossary/compounds-1-a/#apigenin), Luteolin
-
-### Extraction Methods
-
-- Steam distillation (essential oil, 2-5% yield)
-- Supercritical CO2 extraction
-- Hydroalcoholic extraction (70:30) for phenolic-enriched extract
-- Aqueous decoction (traditional Jeeraka Kashayam)
-- Fermentation (Jeerakadyarishta - classical Ayurvedic preparation)
 
 ### Synergistic Combinations
 

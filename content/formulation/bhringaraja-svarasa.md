@@ -46,17 +46,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base.
 
-**Bioavailability:** Fresh svarasa provides highest bioavailability of [wedelolactone](/glossary/compounds-t-z/#wedelolactone) (coumestan) and eclalbatin.
-
 **Optimal Timing:** Morning on empty stomach for hepatoprotective effect; externally before bath for hair health
-
-**Shelf Life:** Same day (fresh juice), 6 months (preserved), 2 years (oil preparation), 3 years (capsules)
 
 **Storage:** Fresh juice: use immediately or refrigerate at 2-8°C for up to 24 hours. Preserved: amber glass at room temperature. Oil: amber bottles at room temperature.
 
 **Marker Compounds:** Wedelolactone, [Demethylwedelolactone](/glossary/compounds-c-d/#demethylwedelolactone), Eclalbatin, Ecliptasaponin A-D, Beta-amyrin, [Luteolin](/glossary/compounds-l-o/#luteolin)
-
-**Quality Parameters:** pH, total solids, wedelolactone content by HPLC (NLT 0.05%), eclalbatin content, total phenolics, microbial limits, heavy metals, pesticide residues, colour and clarity
 
 **Vehicle (Anupana):** Honey or warm water for internal use
 

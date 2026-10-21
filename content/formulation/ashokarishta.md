@@ -67,17 +67,11 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:5. The formulary attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 114-116.
 
-**Bioavailability:** Alcohol from fermentation enhances solubility and absorption of [catechins](/glossary/compounds-c-d/#catechins) and [tannins](/reference/tannins/) from [Ashoka](/herb/ashoka/). Fermentation generates oestrogenic isoflavone metabolites with improved bioavailability compared to simple decoction.
-
 **Optimal Timing:** After meals, twice daily, preferably after lunch and dinner
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Catechin, Epicatechin, Gallic acid, Ellagic acid, Procyanidin B2, [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/))
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, catechin content by HPLC, microbial limits, heavy metals, absence of methanol, organoleptic evaluation
 
 **Vehicle (Anupana):** Equal quantity of water
 

@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 
 **Standard Dosage:** 1-3 g powder per day; 2-5 drops essential oil in carrier oil for external application; 10-20 mL [arka](/herb/arka/) twice daily
 
-**Bioavailability:** Essential oil constituents ([geraniol](/glossary/compounds-d-g/#geraniol), [citral](/glossary/compounds-c-d/#citral)) show rapid transdermal absorption with peak plasma levels at 1-2 hours. Oral bioavailability of monoterpenoids is moderate (35-55%) due to first-pass metabolism. Lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) benefit from lipid-based delivery systems.
-
 **Optimal Timing:** Morning or afternoon administration; avoid evening doses as aromatic constituents may be mildly stimulating
-
-**Standardized Extract:** Steam-distilled essential oil standardized to NLT 75% geraniol content; hydroalcoholic extract (1:5 in 60% ethanol) for oral formulations
-
-**Shelf Life:** 18 months for essential oil in sealed amber glass; 24 months for churna in nitrogen-flushed packets; 36 months for capsules
 
 **Storage:** Essential oil: store at 15-25 deg C in amber glass, nitrogen-blanketed. Powder: airtight containers below 25 deg C, protect from light and moisture.
 
 **Marker Compounds:** Geraniol, Citral (geranial + neral), [Citronellol](/glossary/compounds-c-d/#citronellol), [Linalool](/glossary/compounds-l-o/#linalool), Geranyl acetate
-
-### Extraction Methods
-
-- Steam distillation (essential oil yield 0.3-0.8%)
-- Hydrodistillation
-- Solvent extraction with hexane for oleoresin
-- CO2 supercritical extraction for high-purity terpenoid fractions
 
 ### Synergistic Combinations
 

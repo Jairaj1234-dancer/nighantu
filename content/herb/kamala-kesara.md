@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala-Kesara/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g of powder twice daily; 5-10 mL decoction twice daily
 
-**Bioavailability:** Contains [flavonoids](/reference/flavonoids/) and [carotenoids](/glossary/compounds-a-c/#carotenoids) with moderate oral bioavailability. Enhancement strategies include co-administration with [Pippali](/herb/pippali/) ([piperine](/reference/piperine/) source) or formulation with lipid-based carriers (self-emulsifying systems) to improve absorption of lipophilic pigments like [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides).
-
 **Optimal Timing:** After meals for gastrointestinal comfort; morning and evening for reproductive health applications
-
-**Standardized Extract:** Standardized to minimum 2% total flavonoids (as kaempferol equivalents) and 0.5% total carotenoids by HPLC
-
-**Shelf Life:** 24 months for powder in airtight containers; 18 months for capsules; 36 months for oil preparations
 
 **Storage:** Store in airtight, light-resistant containers at 15-25°C. Relative humidity below 60%. Protect from direct sunlight to prevent degradation of carotenoid pigments.
 
 **Marker Compounds:** Kaempferol, [Quercetin](/reference/quercetinquercetin/), [Myricetin](/glossary/compounds-l-o/#myricetin) glycosides, Beta-carotene, [Nuciferine](/glossary/compounds-l-o/#nuciferine) (trace from associated tissues)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Supercritical CO2 extraction for carotenoid-rich fractions
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for Taila preparations
-- Sequential water-ethanol extraction
 
 ### Synergistic Combinations
 

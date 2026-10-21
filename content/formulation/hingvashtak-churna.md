@@ -43,7 +43,7 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 - Carminative action: Asafoetida (Hing) contains ferulic acid and volatile sulfur compounds that reduce intestinal gas formation and promote gas expulsion.
 - Digestive enzyme stimulation: [Trikatu](/herb/trikatu/) ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) stimulates secretion of digestive [enzymes](/glossary/compounds-d-g/#enzymes) including pepsin, lipase, and amylase.
 - [Antispasmodic](/glossary/pharmacology/#antispasmodic) effect: Volatile oils from [cumin](/herb/cumin/) and [ajwain](/herb/ajwain/) relax intestinal smooth muscle, reducing cramping and colic.
-- [Antimicrobial](/reference/antimicrobial/) action: Ferulic acid and [thymol](/glossary/compounds-t-z/#thymol) (from [ajwain](/herb/ajwain/)) have been reported to show laboratory activity against E. coli and S. aureus.
+- [Antimicrobial](/reference/antimicrobial/) action: Ferulic acid and [thymol](/glossary/compounds-t-z/#thymol) have been reported to show laboratory activity against E. coli and S. aureus.
 - Gastroprotective mucosal defense: [Ginger](/herb/ginger/) compounds protect gastric mucosa against NSAID-induced and ethanol-induced ulceration.
 
 ## Which traditional uses are supported by research?
@@ -71,17 +71,11 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 
 **Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
-**Bioavailability:** Classical instruction to take with first morsel ensures mixing with food for optimal digestive action.
-
 **Optimal Timing:** Immediately before meals or with first morsel of food (unique classical instruction)
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Strong aromatic, sealed packaging essential. Temperature not exceeding 30°C. Use desiccant (salt component is hygroscopic).
 
-**Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, [Thymol](/glossary/compounds-t-z/#thymol) (from [Ajmoda](/herb/ajmoda/))
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde content, ferulic acid from [Hingu](/herb/hingu/), volatile oil content (NLT 0.5%), HPTLC fingerprint, microbial limits, heavy metals
+**Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, [Thymol](/glossary/compounds-t-z/#thymol)
 
 **Vehicle (Anupana):** Ghee, per the Ayurvedic Formulary of India; also given with first morsel of food, or with warm water/buttermilk before meals
 

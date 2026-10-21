@@ -87,34 +87,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 - Oleanolic acid
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Essential oil, Tablets, Capsules, Toothache drops, Mouthwash, Lozenges, Taila (medicated oil), Topical gel
 
 **Standard Dosage:** 1-3 g clove powder per day; 1-5 drops essential oil (diluted) for topical dental use; 250-500 mg extract capsules twice daily
 
-**Bioavailability:** Eugenol has good oral bioavailability (~50%) with rapid absorption. Peak plasma levels reached in 20-30 minutes. Undergoes extensive hepatic glucuronidation and sulfation. Topical absorption through oral mucosa is rapid and effective. Eugenol acetate serves as a pro-drug with slower release profile.
-
 **Optimal Timing:** After meals for digestive support; as needed for dental pain relief; morning and evening for oral hygiene products
-
-**Standardized Extract:** Essential oil (BP/USP grade) with minimum 85% eugenol. Standardized bud extract (5:1) with minimum 15% eugenol. CO2 extract with full-spectrum aromatic profile. Aqueous extract standardized to 5% gallic acid equivalents.
-
-**Shelf Life:** 36 months for whole dried buds; 18 months for ground powder; 36 months for essential oil in sealed containers; 24 months for capsules and tablets
 
 **Storage:** Store whole cloves in airtight containers at room temperature. Essential oil in amber glass, tightly sealed, below 25 deg C. Ground powder rapidly loses potency - store in nitrogen-flushed, foil-lined sachets. Protect all forms from light and moisture.
 
 **Marker Compounds:** Eugenol, Eugenol acetate, Beta-caryophyllene, Alpha-humulene, Gallic acid, [Kaempferol](/reference/kaempferol/), Oleanolic acid, Vanillin
-
-### Extraction Methods
-
-- Steam distillation (primary for essential oil)
-- Hydrodistillation
-- Supercritical CO2 extraction
-- Hydroalcoholic extraction (70% ethanol)
-- Cold pressing of buds
-- Microwave-assisted extraction
 
 ### Synergistic Combinations
 

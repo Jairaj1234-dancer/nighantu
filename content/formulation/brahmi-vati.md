@@ -68,17 +68,11 @@ Rasaratna Samuchchaya (16th century); also described in Bhaishajya Ratnavali (Un
 
 **Standard Dosage:** 125-250 mg twice daily with milk or water, as given in the Ayurvedic Formulary of India, Part II, entry 16:45. The formulary attributes this formula to Siddhayogasangraha, Vatarogadhikara.
 
-**Bioavailability:** Tablet/vati form provides controlled oral delivery. Bhavana with Brahmi svarasa impregnates the powder matrix with additional bacosides. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances absorption. [Sarpagandha](/herb/sarpagandha/) [alkaloids](/glossary/compounds-1-a/#alkaloids) are well-absorbed orally.
-
 **Optimal Timing:** Morning and before bedtime, preferably with milk for Medhya (cognitive) effect
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Vati preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Bacoside A, [Reserpine](/glossary/compounds-q-t/#reserpine) (from [Sarpagandha](/herb/sarpagandha/)), [Ajmalicine](/glossary/compounds-1-a/#ajmalicine), Beta-asarone (from [Vacha](/herb/vacha/)), [Jatamansone](/glossary/compounds-g-l/#jatamansone) (from [Jatamansi](/herb/jatamansi/)), Piperine
-
-**Quality Parameters:** Weight variation (±5%), hardness (4-6 kg/cm²), friability (<1%), disintegration time (<30 min), moisture content (<6%), bacoside A content by HPLC, reserpine content from Sarpagandha (within therapeutic limits), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm milk, honey, or ghee
 

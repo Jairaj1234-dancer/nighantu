@@ -63,25 +63,17 @@ Sharangdhara Samhita Madhyamakhanda 2/8; Astanga Hridayam. Also described in Sah
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part II, entry 4:6 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 2; 8½.
 
-**Bioavailability:** Hot decoction provides rapid absorption of [Guduchi](/herb/guduchi/) [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) has moderate oral bioavailability (~5%) enhanced in hot aqueous medium. [Tinosporaside](/glossary/compounds-t-z/#tinosporaside) and [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are well-absorbed from decoction.
-
 **Optimal Timing:** Before meals, morning and evening, especially for Jwara (fever) and immunomodulation
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), Tinosporaside, [Columbin](/glossary/compounds-c-d/#columbin), [Palmatine](/glossary/compounds-o-q/#palmatine), [Magnoflorine](/glossary/compounds-l-o/#magnoflorine), [Arabinogalactan](/glossary/compounds-1-a/#arabinogalactan) (polysaccharide)
-
-**Quality Parameters:** pH, specific gravity, total solids, berberine content by HPLC, tinosporaside content, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (tablets); as is (liquid kashayam)
 

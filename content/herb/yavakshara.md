@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 ## Recent safety updates
 
-- Must be used in strictly controlled doses (125-500 mg); excessive intake can cause alkalosis, electrolyte imbalance, and mucosal erosion
+- Must be used in strictly controlled doses; excessive intake can cause alkalosis, electrolyte imbalance, and mucosal erosion
 - Contraindicated in patients with renal insufficiency (potassium accumulation risk) and alkalotic conditions
 - Long-term unsupervised use may lead to metabolic alkalosis, hypokalemia paradox, or sodium overload
 - Should be consumed with [Madhu](/herb/madhu/) (honey) or warm water as Anupana to reduce mucosal irritation
@@ -81,18 +81,10 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 **Standard Dosage:** 0.5–2 g with warm water or buttermilk
 
-**Bioavailability:** Good; alkaline potassium salts readily absorbed
-
 **Optimal Timing:** Before meals for Deepana; after meals for Pachana
-
-**Standardized Extract:** Barley ([Yava](/herb/yava/)) ash alkaline extract, premier Kshara in Ayurveda
-
-**Shelf Life:** 12–18 months
 
 **Storage:** Airtight, moisture-proof container (very hygroscopic)
 
 **Marker Compounds:** Potassium carbonate (primary), Potassium hydroxide, Trace barley minerals
-
-**Quality Parameters:** pH 10–12, potassium content as labeled, total alkalinity, no excess free alkali
 
 **Vehicle (Anupana):** Warm water, buttermilk, or honey

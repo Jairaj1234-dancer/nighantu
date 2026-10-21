@@ -74,24 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 **Standard Dosage:** 3-6g dried flower powder twice daily; 50-100ml decoction; 10-20ml fresh juice; as food preparation
 
-**Bioavailability:** Musa paradisiaca inflorescence (banana flower/blossom) contains [flavonoids](/reference/flavonoids/), phenolic acids, tannins, saponins, and minerals. [Quercetin](/reference/quercetinquercetin/) and [catechins](/glossary/compounds-c-d/#catechins) from flower show ~5-10% oral bioavailability. Iron and zinc are moderately bioavailable. Fiber content supports local GI action. Traditional cooking of flowers in buttermilk may modulate mineral absorption.
-
 **Optimal Timing:** With meals (traditional food preparation with buttermilk); supplement form before meals
-
-**Standardized Extract:** Freeze-dried flower powder (premium); hydroalcoholic extract standardized to 2% total flavonoids; aqueous extract per traditional method
-
-**Shelf Life:** 1 day (fresh flowers); 1.5 years (dried powder); 2 years (freeze-dried powder); 2 years (capsule)
 
 **Storage:** Fresh: refrigerate, use within 24 hours. Dried preparations: cool, dry place below 25°C in airtight containers. Protect from moisture and light.
 
 **Marker Compounds:** [Quercetin](/reference/quercetinquercetin/), Catechin, Gallic acid, Umbelliferone, Iron content (mineral assay), Saponins (hemolytic assay)
-
-### Extraction Methods
-
-- Fresh juice extraction (cold pressing)
-- Aqueous decoction
-- Hydroalcoholic extraction (50:50) for flavonoid-enriched extract
-- Drying at 40-50°C and powdering
 
 ### Synergistic Combinations
 

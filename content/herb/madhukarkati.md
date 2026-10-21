@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 
 **Standard Dosage:** 5-10 g dried fruit powder per day; 50-100 mL juice daily; fresh fruit as dietary supplement as tolerated
 
-**Bioavailability:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins) are lipophilic with moderate GI absorption improved by lipid co-administration. Tartaric and malic acids enhance mineral absorption. Fiber content may slow but prolong absorption of active compounds.
-
 **Optimal Timing:** Morning on empty stomach for detoxification; between meals for digestive support; seed powder with meals
-
-**Standardized Extract:** Freeze-dried fruit extract (20:1) standardized to minimum 1% cucurbitacins (B+E). Seed kernel extract (10:1) standardized to minimum 25% linoleic acid. Spray-dried juice powder with minimum 5% total organic acids.
-
-**Shelf Life:** Fresh fruit: 5-7 days at 5-8 deg C. Freeze-dried powder: 24 months. Spray-dried powder: 18 months. Capsules/tablets: 24 months. Seed powder: 18 months.
 
 **Storage:** Fresh fruit at 5-8 deg C. All dried preparations in airtight containers below 25 deg C. Seed powder under nitrogen to prevent oil rancidity. Protect spray-dried powder from moisture with [silica](/glossary/compounds-q-t/#silica) gel desiccant.
 
 **Marker Compounds:** Cucurbitacin B, Cucurbitacin E, Linoleic acid (in seed oil), Beta-carotene, Tartaric acid, Malic acid, [Adenosine](/glossary/compounds-1-a/#adenosine)
-
-### Extraction Methods
-
-- Cold pressing for juice
-- Aqueous decoction
-- Hydroalcoholic extraction (50% ethanol)
-- Freeze drying for maximum nutrient retention
-- Spray drying with maltodextrin carrier
-- Ethanol extraction for cucurbitacin enrichment
 
 ### Synergistic Combinations
 

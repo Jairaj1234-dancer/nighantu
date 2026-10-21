@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kankataka/meta-analysis.
 
 **Standard Dosage:** 2-4 g powder twice daily; 30-60 mL decoction twice daily
 
-**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) show moderate oral absorption. Traditional co-processing with [Trikatu](/herb/trikatu/) ([Pippali](/herb/pippali/), Maricha, Shunthi) enhances bioavailability of active alkaloids. Emulsification with [sesame oil](/glossary/concepts-m-y/#tila-taila) improves lipophilic constituent delivery.
-
 **Optimal Timing:** After meals with warm water; Lepa applied externally as traditionally described
-
-**Standardized Extract:** Standardized to minimum 1.5% total alkaloids and 3% total phenolics (as gallic acid equivalents)
-
-**Shelf Life:** 24 months for powder; 18 months for capsules; decoction to be consumed same day
 
 **Storage:** Store in airtight containers at ambient temperature (15-30°C). Protect from moisture and direct sunlight.
 
 **Marker Compounds:** Gallic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides), [Tannins](/reference/tannins/)
-
-### Extraction Methods
-
-- Water decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Cold maceration for thermolabile constituents
-- Soxhlet extraction with methanol for analytical purposes
 
 ### Synergistic Combinations
 

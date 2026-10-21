@@ -77,26 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhuka/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark/flower powder per day; 20-50 mL decoction twice daily; 5-10 mL Mahua oil externally; 500-1000 mg standardized extract daily
 
-**Bioavailability:** Saponins show moderate oral bioavailability (15-25%). Sapogenins (bassic acid) are better absorbed than glycosylated forms. Madhuca longifolia oil is rich in oleic and stearic acids with good transdermal penetration. Flower sugars enhance palatability and serve as energy source. Ethanol in Asava preparations enhances saponin absorption significantly.
-
 **Optimal Timing:** Before meals for gastric protective effects; morning for tonic and [Rasayana](/reference/rasayana/) effects; topical application at night for skin conditions
-
-**Standardized Extract:** Bark extract (10:1) standardized to minimum 8% total saponins (as bassic acid equivalents). Flower extract standardized to minimum 40% total sugars and 3% [flavonoids](/reference/flavonoids/). Mahua oil (cold-pressed) meeting IP standards for topical use.
-
-**Shelf Life:** 24 months for bark powder; 18 months for flower powder (hygroscopic); 24 months for capsules/tablets; 36 months for Mahua oil; 5+ years for Asava/Arishta
 
 **Storage:** Bark powder below 25 deg C in airtight containers. Flower powder is extremely hygroscopic - store with desiccant, RH below 40%. Mahua oil in cool, dark conditions. Asava at room temperature in glass containers.
 
 **Marker Compounds:** Mowrin (Mi-saponin), Bassic acid, Madhucic acid, [Quercetin](/reference/quercetinquercetin/), Dihydroquercetin, Beta-amyrin, Oleic acid, [Stearic acid](/glossary/compounds-q-t/#stearic-acidstearic-acid)
-
-### Extraction Methods
-
-- Aqueous extraction of flowers
-- Hydroalcoholic extraction (50-70% ethanol) of bark
-- Cold pressing of seeds for Mahua oil
-- Solvent extraction (hexane) for oil
-- Fermentation for Madhwasava
-- Saponin enrichment via n-butanol partitioning
 
 ### Synergistic Combinations
 

@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 - Phytosterols
 - Saponins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Yusha (medicated soup), Churna (powder), Kashayam (decoction), Capsule, Kvatha concentrate
 
 **Standard Dosage:** 20-40 g whole seeds for Yusha preparation; 5-10 g powder twice daily; 50-100 mL decoction; seed soup (200-300 mL) once daily
 
-**Bioavailability:** Polyphenols (gallic acid, [catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) show 20-35% oral bioavailability. Anti-nutritional factors (trypsin inhibitors, phytic acid) reduce protein and mineral bioavailability, traditional soaking and cooking methods (Yusha preparation) reduce these by 60-80%. [Isoflavones](/glossary/compounds-g-l/#isoflavones) have moderate absorption enhanced by gut microbiome metabolism to equol. Iron and calcium bioavailability improved with ascorbic acid co-administration.
-
 **Optimal Timing:** Yusha: at lunch (mid-day meal) for optimal digestion; decoction: traditionally taken in the morning on an empty stomach in Ashmari; powder: after meals
-
-**Standardized Extract:** Seed extract standardized to minimum 5% total polyphenols (as gallic acid equivalents) and 0.3% total isoflavones; protein content >22%
-
-**Shelf Life:** 24 months for whole dried seeds; 12 months for powder (nutrient oxidation); 24 months for capsules; Yusha consumed same day
 
 **Storage:** Whole seeds in airtight containers at 15-30°C, protected from moisture and insects. Powder in nitrogen-flushed packaging due to lipid oxidation. Cool, dry storage essential.
 
 **Marker Compounds:** Gallic acid, Catechin, Epicatechin, [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Phytic acid (to be minimized), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Traditional Yusha (soup): soaked seeds boiled with spices and reduced
-- Water decoction of whole/split seeds
-- Hydroalcoholic extraction (50% ethanol)
-- Germination/sprouting for enhanced nutrient profile
-- Roasting followed by grinding for Churna
 
 ### Synergistic Combinations
 

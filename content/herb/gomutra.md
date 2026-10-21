@@ -91,26 +91,16 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Gomutra/meta-analysis.md"
 - Urokinase
 - Catalase
 
-**Analytical Methods:** HPLC, ICP-OES, GC-MS, Biochemical assays
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh urine, Gomutra [Arka](/herb/arka/) (distillate), Gomutra [Haritaki](/herb/haritaki/)
 
 **Standard Dosage:** 10–30 mL of [Arka](/herb/arka/); 5–10 mL fresh (diluted)
 
-**Bioavailability:** Bioenhancer, reported to increase absorption of co-administered herbs
-
 **Optimal Timing:** Empty stomach, morning
-
-**Standardized Extract:** Gomutra Arka (distillate), standardized bioenhancer
-
-**Shelf Life:** Fresh: use within hours; Arka: 6–12 months
 
 **Storage:** Arka in amber glass bottles at room temperature
 
 **Marker Compounds:** Urea, Creatinine, Phenols, Hippuric acid, Allantoin
-
-**Quality Parameters:** Specific gravity 1.025–1.045, pH 7.5–8.5, no pathogenic organisms
 
 **Vehicle (Anupana):** Used as a vehicle (yogavahi) in classical formulations

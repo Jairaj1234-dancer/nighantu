@@ -78,7 +78,7 @@ Name means 'fire churner', stimulates digestive fire. One of ten roots in [Dasha
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Decoction: 50-100ml/day
+Root powder and decoction: see the Standard Dosage under Dosage forms and preparation.
 
 ## Safety, contraindications and cautions
 
@@ -96,24 +96,11 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate bioavailability. Key bioactives (flavonoids, [lignans](/glossary/compounds-g-l/#lignans), iridoid [glycosides](/glossary/compounds-g-l/#glycosides)) show reasonable oral absorption. Prematurrins and 5-hydroxymethylfurfural are well absorbed. Enhancement via [piperine](/reference/piperine/) co-administration increases bioavailability by 30-40%. Ghee as anupana facilitates lipophilic constituent absorption.
-
 **Optimal Timing:** Before meals with warm water for metabolic and digestive indications; with [Dashamoola](/herb/dashamoola/) kwatha for inflammatory conditions
-
-**Standardized Extract:** Standardized to minimum 2.5% total flavonoids. Root bark extract with minimum 1% prematurrins.
-
-**Shelf Life:** 2 years (powder); 3 years (tablets/capsules); 5 years (Asava-Arishta)
 
 **Storage:** Cool, dry place below 25°C, RH < 60%. Protect from light. Asava-Arishta in amber glass bottles at room temperature.
 
 **Marker Compounds:** Premnatriol, Prematurrins A-D, 5-Hydroxymethylfurfural, Iridoid glycosides, [Agnuside](/glossary/compounds-1-a/#agnuside), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (1:16, reduced to 1/4)
-- Hydroalcoholic extraction (70:30 ethanol-water)
-- Supercritical CO2 extraction for terpenoid enrichment
-- Sequential extraction (hexane → ethyl acetate → methanol → water)
 
 ### Synergistic Combinations
 

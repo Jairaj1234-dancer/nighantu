@@ -71,26 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 **Standard Dosage:** 2-5 g fresh bulb per day; 500-1500 mg standardized extract daily; 2-5 mL garlic oil; 300-600 mg aged garlic extract twice daily
 
-**Bioavailability:** Allicin has poor bioavailability due to rapid degradation in GI tract; converted to diallyl sulfides which are well absorbed. Enteric coating preserves alliinase activity and improves allicin release in small intestine. Aged garlic extract (S-allylcysteine) shows near-complete oral bioavailability (~98%). Oil-macerated preparations deliver diallyl sulfides with good absorption.
-
 **Optimal Timing:** With meals to reduce GI irritation; evening dosing may be preferred for cardiovascular effects due to nocturnal blood pressure dipping
-
-**Standardized Extract:** Enteric-coated powder standardized to minimum 1.3% alliin (yielding 0.6% allicin potential). Aged garlic extract standardized to 1.0-1.5 mg S-allylcysteine per dose. Garlic oil macerate standardized to 2-5 mg diallyl thiosulfinates per capsule.
-
-**Shelf Life:** 36 months for enteric-coated tablets; 24 months for softgels and aged garlic extract; 12 months for fresh juice/paste
 
 **Storage:** Store below 25 deg C in airtight containers. Protect from moisture. Enteric-coated products should be kept in blister packaging with desiccant. Garlic oil capsules require nitrogen flushing to prevent oxidation. Fresh preparations require refrigeration at 2-8 deg C.
 
 **Marker Compounds:** Alliin, Allicin, S-allylcysteine (SAC), Diallyl disulfide (DADS), Diallyl trisulfide (DATS), Ajoene, Allyl methyl sulfide
-
-### Extraction Methods
-
-- Steam distillation for volatile oil
-- Cold pressing/maceration in oil
-- Aqueous extraction for aged garlic
-- Freeze-drying to preserve alliinase
-- Hydroalcoholic extraction (40% ethanol)
-- Supercritical CO2 extraction
 
 ### Synergistic Combinations
 

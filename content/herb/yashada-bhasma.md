@@ -75,26 +75,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Yashada-Bhasma/meta-
 - **Iron (Fe):** Trace
 - **Copper (Cu):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; zinc oxide nanoparticles (therapeutic equivalent of modern zinc supplementation)
-
 **Optimal Timing:** With honey; after meals to reduce GI irritation
-
-**Standardized Extract:** Calcined zinc bhasma, primary zinc source in Ayurveda
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Zinc oxide (ZnO), Trace minerals
-
-**Quality Parameters:** Zinc content >65%, free zinc <1 ppm, standard bhasma tests, particle size <100 nm
 
 **Vehicle (Anupana):** Honey, [Guduchi](/herb/guduchi/) Swarasa, or [Nimba](/herb/nimba/) Swarasa for Prameha

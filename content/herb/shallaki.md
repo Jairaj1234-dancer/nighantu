@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 - Lupeolic acid
 - Tirucallic acids
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Capsule, Tablet, Cream/Gel (topical), Churna (powder), [Guggulu](/formulation/guggulu/)-based formulation, Vati (tablet), Soft gelatin capsule
 
 **Standard Dosage:** 400-1200 mg standardized extract per day (typically 300-400 mg three times daily); 3-6 g crude resin powder per day; topical gel 5-10% applied 2-3 times daily
 
-**Bioavailability:** Boswellic acids have poor oral bioavailability (5-10%) due to low aqueous solubility and extensive first-pass metabolism. AKBA (acetyl-11-keto-beta-boswellic acid) is the most potent but least bioavailable constituent. Bioavailability reportedly enhanced by: (1) phospholipid complexation (Phytosome/Bospure), (2) lecithin-based formulations, (3) co-administration with high-fat meal, (4) nano-emulsion formulations, (5) [piperine](/reference/piperine/) co-administration (1.5-2x enhancement). Casperome (lecithin-based delivery) achieves 52% higher plasma levels.
-
 **Optimal Timing:** With meals (high-fat meal preferred) for optimal boswellic acid absorption; three divided doses for sustained anti-inflammatory effect
-
-**Standardized Extract:** Standardized Boswellia serrata extract: NLT 65% total organic acids, NLT 30% total boswellic acids (sum of KBA + AKBA + alpha-BA + beta-BA), NLT 3% AKBA by HPLC. Premium extracts: ApresFlex (NLT 20% AKBA), Casperome (lecithin delivery), 5-Loxin (NLT 30% AKBA).
-
-**Shelf Life:** 36 months for standardized extract capsules; 24 months for topical gel; 24 months for crude resin powder
 
 **Storage:** Store below 25 deg C, protected from light and heat. Resin tends to soften above 30 deg C, critical for tropical storage. Capsules in HDPE bottles with desiccant or aluminum blisters. Topical products in aluminum tubes or airless pump dispensers.
 
 **Marker Compounds:** 11-Keto-beta-boswellic acid (KBA), Acetyl-11-keto-beta-boswellic acid (AKBA), Alpha-boswellic acid, Beta-boswellic acid, Acetyl-alpha-boswellic acid, Acetyl-beta-boswellic acid, Incensole acetate
-
-### Extraction Methods
-
-- Solvent extraction of oleo-gum resin (ethyl acetate or ethanol)
-- Supercritical CO2 extraction for AKBA enrichment
-- Sequential extraction (hexane for essential oil, then ethanol for boswellic acids)
-- Hydroalcoholic extraction (70-80% ethanol)
 
 ### Synergistic Combinations
 

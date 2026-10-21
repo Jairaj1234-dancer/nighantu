@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Lajjalu/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Bioavailability:** Moderate oral bioavailability; [tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) are absorbed in the upper GI tract. Mimosine undergoes partial hepatic first-pass metabolism. Co-administration with [piperine](/reference/piperine/) or lipid-based carriers can improve absorption of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides).
-
 **Optimal Timing:** Before meals for GI indications; with meals for systemic anti-inflammatory effects; topical application 2-3 times daily on affected area
-
-**Standardized Extract:** Standardized aqueous-ethanolic extract (10:1 concentration ratio), minimum 2% total flavonoids, 1.5% tannins (as gallic acid equivalents). Mimosine content controlled below 0.5% in oral formulations for safety.
-
-**Shelf Life:** 24 months for powder in airtight containers; 36 months for tablets/capsules; 18 months for liquid extracts
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Protect from moisture (relative humidity below 60%). Liquid extracts require refrigeration at 2-8 deg C after opening.
 
 **Marker Compounds:** Mimosine, Gallic acid, [Quercetin](/reference/quercetinquercetin/), [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Apigenin](/glossary/compounds-1-a/#apigenin), D-pinitol
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (50-70% ethanol)
-- Aqueous decoction
-- Cold maceration
-- Supercritical CO2 extraction for sensitive bioactives
-- Soxhlet extraction with methanol
 
 ### Synergistic Combinations
 

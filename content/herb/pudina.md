@@ -78,26 +78,11 @@ A review of the traditional uses, phytochemistry and pharmacology of spearmint. 
 
 **Standard Dosage:** 1-2 g dried herb as tea, 2-3 times daily; 0.2-0.4 mL peppermint oil in enteric-coated capsule 3 times daily; 5-10 mL fresh juice; 2-3 drops essential oil for inhalation
 
-**Bioavailability:** [Menthol](/herb/menthol/) has excellent oral bioavailability (>80%) with rapid absorption (Tmax 30-60 min). Undergoes hepatic glucuronidation and is excreted renally. Rosmarinic acid bioavailability is moderate (~25-35%). Enteric coating of peppermint oil capsules prevents premature release in stomach (which causes heartburn) and delivers oil to the small intestine and colon for IBS efficacy. Inhalation provides near-immediate systemic absorption of volatiles. Topical [menthol](/herb/menthol/) activates TRPM8 cold receptors providing [analgesic](/reference/analgesic/) and cooling sensation.
-
 **Optimal Timing:** Peppermint oil capsules: 30-60 minutes before meals for IBS. Tea/infusion: after meals for digestive comfort. Topical: as needed for headache, muscle pain. Inhalation: as needed for congestion.
-
-**Standardized Extract:** Peppermint essential oil (Mentha piperita) standardized to menthol 35-45%, [menthone](/glossary/compounds-l-o/#menthone) 15-25%. Mentha arvensis oil (dementholized) with menthol 70-80%. Hydroalcoholic leaf extract with rosmarinic acid >5%.
-
-**Shelf Life:** Fresh herb: 3-5 days refrigerated; Dried herb: 12-18 months; Essential oil: 24-36 months; Enteric-coated capsules: 24-36 months; Extract: 24 months
 
 **Storage:** Fresh herb: refrigerated 2-8 deg C in damp cloth. Dried herb: airtight, below 25 deg C, protect from light. Essential oil: amber glass, tightly sealed, 15-25 deg C. Enteric-coated capsules: blister packs, below 25 deg C, RH <60%.
 
-**Marker Compounds:** Menthol, Menthone, Menthyl acetate, 1,8-Cineole, Limonene, Rosmarinic acid, Eriocitrin, [Luteolin](/glossary/compounds-l-o/#luteolin)-7-O-glucoside
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 1-3%)
-- Hydrodistillation
-- Fresh juice expression
-- Aqueous infusion (tea preparation)
-- Hydroalcoholic extraction (60-70% ethanol) for rosmarinic acid
-- Supercritical CO2 for menthol-enriched fractions
+**Marker Compounds:** Menthol, 1,8-Cineole, Limonene, Rosmarinic acid
 
 ### Synergistic Combinations
 

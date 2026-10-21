@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 ## Recent safety updates
 
 - No serious hepatotoxicity linked to berberine despite wide-scale use; clinical trial biomarkers showed no toxic effects on liver, muscles, or kidneys. EFSA has called for additional data on long-term safety of berberine-containing food supplements
-- Topical application is well-tolerated; adverse reactions in clinical trials with Berberis aristata root extract were minor and comparable to placebo group. Oral berberine may interact with CYP3A4-metabolized drugs
+- Topical application is well-tolerated; adverse reactions in clinical trials with Berberis root extract were minor and comparable to placebo group. Oral berberine may interact with CYP3A4-metabolized drugs
 
 ## What is it made of?
 
@@ -82,33 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 - Taxilamine
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Netra Bindu (eye drops), Taila (medicated oil), Kwath Ghana (solid extract)
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg standardized extract capsule twice daily; 50-100ml decoction twice daily; eye drops as directed
 
-**Bioavailability:** Primary active berberine has notoriously low oral bioavailability (< 5%) due to extensive first-pass metabolism by CYP [enzymes](/glossary/compounds-d-g/#enzymes), P-glycoprotein efflux, and poor aqueous solubility. Enhancement strategies: co-administration with [Pippali](/herb/pippali/) ([piperine](/reference/piperine/) inhibits P-gp and CYP3A4, increasing berberine bioavailability 2-5 fold); solid lipid nanoparticle formulations increase AUC by 4-fold; berberine-phospholipid complex (phytosome) improves absorption; cyclodextrin inclusion complexes enhance solubility. Self-nanoemulsifying systems (SNEDDS) show 6-fold improvement in preclinical studies.
-
 **Optimal Timing:** Before meals with warm water for metabolic conditions; after meals for GI conditions to reduce mucosal irritation
-
-**Standardized Extract:** Standardized to NLT 5% berberine by HPLC (dried extract); concentrated extracts available at 85-97% berberine HCl. Extract ratio 10:1 to 20:1 typical for capsule formulations.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (eye drops after opening); 2 years (eye drops unopened)
 
 **Storage:** Store in airtight, amber or opaque containers below 25 deg C, protected from light. Berberine degrades under UV exposure. Eye drops: store at 2-8 deg C, discard 28 days after opening.
 
 **Marker Compounds:** Berberine, Palmatine, Jatrorrhizine, Berbamine, Oxyberberine, [Columbamine](/glossary/compounds-c-d/#columbamine)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 methanol:water)
-- Aqueous decoction (traditional)
-- Acid-water extraction (0.5% HCl)
-- Supercritical CO2 extraction for berberine enrichment
-- Ion-exchange chromatography for high-purity berberine isolation
 
 ### Synergistic Combinations
 

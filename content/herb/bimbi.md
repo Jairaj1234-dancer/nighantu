@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 3-6g powder; 50-100ml decoction; applied externally as paste for skin conditions
 
-**Bioavailability:** Limited pharmacokinetic data for Coccinia grandis/indica. [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral bioavailability. Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) is poorly absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and fiber in the fruit may slow absorption. Fresh juice provides direct exposure of water-soluble insulin-like compounds to GI mucosa. Co-administration with lipids enhances triterpenoid absorption.
-
 **Optimal Timing:** Traditionally taken early morning on an empty stomach or before meals; juice ideally consumed fresh
-
-**Standardized Extract:** Aerial part extract standardized to beta-sitosterol NLT 1%; total triterpenoids NLT 3%. Lyophilized juice extract preferred for maximum activity.
-
-**Shelf Life:** 3 days (fresh juice, refrigerated); 18 months (powder); 2 years (capsule)
 
 **Storage:** Fresh juice refrigerated at 2-8°C. Dried preparations in airtight containers. Cool, dry place below 25°C.
 
 **Marker Compounds:** Cephalandrin A and B, Beta-sitosterol, Stigmast-7-en-3-one, [Taraxerol](/glossary/compounds-t-z/#taraxerol), [Lupeol](/reference/lupeol/), Cucurbitacin B, Ombuin
-
-### Extraction Methods
-
-- Fresh juice extraction from aerial parts and fruit
-- Hydroalcoholic extraction (60:40) for triterpenoid-rich fraction
-- Aqueous decoction for traditional preparation
-- Ethanol extraction (95%) for alkaloid-rich fractions
-- Petroleum ether extraction for lipophilic [sterols](/glossary/compounds-q-t/#sterols)
 
 ### Synergistic Combinations
 

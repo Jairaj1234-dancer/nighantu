@@ -31,25 +31,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 **Standard Dosage:** 10-20ml leaf juice twice daily; 2-4g vine/leaf powder twice daily; 50-100ml decoction; external paste as needed for skin conditions
 
-**Bioavailability:** Aerial parts (leaves, stems, tendrils) contain similar but not identical phytochemical profile to fruit. [Momordicin](/glossary/compounds-l-o/#momordicin) concentration is higher in leaves than fruit. Leaf [flavonoids](/reference/flavonoids/) show moderate oral bioavailability (20-35%). [Chlorophyll](/glossary/compounds-c-d/#chlorophyll)-rich fractions may provide additional [antioxidant](/reference/antioxidant/) protection during GI transit. Juice from fresh leaves provides optimal bioavailability.
-
 **Optimal Timing:** Morning on empty stomach for metabolic benefits; leaf juice before meals; external paste applied to affected areas twice daily
-
-**Standardized Extract:** Leaf extract standardized to total flavonoids NLT 5%; momordicin NLT 1%. Vine extract 8:1 aqueous extract ratio.
-
-**Shelf Life:** 3 days (fresh juice, refrigerated); 18 months (leaf powder); 2 years (capsule)
 
 **Storage:** Fresh juice refrigerated in glass containers. Dried material in airtight, light-protected containers. Cool, dry conditions below 25°C.
 
 **Marker Compounds:** Momordicin, [Vicine](/glossary/compounds-t-z/#vicine), Rosmarinic acid, Gallic acid, Gentisic acid, Chlorogenic acid, [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin)
-
-### Extraction Methods
-
-- Fresh leaf juice extraction (Swarasa)
-- Aqueous decoction of dried aerial parts
-- Hydroalcoholic extraction (60:40) for flavonoid-rich fractions
-- Ethanol extraction for alkaloid profiling
-- Shade-drying followed by mechanical grinding for powder
 
 ### Synergistic Combinations
 

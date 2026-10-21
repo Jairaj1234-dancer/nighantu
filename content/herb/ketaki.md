@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 **Standard Dosage:** 5-10 mL [Arka](/herb/arka/) twice daily; 3-5 g powder; external oil application as needed; Kewra water: 5-10 drops as flavoring agent
 
-**Bioavailability:** Volatile aromatic compounds (2-phenylethyl alcohol, methyl ether derivatives) are rapidly absorbed through inhalation and GI routes. Kewra water constituents have >80% oral bioavailability. [Terpenoids](/glossary/compounds-t-z/#terpenoids) from leaf extracts show moderate absorption. Arka (distillate) provides pre-dissolved volatile constituents with rapid absorption.
-
 **Optimal Timing:** Arka and internal preparations: after meals; aromatic/calming preparations: evening or before bed; no specific restriction for external applications
-
-**Standardized Extract:** Kewra essential oil standardized to minimum 40% 2-phenylethyl methyl ether and 15% terpineol by GC-MS; Arka standardized to aromatic volatile content by refractometry
-
-**Shelf Life:** 12 months for Kewra water (hydrosol); 24 months for essential oil; 18 months for leaf powder; 36 months for attar (in sealed containers)
 
 **Storage:** Kewra water in dark glass bottles, refrigerated (2-8°C) for optimal aroma retention. Essential oil in amber glass at 15-25°C. Powder in airtight containers. Attar in traditional copper/glass containers sealed with wax.
 
 **Marker Compounds:** 2-Phenylethyl methyl ether, Terpineol, [Linalool](/glossary/compounds-l-o/#linalool), [Geraniol](/glossary/compounds-d-g/#geraniol), Beta-phenylethyl alcohol, Pandanamine (alkaloid from leaves), Methyl beta-phenylpropionate
-
-### Extraction Methods
-
-- Steam distillation of male flower spadix (for Kewra water and essential oil)
-- Hydrodistillation for attar preparation (co-distilled with sandalwood oil)
-- Water distillation for Arka preparation
-- Solvent extraction (hexane) for absolute
-- Enfleurage (traditional) for delicate flower essence
 
 ### Synergistic Combinations
 

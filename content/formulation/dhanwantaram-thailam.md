@@ -63,25 +63,17 @@ Ashtanga Hridayam (Sharirasthana); also referenced in Sahasrayogam (Taila Prakar
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external use), Internal use oil (specific variants), Capsules (modern)
 
 **Standard Dosage:** External: sufficient quantity for Abhyanga. Internal: 5-10 mL with warm milk. The Ayurvedic Formulary of India attributes this formula to Vaidyayogaratnavali, Tailaprakarana; page 244.
 
-**Bioavailability:** Oil base provides excellent transdermal delivery during Abhyanga. Multi-avartana processing concentrates herb actives in oil matrix, 101-avartana is significantly more potent than single-avartana. Milk processing adds [phospholipids](/glossary/compounds-o-q/#phospholipids) enhancing skin penetration. For internal use, [sesame oil](/glossary/concepts-m-y/#tila-taila) MCTs aid absorption.
-
 **Optimal Timing:** External: morning before bath or as part of Panchakarma therapy. Internal: before meals or at bedtime.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila. Multi-avartana versions may have longer practical stability.
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), [Ephedrine](/glossary/compounds-d-g/#ephedrine), Withanolide A, [Lupeol](/reference/lupeol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test negative, HPTLC fingerprint, ephedrine/withanolide markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** For internal use: warm milk. External: warm oil applied during Abhyanga.
 

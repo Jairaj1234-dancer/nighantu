@@ -64,17 +64,11 @@ Ashtanga Hridayam (Chikitsa Sthana); also described in Bhaishajya Ratnavali
 
 **Standard Dosage:** 2 tablets twice daily for Vata/musculoskeletal
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** 2 years (guggulu preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
 **Marker Compounds:** Guggulsterone Z, Guggulsterone E, [Piperine](/reference/piperine/), [Embelin](/glossary/compounds-d-g/#embelin)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone Z, Guggulsterone E, Piperine, Embelin, guggulsterone content
 
 **Vehicle (Anupana):** Warm water
 

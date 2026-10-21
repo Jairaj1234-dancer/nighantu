@@ -75,33 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Brihati/meta-analysis.md"
 - Diosgenin
 - Glycosides
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath Ghana (solid extract), As component of [Dashamoola](/herb/dashamoola/)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule; commonly used as part of [Dashamoola](/herb/dashamoola/) formulation
 
-**Bioavailability:** Solasodine glycoalkaloids show moderate oral bioavailability (25-35%). Steroidal alkaloids are generally well absorbed due to lipophilicity. Diosgenin-related [saponins](/reference/saponins/) undergo hydrolysis in the gut. Caffeic acid and chlorogenic acid show good oral absorption (40-60%). Decoction form provides better extraction of alkaloids than cold preparations.
-
 **Optimal Timing:** Before meals with warm water for respiratory conditions; as Dashamoola Kashayam after meals for anti-inflammatory effects
-
-**Standardized Extract:** Root extract standardized to [solasonine](/glossary/compounds-q-t/#solasonine) NLT 0.5%; total steroidal alkaloids NLT 1.5%. Fruit extract standardized to solasodine NLT 1%.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Cool, dry place in airtight containers. Protect from moisture. Alkaloid content stable under proper storage conditions.
 
 **Marker Compounds:** Solasonine, Solamargine, Solasodine, Diosgenin, [Carpesterol](/glossary/compounds-a-c/#carpesterol), Caffeic acid, Chlorogenic acid, Beta-sitosterol
-
-### Extraction Methods
-
-- Aqueous decoction (1:16 reduced to 1:4)
-- Hydroalcoholic extraction (70:30) for alkaloid-rich fractions
-- Acid-base extraction for steroidal alkaloid isolation
-- Ethanol extraction (95%) for saponin profiling
-- As part of Dashamoola Kwath (combined decoction)
 
 ### Synergistic Combinations
 

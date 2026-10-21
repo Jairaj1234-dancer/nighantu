@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Aragvadhadi-
 
 **Standard Dosage:** 40-80 mL twice daily.
 
-**Bioavailability:** Hot aqueous decoction provides immediate absorption of water-soluble constituents. Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) from Aragvadha are hydrolyzed in the gut to active aglycones. [Curcumin](/herb/curcumin/) absorption is limited without lipid co-administration.
-
 **Optimal Timing:** On empty stomach, morning and evening, 30 minutes before meals
-
-**Shelf Life:** Same day use (fresh kwath), 6 months (preserved concentrate), 3 years (tablet form) as per ASU guidelines
 
 **Storage:** Fresh kwath: prepare and consume same day. Concentrates: store in amber glass at 2-8°C or at room temperature with approved preservatives. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** [Rhein](/glossary/compounds-q-t/#rhein), Fistulic acid, [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/)), [Curcumin](/herb/curcumin/) (from [Haridra](/herb/haridra/)), Gallic acid
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, HPTLC for [anthraquinones](/glossary/compounds-1-a/#anthraquinones) and [berberine](/glossary/compounds-a-c/#berberine), total phenolics, total [flavonoids](/reference/flavonoids/), microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as is (warm), or with honey for skin conditions
 

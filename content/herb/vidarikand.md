@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidarikand/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; [Ksheera](/herb/ksheera/) Paka: 100-200 mL at bedtime
 
-**Bioavailability:** Puerarin bioavailability ~25-35%. Milk decoction (Ksheera Paka) significantly enhances bioavailability of lipophilic compounds through casein-mediated solubilization. High [starch](/glossary/compounds-q-t/#starch) content of tuber provides slow-release matrix effect in GI tract.
-
 **Optimal Timing:** After meals with warm milk; Ksheera Paka at bedtime; morning dosing for general tonic effect
-
-**Standardized Extract:** Pueraria tuberosa extract: puerarin >3% by HPLC. Ergot [alkaloids](/glossary/compounds-1-a/#alkaloids): absent (mandatory safety test).
-
-**Shelf Life:** Dried tuber: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Ksheera Paka: prepare fresh; Lehyam: 18 months
 
 **Storage:** Airtight, moisture-proof, insect-proof containers at 15-25 deg C. High starch content attracts insects; use appropriate pest-control packaging. Protect from humidity.
 
 **Marker Compounds:** Puerarin, Daidzein, beta-Sitosterol, Stigmasterol
-
-### Extraction Methods
-
-- Aqueous decoction
-- Milk decoction (Ksheera Paka)
-- Hydroethanolic extraction (50-70% ethanol)
-- Sequential extraction for fractionation
-- Spray drying of decoction
 
 ### Synergistic Combinations
 

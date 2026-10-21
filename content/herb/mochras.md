@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g gum resin powder per day; 50-100 mL bark decoction twice daily; 500 mg extract capsules twice daily; topical paste as directed
 
-**Bioavailability:** Tannins show limited systemic absorption but exert potent local astringent effects in the GI tract. Lupeol has moderate oral bioavailability (~20-30%) enhanced by lipid carriers. Shamimicin and related compounds undergo partial GI absorption. Gum acts as a prebiotic and bulk-forming agent without systemic absorption.
-
 **Optimal Timing:** Before meals for GI astringent effect; between meals for hemostatic action; topical application 2-3 times daily for wound healing
-
-**Standardized Extract:** Purified gum resin powder (free from bark fragments and impurities). Bark extract (10:1 hydroalcoholic) standardized to minimum 8% total tannins. Combined gum-bark preparation for comprehensive astringent action.
-
-**Shelf Life:** Crude gum: 36+ months. Purified gum powder: 24 months. Bark powder: 24 months. Capsules/tablets: 30 months. Topical paste: 18 months.
 
 **Storage:** Gum resin in airtight containers at room temperature; hygroscopic, protect from moisture. Bark powder below 25 deg C. Capsules in blister packs with desiccant. Topical preparations at 15-25 deg C.
 
 **Marker Compounds:** Lupeol, Shamimicin, Gallic acid, [Mangiferin](/glossary/compounds-l-o/#mangiferin), Bombax ceiba tannins, Beta-sitosterol, Hentriacontane, [Kaempferol](/reference/kaempferol/)
-
-### Extraction Methods
-
-- Aqueous decoction of bark
-- Collection of natural gum exudate
-- Hydroalcoholic extraction (60% ethanol) of bark
-- Cold maceration for tannin-rich extract
-- Gum purification by dissolution and filtration
 
 ### Synergistic Combinations
 

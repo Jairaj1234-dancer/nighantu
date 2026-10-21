@@ -75,25 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; latex: 5-10 drops with honey
 
-**Bioavailability:** Ficusin and [psoralen](/glossary/compounds-o-q/#psoralen) (furocoumarins) have moderate oral bioavailability (~25-35%). [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin) and other condensed tannins are poorly absorbed systemically but exert potent local astringent effects on mucosa. beta-Sitosterol has moderate absorption (~10-15%) enhanced by lipid co-administration. Latex proteases (ficin-like [enzymes](/glossary/compounds-d-g/#enzymes)) are active topically but denatured in GI tract.
-
 **Optimal Timing:** Before meals for GI astringent action; after meals for general tonic; external application as needed
-
-**Standardized Extract:** Bark extract standardized to >12% total tannins (as tannic acid equivalent); >0.3% beta-sitosterol by HPLC; >0.1% psoralen by HPLC
-
-**Shelf Life:** Bark powder: 18-24 months; Capsules/Tablets: 24-36 months; Decoction: prepare fresh; Latex: 6-12 months (refrigerated)
 
 **Storage:** Bark powder in airtight containers at 15-25 deg C, protected from moisture and insects. Latex stored in amber glass at 2-8 deg C with preservative (0.1% sodium benzoate).
 
 **Marker Compounds:** Ficusin, Psoralen, [Bergapten](/glossary/compounds-a-c/#bergapten), Leucocyanidin, beta-Sitosterol, [Stigmasterol](/reference/stigmasterol/), Gallic acid, Ellagic acid, Lupeol, Ficin
-
-### Extraction Methods
-
-- Aqueous decoction of bark
-- Hydroethanolic extraction (50-70% ethanol)
-- Cold water maceration for mucilaginous fraction
-- Latex collection (scoring bark)
-- Methanol extraction for furocoumarin enrichment
 
 ### Synergistic Combinations
 

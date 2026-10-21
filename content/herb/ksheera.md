@@ -72,24 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 
 **Standard Dosage:** 100-250 mL warm milk as Anupana (vehicle) for herbs; Ksheera Paka: 100-200 mL once daily; Ksheera Basti: 200-500 mL as per Panchakarma protocol
 
-**Bioavailability:** Milk is used as an Anupana (vehicle) and may enhance bioavailability of lipophilic drugs due to fat content (3.5-6% for cow's milk). Casein micelles act as natural nanocarriers for hydrophobic compounds. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) enhance absorption of fat-soluble [vitamins](/glossary/compounds-t-z/#vitamins) and phytochemicals. Lactoferrin improves iron bioavailability. Ksheera Paka extraction concentrates herb actives in milk lipid fraction. A2 milk (A2 beta-casein) is traditionally preferred in Ayurveda.
-
 **Optimal Timing:** Warm milk at bedtime for sleep and Vata pacification; Ksheera Paka morning or evening depending on herb used; Ksheera Basti as per Panchakarma schedule
-
-**Standardized Extract:** Not applicable as a standardized extract, quality parameters: fat content 3.5-6%, SNF >8.5%, total protein >3.2%, somatic cell count <200,000/mL; for Ghee: moisture <0.5%, free fatty acid <0.3%
-
-**Shelf Life:** Fresh milk: 2-5 days (refrigerated); UHT milk: 6-9 months; Ghee: 12-24 months; Ksheera Paka: consume same day; Takra: 24 hours
 
 **Storage:** Fresh milk at 2-8°C. Ghee in airtight containers at room temperature (15-30°C), does not require refrigeration. Ksheera Paka cannot be stored; prepare fresh for each use.
 
 **Marker Compounds:** Casein (alpha-s1, alpha-s2, beta, kappa), Beta-lactoglobulin, Alpha-lactalbumin, Lactoferrin, Conjugated linoleic acid (CLA), Butyric acid (in ghee), Calcium, Phosphorus
-
-### Extraction Methods
-
-- Ksheera Paka: herbs simmered in milk + water (1:8:32 ratio of herb:milk:water, reduced to milk volume)
-- Ghee preparation by slow clarification of butter
-- Fermentation for Takra/Dadhi preparation
-- Pasteurization/UHT for shelf-stable milk products
 
 ### Synergistic Combinations
 

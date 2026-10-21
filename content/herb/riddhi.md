@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g tuber powder daily; 500 mg - 1 g standardized extract twice daily; Ghrita: 5-10 g with warm milk
 
-**Bioavailability:** Riddhi (Habenaria intermedia/Habenaria edgeworthii - terrestrial orchid) contains mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides), glucomannans, and [saponins](/reference/saponins/). Polysaccharides act as prebiotics and immunomodulators locally in the GI tract without requiring systemic absorption. Steroidal saponins show limited oral bioavailability (10-25%) but are partially converted to sapogenins by gut bacteria. Traditional administration with milk or ghee enhances lipophilic compound absorption. Limited modern pharmacokinetic data available.
-
 **Optimal Timing:** With warm milk at bedtime for Rasayana (rejuvenation) effects. Morning with ghee on empty stomach for strength and vitality. As part of [Chyawanprash](/formulation/chyawanprash/): 1-2 teaspoons morning and evening.
-
-**Standardized Extract:** Riddhi tuber extract (4:1) standardized to total saponins >5%, total polysaccharides (as [glucomannan](/glossary/compounds-d-g/#glucomannan)) >20%. Authentication by DNA barcoding mandatory. If substitute used, clearly labeled with substitute species and standardization parameters.
-
-**Shelf Life:** Dried tuber: 18-24 months; Tuber powder: 12-18 months; Extract: 24 months; Ghrita: 24-36 months; Avaleha: 18-24 months
 
 **Storage:** Dried tubers: cool, dry, pest-proof, below 25 deg C, RH <50%. Powder: airtight containers, moisture-barrier packaging (highly hygroscopic due to polysaccharides). Ghrita: clean, dry glass containers, below 30 deg C. Store CITES documentation with inventory records.
 
 **Marker Compounds:** Glucomannan, Steroidal saponins, [Diosgenin](/glossary/compounds-d-g/#diosgenin) (if Dioscorea substitute), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Phenanthrene derivatives (orchid-specific), [Mucilage](/glossary/compounds-l-o/#mucilage) polysaccharides
-
-### Extraction Methods
-
-- Aqueous extraction for polysaccharide-rich fraction
-- Hydroalcoholic extraction (50-60% ethanol) for saponin fraction
-- Traditional Ghrita Paka in ghee
-- Milk decoction (Ksheerapaka method)
-- Hot water extraction with ethanol precipitation for glucomannan isolation
 
 ### Synergistic Combinations
 

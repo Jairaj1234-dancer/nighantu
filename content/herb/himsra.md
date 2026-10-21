@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 - Betaine
 - Tocopherols
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Syrup, Standardized extract
 
 **Standard Dosage:** 3-6g powder twice daily; 250-500mg extract twice daily; 15-30ml decoction
 
-**Bioavailability:** Capparis spinosa (caper bush) contains flavonoids (rutin, [quercetin](/reference/quercetinquercetin/)) and alkaloids (stachydrine) with moderate oral bioavailability. Rutin bioavailability is enhanced when deglycosylated to quercetin by gut microbiota. Stachydrine shows good water solubility and absorption. Lipid-based formulations may enhance flavonoid absorption.
-
 **Optimal Timing:** Before meals with water for hepatoprotective action; twice daily for chronic liver support
-
-**Standardized Extract:** Hydroalcoholic extract (1:4 drug-extract ratio) standardized to minimum 0.5% rutin and 0.1% stachydrine; aqueous extract as used in classical Ayurvedic liver formulations
-
-**Shelf Life:** 2 years (powder); 3 years (standardized extract tablet/capsule); 2 years (syrup)
 
 **Storage:** Cool, dry place below 25°C, protected from light. Flavonoids degrade in light; amber containers recommended.
 
 **Marker Compounds:** Rutin, Quercetin, Stachydrine, p-Methoxy benzoic acid, [Kaempferol](/reference/kaempferol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Aqueous extraction
-- Standardized aqueous-ethanolic extract (used in Liv.52 formulation)
-- Supercritical CO2 for alkaloid-rich fraction
 
 ### Synergistic Combinations
 

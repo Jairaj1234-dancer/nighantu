@@ -74,9 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Gudmar/meta-analysis.md
 **Journal:** Nutrients (2024)
 **PMID:** 39064727
 
-> UNLABELLED: 
-METHODOLOGY: We performed a comparative study in 50 adult Mexican patients with obesity treated with GS or BBR for 3 months. The baseline and final biochemical parameters, body composition, blood pressure, gene expression of Res, Ome, Vis, and Ap, and safety parameters were evaluated.
-RESULTS: BBR significantly decreased (
+> METHODOLOGY: We performed a comparative study in 50 adult Mexican patients with obesity treated with GS or BBR for 3 months. The baseline and final biochemical parameters, body composition, blood pressure, gene expression of Res, Ome, Vis, and Ap, and safety parameters were evaluated.
 CONCLUSION: In patients with obesity, BBR has a better effect on body composition, blood pressure, and the gene expression of adipokines related to metabolic risk, while GS has a better effect on fasting glucose and adipokines related to insulin resistance, with minimal side effects....
 
 **Keywords:** Gymnema sylvestre, adipokine, apelin, [berberine](/glossary/compounds-a-c/#berberine), body composition, fasting glucose, gene expression, obesity, omentin, resistin
@@ -131,25 +129,11 @@ CONCLUSION: In patients with obesity, BBR has a better effect on body compositio
 
 **Standard Dosage:** 3-6g leaf powder twice daily; 50-100ml decoction; 500mg standardized extract (25% gymnemic acids) twice daily; 400mg extract capsule 20 minutes before meals
 
-**Bioavailability:** Gymnema sylvestre leaves contain gymnemic acids (triterpenoid [saponins](/reference/saponins/)) as primary actives. Gymnemic acids have low to moderate oral bioavailability (10-20%) due to large molecular size and hydrophilicity. They act partially in the oral cavity (blocking sweet taste receptors) and in the GI tract (reducing glucose absorption through SGLT1 inhibition) - for these actions, local availability rather than systemic absorption is key. For systemic effects (reported effects on pancreatic beta-cells), the absorbed fraction is relevant. Enhancement: deacylated gymnemic acid preparations; phospholipid complexation (Phytosome technology - GS Phytosome shows 5x improved absorption); nano-encapsulation; [piperine](/reference/piperine/) co-administration.
-
 **Optimal Timing:** 20-30 minutes before meals (allows gymnemic acids to reach intestinal absorption sites before food glucose arrives); 1-2 tablets/capsules before each main meal; leaf chewing before meals in traditional practice
-
-**Standardized Extract:** Standardized extract NLT 25% gymnemic acids by gravimetric/UV method (commercial standard); NLT 75% gymnemic acids available as highly concentrated extract. GS Phytosome (gymnemic acids complexed with phosphatidylcholine) for enhanced bioavailability. Extract ratio 10:1 to 20:1.
-
-**Shelf Life:** 2 years (leaf powder); 3 years (standardized extract capsule/tablet); 3 years (Ghana Vati); 3 years (tincture)
 
 **Storage:** Dried leaf and powder: airtight containers below 25 deg C, protected from moisture. Standardized extracts: moisture-proof packaging with desiccant. Gymnemic acids are relatively stable under normal storage conditions.
 
 **Marker Compounds:** Gymnemic acid I-XVIII (triterpenoid saponins), Gymnemasaponin I-V, Gymnemagenin (aglycone), Gurmarin (peptide, sweet-taste suppressor), Conduritol A, [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Methanol extraction for gymnemic acid enrichment
-- Spray-dried aqueous extract
-- Standardized extract production with acid hydrolysis step for deacylation
 
 ### Synergistic Combinations
 

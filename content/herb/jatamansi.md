@@ -147,25 +147,11 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 **Standard Dosage:** 1-3g powder twice daily; 250-500mg extract; 5-15ml medicated oil (external); 3-5 drops essential oil (aromatherapy)
 
-**Bioavailability:** Nardostachys jatamansi rhizome contains sesquiterpenes ([jatamansone](/glossary/compounds-g-l/#jatamansone)/valeranone, nardosinone) and [lignans](/glossary/compounds-g-l/#lignans). Jatamansone has moderate lipophilic absorption; Tmax ~2-3 hours. Nardosinone shows good blood-brain barrier penetration, supporting its anxiolytic/sedative effects. Co-administration with Ghee (traditional Ghrita preparation) enhances lipophilic compound absorption. Essential oil components absorbed via inhalation route for aromatherapy.
-
 **Optimal Timing:** At bedtime with warm milk or ghee for sleep and anxiety; morning dose with water for cognitive support
-
-**Standardized Extract:** Hydroalcoholic extract standardized to 2-3% jatamansone (valeranone) by GC-MS; essential oil with characteristic sesquiterpene profile; CO2 extract for premium applications
-
-**Shelf Life:** 2 years (powder); 3 years (standardized extract capsule/tablet); 3 years (essential oil, sealed); 2 years (Taila)
 
 **Storage:** Cool, dry place below 25°C, protected from light. Essential oil in amber glass, tightly sealed. Rhizome and powder in airtight containers to preserve volatile content.
 
 **Marker Compounds:** Jatamansone (valeranone), Nardosinone, Nardostachone, Jatamansinol, Nardal, Patchouli alcohol, Angelicin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Steam distillation (essential oil, 1-2% yield from rhizome)
-- Supercritical CO2 extraction for sesquiterpene-enriched fraction
-- Aqueous decoction (traditional)
-- Oil maceration in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) for Taila
 
 ### Synergistic Combinations
 

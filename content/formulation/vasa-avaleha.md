@@ -65,25 +65,17 @@ Bhaisajyaratnavali, Rajayaksmadhikara (per the Ayurvedic Formulary of India); va
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha (confection), Syrup
 
 **Standard Dosage:** 6-12g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:26. The formulary's anupana: milk,water. The formulary attributes this formula to Bhaisajyaratnavali, Rajayaksmadhikara; 82-821.
 
-**Bioavailability:** Sugar-base matrix with honey provides sustained release of alkaloids
-
 **Optimal Timing:** After meals for respiratory conditions
-
-**Shelf Life:** 1 year (avaleha)
 
 **Storage:** Airtight container, cool place
 
 **Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/glossary/compounds-c-d/#deoxyvasicine)
-
-**Quality Parameters:** Total sugar, moisture NMT 15%, vasicine content by HPLC
 
 **Vehicle (Anupana):** Honey in the source notes; the formulary gives milk or water
 

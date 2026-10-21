@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tumburu/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; as mouthwash: 5-10 mL diluted and gargled
 
-**Bioavailability:** Hydroxy-alpha-sanshool and related alkylamides are rapidly absorbed from the GI tract with good bioavailability (~40-50%) and exhibit TRPV1 receptor agonism (tingling/numbing sensation). [Alkaloids](/glossary/compounds-1-a/#alkaloids) ([chelerythrine](/glossary/compounds-c-d/#chelerythrine), [sanguinarine](/glossary/compounds-q-t/#sanguinarine)) have moderate bioavailability but are extensively metabolized hepatically. Essential oil terpenes ([limonene](/glossary/compounds-g-l/#limonene), [linalool](/glossary/compounds-l-o/#linalool)) are well absorbed but undergo rapid first-pass metabolism.
-
 **Optimal Timing:** After meals for digestive support; mouthwash after meals for dental care; morning and evening dosing
-
-**Standardized Extract:** Hydroethanolic extract standardized to >3% total alkylamides by HPLC; >2% total alkaloids
-
-**Shelf Life:** Dried fruits: 12-18 months; Essential oil: 24 months; Capsules/Tablets: 24 months; Mouthwash: 18 months
 
 **Storage:** Airtight containers at 15-25 deg C, protected from light and moisture. Essential oil in amber glass. Alkylamide content degrades with heat; avoid storage above 30 deg C.
 
 **Marker Compounds:** Hydroxy-alpha-sanshool, Hydroxy-beta-sanshool, Limonene, Linalool, Chelerythrine, Sanguinarine, Tambulin, beta-Phellandrene
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydroethanolic extraction (60-80% ethanol)
-- Supercritical CO2 extraction
-- Aqueous decoction
-- Hexane extraction for amide-rich fraction
 
 ### Synergistic Combinations
 

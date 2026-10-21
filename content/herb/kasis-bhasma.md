@@ -68,26 +68,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 - **Iron (Fe):** ~20%
 - **Sulfur (S):** ~11%
 
-**Analytical Methods:** XRD, ICP-OES, FTIR
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; iron sulfate converted to bioavailable iron oxide nanoparticles
-
 **Optimal Timing:** With honey or [Triphala](/herb/triphala/) Kwatha; after meals to reduce GI irritation
-
-**Standardized Extract:** Calcined green vitriol (ferrous sulfate) bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, moisture-proof container (hygroscopic)
 
 **Marker Compounds:** Iron oxide (Fe2O3), Sulfur compounds, Trace minerals
-
-**Quality Parameters:** Iron content >50%, free sulfate <1%, standard bhasma tests, particle size <100 nm
 
 **Vehicle (Anupana):** Honey, [Triphala](/herb/triphala/) Kwatha, or [Mandura Bhasma](/herb/mandura-bhasma/) combination

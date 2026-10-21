@@ -72,25 +72,17 @@ A signature Kerala Ayurvedic formulation (Chikitsamanjari / Kerala Vaidya tradit
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [coconut oil](/glossary/concepts-a-m/#coconut-oil)), External application
 
 **Standard Dosage:** External application on wounds and fractures
 
-**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds
-
 **Optimal Timing:** External: before bath or at bedtime
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** Karanjin, [Berberine](/glossary/compounds-a-c/#berberine)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Karanjin, [Berberine](/glossary/compounds-a-c/#berberine)
 
 **Vehicle (Anupana):** External: massage into affected area
 

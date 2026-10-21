@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Tamalpatra/meta-ana
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; 2-5 drops essential oil in steam inhalation
 
-**Bioavailability:** [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) and [eugenol](/glossary/compounds-d-g/#eugenol), major volatile constituents, are rapidly absorbed orally with good bioavailability (>50%) but undergo fast hepatic metabolism to hippuric acid and other conjugates. Polyphenolic fraction ([catechins](/glossary/compounds-c-d/#catechins), [procyanidins](/glossary/compounds-o-q/#procyanidins)) has lower bioavailability (10-20%) due to poor aqueous solubility and extensive Phase II conjugation.
-
 **Optimal Timing:** After meals for digestive support; can be taken morning and evening
-
-**Standardized Extract:** Essential oil standardized to >60% eugenol by GC-FID; hydroethanolic extract standardized to >5% total [polyphenols](/glossary/compounds-o-q/#polyphenols) (as gallic acid equivalent)
-
-**Shelf Life:** Dried leaves: 12 months; Essential oil: 24-36 months; Capsules/Tablets: 24 months; Tincture: 36 months
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass under nitrogen. Dried leaves should be stored away from moisture to prevent mold.
 
 **Marker Compounds:** Eugenol, Cinnamaldehyde, [Linalool](/glossary/compounds-l-o/#linalool), beta-Caryophyllene, Cinnamyl acetate, [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin)
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydrodistillation
-- Hydroethanolic extraction (60-80% ethanol)
-- Cold pressing (bark)
-- Supercritical CO2 extraction
 
 ### Synergistic Combinations
 

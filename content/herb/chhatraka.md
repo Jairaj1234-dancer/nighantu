@@ -71,25 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g dried mushroom powder; 500mg-1g extract capsule; 300-500mg concentrated extract; as culinary mushroom: 50-100g fresh
 
-**Bioavailability:** Mushroom beta-glucans have limited direct absorption but exert immunomodulatory effects via gut-associated lymphoid tissue (GALT) interaction with Dectin-1 receptors. Ergosterol (provitamin D2) converts to vitamin D2 upon UV exposure, bioavailability enhanced with fat. Hot water extraction releases beta-glucans from chitin matrix (raw mushroom has low bioavailability). Cooking or decoction is essential for bioavailability.
-
 **Optimal Timing:** With meals; decoction/soup anytime; capsules before meals for immune support
-
-**Standardized Extract:** Dried mushroom extract standardized to beta-glucans NLT 30%; ergosterol NLT 0.3%. UV-treated powder: vitamin D2 NLT 400 IU/g.
-
-**Shelf Life:** 2-3 days (fresh); 2 years (dried powder); 3 years (extract capsule)
 
 **Storage:** Fresh mushrooms refrigerated (2-5°C). Dried material in airtight containers protected from moisture (highly hygroscopic). Temperature below 25°C. Protect from light if UV-treated for vitamin D2.
 
 **Marker Compounds:** Beta-glucans (1,3/1,6), Ergosterol, [Ergothioneine](/glossary/compounds-d-g/#ergothioneineergothioneine), Lovastatin (trace, in certain species), Chitin, Lectins, Vitamin D2 (if UV-treated)
-
-### Extraction Methods
-
-- Hot water extraction for beta-glucan enrichment (100°C, 2-4 hours)
-- Dual extraction: hot water followed by ethanol for combined polysaccharide-triterpene extract
-- Spray drying of aqueous extract for stable powder
-- UV-C irradiation of dried mushroom for vitamin D2 enhancement
-- Traditional decoction/soup preparation
 
 ### Synergistic Combinations
 

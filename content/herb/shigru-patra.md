@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Shigru-Patra/meta-analysis.m
 
 **Standard Dosage:** 3-6 g leaf powder per day; 500-1000 mg standardized extract capsule twice daily; 10-20 mL swarasa daily; 1-2 cups infusion daily
 
-**Bioavailability:** Isothiocyanate compounds (derived from [glucosinolates](/glossary/compounds-d-g/#glucosinolates) by [myrosinase](/glossary/compounds-l-o/#myrosinase) activation) show good oral bioavailability (50-70%) when consumed from fresh/minimally processed leaves. Heat processing above 70 deg C inactivates myrosinase and reduces isothiocyanate formation, use raw or mildly heated preparations. [Quercetin](/reference/quercetinquercetin/) and [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides) show moderate bioavailability (20-35%). Iron and calcium from leaves have moderate bioavailability (10-20%), enhanced by vitamin C content.
-
 **Optimal Timing:** Morning with breakfast for nutritional supplementation
-
-**Standardized Extract:** Freeze-dried leaf powder retaining NLT 0.5% total [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) (as moringin equivalents); standardized extract (5:1) NLT 3% total [flavonoids](/reference/flavonoids/) (as [quercetin](/reference/quercetinquercetin/) equivalents) and NLT 1% chlorogenic acid by HPLC
-
-**Shelf Life:** 18 months for leaf powder in nitrogen-flushed packets; 24 months for capsules; 12 months for tea bags
 
 **Storage:** Store below 25 deg C in airtight, light-proof containers. Nitrogen-flushed packaging critical for powder to prevent [chlorophyll](/glossary/compounds-c-d/#chlorophyll) degradation and lipid oxidation. RH <50%.
 
 **Marker Compounds:** Moringin (4-(alpha-L-rhamnopyranosyloxy)benzyl isothiocyanate), Quercetin-3-glucoside, Kaempferol-3-glucoside, Chlorogenic acid, Beta-carotene, Niazimicin, Niazirin
-
-### Extraction Methods
-
-- Low-temperature aqueous extraction (<50 deg C to preserve myrosinase)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Fresh leaf juice (cold pressing)
-- Spray-drying of aqueous extract at low temperature
-- Freeze-drying for maximum nutrient and enzyme preservation
 
 ### Synergistic Combinations
 

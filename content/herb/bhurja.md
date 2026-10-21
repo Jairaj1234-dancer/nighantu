@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bhurja/meta-analysis.md"
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml bark decoction; external paste as needed, traditionally used on wounds
 
-**Bioavailability:** [Betulin](/glossary/compounds-a-c/#betulin) and betulinic acid show low oral bioavailability (<5%) due to poor aqueous solubility. Cyclodextrin inclusion complexes or amorphous solid dispersions improve betulinic acid bioavailability by 4-8x. Lipid-based delivery (with ghee) moderately enhances absorption. Nanoformulations (PLGA nanoparticles) show significant improvement in preclinical models.
-
 **Optimal Timing:** With meals for general use; external paste applied morning and evening for skin conditions; decoction before meals
-
-**Standardized Extract:** Bark extract standardized to betulin NLT 15%; betulinic acid NLT 3%. Total [triterpenes](/glossary/compounds-t-z/#triterpenes) NLT 20%.
-
-**Shelf Life:** 2 years (powder); 3 years (capsule/tablet); 3 years (oil)
 
 **Storage:** Cool, dry place in airtight containers. Bark powder is relatively stable but protect from moisture.
 
 **Marker Compounds:** Betulin, Betulinic acid, [Lupeol](/reference/lupeol/), Oleanolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Methyl salicylate (bark oil)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for bark
-- Soxhlet extraction with ethanol for betulin enrichment
-- Supercritical CO2 for betulinic acid
-- Aqueous decoction for traditional preparations
-- Bark oil extraction by hydrodistillation
 
 ### Synergistic Combinations
 

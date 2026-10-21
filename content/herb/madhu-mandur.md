@@ -64,26 +64,16 @@ Charaka Samhita, Pandu Roga Chikitsa; Bhaishajya Ratnavali; Rasa Tarangini; the 
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati/tablet
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Enhanced; Mandura (iron rust) combined with honey ([Madhu](/herb/madhu/)) processing improves absorption
-
 **Optimal Timing:** After meals with buttermilk or [Triphala](/herb/triphala/) Kwatha
-
-**Standardized Extract:** [Mandura Bhasma](/herb/mandura-bhasma/) processed with honey and 40+ herbs
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide (from Mandura), [Polyphenols](/glossary/compounds-o-q/#polyphenols) from multiple herbs, Trace minerals
-
-**Quality Parameters:** Iron content as labeled, uniformity of weight, disintegration <30 min
 
 **Vehicle (Anupana):** Buttermilk, [Triphala](/herb/triphala/) Kwatha, or honey

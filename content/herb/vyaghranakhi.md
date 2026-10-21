@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Vyaghranakhi/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g powder twice daily; 30-60 mL decoction twice daily; external application as needed
 
-**Bioavailability:** Martynoside and other phenylethanoid [glycosides](/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis by beta-glucosidases releasing the active aglycone. Iridoid glycosides undergo gut microbial activation. [Flavonoids](/reference/flavonoids/) are moderately absorbed with typical Phase II conjugation. External application (Lepa/Taila) is traditionally used for local pain and swelling.
-
 **Optimal Timing:** After meals for internal use; external application at night for joint/musculoskeletal conditions
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total [iridoids](/glossary/compounds-g-l/#iridoids) (by UV spectrophotometry) and >1.5% total flavonoids (as [luteolin](/glossary/compounds-l-o/#luteolin) equivalent)
-
-**Shelf Life:** Powder: 12-18 months; Capsules: 24 months; Medicated oil: 18-24 months; Decoction: prepare fresh
 
 **Storage:** Airtight containers at 15-25 deg C, protected from light and moisture. Medicated oil in amber glass bottles.
 
 **Marker Compounds:** Martynoside, Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Ursolic acid, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Chlorogenic acid, Iridoid glycosides
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (50-70% ethanol)
-- Methanol extraction for iridoid-rich fraction
-- Traditional Taila Paka for medicated oil
-- Cold maceration
 
 ### Synergistic Combinations
 

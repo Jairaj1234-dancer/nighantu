@@ -78,26 +78,16 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Madhu/meta-analysis.md"
 - **Phenolics:** Flavonoids, Phenolic acids (varies by floral source)
 - **HMF:** <40mg/kg (freshness indicator)
 
-**Analytical Methods:** HPLC (sugars, HMF), Refractometry (moisture), Diastase activity
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Raw honey, Vehicle/adjuvant, Topical application, Component in Leha/Avaleha
 
 **Standard Dosage:** 5–15 mL; as vehicle: sufficient quantity
 
-**Bioavailability:** Bioenhancer, increases absorption and tissue penetration of co-administered herbs
-
 **Optimal Timing:** Not with hot substances (Ayurvedic contraindication); morning preferred for Kapha conditions
-
-**Standardized Extract:** Raw, unprocessed (Apakva Madhu); aged 1+ year (Purana Madhu) for therapeutic use
-
-**Shelf Life:** Indefinite if unadulterated; best within 1–2 years
 
 **Storage:** Room temperature; never refrigerate; glass or food-grade plastic
 
 **Marker Compounds:** Fructose/glucose (60–75%), Hydrogen peroxide, Methylglyoxal, Defensin-1, Polyphenols
-
-**Quality Parameters:** Moisture <20%, HMF <40 mg/kg, diastase activity >8 DN, no added sugars (C4 sugar ratio test)
 
 **Vehicle (Anupana):** Premier Yogavahi (bioenhancer/vehicle) in Ayurveda; Kapha-reducing vehicle; used in >200 formulations

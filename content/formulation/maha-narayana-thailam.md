@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Tailas-Medicated-Oils"
-answer: "Maha Narayana Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of Narayana Thailam with 50-56+ herbs including the rare Ashtavarga group."
+answer: "Maha Narayana Thailam is a classical Ayurvedic taila, a medicated oil. Listed in Ayurvedic Formulary of India (AFI) Part I. Bhaishajya Ratnavali (Vatavyadhi Chikitsa) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of Narayana Thailam with 50-56+ herbs including the rare Ashtavarga group."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Maha-Naraya
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
+Bhaishajya Ratnavali (Vatavyadhi Chikitsa) by Govind Das Sen. The 'Maha' (great) version is an expanded formulation of [Narayana Thailam](/formulation/narayana-thailam/) with 50-56+ herbs including the rare Ashtavarga group. Also referenced in Sushruta Samhita commentaries.
 
 ## How does it work?
 
@@ -62,25 +62,17 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 151-162) by Govind Das Sen. Th
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
 **Standard Dosage:** External massage or Basti (enema): 30-60ml. The Ayurvedic Formulary of India, Part I, entry 8:45 states a dose of 6 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 151-157.
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** Withanolides, [Aegeline](/glossary/compounds-1-a/#aegeline), [Sesamin](/glossary/compounds-q-t/#sesamin)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Withanolides, Aegeline, Sesamin
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 

@@ -73,17 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 **Optimal Timing:** Between meals for digestive benefits; morning for nutritive supplementation; avoid in patients with kidney disorders
 
-**Shelf Life:** Fresh fruit: 5-7 days refrigerated. Spray-dried powder: 18 months. Freeze-dried powder: 24 months. Capsules/tablets: 24 months.
-
 **Storage:** Fresh fruit at 5-10 deg C. Dried extracts in airtight, moisture-proof containers below 25 deg C with desiccant. Protect from light. Nitrogen-flush packaging recommended.
-
-### Extraction Methods
-
-- Aqueous extraction
-- Hydroalcoholic extraction (50% ethanol)
-- Cold pressing for juice
-- Spray drying of juice concentrate
-- Freeze drying for nutrient preservation
 
 ### Synergistic Combinations
 

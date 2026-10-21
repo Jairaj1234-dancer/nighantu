@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Upodika/meta-analysis.md"
 
 **Standard Dosage:** Cooked greens: 50-100 g daily as food; Fresh juice: 20-40 mL twice daily; Powder: 3-5 g twice daily
 
-**Bioavailability:** Betalains (betacyanins and betaxanthins) show moderate oral bioavailability (20-30%) with rapid absorption. Oxalic acid is only partly absorbed, but high intake can contribute to calcium oxalate kidney stone risk. [Saponins](/reference/saponins/) from Basella have low oral bioavailability (<10%) but act locally as mucosal demulcents. Iron and calcium bioavailability is moderate but reduced by the high oxalate content; co-administration with vitamin C improves iron absorption.
-
 **Optimal Timing:** With meals as food; fresh juice in morning on empty stomach for nutritive effect
-
-**Standardized Extract:** Freeze-dried powder preserving >70% of fresh betalain content; hydroethanolic extract standardized to >2% total saponins (by gravimetric hemolytic method)
-
-**Shelf Life:** Fresh greens: 2-3 days refrigerated; Freeze-dried powder: 18 months; Spray-dried powder: 12-18 months; Capsules: 24 months
 
 **Storage:** Fresh material at 4-8 deg C in perforated bags. Dried products in airtight, light-resistant, moisture-proof containers at 15-25 deg C. Betalain-containing products in opaque packaging.
 
 **Marker Compounds:** Basellasaponin A, Basellasaponin B, Betacyanin, Betaxanthin, [Rutin](/glossary/compounds-q-t/#rutin), [Kaempferol](/reference/kaempferol/), beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Oxalic acid
-
-### Extraction Methods
-
-- Aqueous extraction (cooking/decoction)
-- Cold pressing for juice
-- Hydroethanolic extraction (40-60% ethanol)
-- Freeze drying for color-preserving powder
 
 ### Synergistic Combinations
 

@@ -60,17 +60,11 @@ Bhaishajya Ratnavali (Amavata Chikitsa Prakarana, Chapter 29); also described in
 
 **Standard Dosage:** 2 tablets at bedtime
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
-
-**Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** 2 years (guggulu preparations per ASU); potency may decrease after 1 year
+**Optimal Timing:** After meals
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
 **Marker Compounds:** Guggulsterone, Gallic acid, Sulfur
-
-**Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Gallic acid, Sulfur, guggulsterone content
 
 **Vehicle (Anupana):** Warm water
 

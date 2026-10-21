@@ -68,26 +68,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nagabala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily; external oil application as needed
 
-**Bioavailability:** Ecdysteroids (20-hydroxyecdysone) show limited but consistent oral bioavailability (~10-15%). [Ephedrine](/glossary/compounds-d-g/#ephedrine)-type alkaloids (if present in the species) have high oral bioavailability (~85-95%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) provide local GI effects. Oil-based preparations (Taila, Ghrita) enhance absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) and steroids by 2-3 fold.
-
 **Optimal Timing:** Morning for tonic and strength-building effects; with warm milk for Rasayana; Taila massage in evening before bed for Vata pacification; Ghrita with meals
-
-**Standardized Extract:** Root extract (10:1 hydroalcoholic) standardized to minimum 0.3% [ecdysterone](/glossary/compounds-d-g/#ecdysterone). [Mucilage](/glossary/compounds-l-o/#mucilage)-free dry extract for capsule filling. Nagabala Taila prepared per classical Sneha Paka method. Ghrita meeting classical endpoint criteria.
-
-**Shelf Life:** Root powder: 24 months. Capsules/tablets: 24 months. Taila: 36 months. Ghrita: 24 months. Avaleha: 24 months.
 
 **Storage:** Root powder below 25 deg C in airtight containers with desiccant (hygroscopic due to mucilage). Taila in amber glass at room temperature. Ghrita in clean glass containers. Protect all forms from moisture and light.
 
 **Marker Compounds:** 20-Hydroxyecdysone (ecdysterone), Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), [Lupeol](/reference/lupeol/), [Friedelin](/glossary/compounds-d-g/#friedelin), Mucilage polysaccharides, Ephedrine (species-dependent, must be declared)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Taila Paka method for oil preparations
-- Ghrita Paka for medicated ghee
-- Cold maceration for mucilage extraction
-- Alkaloid-selective acid-water extraction
 
 ### Synergistic Combinations
 

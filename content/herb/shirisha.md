@@ -84,33 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 - Tannins
 - Flavonoids
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Avaleha (confection), Taila (medicated oil), Nasya (nasal drops), Lepa (external paste)
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg standardized extract capsule twice daily; 2-4 drops nasya oil per nostril
 
-**Bioavailability:** Saponins (albizia saponins) show moderate oral bioavailability (20-30%). Flavonoids and tannins have typical moderate absorption (25-35%). Histamine-releasing compounds are locally active. Nasya administration provides direct CNS access via olfactory neural pathway, important for anti-allergic and Medhya (cognitive) applications.
-
 **Optimal Timing:** Before meals for anti-allergic action; nasya in morning on empty stomach after facial steaming; avaleha with honey for respiratory conditions
-
-**Standardized Extract:** Bark extract (8:1 in 60% ethanol), standardized to NLT 6% total saponins (as oleanolic acid equivalents by HPLC-ELSD); total flavonoids NLT 2% (as catechin equivalents)
-
-**Shelf Life:** 24 months for churna and capsules; 18 months for avaleha; 24 months for nasya oil
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Nasya oil in amber glass dropper bottles.
 
 **Marker Compounds:** Albizia saponin C, Albizia saponin D, Melacacidin, D-catechin, Friedelin, Beta-sitosterol, Echinocystic acid
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for nasya preparation
-- Soxhlet extraction for saponin enrichment
-- Traditional avaleha preparation
 
 ### Synergistic Combinations
 

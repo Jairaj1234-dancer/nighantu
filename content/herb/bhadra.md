@@ -82,32 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 - Methyl grevillate
 - Beta-sitosteryl acetate
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Asava/Arishta
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional texts recommend administration with warm water or honey to enhance absorption. Aromatic volatile constituents show rapid absorption but short half-life. Decoction form provides better bioavailability for water-soluble [glycosides](/glossary/compounds-g-l/#glycosides) than dry powder.
-
 **Optimal Timing:** Before meals with warm water for digestive benefits; after meals for general health support
-
-**Standardized Extract:** Whole herb extract standardized to total phenolic content NLT 3%. Further analytical method development needed for robust standardization.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Cool, dry place away from light and moisture. Airtight packaging recommended.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Betulin](/glossary/compounds-a-c/#betulin), Gallic acid, Kaempferol, Flavonoid glycosides
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashayam method)
-- Hydroalcoholic extraction (60:40)
-- Steam distillation for volatile fractions
-- Hydrodistillation for essential oil components
 
 ### Synergistic Combinations
 

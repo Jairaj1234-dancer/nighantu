@@ -72,18 +72,10 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Aja-Dugdha-Goat-Milk/meta-analy
 
 **Standard Dosage:** 100–200 mL twice daily
 
-**Bioavailability:** High; easily digestible due to smaller fat globules and A2 casein
-
 **Optimal Timing:** Morning or before bed; warm
-
-**Standardized Extract:** N/A, used as whole food/vehicle
-
-**Shelf Life:** Fresh: 24–48 hours refrigerated
 
 **Storage:** Refrigerated at 4°C
 
 **Marker Compounds:** A2 beta-casein, Medium-chain triglycerides, Calcium, [Phosphorus](/glossary/compounds-o-q/#phosphorus)
-
-**Quality Parameters:** Fat content 3.5–4%, SNF >8%, no adulteration ([starch](/glossary/compounds-q-t/#starch)/urea negative)
 
 **Vehicle (Anupana):** Used as anupana for Rasayana herbs and bhasmas

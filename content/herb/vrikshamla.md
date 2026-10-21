@@ -87,33 +87,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 - Xanthochymol
 - Kokum butter 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fruit rind powder), Capsule, Tablet, Extract (concentrated), Syrup, Kwatha (decoction)
 
 **Standard Dosage:** 500 mg-1.5 g fruit rind powder or standardized extract twice daily before meals; 250-500 mg HCA (hydroxycitric acid) twice daily for weight management
 
-**Bioavailability:** (-)-Hydroxycitric acid (HCA), the primary bioactive, has good oral bioavailability (~50-60%) as a water-soluble organic acid. Calcium and [potassium](/glossary/compounds-o-q/#potassium) salts of HCA have better stability and bioavailability than free HCA. HCA inhibits ATP-citrate lyase and is rapidly absorbed from the GI tract (Tmax 1-2 hours). Garcinol (polyisoprenylated benzophenone) has low oral bioavailability (<10%) due to poor solubility and extensive metabolism; nanoparticle formulations improve this 5-8 fold.
-
 **Optimal Timing:** 30-60 minutes before meals for weight management (HCA acts on appetite and lipogenesis); avoid on empty stomach if GI-sensitive
-
-**Standardized Extract:** Standardized extract containing 50-60% (-)-HCA (as calcium-potassium salt) by HPLC; garcinol >1% in non-HCA-focused extracts; free HCA lactone <10% (stability indicator)
-
-**Shelf Life:** Fruit rind: 18-24 months; HCA salt powder: 24-36 months; Capsules/Tablets: 24-36 months; Free HCA extract: 12-18 months (lactonization risk)
 
 **Storage:** Store in airtight containers at 15-25 deg C, protected from moisture and heat. HCA salts more stable than free acid. Avoid storage above 30 deg C to prevent lactonization. Protect from humidity (HCA salts are hygroscopic).
 
 **Marker Compounds:** (-)-Hydroxycitric acid (HCA), Garcinol, Isogarcinol, Xanthochymol, Isoxanthochymol, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Camboginol, Guttiferone
-
-### Extraction Methods
-
-- Aqueous extraction of fruit rind
-- Hydroethanolic extraction (40-60% ethanol)
-- Calcium/potassium hydroxide treatment for HCA salt formation
-- Spray drying for standardized HCA powder
-- Supercritical CO2 for garcinol extraction
 
 ### Synergistic Combinations
 

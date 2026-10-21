@@ -60,26 +60,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Pravala-Pishti/meta-
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Pishti, Bhasma (Pravala Bhasma also available)
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Coral calcium carbonate with natural marine mineral matrix; comparative bioavailability not established
-
 **Optimal Timing:** With honey or Malai; with meals for calcium supplementation
-
-**Standardized Extract:** Red coral pishti, cold-processed coral calcium
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Calcium carbonate (85–90%), [Magnesium](/glossary/compounds-l-o/#magnesium) (2–3%), [Strontium](/glossary/compounds-q-t/#strontium), Iron, Trace elements (70+ from marine origin)
-
-**Quality Parameters:** Calcium >30%, magnesium >1%, standard pishti tests, coral authentication (not synthetic), marine pollutant screening
 
 **Vehicle (Anupana):** Honey, Gulkand, Malai, or pomegranate juice

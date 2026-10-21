@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder; 50-100 mL decoction; 500 mg capsule twice daily
 
-**Bioavailability:** Chicoric acid and lactucin sesquiterpene lactones show moderate oral bioavailability (25-35%). Inulin (prebiotic fiber) is not absorbed but modulates gut microbiome favorably. Chlorogenic acid bioavailability ~33% with significant colonic metabolism. Co-administration with [piperine](/reference/piperine/) enhances phenolic acid absorption. Phytosome formulation of chicoric acid improves bioavailability 2.5-fold.
-
 **Optimal Timing:** Before meals for hepatoprotective and digestive benefits; root decoction as coffee substitute in the morning; prebiotic (inulin) preparations between meals
-
-**Standardized Extract:** Root extract standardized to minimum 15% inulin and 2% total sesquiterpene lactones (as lactucin); leaf extract to minimum 3% chicoric acid by HPLC
-
-**Shelf Life:** 24 hours for fresh juice; 18 months for dried root powder; 24 months for capsules; 36 months for roasted root (coffee substitute)
 
 **Storage:** Fresh juice and roots require refrigeration (2-8°C). Dried preparations in airtight containers at 15-30°C. Inulin-rich preparations are hygroscopic, moisture protection essential.
 
 **Marker Compounds:** Chicoric acid, Chlorogenic acid, Lactucin, Lactucopicrin, 8-Deoxylactucin, Inulin, Esculetin, Caffeic acid
-
-### Extraction Methods
-
-- Cold pressing of fresh leaves and roots
-- Hot water extraction for inulin-rich fraction
-- Hydroalcoholic extraction (60% ethanol) for sesquiterpene lactones
-- Roasting of roots (150-180°C) for coffee substitute preparation
-- Spray drying for instant powder
 
 ### Synergistic Combinations
 

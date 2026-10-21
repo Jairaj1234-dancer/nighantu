@@ -67,18 +67,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Sphatika-Bhasma/meta
 
 **Standard Dosage:** 125–250 mg internally; external: as powder or solution
 
-**Bioavailability:** Moderate; alum derivative
-
 **Optimal Timing:** As directed; external use for gargle (Kavala)
-
-**Standardized Extract:** Calcined alum (potassium aluminium sulfate) bhasma
-
-**Shelf Life:** Indefinite (bhasma); 12 months (solution)
 
 **Storage:** Airtight; moisture-sensitive
 
 **Marker Compounds:** Aluminium oxide, Potassium sulfate, Silica
-
-**Quality Parameters:** Aluminium within safe limits, standard bhasma tests, no excess free sulfate
 
 **Vehicle (Anupana):** Honey; external use with water

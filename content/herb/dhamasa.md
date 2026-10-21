@@ -72,24 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dhamasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; 10-20ml fresh juice
 
-**Bioavailability:** Fagonia cretica (Dhamasa) contains saponins, flavonoids, and [terpenoids](/glossary/compounds-t-z/#terpenoids). Water-soluble flavonoid glycosides have moderate oral bioavailability (20-40%). Saponins undergo hydrolysis in the gut, releasing aglycones with higher membrane permeability. Traditional decoction preparation optimizes extraction of glycosidic actives. Enhancement: phytosome complexation of flavonoid-rich fraction improves oral bioavailability 2-3 fold.
-
 **Optimal Timing:** Before meals with warm water for fever and blood purification; after meals for gastric conditions
-
-**Standardized Extract:** Aqueous extract standardized to NLT 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent) by UV spectrophotometry. Extract ratio 8:1. HPTLC fingerprint with minimum 5 characteristic bands.
-
-**Shelf Life:** 2 years (powder); 2.5 years (tablet/capsule); 3 years (spray-dried extract in sealed container)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Flavonoid-rich extracts are photosensitive - use amber or opaque containers.
 
 **Marker Compounds:** [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Isorhamnetin glycosides, Oleanolic acid, Ursolic acid, Hederagenin saponins
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Methanol extraction for research-grade phytochemical profiling
-- Spray-dried aqueous extract for commercial applications
 
 ### Synergistic Combinations
 

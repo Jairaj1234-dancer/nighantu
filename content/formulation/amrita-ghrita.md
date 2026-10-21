@@ -62,17 +62,11 @@ Bhaishajya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (prepar
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily. The Ayurvedic Formulary of India attributes this formula to Cakradatta, Amavatacikitsa; 58.
 
-**Bioavailability:** Ghee (lipid base) provides excellent absorption of both lipophilic and hydrophilic compounds via micelle formation. [Guduchi](/herb/guduchi/) polysaccharides and [alkaloids](/glossary/compounds-1-a/#alkaloids) show enhanced oral bioavailability in ghee matrix compared to aqueous extracts. Crosses blood-brain barrier more effectively in lipid medium.
-
 **Optimal Timing:** On empty stomach in the morning, or as directed by physician
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Ghrita preparations
 
 **Storage:** Store in airtight glass or tin-coated containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C. Ghrita preparations are sensitive to oxidation.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), [Tinosporaside](/glossary/compounds-t-z/#tinosporaside), [Columbin](/glossary/compounds-c-d/#columbin), 20-beta-hydroxyecdysone, Palmarin
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, rancidity test (Kreis test negative), moisture content (<0.5%), specific gravity, HPTLC for [berberine](/glossary/compounds-a-c/#berberine) and tinosporaside, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

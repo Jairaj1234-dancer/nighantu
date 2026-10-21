@@ -73,25 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 **Standard Dosage:** 5-10 mL [sesame oil](/glossary/concepts-m-y/#tila-taila) internally; 3-6 g seed powder twice daily; 5-15 mL oil for external application (Abhyanga)
 
-**Bioavailability:** Sesamin and sesamolin (key lignans) have moderate oral bioavailability (~35-45%) and are converted by gut microflora and hepatic CYP enzymes to enterolactone and enterodiol, which have prolonged half-lives. Co-administration with [piperine](/reference/piperine/) inhibits CYP3A4-mediated metabolism, increasing sesamin bioavailability by ~1.5 fold. The oil matrix itself serves as a natural bioavailability enhancer for lipophilic co-administered compounds.
-
 **Optimal Timing:** Morning on empty stomach for internal oleation (Snehapana); before bath for Abhyanga; with meals for nutritional supplementation
-
-**Standardized Extract:** Cold-pressed oil standardized to >0.5% total lignans (sesamin + sesamolin) by HPLC; tocopherol content >30 mg/100g; acid value <2.0, peroxide value <10 meq O2/kg
-
-**Shelf Life:** Cold-pressed oil: 12-18 months; Softgel capsules: 24 months; Powder: 6-9 months (high oil content causes rancidity); Medicated oils (Siddha Taila): 12-24 months
 
 **Storage:** Oil in dark glass or tin containers at 15-25 deg C, protected from light and heat. Seed powder refrigerated at 2-8 deg C due to oxidation susceptibility. Softgels in blister packs with desiccant.
 
 **Marker Compounds:** Sesamin, Sesamolin, Sesamol, Sesaminol, gamma-Tocopherol, Linoleic acid, Oleic acid, Phytosterols (beta-sitosterol)
-
-### Extraction Methods
-
-- Cold pressing for virgin sesame oil
-- Expeller pressing
-- Solvent extraction (hexane) for maximum oil yield
-- Supercritical CO2 extraction for lignan-rich fraction
-- Traditional Taila Paka (Ayurvedic oil processing) for medicated oils
 
 ### Synergistic Combinations
 

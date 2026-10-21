@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed
 
-**Bioavailability:** Curcuma amada (mango [ginger](/herb/ginger/)) contains curcuminoids similar to [turmeric](/herb/turmeric/) but in lower concentrations, plus unique difurocumenonol. Curcuminoid bioavailability is inherently low (<5%) but enhanced by [piperine](/reference/piperine/) (20-fold increase) or lipid formulations. The volatile oil content aids absorption. Phospholipid complexation (phytosome) technology can increase bioavailability 5-10x.
-
 **Optimal Timing:** With meals containing fat/oil for enhanced curcuminoid absorption; with warm milk at bedtime for anti-inflammatory and immune benefits
-
-**Standardized Extract:** Rhizome extract standardized to minimum 1% total curcuminoids (as [curcumin](/herb/curcumin/)). Essential oil standardized to minimum 30% [myrcene](/glossary/compounds-l-o/#myrcene). Oleoresin with minimum 3% curcuminoids.
-
-**Shelf Life:** 2 years (powder); 3 years (capsules/tablets); 3 years (essential oil); 18 months (oleoresin)
 
 **Storage:** Cool, dry place below 25°C, protected from light (curcuminoids are photosensitive). Airtight containers. Essential oil in amber glass.
 
 **Marker Compounds:** [Curcumin](/herb/curcumin/), [Demethoxycurcumin](/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/glossary/compounds-a-c/#bisdemethoxycurcumin), Difurocumenonol, Myrcene, Beta-pinene, [Ocimene](/glossary/compounds-l-o/#ocimene), [Curdione](/glossary/compounds-c-d/#curdione)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (80:20 ethanol-water) for curcuminoids
-- Steam distillation for essential oil (yield 1-3%)
-- Supercritical CO2 for curcuminoid and oil co-extraction
-- Aqueous decoction for traditional preparation
-- Hexane extraction for oleoresin
 
 ### Synergistic Combinations
 

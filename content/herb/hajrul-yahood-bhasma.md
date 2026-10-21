@@ -68,26 +68,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Hajrul-Yahood-Bhasma
 - **Silicon (Si):** Trace
 - **Magnesium (Mg):** Trace
 
-**Analytical Methods:** XRD, FTIR, ICP-OES, SEM
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma, Pishti
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; calcium carbonate form readily absorbed
-
 **Optimal Timing:** With meals; with [Shilajit](/herb/shilajit/) or [Gokshura](/herb/gokshura/) for urinary disorders
-
-**Standardized Extract:** Calcined calcium carbonate (fossil stone) bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Calcium carbonate, Calcium phosphate, [Silica](/glossary/compounds-q-t/#silica)
-
-**Quality Parameters:** Calcium >30%, standard bhasma tests, no free calcium oxide
 
 **Vehicle (Anupana):** Honey, Gokshuradi Kwatha, or [Varuna](/herb/varuna/) Kwatha for urinary calculi

@@ -72,24 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g root powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Grewia tenax / Grewia hirsuta (Gangeruki/Nagabalaa) root contains flavonoids, [tannins](/reference/tannins/), and mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) have moderate bioavailability (15-25%). [Mucilage](/glossary/compounds-l-o/#mucilage) components are not systemically absorbed but act as prebiotic in the colon and modulate GI absorption of other constituents. Traditional Kashayam preparation extracts both flavonoids and mucilage effectively. Limited modern pharmacokinetic data available. Enhancement: standard approaches for flavonoid-rich herbs (phospholipid complexation, [piperine](/reference/piperine/) co-administration).
-
 **Optimal Timing:** Before meals with warm water for general tonic effect; Kashayam morning and evening
-
-**Standardized Extract:** Aqueous or hydroalcoholic root extract characterized by HPTLC fingerprint. Total flavonoid content NLT 1.5% (as [quercetin](/reference/quercetinquercetin/) equivalent). Mucilage content NLT 5%. Extract ratio 5:1 to 8:1.
-
-**Shelf Life:** 2 years (root powder); 2.5 years (tablet/capsule); 3 years (Kwath Ghana sealed)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Mucilaginous root powder is hygroscopic - use moisture-barrier packaging.
 
 **Marker Compounds:** Flavonoids (quercetin, [kaempferol](/reference/kaempferol/) glycosides), Beta-sitosterol, Mucilage (polysaccharides), Tannins (total tannin content), [Friedelin](/glossary/compounds-d-g/#friedelin)
-
-### Extraction Methods
-
-- Aqueous decoction of dried root (traditional)
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Cold maceration for mucilage extraction
-- Spray-dried aqueous extract
 
 ### Synergistic Combinations
 

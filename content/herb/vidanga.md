@@ -84,33 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Vidanga/meta-analysis.md"
 - Embeliol 
 - Volatile oils
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Taila (medicated oil), Leha/Avaleh
 
 **Standard Dosage:** 1-3 g powder twice daily; 50-100 mL decoction twice daily; 250-500 mg standardized extract capsule twice daily
 
-**Bioavailability:** Embelin (major active, 2,5-dihydroxy-3-undecyl-p-benzoquinone) has moderate oral bioavailability (~30-40%) due to reasonable lipophilicity (log P ~5). Absorption is enhanced by lipid co-administration (50-70% increase with fatty meal). Undergoes hepatic metabolism via CYP450 [enzymes](/glossary/compounds-d-g/#enzymes). Embelin has shown dose-dependent pharmacokinetics in animal studies with Tmax of 2-4 hours and elimination half-life of 4-6 hours.
-
 **Optimal Timing:** Morning on empty stomach for anthelmintic action (3-7 day course); before meals for digestive action
-
-**Standardized Extract:** Fruit extract standardized to >5% embelin by HPLC; total quinone content >8% by UV spectrophotometry
-
-**Shelf Life:** Dried fruits: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Decoction: prepare fresh
 
 **Storage:** Airtight containers at 15-25 deg C, protected from light and moisture. Embelin is susceptible to photodegradation; opaque packaging recommended.
 
 **Marker Compounds:** Embelin, Vilangin, Christembine, Quercitol, Volatile oil (with terpenes), Homoembelin, Rapanone, Cinnamic acid
-
-### Extraction Methods
-
-- Hydroethanolic extraction (60-80% ethanol)
-- Supercritical CO2 extraction for embelin-rich fraction
-- Soxhlet extraction with ethanol
-- Aqueous decoction
-- Hexane extraction for quinone-rich fraction
 
 ### Synergistic Combinations
 

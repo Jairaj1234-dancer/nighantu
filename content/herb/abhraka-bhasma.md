@@ -80,27 +80,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 - **Potassium (K):** Present
 - **Magnesium (Mg):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS, Particle size analysis
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma (calcined powder)
 
 **Standard Dosage:** 125–250 mg with honey/ghee
 
-**Bioavailability:** Nano-particulate form; particle size 50–80 nm post-Puta
-
 **Optimal Timing:** With morning/evening meals; with specific anupana
-
-**Standardized Extract:** Sahasra Puti Abhraka Bhasma (1000-Puta calcination), most valued
-
-**Shelf Life:** Indefinite if properly prepared and stored (no expiry for bhasmas per AFI)
 
 **Storage:** Airtight glass container; avoid moisture
 
 **Marker Compounds:** Iron oxide, Silica (mica derivative), Alumina, Trace minerals
-
-**Quality Parameters:** Rekhapurnatva (fills finger lines), Varitaratva (floats on water), Niruttha (irreversible), Apunarbhava (no reversion), particle size <100 nm, heavy metals within AYUSH limits
 
 **Vehicle (Anupana):** Honey, ghee, or specific herbal juices depending on target condition
 

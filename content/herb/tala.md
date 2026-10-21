@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 **Standard Dosage:** 5-10 g fruit pulp powder per day; 50-100 mL fresh juice twice daily; 500-1000 mg extract capsule twice daily; Tala-Guda (palm jaggery) 10-20 g as sweetener
 
-**Bioavailability:** Sugar and mineral content ([potassium](/glossary/compounds-o-q/#potassium), iron, calcium) highly bioavailable from fresh sap and jaggery (>70% for sugars, 15-25% for minerals). [Polyphenols](/glossary/compounds-o-q/#polyphenols) from fruit have moderate bioavailability (20-35%). Kernel oil fatty acids (lauric, oleic) have high bioavailability (>75%). B-[vitamins](/glossary/compounds-t-z/#vitamins) in fresh sap are well-absorbed.
-
 **Optimal Timing:** Fresh Neera: morning on empty stomach for cooling and nutritive effect. Jaggery: anytime as sweetener in formulations. Fruit pulp: after meals.
-
-**Standardized Extract:** Fruit pulp extract (5:1), standardized to NLT 3% total polyphenols (as gallic acid equivalents); palm jaggery standardized to total mineral content, iron NLT 10 mg/100 g
-
-**Shelf Life:** 24 hours for fresh Neera; 12 months for jaggery; 24 months for dried fruit pulp powder; 30 months for capsules; 18 months for kernel oil
 
 **Storage:** Fresh Neera: refrigerate immediately, consume within 24 hours. Jaggery: airtight containers at room temperature, protect from moisture (hygroscopic). Churna: below 25 deg C, airtight. Kernel oil: amber glass, nitrogen-flushed.
 
 **Marker Compounds:** Gallic acid, Flabelliferins (steroidal [saponins](/reference/saponins/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Borassosides, [Sucrose](/glossary/compounds-q-t/#sucrose) (sap/jaggery), Iron and Potassium (mineral markers)
-
-### Extraction Methods
-
-- Fresh sap collection by tapping inflorescence (Neera)
-- Cold pressing of mature kernel for oil
-- Fruit pulp separation and drying
-- Jaggery preparation by boiling and concentrating fresh sap
-- Hydroalcoholic extraction of fruit pulp (50% ethanol)
 
 ### Synergistic Combinations
 

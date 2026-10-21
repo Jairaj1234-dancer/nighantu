@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Chakshushya/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; [Ghrita](/herb/ghrita/): 5-10g with warm milk; eye drops: 1-2 drops per eye; as directed by Vaidya for Anjana application
 
-**Bioavailability:** Chakshushya (eye-benefiting) is a functional category (Gana) rather than a single herb, may refer to specific plants like [Jivanti](/herb/jivanti/), [Saptaparna](/herb/saptaparna/), or formulations. Carotenoid-rich Chakshushya herbs show moderate oral bioavailability enhanced significantly by lipids (Ghrita is the classical vehicle for ophthalmic Ayurvedic preparations). Topical ocular preparations (Anjana, Aschyotana) provide direct local bioavailability bypassing systemic distribution.
-
 **Optimal Timing:** Ghrita with warm milk at bedtime for eye nourishment (Netra Tarpana effect); eye drops morning and evening; Anjana as prescribed
-
-**Standardized Extract:** Depends on specific botanical source. General specification: total [carotenoids](/glossary/compounds-a-c/#carotenoids) NLT 2%; total [flavonoids](/reference/flavonoids/) NLT 3%. [Triphala](/herb/triphala/) Ghrita standardized per AFI (Ayurvedic Formulary of India).
-
-**Shelf Life:** 2 years (powder); 3 years (Ghrita); 6 months (eye drops, preservative-free); 2 years (eye drops, preserved)
 
 **Storage:** Ghrita at room temperature in glass jars. Eye drops under refrigeration (2-8°C) after opening. Powder in airtight containers. Protect from light.
 
 **Marker Compounds:** [Lutein](/glossary/compounds-l-o/#lutein), [Zeaxanthin](/glossary/compounds-t-z/#zeaxanthin), Beta-carotene, Gallic acid, Ellagic acid, [Quercetin](/reference/quercetinquercetin/), [Rutin](/glossary/compounds-q-t/#rutin)
-
-### Extraction Methods
-
-- Ghrita preparation (lipid-based extraction in clarified butter)
-- Aqueous decoction for Kashayam
-- Hydroalcoholic extraction for general extract
-- Sterile aqueous extraction for eye drop formulations
-- Traditional Anjana preparation (trituration with specific juices)
 
 ### Synergistic Combinations
 

@@ -103,7 +103,7 @@ Used in many Ayurvedic formulations. Sacred in Hindu rituals. Classified as Varn
 
 ## Recommended Dosage
 
-Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailability)
+Powder and curcumin extract: at the doses given under Standard Dosage (with piperine for bioavailability).
 
 ## Safety, contraindications and cautions
 
@@ -124,33 +124,17 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day (with piperine for bioavailab
 - Curlone
 - Curcuminoids complex 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Lepa (paste for external use), Taila (oil), Soft gel capsule, Nano-formulation
 
 **Standard Dosage:** 3-6g powder daily; 400-600mg curcuminoid extract twice daily; 15-30ml decoction
 
-**Bioavailability:** Curcumin has notoriously poor oral bioavailability (<1%) due to low aqueous solubility, rapid metabolism, and poor absorption. Enhancement strategies: (1) Piperine co-administration increases bioavailability 20-fold; (2) Phospholipid complexation (Meriva/phytosome) improves absorption 29-fold; (3) Nanoparticle formulations (nanocurcumin); (4) Amorphous solid dispersions; (5) Self-emulsifying drug delivery systems (SEDDS); (6) Liposomal encapsulation; (7) Adjuvant use with fats/oils as per traditional practice (Haldi Doodh/golden milk).
-
 **Optimal Timing:** With meals containing fat for improved absorption; traditionally taken with warm milk or ghee at bedtime
-
-**Standardized Extract:** Curcuminoid extract standardized to 95% total curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin); Turmerone-rich oil fraction (ar-turmerone >40%); Phytosomal curcumin (phosphatidylcholine complex)
-
-**Shelf Life:** 2 years (powder); 3 years (standardized extract tablet/capsule); 2 years (liquid preparations)
 
 **Storage:** Cool, dry place protected from light (curcumin degrades under UV). Store below 25°C in amber containers. Avoid alkaline environments.
 
 **Marker Compounds:** Curcumin (diferuloylmethane), Demethoxycurcumin, Bisdemethoxycurcumin, ar-Turmerone, Turmerone, Zingiberene
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (95% ethanol for curcuminoids)
-- Supercritical CO2 extraction (turmerone-rich oil)
-- Aqueous extraction (polysaccharide-rich fraction)
-- Acetone extraction (high curcuminoid yield)
-- Enzyme-assisted extraction
 
 ### Synergistic Combinations
 

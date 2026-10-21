@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 - Mucilage
 - Polysaccharides
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Tablet, Capsule, Tea/Infusion, Syrup, Granules, Churna (powder), Standardized extract tablet
 
 **Standard Dosage:** 15-30 mg sennosides (calculated as sennoside B) per day for adults; 0.5-2 g leaf powder; 1-2 g pod powder; use for maximum 7-10 consecutive days
 
-**Bioavailability:** Sennosides are prodrugs, poorly absorbed intact in the small intestine (<5% systemic absorption). Colonic bacteria (Bifidobacterium, Bacteroides) convert sennosides to rhein-anthrone, the active metabolite, which acts locally on colonic mucosa to stimulate peristalsis and electrolyte secretion. Onset of action: 6-12 hours (overnight effect). This colonic-targeted mechanism is therapeutically advantageous.
-
 **Optimal Timing:** Single dose at bedtime for morning bowel movement (6-12 hour onset); take with adequate water (250 mL minimum)
-
-**Standardized Extract:** Standardized leaf extract per USP: NLT 6.0% total sennosides (as sennoside B) by HPLC. Pod extract: NLT 2.5% total sennosides. Typical commercial extract: 8-20% sennosides.
-
-**Shelf Life:** 36 months for standardized extract tablets in blister packaging; 24 months for dried leaf/pod; 18 months for tea bags
 
 **Storage:** Store below 25 deg C, protected from light and moisture. Sennosides are photolabile, amber or opaque packaging required. RH <60%.
 
 **Marker Compounds:** Sennoside A, Sennoside B, Rhein, Aloe-emodin, Kaempferol, Isorhamnetin
-
-### Extraction Methods
-
-- Aqueous extraction (hot water infusion at 80-90 deg C, 10-15 min)
-- Hydroalcoholic extraction (40-60% ethanol)
-- Standardized extraction per USP/PhEur monograph
-- Spray-drying of aqueous extract for powder form
 
 ### Synergistic Combinations
 

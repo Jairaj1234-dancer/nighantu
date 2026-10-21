@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Masi/meta-analysis.md"
 
 **Standard Dosage:** 125-500 mg Bhasma per day with appropriate Anupana (honey, ghee, or buttermilk); typically in divided doses twice daily
 
-**Bioavailability:** Bhasma preparations are nano-particulate inorganic compounds with unique bioavailability characteristics. Iron oxide nanoparticles in Masi (ink/iron-based Bhasma) are reported to show enhanced absorption compared to conventional iron supplements (UNSOURCED). Particle size (typically 30-100 nm in properly prepared Bhasma) facilitates paracellular and transcellular absorption. Anupana (vehicle) plays critical role in directing absorption.
-
 **Optimal Timing:** Before meals with honey for Kapha conditions; after meals with ghee for Vata conditions; with buttermilk for Pitta conditions and iron supplementation
-
-**Standardized Extract:** Properly prepared Bhasma meeting all classical Bhasma Pariksha (quality tests). Particle size distribution: D90 below 100 nm. Iron content as Fe2O3: 80-95%. Loss on ignition below 5%. Acid-insoluble ash per pharmacopoeial limits.
-
-**Shelf Life:** Indefinite for properly prepared Bhasma (classical view). Commercial shelf life: 5+ years. Bhasma does not degrade if stored properly.
 
 **Storage:** Store in airtight glass containers. Protect from moisture. Can be stored at room temperature. Avoid plastic containers as Bhasma may interact with polymers. Traditional storage in glass or porcelain containers sealed with beeswax.
 
 **Marker Compounds:** Iron oxide (Fe2O3/Fe3O4), Carbon (residual), Calcium oxide, [Silica](/glossary/compounds-q-t/#silica) (trace), [Magnesium](/glossary/compounds-l-o/#magnesium) oxide (trace)
-
-### Extraction Methods
-
-- Classical Bhasma preparation (Shodhana, Marana, repeated calcination cycles)
-- Levigation (Bhavana) with herbal juices
-- Puta system of controlled incineration at specific temperatures
-- Modern validation using muffle furnace at 600-800 deg C
 
 ### Synergistic Combinations
 

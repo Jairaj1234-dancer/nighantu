@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Priyala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 1-3 g seed powder daily; 20-30 mL bark decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Buchanania lanzan (Priyala/Chironji) seed contains high-quality protein and lipids enhancing self-emulsification and bioavailability of lipophilic compounds. [Myricetin](/glossary/compounds-l-o/#myricetin) and other [flavonoids](/reference/flavonoids/) show moderate bioavailability (15-30%). Seed oil fatty acids (oleic 50-55%, palmitic 25-30%) are well absorbed. Bark [tannins](/reference/tannins/) act locally; systemic absorption limited.
-
 **Optimal Timing:** Seed/kernel: with meals as nutritive supplement. Bark decoction: between meals for therapeutic use. Seed oil: topical application at night for skin conditions.
-
-**Standardized Extract:** Priyala seed kernel extract (4:1) standardized to myricetin >1%, total phenolics >4% GAE. Cold-pressed seed oil with oleic acid >50%, acid value <5 mg KOH/g. Bark extract (8:1) with total tannins >10%.
-
-**Shelf Life:** Seed kernels: 6-12 months (due to oil rancidity); Seed oil: 12-18 months with [antioxidant](/reference/antioxidant/); Bark powder: 18-24 months; Extract: 24 months
 
 **Storage:** Seeds/kernels: cool, dry, pest-proof, below 20 deg C in vacuum-sealed or nitrogen-flushed packages. Oil: amber glass with nitrogen headspace, below 25 deg C. Bark: airtight containers, below 25 deg C, RH <55%.
 
 **Marker Compounds:** Myricetin, [Quercetin](/reference/quercetinquercetin/), Gallic acid, Oleic acid, Palmitic acid, Linoleic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), [Friedelin](/glossary/compounds-d-g/#friedelin)
-
-### Extraction Methods
-
-- Cold-press extraction of seed oil
-- Aqueous decoction of bark
-- Hydroalcoholic extraction (50-60% ethanol) of bark
-- Methanol extraction of seed kernel for flavonoid profiling
-- Soxhlet extraction with petroleum ether for oil yield determination
 
 ### Synergistic Combinations
 

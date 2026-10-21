@@ -62,25 +62,17 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated [coconut oil](/glossary/concepts-a-m/#coconut-oil)), External application
 
 **Standard Dosage:** Scalp application: 10-15ml
 
-**Bioavailability:** Oil base ([coconut oil](/glossary/concepts-a-m/#coconut-oil)) enhances dermal absorption of lipophilic active compounds
-
 **Optimal Timing:** Before bath or at bedtime
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** Eclipta [saponins](/reference/saponins/), Gallic acid, [Indigotin](/glossary/compounds-g-l/#indigotin)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Eclipta saponins, Gallic acid, Indigotin
 
 **Vehicle (Anupana):** External: massage into affected area
 

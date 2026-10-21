@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Ksheera/meta-analys
 
 **Standard Dosage:** 1-3 drops Shodhita latex with appropriate anupana (INTERNAL: only under strict physician supervision); external: as needed for topical application
 
-**Bioavailability:** High bioavailability of cardiac [glycosides](/glossary/compounds-g-l/#glycosides) from latex, [calotropin](/glossary/compounds-a-c/#calotropin) and [calactin](/glossary/compounds-a-c/#calactin) are rapidly absorbed both orally and transdermally. Latex [proteins](/glossary/compounds-o-q/#proteins) (calotropain) are proteolytic and facilitate penetration through skin barriers. Shodhana (milk purification) process partially inactivates the most toxic cardenolides while retaining therapeutically useful compounds.
-
 **Optimal Timing:** Strictly as per physician direction. External applications to affected area, avoiding broken skin and mucous membranes.
-
-**Standardized Extract:** Shodhita [Arka](/herb/arka/) Ksheera (purified latex) with documented cardenolide content per batch. Total cardenolide levels must be within specified therapeutic range (established per classical formulation monograph).
-
-**Shelf Life:** 1 year (Shodhita latex, refrigerated); 3 years (oil-based preparations); 2 years (pills/Gutika)
 
 **Storage:** Shodhita latex refrigerated (2-8°C) in amber glass. Double-sealed containers. Clearly labeled: TOXIC, RESTRICTED. Store separately from food-grade materials.
 
 **Marker Compounds:** Calotropin, Calactin, [Calotoxin](/glossary/compounds-a-c/#calotoxin), [Uscharin](/glossary/compounds-t-z/#uscharin), Calotropagenin, Calotropain (protease)
-
-### Extraction Methods
-
-- Direct latex collection from stem incisions
-- Shodhana: trituration of latex with cow's milk (Dugdha Bhavana, 7 cycles)
-- Oil processing (Ksheera added to [sesame oil](/glossary/concepts-m-y/#tila-taila) base with herbal decoction, heated per Taila Paka vidhi)
 
 ### Synergistic Combinations
 

@@ -77,22 +77,11 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 **Standard Dosage:** 10-20g (1-2 tablespoons) twice daily with warm milk or water. Classical dose as per text reference.
 
-**Bioavailability:** Polyherbal Avaleha preparation with honey as a key vehicle. Honey provides enzymatic activity and enhances mucosal absorption. The sugar matrix provides sustained release of actives in the GI tract. Multiple ingredients may provide mutual bioenhancement through inhibition of metabolic [enzymes](/glossary/compounds-d-g/#enzymes) and efflux transporters. This is a traditionally optimized bioavailability-enhanced formulation.
-
 **Optimal Timing:** After meals with warm milk for [Rasayana](/reference/rasayana/) (rejuvenation) effect; before meals for respiratory conditions; morning and evening doses
-
-**Standardized Extract:** Not an extract-based product. Finished product standardized by: total polyphenol content, Brix (65-70), pH (4.0-5.5), HPTLC fingerprint matching reference batch, assay of key marker compounds from principal ingredients.
-
-**Shelf Life:** 1-2 years (traditional preparation in glass/ceramic jar); 2 years (with permitted preservatives in modern packaging)
 
 **Storage:** Clean, dry, airtight glass or food-grade plastic containers at room temperature (below 30 deg C). Use clean dry spoon for dispensing - moisture introduction causes microbial growth. Do not refrigerate unless specified - cold storage may crystallize sugars.
 
 **Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) / OPCs (from [Draksha](/herb/draksha/)), Piperine (from [Pippali](/herb/pippali/), if present in formulation), [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from [Yashtimadhu](/herb/yashtimadhu/), if present), Total polyphenols, Sugar content (Brix)
-
-### Extraction Methods
-
-- Generic Avaleha Paka process (not specific to this formula's ingredient list): [Draksha](/herb/draksha/) Kashayam (decoction) concentrated, then cooked with sugar/jaggery to Avaleha consistency (thread test), then Prakshepa Dravya (fine powders) and ghee/honey added off heat
-- No standalone extraction - the Paka process IS the manufacturing method
 
 ### Synergistic Combinations
 

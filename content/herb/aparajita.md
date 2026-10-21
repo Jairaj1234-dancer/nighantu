@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 **Standard Dosage:** 2-5g root powder twice daily; 500mg-1g extract capsule; 10-20ml flower juice; blue tea infusion ad libitum
 
-**Bioavailability:** Moderate oral bioavailability. Clitoria ternatea contains cyclotides (CT1-CT12), anthocyanins (ternatin A1-D3), and flavonol glycosides. Cyclotides have unusual oral stability due to cyclic cystine knot structure, survive GI transit with some intact absorption. Bioavailability of delphinidin-based anthocyanins (ternatins) is not established; it is reported to be enhanced by acidic medium. Taraxerol shows good absorption with lipid co-administration.
-
 **Optimal Timing:** Morning on empty stomach for Medhya (cognitive) effects; blue tea anytime; root powder with warm milk at bedtime for Vata pacification
-
-**Standardized Extract:** Root extract (10:1) standardized to minimum 5% total [flavonoids](/reference/flavonoids/). Flower extract standardized to minimum 15% total anthocyanins (as delphinidin-3-glucoside equivalent). Cyclotide-enriched extract for research applications.
-
-**Shelf Life:** 2 years (root powder); 18 months (flower powder, anthocyanins degrade); 3 years (capsules/tablets with stability); 1 year (blue tea bags)
 
 **Storage:** Protect from light and moisture (anthocyanins are photosensitive). Airtight containers, cool and dry, below 25°C. Nitrogen-flush packaging for flower powder.
 
 **Marker Compounds:** Ternatin A1-D3 (anthocyanins), Taraxerol, Taraxerone, Kaempferol glycosides, Cliotide CT1-CT12 (cyclotides), Delphinidin-3,3',5'-triglucoside, Aparajitin
-
-### Extraction Methods
-
-- Aqueous infusion for anthocyanin-rich flower preparation
-- Hydroalcoholic extraction (70:30) for flavonoid and cyclotide enrichment
-- Ethanol extraction for taraxerol and flavonoids
-- Supercritical CO2 for lipophilic terpenoid fraction
-- pH-controlled aqueous extraction for anthocyanin optimization (pH 2-3)
 
 ### Synergistic Combinations
 

@@ -40,20 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Hrivera/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; external oil as needed
 
-**Bioavailability:** Coleus vettiveroides root contains sesquiterpenes with moderate lipophilic absorption. Essential oil components are well absorbed transdermally. Oral bioavailability of sesquiterpenes is moderate; lipid-based formulations may enhance absorption.
-
 **Optimal Timing:** Between meals with cool water or coconut water for Pitta disorders; externally as needed
 
-**Shelf Life:** 2 years (powder); 3 years (essential oil, sealed); 2 years (capsule)
-
 **Storage:** Cool, dry place below 25°C. Essential oil in amber glass containers. Root powder in airtight containers.
-
-### Extraction Methods
-
-- Steam distillation (essential oil)
-- Hydroalcoholic extraction (70:30)
-- Aqueous decoction for internal use
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila) for Taila preparation
 
 ### Synergistic Combinations
 

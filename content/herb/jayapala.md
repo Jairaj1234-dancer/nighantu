@@ -47,7 +47,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 - **Poisoning case.** Croton tiglium poisoning cases documented in Southeast Asia and India from accidental ingestion of seeds. Symptoms include rapid onset (within 30 minutes) of severe purging, vomiting, abdominal pain, and cardiovascular collapse in severe cases.
 - **Poisoning case.** Occupational exposure to croton oil during seed processing causes severe contact dermatitis with vesiculation, erythema, and pustule formation. Skin contact alone can cause systemic symptoms.
 - **Antidote.** No specific antidote. Treatment is supportive: aggressive IV fluid and electrolyte replacement for dehydration from severe purging, antiemetics, GI protectants (demulcents), activated charcoal if within 1 hour of ingestion. Skin decontamination with soap and water for dermal exposure.
-- **Maximum dose.** Purified (Shuddha) Jayapala seeds: 15-30 mg per day. Croton oil dose: 1-2 drops (maximum) in milk or capsule. NEVER use unpurified seeds internally. Severe purgation occurs with even small amounts.
+- **Maximum dose.** Purified (Shuddha) Jayapala seeds: only at the dose given under Dosage. Croton oil dose: 1-2 drops (maximum) in milk or capsule. NEVER use unpurified seeds internally. Severe purgation occurs with even small amounts.
 - **Safety alert.** Classified under Upavisha in Ayurveda and Schedule E1 in D&C Rules. Seeds must undergo Shodhana before any internal use. Avoid in pregnancy, children, elderly, and patients with GI disorders. 439 Ayurvedic formulations contain Jayapala - all require proper processing.
 
 ## What is it made of?
@@ -60,23 +60,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 **Standard Dosage:** 60-125mg Shodhita (purified) seed powder ONLY under strict physician supervision. HIGHLY TOXIC in crude form.
 
-**Bioavailability:** Croton tiglium seed contains phorbol esters (12-O-tetradecanoylphorbol-13-acetate/TPA), croton oil (fixed oil with crotonic acid), and [proteins](/glossary/compounds-o-q/#proteins) (crotin - a ribosome-inactivating protein). Phorbol esters are rapidly absorbed through skin and GI tract. Croton oil is a powerful irritant and vesicant. High bioavailability contributes to toxicity; even small doses produce drastic purgation.
-
 **Optimal Timing:** Only under direct physician supervision in controlled clinical setting. Traditional use: early morning on empty stomach (Shodhita preparation only).
-
-**Standardized Extract:** NO standardized extract recommended for commercial purposes due to toxicity. Shodhita preparation only, with validated reduction in phorbol ester content.
-
-**Shelf Life:** Not applicable for commercial products. Research/Shodhita preparations: 6 months (powder, tightly sealed)
 
 **Storage:** Locked storage, clearly labeled as TOXIC/POISONOUS. Restricted access. Full safety documentation required. Not for general commercial storage or distribution.
 
 **Marker Compounds:** 12-O-Tetradecanoylphorbol-13-acetate (TPA/PMA) - toxic marker, must be monitored, Croton oil (irritant), Crotonic acid, Crotin protein (toxalbumin)
-
-### Extraction Methods
-
-- NOT recommended for extraction in standard R&D settings due to extreme toxicity
-- Traditional Shodhana (purification) process: seeds wrapped in cloth and boiled in Dolayantra (double-boiling apparatus) with cow's milk, followed by Bhavana with specific juices
-- Oil expression by cold pressing (for external use only, with extreme caution)
 
 ### Synergistic Combinations
 

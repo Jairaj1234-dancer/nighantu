@@ -75,33 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 - Curcuzedoalide 
 - Essential oil 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (rhizome powder), Capsule, Tablet, Essential oil, Taila (medicated oil), Lepa (paste)
 
 **Standard Dosage:** 1-3g rhizome powder twice daily; 250-500mg extract; 3-5 drops essential oil (external); paste as needed externally
 
-**Bioavailability:** Curcuma zedoaria (white [turmeric](/herb/turmeric/)/zedoary) rhizome contains sesquiterpenes ([curzerenone](/glossary/compounds-c-d/#curzerenone), curzerene, germacrone) and curcuminoids (in lower amounts than C. longa). Sesquiterpenes have moderate oral bioavailability with lipophilic absorption. Germacrone shows reasonable GI absorption. Essential oil components absorbed well via inhalation and transdermal routes. Co-administration with [Pippali](/herb/pippali/) or lipids enhances absorption.
-
 **Optimal Timing:** Before or after meals with warm water; external paste as needed
-
-**Standardized Extract:** Essential oil standardized to curzerenone (>15%) and germacrone (>10%); hydroalcoholic extract with HPTLC fingerprint matching reference standard
-
-**Shelf Life:** 2 years (rhizome powder); 3 years (essential oil, sealed); 3 years (capsule/tablet)
 
 **Storage:** Cool, dry place below 25°C, protected from light. Essential oil in amber glass. Powder in airtight containers to preserve volatile content.
 
 **Marker Compounds:** Curzerenone, Curzerene, Germacrone, Furanodienone, [Curdione](/glossary/compounds-c-d/#curdione), Dehydrocurdione, Zederone, [Curcumenol](/glossary/compounds-c-d/#curcumenol)
-
-### Extraction Methods
-
-- Steam distillation (essential oil, 1-2.5% yield)
-- Supercritical CO2 extraction for sesquiterpene-enriched fraction
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Aqueous extraction
-- Traditional processing in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) for Taila
 
 ### Synergistic Combinations
 

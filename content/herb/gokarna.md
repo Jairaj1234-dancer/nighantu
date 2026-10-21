@@ -71,25 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gokarna/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Clitoria ternatea (Gokarna / [Aparajita](/herb/aparajita/) / Butterfly Pea) contains anthocyanins (ternatins), flavonol glycosides (kaempferol, [quercetin](/reference/quercetinquercetin/)), and triterpenoid [saponins](/reference/saponins/). Ternatins (polyacylated anthocyanins) are unique to this species and have moderate oral bioavailability with pH-dependent stability (more stable than common anthocyanins due to polyacylation). [Flavonoids](/reference/flavonoids/) show 15-25% bioavailability. Cyclotides (cyclic peptides) in the plant have poor oral bioavailability but show unique biological activities. Enhancement: liposomal delivery of ternatin-rich fraction; nano-emulsion of bioactive peptides; co-administration with ascorbic acid stabilizes anthocyanins.
-
 **Optimal Timing:** Morning doses for nootropic/cognitive effects; root decoction before meals; flower tea can be consumed throughout the day
-
-**Standardized Extract:** Flower extract standardized to NLT 10% total anthocyanins (as ternatin equivalents) by HPLC at pH 3.0. Root extract: NLT 2% total saponins. Extract ratios: flower 10:1, root 6:1.
-
-**Shelf Life:** 2 years (dried flowers/powder with acid stabilization); 2.5 years (tablet/capsule); fresh flowers: use within 24 hours
 
 **Storage:** Dried flowers and powder: airtight, light-resistant, nitrogen-flushed containers below 25 deg C at pH <5 (acidified matrix). Light and alkaline pH rapidly degrade anthocyanins. Root powder: standard conditions, airtight below 25 deg C.
 
 **Marker Compounds:** Ternatin A1/A2/B1/B2 (polyacylated anthocyanins), Kaempferol glycosides, [Quercetin](/reference/quercetinquercetin/) glycosides, Taraxerol, Clitorin, Cyclotides (CT1, CT2), [Aparajitin](/glossary/compounds-1-a/#aparajitin) (root)
-
-### Extraction Methods
-
-- Aqueous extraction (traditional - preserves anthocyanins at acidic pH)
-- Hydroalcoholic extraction (50:50 ethanol:water, acidified)
-- Fresh flower juice for anthocyanin-rich preparations
-- Acidified aqueous extraction (0.1% [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid)) for maximum anthocyanin yield
-- Root decoction for nootropic applications
 
 ### Synergistic Combinations
 

@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasa/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice with honey twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily; 1-2 teaspoons Vasavaleha twice daily
 
-**Bioavailability:** Vasicine (peganine) has good oral bioavailability (~45-55%) with rapid absorption (Tmax 1-2 hours). Vasicinone (auto-oxidation product of vasicine) is also well absorbed. Both cross the blood-brain barrier. Vasicine is a potent bronchodilator and respiratory stimulant. Metabolism is primarily hepatic (CYP-mediated oxidation). Vasicinone has complementary pharmacological profile (bronchodilator at low doses, bronchoconstrictor at high doses). Fresh juice provides highest vasicine bioavailability.
-
 **Optimal Timing:** Before meals with honey for respiratory conditions; morning and evening; avoid during pregnancy
-
-**Standardized Extract:** Leaf extract standardized to >1.0% vasicine and >0.5% vasicinone by HPLC; total alkaloid content >2.0%
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12-18 months; Syrup: 18-24 months; Capsules/Tablets: 24-36 months; Avaleha: 18-24 months
 
 **Storage:** Dried leaves in airtight, light-resistant containers at 15-25 deg C. Fresh juice at 2-8 deg C. Syrup in amber glass. Monitor vasicine-to-vasicinone ratio during stability studies as indicator of oxidative degradation.
 
 **Marker Compounds:** Vasicine (peganine), Vasicinone, Vasicol, Vasicinol, Adhatodine, Deoxyvasicine, Maiontone, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Fresh leaf juice expression
-- Aqueous decoction
-- Hydroethanolic extraction (50-70% ethanol)
-- Acid-base extraction for alkaloid isolation
-- Spray drying of aqueous extract
 
 ### Synergistic Combinations
 

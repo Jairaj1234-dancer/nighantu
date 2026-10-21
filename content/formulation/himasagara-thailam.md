@@ -76,17 +76,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa). The name 'Himasagara' means 'cool as
 
 **Standard Dosage:** External application: sufficient quantity on affected area, 2-3 times daily.
 
-**Bioavailability:** Topical application provides direct dermal absorption. Alpha-santalol from sandalwood has anti-inflammatory activity via transdermal delivery.
-
 **Optimal Timing:** As needed for headache, burning sensation, skin irritation. Apply 2-3 times daily or at bedtime.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in tightly sealed amber glass bottles. Temperature not exceeding 25°C. Protect from heat and light.
 
 **Marker Compounds:** Alpha-santalol, Beta-santalol
-
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, alpha-santalol content, total volatile oils, rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only. Gentle massage on affected area.
 

@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna-Twak/meta-analysis
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; Kshirapaka preparation preferred
 
-**Bioavailability:** Same as [Arjuna](/herb/arjuna/) (this is the bark/Twak of Terminalia arjuna specifically designated). Arjunolic acid bioavailability ~8-12%. Kshirapaka enhances triterpene absorption significantly. Tannin-rich matrix provides sustained release of active compounds. [Piperine](/reference/piperine/) co-administration can enhance arjunolic acid bioavailability by 30-40%.
-
 **Optimal Timing:** Morning and evening with warm milk (Kshirapaka) for cardiovascular support.
-
-**Standardized Extract:** Bark extract standardized to minimum 2.5% arjunolic acid and minimum 18% total [tannins](/reference/tannins/) (as gallic acid). HPLC-verified arjunolic acid content for extract standardization.
-
-**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5 years (Ghana Vati in sealed packaging)
 
 **Storage:** Airtight containers, cool dry place, below 25°C. Protect from moisture, tannins are hygroscopic. Whole bark pieces store longer than powder.
 
 **Marker Compounds:** Arjunolic acid, Arjunic acid, [Arjunetin](/glossary/compounds-1-a/#arjunetin), Casuarinin, Gallic acid, Ellagic acid, Arjunaphthanol, [Friedelin](/glossary/compounds-d-g/#friedelin)
-
-### Extraction Methods
-
-- Aqueous decoction (classical Kashaya)
-- Kshirapaka (milk decoction, preferred classical method)
-- Hydroalcoholic extraction (70:30 ethanol-water)
-- Spray-dried aqueous extract for Ghana Vati
 
 ### Synergistic Combinations
 

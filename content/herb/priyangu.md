@@ -80,33 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Priyangu/meta-analysis.md"
 - Betulinic acid
 - Luteolin-7-O-glucuronide
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (flower/bark powder), Kwatha (decoction), Capsule, Tablet, Lepa (paste), Taila (oil), Anjana (collyrium)
 
 **Standard Dosage:** 1-3 g flower powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily; topical paste as needed
 
-**Bioavailability:** Callicarpa macrophylla (Priyangu) flavonoids and terpenoids show moderate oral bioavailability (20-35%). Betulinic acid has limited oral bioavailability (~10-15%) due to poor aqueous solubility; nano-formulation or amorphous solid dispersion can improve this to 30-40%. Calliterpenone (specific to Callicarpa) shows moderate absorption. Topical paste (lepa) is traditionally used for local skin conditions.
-
 **Optimal Timing:** For gynecological conditions: begin 5-7 days before expected menses, continue through menstruation. General use: after meals. Topical: as needed, morning and evening.
-
-**Standardized Extract:** Priyangu flower extract (8:1) standardized to total flavonoids >4%, betulinic acid >0.5%, calliterpenone >0.3%. HPTLC fingerprint for authentication.
-
-**Shelf Life:** Dried flowers: 12-18 months; Flower powder: 12-18 months; Extract: 24 months; Capsules: 24 months; Taila: 18-24 months
 
 **Storage:** Dried flowers: airtight containers, below 25 deg C, RH <50%, protected from light. Extracts: amber containers, cool and dry. Taila: amber glass, room temperature.
 
 **Marker Compounds:** Betulinic acid, Calliterpenone, [Lupeol](/reference/lupeol/), Beta-sitosterol, Ursolic acid, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Oleanolic acid
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60% ethanol) of flowers
-- Aqueous decoction of bark
-- Methanol extraction for betulinic acid isolation
-- Oil infusion of flowers in [sesame oil](/glossary/concepts-m-y/#tila-taila) base
-- Cold maceration for gentle extraction of heat-sensitive flower compounds
 
 ### Synergistic Combinations
 

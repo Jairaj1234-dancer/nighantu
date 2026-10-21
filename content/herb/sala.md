@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark/resin powder per day; 50-100 mL kwatha twice daily; external application of resin paste as needed
 
-**Bioavailability:** Triterpenoid and flavonoid constituents show moderate oral bioavailability (20-35%). Resinous compounds are lipophilic and benefit from lipid-based formulations. Amyrins undergo extensive hepatic metabolism. Polyphenolic fraction shows improved bioavailability with self-emulsifying drug delivery systems (SEDDS).
-
 **Optimal Timing:** After meals for GI-protective effects; externally as needed for wound healing applications
-
-**Standardized Extract:** Bark extract (6:1 DER in 60% ethanol), standardized to NLT 3% total triterpenoids (as alpha-amyrin equivalents); purified Sal resin standardized to NLT 40% resin acids
-
-**Shelf Life:** 36 months for resin in sealed containers; 24 months for bark churna; 30 months for extract capsules
 
 **Storage:** Store below 25 deg C. Resin should be kept in airtight containers to prevent oxidation. Protect from direct sunlight. RH <55%.
 
 **Marker Compounds:** Alpha-amyrin, Beta-amyrin, Oleanolic acid, Ursolic acid, Asiatic acid, Shorea-phenol
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Aqueous decoction of bark
-- Resin collection by tapping (Sal resin/Ral)
-- Soxhlet extraction with ethyl acetate for triterpenoid enrichment
-- Cold maceration in [sesame oil](/glossary/concepts-m-y/#tila-taila)
 
 ### Synergistic Combinations
 

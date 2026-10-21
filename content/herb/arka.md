@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka/meta-analysis.md"
 
 **Standard Dosage:** 250mg-1g Shodhita root bark powder; external oil/paste as needed. INTERNAL USE: only Shodhita (purified) material under physician supervision.
 
-**Bioavailability:** Cardiac [glycosides](/glossary/compounds-g-l/#glycosides) ([calotropin](/glossary/compounds-a-c/#calotropin), [calactin](/glossary/compounds-a-c/#calactin)) have good oral absorption with narrow therapeutic index. Shodhana with Dugdha (milk processing) modifies glycoside profile and reduces acute toxicity. Latex contains proteolytic [enzymes](/glossary/compounds-d-g/#enzymes) (calotropain) that are absorbed transdermally. [Uscharin](/glossary/compounds-t-z/#uscharin) shows rapid onset of cardiac activity, caution required for precise dosing.
-
 **Optimal Timing:** As directed by Ayurvedic physician only. External applications: morning and evening to affected area.
-
-**Standardized Extract:** Shodhita root bark extract with total cardenolide content precisely quantified (typical range 0.1-0.5%). Flower extract for milder formulations. Latex-based preparations for external pharmaceutical use.
-
-**Shelf Life:** 2 years (Shodhita powder); 3 years (medicated oil); 18 months (Shodhita latex preparation)
 
 **Storage:** Clearly labeled CAUTION: RESTRICTED SUBSTANCE. Store separately from general inventory. Cool, dry place. Latex preparations in glass containers.
 
 **Marker Compounds:** Calotropin, Calactin, [Calotoxin](/glossary/compounds-a-c/#calotoxin), Uscharin, Calotropagenin, Alpha-amyrin, Beta-amyrin, Mudarin, Giganticine
-
-### Extraction Methods
-
-- Latex collection and Shodhana (purification with cow's milk, 7 cycles)
-- Root bark Shodhana (boiling in Kanji/fermented rice water)
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) infusion for Taila preparation (external use)
-- Hydroalcoholic extraction of Shodhita material (research only)
 
 ### Synergistic Combinations
 

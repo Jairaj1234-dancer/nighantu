@@ -66,17 +66,11 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 **Standard Dosage:** 12 g twice daily on empty stomach with milk, as given in the Ayurvedic Formulary of India, Part I, entry 3:20. The formulary's anupana: water, milk. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 39; 15-19½.
 
-**Bioavailability:** Multi-lipid base (ghee + [sesame oil](/glossary/concepts-m-y/#tila-taila)) provides excellent absorption of both lipophilic (bacosides, withanolides) and hydrophilic (gallic acid, ascorbic acid) actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) enhances bioavailability by 25-40%. Medhya Rasayana herbs cross the blood-brain barrier more effectively in lipid matrix.
-
 **Optimal Timing:** Early morning on empty stomach and/or before bedtime, for long-term Rasayana therapy (minimum 3-6 months)
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Avaleha preparations
 
 **Storage:** Store in wide-mouth glass or food-grade jars with airtight lids in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light.
 
 **Marker Compounds:** Bacoside A, Bacoside B, Piperine, Gallic acid, Ascorbic acid, Beta-asarone (from [Vacha](/herb/vacha/), within safe limits), Withanolide A
-
-**Quality Parameters:** Total solids (minimum 65%), pH, moisture (<25%), total sugar, total fat, HPLC assay for bacosides (from [Brahmi](/herb/brahmi/)), piperine, gallic acid, total phenolics, microbial limits, heavy metals, HPTLC fingerprint
 
 **Vehicle (Anupana):** Warm milk (classically prescribed)
 

@@ -63,17 +63,11 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 **Standard Dosage:** 12 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 3:19. The formulary attributes this formula to Sahasrayoga, Lehaprakarana; 41.
 
-**Bioavailability:** Confection base with jaggery aids sustained absorption
-
 **Optimal Timing:** Before meals
-
-**Shelf Life:** 1 year
 
 **Storage:** Airtight container, cool place
 
 **Marker Compounds:** Steroidal saponins, [Tinosporin](/glossary/compounds-t-z/#tinosporin)
-
-**Quality Parameters:** Moisture NMT 15%, total ash, marker compounds
 
 **Vehicle (Anupana):** Warm water or milk
 

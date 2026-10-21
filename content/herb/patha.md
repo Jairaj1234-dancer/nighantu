@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patha/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Cissampeline (hayatinine) and other bisbenzylisoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) from Cissampelos pareira have moderate oral bioavailability (30-45%) with good GI absorption. Alkaloids are lipophilic (log P 2-4) and cross biological membranes readily. First-pass metabolism is moderate; sustained-release formulations may improve therapeutic coverage. Hayatine shows Tmax of 2-3 hours.
-
 **Optimal Timing:** After meals to reduce GI irritation. For fever: between meals with warm water. Not recommended for extended continuous use beyond 4-6 weeks.
-
-**Standardized Extract:** Patha root extract (6:1) standardized to total bisbenzylisoquinoline alkaloids 2-4% (as cissampeline). HPTLC fingerprint with authenticated reference standard.
-
-**Shelf Life:** Root powder: 18-24 months; Standardized extract: 24-36 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Root material and powder: airtight containers, below 25 deg C, RH <55%, protected from light and moisture. Extracts: amber containers, cool storage. Products with alkaloids: secure storage as required by local regulations.
 
 **Marker Compounds:** Cissampeline (Hayatinine), Hayatine, Pareirubrine, Cissamine, Curine, Isochondrodendrine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (50-70% ethanol)
-- Acid-base extraction for alkaloid purification
-- Methanol extraction for comprehensive alkaloid profiling
-- Cold maceration in water
 
 ### Synergistic Combinations
 

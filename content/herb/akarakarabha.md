@@ -80,32 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 - Santolina alcohol 
 - Pyrrolo
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (medicated oil, external), Gutika (pills), Manjan (tooth powder)
 
 **Standard Dosage:** 500mg-2g powder twice daily; 250-500mg extract capsule; external oil as needed for local application
 
-**Bioavailability:** Good oral bioavailability due to alkylamide content (particularly pellitorine and anacyclin), which are lipophilic and rapidly absorbed across oral and GI mucosa. The characteristic tingling/sialagogue effect on the tongue indicates rapid transmucosal absorption. Alkylamides show 60-70% bioavailability. Co-administration with lipids or milk enhances systemic absorption.
-
 **Optimal Timing:** Before meals with warm milk or honey for systemic indications; as tooth powder or local application for dental/oral conditions
-
-**Standardized Extract:** Root extract (10:1) standardized to minimum 4% total alkylamides (as pellitorine equivalent). Anacyclin content minimum 1%.
-
-**Shelf Life:** 2 years (powder); 3 years (tablets/capsules); 2 years (medicated oil)
 
 **Storage:** Airtight, moisture-proof containers. Store below 25°C. Protect from light. Roots store better whole, powder just before use.
 
 **Marker Compounds:** Pellitorine, Anacyclin, N-isobutyldienediynamide, Hydrocarolin, Inulin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol-water) for alkylamide enrichment
-- n-Hexane extraction for lipophilic alkylamides
-- Ethyl acetate fractionation for pellitorine isolation
-- Aqueous decoction (limited, misses lipophilic actives)
 
 ### Synergistic Combinations
 

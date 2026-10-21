@@ -59,26 +59,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Icchabhedi-Rasa/me
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg (potent purgative, single dose or as directed)
 
-**Bioavailability:** Rapid onset purgative action within 4–6 hours
-
 **Optimal Timing:** Bedtime with warm water or [Triphala](/herb/triphala/) Kwatha
-
-**Standardized Extract:** Kajjali (purified mercury-sulfur complex) with [Jayapala](/herb/jayapala/) (Croton)
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; clearly labeled as potent purgative
 
 **Marker Compounds:** Mercury sulfide, Croton oil (from [Jayapala](/herb/jayapala/)), Sulfur compounds
-
-**Quality Parameters:** Free mercury <1 ppm, standard Rasaushadhi tests, uniform potency
 
 **Vehicle (Anupana):** Warm water or [Triphala](/herb/triphala/) Kwatha

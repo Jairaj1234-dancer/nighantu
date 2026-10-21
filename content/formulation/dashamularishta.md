@@ -40,17 +40,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashamu
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89.
 
-**Bioavailability:** Fermented medium enhances extraction and bioavailability of [triterpenes](/glossary/compounds-t-z/#triterpenes), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [glycosides](/glossary/compounds-g-l/#glycosides) from all ten roots. Self-generated alcohol provides preservative and bioenhancing action. Post-fermentation metabolites show enhanced anti-inflammatory activity.
-
 **Optimal Timing:** After meals, twice daily. Classically used post-partum (Sutika Paricharya) starting from 7th day after delivery.
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), Ursolic acid, [Marmelosin](/glossary/compounds-l-o/#marmelosin), Pectolinarigenin (from Shalaparni), [Solasodine](/glossary/compounds-q-t/#solasodine)
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, lupeol content, HPTLC fingerprint showing [Dashamoola](/herb/dashamoola/) profile, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of warm water
 

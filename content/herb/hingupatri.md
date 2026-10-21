@@ -73,31 +73,17 @@ Traditionally used in Ayurveda as a digestive, respiratory, and anti-infectious 
 - Volatile essential oils 
 - Sesquiterpene coumarins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Taila (medicated oil for external use)
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional decoction preparation facilitates extraction of water-soluble constituents.
-
 **Optimal Timing:** Before or with meals with warm water
-
-**Standardized Extract:** No standardized extract commercially available. Aqueous or hydroalcoholic extract with HPTLC fingerprint for identity.
-
-**Shelf Life:** 2 years (powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C.
 
 **Marker Compounds:** Umbelliferone, Ferulic acid, Organosulfides
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60:40)
-- Gum dissolution in warm water for polysaccharide fraction
 
 ### Synergistic Combinations
 

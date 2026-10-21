@@ -62,17 +62,11 @@ Bhaishajya Ratnavali
 
 **Standard Dosage:** 3-6 g twice daily with warm milk. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Sitapittodardakothadhikara; 12-14.
 
-**Bioavailability:** Ghee-frying of Haridra significantly enhances [curcumin](/herb/curcumin/) bioavailability (curcuminoid-lipid complexation). [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) increases [curcumin](/herb/curcumin/) bioavailability by up to 2000% (well-established pharmacokinetic interaction). Milk during processing forms curcumin-casein nanoparticles with enhanced absorption.
-
 **Optimal Timing:** After meals, twice daily, especially for Sheetapitta (urticaria) and allergic conditions
-
-**Shelf Life:** 1 year from date of manufacture as per ASU guidelines for Khanda preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (sugar-based, hygroscopic). Temperature not exceeding 25°C.
 
 **Marker Compounds:** Curcumin, [Demethoxycurcumin](/glossary/compounds-c-d/#demethoxycurcumin), [Bisdemethoxycurcumin](/glossary/compounds-a-c/#bisdemethoxycurcumin), Piperine, [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)), [Turmerone](/glossary/compounds-t-z/#turmerone)
-
-**Quality Parameters:** Total solids, moisture content (<10%), curcumin content by HPLC (NLT 0.5%), total curcuminoids, piperine content, total sugar, total fat, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm milk (classically prescribed, enhances absorption)
 

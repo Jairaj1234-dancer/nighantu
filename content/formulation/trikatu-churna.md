@@ -60,17 +60,11 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 
 **Standard Dosage:** 3 g before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:14. The formulary's anupana: honey, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Paribhasaprakarana; 16.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals as bioenhancer
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, 6-Gingerol, Piperlongumine
 
 **Vehicle (Anupana):** Honey or warm water
 

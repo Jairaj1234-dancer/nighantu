@@ -65,17 +65,11 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 23-24.
 
-**Bioavailability:** Ghee provides optimal lipid matrix for absorption of bacosides (triterpenoid [saponins](/reference/saponins/)) which are both water and lipid-soluble. Oral bioavailability of bacosides is enhanced 2-3 fold in ghee medium compared to aqueous extract. Ghee facilitates crossing of blood-brain barrier for CNS action.
-
 **Optimal Timing:** Early morning on empty stomach and before bedtime (traditional timing)
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/) preparations
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Bacoside A, Bacoside B, Bacopasaponin C, Bacopaside I, Bacopaside II, [Jujubogenin](/glossary/compounds-g-l/#jujubogenin)
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, bacoside A content by HPLC, total bacosides, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm milk or warm water
 

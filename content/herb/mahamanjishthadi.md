@@ -71,32 +71,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 - Alizarin
 - Curcumin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (decoction - primary classical form), Kashayam tablets, Capsules of spray-dried extract, Liquid concentrate
 
 **Standard Dosage:** 15-30 mL Kwatha twice daily before meals; 2 tablets (500 mg each) of Kashayam tablet twice daily; dilute with equal warm water
 
-**Bioavailability:** Polyherbal formulation where combined herbs provide mutual bioenhancement. [Manjishtha](/herb/manjishtha/) anthraquinones have moderate oral bioavailability (~20-30%). [Triphala](/herb/triphala/) components enhance gut permeability for other herb actives. Piper longum in formulation acts as natural bioenhancer via [piperine](/reference/piperine/). Self-generated organic acids from fermentation or decoction process improve mineral absorption.
-
 **Optimal Timing:** Before meals on empty stomach for maximum absorption of anthraquinones and blood-purifying action; morning and evening doses
-
-**Standardized Extract:** Spray-dried Kashaya extract (4:1 concentration) standardized to minimum 2% total anthraquinones (as alizarin equivalents) and minimum 5% total [polyphenols](/glossary/compounds-o-q/#polyphenols) (as gallic acid equivalents). Each tablet equivalent to 10-15 mL of classical Kashaya.
-
-**Shelf Life:** Fresh Kashaya: 24-48 hours. Kashayam tablets: 24 months. Spray-dried powder: 24 months. Liquid concentrate: 12-18 months with preservative.
 
 **Storage:** Fresh Kashaya at room temperature, consume within 24 hours. Tablets/capsules below 25 deg C in blister packs or HDPE bottles. Liquid concentrate refrigerate at 2-8 deg C after opening. Protect all forms from moisture and light.
 
 **Marker Compounds:** Alizarin (from Manjishtha), Purpurin, Gallic acid (from Triphala), [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/)), Piperine (from [Pippali](/herb/pippali/)), [Catechin](/reference/catechin/) (from [Khadira](/herb/khadira/)), Tinosporine (from [Guduchi](/herb/guduchi/))
-
-### Extraction Methods
-
-- Traditional Kashaya (decoction) preparation: coarse powder in 16 parts water reduced to 1/4
-- Spray drying of Kashaya for tablet/capsule form
-- Standardized water extraction with defined time-temperature profile
-- Concentration under vacuum for liquid dosage forms
 
 ### Synergistic Combinations
 

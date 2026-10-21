@@ -61,18 +61,10 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Rasamanikya/meta-a
 
 **Standard Dosage:** 60–125 mg twice daily
 
-**Bioavailability:** Processing is traditionally held to reduce the toxicity of arsenic sulfide; blood arsenic still rises with use and chronic exposure carries risk (see safety updates)
-
 **Optimal Timing:** With honey or ghee; after meals
-
-**Standardized Extract:** Shuddha Haratala (purified orpiment/arsenic trisulfide) processed to ruby-red compound
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, labeled container; Schedule E1
 
 **Marker Compounds:** Arsenic sulfide (processed), Sulfur compounds
-
-**Quality Parameters:** Free arsenic <3 ppm (critical), characteristic ruby-red color (Manikya = ruby), standard tests
 
 **Vehicle (Anupana):** Honey, ghee, or [Haridra](/herb/haridra/) Khand

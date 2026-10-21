@@ -67,23 +67,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vyaghri-Haritaki/meta-analysi
 
 **Standard Dosage:** 5-10 g Avaleha twice daily with warm water or milk; 3-5 g churna twice daily; 500 mg-1 g extract capsule twice daily
 
-**Bioavailability:** This is a polyherbal formulation combining Kantakari (Solanum surattense) with Haritaki (Terminalia chebula). Solasodine (from Kantakari) has moderate oral bioavailability (~25-35%). Chebulagic acid and gallic acid (from Haritaki) are absorbed as described in Haritaki/[Triphala](/herb/triphala/) profiles. The Avaleha (jaggery/sugar-based confection) matrix serves as a taste-masking and slow-release vehicle. Ghee and honey used as processing adjuncts enhance bioavailability of both hydrophilic and lipophilic components.
-
 **Optimal Timing:** After meals with warm water or milk; morning and evening; at bedtime for nocturnal cough/asthma
-
-**Standardized Extract:** Avaleha as per AFI (Ayurvedic Formulary of India) specifications; individual herb extracts: Kantakari >0.5% solasodine, Haritaki >3% gallic acid by HPLC
-
-**Shelf Life:** Avaleha: 18-24 months; Churna blend: 12-18 months; Capsules/Tablets: 24-36 months
 
 **Storage:** Avaleha in wide-mouth glass or food-grade plastic jars at 15-25 deg C. Do not refrigerate (crystallization of sugar). Use dry, clean spoon for dispensing. Capsules in standard pharmaceutical packaging.
 
 **Marker Compounds:** Solasodine (from Kantakari), Solanine (from Kantakari), Chebulagic acid (from Haritaki), Gallic acid (from Haritaki), Ellagic acid (from Haritaki), Piperine (from [Pippali](/herb/pippali/) adjunct), Carpesterol
-
-### Extraction Methods
-
-- Traditional Avaleha Kalpana: decoction of Kantakari + Haritaki concentrated and processed with jaggery, honey, ghee, and spices (Pippali, Twak, Ela, [Tamalpatra](/herb/tamalpatra/), [Nagakesara](/herb/nagakesara/))
-- Powdering and blending of individual herbs
-- Hydroethanolic extraction for standardized capsule form
 
 ### Synergistic Combinations
 

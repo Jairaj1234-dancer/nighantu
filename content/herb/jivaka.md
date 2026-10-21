@@ -68,23 +68,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g tuber powder twice daily; 50-100ml decoction; as per [Chyawanprash](/formulation/chyawanprash/) dosage
 
-**Bioavailability:** Microstylis wallichii (syn. Malaxis acuminata) tuber is one of the Ashtavarga (eight rare Ayurvedic herbs). Contains mucilage, glucosides, and [starch](/glossary/compounds-q-t/#starch). Limited modern pharmacokinetic data. Mucilaginous polysaccharides act locally in GI tract with demulcent properties. Glucoside components likely have moderate oral absorption after enzymatic hydrolysis.
-
 **Optimal Timing:** With warm milk or ghee as Rasayana (rejuvenative tonic); as part of Chyawanprash, 1-2 teaspoons daily
-
-**Standardized Extract:** No standardized extract established due to rarity. Aqueous extract with HPTLC/DNA barcode authentication if authentic material obtained.
-
-**Shelf Life:** 2 years (dried tuber powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture (mucilaginous material is hygroscopic). Airtight containers.
 
 **Marker Compounds:** Glucosides (general profiling), Mucilage polysaccharides, DNA barcode authentication (ITS/matK regions) is primary identification method
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (50:50)
-- Traditional processing as part of Ashtavarga for Chyawanprash
 
 ### Synergistic Combinations
 

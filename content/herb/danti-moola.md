@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti-Moola/meta-analysis.md"
 
 **Standard Dosage:** 1-2g Shodhita root powder as purgative; 500mg-1g for mild [laxative](/reference/laxative/); 30-50ml decoction. Must be used under qualified practitioner supervision.
 
-**Bioavailability:** Root contains higher concentration of diterpene esters than stem. Purgative principles act locally in the intestine with limited systemic absorption desired. Post-Shodhana processing in cow's milk denatures protein-bound toxins and reduces phorbol ester load by 60-80%. Bioavailability of therapeutic laxative principles is adequate via oral route without enhancement.
-
 **Optimal Timing:** Early morning on empty stomach with warm water; recommended only during Virechana therapy under Ayurvedic supervision
-
-**Standardized Extract:** Shodhita root powder or aqueous extract. No standardized extract commercially available. Must carry certificate of Shodhana completion with batch records.
-
-**Shelf Life:** 1 year (Shodhita powder in moisture-proof container); 2 years (tablet)
 
 **Storage:** Airtight, light-resistant containers below 25 deg C and below 45% RH. Must be labeled 'Shodhita [Danti](/herb/danti/) Moola - for use under medical supervision only.' Store separately from general herbs.
 
 **Marker Compounds:** Phorbol-12,13-didecanoate (toxicity marker - must be below specified limit post-Shodhana), [Montanin](/glossary/compounds-l-o/#montanin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Jatrophenone
-
-### Extraction Methods
-
-- Shodhana in cow's milk (mandatory pre-processing)
-- Aqueous decoction of Shodhita root
-- Sequential extraction: first defatting with hexane, then hydroalcoholic (50:50)
-- Traditional Kwath preparation
 
 ### Synergistic Combinations
 

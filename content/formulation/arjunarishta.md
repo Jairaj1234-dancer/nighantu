@@ -60,17 +60,11 @@ Charaka Samhita (1st-2nd century CE) and Sushruta Samhita (3rd-4th century CE), 
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:21. The formulary attributes this formula to Bhaisajyaratnavali, Hrdrogadhikara; 73-74½.
 
-**Bioavailability:** Alcohol base enhances absorption of arjunic acid and arjungenin (triterpene [saponins](/reference/saponins/)). Fermentation generates bioactive metabolites with improved cardiac bioavailability. [Tannins](/reference/tannins/) provide sustained-release cardioprotective activity.
-
 **Optimal Timing:** After meals, twice daily, preferably morning and evening for cardiac indications
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from direct sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Arjunic acid, Arjungenin, Arjunetin, Arjunolone, Gallic acid, Ellagic acid
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.02-1.06), self-generated alcohol (5-12%), total solids, total sugar, total acidity, arjunic acid content by HPLC, total tannins, total flavonoids, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of water
 

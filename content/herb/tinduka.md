@@ -84,33 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 - 
 - Lup-20
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Kashaya (astringent decoction), Avaleha (confection)
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; fruit pulp 10-20 g daily
 
-**Bioavailability:** Betulinic acid and lupeol (triterpenoids) have very low oral bioavailability (<5%) due to extreme hydrophobicity and poor aqueous solubility. Tannins (condensed and hydrolyzable) are poorly absorbed but exert local astringent effects on GI mucosa. Nanoparticle encapsulation or phospholipid complexation (phytosome) can improve triterpenoid bioavailability 4-8 fold. [Plumbagin](/glossary/compounds-o-q/#plumbagin) (in bark) has moderate bioavailability but narrow therapeutic index.
-
 **Optimal Timing:** Before meals for diarrhea and GI conditions; after meals for general astringent tonic effect
-
-**Standardized Extract:** Hydroethanolic extract standardized to >15% total tannins (as tannic acid equivalent by Folin-Denis); >0.5% betulinic acid by HPLC
-
-**Shelf Life:** Powder: 18 months; Capsules/Tablets: 24-36 months; Decoction: prepare fresh daily; Avaleha: 18 months
 
 **Storage:** Store in airtight, moisture-proof containers at 15-25 deg C. Protect from humidity as tannins are hygroscopic. Avoid aluminium or iron containers due to tannin-metal complexation.
 
 **Marker Compounds:** Betulinic acid, Lupeol, Ursolic acid, Gallic acid, Ellagic acid, Plumbagin, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Diospyrin
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (60-80% ethanol)
-- Methanol extraction for triterpenoid-rich fraction
-- Sequential extraction (hexane then ethanol) for fractionation
-- Hot water extraction for tannin-rich preparations
 
 ### Synergistic Combinations
 

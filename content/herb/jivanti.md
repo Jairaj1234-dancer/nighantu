@@ -73,25 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Jivanti/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg-1g extract; 50-100ml decoction; 10-20ml fresh juice
 
-**Bioavailability:** Leptadenia reticulata contains [flavonoids](/reference/flavonoids/), [triterpenoids](/glossary/compounds-t-z/#triterpenoids) ([stigmasterol](/reference/stigmasterol/), beta-sitosterol), and pregnane [glycosides](/glossary/compounds-g-l/#glycosides) with moderate oral bioavailability. Beta-sitosterol has ~5% oral bioavailability limited by crystallinity and lipophilicity; micronization and lipid formulations improve absorption. Pregnane glycosides (leptadenol) are hydrolyzed by gut bacteria. Traditional Ghrita preparation (ghee base) enhances lipophilic compound absorption.
-
 **Optimal Timing:** With warm milk for galactagogue effect (lactating mothers); before meals with water for general tonic use
-
-**Standardized Extract:** Hydroalcoholic extract standardized to 1% beta-sitosterol; aqueous extract per API monograph specifications
-
-**Shelf Life:** 2 years (powder); 3 years (capsule/tablet); 1 year (Ghrita); 3 months (Swarasa, preserved)
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture. Airtight containers.
 
 **Marker Compounds:** Beta-sitosterol, Stigmasterol, Leptadenol, Reticulin, Alpha-amyrin, Hentriacontanol
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Methanol extraction for pregnane glycoside fraction
-- Traditional Ghrita (ghee) preparation for lipophilic compound extraction
-- Fresh plant juice (Swarasa)
 
 ### Synergistic Combinations
 

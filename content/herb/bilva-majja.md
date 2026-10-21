@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 
 **Standard Dosage:** 5-10g pulp (fresh or dried) twice daily; 3-6g dried pulp powder; 50-100ml decoction; as [Bilva](/herb/bilva/) Avaleha 10-20g
 
-**Bioavailability:** [Bilva](/herb/bilva/) Majja (fruit pulp/marrow) contains high mucilage and pectin which form a protective gel in the GI tract, this is the therapeutic mechanism for antidiarrheal action rather than systemic absorption. Coumarins present in the pulp show moderate oral bioavailability. Carotenoids in ripe pulp benefit from lipid co-administration.
-
 **Optimal Timing:** Before meals for diarrhea management; after meals as digestive tonic; Avaleha can be taken anytime
-
-**Standardized Extract:** Dried pulp powder standardized to total mucilage NLT 15%; tannin content NLT 5% (unripe); marmelosin NLT 0.5%
-
-**Shelf Life:** 18 months (dried pulp powder); 2 years (Avaleha); 3 years (capsule/tablet)
 
 **Storage:** Dried pulp powder in airtight containers with desiccant, highly hygroscopic. Avaleha in glass jars away from moisture. Temperature below 25°C.
 
 **Marker Compounds:** Marmelosin, Marmelide, Pectin, Mucilage [polysaccharides](/glossary/compounds-o-q/#polysaccharides), Beta-carotene (ripe fruit), [Tannins](/reference/tannins/) (unripe fruit), [Riboflavin](/glossary/compounds-q-t/#riboflavin)
-
-### Extraction Methods
-
-- Mechanical separation of pulp from shell and seeds
-- Aqueous extraction for mucilage-rich fraction
-- Hydroalcoholic extraction (50:50) for [coumarin](/glossary/compounds-c-d/#coumarin) enrichment
-- Sun-drying or tray-drying of pulp for powder preparation
-- Traditional Avaleha preparation with sugar and spices
 
 ### Synergistic Combinations
 

@@ -69,26 +69,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Mineral-Exudates/Shilajit/me
 
 **Standard Dosage:** 250–500 mg twice daily; traditional: pea-sized amount with warm milk
 
-**Bioavailability:** Fulvic acid acts as bioenhancer, improves CoQ10 absorption by 27.6% and nutrient transport across cell membranes
-
 **Optimal Timing:** Morning and evening with warm milk; empty stomach or with meals
-
-**Standardized Extract:** Purified Shilajit resin standardized to >60% fulvic acid
-
-**Shelf Life:** 5+ years (resin); 2–3 years (capsules/tablets)
 
 **Storage:** Cool, dry place; resin in glass jar; avoid direct sunlight
 
 **Marker Compounds:** Fulvic acid (60–80%), Humic acid, Dibenzo-alpha-pyrones (DBPs), Iron, Zinc, 40+ trace minerals
 
-**Quality Parameters:** Fulvic acid >50%, heavy metals (As <3 ppm, Hg <1 ppm, Pb <10 ppm, Cd <3 ppm), moisture <5%, ash 15–20%, no mycotoxins
-
 **Vehicle (Anupana):** Warm milk (premier vehicle); honey; [Ashwagandha](/herb/ashwagandha/) Churna
-
-### Extraction Methods
-
-- Traditional: dissolve in warm water, filter through muslin cloth, evaporate
-- Modern: aqueous extraction → filtration → vacuum concentration
 
 ### Synergistic Combinations
 

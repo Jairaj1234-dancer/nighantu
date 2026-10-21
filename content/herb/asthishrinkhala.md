@@ -72,25 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Asthishrinkhala/meta-analysis
 
 **Standard Dosage:** 3-6g stem powder twice daily; 500mg-1g extract capsule twice daily; 10-20ml fresh stem juice; external paste/oil as needed
 
-**Bioavailability:** Good oral bioavailability for ketosteroids (particularly anabolic steroids like ketosterone). 3,3'-di-O-methylquercetin is a potent bioavailable flavonoid. [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and related [stilbenes](/glossary/compounds-q-t/#stilbenes) show moderate absorption (~20%). Calcium content in stems is bioavailable. Fresh stem juice has better bioavailability profile than dried preparations. Traditionally administered with milk (calcium + stem bioactives for synergistic bone healing).
-
 **Optimal Timing:** Traditionally taken with warm milk twice daily in fracture management (continued for 6-8 weeks). External paste application at fracture site.
-
-**Standardized Extract:** Stem extract (10:1) standardized to minimum 3% 3,3'-di-O-methylquercetin and minimum 2.5% ketosterones. Calcium content minimum 4% (as eleite). Total flavonoid content minimum 5%.
-
-**Shelf Life:** 2 days (fresh juice); 18 months (powder); 2 years (capsules/tablets); 3 years (medicated oil)
 
 **Storage:** Fresh stems refrigerated, process within 48 hours. Dried powder in airtight containers below 25°C. Capsules with desiccant.
 
 **Marker Compounds:** Ketosterone, 3,3'-di-O-methylquercetin, [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), Piceatannol, Pallidol, Quadrangularin A-C, Beta-sitosterol, Calcium oxalate, Ascorbic acid, Beta-carotene
-
-### Extraction Methods
-
-- Fresh stem juice expression (Swarasa)
-- Hydroalcoholic extraction (70:30) for phytosteroid enrichment
-- Petroleum ether extraction for ketosteroid fraction
-- Aqueous decoction for mineral-rich extract
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) infusion for Taila preparation
 
 ### Synergistic Combinations
 

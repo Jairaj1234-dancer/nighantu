@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 - Pistagremic acid
 - Gallic acid
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Avaleha (confection), Kashayam (decoction), Syrup, Capsule
 
 **Standard Dosage:** 1-3 g powder twice daily with honey; 5-10 g Avaleha; 30-50 mL decoction; 5-10 mL syrup for children
 
-**Bioavailability:** Tannins (gallotannins) are the primary actives with limited systemic absorption but excellent mucosal activity. Gallic acid released from tannin hydrolysis has good oral bioavailability (~40%). Phospholipid complexation (phytosome) of gallic acid improves absorption 2-3 fold. Honey as traditional Anupana enhances mucosal delivery for respiratory conditions.
-
 **Optimal Timing:** After meals with honey for respiratory conditions; between meals for digestive astringent action
-
-**Standardized Extract:** Standardized to minimum 40% total tannins (as tannic acid) and 5% free gallic acid by titrimetric and HPLC methods
-
-**Shelf Life:** 36 months for powder (very stable due to high tannin content); 24 months for Avaleha; 18 months for syrup
 
 **Storage:** Store in airtight containers at room temperature (15-30°C). Highly stable due to inherent tannin-mediated antioxidant activity. Protect from moisture to prevent caking.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Tannic acid, Methyl gallate, 1,2,3,4,6-Penta-O-galloyl-beta-D-[glucose](/glossary/compounds-d-g/#glucose), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Hydroalcoholic extraction (40-60% ethanol) for balanced tannin extraction
-- Hot water extraction for polysaccharide-rich fraction
-- Acetone-water (70:30) extraction for maximum tannin yield
 
 ### Synergistic Combinations
 

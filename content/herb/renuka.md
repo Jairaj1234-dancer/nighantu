@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 - Sabinene
 - Cineole
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Kwatha (decoction), Capsule, Tablet, Taila (oil), Lepa (paste)
 
 **Standard Dosage:** 1-3 g seed powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Vitex agnus-castus (Renuka/[Nirgundi](/herb/nirgundi/)-related species) contains agnuside and casticin with moderate oral bioavailability (25-40%). Diterpene compounds (rotundifuran, vitexilactone) show variable absorption. The dopaminergic compounds that mediate prolactin-lowering effects have adequate bioavailability for hormonal activity at standard doses. Lipophilic flavonoids benefit from fat co-administration. Note: Some Ayurvedic texts identify Renuka as Vitex negundo seed; verify species identity for accurate phytochemical profile.
-
 **Optimal Timing:** Morning on empty stomach for hormonal effects. Continuous daily use for at least 3 menstrual cycles recommended for PMS/menstrual regulation. Take consistently at the same time daily.
-
-**Standardized Extract:** Renuka seed extract (10:1) standardized to casticin >0.5% and agnuside >0.2% (if V. agnus-castus). Total diterpenes >1%. BNO 1095 and Ze 440 are the extract specifications used in European clinical studies of Vitex.
-
-**Shelf Life:** Seeds: 18-24 months; Seed powder: 18-24 months; Extract: 24-36 months; Capsules: 24-36 months
 
 **Storage:** Seeds and powder: airtight containers, below 25 deg C, RH <55%, protected from light. Extracts: amber containers, cool and dry. Store away from heat sources.
 
 **Marker Compounds:** Casticin, Agnuside, Rotundifuran, Vitexilactone, Aucubin, p-Hydroxybenzoic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Penduletin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Aqueous decoction
-- Methanol extraction for flavonoid and iridoid profiling
-- Supercritical CO2 for diterpene fraction
-- Cold-press oil extraction from seeds
 
 ### Synergistic Combinations
 

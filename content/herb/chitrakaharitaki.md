@@ -76,31 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chitrakaharitaki/meta-analysi
 - Piperine
 - Tannins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha (confection/jam), Lehyam (electuary), Granules (modern adaptation)
 
 **Standard Dosage:** 5-10g (approximately 1-2 teaspoons) twice daily with warm water or milk. Classical Avaleha formulation per Vrindamadhava.
 
-**Bioavailability:** Compound formulation where jaggery/sugar matrix provides slow release of actives. Plumbagin from Chitraka is partially detoxified by cooking process. Chebulagic acid and gallic acid from Haritaki show enhanced absorption in the sugar-ghee matrix. Piperine from [Pippali](/herb/pippali/) (often an ingredient) bioenhances other components. Traditional Avaleha preparation method (cooking to Paka stage) optimizes extraction and bioavailability of all components simultaneously.
-
 **Optimal Timing:** After meals with warm water or milk for digestive and respiratory conditions; traditionally used in Pratishyaya (coryza/cold) and Kasa (cough)
-
-**Standardized Extract:** Compound preparation, standardize to gallic acid NLT 0.5% (from Haritaki) and total phenolics NLT 3%. Plumbagin content should be below 0.1% in final Avaleha (safety-moderated by cooking).
-
-**Shelf Life:** 1 year (traditional Avaleha); 2 years (with modern preservation and packaging)
 
 **Storage:** Room temperature in glass or food-grade containers. Use clean, dry spoon for dispensing, moisture introduction causes microbial spoilage. Protect from direct sunlight. Once opened, consume within 3 months.
 
 **Marker Compounds:** Gallic acid (from Haritaki), Chebulagic acid (from Haritaki), Plumbagin (from Chitraka, reduced), Piperine (if Pippali is included), Ellagic acid
-
-### Extraction Methods
-
-- Traditional Avaleha preparation: Haritaki decoction reduced, mixed with sugar/jaggery, cooked to thread-stage consistency, then Chitraka powder and other herb powders added with ghee and honey at appropriate temperatures
-- No modern extract equivalent, the formulation IS the preparation method
-- Modern adaptations: granulation of combined extracts with sugar base
 
 ### Synergistic Combinations
 

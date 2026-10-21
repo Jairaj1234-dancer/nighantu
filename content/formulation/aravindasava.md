@@ -60,17 +60,11 @@ Sahasrayogam and Bhaishajya Ratnavali, categorized under Raktaprasadana [Rasayan
 
 **Standard Dosage:** 5-10 mL (pediatric) to 15-25 mL (adult) twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Balarogadhikara; 185-188.
 
-**Bioavailability:** Self-generated alcohol and honey base enhance absorption. Cold infusion process preserves heat-sensitive actives better than Arishta process. Fermentation converts [glycosides](/glossary/compounds-g-l/#glycosides) to bioactive aglycones.
-
 **Optimal Timing:** After meals, twice daily. For infants: as directed by physician
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Asava preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Nuciferine](/glossary/compounds-l-o/#nuciferine), [Neferine](/glossary/compounds-l-o/#neferine), [Liensinine](/glossary/compounds-g-l/#liensinine), Armepavine
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-10% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC fingerprint for nuciferine, methanol absence
 
 **Vehicle (Anupana):** Equal quantity of water (boiled and cooled for pediatric use)
 

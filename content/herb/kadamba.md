@@ -84,32 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kadamba/meta-analysis.md
 - Ursolic acid
 - Cadamine
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (bark decoction), Capsule, Taila (medicated oil), Lepa (paste)
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Neolamarckia cadamba (syn. Anthocephalus cadamba) bark contains indole alkaloids (cadambine, isocadambine), [triterpenes](/glossary/compounds-t-z/#triterpenes), and [flavonoids](/reference/flavonoids/). Indole alkaloids generally show moderate to good oral bioavailability due to lipophilicity. Cadambine is absorbed in the small intestine. Tannin fraction may reduce absorption of co-administered compounds.
-
 **Optimal Timing:** Traditionally taken before meals with warm water for fever and diabetes; external paste traditionally applied to wounds morning and evening
-
-**Standardized Extract:** Hydroalcoholic bark extract standardized to 1% total alkaloids (as cadambine); aqueous extract per API decoction method
-
-**Shelf Life:** 2 years (bark powder); 3 years (standardized extract capsule/tablet)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture and light. Airtight containers.
 
 **Marker Compounds:** Cadambine, Isocadambine, 3-alpha-Dihydrocadambine, Cadamine, Beta-sitosterol, Chlorogenic acid
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (70:30 ethanol:water) for alkaloid and flavonoid extraction
-- Methanol extraction for comprehensive phytochemical recovery
-- Chloroform extraction for alkaloid enrichment
 
 ### Synergistic Combinations
 

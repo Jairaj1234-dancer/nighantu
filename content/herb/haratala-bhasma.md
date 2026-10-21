@@ -69,26 +69,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 - **Arsenic trisulfide (As2S3):** Major component (orpiment)
 - **Note:** Highly toxic, restricted use; Shodhana mandatory; modern practice largely discontinued
 
-**Analytical Methods:** AAS (arsenic quantification), ICP-MS, XRD
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma (only after rigorous Shodhana)
 
 **Standard Dosage:** 30–60 mg (strict dosing)
 
-**Bioavailability:** Shodhana and Marana are intended to reduce toxicity; systemic arsenic absorption still occurs
-
 **Optimal Timing:** As directed by experienced physician only
-
-**Standardized Extract:** Purified and calcined orpiment (arsenic trisulfide) bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, labeled container; Schedule E1 drug
 
 **Marker Compounds:** Arsenic sulfide (raw), Arsenic oxide (post-calcination), Sulfur compounds
-
-**Quality Parameters:** Free arsenic <3 ppm (critical safety parameter), standard bhasma tests, particle size <100 nm
 
 **Vehicle (Anupana):** Honey or ghee; only as part of specific formulations

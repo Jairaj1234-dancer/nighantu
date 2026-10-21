@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 - **Poisoning case.** A fatal case of a four-year-old female who ingested raw poppy plants developed shallow respiration, tachycardia, hypertension, and muscle cramps, succumbing despite intensive care with naloxone administration.
 - **Poisoning case.** Multiple cases of poppy seed tea poisoning reported in industrialized countries, with patients showing opiate toxicity symptoms. Some individuals with history of alcoholism used opium tea as heroin substitute, leading to fatal respiratory depression.
 - **Antidote.** Naloxone (Narcan) is the specific antidote: bolus IV dose of 0.4-2 mg, repeated every 2-3 minutes up to 10 mg. Naloxone infusion (two-thirds of effective bolus dose per hour) should be continued due to shorter half-life of naloxone vs morphine. Nalmefene is an alternative longer-acting antagonist.
-- **Maximum dose.** Ayurvedic therapeutic dose of purified opium (Shuddha Ahiphena): 60-125 mg per day. Lethal dose of crude opium: 2 g in non-tolerant adults. Maximum safe morphine equivalent: 120 mg/day for tolerant patients under medical supervision.
+- **Maximum dose.** Ayurvedic therapeutic dose of purified opium (Shuddha Ahiphena) is given under Dosage. Lethal dose of crude opium: 2 g in non-tolerant adults. Maximum safe morphine equivalent: 120 mg/day for tolerant patients under medical supervision.
 - **Safety alert.** USFDA and DEA issued warnings about contaminated poppy seeds with dangerously high morphine/codeine/thebaine concentrations. Unwashed poppy seeds sold commercially can contain 2-300 mg morphine per kg, posing acute intoxication risk.
 - **Poisoning epidemiology.** Opium poisoning accounts for significant mortality in South Asia and Middle East. In Iran, opium is the most common substance in poisoning cases. Pediatric accidental ingestions carry higher mortality due to lower lethal dose threshold.
 
@@ -60,21 +60,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 **Standard Dosage:** 30-125mg of Shodhita (purified) Ahiphena only; STRICTLY under qualified Ayurvedic physician supervision. NOT for self-medication. Regulatory restrictions apply in most jurisdictions.
 
-**Bioavailability:** High oral bioavailability (60-80%) for morphine and codeine alkaloids. First-pass metabolism significant. Shodhana process (purification with cow's milk or Bhringaraja juice) modifies alkaloid profile and may reduce toxicity while retaining therapeutic activity. Traditional processing alters the ratio of opiate alkaloids.
-
-**Standardized Extract:** Shodhita Ahiphena only, never raw opium. Alkaloid profile must be documented: morphine, codeine, thebaine, papaverine content per batch. Total alkaloid content typically 10-15% in raw; modified post-Shodhana.
-
-**Shelf Life:** 2 years (Shodhita powder in controlled storage); as per specific formulation monograph for compound preparations
-
 **Storage:** Locked, secure storage as per narcotic regulations. Double-lock system required. Temperature-controlled (15-25°C). Detailed inventory and access logs mandatory.
 
 **Marker Compounds:** Morphine, Codeine, Thebaine, Papaverine, Noscapine, Narcotine
-
-### Extraction Methods
-
-- Traditional Shodhana with Bhringaraja swarasa (7 cycles of trituration)
-- Purification with cow's milk (Dugdha Shodhana)
-- NOT recommended for modern solvent extraction due to regulatory and safety concerns
 
 ### Synergistic Combinations
 

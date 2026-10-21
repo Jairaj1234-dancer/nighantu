@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vetasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 2-5 mL tincture three times daily
 
-**Bioavailability:** [Salicin](/glossary/compounds-q-t/#salicin) (pro-drug) is well absorbed orally (~80-90%) and converted by gut bacteria and hepatic [enzymes](/glossary/compounds-d-g/#enzymes) to saligenin and subsequently to salicylic acid (the active anti-inflammatory metabolite). Onset of action is slower than synthetic aspirin (1-2 hours vs. 30 minutes) but duration is longer (6-8 hours). Salicylic acid from willow bark does not cause the same degree of gastric irritation as aspirin because salicin is hydrolyzed in the intestine, not the stomach. [Flavonoids](/reference/flavonoids/) ([naringenin](/glossary/compounds-l-o/#naringenin), [catechin](/reference/catechin/)) have low systemic bioavailability.
-
 **Optimal Timing:** With meals to minimize GI contact; 2-3 times daily for sustained anti-inflammatory effect
-
-**Standardized Extract:** Bark extract standardized to >15% salicin by HPLC (equivalent to ~240 mg salicin per daily dose for [analgesic](/reference/analgesic/) indication); total [polyphenols](/glossary/compounds-o-q/#polyphenols) >5%
-
-**Shelf Life:** Bark powder: 18-24 months; Capsules/Tablets: 24-36 months; Tincture: 36-48 months; Decoction: prepare fresh
 
 **Storage:** Airtight containers at 15-25 deg C, protected from moisture. Tincture in amber glass. Bark material protected from insects.
 
 **Marker Compounds:** Salicin, Salicortin, Tremulacin, Fragilin, Naringenin, Catechin, Salicylic acid (metabolite), Populin
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (60-70% ethanol)
-- Methanol extraction for salicin enrichment
-- Tincture preparation (1:5 in 45% ethanol)
 
 ### Synergistic Combinations
 

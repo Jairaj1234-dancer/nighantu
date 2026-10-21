@@ -63,27 +63,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Mukta-Pishti/meta-an
 - **Strontium (Sr):** Trace
 - **Magnesium (Mg):** Trace
 
-**Analytical Methods:** XRD, FTIR, ICP-OES, SEM
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Pishti, Bhasma (Mukta Bhasma also available)
 
 **Standard Dosage:** 60–125 mg twice daily (Pishti); Bhasma: 30–60 mg
 
-**Bioavailability:** Excellent; nacre calcium carbonate (aragonite) with protein matrix
-
 **Optimal Timing:** With honey, Malai, or Gulkand; best taken at bedtime for calming effect
-
-**Standardized Extract:** Pearl pishti, cold-processed natural pearl preparation
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight glass container; cool, dry place
 
-**Marker Compounds:** Calcium carbonate (aragonite 82–86%), Conchiolin protein (3–5%), [Magnesium](/glossary/compounds-l-o/#magnesium), [Strontium](/glossary/compounds-q-t/#strontium), Trace minerals
-
-**Quality Parameters:** Calcium >30%, particle size <25 μm, nacre structure preserved (XRD verification), no synthetic pearl
+**Marker Compounds:** Calcium carbonate (aragonite), Conchiolin protein, [Magnesium](/glossary/compounds-l-o/#magnesium), [Strontium](/glossary/compounds-q-t/#strontium), Trace minerals
 
 **Vehicle (Anupana):** Honey, Malai (cream of milk), Gulkand, or pomegranate juice
 

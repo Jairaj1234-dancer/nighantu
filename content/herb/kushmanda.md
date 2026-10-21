@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kushmanda/meta-analysis.md"
 
 **Standard Dosage:** 20-40 mL fresh juice daily; 10-20 g Kushmanda Avaleha twice daily; 3-5 g powder; 5-10 g Ghrita
 
-**Bioavailability:** Cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids) have moderate oral bioavailability enhanced by lipid co-administration. Vitamin C and B-complex [vitamins](/glossary/compounds-t-z/#vitamins) are readily absorbed. [Pectin](/glossary/compounds-o-q/#pectin) and dietary fiber moderate glycemic response. Avaleha form (with ghee, sugar, honey) provides an optimized delivery matrix, ghee enhances lipophilic absorption, sugar acts as preservative, honey provides enzymatic activity. Alonusin and [isovitexin](/glossary/compounds-g-l/#isovitexin) show improved bioavailability in Ghrita formulation.
-
 **Optimal Timing:** Avaleha: morning on empty stomach or twice daily for Rasayana (rejuvenation) therapy; juice: morning; Ghrita: before meals with warm water
-
-**Standardized Extract:** Fruit extract standardized to minimum 0.5% cucurbitacins and 2% total [polyphenols](/glossary/compounds-o-q/#polyphenols); Avaleha as per API specifications for Kushmanda Avaleha
-
-**Shelf Life:** 24 hours for fresh juice; 24 months for Avaleha (sugar-preserved); 18 months for powder; 12 months for Ghrita; 24 months for capsules
 
 **Storage:** Fresh fruit and juice require refrigeration (2-8°C). Avaleha in glass jars at 15-30°C (sugar acts as natural preservative). Ghrita in airtight glass containers at room temperature. Powder in moisture-proof containers.
 
 **Marker Compounds:** Alonusin, Isovitexin, Cucurbitacin B, Cucurbitacin E, [Luteolin](/glossary/compounds-l-o/#luteolin)-7-glucoside, Vitamin C, Beta-carotene, Pectin
-
-### Extraction Methods
-
-- Cold pressing of mature fruit for juice
-- Traditional Avaleha preparation (pulp cooked with sugar, ghee, honey, and Prakshepa dravyas)
-- Hydroalcoholic extraction (40-50% ethanol)
-- Freeze-drying of juice for stable powder
-- Ghrita Paka method for medicated ghee
 
 ### Synergistic Combinations
 

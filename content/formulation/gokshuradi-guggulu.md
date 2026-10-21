@@ -63,25 +63,17 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Guggulu (resinous pill/tablet), Modern compressed tablet, Capsule (modern)
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:3 states a dose of 3 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: musta kvatha; pasanabheda kvatha; usira. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 84-86.
 
-**Bioavailability:** Guggulu resin acts as yogavahi, enhances bioavailability of co-formulated herbs. Guggulsterones are well-absorbed orally. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) further enhances absorption. Protodioscin from [Gokshura](/herb/gokshura/) has moderate oral bioavailability enhanced by guggulu matrix.
-
 **Optimal Timing:** After meals, twice or thrice daily, for Mutrakrichra (urinary disorders) and Ashmari (calculi)
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Guggulu preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C. Guggulu preparations become harder with age, some texts say this improves potency.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Protodioscin, Diosgenin (from [Gokshura](/herb/gokshura/)), Piperine, Gallic acid
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z-guggulsterone and E-guggulsterone content by HPLC, protodioscin from Gokshura, piperine, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or Punarnavadi Kwath for urinary conditions
 

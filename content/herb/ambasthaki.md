@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 - Cissamine and hayatinine
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule, Tablet, Avaleha (confection)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Cissampelos pareira ([Patha](/herb/patha/)/Ambasthaki) contains bisbenzylisoquinoline alkaloids (hayatinine, cissampareine) with moderate lipophilicity and reasonable GI absorption. Alkaloid bioavailability enhanced by [piperine](/reference/piperine/) co-administration. Traditional preparation with honey may improve mucosal absorption.
-
 **Optimal Timing:** Before meals with warm water or honey for urinary and digestive indications
-
-**Standardized Extract:** Root extract (10:1) standardized to minimum 2% total bisbenzylisoquinoline alkaloids. Hayatinine content minimum 0.5%.
-
-**Shelf Life:** 2 years (powder); 3 years (capsules/tablets); 6 months (decoction with preservative)
 
 **Storage:** Cool, dry place below 25°C. Protect from moisture and light. Airtight containers.
 
 **Marker Compounds:** Hayatinine, Cissampareine, Pareirine, Curine, Cycleanine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30 ethanol-water)
-- Methanol extraction for alkaloid enrichment
-- Acid-base extraction for alkaloid isolation
 
 ### Synergistic Combinations
 

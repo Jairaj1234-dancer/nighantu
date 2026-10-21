@@ -64,17 +64,11 @@ Sushruta Samhita and Ashtanga Hridayam (as a group - Panchakola Gana); elaborate
 
 **Standard Dosage:** 1-3g before meals
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals as digestive
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Piperine, [Gingerol](/glossary/compounds-d-g/#gingerol), Plumbagin
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Gingerol, Plumbagin
 
 **Vehicle (Anupana):** Warm water or buttermilk
 

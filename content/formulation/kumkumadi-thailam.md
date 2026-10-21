@@ -62,25 +62,17 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for facial/skin use), Serum (modern), Cream (modern)
 
 **Standard Dosage:** External: 2-5 drops on face/skin, once daily at bedtime. The Ayurvedic Formulary of India, unlike the Bhaishajya Ratnavali and Ashtanga Hridayam references given above, attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
-**Bioavailability:** Identical to [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). If [coconut oil](/glossary/concepts-a-m/#coconut-oil) base is used (Kerala variant), lauric acid provides enhanced [antimicrobial](/reference/antimicrobial/) activity on facial skin.
-
 **Optimal Timing:** At bedtime for overnight skin rejuvenation
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Same as [Kumkumadi Tailam](/formulation/kumkumadi-tailam/). Dark amber glass bottles, temperature not exceeding 25°C.
 
 **Marker Compounds:** Crocin, Crocetin, [Safranal](/glossary/compounds-q-t/#safranal), Alpha-santalol, Purpurin, [Alizarin](/glossary/compounds-1-a/#alizarin)
-
-**Quality Parameters:** Same as Kumkumadi Tailam, acid value, peroxide value, crocin content, alpha-santalol, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test, HPTLC fingerprint, microbial limits, heavy metals, dermatological safety
 
 **Vehicle (Anupana):** Not applicable, topical facial use
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 **Standard Dosage:** 10-20g dried grapes (Munakka) soaked and consumed; 50-100ml fresh juice; 5-10g powder twice daily; 1-2 teaspoons Avaleha twice daily
 
-**Bioavailability:** Vitis vinifera (grape/raisin) contains [polyphenols](/glossary/compounds-o-q/#polyphenols) including [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) (OPCs), and [anthocyanins](/glossary/compounds-1-a/#anthocyanins). [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) has low oral bioavailability (<1% as free resveratrol) due to rapid glucuronidation and sulfation. However, resveratrol metabolites (resveratrol-3-O-glucuronide, resveratrol-3-sulfate) retain partial biological activity. OPCs have moderate bioavailability (10-15% for monomers/dimers; lower for oligomers). Enhancement: trans-resveratrol in [piperine](/reference/piperine/) combination was reported to raise peak resveratrol blood levels by 1544% in a mouse study; cyclodextrin complexation improves aqueous solubility 400x; nanoparticle formulation; liposomal delivery. Traditional [Drakshavaleha](/herb/drakshavaleha/) preparation with ghee may enhance lipophilic compound absorption.
-
 **Optimal Timing:** Soaked Munakka in the morning on empty stomach for mild [laxative](/reference/laxative/) effect; juice/Avaleha after meals for digestive and tonic purposes; at bedtime with milk for [Rasayana](/reference/rasayana/) effect
-
-**Standardized Extract:** Grape seed extract (GSE): standardized to NLT 95% total polyphenols and NLT 80% OPCs (oligomeric proanthocyanidins) by UV spectrophotometry. Resveratrol extract: NLT 50% trans-resveratrol. Whole fruit extract ratio 4:1.
-
-**Shelf Life:** 1 year (whole dried fruit in sealed pack); 2 years (powder); 3 years (GSE capsule/tablet); 1 year (Avaleha)
 
 **Storage:** Dried fruit: airtight, moisture-proof packaging below 25 deg C - susceptible to moisture absorption and microbial growth. Extracts and capsules: cool, dry place, light-protected. Avaleha: airtight glass/food-grade container at room temperature.
 
 **Marker Compounds:** trans-Resveratrol, Oligomeric proanthocyanidins (OPCs), [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Quercetin](/reference/quercetinquercetin/)-3-glucoside, Malvidin-3-glucoside (anthocyanin), Gallic acid
-
-### Extraction Methods
-
-- Cold-pressing of fresh grapes for juice
-- Hydroalcoholic extraction of dried fruit (70:30 ethanol:water)
-- Ethyl acetate extraction for polyphenol-rich fraction
-- Supercritical CO2 for resveratrol extraction from grape seeds/skin
-- Enzymatic extraction for enhanced OPC yield
 
 ### Synergistic Combinations
 

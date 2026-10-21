@@ -265,6 +265,18 @@ const REGULATOR_LABELS = [
 export const fixRegulatorLabels = (text) => REGULATOR_LABELS.reduce((s, [re, to]) => s.replace(re, to), text);
 
 /**
+ * The vault's preparation block carries manufacturing specifications on nearly every page
+ * (bioavailability multipliers, extract standards, quality parameters, analytical methods,
+ * shelf life, extraction methods). None of them cites anything, and they disagree with the
+ * same page's dosage and constituent sections more often than any other part of it. Dosage
+ * forms, standard dosage, timing, storage and marker compounds stay.
+ */
+const SPEC_FIELDS = /^\*\*(Bioavailability|Standardized Extract|Quality Parameters|Analytical Methods|Shelf Life):\*\*.*\n(\n)?/gm;
+export const dropSpecFields = (body) => body
+  .replace(SPEC_FIELDS, '')
+  .replace(/^### Extraction Methods\n\n(?:- .*\n)+\n?/gm, '');
+
+/**
  * Resolve [[wikilinks]]. `resolver(target)` returns a URL or null.
  * Unresolvable links render as plain text so no broken link is ever emitted.
  */

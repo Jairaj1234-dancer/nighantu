@@ -40,17 +40,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/
 
 **Standard Dosage:** 3-6 g twice daily with warm water before meals. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 113-115.
 
-**Bioavailability:** Fine particle size enhances surface area for dissolution and absorption. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) and Maricha acts as bioenhancer. Volatile oils from Ajamoda and [Hingu](/herb/hingu/) promote gastric motility and absorption.
-
 **Optimal Timing:** Before meals (Bhojana-purva), 30 minutes before lunch and dinner
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 30°C. Hygroscopic. Avoid exposure to humid conditions.
 
 **Marker Compounds:** Piperine, [Thymol](/glossary/compounds-t-z/#thymol), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/))
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size distribution (pass through sieve #85), bulk density, tapped density, heavy metals, microbial limits, aflatoxin levels, HPTLC fingerprint for piperine and thymol, uniformity of content
 
 **Vehicle (Anupana):** Warm water or buttermilk
 

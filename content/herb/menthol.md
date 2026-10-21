@@ -35,25 +35,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Menthol/meta-analys
 
 **Standard Dosage:** Topical: 1-10% in formulations. Oral (lozenges): 5-10 mg per lozenge. Inhalation: 2-5 drops in steam. Internal: 0.2-0.4 mL peppermint oil (50-55% menthol) in enteric-coated capsules.
 
-**Bioavailability:** Oral: approximately 40-50% bioavailable with significant first-pass hepatic glucuronidation. Topical: rapidly penetrates skin reaching dermal tissue within 5-10 minutes. Inhalation: near-instant mucosal absorption with rapid onset of action. TRPM8 receptor activation occurs at micromolar concentrations making menthol highly potent topically.
-
 **Optimal Timing:** Topical: as needed for pain or cooling. Lozenges: as needed for throat/nasal congestion. Enteric capsules: 30 minutes before meals for IBS. Inhalation: as needed for respiratory relief.
-
-**Standardized Extract:** Natural L-Menthol crystals (minimum 99.0% purity, BP/USP grade). Dementholized peppermint oil (menthol removed, remaining terpenes). Menthol-in-cyclodextrin complex for controlled release. Microencapsulated menthol for extended topical effect.
-
-**Shelf Life:** Menthol crystals: 60 months in sealed containers. Topical products: 24-36 months. Lozenges: 24 months. Essential oil: 36 months sealed.
 
 **Storage:** Store menthol crystals in airtight glass containers at 15-25 deg C (sublimes at higher temperatures). Protect from heat and light. Essential oil in amber glass, tightly sealed. Topical products at room temperature. Lozenges in individually wrapped, moisture-proof packaging.
 
 **Marker Compounds:** L-Menthol, [Menthone](/glossary/compounds-l-o/#menthone), Menthyl acetate, [Isomenthone](/glossary/compounds-g-l/#isomenthone), Neomenthol, [Pulegone](/glossary/compounds-o-q/#pulegone) (impurity, must be below 1%)
-
-### Extraction Methods
-
-- Fractional distillation of peppermint oil (Mentha piperita/M. arvensis)
-- Crystallization from cornmint oil at -22 deg C
-- Synthetic production from [thymol](/glossary/compounds-t-z/#thymol) or [citronellal](/glossary/compounds-c-d/#citronellal)
-- Semi-synthetic from natural d-[limonene](/glossary/compounds-g-l/#limonene)
-- Freeze crystallization for pharmaceutical-grade crystals
 
 ### Synergistic Combinations
 

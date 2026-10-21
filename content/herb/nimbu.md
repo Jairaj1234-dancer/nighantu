@@ -86,34 +86,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 - 
 - Ascorbic acid 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh juice, Oral liquid/syrup, Effervescent tablet, Lozenges, Spray-dried powder, Essential oil (external/aromatherapy), Cream/gel (topical)
 
 **Standard Dosage:** 10-30 mL fresh lemon juice with water daily; 1-3 g spray-dried juice powder; 2-5 drops essential oil for aromatherapy; topical gel 2-5% citrus extract
 
-**Bioavailability:** [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) and ascorbic acid are rapidly and nearly completely absorbed (>90% bioavailability). Limonene from peel oil shows moderate oral bioavailability (~40-60%) with rapid absorption. Flavonoids (hesperidin, eriocitrin) have variable bioavailability (10-30%) improved by co-administration with [pectin](/glossary/compounds-o-q/#pectin) or bioflavonoid complex. Vitamin C degrades rapidly in solution at pH >4 and elevated temperatures.
-
 **Optimal Timing:** Morning on empty stomach with warm water. Before meals as appetite stimulant. Post-meal for digestive comfort.
-
-**Standardized Extract:** Spray-dried lemon juice powder with minimum 8% citric acid and 2% ascorbic acid. Lemon peel extract standardized to hesperidin >5% and eriocitrin >2%. Essential oil: limonene >60%, [citral](/glossary/compounds-c-d/#citral) 2-5%.
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Spray-dried powder: 12-18 months; Essential oil: 12-24 months; Effervescent tablets: 18-24 months
 
 **Storage:** Fresh juice: 2-8 deg C, protect from light. Powder: below 25 deg C, RH <35%, moisture-barrier packaging with desiccant. Essential oil: amber glass, 15-25 deg C, tightly sealed. All forms: protect from heat and direct sunlight.
 
 **Marker Compounds:** Limonene, Citric acid, Ascorbic acid (Vitamin C), Hesperidin, Eriocitrin, Citral (geranial + neral), Beta-pinene, Gamma-terpinene
-
-### Extraction Methods
-
-- Mechanical cold-pressing of fruit for juice
-- Steam distillation of peel for essential oil
-- Cold-press peel oil extraction
-- Spray drying of juice with maltodextrin (ratio 1:1 to 1:2)
-- Hydroalcoholic extraction of peel for flavonoids
-- Supercritical CO2 for limonene-rich fractions
 
 ### Synergistic Combinations
 

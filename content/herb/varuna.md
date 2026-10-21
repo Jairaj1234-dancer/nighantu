@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; 15-30 mL Varunadi Kwatha twice daily
 
-**Bioavailability:** [Lupeol](/reference/lupeol/) (pentacyclic triterpene) has very low oral bioavailability (<5%) due to extreme lipophilicity; lipid-based formulations or nanoparticle encapsulation can improve this 5-10 fold. Betulinic acid similarly shows poor absorption. [Saponins](/reference/saponins/) (varunosides) undergo partial hydrolysis by gut bacteria enhancing aglycone absorption. [Glucosinolates](/glossary/compounds-d-g/#glucosinolates) (glucocapparin) are well absorbed and metabolized to bioactive [isothiocyanates](/glossary/compounds-g-l/#isothiocyanates) by [myrosinase](/glossary/compounds-l-o/#myrosinase) or gut bacteria.
-
 **Optimal Timing:** Before meals on empty stomach for urinary conditions; morning dosing with first urine output to observe [diuretic](/reference/diuretic/) effect
-
-**Standardized Extract:** Bark extract standardized to >0.5% lupeol by HPLC; >5% total saponins by gravimetric method; glucocapparin/glucocleomin content quantified by HPLC
-
-**Shelf Life:** Bark powder: 18-24 months; Capsules/Tablets: 24-36 months; Decoction: prepare fresh daily; Arishta: 36-60 months
 
 **Storage:** Bark powder in airtight, moisture-proof containers at 15-25 deg C. Protect from insects (bark material susceptible to borers). Decoction containers should be glass or stainless steel.
 
 **Marker Compounds:** Lupeol, Betulinic acid, [Friedelin](/glossary/compounds-d-g/#friedelin), beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Glucocapparin, Glucocleomin, Varunosides, [Diosgenin](/glossary/compounds-d-g/#diosgenin) (trace)
-
-### Extraction Methods
-
-- Aqueous decoction of bark
-- Hydroethanolic extraction (60-70% ethanol)
-- Methanol extraction for triterpenoid enrichment
-- Sequential extraction (hexane then ethanol) for fractionation
-- Supercritical CO2 for lupeol-rich fraction
 
 ### Synergistic Combinations
 

@@ -74,25 +74,17 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Thailam (medicated oil for external use), Capsules (modern, for internal use variant)
 
 **Standard Dosage:** External: sufficient quantity for Abhyanga (body massage). Internal: 5-10 mL as per physician direction.
 
-**Bioavailability:** Oil base provides excellent transdermal absorption during Abhyanga (massage). Massage enhances blood flow and promotes deeper penetration of actives. Withanolides are lipophilic and absorb well through skin. Milk processing enriches with [phospholipids](/glossary/compounds-o-q/#phospholipids) that enhance skin penetration.
-
 **Optimal Timing:** External: morning before bath (Abhyanga) or evening. Internal: before meals or as directed.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila preparations
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Protect from direct sunlight. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Withanolide A, Withaferin A, Ephedrine, [Sesamin](/glossary/compounds-q-t/#sesamin), Beta-sitosterol
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, moisture content, rancidity test negative, HPTLC for withanolides and ephedrine equivalents, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable for external use. For internal use: warm milk or warm water.
 

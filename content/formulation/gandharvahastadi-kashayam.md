@@ -63,25 +63,17 @@ Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha bala
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:5 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sahasrayoga, kasayaprakarana; 394.
 
-**Bioavailability:** Hot decoction provides rapid absorption. When administered with [Eranda](/herb/eranda/) Taila, lipid-mediated absorption is enhanced. Shunthi ([ginger](/herb/ginger/)) acts as bioenhancer for other constituents.
-
 **Optimal Timing:** Before meals, or at bedtime with [Eranda](/herb/eranda/) Taila for Vatanulomana (normalizing Vata)
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** Ricinoleic acid derivatives, 6-[Gingerol](/glossary/compounds-d-g/#gingerol) (from Shunthi), [Cedrene](/glossary/compounds-c-d/#cedrene) (from [Devadaru](/herb/devadaru/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, ricinoleic acid derivatives, HPTLC fingerprint, 6-gingerol content (from Shunthi), microbial limits, heavy metals
 
 **Vehicle (Anupana):** Eranda Taila (castor oil) 5-10 mL is the classical anupana
 

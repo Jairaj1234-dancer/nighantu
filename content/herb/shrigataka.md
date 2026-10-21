@@ -83,32 +83,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 - 2
 - Thiamine
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Leha (paste/confection), Capsule, Starch preparations
 
 **Standard Dosage:** 5-10 g fruit powder per day; 3-6 g kernel powder per day with milk; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** Starch (60-70% of dry weight) is highly digestible. Mineral content (iron, [manganese](/glossary/compounds-l-o/#manganese), zinc) has moderate bioavailability (10-20%). Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate absorption (25-35%). Protein content (10-15%) with moderate amino acid bioavailability. Traditional use with milk or ghee enhances lipophilic constituent absorption.
-
 **Optimal Timing:** After meals as nutritive supplement; with milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) (reproductive tonic) action
-
-**Standardized Extract:** Fruit kernel extract (5:1), standardized to NLT 60% carbohydrates, NLT 10% protein content; total mineral content (ash) 2-4%; total phenolics NLT 1.5% as gallic acid equivalents
-
-**Shelf Life:** 12 months for fresh fruit powder; 24 months for dried kernel powder; 30 months for capsules
 
 **Storage:** Store below 25 deg C in airtight containers. Powder is hygroscopic. Maintain RH <50%. Protect from insect infestation (high starch attracts pests); use nitrogen-flushed packaging.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Starch (amylose:amylopectin ratio), Manganese (mineral marker)
-
-### Extraction Methods
-
-- Aqueous extraction
-- Starch isolation by wet milling and sedimentation
-- Hydroalcoholic extraction (40-50% ethanol) for flavonoid enrichment
-- Drying and powdering of fruit kernel
 
 ### Synergistic Combinations
 

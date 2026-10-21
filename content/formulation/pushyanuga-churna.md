@@ -52,7 +52,7 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 ## Recent safety updates
 
-- Generally safe at recommended doses (1-3g with honey and rice-washed water); may cause mild constipation due to astringent herbs; not recommended during pregnancy or if trying to conceive; use only after proper gynecological diagnosis
+- Generally safe at the doses given under Dosage, taken with honey and rice-washed water; may cause mild constipation due to astringent herbs; not recommended during pregnancy or if trying to conceive; use only after proper gynecological diagnosis
 - Long-term unsupervised use not recommended; excessive menstrual bleeding should be evaluated for underlying pathology (fibroids, polyps, endometrial hyperplasia) before relying solely on herbal management; some ingredients (Ativisha) require proper processing
 
 ## Dosage forms and preparation
@@ -61,17 +61,11 @@ Charaka Samhita (Chikitsa Sthana, Chapter 30 - Yonivyapad Chikitsa); one of the 
 
 **Standard Dosage:** 3-6g twice daily for gynecological conditions
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** [Loturine](/glossary/compounds-l-o/#loturine), [Cyperene](/glossary/compounds-c-d/#cyperene), Atisin
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Loturine, Cyperene, Atisin
 
 **Vehicle (Anupana):** Rice water or honey
 

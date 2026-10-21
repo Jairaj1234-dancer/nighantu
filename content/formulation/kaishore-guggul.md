@@ -61,17 +61,11 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water. The Ayurvedic Formulary of India, Part I, entry 5:2 states a dose of 3 g; this is higher than the figure above, and the two are recorded here as differing sources. The formulary's anupana: Mudga yusa,milk,sugandhijala. The formulary attributes this formula to Bhaisajyaratnavali, Vataraktadhikara; 97-101.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as yogavahi, enhances delivery of anti-inflammatory compounds to joints and blood. Piperine from [Trikatu](/herb/trikatu/) significantly enhances absorption of [berberine](/glossary/compounds-a-c/#berberine) and guggulsterones.
-
 **Optimal Timing:** After meals, twice or thrice daily, for Vatarakta (gout), Kushtha (skin diseases), and inflammatory conditions
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Guggulu preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, [Berberine](/glossary/compounds-a-c/#berberine) (from [Guduchi](/herb/guduchi/)), Piperine, Gallic acid, [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/))
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<45 min), moisture (<6%), Z/E-guggulsterone content by HPLC, berberine from [Guduchi](/herb/guduchi/), piperine, gallic acid, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or Guduchi kwath (this differs from the formulary's anupana given above)
 

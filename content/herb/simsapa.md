@@ -40,22 +40,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark/leaf powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily
 
-**Bioavailability:** [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) and pterocarpans show moderate bioavailability (25-40%). Tectoridin (isoflavone glycoside) is hydrolyzed by intestinal beta-glucosidases to tectorigenin, which has improved absorption. [Tannins](/reference/tannins/) may reduce bioavailability of co-administered minerals. Lipid co-administration enhances terpenoid absorption.
-
-**Standardized Extract:** Heartwood extract (10:1 in 70% ethanol), standardized to NLT 3% total isoflavonoids (as tectoridin equivalents by HPLC); total phenolics NLT 5%
-
-**Shelf Life:** 24 months for churna; 36 months for extract capsules
-
 **Storage:** Store below 25 deg C in airtight containers, protected from light. Heartwood powder is relatively stable. RH <60%.
 
 **Marker Compounds:** Tectoridin, Tectorigenin, Dalbergin, Biochanin A, Caviunin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Melanoxin
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Methanol maceration for isoflavonoid enrichment
-- Sequential extraction for fractionation
 
 ### Synergistic Combinations
 

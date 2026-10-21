@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlavetasa/meta-analysis.md"
 - Garpedunchromones A-C 
 - Nujiangbiflavone A 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Kashayam (decoction), Compound formulations
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg extract capsule; as component in compound formulations per classical proportion
 
-**Bioavailability:** Good oral bioavailability. Garcinia pedunculata (or Rheum emodi in some traditions, identity debated). Hydroxycitric acid (HCA, if Garcinia) is water-soluble with good absorption (60-70% oral bioavailability). Anthraquinones (if Rheum) are absorbed and undergo extensive hepatic metabolism. Traditional use with [Saindhava lavana](/herb/saindhava-lavana/) enhances absorption.
-
 **Optimal Timing:** After meals for digestive support
-
-**Standardized Extract:** If Garcinia pedunculata: standardized to minimum 30% hydroxycitric acid (HCA). If Rheum emodi: standardized to minimum 2% total anthraquinones. Specify botanical source on label.
-
-**Shelf Life:** 2 years (powder); 3 years (capsules/tablets); 18 months (decoction concentrate)
 
 **Storage:** Cool, dry place below 25°C. Highly hygroscopic, use moisture-barrier packaging with desiccant. Protect from light.
 
 **Marker Compounds:** Hydroxycitric acid (Garcinia), Emodin (Rheum), Chrysophanol (Rheum), [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Tartaric acid
-
-### Extraction Methods
-
-- Aqueous extraction (hot water) for HCA-rich fraction
-- Hydroalcoholic extraction (60:40)
-- Standardized HCA extraction (if Garcinia species)
-- Ethanol extraction for anthraquinone enrichment (if Rheum species)
 
 ### Synergistic Combinations
 

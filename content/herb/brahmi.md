@@ -105,10 +105,6 @@ Named after Brahma (creator god) for its intellect-enhancing properties. Counted
 - May increase thyroid hormone levels; avoid with thyroid hormone medications and in hyperthyroidism.
 - Contraindicated in pregnancy, stomach ulcers, intestinal/urinary blockages, slow heart rate, and lung disease.
 
-## Recommended Dosage
-
-Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
-
 ## Safety, contraindications and cautions
 
 - May increase thyroid hormone levels
@@ -145,33 +141,17 @@ Powder: 2-5g/day; Standardized extract (20% bacosides): 300-450mg/day
 - Stigmasterol
 - Stigmastanol
 
-**Analytical Methods:** HPLC-ELSD (bacosides), LC-MS/MS, UV spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Swarasa (fresh juice), [Ghrita](/herb/ghrita/) (ghee preparation), Taila (oil), Syrup, Brahmi Rasayana
 
 **Standard Dosage:** 3-6g powder twice daily; 300-450mg standardized extract (50% bacosides); 10-20ml juice; 5-10g Brahmi Ghrita; 5-10ml syrup
 
-**Bioavailability:** Bacoside A shows moderate oral bioavailability (30-40%) with Tmax of 2-3 hours. Bacosides undergo hydrolysis to jujubogenin and pseudojujubogenin aglycones in the GI tract. Lipid-based formulations (Ghrita) significantly enhance bacoside bioavailability (2-3x). Phosphatidylserine complex of bacosides shows improved brain penetration. SNEDDS formulations achieve 3-4x enhancement. Chronic dosing (8-12 weeks) needed for cognitive effects.
-
 **Optimal Timing:** Morning with milk or ghee for cognitive enhancement; Ghrita at bedtime for Vata pacification
-
-**Standardized Extract:** Standardized extract with bacosides NLT 50% (by UV); NLT 25% bacoside A by HPLC. Whole plant extract 10:1 ratio for general preparations.
-
-**Shelf Life:** 2 years (powder); 3 years (standardized extract capsule/tablet); 3 years (Ghrita); 1 year (syrup)
 
 **Storage:** Cool, dry place away from light and moisture. Standardized extracts in well-sealed containers. Ghrita in glass jars at room temperature. Hygroscopic powder requires airtight packaging with desiccant.
 
 **Marker Compounds:** Bacoside A (bacoside A3, bacopaside II, bacopasaponin C, jujubogenin isomer), Bacoside B, Bacosaponin C-F, [Luteolin](/glossary/compounds-l-o/#luteolin), [Apigenin](/glossary/compounds-1-a/#apigenin), Brahmine, Herpestine, Betulinic acid
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water) for bacoside enrichment
-- Aqueous extraction for traditional preparations
-- Methanol extraction for research-grade saponin profiling
-- Standardized extraction to 50% bacosides via solvent partitioning
-- Traditional Ghrita preparation for lipid-based extraction
 
 ### Synergistic Combinations
 

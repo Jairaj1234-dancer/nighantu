@@ -40,17 +40,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Irimedadi-T
 
 **Standard Dosage:** For Gandusha/Kavala (oil pulling): 15-20 mL held in mouth for 5-15 minutes, then spat out. For local application: apply to gums with finger or cotton.
 
-**Bioavailability:** Buccal/gingival absorption provides direct delivery to oral mucosa. Oil pulling (Gandusha) allows 5-15 minutes of mucosal contact time. [Tannins](/reference/tannins/) from [Khadira](/herb/khadira/) and [Bakula](/herb/bakula/) have astringent action on gingival tissues. [Sesame oil](/glossary/concepts-m-y/#tila-taila) base has inherent [antimicrobial](/reference/antimicrobial/) properties (sesaminol).
-
 **Optimal Timing:** Morning on empty stomach for Gandusha (oil pulling). Local application after meals for gum conditions.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Oral-grade preparation requires enhanced cleanliness standards.
 
 **Marker Compounds:** [Catechin](/reference/catechin/), [Epicatechin](/glossary/compounds-d-g/#epicatechin) (from [Khadira](/herb/khadira/)), [Sesamin](/glossary/compounds-q-t/#sesamin) (from [sesame oil](/glossary/concepts-m-y/#tila-taila)), Gallic acid
-
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, catechin content from Khadira by HPLC, total tannins, total phenolics, rancidity test negative, HPTLC fingerprint, microbial limits (critical for oral use), heavy metals
 
 **Vehicle (Anupana):** Not applicable, used for Gandusha (oil pulling) or local gum application. Do not swallow.
 

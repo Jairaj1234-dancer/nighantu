@@ -70,24 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 **Standard Dosage:** 20-50ml fresh juice twice daily; 3-6g dried powder; as dietary vegetable (ad libitum)
 
-**Bioavailability:** Good bioavailability for water-soluble nutrients (cucurbitins, [vitamins](/glossary/compounds-t-z/#vitamins), minerals). Fresh juice retains maximum bioactivity. Cucurbitacins (bitter principles, present in bitter variety) are lipophilic with good oral absorption but GI irritant potential. The sweet variety (Lagenaria siceraria) is commonly used; the bitter variety (high cucurbitacin) is toxic and should not be consumed.
-
 **Optimal Timing:** Fresh juice early morning on empty stomach for cardiovascular and metabolic benefits. Avoid at night (diuretic effect).
-
-**Standardized Extract:** Sweet variety juice standardized to cucurbitacin content below 0.01% (safety threshold). Mineral content documentation (K, Ca, Mg, Zn). Freeze-dried powder at 10:1 concentration.
-
-**Shelf Life:** 1 day (fresh juice, refrigerated); 12 months (freeze-dried powder); 2 years (capsules)
 
 **Storage:** Fresh juice must be consumed within hours; refrigerate if necessary (2-8°C). Dried powder in airtight containers, cool and dry place.
 
 **Marker Compounds:** Cucurbitacin B (below safety limit), Cucurbitacin D (below safety limit), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Saponins, Vitamin C, [Potassium](/glossary/compounds-o-q/#potassium) content
-
-### Extraction Methods
-
-- Fresh juice extraction (cold-press or blending)
-- Aqueous decoction of dried fruit
-- Hydroalcoholic extraction (50:50) for cucurbitacin standardization
-- Freeze-drying of fresh juice for powder
 
 ### Synergistic Combinations
 

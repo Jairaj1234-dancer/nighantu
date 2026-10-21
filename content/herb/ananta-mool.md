@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ananta-Mool/meta-analysis.md"
 
 **Standard Dosage:** 3-6g root powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; 15-30ml syrup
 
-**Bioavailability:** Moderate oral bioavailability. Hemidesmus indicus (Indian Sarsaparilla) root contains 2-hydroxy-4-methoxybenzaldehyde as the primary aromatic compound with good GI absorption. Hemidesminine and other steroidal [saponins](/reference/saponins/) show moderate bioavailability. The pleasant aroma indicates volatile compound availability. [Coumarins](/glossary/compounds-c-d/#coumarins) are well absorbed. Milk or water as anupana recommended.
-
 **Optimal Timing:** Between meals with cool water or milk for Pitta conditions; before meals with warm water for digestive and blood purification
-
-**Standardized Extract:** Root extract (10:1) standardized to minimum 0.5% 2-hydroxy-4-methoxybenzaldehyde. Total saponin content minimum 3%. Hemidesmine content minimum 0.2%.
-
-**Shelf Life:** 2 years (root powder); 3 years (capsules/tablets); 2 years (syrup with preservative); 5 years (Arishta)
 
 **Storage:** Cool, dry place below 25°C. Root retains aroma better when stored whole, powder closer to use. Airtight containers essential to prevent volatile loss.
 
 **Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesminine, Hemidesmin-1, Hemidesmin-2, Coumarins, [Lupeol](/reference/lupeol/), Alpha-amyrin, Hexadecanoic acid
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30) for saponin and [coumarin](/glossary/compounds-c-d/#coumarin) enrichment
-- Steam distillation for aromatic fraction (2-hydroxy-4-methoxybenzaldehyde)
-- Cold maceration in water for sherbet preparation
-- Fermentation for Arishta
 
 ### Synergistic Combinations
 

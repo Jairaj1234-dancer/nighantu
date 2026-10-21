@@ -66,26 +66,16 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati/tablet
 
 **Standard Dosage:** 250–500 mg (1–2 tablets) twice daily
 
-**Bioavailability:** Enhanced iron absorption due to [Amla](/herb/amla/) (Dhatri) vitamin C content facilitating Fe3+ → Fe2+ conversion
-
 **Optimal Timing:** After meals with honey or warm water
-
-**Standardized Extract:** Iron bhasma combined with [Amla](/herb/amla/) and [Triphala](/herb/triphala/)
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container; cool, dry place
 
 **Marker Compounds:** Iron oxide (from [Loha Bhasma](/herb/loha-bhasma/)), Ascorbic acid/[tannins](/reference/tannins/) (from Dhatri), [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols)
-
-**Quality Parameters:** Iron content as labeled, disintegration <30 min, hardness 4–6 kg/cm², uniformity of weight ±5%
 
 **Vehicle (Anupana):** Honey, warm water, or Amla juice

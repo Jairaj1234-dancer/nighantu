@@ -115,25 +115,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Vijaysar/meta-analysis.
 
 **Standard Dosage:** 3-6 g heartwood powder twice daily; 50-100 mL decoction twice daily; Vijaysar tumbler water: 200 mL morning on empty stomach; 500 mg-1 g standardized extract capsule twice daily
 
-**Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) (primary active stilbene) has remarkably good oral bioavailability (~80%) due to dimethylation of hydroxyl groups (compared to [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol)'s ~20%), better metabolic stability, and enhanced lipophilicity. [Marsupsin](/glossary/compounds-l-o/#marsupsin) shows moderate oral bioavailability (~30-40%). [Epicatechin](/glossary/compounds-d-g/#epicatechin) (flavanol) has moderate bioavailability (~20-30%). The traditional 'tumbler method' (overnight water extraction in Vijaysar wood cup) provides slow extraction of water-soluble actives including epicatechin and kino-tannic acid.
-
 **Optimal Timing:** Morning on empty stomach; 30 minutes before meals; tumbler water first thing in morning
-
-**Standardized Extract:** Heartwood extract standardized to >5% pterostilbene and >2% epicatechin by HPLC; total [polyphenols](/glossary/compounds-o-q/#polyphenols) >20% (as tannic acid equivalent); marsupsin content >1%
-
-**Shelf Life:** Heartwood chips: 36-48 months; Powder: 18-24 months; Capsules/Tablets: 24-36 months; Vijaysar tumbler: 6-12 months (replace when color fading stops); Aqueous extract: 12-18 months
 
 **Storage:** Heartwood and powder in airtight containers at 15-25 deg C. Protected from moisture. Vijaysar tumblers should be kept dry when not in use. Standardized extracts in light-resistant packaging (pterostilbene is moderately photosensitive).
 
 **Marker Compounds:** Pterostilbene, Marsupsin, [Pterosupin](/glossary/compounds-o-q/#pterosupin), Epicatechin, [Liquiritigenin](/glossary/compounds-l-o/#liquiritigenin), [Isoliquiritigenin](/glossary/compounds-g-l/#isoliquiritigenin), Kino-tannic acid, [Pterocarpol](/glossary/compounds-o-q/#pterocarpol), beta-Eudesmol
-
-### Extraction Methods
-
-- Aqueous extraction (decoction or overnight steeping)
-- Hydroethanolic extraction (60-80% ethanol)
-- Supercritical CO2 extraction for pterostilbene-rich fraction
-- Traditional: water storage in heartwood cup/tumbler
-- Methanol extraction for comprehensive phytochemical profile
 
 ### Synergistic Combinations
 

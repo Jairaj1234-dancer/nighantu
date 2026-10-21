@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kumbhika/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-80 mL decoction; 10-20 mL juice; external paste as needed
 
-**Bioavailability:** [Triterpenoids](/glossary/compounds-t-z/#triterpenoids) and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) slow absorption but provide sustained release. Traditional co-administration with ghee or [sesame oil](/glossary/concepts-m-y/#tila-taila) enhances lipophilic constituent absorption. Decoction form hydrolyzes glycosides improving aglycone availability.
-
 **Optimal Timing:** After meals with appropriate Anupana (vehicle) based on condition; external applications twice daily
-
-**Standardized Extract:** Standardized to minimum 3% total triterpenoids (as oleanolic acid equivalents) and 2% total [flavonoids](/reference/flavonoids/)
-
-**Shelf Life:** 18 months for powder; 24 months for capsules; decoction consumed within 24 hours; fresh juice within 6 hours
 
 **Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Mucilaginous preparations are prone to microbial growth. Ensure moisture content <10%.
 
 **Marker Compounds:** Oleanolic acid, Betulinic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Quercetin](/reference/quercetinquercetin/), Gallic acid, [Tannins](/reference/tannins/)
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration for [mucilage](/glossary/compounds-l-o/#mucilage)-rich fraction
-- Soxhlet extraction for comprehensive phytochemical profiling
 
 ### Synergistic Combinations
 

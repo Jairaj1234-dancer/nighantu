@@ -62,25 +62,17 @@ Bhaishajya Ratnavali Kushta Adhikara (Panchatikta Ghrita); Charaka Samhita Chiki
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Ghrita (medicated ghee), Capsule (for convenience)
 
 **Standard Dosage:** 12-24ml for skin conditions and detox
 
-**Bioavailability:** Ghee is a lipid carrier for fat-soluble phytochemicals
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for ghrita preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** [Vasicine](/glossary/compounds-t-z/#vasicine), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Vasicine, Tinosporin
 
 **Vehicle (Anupana):** Warm water or warm milk
 

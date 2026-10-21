@@ -57,18 +57,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Superior to bhasma due to low-temperature processing retaining natural matrix
-
 **Optimal Timing:** With honey, cream of milk (Malai), or Gulkand
-
-**Standardized Extract:** Agate stone triturated with Gulab Jal (rose water), cold-processed
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; cool, dry place
 
 **Marker Compounds:** Silicon dioxide (chalcedony), Iron oxide, Trace minerals
-
-**Quality Parameters:** Particle size <50 μm (Pishti fineness), heavy metals within AYUSH limits
 
 **Vehicle (Anupana):** Honey, Gulkand, cream of milk (Malai), or pomegranate juice

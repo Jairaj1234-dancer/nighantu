@@ -75,32 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sarpagandha/meta-analysis.md"
 - Deserpidine
 - Serpentinine
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (tablet), Churna (powder), Capsule, Tincture (mother tincture), Ghana vati (solid extract tablet), Sustained-release tablet
 
 **Standard Dosage:** 250-500 mg root powder per day. Must be used under medical supervision due to potent hypotensive action.
 
-**Bioavailability:** Reserpine has high oral bioavailability (50-70%) with slow onset (days to weeks for full antihypertensive effect). Ajmaline shows moderate bioavailability (30-45%). Alkaloids are lipophilic bases with good intestinal absorption. Extensive hepatic metabolism generates active metabolites. Long biological half-life (45-168 hours for reserpine) due to tight binding to vesicular monoamine transporter.
-
 **Optimal Timing:** Evening/bedtime dosing preferred for antihypertensive use; always with food to reduce GI side effects
-
-**Standardized Extract:** Standardized root extract (10:1), standardized to NLT 1.0% total alkaloids (as reserpine equivalents by HPLC); individual alkaloid specifications: reserpine NLT 0.15%, ajmaline NLT 0.2%
-
-**Shelf Life:** 36 months for standardized extract tablets in aluminum blisters; 24 months for churna
 
 **Storage:** Store below 25 deg C in airtight, light-protected containers. Reserpine is photolabile, amber glass or aluminum blister packaging mandatory. Controlled substance storage may apply per local regulations.
 
 **Marker Compounds:** Reserpine, Ajmaline, Ajmalicine (raubasine), Serpentine, Yohimbine, Deserpidine
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70% ethanol for total alkaloid enrichment)
-- Acid-water extraction (0.5% tartaric acid) for alkaloid isolation
-- Column chromatography for individual alkaloid purification
-- Traditional aqueous decoction (lower alkaloid yield)
 
 ### Synergistic Combinations
 

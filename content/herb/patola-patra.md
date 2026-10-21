@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola-Patra/meta-analysis.md"
 
 **Standard Dosage:** 10-15 mL fresh leaf juice daily; 2-4 g dried leaf powder daily; 15-20 mL decoction twice daily; 500 mg leaf extract twice daily
 
-**Bioavailability:** Leaf-specific [flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)) from Trichosanthes dioica leaves show moderate bioavailability (15-30%). [Chlorophyll](/glossary/compounds-c-d/#chlorophyll)-associated compounds require bile salt emulsification for absorption. Leaf [saponins](/reference/saponins/) have better bioavailability than fruit saponins due to lower molecular weight profiles. Ascorbic acid from fresh leaves is rapidly absorbed (>80%).
-
 **Optimal Timing:** Fresh juice: morning on empty stomach for blood purification. Decoction: between meals. Leaf powder supplements: after meals with warm water.
-
-**Standardized Extract:** [Patola](/herb/patola/) leaf extract (10:1) standardized to total flavonoids >4% (as quercetin equivalents), total phenolics >8% GAE, and ascorbic acid >1% (in fresh preparations).
-
-**Shelf Life:** Fresh leaves: 1-2 days refrigerated; Fresh juice: 4-6 hours; Dried leaf powder: 12-18 months; Extract: 18-24 months; Capsules: 24 months
 
 **Storage:** Fresh leaves: refrigerated 5-10 deg C in perforated bags. Dried powder: airtight, below 25 deg C, RH <50%, protected from light (to preserve chlorophyll). Extracts: amber containers, below 25 deg C.
 
 **Marker Compounds:** Quercetin, Kaempferol, Gallic acid, Chlorogenic acid, Ascorbic acid, Beta-carotene, [Luteolin](/glossary/compounds-l-o/#luteolin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Fresh leaf juice extraction by mechanical pressing
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Shade-drying followed by powdering
-- Methanol extraction for flavonoid profiling
 
 ### Synergistic Combinations
 

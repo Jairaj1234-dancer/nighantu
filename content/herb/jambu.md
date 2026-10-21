@@ -122,25 +122,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu/meta-analysis.md"
 
 **Standard Dosage:** 3-6g seed powder twice daily; 500mg-1g extract; 50-100ml bark decoction; 20-40ml fruit juice
 
-**Bioavailability:** Syzygium cumini (Java plum) seed contains mycaminose, [jamboline](/glossary/compounds-g-l/#jamboline), and ellagic acid. Ellagic acid has poor oral bioavailability (~1-2%) due to low solubility; metabolized by gut microbiota to urolithins which are well absorbed. [Anthocyanins](/glossary/compounds-1-a/#anthocyanins) in fruit pulp have ~1-2% bioavailability. Seed extract hypoglycemic components (jamboline) show moderate absorption. Nanoparticle formulations of seed extract show enhanced bioavailability.
-
 **Optimal Timing:** Before meals for blood sugar support; seed powder with water 30 minutes before meals
-
-**Standardized Extract:** Seed aqueous extract standardized to 20% [tannins](/reference/tannins/) (as gallic acid equivalent); hydroalcoholic seed extract standardized to 1% ellagic acid and 10% total [polyphenols](/glossary/compounds-o-q/#polyphenols)
-
-**Shelf Life:** 2 years (seed powder); 3 years (standardized extract capsule/tablet); 6 months (fruit juice, preserved)
 
 **Storage:** Cool, dry place below 25°C. Seed powder in airtight containers. Fruit juice refrigerated.
 
 **Marker Compounds:** Ellagic acid, Gallic acid, Jamboline, Mycaminose, Delphinidin-3,5-diglucoside (fruit), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Oleanolic acid
-
-### Extraction Methods
-
-- Aqueous extraction of seeds (traditional)
-- Hydroalcoholic extraction (70% ethanol) of seeds
-- Cold pressing of fruit for juice/pulp
-- Ethyl acetate extraction for ellagic acid enrichment
-- Spray-drying of aqueous extract for stable powder
 
 ### Synergistic Combinations
 

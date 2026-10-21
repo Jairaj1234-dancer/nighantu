@@ -64,25 +64,11 @@ A review reported neuroprotective potential for A. marmelos compounds, including
 
 **Standard Dosage:** 3-6g fruit pulp powder twice daily; 500mg extract capsule; 50-100ml decoction; Bilva Avaleha 10-20g; unripe fruit preferred for diarrhea
 
-**Bioavailability:** Marmelosin shows moderate oral bioavailability (30-40%). Coumarins are generally well absorbed from the GI tract. Mucilage from ripe fruit may slow absorption but provide sustained release. [Skimmianine](/glossary/compounds-q-t/#skimmianine) has good lipid solubility and crosses BBB. Psoralen-type furanocoumarins are photosensitizing, relevant for topical formulations. Decoction provides optimal extraction of antidiarrheal mucilaginous compounds.
-
 **Optimal Timing:** Before meals with buttermilk for diarrhea; after meals for digestive support; Avaleha anytime as a tonic
-
-**Standardized Extract:** Unripe fruit extract standardized to marmelosin NLT 1%; total coumarins NLT 3%. Leaf extract standardized to skimmianine NLT 0.3%. Ripe fruit pulp: total mucilage NLT 15%.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (Avaleha); 5 years (oil)
 
 **Storage:** Cool, dry place away from light (furanocoumarins are photosensitive). Powder in airtight containers with desiccant. Avaleha in glass jars.
 
 **Marker Compounds:** Marmelosin, [Marmelide](/glossary/compounds-l-o/#marmelide), Skimmianine, Aegeline, Marmeline, Psoralen, Imperatorin, [Luvangetin](/glossary/compounds-l-o/#luvangetin), Umbelliferone
-
-### Extraction Methods
-
-- Aqueous decoction of unripe fruit for antidiarrheal use
-- Hydroalcoholic extraction (70:30) for [coumarin](/glossary/compounds-c-d/#coumarin)-rich extract
-- Ethanol extraction (95%) for alkaloid-rich fractions from leaves
-- Cold pressing of ripe fruit for pulp extract
-- Steam distillation of leaves for essential oil
 
 ### Synergistic Combinations
 

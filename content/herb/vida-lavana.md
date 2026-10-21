@@ -77,26 +77,16 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 - Iron sulfide 
 - Iron 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Processed salt
 
 **Standard Dosage:** 0.5–2 g in formulations
 
-**Bioavailability:** Good; processed salt mixture with enhanced digestive properties
-
 **Optimal Timing:** With meals or before meals for Deepana effect
-
-**Standardized Extract:** Artificially prepared salt, Saindhava processed with specific herbs
-
-**Shelf Life:** 12–18 months
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Sodium chloride, Sodium sulfide, Iron sulfide
-
-**Quality Parameters:** Chloride content, no excess heavy metals
 
 **Vehicle (Anupana):** Part of digestive formulations; Lavana Bhaskar Churna

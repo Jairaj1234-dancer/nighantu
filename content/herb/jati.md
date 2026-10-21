@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Jati/meta-analysis.md"
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 30-60ml flower decoction; 5-10 drops essential oil (external or aromatherapy); 2-3 drops Nasya oil per nostril
 
-**Bioavailability:** Jati (Jasmine) flowers and leaves contain secoiridoids, [flavonoids](/reference/flavonoids/), and essential oil (jasminol, [linalool](/glossary/compounds-l-o/#linalool), benzyl acetate). Linalool has high oral bioavailability (~70%) and crosses blood-brain barrier. Secoiridoid [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut [enzymes](/glossary/compounds-d-g/#enzymes) to absorbable aglycones. Nasal administration (Nasya) provides direct CNS access bypassing first-pass metabolism.
-
 **Optimal Timing:** Nasya: morning on empty stomach. Internal use: after meals. Aromatherapy: as needed for relaxation.
-
-**Standardized Extract:** Jasmine absolute (solvent-extracted, minimum 0.3% [jasmone](/glossary/compounds-g-l/#jasmone)); leaf hydroalcoholic extract standardized to total flavonoid content; Nasya oil prepared in [sesame oil](/glossary/concepts-m-y/#tila-taila) base
-
-**Shelf Life:** 2 years (leaf powder); 3 years (jasmine absolute, sealed); 2 years (Nasya oil); 2 years (capsule)
 
 **Storage:** Essential oil/absolute in dark amber glass, tightly sealed, below 20°C. Leaf powder in airtight containers. Protect all preparations from light and heat.
 
 **Marker Compounds:** Jasmone (cis-jasmone), Linalool, Benzyl acetate, Methyl jasmonate, Jasminin (secoiridoid), [Oleuropein](/glossary/compounds-o-q/#oleuropein)
-
-### Extraction Methods
-
-- Solvent extraction (hexane/petroleum ether for concrete, then ethanol for absolute)
-- Enfleurage (traditional cold-fat extraction for jasmine absolute)
-- Hydrodistillation (low yield, <0.1%)
-- CO2 supercritical extraction for high-quality absolute
-- Aqueous decoction of leaves
-- Oil maceration for Nasya/Taila preparations
 
 ### Synergistic Combinations
 
