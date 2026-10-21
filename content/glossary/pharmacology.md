@@ -168,7 +168,6 @@ answer: "Pharmacology terms is a reference glossary of 10 entries drawn from the
 - [Neelam Pishti](/herb/neelam-pishti/)
 - [Phala Ghrita](/formulation/phala-ghrita/)
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Saffron](/herb/saffron/), *Crocus sativus*
 - [Saindhava Lavana](/herb/saindhava-lavana/)
 - [Swarna Vasant Malti Ras](/herb/swarna-vasant-malti-ras/)
@@ -389,7 +388,6 @@ answer: "Pharmacology terms is a reference glossary of 10 entries drawn from the
 - [Makaradhwaj Vati](/herb/makaradhwaj-vati/)
 - [Mochras](/herb/mochras/), *Salmalia malabarica (DC.) Schott & Endl. (syn. Bombax ceiba L.) - resin exudate*
 - [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Shrigataka](/herb/shrigataka/), *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
 - [Shvet Musli](/herb/shvet-musli/)
 - [Swarna Vasant Malti Ras](/herb/swarna-vasant-malti-ras/)

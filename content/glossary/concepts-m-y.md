@@ -41,7 +41,6 @@ answer: "Ayurvedic concepts (M-Y) is a reference glossary of 61 entries drawn fr
   Actions: Antioxidant, Anticancer, Medhya (Nootropic)
 - [Kapittha](/herb/kapittha/) *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
   Actions: Antioxidant, Anticancer, Wound Healing
-- [Rishabhaka](/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
   Actions: Antioxidant, Aphrodisiac, Adaptogenic
 - [Guduchi](/herb/guduchi/) *Tinospora cordifolia*
   Actions: Antioxidant, Medhya (Nootropic), Adaptogenic

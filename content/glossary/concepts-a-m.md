@@ -403,7 +403,6 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
   Actions: Antioxidant, Anticancer, Antitumor
 - [Mahasudarshan Churna](/formulation/mahasudarshan-churna/)
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Rishabhaka](/herb/rishabhaka/) *Manilkara hexandra (Roxb.) Dubard*
   Actions: Antioxidant, Aphrodisiac, Adaptogenic
 - [Mandukparni](/herb/mandukparni/)
   Actions: Wound Healing, Nootropic, Medhya (Nootropic)

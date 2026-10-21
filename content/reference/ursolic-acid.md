@@ -47,7 +47,6 @@ srcRel: "_Hub/Compounds/Ursolic-acid.md"
 - [Patola](/herb/patola/)
 - [Prasarini](/herb/prasarini/), *Paederia foetida L.*
 - [Priyangu](/herb/priyangu/), *Callicarpa macrophylla Vahl.*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Sala](/herb/sala/), *Shorea robusta Gaertn.f.*
 - [Sarja](/herb/sarja/)
 - [Sarpaksi](/herb/sarpaksi/)

@@ -21,7 +21,7 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 ---
 *40 herbs and compounds with adaptogenic activity*
 
-## Ayurveda (40)
+## Ayurveda (39)
 - [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
 - [Amrita Ghrita](/formulation/amrita-ghrita/)
 - [Arjunarishta](/formulation/arjunarishta/)
@@ -60,7 +60,6 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 - [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
 - [Phala Ghrita](/formulation/phala-ghrita/)
 - [Renuka](/herb/renuka/), *Vitex agnus-castus L.*
-- [Rishabhaka](/herb/rishabhaka/)
 - [Sanjivani Vati](/formulation/sanjivani-vati/)
 
 ## Related Body Systems

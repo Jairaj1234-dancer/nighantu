@@ -69,7 +69,6 @@ answer: "Phytochemical compounds (D-G) is a reference glossary of 73 entries dra
 - [Medasaka](/herb/medasaka/)
 - [Methi](/herb/methi/)
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
-- [Rishabhaka](/herb/rishabhaka/)
 - [Shvet Musli](/herb/shvet-musli/)
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 - [Talamuli](/herb/talamuli/)
@@ -393,7 +392,6 @@ answer: "Phytochemical compounds (D-G) is a reference glossary of 73 entries dra
 - [Puga](/herb/puga/)
 - [Svalpa Khadiradi Vati](/glossary/concepts-m-y/#svalpa-khadiradi-vati)
 - [Tamalpatra](/herb/tamalpatra/)
-- [Tintidika](/herb/tintidika/)
 - [Vathada](/herb/vathada/)
 - [Vijaysar](/herb/vijaysar/)
 

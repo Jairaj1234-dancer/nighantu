@@ -565,7 +565,6 @@ answer: "Phytochemical compounds (C-D) is a reference glossary of 73 entries dra
 - [Matulunga](/herb/matulunga/), *Citrus medica L.*
 - [Nimbu](/herb/nimbu/), *Citrus limon (L.) Osbeck*
 - [Panchamla Thailam](/glossary/concepts-m-y/#panchamla-thailam)
-- [Tintidika](/herb/tintidika/)
 - [Vrikshamla](/herb/vrikshamla/), *Garcinia indica (Thouars) Choisy (also includes reference to Garcinia cambogia/gummi-gutta)*
 - [Vrikshamla Phala](/herb/vrikshamla-phala/)
 
