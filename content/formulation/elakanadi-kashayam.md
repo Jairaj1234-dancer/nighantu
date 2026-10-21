@@ -76,25 +76,17 @@ Sahasrayogam. Widely used in Kerala Ayurvedic tradition for chronic respiratory 
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals.
 
-**Bioavailability:** Hot decoction provides rapid absorption of volatile and non-volatile constituents. Aromatic components from Ela enhance gastric motility and absorption.
-
 **Optimal Timing:** Before meals, morning and evening, for respiratory and digestive indications
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Alpha-terpineol
-
-**Quality Parameters:** pH, specific gravity, total solids, volatile oil content, 1,8-cineole content, extractive values, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (tablets); as is (liquid)
 

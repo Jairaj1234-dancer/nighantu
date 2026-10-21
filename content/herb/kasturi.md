@@ -82,24 +82,15 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 - Muscopyridine
 
-**Analytical Methods:** GC-MS (muscone), HPLC, LC-MS/MS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna, Component in cardiac and neurological preparations
 
 **Standard Dosage:** 30–125 mg
 
-**Bioavailability:** High lipophilicity; crosses blood-brain barrier
-
 **Optimal Timing:** As directed in specific formulations
-
-**Standardized Extract:** Purified musk; now synthetic muscone used as substitute
-
-**Shelf Life:** 3–5 years (natural); 2 years (synthetic)
 
 **Storage:** Airtight, cool, dark place
 
 **Marker Compounds:** Muscone (3-methylcyclopentadecanone), Muscopyridine, Steroids
 
-**Quality Parameters:** Muscone content >2% (natural); CITES compliance required for natural musk

@@ -74,26 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Garlic/meta-analysis.m
 
 **Standard Dosage:** 2-4 fresh cloves daily (4-8 g); 600-1200 mg dried garlic powder daily; 2.4-7.2 mg allicin potential daily; 600-2400 mg aged garlic extract daily
 
-**Bioavailability:** Allicin (diallyl thiosulfinate) is unstable and rapidly converts to diallyl sulfides, ajoene, and vinyldithiins in GI tract. Alliin (stable precursor) is converted to allicin by alliinase enzyme upon crushing/chewing. Enteric-coated tablets protect alliinase from gastric acid inactivation, allowing intestinal allicin generation. Aged garlic extract (AGE) contains S-allylcysteine (SAC) with >95% oral bioavailability and excellent pharmacokinetic profile (Tmax 1 h, t1/2 6 h). Diallyl disulfide and diallyl trisulfide from oil-macerated garlic have moderate bioavailability (40-60%).
-
 **Optimal Timing:** Fresh garlic: with meals (reduces GI irritation). Enteric-coated tablets: with meals for optimal intestinal allicin release. AGE capsules: with or without food. Rasona Ksheerapaka: at bedtime for Vata conditions.
-
-**Standardized Extract:** Dried garlic powder with allicin potential >1.3% (alliin >1%, verified alliinase activity). Aged garlic extract (AGE) with S-allylcysteine >1 mg/g. Garlic essential oil with diallyl disulfide >25%, diallyl trisulfide >15%.
-
-**Shelf Life:** Fresh cloves: 3-6 months (whole bulb); Dried powder: 18-24 months; Enteric-coated tablets: 24-36 months; AGE capsules: 24-36 months; Essential oil: 24-36 months
 
 **Storage:** Fresh garlic: cool (15-18 deg C), dry, ventilated. Powder: airtight, below 25 deg C, RH <40% (moisture activates alliinase prematurely). Enteric-coated products: blister packs, below 25 deg C. AGE: room temperature, protect from light. Essential oil: amber glass, tightly sealed, 15-25 deg C.
 
 **Marker Compounds:** Alliin, Allicin (allicin potential), S-allylcysteine (SAC), Diallyl disulfide, Diallyl trisulfide, Ajoene, S-allylmercaptocysteine, Vinyl dithiins
-
-### Extraction Methods
-
-- Mechanical crushing and immediate stabilization for allicin products
-- Steam distillation for garlic essential oil (diallyl sulfides)
-- Aged garlic extract (AGE): aqueous-ethanol aging for 20+ months at room temperature
-- Oil maceration for garlic-in-oil preparations
-- Freeze-drying of crushed garlic for allicin-potential powder
-- Spray-drying with protective excipients
 
 ### Synergistic Combinations
 

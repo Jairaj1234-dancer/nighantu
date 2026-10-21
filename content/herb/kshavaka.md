@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 - Saponins
 - Amaranthine 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder for Nasya), Nasya (nasal insufflation), Dhoompana (medicated smoking), Kashayam (decoction), Capsule
 
 **Standard Dosage:** Nasya: pinch of fine powder (125-250 mg) per nostril; 2-3 g powder orally twice daily; 30-50 mL decoction
 
-**Bioavailability:** Nasal administration provides direct absorption through nasal mucosa bypassing first-pass metabolism, rapid onset of action within 5-15 minutes. Absorption enhanced by Nasya oil pre-treatment ([Anu Taila](/formulation/anu-taila/) lubrication of nasal passages).
-
 **Optimal Timing:** Nasya: morning on empty stomach after oil massage of face (classical Poorvakarma); oral preparations: after meals
-
-**Standardized Extract:** Ultra-fine powder (Vastra Galita grade, <75 micron particle size) standardized for sternutatory activity
-
-**Shelf Life:** 12 months for Nasya powder (fine particle size increases surface area and degradation); 24 months for oral powder; 18 months for capsules
 
 **Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture, hygroscopic fine powders degrade rapidly.
 
 **Marker Compounds:** Saponins, [Tannins](/reference/tannins/)
-
-### Extraction Methods
-
-- Fine grinding (Vastra Galita, cloth-filtered ultra-fine powder) for Nasya
-- Hydroalcoholic extraction (50-60% ethanol)
-- Water decoction for oral use
-- Steam distillation for volatile fraction
 
 ### Synergistic Combinations
 

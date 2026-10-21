@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice; 500 mg extract capsules twice daily
 
-**Bioavailability:** [Flavonoids](/reference/flavonoids/) and phenolic compounds show moderate GI absorption (20-35%). [Saponins](/reference/saponins/) undergo intestinal hydrolysis. [Alkaloids](/glossary/compounds-1-a/#alkaloids) (if present) have variable bioavailability depending on structural class. Aqueous decoction provides reasonable extraction of water-soluble actives.
-
 **Optimal Timing:** Morning for tonic and nutritive effects; between meals for eye health benefits (traditional use); with meals as nutritive supplement
-
-**Standardized Extract:** Whole herb extract (10:1 hydroalcoholic) standardized to minimum 3% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalents). Freeze-dried juice powder preserving enzymatic activity. Aqueous extract for ophthalmic preparations (filtered and sterilized).
-
-**Shelf Life:** Fresh herb: 2-3 days refrigerated. Dried powder: 18 months. Capsules/tablets: 24 months. Fresh juice: 4-6 hours.
 
 **Storage:** Dried herb below 25 deg C in airtight containers with moisture protection. Fresh plant material at 4-8 deg C, process within 24 hours. Capsules in blister packs with desiccant.
 
 **Marker Compounds:** [Stigmasterol](/reference/stigmasterol/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Campesterol](/glossary/compounds-a-c/#campesterol), Oleanolic acid, Quercetin, [Kaempferol](/reference/kaempferol/), [Lupeol](/reference/lupeol/), Beta-carotene
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration
-- Fresh juice expression
-- Methanol extraction for comprehensive phytochemical recovery
 
 ### Synergistic Combinations
 

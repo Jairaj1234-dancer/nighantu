@@ -78,26 +78,16 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Takra/meta-analysis.md"
 - Proteins
 - Lactic acid bacteria 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Buttermilk (diluted), Medicated buttermilk (Takra Kalpana)
 
 **Standard Dosage:** 100–200 mL with meals
 
-**Bioavailability:** Excellent; predigested proteins and enhanced mineral availability
-
 **Optimal Timing:** With lunch; can be used at all meals except dinner in some texts
-
-**Standardized Extract:** N/A, prepared from curd by churning and diluting
-
-**Shelf Life:** 6–12 hours fresh; consume same day
 
 **Storage:** Room temperature; earthen pot preferred
 
 **Marker Compounds:** Lactic acid bacteria, Whey proteins, Calcium, Riboflavin
-
-**Quality Parameters:** Fat <1% (for therapeutic Takra), live cultures, pH 3.8–4.5
 
 **Vehicle (Anupana):** Vehicle for digestive and [hepatoprotective](/reference/hepatoprotective/) formulations; Takradhara uses it externally

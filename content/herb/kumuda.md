@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumuda/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL rhizome juice; 5-10 g medicated ghee
 
-**Bioavailability:** Similar to [Kumud](/herb/kumud/), [flavonoids](/reference/flavonoids/) and [alkaloids](/glossary/compounds-1-a/#alkaloids) show moderate oral bioavailability. Nymphaein and nupharidine alkaloids are well-absorbed orally. Ghee-based preparations enhance bioavailability of terpenoid and flavonoid fractions. Aqueous preparations provide rapid absorption of polar [glycosides](/glossary/compounds-g-l/#glycosides).
-
 **Optimal Timing:** After meals for Pitta-pacifying and cooling effects; [Ghrita](/herb/ghrita/) preparations: morning and evening; flower infusion: evening for calming effects
-
-**Standardized Extract:** Rhizome extract standardized to minimum 2% total alkaloids; flower extract to minimum 1.5% total [anthocyanins](/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside equivalents)
-
-**Shelf Life:** 18 months for dried powder; 24 months for capsules; 12 months for Ghrita; 6 months for flower preparations (pigment degradation)
 
 **Storage:** Store in airtight, light-resistant containers at 15-30°C. Flower-based preparations are particularly photosensitive, amber glass or opaque packaging required. Rhizome powder in moisture-proof containers.
 
 **Marker Compounds:** Nymphaein, Nupharidine, Nupharin, [Quercetin](/reference/quercetinquercetin/)-3-O-glucoside, Cyanidin-3-glucoside, Delphinidin, [Myricetin](/glossary/compounds-l-o/#myricetin), Gallic acid
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Ghrita Paka (medicated ghee preparation)
-- Cold maceration of rhizome
-- Shade-drying and powdering of flowers
 
 ### Synergistic Combinations
 

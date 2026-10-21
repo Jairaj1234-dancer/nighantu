@@ -67,17 +67,11 @@ Rasa Ratna Samuchchaya (Chapter 20); also described in Rasendra Sara Sangraha an
 
 **Standard Dosage:** 250 to 500 mg twice or thrice daily, as given in the Ayurvedic Formulary of India, Part I, entry 20:4. The formulary's anupana: ardraka svarasa, honey, nimba svarasa, water. The formulary attributes this formula to Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108.
 
-**Bioavailability:** Kajjali and Bhasma forms represent ancient nano-medicine, particle sizes of 50-100 nm provide high surface area and bioavailability. [Guggulu](/formulation/guggulu/) acts as a yogavahi (carrier/bioenhancer).
-
 **Optimal Timing:** Before meals or after meals as directed, typically twice daily
-
-**Shelf Life:** 5 years (indefinite per classical texts) from date of manufacture as per ASU guidelines for Rasa preparations
 
 **Storage:** Store in airtight amber glass containers in a cool, dry place. Protect from moisture. Temperature not exceeding 30°C. Metallic preparations are generally stable.
 
 **Marker Compounds:** Picroside I, Picroside II (Kutkin), HgS (cinnabar form in Kajjali), Gallic acid (from [Triphala](/herb/triphala/)), Z-Guggulsterone, E-Guggulsterone
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability, disintegration time, free mercury content (must be nil), total mercury within limits, arsenic within limits, heavy metals panel, [Loha Bhasma](/herb/loha-bhasma/) quality (Bhasma pariksha, rekhapurna, varitara, apunarbhava), particle size of Bhasma (nano-level), picroside I/II from Kutki by HPLC, microbial limits
 
 **Vehicle (Anupana):** Ardraka svarasa, honey, nimba svarasa or water, per the Ayurvedic Formulary of India
 

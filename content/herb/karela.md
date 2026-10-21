@@ -150,25 +150,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 
 **Standard Dosage:** 30-50 mL fresh juice daily (fasting); 3-6 g powder twice daily; 500 mg standardized extract capsule twice daily
 
-**Bioavailability:** Charantin (steroidal saponin) and polypeptide-p have moderate oral bioavailability. Vicine and [momordicin](/glossary/compounds-l-o/#momordicin) undergo partial GI degradation. Enteric coating protects acid-labile polypeptide-p from gastric degradation. Liposomal delivery of charantin shows 3-fold improvement in plasma levels. Co-administration with [black pepper](/herb/black-pepper/) extract ([piperine](/reference/piperine/)) enhances absorption of cucurbitane [triterpenoids](/glossary/compounds-t-z/#triterpenoids).
-
 **Optimal Timing:** Fresh juice best taken early morning on empty stomach for glycemic control; powder/capsules 30 minutes before meals
-
-**Standardized Extract:** Standardized to minimum 2% charantin and 5% total [saponins](/reference/saponins/) by HPLC-ELSD; bitter principles >10% (as momordicin equivalents)
-
-**Shelf Life:** Fresh juice: 24-48 hours (refrigerated); Freeze-dried powder: 24 months; Capsules/tablets: 36 months; Churna: 18 months
 
 **Storage:** Fresh juice must be refrigerated (2-8°C) and consumed within 48 hours. Dried preparations in airtight containers at 15-30°C. Protect polypeptide-p containing preparations from heat and light.
 
 **Marker Compounds:** Charantin, Momordicin, Vicine, Polypeptide-p (p-insulin), Momordicoside, Cucurbitane triterpenoids, Gallic acid, [Catechin](/reference/catechin/)
-
-### Extraction Methods
-
-- Cold pressing/juicing of fresh fruit
-- Hydroalcoholic extraction (50-70% ethanol)
-- Aqueous extraction for polypeptide-p enrichment
-- Freeze-drying of juice for stable powder
-- Supercritical CO2 for charantin-enriched fraction
 
 ### Synergistic Combinations
 

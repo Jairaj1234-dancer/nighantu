@@ -105,7 +105,7 @@ Component of [Trikatu](/herb/trikatu/). Unique in Ayurveda for Rasayana through 
 
 ## Recommended Dosage
 
-Fruit powder: 1-3g/day; Vardhamana Pippali (graduated dosing): as per classical protocol
+Fruit powder: as given under Standard Dosage below; Vardhamana Pippali (graduated dosing): as per classical protocol
 
 ## Safety, contraindications and cautions
 
@@ -145,33 +145,17 @@ Fruit powder: 1-3g/day; Vardhamana Pippali (graduated dosing): as per classical 
 - **Thujene:** 3-5%
 - **Terpinolene:** 2-4%
 
-**Analytical Methods:** HPLC-UV (piperine), GC-MS (essential oil), UV spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Avaleha (confection), [Ghrita](/herb/ghrita/) (medicated ghee), Rasayana formulation, Vardhamana Pippali (graduated dose protocol), Honey-based preparation
 
 **Standard Dosage:** 250-500 mg powder 1-3 times daily; 125-500 mg standardized extract twice daily; Vardhamana protocol: start 1 fruit, increase by 1 daily to 10, then taper
 
-**Bioavailability:** Piperine from Pippali (Piper longum) has excellent oral bioavailability (>90%) and is itself a potent bioenhancer. Piperlongumine shows moderate bioavailability (~35-50%) with rapid absorption. Piperine inhibits CYP3A4, CYP2D6, and P-glycoprotein, significantly enhancing bioavailability of co-administered compounds ([curcumin](/herb/curcumin/) bioavailability increased 20-fold). Piperine also inhibits UDP-glucuronosyltransferase, reducing Phase II metabolism of many phytochemicals.
-
 **Optimal Timing:** Before meals with honey for respiratory conditions. With meals or after meals for digestive purposes. As bioenhancer: taken simultaneously with the compound being enhanced.
-
-**Standardized Extract:** Pippali fruit extract standardized to piperine >5% (general supplement) or >95% (bioenhancer isolate). Piperlongumine-enriched extract >2%. Full-spectrum extract (4:1) with piperine >3% and total piperamides >8%.
-
-**Shelf Life:** Dried fruit: 24-36 months; Churna: 18-24 months; Standardized extract: 24-36 months; Piperine isolate: 36-48 months; [Ghrita](/herb/ghrita/): 24-36 months
 
 **Storage:** Dried fruit and powder: airtight containers, below 25 deg C, RH <55%, protected from light (piperine photodegradation). Piperine isolate: amber glass, desiccated, 2-25 deg C. Ghrita: clean, dry containers, below 30 deg C.
 
 **Marker Compounds:** Piperine, Piperlongumine, Piperlonguminine, Pipernonaline, Retrofractamide A, [Pellitorine](/glossary/compounds-o-q/#pellitorine), Sesamin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Fine powdering of dried fruit (traditional Churna)
-- Hydroalcoholic extraction (70-80% ethanol) for piperine-rich extract
-- Supercritical CO2 extraction for high-purity piperine
-- Ethanol extraction followed by crystallization for piperine isolation
-- Oil extraction (Ghrita Paka) in ghee base
 
 ### Synergistic Combinations
 

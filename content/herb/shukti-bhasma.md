@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SAFE AT RECOMMENDED DOSES: 125-250 mg once or twice daily considered safe under medical supervision
+- SAFE AT RECOMMENDED DOSES: Considered safe at the doses given under Dosage, under medical supervision
 - MILD SIDE EFFECTS: Overuse may cause dryness or constipation due to calcium carbonate excess
 - NO INTENTIONALLY ADDED TOXIC METALS: Marine shell-based preparation without intentional toxic heavy metal content. Relatively low contamination risk.
 - MEDICAL SUPERVISION REQUIRED: Self-medication discouraged. Dose should be adjusted based on individual calcium needs and serum calcium levels.
@@ -67,18 +67,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 **Standard Dosage:** 250–500 mg
 
-**Bioavailability:** Good; oyster shell calcium with natural biomineral matrix
-
 **Optimal Timing:** With meals
-
-**Standardized Extract:** Calcined pearl oyster shell bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Calcium carbonate (aragonite), Conchiolin (protein matrix), Trace minerals
-
-**Quality Parameters:** Calcium >35%, standard bhasma tests, no marine pollutants
 
 **Vehicle (Anupana):** Honey or warm water

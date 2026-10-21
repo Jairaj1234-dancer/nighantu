@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nimba-Patra/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g dried leaf powder twice daily; 10-20 mL fresh leaf juice daily; 300-500 mg standardized leaf extract twice daily
 
-**Bioavailability:** [Quercetin](/reference/quercetinquercetin/) and other [flavonoids](/reference/flavonoids/) from [neem](/herb/neem/) leaf show oral bioavailability of 15-25%; improved to 40-55% via phospholipid complexation or solid dispersion with PVP. [Nimbolide](/glossary/compounds-l-o/#nimbolide) from leaf has rapid oral absorption (Tmax ~1.5 h) but undergoes significant first-pass metabolism. Leaf [polyphenols](/glossary/compounds-o-q/#polyphenols) show pH-dependent absorption with better uptake in alkaline intestinal environment.
-
 **Optimal Timing:** Swarasa is traditionally taken early morning on an empty stomach for blood purification. Mouthwash: after brushing, twice daily.
-
-**Standardized Extract:** Standardized [neem](/herb/neem/) leaf extract (10:1) with minimum [quercetin](/reference/quercetinquercetin/) 2%, nimbolide 0.5%, and total phenolics >8% (GAE). Aqueous spray-dried extract with validated HPTLC fingerprint.
-
-**Shelf Life:** Fresh juice: 6-8 hours (unpreserved); Dried powder: 12-18 months; Standardized extract: 24 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Fresh leaves: refrigerated 2-8 deg C. Dried powder and extracts: airtight containers, below 25 deg C, RH <55%, protected from light. Avoid metal containers due to tannin-metal complexation.
 
 **Marker Compounds:** Quercetin, Nimbolide, [Kaempferol](/reference/kaempferol/), [Rutin](/glossary/compounds-q-t/#rutin), Gallic acid, [Catechin](/reference/catechin/), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Nimbanene
-
-### Extraction Methods
-
-- Aqueous decoction (5-10% w/v)
-- Hydroalcoholic extraction (60% ethanol)
-- Fresh juice extraction by mechanical pressing
-- Spray drying of aqueous extract with maltodextrin
-- Ultrasound-assisted extraction for flavonoid-enriched fractions
 
 ### Synergistic Combinations
 

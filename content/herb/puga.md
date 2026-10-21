@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Puga/meta-analysis.md"
 
 **Standard Dosage:** 1-2 g processed nut powder daily; 500 mg standardized extract daily; traditional chewing: small piece (1-2 g) after meals. CAUTION: restricted dose due to arecoline content
 
-**Bioavailability:** Arecoline (primary alkaloid) from Areca catechu (Puga/Supari) has high oral bioavailability (>70%) with rapid buccal and GI absorption. Arecoline is a muscarinic agonist with parasympathomimetic activity. [Tannins](/reference/tannins/) ([catechin](/reference/catechin/), [epicatechin](/glossary/compounds-d-g/#epicatechin)) have moderate oral bioavailability (15-30%). [Procyanidins](/glossary/compounds-o-q/#procyanidins) are partially absorbed and undergo colonic bacterial metabolism. Buccal absorption during chewing provides rapid onset of action.
-
 **Optimal Timing:** Traditional: small piece after meals for digestive stimulation. Not recommended for regular/prolonged use. Any therapeutic use should be under qualified practitioner supervision.
-
-**Standardized Extract:** De-arecolinized Puga extract standardized to procyanidins >20%, residual arecoline <0.1%. Full alkaloid extract (for research/controlled formulation only) with arecoline 2-4%. Tannin-rich fraction with catechin >10%.
-
-**Shelf Life:** Dried nut: 12-24 months; Processed Supari: 6-12 months; Extract: 18-24 months; Tablets: 24 months
 
 **Storage:** Dried nut: cool, dry, pest-proof storage, below 25 deg C. Processed products: airtight containers, protect from moisture. Extracts: amber containers, below 25 deg C. All: protect from insect infestation (susceptible to storage pests).
 
 **Marker Compounds:** Arecoline, Arecaidine, Guvacine, Guvacoline, Catechin, Epicatechin, Procyanidin B1, Gallic acid
-
-### Extraction Methods
-
-- Aqueous decoction of nut
-- Hydroalcoholic extraction (50-70% ethanol)
-- Methanol extraction for alkaloid profiling
-- Traditional processing: slicing, drying, and treating with lime and catechu
-- Supercritical CO2 for alkaloid-reduced fractions
 
 ### Synergistic Combinations
 

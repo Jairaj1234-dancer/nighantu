@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shvet-Musli/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract twice daily; 5-10 g Musli Pak with warm milk
 
-**Bioavailability:** Saponin [glycosides](/glossary/compounds-g-l/#glycosides) (safed musli [saponins](/reference/saponins/)) have oral bioavailability enhanced by milk and ghee co-administration (traditional Anupana). [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) ([galactomannan](/glossary/compounds-d-g/#galactomannan), [glucomannan](/glossary/compounds-d-g/#glucomannan), 30-40% of dry weight) act as prebiotics and have local GI effects rather than systemic absorption. Sapogenin aglycones are lipophilic and benefit from lipid-based formulations. Phytosome complexation improves saponin bioavailability by 2x.
-
 **Optimal Timing:** With warm milk at bedtime for [Vajikarana](/glossary/pharmacology/#vajikarana) (reproductive tonic) action; morning dose with ghee for strength-building (Balya) applications
-
-**Standardized Extract:** Root extract (10:1 in 60% ethanol), standardized to NLT 25% total saponins (as [diosgenin](/glossary/compounds-d-g/#diosgenin) equivalents by HPLC-ELSD); polysaccharide-enriched aqueous extract NLT 40% total polysaccharides by phenol-sulfuric acid method
-
-**Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; 12 months for Musli Pak (moisture-sensitive confection)
 
 **Storage:** Store below 25 deg C in airtight containers with desiccant. Extremely hygroscopic due to [mucilage](/glossary/compounds-l-o/#mucilage), RH <40% mandatory. Musli Pak in glass jars, refrigerate after opening. Protect from moisture and insect infestation.
 
 **Marker Compounds:** Safed musli saponins ([stigmasterol](/reference/stigmasterol/) glycosides), Diosgenin, Tigogenin, Stigmasterol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Galactomannan (polysaccharide marker)
-
-### Extraction Methods
-
-- Aqueous extraction for polysaccharide enrichment
-- Hydroalcoholic extraction (50-70% ethanol) for saponin enrichment
-- Traditional Pak preparation with ghee and sugar
-- Spray-drying for instant powder
-- Supercritical CO2 for sapogenin-enriched fraction
 
 ### Synergistic Combinations
 

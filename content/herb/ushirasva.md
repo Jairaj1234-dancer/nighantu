@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushirasva/meta-analysis.md"
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water
 
-**Bioavailability:** Self-generated alcohol (5-10% v/v ethanol) in Asava acts as a natural solvent and bioenhancer, extracting and solubilizing both water-soluble and alcohol-soluble phytochemicals. Alcohol enhances GI absorption by 2-3 fold compared to aqueous decoction. Fermentation generates novel metabolites (organic acids, [peptides](/glossary/compounds-o-q/#peptides)) not present in raw herb. Sesquiterpenes from [Ushira](/herb/ushira/) are more bioavailable in the hydroalcoholic matrix of the Asava.
-
 **Optimal Timing:** After meals with equal volume of water; morning and evening; not recommended on empty stomach due to alcohol content
-
-**Standardized Extract:** Ushirasava as per Ayurvedic Formulary of India: alcohol content 5-10% v/v, total solids 8-15% w/v, pH 3.5-4.5, specific gravity 1.01-1.04
-
-**Shelf Life:** Asava improves with age; minimum 6 months maturation required. Shelf life: 5-10 years (traditionally considered to improve with aging). Modern labeling: 36-60 months.
 
 **Storage:** Glass or earthen containers at room temperature. Do not refrigerate. Store away from direct sunlight. Cork or food-grade cap closure. Shake well before use as sediment may settle.
 
 **Marker Compounds:** [Khusimol](/glossary/compounds-g-l/#khusimol) (from Ushira), [Vetiverol](/glossary/compounds-t-z/#vetiverol), Ethanol (self-generated), Gallic acid (from [Dhataki](/herb/dhataki/)), Ellagic acid, Organic acids (lactic, acetic, succinic from fermentation)
-
-### Extraction Methods
-
-- Traditional Sandhana Kalpana (fermentation): Ushira and other herbs (without prior decoction) mixed with jaggery/sugar and Dhataki pushpa (Woodfordia fruticosa flowers) as fermenting agent, sealed in earthen pot for 30-45 days
-- Modern controlled fermentation with Saccharomyces cerevisiae
-- Asava process does not require prior decoction (unlike Arishta)
 
 ### Synergistic Combinations
 

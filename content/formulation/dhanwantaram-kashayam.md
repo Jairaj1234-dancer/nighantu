@@ -74,25 +74,17 @@ Ashtanga Hridayam (Sharirasthana), named after Lord Dhanwantari. Also referenced
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals.
 
-**Bioavailability:** Hot decoction form provides rapid GI absorption. Multi-herb synergy enhances overall bioactivity. [Trikatu](/herb/trikatu/) components (if included) serve as bioenhancers.
-
 **Optimal Timing:** Before meals, morning and evening, especially for Vata-predominant conditions
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), Withanolide A, [Lupeol](/reference/lupeol/), [Marmelosin](/glossary/compounds-l-o/#marmelosin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, HPTLC fingerprint for [Bala](/herb/bala/) and [Dashamoola](/herb/dashamoola/) markers, ephedrine equivalents, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (tablets); as is (liquid kashayam)
 

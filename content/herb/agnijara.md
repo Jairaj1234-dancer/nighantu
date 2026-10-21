@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnijara/meta-analysis.md"
 
 **Standard Dosage:** 125-250mg bhasma twice daily with honey or ghee; 250-500mg pishti
 
-**Bioavailability:** Agnijara has limited direct bioavailability. Traditional Shodhana (purification) and Marana (calcination) processes convert it into bhasma. Anupana of honey or ghee further enhances uptake.
-
 **Optimal Timing:** Before meals with honey (Kapha conditions) or ghee (Pitta conditions)
-
-**Standardized Extract:** Not applicable, mineral/resinous preparation. Quality assessed by bhasma pareeksha (traditional tests): Rekhapurnatva (finger-line filling), Varitaratva (floats on water), Apunarbhavatva (irreversibility).
-
-**Shelf Life:** Indefinite for properly prepared bhasma (traditional view); 5 years recommended for labeled products
 
 **Storage:** Airtight glass or food-grade HDPE container. Keep dry. Bhasma is hygroscopic. Protect from moisture. Ambient temperature storage acceptable.
 
 **Marker Compounds:** Trace minerals post-Marana
-
-### Extraction Methods
-
-- Shodhana (purification by repeated quenching in herbal decoctions)
-- Marana (calcination with herbal juices, typically Kumari swarasa)
-- Trituration with rose water for Pishti form
 
 ### Synergistic Combinations
 

@@ -74,25 +74,17 @@ Referenced in Bhaishajya Ratnavali and Yoga Ratnakara (Kasa/Swarabheda Chikitsa 
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (lozenge), Modern lozenges, Drops (modern)
 
 **Standard Dosage:** 1-2 tablets to be sucked slowly, 3-4 times daily or as needed, as per traditional texts
 
-**Bioavailability:** Buccal route provides direct delivery to pharyngeal and laryngeal tissues. [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) has local anti-inflammatory and demulcent action. [Camphor](/herb/camphor/) provides immediate cooling sensation. No first-pass metabolism for compounds absorbed buccally.
-
 **Optimal Timing:** As needed for voice hoarseness, throat irritation, cough. Particularly useful for singers, teachers, and public speakers.
-
-**Shelf Life:** 2 years from date of manufacture
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture and heat (volatile compounds). Temperature not exceeding 25°C.
 
 **Marker Compounds:** [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), Glycyrrhetinic acid, [Camphor](/herb/camphor/), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), [Myristicin](/glossary/compounds-l-o/#myristicin) (from [Javitri](/herb/javitri/))
-
-**Quality Parameters:** Weight variation (±5%), hardness (moderate), dissolution time (5-15 min in mouth), moisture (<6%), glycyrrhizin content from Mulethi by HPLC, camphor content, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, sucked directly in mouth
 

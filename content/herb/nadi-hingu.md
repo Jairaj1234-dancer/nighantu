@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nadi-Hingu/meta-analysis.md"
 
 **Standard Dosage:** 250-500 mg resin powder per day; typically in combination formulations at 125-250 mg per dose; with warm water or buttermilk
 
-**Bioavailability:** Not established.
-
 **Optimal Timing:** Before meals for digestive stimulation; after meals for carminative effect; with warm water or buttermilk for enhanced action
-
-**Shelf Life:** Crude resin: 36+ months. Purified resin powder: 24 months. Capsules/tablets: 30 months. Volatile oil: 24 months.
 
 **Storage:** Store resin in airtight containers below 30 deg C (softens at higher temperatures). Protect from light. Volatile oil in amber glass, tightly sealed. All forms protected from moisture. Keep away from strong-smelling substances as resin can absorb odors.
 
 **Marker Compounds:** Not established.
-
-### Extraction Methods
-
-- Collection of resinous exudate from leaf buds and young shoots
-- Purification by dissolution in warm water and filtration
-- Hydroalcoholic extraction (70% ethanol)
-- Steam distillation for volatile oil fraction
-- Supercritical CO2 for non-volatile resin components
 
 ### Synergistic Combinations
 

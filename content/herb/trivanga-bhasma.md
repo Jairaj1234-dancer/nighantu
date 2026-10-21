@@ -74,26 +74,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Composite nanoparticles of three metals; synergistic bioavailability
-
 **Optimal Timing:** With honey or [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)); before meals for Prameha
-
-**Standardized Extract:** Composite bhasma of lead (Naga), tin (Vanga), and zinc (Yashada)
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; restricted drug storage
 
 **Marker Compounds:** Lead oxide, Tin oxide, Zinc oxide
-
-**Quality Parameters:** Free metals <1 ppm each (critical), standard bhasma tests, composite ratio verified
 
 **Vehicle (Anupana):** Honey, [Shilajit](/herb/shilajit/), or [Guduchi](/herb/guduchi/) Swarasa

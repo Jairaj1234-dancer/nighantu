@@ -79,26 +79,16 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 - Sodium bisulfate and sodium bisulfite
 - Iron compounds 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Crystal/powder
 
 **Standard Dosage:** 0.5–2 g as digestive; in formulations: as directed
 
-**Bioavailability:** Good; sulfur-containing salt with digestive enzyme-like action
-
 **Optimal Timing:** Before meals as Deepana-Pachana; with Hingvastak Churna
-
-**Standardized Extract:** Black salt (Kala Namak), sulfur-containing rock salt
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container (sulfur compounds are volatile)
 
 **Marker Compounds:** Sodium chloride, Sodium sulfate, Iron sulfide, Hydrogen sulfide (responsible for smell), Trace minerals
-
-**Quality Parameters:** Characteristic sulfurous smell, NaCl content, sulfate content as labeled
 
 **Vehicle (Anupana):** Part of Pachana (digestive) formulations; Hingvastak Churna, Lavana Bhaskar Churna

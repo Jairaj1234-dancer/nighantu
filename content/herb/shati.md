@@ -75,33 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shati/meta-analysis.md"
 - Linalool
 - Hedychenone 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Avaleha (confection/jam), Capsule, Essential oil (inhalation), Vati (tablet)
 
 **Standard Dosage:** 1-3 g rhizome powder per day; 50-100 mL kwatha twice daily; 5-10 g avaleha with honey twice daily; 500 mg capsule twice daily
 
-**Bioavailability:** Sesquiterpene lactones and essential oil constituents show moderate to good oral bioavailability (30-50%). Volatile compounds ([camphor](/herb/camphor/), [borneol](/glossary/compounds-a-c/#borneol)) are rapidly absorbed through both oral and inhalation routes.
-
 **Optimal Timing:** After meals for respiratory indications; avaleha with honey for cough (Kasa) management; inhalation as needed
-
-**Standardized Extract:** Rhizome extract (8:1 in 60% ethanol), standardized to NLT 2% total sesquiterpene lactones by HPLC; essential oil standardized to NLT 15% 1,8-cineole and NLT 10% camphor by GC-MS
-
-**Shelf Life:** 12 months for essential oil; 24 months for churna; 18 months for avaleha; 36 months for capsules
 
 **Storage:** Essential oil in amber glass, nitrogen headspace, 15-25 deg C. Churna in airtight containers below 25 deg C. Avaleha in glass jars, protect from moisture.
 
 **Marker Compounds:** 1,8-Cineole (eucalyptol), Camphor, Borneol, Hedychenone, Coronarin D, Beta-sitosterol
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 0.5-1.5%)
-- Hydroalcoholic extraction (60% ethanol)
-- Aqueous decoction
-- CO2 supercritical extraction for terpenoid enrichment
-- Traditional avaleha preparation with jaggery and honey
 
 ### Synergistic Combinations
 

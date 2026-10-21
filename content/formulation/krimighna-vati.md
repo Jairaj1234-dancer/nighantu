@@ -62,7 +62,7 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 ## Recent safety updates
 
-- Generally safe at recommended doses for short-term antiparasitic courses (7-14 days); may cause mild GI discomfort or loose stools during parasite expulsion phase; avoid in pregnancy and lactation
+- Generally safe at recommended doses for short-term antiparasitic courses; may cause mild GI discomfort or loose stools during parasite expulsion phase; avoid in pregnancy and lactation
 - [Kampillaka](/herb/kampillaka/) is a potent purgative - dose must be carefully controlled; not recommended for children under 5 years without physician guidance; should be followed by probiotic restoration after treatment course; confirm parasitic infection through stool examination before use
 
 ## Dosage forms and preparation
@@ -71,17 +71,11 @@ Charaka Samhita (Vimana Sthana, Chapter 7 - Krimighna Gana/Dashemani); also refe
 
 **Standard Dosage:** 250-500 mg twice or thrice daily with warm water.
 
-**Bioavailability:** Embelin (from [Vidanga](/herb/vidanga/)) is well-absorbed orally with anthelmintic activity at therapeutic doses. Rottlerin from [Kampillaka](/herb/kampillaka/) acts as contact anthelmintic in the GI tract, does not need systemic absorption for action.
-
 **Optimal Timing:** On empty stomach, morning (Abhukta kala), for 3-7 days course. Follow with mild purgative ([Eranda](/herb/eranda/) Taila or [Triphala](/herb/triphala/)) to expel worms.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Vati
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
-**Marker Compounds:** Embelin, Rottlerin (from [Kampillaka](/herb/kampillaka/)), Butin (from [Palasha](/herb/palasha/)), [Butrin](/glossary/compounds-a-c/#butrin), Palasonin
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), embelin content by HPLC from [Vidanga](/herb/vidanga/), rottlerin from Kampillaka, total [tannins](/reference/tannins/), HPTLC fingerprint, microbial limits, heavy metals
+**Marker Compounds:** Embelin, Rottlerin (from [Kampillaka](/herb/kampillaka/))
 
 **Vehicle (Anupana):** Warm water or buttermilk. Some texts recommend with jaggery for pediatric use.
 

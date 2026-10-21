@@ -157,25 +157,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 
 **Standard Dosage:** 250 mg-1 g powder twice daily (low dose due to beta-asarone content); Nasya: 2-4 drops per nostril; NOT for prolonged internal use
 
-**Bioavailability:** beta-Asarone (primary active compound) has good oral bioavailability (~45-60%) with rapid absorption and blood-brain barrier penetration. However, it is classified as potentially genotoxic and carcinogenic (EFSA, FDA), severely limiting acceptable daily intake. alpha-Asarone has similar pharmacokinetics but lower toxicity concerns. Acoramone and other [phenylpropanoids](/glossary/compounds-o-q/#phenylpropanoids) are moderately bioavailable. Nasya administration allows direct CNS delivery via olfactory pathway, requiring lower doses.
-
 **Optimal Timing:** Morning on empty stomach; Nasya in early morning; NOT recommended at bedtime
-
-**Standardized Extract:** Essential oil: quantify beta-asarone content (specify acceptable limit based on target market); hydroethanolic extract standardized to total phenylpropanoids >5% with beta-asarone content clearly declared. For low-asarone products: beta-asarone <0.1% in finished product.
-
-**Shelf Life:** Powder: 12-18 months; Essential oil: 24 months; Capsules: 24 months; Nasya oil: 12-18 months
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Keep out of reach of children. Label must clearly state beta-asarone content and regulatory status for target market.
 
 **Marker Compounds:** beta-Asarone, alpha-Asarone, Acoramone, [Eugenol](/glossary/compounds-d-g/#eugenol), Cis-methyl isoeugenol, Calamenol, [Galangin](/glossary/compounds-d-g/#galangin), Acorenone
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydroethanolic extraction (60-70% ethanol)
-- Supercritical CO2 extraction
-- Aqueous decoction
-- Hexane extraction for beta-asarone-rich fraction
 
 ### Synergistic Combinations
 

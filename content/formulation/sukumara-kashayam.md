@@ -77,25 +77,17 @@ Sahasrayogam, Kashaya Yoga Prakarana; also referenced in Ashtanga Hridayam for t
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
 
 **Standard Dosage:** 15-30ml twice daily
 
-**Bioavailability:** Aqueous decoction provides good bioavailability for water-soluble compounds; concentration step may reduce volatile components
-
 **Optimal Timing:** Before meals, typically morning and evening
-
-**Shelf Life:** 1 day (fresh kashayam); 2 years (kashayam tablet); 6 months (concentrated liquid with preservative)
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
 **Marker Compounds:** Ricinoleic acid, Shatavarin
-
-**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Ricinoleic acid, Shatavarin
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 

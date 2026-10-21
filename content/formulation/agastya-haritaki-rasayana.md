@@ -63,17 +63,11 @@ Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga H
 
 **Standard Dosage:** 6-12 g twice daily, or as directed. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 3; 125-128.
 
-**Bioavailability:** Ghee and sugar base enhances absorption of lipophilic actives. [Piperine](/reference/piperine/) from [Pippali](/herb/pippali/) acts as a natural bioenhancer increasing absorption of other phytoconstituents by up to 30%.
-
 **Optimal Timing:** Early morning on empty stomach and/or before bedtime
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Avaleha preparations
 
 **Storage:** Store in a cool, dry place in wide-mouth glass or food-grade HDPE jars with airtight lids. Protect from moisture and sunlight. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Piperine, Gallic acid, Ellagic acid, Chebulagic acid
-
-**Quality Parameters:** Total solids (minimum 65%), pH (4.0-5.5), total sugar content, total fat content, moisture content (not more than 25%), microbial limits, heavy metals within limits, HPTLC fingerprint for piperine, gallic acid, and ellagic acid, organoleptic evaluation (colour, odour, taste, texture)
 
 **Vehicle (Anupana):** Warm milk or warm water
 

@@ -46,17 +46,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Amalaka-R
 
 **Standard Dosage:** 10-20 g daily, or as per classical text directions.
 
-**Bioavailability:** Ascorbic acid from Amalaki is stabilized by [tannins](/reference/tannins/), providing sustained-release [antioxidant](/reference/antioxidant/) activity. Ghee base enhances absorption of fat-soluble [polyphenols](/glossary/compounds-o-q/#polyphenols). Honey (added when cool) provides enzymatic enhancement of bioavailability.
-
 **Optimal Timing:** Early morning on empty stomach (Pratah kala, Abhukta)
-
-**Shelf Life:** 1 year (fresh preparation) to 2 years (dried churna form) as per ASU guidelines
 
 **Storage:** Store in glass or food-grade containers in a cool, dry place. Refrigeration recommended for fresh preparations. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Ellagic acid, Emblicanin A, Emblicanin B, Chebulagic acid
-
-**Quality Parameters:** Vitamin C content (ascorbic acid assay), total phenolics, total tannins, gallic acid content by HPLC, moisture content, total solids, pH, microbial limits, heavy metals, HPTLC fingerprint
 
 **Vehicle (Anupana):** Warm milk or warm water
 

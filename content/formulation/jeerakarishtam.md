@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeeraka
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Strirogadhikara; 492-494.
 
-**Bioavailability:** Fermentation enhances extraction of [cumin](/herb/cumin/) volatile oils and converts them to bioactive metabolites. Alcohol medium improves absorption of [cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) and other [terpenoids](/glossary/compounds-t-z/#terpenoids). Classically used as post-partum restorative, good absorption during lactation.
-
 **Optimal Timing:** After meals, twice daily, especially post-partum (Sutika kala)
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
 **Marker Compounds:** Cuminaldehyde, Cymene, Gamma-terpinene, Beta-pinene, [Cuminol](/glossary/compounds-c-d/#cuminol)
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-12%), total solids, total sugar, total acidity, cuminaldehyde content by GC/HPLC, total volatile oils, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of warm water
 

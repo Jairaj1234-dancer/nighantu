@@ -82,19 +82,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 - Taxane diterpenoids
 - Bioflavonoids 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Standard Dosage:** No safe dose established; raw plant must not be consumed.
 
-**Shelf Life:** 24 months for churna; 30 months for capsules and tablets
-
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture.
 
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50% ethanol)
-- Cold maceration
-- Percolation with graded alcohol

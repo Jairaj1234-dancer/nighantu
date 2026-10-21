@@ -119,24 +119,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jyotishmati/meta-analy
 
 **Standard Dosage:** 5-15 drops seed oil twice daily; 500mg-1g seed powder; 250-500mg extract; 2-4 drops Nasya oil per nostril
 
-**Bioavailability:** Celastrus paniculatus seed oil contains sesquiterpenes, polyester [alkaloids](/glossary/compounds-1-a/#alkaloids) (celapanin, celastrine), and fatty acids. Seed oil fatty acids are well absorbed. Sesquiterpene and alkaloid components show good lipophilic absorption. Oil form has inherently good bioavailability for lipophilic actives.
-
 **Optimal Timing:** Morning on empty stomach with warm water/milk for cognitive effects; Nasya in early morning; gradual dose escalation over 2-3 weeks
-
-**Standardized Extract:** Cold-pressed seed oil (primary product); oil standardized to fatty acid profile and total alkaloid content (>0.5%); CO2 extract for enriched alkaloid fraction
-
-**Shelf Life:** 1 year (cold-pressed oil without antioxidants); 2 years (oil with antioxidant, sealed); 2 years (capsule/soft gel); 2 years (seed powder)
 
 **Storage:** Oil: amber glass bottles, nitrogen-flushed, below 25°C, protected from light. Seed powder: airtight containers, cool and dry. Refrigeration extends oil shelf life.
 
 **Marker Compounds:** Celapanin, Celastrine, Malkanginnol, Pristimerin, Zeylasterone, Oleic acid, Linoleic acid, Palmitic acid
-
-### Extraction Methods
-
-- Cold pressing of seeds (oil extraction, 40-50% oil content)
-- Supercritical CO2 extraction for alkaloid-enriched oil
-- Hydroalcoholic extraction of seed cake (70:30)
-- Traditional oil processing (Murchhita Taila - oil processing with prescribed herbs)
 
 ### Synergistic Combinations
 

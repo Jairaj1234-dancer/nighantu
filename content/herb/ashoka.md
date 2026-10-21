@@ -79,25 +79,11 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 15-30ml [Ashokarishta](/formulation/ashokarishta/) after meals; 500mg-1g extract capsule
 
-**Bioavailability:** Moderate oral bioavailability. Saraca asoca bark contains catechin (~7% bioavailability), epicatechin (~20%), and [tannins](/reference/tannins/). Estrogenic [isoflavones](/glossary/compounds-g-l/#isoflavones) are well absorbed. Ashokarishta (fermented form) shows enhanced bioavailability due to self-generated alcohol content (5-10% ethanol), which acts as co-solvent for [polyphenols](/glossary/compounds-o-q/#polyphenols). Haemostatic tannins act locally in GI tract and systemically after absorption.
-
 **Optimal Timing:** Ashokarishta after meals; bark powder with rice water or milk before meals; for menstrual disorders, start 3-5 days before expected cycle
-
-**Standardized Extract:** Bark extract standardized to minimum 4% catechin and minimum 2% epicatechin. Total tannin content minimum 15% (as tannic acid equivalent). Estrogenic fraction standardized to total isoflavone content.
-
-**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5-10 years (Ashokarishta, improves with age); 2 years (syrup)
 
 **Storage:** Bark powder in airtight containers, cool and dry. Ashokarishta in amber glass at room temperature. Capsules with desiccant.
 
 **Marker Compounds:** Catechin, Epicatechin, Procyanidin B2, [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin), Haematoxylin, Beta-sitosterol, [Quercetin](/reference/quercetinquercetin/), Kaempferol, Gallic acid
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30)
-- Fermentation for Ashokarishta (classical 30-day fermentation)
-- Spray-dried aqueous extract for Ghana Vati
-- Ethyl acetate fractionation for catechin enrichment
 
 ### Synergistic Combinations
 

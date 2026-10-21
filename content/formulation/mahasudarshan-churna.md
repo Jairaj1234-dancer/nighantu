@@ -65,25 +65,17 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
 **Standard Dosage:** 3-6g twice daily. The formulary has no entry for this formulation, so no formulary dose is available for it; its entry 7:35 (SUDARSANA CURNA) is a different drug and its dose of 2 to 4 g does not apply here. The figure above carries no published source.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals for fever/infection
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Swertimerin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
 
 **Vehicle (Anupana):** Warm water or honey
 

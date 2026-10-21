@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vidari/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily with milk; 50-100 mL decoction twice daily; 10-20 g lehyam daily
 
-**Bioavailability:** [Puerarin](/glossary/compounds-o-q/#puerarin) (major isoflavonoid in Pueraria species) has moderate oral bioavailability (~25-35%) limited by poor aqueous solubility and P-glycoprotein efflux. Tuberosin shows moderate absorption. [Daidzein](/glossary/compounds-c-d/#daidzein) and [genistein](/glossary/compounds-d-g/#genistein) ([isoflavones](/glossary/compounds-g-l/#isoflavones)) undergo extensive gut microbial metabolism to equol and other metabolites with prolonged half-lives. Milk as vehicle (traditional [Ksheera](/herb/ksheera/) Paka) enhances absorption of lipophilic [isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) through casein micelle solubilization.
-
 **Optimal Timing:** After meals with warm milk for [Rasayana](/reference/rasayana/) (rejuvenative) effect; morning and evening; Ksheera Paka at bedtime
-
-**Standardized Extract:** Tuber extract standardized to >5% puerarin by HPLC; >1% total isoflavones (daidzein + genistein); [starch](/glossary/compounds-q-t/#starch) content characterization for excipient use
-
-**Shelf Life:** Dried tuber slices: 18-24 months; Powder: 12-18 months; Capsules/Tablets: 24-36 months; Lehyam: 18-24 months; Ksheera Paka: prepare fresh
 
 **Storage:** Dried material in airtight, moisture-proof containers at 15-25 deg C. Protect from insects (starchy material attracts pests). Include desiccant sachets in packaging.
 
 **Marker Compounds:** Puerarin, Daidzein, Genistein, Tuberosin, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Pterocarpan, 4'-Methoxypuerarin
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (60-70% ethanol)
-- Milk decoction (Ksheera Paka - traditional)
-- Supercritical CO2 extraction for isoflavone-rich fraction
-- Spray drying for standardized powder
 
 ### Synergistic Combinations
 

@@ -39,27 +39,17 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - **Vitamin A:** 185 IU/100ml
 - **Oligosaccharides:** Rich (prebiotic)
 
-**Analytical Methods:** AOAC methods, HPLC (sugars), ICP-OES (minerals)
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Fresh milk, Boiled milk, Medicated milk (Kshirapaka)
 
 **Standard Dosage:** 100–200 mL twice daily
 
-**Bioavailability:** High; easily digestible due to smaller fat globules and A2 casein
-
 **Optimal Timing:** Morning or before bed; warm
-
-**Standardized Extract:** N/A, used as whole food/vehicle
-
-**Shelf Life:** Fresh: 24–48 hours refrigerated
 
 **Storage:** Refrigerated at 4°C
 
 **Marker Compounds:** A2 beta-casein, Medium-chain triglycerides, Calcium, [Phosphorus](/glossary/compounds-o-q/#phosphorus)
-
-**Quality Parameters:** Fat content 3.5–4%, SNF >8%, no adulteration ([starch](/glossary/compounds-q-t/#starch)/urea negative)
 
 **Vehicle (Anupana):** Used as anupana for [Rasayana](/reference/rasayana/) herbs and bhasmas
 
@@ -86,24 +76,11 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 
 **Standard Dosage:** 3-5g powder twice daily; 40-80ml decoction twice daily; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional herb with limited modern investigation. Presumed moderate bioavailability based on phytochemical class ([flavonoids](/reference/flavonoids/), [terpenoids](/glossary/compounds-t-z/#terpenoids)). Traditional anupana (warm water, honey, ghee) recommended based on Dosha indication.
-
 **Optimal Timing:** Before meals with warm water as per traditional guidelines
-
-**Standardized Extract:** Limited standardization data. Develop HPTLC fingerprint for identity confirmation. Document extractive values (water-soluble and alcohol-soluble).
-
-**Shelf Life:** 18 months (powder); 2 years (capsules/tablets)
 
 **Storage:** Airtight containers, cool and dry place, protected from light and moisture.
 
 **Marker Compounds:** Total phenolics, Total flavonoids, TLC/HPTLC fingerprint markers (to be established)
-
-### Extraction Methods
-
-- Aqueous decoction (classical method)
-- Hydroalcoholic extraction (60:40)
-- Fresh juice expression
-- Cold maceration
 
 ### Synergistic Combinations
 
@@ -191,27 +168,17 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - **Folate:** 557μg/100g
 - **Magnesium:** 115mg/100g
 
-**Analytical Methods:** AOAC methods, HPLC (isoflavones), ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole grain, Flour (Besan), Roasted (Bhuna Chana), Sattu (roasted flour)
 
 **Standard Dosage:** As dietary item; therapeutic: 20–50 g grain/flour daily
 
-**Bioavailability:** Moderate; soaking/sprouting increases protein digestibility by 20–30%
-
 **Optimal Timing:** Lunch; avoid at night for heavy digestion
-
-**Standardized Extract:** N/A, whole food; Sattu preparation for therapeutic use
-
-**Shelf Life:** Whole: 12 months; flour: 3–6 months; Sattu: 2–3 months
 
 **Storage:** Cool, dry place; flour in airtight container
 
 **Marker Compounds:** Protein (20–22%), Dietary fiber, Iron, [Folate](/glossary/compounds-d-g/#folate), [Isoflavones](/glossary/compounds-g-l/#isoflavones)
-
-**Quality Parameters:** Moisture <12%, no weevil infestation, aflatoxin <15 ppb
 
 ### Chyawanprash Extract {#chyawanprash-extract}
 
@@ -228,25 +195,17 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Concentrated extract (semi-solid), Capsules (modern), Tablets (modern), Sachets (modern)
 
 **Standard Dosage:** 5-10 g daily or as per label (concentrated form), as per manufacturer's specifications based on AFI equivalence
 
-**Bioavailability:** Higher concentration per gram means enhanced active compound delivery. Reduced sugar matrix may slightly alter dissolution profile. Standardized extracts provide more consistent bioavailability batch-to-batch compared to classical preparation.
-
 **Optimal Timing:** Morning on empty stomach with warm milk
-
-**Shelf Life:** 2-3 years from date of manufacture
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Some variants require refrigeration. Protect from moisture.
 
 **Marker Compounds:** Ascorbic acid, Gallic acid, [Piperine](/reference/piperine/), Ellagic acid, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde)
-
-**Quality Parameters:** Total solids (NLT 70%), vitamin C content (typically higher per gram than classical), gallic acid content by HPLC, piperine content, total phenolics, total [flavonoids](/reference/flavonoids/), [antioxidant](/reference/antioxidant/) activity (ORAC/DPPH), sugar content (lower than classical), microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Warm milk or warm water
 
@@ -272,25 +231,17 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Herbal blend churna (powder), Capsules (modern), Tea bags (modern)
 
 **Standard Dosage:** 3-6 g daily as powder or infusion, as per manufacturer's specifications based on classical ratios
 
-**Bioavailability:** Dry powder form provides rapid dissolution. Requires co-administration with lipid (ghee/milk) for optimal absorption of fat-soluble compounds. [Piperine](/reference/piperine/) enhances absorption of other herb constituents.
-
 **Optimal Timing:** Morning on empty stomach
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture and light. Volatile oils dissipate if exposed, sealed packaging essential.
 
 **Marker Compounds:** Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), [Eugenol](/glossary/compounds-d-g/#eugenol), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), 6-[Gingerol](/glossary/compounds-d-g/#gingerol)
-
-**Quality Parameters:** Loss on drying (<10%), total ash, acid-insoluble ash, particle size (pass sieve #85), volatile oil content, HPTLC fingerprint for piperine, cinnamaldehyde, eugenol, microbial limits, heavy metals, aflatoxins, pesticide residues
 
 **Vehicle (Anupana):** Warm milk with ghee and honey (to approximate [Chyawanprash](/formulation/chyawanprash/) delivery)
 
@@ -322,35 +273,19 @@ answer: "Ayurvedic concepts (A-M) is a reference glossary of 62 entries drawn fr
 - **Oleic acid (C18:1):** 5-8%
 - **Linoleic acid (C18:2):** 1-2.5%
 
-**Analytical Methods:** GC-FID (fatty acid profile), Iodine value, Saponification value, Peroxide value
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Cold-pressed oil, Virgin [coconut oil](/glossary/concepts-a-m/#coconut-oil), External application (Taila)
 
 **Standard Dosage:** 5–15 mL orally; external: as needed
 
-**Bioavailability:** Rapid MCT absorption via portal vein; does not require bile for digestion
-
 **Optimal Timing:** With meals; external use anytime
-
-**Standardized Extract:** Virgin cold-pressed [coconut oil](/glossary/concepts-a-m/#coconut-oil) ([Narikela](/herb/narikela/) Taila)
-
-**Shelf Life:** 12–24 months
 
 **Storage:** Room temperature; liquefies above 24°C
 
 **Marker Compounds:** Lauric acid (45–53%), Myristic acid, Capric acid, Medium-chain triglycerides
 
-**Quality Parameters:** FFA <0.5%, peroxide value <5 meq/kg, moisture <0.1%, [iodine](/glossary/compounds-g-l/#iodine) value 7–10
-
 **Vehicle (Anupana):** Base oil for medicated oils (Taila Kalpana); cooling Pitta-pacifying vehicle
-
-### Extraction Methods
-
-- Cold pressing (Ghani)
-- Expeller pressing
-- Centrifugal extraction for virgin oil
 
 ### Stability Notes
 
@@ -380,17 +315,11 @@ Highly stable due to >90% saturated fat content. Resistant to oxidation
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals, as per Sahasrayogam
 
-**Bioavailability:** Hot decoction provides rapid absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). [Berberine](/glossary/compounds-a-c/#berberine) from [Daruharidra](/herb/daruharidra/) has moderate oral bioavailability (~5%), enhanced in hot aqueous medium.
-
 **Optimal Timing:** Before meals, morning and evening, for Jwara (fever) conditions
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), [Palmatine](/glossary/compounds-o-q/#palmatine), [Jatrorrhizine](/glossary/compounds-g-l/#jatrorrhizine) (from [Daruharidra](/herb/daruharidra/))
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, berberine content from Daruharidra by HPLC, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (tablets); as is (liquid)
 
@@ -538,17 +467,11 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Standard Dosage:** 40-80 mL twice daily, or 3-6 g Kwath Churna boiled in water, as per AFI
 
-**Bioavailability:** Same as [Drakshadi Kashayam](/formulation/drakshadi-kashayam/). Kwath Churna form allows fresh preparation at home, freshly prepared decoction has optimal bioavailability.
-
 **Optimal Timing:** Before meals, morning and evening
-
-**Shelf Life:** Same day (fresh), 2 years (Kwath Churna)
 
 **Storage:** Fresh kwath: same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), [Piperine](/reference/piperine/), Gallic acid, [Quercetin](/reference/quercetinquercetin/), Ellagic acid
-
-**Quality Parameters:** Similar to [Drakshadi Kashayam](/formulation/drakshadi-kashayam/), pH, specific gravity, total solids, [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), total [polyphenols](/glossary/compounds-o-q/#polyphenols), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Taken as warm decoction; may add honey
 
@@ -668,27 +591,17 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 - **Silicon (Si):** Trace
 - **Aluminum (Al):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Shuddha Gairika (purified red ochre), Bhasma, External application
 
 **Standard Dosage:** 250–500 mg internally; external: as needed
 
-**Bioavailability:** Moderate; natural iron oxide with clay matrix
-
 **Optimal Timing:** With honey or ghee
-
-**Standardized Extract:** Purified red ochre (hydrated iron oxide)
-
-**Shelf Life:** Indefinite (mineral)
 
 **Storage:** Dry, airtight container
 
 **Marker Compounds:** Iron oxide (Fe2O3, hematite), [Silica](/glossary/compounds-q-t/#silica), Alumina, Trace minerals
-
-**Quality Parameters:** Iron >50%, heavy metals within limits, no free silica (respirable)
 
 **Vehicle (Anupana):** Honey, ghee, or herbal decoctions
 
@@ -716,27 +629,17 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 - **Sulfur (S):** Major component (>98% elemental sulfur after Shodhana)
 - **Trace elements:** Depends on source
 
-**Analytical Methods:** XRD, FTIR, Melting point, ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Shuddha Gandhaka (purified sulfur), Gandhaka [Rasayana](/reference/rasayana/), Component in Kajjali
 
 **Standard Dosage:** 125–500 mg twice daily (as Gandhaka Rasayana)
 
-**Bioavailability:** Good; sulfur compounds absorbed well; key component of amino acid metabolism
-
 **Optimal Timing:** After meals with milk or ghee
-
-**Standardized Extract:** Shuddha Gandhaka, purified elemental sulfur; Gandhaka Rasayana is therapeutic form
-
-**Shelf Life:** Indefinite (purified sulfur); 2–3 years (Rasayana form)
 
 **Storage:** Airtight container; away from heat (flammable)
 
 **Marker Compounds:** Elemental sulfur (S8), Sulfur dioxide traces, Purification media residues
-
-**Quality Parameters:** Purity >99.5%, arsenic <3 ppm (critical, arsenic contamination common in natural sulfur), no free acid
 
 **Vehicle (Anupana):** Milk, ghee, or [Triphala](/herb/triphala/)
 
@@ -777,27 +680,17 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 - **Zinc:** 2.7mg/100g
 - **B Vitamins:** Thiamine, Riboflavin, Niacin
 
-**Analytical Methods:** AOAC methods, HPLC, NIR spectroscopy
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole grain, Flour (Atta), Wheat grass juice, Godhuma Churna
 
 **Standard Dosage:** As dietary staple; therapeutic wheat grass: 30–60 mL juice
 
-**Bioavailability:** Moderate; gluten content affects some individuals; sprouting increases bioavailability
-
 **Optimal Timing:** Meals; wheat grass juice on empty stomach
-
-**Standardized Extract:** Wheat grass extract, [chlorophyll](/glossary/compounds-c-d/#chlorophyll)-rich
-
-**Shelf Life:** Grain: 12+ months; flour: 3–4 months; fresh juice: consume immediately
 
 **Storage:** Cool, dry place; flour in airtight container
 
 **Marker Compounds:** Gluten [proteins](/glossary/compounds-o-q/#proteins), Dietary fiber, B-[vitamins](/glossary/compounds-t-z/#vitamins), Iron, Chlorophyll (grass)
-
-**Quality Parameters:** Moisture <12%, no ergot contamination, gluten content as labeled
 
 ### Gojihvadi Kwath {#gojihvadi-kwath}
 
@@ -822,17 +715,11 @@ Sublimation and distillation of mercury, sulfur, arsenic, and other volatile min
 
 **Standard Dosage:** 40-80 mL twice daily, as per AFI
 
-**Bioavailability:** Hot decoction provides rapid absorption of [vasicine](/glossary/compounds-t-z/#vasicine) and [vasicinone](/glossary/compounds-t-z/#vasicinone) (bronchodilatory [alkaloids](/glossary/compounds-1-a/#alkaloids)). Oral bioavailability of vasicine is good (~60-70%) in aqueous medium.
-
 **Optimal Timing:** Before meals, morning and evening, for respiratory conditions
-
-**Shelf Life:** Same day (fresh), 2 years (Kwath Churna)
 
 **Storage:** Fresh: use same day. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Vasicine, Vasicinone, [Deoxyvasicine](/glossary/compounds-c-d/#deoxyvasicine), [Solasodine](/glossary/compounds-q-t/#solasodine) (from [Kantakari](/herb/kantakari/))
-
-**Quality Parameters:** pH, specific gravity, total solids, vasicine content from [Vasa](/herb/vasa/) by HPLC, total alkaloids, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Honey for Kasa-Shwasa (cough/asthma) conditions
 
@@ -929,27 +816,17 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 - **Phosphorus:** 20-90mg/100g
 - **Phenolics:** Present
 
-**Analytical Methods:** HPLC (sugars), ICP-OES (minerals), Colorimetry
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Solid jaggery block, Powder (Guda Churna), Liquid jaggery, Vehicle in formulations
 
 **Standard Dosage:** 5–15 g; as vehicle in Avaleha/Modaka preparations
 
-**Bioavailability:** Rapid sugar absorption; iron and mineral content higher than refined sugar
-
 **Optimal Timing:** Post-meal (small quantity); as vehicle: per formulation
-
-**Standardized Extract:** Purana Guda (aged jaggery, 1+ year) preferred therapeutically
-
-**Shelf Life:** Fresh: 3–6 months; aged: 12+ months (improves with age)
 
 **Storage:** Cool, dry place; wrap to prevent moisture absorption
 
 **Marker Compounds:** [Sucrose](/glossary/compounds-q-t/#sucrose) (65–85%), Iron (10–13 mg/100g), Calcium, [Magnesium](/glossary/compounds-l-o/#magnesium), Phenolic compounds
-
-**Quality Parameters:** Sucrose >65%, moisture <10%, iron >8 mg/100g, no chemical bleaching (SO2 <70 ppm)
 
 **Vehicle (Anupana):** Sweet vehicle in Avaleha, Modaka, Guda [Pippali](/herb/pippali/); used in iron-deficiency formulations
 
@@ -1016,23 +893,11 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern bioavailability data. Traditional preparation as decoction with warm water enhances aqueous-soluble constituent absorption. Co-administration with [Pippali](/herb/pippali/) or [ginger](/herb/ginger/) may improve bioavailability via enhanced gastrointestinal absorption.
-
 **Optimal Timing:** Before meals with warm water or honey
-
-**Standardized Extract:** No standardized extract specifications established. Traditional aqueous extract used. Further phytochemical profiling recommended.
-
-**Shelf Life:** 1 year (powder); 2 years (capsule with desiccant)
 
 **Storage:** Cool, dry place (below 25°C), protected from light and moisture in airtight containers
 
 **Marker Compounds:** [Flavonoids](/reference/flavonoids/) (general TLC profiling), Phenolic acids (tentative identification)
-
-### Extraction Methods
-
-- Aqueous decoction (1:16 herb-to-water, reduced to 1/4)
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Cold maceration for fresh herb
 
 ### Synergistic Combinations
 
@@ -1063,23 +928,11 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction; external paste as needed
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional aqueous decoction preparation is standard route of administration. The leaf-based preparations likely contain [flavonoids](/reference/flavonoids/) with moderate oral absorption. Further bioavailability studies warranted.
-
 **Optimal Timing:** Before meals with warm water; external paste application on affected area twice daily
-
-**Standardized Extract:** No standardized extract commercially established. Aqueous or hydroalcoholic extracts with TLC/HPTLC fingerprint recommended for quality control.
-
-**Shelf Life:** 1 year (powder); 2 years (capsule with desiccant)
 
 **Storage:** Cool, dry place below 25°C in airtight containers, protected from light and moisture
 
 **Marker Compounds:** Butein, [Butrin](/glossary/compounds-a-c/#butrin), Palasonin, Flavonoids (general profiling)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional 1:16 reduced to 1/4)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Cold pressing of fresh leaves for Swarasa
 
 ### Synergistic Combinations
 
@@ -1152,23 +1005,11 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Barringtonia acutangula bark is rich in [tannins](/reference/tannins/) and [saponins](/reference/saponins/). Tannins have limited oral bioavailability due to large molecular size and protein binding. Saponin fractions may show better absorption. Traditional decoction preparation may partially hydrolyze tannins improving absorption of smaller phenolic fragments.
-
 **Optimal Timing:** Before meals with warm water or honey
-
-**Standardized Extract:** Aqueous extract with HPTLC fingerprint for authentication. No formal standardized extract specifications established in pharmacopoeial monographs.
-
-**Shelf Life:** 2 years (powder); 3 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Bark powder is relatively stable but hygroscopic.
 
 **Marker Compounds:** Barringtogenol, Tannins (as gallic acid equivalent), Saponins (general assay), Ellagic acid
-
-### Extraction Methods
-
-- Aqueous decoction (bark, 1:16 reduced to 1/4)
-- Hydroalcoholic extraction (50:50)
-- Methanol extraction for saponin-enriched fraction
 
 ### Synergistic Combinations
 
@@ -1287,27 +1128,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Vitamin E (alpha-tocopherol):** 12mg/100g
 - **Polyphenols:** 50-800mg/kg (extra virgin)
 
-**Analytical Methods:** GC-FID (fatty acids), HPLC-UV (polyphenols), UV absorbance (K232, K270)
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Extra virgin olive oil, Refined olive oil, External massage oil
 
 **Standard Dosage:** 5–15 mL orally; external: as needed
 
-**Bioavailability:** Good; monounsaturated fat profile supports absorption
-
 **Optimal Timing:** With meals; external: as needed
-
-**Standardized Extract:** Extra virgin cold-pressed (first pressing)
-
-**Shelf Life:** 18–24 months (EVOO); 24–36 months (refined)
 
 **Storage:** Cool, dark place; tinted glass bottles
 
 **Marker Compounds:** Oleic acid (55–83%), Hydroxytyrosol, [Oleuropein](/glossary/compounds-o-q/#oleuropein), [Squalene](/glossary/compounds-q-t/#squalene), Vitamin E
-
-**Quality Parameters:** FFA <0.8% (EVOO), peroxide value <20 meq/kg, polyphenol content >250 mg/kg
 
 **Vehicle (Anupana):** Used in Unani medicine (Roghan-e-Zaitoon); Ayurvedic use primarily external
 
@@ -1334,24 +1165,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 1-3g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Phyla nodiflora (Lippia nodiflora) contains [flavonoids](/reference/flavonoids/) ([hispidulin](/glossary/compounds-g-l/#hispidulin), eupafolin) and [triterpenes](/glossary/compounds-t-z/#triterpenes) with moderate oral bioavailability. Hispidulin shows reasonable absorption with Tmax of ~2 hours. Lipid-based formulations may enhance terpenoid absorption.
-
 **Optimal Timing:** Before meals with warm water or honey
-
-**Standardized Extract:** Hydroalcoholic extract standardized to 1-2% hispidulin by HPLC; aqueous extract per traditional methods
-
-**Shelf Life:** 2 years (powder); 3 years (standardized capsule/tablet)
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture in airtight containers
 
 **Marker Compounds:** Hispidulin, Eupafolin, Nodifloretin, Betulinic acid, [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Methanol extraction for flavonoid-enriched fraction
-- Fresh plant juice (Swarasa)
 
 ### Synergistic Combinations
 
@@ -1373,24 +1191,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 50-100ml leaf decoction; 10-20ml fresh leaf juice
 
-**Bioavailability:** Syzygium cumini leaf (referred here as [Jamun](/herb/jamun/) Herb to differentiate from seed/fruit) contains [myricetin](/glossary/compounds-l-o/#myricetin), [quercetin](/reference/quercetinquercetin/), [isoquercetin](/glossary/compounds-g-l/#isoquercetin), and [tannins](/reference/tannins/). Myricetin has poor bioavailability (~2%) due to extensive glucuronidation. Quercetin bioavailability is ~5-10%, improved with lipids. Leaf extract shows hypoglycemic activity via different mechanisms than seed extract.
-
 **Optimal Timing:** Before meals with water for blood sugar support; fresh juice in the morning on empty stomach
-
-**Standardized Extract:** Leaf hydroalcoholic extract standardized to 2% myricetin and 1% quercetin by HPLC
-
-**Shelf Life:** 1.5 years (leaf powder); 2 years (capsule); 3 months (fresh juice, preserved)
 
 **Storage:** Cool, dry place below 25°C, protected from light ([flavonoids](/reference/flavonoids/) are photosensitive). Airtight containers.
 
 **Marker Compounds:** Myricetin, Quercetin, Isoquercetin, Gallic acid, Ellagic acid, Betulinic acid
-
-### Extraction Methods
-
-- Aqueous decoction of dried leaves
-- Hydroalcoholic extraction (60:40)
-- Ethanol extraction for flavonoid-rich fraction
-- Fresh leaf juice (Swarasa)
 
 ### Synergistic Combinations
 
@@ -1413,31 +1218,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Churna (whole plant powder), Kashayam (decoction), Capsule, Taila (medicated oil)
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction; external oil application as needed
 
-**Bioavailability:** When [Jatamansi](/herb/jatamansi/) Herb refers to the whole plant preparation (as distinguished from rhizome-only Jatamansi), the bioavailability profile is similar but with additional aerial part constituents including [flavonoids](/reference/flavonoids/) and phenolic acids. The sesquiterpene content may be lower per gram compared to rhizome-only preparations. Leaf and stem fractions contribute additional [antioxidant](/reference/antioxidant/) [polyphenols](/glossary/compounds-o-q/#polyphenols).
-
 **Optimal Timing:** At bedtime for calming effect; twice daily for chronic neurological support
-
-**Standardized Extract:** Whole plant hydroalcoholic extract with HPTLC fingerprint for identity; standardization to [jatamansone](/glossary/compounds-g-l/#jatamansone) if detectable in aerial parts
-
-**Shelf Life:** 1.5 years (whole plant powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture in airtight containers
 
 **Marker Compounds:** Jatamansone (if present in aerial parts), [Nardosinone](/glossary/compounds-l-o/#nardosinone), Ursolic acid, Oleanolic acid, Chlorogenic acid
-
-### Extraction Methods
-
-- Aqueous decoction (whole plant)
-- Hydroalcoholic extraction (60:40)
-- Traditional oil maceration for Taila preparation
 
 ### Synergistic Combinations
 
@@ -1509,23 +1300,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-5g powder twice daily; 30-60ml decoction; external paste as needed
 
-**Bioavailability:** Peristrophe bicalyculata - limited modern pharmacokinetic data. Contains [flavonoids](/reference/flavonoids/), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [terpenoids](/glossary/compounds-t-z/#terpenoids). Flavonoid components likely have moderate bioavailability similar to other Acanthaceae family members. Alkaloid fraction may contribute to observed biological activities. Decoction is the traditional route of administration.
-
 **Optimal Timing:** Before meals with warm water
-
-**Standardized Extract:** No standardized extract established. HPTLC fingerprint recommended for identity and quality control.
-
-**Shelf Life:** 1.5 years (powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C in airtight containers, protected from light and moisture
 
 **Marker Compounds:** Flavonoids (general TLC profiling), Alkaloids (Dragendorff's reagent positive), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/)
-
-### Extraction Methods
-
-- Aqueous decoction (whole plant)
-- Hydroalcoholic extraction (60:40)
-- Methanol extraction for phytochemical screening
 
 ### Synergistic Combinations
 
@@ -1556,23 +1335,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Ipomoea aquatica (water spinach) or Mitragyna parvifolia (depending on regional interpretation of Kalamba). Contains [flavonoids](/reference/flavonoids/), [tannins](/reference/tannins/), and [alkaloids](/glossary/compounds-1-a/#alkaloids) with moderate oral absorption. Limited modern pharmacokinetic studies. Traditional aqueous decoction is the standard preparation method facilitating extraction of hydrophilic compounds.
-
 **Optimal Timing:** Before meals with warm water for fever; external paste for skin conditions
-
-**Standardized Extract:** Aqueous or hydroalcoholic extract with verified HPTLC fingerprint for species authentication
-
-**Shelf Life:** 2 years (powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers.
 
 **Marker Compounds:** Species-dependent - requires botanical confirmation, Flavonoids (general profiling), Alkaloids (Dragendorff-positive fractions), Tannins
-
-### Extraction Methods
-
-- Aqueous decoction (bark or whole plant depending on species)
-- Hydroalcoholic extraction (60:40)
-- Fresh juice of leaves (if Ipomoea species)
 
 ### Synergistic Combinations
 
@@ -1603,19 +1370,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 0.5–1 g with honey or warm water
 
-**Bioavailability:** Good; alkaline salts readily absorbed
-
 **Optimal Timing:** Before meals for digestive conditions
-
-**Standardized Extract:** Alkaline ash extract from specific plant materials
-
-**Shelf Life:** 12–18 months
 
 **Storage:** Airtight, moisture-proof container (hygroscopic)
 
 **Marker Compounds:** [Potassium](/glossary/compounds-o-q/#potassium) carbonate, Sodium carbonate, Potassium hydroxide, Plant-derived [alkaloids](/glossary/compounds-1-a/#alkaloids)
-
-**Quality Parameters:** pH 10–12, total alkalinity as labeled, no excess free alkali beyond therapeutic range
 
 **Vehicle (Anupana):** Honey, warm water, or buttermilk
 
@@ -1646,27 +1405,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Potassium:** 267mg/100g
 - **Fiber:** 0.9g/100g
 
-**Analytical Methods:** AOAC methods, HPLC (vitamins), ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Fresh fruit, Seeds (Magaz-e-Kharbuja), Seed oil
 
 **Standard Dosage:** Seeds: 3–6 g; fruit: as dietary item
 
-**Bioavailability:** Seeds: moderate; requires crushing for oil release
-
 **Optimal Timing:** Seeds: with milk or as Sharbat in summer
-
-**Standardized Extract:** Cold-pressed seed oil; seed powder
-
-**Shelf Life:** Seeds: 6–12 months; oil: 6 months
 
 **Storage:** Cool, dry place; oil in dark bottles
 
 **Marker Compounds:** Linoleic acid (seeds), Cucurbitacin, Protein (seeds 30%), Vitamin A (fruit)
-
-**Quality Parameters:** Seeds: moisture <8%, no mold; oil: FFA <2%
 
 **Vehicle (Anupana):** Milk or sugar syrup
 
@@ -1693,19 +1442,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** External surgical application, not for ingestion
 
-**Bioavailability:** Topical/surgical, sustained local release of alkaline and proteolytic agents
-
 **Optimal Timing:** Applied surgically; changed weekly
-
-**Standardized Extract:** Linen thread coated with Snuhi Kshira (Euphorbia latex) + [Apamarga](/herb/apamarga/) Kshara (Achyranthes ash alkali) + [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/))
-
-**Shelf Life:** 6–12 months (sealed, sterile packaging)
 
 **Storage:** Sterile container; cool, dry place; protected from light
 
 **Marker Compounds:** Latex proteases (from Snuhi), [Potassium](/glossary/compounds-o-q/#potassium) carbonate (from [Apamarga](/herb/apamarga/) Kshara), [Curcumin](/herb/curcumin/) (from [Haridra](/herb/haridra/))
-
-**Quality Parameters:** 21 coatings minimum (11 Snuhi + 7 Snuhi+Kshara + 3 Haridra), pH 9.5–10.5, thread strength >2 kg breaking load, sterility test pass
 
 **Vehicle (Anupana):** N/A, surgical device
 
@@ -1732,17 +1473,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 6-12g twice daily with milk
 
-**Bioavailability:** Sugar-based matrix provides sustained release; ghee component enhances lipophilic compound absorption
-
 **Optimal Timing:** Morning and evening, before meals
-
-**Shelf Life:** 1 year (avaleha per ASU)
 
 **Storage:** Airtight glass/HDPE jar, cool dry place
 
 **Marker Compounds:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins), Ascorbic acid
-
-**Quality Parameters:** Total sugar 60-70%, moisture NMT 15%, pH 4.0-5.5, total ash, marker: cucurbitacins
 
 **Vehicle (Anupana):** Warm milk
 
@@ -1773,17 +1508,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 10-20g twice daily
 
-**Bioavailability:** Granular form with sugar matrix provides moderate absorption
-
 **Optimal Timing:** After meals
-
-**Shelf Life:** 1 year
 
 **Storage:** Airtight container, dry place
 
 **Marker Compounds:** [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins)
-
-**Quality Parameters:** Moisture NMT 8%, granule uniformity, total sugar content
 
 **Vehicle (Anupana):** Water or milk
 
@@ -1816,17 +1545,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 10-20ml twice daily
 
-**Bioavailability:** Fresh juice provides maximum bioavailability of water-soluble [vitamins](/glossary/compounds-t-z/#vitamins) and minerals
-
 **Optimal Timing:** Morning on empty stomach
-
-**Shelf Life:** Use within 6-12 hours fresh; preserved form 3-6 months with approved preservatives
 
 **Storage:** Refrigerate immediately; use same day for svarasa
 
 **Marker Compounds:** Ascorbic acid, [Cucurbitacins](/glossary/compounds-c-d/#cucurbitacins)
-
-**Quality Parameters:** pH 5.0-6.5, total solids, microbial limits, vitamin C content
 
 **Vehicle (Anupana):** Honey or sugar
 
@@ -1858,17 +1581,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** External: liberal massage; Internal: 5-10ml
 
-**Bioavailability:** Oil base (safflower oil) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** Linoleic acid, Oleic acid
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Linoleic acid, Oleic acid
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
@@ -1910,27 +1627,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 - Present (5-6%)
 
-**Analytical Methods:** HPLC (resin acids, dye), FTIR, GC-MS
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Purified resin, Laksha Churna, Laksha [Guggulu](/formulation/guggulu/)
 
 **Standard Dosage:** 1–3 g powder; as per formulation
 
-**Bioavailability:** Moderate; resinous compounds require lipid vehicle for optimal absorption
-
 **Optimal Timing:** With warm milk or ghee
-
-**Standardized Extract:** Purified lac resin (Shodhita Laksha)
-
-**Shelf Life:** 2–3 years
 
 **Storage:** Cool, dry place; moisture-protected
 
 **Marker Compounds:** Shellac (aleuritic acid, shellolic acid), Laccaic acid (red pigment), Jalaric acid
-
-**Quality Parameters:** Acid value 65–75, colour index within range, heavy metals <10 ppm
 
 **Vehicle (Anupana):** Milk or ghee
 
@@ -1957,17 +1664,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
-
 **Optimal Timing:** Before or after meals as indicated
-
-**Shelf Life:** 2 years per ASU guidelines for vati
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** [Allicin](/glossary/compounds-1-a/#allicin), [Ajoene](/glossary/compounds-1-a/#ajoene)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Allicin, Ajoene
 
 **Vehicle (Anupana):** Warm water or as specified
 
@@ -1998,17 +1699,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-6g before meals
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** [Piperine](/reference/piperine/), Sodium chloride content
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Sodium chloride content
 
 **Vehicle (Anupana):** Buttermilk or warm water
 
@@ -2081,17 +1776,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 3-6g twice daily
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** [Loturine](/glossary/compounds-l-o/#loturine), Loturidine
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Loturine, Loturidine
 
 **Vehicle (Anupana):** Rice water or honey
 
@@ -2122,17 +1811,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** External application for skin
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), [Glabridin](/glossary/compounds-d-g/#glabridin)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), Glabridin
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
@@ -2163,17 +1846,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 12-24ml twice daily with warm water
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Gallic acid, Ellagic acid
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Gallic acid, Ellagic acid
 
 **Vehicle (Anupana):** Warm water or warm milk
 
@@ -2204,17 +1881,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** External application for skin conditions
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** [Piperine](/reference/piperine/), [Curcumin](/herb/curcumin/)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Piperine, [Curcumin](/herb/curcumin/)
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
@@ -2245,17 +1916,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 12-24ml twice daily
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Kutkin, [Berberine](/glossary/compounds-a-c/#berberine), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Kutkin, [Berberine](/glossary/compounds-a-c/#berberine), Tinosporin
 
 **Vehicle (Anupana):** Warm water or warm milk
 
@@ -2286,17 +1951,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 6-12ml twice daily for eye health
 
-**Bioavailability:** Ghee is an excellent lipid carrier crossing blood-brain barrier; enhances absorption of fat-soluble phytochemicals by 3-5x compared to aqueous preparations
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Gallic acid, Ellagic acid, [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Gallic acid, Ellagic acid, [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)
 
 **Vehicle (Anupana):** Warm water or warm milk
 
@@ -2332,27 +1991,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Iron:** 0.12mg/100ml
 - **Vitamin A:** 130 IU/100ml
 
-**Analytical Methods:** AOAC methods, ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Fresh buffalo milk, Boiled milk
 
 **Standard Dosage:** 100–200 mL
 
-**Bioavailability:** High fat content (7–8%); superior for lipophilic drug delivery
-
 **Optimal Timing:** Evening; promotes sleep (Nidrajanana)
-
-**Standardized Extract:** N/A, whole food
-
-**Shelf Life:** 24–48 hours refrigerated
 
 **Storage:** Refrigerated at 4°C
 
 **Marker Compounds:** A2 beta-casein, High-fat content, Calcium, Iron
-
-**Quality Parameters:** Fat >6%, SNF >9%, no adulteration
 
 **Vehicle (Anupana):** Vehicle for sleep-promoting and strength-building formulations; heavier than cow milk
 
@@ -2379,19 +2028,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 5–15 mL; as vehicle: sufficient quantity
 
-**Bioavailability:** Bioenhancer, increases absorption and tissue penetration of co-administered herbs
-
 **Optimal Timing:** Not with hot substances (Ayurvedic contraindication); morning preferred for Kapha conditions
-
-**Standardized Extract:** Raw, unprocessed (Apakva [Madhu](/herb/madhu/)); aged 1+ year (Purana [Madhu](/herb/madhu/)) for therapeutic use
-
-**Shelf Life:** Indefinite if unadulterated; best within 1–2 years
 
 **Storage:** Room temperature; never refrigerate; glass or food-grade plastic
 
 **Marker Compounds:** [Fructose](/glossary/compounds-d-g/#fructose)/[glucose](/glossary/compounds-d-g/#glucose) (60–75%), Hydrogen peroxide, Methylglyoxal, Defensin-1, [Polyphenols](/glossary/compounds-o-q/#polyphenols)
-
-**Quality Parameters:** Moisture <20%, HMF <40 mg/kg, diastase activity >8 DN, no added sugars (C4 sugar ratio test)
 
 **Vehicle (Anupana):** Premier Yogavahi (bioenhancer/vehicle) in Ayurveda; Kapha-reducing vehicle; used in >200 formulations
 
@@ -2418,19 +2059,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 30–60 mg (strict dosing, arsenic compound)
 
-**Bioavailability:** Converted to therapeutic form through Shodhana; reduced toxicity
-
 **Optimal Timing:** As directed by experienced physician only
-
-**Standardized Extract:** Purified realgar (As2S2/As4S4)
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, labeled container; Schedule E1
 
 **Marker Compounds:** Arsenic disulfide, Sulfur compounds
-
-**Quality Parameters:** Free arsenic <3 ppm (critical), standard purification validation
 
 **Vehicle (Anupana):** Honey or as part of specific formulations only
 
@@ -2457,17 +2090,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 6-12g at bedtime
 
-**Bioavailability:** Jaggery matrix provides sustained release of [laxative](/reference/laxative/) compounds
-
 **Optimal Timing:** At bedtime for morning evacuation
-
-**Shelf Life:** 1 year
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Chebulagic acid, Chebulinic acid
-
-**Quality Parameters:** Total sugar, moisture, chebulagic acid content
 
 **Vehicle (Anupana):** Warm water
 
@@ -2498,17 +2125,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 40-80ml twice daily
 
-**Bioavailability:** Aqueous decoction provides good bioavailability for water-soluble compounds; concentration step may reduce volatile components
-
 **Optimal Timing:** Before meals, typically morning and evening
-
-**Shelf Life:** 1 day (fresh kashayam); 2 years (kashayam tablet); 6 months (concentrated liquid with preservative)
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
 **Marker Compounds:** [Alizarin](/glossary/compounds-1-a/#alizarin), [Purpurin](/glossary/compounds-o-q/#purpurin), [Berberine](/glossary/compounds-a-c/#berberine)
-
-**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Alizarin, Purpurin, [Berberine](/glossary/compounds-a-c/#berberine)
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 
@@ -2539,17 +2160,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
-
 **Optimal Timing:** Before or after meals as indicated
-
-**Shelf Life:** 2 years per ASU guidelines for vati
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** [Piperine](/reference/piperine/), [Gingerol](/glossary/compounds-d-g/#gingerol), [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Piperine, Gingerol, Piperlongumine
 
 **Vehicle (Anupana):** Warm water or as specified
 
@@ -2595,27 +2210,17 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Calcium:** 138mg/100g
 - **Phosphorus:** 379mg/100g
 
-**Analytical Methods:** AOAC methods, HPLC, ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole bean, Dal (split), Flour, [Masha Taila](/glossary/concepts-a-m/#masha-taila)
 
 **Standard Dosage:** As dietary: 30–50 g; [Masha Taila](/glossary/concepts-a-m/#masha-taila): external application
 
-**Bioavailability:** Moderate; soaking and cooking required; anti-nutritional factors reduced by processing
-
 **Optimal Timing:** Lunch or dinner; best in winter
-
-**Standardized Extract:** Masha Taila (medicated oil with black gram)
-
-**Shelf Life:** Whole: 12 months; dal: 6 months; Taila: 12–18 months
 
 **Storage:** Cool, dry place; airtight container
 
 **Marker Compounds:** Protein (24%), Iron, [Phosphorus](/glossary/compounds-o-q/#phosphorus), Phytoestrogens
-
-**Quality Parameters:** Moisture <12%, no weevil infestation, cooking quality test
 
 **Vehicle (Anupana):** Ghee or [sesame oil](/glossary/concepts-m-y/#tila-taila)
 
@@ -2642,17 +2247,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** External massage for Vata disorders
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** [Withanolides](/glossary/compounds-t-z/#withanolides), [Sesamin](/glossary/compounds-q-t/#sesamin)
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Withanolides, Sesamin
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 
@@ -2683,19 +2282,11 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 
 **Standard Dosage:** 50–100 mL
 
-**Bioavailability:** High; aqueous medium with predigested [proteins](/glossary/compounds-o-q/#proteins)
-
 **Optimal Timing:** With meals or post-meal
-
-**Standardized Extract:** N/A, byproduct of curd/cheese making
-
-**Shelf Life:** 12–24 hours fresh
 
 **Storage:** Refrigerated; use fresh
 
 **Marker Compounds:** Whey proteins, Lactic acid, Minerals, B-[vitamins](/glossary/compounds-t-z/#vitamins)
-
-**Quality Parameters:** pH 4.5–5.5, no off-odors, microbial limits per FSSAI
 
 **Vehicle (Anupana):** Light vehicle for digestive formulations
 
@@ -2736,24 +2327,15 @@ Localized blood-letting for Vata-Rakta disorders, musculoskeletal pain, deep-tis
 - **Folate:** 479μg/100g
 - **Potassium:** 955mg/100g
 
-**Analytical Methods:** AOAC methods, HPLC, ICP-OES
-
 #### Dosage forms and preparation
 
 **Dosage Forms:** Whole lentil, Split dal, Flour
 
 **Standard Dosage:** As dietary: 30–50 g cooked
 
-**Bioavailability:** Moderate; improves with soaking and pressure cooking
-
 **Optimal Timing:** Meals; suitable for all seasons
-
-**Standardized Extract:** N/A, whole food
-
-**Shelf Life:** 12 months whole; 6 months split
 
 **Storage:** Cool, dry place
 
 **Marker Compounds:** Protein (25%), Iron, [Folate](/glossary/compounds-d-g/#folate), Dietary fiber, [Polyphenols](/glossary/compounds-o-q/#polyphenols)
 
-**Quality Parameters:** Moisture <12%, cooking time <30 min, no insect damage

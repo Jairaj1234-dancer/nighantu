@@ -77,32 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Surana/meta-analysis.md"
 - Sitosterol
 - Stigmasterol
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Chips/dried slices, Avaleha (confection), Ghana vati
 
 **Standard Dosage:** 3-10 g tuber powder per day; 500-1000 mg extract capsule twice daily; 5-10 g avaleha with buttermilk; traditionally processed (Shodhita) form only
 
-**Bioavailability:** Glucomannan (40-60% of dry weight) is a soluble dietary fiber, not systemically absorbed but has significant local GI effects (prebiotic, lipid-lowering, satiety-promoting). [Diosgenin](/glossary/compounds-d-g/#diosgenin) and other sapogenins show moderate oral bioavailability (25-35%). Calcium oxalate crystals (raphides) present in raw tuber cause severe irritation, Shodhana (processing with lime water/tamarind) is essential. Processed tuber shows improved digestibility.
-
 **Optimal Timing:** After meals with buttermilk for Arsha (hemorrhoid) treatment; with warm water for digestive conditions
-
-**Standardized Extract:** Shodhita (processed) tuber extract (5:1 in 50% ethanol), standardized to NLT 30% glucomannan by enzymatic assay; total diosgenin NLT 0.5% by HPLC; calcium oxalate content NMT 0.1% (safety limit post-Shodhana)
-
-**Shelf Life:** 24 months for Shodhita churna; 36 months for extract capsules; 12 months for avaleha; 18 months for chips
 
 **Storage:** Store below 25 deg C in airtight containers. Powder is moderately hygroscopic, RH <55%. Protect from insect infestation. Avaleha in glass jars. Raw tuber in cool, dry, ventilated space.
 
 **Marker Compounds:** Glucomannan, Diosgenin, Beta-sitosterol, Stigmasterol, Betulinic acid, Calcium oxalate (must be below safety limit post-processing)
-
-### Extraction Methods
-
-- Traditional Shodhana: soak tuber slices in Churnodaka (lime water) or Imli (tamarind) water for 24-48 hours to remove calcium oxalate irritants
-- Aqueous extraction after Shodhana
-- Hydroalcoholic extraction (50% ethanol) of processed tuber
-- Glucomannan isolation by ethanol precipitation
 
 ### Synergistic Combinations
 

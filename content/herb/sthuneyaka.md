@@ -38,24 +38,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, Taila (medicated oil)
 
-**Bioavailability:** Limited pharmacokinetic data. Estimated moderate bioavailability based on phytochemical class. Lipophilic terpenoid constituents benefit from oil-based (taila) or milk-based administration. Traditional prescribing with specific Anupana (vehicle) likely optimizes bioavailability.
-
 **Optimal Timing:** After meals with warm water or milk; taila for external application as needed
-
-**Standardized Extract:** Aqueous-ethanolic extract (5:1), characterized by HPTLC fingerprint; standardized to NLT 2% total phenolics and NLT 1% total [flavonoids](/reference/flavonoids/)
-
-**Shelf Life:** 24 months for churna; 30 months for capsules; 24 months for taila
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Taila in amber glass bottles.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Total [alkaloids](/glossary/compounds-1-a/#alkaloids), Total flavonoids
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration for heat-sensitive constituents
-- Oil-based extraction (taila) for lipophilic compounds
 
 ### Synergistic Combinations
 

@@ -80,33 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Plaksha/meta-analysis.md
 - Alpha-amyrin
 - Beta-amyrin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (bark decoction), Churna (bark powder), Capsule, Tablet, Kshara (alkali preparation), Lepa (paste), Vaginal douche
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-40 mL bark decoction twice daily; 500 mg - 1 g standardized extract twice daily; Kshara 500 mg - 1 g
 
-**Bioavailability:** Plaksha (Ficus lacor/Ficus infectoria) bark contains leucoanthocyanidins and tannins similar to [Nyagrodha](/herb/nyagrodha/). [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin) bioavailability is low (10-20%) due to molecular size and gut hydrolysis. [Friedelin](/glossary/compounds-d-g/#friedelin) and other [triterpenes](/glossary/compounds-t-z/#triterpenes) show moderate absorption (20-30%). Beta-sitosterol has limited systemic bioavailability (5-10%) but provides local GI and uterine effects. Tannins act locally in GI tract without requiring systemic absorption.
-
 **Optimal Timing:** Bark decoction: morning and evening between meals. For gynecological conditions: as directed, often paired with menstrual cycle timing. Kshara: after meals with honey or warm water.
-
-**Standardized Extract:** Plaksha bark extract (8:1) standardized to total tannins >12%, leucoanthocyanidins >2%, beta-sitosterol >0.8%. Kshara with validated pH, alkalinity, and ash content per API.
-
-**Shelf Life:** Dried bark: 24-36 months; Powder: 18-24 months; Extract: 24-36 months; Kshara: 36-48 months; Tablets: 24-36 months
 
 **Storage:** Dried bark: cool, dry, pest-free storage. Powder: airtight, below 25 deg C, RH <55%. Kshara: moisture-proof containers (highly hygroscopic). Use HPMC capsules for tannin compatibility.
 
 **Marker Compounds:** Leucocyanidin, Friedelin, Beta-sitosterol, Beta-sitosterol glucoside, Lupeol, Gallic acid, Ellagic acid, [Bergapten](/glossary/compounds-a-c/#bergapten)
-
-### Extraction Methods
-
-- Aqueous decoction of bark
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration for tannin-rich extract
-- Kshara preparation (traditional alkali extraction)
-- Acetone-water extraction for [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins)
 
 ### Synergistic Combinations
 

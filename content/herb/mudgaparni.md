@@ -70,25 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mudgaparni/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g whole plant powder per day; 50-100 mL decoction twice daily; 500 mg standardized extract capsules twice daily
 
-**Bioavailability:** Isoflavonoids show moderate oral bioavailability (20-30%). [Phytosterols](/glossary/compounds-o-q/#phytosterols) are sparingly absorbed (3-5%). [Polysaccharides](/glossary/compounds-o-q/#polysaccharides) act as prebiotics without systemic absorption. [Ghrita](/herb/ghrita/) preparations enhance bioavailability of lipophilic components.
-
 **Optimal Timing:** With meals for nutritive and tonic effects; morning with warm milk for [Rasayana](/reference/rasayana/) benefits; Ghrita with meals for reproductive health
-
-**Standardized Extract:** Whole plant extract (8:1 hydroalcoholic) standardized to minimum 1% total isoflavonoids. Combined [Mashaparni](/herb/mashaparni/)-Mudgaparni extract for Jivaniya formulations. Ghrita preparation per classical protocol.
-
-**Shelf Life:** Dried powder: 24 months. Capsules/tablets: 24 months. Ghrita: 24 months. Taila: 36 months.
 
 **Storage:** Below 25 deg C in airtight containers. Protect from moisture and light. Ghrita in glass containers at room temperature. Taila in amber glass bottles.
 
 **Marker Compounds:** [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Stigmasterol, [Vitexin](/glossary/compounds-t-z/#vitexin), [Isovitexin](/glossary/compounds-g-l/#isovitexin), [Galactomannan](/glossary/compounds-d-g/#galactomannan)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Ghrita Paka method
-- Oil extraction for Taila
-- Methanol extraction for flavonoid analysis
 
 ### Synergistic Combinations
 

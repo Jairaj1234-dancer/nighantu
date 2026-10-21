@@ -60,17 +60,11 @@ Chakradatta (Agnimandya/Ajirna Chikitsa); also described in Yoga Ratnakara, Bhai
 
 **Standard Dosage:** 250-500 mg twice daily before meals. The Ayurvedic Formulary of India attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 15, 96-96½.
 
-**Bioavailability:** Plumbagin from Chitraka is a potent bioactive with high oral absorption. Five types of salts (pancha lavana) enhance gastric acid and improve dissolution. Piperine acts as bioenhancer. Lemon juice bhavana provides [citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid) matrix for improved disintegration.
-
 **Optimal Timing:** Before meals (Bhojana-purva), 30 minutes before lunch and dinner for Agni deepana (appetite stimulation)
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Vati preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture (contains multiple salts which are hygroscopic). Temperature not exceeding 30°C.
 
 **Marker Compounds:** Plumbagin, Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Chavicine](/glossary/compounds-c-d/#chavicine)
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), plumbagin content by HPLC (within therapeutic range), piperine content, sodium content (from lavanas), HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or buttermilk
 

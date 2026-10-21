@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikumarika/meta-analysis.md
 
 **Standard Dosage:** 2-5g powder twice daily; 40-80ml decoction; 10-20ml fresh juice
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional enhancement via [Trikatu](/herb/trikatu/) yoga ([black pepper](/herb/black-pepper/), long pepper, [ginger](/herb/ginger/)) or honey as anupana. Aqueous constituents absorbed via paracellular and transcellular pathways.
-
 **Optimal Timing:** Before meals with warm water to stimulate Agni (digestive fire)
-
-**Standardized Extract:** Standardization parameters not well established. Recommend TLC/HPTLC fingerprinting for quality control. Total phenolic content as preliminary marker.
-
-**Shelf Life:** 18 months (powder); 2 years (capsules/tablets); 1 week (fresh juice, refrigerated)
 
 **Storage:** Airtight containers, cool and dry place, away from direct sunlight. Temperature below 25°C preferred.
 
 **Marker Compounds:** Total phenolics, Total [flavonoids](/reference/flavonoids/), Volatile oil content (if applicable), [Tannins](/reference/tannins/)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional method)
-- Hydroalcoholic extraction (60:40 ethanol-water)
-- Steam distillation for volatile oil fraction
-- Cold expression for fresh juice
 
 ### Synergistic Combinations
 

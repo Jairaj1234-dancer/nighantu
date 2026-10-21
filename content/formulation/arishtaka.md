@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arishta
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water, as per classical texts
 
-**Bioavailability:** Fermentation-generated alcohol acts as a natural bioenhancer and extractive solvent, improving the solubility and absorption of plant secondary metabolites. Fermentation may generate novel bioactive compounds not present in the parent decoction.
-
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool place. Protect from direct sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Specific markers depend on primary herb used, Gallic acid, Ellagic acid, Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides)
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol content (5-12% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC fingerprint, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of lukewarm water
 

@@ -66,26 +66,14 @@ Siddha Yoga Sangraha, Ashmari Mutrakrichra Adhikara (Urinary Stones and Dysuria 
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Parpati (flake form)
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Enhanced; Parpati form (thin flake) has increased surface area for absorption
-
 **Optimal Timing:** With buttermilk ([Takra](/herb/takra/)) or rice water (Tandulodaka)
 
-**Standardized Extract:** Kajjali melted with Kshara (alkaline substance) and poured on banana leaf
-
-**Shelf Life:** Indefinite
-
 **Storage:** Airtight, moisture-proof container
-
-**Marker Compounds:** Mercury sulfide, Potassium/sodium carbonates (from Kshara), Sulfur
-
-**Quality Parameters:** Thin flake formation, uniform thickness, standard Parpati tests, free mercury <1 ppm
 
 **Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)), classical combination

@@ -65,25 +65,17 @@ Bhaishajya Ratnavali (Agnimandya / Ajirna Rogadhikara). Also referenced in Yoga 
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Tablets (modern)
 
 **Standard Dosage:** 1 to 2 g twice daily with first morsel of food or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:37. The formulary's anupana: ghee. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 37.
 
-**Bioavailability:** Identical to [Hingvashtak Churna](/formulation/hingvashtak-churna/). Rapid-acting carminative and digestive stimulant with high bioavailability of volatile oil components.
-
 **Optimal Timing:** Immediately before meals or with first morsel of food
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Sealed packaging due to strong aroma. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Piperine](/reference/piperine/), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde), Ferulic acid, Thymol
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), piperine content by HPLC, cuminaldehyde, ferulic acid, volatile oil content, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Ghee, as given in the formulary; with first morsel of food
 

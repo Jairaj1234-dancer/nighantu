@@ -72,23 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Paka/meta-analysis.md"
 
 **Standard Dosage:** 10-20g Paka preparation once or twice daily as per classical dosing. Specific dose varies by formulation text followed.
 
-**Bioavailability:** [Eranda](/herb/eranda/) Paka is a processed preparation where castor root or oil is cooked with milk, sugar/jaggery, and supporting herbs following the Paka (confection) method. The lipid matrix (from castor oil or ghee used in Paka) enhances absorption of lipophilic [terpenoids](/glossary/compounds-t-z/#terpenoids) and [sterols](/glossary/compounds-q-t/#sterols). The sugar matrix provides sustained release. Milk [proteins](/glossary/compounds-o-q/#proteins) may form complexes with [tannins](/reference/tannins/) reducing anti-nutritional effects. The Paka processing converts and concentrates bioactives while reducing harshness.
-
 **Optimal Timing:** Morning on empty stomach or after meals with warm milk, as directed by classical text and practitioner
-
-**Standardized Extract:** Not extract-based. Finished product characterized by: Brix (68-72), water activity (<0.65), total alkaloid content, HPTLC fingerprint, organoleptic consistency.
-
-**Shelf Life:** 1-2 years in airtight glass containers
 
 **Storage:** Airtight glass or food-grade containers at room temperature (below 30 deg C). Use clean dry spoon for dispensing. Protect from moisture and direct sunlight.
 
 **Marker Compounds:** Ricinine (from [Eranda](/herb/eranda/) root), Total [alkaloids](/glossary/compounds-1-a/#alkaloids), Ricinoleic acid (if oil used), Sugar content (Brix)
-
-### Extraction Methods
-
-- Traditional Paka method: root Kashayam + milk + sugar/jaggery cooked to semi-solid consistency
-- No extraction per se - the Paka process is the complete manufacturing method
-- Ghee or castor oil incorporated during cooking process
 
 ### Synergistic Combinations
 

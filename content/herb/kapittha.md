@@ -76,24 +76,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 **Standard Dosage:** 10-20 mL fruit juice twice daily; 10-20 g Avaleha; 3-5 g powder with honey
 
-**Bioavailability:** Fruit pulp constituents ([marmelosin](/glossary/compounds-l-o/#marmelosin), psoralen derivatives) show moderate oral bioavailability. Coumarins and furocoumarins are lipophilic and benefit from co-administration with fat-containing foods. Avaleha form (with ghee and sugar) traditionally optimizes absorption of lipophilic actives. Nanosuspension technology can enhance aqueous delivery.
-
 **Optimal Timing:** Before meals for appetite stimulation; after meals for digestive support; Avaleha can be taken anytime
-
-**Standardized Extract:** Standardized to minimum 0.2% marmelosin and 5% total [polyphenols](/glossary/compounds-o-q/#polyphenols); fruit pulp standardized to minimum 15% total organic acids
-
-**Shelf Life:** 12 months for powder; 18 months for Avaleha and Murabba (sugar-preserved); 24 hours for fresh juice (refrigerated); 24 months for capsules
 
 **Storage:** Fresh fruit pulp and juice require refrigeration (2-8°C). Avaleha and Murabba store at ambient temperature in airtight glass jars. Powder in moisture-proof containers at 15-30°C.
 
 **Marker Compounds:** Marmelosin, Psoralen, Bergapten, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Tartaric acid, Tyramine, Feronia lactone
-
-### Extraction Methods
-
-- Cold pressing of ripe fruit pulp
-- Hydroalcoholic extraction (50-60% ethanol)
-- Water extraction for [mucilage](/glossary/compounds-l-o/#mucilage)-rich fractions
-- Sequential extraction: petroleum ether then ethanol then water
 
 ### Synergistic Combinations
 

@@ -77,26 +77,16 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 - **Vitamin B12:** 0.75μg/100ml
 - **Riboflavin:** 0.14mg/100ml
 
-**Analytical Methods:** AOAC methods, Microbiological plate count
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh curd, Buttermilk base, Medicated curd
 
 **Standard Dosage:** 50–200 mL with meals
 
-**Bioavailability:** Enhanced mineral absorption due to lactic acid fermentation
-
 **Optimal Timing:** With lunch; avoid at night per Ayurvedic texts
-
-**Standardized Extract:** N/A, fermented whole food
-
-**Shelf Life:** 24–48 hours at 4°C
 
 **Storage:** Refrigerated; ceramic or glass containers preferred
 
 **Marker Compounds:** Lactobacillus spp., Lactic acid, Calcium, B-vitamins
-
-**Quality Parameters:** pH 4.0–4.5, live culture count >10^6 CFU/mL, no artificial thickeners
 
 **Vehicle (Anupana):** Vehicle for digestive and appetizer formulations

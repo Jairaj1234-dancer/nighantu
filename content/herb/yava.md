@@ -79,26 +79,16 @@ srcRel: "Ayurveda/Others/Dietary-Food-Items/Yava/meta-analysis.md"
 - Sitosterol
 - Campesterol
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Whole barley, Barley flour (Saktu), Yava Kshara (barley alkali), Yavagu (barley gruel)
 
 **Standard Dosage:** As dietary: 30–50 g; Yava Kshara: 0.5–2 g; Yavagu: 100–200 mL
 
-**Bioavailability:** Moderate; beta-glucan content slows glucose absorption
-
 **Optimal Timing:** Morning; Yavagu during Panchakarma
-
-**Standardized Extract:** Yava Kshara (barley alkali), important alkaline preparation
-
-**Shelf Life:** Grain: 12+ months; flour: 3–4 months; Kshara: 12 months
 
 **Storage:** Cool, dry place
 
 **Marker Compounds:** Beta-glucan (4–7%), Hordenine, Dietary fiber, Minerals
-
-**Quality Parameters:** Moisture <12%, beta-glucan >4%, no ergot contamination
 
 **Vehicle (Anupana):** Water or buttermilk

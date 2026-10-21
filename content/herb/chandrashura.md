@@ -81,33 +81,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chandrashura/meta-analysis.md
 - Polysaccharides
 - Glucotropaeolin 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Capsule, Tablet, Modaka (sweetmeat), Laddoo (traditional preparation), Oil
 
 **Standard Dosage:** 3-6g seed powder twice daily with warm milk; 500mg extract capsule; seeds soaked in water overnight and consumed; seed oil 5-10ml
 
-**Bioavailability:** Lepidium sativum (garden cress) seed [glucosinolates](/glossary/compounds-d-g/#glucosinolates) require [myrosinase](/glossary/compounds-l-o/#myrosinase) enzyme activation (released upon crushing/chewing) to form bioactive isothiocyanates. Isothiocyanates show rapid oral absorption (>80%). Iron content (5-6mg/100g) is moderately bioavailable; ascorbic acid co-administration enhances iron absorption. Mucilage content (20-25%) provides sustained release of embedded compounds. Omega-3 fatty acids (alpha-linolenic acid: 28-32% of seed oil) are well absorbed.
-
 **Optimal Timing:** With warm milk after meals for bone health; traditional Laddoo postpartum with meals; soaked seeds early morning for general health; oil with meals
-
-**Standardized Extract:** Seed extract standardized to total glucosinolates NLT 3%; seed oil with alpha-linolenic acid NLT 28%. Iron content specification: NLT 5mg/100g seed.
-
-**Shelf Life:** 2 years (whole seeds); 1 year (seed powder); 1 year (oil, nitrogen-flushed); 3 months (Laddoo)
 
 **Storage:** Whole seeds in airtight containers (very stable). Powder susceptible to moisture absorption due to mucilage, airtight with desiccant. Oil in amber glass, refrigerated after opening. Laddoo in airtight containers, consume within 3 months.
 
 **Marker Compounds:** Glucotropaeolin (benzyl glucosinolate), Benzyl isothiocyanate, Alpha-linolenic acid, Linoleic acid, Tocopherols, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Campesterol](/glossary/compounds-a-c/#campesterol), Iron, Calcium
-
-### Extraction Methods
-
-- Mechanical grinding of seeds for powder
-- Cold pressing for seed oil (oil yield: 20-25%)
-- Aqueous soaking for mucilage extraction
-- Hydroalcoholic extraction (60:40) for glucosinolate-rich fractions
-- Supercritical CO2 for high-quality seed oil
 
 ### Synergistic Combinations
 

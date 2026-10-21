@@ -60,24 +60,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125 mg twice daily
 
-**Bioavailability:** Good; multi-metal Rasaushadhi with respiratory-digestive tropism
-
 **Optimal Timing:** With honey and [ginger](/herb/ginger/) juice
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Herbal [alkaloids](/glossary/compounds-1-a/#alkaloids)
-
-**Quality Parameters:** Standard Rasaushadhi tests, free metals below limits
 
 **Vehicle (Anupana):** Honey + [ginger](/herb/ginger/) juice; Ardrak Khanda

@@ -59,17 +59,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa, verses 140-150) by Govind Das Sen. Th
 
 **Standard Dosage:** External massage and Basti: 30-60ml
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds; for internal thailams, oil base enhances absorption of fat-soluble actives
-
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** Shatavarin, Withanolides
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Shatavarin, Withanolides
 
 **Vehicle (Anupana):** External: massage into affected area. Internal: with warm water/milk
 

@@ -80,32 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 - Lamarckianin
 - Alangimarine
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed/bark powder), Taila (seed oil, external use primarily), Lepa (paste for external application), Kashayam (bark decoction), Capsule
 
 **Standard Dosage:** 1-3g powder twice daily (internal, with caution); external oil/paste as needed. Internal use only under practitioner supervision.
 
-**Bioavailability:** Limited modern data. Alangium salviifolium (Ankola) contains isoquinoline alkaloids (alangine, alanginine) with moderate to good oral absorption. Emetine-like alkaloids have known bioavailability profiles from Ipecac studies. Seed oil constituents absorbed transdermally when applied topically. Caution: therapeutic index is narrow for alkaloid-rich preparations.
-
 **Optimal Timing:** As directed by Ayurvedic physician. External applications typically twice daily to affected area.
-
-**Standardized Extract:** Bark extract standardized to total alkaloid content (typically 1-3% total alkaloids as alangine equivalent). Seed oil for external use, cold-pressed, unrefined.
-
-**Shelf Life:** 2 years (powder); 3 years (seed oil); 2 years (capsules)
 
 **Storage:** Clearly labeled RESTRICTED, not for unsupervised use. Cool, dry place, airtight containers. Below 25°C.
 
 **Marker Compounds:** Alangine, Alanginine, Emetine, Cephaeline, Alangimarckine, Beta-sitosterol
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for alkaloid enrichment
-- Cold-pressed seed oil for external preparations
-- Aqueous bark decoction
-- Acid-base extraction for alkaloid isolation and purification
 
 ### Synergistic Combinations
 

@@ -107,25 +107,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Tagara/meta-analysis.m
 
 **Standard Dosage:** 1-3 g root powder per day; 300-600 mg standardized extract at bedtime; 2-5 mL tincture (1:5 in 60% ethanol); 50-100 mL kwatha at bedtime
 
-**Bioavailability:** Valerenic acid and valtrate (iridoid) compounds show moderate oral bioavailability (30-45%). GABA content in Valeriana extracts is directly absorbed. Isovaleric acid (responsible for characteristic odor) is volatile and rapidly absorbed. Sesquiterpene acids (valerenic acid, acetoxyvalerenic acid) undergo moderate first-pass metabolism. Bioavailability is not significantly affected by food but delayed gastric emptying may slow onset.
-
 **Optimal Timing:** 30-60 minutes before bedtime for sleep promotion; divided doses during the day for anxiety management (lower doses)
-
-**Standardized Extract:** Root extract (4-6:1 in 70% ethanol), standardized to NLT 0.8% valerenic acid + acetoxyvalerenic acid by HPLC; essential oil NLT 0.5% in dried root; valtrate content NLT 1% (if fresh root extract)
-
-**Shelf Life:** 24 months for standardized extract capsules; 18 months for churna (valtrate degradation); 36 months for tincture; 12 months for essential oil
 
 **Storage:** Store below 25 deg C in airtight containers (odor containment is critical). Double-sealed packaging recommended. Capsules in HDPE bottles with child-resistant closure. Essential oil in amber glass, refrigerate for extended storage. Tincture at room temperature in amber glass.
 
 **Marker Compounds:** Valerenic acid, Acetoxyvalerenic acid, Hydroxyvalerenic acid, Valtrate, Isovaltrate, Didrovaltrate, Isovaleric acid, GABA
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol, standard for valerenic acid enrichment)
-- Aqueous extraction (lower valerenic acid but higher GABA content)
-- Steam distillation for essential oil (yield 0.5-2%)
-- Supercritical CO2 for iridoid-enriched fraction
-- Percolation with 70% ethanol
 
 ### Synergistic Combinations
 

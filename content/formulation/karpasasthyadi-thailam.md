@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpasasthy
 
 **Standard Dosage:** External: sufficient for Abhyanga/local massage. Internal: 5-10 mL with warm milk as directed. The Ayurvedic Formulary of India, Part I, entry 8:6 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water, milk. The formulary attributes this formula to Sahasrayoga, Tailaprakarana, 11.
 
-**Bioavailability:** Identical to [Karpas-Asthyadi-Thailam](/formulation/karpas-asthyadi-thailam/). Oil-based transdermal delivery with enhanced penetration from milk-processed [phospholipids](/glossary/compounds-o-q/#phospholipids).
-
 **Optimal Timing:** External: morning Abhyanga or as part of Panchakarma. Internal: before meals or at bedtime.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C.
 
 **Marker Compounds:** [Gossypol](/glossary/compounds-g-l/#gossypol) (safety monitoring), Withanolide A (from [Ashwagandha](/herb/ashwagandha/)), [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Sesamin](/glossary/compounds-q-t/#sesamin)
-
-**Quality Parameters:** Same as [Karpas-Asthyadi-Thailam](/formulation/karpas-asthyadi-thailam/). Acid value, peroxide value, saponification value, gossypol safety testing, withanolide markers, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** External: warm oil. Internal: warm milk.
 

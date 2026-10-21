@@ -77,34 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 - Beta-
 - Inulicin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root powder), Kwatha (decoction), Capsule, Tablet, Avaleha (confection), Vati
 
 **Standard Dosage:** 1-3 g root powder daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily
 
-**Bioavailability:** Inulin (storage carbohydrate) from Inula racemosa root acts as prebiotic rather than being absorbed systemically. Alantolactone and isoalantolactone (sesquiterpene lactones) have moderate oral bioavailability (25-40%) with rapid absorption. These lactones are reactive electrophiles that interact with biological thiols; bioavailability may be reduced by glutathione conjugation. Inulin content provides beneficial prebiotic effects locally in the colon.
-
 **Optimal Timing:** After meals for cardiac and respiratory conditions. Avaleha: 1-2 teaspoons with warm water/milk, morning and evening.
-
-**Standardized Extract:** Pushkarmool root extract (6:1) standardized to alantolactone >3%, isoalantolactone >2%, total sesquiterpene lactones >6%. Inulin-rich fraction (>80% inulin) for prebiotic applications.
-
-**Shelf Life:** Dried root: 18-24 months; Root powder: 18-24 months; Extract: 24 months; Capsules: 24-36 months; Avaleha: 18-24 months
 
 **Storage:** Dried root: cool, dry, pest-proof containers, below 25 deg C. Powder and extracts: airtight, amber containers, below 25 deg C, RH <55%, protected from light. Avaleha: clean, dry glass or food-grade containers.
 
 **Marker Compounds:** Alantolactone, Isoalantolactone, Dihydroisoalantolactone, Inulin, [Friedelin](/glossary/compounds-d-g/#friedelin), Beta-sitosterol, Daucosterol, Germacranolide
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol) for sesquiterpene lactones
-- Aqueous decoction for polar constituents and inulin
-- Steam distillation for essential oil
-- Methanol extraction for comprehensive profiling
-- Supercritical CO2 for alantolactone enrichment
-- Hot water extraction followed by ethanol precipitation for inulin isolation
 
 ### Synergistic Combinations
 

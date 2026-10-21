@@ -109,24 +109,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 **Standard Dosage:** 5-10g husk in 200ml water 1-3 times daily; 3.5g powder per dose; must be taken with adequate water
 
-**Bioavailability:** Plantago ovata husk is a non-absorbable soluble fiber (arabinoxylan polysaccharide). It is NOT systemically absorbed and acts locally in the GI tract through water absorption (forming mucilaginous gel absorbing 40x its weight in water), stool bulking, and prebiotic effects. Short-chain fatty acids (SCFAs) produced by colonic fermentation of husk are absorbed. Cholesterol-lowering effect is via bile acid binding in the gut.
-
 **Optimal Timing:** At bedtime or 30 minutes before meals with a full glass of water (minimum 200ml).
-
-**Standardized Extract:** Not applicable - whole husk is used. Quality defined by swelling index (minimum 40 ml/g), mucilage content, and purity (absence of seeds/foreign matter)
-
-**Shelf Life:** 3 years (husk, properly sealed); 3 years (granules); 3 years (capsule)
 
 **Storage:** Cool, dry place below 25°C. CRITICAL: protect from moisture. Packaging must be moisture-proof (aluminum foil laminate or HDPE with desiccant). High humidity causes clumping and loss of swelling capacity.
 
 **Marker Compounds:** Arabinoxylan (gel-forming polysaccharide), Swelling index (pharmacopoeial test), Mucilage content, Planteose
-
-### Extraction Methods
-
-- Mechanical separation (husk from seed)
-- No chemical extraction needed - whole husk is the active product
-- Granulation with flavoring agents for palatability
-- Microcrystalline cellulose blending for capsule filling
 
 ### Synergistic Combinations
 

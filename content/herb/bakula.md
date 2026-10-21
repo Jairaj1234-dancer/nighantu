@@ -85,32 +85,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 - Ursolic acid
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Kwath (decoction concentrate), Manjan (tooth powder), Taila (oil), Arishta (fermented preparation)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; bark powder 1-3g for dental use
 
-**Bioavailability:** Moderate oral bioavailability due to tannin content. Enhancement via co-administration with lipids or [Pippali](/herb/pippali/) (bioenhancer). Saponin [glycosides](/glossary/compounds-g-l/#glycosides) show improved absorption with warm water vehicle. Tannin-rich fractions may benefit from enteric coating to prevent gastric binding.
-
 **Optimal Timing:** After meals for general use; as gargle/mouthwash after meals for dental applications; decoction on empty stomach for uterine tonification
-
-**Standardized Extract:** Bark extract standardized to not less than 10% total [tannins](/reference/tannins/); flower extract standardized to [quercetin](/reference/quercetinquercetin/) content (NLT 0.5%)
-
-**Shelf Life:** 2 years (powder); 3 years (tablet); 1 year (decoction/arishta)
 
 **Storage:** Cool, dry place away from light and moisture. Flower preparations require airtight amber containers.
 
 **Marker Compounds:** Mimusopside, Quercetin, Ursolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Lupeol, Mi-saponin A
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1:4)
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Cold maceration for flower extracts
-- Sequential extraction (hexane then ethanol) for bark
 
 ### Synergistic Combinations
 

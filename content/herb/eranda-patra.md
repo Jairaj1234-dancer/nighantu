@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 
 **Standard Dosage:** External use primarily: leaf paste/poultice applied to affected area; 5-10ml fresh leaf juice (limited internal use, practitioner guidance); 3-5g dried leaf powder twice daily
 
-**Bioavailability:** Castor leaves (Ricinus communis) contain flavonoids ([quercetin](/reference/quercetinquercetin/), kaempferol [glycosides](/glossary/compounds-g-l/#glycosides)), ricinine (low levels), and leaf-specific [terpenoids](/glossary/compounds-t-z/#terpenoids). Leaf paste is traditionally applied topically for local pain and inflammation. Percutaneous absorption of flavonoids is enhanced by leaf [mucilage](/glossary/compounds-l-o/#mucilage) and natural surfactants. For internal use (limited), flavonoid bioavailability is moderate. Patra Pinda Sweda (leaf bolus steam therapy) delivers volatiles through dermal and inhalation routes simultaneously. Fresh leaf juice has higher bioactive content than dried material.
-
 **Optimal Timing:** External application: warm poultice or paste applied to affected joints/muscles, preferably in the evening. Patra Pinda Sweda: therapeutic sessions typically 30-45 minutes. Internal use: before meals if prescribed.
-
-**Standardized Extract:** Leaf extract standardized by total flavonoid content NLT 2% (as quercetin equivalent) and ricinine content (for safety monitoring). Extract ratio 6:1 for dried leaf extract.
-
-**Shelf Life:** Fresh leaves: use within 24 hours; 1 year (dried leaf powder); 2 years (Taila); Pinda Sweda bolus: prepare fresh for each session
 
 **Storage:** Fresh leaves: cool, damp cloth wrapping, refrigerate. Dried leaf powder: airtight, light-resistant containers below 25 deg C. Taila: amber glass bottles at room temperature.
 
 **Marker Compounds:** Quercetin, Kaempferol, Ricinine (trace - safety marker), Rutin, Beta-sitosterol, [Chlorophyll](/glossary/compounds-c-d/#chlorophyll) content (freshness indicator)
-
-### Extraction Methods
-
-- Fresh leaf juice expression (Swarasa)
-- Leaf paste preparation (Kalka) for topical use
-- Aqueous decoction of dried leaves
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila)-based leaf Taila (traditional oil processing)
-- Leaf bolus preparation for Patra Pinda Sweda therapy
 
 ### Synergistic Combinations
 

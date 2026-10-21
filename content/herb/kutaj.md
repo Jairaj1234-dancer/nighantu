@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kutaj/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction; 500 mg standardized extract capsule twice daily; 15-30 mL Kutajarishta; Kutaja Parpati: 250-500 mg twice daily with buttermilk
 
-**Bioavailability:** Conessine (steroidal alkaloid) has good oral bioavailability (~45-55%) with moderate first-pass metabolism. Holarrhimine and kurchine are well-absorbed. Kutajarishta (self-generated alcohol content 5-10%) enhances alkaloid dissolution and absorption. Co-administration with buttermilk (traditional Anupana) provides lipid carrier and probiotic synergy for GI-targeted delivery.
-
 **Optimal Timing:** Before meals for anti-diarrheal and digestive effects; Kutajarishta: after meals with equal quantity of water; Kutaja Parpati: with buttermilk after meals
-
-**Standardized Extract:** Bark extract standardized to minimum 2% total steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) (as conessine) by HPLC; Kutajarishta: pH 3.5-4.5, total alkaloids >0.1%, self-generated alcohol 5-10%
-
-**Shelf Life:** 24 months for bark powder; 36 months for Kutajarishta (improves with aging); 24 months for capsules and tablets; 36 months for Ghana Vati
 
 **Storage:** Bark powder in airtight containers at 15-30°C. Kutajarishta in glass bottles (traditional) or food-grade PET, improves with age like wine (some Vaidyas store for 5-10 years). Protect capsules from moisture. Store in cool, dry place.
 
 **Marker Compounds:** Conessine, Kurchine, Conessimine, Holarrhimine, Kurchicine, Conamine, Isoconessimine, Holarrhenine
-
-### Extraction Methods
-
-- Water decoction (traditional, bark boiled and reduced to 1/4th)
-- Hydroalcoholic extraction (60-70% ethanol) for alkaloid enrichment
-- Acid-water extraction (0.1N HCl) for maximum alkaloid yield
-- Fermentation process for Kutajarishta (Sandhana Kalpana)
-- Spray drying for Ghana Vati preparation
 
 ### Synergistic Combinations
 

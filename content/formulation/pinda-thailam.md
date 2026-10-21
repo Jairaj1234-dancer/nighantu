@@ -58,17 +58,11 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa); also referenced in Sahasrayogam. A s
 
 **Standard Dosage:** External for eczema
 
-**Bioavailability:** Oil base ([sesame oil](/glossary/concepts-m-y/#tila-taila)) enhances dermal absorption of lipophilic active compounds
-
 **Optimal Timing:** External: before bath or at bedtime
-
-**Shelf Life:** 3 years (medicated oils per ASU guidelines)
 
 **Storage:** Airtight amber glass/HDPE container, room temperature, protected from light
 
 **Marker Compounds:** [Alizarin](/glossary/compounds-1-a/#alizarin), Purpurin
-
-**Quality Parameters:** Acid value <5, saponification value per base oil specs, refractive index, moisture NMT 0.5%, specific gravity, marker: Alizarin, Purpurin
 
 **Vehicle (Anupana):** External: massage into affected area
 

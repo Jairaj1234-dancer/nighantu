@@ -88,33 +88,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 - Beta-carotene
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (dried fruit/seed kernel powder), Amchur (dried unripe fruit powder), Aam Panna (beverage), Capsule, Tablet, Avaleha (preserve), Majja (pulp-based preparations)
 
 **Standard Dosage:** 3-6g powder twice daily; 5-10g Amchur as culinary-medicinal ingredient; 50-100ml Aam Panna
 
-**Bioavailability:** Low bioavailability for mangiferin (major xanthone), with oral bioavailability of approximately 5-8% for pure mangiferin but significantly enhanced (2-3x) by mango fruit matrix. Lipid co-administration increases mangiferin absorption by 40-60%. Gallic acid has high oral bioavailability (>70%). [Carotenoids](/glossary/compounds-a-c/#carotenoids) (beta-carotene) require fat for absorption.
-
 **Optimal Timing:** Before meals for appetite stimulation (Amchur); with meals for digestive support; Aam Panna in summer afternoons for heat protection
-
-**Standardized Extract:** Leaf extract standardized to minimum 5% mangiferin. Bark extract standardized to minimum 8% mangiferin. Seed kernel extract: minimum 15% total [tannins](/reference/tannins/) (as gallic acid equivalent).
-
-**Shelf Life:** 2 years (powder/Amchur); 3 years (capsules/tablets); 1 year (pulp preserves); 18 months (Aam Panna concentrate)
 
 **Storage:** Amchur in airtight containers at room temperature. Extracts below 25°C in moisture-proof packaging. Fresh pulp preparations require refrigeration.
 
 **Marker Compounds:** Mangiferin, Gallic acid, Ellagic acid, Beta-carotene, Isomangiferin, [Quercetin](/reference/quercetinquercetin/), Catechol tannins
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for mangiferin enrichment
-- Aqueous extraction for polyphenol fraction
-- Supercritical CO2 for carotenoid enrichment
-- Ethyl acetate fractionation for mangiferin isolation
-- Spray-drying of pulp concentrate
 
 ### Synergistic Combinations
 

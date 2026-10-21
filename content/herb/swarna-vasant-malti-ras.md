@@ -59,26 +59,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125 mg once or twice daily
 
-**Bioavailability:** Excellent; gold-containing Rasaushadhi with broad-spectrum action
-
 **Optimal Timing:** Morning with honey and ghee; or with [Chyawanprash](/formulation/chyawanprash/)
-
-**Standardized Extract:** Kajjali + [Swarna Bhasma](/herb/swarna-bhasma/) + Mukta Bhasma + potent Rasayana herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Gold nanoparticles, Pearl calcium, Mercury sulfide, [Saffron](/herb/saffron/) (Kesar)
-
-**Quality Parameters:** Gold content verified, pearl content, standard Rasaushadhi tests
 
 **Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/formulation/chyawanprash/), [Guduchi](/herb/guduchi/) Swarasa, or milk

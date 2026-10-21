@@ -108,7 +108,7 @@ Revered as sacred plant in Hinduism. Used for Kasa (cough), Shwasa (asthma), Jwa
 
 ## Recommended Dosage
 
-Fresh leaves: 5-10 leaves/day; Dried powder: 1-3g/day; Extract: 300-600mg/day
+Fresh leaves: 5-10 leaves/day
 
 ## Safety, contraindications and cautions
 
@@ -151,34 +151,17 @@ Fresh leaves: 5-10 leaves/day; Dried powder: 1-3g/day; Extract: 300-600mg/day
 - **1,8-Cineole:** 2-5%
 - **Camphor:** 1-3%
 
-**Analytical Methods:** GC-MS (essential oil), HPLC-PDA (phenolics), TLC
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Svarasa (fresh juice), Kwatha (decoction/tea), Capsule, Tablet, Essential oil, Ark (distillate), Tincture, Drops, Syrup
 
 **Standard Dosage:** 3-5 g dried leaf powder twice daily; 10-20 mL fresh juice daily; 2-3 cups Tulsi tea; 300-600 mg standardized extract capsule twice daily
 
-**Bioavailability:** Eugenol (primary volatile) has good oral bioavailability (~45-55%) with Tmax of 30-60 minutes. Rosmarinic acid shows moderate bioavailability (~15-20%) limited by esterase hydrolysis and Phase II conjugation. Ursolic acid has very low oral bioavailability (<5%) due to extreme lipophilicity; phospholipid complexation (phytosome) improves this 3-5 fold. Ocimumosides A and B are moderately absorbed. Fresh juice provides highest bioavailability of water-soluble phenolics.
-
 **Optimal Timing:** Morning on empty stomach for adaptogenic/[Rasayana](/reference/rasayana/) effect; after meals for digestive support; throughout the day as tea
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2.5% ursolic acid and >1% rosmarinic acid by HPLC; essential oil standardized to >50% eugenol by GC-FID
-
-**Shelf Life:** Dried leaf: 12 months; Powder: 12-18 months; Essential oil: 24-36 months; Capsules/Tablets: 24-36 months; Fresh juice: 48 hours refrigerated; Tincture: 36-48 months
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass under nitrogen. Fresh leaves in perforated bags at 4-8 deg C for up to 5 days.
 
 **Marker Compounds:** Eugenol, Methyl eugenol, Rosmarinic acid, Ursolic acid, Oleanolic acid, Ocimumosides A, Ocimumosides B, beta-Caryophyllene, Linalool, [Apigenin](/glossary/compounds-1-a/#apigenin), [Luteolin](/glossary/compounds-l-o/#luteolin), [Orientin](/glossary/compounds-o-q/#orientin), Vicenin
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydroethanolic extraction (50-70% ethanol)
-- Aqueous infusion/decoction
-- Supercritical CO2 extraction for eugenol-rich fraction
-- Spray drying of aqueous extract
-- Cold pressing of fresh leaves
 
 ### Synergistic Combinations
 

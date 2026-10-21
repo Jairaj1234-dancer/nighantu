@@ -73,26 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 5-10 mL Ushirasava; 2-3 drops essential oil in water
 
-**Bioavailability:** Vetiverol and other sesquiterpenes (khusimol, vetivone) are moderately lipophilic with oral bioavailability of 20-30%. Undergo extensive hepatic metabolism. Essential oil components are well absorbed transdermally when used in massage oils. Phenolic acids (vanillic acid, p-hydroxybenzoic acid) from root decoction have moderate oral bioavailability (~25-35%).
-
 **Optimal Timing:** Between meals for cooling and Pitta-pacifying action; morning and evening dosing; external application any time
-
-**Standardized Extract:** Essential oil (Khus oil) standardized to >25% vetiverol (as khusimol + [isovalencenol](/glossary/compounds-g-l/#isovalencenol)) by GC-MS; root extract standardized to >3% total [sesquiterpenoids](/glossary/compounds-q-t/#sesquiterpenoids)
-
-**Shelf Life:** Dried roots: 24-36 months; Essential oil: 36-60 months (improves with aging); Powder: 18 months; Capsules: 24 months; Syrup: 18 months
 
 **Storage:** Roots in well-ventilated, cool storage away from moisture. Essential oil in amber glass at room temperature (aging is beneficial). Powder in airtight containers at 15-25 deg C.
 
 **Marker Compounds:** Khusimol, Vetiverol, alpha-Vetivone, beta-Vetivone, Isovalencenol, Vetiselinenol, Khusimone, Zizanoic acid
-
-### Extraction Methods
-
-- Steam distillation for essential oil (12-18 hours, prolonged distillation needed)
-- Hydrodistillation
-- Supercritical CO2 extraction
-- Aqueous decoction of roots
-- Hydroethanolic extraction (60-70% ethanol)
-- Solvent extraction with hexane for oleoresin
 
 ### Synergistic Combinations
 

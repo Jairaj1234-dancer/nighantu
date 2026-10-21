@@ -62,25 +62,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhanga/meta-analysis.m
 
 **Standard Dosage:** 125-250mg purified leaf powder (after Shodhana); 500mg-1g in Modaka form. REGULATORY NOTE: Cannabis sativa is a controlled substance in many jurisdictions. Use requires applicable licenses.
 
-**Bioavailability:** THC: oral bioavailability 6-20% due to extensive first-pass metabolism; lipid vehicles (ghee, oil) increase to 20-35%. CBD: oral bioavailability 13-19%. Decarboxylation required for THCA/CBDA conversion (110°C, 30-45 min). Traditional fat-based preparations (with milk, ghee) align with modern lipid-based delivery strategies. Nanoemulsion formulations can increase bioavailability 3-5 fold.
-
 **Optimal Timing:** Traditionally administered in the evening or at bedtime with milk and sugar for sedative/analgesic effects; with food to reduce GI effects
-
-**Standardized Extract:** Leaf extract standardized to total cannabinoid content with THC:CBD ratio specified per formulation intent. For Ayurvedic use: typically low-THC preparations. Seed oil: standardized to omega-6:omega-3 ratio (3:1).
-
-**Shelf Life:** 1 year (powder); 2 years (oil, nitrogen-flushed); 6 months (fresh leaf preparations)
 
 **Storage:** Airtight, light-protected containers. Temperature below 20°C. Nitrogen flushing for oil preparations. Secured storage per regulatory requirements. Protect from UV degradation of cannabinoids.
 
 **Marker Compounds:** Delta-9-THC, CBD (Cannabidiol), CBN (Cannabinol), THCA, CBDA, Beta-caryophyllene, [Myrcene](/glossary/compounds-l-o/#myrcene), Alpha-pinene
-
-### Extraction Methods
-
-- Supercritical CO2 extraction for cannabinoid-rich fractions
-- Ethanol extraction (95%) for full-spectrum extracts
-- Cold-pressed seed oil extraction
-- Traditional Bhang preparation: grinding fresh leaves with water
-- Hydroalcoholic extraction for balanced cannabinoid-terpene profiles
 
 ### Synergistic Combinations
 

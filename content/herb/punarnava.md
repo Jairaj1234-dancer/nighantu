@@ -65,26 +65,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Punarnava/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily; 10-20 mL fresh juice daily
 
-**Bioavailability:** Punarnavine (alkaloid) from Boerhavia diffusa has moderate oral bioavailability (30-45%). Boeravinone (rotenoid) shows variable absorption (15-30%) improved by lipid co-administration. Liriodendrin has moderate bioavailability (~25-35%). Ursolic acid requires lipid-based delivery for adequate absorption. Traditional decoction (Kwatha) may enhance bioavailability of polar constituents through solubilization.
-
 **Optimal Timing:** Morning on empty stomach for diuretic effect (ensure adequate water intake). With meals for hepatoprotective use. Kwatha: morning and evening between meals.
-
-**Standardized Extract:** Punarnava root extract (8:1) standardized to punarnavine >0.5%, boeravinone B >0.3%, total [alkaloids](/glossary/compounds-1-a/#alkaloids) >1.5%. Aqueous extract with ursolic acid >1% and validated HPTLC fingerprint.
-
-**Shelf Life:** Dried root: 18-24 months; Churna: 18-24 months; Extract: 24-36 months; Capsules: 24-36 months; Asava: 5-10 years
 
 **Storage:** Dried root and powder: airtight, below 25 deg C, RH <55%, protected from moisture and pest infestation. Extracts: amber containers, cool and dry. Fresh juice: refrigerated, use within 24 hours. Asava: amber glass, room temperature, improves with age.
 
 **Marker Compounds:** Punarnavine, Boeravinone B, Boeravinone E, Liriodendrin, Ursolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Hypoxanthine-9-L-arabinofuranoside, Eupalitin
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kwatha)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Fresh root juice expression (Swarasa)
-- Methanol extraction for rotenoid profiling
-- Spray drying of aqueous extract
-- Traditional Asava preparation (fermented)
 
 ### Synergistic Combinations
 

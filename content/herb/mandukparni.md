@@ -40,26 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-6 g powder per day; 500-1000 mg standardized extract daily; 5-10 g Ghrita preparation daily
 
-**Bioavailability:** [Asiaticoside](/glossary/compounds-a-c/#asiaticoside) has moderate oral bioavailability (~30-40%). [Madecassoside](/glossary/compounds-l-o/#madecassoside) shows similar absorption profile. Triterpene [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed to aglycones (asiatic acid, madecassic acid) which are better absorbed. Lipid-based formulations (Ghrita, phospholipid complexes) increase bioavailability 2-3 fold. Phytosome technology with phosphatidylcholine (TECA-Phytosome) achieves 3-5x enhanced absorption.
-
 **Optimal Timing:** Morning on empty stomach for cognitive enhancement (Medhya effect); Ghrita preparation with warm milk at bedtime; topical application twice daily for wound healing
-
-**Standardized Extract:** TECA-equivalent standardized extract: 40% asiaticoside, 29-30% asiatic acid, 29-30% madecassic acid. Phytosome complex with phosphatidylcholine for enhanced oral bioavailability. Fresh juice freeze-dried to preserve Medhya properties. Brahmi Ghrita prepared per AFI protocol.
-
-**Shelf Life:** Fresh juice: 2-4 hours (must be consumed immediately per classical texts). Dried powder: 18 months. Standardized extract capsules: 24-30 months. Ghrita: 24 months. Topical cream: 18 months.
 
 **Storage:** Fresh plant refrigerated, process within 4 hours of harvest. Dried herb/extract below 25 deg C in airtight containers. Phytosome preparations in moisture-proof, nitrogen-flushed packaging. Ghrita in clean glass containers at room temperature. Protect all forms from light.
 
 **Marker Compounds:** Asiaticoside, Madecassoside, Asiatic acid, Madecassic acid, Brahmoside, Brahminoside, Centellose, Isothankuniside
-
-### Extraction Methods
-
-- Fresh juice extraction (classical Medhya preparation)
-- Hydroalcoholic extraction (70% ethanol)
-- Standardized aqueous extraction
-- Supercritical CO2 extraction for terpenoid enrichment
-- Ghrita Paka (ghee extraction) for classical Brahmi Ghrita
-- Phytosome complexation with phosphatidylcholine
 
 ### Synergistic Combinations
 

@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Talisa/meta-analysis.md"
 - Saponins
 - Abiesin 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, Syrup, Avaleha (confection)
 
 **Standard Dosage:** 1-3 g of powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Moderate oral bioavailability; volatile terpenes (alpha-pinene, limonene) are rapidly absorbed from the GI tract but undergo significant first-pass hepatic metabolism. Co-administration with [piperine](/reference/piperine/) or lipid-based carriers can enhance systemic availability of non-volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) by 30-40%.
-
 **Optimal Timing:** After meals with warm water or honey for respiratory conditions; morning and evening administration recommended
-
-**Standardized Extract:** Standardized to minimum 0.5% v/w total essential oil (by hydrodistillation, Ph. Eur. method); hydroethanolic extract standardized to >2% total terpenoids (as alpha-pinene equivalent by GC-MS)
-
-**Shelf Life:** Powder: 12 months in airtight container; Essential oil: 24 months; Tablets/Capsules: 24-36 months; Syrup: 18 months
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C; protect from moisture and direct sunlight. Essential oil stored in amber glass bottles under nitrogen headspace.
 
 **Marker Compounds:** alpha-Pinene, beta-Pinene, Limonene, Bornyl acetate, [Camphene](/glossary/compounds-a-c/#camphene), delta-3-Carene, [Myrcene](/glossary/compounds-l-o/#myrcene)
-
-### Extraction Methods
-
-- Hydrodistillation for essential oil
-- Hydroethanolic extraction (50-70% ethanol)
-- Cold maceration for temperature-sensitive volatiles
-- Supercritical CO2 extraction for terpenoid-rich fractions
-- Steam distillation for essential oil
 
 ### Synergistic Combinations
 

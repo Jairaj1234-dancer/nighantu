@@ -71,24 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 10-20ml flower juice
 
-**Bioavailability:** Good oral bioavailability for water-soluble constituents (flavonoids, amino acids). Lipophilic compounds benefit from co-administration with ghee or warm milk. The high protein and free amino acid content enhances overall nutrient absorption.
-
 **Optimal Timing:** Before meals with warm water or honey for respiratory conditions; with food for nutritional supplementation
-
-**Standardized Extract:** Standardized to minimum 1.5% total flavonoids. Flower extract standardized to oleanolic acid content (min 0.5%).
-
-**Shelf Life:** 18 months (powder); 2 years (capsules/tablets); 3 months (fresh juice, refrigerated)
 
 **Storage:** Store in airtight containers away from light. Powder and capsules below 25°C, RH < 60%. Fresh preparations require refrigeration (2-8°C).
 
 **Marker Compounds:** Oleanolic acid, Kaempferol, [Quercetin](/reference/quercetinquercetin/), Cyanidin [glycosides](/glossary/compounds-g-l/#glycosides) (red variety), Sesbanimide
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashaya method)
-- Hydroalcoholic extraction (60:40)
-- Cold-pressed juice from fresh flowers
-- Soxhlet extraction with ethanol for alkaloid enrichment
 
 ### Synergistic Combinations
 

@@ -76,25 +76,17 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also referenced in Bhaishajya
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule
 
 **Standard Dosage:** 2 tablets twice daily
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) resin acts as natural bioenhancer; guggulsterones have moderate oral bioavailability (~40%); lipophilic matrix aids absorption of co-formulated herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** 2 years (guggulu preparations per ASU); potency may decrease after 1 year
 
 **Storage:** Airtight container, cool dry place; guggulu preparations are hygroscopic
 
 **Marker Compounds:** Guggulsterone, Punarnavine, Boeravinone
-
-**Quality Parameters:** Weight variation ±5%, disintegration <60 min, hardness 4-8 kP, assay: Guggulsterone, Punarnavine, Boeravinone, guggulsterone content
 
 **Vehicle (Anupana):** Warm water
 

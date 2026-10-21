@@ -65,7 +65,7 @@ Sushruta Samhita (respiratory therapy context); Chakradatta by Chakrapani (14th 
 ## Recent safety updates
 
 - Generally safe in moderation; excessive use may irritate stomach and digestive lining causing acidity
-- Pregnant women should use cautiously (not more than 250mg/day); children may take approximately 50-100mg once daily post-meal
+- Pregnant women should use cautiously
 - High-quality human RCTs on pure Pippali preparations remain scarce; long-term safety and dosage standardization need further investigation
 
 ## Dosage forms and preparation
@@ -74,17 +74,11 @@ Sushruta Samhita (respiratory therapy context); Chakradatta by Chakrapani (14th 
 
 **Standard Dosage:** 5-10g twice daily
 
-**Bioavailability:** Sugar and ghee matrix enhances piperine absorption
-
 **Optimal Timing:** After meals
-
-**Shelf Life:** 1 year
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Piperine, [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
-
-**Quality Parameters:** Moisture NMT 8%, piperine content NLT 0.5%, total ash
 
 **Vehicle (Anupana):** Warm milk
 

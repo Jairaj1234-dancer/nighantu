@@ -27,13 +27,12 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 
 ## Where is it described in the classical texts?
 
-Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga Hridaya; Ayurvedic Formulary of India (AFI) - for Apasmara, Unmada, Graha Roga, Manasika Roga
+Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga Hridaya; Ayurvedic Formulary of India (AFI) - for Apasmara, Unmada
 
 ## How does it work?
 
 - Panchagavya components provide ketogenic substrate through high-fat cow ghee content, mimicking ketogenic diet mechanism in epilepsy management
-- [Brahmi](/herb/brahmi/) (bacosides) and Shankhapushpi provide [neuroprotective](/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
-- [Vacha](/herb/vacha/) (Acorus calamus) provides CNS-active compounds that reduce neural excitability
+- [Brahmi](/herb/brahmi/) (bacosides) provides [neuroprotective](/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
 - Phytochemical profile includes [proteins](/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/glossary/compounds-1-a/#alkaloids), [steroids](/glossary/compounds-q-t/#steroids), phenolics, [tannins](/reference/tannins/), and [flavonoids](/reference/flavonoids/) with [antioxidant](/reference/antioxidant/) action reducing oxidative stress in brain
 - Studies have reported a possible interaction with conventional anticonvulsants (phenytoin, carbamazepine); anticonvulsant doses should not be changed without medical supervision
 
@@ -62,17 +61,11 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 **Standard Dosage:** 6-12ml twice daily for neurological conditions
 
-**Bioavailability:** Ghee is traditionally regarded as a lipid carrier (yogavahi) that may aid absorption of fat-soluble phytochemicals
-
 **Optimal Timing:** Before meals on empty stomach for best absorption
-
-**Shelf Life:** 2 years (as per ASU guidelines for [ghrita](/herb/ghrita/) preparations); improves with aging (Purana Ghrita concept)
 
 **Storage:** Airtight glass/stainless steel container, cool dry place, protected from light and moisture
 
 **Marker Compounds:** Bacosides, Colostrum proteins
-
-**Quality Parameters:** Acid value <4, peroxide value <5 meq/kg, moisture <0.5%, rancidity test negative, marker: Bacosides, Colostrum proteins
 
 **Vehicle (Anupana):** Warm water or warm milk
 

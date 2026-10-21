@@ -69,25 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 **Standard Dosage:** 5-10ml fresh juice twice daily; 1-3g powder; 30-50ml decoction; external paste as needed. Use in moderate doses, contains oxalic acid.
 
-**Bioavailability:** Oxalis corniculata, contains oxalic acid which can affect mineral (calcium, iron) bioavailability negatively through chelation. Vitamin C content enhances iron absorption from co-consumed foods. Flavonoids (vitexin, isovitexin) show moderate oral bioavailability (20-30%). Fresh juice provides highest bioavailability of water-soluble constituents. CAUTION: High oxalate content contraindicates use in renal calculi patients.
-
 **Optimal Timing:** With meals to buffer acidity; fresh juice mid-morning; external paste as needed for skin conditions; avoid on completely empty stomach
-
-**Standardized Extract:** Whole plant extract standardized to total flavonoids NLT 3%; vitamin C NLT 1%. Total oxalate content must be declared on label.
-
-**Shelf Life:** 2 days (fresh juice, refrigerated); 18 months (powder); 2 years (capsule)
 
 **Storage:** Fresh juice refrigerated at 2-8°C in glass containers. Dried material in airtight containers protected from moisture and light.
 
 **Marker Compounds:** Oxalic acid, Vitexin, Isovitexin, Ascorbic acid (vitamin C), Tartaric acid, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid
-
-### Extraction Methods
-
-- Fresh juice expression (Swarasa)
-- Aqueous decoction for Kashayam
-- Hydroalcoholic extraction (50:50) for flavonoid fraction
-- Low-temperature drying followed by grinding for powder
-- Cold maceration for external paste
 
 ### Synergistic Combinations
 

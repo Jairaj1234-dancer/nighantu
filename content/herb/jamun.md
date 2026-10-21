@@ -113,25 +113,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Jamun/meta-analysis.md"
 
 **Standard Dosage:** 3-6g seed powder twice daily; 500mg-1g extract twice daily; 20-50ml fruit juice
 
-**Bioavailability:** Syzygium cumini (Jamun is the common Hindi name). Same pharmacokinetic profile as [Jambu](/herb/jambu/). Anthocyanin-rich fruit preparations have ~1-2% bioavailability but undergo extensive phase II metabolism. Urolithins (gut metabolites of [ellagitannins](/glossary/compounds-d-g/#ellagitannins)) are the primary bioavailable active metabolites with anti-inflammatory and anti-diabetic properties.
-
 **Optimal Timing:** Seed powder: 30 minutes before meals. Fruit juice: between meals. Vinegar: before meals diluted in water.
-
-**Standardized Extract:** Seed extract standardized to 20% tannins (gallic acid equivalent) and 1% ellagic acid; fruit extract standardized to 5% [anthocyanins](/glossary/compounds-1-a/#anthocyanins) (as cyanidin-3-glucoside)
-
-**Shelf Life:** 2 years (seed powder); 3 years (extract capsule); 6 months (fruit juice, preserved); 1 year (vinegar)
 
 **Storage:** Cool, dry place below 25°C. Anthocyanin preparations must be protected from light and stored at acidic pH. Seed powder in airtight moisture-proof containers.
 
 **Marker Compounds:** Gallic acid, Ellagic acid, Cyanidin-3-glucoside, Delphinidin-3,5-diglucoside, Malvidin-3-glucoside, [Jamboline](/glossary/compounds-g-l/#jamboline), Oleanolic acid
-
-### Extraction Methods
-
-- Seed powder (direct milling of dried seeds)
-- Hydroalcoholic extraction (70% ethanol)
-- Aqueous extraction for traditional preparations
-- Acidified ethanol extraction for anthocyanin preservation from fruit
-- Freeze-drying of fruit pulp for antioxidant retention
 
 ### Synergistic Combinations
 

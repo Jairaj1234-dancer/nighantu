@@ -59,26 +59,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Pishti
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; serpentine mineral in bioavailable fine particle form
-
 **Optimal Timing:** With honey or Gulkand
-
-**Standardized Extract:** Serpentine stone pishti, triturated with rose water
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Magnesium silicate (serpentine), Calcium, Iron, Trace minerals
-
-**Quality Parameters:** Standard pishti fineness, heavy metals within limits
 
 **Vehicle (Anupana):** Honey, Gulkand, or rose water

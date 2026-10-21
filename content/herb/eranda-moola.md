@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Moola/meta-analysis.md
 
 **Standard Dosage:** 3-5g root powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule/tablet twice daily
 
-**Bioavailability:** Castor root (Ricinus communis root) contains [ricinine](/glossary/compounds-q-t/#ricinine) alkaloid, [flavonoids](/reference/flavonoids/), and [sterols](/glossary/compounds-q-t/#sterols) distinct from the seed oil profile. Ricinine has good oral bioavailability (>50%) with rapid absorption. Flavonoids from root have moderate bioavailability (15-25%). Unlike the oil from seeds, root preparations are primarily used for anti-inflammatory and Vata-pacifying actions rather than purgation. Traditional decoction (Kashayam) preparation optimizes water-soluble alkaloid and glycoside extraction.
-
 **Optimal Timing:** Before meals with warm water for Vata disorders and joint conditions; Kashayam in the morning and evening
-
-**Standardized Extract:** Aqueous extract standardized to NLT 0.1% ricinine by HPLC. Kwath Ghana: extract ratio 8:1. HPTLC fingerprint with characteristic bands for ricinine and flavonoid markers.
-
-**Shelf Life:** 2 years (root powder); 2.5 years (tablet/capsule); 3 years (Kwath Ghana, sealed)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Root powder is moderately hygroscopic - include desiccant in packaging.
 
 **Marker Compounds:** Ricinine, N-demethylricinine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), [Quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides), Gallic acid
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashayam - 16:1 reduced to 4:1)
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Hot water extraction under reflux
-- Spray-dried aqueous extract for Kwath Ghana
 
 ### Synergistic Combinations
 

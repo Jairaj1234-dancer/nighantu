@@ -65,25 +65,17 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (medicated oil for nasal administration/Nasya), Nasal drops (modern)
 
 **Standard Dosage:** 2-6 drops in each nostril (Pratimarsha Nasya) or 6-8 drops (Marsha Nasya). The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Sutrasthana, Adhyaya 20; 37-38.
 
-**Bioavailability:** Nasal route (Nasya) provides direct access to CNS via olfactory and trigeminal nerve pathways, bypassing first-pass metabolism. Oil base provides sustained release of lipophilic actives on nasal mucosa. Absorption is rapid, onset within 5-15 minutes.
-
 **Optimal Timing:** Morning on empty stomach after Abhyanga (oil massage) and Swedana (fomentation) of face. Avoid in rainy/cloudy weather per classical guidelines.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila preparations
 
 **Storage:** Store in amber glass bottles with dropper caps in a cool, dry place. Protect from light. Temperature not exceeding 25°C. Nasal preparations require enhanced microbial controls.
 
 **Marker Compounds:** [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Jivantine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde) (from Tvak), Alpha-vetivone (from Usheera)
-
-**Quality Parameters:** Acid value (<5), peroxide value (<10), saponification value, [iodine](/glossary/compounds-g-l/#iodine) value, refractive index, specific gravity, viscosity, rancidity test (negative), sterility testing (for nasal use), particulate matter testing, HPTLC fingerprint, heavy metals, pesticide residues
 
 **Vehicle (Anupana):** Not applicable, administered nasally. Warm oil (slightly above body temperature) preferred for Nasya.
 

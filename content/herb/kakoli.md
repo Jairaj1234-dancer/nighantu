@@ -70,23 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kakoli/meta-analysis.md"
 
 **Standard Dosage:** 3-6g tuber powder twice daily; 50-100ml decoction; as component of Chyawanprash
 
-**Bioavailability:** Roscoea purpurea (also identified by some references with Fritillaria roylei) - one of the Ashtavarga group. Contains mucilaginous polysaccharides, steroidal [saponins](/reference/saponins/), and [glycosides](/glossary/compounds-g-l/#glycosides). [Mucilage](/glossary/compounds-l-o/#mucilage) acts locally as demulcent. Steroidal saponins may be hydrolyzed by gut bacteria to absorbable sapogenins. Very limited modern pharmacokinetic data due to extreme rarity of authentic material.
-
 **Optimal Timing:** With warm milk or ghee as Rasayana tonic; as part of Chyawanprash formulation
-
-**Standardized Extract:** No standardized extract available due to species rarity. Authentication by DNA barcoding (ITS2, matK) is the primary quality parameter.
-
-**Shelf Life:** 2 years (dried tuber powder if authentic); substitutes follow their respective shelf-life specifications
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers.
 
 **Marker Compounds:** Steroidal saponins (if authentic material available), Mucilage polysaccharides, DNA barcode authentication is primary identification method
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (50:50)
-- Traditional processing as part of Ashtavarga for Chyawanprash and other compound formulations
 
 ### Synergistic Combinations
 

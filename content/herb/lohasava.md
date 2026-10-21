@@ -66,26 +66,16 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 10, Verses 34-38; also referenced
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Asava (self-generated fermented liquid)
 
 **Standard Dosage:** 15–30 mL twice daily after meals
 
-**Bioavailability:** Sandhana Kalpana (fermentation) produces ~5–10% alcohol serving as bioenhancer and preservative; iron in chelated/complexed form
-
 **Optimal Timing:** After meals with equal water
-
-**Standardized Extract:** Fermented preparation with Loha (iron), [Triphala](/herb/triphala/), and aromatic herbs
-
-**Shelf Life:** Traditionally held to improve with age
 
 **Storage:** Earthen or glass vessel; avoid direct sunlight; room temperature
 
 **Marker Compounds:** Iron complexes, Organic acids (from fermentation), [Polyphenols](/glossary/compounds-o-q/#polyphenols) (from [Triphala](/herb/triphala/)/[Dhataki](/herb/dhataki/)), Self-generated alcohol (5–10%)
-
-**Quality Parameters:** Alcohol 5–12% v/v, iron content as labeled, pH 3.0–4.5, specific gravity 1.010–1.040, total acidity 0.5–1.5%
 
 **Vehicle (Anupana):** Equal quantity of water after meals

@@ -71,26 +71,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vaikranta-Bhasma/met
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Moderate; tourmaline-derived mineral bhasma
-
 **Optimal Timing:** With honey or as directed
-
-**Standardized Extract:** Calcined tourmaline bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Borosilicate complex, Iron, Aluminium, Trace minerals
-
-**Quality Parameters:** Standard bhasma tests, heavy metals within limits
 
 **Vehicle (Anupana):** Honey

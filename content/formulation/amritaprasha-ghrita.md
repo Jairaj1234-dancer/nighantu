@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amritapra
 
 **Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 3; 93-97.
 
-**Bioavailability:** Lipid matrix of ghee enables superior absorption of fat-soluble [withanolides](/glossary/compounds-t-z/#withanolides) (from [Ashwagandha](/herb/ashwagandha/)) and steroidal [saponins](/reference/saponins/) (from [Shatavari](/herb/shatavari/)). Multi-herb synergy provides broad-spectrum bioactive delivery. Ghee base facilitates crossing of biological membranes.
-
 **Optimal Timing:** On empty stomach in the morning or before bedtime
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/) preparations
 
 **Storage:** Store in airtight glass or food-grade metal containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Withanolide A, [Tinosporaside](/glossary/compounds-t-z/#tinosporaside), Shatavarin IV, [Berberine](/glossary/compounds-a-c/#berberine), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, moisture content (<0.5%), rancidity test (negative), HPTLC/HPLC fingerprinting for withanolides and tinosporaside, total phenolics, microbial limits, heavy metals, organoleptic evaluation
 
 **Vehicle (Anupana):** Warm milk
 

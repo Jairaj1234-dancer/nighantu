@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kusha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder twice daily; 50-100 mL decoction; 250-500 mg Kshara; 10-20 mL juice
 
-**Bioavailability:** Flavonoid C-[glycosides](/glossary/compounds-g-l/#glycosides) ([orientin](/glossary/compounds-o-q/#orientin), [vitexin](/glossary/compounds-t-z/#vitexin)) show moderate oral bioavailability with good intestinal stability. Triterpene [saponins](/reference/saponins/) are hydrolyzed by gut bacteria to bioactive sapogenins. Kshara preparation provides highly bioavailable alkaline mineral salts. Root decoction offers pre-hydrolyzed actives with improved absorption.
-
 **Optimal Timing:** Decoction: before meals for urinary conditions; Kshara: between meals with water; juice: morning on empty stomach for [diuretic](/reference/diuretic/) effect
-
-**Standardized Extract:** Root extract standardized to minimum 2% total [flavonoids](/reference/flavonoids/) (as orientin equivalents); Kshara standardized to pH 9.0-10.5 and minimum 60% water-soluble alkaline content
-
-**Shelf Life:** 24 months for root powder; 36 months for Kshara; 18 months for capsules; decoction consumed same day
 
 **Storage:** Root powder in airtight containers at 15-30°C. Kshara in moisture-proof glass containers (highly hygroscopic). Protect from humidity.
 
 **Marker Compounds:** Orientin, Vitexin, [Isoorientin](/glossary/compounds-g-l/#isoorientin), [Tricin](/glossary/compounds-t-z/#tricin), Cylindrin, Arundoin, [Potassium](/glossary/compounds-o-q/#potassium) carbonate (Kshara), Silicic acid
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Kshara preparation (calcination, dissolution, filtration, evaporation)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold pressing for fresh root juice
 
 ### Synergistic Combinations
 

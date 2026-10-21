@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dugdhika/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 5-10ml fresh juice; 50-100ml decoction twice daily; 500mg extract capsule twice daily. Latex: topical application as directed.
 
-**Bioavailability:** Euphorbia thymifolia/hirta (Dugdhika) contains [flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)), [tannins](/reference/tannins/), and [terpenoids](/glossary/compounds-t-z/#terpenoids). The milky latex contains diterpene esters with moderate dermal absorption for topical use. Oral bioavailability of flavonoid glycosides is moderate (15-25%); tannins act locally in GI tract. The latex [proteins](/glossary/compounds-o-q/#proteins) ([enzymes](/glossary/compounds-d-g/#enzymes)) are denatured by gastric acid. Enhancement: nanoparticle encapsulation of flavonoid-rich extract for improved oral delivery; liposomal gel for enhanced topical penetration of latex components.
-
 **Optimal Timing:** After meals for GI conditions; latex/paste traditionally applied topically to skin lesions and warts
-
-**Standardized Extract:** Hydroalcoholic extract standardized to NLT 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent). Extract ratio 8:1. Total tannin content NLT 5% (as tannic acid equivalent).
-
-**Shelf Life:** Fresh juice: use within 4 hours; 1.5 years (powder); 2 years (tablet/capsule)
 
 **Storage:** Dried herb in airtight containers below 25 deg C. Protect from moisture and light. Fresh plant: refrigerate and use promptly. Latex: cannot be stored long-term in native form.
 
 **Marker Compounds:** Quercetin, [Quercitrin](/glossary/compounds-q-t/#quercitrin), Kaempferol, Gallic acid, Ellagic acid, Euphorbol, Beta-amyrin
-
-### Extraction Methods
-
-- Fresh plant juice expression (Swarasa)
-- Aqueous decoction (whole plant)
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Methanol extraction for research-grade profiling
-- Shade-drying followed by pulverization for Churna
 
 ### Synergistic Combinations
 

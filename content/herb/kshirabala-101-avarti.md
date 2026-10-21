@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshirabala-101-Avarti/meta-an
 
 **Standard Dosage:** Internal: 5-15 drops (0.25-0.75 mL) with warm milk or water; External: sufficient quantity for Abhyanga (massage); Nasya: 2-6 drops per nostril; Basti: 60-100 mL as per protocol
 
-**Bioavailability:** The 101-Avarti (101 repetitions of processing) concentrates bioactives and creates a nanoparticulate lipid system with markedly enhanced transdermal and transmucosal penetration. Each Avarti (cycle of adding milk, [Bala](/herb/bala/) decoction, and [sesame oil](/glossary/concepts-m-y/#tila-taila) with re-cooking) progressively reduces particle size and enhances oil-water interfacial properties. Nasya administration provides rapid CNS delivery via olfactory pathway.
-
 **Optimal Timing:** External Abhyanga: morning before bath; Nasya: morning on empty stomach; Internal: before meals with warm milk; Basti: as per Panchakarma schedule
-
-**Standardized Extract:** Final 101-Avarti oil standardized to: acid value <4.0, saponification value 185-200, [iodine](/glossary/compounds-g-l/#iodine) value 100-120; total alkaloid content (as [ephedrine](/glossary/compounds-d-g/#ephedrine)) >0.01%; specific gravity 0.920-0.935
-
-**Shelf Life:** 36-60 months for properly prepared 101-Avarti oil (high processing creates exceptional stability); 24 months for soft gel capsules; 24 months for Nasya drops
 
 **Storage:** Store in amber glass or traditional copper vessels at 15-30°C. Exceptionally stable preparation due to repeated thermal processing and [antioxidant](/reference/antioxidant/) concentration. Protect from direct sunlight. No refrigeration required.
 
 **Marker Compounds:** Ephedrine (from Bala), [Pseudoephedrine](/glossary/compounds-o-q/#pseudoephedrine) (from Bala), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Sesamin](/glossary/compounds-q-t/#sesamin) (from sesame oil), [Sesamolin](/glossary/compounds-q-t/#sesamolin), Conjugated linoleic acid, Oleic acid
-
-### Extraction Methods
-
-- Traditional 101-Avarti Sneha Paka: sequential processing of sesame oil with Bala (Sida cordifolia) decoction and cow's milk, repeated 101 times
-- Each Avarti involves: mixing decoction + milk + oil, heating until water evaporates, oil separated and re-processed
-- Modern adaptation: controlled-temperature processing at 100-110°C per cycle with standardized decoction-to-oil ratio
 
 ### Synergistic Combinations
 

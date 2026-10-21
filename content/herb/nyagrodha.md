@@ -82,33 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 - Leucopelargonidin
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (bark decoction), Churna (bark powder), Capsule, Tablet, Lepa (paste), Vaginal pessary, Mouthwash, Ointment
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-40 mL bark decoction twice daily; 500 mg - 1 g standardized extract twice daily; topical paste as directed
 
-**Bioavailability:** Leucocyanidin and leucopelargonidin (dimeric [flavonoids](/reference/flavonoids/)) from banyan bark show limited oral bioavailability (10-20%) due to large molecular size and hydrolysis by gut microflora. [Tannins](/reference/tannins/) provide local GI tract effects (astringent, anti-diarrheal) without requiring systemic absorption. Beta-sitosterol has oral bioavailability of 5-10% and benefits from micellar solubilization or phytosome technology.
-
 **Optimal Timing:** Bark decoction: morning and evening, between meals. Topical applications: as needed, clean wound area first.
-
-**Standardized Extract:** Nyagrodha bark extract (8:1) standardized to total tannins >15% (as tannic acid), leucocyanidin >2%, beta-sitosterol >1%. Aqueous extract with validated phenolic profile by HPLC.
-
-**Shelf Life:** Dried bark: 24-36 months; Bark powder: 18-24 months; Standardized extract: 24-36 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Dried bark and powder: cool, dry place below 25 deg C, RH <55%, in airtight containers. Extracts: protected from light, below 25 deg C. Use HPMC capsules rather than gelatin to avoid tannin-gelatin interaction.
 
 **Marker Compounds:** Leucocyanidin, Leucopelargonidin, Beta-sitosterol, Friedelin, Beta-sitosterol glucoside, Tannic acid, Gallic acid, Bengalenoside
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kwatha)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Acetone-water extraction for [proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins)
-- Cold maceration for tannin-rich extracts
-- Hot water extraction with spray drying for powdered extract
 
 ### Synergistic Combinations
 

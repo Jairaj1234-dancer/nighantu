@@ -76,32 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 - Homovanillic acid
 - Biochanin A
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kshara (alkali preparation), Kashayam (decoction), Capsule, Tablet, Taila (medicated oil), Dhupana (fumigation, dried plant)
 
 **Standard Dosage:** 3-6g powder twice daily; 0.5-1g Kshara with buttermilk/water; 50-100ml decoction
 
-**Bioavailability:** Moderate oral bioavailability. Achyranthes aspera contains saponins, [alkaloids](/glossary/compounds-1-a/#alkaloids) (achyranthine), and [triterpenoids](/glossary/compounds-t-z/#triterpenoids). Oleanolic acid has moderate bioavailability (~5-7%) improved by micronization or lipid-based formulations. Kshara (alkaline ash preparation) contains water-soluble mineral salts with high bioavailability. Betaine is well absorbed (>90%).
-
 **Optimal Timing:** Before meals with warm water for digestive indications; Kshara with buttermilk after meals for calculi; post-prandial for metabolic conditions
-
-**Standardized Extract:** Root extract (8:1) standardized to minimum 3% total saponins (as oleanolic acid equivalent). Kshara standardized by pH (9.0-10.0) and calcium/potassium carbonate content. Betaine content minimum 0.5%.
-
-**Shelf Life:** 2 years (powder); 5 years (Kshara); 3 years (capsules/tablets); 2 years (Kshara Sutra, properly stored)
 
 **Storage:** Powder in airtight containers, cool and dry. Kshara in glass containers (alkaline, reacts with metals). Kshara Sutra in airtight tubes at room temperature.
 
 **Marker Compounds:** Oleanolic acid, Achyranthine, Betaine, Ecdysterone (20-hydroxyecdysone), Pentatriacontane, Potassium carbonate (in Kshara)
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (60:40)
-- Kshara preparation (classical: whole plant incinerated, ash dissolved in water, filtered, evaporated)
-- Ethanol extraction for saponin enrichment
 
 ### Synergistic Combinations
 

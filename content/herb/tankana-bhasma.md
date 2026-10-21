@@ -68,26 +68,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tankana-Bhasma/meta-
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Shodhan Tankana (purified borax), Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; borax readily soluble and absorbed
-
 **Optimal Timing:** With honey for respiratory conditions; with warm water for other uses
-
-**Standardized Extract:** Purified and calcined borax
-
-**Shelf Life:** Indefinite (bhasma); 24 months (Shodhan Tankana)
 
 **Storage:** Airtight, moisture-proof container
 
 **Marker Compounds:** Sodium tetraborate, Boron compounds, Sodium oxide (post-calcination)
-
-**Quality Parameters:** Boron content within therapeutic range, standard bhasma tests, no excess sodium
 
 **Vehicle (Anupana):** Honey for Kapha conditions; warm water

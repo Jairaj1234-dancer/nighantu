@@ -63,26 +63,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125 mg twice daily
 
-**Bioavailability:** Not established in humans.
-
 **Optimal Timing:** Morning and evening with honey, Amalaki Swarasa, or milk
-
-**Standardized Extract:** Kajjali + Swarna + Raupya + Vanga + Abhraka + Mukta + Pravala + Loha Bhasmas with premium herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Gold nanoparticles, Silver oxide, Tin oxide, Pearl calcium, Coral calcium, Iron oxide, Mercury sulfide
-
-**Quality Parameters:** Multi-metal assay (gold, silver, tin, iron verified), standard Rasaushadhi tests, free metals below limits
 
 **Vehicle (Anupana):** Honey, Amalaki Swarasa, milk, or Praval Pishti

@@ -75,25 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 **Standard Dosage:** 2-4 fruits daily (10-20 g); 10-20 g Avaleha; 20-30 mL date syrup; 3-5 g powder with milk
 
-**Bioavailability:** Natural sugars ([glucose](/glossary/compounds-d-g/#glucose), [fructose](/glossary/compounds-d-g/#fructose), [sucrose](/glossary/compounds-q-t/#sucrose), 60-80% dry weight) are rapidly absorbed. Phenolic acids and flavonoids show moderate bioavailability. Iron and potassium are well-absorbed, especially when consumed with vitamin C-rich foods. Fiber content (6-8%) moderates glycemic response despite high sugar content (GI ~42-55 depending on variety). Tannin-mineral interaction may reduce mineral bioavailability; soaking/processing reduces tannins.
-
 **Optimal Timing:** Morning with milk for nutritive and energy purposes; before or between meals as healthy snack; Avaleha after meals for digestive benefit
-
-**Standardized Extract:** Date extract standardized to minimum 70% total sugars, 2% dietary fiber, and 1% total phenolics (as gallic acid equivalents); date seed extract to minimum 5% total [polyphenols](/glossary/compounds-o-q/#polyphenols)
-
-**Shelf Life:** 12 months for whole dried dates; 18 months for date powder; 24 months for date syrup; 24 months for capsules; 6 months for Avaleha
 
 **Storage:** Whole dates at 15-25°C in airtight containers or vacuum-packed. Refrigeration (4-8°C) extends shelf life to 24 months. Date syrup in glass jars at room temperature. Powder in moisture-proof containers (hygroscopic nature).
 
 **Marker Compounds:** Gallic acid, Protocatechuic acid, Caffeic acid, Ferulic acid, [Rutin](/glossary/compounds-q-t/#rutin), [Quercetin](/reference/quercetinquercetin/), [Apigenin](/glossary/compounds-1-a/#apigenin), Luteolin, Beta-D-glucan
-
-### Extraction Methods
-
-- Mechanical pitting and pulping
-- Hot water extraction for date syrup
-- Hydroalcoholic extraction (50% ethanol) for polyphenol-rich fraction
-- Enzymatic treatment (pectinase, cellulase) for juice clarification
-- Spray drying for instant date powder
 
 ### Synergistic Combinations
 

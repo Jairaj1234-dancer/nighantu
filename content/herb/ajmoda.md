@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajmoda/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder twice daily; 500mg-1g extract capsule; 2-5 drops essential oil (diluted, for external use)
 
-**Bioavailability:** Good oral bioavailability due to volatile oil content. Apiol and [myristicin](/glossary/compounds-l-o/#myristicin) are well absorbed from the GI tract. Essential oil components enhance their own absorption and that of co-administered herbs. [Piperine](/reference/piperine/) co-administration may further increase plasma levels of key constituents by 25-30%.
-
 **Optimal Timing:** After meals with warm water for digestive complaints; before meals for appetite stimulation
-
-**Standardized Extract:** Essential oil standardized to minimum 60% apiol. Seed extract standardized to minimum 3% volatile oil content and 1.5% total [coumarins](/glossary/compounds-c-d/#coumarins).
-
-**Shelf Life:** 2 years (whole seeds); 1 year (powder, due to volatile loss); 3 years (capsules with sealed packaging); 3 years (essential oil in amber glass)
 
 **Storage:** Airtight containers, cool and dry place, protected from light. Essential oil in amber glass bottles at 15-25°C. Seeds best stored whole until processing.
 
 **Marker Compounds:** Apiol, Myristicin, [Thymol](/glossary/compounds-t-z/#thymol), [Carvacrol](/glossary/compounds-a-c/#carvacrol), [Limonene](/glossary/compounds-g-l/#limonene), Beta-pinene
-
-### Extraction Methods
-
-- Steam distillation for essential oil (yield 2-4%)
-- Hydroalcoholic extraction (70:30)
-- Supercritical CO2 extraction for essential oil enrichment
-- Aqueous decoction for traditional preparations
 
 ### Synergistic Combinations
 

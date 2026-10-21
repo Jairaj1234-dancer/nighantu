@@ -82,32 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 - Ombuin
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (decoction), Churna (powder), [Guggulu](/formulation/guggulu/) formulation (Kanchanar Guggulu tablet), Capsule, Vati (tablet)
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kanchanar Guggulu: 2 tablets (500 mg each) twice daily
 
-**Bioavailability:** Flavonoids and [tannins](/reference/tannins/) have moderate bioavailability. [Lectins](/glossary/compounds-g-l/#lectins) (Bauhinia-specific) are partially degraded in GI tract. Guggulu-based formulations (Kanchanar Guggulu) show enhanced bioactivity due to guggulsterone-mediated metabolic activation. Phytosome technology improves flavonoid absorption 3-fold.
-
 **Optimal Timing:** Before meals for thyroid-related conditions; after meals for gastrointestinal applications; Kanchanar Guggulu best taken with warm water 30 minutes before meals
-
-**Standardized Extract:** Standardized to minimum 10% total tannins (as tannic acid equivalents) and 2% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalents)
-
-**Shelf Life:** 24 months for powder; 36 months for Kanchanar Guggulu tablets; 48 hours for freshly prepared decoction (refrigerated)
 
 **Storage:** Store powder and tablets in cool, dry place at 15-30°C. Decoctions must be refrigerated (2-8°C) and consumed within 48 hours. Protect from moisture and light.
 
 **Marker Compounds:** Quercetin, Kaempferol, Bauhiniastatin, Gallic acid, Ellagic acid, Beta-sitosterol, Lupeol
-
-### Extraction Methods
-
-- Water decoction (traditional for Kwatha)
-- Hydroalcoholic extraction (50-70% ethanol)
-- Sequential extraction: hexane then ethanol then water
-- Enzyme-assisted extraction for lectin-rich fractions
 
 ### Synergistic Combinations
 

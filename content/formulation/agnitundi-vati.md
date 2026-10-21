@@ -61,17 +61,11 @@ Bhaishajya Ratnavali (Agnimandyadirogadhikara, the source cited by the AFI); als
 
 **Standard Dosage:** 125-250 mg twice daily before meals, as given in the Ayurvedic Formulary of India, Part I, entry 12:1. The formulary's anupana: lime juice, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 117-118.
 
-**Bioavailability:** Vati form provides controlled release. Shodhana (purification) of [Vatsanabha](/herb/vatsanabha/) reduces toxic aconitine [alkaloids](/glossary/compounds-1-a/#alkaloids) while retaining therapeutic activity. [Hingu](/herb/hingu/) and [Pippali](/herb/pippali/) enhance gastric absorption.
-
 **Optimal Timing:** Before meals (Bhojana-purva), preferably 30 minutes before lunch and dinner
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Vati/Gutika
 
 **Storage:** Store in a cool, dry place in airtight glass or HDPE containers. Protect from moisture and light. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Piperine](/reference/piperine/), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), Ferulic acid (from [Hingu](/herb/hingu/))
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), uniformity of content, moisture content (<6%), microbial limits, heavy metals, alkaloid content assay for aconitine equivalents (must be within safe limits post-Shodhana), HPTLC fingerprint
 
 **Vehicle (Anupana):** Lime juice or warm water
 

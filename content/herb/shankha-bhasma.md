@@ -71,26 +71,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shankha-Bhasma/meta-
 - **Magnesium (Mg):** Trace
 - **Strontium (Sr):** Trace
 
-**Analytical Methods:** XRD, FTIR, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; calcium carbonate from conch shell with natural shell (conchiolin) matrix
-
 **Optimal Timing:** Before meals for hyperacidity; with meals for calcium supplementation
-
-**Standardized Extract:** Calcined conch shell bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, dry container
 
 **Marker Compounds:** Calcium carbonate (95%), Calcium phosphate, Trace strontium and magnesium
-
-**Quality Parameters:** Calcium >35%, standard bhasma tests, no marine contaminants
 
 **Vehicle (Anupana):** Honey, warm water, or lemon juice

@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Amritar
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 690-692.
 
-**Bioavailability:** Self-generated alcohol (5-12%) acts as preservative and bioenhancer, enabling extraction and absorption of [alkaloids](/glossary/compounds-1-a/#alkaloids) and [glycosides](/glossary/compounds-g-l/#glycosides). Fermentation produces novel bioactive metabolites not present in the original decoction. Rapid oral absorption of water-alcohol soluble fraction.
-
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from direct sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine), [Tinosporaside](/glossary/compounds-t-z/#tinosporaside), [Columbin](/glossary/compounds-c-d/#columbin), [Magnoflorine](/glossary/compounds-l-o/#magnoflorine)
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.01-1.05), self-generated alcohol (5-12% v/v), total solids, total sugar, total acidity, microbial limits, heavy metals, HPTLC for [berberine](/glossary/compounds-a-c/#berberine) and tinosporaside, absence of methanol, organoleptic evaluation
 
 **Vehicle (Anupana):** Equal quantity of lukewarm water
 

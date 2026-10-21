@@ -73,34 +73,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavani/meta-analysis.md"
 - Alpha-pinene and beta-pinene
 - Dietary fiber
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Kwatha (decoction), Essential oil, Capsule, Tablet, Ark (distillate), Satva (concentrated essence)
 
 **Standard Dosage:** 1-3 g seed powder twice daily with warm water; 2-5 drops essential oil in warm water; 15-30 mL Ark twice daily
 
-**Bioavailability:** Thymol (primary active, 35-60% of essential oil) has excellent oral bioavailability (~60-70%) with rapid GI absorption. Undergoes hepatic glucuronidation and sulfation with renal excretion. p-Cymene (precursor/co-constituent) is well absorbed but rapidly metabolized. gamma-Terpinene has moderate bioavailability. Thymol has significant antibacterial activity even at sub-MIC systemic concentrations. Local GI antimicrobial and carminative effects are pharmacologically important independent of systemic absorption.
-
 **Optimal Timing:** After meals for digestive/carminative action; before meals for appetite stimulation; [Ajwain](/herb/ajwain/) water (Ark) throughout the day for flatulence
-
-**Standardized Extract:** Essential oil ([Ajwain](/herb/ajwain/) oil) standardized to >40% thymol by GC-FID; seed extract standardized to >3% thymol by HPLC; Satva (thymol crystals): >95% purity
-
-**Shelf Life:** Whole seeds: 24-36 months; Powder: 12-18 months; Essential oil: 24-36 months; Satva (thymol crystals): 36-48 months; Ark: 12-18 months
 
 **Storage:** Whole seeds in airtight containers at 15-25 deg C. Essential oil in amber glass, tightly sealed. Thymol crystals in airtight glass containers away from heat (melting point 49-51 deg C). Ark in glass bottles, protected from light.
 
 **Marker Compounds:** Thymol, p-Cymene, gamma-Terpinene, alpha-Pinene, beta-Pinene, Carvacrol, Terpinen-4-ol, [Limonene](/glossary/compounds-g-l/#limonene)
-
-### Extraction Methods
-
-- Steam distillation for essential oil (Ajwain oil)
-- Hydrodistillation
-- Hydroethanolic extraction (60-70% ethanol)
-- Supercritical CO2 extraction
-- Aqueous decoction
-- Distillation for Ark preparation
 
 ### Synergistic Combinations
 

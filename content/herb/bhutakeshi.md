@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Bhutakeshi/meta-analys
 
 **Standard Dosage:** 1-3g powder twice daily; 50-100ml decoction; 250-500mg extract capsule. Lower doses recommended initially due to reported sedative effects.
 
-**Bioavailability:** [Protopine](/glossary/compounds-o-q/#protopine) and related isoquinoline [alkaloids](/glossary/compounds-1-a/#alkaloids) show moderate to good oral bioavailability (30-50%). Alkaloids are well absorbed from the GI tract due to lipophilicity. Traditional milk vehicle reduces potential GI irritation and may enhance absorption of lipophilic alkaloids. Note: limited modern pharmacokinetic studies specific to this species.
-
 **Optimal Timing:** Traditionally taken at bedtime with warm milk; between meals; not recommended before driving or operating machinery
-
-**Standardized Extract:** Root/rhizome extract standardized to total isoquinoline alkaloids NLT 2%; protopine NLT 0.5%
-
-**Shelf Life:** 2 years (powder); 3 years (capsule/tablet)
 
 **Storage:** Store in airtight, light-protected containers. Alkaloids are photosensitive. Cool, dry conditions below 25°C.
 
 **Marker Compounds:** Protopine, Bicuculline, Corydine, Corydaline, Bulbocapnine, Alpha-allocryptopine
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Alkaloid-enriched extraction with acidified water followed by basification and organic solvent partitioning
-- Aqueous decoction for traditional use
-- Methanol extraction for research-grade alkaloid profiling
 
 ### Synergistic Combinations
 

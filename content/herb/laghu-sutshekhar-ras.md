@@ -58,26 +58,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Laghu-Sutshekhar-R
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Good; simplified Sutshekhar Ras with enhanced Pitta-shamaka action
-
 **Optimal Timing:** Before meals with honey or Amalaki Swarasa
-
-**Standardized Extract:** Shuddha Parada (purified mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) + cooling herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Sulfur compounds, Bhringaraj compounds, Amalaki [tannins](/reference/tannins/)
-
-**Quality Parameters:** Free mercury <1 ppm, standard Rasaushadhi tests
 
 **Vehicle (Anupana):** Honey, pomegranate juice, or Amalaki Swarasa

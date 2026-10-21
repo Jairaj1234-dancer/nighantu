@@ -80,31 +80,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aivana/meta-analysis.md"
 - Beta-thujone
 - Salvianolic acids A and B
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Kwatha (concentrated decoction), Lepa (paste for external use)
 
 **Standard Dosage:** 2-4g powder twice daily; 30-60ml decoction twice daily
 
-**Bioavailability:** Limited modern pharmacokinetic data. Traditional texts recommend administration with warm water or honey to optimize absorption. The herb's constituents are primarily water-soluble phenolics and [glycosides](/glossary/compounds-g-l/#glycosides), suggesting reasonable aqueous-phase absorption.
-
 **Optimal Timing:** Before meals with warm water for digestive indications
-
-**Standardized Extract:** Limited standardization data available. TLC/HPTLC fingerprinting recommended for batch-to-batch consistency. Aqueous extract yield typically 8-14%.
-
-**Shelf Life:** 2 years (powder); 2.5 years (tablets/capsules)
 
 **Storage:** Cool, dry place below 30°C, protected from direct light and moisture.
 
 **Marker Compounds:** Total phenolics (Folin-Ciocalteu method), Total [flavonoids](/reference/flavonoids/), TLC fingerprint markers
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (50:50)
-- Cold maceration for delicate constituents
 
 ### Synergistic Combinations
 

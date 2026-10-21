@@ -35,24 +35,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 
 **Standard Dosage:** 3-6g compound churna twice daily before meals with warm water; 1-2 capsules (500mg each) twice daily
 
-**Bioavailability:** This refers to the herbal components of [Avipattikar](/herb/avipattikar/) WITHOUT the sugar (Mishri) component, a modern adaptation for diabetic patients and sugar-conscious consumers. Bioavailability profile similar to standard [Avipattikar](/herb/avipattikar/), with [Trikatu](/herb/trikatu/) serving as built-in bioenhancer. Absence of sugar does not significantly affect bioavailability of active herbal constituents but changes the taste profile and may alter dissolution behavior.
-
 **Optimal Timing:** Before meals (30 minutes) with warm water for hyperacidity and digestive disorders
-
-**Standardized Extract:** Compound herb blend (sugar-free) standardized to [piperine](/reference/piperine/) minimum 1.5% (higher than standard Avipattikar due to absence of sugar dilution), total [tannins](/reference/tannins/) minimum 7%, volatile oil minimum 0.4%.
-
-**Shelf Life:** 2 years (churna); 3 years (capsules/tablets)
 
 **Storage:** Airtight container, cool and dry. Without sugar hygroscopicity is reduced, better storage stability. Temperature below 25°C.
 
 **Marker Compounds:** Piperine (from [Pippali](/herb/pippali/)/Maricha), Gallic acid (from [Triphala](/herb/triphala/)), [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)), [Eugenol](/glossary/compounds-d-g/#eugenol) (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), [Cuminaldehyde](/glossary/compounds-c-d/#cuminaldehyde) (from [Jeeraka](/herb/jeeraka/) if present)
-
-### Extraction Methods
-
-- Traditional fine powdering and mixing of all herbal components (minus sugar)
-- Direct compression for tablets
-- Capsule filling of blended herbal powder
-- Aqueous or hydroalcoholic extraction of compound for concentrated forms
 
 ### Synergistic Combinations
 

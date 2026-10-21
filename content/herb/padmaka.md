@@ -76,33 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 - Neosakuranin 
 - Puddumin-A and Puddumin-B 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna, Kwatha, Capsule, Tablet, Asava/Arishtam, Lepa (paste), Cream
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 500-750 mg standardized extract daily; 15-20 mL decoction twice daily
 
-**Bioavailability:** Padmaka (Prunus cerasoides) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). Sakuranetin and prunetin are absorbed in the small intestine with Tmax of 2-3 hours. [Tannins](/reference/tannins/) may reduce absorption of co-administered nutrients. Lipid-based delivery or cyclodextrin inclusion complexes can improve flavonoid bioavailability by 40-60%.
-
 **Optimal Timing:** After meals for general use. For menstrual health: begin 5-7 days before expected menses. For skin conditions: morning and evening with meals.
-
-**Standardized Extract:** Padmaka heartwood extract (10:1) standardized to total flavonoids >4% (as sakuranetin). Aqueous extract with HPTLC fingerprint matching API reference standard.
-
-**Shelf Life:** Heartwood powder: 24-36 months; Standardized extract: 24-36 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Store in airtight containers below 25 deg C, protected from light and moisture. Heartwood pieces can be stored longer (up to 5 years) in dry conditions.
 
 **Marker Compounds:** Sakuranetin, Prunetin, [Genistein](/glossary/compounds-d-g/#genistein), [Naringenin](/glossary/compounds-l-o/#naringenin), [Taxifolin](/glossary/compounds-t-z/#taxifolin), Puddumin-A, Beta-sitosterol, Tannic acid
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (50-70% ethanol)
-- Aqueous decoction
-- Methanol extraction for flavonoid isolation
-- Acetone-water extraction for polyphenol enrichment
-- Soxhlet extraction with ethanol
 
 ### Synergistic Combinations
 

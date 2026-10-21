@@ -78,33 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 - Saponins
 - Tannins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Syrup, Capsule, Gulkand-type preserve, Sherbet
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 15-30 mL syrup twice daily
 
-**Bioavailability:** Violin (cyclotide) is a peptide whose oral bioavailability is not established; cyclotides have unusual protease resistance due to their cyclic backbone. Rutin and other flavonoids have moderate bioavailability (15-25%) improved by gut microbiota deglycosylation. Salicylic acid derivatives (methyl salicylate from leaves) have high oral bioavailability (~70-80%). [Mucilage](/glossary/compounds-l-o/#mucilage) provides local demulcent action without systemic absorption.
-
 **Optimal Timing:** Morning and evening for respiratory conditions; at bedtime with warm milk for mild sedative/calming effect
-
-**Standardized Extract:** Hydroethanolic extract standardized to >1.5% rutin by HPLC; mucilage content >8% by gravimetric method; total flavonoids >3% (as rutin equivalent)
-
-**Shelf Life:** Dried flowers: 6-12 months; Powder: 12 months; Syrup: 12-18 months; Capsules: 24 months; Flower preserve: 18 months
 
 **Storage:** Dried flowers in airtight, light-resistant containers at 15-25 deg C. Syrup in amber glass bottles. Protect from heat and humidity. Flower color fades on exposure to light.
 
 **Marker Compounds:** Rutin, [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), Violin (cyclotide), Methyl salicylate, Violine, Odoratine, Mucilage [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (40-60% ethanol)
-- Cold maceration for mucilage-rich preparations
-- Steam distillation for essential oil (low yield)
-- Sugar-preservation for Gulkand-type preparations
 
 ### Synergistic Combinations
 

@@ -77,7 +77,7 @@ Component of [Trikatu](/herb/trikatu/) (three pungents). Piperine enhances absor
 
 ## Recommended Dosage
 
-Powder: 0.5-2g/day; As part of [Trikatu](/herb/trikatu/): 1-3g/day
+Powder: at the dose given under Standard Dosage; As part of [Trikatu](/herb/trikatu/): 1-3g/day
 
 ## Safety, contraindications and cautions
 
@@ -97,26 +97,11 @@ Powder: 0.5-2g/day; As part of [Trikatu](/herb/trikatu/): 1-3g/day
 
 **Standard Dosage:** 1-2g powder; 5-10mg piperine as bioenhancer; as [Trikatu](/herb/trikatu/): 1-3g; 500mg extract capsule; essential oil: 1-3 drops
 
-**Bioavailability:** Piperine itself shows excellent oral bioavailability (>90%) and is a potent bioenhancer for other compounds by inhibiting CYP3A4, CYP2D6, and P-glycoprotein (P-gp). Piperine enhances bioavailability of [curcumin](/herb/curcumin/) by 2000%, [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) by 229%, CoQ10 by 30%, and beta-carotene by 60%. Thermogenic action increases GI blood flow and absorption. Self-bioenhancing herb, one of the most important Ayurvedic bioavailability modifiers (Yogavahi).
-
 **Optimal Timing:** With meals to enhance digestion and nutrient absorption; as bioenhancer, taken concurrently with target compound; Trikatu before meals
-
-**Standardized Extract:** Piperine extract NLT 95% purity (BioPerine-type); oleoresin with NLT 40% piperine; full-spectrum extract NLT 10% piperine
-
-**Shelf Life:** 3 years (whole pepper); 2 years (powder); 3 years (extract/capsule); 5 years (piperine isolate)
 
 **Storage:** Whole peppercorns in airtight containers away from light. Ground pepper loses volatile oils rapidly, use immediately or store sealed. Piperine extracts are light-sensitive, amber packaging. Cool, dry conditions.
 
 **Marker Compounds:** Piperine, [Piperyline](/glossary/compounds-o-q/#piperyline), [Piperanine](/glossary/compounds-o-q/#piperanine), [Piperettine](/glossary/compounds-o-q/#piperettine), Beta-caryophyllene, [Limonene](/glossary/compounds-g-l/#limonene), [Sabinene](/glossary/compounds-q-t/#sabinene), Alpha-pinene, [Piperlongumine](/glossary/compounds-o-q/#piperlongumine)
-
-### Extraction Methods
-
-- Mechanical grinding for whole pepper powder
-- Ethanol extraction (95%) for piperine concentration
-- Supercritical CO2 extraction for oleoresin (6-10% piperine)
-- Steam distillation for essential oil (beta-caryophyllene rich)
-- Recrystallization from ethanol for >95% pure piperine
-- Hydroalcoholic extraction (80:20) for full-spectrum extract
 
 ### Synergistic Combinations
 

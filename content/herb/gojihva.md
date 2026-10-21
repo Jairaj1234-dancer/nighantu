@@ -71,24 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gojihva/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice; 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Onosma bracteatum (Gojihva) contains pyrrolizidine alkaloids (PAs - safety concern), flavonoids, and phenolic acids. Flavonoid glycosides have moderate bioavailability (15-25%). PAs are well absorbed orally and undergo hepatic activation to toxic pyrrolic metabolites - this is a significant safety consideration. Traditional preparations (aqueous decoction/Kashayam) extract fewer PAs than alcoholic preparations. The mucilaginous nature of the plant may slow GI absorption. Enhancement not applicable due to PA safety concerns - focus should be on PA reduction strategies.
-
 **Optimal Timing:** After meals with warm water for respiratory and urinary conditions; traditionally used as a component in compound formulations rather than standalone
-
-**Standardized Extract:** Aqueous extract with PA content verified below regulatory limits (<1 microgram PA/day at recommended dose). Total flavonoid content NLT 1.5% (as [quercetin](/reference/quercetinquercetin/) equivalent). Extract ratio 5:1. HPTLC fingerprint required.
-
-**Shelf Life:** 1.5 years (powder); 2 years (tablet/capsule); fresh juice: use within 6 hours
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Label must carry appropriate PA-related warnings if applicable to jurisdiction.
 
 **Marker Compounds:** Pyrrolizidine alkaloids (PA content - SAFETY MONITORING, must be below limits), Anchusine (naphthoquinone), Onosmin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Flavonoids, [Mucilage](/glossary/compounds-l-o/#mucilage) content
-
-### Extraction Methods
-
-- Aqueous decoction (preferred - lower PA extraction)
-- Hydroalcoholic extraction (50:50) - with PA monitoring
-- Fresh juice expression
-- Cold water maceration for mucilage-rich fraction
 
 ### Synergistic Combinations
 

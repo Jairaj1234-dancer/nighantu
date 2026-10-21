@@ -69,26 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Manjistha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g root powder per day; 500-1000 mg standardized extract daily; 50-100 mL decoction twice daily; topical as directed
 
-**Bioavailability:** Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) undergo colonic hydrolysis for absorption. Bioavailability of alizarin approximately 25-35%. Enhanced by lipid co-administration. Topical anthraquinone penetration is effective through stratum corneum.
-
 **Optimal Timing:** Traditionally taken in the morning on an empty stomach; topical use usually at night (avoid sun exposure after topical anthraquinone application)
-
-**Standardized Extract:** Root extract standardized to minimum 2% total anthraquinones. Cyclodextrin-complexed extract for cosmetic applications with improved stability. Nano-emulsion concentrate (5% anthraquinones) for serum formulations. Liposomal alizarin for targeted skin delivery.
-
-**Shelf Life:** 36 months for root powder; 24 months for capsules/tablets; 18-24 months for topical creams/serums; 5+ years for Arishta
 
 **Storage:** Amber containers essential due to photosensitivity of anthraquinones. Store below 25 deg C. Topical products in airless pump packaging to minimize oxidation. All forms protected from light and moisture.
 
 **Marker Compounds:** Alizarin, Purpurin, Munjistin, Rubiadin, Xanthopurpurin, Mollugin, Rubimaillin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Aqueous decoction
-- Cold maceration
-- Supercritical CO2 extraction
-- Ultrasound-assisted extraction for improved yield
-- Microencapsulation of extract for cosmetic applications
 
 ### Synergistic Combinations
 

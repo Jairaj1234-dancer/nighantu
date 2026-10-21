@@ -158,24 +158,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 **Standard Dosage:** 30-50 mL fresh fruit juice daily; 3-6 g dried fruit powder twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** Identical pharmacological profile to [Karela](/herb/karela/) (Momordica charantia), both names refer to the same plant. [Charantin](/glossary/compounds-c-d/#charantin) and polypeptide-p bioavailability details as per [Karela](/herb/karela/) entry. Cucurbitane-type [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show improved absorption with lipid co-administration.
-
 **Optimal Timing:** Early morning on empty stomach for glycemic benefits; before meals for appetite regulation
-
-**Standardized Extract:** Standardized to minimum 2% charantin and 10% total bitter principles (as [momordicin](/glossary/compounds-l-o/#momordicin)); MAP30 protein content quantified for seed-derived extracts
-
-**Shelf Life:** 24 hours for fresh juice (refrigerated); 18 months for powder; 24 months for capsules and tablets
 
 **Storage:** Fresh juice requires refrigeration (2-8°C). Dried forms in airtight, moisture-proof containers at 15-30°C. Protein-containing extracts require cold chain (2-8°C).
 
 **Marker Compounds:** Charantin, Momordicin, [Vicine](/glossary/compounds-t-z/#vicine), MAP30 protein, Polypeptide-p, Cucurbitane triterpenoids, Momordicoside K, Momordicoside L
-
-### Extraction Methods
-
-- Cold pressing of fresh fruit
-- Hydroalcoholic extraction (50-70% ethanol)
-- Spray drying of juice concentrate
-- Supercritical CO2 for saponin-enriched fractions
 
 ### Synergistic Combinations
 

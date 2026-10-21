@@ -68,7 +68,7 @@ Same as [Giloy](/herb/guduchi/), alternate name used in classical texts.
 
 ## Recommended Dosage
 
-Stem powder: 3-6g/day; Satva: 500mg-1g/day
+Stem powder and Satva: see Standard Dosage under Dosage forms and preparation.
 
 ## Safety, contraindications and cautions
 
@@ -107,33 +107,17 @@ Stem powder: 3-6g/day; Satva: 500mg-1g/day
 - 20β-Hydroxyecdysone
 - Giloinsterol
 
-**Analytical Methods:** HPLC-UV (berberine, columbin), LC-MS/MS, UV spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh stem juice), Churna (stem powder), Satva (aqueous [starch](/glossary/compounds-q-t/#starch) extract), Kashayam (decoction), Ghana Vati (solid extract tablet), Capsule, [Ghrita](/herb/ghrita/) (medicated ghee), Kwath Ghana
 
 **Standard Dosage:** 10-20ml fresh stem juice; 3-6g powder twice daily; 500mg-1g Satva with honey twice daily; 50-100ml decoction; 500mg Ghana Vati twice daily
 
-**Bioavailability:** Guduchi is synonymous with [Giloy](/herb/guduchi/) (Tinospora cordifolia). Diterpenoid lactones ([tinosporaside](/glossary/compounds-t-z/#tinosporaside), columbin) have moderate oral bioavailability (20-35%); [berberine](/glossary/compounds-a-c/#berberine) fraction has low bioavailability (<5%); polysaccharide fraction (Satva) acts primarily through GALT. Fresh stem juice (Swarasa) is traditionally most valued. [Neem](/herb/neem/)-Guduchi (grown on Azadirachta indica) is considered therapeutically superior per classical texts. Enhancement: [piperine](/reference/piperine/) co-administration; phytosome technology for diterpenoid fraction.
-
 **Optimal Timing:** Traditionally, fresh juice or Satva is taken on an empty stomach with honey for immune support, and Kashayam before meals in fever; Ghana Vati twice daily with meals
-
-**Standardized Extract:** Aqueous extract standardized to NLT 5% bitter principles (as columbin) or NLT 2.5% tinosporaside. Ghana Vati extract ratio 8:1 to 12:1. Satva: polysaccharide NLT 70%.
-
-**Shelf Life:** Fresh juice: 6 hours; 2 years (powder); 3 years (Satva); 3 years (Ghana Vati); Kashayam: 72 hours refrigerated
 
 **Storage:** Fresh stem: process within 48 hours. Powder: airtight below 25 deg C. Satva: double-sealed moisture-proof containers with desiccant - extremely hygroscopic. Ghana Vati: blister-packed, room temperature.
 
 **Marker Compounds:** Tinosporaside, Columbin, Berberine, [Palmatine](/glossary/compounds-o-q/#palmatine), Cordifolioside A, [Arabinogalactan](/glossary/compounds-1-a/#arabinogalactan) (Satva), 20-beta-hydroxyecdysone, [Magnoflorine](/glossary/compounds-l-o/#magnoflorine)
-
-### Extraction Methods
-
-- Fresh stem juice expression (Swarasa)
-- Aqueous starch extraction (Satva)
-- Aqueous decoction (Kashayam)
-- Hydroalcoholic extraction (60:40)
-- Spray-dried aqueous extract (Kwath Ghana / Ghana Vati base)
 
 ### Synergistic Combinations
 

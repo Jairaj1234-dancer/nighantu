@@ -60,26 +60,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Hair-Health/Bhringraj/meta-analysis.md"
 
 **Standard Dosage:** 3-5g powder twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily; Taila for external scalp application liberally
 
-**Bioavailability:** Wedelolactone shows moderate oral bioavailability (~30%) with significant hepatic first-pass metabolism. Coumestans are well absorbed from the GI tract. Eclalbasaponins have low oral bioavailability (<15%), lipid formulations recommended. Phytosomes of Bhringraj extract show 3-4x improved bioavailability of wedelolactone. Fresh juice (Swarasa) provides highest bioavailability of water-soluble actives.
-
 **Optimal Timing:** Morning on empty stomach for liver health; Taila application 30 minutes before hair wash; juice early morning for general rejuvenation
-
-**Standardized Extract:** Whole herb extract standardized to wedelolactone NLT 5%; ecliptasaponin NLT 1%. Hair oil: 10% w/v Bhringraj extract in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) base.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 3-5 years (Taila); 3 days (fresh juice, refrigerated)
 
 **Storage:** Powder and tablets in airtight containers away from light. Oil preparations in amber glass bottles. Fresh juice must be refrigerated and used within 72 hours.
 
 **Marker Compounds:** Wedelolactone, Demethylwedelolactone, Ecliptasaponin A-D, Eclalbatin, Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Coumestan
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Cold pressing for fresh juice (Swarasa)
-- Traditional Taila preparation (1:4:16 kalka:taila:kwath ratio)
-- Supercritical CO2 for wedelolactone concentration
-- Aqueous decoction for hepatoprotective use
-- Ethyl acetate extraction for coumestan-rich fractions
 
 ### Synergistic Combinations
 

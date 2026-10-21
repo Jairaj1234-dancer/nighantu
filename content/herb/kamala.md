@@ -79,34 +79,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 - Quercetin
 - Anthocyanins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder - flower, seed, root used differently), Capsule, Tablet, Kashayam (decoction), Taila (seed/flower oil), Lepa (paste), Beeja Churna (seed powder)
 
 **Standard Dosage:** 3-6g flower powder twice daily; 500mg-1g extract; 3-5g seed powder; 50-100ml root decoction
 
-**Bioavailability:** Nelumbo nucifera (sacred lotus) contains alkaloids (nuciferine, liensinine, neferine), flavonoids (kaempferol, [quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides)), and megastigmanes. Nuciferine has moderate oral bioavailability (~20-30%) with good lipophilicity (logP 3.2) and crosses blood-brain barrier. Neferine has ~35% oral bioavailability in animal models. Liensinine shows variable absorption. Seed contains resistant [starch](/glossary/compounds-q-t/#starch) acting as prebiotic. Different plant parts have distinctly different phytochemistry and applications.
-
 **Optimal Timing:** Flower preparations: with cool water between meals. Seed: as snack or with milk. Leaf extract: before meals. Root decoction: before meals.
-
-**Standardized Extract:** Leaf extract standardized to 2% nuciferine; seed extract standardized to 1% neferine; flower extract standardized to 5% total flavonoids (antioxidant applications); stamen extract per traditional methods
-
-**Shelf Life:** 2 years (flower/leaf/seed powder); 3 years (standardized extract capsule/tablet); 1 year (fresh rhizome); 2 years (dried rhizome)
 
 **Storage:** Cool, dry place below 25°C, protected from light and moisture. Flower preparations particularly sensitive to light and moisture. Seeds in airtight containers. Nitrogen-flushed packaging for standardized extracts.
 
 **Marker Compounds:** Nuciferine (leaf), Neferine (seed embryo), Liensinine (seed embryo), Isoliensinine, Kaempferol-3-glucoside, [Quercetin](/reference/quercetinquercetin/), Megastigmane glycosides (flower), Nelumboroside A
-
-### Extraction Methods
-
-- Hydroalcoholic extraction of leaves/flowers (70:30) for alkaloid and flavonoid fraction
-- Aqueous extraction of rhizome (starch-rich)
-- Seed protein and starch extraction
-- Ethanol extraction of stamens for flavonoid-enriched extract
-- CO2 supercritical extraction for alkaloid-enriched fraction
-- Cold pressing of seeds for oil
 
 ### Synergistic Combinations
 

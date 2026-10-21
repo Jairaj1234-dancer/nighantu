@@ -68,26 +68,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 - **Phosphorus (P):** ~13%
 - **Collagen-derived amino acids:** Trace (from organic matrix)
 
-**Analytical Methods:** XRD, FTIR, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg
 
-**Bioavailability:** Good; natural calcium phosphate matrix similar to human bone
-
 **Optimal Timing:** With warm milk or honey
-
-**Standardized Extract:** Calcined deer antler bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Calcium phosphate (hydroxyapatite), Collagen derivatives, Trace minerals
-
-**Quality Parameters:** Standard bhasma tests, CITES compliance if applicable
 
 **Vehicle (Anupana):** Warm milk or honey

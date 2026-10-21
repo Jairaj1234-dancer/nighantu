@@ -77,33 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 - Ellagic acid
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (castor oil - primary form), Churna (root powder), Kashayam (root decoction), Paka (processed preparation), Capsule (oil-filled), Tablet (root extract)
 
 **Standard Dosage:** Castor oil: 15-30ml as purgative (single dose); 5-10ml for mild laxative; Root: 3-5g powder twice daily; 500mg root extract capsule twice daily
 
-**Bioavailability:** Ricinus communis seed oil ([Eranda Taila](/formulation/eranda-taila/)) contains ricinoleic acid (85-90%) which is released by lipase hydrolysis in the duodenum. Ricinoleic acid acts locally on intestinal EP3 receptors - systemic bioavailability is not the goal for purgative use. For anti-inflammatory applications, ricinoleic acid absorbed through skin (topical application) reaches inflamed tissues. Root [alkaloids](/glossary/compounds-1-a/#alkaloids) (ricinine) have good oral bioavailability. Castor oil is also used as a carrier vehicle for other drugs, enhancing their absorption through lymphatic uptake. CRITICAL: Seeds contain ricin (toxic lectin) which is NOT present in properly extracted oil.
-
 **Optimal Timing:** Castor oil: early morning on empty stomach with warm water or milk for purgation; Root decoction: before meals for Vata disorders; External application: at bedtime with gentle massage
-
-**Standardized Extract:** Castor oil USP/BP: acid value <2, saponification value 176-187, [iodine](/glossary/compounds-g-l/#iodine) value 82-90, ricinoleic acid NLT 85% by GC. Root extract: hydroalcoholic, characterized by ricinine content and HPTLC fingerprint.
-
-**Shelf Life:** 3 years (castor oil, sealed); 2 years (root powder); 2 years (capsules); 3 years (Taila preparations)
 
 **Storage:** Castor oil: airtight containers, room temperature, protected from light. Root powder: airtight, moisture-proof containers below 25 deg C. Do not store near food products if handling raw seeds. Oil may become viscous at low temperatures - store above 15 deg C.
 
 **Marker Compounds:** Ricinoleic acid (oil), Ricinine (root - alkaloid), Linoleic acid (oil), Oleic acid (oil), N-demethylricinine (root), [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Cold-pressing of seeds for castor oil (virgin grade)
-- Solvent extraction with hexane (commercial grade)
-- Aqueous decoction of roots
-- Hydroalcoholic extraction of root (70:30)
-- Traditional Taila preparation methods
 
 ### Synergistic Combinations
 

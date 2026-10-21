@@ -81,33 +81,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 - Alpha-hederin
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Capsule, Tablet, Taila (oil), Soft gel capsule, Honey-seed paste
 
 **Standard Dosage:** 1-3g seed powder twice daily; 2.5-5ml seed oil daily; 500mg extract twice daily; 200-500mg thymoquinone-standardized extract
 
-**Bioavailability:** Nigella sativa (black cumin) contains thymoquinone (TQ) as primary active compound. TQ has moderate oral bioavailability (~58% in animal models) but is rapidly metabolized. TQ is lipophilic (logP 2.4); absorption is enhanced 3-5x when taken with fatty meals or in oil form. Nanostructured lipid carriers (NLC), SNEDDS, and cyclodextrin inclusion complexes significantly improve TQ bioavailability. Fixed oil form provides natural lipid carrier for TQ.
-
 **Optimal Timing:** With meals (especially fatty meals) for optimal absorption; morning and evening doses. Traditional: mixed with honey on empty stomach.
-
-**Standardized Extract:** Cold-pressed seed oil standardized to minimum 0.8% thymoquinone; CO2 extract with 3-5% thymoquinone; powder extract standardized to 2% thymoquinone
-
-**Shelf Life:** 1 year (cold-pressed oil without antioxidants); 2 years (oil with antioxidant); 3 years (whole seeds); 3 years (soft gel/capsule)
 
 **Storage:** Oil: amber glass bottles, nitrogen-flushed, below 25°C, protected from light. Seeds: cool, dry place. Soft gels: below 25°C, moisture-proof packaging.
 
 **Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, p-Cymene, Nigellone (dithymoquinone), Alpha-hederin, [Nigellidine](/glossary/compounds-l-o/#nigellidine)
-
-### Extraction Methods
-
-- Cold pressing (black seed oil, 30-40% yield)
-- Supercritical CO2 extraction (TQ-enriched oil)
-- Steam distillation (essential oil, 0.4-2.5%)
-- Hydroalcoholic extraction (80:20) for phenolic-rich extract
-- Hexane extraction for fixed oil
 
 ### Synergistic Combinations
 

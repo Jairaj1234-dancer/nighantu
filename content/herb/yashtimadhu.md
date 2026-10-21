@@ -77,26 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 **Standard Dosage:** 1-3 g powder twice daily; 50-100 mL decoction; 250-500 mg standardized extract capsule twice daily; DGL: 380-760 mg chewed before meals; NOT to exceed 6 weeks continuous use at full dose
 
-**Bioavailability:** Glycyrrhizin (glycyrrhizic acid) has moderate oral bioavailability (~30-40%); hydrolyzed by gut bacteria to glycyrrhetinic acid (18-beta-glycyrrhetinic acid), which is the primary systemically active metabolite with high protein binding (>99%) and long half-life (6-10 hours). Glycyrrhetinic acid inhibits 11-beta-hydroxysteroid dehydrogenase type 2, causing pseudo-aldosteronism at doses >50 mg glycyrrhizin/day for >6 weeks. Liquiritigenin and isoliquiritigenin (flavonoids) have moderate bioavailability (~20-30%). DGL (deglycyrrhizinated licorice, glycyrrhizin <3%) avoids mineralocorticoid side effects.
-
 **Optimal Timing:** After meals for GI protection; before meals for appetite and digestive stimulation; with honey for respiratory conditions; limit to 4-6 weeks continuous use, then 2-week break
-
-**Standardized Extract:** Standard root extract: >25% glycyrrhizin by HPLC; DGL extract: <3% glycyrrhizin with >10% total flavonoids; Glabridin-enriched extract (for skin lightening): >40% glabridin; total flavonoids >5%
-
-**Shelf Life:** Dried root sticks: 36-48 months; Powder: 24 months; Capsules/Tablets: 24-36 months; DGL tablets: 24-36 months; Syrup: 18-24 months
 
 **Storage:** Airtight containers at 15-25 deg C. Root sticks very stable if kept dry. Powder protected from moisture (moderately hygroscopic). DGL products in standard pharmaceutical packaging.
 
 **Marker Compounds:** Glycyrrhizin (glycyrrhizic acid), 18-beta-Glycyrrhetinic acid, Liquiritigenin, Isoliquiritigenin, Glabridin, Glabrol, [Liquiritin](/glossary/compounds-l-o/#liquiritin), [Formononetin](/glossary/compounds-d-g/#formononetin), Hispaglabridin A
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroethanolic extraction (50-70% ethanol)
-- Enzymatic hydrolysis for DGL preparation (removal of glycyrrhizin)
-- Spray drying for instant powder
-- Supercritical CO2 for flavonoid-rich fraction
-- Hot water extraction for glycyrrhizin-rich fraction
 
 ### Synergistic Combinations
 

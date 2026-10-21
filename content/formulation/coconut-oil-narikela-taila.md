@@ -82,25 +82,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 - Medium-chain triglycerides 
 - Lauric acid 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (base oil for external/internal use), Capsules (modern), Topical preparations
 
 **Standard Dosage:** 5-15 mL orally; externally as required for Abhyanga, Shirodhara, and as base oil.
 
-**Bioavailability:** Rich in medium-chain triglycerides (MCTs), lauric acid is rapidly absorbed and converted to monolaurin in the body. MCTs bypass normal lipid absorption pathway, going directly to liver via portal vein for rapid energy. Superior carrier oil for transdermal delivery of lipophilic drugs.
-
 **Optimal Timing:** External: morning before bath. Internal: morning on empty stomach or as prescribed.
-
-**Shelf Life:** 2 years (virgin cold-pressed), 3 years (refined) from date of manufacture
 
 **Storage:** Store in airtight glass or food-grade containers. Solidifies below 24°C (normal). Temperature not exceeding 30°C for liquid state. Stable oil, less prone to oxidative rancidity than polyunsaturated oils.
 
 **Marker Compounds:** Lauric acid, Myristic acid, Capric acid, Caprylic acid, Tocopherols, Polyphenols (in virgin oil)
-
-**Quality Parameters:** Acid value (<3 for virgin), peroxide value (<5), saponification value (248-265), [iodine](/glossary/compounds-g-l/#iodine) value (7-12), refractive index (1.448-1.450 at 40°C), specific gravity (0.915-0.920 at 30°C), moisture (<0.25%), lauric acid content (44-52% by GC), medium-chain triglyceride content, rancidity test negative, microbial limits, pesticide residues
 
 **Vehicle (Anupana):** Not applicable for external use. Internal: taken directly or with warm water.
 

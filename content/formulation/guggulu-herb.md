@@ -36,25 +36,17 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 - Z-Guggulsterone and E-Guggulsterone (see Marker Compounds below)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Raw resin (for processing), Shuddha Guggulu (purified), Powder, Capsules (modern)
 
 **Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily.
 
-**Bioavailability:** Raw resin has poor bioavailability and contains irritant fractions. Shodhana processing removes irritant oleoresin components while retaining guggulsterones. Purified [guggulu](/formulation/guggulu/) has significantly improved safety and moderate oral bioavailability of guggulsterones.
-
 **Optimal Timing:** After Shodhana, as directed in specific Guggulu formulations
-
-**Shelf Life:** Raw resin: 5+ years if stored properly; Purified: 5 years
 
 **Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I-III, Myrrhanol A, Cembrene, Mukulol
-
-**Quality Parameters:** Total guggulsterones (Z + E) NLT 2.5%, volatile oil content, water-soluble extractive, alcohol-soluble extractive, total ash, foreign organic matter, moisture, HPTLC/HPLC fingerprint, heavy metals, microbial limits
 
 **Vehicle (Anupana):** Must be processed (Shodhana) before use, not taken as raw herb
 

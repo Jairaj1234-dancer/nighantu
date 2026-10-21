@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 **Standard Dosage:** 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily
 
-**Bioavailability:** [Bergenin](/glossary/compounds-a-c/#bergenin) from Bergenia ligulata (a related Pashanabheda source) has moderate oral bioavailability (30-45%) with Tmax of 1.5-2.5 hours. Gallic acid is well absorbed (~35-45%). [Arbutin](/glossary/compounds-1-a/#arbutin) (if Saxifraga species source) is hydrolyzed by gut bacteria to hydroquinone which is the active metabolite; this conversion is variable between individuals (30-60% efficiency). [Catechin](/reference/catechin/) shows 20-30% oral bioavailability.
-
 **Optimal Timing:** Between meals with plenty of water (minimum 250 mL) for urinary and lithotriptic effects. Morning dose preferred for [diuretic](/reference/diuretic/) action.
-
-**Standardized Extract:** Bergenia ligulata rhizome extract (8:1) standardized to bergenin >5%, gallic acid >2%, total phenolics >12% GAE. Validated HPTLC fingerprint confirming species identity.
-
-**Shelf Life:** Rhizome powder: 18-24 months; Standardized extract: 24-36 months; Tablets/Capsules: 24-36 months; Asava: 3-5 years
 
 **Storage:** Dried rhizome and powder: airtight containers, below 25 deg C, RH <55%, protected from light and pest infestation. Extracts: amber containers, cool and dry. Asava: amber glass, room temperature, improves with age.
 
 **Marker Compounds:** Bergenin, Gallic acid, Catechin, Arbutin (species-dependent), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Tannic acid, Paashanolactone
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kwatha)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Methanol extraction for bergenin isolation
-- Ethyl acetate fractionation for enriched bergenin fraction
 
 ### Synergistic Combinations
 

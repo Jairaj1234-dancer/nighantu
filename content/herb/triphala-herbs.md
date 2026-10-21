@@ -31,25 +31,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Triphala-Herbs/meta-analysis.md
 
 **Standard Dosage:** Haritaki: 3-6 g; Bibhitaki: 3-6 g; Amalaki: 3-6 g individually, or as combined in [Triphala](/herb/triphala/) 1:1:1 ratio
 
-**Bioavailability:** Haritaki: Chebulagic acid and chebulinic acid undergo partial hydrolysis to ellagic acid in gut (bioavailability ~8-12%); gallic acid well absorbed (~40%). Bibhitaki: beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) moderate bioavailability (~15-25%); belleric acid low absorption improved with lipid vehicle. Amalaki: Ascorbic acid high bioavailability (~70-80%) but rapid renal clearance; emblicanin A/B moderate absorption (~20-30%). Individual herbs allow dose customization based on Dosha predominance.
-
 **Optimal Timing:** Haritaki: at bedtime; Bibhitaki: morning with honey; Amalaki: any time, ideally morning on empty stomach
-
-**Standardized Extract:** Haritaki: >20% total [tannins](/reference/tannins/), >3% chebulagic acid; Bibhitaki: >15% total tannins, >0.5% belleric acid; Amalaki: >30% total tannins, Vitamin C >2%, >1.5% gallic acid (all by HPLC/UV methods)
-
-**Shelf Life:** Individual powders: 12-18 months; Amalaki juice (spray-dried): 18 months; Capsules: 24 months; Chyawanprash: 24-36 months
 
 **Storage:** Individual powders in airtight, moisture-proof containers at 15-25 deg C. Amalaki products benefit from refrigerated storage (2-8 deg C) to preserve vitamin C. Protect all from light and humidity.
 
 **Marker Compounds:** Chebulagic acid (Haritaki), Chebulinic acid (Haritaki), Gallic acid (all three), Ellagic acid (Haritaki, Amalaki), Belleric acid (Bibhitaki), beta-Sitosterol (Bibhitaki), Emblicanin A (Amalaki), Emblicanin B (Amalaki), Ascorbic acid (Amalaki)
-
-### Extraction Methods
-
-- Individual fruit drying and powdering
-- Aqueous extraction of each fruit separately
-- Hydroethanolic extraction (50-70% ethanol)
-- Spray drying for Amalaki juice
-- Supercritical CO2 extraction for Bibhitaki fatty acid fraction
 
 ### Synergistic Combinations
 

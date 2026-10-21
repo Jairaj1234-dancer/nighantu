@@ -19,8 +19,6 @@ productHints: []
 words: 268
 srcRel: "_Hub/Families/Zingiberaceae.md"
 ---
-*24 members in the catalogue*
-
 - [Ela](/herb/ela/), *Elettaria cardamomum* (Antioxidant, Bronchodilator)
 - [Ginger](/herb/ginger/), *[Zingiber](/herb/zingiber/) officinale Roscoe* (Antiemetic, Anti-inflammatory)
 - [Ginger](/herb/ginger/), *[Zingiber](/herb/zingiber/) officinale Roscoe* (Antiemetic, Anti-inflammatory)

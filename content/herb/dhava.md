@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Dhava/meta-analysis.m
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Anogeissus latifolia (Dhava) bark contains [tannins](/reference/tannins/), [flavonoids](/reference/flavonoids/), and ellagic acid derivatives. Tannin-rich fraction has low systemic bioavailability and is thought to act locally in the GI tract as an astringent; it is traditionally used for diarrhea. Ellagic acid undergoes gut microbial metabolism to urolithins. Flavonoid fraction has moderate bioavailability (15-30%). Enhancement: co-administration with lipid vehicles improves flavonoid absorption; the traditional practice of preparing Kashayam with jaggery ([Guda](/glossary/concepts-a-m/#guda)) may enhance palatability and provide matrix for improved absorption.
-
 **Optimal Timing:** Before meals with warm water or honey for digestive conditions; after meals for diarrhea management
-
-**Standardized Extract:** Aqueous bark extract standardized to NLT 10% total tannins (as tannic acid equivalent) and NLT 1% ellagic acid. Extract ratio 5:1 to 8:1.
-
-**Shelf Life:** 2 years (powder); 2.5 years (tablet/capsule); 3 years (Kwath Ghana in sealed container)
 
 **Storage:** Airtight containers below 25 deg C, protected from moisture. Tannin-rich bark powder is hygroscopic - use moisture-proof packaging with desiccant.
 
 **Marker Compounds:** Ellagic acid, Gallic acid, 3,3'-di-O-methylellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Anogeissinin, [Quercetin](/reference/quercetinquercetin/)
-
-### Extraction Methods
-
-- Aqueous decoction of stem bark (traditional)
-- Hydroalcoholic extraction (60:40)
-- Hot water extraction under reflux (80 deg C, 3 hours)
-- Spray-drying for Kwath Ghana production
 
 ### Synergistic Combinations
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Yavasa/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; Kshara: 500 mg-1 g with buttermilk
 
-**Bioavailability:** Alhagrin and other [alkaloids](/glossary/compounds-1-a/#alkaloids) have moderate oral bioavailability (~25-35%). [Flavonoids](/reference/flavonoids/) ([isorhamnetin](/glossary/compounds-g-l/#isorhamnetin), [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)) undergo typical Phase II conjugation with low to moderate systemic bioavailability (~10-20%). Manna sugar (a natural exudate) is largely composed of saccharides that are absorbed as dietary sugars. The Kshara (alkali) preparation has high bioavailability for mineral components, with alkaline pH facilitating intestinal absorption of certain phytochemicals.
-
 **Optimal Timing:** After meals for general use; before meals for [diuretic](/reference/diuretic/) effect; Kshara with buttermilk after meals
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as isorhamnetin equivalent by HPLC); Kshara: [potassium](/glossary/compounds-o-q/#potassium) carbonate content >40% by titrimetry, pH 9-11
-
-**Shelf Life:** Powder: 12-18 months; Kshara: 24-36 months (inorganic alkali is stable); Capsules/Tablets: 24 months; Decoction: prepare fresh; Manna: 18-24 months
 
 **Storage:** Powder and capsules in airtight containers at 15-25 deg C. Kshara in airtight, moisture-proof glass or HDPE containers (highly hygroscopic). Manna in dry, airtight storage.
 
 **Marker Compounds:** Isorhamnetin, Kaempferol, [Quercetin](/reference/quercetinquercetin/), Alhagrin, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Gallic acid, Manna sugars ([sucrose](/glossary/compounds-q-t/#sucrose), [glucose](/glossary/compounds-d-g/#glucose))
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (50-60% ethanol)
-- Kshara Kalpana (alkali preparation by incineration and water extraction)
-- Fresh plant juice expression
-- Methanol extraction for flavonoid analysis
 
 ### Synergistic Combinations
 

@@ -74,23 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Adhaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily
 
-**Bioavailability:** Moderate oral bioavailability due to presence of [flavonoids](/reference/flavonoids/) and [tannins](/reference/tannins/). Enhancement strategies include co-administration with [Pippali](/herb/pippali/) (long pepper) or honey as anupana (vehicle). Tannin content may reduce absorption of co-administered drugs; stagger dosing recommended.
-
 **Optimal Timing:** Before meals with warm water for digestive indications; after meals for general health
-
-**Standardized Extract:** Standardized to minimum 2% total flavonoids (as cajanol equivalent). Aqueous extract yield typically 12-18%.
-
-**Shelf Life:** 2 years (powder in airtight container); 3 years (tablets/capsules); 6 months (liquid decoction with preservative)
 
 **Storage:** Cool, dry place (below 25°C), away from direct light and moisture. Relative humidity below 60%.
 
 **Marker Compounds:** Cajanol, Cajanone, Pinostrobin, Vitexin, [Orientin](/glossary/compounds-o-q/#orientin)
-
-### Extraction Methods
-
-- Aqueous decoction (1:8 herb-to-water, reduced to 1/4)
-- Hydroalcoholic extraction (50:50 ethanol-water)
-- Cold maceration for heat-sensitive constituents
 
 ### Synergistic Combinations
 

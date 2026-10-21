@@ -62,26 +62,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 30–60 mg twice daily (potent, precise dosing)
 
-**Bioavailability:** Not established; the HgS form is reported to be poorly absorbed.
-
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/); morning and evening
-
-**Standardized Extract:** Makaradhwaj, Parada (mercury) + [Gandhaka](/glossary/concepts-a-m/#gandhaka) (sulfur) + Swarna (gold) complex
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight glass container; premium storage
 
 **Marker Compounds:** Gold-mercury sulfide complex, Red mercuric sulfide (alpha-HgS), Colloidal gold
-
-**Quality Parameters:** Gold content as specified, free mercury <1 ppm, characteristic red color (Sindura-varna), sublimation test pass
 
 **Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/formulation/chyawanprash/), or specific herbal vehicles

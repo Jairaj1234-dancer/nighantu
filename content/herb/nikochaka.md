@@ -72,17 +72,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nikochaka/meta-analysis.md"
 
 **Standard Dosage:** No dosage can be given until the botanical identity is confirmed.
 
-**Bioavailability:** Limited modern pharmacokinetic data available. Traditional Ayurvedic texts indicate good absorption when administered with warm water (Ushna Jala Anupana). Co-administration with [Pippali](/herb/pippali/) or [ginger](/herb/ginger/) may enhance absorption through bioenhancement.
-
-**Shelf Life:** Dried powder: 12-18 months; Hydroalcoholic extract: 18-24 months; Capsules/Tablets: 24 months
-
 **Storage:** Store in airtight containers below 25 deg C, RH <60%, protected from light. Double-sealed polyethylene-lined containers recommended for bulk powder.
-
-### Extraction Methods
-
-- Aqueous decoction (traditional method)
-- Hydroalcoholic extraction (40-60% ethanol)
-- Cold maceration in water for 12-24 hours
-- Methanol extraction for analytical characterization
 
 

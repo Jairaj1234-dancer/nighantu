@@ -59,26 +59,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Not established
-
 **Optimal Timing:** With honey and [Tulsi](/herb/tulsi/) juice; or with Ardrak Swarasa
-
-**Standardized Extract:** Kajjali + Shuddha [Vatsanabha](/herb/vatsanabha/) (purified aconite) + anti-infective herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Aconitine derivatives (purified), Piperine, [Trikatu](/herb/trikatu/) [alkaloids](/glossary/compounds-1-a/#alkaloids)
-
-**Quality Parameters:** Standard Rasaushadhi tests, free aconitine below safety limits, free mercury <1 ppm
 
 **Vehicle (Anupana):** Honey + [Tulsi](/herb/tulsi/) juice (for fever); [ginger](/herb/ginger/) juice (for cold)

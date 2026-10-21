@@ -60,17 +60,11 @@ Bhaishajya Ratnavali (13th century CE), where it was called Baladwaya Arishta or
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:24. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 569-571.
 
-**Bioavailability:** Alcohol medium enhances extraction and absorption of [Bala](/herb/bala/) alkaloids and [phytosterols](/glossary/compounds-o-q/#phytosterols). Fermentation produces novel metabolites. Adaptogenic compounds from [Ashwagandha](/herb/ashwagandha/) synergize in the fermented medium.
-
 **Optimal Timing:** After meals, twice daily, for sustained use (minimum 1-3 months for [Rasayana](/reference/rasayana/) effect)
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta preparations
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Ephedrine, [Pseudoephedrine](/glossary/compounds-o-q/#pseudoephedrine), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Ecdysterone](/glossary/compounds-d-g/#ecdysterone), Withanolide A (from [Ashwagandha](/herb/ashwagandha/) component)
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity, self-generated alcohol (5-12%), total solids, total sugar, total acidity, ephedrine content (within safe limits), total alkaloids, HPTLC fingerprint, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of warm water
 

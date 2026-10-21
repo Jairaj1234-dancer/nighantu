@@ -61,17 +61,11 @@ Ashtanga Hrudayam Uttarasthana 6/26-33 ([Mahakalyanaka Ghritam](/glossary/concep
 
 **Standard Dosage:** 12 g twice daily on empty stomach, as given in the Ayurvedic Formulary of India, Part I, entry 6:7. The formulary's anupana: warm milk, warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 6; 26-28½.
 
-**Bioavailability:** Identical to Kalyanaka Ghrita.
-
 **Optimal Timing:** On empty stomach, morning and evening, for Unmada (psychiatric), Apasmara (epilepsy), and cognitive conditions
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Ghrita
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light and moisture.
 
 **Marker Compounds:** Bacoside A, Alpha-santalol, Beta-asarone (within limits), [Piperine](/reference/piperine/), Gallic acid
-
-**Quality Parameters:** Same as Kalyanaka Ghrita, acid value, peroxide value, saponification value, refractive index, moisture, rancidity test, multi-marker HPTLC, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

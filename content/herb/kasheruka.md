@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-80 mL decoction; 10-15 mL fresh juice
 
-**Bioavailability:** Sesquiterpene constituents show moderate lipophilicity and oral bioavailability. [Starch](/glossary/compounds-q-t/#starch) content of tubers may slow absorption but provides sustained release effect. Traditional processing with buttermilk improves palatability and bioavailability.
-
 **Optimal Timing:** After meals with warm water or buttermilk; for urinary conditions, between meals with cooling liquids
-
-**Standardized Extract:** Standardized to minimum 1% total [sesquiterpenoids](/glossary/compounds-q-t/#sesquiterpenoids) and 3% total phenolics (as gallic acid equivalents)
-
-**Shelf Life:** 18 months for dried tuber powder; 24 months for capsules; fresh juice consumed within 6 hours
 
 **Storage:** Store dried material in airtight, moisture-proof containers at 15-30°C. Susceptible to insect infestation, include sachets of food-grade desiccant and monitor regularly.
 
 **Marker Compounds:** Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Sesquiterpene lactones, Phenolic acids, [Flavonoids](/reference/flavonoids/)
-
-### Extraction Methods
-
-- Water decoction (traditional)
-- Hydroalcoholic extraction (50% ethanol)
-- Cold expression of fresh tubers
-- Percolation with aqueous ethanol
 
 ### Synergistic Combinations
 

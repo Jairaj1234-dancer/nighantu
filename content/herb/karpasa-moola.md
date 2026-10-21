@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa-Moola/meta-analy
 
 **Standard Dosage:** 3-6 g root powder twice daily with warm milk; 50-100 mL decoction twice daily
 
-**Bioavailability:** Root-specific [betaine](/glossary/compounds-a-c/#betaine) and flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show moderate oral bioavailability. Decoction form pre-hydrolyzes glycosides improving aglycone absorption. Milk as Anupana (vehicle) enhances lipophilic constituent absorption and provides buffering action. [Gossypol](/glossary/compounds-g-l/#gossypol) content in roots is significantly lower than seeds.
-
 **Optimal Timing:** After meals with warm milk for [galactagogue](/glossary/pharmacology/#galactagogue) and uterine tonic applications; before meals for digestive indications
-
-**Standardized Extract:** Standardized to minimum 2% total [flavonoids](/reference/flavonoids/) (as [gossypetin](/glossary/compounds-g-l/#gossypetin) equivalents); gossypol content <0.01% for safe internal use
-
-**Shelf Life:** 24 months for powder; 18 months for capsules; decoction consumed within 24 hours
 
 **Storage:** Store in airtight containers at 15-30°C. Protect from moisture and insect infestation. Root material is prone to fungal contamination. Monitor aflatoxin levels.
 
 **Marker Compounds:** Gossypetin, [Herbacetin](/glossary/compounds-g-l/#herbacetin), Betaine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gossypol (trace, must be quantified), [Friedelin](/glossary/compounds-d-g/#friedelin)
-
-### Extraction Methods
-
-- Water decoction (traditional, reduced to 1/4th)
-- Hydroalcoholic extraction (50% ethanol)
-- Cold maceration for thermolabile constituents
-- Reflux extraction with aqueous ethanol
 
 ### Synergistic Combinations
 

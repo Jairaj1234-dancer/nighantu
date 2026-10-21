@@ -67,7 +67,7 @@ One of the most important compound formulations. Five large-tree roots (Brihat P
 
 ## Recommended Dosage
 
-Kwath (decoction): 50-100ml twice daily; Powder: 3-6g/day
+Kwath (decoction): 50-100ml twice daily; Powder: at the dose given under Standard Dosage
 
 ## Safety, contraindications and cautions
 
@@ -82,32 +82,17 @@ Kwath (decoction): 50-100ml twice daily; Powder: 3-6g/day
 
 - Combined actives from all 10 plants
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kwath Ghana (solid decoction extract), Churna (powder), Tablet, Capsule, Taila (medicated oil), [Ghrita](/herb/ghrita/) (medicated ghee), Aristha (fermented preparation)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml Kashayam twice daily; 500-1000mg extract tablet/capsule twice daily; Taila for external application as directed
 
-**Bioavailability:** Dashamoola is a polyherbal combination of 10 roots (5 Brihat and 5 Laghu), providing a diverse phytochemical matrix. The combined [alkaloids](/glossary/compounds-1-a/#alkaloids), [flavonoids](/reference/flavonoids/), and [terpenoids](/glossary/compounds-t-z/#terpenoids) show variable individual bioavailabilities. The traditional decoction form (Kashayam) provides good dissolution and gastric absorption of water-soluble constituents. Ghrita (ghee) preparation enhances absorption of lipophilic terpenoids. The polyherbal matrix may provide natural bioenhancement through constituent interactions. [Piperine](/reference/piperine/) co-administration not traditionally indicated but may enhance absorption of specific alkaloids.
-
 **Optimal Timing:** Before meals with warm water for Vata disorders; Taila application followed by steam (Swedana) for musculoskeletal conditions
-
-**Standardized Extract:** Kwath Ghana (spray-dried aqueous decoction concentrate), extract ratio 8:1 to 12:1. Standardized by HPTLC fingerprint matching reference standards for all 10 components. Total alkaloid content NLT 0.5%.
-
-**Shelf Life:** 2 years (powder/Kwath Ghana); 3 years (tablet); 3 years (Taila); 5-10 years (Aristha, due to self-generated alcohol preservation)
 
 **Storage:** Powder and solid extracts: airtight containers below 25 deg C, protected from moisture. Taila: amber glass bottles, room temperature. Kashayam (liquid): refrigerate and use within 72 hours, or add permitted preservative for 6-month shelf life.
 
 **Marker Compounds:** Desmodianone (from Shalaparni), [Lupeol](/reference/lupeol/) (from [Bilva](/herb/bilva/)/[Patala](/herb/patala/)), [Aegeline](/glossary/compounds-1-a/#aegeline) (from Bilva), Paedalin (from [Shyonaka](/herb/shyonaka/)), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol) (common across roots), Ursolic acid (from [Gambhari](/herb/gambhari/))
-
-### Extraction Methods
-
-- Traditional Kashayam: coarse powder boiled in 16 parts water, reduced to 1/4th
-- Hydroalcoholic extraction (60:40)
-- Sequential aqueous extraction for Kwath Ghana (spray-dried)
-- Taila Paka: traditional oil processing with Kalka and Kwath in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil)
 
 ### Synergistic Combinations
 

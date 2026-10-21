@@ -76,26 +76,16 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 - 
 - Iron 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Crystal salt, Powder, Component in formulations
 
 **Standard Dosage:** 1–3 g as seasoning; in formulations: as directed
 
-**Bioavailability:** Excellent; mineral-rich salt with balanced sodium content
-
 **Optimal Timing:** With meals; before meals for Deepana (appetizer) action
-
-**Standardized Extract:** Natural Himalayan rock salt, the only salt recommended in Ayurveda for daily use
-
-**Shelf Life:** Indefinite (mineral)
 
 **Storage:** Dry, airtight container (hygroscopic)
 
-**Marker Compounds:** Sodium chloride (95–98%), Potassium, Calcium, Magnesium, Iron, 84 trace minerals
-
-**Quality Parameters:** NaCl 95–98%, moisture <1%, iron content (gives pink color), no added anticaking agents, heavy metals within limits
+**Marker Compounds:** Sodium chloride, Potassium, Calcium, Magnesium, Iron, 84 trace minerals
 
 **Vehicle (Anupana):** Part of diet and formulations

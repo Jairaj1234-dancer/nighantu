@@ -67,24 +67,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akhuparni/meta-analysis.md"
 
 **Standard Dosage:** 10-20ml fresh juice twice daily; 2-5g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data. This herb (Ipomoea reniformis / Merremia emarginata) contains glycosides and flavonoids; their oral bioavailability has not been established. Fresh juice preparation retains more bioactive compounds. Traditional anupana with honey or warm water is recommended for improved absorption.
-
 **Optimal Timing:** Early morning on empty stomach with honey for Medhya ([nootropic](/glossary/pharmacology/#nootropic)) action; before meals for digestive complaints
-
-**Standardized Extract:** Limited standardization data. Recommend development of HPTLC fingerprint as primary identity/quality tool. Aqueous extract yield 10-16%.
-
-**Shelf Life:** 1 day (fresh juice); 18 months (powder); 2 years (capsules/tablets)
 
 **Storage:** Fresh material processed immediately. Dried material in airtight containers, cool and dry, below 25°C.
 
-**Marker Compounds:** Total flavonoids, Scopoletin (if present), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Emarginatine (species-specific)
-
-### Extraction Methods
-
-- Fresh juice expression (Swarasa)
-- Aqueous decoction (1:8 ratio, reduced to 1/4)
-- Hydroalcoholic extraction (50:50)
-- Cold maceration (Sheeta Kashaya)
+**Marker Compounds:** Total flavonoids, Scopoletin
 
 ### Synergistic Combinations
 

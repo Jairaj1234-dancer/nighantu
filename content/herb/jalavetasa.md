@@ -72,22 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jalavetasa/meta-analysis.md"
 - Cellulose and hemicellulose
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Capsule
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data.
-
-**Standardized Extract:** Not established for this herb; aqueous extract per traditional Kashayam method
-
 **Storage:** Cool, dry place below 25°C, protected from moisture.
-
-### Extraction Methods
-
-- Aqueous decoction
-- Dried aqueous extract (spray-dried)
 

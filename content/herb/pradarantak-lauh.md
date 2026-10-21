@@ -66,26 +66,16 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 250 mg twice daily
 
-**Bioavailability:** Good; formulated specifically for gynecological iron delivery
-
 **Optimal Timing:** After meals with [Ashoka](/herb/ashoka/) Kwatha or honey
-
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) with gynecological herbs
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide
-
-**Quality Parameters:** Iron content as labeled, standard tablet tests
 
 **Vehicle (Anupana):** Ashoka Kwatha, [Lodhra](/herb/lodhra/) Kwatha, or rice water

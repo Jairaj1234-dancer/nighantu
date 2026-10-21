@@ -71,25 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gorakhmundi/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 10-20ml fresh juice; 500mg extract capsule twice daily
 
-**Bioavailability:** Sphaeranthus indicus (Gorakhmundi) contains sesquiterpene lactones (7-alpha-hydroxyeudesmanolide, sphaeranthanolide), [flavonoids](/reference/flavonoids/), and essential oil. Sesquiterpene lactones have moderate oral bioavailability (20-35%) with good GI absorption but hepatic first-pass metabolism. Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) show typical moderate bioavailability (15-25%). The essential oil fraction (eudesmanolides) is well absorbed but rapidly metabolized. Fresh juice provides labile constituents. Enhancement: lipid-based delivery systems for sesquiterpene lactones; phospholipid complexation; co-administration with [piperine](/reference/piperine/) for CYP inhibition.
-
 **Optimal Timing:** Before meals with warm water for metabolic and anti-inflammatory effects; fresh juice on empty stomach in the morning
-
-**Standardized Extract:** Hydroalcoholic extract standardized to NLT 3% total sesquiterpene lactones (as 7-alpha-hydroxyeudesmanolide) by HPLC. Extract ratio 10:1. Also available: standardized to NLT 15% total [polyphenols](/glossary/compounds-o-q/#polyphenols).
-
-**Shelf Life:** Fresh juice: use within 6 hours; 2 years (powder); 2.5 years (tablet/capsule); 2 years (Taila)
 
 **Storage:** Dried herb and powder: airtight, light-resistant containers below 25 deg C. Protect from moisture. Sesquiterpene lactones are relatively stable when protected from light and heat.
 
 **Marker Compounds:** 7-Alpha-hydroxyeudesmanolide, Sphaeranthanolide, Sphaeranthol, Cryptomeridiol, [Stigmasterol](/reference/stigmasterol/), Beta-eudesmol, [Quercetin](/reference/quercetinquercetin/), Eudesmanolides
-
-### Extraction Methods
-
-- Fresh plant juice expression (Swarasa)
-- Aqueous decoction (whole plant)
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Supercritical CO2 for sesquiterpene-enriched fraction
-- Steam distillation for essential oil
 
 ### Synergistic Combinations
 

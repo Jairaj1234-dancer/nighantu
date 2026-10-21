@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla-Phala/meta-an
 
 **Standard Dosage:** 3-6 g fruit rind powder twice daily with meals; 15-30 mL kokum syrup (sherbet) as needed; 500 mg-1 g standardized extract capsule twice daily before meals
 
-**Bioavailability:** Hydroxycitric acid (HCA) from whole fruit preparation has slightly lower bioavailability than purified HCA salt due to matrix effects from fiber, [pectin](/glossary/compounds-o-q/#pectin), and other fruit components which slow gastric emptying and absorption. However, whole fruit preparations provide a broader spectrum of [polyphenols](/glossary/compounds-o-q/#polyphenols) ([garcinol](/glossary/compounds-d-g/#garcinol), [anthocyanins](/glossary/compounds-1-a/#anthocyanins) in G. indica) with complementary biological activities. Anthocyanins from Kokum (G. indica) have low but meaningful bioavailability (~5-12%) with gut microbiota metabolism to bioactive catabolites. Kokum butter (seed fat) provides excellent topical emollient properties.
-
 **Optimal Timing:** With or after meals for digestive support; before meals for appetite management; Kokum sherbet as refreshing drink anytime (especially summer)
-
-**Standardized Extract:** Whole fruit rind powder: HCA content 10-20% (by HPLC); total organic acids >30% (by titration); Kokum butter: acid value <3.0, melting point 39-43 deg C; anthocyanins (G. indica) >0.5% (by differential pH method)
-
-**Shelf Life:** Dried rind (Amsul): 12-18 months; Kokum butter: 18-24 months; Syrup: 6-12 months refrigerated; Capsules: 24 months
 
 **Storage:** Dried rinds in airtight containers at 15-25 deg C. Kokum butter at room temperature (below melting point) in airtight containers. Syrup refrigerated at 2-8 deg C. Protect anthocyanin-rich products from light.
 
 **Marker Compounds:** (-)-Hydroxycitric acid, Garcinol, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Cyanidin-3-glucoside (G. indica), Cyanidin-3-sambubioside (G. indica), Kokum butter triglycerides (stearic, oleic acids)
-
-### Extraction Methods
-
-- Sun drying of fruit rinds (traditional Amsul/Kokum preparation)
-- Aqueous extraction
-- Hydroethanolic extraction (40-60% ethanol)
-- Cold pressing of seeds for Kokum butter
-- Salt-curing of rinds (culinary Amsul)
 
 ### Synergistic Combinations
 

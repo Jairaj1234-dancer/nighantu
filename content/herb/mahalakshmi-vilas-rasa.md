@@ -60,26 +60,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Good; multi-metal Rasaushadhi with respiratory tropism
-
 **Optimal Timing:** With honey and Adrak Swarasa ([ginger](/herb/ginger/) juice)
-
-**Standardized Extract:** Kajjali + [Abhraka Bhasma](/herb/abhraka-bhasma/) + [Vanga Bhasma](/herb/vanga-bhasma/) + respiratory herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Mica-derived oxides, Tin oxide, [Pippali](/herb/pippali/) [alkaloids](/glossary/compounds-1-a/#alkaloids)
-
-**Quality Parameters:** Standard Rasaushadhi tests, multi-metal assay
 
 **Vehicle (Anupana):** Honey + [ginger](/herb/ginger/) juice; [Sitopaladi Churna](/formulation/sitopaladi-churna/)

@@ -71,26 +71,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vanga-Bhasma/meta-an
 - **Tin oxide (SnO2):** Major component
 - **Iron (Fe):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Good; tin oxide nanoparticles
-
 **Optimal Timing:** With honey or [Shilajit](/herb/shilajit/); for Prameha: before meals
-
-**Standardized Extract:** Calcined tin bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Tin oxide (SnO2), Trace minerals
-
-**Quality Parameters:** Tin content >60%, free tin <1 ppm, standard bhasma tests
 
 **Vehicle (Anupana):** Honey, [Shilajit](/herb/shilajit/), or Bangeshwar Rasa formulation

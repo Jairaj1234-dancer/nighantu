@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Indrayava/meta-analysis.md"
 
 **Standard Dosage:** 1-3g seed powder twice daily; 250-500mg extract; 30-60ml decoction
 
-**Bioavailability:** Holarrhena antidysenterica (Kutaja seeds = Indrayava) contains steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids), primarily conessine, with good oral absorption due to lipophilicity and basic nature. Conessine shows ~40-50% oral bioavailability with Tmax of 2-4 hours. Alkaloids are well absorbed in alkaline intestinal pH.
-
 **Optimal Timing:** Before meals with buttermilk (traditional) or warm water for GI disorders
-
-**Standardized Extract:** Hydroalcoholic extract standardized to 5-8% total alkaloids (as conessine); aqueous extract per API monograph
-
-**Shelf Life:** 2 years (powder); 3 years (standardized extract tablet/capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture and light. Store in airtight containers.
 
 **Marker Compounds:** Conessine, Conessimine, Isoconessimine, Kurchine, Holarrhimine, Conamine
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70% ethanol) for alkaloid-rich extract
-- Acid-base extraction for alkaloid isolation
-- Aqueous decoction (traditional)
-- Methanol extraction for total alkaloid content
 
 ### Synergistic Combinations
 

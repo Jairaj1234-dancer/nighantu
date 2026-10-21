@@ -77,33 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 - Toralactone 
 - Rubrofusarin 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Lepa (seed paste for external use), Taila (oil), Kashayam (decoction), Capsule, Ointment
 
 **Standard Dosage:** 1-3g seed powder twice daily; external paste applied twice daily for skin conditions; 500mg extract capsule; 50-100ml leaf decoction
 
-**Bioavailability:** Chrysophanol and related anthraquinones show moderate oral bioavailability (20-35%) with significant gut microbial metabolism to active aglycones. Chryso-obtusin and aurantio-obtusin undergo hepatic glucuronidation. Topical bioavailability is high for anthraquinones due to their lipophilicity. Seeds provide the highest concentration of dermatologically active compounds.
-
 **Optimal Timing:** External application twice daily for skin conditions (clean and dry skin first); oral use before meals; seed paste applied at bedtime for fungal infections
-
-**Standardized Extract:** Seed extract standardized to chrysophanol NLT 2%; total anthraquinones NLT 5%. Seed oil cold-pressed with linoleic acid NLT 35%.
-
-**Shelf Life:** 2 years (seed powder); 3 years (capsule/tablet); 2 years (oil); 1 year (ointment)
 
 **Storage:** Seeds and powder in airtight containers. Oil in amber glass bottles. Ointments at room temperature in tubes. Protect from light, anthraquinones are photosensitive.
 
 **Marker Compounds:** Chrysophanol, Physcion, Emodin, Obtusin, Aurantio-obtusin, Chryso-obtusin, Rubrofusarin, Torachrysone
-
-### Extraction Methods
-
-- Ethanol extraction (70%) of seeds for anthraquinone enrichment
-- Seed oil extraction by cold pressing
-- Aqueous decoction of leaves
-- Hydroalcoholic extraction (60:40) for balanced extract
-- Soxhlet extraction with chloroform for chrysophanol isolation
 
 ### Synergistic Combinations
 

@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 
 **Standard Dosage:** 3-5g powder twice daily; 50-100ml decoction twice daily; 10-15ml fresh juice; external application as needed. Limited modern dosage data - follow classical text guidelines.
 
-**Bioavailability:** Leonotis nepetifolia / Granthiparni (in some traditions identified with other species) - limited modern pharmacokinetic data. Contains diterpenoids (leonotinin-type), [flavonoids](/reference/flavonoids/), and [iridoids](/glossary/compounds-g-l/#iridoids). Diterpenoids from Lamiaceae family typically have moderate oral bioavailability (20-40%). Traditional preparations as Kashayam and Swarasa optimize water-soluble constituent extraction. Limited data necessitates conservative dosing recommendations. Enhancement strategies: standard approaches for diterpenoid-rich herbs (lipid-based formulations, [piperine](/reference/piperine/) co-administration).
-
 **Optimal Timing:** Before meals with warm water as per classical guidelines; external paste applied 2-3 times daily to affected areas
-
-**Standardized Extract:** No widely standardized extract available. Hydroalcoholic extract characterized by HPTLC fingerprint, total phenolic content NLT 2% (as gallic acid equivalent), and total flavonoid content. Develop in-house reference standard from authenticated material.
-
-**Shelf Life:** Fresh juice: use within 6 hours; 1.5 years (powder); 2 years (tablet if formulated); 2 years (Taila)
 
 **Storage:** Airtight containers in cool, dry place below 25 deg C. Limited stability data - conduct accelerated stability studies for any commercial formulation. Protect from moisture and light.
 
 **Marker Compounds:** Diterpenoids (leonotinin-type, if Leonotis sp.), Flavonoids, Iridoids, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Ursolic acid
-
-### Extraction Methods
-
-- Fresh plant juice expression (Swarasa)
-- Aqueous decoction
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) processing for Taila
 
 ### Synergistic Combinations
 

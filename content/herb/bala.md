@@ -81,7 +81,7 @@ Name means 'strength'. One of the most important Vatahara (anti-Vata) drugs. Use
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Oil (Bala Taila): external use
+Root powder: as given under Standard Dosage; Oil (Bala Taila): external use
 
 ## Safety, contraindications and cautions
 
@@ -101,25 +101,11 @@ Root powder: 3-6g/day; Oil (Bala Taila): external use
 
 **Standard Dosage:** 3-6g powder twice daily; 15-30ml decoction; Bala Taila for external use; 500mg standardized extract capsule
 
-**Bioavailability:** Ephedrine [alkaloids](/glossary/compounds-1-a/#alkaloids) show good oral bioavailability (>75%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) may reduce absorption rate but extend duration. Fat-soluble constituents (phytosterols) benefit from lipid-based delivery (ghrita/taila). [Piperine](/reference/piperine/) co-administration increases alkaloid bioavailability by 25-30%.
-
 **Optimal Timing:** Before meals with warm water or milk for strength-building; Taila applied warm in the morning for Vata disorders
-
-**Standardized Extract:** Root extract standardized to NLT 0.1% total alkaloids (as ephedrine); NLT 1.5% beta-[sitosterol](/glossary/compounds-q-t/#sitosterol); aqueous extract 10:1 ratio
-
-**Shelf Life:** 2 years (powder/capsule); 3 years (tablet)
 
 **Storage:** Cool, dry place away from direct sunlight. Oil preparations in amber glass bottles. Powder in airtight containers to prevent moisture absorption due to mucilage.
 
 **Marker Compounds:** Ephedrine, Pseudoephedrine, Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), Palmitic acid, Linoleic acid, Mucilage polysaccharides
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water)
-- Aqueous decoction for Kashayam
-- Taila paka, oil cooked with kalka and kwath (1:4:16 kalka:taila:kwath)
-- Supercritical CO2 for alkaloid-rich fractions
-- Soxhlet extraction with methanol for research-grade extracts
 
 ### Synergistic Combinations
 

@@ -71,18 +71,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 **Standard Dosage:** 15–30 mg (rare and premium)
 
-**Bioavailability:** Carbon nanostructure form post-calcination; unique properties
-
 **Optimal Timing:** With honey or specific formulation vehicle
-
-**Standardized Extract:** Calcined diamond bhasma, rarest bhasma in Rasashastra
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; premium storage
 
 **Marker Compounds:** Carbon nanostructures, Trace mineral matrix from Bhavana
-
-**Quality Parameters:** Standard bhasma tests; due to extreme cost, authentication is critical
 
 **Vehicle (Anupana):** Honey, ghee, or gold bhasma combination

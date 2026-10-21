@@ -76,26 +76,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Tamra-Bhasma/meta-an
 - **Iron (Fe):** Trace
 - **Zinc (Zn):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 30–60 mg (strict dosing, copper preparation)
 
-**Bioavailability:** Good; copper oxide nanoparticles with controlled release
-
 **Optimal Timing:** With honey or specific anupana; after meals
-
-**Standardized Extract:** Calcined copper bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container; avoid moisture
 
 **Marker Compounds:** Copper oxide (CuO), Copper nanoparticles, Trace sulfur compounds
-
-**Quality Parameters:** Copper content >60%, free copper <1 ppm (critical), standard bhasma tests, Nischandratva
 
 **Vehicle (Anupana):** Honey, [Triphala](/herb/triphala/) Kwatha, or as part of specific formulations

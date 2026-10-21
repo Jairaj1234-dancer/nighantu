@@ -59,18 +59,10 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Moderate; amber resin in fine particle form
-
 **Optimal Timing:** With honey or Arq Gulab
-
-**Standardized Extract:** Amber (fossilized resin) pishti
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Succinic acid, Fossil resin compounds, Trace minerals
-
-**Quality Parameters:** Standard pishti fineness, authenticity verification (amber fluorescence test)
 
 **Vehicle (Anupana):** Honey, rose water

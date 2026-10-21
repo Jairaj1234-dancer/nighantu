@@ -83,32 +83,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 - Myricetin
 - Kaempferol
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (bark powder), Kashayam (decoction), Capsule, Tablet, Twak Kwatha (bark decoction), Ghana Vati, Kshirapaka (bark boiled in milk)
 
 **Standard Dosage:** 3-6g bark powder twice daily; 50-100ml decoction; 500mg-1g extract capsule; fruit powder 3-5g
 
-**Bioavailability:** Moderate oral bioavailability. Ficus religiosa bark contains bergapten (~45% bioavailability), [phytosterols](/glossary/compounds-o-q/#phytosterols) (moderate absorption, enhanced by bile salts), and tannins. Leaf [serotonin](/glossary/compounds-q-t/#serotonin) content is notable but oral serotonin is largely degraded by MAO in gut wall and liver. Bark [sterols](/glossary/compounds-q-t/#sterols) (beta-sitosterol, stigmasterol) show 5-10% absorption, enhanced by co-administration with lecithin. [Coumarin](/glossary/compounds-c-d/#coumarin) compounds are well absorbed.
-
 **Optimal Timing:** Bark decoction is traditionally taken morning and evening. Fruit powder with honey before meals. Kshirapaka at bedtime.
-
-**Standardized Extract:** Bark extract standardized to minimum 2% bergapten and minimum 3% beta-sitosterol. Total phenolic content minimum 15%. Leaf extract (research grade) with documented serotonin content.
-
-**Shelf Life:** 2 years (bark powder); 3 years (capsules/tablets); 5 years (Ghana Vati)
 
 **Storage:** Cool, dry place below 25°C. Airtight containers. Bark stores well due to high tannin content (natural preservative effect).
 
 **Marker Compounds:** Bergapten, Beta-sitosterol, Stigmasterol, Lanosterol, n-Octacosanol, Leucoanthocyanidin, [Leucocyanidin](/glossary/compounds-g-l/#leucocyanidin), [Phytol](/glossary/compounds-o-q/#phytol), Serotonin (leaves)
-
-### Extraction Methods
-
-- Aqueous decoction (1:8, reduced to 1/4)
-- Hydroalcoholic extraction (70:30) for flavonoid and tannin enrichment
-- Methanol extraction for phenolic profiling
-- Kshirapaka for lipophilic constituent extraction
 
 ### Synergistic Combinations
 

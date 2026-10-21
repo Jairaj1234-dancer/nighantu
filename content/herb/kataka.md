@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 - Lignins
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Beeja Churna (seed powder), Anjana (collyrium for eyes), Kashayam (decoction), Capsule, Water purification agent (traditional)
 
 **Standard Dosage:** 1-3 g seed powder twice daily; Anjana: as per ophthalmologist direction; 30-50 mL decoction; for water purification: 50-150 mg/L turbid water
 
-**Bioavailability:** Seed proteins (cationic polyelectrolytes) act as flocculants and are not intended for systemic absorption in water purification use. For internal medicinal use, the bioactive dimorphic acid and flavonoids show moderate absorption. Oleic acid-rich seed oil enhances co-administered lipophilic drug absorption. Nanosuspension of seed extract improves ophthalmic bioavailability.
-
 **Optimal Timing:** After meals for digestive and ocular health; water treatment: add to water and allow 1-2 hours settling time
-
-**Standardized Extract:** Seed extract standardized to minimum 5% coagulant protein fraction; medicinal extract to minimum 2% total flavonoids
-
-**Shelf Life:** 24 months for seed powder; 18 months for capsules; 12 months for Anjana preparations
 
 **Storage:** Store seeds and powder in airtight containers at 15-30°C. Protein-based extracts require refrigeration (2-8°C). Protect from insect infestation.
 
 **Marker Compounds:** Dimorphic acid, Mannose-specific lectin, Cationic polypeptides, Brucine (must be absent, distinguishes from S. nux-vomica), Diaboline, [Loganin](/glossary/compounds-l-o/#loganin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous extraction for coagulant protein fraction
-- Hydroalcoholic extraction (60% ethanol) for medicinal applications
-- Cold pressing for seed oil
-- Protein precipitation and purification for water treatment applications
 
 ### Synergistic Combinations
 

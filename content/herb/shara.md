@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Shara/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL kwatha twice daily; 500 mg - 1 g Kshara with appropriate vehicle
 
-**Bioavailability:** Phenolic acids and [flavonoids](/reference/flavonoids/) show moderate bioavailability (20-35%). Kshara (alkali) preparations are highly water-soluble and rapidly absorbed. [Silica](/glossary/compounds-q-t/#silica) content (from grass species) has low systemic bioavailability but contributes to local GI effects.
-
 **Optimal Timing:** Before meals for urinary and digestive indications; Kshara with warm water or honey
-
-**Standardized Extract:** Kshara (alkaline preparation) standardized to pH 10-12, total alkalinity NLT 50% as [potassium](/glossary/compounds-o-q/#potassium) carbonate equivalents; aqueous-ethanolic extract (4:1) for non-Kshara formulations
-
-**Shelf Life:** Indefinite for Kshara in sealed containers; 24 months for churna; 30 months for capsules
 
 **Storage:** Kshara is hygroscopic. Store in airtight glass or HDPE containers with desiccant. Churna below 25 deg C, protect from moisture.
 
 **Marker Compounds:** Potassium carbonate (in Kshara), Silica, p-Coumaric acid, Ferulic acid, [Tricin](/glossary/compounds-t-z/#tricin)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Kshara preparation (calcination of whole plant and water extraction of ash)
-- Hydroalcoholic extraction (50% ethanol)
-- Arka preparation by distillation
 
 ### Synergistic Combinations
 

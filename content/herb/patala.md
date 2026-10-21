@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** [Lapachol](/glossary/compounds-g-l/#lapachol) and other naphthoquinones from Patala have moderate oral bioavailability (25-40%). Lapachol is lipophilic and benefits from lipid-based delivery. [Flavonoids](/reference/flavonoids/) (dinatin, [scutellarein](/glossary/compounds-q-t/#scutellarein)) show 15-30% bioavailability. Iridoid [glycosides](/glossary/compounds-g-l/#glycosides) present are hydrolyzed by gut flora releasing aglycones with variable absorption kinetics.
-
 **Optimal Timing:** After meals for general anti-inflammatory use. As part of Dashmool Kwatha: morning and evening between meals.
-
-**Standardized Extract:** Patala stem bark extract (6:1) standardized to lapachol >0.5%, total flavonoids >3%. Root bark extract for Dashmool formulation with validated TLC/HPTLC profile.
-
-**Shelf Life:** Bark powder: 18-24 months; Extract: 24-36 months; Tablets: 24-36 months; Arishtam: 5-10 years
 
 **Storage:** Dried bark: airtight containers, below 25 deg C, protected from moisture and pest infestation. Extracts: amber containers, cool and dry. Arishtam: amber glass, room temperature.
 
 **Marker Compounds:** Lapachol, Dinatin, Scutellarein, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), p-Coumaric acid, Stereolensin, Stereochenol A
-
-### Extraction Methods
-
-- Aqueous decoction of stem bark
-- Hydroalcoholic extraction (60% ethanol)
-- Methanol extraction for naphthoquinone isolation
-- Sequential solvent extraction (hexane then ethanol) for fractionation
-- Percolation for Arishtam preparation
 
 ### Synergistic Combinations
 

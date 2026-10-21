@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilwa-Patra/meta-analysis.md"
 
 **Standard Dosage:** 3-5g leaf powder twice daily; 10-20ml fresh juice; 50-100ml decoction; 500mg extract capsule twice daily
 
-**Bioavailability:** Leaf [coumarins](/glossary/compounds-c-d/#coumarins) (marmesin, [imperatorin](/glossary/compounds-g-l/#imperatorin)) show moderate to good oral bioavailability (35-50%). Skimmianine crosses the blood-brain barrier. Essential oil components ([limonene](/glossary/compounds-g-l/#limonene), alpha-phellandrene) are rapidly absorbed. Caution: furanocoumarins can inhibit CYP3A4, potentially altering bioavailability of co-administered drugs. Fresh juice provides highest bioavailability of volatile constituents.
-
 **Optimal Timing:** Morning on empty stomach for diabetic support; before meals with honey for respiratory conditions; fresh juice early morning
-
-**Standardized Extract:** Leaf extract standardized to skimmianine NLT 0.5%; total coumarins NLT 2%; essential oil content NLT 0.5%
-
-**Shelf Life:** 18 months (leaf powder); 2.5 years (capsule/tablet); 3 days (fresh juice, refrigerated)
 
 **Storage:** Leaf powder in airtight, light-protected containers. Fresh juice refrigerated. Essential oil in amber glass. Protect from UV light due to furanocoumarins.
 
 **Marker Compounds:** Skimmianine, Aegeline, Marmesin, Imperatorin, Limonene, Alpha-phellandrene, Eugenol, Cineole, Rutin
-
-### Extraction Methods
-
-- Aqueous decoction of dried leaves
-- Hydroalcoholic extraction (60:40) for alkaloid and [coumarin](/glossary/compounds-c-d/#coumarin) enrichment
-- Steam distillation for leaf essential oil
-- Fresh juice expression (Swarasa)
-- Ethanol maceration for research-grade extracts
 
 ### Synergistic Combinations
 

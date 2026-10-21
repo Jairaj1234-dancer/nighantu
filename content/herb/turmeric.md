@@ -150,34 +150,17 @@ Powder: 1-3g/day; Curcumin extract: 500-2000mg/day
 - **1,8-Cineole:** 2-5%
 - **Alpha-phellandrene:** 1-3%
 
-**Analytical Methods:** HPLC-PDA (curcuminoids), GC-MS (essential oil), UV spectrophotometry at 425nm
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Capsule, Tablet, Softgel (curcumin + oil), Kwatha (decoction), Paste (Lepa), Haldi Doodh (golden milk), Nanoparticle formulation, Phytosome complex, Liposomal formulation
 
 **Standard Dosage:** 1-3 g turmeric powder daily with food; 250-500 mg standardized curcumin extract (95%) twice daily; up to 8 g/day in clinical trials
 
-**Bioavailability:** Native curcumin has notoriously poor oral bioavailability (<1-2%) due to low aqueous solubility, rapid intestinal and hepatic metabolism (glucuronidation, sulfation, reduction), and rapid systemic elimination. Multiple strategies to enhance: (1) Piperine co-administration increases bioavailability 20-fold by inhibiting glucuronidation; (2) Phospholipid complexation (Meriva/phytosome) improves 29-fold; (3) Nanoparticle formulations (nano-curcumin) 27-40 fold; (4) Amorphous solid dispersion (CurcuWIN) 46-fold; (5) Micellar solubilization (NovaSol) 185-fold; (6) Self-emulsifying drug delivery (SEDDS) 10-15 fold; (7) Adjuvanted with turmeric essential oil (BCM-95) 7-8 fold. For R&D purposes, specify bioavailability enhancement technology.
-
 **Optimal Timing:** With meals containing fat for enhanced absorption; avoid taking with antacids (alkaline pH degrades curcumin)
-
-**Standardized Extract:** Standard extract: 95% total curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin) by HPLC; Turmeric oleoresin: 40-55% curcuminoids + essential oil; BCM-95: 95% curcuminoids + 7-9% essential oil; Phytosome: 18-22% curcuminoids complexed with phosphatidylcholine
-
-**Shelf Life:** Raw turmeric powder: 24-36 months; Curcumin extract capsules: 24-36 months; Softgels: 24 months; Phytosome: 24-36 months; Essential oil: 24 months
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C. Curcumin is extremely photosensitive; opaque packaging mandatory. Protect from alkaline environments. Phytosome/lipid formulations may require refrigeration (2-8 deg C) for optimal stability.
 
 **Marker Compounds:** Curcumin (diferuloylmethane), Demethoxycurcumin, Bisdemethoxycurcumin, ar-Turmerone, alpha-Turmerone, beta-Turmerone, Curcumol, [Zingiberene](/glossary/compounds-t-z/#zingiberene)
-
-### Extraction Methods
-
-- Solvent extraction (ethanol or ethyl acetate) for curcuminoids
-- Supercritical CO2 extraction for turmeric oleoresin
-- Steam distillation for essential oil (ar-turmerone rich)
-- Aqueous extraction for polysaccharide fraction
-- Spray drying for water-dispersible powder
-- Nano-precipitation for nanoparticle forms
 
 ### Synergistic Combinations
 

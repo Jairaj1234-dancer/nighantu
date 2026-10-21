@@ -63,25 +63,17 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet (modern), Concentrated liquid (modern)
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:9 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Sahasrayoga, Kasayaprakarana; 107.
 
-**Bioavailability:** Hot decoction provides rapid absorption. [Trikatu](/herb/trikatu/) (Katutraya) serves dual purpose, therapeutic and bioenhancer. [Piperine](/reference/piperine/) increases absorption of other Dashamoola constituents. Synergistic anti-inflammatory effect of combined roots.
-
 **Optimal Timing:** Before meals, morning and evening
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: same day use. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** Piperine, 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Lupeol](/reference/lupeol/) (from Dashamoola), [Marmelosin](/glossary/compounds-l-o/#marmelosin) (from Bilwa root), [Solasodine](/glossary/compounds-q-t/#solasodine) (from [Brihati](/herb/brihati/)/[Kantakari](/herb/kantakari/))
-
-**Quality Parameters:** pH, specific gravity, total solids, extractive values, piperine content by HPLC, total [alkaloids](/glossary/compounds-1-a/#alkaloids), HPTLC fingerprint showing Dashamoola and [Trikatu](/herb/trikatu/) markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water (for tablets); taken as is (liquid)
 

@@ -35,25 +35,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 
 **Standard Dosage:** Fresh leaves: 10-30g in cooking; Dried leaf powder: 2-5g twice daily; 500mg standardized leaf extract capsule twice daily; infusion: 3-5g dried leaf in hot water
 
-**Bioavailability:** Trigonella foenum-graecum leaves contain [flavonoids](/reference/flavonoids/) ([vitexin](/glossary/compounds-t-z/#vitexin), [orientin](/glossary/compounds-o-q/#orientin), [isovitexin](/glossary/compounds-g-l/#isovitexin)), [saponins](/reference/saponins/) (at lower levels than seeds), and [chlorophyll](/glossary/compounds-c-d/#chlorophyll). Flavone C-[glycosides](/glossary/compounds-g-l/#glycosides) (vitexin, orientin) are absorbed intact via SGLT1 transporter with moderate bioavailability (20-35%). Leaf saponin content is lower than seeds, resulting in less GI disturbance. Fenugreek leaf [galactomannan](/glossary/compounds-d-g/#galactomannan) fiber modulates [glucose](/glossary/compounds-d-g/#glucose) absorption (beneficial for glycemic control but may reduce absorption of co-administered drugs). Enhancement: microparticle formulation; cooking in oil/ghee improves lipophilic constituent absorption.
-
 **Optimal Timing:** With meals for glycemic modulation; dried leaf tea after meals as digestive; fresh leaves consumed as part of meals
-
-**Standardized Extract:** Leaf extract standardized to NLT 3% total flavonoids (as vitexin equivalent) by HPLC. Total saponin content NLT 1% (lower than seed extracts). Extract ratio 6:1.
-
-**Shelf Life:** Fresh leaves: 3-5 days refrigerated; Dried leaves (Kasuri Methi): 1 year; Capsule: 2 years; Tincture: 3 years
 
 **Storage:** Fresh leaves: refrigerate in perforated bags. Dried leaves: airtight containers, dark, cool, and dry place. Protect from moisture - dried fenugreek leaves absorb moisture rapidly, becoming limp and losing aroma.
 
 **Marker Compounds:** Vitexin, Orientin, Isovitexin, Chlorogenic acid, [Diosgenin](/glossary/compounds-d-g/#diosgenin) (trace, lower than seed), [Trigonelline](/glossary/compounds-t-z/#trigonelline) (lower than seed), Iron content
-
-### Extraction Methods
-
-- Hot water infusion of dried leaves
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Sun/shade-drying for Kasuri Methi preparation
-- Spray-dried aqueous extract
-- Fresh leaf juice expression
 
 ### Synergistic Combinations
 

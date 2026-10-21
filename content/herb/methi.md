@@ -155,26 +155,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 **Standard Dosage:** 5-30 g seed powder per day; 500-1000 mg standardized extract twice daily; 5-10 g soaked/sprouted seeds daily
 
-**Bioavailability:** 4-Hydroxyisoleucine has good oral bioavailability (~60%). Diosgenin is lipophilic with moderate absorption enhanced by lipid co-administration. Galactomannan fiber (50% of seed) is not absorbed but slows glucose and lipid absorption, providing therapeutic benefit. Trigonelline has good water solubility and oral bioavailability (~70%). Steroidal saponins undergo GI hydrolysis before absorption.
-
 **Optimal Timing:** 30 minutes before meals for glycemic control (fiber and 4-hydroxyisoleucine need time to form gel); soaked seeds in morning for general health; topical paste overnight for hair health
-
-**Standardized Extract:** Standardized seed extract (10:1) with minimum 40% galactomannan and 4% steroidal saponins (as diosgenin equivalents). 4-Hydroxyisoleucine-enriched extract (minimum 20% 4-HI) for targeted glycemic products. Defatted seed powder for fiber supplementation. Diosgenin-rich extract (minimum 10%) for hormonal applications.
-
-**Shelf Life:** Whole seeds: 36 months. Ground powder: 18 months. Extract capsules: 24 months. Mucilage gel: 12 months with preservative.
 
 **Storage:** Whole seeds in cool, dry conditions at room temperature. Ground powder in airtight containers below 25 deg C. Extract capsules in blister packs with desiccant. Mucilage gel refrigerated at 2-8 deg C after opening.
 
 **Marker Compounds:** 4-Hydroxyisoleucine, Diosgenin, Trigonelline, Galactomannan, Sotolon, [Yamogenin](/glossary/compounds-t-z/#yamogenin), Gitogenin, [Protodioscin](/glossary/compounds-o-q/#protodioscin)
-
-### Extraction Methods
-
-- Aqueous extraction (soaking/decoction)
-- Hydroalcoholic extraction (50-70% ethanol)
-- Defatting with hexane followed by ethanol extraction
-- Enzymatic extraction for galactomannan
-- Supercritical CO2 for diosgenin-enriched extract
-- Cold water extraction for mucilage
 
 ### Synergistic Combinations
 

@@ -62,26 +62,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Siddha-Makardhwaj/
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 30–60 mg twice daily
 
-**Bioavailability:** Traditionally described as superior to standard Makaradhwaj because of additional herbal processing (Siddha = perfected); not established
-
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
-
-**Standardized Extract:** Makaradhwaj further processed (Siddha) with herbal Bhavana
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Gold-mercury sulfide complex, Herbal bioactives from Siddhi process
-
-**Quality Parameters:** All Makaradhwaj tests + additional Siddhi verification
 
 **Vehicle (Anupana):** Honey + ghee, [Chyawanprash](/formulation/chyawanprash/), or condition-specific vehicles

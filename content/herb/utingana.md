@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Utingana/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** [Alkaloids](/glossary/compounds-1-a/#alkaloids) and [flavonoids](/reference/flavonoids/) show moderate oral bioavailability (20-35%). Polyphenolic compounds undergo Phase II hepatic conjugation. The saponin fraction is poorly absorbed (<10%) but contributes to local GI effects. Co-administration with [Trikatu](/herb/trikatu/) or [piperine](/reference/piperine/)-containing herbs can enhance systemic absorption of the alkaloid fraction.
-
 **Optimal Timing:** After meals with warm water; morning and evening administration
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by titrimetric method) and >3% total flavonoids (as [quercetin](/reference/quercetinquercetin/) equivalent)
-
-**Shelf Life:** Powder: 12-18 months; Capsules/Tablets: 24 months; Decoction: prepare fresh daily
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C, protected from light and humidity.
 
 **Marker Compounds:** Quercetin, [Rutin](/glossary/compounds-q-t/#rutin), [Kaempferol](/reference/kaempferol/), beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Ursolic acid
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (50-70% ethanol)
-- Cold maceration
-- Soxhlet extraction with ethanol
 
 ### Synergistic Combinations
 

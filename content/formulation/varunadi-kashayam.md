@@ -64,25 +64,17 @@ Chakradutta. Also referenced in Sushruta Samhita and Bhaishajya Ratnavali for Mu
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kashayam tablet, Concentrated liquid
 
 **Standard Dosage:** 40-80ml twice daily for urinary conditions
 
-**Bioavailability:** Aqueous decoction provides good bioavailability for water-soluble compounds; concentration step may reduce volatile components
-
 **Optimal Timing:** Before meals, typically morning and evening
-
-**Shelf Life:** 1 day (fresh kashayam); 2 years (kashayam tablet); 6 months (concentrated liquid with preservative)
 
 **Storage:** Fresh: refrigerate, use within 24h. Tablet/liquid: cool dry place, airtight
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), Punarnavine, [Protodioscin](/glossary/compounds-o-q/#protodioscin)
-
-**Quality Parameters:** pH 4.0-6.5, specific gravity 1.01-1.05, total solids 2-8%, marker assay: Lupeol, Punarnavine, Protodioscin
 
 **Vehicle (Anupana):** Warm, usually taken on empty stomach
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumyamalaki/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 500mg standardized extract capsule twice daily; 10-20ml juice; 50-100ml decoction twice daily
 
-**Bioavailability:** [Phyllanthin](/glossary/compounds-o-q/#phyllanthin) and [hypophyllanthin](/glossary/compounds-g-l/#hypophyllanthin) show moderate oral bioavailability (25-35%). Significant hepatic first-pass metabolism of [lignans](/glossary/compounds-g-l/#lignans). Self-emulsifying drug delivery systems (SEDDS) improve lignan bioavailability by 2-3 fold. Phospholipid complexes (phytosomes) of Bhumyamalaki extract show enhanced [hepatoprotective](/reference/hepatoprotective/) efficacy. Administration with warm water provides optimal absorption.
-
 **Optimal Timing:** Before meals on empty stomach for hepatoprotective effect; morning and evening; with warm water
-
-**Standardized Extract:** Whole plant extract standardized to phyllanthin NLT 2% and hypophyllanthin NLT 0.5%; total bitter principles NLT 4%. Aqueous extract 10:1 ratio for decoction concentrates.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (syrup with preservative)
 
 **Storage:** Cool, dry place away from light and moisture. Capsules in blister packs. Syrup in amber glass bottles. Temperature below 30°C.
 
 **Marker Compounds:** Phyllanthin, Hypophyllanthin, Niranthin, Phyltetralin, Gallic acid, Ellagic acid, [Corilagin](/glossary/compounds-c-d/#corilagin), [Quercetin](/reference/quercetinquercetin/), Astragalin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30 ethanol:water) for lignan-rich extract
-- Aqueous decoction for traditional use
-- Ethyl acetate extraction for phyllanthin isolation
-- Supercritical CO2 for lipophilic lignan concentration
-- Spray drying for stable powder extract
 
 ### Synergistic Combinations
 

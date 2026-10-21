@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bala-Mool/meta-analysis.md"
 
 **Standard Dosage:** 3-5g root powder twice daily; 40-80ml decoction twice daily; 500mg extract capsule twice daily
 
-**Bioavailability:** Root-specific alkaloid content provides moderate to good oral bioavailability. Root [mucilage](/glossary/compounds-l-o/#mucilage) forms a gel matrix in the stomach that slows release, useful for sustained-effect formulations. Lipid vehicles (ghee, oil) enhance absorption of sterol components by 30-40%.
-
 **Optimal Timing:** Before meals with warm milk for [Rasayana](/reference/rasayana/) effect; with warm water for musculoskeletal complaints; Taila application in the evening for joint stiffness
-
-**Standardized Extract:** Root extract standardized to NLT 0.15% total [alkaloids](/glossary/compounds-1-a/#alkaloids); NLT 2% beta-[sitosterol](/glossary/compounds-q-t/#sitosterol); total extract ratio 8:1
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Store in airtight containers in a cool, dry environment. Root powder is hygroscopic; use desiccant packs in packaging.
 
 **Marker Compounds:** [Ephedrine](/glossary/compounds-d-g/#ephedrine), Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/), Hypaphorine, [Vasicinone](/glossary/compounds-t-z/#vasicinone), Root mucilage [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
-
-### Extraction Methods
-
-- Aqueous decoction (1:16 reduced to 1:4)
-- Hydroalcoholic extraction (60:40)
-- Sequential extraction: petroleum ether followed by ethanol for phytosterol isolation
-- Traditional Kwath preparation with slow boiling
 
 ### Synergistic Combinations
 

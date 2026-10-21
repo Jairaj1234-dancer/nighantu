@@ -66,25 +66,17 @@ Sahasrayoga, Lehaprakarana (per the Ayurvedic Formulary of India); Bhaishajya Ra
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Avaleha/Leha (semi-solid confection), Granules (modern), Capsules (modern)
 
 **Standard Dosage:** 6-12 g twice daily. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Lehaprakarana; 1.
 
-**Bioavailability:** Avaleha base with sugar and ghee enhances absorption of [marmelosin](/glossary/compounds-l-o/#marmelosin) and other [coumarins](/glossary/compounds-c-d/#coumarins). Semi-solid matrix provides sustained-release properties. Honey (added when cool) provides enzymatic bioenhancement and preservative action.
-
 **Optimal Timing:** After meals or between meals, twice daily, for chronic diarrhea and IBS-type conditions
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Avaleha preparations
 
 **Storage:** Store in wide-mouth glass or food-grade HDPE jars with airtight lids in a cool, dry place. Temperature not exceeding 25°C. Protect from moisture.
 
 **Marker Compounds:** Marmelosin, [Marmelide](/glossary/compounds-l-o/#marmelide), Aegelin, [Skimmianine](/glossary/compounds-q-t/#skimmianine), [Umbelliferone](/glossary/compounds-t-z/#umbelliferone)
-
-**Quality Parameters:** Total solids (minimum 65%), pH, moisture content (<25%), total sugar, total fat, ash value, marmelosin content from Bilwa by HPLC, microbial limits, heavy metals, HPTLC fingerprint, organoleptic evaluation
 
 **Vehicle (Anupana):** Warm water or buttermilk
 

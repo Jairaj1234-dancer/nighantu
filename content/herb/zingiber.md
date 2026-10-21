@@ -40,27 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g dry ginger powder twice daily; 5-10 mL fresh juice with honey; 250-500 mg standardized extract capsule twice daily; 1-2 g fresh ginger as food
 
-**Bioavailability:** 6-[Gingerol](/glossary/compounds-d-g/#gingerol) (fresh ginger) has moderate oral bioavailability (~30-40%) limited by rapid hepatic glucuronidation and sulfation. 6-Shogaol (dehydrated product of gingerol, predominant in dry ginger/Shunthi) has better bioavailability (~40-50%) and 2-3x greater biological potency. Essential oil components ([zingiberene](/glossary/compounds-t-z/#zingiberene), beta-sesquiphellandrene) are rapidly absorbed but extensively metabolized. Fresh vs. dry ginger have distinct pharmacological profiles: fresh ginger is richer in gingerols (anti-emetic, GI motility) while dry ginger (Shunthi) is richer in shogaols (anti-inflammatory, [analgesic](/reference/analgesic/)). [Piperine](/reference/piperine/) co-administration enhances gingerol bioavailability by ~1.5-fold.
-
 **Optimal Timing:** Before meals for digestive stimulation and anti-emetic effect; with meals for carminative action; morning with warm water for metabolism activation; 30-60 minutes before travel for motion sickness
-
-**Standardized Extract:** Oleoresin (CO2 extract): >25% total gingerols (6-gingerol + 8-gingerol + 10-gingerol) by HPLC; dry ginger extract: >5% total shogaols; essential oil: >25% zingiberene by GC-FID; fresh ginger extract: 6-gingerol/6-shogaol ratio >5:1
-
-**Shelf Life:** Fresh rhizome: 2-3 weeks refrigerated; Dry ginger (Shunthi): 24-36 months; Powder: 18-24 months; Oleoresin: 24-36 months; Essential oil: 24-36 months; Capsules: 24-36 months; Tincture: 48 months
 
 **Storage:** Fresh ginger at 12-14 deg C, 65% RH (not below 10 deg C to avoid chilling injury). Dry ginger in airtight, moisture-proof containers at 15-25 deg C. Oleoresin and essential oil in amber glass, tightly sealed, at 15-25 deg C. Protect from light and heat.
 
 **Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, 8-Shogaol, 10-Shogaol, [Zingerone](/glossary/compounds-t-z/#zingerone), Zingiberene, beta-Sesquiphellandrene, ar-Curcumene, alpha-Zingiberene, beta-Bisabolene
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Supercritical CO2 extraction for oleoresin (gingerol + shogaol rich)
-- Hydroethanolic extraction (60-80% ethanol)
-- Acetone extraction for gingerol-rich oleoresin
-- Aqueous decoction/infusion
-- Cold pressing of fresh rhizome
-- Spray drying for standardized extract powder
 
 ### Synergistic Combinations
 

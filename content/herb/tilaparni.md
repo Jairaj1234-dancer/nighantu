@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tilaparni/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 2-4 g powder twice daily; 30-60 mL decoction twice daily
 
-**Bioavailability:** Essential oil components ([thymol](/glossary/compounds-t-z/#thymol), [carvacrol](/glossary/compounds-a-c/#carvacrol)-type compounds) show good oral bioavailability (>45%) with rapid GI absorption. Rosmarinic acid, a key phenolic, has oral bioavailability of approximately 15-20% due to esterase-mediated hydrolysis in the gut and extensive Phase II metabolism. Lipid-based formulations improve absorption of hydrophobic [terpenoids](/glossary/compounds-t-z/#terpenoids).
-
 **Optimal Timing:** Before meals for digestive complaints; after meals with honey for respiratory conditions
-
-**Standardized Extract:** Essential oil standardized to total phenolic terpenoids >40% by GC-MS; hydroethanolic extract with >1.5% rosmarinic acid by HPLC
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12 months; Essential oil: 24 months; Capsules: 24 months
 
 **Storage:** Airtight, light-resistant containers at 15-25 deg C. Essential oil in amber glass. Fresh juice refrigerated at 2-8 deg C.
 
 **Marker Compounds:** [Eugenol](/glossary/compounds-d-g/#eugenol), Methyl eugenol, Rosmarinic acid, Ursolic acid, [Linalool](/glossary/compounds-l-o/#linalool), beta-Caryophyllene, [Ocimene](/glossary/compounds-l-o/#ocimene)
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydroethanolic extraction (50-70% ethanol)
-- Cold pressing of fresh herb
-- Aqueous decoction
-- Supercritical CO2 extraction
 
 ### Synergistic Combinations
 

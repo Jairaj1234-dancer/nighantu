@@ -78,24 +78,15 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 - 
 - Trace minerals
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Sea salt crystal/powder
 
 **Standard Dosage:** As dietary salt; medicinal: 1–3 g
 
-**Bioavailability:** Good; natural marine mineral profile
-
 **Optimal Timing:** With meals; specific formulations as directed
-
-**Standardized Extract:** Unrefined sea salt
-
-**Shelf Life:** Indefinite
 
 **Storage:** Dry, airtight container
 
 **Marker Compounds:** Sodium chloride (85–90%), Magnesium, Potassium, Calcium, Marine trace minerals
 
-**Quality Parameters:** NaCl >85%, heavy metals within limits, no marine pollutants, iodine content as labeled

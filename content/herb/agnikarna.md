@@ -70,23 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 
 **Standard Dosage:** Internal use only after Shodhana and under qualified supervision; no safe self-administered dose is given here. External oil application as needed
 
-**Bioavailability:** Limited modern bioavailability data. Traditional texts suggest moderate absorption when taken with warm water or specific anupanas. The plant's alkaloid constituents suggest reasonable lipophilic absorption. Co-administration with [Trikatu](/herb/trikatu/) may enhance absorption via [piperine](/reference/piperine/)-mediated mechanisms.
-
 **Optimal Timing:** After meals with warm water for internal use; topical application as needed, typically twice daily
-
-**Standardized Extract:** Limited standardization data. Aqueous extract yield approximately 10-15%. TLC fingerprinting recommended for batch consistency.
-
-**Shelf Life:** 2 years (powder); 3 years (oil preparations); 2 years (tablets/capsules)
 
 **Storage:** Cool, dry place away from light and moisture. Temperature below 30°C, RH < 65%.
 
 **Marker Compounds:** Colchicine, gloriosine ([Alkaloids](/glossary/compounds-1-a/#alkaloids), total alkaloid content)
-
-### Extraction Methods
-
-- Aqueous decoction (classical Kashaya vidhi)
-- Hydroalcoholic extraction (50:50)
-- [Tila](/herb/tila/) taila ([sesame oil](/glossary/concepts-m-y/#tila-taila)) based extraction for external preparations
 
 ### Synergistic Combinations
 

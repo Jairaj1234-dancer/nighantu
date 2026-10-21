@@ -80,25 +80,17 @@ Yogaratnakara, Ksudrarogadhikara (as cited by the Ayurvedic Formulary of India);
 - Sandalwood Oil
 - Vitamin C and zinc 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Tailam (medicated oil for facial/skin use), Serum (modern), Cream (modern)
 
 **Standard Dosage:** External: 2-5 drops on face/skin, massage gently, once daily (usually at bedtime). The Ayurvedic Formulary of India attributes this formula to Yogaratnakara, Ksudrarogadhikara; Page 740.
 
-**Bioavailability:** Facial skin is thin and highly vascular, topical actives are well-absorbed. Crocin and crocetin from saffron are reported to have antioxidant activity. Sandalwood (alpha-santalol) has anti-inflammatory and anti-melanogenic activity via tyrosinase inhibition. [Manjishtha](/herb/manjishtha/) ([purpurin](/glossary/compounds-o-q/#purpurin), [alizarin](/glossary/compounds-1-a/#alizarin)) is traditionally used for depigmentation.
-
 **Optimal Timing:** At bedtime (overnight application for maximum absorption and repair). Can also be applied in morning before makeup.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in dark amber glass bottles with dropper caps in a cool, dry place. Temperature not exceeding 25°C. Protect from light (crocin is photosensitive). Refrigeration extends shelf life.
 
 **Marker Compounds:** Crocin, Crocetin, Safranal, Picrocrocin (from Saffron), Alpha-santalol, Purpurin (from [Manjishtha](/herb/manjishtha/)), Alizarin
-
-**Quality Parameters:** Acid value (<5), peroxide value (<5, stricter for facial oil), saponification value, refractive index, specific gravity, crocin content from saffron by HPLC, alpha-santalol from sandalwood, total [carotenoids](/glossary/compounds-a-c/#carotenoids), rancidity test negative (critical for facial use), HPTLC multi-marker fingerprint, microbial limits (strict, facial application), heavy metals (strict limits), dermatological safety testing
 
 **Vehicle (Anupana):** Not applicable, topical facial use. Apply 2-5 drops, massage upward in circular motions.
 

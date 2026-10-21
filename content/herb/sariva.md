@@ -78,7 +78,7 @@ Traditionally regarded as one of the safest blood purifiers in Ayurveda. Used fo
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Decoction: 50-100ml/day; Asava ([Sarivadyasava](/formulation/sarivadyasava/)): 15-30ml
+Root powder: 3-6g/day; Asava ([Sarivadyasava](/formulation/sarivadyasava/)): 15-30ml
 
 ## Safety, contraindications and cautions
 
@@ -96,25 +96,11 @@ Root powder: 3-6g/day; Decoction: 50-100ml/day; Asava ([Sarivadyasava](/formulat
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL kwatha twice daily; 15-30 mL syrup twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** [Phytosterols](/glossary/compounds-o-q/#phytosterols) and coumarins show moderate oral bioavailability (25-40%). Hemidesmine (a [coumarin](/glossary/compounds-c-d/#coumarin)) is lipophilic and benefits from lipid-based formulations. 2-hydroxy-4-methoxybenzaldehyde is volatile and rapidly absorbed. Co-administration with milk (traditional Ksheerapaka) enhances fat-soluble constituent absorption.
-
 **Optimal Timing:** After meals; can be taken with milk for enhanced Pitta-pacifying action. Suitable for all seasons.
-
-**Standardized Extract:** Aqueous-ethanolic root extract (6:1), standardized to NLT 0.5% 2-hydroxy-4-methoxybenzaldehyde by GC-MS; total coumarin content NLT 1.2% by HPLC
-
-**Shelf Life:** 12-18 months for syrup; 24 months for churna; 36 months for standardized extract capsules
 
 **Storage:** Syrup: store at 15-25 deg C, refrigerate after opening. Churna and capsules: below 25 deg C, airtight, protect from light and moisture.
 
 **Marker Compounds:** 2-Hydroxy-4-methoxybenzaldehyde, Hemidesmine, Hemidesminine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Coumarins (total)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Milk decoction (Ksheerapaka)
-- Steam distillation for volatile aromatic fraction
-- Cold maceration in water for heat-labile constituents
 
 ### Synergistic Combinations
 

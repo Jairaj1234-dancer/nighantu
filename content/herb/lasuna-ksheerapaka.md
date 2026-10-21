@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna-Ksheerapaka/meta-analy
 
 **Standard Dosage:** 50-100 mL Ksheerapaka preparation twice daily (prepared from 5-10 g garlic in 200 mL milk reduced to half); concentrated powder 500-1000 mg twice daily
 
-**Bioavailability:** Milk lipids enhance absorption of garlic's lipophilic organosulfur compounds (diallyl sulfides). Casein [proteins](/glossary/compounds-o-q/#proteins) partially stabilize [allicin](/glossary/compounds-1-a/#allicin), slowing degradation. Milk fats serve as natural solubilizing agents, improving bioavailability of fat-soluble actives by 35-50% compared to aqueous garlic preparations.
-
 **Optimal Timing:** Traditionally given in the evening or at bedtime for cardiovascular and Vata-pacifying use, and on an empty stomach in respiratory complaints
-
-**Standardized Extract:** Spray-dried Ksheerapaka concentrate (20:1 ratio) standardized to minimum 0.3% organosulfur compounds. Reconstitution yields equivalent of traditional preparation. Lyophilized powder retaining minimum 85% of original SAC content.
-
-**Shelf Life:** Freshly prepared Ksheerapaka: 6-8 hours at room temperature, 24 hours refrigerated. Spray-dried powder: 18 months. Lyophilized powder: 24 months. Softgels: 24 months.
 
 **Storage:** Fresh Ksheerapaka must be consumed within hours or refrigerated at 2-8 deg C. Spray-dried and lyophilized powders stored below 25 deg C in moisture-proof, airtight containers with desiccant sachets. Protect from light and humidity (below 45% RH).
 
 **Marker Compounds:** S-allylcysteine, Diallyl disulfide, [Alliin](/glossary/compounds-1-a/#alliin) (residual), Casein-bound allyl sulfides, Allyl methyl sulfoxide
-
-### Extraction Methods
-
-- Traditional Ksheerapaka method (garlic boiled in milk-water 1:8:32 reduced to milk volume)
-- Spray drying of Ksheerapaka for powder form
-- Lyophilization to preserve heat-sensitive compounds
-- Low-temperature vacuum concentration
 
 ### Synergistic Combinations
 

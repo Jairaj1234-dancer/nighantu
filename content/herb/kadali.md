@@ -74,25 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali/meta-analysis.md"
 
 **Standard Dosage:** 20-40ml stem juice twice daily; 3-6g flower/fruit powder; 1-2g Kshara with water
 
-**Bioavailability:** Musa paradisiaca (banana/plantain) contains [flavonoids](/reference/flavonoids/) (leucocyanidin), tannins, serotonin, dopamine, and potassium. Leucocyanidin has moderate oral bioavailability. Serotonin from banana is NOT orally bioavailable for CNS effects (does not cross BBB). Potassium and minerals are highly bioavailable. Resistant [starch](/glossary/compounds-q-t/#starch) in unripe fruit acts as prebiotic. Stem juice [mucilage](/glossary/compounds-l-o/#mucilage) acts locally in urinary tract.
-
 **Optimal Timing:** Traditionally, stem juice is taken in the morning on an empty stomach for renal calculi, and flower powder is taken with buttermilk for menstrual complaints. Unripe fruit: as part of meals.
-
-**Standardized Extract:** Stem juice (fresh or spray-dried); unripe fruit extract standardized to resistant starch content; flower extract with HPTLC fingerprint
-
-**Shelf Life:** 1 day (fresh stem juice); 6 months (pasteurized juice); 2 years (powder); 3 years (Kshara)
 
 **Storage:** Fresh preparations: refrigerate and use within 24 hours. Dried preparations: cool, dry place below 25°C. Kshara: airtight, moisture-proof containers.
 
 **Marker Compounds:** Leucocyanidin, Serotonin, Dopamine, Norepinephrine, Gallic acid, Potassium content (mineral assay), Resistant starch (in unripe fruit)
-
-### Extraction Methods
-
-- Cold pressing/juicing of stem (Swarasa)
-- Aqueous extraction of flowers
-- Drying and powdering of unripe fruit
-- Kshara (alkaline ash) preparation by incineration
-- Ethanol extraction for flavonoid fraction
 
 ### Synergistic Combinations
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rajika/meta-analysi
 
 **Standard Dosage:** 1-3 g seed powder daily; 5-10 mL mustard oil for cooking; topical paste as needed; 500 mg seed extract daily
 
-**Bioavailability:** Allyl isothiocyanate (AITC) from Brassica juncea (Rajika/brown mustard) has excellent oral bioavailability (>80%) with rapid absorption (Tmax <30 min). [Sinigrin](/glossary/compounds-q-t/#sinigrin) (glucosinolate precursor) is hydrolyzed by [myrosinase](/glossary/compounds-l-o/#myrosinase) to AITC upon tissue damage. Erucic acid in mustard oil is slowly metabolized and may accumulate; low-erucic acid varieties preferred for dietary use. [Selenium](/glossary/compounds-q-t/#selenium) content varies with soil and is well absorbed (~75%). Topical application of mustard oil provides warming counter-irritant effect through TRPA1 activation.
-
 **Optimal Timing:** Seed powder: with meals as digestive. Oil: cooking use or topical massage before bath. Paste/poultice: apply warm to affected area for 15-20 minutes, avoid prolonged skin contact (can cause blistering).
-
-**Standardized Extract:** Rajika seed extract standardized to sinigrin >3% (intact glucosinolate) or AITC >1% (hydrolyzed form). Cold-pressed mustard oil with erucic acid content documented, acid value <4 mg KOH/g.
-
-**Shelf Life:** Seeds: 12-24 months; Cold-pressed oil: 6-12 months; Mustard essential oil: 24-36 months; Seed extract: 18-24 months; Capsules: 24 months
 
 **Storage:** Seeds: cool, dry, pest-proof, below 25 deg C. Oil: amber glass or tin, below 25 deg C, protect from light (photooxidation). Essential oil: amber glass, tightly sealed, 15-25 deg C. Powder: airtight, dry, below 25 deg C.
 
 **Marker Compounds:** Sinigrin, Allyl isothiocyanate (AITC), Erucic acid, Oleic acid, Gluconapin, Selenium, [Sinapine](/glossary/compounds-q-t/#sinapine), Myrosinase (enzyme activity)
-
-### Extraction Methods
-
-- Cold-press extraction for mustard oil
-- Hydrodistillation or steam distillation for volatile oil (AITC)
-- Aqueous extraction after myrosinase-mediated hydrolysis
-- Hydroalcoholic extraction (50-60% ethanol) for glucosinolate preservation
-- Enzyme-treated extraction (add exogenous myrosinase) for maximum isothiocyanate yield
 
 ### Synergistic Combinations
 

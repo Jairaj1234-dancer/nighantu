@@ -84,32 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 - 
 - Tannic acid
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Kwath (decoction concentrate)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg tablet/capsule twice daily
 
-**Bioavailability:** Punicalagins and [ellagitannins](/glossary/compounds-d-g/#ellagitannins) from pomegranate rind undergo hydrolysis in the gut to release ellagic acid, which is further metabolized by gut microbiota to urolithins (A, B). Bioavailability of parent [tannins](/reference/tannins/) is low (<1%); urolithin production varies with individual microbiome composition. Enhancement strategies: co-administration with [Pippali](/herb/pippali/) (Piper longum) or [black pepper](/herb/black-pepper/) to slow gut transit and increase tannin exposure; nano-encapsulation of ellagic acid improves systemic availability 3-6 fold; SNEDDS formulations show promise for lipophilic urolithin delivery.
-
 **Optimal Timing:** Before meals with warm water; for anthelmintic use, on an empty stomach in the morning
-
-**Standardized Extract:** Standardized to not less than 40% total tannins (as punicalagin); ellagic acid content NLT 5% by HPLC. Aqueous extract ratio 10:1 typical.
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule in blister pack)
 
 **Storage:** Store in airtight containers below 25 deg C, protected from light and moisture. Tannins oxidize on prolonged light exposure leading to darkening and potency loss.
 
 **Marker Compounds:** Punicalagin (alpha and beta), Ellagic acid, Punicalin, Gallic acid, Granatin B
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashayam)
-- Hydroalcoholic extraction (50:50 ethanol:water)
-- Hot water reflux extraction (80-90 deg C, 2-4 hours)
-- Spray-dried aqueous extract
 
 ### Synergistic Combinations
 

@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Kapikachhu/meta-analys
 
 **Standard Dosage:** 3-6 g seed powder twice daily with milk or warm water; 500 mg standardized extract capsule twice daily
 
-**Bioavailability:** L-DOPA (3-6% in seeds) has good oral bioavailability (~30-40%) but undergoes significant peripheral decarboxylation. Co-administration with carbidopa analogs enhances central L-DOPA delivery. Milk as anupana provides amino acid buffering and improves tolerability. Mucuna pruriens seed coat removal increases L-DOPA extraction efficiency.
-
 **Optimal Timing:** With meals (preferably with warm milk) to reduce nausea; for Parkinsonism support, timed dosing to complement medication schedule; evening dosing for reproductive health
-
-**Standardized Extract:** Standardized to minimum 15% L-DOPA by HPLC for therapeutic extracts; minimum 3.5% L-DOPA for whole seed powder; total alkaloid content >0.5%
-
-**Shelf Life:** 18 months for powder (L-DOPA degradation); 24 months for capsules and tablets with [antioxidant](/reference/antioxidant/) stabilization; 36 months for standardized extracts in nitrogen-flushed packaging
 
 **Storage:** Store in nitrogen-flushed, airtight, light-resistant containers at 15-25°C. L-DOPA degrades rapidly in presence of oxygen, moisture, and light. Desiccant mandatory. Shelf-life testing should monitor L-DOPA content at 3-month intervals.
 
 **Marker Compounds:** L-DOPA (Levodopa), 5-HTP (5-Hydroxytryptophan), Mucunine, Mucunadine, Prurienine, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Serotonin](/glossary/compounds-q-t/#serotonin)
-
-### Extraction Methods
-
-- Aqueous extraction (traditional decoction)
-- Hydroalcoholic extraction (50% ethanol) for balanced alkaloid-flavonoid profile
-- Acid-water extraction (0.1N HCl) for maximum L-DOPA yield
-- Enzymatic extraction with cellulase for cell wall disruption
-- Spray drying for instant granule preparation
 
 ### Synergistic Combinations
 

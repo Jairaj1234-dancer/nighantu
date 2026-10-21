@@ -186,7 +186,7 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 
 ## Recommended Dosage
 
-Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
+Fresh ginger: 5-10g/day; Dry powder (Shunthi): as given under Standard Dosage below
 
 ## Safety, contraindications and cautions
 
@@ -206,26 +206,11 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): 1-3g/day
 
 **Standard Dosage:** Fresh ginger: 5-10g daily; Dried powder (Sunthi): 1-3g twice daily; 250-500mg standardized extract capsule twice daily; essential oil: 1-2 drops; tincture: 2-4ml; oleoresin: 25-50mg equivalent
 
-**Bioavailability:** [Zingiber](/herb/zingiber/) officinale contains gingerols (fresh) and shogaols (dried/heated). [6]-Gingerol has moderate oral bioavailability (~30%) with rapid absorption (Tmax 30-60 min). Shogaols are more lipophilic than gingerols and may have slightly higher permeability. Extensive hepatic metabolism via glucuronidation and sulfation. [6]-Gingerol's bioavailability improves with lipid-rich meals. Enhancement: SNEDDS formulation increases gingerol bioavailability 3-4 fold; nano-emulsion and phytosome technologies; [piperine](/reference/piperine/) co-administration ([Trikatu](/herb/trikatu/) formulation is the traditional bioenhancer). Drying converts gingerols to shogaols - different pharmacological profile (shogaols are more potent anti-emetics).
-
 **Optimal Timing:** Before meals for appetite stimulation and digestive support; traditionally taken before travel (30 min prior) for motion sickness; fresh ginger tea traditionally taken during colds
-
-**Standardized Extract:** Standardized extract NLT 5% total gingerols+shogaols by HPLC. Oleoresin: 25-35% pungent compounds. Essential oil: NLT 30% zingiberene by GC-MS. Supercritical CO2 extract: NLT 20% gingerols. Extract ratios: 10:1 to 20:1.
-
-**Shelf Life:** Fresh ginger: 2-3 weeks refrigerated; Dried powder: 2 years; Essential oil: 3-4 years; Oleoresin: 3 years; Capsule/tablet: 2-3 years
 
 **Storage:** Fresh: refrigerate at 2-8 deg C in paper bag. Dried powder: airtight, light-resistant containers below 25 deg C. Essential oil and oleoresin: amber glass, cool dark place. Gingerols degrade to shogaols over time and with heat - store extracts cool.
 
 **Marker Compounds:** [6]-Gingerol, [8]-Gingerol, [10]-Gingerol, [6]-Shogaol, [8]-Shogaol, Zingerone, Zingiberene (essential oil), Beta-sesquiphellandrene, ar-Curcumene
-
-### Extraction Methods
-
-- Steam distillation for essential oil (sesquiterpene-rich, lacks gingerols)
-- Supercritical CO2 extraction (preserves full gingerol/shogaol profile)
-- Acetone/ethanol extraction for oleoresin
-- Hydroalcoholic extraction (70:30) for capsule-grade extract
-- Fresh juice expression (Swarasa)
-- Hot water infusion for tea
 
 ### Synergistic Combinations
 

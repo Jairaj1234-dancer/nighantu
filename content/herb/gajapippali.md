@@ -76,8 +76,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 - Rhamnose
 - Phenolic compounds
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Tablet, Capsule, Avaleha (confection)
@@ -86,18 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gajapippali/meta-analysis.md"
 
 **Optimal Timing:** Before meals with warm water or honey for respiratory conditions; after meals for digestive support
 
-**Standardized Extract:** Hydroalcoholic extract characterized by HPTLC fingerprint and total alkaloid content NLT 1%. Extract ratio 5:1. Limited standardized extract availability - develop in-house specifications.
-
-**Shelf Life:** 2 years (powder); 2.5 years (tablet/capsule)
-
 **Storage:** Airtight containers below 25 deg C, protected from moisture and light. Limited stability data - conduct accelerated stability studies for new formulations.
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60:40 ethanol:water)
-- Soxhlet extraction with ethanol for alkaloid enrichment
-- Traditional Churna preparation after proper drying
 
 ### Synergistic Combinations
 

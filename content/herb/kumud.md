@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumud/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction; 10-20 mL juice; 5-10 g medicated ghee
 
-**Bioavailability:** [Flavonoids](/reference/flavonoids/) ([quercetin](/reference/quercetinquercetin/), [kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)) from water lily show moderate oral bioavailability. [Ghrita](/herb/ghrita/) (ghee) preparations provide lipid carrier for enhanced absorption of lipophilic compounds. Mucilaginous rhizome constituents create sustained-release matrix in GI tract.
-
 **Optimal Timing:** After meals for digestive cooling; Ghrita preparation: twice daily with warm water; flower preparations: evening for calming effect
-
-**Standardized Extract:** Rhizome extract standardized to minimum 2% total alkaloids and 3% total flavonoids; flower extract to minimum 1% essential oil
-
-**Shelf Life:** 18 months for dried rhizome powder; 24 months for capsules; 12 months for Ghrita; decoction consumed within 24 hours
 
 **Storage:** Store dried material in airtight, moisture-proof containers at 15-30°C. Rhizome powder is hygroscopic. Ghrita in clean glass jars at room temperature. Flower preparations protected from light.
 
 **Marker Compounds:** Nymphayol, Nupharin, [Quercetin](/reference/quercetinquercetin/), Kaempferol, [Myricetin](/glossary/compounds-l-o/#myricetin), Gallic acid, Nymphaesterone, [Starch](/glossary/compounds-q-t/#starch) [polysaccharides](/glossary/compounds-o-q/#polysaccharides)
-
-### Extraction Methods
-
-- Water decoction of rhizome
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold pressing of fresh rhizome for juice
-- Ghrita preparation (Sneha Paka with ghee)
-- Infusion of flowers for aromatic preparations
 
 ### Synergistic Combinations
 

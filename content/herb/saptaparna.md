@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 15-30 mL Saptaparnasava twice daily after meals
 
-**Bioavailability:** Indole [alkaloids](/glossary/compounds-1-a/#alkaloids) (echitamine, alstonine) show moderate to good oral bioavailability (30-50%). Alkaloids are basic and well-absorbed in the alkaline environment of the small intestine. Extensive hepatic metabolism via CYP3A4 and CYP2D6. [Tannins](/reference/tannins/) in the bark may partially inhibit alkaloid absorption if not separated.
-
 **Optimal Timing:** After meals to reduce GI irritation from alkaloids; evening dose for [antipyretic](/reference/antipyretic/) action (Jvaraghna)
-
-**Standardized Extract:** Bark extract (10:1 DER in 60% ethanol), standardized to NLT 1.5% total alkaloids (as echitamine equivalents by HPLC); Ghana (solid aqueous extract) for traditional vati formulations
-
-**Shelf Life:** 24 months for churna; 36 months for capsules and Ghana vati; indefinite for properly fermented Arishta
 
 **Storage:** Store below 25 deg C in airtight, light-protected containers. Alkaloids are photolabile, use amber packaging. Arishta stored in glass or stainless steel vessels.
 
 **Marker Compounds:** Echitamine, Alstonine, Venenatine, Picrinine, Scholaricine, Strictamine
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60-70% ethanol)
-- Acid-water extraction for alkaloid enrichment (0.1N HCl)
-- Traditional Arishta fermentation (self-generated alcohol)
 
 ### Synergistic Combinations
 

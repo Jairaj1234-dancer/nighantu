@@ -82,33 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bakuchi/meta-analysis.md"
 - Corylifolin
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Taila (seed oil, topical), Capsule, Tablet, Lepa (seed paste, topical), [Bakuchi Taila](/formulation/bakuchi-taila/) (traditionally used for vitiligo), Ointment/cream
 
 **Standard Dosage:** 500mg-2g seed powder twice daily (internal); Bakuchi oil applied topically to affected areas; 250-500mg extract capsule. CAUTION: phototoxic, photosensitivity management required.
 
-**Bioavailability:** Good oral bioavailability for psoralen (~60-70% absorbed) and isopsoralen/angelicin. Psoralen reaches peak plasma levels in 1-2 hours. Bakuchiol has excellent oral bioavailability (~70%) and is also well absorbed transdermally. Psoralen undergoes hepatic metabolism via CYP [enzymes](/glossary/compounds-d-g/#enzymes) and has a half-life of ~2 hours. Topical psoralen + UVA (PUVA) therapy principle: psoralen intercalates into DNA, UVA activates it, this is the basis of photochemotherapy for vitiligo and psoriasis.
-
 **Optimal Timing:** Internal: after meals to reduce GI irritation. Topical: apply oil to affected area 30-60 minutes before controlled sun exposure (morning sun, 10-15 minutes). Avoid application before prolonged sun exposure.
-
-**Standardized Extract:** Seed extract standardized to minimum 2% psoralen + isopsoralen. Bakuchiol-enriched extract (psoralen-free): minimum 90% bakuchiol for cosmetic applications. Seed oil with minimum 5% total furanocoumarins for PUVA therapy applications.
-
-**Shelf Life:** 2 years (seed powder); 3 years (capsules/tablets); 2 years (seed oil, topical); 2 years (cream/ointment)
 
 **Storage:** Seeds and seed products in airtight, light-protected containers (furanocoumarins are photoreactive). Cool and dry, below 25°C. Amber packaging mandatory for oil and topical products.
 
 **Marker Compounds:** Psoralen, Isopsoralen (angelicin), Bakuchiol, Psoralidin, Corylifolin, Bavachin, Bavachinin, Isobavachalcone, Neobavaisoflavone
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for psoralen/bakuchiol enrichment
-- Cold pressing for seed oil (yield 8-12%)
-- Supercritical CO2 for bakuchiol isolation
-- Petroleum ether extraction for oil fraction
-- Ethanol extraction for furanocoumarin enrichment
 
 ### Synergistic Combinations
 

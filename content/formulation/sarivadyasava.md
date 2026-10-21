@@ -63,25 +63,17 @@ Bhaishajya Ratnavali, Prameha Pidika Adhyaya (chapter on diabetic complications)
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
 **Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:37. The formulary attributes this formula to Bhaisajyaratnavali, Pramehapidakadhikara; 22-25.
 
-**Bioavailability:** Self-generated alcohol enhances extraction and absorption of both water-soluble and fat-soluble compounds; fermentation produces bioactive metabolites not present in raw herbs
-
 **Optimal Timing:** After meals, twice daily
-
-**Shelf Life:** Indefinite per classical texts; commercially labeled 5-10 years. Improves with age.
 
 **Storage:** Room temperature, tightly sealed, away from direct sunlight. Do not refrigerate.
 
 **Marker Compounds:** Hemidesmine, 2-hydroxy-4-methoxybenzaldehyde
-
-**Quality Parameters:** Alcohol content 5-12% v/v, pH 3.0-4.5, specific gravity 1.01-1.08, total solids 15-25%, marker: Hemidesmine, 2-hydroxy-4-methoxybenzaldehyde
 
 **Vehicle (Anupana):** Equal quantity of water after meals
 

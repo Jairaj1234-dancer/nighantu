@@ -66,26 +66,16 @@ Bhaishajya Ratnavali, Pandu Roga Chikitsa (Anemia Treatment Chapter)
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna or Vati
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; nine-ingredient formulation with natural absorption enhancers
-
 **Optimal Timing:** After meals with honey or ghee
-
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) (9 parts) combined with nine herbal drugs: [Trikatu](/herb/trikatu/), [Triphala](/herb/triphala/), Chitraka, Vidanga and Musta (Nava = nine)
-
-**Shelf Life:** 2–3 years (churna); 3–5 years (vati)
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide, [Piperine](/reference/piperine/) (from [Pippali](/herb/pippali/)), [Trikatu](/herb/trikatu/) [alkaloids](/glossary/compounds-1-a/#alkaloids), [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols)
-
-**Quality Parameters:** Iron content as labeled, weight uniformity, assay of marker compounds
 
 **Vehicle (Anupana):** Honey, warm water

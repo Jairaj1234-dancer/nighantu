@@ -63,25 +63,15 @@ Bhavaprakasha Nighantu (16th century); composed of 42 medicinal plants in the st
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
 **Standard Dosage:** 2 to 4 g with warm water for fever, as given in the Ayurvedic Formulary of India, Part I, entry 7:35. The formulary's anupana: warm water. The formulary attributes this formula to Bhaisajyaratnavali, Jvaradhikara; 308-312.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Before meals
 
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
-
 **Storage:** Airtight container, cool dry place, protected from moisture
-
-**Marker Compounds:** Swertimerin, [Curcumin](/herb/curcumin/), [Tinosporin](/glossary/compounds-t-z/#tinosporin)
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Swertimerin, [Curcumin](/herb/curcumin/), Tinosporin
 
 **Vehicle (Anupana):** Warm water
 

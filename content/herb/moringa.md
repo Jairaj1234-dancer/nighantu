@@ -114,7 +114,7 @@ Called 'Shigru' in Ayurveda. Indicated for Shotha (inflammation), Krimi (parasit
 
 ## Recommended Dosage
 
-Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
+Leaf powder: see Standard Dosage under Dosage forms and preparation; Fresh leaves: 10-20g/day
 
 ## Safety, contraindications and cautions
 
@@ -136,35 +136,17 @@ Leaf powder: 2-6g/day; Fresh leaves: 10-20g/day
 - Iron
 - Calcium
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (leaf powder), Capsules, Tablets, Leaf extract, Seed extract, Oil (Ben oil/Moringa oil), Tea/Infusion, Drumstick pod preparations, Protein powder
 
 **Standard Dosage:** 3-6 g leaf powder per day; 500-1500 mg standardized leaf extract daily; 5-10 mL Moringa oil for culinary/topical use; 1-2 g seed powder for water purification
 
-**Bioavailability:** Isothiocyanates (from glucosinolates) are well absorbed (~70-80%). [Quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides) undergo intestinal hydrolysis with moderate aglycone absorption (~25%). Beta-carotene bioavailability is fat-dependent - co-administer with lipids. Iron and calcium in Moringa leaves show 20-30% absorption rate. Moringa oleifera coagulant protein shows local GI activity without significant systemic absorption.
-
 **Optimal Timing:** Morning with breakfast for nutritional supplementation; before meals for glycemic management; leaf tea between meals; Moringa oil topically at night for skin health
-
-**Standardized Extract:** Shade-dried leaf powder standardized to minimum 1% isothiocyanates, 5% protein, and 0.5% total flavonoids. Leaf extract (10:1 hydroalcoholic) standardized to minimum 3% quercetin equivalents. Cold-pressed seed oil (Ben oil) meeting cosmetic grade standards. Seed protein isolate for water purification applications.
-
-**Shelf Life:** Dried leaf powder: 18-24 months. Capsules/tablets: 24 months. Ben oil: 36+ months (exceptional oxidative stability). Tea bags: 18 months. Fresh leaves: 3-5 days refrigerated.
 
 **Storage:** Leaf powder in airtight, light-resistant containers below 25 deg C (beta-carotene and [chlorophyll](/glossary/compounds-c-d/#chlorophyll) are photosensitive). Ben oil at room temperature in dark glass bottles. Capsules in blister packs. Fresh leaves at 4-8 deg C. Protect all forms from humidity.
 
 **Marker Compounds:** Moringin (4-(alpha-L-rhamnosyloxy)benzyl isothiocyanate), Quercetin, [Kaempferol](/reference/kaempferol/), Chlorogenic acid, Beta-carotene, Niazimicin, Benzyl isothiocyanate, Oleic acid (in seed oil)
-
-### Extraction Methods
-
-- Shade drying and powdering of leaves
-- Hydroalcoholic extraction (70% ethanol)
-- Aqueous extraction for protein and mineral enrichment
-- Cold pressing of seeds for Moringa oil (Ben oil)
-- Supercritical CO2 for isothiocyanate-enriched extract
-- Spray drying for standardized powder
-- Enzymatic hydrolysis for protein isolate
 
 ### Synergistic Combinations
 

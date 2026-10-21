@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karanja-Tai
 
 **Standard Dosage:** External application on affected skin, 1-2 times daily.
 
-**Bioavailability:** Topical application provides direct dermal delivery of [karanjin](/glossary/compounds-g-l/#karanjin) and [pongamol](/glossary/compounds-o-q/#pongamol) ([furanoflavonoids](/glossary/compounds-d-g/#furanoflavonoids)). Oil base ensures sustained contact with skin. Penetrates stratum corneum effectively.
-
 **Optimal Timing:** After bathing or at bedtime for Kushtha (skin diseases), Dadru (ringworm), and Krimi (parasitic infections)
-
-**Shelf Life:** 2 years (cold-pressed), 3 years (medicated taila)
 
 **Storage:** Store in amber glass bottles in a cool, dark place. Temperature not exceeding 25°C. Protect from light, karanjin is photosensitive.
 
 **Marker Compounds:** Karanjin, Pongamol, [Pongapin](/glossary/compounds-o-q/#pongapin), Pongaglabol, Furanoflavonoids
-
-**Quality Parameters:** Acid value, peroxide value, saponification value (185-195), [iodine](/glossary/compounds-g-l/#iodine) value (80-90), refractive index, specific gravity, karanjin content by HPLC (NLT 0.5%), pongamol content, furanoflavonoid assay, rancidity test negative, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Not applicable, external use only. Apply thin layer and massage gently.
 

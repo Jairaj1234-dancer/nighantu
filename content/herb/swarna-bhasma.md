@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 - Immunomodulation via regulation of T-cell and macrophage activity; increases white blood cell counts and activity, supporting adaptive and innate immune responses
 - Anti-inflammatory action through inhibition of NF-kappa B expression and subsequent inflammatory cascade suppression, reducing pro-inflammatory cytokine production
 - [Antioxidant](/reference/antioxidant/) effect via inhibition of lipid peroxidation and ROS generation; restores anti-oxidant [enzymes](/glossary/compounds-d-g/#enzymes) (GSH, SOD, Catalase, GPx) to normal levels during hyperglycemia
-- Enhanced cellular uptake due to nano-particulate size (28-35 nm) facilitating penetration of biological barriers and targeted drug delivery to specific tissues
+- Enhanced cellular uptake due to nano-particulate size facilitating penetration of biological barriers and targeted drug delivery to specific tissues
 - Nervine tonic activity through modulation of neurotransmitter pathways, contributing to anti-depressant and [analgesic](/reference/analgesic/) effects observed in animal models
 
 ## Which traditional uses are supported by research?
@@ -75,27 +75,17 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 - **Gold (Au):** >90%
 - **Trace metals:** From Shodhana herbs
 
-**Analytical Methods:** XRD, TEM (nanoparticle size), ICP-MS, UV-Vis (SPR peak ~520nm)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 15–30 mg (premium preparation, precise dosing)
 
-**Bioavailability:** Not established in humans
-
 **Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
-
-**Standardized Extract:** Calcined gold bhasma, supreme Rasayana in Rasashastra
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight glass container; premium packaging
 
 **Marker Compounds:** Gold nanoparticles (Au), Gold oxide, Trace elements from Bhavana media
-
-**Quality Parameters:** Gold content >90%, particle size 20–50 nm (TEM validated), standard bhasma tests, no free metallic gold
 
 **Vehicle (Anupana):** Honey + ghee (unequal parts), [Chyawanprash](/formulation/chyawanprash/), [Brahmi](/herb/brahmi/) Swarasa, or as part of Swarna-containing formulations
 

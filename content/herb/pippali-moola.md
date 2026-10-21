@@ -72,25 +72,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pippali-Moola/meta-analysis.m
 
 **Standard Dosage:** 1-3 g root powder daily; 15-20 mL decoction twice daily; 500 mg standardized root extract twice daily
 
-**Bioavailability:** Piper longum root contains piperine at lower concentration than fruit (1-2% vs 4-8%), but has higher piperlongumine content. Root [alkaloids](/glossary/compounds-1-a/#alkaloids) show moderate-to-good oral bioavailability (30-50%). Root-specific sesquiterpenes and [lignans](/glossary/compounds-g-l/#lignans) contribute to distinct pharmacological profile compared to fruit. Bioenhancer activity is present but less potent than fruit piperine due to lower concentration.
-
 **Optimal Timing:** After meals for digestive benefits. Before meals with honey for respiratory conditions. Part of [Trikatu](/herb/trikatu/) or digestive formulations taken with first morsel of food.
-
-**Standardized Extract:** [Pippali](/herb/pippali/)-Moola extract (6:1) standardized to piperine >2%, piperlongumine >1.5%, total alkaloids >4%. HPTLC fingerprint distinguishing root from fruit extract.
-
-**Shelf Life:** Dried root: 18-24 months; Root powder: 18-24 months; Extract: 24 months; Capsules: 24-36 months
 
 **Storage:** Dried root: cool, dry, ventilated storage, below 25 deg C, protected from pest infestation. Powder and extracts: airtight containers, below 25 deg C, RH <55%, protected from light.
 
 **Marker Compounds:** Piperine, Piperlongumine, Piperlonguminine, Methyl piperate, Sesamin, Dihydrostigmasterol, [Piperanine](/glossary/compounds-o-q/#piperanine), Brachystamide B
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Aqueous decoction
-- Methanol extraction for alkaloid profiling
-- Supercritical CO2 for piperine and sesquiterpene extraction
-- Traditional Churna preparation by shade-drying and milling
 
 ### Synergistic Combinations
 

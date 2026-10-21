@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Vriddhadaru/meta-anal
 
 **Standard Dosage:** 3-6 g powder twice daily; 50-100 mL decoction twice daily; external oil application as needed
 
-**Bioavailability:** Argyrein ([coumarin](/glossary/compounds-c-d/#coumarin) glycoside) has moderate oral bioavailability (~25-35%) with hepatic hydrolysis releasing the aglycone. [Friedelin](/glossary/compounds-d-g/#friedelin) and other [triterpenoids](/glossary/compounds-t-z/#triterpenoids) have low oral bioavailability (<10%) improved by lipid co-administration. [Flavonoids](/reference/flavonoids/) ([kaempferol](/reference/kaempferol/), [quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides)) undergo typical Phase II conjugation with moderate bioavailability (~15-20%). External application (Taila) allows local absorption through skin for musculoskeletal conditions.
-
 **Optimal Timing:** After meals for internal use; external oil application at night before sleep for musculoskeletal conditions
-
-**Standardized Extract:** Root extract standardized to >2% total flavonoids (as quercetin equivalent by UV); >0.5% argyrein by HPLC; ergot [alkaloids](/glossary/compounds-1-a/#alkaloids): absent (mandatory safety test)
-
-**Shelf Life:** Root powder: 18-24 months; Capsules/Tablets: 24 months; Medicated oil: 18-24 months; Decoction: prepare fresh
 
 **Storage:** Airtight, moisture-proof containers at 15-25 deg C. Medicated oil in amber glass. Protect from light and humidity.
 
 **Marker Compounds:** Argyrein, Friedelin, Quercetin, Kaempferol, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), [Scopoletin](/glossary/compounds-q-t/#scopoletin), Caffeic acid
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (60-70% ethanol)
-- Soxhlet extraction with ethanol
-- Traditional Taila Paka for medicated oil
-- Methanol extraction for coumarin-rich fraction
 
 ### Synergistic Combinations
 

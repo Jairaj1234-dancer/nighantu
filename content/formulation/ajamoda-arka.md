@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arkas-Distillates/Ajamoda-Arka/me
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals, as given in the Ayurvedic Formulary of India, Part I, entry 2:1. The formulary attributes this formula to Arkaprakasa, Sataka 3: 7.
 
-**Bioavailability:** Arka (distillate) form provides rapid absorption of volatile aromatic compounds through GI tract.
-
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
-
-**Shelf Life:** 1 year from date of manufacture as per ASU guidelines for Arka preparations
 
 **Storage:** Store in well-closed amber glass bottles in a cool place. Protect from direct sunlight. Temperature not exceeding 25°C. Shake well before use.
 
 **Marker Compounds:** [Thymol](/glossary/compounds-t-z/#thymol), [Carvacrol](/glossary/compounds-a-c/#carvacrol), p-Cymene, gamma-Terpinene, Apiol
-
-**Quality Parameters:** pH (5.5-7.0), specific gravity, total solids, volatile oil content, clarity and colour evaluation, microbial limits, heavy metals, odour and taste evaluation, GC-MS for volatile compound profiling
 
 **Vehicle (Anupana):** Plain water
 

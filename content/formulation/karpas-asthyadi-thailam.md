@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Karpas-Asth
 
 **Standard Dosage:** External: sufficient quantity for local application/massage. Internal (where applicable): 5-10 mL as directed. The Ayurvedic Formulary of India, Part I, entry 8:6 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water, milk. The formulary attributes this formula to Sahasrayoga, Tailaprakarana, 11.
 
-**Bioavailability:** Oil base provides transdermal delivery of active compounds to musculoskeletal tissues. Massage enhances blood flow and deeper penetration. [Sesame oil](/glossary/concepts-m-y/#tila-taila) with milk processing adds [phospholipids](/glossary/compounds-o-q/#phospholipids) for enhanced skin absorption.
-
 **Optimal Timing:** External: morning before bath or evening. For joint/bone conditions.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila
 
 **Storage:** Store in amber glass or HDPE bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** [Gossypol](/glossary/compounds-g-l/#gossypol) (monitored for safety), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Sesamin](/glossary/compounds-q-t/#sesamin), [Sesamolin](/glossary/compounds-q-t/#sesamolin)
-
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, viscosity, gossypol content (must be within safe limits), rancidity test negative, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** For external use: warm oil for massage. For internal: warm water or milk, per the formulary's anupana.
 

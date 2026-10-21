@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagadanti/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g root powder per day; 3-5 g leaf powder; 20-40 mL decoction twice daily; 5-10 mL leaf juice. Use with caution; purgative at higher doses.
 
-**Bioavailability:** [Flavonoids](/reference/flavonoids/) show moderate absorption. Diterpene esters are lipophilic with variable oral absorption. Purgative principles act primarily on intestinal mucosa with minimal systemic absorption.
-
 **Optimal Timing:** Morning on empty stomach for purgative action; as per Virechana Panchakarma schedule; topical as needed
-
-**Standardized Extract:** Shodhita (purified) root extract with controlled purgative activity. Leaf extract (8:1 aqueous) for milder indications. Topical preparation at 5-10% extract concentration for skin conditions.
-
-**Shelf Life:** Shodhita root powder: 18 months. Capsules: 24 months. Leaf powder: 18 months. Topical paste: 12 months.
 
 **Storage:** Store below 25 deg C in airtight containers. Restricted access due to potent purgative action. Label 'Not for unsupervised use.' Protect from moisture and light. Keep raw material separately from finished products.
 
 **Marker Compounds:** [Montanin](/glossary/compounds-l-o/#montanin), Baliospermin, 12-Deoxyphorbol esters, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration of leaves
-- Fresh leaf juice expression
-- Purification (Shodhana) of root per classical method
 
 ### Synergistic Combinations
 

@@ -84,32 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 - Phenolic acids
 - 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Taila (oil), Churna (seed powder), Lepa (external paste), Capsule
 
 **Standard Dosage:** 3-5g seed kernel powder; 5-10ml oil for external application; 1-3g purified seed powder internally
 
-**Bioavailability:** Balanites aegyptiaca (desert date) contains saponins (diosgenin-type), fixed oils, and flavonoids. Diosgenin has moderate oral bioavailability (~15-20%); co-administration with lipids enhances absorption. Saponin [glycosides](/glossary/compounds-g-l/#glycosides) are hydrolyzed by gut bacteria to absorbable aglycones. Oil fraction is well absorbed.
-
 **Optimal Timing:** External oil application morning and evening; internal use under physician guidance only, before meals
-
-**Standardized Extract:** Cold-pressed seed oil; Shodhita (purified) seed extract with controlled saponin content
-
-**Shelf Life:** 1 year (cold-pressed oil); 2 years (powder); 3 years (capsule)
 
 **Storage:** Oil: cool place, away from light, in dark glass bottles. Powder: airtight container below 25°C.
 
 **Marker Compounds:** Diosgenin, Yamogenin, Balanitin, Beta-sitosterol, [Stigmasterol](/reference/stigmasterol/)
-
-### Extraction Methods
-
-- Cold pressing (seed oil)
-- Hydroalcoholic extraction (60:40) for saponin fraction
-- Aqueous extraction for water-soluble components
-- Shodhana processing with cow's milk before internal use
 
 ### Synergistic Combinations
 

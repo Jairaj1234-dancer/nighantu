@@ -35,24 +35,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 **Standard Dosage:** Dried leaf: 2-4g as infusion/decoction 2-3 times daily; Leaf powder: 3-6g twice daily; 500mg whole leaf capsule 3 times daily; 3-5ml tincture three times daily. Whole herb products are less concentrated than standardized extracts.
 
-**Bioavailability:** Gymnema sylvestre whole leaf (as opposed to standardized extract) provides the full phytochemical matrix including gymnemic acids, [flavonoids](/reference/flavonoids/), [saponins](/reference/saponins/), [tannins](/reference/tannins/), and fiber. Gymnemic acid content in whole leaf is typically 1-4% (vs 25-75% in standardized extracts), meaning larger doses are needed. The fiber and tannin matrix may modulate absorption kinetics - slower release but potentially more sustained action. Whole leaf retains gurmarin peptide (partially destroyed during extraction) which contributes to sweet-taste suppression. Traditional decoction preparation partially hydrolyzes glycosidic bonds, potentially enhancing aglycone bioavailability.
-
 **Optimal Timing:** Tea or capsule 15-30 minutes before meals; traditional leaf chewing before meals for sweet-taste suppression
-
-**Standardized Extract:** Not applicable - this is a whole herb product. Characterize by: total gymnemic acid content (1-4%), HPTLC fingerprint, organoleptic profile, particle size distribution for powder, essential oil content.
-
-**Shelf Life:** Dried whole leaf: 2 years; Powder: 1.5 years; Capsule: 2 years; Tincture: 3 years; Tea bags: 1.5 years
 
 **Storage:** Dried leaf: airtight, moisture-proof containers below 25 deg C in dark place. Tea bags: individually sealed, nitrogen-flushed. Powder: airtight, opaque containers with desiccant.
 
 **Marker Compounds:** Gymnemic acids (total, 1-4% in whole leaf), Gurmarin (peptide), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Flavonoids, Total tannins
-
-### Extraction Methods
-
-- Hot water infusion/decoction (traditional)
-- Simple drying and powdering (Churna)
-- Hydroalcoholic tincture (1:5 in 60% ethanol)
-- No concentration/standardization - whole herb products
 
 ### Synergistic Combinations
 

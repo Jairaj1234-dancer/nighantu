@@ -70,18 +70,10 @@ Bhaishajya Ratnavali, Netra Rogadhikara (Eye Diseases Chapter); also referenced 
 
 **Standard Dosage:** 250 mg twice daily
 
-**Bioavailability:** Enhanced; [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) + Loha synergy
-
 **Optimal Timing:** With honey or ghee; morning and evening
-
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) + [Triphala](/herb/triphala/) + [Yashtimadhu](/herb/yashtimadhu/) (Licorice), seven ingredients total
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide, [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from Yashtimadhu), Triphala [tannins](/reference/tannins/)
-
-**Quality Parameters:** Iron content as labeled, standard tablet tests
 
 **Vehicle (Anupana):** Triphala Kwatha, honey, or ghee (Triphala [Ghrita](/herb/ghrita/) for eye disorders)

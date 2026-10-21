@@ -75,33 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 - Dihydrocubebin
 - Essential oil
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, Taila (oil), Avaleha (confection)
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); as adjuvant in formulations
 
-**Bioavailability:** Essential oil constituents are readily absorbed through oral and transdermal routes. Volatile [terpenoids](/glossary/compounds-t-z/#terpenoids) have good bioavailability but short plasma half-lives. Cyclodextrin inclusion complexes extend residence time. Co-administration with fats enhances absorption of sesquiterpenes.
-
 **Optimal Timing:** After meals for digestive support; before meals for appetite stimulation
-
-**Standardized Extract:** Standardized to minimum 10% essential oil content by steam distillation
-
-**Shelf Life:** 18 months for powder (volatile loss); 24 months for tablets; 36 months for essential oil in sealed amber bottles
 
 **Storage:** Store in tightly sealed, amber glass containers at 15-25°C. Powder formulations lose potency rapidly if exposed to air; nitrogen-flushed packaging recommended.
 
 **Marker Compounds:** Cubebin, Cubebic acid, 1,8-Cineole, Alpha-cubebene, Beta-cubebene, Copaene, Eugenol
-
-### Extraction Methods
-
-- Steam distillation for essential oil
-- Hydrodistillation
-- Hydroalcoholic extraction (70% ethanol)
-- Supercritical CO2 extraction for high-value terpenoid fractions
-- Cold pressing
 
 ### Synergistic Combinations
 

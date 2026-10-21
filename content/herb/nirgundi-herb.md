@@ -31,25 +31,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.m
 
 **Standard Dosage:** 2-4 g whole herb powder daily in divided doses; 15-30 mL decoction twice daily; 500 mg - 1 g standardized whole herb extract twice daily
 
-**Bioavailability:** Whole herb (including stem, leaf, root, and flower) provides a broader phytochemical profile compared to leaf-only preparations. Iridoid [glycosides](/glossary/compounds-g-l/#glycosides) ([agnuside](/glossary/compounds-1-a/#agnuside), [aucubin](/glossary/compounds-a-c/#aucubin)) have moderate oral bioavailability (20-35%). [Lignans](/glossary/compounds-g-l/#lignans) from stem bark are absorbed more slowly (Tmax 3-4 h) providing sustained activity. Whole herb aqueous decoction has enhanced bioavailability of polar constituents compared to alcohol extract.
-
 **Optimal Timing:** Oral preparations: after meals. Taila/external application: before bath or at bedtime. [Ghrita](/herb/ghrita/): on empty stomach with warm water for systemic Vata management.
-
-**Standardized Extract:** Whole herb extract (6:1) standardized to total iridoid glycosides >2% (as agnuside), total [flavonoids](/reference/flavonoids/) >3% (as [casticin](/glossary/compounds-c-d/#casticin)). Ghrita preparation with validated saponification value and acid value per API norms.
-
-**Shelf Life:** Dried whole herb: 12-18 months; Churna: 12-18 months; Extract: 24-36 months; Taila: 24-36 months; Ghrita: 24-36 months (can extend with proper storage)
 
 **Storage:** Dried herb: well-ventilated, airtight containers, below 25 deg C, RH <55%. Ghrita: clean, dry glass or food-grade containers, below 30 deg C, protect from moisture. Taila: amber glass, room temperature.
 
 **Marker Compounds:** Agnuside, Aucubin, Casticin, [Vitexin](/glossary/compounds-t-z/#vitexin), [Luteolin](/glossary/compounds-l-o/#luteolin)-7-glucoside, Lignan glycosides, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), p-Hydroxybenzoic acid
-
-### Extraction Methods
-
-- Sequential aqueous-alcoholic extraction for comprehensive phytochemical capture
-- Traditional decoction (1:16 w/v, reduced to 1/4 volume)
-- Hydroalcoholic percolation (50% ethanol)
-- Oil infusion of whole herb in sesame/[coconut oil](/glossary/concepts-a-m/#coconut-oil) base
-- Ghee-based extraction (Ghrita Paka method)
 
 ### Synergistic Combinations
 

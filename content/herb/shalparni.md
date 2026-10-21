@@ -79,32 +79,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shalparni/meta-analysis.md"
 - N,N-dimethyltryptamine
 - Flavone glycosides
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Ghana vati, Asava (fermented preparation), Taila (medicated oil)
 
 **Standard Dosage:** 3-6 g root powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily; 15-30 mL asava after meals
 
-**Bioavailability:** Pterocarpan and isoflavonoid constituents show moderate bioavailability (25-40%). Lipophilic pterocarpans benefit from lipid-based delivery. First-pass metabolism is moderate. [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) undergo glucuronidation in the intestinal wall and liver.
-
 **Optimal Timing:** After meals; traditionally used as part of Dashmool kwatha taken warm for Vata disorders
-
-**Standardized Extract:** Aqueous-ethanolic root extract (6:1), standardized to NLT 1.5% total isoflavonoids (as [genistein](/glossary/compounds-d-g/#genistein) equivalents by HPLC); Dashmool combined extract as per API specifications
-
-**Shelf Life:** 24 months for churna; 36 months for capsules; indefinite for properly prepared asava/arishta
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Asava in glass bottles.
 
 **Marker Compounds:** Gangetin, Desmodin, Genistein, Pterocarpan, Beta-sitosterol, [Lupeol](/reference/lupeol/)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional for Dashmool)
-- Hydroalcoholic extraction (60% ethanol)
-- Self-generated alcoholic fermentation (Asava)
-- Cold maceration for heat-labile constituents
 
 ### Synergistic Combinations
 

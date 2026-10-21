@@ -63,25 +63,17 @@ Bhaishajya Ratnavali, Arsha Rogadhikara (Piles treatment chapter). Also referenc
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta (fermented liquid), Capsules (modern), Syrup (modern)
 
 **Standard Dosage:** 12 to 24 ml twice daily after meals with equal quantity of water, as given in the Ayurvedic Formulary of India, Part I, entry 1:1. The formulary attributes this formula to Bhaisajyaratnavali, Arsorogadhikara; 105-107.
 
-**Bioavailability:** Self-generated alcohol (5-12%) acts as a bio-enhancer and preservative, improving absorption of active phytoconstituents. Fermentation yields novel metabolites with enhanced bioavailability compared to simple decoctions.
-
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily, preferably after lunch and dinner
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta/Asava preparations
 
 **Storage:** Store in a cool, dry place in well-closed amber glass or HDPE containers. Protect from direct sunlight. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Gallic acid, Chebulagic acid, Chebulinic acid, Ellagic acid, Tannic acid
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.01-1.04), total solids (5-15% w/v), self-generated alcohol content (5-12% v/v), total sugar (reducing and non-reducing), total acidity, microbial limits (TBC, yeast & mould count), heavy metals (Pb, Cd, Hg, As within permissible limits), absence of methanol, assay for gallic acid and chebulagic acid by HPLC/HPTLC
 
 **Vehicle (Anupana):** Equal quantity of lukewarm water
 

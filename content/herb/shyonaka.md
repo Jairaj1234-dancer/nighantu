@@ -84,33 +84,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shyonaka/meta-analysis.md"
 - Quercetin
 - Apigenin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kwatha (decoction), Churna (powder), Capsule, Ghana vati (solid extract tablet), Taila (medicated oil), Asava/Arishta
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg extract capsule twice daily; 15-30 mL arishta after meals
 
-**Bioavailability:** Flavone aglycones (baicalein, chrysin, oroxylin A) show low oral bioavailability because of extensive glucuronidation and sulfation. Oroxylin A undergoes glucuronidation, but the glucuronide is bioactive. Co-administration with [piperine](/reference/piperine/) enhances bioavailability by 1.5-2x.
-
 **Optimal Timing:** After meals with warm water; traditionally as part of Dashmool kwatha taken warm for Vata-Kapha disorders
-
-**Standardized Extract:** Bark extract (8:1 in 65% ethanol), standardized to NLT 5% total [flavonoids](/reference/flavonoids/) (as baicalein equivalents by HPLC); NLT 1% oroxylin A; NLT 0.5% chrysin
-
-**Shelf Life:** 24 months for churna; 36 months for standardized extract capsules; indefinite for properly fermented Arishta
 
 **Storage:** Store below 25 deg C in airtight, light-protected containers. Flavonoids are photosensitive, use amber packaging. Arishta in glass bottles.
 
 **Marker Compounds:** Baicalein, Oroxylin A, Chrysin, Biochanin A, Tetuin, Ellagic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Dashmool kwatha)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Self-generated alcoholic fermentation (Arishta)
-- Methanol extraction for maximum flavonoid yield
-- UAE for improved extraction efficiency
 
 ### Synergistic Combinations
 

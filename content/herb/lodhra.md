@@ -73,25 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Lodhra/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder per day in divided doses; 50-100 mL decoction twice daily; 250-500 mg standardized extract twice daily
 
-**Bioavailability:** Moderate oral bioavailability of flavonoid [glycosides](/glossary/compounds-g-l/#glycosides). Loturine and other alkaloids show reasonable GI absorption. High tannin content (15-20%) may self-limit absorption by precipitating proteins. [Proanthocyanidins](/glossary/compounds-o-q/#proanthocyanidins) undergo colonic metabolism to bioavailable phenolic acids.
-
 **Optimal Timing:** Between meals for gynecological indications; after meals for diarrhea management; topical application morning and evening
-
-**Standardized Extract:** Standardized bark extract (10:1) with minimum 5% loturine alkaloids. Tannin-rich extract (minimum 15% tannins as [catechin](/reference/catechin/) equivalents) for topical astringent products. Lodhrasava (fermented preparation) with 5-8% self-generated alcohol.
-
-**Shelf Life:** 30 months for bark powder; 36 months for tablets/capsules; 24 months for Asava/Arishta (improves with aging); 18 months for topical creams
 
 **Storage:** Store below 25 deg C in airtight containers. Bark powder in moisture-proof containers (RH below 60%). Asava/Arishta in glass or food-grade HDPE containers at room temperature. Topical products at 15-25 deg C.
 
 **Marker Compounds:** Loturine, Colloturine, Loturidine, Symplocosine, Ellagic acid, Gallic acid, Beta-sitosterol, Oleanolic acid
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold maceration for tannin-rich extract
-- Sequential extraction for alkaloid enrichment
-- Spray drying of decoction
 
 ### Synergistic Combinations
 

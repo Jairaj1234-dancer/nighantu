@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Sharapunkha/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily; 500 mg extract capsule twice daily
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) ([rutin](/glossary/compounds-q-t/#rutin), [quercetin](/reference/quercetinquercetin/)) show moderate oral bioavailability (20-35%). Rotenoids are lipophilic and benefit from lipid-based delivery. [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) undergo intestinal metabolism by gut microflora. Co-administration with [piperine](/reference/piperine/) improves flavonoid bioavailability by 1.5-2x.
-
 **Optimal Timing:** Before meals on empty stomach for hepatosplenic conditions; morning dose preferred
-
-**Standardized Extract:** Whole plant extract (8:1 in 60% ethanol), standardized to NLT 3% total [flavonoids](/reference/flavonoids/) (as rutin equivalents by HPLC); rotenoid content NMT 0.5% for safety; total phenolics NLT 5% by Folin-Ciocalteu
-
-**Shelf Life:** 7 days for swarasa (refrigerated); 24 months for churna; 36 months for standardized capsules
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C. Churna and capsules: below 25 deg C in airtight containers, protected from light and moisture.
 
 **Marker Compounds:** Rutin, [Quercetin](/reference/quercetinquercetin/), [Luteolin](/glossary/compounds-l-o/#luteolin), Rotenone (must be below safety limit), Deguelin, Tephrosin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (60% ethanol)
-- Cold pressing for swarasa
-- Soxhlet extraction with methanol for comprehensive flavonoid extraction
-- Sequential extraction for rotenoid separation
 
 ### Synergistic Combinations
 

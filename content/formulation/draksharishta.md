@@ -67,17 +67,11 @@ Bhaishajya Ratnavali (Agnimandya / Pandu Rogadhikara). Also referenced in Ayurve
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 69-71.
 
-**Bioavailability:** Fermentation enhances [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) and polyphenol extraction. Alcohol medium improves lipophilic polyphenol absorption. Natural grape sugars partially convert to alcohol during fermentation, generating novel bioactive esters. Superior polyphenol bioavailability compared to simple decoction.
-
 **Optimal Timing:** After meals, twice daily. Traditionally used as a general tonic and in debility.
-
-**Shelf Life:** 10 years from date of manufacture as per ASU guidelines for Arishta
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Temperature not exceeding 30°C. Protect from sunlight.
 
 **Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), Trans-resveratrol, [Quercetin](/reference/quercetinquercetin/), Gallic acid, Catechin, Tartaric acid
-
-**Quality Parameters:** pH (3.0-4.5), specific gravity (1.03-1.07), self-generated alcohol (5-12%), total solids, total sugar (higher than most Arishtas due to [Draksha](/herb/draksha/)), total acidity, resveratrol content, total polyphenols, microbial limits, heavy metals, absence of methanol
 
 **Vehicle (Anupana):** Equal quantity of water
 

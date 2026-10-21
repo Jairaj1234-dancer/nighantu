@@ -71,26 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Palankya/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh spinach juice daily; 3-5 g dried powder daily; 500 mg - 1 g concentrated extract daily
 
-**Bioavailability:** Iron from Palankya (spinach) has low bioavailability (2-5%) due to high oxalate content which chelates iron and calcium. Vitamin K (phylloquinone) is well absorbed (~40-60%) especially with dietary fat. Lutein and zeaxanthin show moderate bioavailability (15-30%) enhanced by co-administration with lipids. Beta-carotene bioavailability is 10-25%. Blanching or light cooking reduces oxalate by 30-50% and improves mineral bioavailability.
-
 **Optimal Timing:** Morning or afternoon with meals containing fat for optimal carotenoid absorption. Avoid taking with calcium supplements or dairy simultaneously (oxalate interference). Co-administer with vitamin C source for iron absorption.
-
-**Standardized Extract:** Spray-dried spinach extract (20:1 from fresh) with minimum iron 3%, total [chlorophyll](/glossary/compounds-c-d/#chlorophyll) >1%, lutein >0.5%. Low-oxalate processed extract with residual oxalate <200 mg/100g.
-
-**Shelf Life:** Fresh juice: 4-6 hours refrigerated; Dried powder: 12-18 months; Spray-dried extract: 18-24 months; Capsules: 18-24 months
 
 **Storage:** Fresh leaves/juice: 2-8 deg C, use within hours. Dried products: below 25 deg C, RH <40%, nitrogen-flushed packaging to prevent chlorophyll oxidation. Protect from light. Aluminum-foil laminated pouches recommended.
 
 **Marker Compounds:** Lutein, Zeaxanthin, Beta-carotene, Phylloquinone (Vitamin K1), Iron (as non-heme iron), Folate, Chlorophyll a and b, Oxalic acid (to quantify for safety)
-
-### Extraction Methods
-
-- Fresh juice extraction by mechanical pressing
-- Hot water blanching followed by extraction for reduced oxalate content
-- Hydroalcoholic extraction (40-60% ethanol) for flavonoid fraction
-- Spray drying of blanched juice with maltodextrin carrier
-- Freeze-drying for nutrient-dense powder
-- Supercritical CO2 for lutein/carotenoid enrichment
 
 ### Synergistic Combinations
 

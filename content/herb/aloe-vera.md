@@ -62,25 +62,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 **Standard Dosage:** 15-30ml fresh juice twice daily; 15-30ml [Kumaryasava](/formulation/kumaryasava/) after meals; 300-500mg dried extract capsule; topical gel application as needed
 
-**Bioavailability:** Acemannan (primary polysaccharide) has limited oral bioavailability but significant [immunomodulatory](/reference/immunomodulatory/) action in the gut (Peyer's patches). Anthraquinone [glycosides](/glossary/compounds-g-l/#glycosides) (aloin A/B) have good oral absorption and undergo colonic bacterial metabolism to active aglycones. Aloe-emodin reaches peak plasma levels in 6-8 hours. Fresh gel matrix enhances absorption of co-administered nutrients. Decolorized inner fillet gel has better tolerability profile.
-
 **Optimal Timing:** Fresh juice traditionally taken early morning on an empty stomach. Kumaryasava after meals. Topical gel as needed. Avoid during pregnancy (uterine stimulant effect of anthraquinones).
-
-**Standardized Extract:** Inner fillet gel: standardized to minimum 10% acemannan (dry weight), aloin < 10ppm. Whole leaf extract: standardized to 20% aloin (laxative grade). 200:1 freeze-dried gel concentrate.
-
-**Shelf Life:** 2 days (fresh gel, refrigerated); 2 years (freeze-dried powder); 3 years (capsules/tablets); 5 years (Kumaryasava); 1 year (preserved liquid gel)
 
 **Storage:** Fresh gel: refrigerated 2-8°C, use within 48 hours. Dried extracts: cool, dry place below 25°C, airtight containers. Liquid products: avoid direct sunlight, store below 25°C. Kumaryasava: room temperature in amber glass.
 
 **Marker Compounds:** Acemannan, Aloin A (barbaloin), Aloin B (isobarbaloin), Aloe-emodin, [Aloesin](/glossary/compounds-1-a/#aloesin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Glucomannans
-
-### Extraction Methods
-
-- Cold stabilization of fresh inner fillet gel (no heating above 40°C)
-- Freeze-drying for powder (200:1 concentration ratio)
-- Spray-drying with maltodextrin carrier
-- Charcoal filtration for decolorized (low-anthraquinone) gel
-- Ethanol precipitation for acemannan isolation
 
 ### Synergistic Combinations
 

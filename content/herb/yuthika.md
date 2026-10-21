@@ -70,26 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g leaf/flower powder twice daily; 50-100 mL decoction twice daily; 10-20 mL fresh leaf juice daily; 2-3 drops essential oil in carrier
 
-**Bioavailability:** Jasminine and other indole alkaloids have moderate oral bioavailability (~25-40%). Secoiridoids ([oleuropein](/glossary/compounds-o-q/#oleuropein)-type) undergo intestinal hydrolysis to hydroxytyrosol with moderate absorption. Jasmine essential oil components (linalool, benzyl acetate, indole) are rapidly absorbed both orally and transdermally. Linalool has good bioavailability (~50%) and CNS penetration ([anxiolytic](/reference/anxiolytic/) effect). Flower wax components are poorly absorbed orally but valuable for topical formulations.
-
 **Optimal Timing:** Leaf preparations: morning and evening after meals; aromatherapy: evening/bedtime for relaxation; flower applications: as needed
-
-**Standardized Extract:** Jasmine absolute: linalool >15%, benzyl acetate >20% by GC-MS; leaf extract standardized to >1% total alkaloids (as jasminine by HPLC); >3% total [iridoids](/glossary/compounds-g-l/#iridoids)
-
-**Shelf Life:** Fresh flowers: 12-24 hours; Dried flowers: 6-12 months; Jasmine absolute: 36-48 months; Leaf powder: 12-18 months; Essential oil: 24-36 months; Capsules: 24 months
 
 **Storage:** Jasmine absolute in amber glass at 2-8 deg C for long-term storage. Dried flowers in airtight, light-resistant containers. Leaf powder at 15-25 deg C in airtight containers. Protect all aromatic materials from heat and light.
 
 **Marker Compounds:** Jasminine, Jasminidine, Linalool, Benzyl acetate, Indole, Methyl anthranilate, Benzyl benzoate, [Phytol](/glossary/compounds-o-q/#phytol), Oleuropein, Jasmone
-
-### Extraction Methods
-
-- Steam distillation for essential oil (very low yield ~0.1%)
-- Enfleurage (traditional for jasmine absolute)
-- Solvent extraction (hexane) for jasmine concrete/absolute
-- Hydroethanolic extraction (40-60% ethanol) for leaf/flower extract
-- Aqueous decoction of leaves
-- CO2 extraction for high-quality aromatic extract
 
 ### Synergistic Combinations
 

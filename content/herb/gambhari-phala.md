@@ -73,25 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 **Standard Dosage:** 10-20g fresh fruit or fruit pulp; 3-6g dried fruit powder twice daily; 500mg extract capsule twice daily; 15-30ml fruit juice
 
-**Bioavailability:** Gmelina arborea fruit contains iridoid glycosides, flavonoids, organic acids, and natural sugars ([glucose](/glossary/compounds-d-g/#glucose), [fructose](/glossary/compounds-d-g/#fructose)). The fruit pulp provides a natural matrix that enhances dissolution and absorption of glycosidic actives. Sugar content aids osmotic absorption. Organic acids (citric, tartaric) may enhance mineral absorption. Fruit flavonoids have moderate bioavailability (15-30%). The sweet, mucilaginous fruit pulp serves as a natural sustained-release matrix. Enhancement generally not required for fruit preparations.
-
 **Optimal Timing:** Fresh fruit or juice on empty stomach in the morning for nutritive tonic effect; Avaleha after meals; capsule twice daily with meals
-
-**Standardized Extract:** Fruit extract standardized to NLT 1.5% total iridoid glycosides. Fruit powder: sugar content (Brix) 60-70% for dried powder. Extract ratio 4:1. HPTLC fingerprint matching reference standard.
-
-**Shelf Life:** Fresh fruit: 3-5 days refrigerated; 2 years (dried fruit powder); 2 years (capsule/tablet); 1 year (Avaleha)
 
 **Storage:** Fresh fruit: refrigerate at 2-8 deg C. Dried fruit powder: airtight, moisture-proof containers below 25 deg C with desiccant. Avaleha: airtight glass containers at room temperature.
 
 **Marker Compounds:** Gmelinoside, Cerotic acid, Butyric acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Apigenin](/glossary/compounds-1-a/#apigenin), Total sugar content, Vitamin C (ascorbic acid)
-
-### Extraction Methods
-
-- Fresh fruit juice expression
-- Aqueous extraction of dried fruit
-- Hydroalcoholic extraction (50:50)
-- Traditional Avaleha preparation (fruit cooked with sugar/jaggery)
-- Spray-dried fruit juice
 
 ### Synergistic Combinations
 

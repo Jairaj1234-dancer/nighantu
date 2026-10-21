@@ -40,22 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Lakuca/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder per day; 50-100 mL decoction twice daily; seed powder 1-3 g
 
-**Bioavailability:** Low to moderate bioavailability due to presence of latex [proteins](/glossary/compounds-o-q/#proteins) and complex [polysaccharides](/glossary/compounds-o-q/#polysaccharides).
-
 **Optimal Timing:** Before meals for digestive applications
-
-**Shelf Life:** 18 months for powder; 30 months for coated tablets/capsules; 12 months for liquid extracts
 
 **Storage:** Store below 25 deg C in airtight, light-resistant containers. Latex preparations are highly sensitive to light and oxidation; store under nitrogen in amber containers at 2-8 deg C.
 
 **Marker Compounds:** Beta-amyrin, [Lupeol](/reference/lupeol/), [Taraxasterol](/glossary/compounds-q-t/#taraxasterol), Germanicol
-
-### Extraction Methods
-
-- Aqueous extraction
-- Hydroalcoholic extraction (60% ethanol)
-- Cold maceration of latex
-- Sequential solvent extraction (hexane then methanol)
 
 ### Synergistic Combinations
 

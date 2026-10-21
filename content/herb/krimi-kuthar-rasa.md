@@ -69,26 +69,16 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Good; multi-metal Rasaushadhi with antiparasitic action
-
 **Optimal Timing:** Before meals with buttermilk or [Vidanga](/herb/vidanga/) Kwatha
-
-**Standardized Extract:** Kajjali + Loha + Tamra bhasmas with antiparasitic herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Iron oxide, Copper oxide, [Vidanga](/herb/vidanga/) [saponins](/reference/saponins/)
-
-**Quality Parameters:** Free metals below safety limits, standard Rasaushadhi tests
 
 **Vehicle (Anupana):** Buttermilk, Vidanga Kwatha, or Palash seed powder

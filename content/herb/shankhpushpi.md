@@ -64,25 +64,11 @@ Traditionally used as an [antispasmodic](/glossary/pharmacology/#antispasmodic) 
 
 **Standard Dosage:** 3-6 g powder per day; 10-20 mL syrup twice daily; 500-1000 mg extract capsule twice daily; 5-10 mL swarasa twice daily; children: 2.5-5 mL syrup twice daily
 
-**Bioavailability:** Flavonoid [glycosides](/glossary/compounds-g-l/#glycosides) and [triterpenoids](/glossary/compounds-t-z/#triterpenoids) show moderate oral bioavailability (25-40%). Shankhapushpine (alkaloid) is well-absorbed orally. The traditional Medhya [Rasayana](/reference/rasayana/) preparation with ghee significantly enhances lipophilic constituent absorption (1.5-2x improvement). Scopoletin shows good oral bioavailability (40-55%).
-
 **Optimal Timing:** Morning and evening for cognitive benefits; traditionally taken with ghee or milk. Before exams/study sessions for students (traditional use).
-
-**Standardized Extract:** Standardized whole plant extract of Convolvulus pluricaulis (10:1), NLT 5% total [flavonoids](/reference/flavonoids/) (as kaempferol equivalents by HPLC); NLT 0.3% scopoletin by HPLC; HPTLC fingerprint matching reference
-
-**Shelf Life:** 12-18 months for syrup; 24 months for churna; 36 months for standardized extract capsules/tablets
 
 **Storage:** Syrup: below 25 deg C, refrigerate after opening. Capsules and churna: airtight containers below 25 deg C, protected from light and moisture.
 
 **Marker Compounds:** Shankhapushpine, Scopoletin, Kaempferol, Convolvuline, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Microphyllol, 20-Oxodotriacontanol
-
-### Extraction Methods
-
-- Aqueous extraction (traditional)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Cold pressing for swarasa
-- Extraction in ghee (traditional [Ghrita](/herb/ghrita/) preparation)
-- UAE (ultrasound-assisted) for improved flavonoid yield
 
 ### Synergistic Combinations
 

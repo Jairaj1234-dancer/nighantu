@@ -76,26 +76,16 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Godugdha/meta-analysis.md"
 - **Vitamin B12:** 0.45μg/100ml
 - **Vitamin D:** 40 IU/100ml (if fortified)
 
-**Analytical Methods:** AOAC methods, HPLC, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Fresh milk, Boiled milk, Kshirapaka (medicated milk)
 
 **Standard Dosage:** 100–250 mL twice daily
 
-**Bioavailability:** High; contains A1 and A2 casein variants; A2 preferred in Ayurveda
-
 **Optimal Timing:** Morning or evening; warm with spices ([turmeric](/herb/turmeric/), cardamom)
-
-**Standardized Extract:** N/A, whole food vehicle
-
-**Shelf Life:** Fresh: 24–48 hours refrigerated; boiled: 48–72 hours
 
 **Storage:** Refrigerated at 4°C
 
 **Marker Compounds:** Casein proteins, Whey proteins, Calcium, Lactoferrin, Immunoglobulins
-
-**Quality Parameters:** Fat >3.5%, SNF >8.5%, bacterial count <2×10^5/mL, no adulteration
 
 **Vehicle (Anupana):** Most common anupana in Ayurveda; vehicle for bhasmas, Rasayanas, and [Vajikarana](/glossary/pharmacology/#vajikarana) drugs

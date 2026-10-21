@@ -57,7 +57,7 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 - Contains mercury (Parada) and arsenic (Haratala) - classified as a high-risk herbo-metallic preparation requiring strict medical supervision
 - 2023 toxicity study showed no detectable mercury in blood but significant arsenic levels at high dose, indicating arsenic is the primary safety concern
 - Mild genotoxicity and histopathological changes in liver and brain at high dose (600 mg/kg) - mandates strict dose adherence
-- Considered safe at therapeutic doses (250-500 mg, 1-2 times daily for up to 1 month) based on toxicity study; duration should not exceed prescribed period
+- Considered safe at the doses given under Dosage based on toxicity study; duration should not exceed prescribed period
 - Over-dosage may cause severe poisonous effects; periodic monitoring of liver function, renal function, and blood arsenic/mercury levels required
 - Self-medication is extremely dangerous; FDA and international agencies have flagged concerns about mercury and arsenic in Ayurvedic medicines
 
@@ -68,26 +68,16 @@ Bhaishajya Ratnavali, Shlipada Rogadhikara (Elephantiasis Chapter), Verses 33-41
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** Good; Rasaushadhi with GI tropism
-
 **Optimal Timing:** Before meals with buttermilk or [ginger](/herb/ginger/) juice
-
-**Standardized Extract:** Kajjali with digestive and [hepatoprotective](/reference/hepatoprotective/) herbs
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Hepatoprotective herbal compounds
-
-**Quality Parameters:** Standard Rasaushadhi tests, free mercury <1 ppm
 
 **Vehicle (Anupana):** Buttermilk or [ginger](/herb/ginger/) juice

@@ -61,26 +61,16 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Hinguleshwar-Ras/m
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill)
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Bioavailability:** [Mercury-sulfide](/glossary/compounds-l-o/#mercury-sulfide) complex (cinnabar) in nanoparticulate form; detoxified through Shodhana-Marana
-
 **Optimal Timing:** With honey and [ginger](/herb/ginger/) juice; before meals
-
-**Standardized Extract:** Purified Hingula (cinnabar/HgS) processed with herbal media
-
-**Shelf Life:** Indefinite (Rasaushadhi)
 
 **Storage:** Airtight glass container
 
 **Marker Compounds:** Mercury sulfide (HgS, metacinnabar), Sulfur compounds, Herbal bioactives
-
-**Quality Parameters:** Free mercury <1 ppm (critical), standard Rasaushadhi tests, particle size <100 nm
 
 **Vehicle (Anupana):** Honey + [ginger](/herb/ginger/) juice (Ardrak Swarasa); [Tulsi](/herb/tulsi/) juice

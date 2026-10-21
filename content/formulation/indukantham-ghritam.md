@@ -66,25 +66,17 @@ Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee), Soft gelatin capsules (modern)
 
 **Standard Dosage:** 6-12 g twice daily on empty stomach. The Ayurvedic Formulary of India attributes this formula to Sahasrayoga, Ghrtaprakarana; 5.
 
-**Bioavailability:** Ghee matrix enhances absorption of [Dashamoola](/herb/dashamoola/) [triterpenes](/glossary/compounds-t-z/#triterpenes) and [Bala](/herb/bala/) [alkaloids](/glossary/compounds-1-a/#alkaloids). Lipid vehicle facilitates CNS penetration for Vata-pacifying action. Superior bioavailability compared to kashayam form for lipophilic compounds.
-
 **Optimal Timing:** On empty stomach, morning and evening, for Gulma (abdominal tumors/masses), Udara roga, and Vata disorders
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/)
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), [Marmelosin](/glossary/compounds-l-o/#marmelosin), [Ephedrine](/glossary/compounds-d-g/#ephedrine) (from [Bala](/herb/bala/)), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Cedrene](/glossary/compounds-c-d/#cedrene) (from [Devadaru](/herb/devadaru/))
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, HPTLC fingerprint for [Dashamoola](/herb/dashamoola/) and Bala markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Warm water or warm milk
 

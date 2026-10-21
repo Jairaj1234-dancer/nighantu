@@ -63,7 +63,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ## Recent safety updates
 
-- Possibly safe and well-tolerated in most individuals at recommended doses (12-24 mL once or twice daily after food). No significant side effects reported in the medical literature.
+- Possibly safe and well-tolerated in most individuals at the doses given under Dosage. No significant side effects reported in the medical literature.
 - Pregnant women should use only under medical guidance as some component roots have mild uterine-stimulating properties. Elderly patients with diabetes should monitor blood sugar due to jaggery content.
 - Contains 5-7% self-generated alcohol; should be used cautiously by those with liver conditions, alcohol sensitivity, or those on medications metabolized by the liver.
 
@@ -74,25 +74,17 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta (fermented decoction), Kwath Churna (decoction powder), Capsules (modern)
 
 **Standard Dosage:** 15-30 mL (Arishta) or 3-6 g kwath churna twice daily.
 
-**Bioavailability:** Arishta form provides superior bioavailability due to alcohol-mediated extraction and absorption. Kwath (decoction) provides rapid absorption of water-soluble components. The ten roots provide broad-spectrum anti-inflammatory and analgesic activity through multiple absorption pathways.
-
 **Optimal Timing:** After meals for Arishta; before meals for Kwath (decoction)
-
-**Shelf Life:** 10 years (Arishta), 2 years (Kwath Churna)
 
 **Storage:** Arishta: well-closed amber containers at room temperature. Kwath Churna: airtight containers in cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), [Marmelosin](/glossary/compounds-l-o/#marmelosin), Ursolic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Solasodine](/glossary/compounds-q-t/#solasodine), Pectolinarigenin
-
-**Quality Parameters:** For Arishta: pH, specific gravity, alcohol content, total solids. For Kwath Churna: loss on drying, total ash, extractive values, HPTLC for all ten root markers, microbial limits, heavy metals
 
 **Vehicle (Anupana):** Equal quantity of warm water (Arishta); prepared as decoction for Kwath Churna
 

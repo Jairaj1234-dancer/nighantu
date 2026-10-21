@@ -90,33 +90,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 - Isopimaric acid
 - Wikstromol 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kashayam (decoction), Taila (medicated oil), Tablet, Capsule, Kwath Ghana (solid extract), Dhupa (fumigation - traditional)
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction twice daily; 500mg extract capsule twice daily; Taila for external application
 
-**Bioavailability:** Cedrus deodara heartwood contains sesquiterpenes (himachalenes) and terpenoids with moderate lipophilicity. Oral bioavailability of sesquiterpenes is moderate (15-30%) with hepatic first-pass metabolism. Taila preparations enhance absorption of lipophilic terpenoids through lymphatic uptake. Volatile oil components absorbed well from GI tract but rapidly metabolized. Enhancement: cyclodextrin complexation improves aqueous solubility of himachalenes; co-administration with [Trikatu](/herb/trikatu/) enhances absorption.
-
 **Optimal Timing:** Traditionally taken after meals with warm water; Taila traditionally applied with gentle massage, preferably in the evening
-
-**Standardized Extract:** Essential oil: standardized to NLT 60% himachalol + himachalenes by GC-MS. Hydroalcoholic extract: NLT 3% total terpenoids. Extract ratio 6:1.
-
-**Shelf Life:** 2 years (powder in airtight container); 3 years (tablet/capsule); 3 years (essential oil in amber glass)
 
 **Storage:** Store in airtight, amber containers below 25 deg C. Essential oil: cool, dark place, nitrogen-blanketed to prevent oxidation. Powder: protect from moisture; heartwood powder is relatively stable but volatile components diminish over time.
 
 **Marker Compounds:** Alpha-himachalene, Beta-himachalene, Himachalol, Allohimachalol, Centdarol, Deodarone, Cedrin
-
-### Extraction Methods
-
-- Steam distillation for essential oil (Devadaru Taila)
-- Aqueous decoction of heartwood
-- Hydroalcoholic extraction (70:30)
-- Supercritical CO2 extraction for terpenoid-rich extract
-- Soxhlet extraction with petroleum ether for essential oil alternative
 
 ### Synergistic Combinations
 

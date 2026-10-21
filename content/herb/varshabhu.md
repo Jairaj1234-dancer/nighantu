@@ -71,25 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Varshabhu/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; 10-20 mL fresh juice daily
 
-**Bioavailability:** Trianthema portulacastrum alkaloids (trianthemine, punarnavine-like compounds) show moderate oral bioavailability (~25-35%). Ecdysteroids have moderate absorption with enteric metabolism. Flavonoids and phenolic acids undergo typical Phase II conjugation with low systemic bioavailability (<15%). The diuretic action is primarily through local renal tubular effects of absorbed alkaloids.
-
 **Optimal Timing:** Morning on empty stomach for diuretic effect; before meals for hepatoprotective action
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total alkaloids (by gravimetric method); >3% total flavonoids (as [rutin](/glossary/compounds-q-t/#rutin) equivalent by UV)
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12-18 months; Capsules/Tablets: 24 months; Decoction: prepare fresh
 
 **Storage:** Dried material in airtight containers at 15-25 deg C, protected from moisture and light. Fresh juice at 2-8 deg C.
 
 **Marker Compounds:** Trianthemine, Ecdysterone, Rutin, [Quercetin](/reference/quercetinquercetin/), beta-Sitosterol, Leptorumol, [Kaempferol](/reference/kaempferol/)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (50-60% ethanol)
-- Fresh juice expression
-- Methanol extraction for alkaloid-rich fraction
-- Soxhlet extraction
 
 ### Synergistic Combinations
 

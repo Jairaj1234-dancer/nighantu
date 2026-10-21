@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Chirabilva/meta-analysis
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 500mg extract capsule. Traditional dosing per Vaidya guidance.
 
-**Bioavailability:** Holoptelea integrifolia, [triterpenoids](/glossary/compounds-t-z/#triterpenoids) ([friedelin](/glossary/compounds-d-g/#friedelin), [lupeol](/reference/lupeol/)) show moderate oral bioavailability (15-25%) limited by poor water solubility. Lipid-based delivery enhances triterpenoid absorption. Bark [tannins](/reference/tannins/) may reduce protein absorption if taken with meals. Decoction provides better bioavailability of water-soluble phenolics compared to powder.
-
 **Optimal Timing:** Before meals with warm water for internal use; external paste applied twice daily on affected area; oil application at bedtime
-
-**Standardized Extract:** Bark extract standardized to friedelin NLT 1%; total triterpenoids NLT 3%; total tannins NLT 10%
-
-**Shelf Life:** 2 years (powder); 3 years (capsule/tablet); 3 years (oil)
 
 **Storage:** Cool, dry place in airtight containers. Bark powder is relatively stable. Protect from moisture.
 
 **Marker Compounds:** Friedelin, Lupeol, Beta-amyrin, [Betulin](/glossary/compounds-a-c/#betulin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Ellagic acid, Holoptelin-A and B
-
-### Extraction Methods
-
-- Aqueous decoction of bark/leaves
-- Hydroalcoholic extraction (60:40) for balanced phenolic-triterpenoid extract
-- Ethanol extraction (95%) for triterpenoid enrichment
-- Cold maceration for paste preparations
-- Petroleum ether extraction for lipophilic triterpenoids
 
 ### Synergistic Combinations
 

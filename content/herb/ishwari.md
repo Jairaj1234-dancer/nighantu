@@ -70,23 +70,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 **Standard Dosage:** No safe dose established for internal human use; not recommended under any circumstances.
 
-**Bioavailability:** Aristolochia indica root contains aristolochic acids (CAUTION: nephrotoxic and carcinogenic) and [terpenoids](/glossary/compounds-t-z/#terpenoids). Aristolochic acids are well absorbed orally but are highly toxic. REGULATORY WARNING: Aristolochic acid-containing herbs are BANNED or restricted in many countries (USA, EU, UK, Australia). Modern formulations must demonstrate absence of aristolochic acids below detection limits or use aristolochic acid-free chemotypes if available.
-
 **Optimal Timing:** NOT recommended for any internal use or modern formulation
-
-**Standardized Extract:** NOT RECOMMENDED for modern extract standardization due to aristolochic acid toxicity. Shodhana methods do NOT reliably eliminate aristolochic acids.
-
-**Shelf Life:** Not applicable for modern commercial products due to regulatory restrictions
 
 **Storage:** If held for research purposes: controlled substance storage, clearly labeled as toxic/restricted material. Not for commercial distribution in most markets.
 
 **Marker Compounds:** Aristolochic acid I (toxic marker - must be below detection/regulatory limit), Aristolochic acid II (toxic marker), Aristolactam, Ceryl alcohol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction - MUST test for aristolochic acid content
-- Traditional Shodhana processing (may partially reduce but not eliminate toxic components)
 
 ### Synergistic Combinations
 

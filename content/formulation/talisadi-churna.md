@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Churnas-Powders"
-answer: "Talisadi Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-133. Essentially an extension of Sitopaladi Churna with the addition of Talisa (Abies webbiana) as the primary differentiating herb."
+answer: "Talisadi Churna is a classical Ayurvedic churna, a fine herbal powder. Listed in the Ayurvedic Formulary of India (AFI) Part I. Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda. Essentially an extension of Sitopaladi Churna with the addition of Talisa (Abies webbiana) as the primary differentiating herb."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Talisadi-Churna/m
 
 ## Where is it described in the classical texts?
 
-Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-133. Essentially an extension of [Sitopaladi Churna](/formulation/sitopaladi-churna/) with the addition of [Talisa](/herb/talisa/) (Abies webbiana) as the primary differentiating herb.
+Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda. Essentially an extension of [Sitopaladi Churna](/formulation/sitopaladi-churna/) with the addition of [Talisa](/herb/talisa/) (Abies webbiana) as the primary differentiating herb.
 
 ## How does it work?
 
@@ -65,25 +65,17 @@ Charaka Chikitsa Sthana 8/145-148. Sharangdhara Samhita, Madhyama Khanda 6/130-1
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
 **Standard Dosage:** 3 g with honey, as given in the Ayurvedic Formulary of India, Part I, entry 7:13. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** Multiple times daily for respiratory conditions
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Piperine, Gingerol
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Piperine, Gingerol
 
 **Vehicle (Anupana):** Honey
 

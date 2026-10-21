@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Makoy/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-6 g powder per day; 50-100 mL decoction twice daily; 500 mg extract capsules twice daily
 
-**Bioavailability:** Steroidal [alkaloids](/glossary/compounds-1-a/#alkaloids) ([solasonine](/glossary/compounds-q-t/#solasonine), [solamargine](/glossary/compounds-q-t/#solamargine)) have moderate oral bioavailability (~25-35%). Glycoalkaloids are partially hydrolyzed in the GI tract to more absorbable aglycones. [Diosgenin](/glossary/compounds-d-g/#diosgenin) absorption is enhanced by lipid co-administration.
-
 **Optimal Timing:** Traditionally taken in the morning on an empty stomach; before meals in digestive use; fresh juice preferably in morning
-
-**Standardized Extract:** Standardized whole plant extract (8:1 hydroalcoholic) with minimum 1% total steroidal alkaloids (as solasonine equivalents) and controlled [solanine](/glossary/compounds-q-t/#solanine) below 0.1%. Spray-dried juice powder (10:1) preserving hepatoprotective glycoproteins.
-
-**Shelf Life:** Fresh juice: 4-6 hours at room temperature, 24-48 hours refrigerated. Dried powder: 18 months. Capsules/tablets: 24 months. Syrup: 18 months with preservative.
 
 **Storage:** Fresh plant material processed within 6 hours of harvest. Dried powder below 25 deg C in airtight, light-resistant containers. Syrup at room temperature in amber bottles. Capsules/tablets in blister packs with desiccant.
 
 **Marker Compounds:** Solasonine, Solamargine, [Solasodine](/glossary/compounds-q-t/#solasodine), Solanine (controlled), Diosgenin, [Quercetin](/reference/quercetinquercetin/), Caffeic acid, [Riboflavin](/glossary/compounds-q-t/#riboflavin)
-
-### Extraction Methods
-
-- Aqueous extraction (whole plant)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Fresh juice by cold pressing
-- Acid-water extraction for alkaloid enrichment
-- Spray drying of decoction for standardized powder
 
 ### Synergistic Combinations
 

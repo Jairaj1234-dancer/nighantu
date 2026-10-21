@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 - Guineensine
 - Methyl piperate
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Component of digestive formulations
 
 **Standard Dosage:** 1-3g powder twice daily with warm water; 500mg extract capsule; 50-100ml decoction; commonly used as part of compound digestive formulations
 
-**Bioavailability:** Piper chaba/P. retrofractum root and stem, piperine alkaloids show excellent oral bioavailability (>80%). Root contains higher concentration of piperlongumine compared to fruit. Thermogenic and bioenhancer properties identical to [Chavika](/herb/chavika/) (fruit of the same species). Enhances bioavailability of co-administered compounds through CYP3A4 and P-gp modulation.
-
 **Optimal Timing:** Before meals with warm water for digestive stimulation; with meals for enhanced nutrient absorption; not recommended at bedtime due to stimulant properties
-
-**Standardized Extract:** Root extract standardized to piperine NLT 3%; piperlongumine NLT 1%; total alkaloids NLT 6%
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule)
 
 **Storage:** Airtight containers in cool, dry conditions. Protect from moisture. Separate from aromatic-sensitive products.
 
 **Marker Compounds:** Piperine, Piperlongumine, [Pipernonaline](/glossary/compounds-o-q/#pipernonaline), [Piperlonguminine](/glossary/compounds-o-q/#piperlonguminine), Retrofractamide A, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for alkaloid enrichment
-- Aqueous decoction for traditional Kashayam
-- Ethanol extraction (95%) for research-grade alkaloid profiling
-- Mechanical grinding of dried root/stem for Churna
 
 ### Synergistic Combinations
 

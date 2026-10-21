@@ -71,24 +71,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shatavari-Ksheera/meta-analys
 
 **Standard Dosage:** 100-200 mL prepared Ksheerapaka (milk decoction) once or twice daily; 500-1000 mg freeze-dried Ksheerapaka powder per day
 
-**Bioavailability:** Superior bioavailability compared to simple [Shatavari](/herb/shatavari/) preparations due to milk lipid-mediated solubilization of steroidal saponins. Casein micelles act as natural nanocarriers for lipophilic constituents. Calcium and [phospholipids](/glossary/compounds-o-q/#phospholipids) in milk further enhance saponin absorption.
-
 **Optimal Timing:** Warm, before bedtime for reproductive tonic and sleep-promoting effects; morning dose for galactagogue action in lactating mothers
-
-**Standardized Extract:** Freeze-dried Shatavari Ksheerapaka powder standardized to NLT 5% shatavarin content by HPLC-ELSD; reconstitution ratio 1:8 with warm water or milk
-
-**Shelf Life:** Fresh Ksheerapaka: 24-48 hours refrigerated; spray-dried powder: 18 months; freeze-dried: 24 months; UHT-processed liquid: 6 months
 
 **Storage:** Fresh: refrigerate at 2-8 deg C, consume within 48 hours. Dried powders: below 25 deg C, airtight containers with desiccant, protect from moisture. RH <40% for hygroscopic dried milk preparations.
 
 **Marker Compounds:** Shatavarin IV, Racemosol, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), Milk fat content (as quality parameter), Total saponins
-
-### Extraction Methods
-
-- Traditional Ksheerapaka method: boil 1 part Shatavari powder with 8 parts milk and 32 parts water; reduce until only milk portion remains
-- Spray-drying of prepared Ksheerapaka for shelf-stable powder
-- Freeze-drying for maximum constituent preservation
-- Vacuum evaporation at <50 deg C for concentrated paste
 
 ### Synergistic Combinations
 

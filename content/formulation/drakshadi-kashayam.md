@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 
 **Standard Dosage:** 15-30 mL or 2 tablets twice daily before meals. The Ayurvedic Formulary of India, Part I, entry 4:13 specifies 48 g of the kvatha curna to prepare the decoction, which is a quantity of drug rather than a dose taken, so it is not comparable with the volume above. The formulary attributes this formula to Astangahrdaya, Cikitsasthana, Adhyaya 1; 55-57.
 
-**Bioavailability:** Natural sugars from [Draksha](/herb/draksha/) aid palatability and provide quick energy. [Polyphenols](/glossary/compounds-o-q/#polyphenols) are rapidly absorbed from decoction form.
-
 **Optimal Timing:** Before meals, morning and evening
-
-**Shelf Life:** Same day (fresh), 6 months (preserved), 3 years (tablet)
 
 **Storage:** Fresh: use same day. Concentrates: amber glass at room temperature. Tablets: airtight containers at room temperature.
 
 **Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), [Quercetin](/reference/quercetinquercetin/), Gallic acid, [Catechin](/reference/catechin/), Tartaric acid
-
-**Quality Parameters:** pH, specific gravity, total solids, total sugar (higher due to [Draksha](/herb/draksha/)), extractive values, resveratrol content by HPLC, total polyphenols, HPTLC fingerprint, microbial limits, heavy metals
 
 **Vehicle (Anupana):** As is (warm decoction) or with honey
 

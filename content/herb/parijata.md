@@ -75,26 +75,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 
 **Standard Dosage:** 1-3 g leaf powder daily; 15-30 mL leaf decoction twice daily; 10-15 mL fresh leaf juice; 500-750 mg standardized extract daily
 
-**Bioavailability:** Nyctanthic acid and arbortristosides show moderate oral bioavailability (20-35%). Iridoid glycosides undergo hydrolysis by intestinal beta-glucosidases releasing aglycones with enhanced absorption. Phenolic glycosides from leaves are moderately absorbed and undergo Phase II metabolism (glucuronidation, sulfation).
-
 **Optimal Timing:** For fever: decoction taken early morning on empty stomach (traditional protocol). For arthritis and chronic conditions: after meals, twice daily. Fresh juice: morning on empty stomach.
-
-**Standardized Extract:** Parijata leaf extract (8:1) standardized to arbortristosides >1.5%, nyctanthic acid >0.8%, total iridoid glycosides >3%. Fresh juice preserved with sodium benzoate (0.1%) for short-term shelf life.
-
-**Shelf Life:** Dried leaf: 12-18 months; Fresh juice: 2-3 days refrigerated (preserved: 3-6 months); Extract: 24 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Dried leaves: airtight containers, below 25 deg C, RH <55%, protected from light. Extracts: amber containers, below 25 deg C. Fresh juice: 2-8 deg C. Taila: room temperature, amber glass.
 
 **Marker Compounds:** Arbortristoside-A, Arbortristoside-C, Nyctanthic acid, Nyctanthin, Iridoid glycosides, D-[mannitol](/glossary/compounds-l-o/#mannitolmannitol), Tannic acid, Beta-sitosterol, Oleanolic acid
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kwatha)
-- Hydroalcoholic extraction (50-70% ethanol)
-- Methanol extraction for iridoid glycoside enrichment
-- Fresh juice expression for Swarasa
-- Steam distillation for Ark preparation
-- Ethyl acetate fractionation for arbortristosides
 
 ### Synergistic Combinations
 

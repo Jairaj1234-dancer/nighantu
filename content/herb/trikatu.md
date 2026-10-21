@@ -65,7 +65,7 @@ Synergistic combination, piperine enhances absorption of other herbs and foods. 
 
 ## Recommended Dosage
 
-Powder: 1-3g/day before meals with honey
+Powder: at the dose given under Standard Dosage, before meals with honey
 
 ## Safety, contraindications and cautions
 
@@ -85,32 +85,17 @@ Powder: 1-3g/day before meals with honey
 - Shogaols
 - Ginger
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, [Guggulu](/formulation/guggulu/) combination, Kwatha additive
 
 **Standard Dosage:** 0.5-1 g powder twice daily with honey or warm water; 250-500 mg tablet/capsule twice daily
 
-**Bioavailability:** Trikatu is itself a bioenhancer formulation. Piperine (from Maricha and [Pippali](/herb/pippali/)) inhibits CYP3A4, CYP1A2, P-glycoprotein, and intestinal glucuronidation, increasing bioavailability of co-administered compounds by 30-200%. Gingerols and shogaols from Shunthi have moderate bioavailability (~30-40%). Piperine has good oral bioavailability (~50-60%) with rapid absorption (Tmax 1-2 hours). The combination provides thermogenic effects that enhance GI blood flow and absorption.
-
 **Optimal Timing:** Before meals (15-30 minutes) for digestive stimulation and bioenhancer effect; avoid at bedtime due to thermogenic activity
-
-**Standardized Extract:** Blended powder standardized to >5% piperine and >2% gingerols by HPLC; concentrated extract (10:1) standardized to >15% piperine
-
-**Shelf Life:** Churna: 12-18 months; Tablets/Capsules: 24-36 months; Standardized extract: 36 months
 
 **Storage:** Airtight containers at 15-25 deg C, protected from moisture and light. Piperine is photosensitive; use opaque packaging. Powder tends to absorb moisture; include desiccant sachets.
 
 **Marker Compounds:** Piperine, [Piperlongumine](/glossary/compounds-o-q/#piperlongumine), [Piperanine](/glossary/compounds-o-q/#piperanine), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), 8-Gingerol, 10-Gingerol, 6-Shogaol, [Zingerone](/glossary/compounds-t-z/#zingerone)
-
-### Extraction Methods
-
-- Simple mechanical blending of three ingredient powders (1:1:1 ratio)
-- Hydroethanolic extraction (60-70% ethanol) for standardized extract
-- Supercritical CO2 extraction for piperine-enriched fraction
-- Aqueous decoction (traditional)
 
 ### Synergistic Combinations
 

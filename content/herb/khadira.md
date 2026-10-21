@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally well-tolerated in traditional dose ranges (3-6 g powder daily). High tannin content may cause gastrointestinal discomfort in excessive doses
+- Generally well-tolerated at the doses given under Dosage. High tannin content may cause gastrointestinal discomfort in excessive doses
 - Khadirarishta (fermented formulation) contains self-generated alcohol (5-10%); not recommended for patients with alcohol sensitivity or liver conditions. Standardization of catechin content varies across commercial preparations
 
 ## What is it made of?
@@ -76,33 +76,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"
 - Procyanidins
 - Catechu-tannic acid 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Kashayam (decoction), Kwatha (concentrated decoction), Sara (heartwood extract, Khadira Sara/Catechu), Tablet, Capsule, Ointment/Cream, [Khadiradi Vati](/formulation/khadiradi-vati/) (classical lozenge)
 
 **Standard Dosage:** 50-100 mL decoction twice daily; 500 mg-1 g Khadira Sara with honey; 3-5 g heartwood powder; [Khadiradi Vati](/formulation/khadiradi-vati/): 1-2 lozenges dissolved slowly in mouth
 
-**Bioavailability:** Catechin and epicatechin have moderate oral bioavailability (20-30%) with significant Phase II conjugation. Catechin glucuronides and sulfates are the primary circulating forms. Catechu (concentrated extract) provides high-dose [catechins](/glossary/compounds-c-d/#catechins) with improved absorption due to condensed matrix. [Piperine](/reference/piperine/) co-administration inhibits glucuronidation and improves catechin bioavailability by ~50%. Phytosome technology (catechin-phospholipid complex) shows 4-fold improvement in plasma AUC.
-
 **Optimal Timing:** After meals for skin conditions; Khadiradi Vati: dissolve in mouth after meals for oral/throat health; decoction: twice daily between meals for blood purification
-
-**Standardized Extract:** Khadira Sara standardized to minimum 50% total catechins (catechin + epicatechin) by HPLC; bark extract to minimum 20% tannins
-
-**Shelf Life:** 36 months for Khadira Sara (solid extract); 24 months for powder; 24 months for Khadiradi Vati; 18 months for capsules
 
 **Storage:** Khadira Sara is hygroscopic. Store in airtight, moisture-proof containers at 15-30°C. Powder protected from humidity. Khadiradi Vati in blister packaging to prevent moisture absorption.
 
 **Marker Compounds:** Catechin, Epicatechin, Epicatechin gallate, [Quercetin](/reference/quercetinquercetin/), [Fisetin](/glossary/compounds-d-g/#fisetinfisetin), Kaempferol, [Taxifolin](/glossary/compounds-t-z/#taxifolin), Procyanidins
-
-### Extraction Methods
-
-- Water decoction and evaporation for Khadira Sara (Catechu/Cutch), traditional boiling and concentration
-- Hydroalcoholic extraction (50-70% ethanol)
-- Supercritical CO2 for catechin-enriched fraction
-- Hot water extraction under pressure for rapid processing
-- Spray drying of concentrated decoction for instant powder
 
 ### Synergistic Combinations
 

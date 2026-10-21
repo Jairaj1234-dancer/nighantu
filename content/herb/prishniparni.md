@@ -75,33 +75,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Prishniparni/meta-analysis.md
 - Saponins
 - Tannins
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, [Ghrita](/herb/ghrita/), Taila
 
 **Standard Dosage:** 3-6 g whole herb powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Bioavailability:** Uraria picta (Prishniparni) contains flavonoids and terpenoids with moderate oral bioavailability (20-35%). [Isoflavonoids](/glossary/compounds-g-l/#isoflavonoids) show absorption kinetics similar to soy isoflavones (20-40% bioavailability). Saponins undergo partial hydrolysis by gut bacteria. Part of Dashmool combination where synergistic absorption with other herbs may be enhanced.
-
 **Optimal Timing:** As part of Dashmool Kwatha: morning and evening between meals. Single herb: after meals with warm water for Vata disorders.
-
-**Standardized Extract:** Prishniparni whole herb extract (6:1) standardized to total isoflavonoids >2%, total phenolics >5% GAE. Root extract for Dashmool with validated HPTLC fingerprint.
-
-**Shelf Life:** Dried herb: 12-18 months; Powder: 12-18 months; Extract: 24 months; Capsules: 24 months
 
 **Storage:** Dried material: airtight containers, below 25 deg C, RH <55%, protected from pest infestation. Extracts: amber containers, cool and dry.
 
 **Marker Compounds:** Uraripictin, [Genistein](/glossary/compounds-d-g/#genistein), [Daidzein](/glossary/compounds-c-d/#daidzein), Medicarpin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Lupeol](/reference/lupeol/), Oleanolic acid, Gallic acid
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-60% ethanol)
-- Methanol extraction for isoflavonoid profiling
-- Traditional processing as part of Dashmool Kwatha
-- Soxhlet extraction for standardized extract production
 
 ### Synergistic Combinations
 

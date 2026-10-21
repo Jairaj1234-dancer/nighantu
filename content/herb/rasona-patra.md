@@ -73,25 +73,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rasona-Patra/meta-analysis.md
 
 **Standard Dosage:** 5-15 mL fresh leaf juice daily; 2-4 g dried leaf powder daily; 500 mg leaf extract twice daily; topical paste as needed
 
-**Bioavailability:** Garlic leaf (green garlic) contains allicin precursors at lower concentrations than bulb but has higher flavonoid and chlorophyll content. Allyl sulfides from leaf have similar bioavailability profile to bulb (~40-60%). Kaempferol and [quercetin](/reference/quercetinquercetin/) [glycosides](/glossary/compounds-g-l/#glycosides) show moderate bioavailability (15-30%). Fresh leaf juice provides rapid absorption of water-soluble organosulfur compounds. [Folate](/glossary/compounds-d-g/#folate) content is well absorbed (~60-70%).
-
 **Optimal Timing:** Fresh juice: morning on empty stomach or with meals. Dried leaf powder: with meals. As culinary herb: add to dishes at end of cooking to preserve bioactives.
-
-**Standardized Extract:** Rasona leaf extract (10:1 from fresh) standardized to total organosulfur compounds >0.5%, total flavonoids >3% (as kaempferol equivalents), chlorophyll >1%.
-
-**Shelf Life:** Fresh leaves: 3-5 days refrigerated; Dried leaf powder: 12-18 months; Freeze-dried powder: 18-24 months; Extract: 18-24 months; Capsules: 24 months
 
 **Storage:** Fresh leaves: 2-8 deg C in perforated bags. Dried powder: airtight, below 25 deg C, RH <40%, nitrogen-flushed, protected from light (chlorophyll oxidation). Extract: amber containers, below 25 deg C.
 
 **Marker Compounds:** [Alliin](/glossary/compounds-1-a/#alliin) (lower than bulb), Diallyl sulfides, Kaempferol, Quercetin, Chlorophyll a and b, Folate, Beta-carotene, Ascorbic acid
-
-### Extraction Methods
-
-- Fresh juice expression (mechanical pressing)
-- Hydroalcoholic extraction (50-60% ethanol)
-- Shade-drying and powdering
-- Aqueous extraction for polar organosulfur compounds
-- Freeze-drying for maximum bioactive retention
 
 ### Synergistic Combinations
 

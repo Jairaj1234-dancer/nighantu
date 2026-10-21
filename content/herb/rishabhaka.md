@@ -78,32 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Rishabhaka/meta-analysis.md"
 - Alpha-amyrin and beta-amyrin
 - Beta-
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Kwatha (decoction), Vati (tablet), Capsule, Asava/Arishta (fermented preparation)
 
 **Standard Dosage:** 3-6 g churna per day in divided doses; 50-100 mL kwatha twice daily
 
-**Bioavailability:** Moderate oral bioavailability; triterpenoid saponins require bile-salt mediated micellar solubilization for absorption. Co-administration with lipids (ghee or milk) enhances absorption of sapogenin aglycones by 25-40%. First-pass hepatic metabolism is significant for glycoside moieties.
-
 **Optimal Timing:** Take with warm milk or ghee after meals for enhanced absorption; morning dose for strength-building (Balya) applications
-
-**Standardized Extract:** Standardized aqueous-ethanolic extract (10:1 concentration ratio), standardized to not less than 5% total saponins by gravimetric method
-
-**Shelf Life:** 24 months for churna in sealed containers; 36 months for standardized extract capsules in HDPE bottles with desiccant
 
 **Storage:** Store below 25 deg C in airtight containers, protected from light and moisture. Relative humidity <60%.
 
 **Marker Compounds:** Beta-sitosterol, Taraxerol, Quercetin, Myricetin, Protobassic acid, Saponins (total)
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (50-70% ethanol)
-- Aqueous decoction
-- Supercritical CO2 extraction for sapogenin enrichment
-- Soxhlet extraction with methanol
 
 ### Synergistic Combinations
 

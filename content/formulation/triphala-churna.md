@@ -66,17 +66,11 @@ Charaka Samhita (Sutra Sthana, Chapters 4 and 25; Chikitsa Sthana, Chapter 1 - [
 
 **Standard Dosage:** 3-6g at bedtime or before meals, as given in the Ayurvedic Formulary of India, Part I, entry 7:15. The formulary's anupana: ghee, honey, warm water. The formulary attributes this formula to Bhavaprakasa, Haritakyadi varga; 41.
 
-**Bioavailability:** Powder form provides faster disintegration than tablets; particle size reduction enhances surface area for absorption
-
 **Optimal Timing:** At bedtime for bowel; before meals for rasayana
-
-**Shelf Life:** 2 years (as per ASU guidelines for churna)
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Gallic acid, Chebulagic acid, Chebulinic acid, Ellagic acid
-
-**Quality Parameters:** Mesh size NLT 85#, moisture NMT 6%, total ash per pharmacopoeia, assay of marker compounds: Gallic acid, Chebulagic acid, Chebulinic acid, Ellagic acid
 
 **Vehicle (Anupana):** Warm water, honey, or ghee
 

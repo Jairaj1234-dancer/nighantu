@@ -61,17 +61,11 @@ Sharangdhara Samhita (Madhyama Khanda); prominently featured in Bhaishajya Ratna
 
 **Standard Dosage:** 1-2 tablets twice daily
 
-**Bioavailability:** Tablet/pill form provides controlled disintegration; some vatis use honey/[guggulu](/formulation/guggulu/) as bioenhancing binders
-
 **Optimal Timing:** Before or after meals as indicated
-
-**Shelf Life:** 2 years per ASU guidelines for vati
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
 **Marker Compounds:** Embelin, [Tinosporin](/glossary/compounds-t-z/#tinosporin), [Piperine](/reference/piperine/)
-
-**Quality Parameters:** Weight variation ±5%, disintegration <30 min, friability <1%, marker: Embelin, Tinosporin, Piperine
 
 **Vehicle (Anupana):** Warm water or as specified
 

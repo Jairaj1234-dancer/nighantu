@@ -68,25 +68,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kantakari/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g powder twice daily; 10-20 mL juice; 50-100 mL decoction twice daily; 10-20 g Avaleha
 
-**Bioavailability:** Steroidal alkaloids (solasonine, solamargine) show moderate oral bioavailability (~25-35%). Glycoalkaloids undergo partial hydrolysis in acidic gastric pH releasing aglycones with improved membrane permeability. Liposomal encapsulation of solasodine enhances pulmonary delivery for respiratory applications. [Piperine](/reference/piperine/) co-administration increases bioavailability by ~40%.
-
 **Optimal Timing:** After meals for respiratory conditions; Avaleha can be taken anytime with warm water or milk; decoction best taken morning and evening
-
-**Standardized Extract:** Standardized to minimum 0.5% total steroidal alkaloids (as solasonine) and 2% total [saponins](/reference/saponins/) by HPLC-ELSD
-
-**Shelf Life:** 24 months for powder and capsules; 18 months for syrup; 12 months for Avaleha; decoction to be consumed within 24 hours
 
 **Storage:** Store in airtight containers at 15-30°C. Syrup and Avaleha require preservative system (sodium benzoate 0.1% for syrups). Protect powder from moisture.
 
 **Marker Compounds:** Solasonine, Solamargine, Solasodine, Carpesterol, Diosgenin, [Apigenin](/glossary/compounds-1-a/#apigenin), Caffeic acid
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (60-70% ethanol)
-- Water decoction (traditional)
-- Acid-aqueous extraction for alkaloid enrichment
-- Ultrasound-assisted extraction
-- Microwave-assisted extraction for rapid processing
 
 ### Synergistic Combinations
 

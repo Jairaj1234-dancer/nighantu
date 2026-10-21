@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka-Pushpa/meta-analysi
 
 **Standard Dosage:** 1-3g flower powder twice daily; 5-10ml flower juice with ghee; as component in formulations per classical texts
 
-**Bioavailability:** Flowers of Calotropis procera/gigantea contain lower cardenolide levels than latex or root bark but still have therapeutic activity. [Flavonoids](/reference/flavonoids/) and [triterpenoids](/glossary/compounds-t-z/#triterpenoids) in flowers have moderate oral bioavailability. The flower is traditionally considered the mildest part of [Arka](/herb/arka/) and is used for digestive (Deepana) and respiratory applications. Ghee as anupana enhances lipophilic constituent absorption.
-
 **Optimal Timing:** Before meals with ghee for digestive stimulation; morning for respiratory conditions
-
-**Standardized Extract:** Flower extract with documented cardenolide content (lower threshold than root/latex preparations). Total flavonoid content minimum 2%.
-
-**Shelf Life:** 18 months (flower powder); 2 years (Ghrita); 2 years (capsules/tablets)
 
 **Storage:** Airtight containers, cool and dry place. Ghrita in glass containers at room temperature or refrigerated for longer storage.
 
 **Marker Compounds:** [Calotropin](/glossary/compounds-a-c/#calotropin) (at lower levels than other plant parts), [Quercetin](/reference/quercetinquercetin/), [Isorhamnetin](/glossary/compounds-g-l/#isorhamnetin), [Kaempferol](/reference/kaempferol/), Alpha-amyrin acetate, Uvaol
-
-### Extraction Methods
-
-- Fresh juice expression from flowers
-- Ghee processing (Ghrita Paka with flower juice)
-- Hydroalcoholic extraction (60:40)
-- Aqueous decoction
 
 ### Synergistic Combinations
 

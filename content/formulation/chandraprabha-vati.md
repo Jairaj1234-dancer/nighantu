@@ -61,17 +61,11 @@ Sharangdhara Samhita, Madhyama Khanda, Chapter 7 (Vatika Adhikara). Also describ
 
 **Standard Dosage:** 250-500 mg twice daily with warm water or milk. The Ayurvedic Formulary of India attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 7; 40-44.
 
-**Bioavailability:** [Guggulu](/formulation/guggulu/) acts as yogavahi (bioenhancer), carrying active compounds to target tissues. [Piperine](/reference/piperine/) from [Trikatu](/herb/trikatu/) enhances absorption of all co-ingredients.
-
 **Optimal Timing:** After meals, twice daily, or as directed. Often taken with meals for urogenital conditions.
-
-**Shelf Life:** 5 years from date of manufacture as per ASU guidelines (Rasa/Bhasma-containing formulations)
 
 **Storage:** Store in airtight containers in a cool, dry place. Protect from moisture. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Fulvic acid (from Shilajatu), Z-Guggulsterone, E-Guggulsterone, Piperine, Gallic acid, [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/))
-
-**Quality Parameters:** Weight variation (±5%), hardness, friability (<1%), disintegration time (<30 min), moisture (<6%), [Loha Bhasma](/herb/loha-bhasma/) quality tests, free mercury/arsenic (nil/within limits), total heavy metals within pharmacopoeial limits, Shilajatu identity (fulvic acid content), HPTLC fingerprint, microbial limits
 
 **Vehicle (Anupana):** Warm water, milk, or as directed based on condition
 

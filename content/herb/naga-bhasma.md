@@ -71,26 +71,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 - **Lead sulfide (PbS):** Major component; lead oxide residual phases
 - **Note:** Contains heavy metals, restricted use; Shodhana mandatory
 
-**Analytical Methods:** AAS, ICP-MS, XRD
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Classical Dosage:** 30–60 mg (lead preparation; per the safety section, CDC, WHO and FDA recognise no safe level of lead exposure)
 
-**Bioavailability:** Converted to nano-crystalline lead sulfide through Marana
-
 **Optimal Timing:** As directed by experienced physician; with specific anupana only
-
-**Standardized Extract:** Calcined lead bhasma, Schedule E1 restricted
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, labeled container; restricted drug storage
 
 **Marker Compounds:** Lead sulfide (PbS), residual lead oxide (PbO)
-
-**Quality Parameters:** Free lead <1 ppm (critical), standard bhasma tests, bioavailability validation
 
 **Vehicle (Anupana):** As part of specific formulations only; honey or ghee

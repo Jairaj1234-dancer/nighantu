@@ -87,33 +87,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 - Flavonoids
 - Rutin
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (seed powder), Essential oil, Tablet, Capsule, [Arka](/herb/arka/) (distillate), Tincture, Confectionery/culinary preparations
 
 **Standard Dosage:** 1-3g seed powder twice daily; 500mg extract capsule twice daily; essential oil: 1-2 drops in warm water or carrier; 2-5ml tincture
 
-**Bioavailability:** Elettaria cardamomum (green cardamom) essential oil (2-8% in seeds) contains 1,8-cineole (20-50%) and alpha-terpinyl acetate (30-40%) as major components. These small monoterpenoids have excellent oral bioavailability (>60%) due to high lipophilicity and small molecular size. Rapid absorption from GI tract with peak plasma levels at 30-60 minutes. First-pass metabolism is moderate. The volatile nature means hot preparations lose significant active content - cold or warm (not boiling) preparations preferred. Enhancement not typically required due to inherent good bioavailability; however, enteric coating of essential oil capsules prevents gastric volatilization.
-
 **Optimal Timing:** After meals as digestive aid; chewed directly after meals (traditional); with warm milk at bedtime for sleep quality
-
-**Standardized Extract:** Essential oil: standardized to NLT 35% alpha-terpinyl acetate and NLT 20% 1,8-cineole by GC-MS. Oleoresin: 50-55% volatile oil. Seed extract: NLT 4% essential oil by distillation assay.
-
-**Shelf Life:** Whole pods: 2-3 years; Powder: 6-12 months (volatile loss); Essential oil: 3-5 years (sealed amber bottle); Capsule/tablet: 2 years
 
 **Storage:** Whole pods in airtight containers at room temperature - most stable form. Powder: airtight, nitrogen-flushed, opaque containers, use quickly. Essential oil: amber glass, cool dark place, tightly sealed. Avoid heat and light exposure.
 
 **Marker Compounds:** 1,8-Cineole (eucalyptol), Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Linalyl acetate, Limonene, Alpha-terpineol, Myrcene
-
-### Extraction Methods
-
-- Steam distillation of crushed seeds for essential oil
-- Supercritical CO2 extraction (superior quality, higher alpha-terpinyl acetate retention)
-- Hydrodistillation (traditional [Arka](/herb/arka/))
-- Hydroalcoholic extraction (60:40) for non-volatile constituents
-- Cold-pressing of seeds (low yield)
 
 ### Synergistic Combinations
 

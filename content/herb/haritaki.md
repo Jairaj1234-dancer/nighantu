@@ -163,32 +163,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 - Luteolin
 - Rutherfordin
 
-**Analytical Methods:** HPLC-PDA (tannins, gallic acid), UV spectrophotometry, TLC
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Avaleha (confection/jam), [Triphala](/herb/triphala/) formulations
 
 **Standard Dosage:** 3-6g powder at bedtime; 500mg-1g extract twice daily; 15-30ml decoction
 
-**Bioavailability:** Tannin-rich composition (chebulagic acid, chebulinic acid) shows moderate oral absorption. Gallic acid component has good bioavailability (~30%). Chebulic acid demonstrates reasonable absorption. Traditional practice of taking with warm water or specific Anupana (vehicle) for different conditions enhances absorption of specific fractions.
-
 **Optimal Timing:** At bedtime with warm water for [laxative](/reference/laxative/) effect; before meals for digestive stimulation; with specific Anupana depending on target dosha and condition per classical texts
-
-**Standardized Extract:** Aqueous extract standardized to minimum 30% tannins (as gallic acid equivalent); hydroalcoholic extract standardized to 5% chebulagic acid and 2% gallic acid
-
-**Shelf Life:** 2 years (powder); 3 years (tablet/capsule); 1 year (Avaleha)
 
 **Storage:** Cool, dry place below 25°C. Protect from moisture as tannins are hygroscopic. Airtight containers essential.
 
 **Marker Compounds:** Chebulagic acid, Chebulinic acid, Gallic acid, Ellagic acid, Chebulic acid, [Corilagin](/glossary/compounds-c-d/#corilagin), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional Kashayam)
-- Hydroalcoholic extraction (50:50 to 70:30 ethanol:water)
-- Standardized aqueous extract (spray-dried)
-- Sequential extraction (hexane then ethanol then water) for fraction-specific products
 
 ### Synergistic Combinations
 

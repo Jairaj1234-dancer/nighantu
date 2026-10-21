@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Gangadhara-Churna
 
 **Standard Dosage:** 3-6 g twice daily with warm water or buttermilk.
 
-**Bioavailability:** Fine powder form provides rapid dissolution and absorption. Shunthi acts as bioenhancer. Ativisha [alkaloids](/glossary/compounds-1-a/#alkaloids) (post-Shodhana) are well-absorbed orally with onset within 30-60 minutes.
-
 **Optimal Timing:** Before meals, twice daily, for Atisara (diarrhea) and Grahani (IBS) conditions
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna
 
 **Storage:** Store in airtight containers in a cool, dry place. Temperature not exceeding 30°C.
 
 **Marker Compounds:** [Atisine](/glossary/compounds-a-c/#atisine), [Heteratisine](/glossary/compounds-g-l/#heteratisine) (from Ativisha), [Cyperene](/glossary/compounds-c-d/#cyperene) (from Musta), 6-[Gingerol](/glossary/compounds-d-g/#gingerol), [Loturine](/glossary/compounds-l-o/#loturine) (from [Lodhra](/herb/lodhra/))
-
-**Quality Parameters:** Loss on drying (<8%), total ash, acid-insoluble ash, particle size (pass sieve #85), HPTLC fingerprint for atisine/ativine (from Ativisha), microbial limits, heavy metals, alkaloid content within safe limits
 
 **Vehicle (Anupana):** Buttermilk ([Takra](/herb/takra/)) or warm water
 

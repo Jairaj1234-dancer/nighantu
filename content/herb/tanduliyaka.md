@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Tanduliyaka/meta-analysis.
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily
 
-**Bioavailability:** Betalains (amaranthine, isoamaranthine) show moderate oral bioavailability (~20-30%) with rapid absorption in the upper GI tract. [Polyphenols](/glossary/compounds-o-q/#polyphenols) and [flavonoids](/reference/flavonoids/) undergo extensive Phase II metabolism. The high dietary fiber content slows gastric emptying and may modulate absorption kinetics of co-administered drugs. Iron and calcium from the plant matrix have moderate bioavailability enhanced by vitamin C co-administration.
-
 **Optimal Timing:** Traditionally taken before meals; morning administration with honey or jaggery as traditional vehicle
-
-**Standardized Extract:** Aqueous or hydroethanolic extract standardized to >0.5% total betalains (as amaranthine by UV-Vis at 538 nm); >2% total polyphenols (as gallic acid equivalent)
-
-**Shelf Life:** Fresh juice: 24-48 hours refrigerated; Powder: 12 months; Capsules/Tablets: 24 months; Spray-dried extract: 24 months
 
 **Storage:** Store in airtight, light-resistant containers at 15-25 deg C. Betalain-containing products require protection from light, heat, and humidity. Freeze-dried forms stored at 2-8 deg C for maximum stability.
 
 **Marker Compounds:** Amaranthine, Isoamaranthine, [Rutin](/glossary/compounds-q-t/#rutin), [Quercetin](/reference/quercetinquercetin/), [Kaempferol](/reference/kaempferol/), beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol), Gallic acid, Ferulic acid
-
-### Extraction Methods
-
-- Aqueous extraction (decoction)
-- Hydroethanolic extraction (40-60% ethanol)
-- Cold pressing for fresh juice
-- Spray drying of aqueous extract
-- Freeze drying for color-sensitive betalains
 
 ### Synergistic Combinations
 

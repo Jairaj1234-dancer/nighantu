@@ -69,24 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Danti/meta-analysis.md"
 
 **Standard Dosage:** 1-3g powder as purgative (single dose); 500mg-1g for mild laxative effect; use under practitioner supervision due to potent action
 
-**Bioavailability:** Contains phorbol esters and diterpenoids with moderate oral bioavailability. The resinous purgative principles are released in the GI tract and act locally on intestinal mucosa. Systemic absorption of toxic [diterpenes](/glossary/compounds-d-g/#diterpenes) can cause adverse effects at high doses. Co-processing with Shodhan (purification with cow's milk or Kanji) reduces toxic constituents while preserving laxative activity. No significant enhancement strategies needed for purgative action as local GI activity is the target.
-
 **Optimal Timing:** Early morning on empty stomach with warm water for purgative action; at bedtime for milder laxative effect
-
-**Standardized Extract:** Shodhita (purified) root extract; no standardized commercial extract widely available. Traditional preparation as Churna or Kwath from Shodhita root material. Phorbol ester content must be below safety threshold post-Shodhana.
-
-**Shelf Life:** 1 year (Shodhita powder); 2 years (tablet with moisture barrier packaging)
 
 **Storage:** Store in airtight, light-resistant containers below 25 deg C. Label must clearly state 'Shodhita' (purified) and carry appropriate caution warnings. Keep out of reach of children.
 
 **Marker Compounds:** 12-Deoxyphorbol esters (for toxicity monitoring, must be reduced post-Shodhana), [Montanin](/glossary/compounds-l-o/#montanin), Baliospermin, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Traditional Shodhana (purification) processing mandatory before use
-- Aqueous decoction after Shodhana
-- Hydroalcoholic extraction (60:40) of purified root
-- Cold maceration in buttermilk (traditional)
 
 ### Synergistic Combinations
 

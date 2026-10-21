@@ -40,23 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakatikta/meta-analysis.md"
 
 **Standard Dosage:** 3-5g powder twice daily; 30-60ml decoction
 
-**Bioavailability:** Limited modern pharmacokinetic data for this less commonly studied herb. Contains bitter principles, [flavonoids](/reference/flavonoids/), and [terpenoids](/glossary/compounds-t-z/#terpenoids) typical of its botanical family. Traditional decoction preparation is the standard route. Bitter taste receptors (T2Rs) are activated in GI tract, mediating digestive stimulation independent of systemic absorption.
-
 **Optimal Timing:** Before meals for digestive stimulation; bitter taste is considered therapeutically important in Ayurveda (Tikta Rasa)
-
-**Standardized Extract:** No standardized extract established. Aqueous or hydroalcoholic extract with HPTLC fingerprint for identification.
-
-**Shelf Life:** 2 years (powder); 2 years (capsule)
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers.
 
 **Marker Compounds:** Bitter principles (quantified by bitterness value assay), Flavonoids (general profiling), [Alkaloids](/glossary/compounds-1-a/#alkaloids) (if present), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction (traditional)
-- Hydroalcoholic extraction (50:50 to 60:40)
-- Methanol extraction for phytochemical profiling
 
 ### Synergistic Combinations
 

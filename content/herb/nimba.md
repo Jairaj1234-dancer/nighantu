@@ -106,7 +106,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 
 ## Recommended Dosage
 
-Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
+Leaf powder: 2-4g/day; Leaf juice: as given under Standard Dosage; Neem oil: external use only
 
 ## Safety, contraindications and cautions
 
@@ -182,33 +182,17 @@ Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
 - **Nimbin:** 0.1-0.3%
 - **Limonoids:** major fraction
 
-**Analytical Methods:** HPLC, LC-MS, GC-MS, HPTLC, UV-Vis spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Tablet, Capsule, Churna, Kwatha, Arishtam (Nimbarishta), Oil (external), Cream, Tincture, Swarasa (fresh juice)
 
 **Standard Dosage:** 1-3 g bark powder daily; 400-600 mg standardized bark extract twice daily; 10-20 mL Nimbarishta after meals; 10-15 mL fresh juice
 
-**Bioavailability:** Nimbidin from bark demonstrates oral bioavailability of ~30-38%. Limonoid [triterpenoids](/glossary/compounds-t-z/#triterpenoids) are lipophilic (log P >3) and benefit significantly from lipid-based formulations. Bark [tannins](/reference/tannins/) can complex with [proteins](/glossary/compounds-o-q/#proteins) reducing absorption of co-administered compounds. Nimbolide shows rapid absorption (Tmax 1-2 hours) but extensive hepatic metabolism.
-
-**Optimal Timing:** Before meals for digestive and [hepatoprotective](/reference/hepatoprotective/) benefits. Arishtam taken post-meal (15-20 mL with equal water).
-
-**Standardized Extract:** Nimba bark extract (8:1) standardized to minimum 3% total bitters (as nimbidin). Nimbarishta: self-generated alcohol 5-10%, total solids 15-25% w/v, pH 3.5-4.5.
-
-**Shelf Life:** Bark powder: 18-24 months; Standardized extract: 24-36 months; Arishtam: 5-10 years (improves with age); Tablets: 24-36 months
+**Optimal Timing:** Before meals for digestive and [hepatoprotective](/reference/hepatoprotective/) benefits. Arishtam taken post-meal, with equal water.
 
 **Storage:** Dry powders and extracts: below 25 deg C, RH <60%, protected from light. Arishtam: amber glass bottles, room temperature, no refrigeration needed. Do not store in reactive metal containers.
 
 **Marker Compounds:** Nimbidin, Nimbolide, Nimbin, Nimbinin, Gallic acid, [Catechin](/reference/catechin/), Margolone, Margolonone
-
-### Extraction Methods
-
-- Aqueous decoction for Kwatha
-- Hydroalcoholic extraction (50-70% ethanol) for standardized extracts
-- Sequential solvent extraction (hexane followed by ethanol) for fractionation
-- Fermentation-based extraction for Arishtam preparation
-- Supercritical CO2 for nimbolide-enriched fractions
 
 ### Synergistic Combinations
 

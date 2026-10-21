@@ -74,24 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 5-10ml oil internally; 1-2 walnut kernels daily as dietary supplement
 
-**Bioavailability:** Good bioavailability for lipid-soluble constituents (omega-3 ALA, [tocopherols](/glossary/compounds-t-z/#tocopherols)). ALA conversion to EPA/DHA is limited (5-10%) but direct walnut matrix enhances overall polyphenol absorption. [Ellagitannins](/glossary/compounds-d-g/#ellagitannins) are hydrolyzed to ellagic acid and then metabolized to urolithins by gut microbiota, urolithin bioavailability varies with individual microbiome composition (metabotype A vs B).
-
 **Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder with warm milk at bedtime for brain nourishment.
-
-**Standardized Extract:** Oil: standardized to minimum 8% alpha-linolenic acid (ALA), minimum 0.5% tocopherols. Kernel extract (4:1) standardized to minimum 3% ellagic acid equivalent.
-
-**Shelf Life:** 6 months (shelled kernels); 1 year (oil, cold-pressed, sealed); 2 years (capsules with antioxidant protection); 18 months (powder)
 
 **Storage:** Kernels and powder in airtight containers, refrigerated or below 15°C. Oil in amber glass, nitrogen-flushed headspace, refrigerated after opening. Protect from heat, light, and oxygen.
 
 **Marker Compounds:** Alpha-linolenic acid (ALA), Ellagic acid, Juglone (hull), Gallic acid, Tellimagrandin, Gamma-tocopherol, [Pedunculagin](/glossary/compounds-o-q/#pedunculagin)
-
-### Extraction Methods
-
-- Cold pressing for oil (yield 55-65%)
-- Hydroalcoholic extraction (70:30) for polyphenol enrichment
-- Supercritical CO2 for oil extraction (preserves tocopherols)
-- Aqueous extraction of hull/pericarp for juglone-rich fraction
 
 ### Synergistic Combinations
 

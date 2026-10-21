@@ -85,17 +85,11 @@ Charaka Samhita Chikitsasthana ([Rasayana](/reference/rasayana/) Adhyaya) - olde
 
 **Standard Dosage:** 10-20 g (1-2 tablespoons) once or twice daily. The Ayurvedic Formulary of India attributes this formula to Carakasamhita, Cikitsasthana, Adhyaya 1 (1); 62-69.
 
-**Bioavailability:** Ghee and [sesame oil](/glossary/concepts-m-y/#tila-taila) base provides lipid-mediated absorption of fat-soluble actives ([withanolides](/glossary/compounds-t-z/#withanolides), piperine). Honey (added cool) provides enzymatic bioenhancement. Piperine increases bioavailability of curcuminoids and other phenolics by 20-2000%. Amalaki tannin-vitamin C complex provides sustained antioxidant release over 6-8 hours.
-
 **Optimal Timing:** Morning on empty stomach, followed by warm milk. Second dose before bedtime if taking twice daily.
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Avaleha preparations
 
 **Storage:** Store in wide-mouth glass or food-grade HDPE jars with airtight lids. Temperature not exceeding 25°C. Protect from moisture. Refrigeration after opening recommended.
 
 **Marker Compounds:** Ascorbic acid (Vitamin C), Gallic acid, Piperine, [Cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[Cineole](/glossary/compounds-c-d/#cineole), Ellagic acid, [Eugenol](/glossary/compounds-d-g/#eugenol)
-
-**Quality Parameters:** Total solids (NLT 65%), pH (3.5-5.0), vitamin C content (NLT 25 mg/100g in classical, higher in modern), total fat, total sugar, moisture (<25%), HPLC for gallic acid, piperine, cinnamaldehyde, HPTLC fingerprint, microbial limits (TBC, yeast, mould, coliforms), heavy metals, aflatoxins, pesticide residues
 
 **Vehicle (Anupana):** Warm milk (classically prescribed)
 

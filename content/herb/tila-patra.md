@@ -40,24 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 
 **Standard Dosage:** 3-5 g powder twice daily; 50-100 mL decoction twice daily; as needed externally as paste
 
-**Bioavailability:** [Flavonoids](/reference/flavonoids/) and phenolic acids from sesame leaves show moderate oral bioavailability (15-25%). Mucilaginous [polysaccharides](/glossary/compounds-o-q/#polysaccharides) are not systemically absorbed but act locally on GI mucosa with prebiotic effects. [Chlorophyll](/glossary/compounds-c-d/#chlorophyll) derivatives and [carotenoids](/glossary/compounds-a-c/#carotenoids) require lipid co-administration for meaningful absorption.
-
 **Optimal Timing:** After meals for internal use; external application as needed, typically at night for dermatological conditions
-
-**Standardized Extract:** Hydroethanolic extract standardized to >2% total flavonoids (as [rutin](/glossary/compounds-q-t/#rutin) equivalent by UV); [mucilage](/glossary/compounds-l-o/#mucilage) content >10% by gravimetric method
-
-**Shelf Life:** Dried leaf powder: 12 months; Capsules: 24 months; Decoction: prepare fresh daily; External paste: prepare fresh
 
 **Storage:** Dried leaves in airtight, light-resistant containers at 15-25 deg C. Protect from moisture as mucilage is highly hygroscopic.
 
 **Marker Compounds:** Rutin, [Quercetin](/reference/quercetinquercetin/), [Luteolin](/glossary/compounds-l-o/#luteolin), [Apigenin](/glossary/compounds-1-a/#apigenin), Chlorogenic acid, Caffeic acid, beta-[Sitosterol](/glossary/compounds-q-t/#sitosterol)
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroethanolic extraction (50-60% ethanol)
-- Cold maceration for mucilage-rich preparations
-- Soxhlet extraction for flavonoid-rich fractions
 
 ### Synergistic Combinations
 

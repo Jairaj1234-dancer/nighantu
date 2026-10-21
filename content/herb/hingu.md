@@ -77,24 +77,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 **Standard Dosage:** 125-500mg powder with meals; 250-500mg Hingu Vati; typically used as culinary spice (pinch to 1/4 tsp)
 
-**Bioavailability:** Ferula assa-foetida resin contains volatile sulfur compounds (disulfides) and ferulic acid. Volatile components are rapidly absorbed via GI tract and partially through pulmonary route after oral administration. Ferulic acid shows ~30-40% oral bioavailability. Traditional practice of frying in ghee (Hingu Tadka) may improve palatability and modulate release. Low doses are key as higher doses can cause GI irritation.
-
 **Optimal Timing:** With meals for digestive support; before meals dissolved in warm water for bloating
-
-**Standardized Extract:** Essential oil standardized to minimum 40% sec-butyl propenyl disulfide; resin extract with ferulic acid content >2%
-
-**Shelf Life:** 2 years (powder in airtight container); 3 years (enteric-coated tablet); 2 years (essential oil, sealed)
 
 **Storage:** Airtight containers essential (prevents odor escape and volatile loss). Cool, dry place below 25°C. Keep away from other ingredients to prevent cross-contamination of odor.
 
 **Marker Compounds:** sec-Butyl propenyl disulfide, Ferulic acid, Farnesiferol A, Farnesiferol B, Umbelliprenin, 2-Butyl propenyl disulfide
-
-### Extraction Methods
-
-- Steam distillation (essential oil, 4-20% yield)
-- Hydroalcoholic extraction (70% ethanol for resin components)
-- CO2 supercritical extraction for sulfur compound-rich fraction
-- Traditional processing: roasting in ghee
 
 ### Synergistic Combinations
 

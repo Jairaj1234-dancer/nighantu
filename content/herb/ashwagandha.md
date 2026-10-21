@@ -114,7 +114,7 @@ Classified as Balya (strength-promoting), Brimhana (nourishing), and Rasayana (r
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
+Root powder and standardized extract (2.5-5% withanolides): see Standard Dosage under Dosage forms and preparation.
 
 ## Safety, contraindications and cautions
 
@@ -161,33 +161,17 @@ Root powder: 3-6g/day; Standardized extract (2.5-5% withanolides): 300-600mg/day
 - Stigmasterol
 - Campesterol
 
-**Analytical Methods:** HPLC-UV (withanolides), LC-MS/MS, TLC
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (root powder), Capsule, Tablet, Ashwagandha [Ghrita](/herb/ghrita/), [Ashwagandharishta](/formulation/ashwagandharishta/) (fermented), Avaleha (confection), Granules, Nanoparticle formulations
 
 **Standard Dosage:** 3-6g root powder twice daily with warm milk; 300-600mg standardized extract (withanolides) twice daily; 15-30ml Ashwagandharishta after meals
 
-**Bioavailability:** Moderate oral bioavailability for withanolides (~20-30% for withaferin A). Withanoside IV is a prodrug converted to sominone by intestinal glucosidases. Cyclodextrin complexation improves withanolide solubility 3-5x. Proprietary root, and root-and-leaf, extracts have been used in clinical studies. Milk (Kshirapaka) as anupana enhances absorption of lipophilic withanolides by 2-3x. [Piperine](/reference/piperine/) co-administration increases bioavailability by 30-40%. Phytosome technology (withanolide-phospholipid complex) shows 5x enhancement.
-
 **Optimal Timing:** At bedtime with warm milk for sleep and rejuvenation; morning and evening for [adaptogenic](/reference/adaptogenic/)/stress management; before meals for general health
-
-**Standardized Extract:** Root extract (KSM-66): standardized to minimum 5% withanolides by HPLC, full-spectrum. Sensoril (root + leaf): standardized to minimum 10% withanolide [glycosides](/glossary/compounds-g-l/#glycosides) and 32% oligosaccharides. Withanolide-enriched extract: minimum 8% total withanolides. Specify withaferin A content separately.
-
-**Shelf Life:** 2 years (root powder); 3 years (standardized extract capsules/tablets); 5 years (Ashwagandharishta); 2 years (Ghrita)
 
 **Storage:** Airtight containers, cool and dry, below 25°C. Root powder with desiccant. Extract capsules in blister packs preferred for moisture protection. Ashwagandharishta in amber glass at room temperature.
 
 **Marker Compounds:** Withaferin A, Withanolide A, Withanolide D, Withanoside IV, Withanoside V, 12-Deoxywithastramonolide, [Withanone](/glossary/compounds-t-z/#withanone), Sitoindosides VII-X, Ashwagandhanolide
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (70:30) for withanolide enrichment
-- Aqueous extraction (milk decoction, classical Kshirapaka)
-- Supercritical CO2 for withanolide-enriched fraction
-- Green extraction using deep eutectic solvents (emerging)
-- Spray-dried aqueous extract for Ghana Vati
 
 ### Synergistic Combinations
 

@@ -58,7 +58,7 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 
 - Contains substantial mercury (Parada, 48 g) alongside gold - mercury toxicity is the primary safety concern despite traditional purification
 - Gold ([Swarna Bhasma](/herb/swarna-bhasma/)) at therapeutic doses appears safe based on clinical evidence (160 mg cumulative without toxicity), but long-term effects of gold nanoparticle accumulation remain understudied
-- Mercury bioaccumulation and neurotoxicity risk requires strict dose limitation (125-250 mg, 1-2 times daily) and periodic blood mercury monitoring
+- Mercury bioaccumulation and neurotoxicity risk requires strict dose limitation and periodic blood mercury monitoring
 - Not recommended for prolonged use; traditional texts prescribe limited treatment courses
 - Iron overload is not a concern for this formulation as it contains no iron; primary concerns are mercury-related
 - Must be prepared by expert Rasashastri following strict classical protocols; improperly prepared gold-mercury Parpati can be acutely toxic
@@ -70,26 +70,16 @@ Rasa Tarangini, Chapter 27, Verses 45-47; also referenced in other Parpati Kalpa
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Parpati (flake form)
 
 **Standard Dosage:** 15–30 mg
 
-**Bioavailability:** Maximum, gold in Parpati (flake) form with maximal surface area
-
 **Optimal Timing:** With honey or specific vehicle per condition
-
-**Standardized Extract:** Kajjali + Swarna (gold) in Parpati form
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Gold nanoparticles, Mercury sulfide, Sulfur
-
-**Quality Parameters:** Gold content verified, flake quality, free mercury <1 ppm
 
 **Vehicle (Anupana):** Honey, buttermilk, or specific herbal vehicle

@@ -67,26 +67,16 @@ Rasendra Sara Sangraha by Gopalakrishna Bhatt (14th century CE); also referenced
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
-**Analytical Methods:** AAS/ICP-MS (heavy metals), XRD, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 30–60 mg
 
-**Bioavailability:** Not established
-
 **Optimal Timing:** As directed by physician; with specific anupana per condition
-
-**Standardized Extract:** Nine-gem + metallic bhasma compound (Navaratna = nine gems)
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight, premium container
 
 **Marker Compounds:** Nine gem derivatives, Metal oxide nanoparticles, Herbal bioactives
-
-**Quality Parameters:** Multi-component assay, free metals below limits, standard Rasaushadhi tests
 
 **Vehicle (Anupana):** As per specific condition

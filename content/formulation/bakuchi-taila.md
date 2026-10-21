@@ -71,17 +71,11 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 **Standard Dosage:** External application on affected skin areas, twice daily.
 
-**Bioavailability:** Topical oil base provides excellent dermal penetration of psoralen and isopsoralen. Furanocoumarins intercalate with DNA in presence of UV light (phototherapy mechanism). Oil vehicle maintains psoralen at skin surface for sustained photosensitization.
-
 **Optimal Timing:** Apply in the evening or as directed in conjunction with controlled UV exposure (PUVA therapy protocol)
-
-**Shelf Life:** 3 years from date of manufacture as per ASU guidelines for Taila preparations
 
 **Storage:** Store in amber glass bottles in a cool, dark place. Protect from light (psoralen is photosensitive). Temperature not exceeding 25°C.
 
 **Marker Compounds:** Psoralen, Isopsoralen (Angelicin), Bakuchiol, Psoralidin, Corylifolin
-
-**Quality Parameters:** Acid value, peroxide value, saponification value, refractive index, specific gravity, psoralen content by HPLC (0.1-0.5%), isopsoralen content, total furanocoumarins, rancidity test negative, microbial limits, heavy metals, patch test safety data
 
 **Vehicle (Anupana):** Not applicable, external use only. Apply thin layer and allow absorption before clothing.
 

@@ -66,26 +66,16 @@ Bhaishajya Ratnavali, Shotharoga Adhikara (Inflammation/Edema Chapter), Verse 42
 - **Primary component:** Mineral-derived preparation
 - **Note:** Composition varies by specific preparation method
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 250 mg twice daily
 
-**Bioavailability:** Not established
-
 **Optimal Timing:** After meals with [Punarnava](/herb/punarnava/) Kwatha or warm water
-
-**Standardized Extract:** [Loha Bhasma](/herb/loha-bhasma/) with anti-inflammatory and diuretic herbs
-
-**Shelf Life:** 3–5 years
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide, Diuretic compounds
-
-**Quality Parameters:** Iron content as labeled, standard tablet tests
 
 **Vehicle (Anupana):** Punarnava Kwatha, [Gomutra](/herb/gomutra/), or warm water

@@ -82,33 +82,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 - Isatin 
 - Indigoside 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (powder), Taila (oil), Lepa (paste), Capsule, Tablet, Kwatha (decoction), Hair oil formulation
 
 **Standard Dosage:** 500 mg - 2 g dried powder daily; 5-10 mL infusion; topical oil or paste as directed
 
-**Bioavailability:** Indigo and indirubin (key bioactives from Indigofera species) show poor oral bioavailability (<15%) due to low aqueous solubility and extensive gut metabolism. Nano-formulation or complexation with [phospholipids](/glossary/compounds-o-q/#phospholipids) (Phytosome technology) can improve oral bioavailability 3-5 fold. Topical application provides direct delivery for dermatological and hair care indications.
-
 **Optimal Timing:** Oral use: after meals. Topical hair oil: apply at night, wash in morning. Skin applications: as directed, typically twice daily.
-
-**Standardized Extract:** Standardized Nili leaf extract with minimum 0.5% indirubin and 2% indigo content. Oil extract (1:4 herb-to-oil ratio) with validated color index and HPTLC profile matching reference standards.
-
-**Shelf Life:** Dried powder: 12-18 months; Oil formulation: 12-18 months; Standardized extract: 24 months; Capsules/Tablets: 24 months
 
 **Storage:** Store in amber containers, protected from direct light and moisture. Temperature below 25 deg C. Oil formulations in amber glass bottles, cool dark storage. Bulk indigo extract in nitrogen-flushed containers.
 
 **Marker Compounds:** Indirubin, Indigo (indigotin), Isatin, Kaempferol, [Quercetin](/reference/quercetinquercetin/), Gallic acid, Rotenoids
-
-### Extraction Methods
-
-- Aqueous extraction by fermentation and oxidation (traditional indigo process)
-- Hydroalcoholic extraction (60-70% ethanol)
-- Methanol extraction for indirubin isolation
-- Oil infusion (Taila Paka method) for topical preparations
-- Ultrasound-assisted extraction for enhanced yield
 
 ### Synergistic Combinations
 

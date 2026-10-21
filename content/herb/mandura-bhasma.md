@@ -71,26 +71,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mandura-Bhasma/meta-
 - **Manganese (Mn):** Trace
 - **Calcium (Ca):** Trace
 
-**Analytical Methods:** XRD, ICP-OES, SEM-EDS
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 250–500 mg twice daily
 
-**Bioavailability:** Good; iron oxide from natural rust/slag; gentler than [Loha Bhasma](/herb/loha-bhasma/)
-
 **Optimal Timing:** After meals with [Triphala](/herb/triphala/) Kwatha or honey
-
-**Standardized Extract:** Calcined iron rust/slag bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Iron oxide (Fe2O3), Silica, Trace [manganese](/glossary/compounds-l-o/#manganese) and magnesium
-
-**Quality Parameters:** Iron >40%, standard bhasma tests, no free metallic iron
 
 **Vehicle (Anupana):** [Triphala](/herb/triphala/) Kwatha, honey, or as Mandura Vataka formulation

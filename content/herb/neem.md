@@ -109,7 +109,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 
 ## Recommended Dosage
 
-Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
+Leaf juice: 10-20ml/day; Neem oil: external use only
 
 ## Safety, contraindications and cautions
 
@@ -185,34 +185,17 @@ Leaf powder: 2-4g/day; Leaf juice: 10-20ml/day; Neem oil: external use only
 - **Nimbin:** 0.1-0.3%
 - **Limonoids:** major fraction
 
-**Analytical Methods:** HPLC, LC-MS, GC-MS, HPTLC, UV-Vis spectrophotometry
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Tablet, Capsule, Churna (powder), Kwatha (decoction), Oil (external), Cream/ointment, Arishtam, Soft gel capsule, Tincture
 
 **Standard Dosage:** 1-3 g dried leaf powder per day; 400-800 mg standardized extract per day; 10-20 mL leaf decoction twice daily; topical oil as needed
 
-**Bioavailability:** Azadirachtin and nimbidin show moderate oral bioavailability (25-40%) due to hepatic first-pass metabolism and poor aqueous solubility. Limonoids are lipophilic and benefit from lipid-based delivery systems (SEDDS, nanoemulsions) which can boost bioavailability 2-3 fold. Gallic acid and [quercetin](/reference/quercetinquercetin/) present in leaf have reasonable absorption (~30-45%).
-
 **Optimal Timing:** Oral supplements best taken after meals to reduce GI irritation. Topical applications as needed, preferably evening application for dermatological conditions.
-
-**Standardized Extract:** Standardized neem leaf extract (10:1) containing minimum 2.5% bitter principles (as nimbidin), minimum 0.3% azadirachtin. Neem seed extract standardized to 5% azadirachtin for agricultural applications. Neem bark extract standardized to nimbin >1.5%.
-
-**Shelf Life:** Dried leaf powder: 18-24 months; Standardized extract: 24-36 months; Neem oil: 12-18 months; Tablets/Capsules: 24-36 months
 
 **Storage:** Store in airtight containers below 25 deg C, protected from light and moisture. Neem oil requires amber glass or HDPE containers, storage below 30 deg C. Azadirachtin-rich extracts require refrigerated storage (2-8 deg C) for long-term stability.
 
 **Marker Compounds:** Azadirachtin, Nimbidin, Nimbin, Nimbolide, Gedunin, Gallic acid, [Quercetin](/reference/quercetinquercetin/), [Salannin](/glossary/compounds-q-t/#salannin), Epinimbin
-
-### Extraction Methods
-
-- Hydroalcoholic extraction (50-70% ethanol)
-- Cold-pressed seed oil extraction
-- Supercritical CO2 extraction for azadirachtin-rich fractions
-- Aqueous decoction (traditional Kwatha)
-- Soxhlet extraction with ethanol for standardized extract production
-- Steam distillation for neem oil volatile fraction
 
 ### Synergistic Combinations
 

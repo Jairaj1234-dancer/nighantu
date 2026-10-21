@@ -78,34 +78,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 - Santalin A and Santalin B 
 - Savinin 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Churna (heartwood powder), Kwatha (decoction), Capsule, Tablet, Lepa (paste), Taila (oil), Cream/lotion, Face pack formulation
 
 **Standard Dosage:** 1-3 g heartwood powder twice daily; 15-20 mL decoction twice daily; 500 mg standardized extract twice daily; topical paste as needed
 
-**Bioavailability:** [Pterostilbene](/glossary/compounds-o-q/#pterostilbene) from Pterocarpus santalinus (Red Sandalwood) has good oral bioavailability (~60-80%), significantly better than its analog [resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol), due to two methoxy groups reducing glucuronidation. Santalin A and B (red pigments) have limited oral bioavailability due to large molecular size. Isoflavonoids show moderate absorption (20-35%).
-
 **Optimal Timing:** Oral: after meals with warm water. Topical paste: apply for 20-30 minutes, wash off. Best applied in evening for facial preparations. Oil: massage at night.
-
-**Standardized Extract:** Rakta-[Chandana](/herb/chandana/) heartwood extract (10:1) standardized to [pterostilbene](/glossary/compounds-o-q/#pterostilbene) >1%, total santalins >5%, total isoflavonoids >3%. Fine powder (200 mesh) for cosmetic Lepa applications. CITES-compliant sourcing documentation mandatory.
-
-**Shelf Life:** Heartwood: 36-60 months (very stable); Powder: 24-36 months; Extract: 24-36 months; Capsules: 24-36 months; Taila: 24-36 months
 
 **Storage:** Heartwood: cool, dry, pest-free storage, can last years. Powder and extracts: airtight containers, below 25 deg C, protected from light (santalin photosensitivity). Taila: amber glass, room temperature. Store CITES documentation with inventory.
 
 **Marker Compounds:** Pterostilbene, Santalin A, Santalin B, Savinin, Calocedrin, Isoflavonoids, Beta-sitosterol, Lupeol
-
-### Extraction Methods
-
-- Aqueous decoction
-- Hydroalcoholic extraction (50-70% ethanol)
-- Methanol extraction for santalin pigments
-- Chloroform extraction for pterostilbene
-- Fine powdering for Lepa preparation
-- Oil infusion for Taila
 
 ### Synergistic Combinations
 

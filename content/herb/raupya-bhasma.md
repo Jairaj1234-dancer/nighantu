@@ -73,26 +73,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 - **Particle size:** Sub-micron to nanoparticle range
 - **Note:** Exact composition depends on source material and preparation method
 
-**Analytical Methods:** XRD, ICP-OES/ICP-MS, SEM-EDS, Particle size analysis, Namburi phased spot test
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 15–30 mg
 
-**Bioavailability:** Silver nanoparticles (30–60 nm)
-
 **Optimal Timing:** With honey, ghee, or [Brahmi](/herb/brahmi/) Swarasa
-
-**Standardized Extract:** Calcined silver bhasma, premium Rasaushadhi
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight glass container; avoid light
 
 **Marker Compounds:** Silver oxide (Ag2O), Silver nanoparticles, Trace gold from processing
-
-**Quality Parameters:** Silver >80%, standard bhasma tests, particle size <100 nm, no free metallic silver
 
 **Vehicle (Anupana):** Honey, ghee, [Brahmi](/herb/brahmi/) juice, or [Ashwagandha](/herb/ashwagandha/) Churna

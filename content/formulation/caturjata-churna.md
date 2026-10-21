@@ -44,17 +44,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Standard Dosage:** 2 to 4 g twice daily with honey or warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:10. The formulary's anupana: honey, ghee, water. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
 
-**Bioavailability:** Volatile oils ([cinnamaldehyde](/glossary/compounds-c-d/#cinnamaldehyde), 1,8-[cineole](/glossary/compounds-c-d/#cineole)) are rapidly absorbed through GI mucosa.
-
 **Optimal Timing:** After meals as digestive adjuvant, or mixed into [Rasayana](/reference/rasayana/) formulations
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for Churna preparations
 
 **Storage:** Store in airtight containers in a cool, dry place. Volatile oils dissipate if exposed to air. Double-sealed packaging recommended. Temperature not exceeding 25°C.
 
 **Marker Compounds:** Cinnamaldehyde, 1,8-Cineole, [Eugenol](/glossary/compounds-d-g/#eugenol) (from Tejpatra), Alpha-terpineol, Mesuaferrone A (from [Nagakesara](/herb/nagakesara/))
-
-**Quality Parameters:** Loss on drying (<10%), total ash, acid-insoluble ash, volatile oil content (NLT 0.5% v/w), cinnamaldehyde content by HPLC, 1,8-cineole content (from Ela), particle size (pass sieve #85), HPTLC fingerprint, microbial limits, heavy metals, aflatoxins
 
 **Vehicle (Anupana):** Honey or warm water
 

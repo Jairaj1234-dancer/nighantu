@@ -66,25 +66,17 @@ Chakradatta (12th century CE); Sushruta Samhita (wound management context); Madh
 - Derived from constituent herbs (see individual herb profiles)
 - Standardized on primary bioactive markers
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** [Ghrita](/herb/ghrita/) (medicated ghee for topical application), Ointment (modern), Cream (modern)
 
 **Standard Dosage:** Topical application on wounds, ulcers, burns, thin layer 1-2 times daily. The Ayurvedic Formulary of India attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 25; 67-68.
 
-**Bioavailability:** Topical ghee base provides excellent wound-bed penetration. Lipid matrix protects active compounds from wound exudate degradation. [Berberine](/glossary/compounds-a-c/#berberine), [curcumin](/herb/curcumin/), and [azadirachtin](/glossary/compounds-a-c/#azadirachtin) provide [antimicrobial](/reference/antimicrobial/) activity directly at wound site. Ghee base provides occlusive barrier promoting moist wound healing.
-
 **Optimal Timing:** After wound cleaning, 1-2 times daily. Apply thin layer and cover with sterile dressing if needed.
-
-**Shelf Life:** 2 years from date of manufacture as per ASU guidelines for [Ghrita](/herb/ghrita/)
 
 **Storage:** Store in airtight glass or tin containers in a cool, dry place. Temperature not exceeding 25°C. Topical wound preparation requires enhanced hygiene during storage and dispensing.
 
 **Marker Compounds:** [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/)), Azadirachtin (from [Nimba](/herb/nimba/)), [Curcumin](/herb/curcumin/) (from [Haridra](/herb/haridra/)), [Karanjin](/glossary/compounds-g-l/#karanjin) (from Naktamala), [Jasmone](/glossary/compounds-g-l/#jasmone) (from [Jati](/herb/jati/))
-
-**Quality Parameters:** Acid value (<6), peroxide value (<10), saponification value, refractive index, moisture (<0.5%), rancidity test negative, berberine content from [Daruharidra](/herb/daruharidra/) by HPLC, azadirachtin from [Nimba](/herb/nimba/), curcumin from [Haridra](/herb/haridra/), sterility testing (for wound application), HPTLC fingerprint, microbial limits (strict, wound application), heavy metals
 
 **Vehicle (Anupana):** Not applicable, topical application only. Clean wound with [Triphala](/herb/triphala/) Kwath before application.
 

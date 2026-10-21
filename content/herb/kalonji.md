@@ -86,33 +86,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 - Alkaloids
 - Nigellicine and 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Seed (whole), Churna (seed powder), Taila (seed oil), Capsule, Soft gel capsule, Tablet
 
 **Standard Dosage:** 1-3g whole seeds daily; 2.5-5ml oil daily; 500mg-1g extract; commonly mixed with honey (1 tsp seeds + 1 tsp honey)
 
-**Bioavailability:** Nigella sativa (Kalonji is the Hindi/Urdu name, same as [Kalajaji](/herb/kalajaji/)). Thymoquinone bioavailability ~58% in animal models. The oil form serves as a natural self-emulsifying delivery system, providing superior TQ absorption compared to powder form. Nigella oil taken with food shows 2-3x higher TQ plasma levels than fasted state. SNEDDS and nanoparticle formulations under active research for enhanced delivery.
-
 **Optimal Timing:** Morning on empty stomach with honey (traditional); with meals for digestive support; oil with fatty meal for enhanced absorption
-
-**Standardized Extract:** Cold-pressed seed oil (thymoquinone >0.8%); CO2 extract (thymoquinone 3-5%); aqueous-ethanolic extract standardized to 2% thymoquinone
-
-**Shelf Life:** 3 years (whole seeds); 1-2 years (oil); 1 year (powder); 3 years (soft gel/capsule)
 
 **Storage:** Seeds: cool, dry, airtight containers. Oil: amber glass, nitrogen-flushed, below 25°C. Protect from light and heat. Avoid plastic containers for oil storage.
 
 **Marker Compounds:** Thymoquinone, Thymohydroquinone, Thymol, Carvacrol, [Nigellone](/glossary/compounds-l-o/#nigellone), p-Cymene, Alpha-hederin, Nigellidine, Nigellicine
-
-### Extraction Methods
-
-- Cold pressing (seed oil, 30-40% yield)
-- Supercritical CO2 extraction
-- Steam distillation (essential oil)
-- Hydroalcoholic extraction for polyphenol-enriched extract
-- Traditional honey infusion
 
 ### Synergistic Combinations
 

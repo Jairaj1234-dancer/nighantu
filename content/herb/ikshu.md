@@ -74,24 +74,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 **Standard Dosage:** 50-100ml fresh sugarcane juice daily; 3-6g root powder; 10-20g jaggery as vehicle
 
-**Bioavailability:** Saccharum officinarum juice is rich in sucrose, polyphenols (including flavonoids), policosanols, and minerals with high oral bioavailability for sugars and minerals. Policosanols show moderate absorption (~10-15%). Octacosanol (C28 alcohol) absorption is enhanced with dietary fats. Root extract phenolics have variable bioavailability.
-
 **Optimal Timing:** Fresh juice in morning or between meals; root decoction before meals
-
-**Standardized Extract:** Policosanol extract standardized to >60% octacosanol (from sugarcane wax); root aqueous extract for traditional applications
-
-**Shelf Life:** 1 day (fresh juice, unpreserved); 6 months (pasteurized juice); 2 years (root powder); 3 years (policosanol extract capsule)
 
 **Storage:** Fresh juice: refrigerate and consume within hours. Dried preparations: cool, dry place below 25°C. Jaggery: airtight containers, protect from moisture.
 
 **Marker Compounds:** Octacosanol, Triacontanol, Policosanols (C24-C34 fatty alcohols), Luteolin, [Apigenin](/glossary/compounds-1-a/#apigenin), Tricin
-
-### Extraction Methods
-
-- Cold pressing/crushing (fresh juice)
-- Aqueous decoction of roots
-- Ethanol extraction of root for phenolic-enriched fraction
-- Industrial wax extraction for policosanol fraction
 
 ### Synergistic Combinations
 

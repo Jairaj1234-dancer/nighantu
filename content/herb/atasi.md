@@ -77,33 +77,17 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 - Secoisolariciresinol diglucoside 
 - Dietary fiber 
 
-**Analytical Methods:** HPLC fingerprinting, TLC (identity), LC-MS/MS (marker quantification)
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Beeja churna (seed powder), Taila (linseed oil), Capsule (oil-filled softgel), Tablet (seed meal), Mucilage preparation
 
 **Standard Dosage:** 5-10g ground seed daily (in divided doses); 5-15ml oil daily; 1-2 softgel capsules (1000mg each); seed meal 10-20g
 
-**Bioavailability:** ALA (alpha-linolenic acid) from flaxseed oil has good absorption (~96%) but limited conversion to EPA (5-10%) and DHA (<1%). SDG (secoisolariciresinol diglucoside) is converted by gut bacteria to enterolactone and enterodiol (mammalian [lignans](/glossary/compounds-g-l/#lignans)), bioavailability depends on microbiome composition. Ground seed releases ALA and lignans much better than whole seeds (which may pass undigested). Mucilage (soluble fiber) slows gastric emptying and provides prebiotic effects.
-
 **Optimal Timing:** Ground seed with meals (morning) for constipation and lipid management. Oil with food for omega-3 supplementation. Mucilage soaked overnight, consumed morning for prebiotic/laxative effect.
-
-**Standardized Extract:** Seed oil: minimum 50% ALA (alpha-linolenic acid). Lignan extract standardized to minimum 20% SDG (secoisolariciresinol diglucoside). Defatted flaxseed meal with minimum 2% SDG.
-
-**Shelf Life:** 1 year (whole seeds); 1 week (ground seed, room temperature); 6 months (oil, sealed); 2 years (softgels with [antioxidant](/reference/antioxidant/)); 2 years (lignan extract capsules)
 
 **Storage:** Whole seeds: cool, dry place at room temperature. Oil: refrigerated after opening, amber glass or opaque containers, nitrogen-flushed headspace. Ground seed: refrigerate or freeze, use quickly.
 
 **Marker Compounds:** Alpha-linolenic acid (ALA), Secoisolariciresinol diglucoside (SDG), Linoleic acid, Oleic acid, Linamarin (below safety threshold), Cyanogenic glycosides (HCN < 150mg/kg post-processing)
-
-### Extraction Methods
-
-- Cold pressing for oil (yield 35-45%)
-- Supercritical CO2 for ALA-enriched oil
-- Aqueous extraction for mucilage fraction
-- Hydroalcoholic extraction (80:20) for lignan enrichment
-- Enzymatic hydrolysis for SDG extraction
 
 ### Synergistic Combinations
 

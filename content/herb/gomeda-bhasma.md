@@ -72,26 +72,16 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Gomeda-Bhasma/meta-a
 - **Silicon (Si):** Present
 - **Iron (Fe):** Trace (gives color)
 
-**Analytical Methods:** XRD, SEM-EDS, ICP-OES
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Bhasma
 
 **Standard Dosage:** 125–250 mg
 
-**Bioavailability:** Moderate; gem-derived bhasma
-
 **Optimal Timing:** With honey or specific anupana
-
-**Standardized Extract:** Calcined hessonite garnet bhasma
-
-**Shelf Life:** Indefinite
 
 **Storage:** Airtight container
 
 **Marker Compounds:** Calcium aluminium silicate, Iron oxide, Manganese
-
-**Quality Parameters:** Standard bhasma tests (Varitaratva, Rekhapurnatva), heavy metals within AYUSH limits
 
 **Vehicle (Anupana):** Honey or ghee

@@ -69,23 +69,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gandhak-Rasayan/meta-analysis
 
 **Standard Dosage:** 250-500mg tablet twice daily with milk or warm water. Classical dose: 1-2 Vati (250mg each) twice daily. Use under practitioner supervision.
 
-**Bioavailability:** [Gandhak Rasayan](/herb/gandhak-rasayan/) is a Shodhita Gandhak (purified sulfur) based Rasayana preparation. Elemental sulfur undergoes biotransformation in the GI tract by colonic bacteria to hydrogen sulfide and sulfate, which are systemically absorbed. The Shodhana process (purification through cow's milk, ghee, and specific herbal decoctions) converts sulfur into a more biocompatible and absorbable form with reduced GI irritation. Traditional processing with ghee and milk creates sulfur-protein/lipid complexes that modulate absorption rate and reduce toxicity. Bioavailability of sulfur from Shodhita Gandhak is significantly higher than crude sulfur.
-
 **Optimal Timing:** After meals with milk or warm water; traditionally taken in the morning and evening
-
-**Standardized Extract:** Not an extract. Finished product is purified (Shodhita) sulfur processed with herbal Bhavana. Specifications: sulfur content NLT 90%, acid-insoluble ash NMT 2%, heavy metals within API/WHO limits (Pb <10ppm, As <3ppm, Hg <1ppm, Cd <0.3ppm).
-
-**Shelf Life:** 5 years (mineral-based preparation, very stable); 3 years (tablets in blister packaging)
 
 **Storage:** Airtight containers at room temperature. Protect from moisture. Sulfur is stable under normal storage conditions. Keep away from oxidizing agents and heat sources.
 
 **Marker Compounds:** Elemental sulfur (S8, primary active), Sulfur purity assay, Heavy metals (As, Pb, Hg, Cd - safety limits), Herbal marker from Bhavana medium (e.g., gallic acid from [Triphala](/herb/triphala/), [berberine](/glossary/compounds-a-c/#berberine) from [Daruharidra](/herb/daruharidra/) if used)
-
-### Extraction Methods
-
-- Shodhana of Gandhak (sulfur): heated and quenched repeatedly in cow's milk, [Triphala](/herb/triphala/) Kashayam, Bhringaraj juice, and ghee as per Rasa Tarangini
-- Bhavana (trituration) with herbal juices
-- Final product is purified sulfur triturated with specific herbal media - no extraction per se
 
 ### Synergistic Combinations
 

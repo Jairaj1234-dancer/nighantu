@@ -40,25 +40,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 **Standard Dosage:** 250-500mg powder (LOW DOSE - toxic at higher doses); 125-250mg extract; 1-3 drops essential oil (external/aromatherapy)
 
-**Bioavailability:** Myristica fragrans (nutmeg) contains [myristicin](/glossary/compounds-l-o/#myristicin), [elemicin](/glossary/compounds-d-g/#elemicin), [safrole](/glossary/compounds-q-t/#safrole), and trimyristin. Myristicin is well absorbed orally with high lipophilicity (logP ~2.5). Myristicin is metabolized to MMDA-like compounds by CYP [enzymes](/glossary/compounds-d-g/#enzymes) (contributing to psychoactive effects at high doses). Essential oil components have high bioavailability via GI and inhalation routes. Trimyristin (myristic acid triglyceride) has standard lipid absorption.
-
 **Optimal Timing:** After meals for digestive support; traditionally taken at bedtime with warm milk (pinch of powder) to support sleep
-
-**Standardized Extract:** Essential oil standardized to myristicin (5-15%), safrole (<1% IFRA limit); CO2 extract for trimyristin-rich fraction; powder with verified essential oil content >5%
-
-**Shelf Life:** 2 years (whole nutmeg); 1 year (ground powder - volatile loss); 3 years (essential oil, sealed); 3 years (capsule)
 
 **Storage:** Cool, dry place below 25°C. Whole nutmeg is more stable than ground. Ground powder loses volatiles rapidly; nitrogen-flushed packaging recommended. Essential oil in amber glass, sealed.
 
 **Marker Compounds:** Myristicin, Elemicin, Safrole (toxic marker - monitor and limit), [Sabinene](/glossary/compounds-q-t/#sabinene), Alpha-pinene, Trimyristin, Myristic acid, Macelignan
-
-### Extraction Methods
-
-- Steam distillation (essential oil, 5-15% yield)
-- Supercritical CO2 extraction (trimyristin + essential oil)
-- Hydroalcoholic extraction (80:20 ethanol:water)
-- Fixed oil expression (nutmeg butter/trimyristin extraction)
-- Mechanical grinding for Churna
 
 ### Synergistic Combinations
 
