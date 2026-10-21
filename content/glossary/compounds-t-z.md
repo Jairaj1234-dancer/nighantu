@@ -21,7 +21,6 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 - [Bimbi](/herb/bimbi/)
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Katphala](/herb/katphala/)
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Vidarikand](/herb/vidarikand/), *Pueraria tuberosa (Willd.) DC.*
 
 #### Often Found With
@@ -69,7 +68,6 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 - [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 - [Madanaphala](/herb/madanaphala/), *Randia dumetorum (Retz.) Lam. (syn. Randia spinosa, Catunaregam spinosa)*
 - [Madhukarkati](/herb/madhukarkati/)
-- [Tintidika](/herb/tintidika/)
 
 #### Often Found With
 
@@ -975,7 +973,6 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 - [Nirgundi Ghana Vati](/glossary/concepts-m-y/#nirgundi-ghana-vati)
 - [Nirgundi Herb](/herb/nirgundi-herb/)
 - [Shana](/herb/shana/)
-- [Tintidika](/herb/tintidika/)
 - [Trapusha](/herb/trapusha/)
 - [Vamsha](/herb/vamsha/)
 

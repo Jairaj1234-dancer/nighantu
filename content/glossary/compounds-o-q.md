@@ -72,7 +72,6 @@ answer: "Phytochemical compounds (O-Q) is a reference glossary of 73 entries dra
 - [Fenugreek Herb](/herb/fenugreek-herb/)
 - [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 - [Kusha](/herb/kusha/)
-- [Tintidika](/herb/tintidika/)
 - [Trapusha](/herb/trapusha/)
 - [Tulsi](/herb/tulsi/), *Ocimum tenuiflorum (syn. O. sanctum)*
 - [Vamsha](/herb/vamsha/)

@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla-Phala/meta-an
 
 ### Synergistic Combinations
 
-- [Tintidika](/herb/tintidika/) (tamarind) - complementary acidulant with different organic acid profile
+- Tamarind (*Tamarindus indica*) - complementary acidulant with different organic acid profile
 - [Methi](/herb/methi/) (fenugreek) - metabolic and digestive synergy
 - [Ajwain](/herb/ajwain/) (Trachyspermum ammi) - digestive combination
 - Chandan (sandalwood) + Kokum butter - premium skincare formulation

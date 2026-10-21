@@ -61,7 +61,6 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 
 #### Often Found With
 

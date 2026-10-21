@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Trees-Large-Plants"
-answer: "Tintidika (Rhus parviflora) is a plant drug, from the Anacardiaceae family. Polyphenols including proanthocyanidins and flavonoids have moderate bioavailability (15-25%)."
+answer: "Tintidika (Rhus parviflora) is a plant drug, from the Anacardiaceae family. The Ayurvedic Pharmacopoeia of India identifies Tintidika as Rhus parviflora Roxb., using the aerial part. Some texts use the same name for tamarind (Tamarindus indica), which is a different plant."
 botanical: "Rhus parviflora"
 family: "Anacardiaceae"
 sanskrit: ""
@@ -16,7 +16,7 @@ aliases: []
 tags: ["ayurveda", "herb", "single-herb", "trees-large-plants", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
-words: 322
+words: 90
 srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.md"
 ---
 ## Names and identification
@@ -24,31 +24,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tintidika/meta-analysis.
 | Language | Name |
 |----------|------|
 | English | Tintidika |
+| Latin/Botanical | *Rhus parviflora* Roxb. |
+| Part used | Aerial part (Ayurvedic Pharmacopoeia of India) |
 
-## Ayurvedic pharmacology (Dravyaguna)
-
-| Property | Value | Description |
-|----------|-------|-------------|
-| **Rasa** (Taste) | Amla | Primary taste |
-| **Guna** (Quality) | Guru, Ruksha | Physical quality |
-| **Virya** (Potency) | Ushna | Heating/Cooling effect |
-| **Vipaka** (Post-digestive) | Amla | Post-digestive effect |
-
-## Dosage forms and preparation
-
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Syrup, Avaleha (confection), Capsule, Paste
-
-**Standard Dosage:** 3-6 g pulp powder with meals; 50-100 mL decoction twice daily; 10-20 g avaleha once daily
-
-**Optimal Timing:** With or after meals; commonly used as a culinary-medicinal ingredient; before meals for appetizer action
-
-**Storage:** Pulp products in airtight containers at 15-25 deg C; highly hygroscopic - moisture-barrier packaging essential. Seed powder in cool, dry conditions. Protect from insects (particularly weevils) with appropriate pest control.
-
-**Marker Compounds:** Tartaric acid, [Citric acid](/glossary/compounds-c-d/#citric-acidcitric-acid), Malic acid, Proanthocyanidin B2, [Epicatechin](/glossary/compounds-d-g/#epicatechin), [Vitexin](/glossary/compounds-t-z/#vitexin), [Orientin](/glossary/compounds-o-q/#orientin), Xyloglucan
-
-### Synergistic Combinations
-
-- [Guduchi](/herb/guduchi/) (Tinospora cordifolia) - anti-inflammatory synergy
-- [Haritaki](/herb/haritaki/) (Terminalia chebula) - digestive combination
-- Jaggery - traditional combination for hematinic action
-- [Trikatu](/herb/trikatu/) - bioavailability enhancement for tamarind polyphenols
+Some texts use the name Tintidika for tamarind (*Tamarindus indica*). This page follows the Ayurvedic Pharmacopoeia, which identifies Tintidika as *Rhus parviflora*, and nothing on it describes tamarind.

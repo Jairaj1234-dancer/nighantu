@@ -6,13 +6,13 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Anti-inflammatory-Pain"
-answer: "Agnimantha (Premna integrifolia (syn. Clerodendrum phlomidis)) is classified in Ayurveda as Shothaghna (Anti-inflammatory), Deepaniya (Appetizer), from the Lamiaceae family. Parts used: root, bark, leaf. Name means 'fire churner': stimulates digestive fire."
-botanical: "Premna integrifolia (syn. Clerodendrum phlomidis)"
+answer: "Agnimantha (Premna integrifolia; Clerodendrum phlomidis is also used under this name) is classified in Ayurveda as Shothaghna (Anti-inflammatory), Deepaniya (Appetizer), from the Lamiaceae family. Parts used: root, bark, leaf. Name means 'fire churner': stimulates digestive fire."
+botanical: "Premna integrifolia (Clerodendrum phlomidis is also used under this name)"
 family: "Lamiaceae"
 sanskrit: ""
 ayurvedicCategory: "Shothaghna (Anti-inflammatory), Deepaniya (Appetizer)"
 whoStatus: ""
-aliases: ["Premna integrifolia (syn. Clerodendrum phlomidis)"]
+aliases: ["Premna integrifolia (Clerodendrum phlomidis is also used under this name)"]
 tags: ["ayurveda", "herb", "single-herb", "anti-inflammatory-pain", "pharmacopoeia-listed", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Classical Ayurvedic texts (Charaka Samhita, Sushruta Samhita, Bhavaprakasha Nighantu, Ashtanga Hridaya)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Agnimantha/meta-anal
 | Common Names | Agnimantha, Fire churner |
 | Hindi | Arani, Agnimantha |
 | Sanskrit | Agnimantha |
-| Latin/Botanical | *Premna integrifolia (syn. Clerodendrum phlomidis)* |
+| Latin/Botanical | *Premna integrifolia (Clerodendrum phlomidis is also used under this name)* |
 
 ## Parts Used
 

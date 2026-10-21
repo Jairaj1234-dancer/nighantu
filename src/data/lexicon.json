@@ -889,7 +889,7 @@
           "sourceKind": "terminology-standard",
           "locator": "ITA-2.6.1",
           "verbatim": true,
-          "assessment": "WHO deliberately avoids 'fire'. Full WHO description, verbatim: 'The collective term for the various factors governing digestion and metabolism or food transformation which are basic element fire -predominant.' Retrieved and re-verified against the live IRIS PDF this session.",
+          "assessment": "WHO deliberately avoids 'fire'. Full WHO description, verbatim: 'The collective term for the various factors governing digestion and metabolism or food transformation which are basic element fire -predominant.' Retrieved and re-verified against the live IRIS PDF.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -1124,7 +1124,7 @@
           "sourceKind": "classification",
           "locator": "code SM3B, Indigestion disorder (TM2) — index term (a) agnimāndyam",
           "verbatim": true,
-          "assessment": "Retrieved verbatim this session. The SM3B entry's index terms read: 'Indigestion disorder (TM2) — (a) ajīrṇam (b) Ceriyāmai (c) Ḍuʻf al-Haḍm; Impaired digestion disorder (TM2) — (a) agnimāndyam; Indigestion disorder due to Aẕal (TM2) — (b) Acīraṇa pittam; Indigestion disorder due to kapha (TM2) — (a) apaktiḥ'. So ICD-11 subsumes agnimāndya under Indigestion and gives it no code of its own. The (a)/(b)/(c) markers denote Ayurveda/Siddha/Unani.",
+          "assessment": "Retrieved verbatim. The SM3B entry's index terms read: 'Indigestion disorder (TM2) — (a) ajīrṇam (b) Ceriyāmai (c) Ḍuʻf al-Haḍm; Impaired digestion disorder (TM2) — (a) agnimāndyam; Indigestion disorder due to Aẕal (TM2) — (b) Acīraṇa pittam; Indigestion disorder due to kapha (TM2) — (a) apaktiḥ'. So ICD-11 subsumes agnimāndya under Indigestion and gives it no code of its own. The (a)/(b)/(c) markers denote Ayurveda/Siddha/Unani.",
           "licence": "nd-attribution",
           "licenceNote": "WHO ICD-11",
           "downloadable": false
@@ -2643,7 +2643,7 @@
           "sthana": "Sūtrasthāna",
           "chapter": "26 (Ātreyabhadrakāpyīya)",
           "verse": "102",
-          "establishes": "The compound āmaviṣa occurs verbatim in the Charaka mūla, as a named disease in the list of conditions caused by viruddha āhāra (incompatible food). Independently corroborated from the GRETIL Charaka text ('pāṇḍvāmayasyāmaviṣasya caiva // car_1,26.102'), retrieved separately this session.",
+          "establishes": "The compound āmaviṣa occurs verbatim in the Charaka mūla, as a named disease in the list of conditions caused by viruddha āhāra (incompatible food). Independently corroborated from the GRETIL Charaka text ('pāṇḍvāmayasyāmaviṣasya caiva // car_1,26.102'), retrieved separately.",
           "quote": "षाण्ढ्यान्ध्यवीसर्पदकोदराणां विस्फोटकोन्मादभगन्दराणाम्। मूर्च्छामदाध्मानगलग्रहाणां पाण्ड्वामयस्यामविषस्य चैव ॥१०२॥",
           "translator": "none (Sanskrit mūla)",
           "licenceBasis": "sanskrit-mula",
@@ -3539,7 +3539,7 @@
         {
           "english": "secondary taste / sub-taste / after-taste",
           "sourceName": "Common textbook and web renderings",
-          "sourceKind": "textbook (not verified against a retrieved textbook page in this pass)",
+          "sourceKind": "textbook (not verified against a retrieved textbook page)",
           "locator": null,
           "verbatim": false,
           "assessment": "Listed because they are ubiquitous; no specific textbook page was retrieved to anchor them. Treat as unverified.",
@@ -4408,7 +4408,7 @@
           "sourceKind": "comparator (indirect)",
           "locator": null,
           "verbatim": false,
-          "assessment": "Not verified on the portal itself in this session.",
+          "assessment": "Not verified on the portal itself.",
           "licence": "ours",
           "licenceNote": "this project's own paraphrase, not the source's words",
           "downloadable": true
@@ -5069,7 +5069,7 @@
         "The asthi-sāra collision inside WHO ISTA (marrow at ITA-2.2.16, bone-predominant constitution at ITA-2.8.1.6) is unexplained and may be an error in the standard or a real double usage. It should be raised with whoever maintains ISTA.",
         "Why hair is the mala of asthi is nowhere explained in the retrieved sources and has no published discussion that this search located.",
         "Whether patients meeting classical asthi-kṣaya criteria overlap with patients meeting densitometric osteoporosis criteria has never been studied, so far as PubMed searches for 'asthi dhatu' (1 hit) and 'asthi ayurveda bone' (4 hits) reveal.",
-        "The Ashtanga Hridaya Sutrasthana 11 reference is carried forward from an earlier project record and was not re-verified in this pass; since no public-domain translation exists it can only ever be a located reference."
+        "The Ashtanga Hridaya Sutrasthana 11 reference is carried forward from an earlier project record and was not re-verified; since no public-domain translation exists it can only ever be a located reference."
       ]
     },
     {
@@ -6783,7 +6783,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.2.3 (vyādhibhedaḥ, printed p. 102); ITA-9.6.65 and ITA-9.6.133 (bhedanakarma)",
           "verbatim": true,
-          "assessment": "All three re-read from the PDF this session. Recorded to show the range WHO assigns to the same root elsewhere: classification of diseases, and surgical incision (ITA-9.6.65 'Incision and drainage — The procedure of incising a fluid-filled cavity for drainage'; ITA-9.6.133 'Incision — Incision procedure for wound management'). Neither is the sixth kriyakala, and both are live sources of confusion.",
+          "assessment": "All three re-read from the PDF. Recorded to show the range WHO assigns to the same root elsewhere: classification of diseases, and surgical incision (ITA-9.6.65 'Incision and drainage — The procedure of incising a fluid-filled cavity for drainage'; ITA-9.6.133 'Incision — Incision procedure for wound management'). Neither is the sixth kriyakala, and both are live sources of confusion.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -6795,7 +6795,7 @@
           "sthana": "Sutrasthana",
           "chapter": "21",
           "verse": "35",
-          "establishes": "Critical point, parallel to vyakti and re-confirmed this session: the prose of the sixth stage does not use the word bheda. It speaks of lesions that have BURST (avadīrṇānām) and become ulcers (vraṇabhāvam āpannānām), and of long-standing sequelae (dīrghakālānubandhaḥ) for fever and diarrhoea, ending in incurability if untreated. The name 'bheda' comes only from the summary verse 21.36.",
+          "establishes": "Critical point, parallel to vyakti and re-confirmed: the prose of the sixth stage does not use the word bheda. It speaks of lesions that have BURST (avadīrṇānām) and become ulcers (vraṇabhāvam āpannānām), and of long-standing sequelae (dīrghakālānubandhaḥ) for fever and diarrhoea, ending in incurability if untreated. The name 'bheda' comes only from the summary verse 21.36.",
           "quote": "अत ऊर्ध्वमेतेषामवदीर्णानां व्रणभावमापन्नानां षष्ठः क्रियाकालः, ज्वरातिसारप्रभृतीनां च दीर्घकालानुबन्धः । तत्राप्रतिक्रियमाणेऽसाध्यतामुपयान्ति ॥३५॥",
           "translator": null,
           "licenceBasis": "sanskrit-mula",
@@ -8198,7 +8198,7 @@
           "sthana": "Uttarasthana (GRETIL file section containing bhūtavidyā/graha chapters)",
           "chapter": null,
           "verse": "Not established; GRETIL line reads 'śāpātharvaṇa-mantrotthe vidhir daiva-vyapāśrayaḥ' and a variant note '5.83dv ... daiva-vyapāśrayaṃ tat tad atharvoktaṃ ca pūjitam'",
-          "establishes": "Vāgbhaṭa uses the compound and ties it to Atharvan rites; chapter and verse not determined from the plaintext in this pass.",
+          "establishes": "Vāgbhaṭa uses the compound and ties it to Atharvan rites; chapter and verse not determined from the plaintext.",
           "quote": null,
           "translator": null,
           "licenceBasis": null,
@@ -8244,7 +8244,7 @@
       ],
       "openQuestions": [
         "The AH Uttarasthana locus for daiva-vyapāśraya was seen only as plaintext lines in GRETIL; chapter and verse need establishing against a printed edition.",
-        "Whether Sushruta uses the compound was not checked in this pass."
+        "Whether Sushruta uses the compound was not checked."
       ]
     },
     {
@@ -12415,7 +12415,7 @@
       ],
       "openQuestions": [
         "Chakrapāṇi on parādi gunas (Su.1.49) not retrieved; Kaviratna himself confesses uncertainty about 'parādaya'.",
-        "Whether Sushruta anywhere gives a categorial definition of guna (as opposed to using it) was not established in this pass; only Su.40 was read.",
+        "Whether Sushruta anywhere gives a categorial definition of guna (as opposed to using it) was not established; only Su.40 was read.",
         "Relation between WHO's 41 gunas (ITA-1.9.4 series) and Charaka's 1.49 list not tabulated."
       ]
     },
@@ -13680,7 +13680,7 @@
           "sourceKind": "terminology-standard",
           "locator": "ITA-2.6.3",
           "verbatim": true,
-          "assessment": "WHO description verbatim: 'Transformative factors in the gastrointestinal tract.' Re-verified against the live IRIS PDF this session.",
+          "assessment": "WHO description verbatim: 'Transformative factors in the gastrointestinal tract.' Re-verified against the live IRIS PDF.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -15066,7 +15066,7 @@
       ],
       "openQuestions": [
         "Chakrapani's gloss on 1.52 (kartavyasya kriyā) was not retrieved.",
-        "Whether Sushruta Su.40 or Su.41 (dravya-rasa-guṇa-vīrya-vipāka chapters) define karma; not checked in this pass."
+        "Whether Sushruta Su.40 or Su.41 (dravya-rasa-guṇa-vīrya-vipāka chapters) define karma; not checked."
       ]
     },
     {
@@ -15675,7 +15675,7 @@
       "openQuestions": [
         "Half-verse boundary of 22.12/13 and 22.14/15 in a printed Trikamji edition.",
         "Standard verse for the pārthiva-dravya unit in Su.26.",
-        "Any sensory or texture-analysis literature attempting to operationalise kaṭhina: none found in this pass."
+        "Any sensory or texture-analysis literature attempting to operationalise kaṭhina: none found."
       ]
     },
     {
@@ -19162,7 +19162,7 @@
         }
       ],
       "openQuestions": [
-        "Why do WHO and NAMASTE place sweat under dhātumala (from fat) while the common 'trimala' teaching groups it with urine and faeces as āhāramala? Charaka Chi 15/18 supports the WHO placement; the source of the trimala grouping was not located in a primary text in this pass.",
+        "Why do WHO and NAMASTE place sweat under dhātumala (from fat) while the common 'trimala' teaching groups it with urine and faeces as āhāramala? Charaka Chi 15/18 supports the WHO placement; the source of the trimala grouping was not located in a primary text.",
         "Kaviratna's footnote counts seven malas (stools, urine, five orifice secretions) in the eighteen kṣayas; Chakrapāṇi's enumeration not checked.",
         "Whether any ICD-11 TM2 code addresses mala as a class: none found in my searches; only the index term mala-apravṛtiḥ under SM7Y."
       ]
@@ -19398,7 +19398,7 @@
       "openQuestions": [
         "Standalone compound: Charaka Su 17/72 uses malasaṅkṣaya; WHO and NAMASTE have no generic malakṣaya headword, only per-mala codes. Whether a generic 'malakṣaya' appears as a headword in any standard was not established.",
         "Whether Chakrapāṇi reads the 'malāyanāni cānyāni' of Su 17/72 as the five sense-orifice malas (as Kaviratna's footnote at 17/63 implies) was not checked.",
-        "Bhishagratna's section numbering within chapter XV was not captured from wisdomlib; a human citing him by page should use the archive.org Vol. I scan (b24758619_0001), which did not download in this session."
+        "Bhishagratna's section numbering within chapter XV was not captured from wisdomlib; a human citing him by page should use the archive.org Vol. I scan (b24758619_0001), which did not download."
       ]
     },
     {
@@ -22159,7 +22159,7 @@
         }
       ],
       "openQuestions": [
-        "Charaka's own statement of urine's function (as distinct from its origin) was not located in this pass; the function clause in modern standards traces to AH Su 11/5 and Su.Su.15/5. A human should check Ca.Su.28 and Ca.Vi.5 commentaries.",
+        "Charaka's own statement of urine's function (as distinct from its origin) was not located; the function clause in modern standards traces to AH Su 11/5 and Su.Su.15/5. A human should check Ca.Su.28 and Ca.Vi.5 commentaries.",
         "Dalhana on vikleda in Su.Su.15/5 not checked."
       ]
     },
@@ -22754,7 +22754,7 @@
           "text": "Charaka Samhita",
           "sthana": "Sutrasthana",
           "chapter": "Lesson II",
-          "verse": "Kaviratna's printed 3 (standard number not established in this pass)",
+          "verse": "Kaviratna's printed 3 (standard number not established)",
           "establishes": "Kaviratna's term for śirovirecana drugs: 'cerebral purgatives (errhines)'.",
           "quote": "Jyotishmati, and Nagara, are to be used as cerebral purgatives (errhines).",
           "translator": "Avinash Chandra Kaviratna (OCR text; spacing normalized; drug list truncated)",
@@ -22778,7 +22778,7 @@
           "text": "Ashtanga Hridaya",
           "sthana": "Sutrasthana",
           "chapter": "20 (Nasyavidhi) per standard editions; GRETIL plaintext lines show 'anya-trātyayikād vyādher atha nasyaṃ prayojayet || 13 ||' and the Aṇutaila verse '... nasyaṃ mahā-guṇam uśanty aṇu-tailam etat || 38 ||'",
-          "verse": "13 and 38 per GRETIL numbering; chapter number not confirmed from markers in this pass",
+          "verse": "13 and 38 per GRETIL numbering; chapter number not confirmed from markers",
           "establishes": "Vāgbhaṭa has a dedicated nasya chapter including the Aṇutaila recipe; located, not verse-verified.",
           "quote": null,
           "translator": null,
@@ -23334,7 +23334,7 @@
         },
         {
           "term": "hetu-viparīta cikitsā",
-          "why": "Treatment opposed to the cause (Charaka's three-fold scheme hetu-, vyādhi-, ubhaya-viparīta); nidānaparivarjana removes exposure, hetuviparīta counteracts its effect. The Charaka locus was not verified in this pass."
+          "why": "Treatment opposed to the cause (Charaka's three-fold scheme hetu-, vyādhi-, ubhaya-viparīta); nidānaparivarjana removes exposure, hetuviparīta counteracts its effect. The Charaka locus was not verified."
         },
         {
           "term": "saṁprāpti-vighaṭana",
@@ -24741,7 +24741,7 @@
       "openQuestions": [
         "Whether any Ayurvedic mūla text uses the compound ṣaṭpadārtha was not established; the Vaiśeṣika Sūtra uses 'padārthānām' with the six named.",
         "Standard verse number for the Su.Ut.65 padārtha passage not established; Bhishagratna's '7' is his own section number.",
-        "The Chakrapāṇi gloss 'ṣaṇṇāṃ padārthānāṃ' recorded in the project's shad-padartha.json was not re-retrieved this session."
+        "The Chakrapāṇi gloss 'ṣaṇṇāṃ padārthānāṃ' recorded in the project's shad-padartha.json was not re-retrieved."
       ]
     },
     {
@@ -24910,7 +24910,7 @@
         },
         {
           "term": "raktamokṣaṇa",
-          "why": "Bloodletting is Vāgbhaṭa's fifth śodhana (AH Su.14.5) and is absent from Charaka's five and WHO ITA-9.2.2. Any claim that 'Sushruta's panchakarma includes raktamokṣaṇa' was not verified against a Sushruta passage in this pass."
+          "why": "Bloodletting is Vāgbhaṭa's fifth śodhana (AH Su.14.5) and is absent from Charaka's five and WHO ITA-9.2.2. Any claim that 'Sushruta's panchakarma includes raktamokṣaṇa' was not verified against a Sushruta passage."
         },
         {
           "term": "pūrvakarma / paścātkarma",
@@ -26940,7 +26940,7 @@
           "sourceKind": "journal-snippet",
           "locator": "Search result text, 2026-10-07",
           "verbatim": false,
-          "assessment": "'Failure of wisdom' circulates in Indian Ayurveda journals; not seen in a retrieved full page in this session.",
+          "assessment": "'Failure of wisdom' circulates in Indian Ayurveda journals; not seen in a retrieved full page.",
           "licence": "ours",
           "licenceNote": "this project's own paraphrase, not the source's words",
           "downloadable": true
@@ -27034,7 +27034,7 @@
           "text": "Charaka Samhita",
           "sthana": "Vimanasthana",
           "chapter": "3 (Janapadodhvaṃsanīya)",
-          "verse": "Kaviratna prints 23 (OCR reads '28!' between his 22 and 24, so 23). carakasamhitaonline lists this as Vi. 3/20; standard number NOT verified against a Sanskrit source in this session.",
+          "verse": "Kaviratna prints 23 (OCR reads '28!' between his 22 and 24, so 23). carakasamhitaonline lists this as Vi. 3/20; standard number NOT verified against a Sanskrit source.",
           "establishes": "Prajñāparādha as the root of adharma, which in turn is the root of the vitiation of air, water, place and time that destroys communities (epidemic causation).",
           "quote": "Kaviratna (p.477): \"Unto him the illustrious son of Atri said, — O Agniveca, the perversity that arises of all these, viz., air and the rest, has unrighteousness for its root. That unrighteousness has for its root sinful acts committed before. The source of both these (viz., unrighteousness and sinful acts), is faults of the understanding.23\" Footnote (translator's note, not text): \"By 'prajnaparadhah' is meant faults of the understanding. 'Prajna' means wisdom, or, rather, the faculty by which one judges of things correctly. 'Aparadha' of this, therefore, must imply all instances of erroneous judgment or incorrect apprehension.\"",
           "translator": "Avinash Chandra Kaviratna",
@@ -27058,7 +27058,7 @@
           "text": "Charaka Samhita",
           "sthana": "Nidanasthana",
           "chapter": "7 (Unmāda-nidāna)",
-          "verse": "Kaviratna prints 13 (OCR 'r3', p.994). carakasamhitaonline lists prajñāparādha as cause of unmāda at Ni. 7/10; standard number NOT verified against Sanskrit in this session.",
+          "verse": "Kaviratna prints 13 (OCR 'r3', p.994). carakasamhitaonline lists prajñāparādha as cause of unmāda at Ni. 7/10; standard number NOT verified against Sanskrit.",
           "establishes": "Prajñāparādha named as the cause of āgantu (exogenous) unmāda, over against the 'past deeds' view.",
           "quote": "Kaviratna: \"Some say that the evil acts of previous lives are the cause of this variety of Insanity (viz., that which is called Accidental). But the illustrious Punarvasu of Atri's race declared that fault of judgment is the cause.13\" Footnote (translator's note): \"'Prajnaparadha,' as explained previously, is fault of judgment, i.e., errors of the understanding. Almost all diseases are born of such errors.\"",
           "translator": "Avinash Chandra Kaviratna",
@@ -27104,7 +27104,7 @@
         },
         {
           "rendering": "crime against wisdom",
-          "why": "Popular Western rendering; 'crime' over-criminalises aparādha and 'wisdom' mystifies prajñā, which Kaviratna glosses as 'the faculty by which one judges of things correctly'. Not retrieved in a source this session; flagged as circulating."
+          "why": "Popular Western rendering; 'crime' over-criminalises aparādha and 'wisdom' mystifies prajñā, which Kaviratna glosses as 'the faculty by which one judges of things correctly'. Not retrieved in a source; flagged as circulating."
         },
         {
           "rendering": "fault of judgment = all mental (Kaviratna footnote)",
@@ -27140,7 +27140,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.8 (prakopaḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO description, verbatim: 'The second stage of disease manifestation, when dosha increases to reach the threshold at its own location. This term may also indicate physiological aggravation of dosha.' Re-read from the PDF this session. Two things matter: WHO chooses 'threshold', not 'aggravation', for the stage name; and WHO explicitly flags that prakopa has a second, non-staged sense.",
+          "assessment": "WHO description, verbatim: 'The second stage of disease manifestation, when dosha increases to reach the threshold at its own location. This term may also indicate physiological aggravation of dosha.' Re-read from the PDF. Two things matter: WHO chooses 'threshold', not 'aggravation', for the stage name; and WHO explicitly flags that prakopa has a second, non-staged sense.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -27151,7 +27151,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-5.2.1.2 (vātaprakopaḥ/ vātavṛddhilakṣaṇam), ITA-5.2.2.4 (pittaprakopaḥ), ITA-5.2.3.3 (kaphaprakopaḥ)",
           "verbatim": true,
-          "assessment": "Same word, different English in a different chapter: 'Aggravation of X', classified as a disorder with a symptom list (kapha: 'A disorder characterized by aversion to food; nausea'). The Sanskrit column at ITA-5.2.1.2 was re-read this session and does read 'vātaprakopaḥ/ vātavṛddhilakṣaṇam', so WHO does treat prakopa and vṛddhi as interchangeable at the dosha-disorder level, which cuts against the careful stage distinction in ITA-4.6.8.",
+          "assessment": "Same word, different English in a different chapter: 'Aggravation of X', classified as a disorder with a symptom list (kapha: 'A disorder characterized by aversion to food; nausea'). The Sanskrit column at ITA-5.2.1.2 was re-read and does read 'vātaprakopaḥ/ vātavṛddhilakṣaṇam', so WHO does treat prakopa and vṛddhi as interchangeable at the dosha-disorder level, which cuts against the careful stage distinction in ITA-4.6.8.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -27233,7 +27233,7 @@
           "sthana": "Chikitsasthana",
           "chapter": "Lesson III (Jwara / Treatment of Fever), as numbered in Kaviratna's translation",
           "verse": "41-42",
-          "establishes": "Kaviratna renders the prakopa idea as 'provoked' or 'excited' rather than 'aggravated', and shows the accumulation-to-provocation sequence operating seasonally in Charaka. Re-verified this session: the sentence sits inside a block closed by the inline number '41-42', which is confirmed adjacent in the retrieved text; the quoted sentence is one sentence within that numbered block, not the whole of it.",
+          "establishes": "Kaviratna renders the prakopa idea as 'provoked' or 'excited' rather than 'aggravated', and shows the accumulation-to-provocation sequence operating seasonally in Charaka. Re-verified: the sentence sits inside a block closed by the inline number '41-42', which is confirmed adjacent in the retrieved text; the quoted sentence is one sentence within that numbered block, not the whole of it.",
           "quote": "The  accumulated  bile  becomes  provoked  in  the  season  of  autumn through  the  heat  of  the  sun,  and  quickly  generates  fever  (that  is characterised  by  excited  bile).",
           "translator": "Kaviraj Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
@@ -27248,7 +27248,7 @@
         },
         {
           "term": "vṛddhi",
-          "why": "Vṛddhi is quantitative increase. Prakopa in the kriyakala sense is a change of state, the dosha reaches a threshold and is about to overflow. WHO's chapter 5 equates vātaprakopaḥ with vātavṛddhilakṣaṇam (confirmed in the Sanskrit column this session), so even WHO is inconsistent between its own chapters; treat any source that equates them as making a substantive claim, not just a wording choice."
+          "why": "Vṛddhi is quantitative increase. Prakopa in the kriyakala sense is a change of state, the dosha reaches a threshold and is about to overflow. WHO's chapter 5 equates vātaprakopaḥ with vātavṛddhilakṣaṇam (confirmed in the Sanskrit column), so even WHO is inconsistent between its own chapters; treat any source that equates them as making a substantive claim, not just a wording choice."
         },
         {
           "term": "kopa (in Vagbhata's caya-kopa-praśama)",
@@ -28094,7 +28094,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.9 (prasaraḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO description, verbatim: 'The third stage of disease manifestation, when aggravated dosha migrates outside its own location.' Re-read from the PDF this session. WHO uses 'migrates', a stronger directional verb than 'spreads'.",
+          "assessment": "WHO description, verbatim: 'The third stage of disease manifestation, when aggravated dosha migrates outside its own location.' Re-read from the PDF. WHO uses 'migrates', a stronger directional verb than 'spreads'.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -28105,7 +28105,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-5.2.1.8 (vātaprasaraṇam), ITA-5.2.2.5 (pittaprasaraḥ), ITA-5.2.3.4 (kaphaprasaraḥ)",
           "verbatim": true,
-          "assessment": "All three re-read this session and all classified as disorders with symptom lists. Note WHO uses the derived form vātaprasaraṇam for vata but prasaraḥ for pitta and kapha, an inconsistency in the Sanskrit column itself, confirmed in the PDF.",
+          "assessment": "All three re-read and all classified as disorders with symptom lists. Note WHO uses the derived form vātaprasaraṇam for vata but prasaraḥ for pitta and kapha, an inconsistency in the Sanskrit column itself, confirmed in the PDF.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -28139,7 +28139,7 @@
           "sourceKind": "peer-reviewed-paper",
           "locator": "abstract",
           "verbatim": true,
-          "assessment": "String-matched in the retrieved abstract this session. The only peer-reviewed source located that gives prasara a working definition, and it does so in order to map hypertension onto it.",
+          "assessment": "String-matched in the retrieved abstract. The only peer-reviewed source located that gives prasara a working definition, and it does so in order to map hypertension onto it.",
           "licence": "restricted",
           "licenceNote": "\"Menon M, Shukla A, J Ayurveda Integr Med 2018 (PMID 29153383)\" is not a source this project has cleared for quotation",
           "downloadable": false
@@ -29217,7 +29217,7 @@
       ],
       "openQuestions": [
         "Whether Charaka's four enumerations of puruṣa (the tridaṇḍa triad of Su 1.46-47, the six-dhatu of Sha 1.16, the 24-fold of Sha 1.35, and the six-dhatu-shared-with-loka of Sha 5.4) are meant as alternative descriptions of one thing or as four different technical senses. Charaka Sharirasthana 1 opens by asking 'katidhā puruṣaḥ' (in how many ways is puruṣa?), which suggests the plurality is deliberate, but I did not retrieve a commentator on it.",
-        "The Sanskrit of Charaka Su 1.46-47 was not retrieved in this pass - only Kaviratna's English. The Devanagari should be added from carakasamhitaonline.com before publication.",
+        "The Sanskrit of Charaka Su 1.46-47 was not retrieved - only Kaviratna's English. The Devanagari should be added from carakasamhitaonline.com before publication.",
         "Whether NAMASTE codes puruṣa."
       ]
     },
@@ -35229,7 +35229,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.7 (sañcayaḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO description, verbatim: 'The first stage of disease manifestation, when dosha increases in its own place or site.' Re-read from the PDF this session. WHO avoids the word 'accumulation' in the term name and puts the location constraint into the name itself.",
+          "assessment": "WHO description, verbatim: 'The first stage of disease manifestation, when dosha increases in its own place or site.' Re-read from the PDF. WHO avoids the word 'accumulation' in the term name and puts the location constraint into the name itself.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -35240,7 +35240,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-5.2.1.1 (vātasañcayaḥ), ITA-5.2.2.3 (pittasañcayaḥ), ITA-5.2.3.2 (kaphasañcayaḥ)",
           "verbatim": true,
-          "assessment": "All three re-read this session. Significant: in chapter 5 the dosha-specific sañcaya entries are classified as DISORDERS with symptom lists (kapha: 'A disorder characterized by heaviness; lethargy'; vata: 'impaired movements of vata in the gastrointestinal tract, reduced gastrointestinal motility; stagnated bowel movements; abdominal fullness'; pitta: 'yellowishness of body, hypothermia or mild warmth'), while ITA-4.6.7 treats sañcaya as a stage. WHO therefore renders the same Sanskrit word two different ways in two chapters.",
+          "assessment": "All three re-read. Significant: in chapter 5 the dosha-specific sañcaya entries are classified as DISORDERS with symptom lists (kapha: 'A disorder characterized by heaviness; lethargy'; vata: 'impaired movements of vata in the gastrointestinal tract, reduced gastrointestinal motility; stagnated bowel movements; abdominal fullness'; pitta: 'yellowishness of body, hypothermia or mild warmth'), while ITA-4.6.7 treats sañcaya as a stage. WHO therefore renders the same Sanskrit word two different ways in two chapters.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -35322,7 +35322,7 @@
           "sthana": "Chikitsasthana",
           "chapter": "Lesson III (Jwara / Treatment of Fever), as numbered in Kaviratna's translation",
           "verse": "40",
-          "establishes": "Charaka uses accumulation-then-provocation as a SEASONAL sequence, not as a six-stage schema. Re-verified this session: the sentence sits inside LESSON III with the inline aphorism number 40 immediately following, and the boundary 'Thus ends Lesson Third, named Treatment of Fever' is present in the same document. Kaviratna's lesson/verse numbering may not match Chaukhamba editions.",
+          "establishes": "Charaka uses accumulation-then-provocation as a SEASONAL sequence, not as a six-stage schema. Re-verified: the sentence sits inside LESSON III with the inline aphorism number 40 immediately following, and the boundary 'Thus ends Lesson Third, named Treatment of Fever' is present in the same document. Kaviratna's lesson/verse numbering may not match Chaukhamba editions.",
           "quote": "The  phlegm,  accumulating  in  winter,  becomes  greatly  excited  in  the  season  of  spring  (coming  after  winter).  40",
           "translator": "Kaviraj Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
@@ -37491,7 +37491,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.6 (kriyākālaḥ/ṣaṭkriyākālaḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO's own description, verbatim: 'A comprehensive term for the six prominent stages in disease management indicating the stepwise progression of its pathogenesis.' Re-read from the PDF this session. Recorded as a fact about WHO, not adopted as this entry's definition. WHO puts the simplex kriyākāla and the compound ṣaṭkriyākāla under ONE term ID, i.e. it does not distinguish them.",
+          "assessment": "WHO's own description, verbatim: 'A comprehensive term for the six prominent stages in disease management indicating the stepwise progression of its pathogenesis.' Re-read from the PDF. Recorded as a fact about WHO, not adopted as this entry's definition. WHO puts the simplex kriyākāla and the compound ṣaṭkriyākāla under ONE term ID, i.e. it does not distinguish them.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -37502,7 +37502,7 @@
           "sourceKind": "public-domain-translation",
           "locator": "Sutrasthana ch. XXI (Vrana-prashna-adhyaya)",
           "verbatim": true,
-          "assessment": "Bhishagratna coins no collective noun; he renders each kriyākāla as an 'occasion for medical treatment' or 'occasion which calls for medical aid'. All six occasion-phrases were located on the retrieved page this session. This is the only public-domain English rendering found, and it preserves the kriyā (action/treatment) element that most modern renderings drop.",
+          "assessment": "Bhishagratna coins no collective noun; he renders each kriyākāla as an 'occasion for medical treatment' or 'occasion which calls for medical aid'. All six occasion-phrases were located on the retrieved page. This is the only public-domain English rendering found, and it preserves the kriyā (action/treatment) element that most modern renderings drop.",
           "licence": "cleared",
           "licenceNote": "Bhishagratna's Sushruta Samhita, 1907-1916",
           "downloadable": true
@@ -37513,7 +37513,7 @@
           "sourceKind": "peer-reviewed-paper",
           "locator": "abstract",
           "verbatim": true,
-          "assessment": "Abstract re-read from NCBI eutils this session; wording is verbatim including the lower-case 'six'. An earlier version of this record printed it as 'Six stages of progress of a disease', which is not what the abstract says. The same abstract glosses the simplex as 'the recognition of the stage of a disease's progress', with Kriya = 'the choice to treatment (medicine, food and daily-routine)' and Kala = 'the stage of progress of a disease', all three phrases string-matched.",
+          "assessment": "Abstract re-read from NCBI eutils; wording is verbatim including the lower-case 'six'. An earlier version of this record printed it as 'Six stages of progress of a disease', which is not what the abstract says. The same abstract glosses the simplex as 'the recognition of the stage of a disease's progress', with Kriya = 'the choice to treatment (medicine, food and daily-routine)' and Kala = 'the stage of progress of a disease', all three phrases string-matched.",
           "licence": "restricted",
           "licenceNote": "\"Chauhan A et al., J Integr Med 2017 (PMID 28285613)\" is not a source this project has cleared for quotation",
           "downloadable": false
@@ -37572,7 +37572,7 @@
           "sthana": "Sutrasthana",
           "chapter": "21",
           "verse": "18, 27, 32, 33, 34, 35",
-          "establishes": "The text numbers the six intervention points serially (first... sixth kriyākāla) across verses 18-35. Each fragment was retrieved from its own siva.sh verse page (/21/18, /21/27, /21/32, /21/33, /21/34, /21/35) and string-matched against that page individually this session; they are concatenated here with ellipses. Crucially, in the verses retrieved (21.16-21.38) the compound ṣaṭkriyākāla does NOT occur, the mula text uses only the simplex kriyākāla with ordinals.",
+          "establishes": "The text numbers the six intervention points serially (first... sixth kriyākāla) across verses 18-35. Each fragment was retrieved from its own siva.sh verse page (/21/18, /21/27, /21/32, /21/33, /21/34, /21/35) and string-matched against that page individually; they are concatenated here with ellipses. Crucially, in the verses retrieved (21.16-21.38) the compound ṣaṭkriyākāla does NOT occur, the mula text uses only the simplex kriyākāla with ordinals.",
           "quote": "तत्र प्रथमः क्रियाकालः ॥१८॥ ... तत्र द्वितीयः क्रियाकालः ॥२७॥ ... तत्र तृतीयः क्रियाकालः ॥३२॥ ... तत्र पूर्वरूपगतेषु चतुर्थः क्रियाकालः ॥३३॥ ... तत्र पञ्चमः क्रियाकालः ॥३४॥ ... षष्ठः क्रियाकालः ॥३५॥",
           "translator": null,
           "licenceBasis": "sanskrit-mula",
@@ -37584,7 +37584,7 @@
           "sthana": "Sutrasthana",
           "chapter": "12 (doṣabhedīya-adhyāya)",
           "verse": "",
-          "establishes": "Vagbhata treats dosha caya / kopa / praśama, a three-fold, largely seasonal scheme, in this chapter, not the six-fold kriyākāla. CHAPTER IDENTIFICATION ONLY, and weakly held: the wisdomlib Sanskrit chapter page is titled 'Chapter 12: doṣabhedīya-adhyāya', but that page returned HTTP 403 to both curl and the fetch tool in this session, so the chapter title is known only from the search result and from secondary sources. No verse number is claimed and no quotation is given.",
+          "establishes": "Vagbhata treats dosha caya / kopa / praśama, a three-fold, largely seasonal scheme, in this chapter, not the six-fold kriyākāla. CHAPTER IDENTIFICATION ONLY, and weakly held: the wisdomlib Sanskrit chapter page is titled 'Chapter 12: doṣabhedīya-adhyāya', but that page returned HTTP 403 to both curl and the fetch tool, so the chapter title is known only from the search result and from secondary sources. No verse number is claimed and no quotation is given.",
           "quote": null,
           "translator": null,
           "licenceBasis": null,
@@ -40543,7 +40543,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.10 (sthānasamśrayaḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO description, verbatim: 'The fourth stage of disease manifestation, when aggravated and migrant dosha lodges in a different location from its original one and gives rise to prodromal symptoms.' Re-read from the PDF this session. WHO is the only comparator located that builds the prodrome into the definition. WHO's printed IAST is 'sthānasamśrayaḥ' (with m, not ṃ).",
+          "assessment": "WHO description, verbatim: 'The fourth stage of disease manifestation, when aggravated and migrant dosha lodges in a different location from its original one and gives rise to prodromal symptoms.' Re-read from the PDF. WHO is the only comparator located that builds the prodrome into the definition. WHO's printed IAST is 'sthānasamśrayaḥ' (with m, not ṃ).",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -40554,7 +40554,7 @@
           "sourceKind": "public-domain-translation",
           "locator": "Sutrasthana ch. XXI, summary verse",
           "verbatim": true,
-          "assessment": "Bhishagratna does not give a noun; he paraphrases. Elsewhere in the same chapter he uses 'incarcerated', 'confined' and 'firmly ensconced'. The section heading on the retrieved page reads 'Stharna-Samshrayam:—', an OCR corruption of Sthana-Samshrayam, re-confirmed on the page this session and worth knowing if anyone searches that page by string.",
+          "assessment": "Bhishagratna does not give a noun; he paraphrases. Elsewhere in the same chapter he uses 'incarcerated', 'confined' and 'firmly ensconced'. The section heading on the retrieved page reads 'Stharna-Samshrayam:—', an OCR corruption of Sthana-Samshrayam, re-confirmed on the page and worth knowing if anyone searches that page by string.",
           "licence": "cleared",
           "licenceNote": "Bhishagratna's Sushruta Samhita, 1907-1916",
           "downloadable": true
@@ -40659,7 +40659,7 @@
       ],
       "openQuestions": [
         "Whether khavaiguṇya appears anywhere in Su.Su. 21 itself or only in Dalhana, I could not verify either way from the verses retrieved (21.16-21.38).",
-        "Whether NAMASTE or ICD-11 TM2 codes the pūrvarūpa/sthānasaṃśraya stage at all, see the shat-kriyakala record for why both lookups failed again this session.",
+        "Whether NAMASTE or ICD-11 TM2 codes the pūrvarūpa/sthānasaṃśraya stage at all, see the shat-kriyakala record for why both lookups failed again.",
         "Whether any source offers a way to tell lodgement from mere presence in a site, clinically."
       ]
     },
@@ -48477,7 +48477,7 @@
           "sourceKind": "glossary",
           "locator": "SV0328",
           "verbatim": true,
-          "assessment": "Draft Indian glossary prepared under a WHO agreement; predates and differs in framing from the 2022 WHO ISTA. Provenance of the local copy of this PDF was not re-established this session, so treat the locator as indicative.",
+          "assessment": "Draft Indian glossary prepared under a WHO agreement; predates and differs in framing from the 2022 WHO ISTA. Provenance of the local copy of this PDF was not re-established, so treat the locator as indicative.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -48597,7 +48597,7 @@
       "openQuestions": [
         "Does any classical text other than Charaka use the word vyādhikṣamatva? Not found in the GRETIL Charaka-parts corpus beyond Sū. 28.7 and its commentary; Sushruta was not searched exhaustively for it.",
         "Whether WHO ISTA's three-way split (ITA-4.8.25/26/27) rests on any commentarial authority, or is an editorial invention contradicting Chakrapāṇi.",
-        "Whether NAMASTE assigns a code to vyādhikṣamatva (portal unreachable this session)."
+        "Whether NAMASTE assigns a code to vyādhikṣamatva (portal unreachable)."
       ]
     },
     {
@@ -48624,7 +48624,7 @@
           "sourceKind": "who-ista",
           "locator": "ITA-4.6.11 (vyaktiḥ), ch. 4, printed p. 114",
           "verbatim": true,
-          "assessment": "WHO description, verbatim: 'The fifth stage of disease manifestation, when a disease or condition becomes clinically manifest.' Re-read from the PDF this session. WHO adds 'clinical', which is not in the Sanskrit but is the intended sense.",
+          "assessment": "WHO description, verbatim: 'The fifth stage of disease manifestation, when a disease or condition becomes clinically manifest.' Re-read from the PDF. WHO adds 'clinical', which is not in the Sanskrit but is the intended sense.",
           "licence": "nd-attribution",
           "licenceNote": "the WHO International Standard Terminologies on Ayurveda",
           "downloadable": false
@@ -48669,7 +48669,7 @@
           "sthana": "Sutrasthana",
           "chapter": "21",
           "verse": "34",
-          "establishes": "Critical lexicographic point, re-confirmed this session: the prose of the fifth stage does NOT use the word vyakti. It says vyādher darśanam (the appearing of the disease) and pravyaktalakṣaṇatā (the state of having fully manifest signs). The name 'vyakti' for this stage comes only from the summary verse 21.36.",
+          "establishes": "Critical lexicographic point, re-confirmed: the prose of the fifth stage does NOT use the word vyakti. It says vyādher darśanam (the appearing of the disease) and pravyaktalakṣaṇatā (the state of having fully manifest signs). The name 'vyakti' for this stage comes only from the summary verse 21.36.",
           "quote": "अत ऊर्ध्वं व्याधेर्दर्शनं वक्ष्यामः- शोफार्बुदग्रन्थिविद्रधिविसर्पप्रभृतीनां प्रव्यक्तलक्षणता ज्वरातीसारप्रभृतीनां च । तत्र पञ्चमः क्रियाकालः ॥३४॥",
           "translator": null,
           "licenceBasis": "sanskrit-mula",
@@ -48740,7 +48740,7 @@
       "openQuestions": [
         "Whether commentators (Dalhana) justify naming the fifth stage vyakti when the prose uses vyādher darśanam and pravyaktalakṣaṇatā.",
         "Which of vyakti / vyakta / vyaktībhāva is the dominant form in current BAMS curricula, WHO uses vyakti, a major practitioner reference uses vyakta/vyaktībhāva.",
-        "Whether NAMASTE or ICD-11 TM2 carry this term, both lookups failed again this session; see the shat-kriyakala record."
+        "Whether NAMASTE or ICD-11 TM2 carry this term, both lookups failed again; see the shat-kriyakala record."
       ]
     },
     {

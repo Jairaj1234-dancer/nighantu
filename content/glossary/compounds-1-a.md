@@ -120,7 +120,7 @@ answer: "Phytochemical compounds (1-A) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (Clerodendrum phlomidis is also used under this name)*
 
 #### Often Found With
 
@@ -442,7 +442,7 @@ answer: "Phytochemical compounds (1-A) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (syn. Clerodendrum phlomidis)*
+- [Agnimantha](/herb/agnimantha/), *Premna integrifolia (Clerodendrum phlomidis is also used under this name)*
 - [Nirgundi](/herb/nirgundi/), *Vitex negundo L.*
 - [Nirgundi Ghana Vati](/glossary/concepts-m-y/#nirgundi-ghana-vati)
 - [Nirgundi Herb](/herb/nirgundi-herb/)

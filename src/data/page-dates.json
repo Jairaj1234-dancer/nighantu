@@ -60,14 +60,14 @@
     "modified": "2026-10-09"
   },
   "concept/agni-and-digestion": {
-    "hash": "7720836fcd8dd9b8",
+    "hash": "080485bb68874d07",
     "published": "2026-10-08",
     "modified": "2026-10-21"
   },
   "concept/ahara-vidhi": {
-    "hash": "f68ed87835e026de",
+    "hash": "3a1ce1159d760c9f",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/ama-formation": {
     "hash": "081eb0674d3bd528",
@@ -75,9 +75,9 @@
     "modified": "2026-10-08"
   },
   "concept/asatmyendriyartha-samyoga": {
-    "hash": "7a24799eadd2a974",
+    "hash": "64b43cfc3cb6128c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/chikitsa-sutra": {
     "hash": "61378438d789afb1",
@@ -90,9 +90,9 @@
     "modified": "2026-10-21"
   },
   "concept/dinacharya-rationale": {
-    "hash": "c93b21b06fba948f",
+    "hash": "d473d9444ad580cb",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/disease-classification": {
     "hash": "836101cd52c15e02",
@@ -100,17 +100,17 @@
     "modified": "2026-10-08"
   },
   "concept/dosha-dushya-sammurchana": {
-    "hash": "e6bf13eacb94c461",
+    "hash": "87a24a12749fabb5",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/kala-parinama": {
-    "hash": "69dd6cc36bcdf3db",
+    "hash": "3907e73f1ce3b73c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/manas-in-health": {
-    "hash": "7e389c003dac5040",
+    "hash": "d3b384ace1ff6ac6",
     "published": "2026-10-08",
     "modified": "2026-10-21"
   },
@@ -120,7 +120,7 @@
     "modified": "2026-10-21"
   },
   "concept/ojas-and-immunity": {
-    "hash": "0d361d060ffda828",
+    "hash": "2fb6bf6b7e51cacc",
     "published": "2026-10-08",
     "modified": "2026-10-21"
   },
@@ -130,19 +130,19 @@
     "modified": "2026-10-20"
   },
   "concept/prajnaparadha": {
-    "hash": "6e7f1e782d6713b1",
+    "hash": "8cc3c3f10f3f3091",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/rasayana-theory": {
-    "hash": "504ed0d271caaf1b",
+    "hash": "3eb2e924836d03d1",
     "published": "2026-10-08",
     "modified": "2026-10-21"
   },
   "concept/ritucharya-rationale": {
-    "hash": "d6250046d44dced1",
+    "hash": "688d2a86380b5b55",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/roga-marga": {
     "hash": "e143d91773b1b125",
@@ -150,19 +150,19 @@
     "modified": "2026-10-20"
   },
   "concept/sadhya-asadhya": {
-    "hash": "9a4c2b8337d318c2",
+    "hash": "184084d363dd0d85",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/samprapti": {
-    "hash": "ded7122ddef09e15",
+    "hash": "c196690b04e8de85",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/shodhana-shamana": {
-    "hash": "be9d93c5e4962852",
+    "hash": "bae8713de267a9fb",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/srotas-system": {
     "hash": "cd18838ddd7eeaa9",
@@ -175,24 +175,24 @@
     "modified": "2026-10-21"
   },
   "concept/tissue-need-and-lack": {
-    "hash": "52e4b7d3b132244b",
+    "hash": "cbf787efedf8908c",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/tridosha-theory": {
-    "hash": "90d6bad871229310",
+    "hash": "51ed1acd6db5da49",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/vega-dharana": {
-    "hash": "7c8131255318ef19",
+    "hash": "a1d13b1b81b791ed",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/vikriti-assessment": {
-    "hash": "63c762850d328ff1",
+    "hash": "1c68ce533fceddc1",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/vyadhikshamatva": {
     "hash": "b0e73c9d1898da7f",
@@ -1150,9 +1150,9 @@
     "modified": "2026-10-21"
   },
   "glossary/compounds-1-a": {
-    "hash": "827b86adb61fe01c",
+    "hash": "405361161bc16d38",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-a-c": {
     "hash": "a207603b96bce6d1",
@@ -1160,14 +1160,14 @@
     "modified": "2026-10-21"
   },
   "glossary/compounds-c-d": {
-    "hash": "df663e43eb0f56c1",
+    "hash": "eef75e3cc549407d",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-d-g": {
-    "hash": "785172f528e13e6e",
+    "hash": "681dec21bcb41007",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-g-l": {
     "hash": "329cfdba13f92308",
@@ -1175,37 +1175,37 @@
     "modified": "2026-10-21"
   },
   "glossary/compounds-l-o": {
-    "hash": "26358e42f05a7d47",
+    "hash": "93acfe28999dcc6c",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-o-q": {
-    "hash": "ff059be0b7905612",
+    "hash": "910342bf1f2e940d",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
   "glossary/compounds-q-t": {
-    "hash": "1fe428a8c79eb3c6",
+    "hash": "e0ed4aecb9906058",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
   "glossary/compounds-t-z": {
-    "hash": "e231484ce353e553",
+    "hash": "b4daf5a9030b2ae0",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-21"
   },
   "glossary/concepts-a-m": {
-    "hash": "60cbc9bd29049889",
+    "hash": "00528c34737df095",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
   "glossary/concepts-m-y": {
-    "hash": "1d82b667446e5c14",
+    "hash": "b3ba507353403125",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
   "glossary/pharmacology": {
-    "hash": "df8025cca63cae00",
+    "hash": "0f2a4be474d3de7c",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -1300,7 +1300,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "0dfedec4e6d4e3f1",
+    "hash": "c298e6d2c73b42df",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -1335,7 +1335,7 @@
     "modified": "2026-10-21"
   },
   "herb/agnimantha": {
-    "hash": "a3b965a6b12039f3",
+    "hash": "795cf40e216dce92",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -3175,7 +3175,7 @@
     "modified": "2026-10-21"
   },
   "herb/rishabhaka": {
-    "hash": "ac55c501af3dfd72",
+    "hash": "5418c068c4831949",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -3545,7 +3545,7 @@
     "modified": "2026-10-21"
   },
   "herb/tintidika": {
-    "hash": "af1b85b7b84e4663",
+    "hash": "6523c10e45e373ec",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -3770,7 +3770,7 @@
     "modified": "2026-10-21"
   },
   "herb/vrikshamla-phala": {
-    "hash": "d0ad10ac9180b8a4",
+    "hash": "0ca05061692d1e89",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
@@ -3865,14 +3865,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/agni": {
-    "hash": "c3c7f5a152a6fc70",
+    "hash": "c42603ea3342a543",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/agnimandya": {
-    "hash": "6266cd2f1396d88c",
+    "hash": "f16a2080e742bf80",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/ahara": {
     "hash": "9c4ed4cf13c82af1",
@@ -3915,7 +3915,7 @@
     "modified": "2026-10-21"
   },
   "lexicon/ama-visha": {
-    "hash": "6f679f5391791026",
+    "hash": "23d4924457ba7829",
     "published": "2026-10-08",
     "modified": "2026-10-21"
   },
@@ -3940,9 +3940,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/anurasa": {
-    "hash": "f5576d824c270eb5",
+    "hash": "4627e564079c3ec9",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/apana-vata": {
     "hash": "4a27aee4a7d78a2c",
@@ -3965,9 +3965,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/asadhya": {
-    "hash": "6dc1a0e9eff19e57",
+    "hash": "60758217007e1d4e",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/asatmyendriyartha-samyoga": {
     "hash": "e5b75c6090808764",
@@ -3980,9 +3980,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/asthi-dhatu": {
-    "hash": "a983f64f7c0008ba",
+    "hash": "7265a476fda4706d",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/asthivaha-srotas": {
     "hash": "a343a98364d30a5c",
@@ -4030,9 +4030,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/bheda": {
-    "hash": "72a782597a3af591",
+    "hash": "59e01e8694ab2feb",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/bhrajaka-pitta": {
     "hash": "d2455acc3113056e",
@@ -4070,9 +4070,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/daiva-vyapashraya": {
-    "hash": "ae8b812704d8458c",
+    "hash": "7fb9b8e77385433e",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/darshana": {
     "hash": "9059d593c606f920",
@@ -4185,9 +4185,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/guna": {
-    "hash": "c806ba449b45bb49",
+    "hash": "e245c517f62ebede",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/guru": {
     "hash": "486146d1510ca335",
@@ -4225,9 +4225,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/jatharagni": {
-    "hash": "2b89148be88a8cdc",
+    "hash": "4ea27d67b197f7fc",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/jihva-pariksha": {
     "hash": "8ee6c4a944a0ff10",
@@ -4260,9 +4260,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/karma-dravyaguna": {
-    "hash": "4118fe4571005b30",
+    "hash": "824f40f4757502bb",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/karmendriya": {
     "hash": "88b92c55703c3021",
@@ -4280,9 +4280,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/kathina": {
-    "hash": "fecaaa5903fb990e",
+    "hash": "a078f766d2f93b97",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/katu": {
     "hash": "39013339fdedc51e",
@@ -4380,14 +4380,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/mala": {
-    "hash": "a7d4ed549d60d01a",
+    "hash": "4bfedb5e0eac9709",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/mala-kshaya": {
-    "hash": "72cb649535e18838",
+    "hash": "acc634173ca03d5c",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/mala-pariksha": {
     "hash": "c1f174360e247d58",
@@ -4460,9 +4460,9 @@
     "modified": "2026-10-07"
   },
   "lexicon/mutra": {
-    "hash": "17603947f6a8d8ef",
+    "hash": "43ff503ab7570084",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/mutra-pariksha": {
     "hash": "6934d2a92d0299cc",
@@ -4480,9 +4480,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/nasya": {
-    "hash": "c5bdfbca0a97fe30",
+    "hash": "2ba1fe32c0cd21ab",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/nidana": {
     "hash": "f388c7a41aa2daa4",
@@ -4495,9 +4495,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/nidana-parivarjana": {
-    "hash": "ce2980316c199731",
+    "hash": "750763e8f5957135",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/nidra": {
     "hash": "99febd9701b86e61",
@@ -4530,14 +4530,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/padartha": {
-    "hash": "ba257e376f1701d8",
+    "hash": "9524d12ff3560d85",
     "published": "2026-10-07",
     "modified": "2026-10-21"
   },
   "lexicon/panchakarma": {
-    "hash": "ffdf53ae837ce7f2",
+    "hash": "712cabe4be580d12",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/panchakosha-ayurveda": {
     "hash": "db78fab94bea7dee",
@@ -4595,14 +4595,14 @@
     "modified": "2026-10-07"
   },
   "lexicon/prajnaparadha": {
-    "hash": "7d99d7847084a61d",
+    "hash": "eccdc18d72c37c6c",
     "published": "2026-10-07",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/prakopa": {
-    "hash": "615abef449f22510",
+    "hash": "0c8e2c43ab82fcb2",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/prakriti": {
     "hash": "35b82f41fa627e83",
@@ -4625,9 +4625,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/prasara": {
-    "hash": "b9569570a016ce63",
+    "hash": "e484c955e3340322",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/prashna": {
     "hash": "4d3485abd6905055",
@@ -4650,9 +4650,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/purusha": {
-    "hash": "e428a7cec47581d6",
+    "hash": "a73d742c81bab269",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/purvakarma": {
     "hash": "52559686241607cf",
@@ -4830,9 +4830,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/sanchaya": {
-    "hash": "ed2ba28ad9785d73",
+    "hash": "fea985fd631dafc3",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/sandra": {
     "hash": "5411ed4246c48b62",
@@ -4895,9 +4895,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/shat-kriyakala": {
-    "hash": "182081b37f037186",
+    "hash": "1dce3d86c3623ed5",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/shita": {
     "hash": "c6b78785387193f0",
@@ -4980,9 +4980,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/sthanasamshraya": {
-    "hash": "35582a4acf4014e7",
+    "hash": "cf5da4d00991499e",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/sthira": {
     "hash": "636cd4a54aa9b4c3",
@@ -5200,14 +5200,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/vyadhikshamatva": {
-    "hash": "54d0f62f99de44ad",
+    "hash": "c83d1c3bcae71231",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/vyakti": {
-    "hash": "e8ef98f712516b21",
+    "hash": "e4ed55ad0d3749e0",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "lexicon/vyana-vata": {
     "hash": "47b7e2b5acdd2d6d",
@@ -5460,14 +5460,14 @@
     "modified": "2026-10-17"
   },
   "reference": {
-    "hash": "4813b20c283d6c0c",
+    "hash": "f237361503f5aa1b",
     "published": "2026-09-09",
     "modified": "2026-10-21"
   },
   "reference/adaptogenic": {
-    "hash": "9bcbb64bd2d257ec",
+    "hash": "44b67a104ab0a9af",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/analgesic": {
     "hash": "a618f25cd9efa3bc",
@@ -5650,9 +5650,9 @@
     "modified": "2026-10-20"
   },
   "reference/mens-health-vitality": {
-    "hash": "f11488094db3c035",
+    "hash": "d9b31b720a59d736",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/neuroprotective": {
     "hash": "19fc08c7b43aed25",
@@ -5690,9 +5690,9 @@
     "modified": "2026-10-11"
   },
   "reference/saponins": {
-    "hash": "36b394faabccff6b",
+    "hash": "7a5b34d951be5114",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/skin-beauty": {
     "hash": "a7357cc0531b64a2",
@@ -5700,9 +5700,9 @@
     "modified": "2026-10-20"
   },
   "reference/stigmasterol": {
-    "hash": "f7175ff5a436ee0c",
+    "hash": "ab63a4141eef9688",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/tannins": {
     "hash": "cf3bd6cd439a740f",
@@ -5710,9 +5710,9 @@
     "modified": "2026-10-20"
   },
   "reference/ursolic-acid": {
-    "hash": "f97165de0a5664c5",
+    "hash": "3e1ced8fcd642eaf",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/womens-health": {
     "hash": "363eb0193fd3db7a",

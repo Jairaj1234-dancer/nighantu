@@ -65,7 +65,6 @@ srcRel: "_Hub/Compounds/Stigmasterol.md"
 - [Putranjivaka](/herb/putranjivaka/)
 - [Rasna](/herb/rasna/), *Pluchea lanceolata (DC.) Oliv. & Hiern / Alpinia galanga (L.) Willd.*
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Satina](/glossary/concepts-m-y/#satina)
 - [Shvet Musli](/herb/shvet-musli/)
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*

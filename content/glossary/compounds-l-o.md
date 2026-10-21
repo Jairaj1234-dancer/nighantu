@@ -454,7 +454,6 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Madhukarkati](/herb/madhukarkati/)
 - [Matulunga Rasa](/herb/matulunga-rasa/)
 - [Narikela Jala](/herb/narikela-jala/)
-- [Tintidika](/herb/tintidika/)
 - [Vrikshamla Phala](/herb/vrikshamla-phala/)
 
 #### Often Found With
@@ -984,7 +983,6 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Madhuka](/herb/madhuka/), *Madhuca longifolia (J.Koenig ex L.) J.F.Macbr.*
 - [Madhuka Pushpa](/herb/madhuka-pushpa/)
 - [Priyala](/herb/priyala/)
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Talisapatra](/herb/talisapatra/)
 - [Utpala](/herb/utpala/)
 

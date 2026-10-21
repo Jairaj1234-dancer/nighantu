@@ -1,8 +1,8 @@
 {
  "_note": "Ratchet for audit.mjs: it fails the deploy if any figure falls below these. Re-derive with scripts/derive-enrichment-baseline.mjs, and only from a build that converges: run ./scripts/build-downloads.sh twice and confirm the counts do not move. compounds.mjs used to read a file derived from its own output, which made the build alternate between 455 and 466 resolved compounds on nothing but build parity.",
  "derivedAt": "2026-10-21",
- "taxaResolved": 283,
- "withWikidata": 268,
- "withNcbiTaxid": 275,
- "compoundsResolved": 453
+ "taxaResolved": 282,
+ "withWikidata": 267,
+ "withNcbiTaxid": 274,
+ "compoundsResolved": 452
 }

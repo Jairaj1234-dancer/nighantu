@@ -44,7 +44,6 @@ srcRel: "_Hub/Compounds/Saponins.md"
 - [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*
 - [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
 - [Rasona Garlic](/herb/rasona-garlic/), *Allium sativum L.*
-- [Rishabhaka](/herb/rishabhaka/), *Manilkara hexandra (Roxb.) Dubard*
 - [Saptala](/herb/saptala/), *Euphorbia dracunculoides Lam.*
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 - [Tinduka](/herb/tinduka/), *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)*
