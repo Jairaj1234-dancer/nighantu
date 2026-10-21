@@ -218,7 +218,7 @@
           "text": "Charaka Samhita",
           "sthana": "Chikitsasthana",
           "chapter": "15",
-          "verse": "Kaviratna's Lesson XV, verses 6-7 (= vulgate Ci.15/7-8). Corrected from the \"verses 5-7\" this field previously carried; the correction was established on verification (see correctedLocation and refutedBecause below) but had never been applied to this field.",
+          "verse": "Kaviratna's Lesson XV, verses 6-7 (= vulgate Ci.15/7-8)",
           "establishes": "The mechanism as the text states it: samana vayu fans the fire, which converts food into rasa and kitta. The cooking-pot simile is the text's own explanatory model, not a later gloss.",
           "quote": "Then, in time, the fire, blown upon by the life-breath called 'Samana' blazes forth and digests the food that has been taken, equally and properly. The result of this is the continuation of the period of life. The (digestive) fire, remaining below, cooks (digests) the food in the stomach, converting it into 'Rasa' and refuse, even as (external) fire and water cook grains of rice in a vessel, for purposes of food.",
           "sanskrit": null,
@@ -226,7 +226,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913), public domain",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -1992,14 +1992,14 @@
           "sthana": "Sutrasthana",
           "chapter": "1 (Deerghanjiviteeya)",
           "verse": "1.124-1.126 (standard Trikamji numbering); printed as verses 123-125 by Kaviratna",
-          "establishes": "The central chikitsa-sutra maxim that therapeutic identity is not a property of the substance but of its correct application. This is now Kaviratna's MAIN TEXT, retrieved and read at the location named in sourceUrl, where the three-sentence passage as quoted occurs exactly once, preceded by Kaviratna's verses 121-122 on the knower of plants and followed by his 'An intelligent man, therefore, who desires life and health...'. Kaviratna prints 123, 124 and 125 after the three aphorisms; the standard numbers are 124, 125 and 126, confirmed against the verse-numbered Sanskrit at carakasamhitaonline.com (aushadham hyanabhijnatam ||125||, yogadapi visham tikshnam ||126||). Quote transcribed from the OCR of the scan named in sourceUrl; line-break hyphens closed and obvious OCR letter-errors corrected, each flagged in this note. No wording supplied from any other source. Specifically: the scan reads 'be- comes' across a line break, closed here to 'becomes'. SECOND-PASS VERIFICATION 2026-10-06. An independent pass re-downloaded this scan (archive.org BIUSante_47357_djvu.txt, 4,989,688 bytes) and re-read the passage in context. Two refinements to the earlier revision's uniqueness claim, both in the direction of less reliance on string matching. The middle sentence is NOT unique to the main text: the press notice carries 'Drugs unknown by name, appearance and properties, or misapplied even if known; produce mischief', which differs from the main text only by the comma after 'appearance' and the semicolon before 'produce'. The first sentence is what separates them cleanly, 'An unknown drug' in the main text against 'the unknown drug' in the notice. Standard numbers re-confirmed in the verse-numbered Sanskrit: aushadham hyanabhijnatam namarupagunaistribhih| vijnatam capi duryuktamanarthayopapadyate||125|| and yogadapi visham tikshnamuttamam bheshajam bhavet| bheshajam capi duryuktam tikshnam sampadyate visham||126||, so Kaviratna's printed 124 and 125 are standard 125 and 126 and his 123 is standard 124, as recorded.",
+          "establishes": "The central chikitsa-sutra maxim that therapeutic identity is not a property of the substance but of its correct application. Quoted from Kaviratna's main text, Lesson I, pp. 11-12, where he prints these as his verses 123-125; the standard numbers 124-126 are confirmed against the verse-numbered Sanskrit at carakasamhitaonline.com.",
           "quote": "An unknown drug is like poison or weapon or fire or thunder, while a known drug is like nectar (amrita). Drugs unknown by name, appearance, and properties, or misapplied even if known, produce mischief. Well-applied, a virulent poison even may become an excellent medicine, while a medicine misapplied becomes a virulent poison.",
           "sanskrit": null,
           "translation": null,
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita (Kaviratna translation, 1896-1913)",
@@ -2255,8 +2255,6 @@
         "For the next auditor: every classical citation in this record now points to one of two scans, BIUSante_47357 for Charaka and englishtranslati01susruoft for Sushruta, and every quoted string was checked to occur exactly once in its file. The check that caught the 2026-09-20 failure was reading the surrounding context, not matching the string, because the string matched in the press notices too. An auditor repeating this work should re-read context, not re-match quotes.",
         "The Kaviratna-to-standard numbering offset is one in Sutrasthana 1 and two in Sutrasthana 9, 10, 22 and 23. Anyone applying a single uniform offset to this corpus will introduce errors. Each entry carries both numbers for this reason.",
         "The largest open item is a search, not a citation: the non-indexed AYUSH and CCRAS material has not been looked at, and until it is, this record's negative claim about explicit decision criteria stays bounded to PubMed.",
-        "Historical note, retained from the previous round. Citation #3 (Ca.Su.1.124-1.126) was refuted on verification on 2026-09-20: the full OCR of the claimed ZHNR item runs LESSON II through LESSON XXIX, Lesson I being among that item's missing or damaged pages, and the quoted string occurred there only inside the bound-in press notices. That refutation was correct. Its location fix was adopted but its closing claim, that the quote had been confirmed verbatim at the corrected location, had not been carried through to the quote field, which is what criticFindings.citationRisk caught and what this revision has now repaired.",
-        "PRESERVED VERBATIM FROM THE PRE-REVISION RECORD, for audit, because this revision replaced the openQuestions array: the original record's single entry read \"Citation #3 refuted on verification: REFUTED on sourcing and wording. I downloaded the full OCR of the claimed ZHNR item and enumerated its chapter headings: it runs LESSON II through LESSON XXIX - Lesson I is among the item's stated mis\". It was a truncated copy of the refutedBecause note that is still carried, byte-identical, inside the Ca.Su.1.124-1.126 entry.",
         "STRING UNIQUENESS IS NOT A SUFFICIENT TEST IN THIS VOLUME, and the second pass found three more near-duplicates to prove it: the samanya sentence of 1.44 appears in the main text, in Kaviratna's footnote gloss on the same verse, and in a cross-reference footnote in a later lesson; the middle sentence of 1.124-126 appears in the main text and in the bound-in press notice, differing by a single comma; and the langhana definition of 22.9 appears in the main text and in a translator's footnote in a later lesson with 'the aggravated humours' for 'the aggravated humours and altered constituents'. An auditor must read the surrounding printed aphorism numbers, not count matches."
       ]
     },
@@ -2420,7 +2418,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -2434,7 +2432,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -2448,7 +2446,7 @@
           "translator": "Avinash Chandra Kaviratna (1896-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -2588,7 +2586,7 @@
           "translator": "Kunja Lal Bhishagratna (1907-1916)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati00susruoft/englishtranslati00susruoft_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Sushruta Samhita, Bhishagratna's Introduction (his own dissertation, not the Samhita)",
@@ -4486,7 +4484,7 @@
           "translator": "Kaviraj Avinash Chandra Kaviratna (1890-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -4514,7 +4512,7 @@
           "translator": "Kaviraj Avinash Chandra Kaviratna (1890-1913)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -4780,8 +4778,6 @@
         }
       ],
       "openQuestions": [
-        "RESOLVED on 2026-10-06. Citation #7 (now classical[8]): the location correction to Sharirasthana 4.40 is applied to the verse field, the establishes text, the summary and gatheringNotes, and was independently re-established against the Sanskrit. The truncated refutedBecause text above is preserved as the audit trail and has not been reconstructed.",
-        "RESOLVED on 2026-10-06. Citation #8 (now classical[10]): the location correction to Sharirasthana 3.13, Kaviratna's aphorism 23, is applied to the sthana, chapter and verse fields, and was independently re-established by reading the lesson boundaries in the re-retrieved scan and matching the aphorism to the Sanskrit of Sha. 3.13, now cited separately as classical[9].",
         "STILL OPEN. The relation between Sharirasthana 4's sixteen analogical types and Vimanasthana 8's graded sattva sara, raised by the material added on this pass. See contested, question 6."
       ]
     },
@@ -5129,7 +5125,6 @@
         }
       ],
       "openQuestions": [
-        "Carried forward unresolved from the gathered record: the two entries above are truncated mid-sentence as gathered and are left exactly as they were, since they duplicate the refutedBecause fields of classical[4] and classical[8], which are complete. A later pass should either complete them from those fields or drop them as duplicates.",
         "For the auditor: the Kaviratna edition dates disagree between sources and this record does not resolve the disagreement. The archive.org catalogue record for BIUSante_47357 gives 1890/1908 and names Pareshnath Sarma as publisher of parts XXXIX-LI; the project's source register gives 1896-1913. Both are flagged in gatheringNotes. The translator fields in this record therefore give no year range, only 'issued in parts; public domain', which is the part that is not in doubt."
       ]
     },
@@ -5668,7 +5663,6 @@
         }
       ],
       "openQuestions": [
-        "Note on the entry above, added 2026-10-06: it is a truncated paste of the verifier's refutation of citation 9 and is kept as it stands because it is part of the audit trail. The full text of that refutation is in the refutedBecause field of the Sushruta Sharirasthana 3 entry. The refutation is unaffected by this revision, except that a public-domain English rendering of the Charaka parallel is now available and has been added, which the refutation's note said did not exist.",
         "Why Kaviratna's aphorism numbering diverges from the Sanskrit source's for the eighth-month passage (31 against 24) is unresolved, and so is whether the documented off-by-one offset in this translation extends to Sutrasthana 11, 17, 28 and 30 and Sharirasthana 4 and 7. Every Charaka location in this record is given as Kaviratna prints it for that reason."
       ]
     },
@@ -7087,8 +7081,7 @@
         }
       ],
       "openQuestions": [
-        "A relayed statement that 'Dr. Singh has given permission' accompanied this revision with no document, scope, rights holder or date, and no entry in data/sources/. It was not used to license any quotation and was not needed. Before any in-copyright translation is quoted anywhere in this project, that permission needs a source register entry naming grantor, work, scope and date.",
-        "Charaka Chikitsasthana 2 (vajikarana) is now legible in the same public-domain Kaviratna text derivative used for this record, and reading it would close the notKnown item this revision had to open. It is out of scope for a repair of this record but is cheap to do and would also serve the vajikarana term record.",
+        "Charaka Chikitsasthana 2 (vajikarana) is available in the same public-domain Kaviratna translation and has not yet been read for this record.",
         "Kaviratna's Lesson I contains further quotable material not drawn on here, including the chamber specification at aphorisms 17 to 23, the bhallataka preparations of the second pada, and shilajatu and metal rasayanas in the third, which bear on the unanswered long-term safety item in notKnown.",
         "Kaviratna's abstract of this part carries editorial claims in his own voice that should not be mistaken for the text, among them that no system of medicine except the Hindu gives such importance to the treatment of the healthy, and a footnote elsewhere glossing rasayanas as 'drugs prepared with the three myrobalans'. Flagged here because this record has already had one footnote absorbed as doctrine."
       ]
@@ -9671,7 +9664,7 @@
           "translator": "Kaviraj Kunja Lal Bhishagratna (1907)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/englishtranslati01susruoft/englishtranslati01susruoft_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Sushruta Samhita",
@@ -9883,7 +9876,7 @@
         }
       ],
       "openQuestions": [
-        "Citation 2 (Bhishagratna, 'An intelligent physician should preserve the state of health...') was refuted on location by the 2026-09-20 verifier: the verse is Sutrasthana 15.40, preceding the definition at 15.41, and no verse 42 exists in the Sanskrit presentations retrieved. The correction is applied in the entry and the full verifier text is preserved in its refutedBecause field."
+        "Citation 2 (Bhishagratna, 'An intelligent physician should preserve the state of health...') was refuted on location by the 2026-09-20 verifier: the verse is Sutrasthana 15.40, preceding the definition at 15.41, and no verse 42 exists in the Sanskrit presentations retrieved. The correction is applied in the entry."
       ]
     },
     {

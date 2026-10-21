@@ -968,7 +968,6 @@ Blood-letting for Kapha-Rakta conditions, localized edema, skin disorders.
   Actions: Antioxidant, Nootropic, Medhya (Nootropic)
 - [Adhaki](/herb/adhaki/) *Cajanus cajan (L.) Millsp.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kankshi](/herb/kankshi/) *Abrus precatorius L. (seed coat/outer coating)*
   Actions: Antioxidant, Hepatoprotective, Antitumor
 - [Amla](/herb/amla/) *Phyllanthus emblica (syn. Emblica officinalis)*
   Actions: Antioxidant, Neuroprotective, Rasayana

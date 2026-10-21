@@ -60,9 +60,9 @@
     "modified": "2026-10-09"
   },
   "concept/agni-and-digestion": {
-    "hash": "71dfece2aa15c588",
+    "hash": "7720836fcd8dd9b8",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/ahara-vidhi": {
     "hash": "f68ed87835e026de",
@@ -80,14 +80,14 @@
     "modified": "2026-10-08"
   },
   "concept/chikitsa-sutra": {
-    "hash": "a6a2addb60414233",
+    "hash": "61378438d789afb1",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/dhatu-formation": {
-    "hash": "146350e741814348",
+    "hash": "5ef4ff93f9bfaa3d",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/dinacharya-rationale": {
     "hash": "c93b21b06fba948f",
@@ -110,19 +110,19 @@
     "modified": "2026-10-08"
   },
   "concept/manas-in-health": {
-    "hash": "d2db508cc8df886d",
+    "hash": "7e389c003dac5040",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/nidana-panchaka": {
-    "hash": "cf37530b7b0fec9d",
+    "hash": "08c5ee060aff83be",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/ojas-and-immunity": {
-    "hash": "ca15b04c91a2752e",
+    "hash": "0d361d060ffda828",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/panchakarma-rationale": {
     "hash": "aca02ad4a7aa5498",
@@ -135,9 +135,9 @@
     "modified": "2026-10-20"
   },
   "concept/rasayana-theory": {
-    "hash": "b83ecc6521647bf0",
+    "hash": "504ed0d271caaf1b",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "concept/ritucharya-rationale": {
     "hash": "d6250046d44dced1",
@@ -170,9 +170,9 @@
     "modified": "2026-10-20"
   },
   "concept/swasthya-definition": {
-    "hash": "9994873658131679",
+    "hash": "00c26caac18a9ca8",
     "published": "2026-10-08",
-    "modified": "2026-10-08"
+    "modified": "2026-10-21"
   },
   "concept/tissue-need-and-lack": {
     "hash": "52e4b7d3b132244b",
@@ -1145,9 +1145,9 @@
     "modified": "2026-09-09"
   },
   "glossary/body-systems": {
-    "hash": "e10db2e94bfe6a22",
+    "hash": "07c140df12cda44c",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-1-a": {
     "hash": "827b86adb61fe01c",
@@ -1155,9 +1155,9 @@
     "modified": "2026-09-18"
   },
   "glossary/compounds-a-c": {
-    "hash": "32e6d7250f775739",
+    "hash": "a207603b96bce6d1",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-c-d": {
     "hash": "df663e43eb0f56c1",
@@ -1170,9 +1170,9 @@
     "modified": "2026-10-20"
   },
   "glossary/compounds-g-l": {
-    "hash": "d31d5addc1645129",
+    "hash": "329cfdba13f92308",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-l-o": {
     "hash": "26358e42f05a7d47",
@@ -1180,14 +1180,14 @@
     "modified": "2026-10-20"
   },
   "glossary/compounds-o-q": {
-    "hash": "2b6ef170c4e059e4",
+    "hash": "ff059be0b7905612",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-q-t": {
-    "hash": "16296ba3470ecf7e",
+    "hash": "1fe428a8c79eb3c6",
     "published": "2026-09-09",
-    "modified": "2026-09-18"
+    "modified": "2026-10-21"
   },
   "glossary/compounds-t-z": {
     "hash": "e231484ce353e553",
@@ -1195,9 +1195,9 @@
     "modified": "2026-09-18"
   },
   "glossary/concepts-a-m": {
-    "hash": "7d4bd30e9a5a1047",
+    "hash": "996345c0dd20d112",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/concepts-m-y": {
     "hash": "5313163f0ee58092",
@@ -1205,9 +1205,9 @@
     "modified": "2026-10-20"
   },
   "glossary/pharmacology": {
-    "hash": "2aeaf8b4536d83d2",
+    "hash": "df8025cca63cae00",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "glossary/plant-families": {
     "hash": "82eebe58b2020515",
@@ -1300,9 +1300,9 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "5c3fe10ebc688467",
+    "hash": "b15fa5a9e12db267",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "herb/abhraka-bhasma": {
     "hash": "aec05e50aa6687cc",
@@ -2335,9 +2335,9 @@
     "modified": "2026-10-20"
   },
   "herb/kankshi": {
-    "hash": "8965ce22ed748793",
+    "hash": "95869f530fcb3743",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "herb/kanmad-bhasma": {
     "hash": "aa28543792cdd63d",
@@ -3910,14 +3910,14 @@
     "modified": "2026-10-08"
   },
   "lexicon/ama": {
-    "hash": "9a02671761ab63da",
+    "hash": "c0565036ab6a2306",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/ama-visha": {
-    "hash": "3d836e26b9d5e7c5",
+    "hash": "6f679f5391791026",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/amla": {
     "hash": "e9244d747737f9f3",
@@ -4110,9 +4110,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/dhatu-sara": {
-    "hash": "d843a6e4c50c1c76",
+    "hash": "d478fb1d49145677",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/dhatvagni": {
     "hash": "efd5af9055e6e34d",
@@ -4135,9 +4135,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/dosha-gati": {
-    "hash": "c6407ec9e07a7a75",
+    "hash": "a518a1691871e93a",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/dosha-kshaya": {
     "hash": "b766311da503a60f",
@@ -4430,9 +4430,9 @@
     "modified": "2026-10-20"
   },
   "lexicon/manda-agni": {
-    "hash": "ea8f04f3398918d9",
+    "hash": "a50d8151b841b2f1",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/manovaha-srotas": {
     "hash": "8a5524069ae274f4",
@@ -4530,9 +4530,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/padartha": {
-    "hash": "60fc75c2d95c58d0",
+    "hash": "ba257e376f1701d8",
     "published": "2026-10-07",
-    "modified": "2026-10-07"
+    "modified": "2026-10-21"
   },
   "lexicon/panchakarma": {
     "hash": "ffdf53ae837ce7f2",
@@ -4925,9 +4925,9 @@
     "modified": "2026-10-08"
   },
   "lexicon/shukravaha-srotas": {
-    "hash": "05e816918da03369",
+    "hash": "828c38a4b6969c6d",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/sira-granthi": {
     "hash": "1e63207bae352dda",
@@ -4955,19 +4955,19 @@
     "modified": "2026-10-20"
   },
   "lexicon/srotamsi": {
-    "hash": "73d4862181930222",
+    "hash": "0708189e6ac8fbbc",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/srotas": {
-    "hash": "628372129cfeac3a",
+    "hash": "16db1e1eb54e2e71",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/srotodushti": {
-    "hash": "c3143068302c47c4",
+    "hash": "b316d6d3d2a15a15",
     "published": "2026-10-08",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "lexicon/stambhana": {
     "hash": "9e42e504a9babc98",
@@ -5460,9 +5460,9 @@
     "modified": "2026-10-17"
   },
   "reference": {
-    "hash": "ea170f9f41d42888",
+    "hash": "f5676be66018bf39",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-21"
   },
   "reference/adaptogenic": {
     "hash": "9bcbb64bd2d257ec",
@@ -5570,9 +5570,9 @@
     "modified": "2026-10-20"
   },
   "reference/fabaceae": {
-    "hash": "55c25867a8ff4165",
+    "hash": "ad432d7ca44f3ae6",
     "published": "2026-09-09",
-    "modified": "2026-10-11"
+    "modified": "2026-10-21"
   },
   "reference/fever-infection": {
     "hash": "818257d6298f1737",

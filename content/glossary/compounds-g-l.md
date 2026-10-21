@@ -59,7 +59,6 @@ answer: "Phytochemical compounds (G-L) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Kankshi](/herb/kankshi/), *Abrus precatorius L. (seed coat/outer coating)*
 - [Kanthasudharak Vati](/formulation/kanthasudharak-vati/)
 - [Madhuyashtyadi Thailam](/glossary/concepts-a-m/#madhuyashtyadi-thailam)
 - [Mahatriphala Ghrita](/glossary/concepts-a-m/#mahatriphala-ghrita)

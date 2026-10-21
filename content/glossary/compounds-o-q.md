@@ -981,7 +981,6 @@ answer: "Phytochemical compounds (O-Q) is a reference glossary of 73 entries dra
 
 - [Apamarga](/herb/apamarga/), *Achyranthes aspera L.*
 - [Kalyana Ksharam](/glossary/concepts-a-m/#kalyana-ksharam)
-- [Kankshi](/herb/kankshi/)
 - [Ksharasutra](/glossary/concepts-a-m/#ksharasutra)
 - [Kusha](/herb/kusha/)
 - [Mulaka](/herb/mulaka/)
@@ -1006,7 +1005,6 @@ answer: "Phytochemical compounds (O-Q) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Kalyana Ksharam](/glossary/concepts-a-m/#kalyana-ksharam)
-- [Kankshi](/herb/kankshi/)
 - [Yavakshara](/herb/yavakshara/)
 
 #### Often Found With

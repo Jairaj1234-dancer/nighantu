@@ -2454,7 +2454,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Saṃhitā (Sanskrit)",
@@ -2654,13 +2654,13 @@
           "text": "Charaka Saṃhitā with Cakrapāṇi's Āyurvedadīpikā (Sanskrit)",
           "sthana": "Sūtrasthāna",
           "chapter": "26",
-          "verse": "83 (prose)",
+          "verse": "84 (prose)",
           "establishes": "A second mūla occurrence: the cilicima fish taken with milk 'provokes āmaviṣa'. Confirms āmaviṣa is used in Charaka as something that can be provoked by a specific incompatible combination, not merely as a general state.",
           "quote": "sa hi mahābhiṣyanditvāt sthūlalakṣaṇatarān etān vyādhīn upajanayatyāmaviṣam udīrayati ca",
           "translator": "none (Sanskrit mūla)",
           "licenceBasis": "sanskrit-mula",
           "sourceUrl": "http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_agniveza-carakasaMhitA-parts-comm.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Saṃhitā (Sanskrit)",
@@ -9510,7 +9510,7 @@
           "sourceKind": "translation",
           "locator": "Sutrasthana XV, of ojas as the sāra of all the dhātus",
           "verbatim": true,
-          "assessment": "Bhishagratna uses 'quintessence' where Sushruta makes ojas the sāra of all seven. Sushruta has no eightfold sāra examination, so this is the only sense of sāra available in that translation.",
+          "assessment": "Bhishagratna uses 'quintessence' where Sushruta makes ojas the sāra of all seven. Sushruta's sāra examination is a separate passage, at Sutrasthana 35.",
           "licence": "cleared",
           "licenceNote": "Bhishagratna's Sushruta Samhita, 1907-1916",
           "downloadable": true
@@ -9603,13 +9603,13 @@
           "text": "Sushruta Samhita",
           "sthana": "Sutrasthana",
           "chapter": "15",
-          "verse": "prose section on ojas",
-          "establishes": "Sushruta's only use of the sāra idea: ojas as the essence of all seven dhātus. There is NO eightfold sāra examination in Sushruta Sutrasthana 15; the constitutional method is Charaka's. This is a real difference between the two samhitas.",
+          "verse": "19 (Bhishagratna, Chap. XV, p. 130)",
+          "establishes": "Sushruta's use of sāra for ojas, the essence of all seven dhātus. This is separate from Sushruta's sāra examination, which comes at Sutrasthana 35, where Bhishagratna translates the traits of each preponderant principle (Sara).",
           "quote": "The quintessence of all the fundamental principles of the body, starting with lymph chyle and ending with semen, is called the Ojas, which is identical with what is termed \"vital power.\"",
           "translator": "Kunja Lal Bhishagratna (1907-1916)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/b24758619_0001/b24758619_0001_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         }
       ],
       "distinguishFrom": [
@@ -9669,7 +9669,7 @@
         "Kaviratna's marginal verse numbers in this section run 116-128 while carakasamhitaonline cites the sāra section as Vi 8/102 ff. Roughly a fourteen-verse offset in this chapter alone. No verse number in this record should be treated as verified.",
         "No study reports interrater reliability for sāra assessment. Given that the project's own reconnaissance records kappa of 0.28 for prakriti assessment, the prior for sāra is poor and nobody has measured it.",
         "Whether sāra classification predicts anything independent of body habitus has not been tested. Charaka's own argument is that it should, since he explicitly rejects body size as an index of strength - which makes it a testable claim that has never been tested.",
-        "Sushruta has no eightfold sāra examination in the chapter retrieved. Whether it appears elsewhere in Sushruta was not checked."
+        "Sushruta's sāra examination (Sutrasthana 35) has not been compared item by item with Charaka's eightfold list."
       ]
     },
     {
@@ -10554,15 +10554,15 @@
         },
         {
           "text": "Charaka Samhita",
-          "sthana": "",
-          "chapter": "",
-          "verse": "48",
-          "establishes": "Kaviratna's own gloss on śākhā and asthi-sandhi, the terms in Charaka Sutrasthana 17/113's third gati. Quotable in English and useful because it shows śākhā means the dhātus and skin, not 'the limbs' as is often assumed. The sthana and chapter of the passage this footnote attaches to were not pinned down in the OCR and are left blank rather than guessed.",
+          "sthana": "Sutrasthana",
+          "chapter": "11 (Tistraishaniya)",
+          "verse": "48 (translator's footnote, pp. 127-128)",
+          "establishes": "Kaviratna's own gloss on mārga, śākhā and asthi-sandhi, in his footnote to the three pathways of disease (Sutrasthana 11.48). The same terms name the third gati in Sutrasthana 17/113. Quotable in English and useful because it shows śākhā means the dhātus and skin, not 'the limbs' as is often assumed.",
           "quote": "‘Cakha’ literally means branch. As a techinacal word in medical science, it implies, as explained in the text, blood and the like, the humours and the skin. Of course, it includes flesh, marrow, fat, bones, and seminal fluid. ... ‘Asthi-sandhi’ is, literally, bone-joints.",
           "translator": "Avinash Chandra Kaviratna (translator's footnote)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         }
       ],
       "distinguishFrom": [
@@ -21018,7 +21018,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Aṣṭāṅga Hṛdaya (Sanskrit)",
@@ -24654,7 +24654,7 @@
           "translator": "K. L. Bhishagratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.327618 (page image leaf n821, printed p. 757)",
-          "checked": "refuted-then-declined"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -24691,7 +24691,7 @@
           "translator": null,
           "licenceBasis": null,
           "sourceUrl": "https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary/d/doc427557.html",
-          "checked": "refuted-then-declined"
+          "checked": "address only, nothing quoted to check"
         }
       ],
       "distinguishFrom": [
@@ -38659,7 +38659,7 @@
           "english": "The two semen-carrying Srotas (ducts)",
           "sourceName": "Kaviraj Kunja Lal Bhishagratna, Sushruta Samhita (1911)",
           "sourceKind": "public-domain translation",
-          "locator": "Śārīrasthāna IX.11–12",
+          "locator": "Śārīrasthāna IX (Sanskrit 9.12)",
           "verbatim": true,
           "assessment": null,
           "licence": "cleared",
@@ -38707,25 +38707,25 @@
           "text": "Suśruta Saṃhitā",
           "sthana": "Śārīra Sthāna",
           "chapter": "9",
-          "verse": "11–12 (Bhishagratna); cited as 9/12 elsewhere",
+          "verse": "12 (Sanskrit numbering)",
           "establishes": "Suśruta's root = BREASTS and testes, not penis. This is the textual hinge that connects śukravaha and stanyavaha (see that record): at Śā.9 Suśruta says the same pair of dhamanīs carries milk in women and śukra in men.",
           "quote": "The two semen-carrying Srotas (ducts) have their roots in the breasts and the testes. An injury to any of them leads to loss of manhood, delayed emission of semen, or blood-streaked character of that fluid.",
           "translator": "Kaviraj Kunja Lal Bhishagratna (1911)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://www.wisdomlib.org/hinduism/book/sushruta-samhita-volume-3-sharirasthana/d/doc142889.html",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Suśruta Saṃhitā",
           "sthana": "Śārīra Sthāna",
           "chapter": "9",
-          "verse": "4 (Bhishagratna's numbering; the Sanskrit is numbered ॥५॥)",
+          "verse": "5 (Sanskrit numbering)",
           "establishes": "Explains Suśruta's otherwise baffling 'roots in the breasts': one pair of upward-coursing dhamanīs is milk-carrying in women and śukra-carrying in men.",
           "quote": "two of them (ducts), attached to the breasts of a woman, carry milk of her breasts, which, coursing through the breast of a man, convey his seminal fluid.",
           "translator": "Kaviraj Kunja Lal Bhishagratna (1911)",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://www.wisdomlib.org/hinduism/book/sushruta-samhita-volume-3-sharirasthana/d/doc142889.html",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         }
       ],
       "distinguishFrom": [
@@ -38761,7 +38761,6 @@
         }
       ],
       "openQuestions": [
-        "Reconcile the Bhishagratna verse numbering (9/4, 9/11–12) with the Sanskrit editions' (9/5, 9/12) across the whole chapter.",
         "Is śukravaha srotas in Caraka intended as male-only, given that śukra is elsewhere said to pervade the whole body in both sexes?"
       ]
     },
@@ -39728,7 +39727,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -39883,7 +39882,7 @@
           "translator": "none (Sanskrit mula text)",
           "licenceBasis": "sanskrit-mula",
           "sourceUrl": "https://www.carakasamhitaonline.com/index.php?title=Sroto_Vimana&action=raw",
-          "checked": "refuted"
+          "checked": "checked against the source"
         },
         {
           "text": "Charaka Samhita",
@@ -40158,7 +40157,7 @@
           "translator": "Avinash Chandra Kaviratna",
           "licenceBasis": "cleared-translation",
           "sourceUrl": "https://archive.org/stream/BIUSante_47357/BIUSante_47357_djvu.txt",
-          "checked": "refuted"
+          "checked": "corrected against the source"
         }
       ],
       "distinguishFrom": [

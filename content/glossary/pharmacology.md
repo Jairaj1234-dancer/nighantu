@@ -124,7 +124,6 @@ answer: "Pharmacology terms is a reference glossary of 10 entries drawn from the
 - [Akshotaka](/herb/akshotaka/), *Juglans regia L.*
 - [Ankola](/herb/ankola/), *Alangium salviifolium (L.f.) Wangerin*
 - [Chhatraka](/herb/chhatraka/), *Agaricus campestris L.*
-- [Kankshi](/herb/kankshi/), *Abrus precatorius L. (seed coat/outer coating)*
 - [Karela](/herb/karela/)
 - [Kasani](/herb/kasani/), *Cichorium intybus L.*
 - [Laung](/herb/laung/), *Syzygium aromaticum*
