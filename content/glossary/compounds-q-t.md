@@ -1014,7 +1014,6 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 #### Ayurveda
 
 - [Kalyana Ksharam](/glossary/concepts-a-m/#kalyana-ksharam)
-- [Kankshi](/herb/kankshi/), *Abrus precatorius L. (seed coat/outer coating)*
 - [Yavakshara](/herb/yavakshara/)
 
 #### Often Found With

@@ -1105,7 +1105,6 @@ answer: "Phytochemical compounds (A-C) is a reference glossary of 73 entries dra
 
 - [Agnijara](/herb/agnijara/)
 - [Hajrul Yahood Bhasma](/herb/hajrul-yahood-bhasma/)
-- [Kankshi](/herb/kankshi/)
 - [Kukkutanda Twak Bhasma](/herb/kukkutanda-twak-bhasma/)
 - [Mukta Pishti](/herb/mukta-pishti/)
 - [Pravala Pishti](/herb/pravala-pishti/)

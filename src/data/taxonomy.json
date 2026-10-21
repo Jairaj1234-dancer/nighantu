@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-10-12",
+ "updatedAt": "2026-10-21",
  "sources": [
   "GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
   "Wikidata, https://www.wikidata.org/",
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 284,
-  "resolved": 284,
-  "exact": 277,
+  "botanicals": 283,
+  "resolved": 283,
+  "exact": 276,
   "fuzzy": 1,
   "higherRank": 6,
   "synonyms": 36,
   "notFound": 0,
-  "withWikidata": 269,
-  "withNcbiTaxid": 276
+  "withWikidata": 268,
+  "withNcbiTaxid": 275
  },
  "taxa": [
   {
@@ -78,34 +78,6 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q50826380",
    "ncbiTaxid": ""
-  },
-  {
-   "query": "Abrus precatorius",
-   "pages": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "asPublished": "Abrus precatorius L. (seed coat/outer coating)"
-    }
-   ],
-   "status": "ok",
-   "gbifKey": 5348711,
-   "scientificName": "Abrus precatorius L.",
-   "canonicalName": "Abrus precatorius",
-   "rank": "SPECIES",
-   "taxonomicStatus": "ACCEPTED",
-   "matchType": "EXACT",
-   "confidence": 97,
-   "kingdom": "Plantae",
-   "family": "Fabaceae",
-   "order": "Fabales",
-   "genus": "Abrus",
-   "acceptedName": "",
-   "acceptedKey": null,
-   "checkedAt": "2026-09-12",
-   "wikidata": "Q190887",
-   "ncbiTaxid": "3816"
   },
   {
    "query": "Abutilon indicum",
@@ -1211,6 +1183,12 @@
      "slug": "vamsha",
      "title": "Vamsha",
      "asPublished": "Bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "asPublished": "Bambusa bambos (the source plant; the drug is the siliceous concretion from its internodes, not the plant)"
     }
    ],
    "status": "ok",

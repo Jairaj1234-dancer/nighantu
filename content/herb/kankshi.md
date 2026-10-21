@@ -3,93 +3,39 @@ title: "Kankshi"
 slug: "kankshi"
 kind: "herb"
 section: "Ayurveda"
-category: "Herbs"
-subcategory: "Single-Herbs"
-group: "General-Herbs"
-answer: "Kankshi (Abrus precatorius L. (seed coat/outer coating)) is a plant drug, also called Raktika, Ghumghaci and Gumja, from the Fabaceae (Leguminosae) family. WHO has issued warnings about Abrus precatorius toxicity; not recommended for unsupervised use in any medical system; listed in poison databases globally."
-botanical: "Abrus precatorius L. (seed coat/outer coating)"
-family: "Fabaceae (Leguminosae)"
+category: "Others"
+subcategory: "Salts-Minerals-Metals"
+group: "Kankshi"
+answer: "Kankshi is a Sanskrit name for alum (potassium aluminium sulfate), the mineral better known in Ayurveda as Sphatika or Sphatikari and in Hindi as Phitkari. It is a mineral, not a plant. Its calcined form, used internally, is described on the Sphatika Bhasma page."
+botanical: ""
+family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "WHO has issued warnings about Abrus precatorius toxicity; not recommended for unsupervised use in any medical system; listed in poison databases globally"
-aliases: ["Abrus precatorius L. (seed coat/outer coating)"]
-tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+whoStatus: ""
+aliases: []
+tags: ["ayurveda", "mineral", "safety-concern"]
+sources: ["Rasashastra mineral nomenclature (synonyms of Sphatika)"]
 productHints: []
-words: 563
+words: 170
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankshi/meta-analysis.md"
 ---
 ## Names and identification
 
 | Language | Name |
 |----------|------|
-| English | Kankshi |
-| Latin/Botanical | *Abrus precatorius L. (seed coat/outer coating)* |
+| English | Alum (potash alum) |
+| Sanskrit | Kankshi, Sphatika, Sphatikari |
+| Hindi | Phitkari |
+| Chemical | Potassium aluminium sulfate, KAl(SO4)2·12H2O |
 
-## Key Phytochemical Constituents
+Kankshi is a mineral. It is a different substance from Gunja (*Abrus precatorius*), the toxic seed also called Raktika, and nothing said about Gunja applies to it.
 
-- Abrin (toxic lectin - primarily in seed kernel, not seed coat)
-- [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (sweetening compound)
-- Abrusoside A-D (triterpene [saponins](/reference/saponins/))
-- Abrusogenin
-- Abruquinones D, E, F (isoflavanquinones)
-- [Luteolin](/glossary/compounds-l-o/#luteolin), [orientin](/glossary/compounds-o-q/#orientin), [isoorientin](/glossary/compounds-g-l/#isoorientin) ([flavonoids](/reference/flavonoids/))
+## How is it used?
 
-## How does it work?
-
-- [Antitumor](/glossary/pharmacology/#antitumor) activity via abrin-mediated ribosome inactivation and inhibition of protein synthesis (ricin-like mechanism) - extremely narrow therapeutic window
-- Anti-inflammatory action through [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-mediated inhibition of phospholipase A2 and 11-beta-hydroxysteroid dehydrogenase
-- [Immunomodulatory](/reference/immunomodulatory/) effect through polysaccharide-mediated activation of macrophages and complement system
-- [Antimicrobial](/reference/antimicrobial/) activity via abruquinone-mediated disruption of bacterial and fungal cell processes
-
-## Which traditional uses are supported by research?
-
-*These summaries come from the source notes, which do not name the studies behind them.*
-
-- Sweetener and demulcent (Madhura): traditionally used as a sweetener and demulcent. Its [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) and abrusoside content has been reported to be far sweeter than [sucrose](/glossary/compounds-q-t/#sucrose), with possible pharmaceutical applications.
-- Anti-inflammatory (Shotha-hara): traditionally used for inflammation. Several studies have reported anti-inflammatory activity linked to [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin).
-- Hair care and external applications: traditionally used in hair oil preparations made with purified seeds. Antimicrobial activity has been reported.
-- Contraceptive (Garbha-nirodha): traditionally used as a contraceptive. Animal studies have reported antifertility activity, but it is considered too toxic for safe human use.
-
-## What do recent studies show?
-
-- Qian H, Wang L, Li Y and others 2022. [The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/35714881/). *Journal of ethnopharmacology*. PMID [35714881](https://pubmed.ncbi.nlm.nih.gov/35714881/) · [doi:10.1016/j.jep.2022.115463](https://doi.org/10.1016/j.jep.2022.115463)  
-  Identified over 166 chemical compounds covering flavonoids, phenolics, [terpenoids](/glossary/compounds-t-z/#terpenoids), [alkaloids](/glossary/compounds-1-a/#alkaloids), and [proteins](/glossary/compounds-o-q/#proteins); documented wide range of pharmacological functions including antitumor, antimicrobial, and immunomodulatory activities.
-
-*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
+- Raw alum is used externally, as a powder or a solution, for its astringent action.
+- For internal use it is first calcined into [Sphatika Bhasma](/herb/sphatika-bhasma/), which is taken only in small doses under a practitioner's supervision.
 
 ## Recent safety updates
 
-- EXTREMELY TOXIC - Abrin in seed kernels is one of the most toxic naturally occurring substances; fatal dose as low as 0.1-1 microgram/kg IV; the hard seed coat prevents toxin release when seeds are swallowed whole
-- In Ayurvedic practice, only the purified (Shodhit) seed coat or processed preparations are used; raw crushed seeds are lethal and have caused numerous fatalities worldwide
-- Classified as a potential bioterrorism agent; handling crushed seeds requires extreme caution; any Ayurvedic use must follow strict Shodhana protocols under expert supervision
-
-## Dosage forms and preparation
-
-**Dosage Forms:** Churna (powder), Bhasma (calcined ash), Kshara (alkali preparation), Capsule, External paste
-
-**Bioavailability:** Mineral-rich alkaline preparation. Kshara form provides highly bioavailable [potassium](/glossary/compounds-o-q/#potassium) and calcium salts. Absorption enhanced when taken with acidic media (lemon juice, Amalaki juice). Chelated mineral forms show superior absorption compared to raw mineral preparations.
-
-**Optimal Timing:** After meals with warm water or honey; Kshara formulations best taken between meals
-
-**Standardized Extract:** Kshara preparation standardized to minimum 70% water-soluble alkaline salts; pH 9.5-11.0; potassium carbonate content >40%
-
-**Shelf Life:** 36 months for Kshara preparations; 24 months for powder; indefinite for properly prepared Bhasma
-
-**Storage:** Store in airtight, moisture-proof glass or HDPE containers. Kshara is highly hygroscopic, desiccant packets required. Keep at 15-30°C away from moisture.
-
-**Marker Compounds:** Potassium carbonate, Potassium hydroxide, Calcium carbonate, Sodium carbonate, Trace minerals (iron, zinc, [manganese](/glossary/compounds-l-o/#manganese))
-
-### Extraction Methods
-
-- Calcination (Shodhana and Marana for Bhasma preparation)
-- Aqueous extraction of alkaline salts
-- Traditional Kshara preparation by leaching plant ash
-- Filtration and evaporation for concentrated Kshara
-
-### Synergistic Combinations
-
-- [Yavakshara](/herb/yavakshara/), traditionally combined in formulations for urinary calculi
-- [Shankha Bhasma](/herb/shankha-bhasma/), traditionally combined in formulations for acid-peptic complaints
-- [Apamarga](/herb/apamarga/) Kshara for surgical applications (Kshara Sutra)
-- [Haritaki](/herb/haritaki/) for digestive support
+- Raw alum is astringent and can irritate the stomach and gut when swallowed.
+- It contains aluminium. The safety notes on [Sphatika Bhasma](/herb/sphatika-bhasma/), including the caution for people with impaired kidney function, apply to any internal use.
