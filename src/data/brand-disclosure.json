@@ -7,17 +7,17 @@
   "minCompaniesForAPreparationRow": 3,
   "wholeRange": {
     "measuredOn": "2026-10-09",
-    "pagesAttempted": 6099,
-    "pagesRead": 6097,
+    "pagesAttempted": 6088,
+    "pagesRead": 6086,
     "pagesThatCouldNotBeRead": 2,
     "pagesRenderingClientSide": 11,
-    "pagesStatingADose": 2866,
+    "pagesStatingADose": 2865,
     "pagesStatingADoseQuantity": 1934,
-    "pagesGivingADirectionWithNoQuantity": 932,
+    "pagesGivingADirectionWithNoQuantity": 931,
     "pagesNamingIngredients": 1931,
-    "pagesStatingNeitherQuantityNorIngredients": 3258,
+    "pagesStatingNeitherQuantityNorIngredients": 3247,
     "pagesCitingTheFormulary": 3,
-    "pagesCitingAnyAuthority": 312,
+    "pagesCitingAnyAuthority": 311,
     "slugMatcherMissesFoundByTitle": 31,
     "pagesWithNoFormularyNameInTheSlug": 5594
   },
@@ -261,15 +261,15 @@
       "pagesUnreadable": 0,
       "preparationsSold": 16,
       "range": {
-        "pagesRead": 123,
-        "pagesAttempted": 123,
+        "pagesRead": 112,
+        "pagesAttempted": 112,
         "pagesWithQuantities": 0,
         "pagesWithListOnly": 0,
-        "pagesWithNeither": 123,
+        "pagesWithNeither": 112,
         "pagesUnreadable": 0,
-        "pagesStatingADose": 12,
+        "pagesStatingADose": 11,
         "pagesCitingTheFormulary": 0,
-        "pagesCitingAnyAuthority": 1
+        "pagesCitingAnyAuthority": 0
       }
     },
     {
@@ -4473,6 +4473,7 @@
   ],
   "exclusions": {
     "file": "src/data/disclosure-exclusions.json",
-    "pagesExcluded": 29
+    "pagesExcludedFromFormularyNamePages": 29,
+    "pagesExcludedFromWholeRange": 11
   }
 }

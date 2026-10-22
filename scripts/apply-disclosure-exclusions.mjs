@@ -8,18 +8,21 @@
  * preparations sold, and each preparation's per-company state. It uses the generator's own rules
  * (best state, the count in that state, the three-company floor for a preparation row) and the
  * per-page states in the gitignored survey, data/brands/products.json, so it runs locally only.
- * The whole-range figures (wave 2) are a separate population and are not touched.
+ * The whole range (wave 2) loses only the exclusions marked for it, the blog articles: the other
+ * two kinds are real products that each company sells, filed under the wrong preparation.
  *
  *   node scripts/apply-disclosure-exclusions.mjs
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { buildMatcher } from './lib/formulation-names.mjs';
 
 const OUT = path.join('src', 'data', 'brand-disclosure.json');
 const SURVEY = process.env.BRANDS_DIR ?? path.join('data', 'brands');
 const data = JSON.parse(fs.readFileSync(OUT, 'utf8'));
-const EXCLUDED = new Set(JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8'))
-  .excluded.map((x) => x.url));
+const EXCLUSIONS = JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8')).excluded;
+const EXCLUDED = new Set(EXCLUSIONS.map((x) => x.url));
+const EXCLUDED_FROM_RANGE = new Set(EXCLUSIONS.filter((x) => x.appliesTo.includes('whole-range')).map((x) => x.url));
 const all = JSON.parse(fs.readFileSync(path.join(SURVEY, 'products.json'), 'utf8')).products;
 const kept = all.filter((p) => !EXCLUDED.has(p.url));
 const hit = all.length - kept.length;
@@ -66,6 +69,55 @@ data.preparations = data.preparations.filter((prep) => {
   return true;
 }).sort((a, b) => Object.keys(b.companies).length - Object.keys(a.companies).length || a.slug.localeCompare(b.slug));
 
-data.exclusions = { file: 'src/data/disclosure-exclusions.json', pagesExcluded: EXCLUDED.size };
+// ---------------------------------------------------------------- the whole range (wave 2)
+const w2 = JSON.parse(fs.readFileSync(path.join(SURVEY, 'products-wave2.json'), 'utf8')).products
+  .filter((p) => !EXCLUDED_FROM_RANGE.has(p.url));
+const read = (p) => p.outcome === 'read';
+const isListingPath = (u) => {
+  try {
+    const segs = String(u).replace(/^https?:\/\/[^/]+/, '').split('?')[0].split('/').filter(Boolean);
+    return segs.length <= 1 && (!segs.length || /^(products?|shop|collections?|catalogue|catalog)$/i.test(segs[0]));
+  } catch { return false; }
+};
+for (const c of data.companies) {
+  if (!c.range) continue;
+  const w2All = w2.filter((p) => p.brand === c.id);
+  const w2Product = w2All.filter(read).filter((p) => !isListingPath(p.url));
+  Object.assign(c.range, {
+    pagesRead: w2Product.length,
+    pagesAttempted: w2All.length,
+    pagesWithQuantities: w2Product.filter((p) => stateOf(p) === 'quantities').length,
+    pagesWithListOnly: w2Product.filter((p) => stateOf(p) === 'list').length,
+    pagesWithNeither: w2Product.filter((p) => stateOf(p) === 'neither').length,
+    pagesUnreadable: w2Product.filter((p) => stateOf(p) === 'unreadable').length,
+    pagesStatingADose: w2Product.filter((p) => (p.dose ?? {}).state === 'found').length,
+    pagesCitingTheFormulary: w2Product.filter((p) => (p.authorities ?? []).some((a) => a.id === 'afi')).length,
+    pagesCitingAnyAuthority: w2Product.filter((p) => (p.authorities ?? []).length > 0).length,
+  });
+}
+const afi = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8')).records;
+const match = buildMatcher(Object.entries(afi).map(([slug, r]) => ({ slug, names: [slug.replace(/-/g, ' '), r.entryHeading].filter(Boolean) })));
+Object.assign(data.wholeRange, {
+  pagesAttempted: w2.length,
+  pagesRead: w2.filter(read).length,
+  pagesThatCouldNotBeRead: w2.filter((p) => !read(p)).length,
+  pagesRenderingClientSide: w2.filter((p) => read(p) && stateOf(p) === 'unreadable').length,
+  pagesStatingADose: w2.filter((p) => read(p) && (p.dose ?? {}).state === 'found').length,
+  pagesStatingADoseQuantity: w2.filter((p) => read(p) && (p.dose ?? {}).states === 'quantity').length,
+  pagesGivingADirectionWithNoQuantity: w2.filter((p) => read(p) && (p.dose ?? {}).states === 'instruction').length,
+  pagesNamingIngredients: w2.filter((p) => read(p) && (p.composition ?? {}).state === 'found').length,
+  pagesStatingNeitherQuantityNorIngredients: w2.filter((p) => read(p)
+    && (p.dose ?? {}).states !== 'quantity' && (p.composition ?? {}).state !== 'found').length,
+  pagesCitingTheFormulary: w2.filter((p) => read(p) && (p.authorities ?? []).some((a) => a.id === 'afi')).length,
+  pagesCitingAnyAuthority: w2.filter((p) => read(p) && (p.authorities ?? []).length > 0).length,
+  slugMatcherMissesFoundByTitle: w2.filter((p) => read(p) && !p.matchedByName && match(String(p.productName ?? '')).length).length,
+  pagesWithNoFormularyNameInTheSlug: w2.filter((p) => read(p) && !p.matchedByName).length,
+});
+
+data.exclusions = {
+  file: 'src/data/disclosure-exclusions.json',
+  pagesExcludedFromFormularyNamePages: EXCLUDED.size,
+  pagesExcludedFromWholeRange: EXCLUDED_FROM_RANGE.size,
+};
 fs.writeFileSync(OUT, `${JSON.stringify(data, null, 2)}\n`);
-console.log(`excluded ${EXCLUDED.size} pages; ${data.preparations.length} preparation rows (${dropped} fell below ${MIN} companies)`);
+console.log(`excluded ${EXCLUDED.size} formulary-name pages and ${EXCLUDED_FROM_RANGE.size} whole-range pages; ${data.preparations.length} preparation rows (${dropped} fell below ${MIN} companies)`);
