@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Madhukarkati/meta-analys
 
 **Standard Dosage:** 5-10 g dried fruit powder per day; 50-100 mL juice daily; fresh fruit as dietary supplement as tolerated
 
-**Optimal Timing:** Morning on empty stomach for detoxification; between meals for digestive support; seed powder with meals
+**Optimal Timing:** Morning on empty stomach; between meals for digestive support; seed powder with meals
 
 **Storage:** Fresh fruit at 5-8 deg C. All dried preparations in airtight containers below 25 deg C. Seed powder under nitrogen to prevent oil rancidity. Protect spray-dried powder from moisture with [silica](/glossary/compounds-q-t/#silica) gel desiccant.
 

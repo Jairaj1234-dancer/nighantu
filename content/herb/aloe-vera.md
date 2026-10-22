@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for wound healing and anti-inflammatory action
+- With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) traditionally combined for wound care and inflammation
 - With [Guduchi](/herb/guduchi/) in Kumaryasava, traditionally used for liver and uterine health
 - With [Shatavari](/herb/shatavari/) for female reproductive health
 - With Ghrita (ghee) for Pitta pacification and internal lubrication

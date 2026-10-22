@@ -51,4 +51,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakamachi/meta-analysis.md"
 - With Bhringaraj for hepatoprotective action
 - With [Himsra](/herb/himsra/) (caper) for liver protection
 - With [Guduchi](/herb/guduchi/) for liver and immune support
-- With [Yashtimadhu](/herb/yashtimadhu/) for gastric ulcer protection
+- With [Yashtimadhu](/herb/yashtimadhu/), traditionally combined for gastric support

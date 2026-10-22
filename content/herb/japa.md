@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Japa/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With Bhringaraj for hair growth (external)
+- Traditionally combined with Bhringaraj for hair growth (external)
 - With Amalaki for [antioxidant](/reference/antioxidant/) action
 - With [Shatavari](/herb/shatavari/) for female reproductive health
 - With [Brahmi](/herb/brahmi/) oil for hair vitality (external)

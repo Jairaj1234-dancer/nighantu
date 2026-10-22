@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vasaka/meta-analysis.md"
 
 **Standard Dosage:** 10-20 mL fresh juice twice daily; 3-5 g powder twice daily; 50-100 mL decoction twice daily; standardized extract capsule 250-500 mg twice daily
 
-**Optimal Timing:** Before meals with honey for cough and respiratory conditions; morning and evening dosing
+**Optimal Timing:** Traditionally taken before meals with honey in cough and respiratory conditions; morning and evening dosing
 
 **Storage:** Identical to Vasa. Airtight, light-resistant containers at 15-25 deg C. Monitor vasicine/vasicinone ratio. Protect from oxidation.
 

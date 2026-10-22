@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Alabu/meta-analysis.md"
 
 **Standard Dosage:** 20-50ml fresh juice twice daily; 3-6g dried powder; as dietary vegetable (ad libitum)
 
-**Optimal Timing:** Fresh juice early morning on empty stomach for cardiovascular and metabolic benefits. Avoid at night (diuretic effect).
+**Optimal Timing:** Fresh juice traditionally taken early morning on an empty stomach. Avoid at night (diuretic effect).
 
 **Storage:** Fresh juice must be consumed within hours; refrigerate if necessary (2-8°C). Dried powder in airtight containers, cool and dry place.
 

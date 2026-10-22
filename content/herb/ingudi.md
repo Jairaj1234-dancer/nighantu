@@ -98,6 +98,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/herb/eranda/) Taila for joint pain (external)
-- With [Guggulu](/formulation/guggulu/) for anti-inflammatory action
-- With [Nimba](/herb/nimba/) for skin conditions
+- Traditionally combined with [Eranda](/herb/eranda/) Taila in external applications for joints
+- Traditionally combined with [Guggulu](/formulation/guggulu/) in inflammatory conditions
+- Traditionally combined with [Nimba](/herb/nimba/) in skin conditions

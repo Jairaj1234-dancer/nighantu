@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Lehams-Avalehas-Pastes/Gulakanda/
 
 **Standard Dosage:** 10-20 g (1-2 teaspoons) once or twice daily, as per Unani/Ayurvedic classical texts
 
-**Optimal Timing:** After meals as a digestive, or at bedtime for its cooling (Sheeta Virya) properties. Especially useful in Pitta conditions and summer season.
+**Optimal Timing:** After meals as a digestive, or at bedtime for its cooling (Sheeta Virya) properties. Traditionally used in Pitta conditions and in the summer season.
 
 **Storage:** Store in airtight glass jars in a cool, dry place. Sun-set preparation should be sealed after maturation. Temperature not exceeding 25°C. Refrigeration extends shelf life.
 

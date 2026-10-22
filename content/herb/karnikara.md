@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karnikara/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Shirisha](/herb/shirisha/) (Albizia lebbeck) for anti-allergic formulations
-- [Haridra](/herb/haridra/) for anti-inflammatory synergy
-- [Guduchi](/herb/guduchi/) for immunomodulation
-- [Manjistha](/herb/manjistha/) for blood purification
+- [Shirisha](/herb/shirisha/) (Albizia lebbeck), traditionally paired in formulations described as anti-allergic
+- [Haridra](/herb/haridra/), traditionally paired in formulations described as anti-inflammatory
+- [Guduchi](/herb/guduchi/), traditionally paired in formulations described as supporting immune function
+- [Manjistha](/herb/manjistha/), traditionally paired in formulations described as blood purifying

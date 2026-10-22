@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-12",
- "count": 284,
+ "updatedAt": "2026-10-22",
+ "count": 285,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -821,6 +821,11 @@
    "status": "ok",
    "taxid": "317856",
    "checkedAt": "2026-09-12"
+  },
+  "Malaxis acuminata": {
+   "status": "ok",
+   "taxid": "421261",
+   "checkedAt": "2026-10-22"
   },
   "Malaxis muscifera": {
    "status": "ok",

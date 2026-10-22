@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Haritaki (Terminalia chebula) is a plant drug, also called Abhaya, Kayastha and Pathya. No dedicated WHO monograph. Rich in phenolcarboxylic and tannic antioxidants (chebulagic acid, chebulinic acid, gallic acid, ellagic acid) that prevent oxidative stress and inhibit peroxide-induced reactions."
+answer: "Haritaki (Terminalia chebula) is a plant drug, also called Abhaya, Kayastha and Pathya. No dedicated WHO monograph. Rich in phenolcarboxylic and tannic antioxidants (chebulagic acid, chebulinic acid, gallic acid, ellagic acid) that show antioxidant activity in laboratory studies."
 botanical: "Terminalia chebula"
 family: "Combretaceae"
 sanskrit: ""
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 ## How does it work?
 
-- Rich in phenolcarboxylic and tannic antioxidants (chebulagic acid, chebulinic acid, gallic acid, ellagic acid) that prevent oxidative stress and inhibit peroxide-induced reactions.
+- Rich in phenolcarboxylic and tannic antioxidants (chebulagic acid, chebulinic acid, gallic acid, ellagic acid) that show antioxidant activity in laboratory studies.
 - Chebulagic acid and chebulinic acid exert [antioxidant](/reference/antioxidant/) effects via ROS scavenging and iron chelation.
 - [Neuroprotective](/reference/neuroprotective/): ellagic acid-containing extracts protect against H2O2-induced and amyloid-beta (Abeta25-35) toxicity in PC12 cells.
 - Anti-inflammatory effects attributed to chebulagic and gallic acid inhibition of inflammatory pathways.

@@ -68,7 +68,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 ## Recent safety updates
 
 - Unripe fruit has very high tannin content which may cause constipation and reduce mineral absorption if consumed in excess
-- Formal toxicity studies are limited; traditional use suggests safety at recommended Ayurvedic doses. Fruit calyx gum is used as traditional caulking material, indicating non-food uses also.
+- Formal toxicity studies are limited. Fruit calyx gum is used as traditional caulking material, indicating non-food uses also.
 
 ## What is it made of?
 

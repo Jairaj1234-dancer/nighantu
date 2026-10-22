@@ -50,6 +50,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Masi/meta-analysis.md"
 
 - [Triphala](/herb/triphala/) (iron absorption enhancement)
 - [Loha Bhasma](/herb/loha-bhasma/) (iron supplementation synergy)
-- [Mandura Bhasma](/herb/mandura-bhasma/) (anemia management)
+- [Mandura Bhasma](/herb/mandura-bhasma/) (traditionally combined for anemia)
 - Amalaki (vitamin C for iron absorption)
 - [Pippali](/herb/pippali/) (bioenhancer)

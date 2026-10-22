@@ -83,7 +83,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 **Standard Dosage:** 5-10g ground seed daily (in divided doses); 5-15ml oil daily; 1-2 softgel capsules (1000mg each); seed meal 10-20g
 
-**Optimal Timing:** Ground seed with meals (morning) for constipation and lipid management. Oil with food for omega-3 supplementation. Mucilage soaked overnight, consumed morning for prebiotic/laxative effect.
+**Optimal Timing:** Ground seed is usually taken with meals (morning) when used as a bulk laxative. Oil with food for omega-3 supplementation. Mucilage soaked overnight, consumed morning for prebiotic/laxative effect.
 
 **Storage:** Whole seeds: cool, dry place at room temperature. Oil: refrigerated after opening, amber glass or opaque containers, nitrogen-flushed headspace. Ground seed: refrigerate or freeze, use quickly.
 
@@ -91,7 +91,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Isabgol](/herb/isabgol/) (psyllium) for constipation and lipid management
-- With [Ashwagandha](/herb/ashwagandha/) for anti-inflammatory synergy
+- With [Isabgol](/herb/isabgol/) (psyllium), traditionally combined as a bulk laxative
 - With [Tila](/herb/tila/) (sesame) for balanced omega fatty acid supplementation
 - With [Haritaki](/herb/haritaki/) for digestive regularity

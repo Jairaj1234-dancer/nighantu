@@ -98,5 +98,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kanchanar/meta-analysis.md"
 
 - Guggulu (Commiphora mukul) in Kanchanar Guggulu for thyroid and lymphatic disorders
 - [Triphala](/herb/triphala/) for enhanced detoxification
-- [Varuna](/herb/varuna/) (Crataeva nurvala) for urinary calculi
+- [Varuna](/herb/varuna/) (Crataeva nurvala), traditionally combined for urinary calculi
 - [Punarnava](/herb/punarnava/) for lymphatic drainage

@@ -70,4 +70,4 @@ Charaka Samhita and Bhaishajya Ratnavali (circa 400-200 BCE origin).
 
 ### Synergistic Combinations
 
-- Key herbs: [Punarnava](/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Punarnava](/herb/punarnava/) (Boerhavia diffusa), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates a unique metabolite profile

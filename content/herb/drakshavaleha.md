@@ -88,4 +88,4 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 - Contains multiple synergistic ingredients as per classical formulation
 - With warm milk (Anupana) for enhanced Rasayana effect
 - With [Pippali](/herb/pippali/) Churna added for respiratory conditions
-- With [Sitopaladi Churna](/formulation/sitopaladi-churna/) for cough and cold management
+- Traditionally combined with [Sitopaladi Churna](/formulation/sitopaladi-churna/) for cough and cold

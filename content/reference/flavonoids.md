@@ -41,7 +41,7 @@ srcRel: "_Hub/Compounds/Flavonoids.md"
 - [Ingudi](/herb/ingudi/), *Balanites aegyptiaca (L.) Delile*
 - [Jalavetasa](/herb/jalavetasa/), *Vallisneria spiralis L. (aquatic medicinal plant grouped under Jalaj Aushadhi)*
 - [Jeeraka](/herb/jeeraka/), *Cuminum cyminum L.*
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kakajangha](/glossary/concepts-a-m/#kakajangha)
 - [Kakatikta](/herb/kakatikta/)
 - [Kakoli](/herb/kakoli/), *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*

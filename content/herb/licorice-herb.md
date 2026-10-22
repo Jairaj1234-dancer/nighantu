@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Licorice_Herb/meta-analysis.m
 
 **Standard Dosage:** 1-3 g root powder per day; 250-500 mg standardized extract (DGL) up to 3 times daily; 5-15 mL syrup 3 times daily. Limit continuous use to 4-6 weeks for [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin)-containing products.
 
-**Optimal Timing:** 30 minutes before meals for gastric protection (DGL); after meals for digestive comfort; between meals for adrenal support; before bed in warm milk for throat soothing
+**Optimal Timing:** 30 minutes before meals, traditionally to support gastric mucosal function (DGL); after meals for digestive comfort; between meals, traditionally for adrenal support; before bed in warm milk for throat soothing
 
 **Storage:** Store below 25 deg C in airtight containers. Root powder is hygroscopic; protect from moisture (RH below 55%). Soft extract should be stored in well-closed containers to prevent drying. Liquid forms at room temperature away from light.
 

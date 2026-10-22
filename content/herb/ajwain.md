@@ -93,6 +93,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 - With [Hingu](/herb/hingu/) (asafoetida) for carminative action and bloating
 - With Sunthi for nausea and digestive stimulation
-- With [Saindhava lavana](/herb/saindhava-lavana/) for colic relief
+- Traditionally combined with [Saindhava lavana](/herb/saindhava-lavana/) for colic
 - With [Ajmoda](/herb/ajmoda/) for enhanced digestive action
 - With [Jeeraka](/herb/jeeraka/) for post-meal digestive comfort

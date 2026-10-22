@@ -32,7 +32,7 @@ Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in t
 ## How does it work?
 
 - COX-2 and 5-LOX inhibition by [Dashamoola](/herb/dashamoola/) roots provides broad-spectrum anti-inflammatory action
-- Bioavailability enhancement by [Trikatu](/herb/trikatu/) (especially [Pippali](/herb/pippali/) and Maricha) increases systemic absorption of [glycosides](/glossary/compounds-g-l/#glycosides) by up to 50%
+- Bioavailability enhancement by [Trikatu](/herb/trikatu/) (especially [Pippali](/herb/pippali/) and Maricha) is described as increasing systemic absorption of [glycosides](/glossary/compounds-g-l/#glycosides)
 - [Vasa](/herb/vasa/) (Adhatoda vasica) and [Trikatu](/herb/trikatu/) components are traditionally used to support respiratory function
 - The Katutraya (three pungent herbs) is described classically as warming and is traditionally used for chronic Vata-Kapha disorders
 

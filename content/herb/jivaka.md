@@ -6,13 +6,13 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Jivaka (Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don) is a plant drug, from the Orchidaceae family. Not listed in WHO monographs; classified as endangered/critically endangered in IUCN categories; conservation priority species in Himalayan biodiversity programs."
-botanical: "Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don"
+answer: "Jivaka (Malaxis acuminata D. Don) is a plant drug, from the Orchidaceae family. The Ayurvedic Pharmacopoeia of India identifies Jivaka as Malaxis acuminata and its Ashtavarga pair Rishabhaka as Malaxis muscifera; some research papers swap the two. Not listed in WHO monographs; classified as endangered/critically endangered in IUCN categories; conservation priority species in Himalayan biodiversity programs."
+botanical: "Malaxis acuminata D. Don"
 family: "Orchidaceae"
 sanskrit: ""
 ayurvedicCategory: ""
 whoStatus: "Not listed in WHO monographs; classified as endangered/critically endangered in IUCN categories; conservation priority species in Himalayan biodiversity programs"
-aliases: ["Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don"]
+aliases: []
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
@@ -24,7 +24,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jivaka/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Jivaka |
-| Latin/Botanical | *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don* |
+| Latin/Botanical | *Malaxis acuminata* D. Don |
+| Family | Orchidaceae |
+| Official substitute | [Vidari](/herb/vidari/) (*Pueraria tuberosa*) |
+
+Jivaka belongs to the Ashtavarga and is paired with [Rishabhaka](/herb/rishabhaka/). The Ayurvedic Pharmacopoeia of India identifies Jivaka as *Malaxis acuminata* and Rishabhaka as *Malaxis muscifera*, with Vidari as the official substitute for both, as tabulated in Virk JK and others 2017, [Ashtawarga plants: suffering a triple standardization syndrome](https://pubmed.ncbi.nlm.nih.gov/29034185/), *Journal of Traditional and Complementary Medicine*. Some research papers assign the two species the other way round.
 
 ## Key Phytochemical Constituents
 

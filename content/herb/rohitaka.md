@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Rohitaka/meta-analysis.md
 
 **Standard Dosage:** 3-6 g bark powder per day; 50-100 mL kwatha twice daily; 500-1000 mg standardized extract capsule twice daily
 
-**Optimal Timing:** Before meals on an empty stomach for hepatoprotective action; morning and evening doses recommended
+**Optimal Timing:** Traditionally taken before meals on an empty stomach; morning and evening doses recommended
 
 **Storage:** Store below 25 deg C in airtight containers. Kwatha must be refrigerated (2-8 deg C) after opening. Protect from light; flavonoids are photosensitive.
 

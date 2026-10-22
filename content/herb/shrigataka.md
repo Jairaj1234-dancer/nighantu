@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shrigataka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Water chestnut is widely consumed as a starchy food across Asia with excellent dietary safety profile and long history of culinary use
+- Water chestnut is widely consumed as a starchy food across Asia with a long history of culinary use
 - Plants grown in contaminated water may accumulate heavy metals (arsenic, cadmium); source verification is important for safety
 - Raw consumption not recommended due to risk of fasciolopsiasis (intestinal fluke infection); cooking eliminates this parasitic risk; no significant drug interactions documented
 

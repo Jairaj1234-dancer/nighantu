@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Mandukparni/meta-analy
 
 **Standard Dosage:** 10-20 mL fresh juice daily; 3-6 g powder per day; 500-1000 mg standardized extract daily; 5-10 g Ghrita preparation daily
 
-**Optimal Timing:** Morning on empty stomach for cognitive enhancement (Medhya effect); Ghrita preparation with warm milk at bedtime; topical application twice daily for wound healing
+**Optimal Timing:** Morning on empty stomach, traditionally as a Medhya drug; Ghrita preparation with warm milk at bedtime; topical application twice daily, traditionally on wounds
 
 **Storage:** Fresh plant refrigerated, process within 4 hours of harvest. Dried herb/extract below 25 deg C in airtight containers. Phytosome preparations in moisture-proof, nitrogen-flushed packaging. Ghrita in clean glass containers at room temperature. Protect all forms from light.
 

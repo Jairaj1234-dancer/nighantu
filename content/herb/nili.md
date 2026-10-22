@@ -100,4 +100,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Nili/meta-analysis.md"
 - Neeli + Amalaki (hair health formulation)
 - [Haridra](/herb/haridra/) (anti-inflammatory skin conditions)
 - [Manjistha](/herb/manjistha/) (blood purification and skin clarity)
-- Kumari/Aloe (enhanced wound healing)
+- Kumari/Aloe (traditionally combined for wound healing)

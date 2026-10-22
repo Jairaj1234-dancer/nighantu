@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Pashanabheda/meta-analysis.m
 
 **Standard Dosage:** 3-6 g powder twice daily; 20-40 mL decoction twice daily; 500 mg - 1 g standardized extract twice daily
 
-**Optimal Timing:** Between meals with plenty of water (minimum 250 mL) for urinary and lithotriptic effects. Morning dose preferred for [diuretic](/reference/diuretic/) action.
+**Optimal Timing:** Between meals with plenty of water (minimum 250 mL) to support urinary function. Morning dose preferred for [diuretic](/reference/diuretic/) action.
 
 **Storage:** Dried rhizome and powder: airtight containers, below 25 deg C, RH <55%, protected from light and pest infestation. Extracts: amber containers, cool and dry. Asava: amber glass, room temperature, improves with age.
 

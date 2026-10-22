@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 
 **Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb. Cilantro/[coriander](/herb/coriander/) leaves used as fresh herb primarily.
 
-**Optimal Timing:** Fresh juice early morning for detoxification; as culinary herb with meals; external paste as needed for skin conditions
+**Optimal Timing:** Fresh juice traditionally taken early morning; as culinary herb with meals; external paste as needed for skin conditions
 
 **Storage:** Fresh herb refrigerated at 2-5°C with damp paper towel in sealed bag. Dried leaves in airtight, light-protected containers. Freeze-dried product in nitrogen-flushed, moisture-proof packaging.
 

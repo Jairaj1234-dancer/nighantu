@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g gum resin powder per day; 50-100 mL bark decoction twice daily; 500 mg extract capsules twice daily; topical paste as directed
 
-**Optimal Timing:** Before meals for GI astringent effect; between meals for hemostatic action; topical application 2-3 times daily for wound healing
+**Optimal Timing:** Before meals for GI astringent effect; between meals for hemostatic action; topical application 2-3 times daily as traditionally used on wounds
 
 **Storage:** Gum resin in airtight containers at room temperature; hygroscopic, protect from moisture. Bark powder below 25 deg C. Capsules in blister packs with desiccant. Topical preparations at 15-25 deg C.
 
@@ -79,6 +79,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mochras/meta-analysis.md"
 
 - [Lodhra](/herb/lodhra/) (hemostatic and astringent synergy)
 - Nagkesara (hemostatic combination)
-- Praval Pishti (astringent and cooling for bleeding disorders)
-- [Ashoka](/herb/ashoka/) (uterine tonic and menorrhagia)
+- Praval Pishti (traditionally combined as astringent and cooling for bleeding conditions)
+- [Ashoka](/herb/ashoka/) (traditionally combined as a uterine tonic for heavy menstrual bleeding)
 - Kutaja (antidiarrheal combination)

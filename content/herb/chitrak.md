@@ -101,4 +101,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 - With [Pippali](/herb/pippali/) for Agni (digestive fire) enhancement
 - With [Vidanga](/herb/vidanga/) for Krimi (parasitic infection) management
 - With Shunthi for Ama (metabolic toxin) digestion
-- With [Guduchi](/herb/guduchi/) for autoimmune modulation

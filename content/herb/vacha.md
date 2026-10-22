@@ -169,4 +169,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vacha/meta-analysis.md
 - Shankhapushpi (Convolvulus pluricaulis) - cognitive enhancement combination
 - [Jatamansi](/herb/jatamansi/) (Nardostachys jatamansi) - calming and memory-enhancing synergy
 - [Ashwagandha](/herb/ashwagandha/) - [adaptogenic](/reference/adaptogenic/) and neuroprotective combination
-- Honey as anupana - facilitates CNS penetration per traditional texts
+- Honey as anupana

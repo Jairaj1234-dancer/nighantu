@@ -94,5 +94,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 - Maricha ([Black pepper](/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
 - [Vacha](/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
-- [Vidanga](/herb/vidanga/) for parasitic and congestive conditions
-- [Apamarga](/herb/apamarga/) for Nasya combinations in sinusitis
+- [Vidanga](/herb/vidanga/) in classical combinations
+- [Apamarga](/herb/apamarga/) in classical Nasya combinations

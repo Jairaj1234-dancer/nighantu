@@ -16,7 +16,7 @@ answer: "Phytochemical compounds (G-L) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*
 - [Somavalli](/herb/somavalli/)

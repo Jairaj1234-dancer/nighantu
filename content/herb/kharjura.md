@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kharjura/meta-analysis.m
 
 ## Recent safety updates
 
-- Dates are a widely consumed food with an excellent safety profile; high sugar content warrants moderation in diabetic patients
+- Dates are a widely consumed food; high sugar content warrants moderation in diabetic patients
 - Date seed extracts and pollen have shown no significant toxicity in preclinical studies; however, high caloric density should be considered in metabolic conditions
 
 ## Dosage forms and preparation
