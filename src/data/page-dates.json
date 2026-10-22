@@ -20,14 +20,14 @@
     "modified": "2026-09-17"
   },
   "choosing/citing-the-classical-texts": {
-    "hash": "5c8e5cb333942312",
+    "hash": "ad9b58f846cd5a3d",
     "published": "2026-10-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "choosing/label-dose-against-the-formulary": {
-    "hash": "c401391559ac8a48",
+    "hash": "7ccfc8a10f23334e",
     "published": "2026-10-09",
-    "modified": "2026-10-09"
+    "modified": "2026-10-22"
   },
   "choosing/one-herb-several-names": {
     "hash": "a1f153fc9bcb73e4",
@@ -110,9 +110,9 @@
     "modified": "2026-10-21"
   },
   "concept/manas-in-health": {
-    "hash": "d3b384ace1ff6ac6",
+    "hash": "a75d3fa1fc5ef60f",
     "published": "2026-10-08",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "concept/nidana-panchaka": {
     "hash": "537b9d93b8c34d18",
@@ -420,7 +420,7 @@
     "modified": "2026-10-11"
   },
   "formulation": {
-    "hash": "fa0ee49706f91ad0",
+    "hash": "49b987d3893097ea",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -500,7 +500,7 @@
     "modified": "2026-10-21"
   },
   "formulation/arishtaka": {
-    "hash": "897f1d7667bcd021",
+    "hash": "299cecf66066798c",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -1150,9 +1150,9 @@
     "modified": "2026-10-21"
   },
   "glossary/compounds-1-a": {
-    "hash": "405361161bc16d38",
+    "hash": "293e4414054a2297",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "glossary/compounds-a-c": {
     "hash": "a207603b96bce6d1",
@@ -1170,12 +1170,12 @@
     "modified": "2026-10-22"
   },
   "glossary/compounds-g-l": {
-    "hash": "06b844b91f51e850",
+    "hash": "bbefcd75a46da362",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
   "glossary/compounds-l-o": {
-    "hash": "f76ff9653413f629",
+    "hash": "faa896d1b7b22b21",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -1185,7 +1185,7 @@
     "modified": "2026-10-22"
   },
   "glossary/compounds-q-t": {
-    "hash": "1944c817e8e1bcf1",
+    "hash": "e7609b041b65bf57",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -1200,9 +1200,9 @@
     "modified": "2026-10-21"
   },
   "glossary/concepts-m-y": {
-    "hash": "b3ba507353403125",
+    "hash": "c09e2f74781fc37f",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "glossary/pharmacology": {
     "hash": "c70b14f7eeddf302",
@@ -1210,7 +1210,7 @@
     "modified": "2026-10-22"
   },
   "glossary/plant-families": {
-    "hash": "60770dbc15a74184",
+    "hash": "1b850ccded97363d",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -1300,7 +1300,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "1bc1fb03dfab2f3f",
+    "hash": "6c29448fd48d9b82",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -2510,7 +2510,7 @@
     "modified": "2026-10-21"
   },
   "herb/kshavaka": {
-    "hash": "6bfc14963265e13d",
+    "hash": "26e0757b5daf01f9",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -3500,9 +3500,9 @@
     "modified": "2026-10-21"
   },
   "herb/tanduliyaka": {
-    "hash": "69f67666aa60e684",
+    "hash": "41d9a1fad5d2b8de",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "herb/tankana-bhasma": {
     "hash": "4dd11a7f930d2e10",
@@ -3705,7 +3705,7 @@
     "modified": "2026-10-22"
   },
   "herb/vasant-kusumakar-rasa": {
-    "hash": "6b593227e0469550",
+    "hash": "26020467efd4d09a",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -5460,7 +5460,7 @@
     "modified": "2026-10-17"
   },
   "reference": {
-    "hash": "1ce2d6b5360976e0",
+    "hash": "e51f2116a891326e",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -5620,14 +5620,14 @@
     "modified": "2026-10-20"
   },
   "reference/kidney-urinary": {
-    "hash": "dcb51b1b5315654f",
+    "hash": "e85fc412783c04ff",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "reference/kidney-urinary-across-traditions": {
-    "hash": "ce2dfa347bf00e07",
+    "hash": "ac40d9c12b0a6b26",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "reference/laxative": {
     "hash": "7c978bc30caa3781",
@@ -5670,9 +5670,9 @@
     "modified": "2026-10-20"
   },
   "reference/quercetinquercetin": {
-    "hash": "4dc994480ae35ba9",
+    "hash": "5ba0442de7138d2f",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "reference/rasayana": {
     "hash": "a07075827eec8af9",
@@ -5690,9 +5690,9 @@
     "modified": "2026-10-11"
   },
   "reference/saponins": {
-    "hash": "7a5b34d951be5114",
+    "hash": "5685f1b342e84186",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "reference/skin-beauty": {
     "hash": "9c3042be07776e56",
@@ -5700,14 +5700,14 @@
     "modified": "2026-10-22"
   },
   "reference/stigmasterol": {
-    "hash": "ab63a4141eef9688",
+    "hash": "33156fbc08f72e05",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "reference/tannins": {
-    "hash": "cf3bd6cd439a740f",
+    "hash": "d7cb8d823b539a77",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "reference/ursolic-acid": {
     "hash": "3e1ced8fcd642eaf",
@@ -5720,9 +5720,9 @@
     "modified": "2026-10-20"
   },
   "reference/wound-healing": {
-    "hash": "7ccbb646b0fa039f",
+    "hash": "b6df01d053e58300",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "reference/zingiberaceae": {
     "hash": "fbd4e0b6b98999e3",
