@@ -116,7 +116,7 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (2 shared sources)
 - [Zingiber](/herb/zingiber/) officinale (1 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 
 ### Terpenoids {#terpenoids}
 
@@ -607,7 +607,7 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (2 shared sources)
 - [Saffron](/herb/saffron/) (2 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 
 ### Turmerone {#turmerone}
 

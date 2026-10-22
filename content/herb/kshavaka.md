@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Note: Botanical identity of Kshavaka is debated in Ayurvedic literature; association with Amaranthus spinosus is one interpretation. Some texts link it to emetic herbs used in Vamana therapy
+- Note: Botanical identity of Kshavaka is debated in Ayurvedic literature; association with Amaranthus spinosus (classically Tanduliya) is one interpretation. Charaka lists Kshavaka in the Shirovirechanopaga group of nasal-clearing drugs (Sutrasthana 4), and standard translations identify that Kshavaka as the sneezewort Centipeda minima (Asteraceae). The Nasya dosing and nasal combinations below follow the Centipeda identification; the constituents, uses and study on this page refer to Amaranthus spinosus
 - Amaranthus spinosus leaves are consumed as a vegetable in many cultures with general dietary safety; however, high oxalate content may contribute to kidney stone risk in susceptible individuals
 - Spiny nature of the plant requires careful handling; no significant systemic toxicity reported at standard doses in animal studies
 

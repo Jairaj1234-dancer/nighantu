@@ -64,9 +64,8 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kasis-Bhasma/meta-an
 
 ### Mineral/Elemental Profile
 
-- **Iron sulfate (FeSO4):** Major component (green vitriol)
-- **Iron (Fe):** ~20%
-- **Sulfur (S):** ~11%
+- **Starting material:** Ferrous sulfate (Kasisa, green vitriol), converted to iron oxide by calcination
+- **Iron (Fe):** 62-92% in finished Kasisa Bhasma by atomic absorption spectroscopy across four batches (Rajput D, Tekale GS, Patgiri BJ 2011. Comparative study on Kasisa Bhasma prepared by two different methods. *Ancient Science of Life*. PMID [23284208](https://pubmed.ncbi.nlm.nih.gov/23284208/))
 
 ## Dosage forms and preparation
 

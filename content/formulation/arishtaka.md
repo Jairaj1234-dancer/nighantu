@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Arishtaka is a classical Ayurvedic fermented arishta or asava. Fermentation may generate novel bioactive compounds not present in the parent decoction."
+answer: "Arishtaka is a Sanskrit plant name. The lexicons apply it to the soapnut tree (Sapindus species), and Arishta is also a classical synonym of Nimba. No classical fermented arishta or asava of this name is recorded."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -41,8 +41,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Arishta
 ## Dosage forms and preparation
 
 **Dosage Forms:** Arishta (fermented decoction), Liquid oral (modern)
-
-**Standard Dosage:** 15-30 mL twice daily after meals with equal quantity of water, as per classical texts
 
 **Optimal Timing:** After meals (Bhojana-uttara), twice daily
 

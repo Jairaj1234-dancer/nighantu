@@ -427,7 +427,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 - [Tsotel](/glossary/compounds-t-z/#tsotel) (2 shared sources)
 - [Gold nanoparticles](/glossary/compounds-g-l/#gold-nanoparticles) (1 shared sources)
 - [Mercury sulfide](/glossary/compounds-l-o/#mercury-sulfide) (1 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (1 shared sources)
 
 ### Safranal {#safranal}

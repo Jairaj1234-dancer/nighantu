@@ -63,7 +63,7 @@ Bhaishajya Ratnavali, Stri Rogadhikara (Gynecological Disorders Chapter), Verses
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Mineral-derived preparation
+- **Primary component:** Lauha Bhasma with Tamra, Haritala (Haratala), Vanga, Abhraka and Varatika Bhasmas in equal parts, together with Trikatu, Triphala and other herbs (Ayurvedic Formulary of India, Part I, entry 21:5; Bhaishajya Ratnavali, Strirogadhikara 75-76)
 - **Note:** Composition varies by specific preparation method
 
 ## Dosage forms and preparation

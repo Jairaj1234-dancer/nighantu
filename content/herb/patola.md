@@ -31,7 +31,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola/meta-analysis.md"
 |----------|-------|-------------|
 | **Rasa** (Taste) | Tikta | Primary taste |
 | **Guna** (Quality) | Laghu, Ruksha | Physical quality |
-| **Virya** (Potency) | Sheeta | Heating/Cooling effect |
+| **Virya** (Potency) | Ushna | Heating/Cooling effect |
 | **Vipaka** (Post-digestive) | Katu | Post-digestive effect |
 
 ## Dosage forms and preparation

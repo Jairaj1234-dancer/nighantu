@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Saireyaka/meta-analysis.
 
 **Standard Dosage:** 3-6 g churna per day in divided doses; 10-20 mL swarasa twice daily; 50-100 mL kwatha twice daily
 
-**Optimal Timing:** Before meals for Raktapitta (bleeding disorders) indications; morning dose for general Pitta-pacifying action
+**Optimal Timing:** Before meals
 
 **Storage:** Swarasa: refrigerate at 2-8 deg C. Churna and capsules: store below 25 deg C in airtight containers, protected from light and moisture.
 
@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Saireyaka/meta-analysis.
 
 ### Synergistic Combinations
 
-- [Haridra](/herb/haridra/) (anti-inflammatory formulations for Raktapitta)
+- [Haridra](/herb/haridra/) (anti-inflammatory formulations)
 - [Guduchi](/herb/guduchi/) ([immunomodulatory](/reference/immunomodulatory/)-[antipyretic](/reference/antipyretic/) synergy)
 - [Sariva](/herb/sariva/) (blood purification formulations)
-- [Manjishtha](/herb/manjishtha/) (Pitta-related skin conditions)
+- [Manjishtha](/herb/manjishtha/) (skin conditions)

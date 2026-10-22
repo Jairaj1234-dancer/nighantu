@@ -69,7 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 **Dosage Forms:** Churna (powder), Capsule, Kashayam (decoction), Taila (oil for external application)
 
-**Standard Dosage:** 1-3g fruit powder (use with caution due to purgative action); 250-500mg extract; external oil as directed
+**Standard Dosage:** 125-500 mg fruit powder (Ayurvedic Pharmacopoeia of India, Part I, Vol. III; use with caution due to purgative action); 250-500mg extract; external oil as directed
 
 **Optimal Timing:** Under physician supervision only; typically at bedtime for purgative action; externally as needed for joint pain
 
