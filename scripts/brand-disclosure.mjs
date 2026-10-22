@@ -74,8 +74,11 @@ if (!RENDER_ONLY && !CHECK) {
    * sold under the same name, different formulas sharing a head name. Reviewed by hand and listed
    * with a reason in src/data/disclosure-exclusions.json, so a re-run cannot bring them back.
    */
-  const EXCLUDED = new Set(JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8'))
-    .excluded.map((x) => x.url));
+  const EXCLUSIONS = JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8')).excluded;
+  const EXCLUDED = new Set(EXCLUSIONS.map((x) => x.url));
+  // Blog articles are not products at all, so they leave the whole range too. The other two kinds
+  // are real products filed under the wrong preparation, and stay in the range.
+  const EXCLUDED_FROM_RANGE = new Set(EXCLUSIONS.filter((x) => x.appliesTo.includes('whole-range')).map((x) => x.url));
   products.products = products.products.filter((p) => !EXCLUDED.has(p.url));
   const discovery = JSON.parse(fs.readFileSync(path.join(SURVEY, 'discovery.json'), 'utf8'));
   /**
@@ -95,6 +98,7 @@ if (!RENDER_ONLY && !CHECK) {
    */
   const w2Path = path.join(SURVEY, 'products-wave2.json');
   const wave2 = fs.existsSync(w2Path) ? JSON.parse(fs.readFileSync(w2Path, 'utf8')) : null;
+  if (wave2) wave2.products = wave2.products.filter((p) => !EXCLUDED_FROM_RANGE.has(p.url));
   const afi = JSON.parse(fs.readFileSync(COMPOSITION, 'utf8')).records;
 
   /**
