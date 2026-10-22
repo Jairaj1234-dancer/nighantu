@@ -61,7 +61,6 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-
 #### Often Found With
 
 - [Diosgenin](/glossary/compounds-d-g/#diosgenin) (1 shared sources)
@@ -323,7 +322,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 - [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.*
 - [Karira](/herb/karira/)
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+
 - [Nimba Patra](/herb/nimba-patra/)
 - [Nyagrodha](/herb/nyagrodha/), *Ficus benghalensis L.*
 - [Sharapunkha](/herb/sharapunkha/)

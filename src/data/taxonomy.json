@@ -6,15 +6,15 @@
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 283,
-  "resolved": 283,
-  "exact": 276,
+  "botanicals": 284,
+  "resolved": 284,
+  "exact": 277,
   "fuzzy": 1,
   "higherRank": 6,
   "synonyms": 37,
   "notFound": 0,
-  "withWikidata": 268,
-  "withNcbiTaxid": 275
+  "withWikidata": 269,
+  "withNcbiTaxid": 276
  },
  "taxa": [
   {
@@ -618,8 +618,8 @@
    "pages": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "asPublished": "Amaranthus spinosus L."
     }
    ],
@@ -2100,6 +2100,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q324714",
    "ncbiTaxid": "48106"
+  },
+  {
+   "query": "Centipeda minima",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "asPublished": "Centipeda minima (L.) A.Braun & Asch."
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5391292,
+   "scientificName": "Centipeda minima (L.) A.Br. & Asch.",
+   "canonicalName": "Centipeda minima",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Asteraceae",
+   "order": "Asterales",
+   "genus": "Centipeda",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-10-22",
+   "wikidata": "Q6744117",
+   "ncbiTaxid": "397370"
   },
   {
    "query": "Centratherum anthelminticum",

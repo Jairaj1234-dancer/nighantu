@@ -38,7 +38,7 @@ srcRel: "_Hub/Compounds/Tannins.md"
 - [Kankataka](/herb/kankataka/)
 - [Kataka](/herb/kataka/), *Strychnos potatorum L.f.*
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
 - [Kumbhika](/herb/kumbhika/)
 - [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*

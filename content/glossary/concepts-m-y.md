@@ -1304,7 +1304,7 @@ Natural sesamol and sesaminol provide excellent oxidative stability. Shelf life 
   Actions: Antioxidant, Anticancer, Wound Healing
 - [Aragwadha](/herb/aragwadha/) *Cassia fistula L.*
   Actions: Antioxidant, Anticancer, Antidiabetic
-- [Kshavaka](/herb/kshavaka/) *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/) *Amaranthus spinosus L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
 - [Shrigataka](/herb/shrigataka/) *Trapa natans L. (syn. Trapa bispinosa Roxb.)*
   Actions: Antioxidant, Anticancer, Antidiabetic

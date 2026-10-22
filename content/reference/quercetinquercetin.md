@@ -63,7 +63,7 @@ srcRel: "_Hub/Compounds/QuercetinQuercetin.md"
 - [Khadira](/herb/khadira/), *Acacia catechu (L.f.) Willd.*
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+
 - [Kulathadi Kwath](/formulation/kulathadi-kwath/)
 - [Kumbhika](/herb/kumbhika/)
 - [Kumud](/herb/kumud/)
