@@ -108,7 +108,7 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Karpasa](/herb/karpasa/)
 - [Kharbhuja](/glossary/concepts-a-m/#kharbhuja)
 - [Koshataki](/herb/koshataki/)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Kusumbha](/herb/kusumbha/)
 - [Kusumbha Taila](/glossary/concepts-a-m/#kusumbha-taila)
 - [Madhukarkati](/herb/madhukarkati/)

@@ -1024,7 +1024,7 @@ answer: "Phytochemical compounds (G-L) is a reference glossary of 73 entries dra
 - [Chopchini](/herb/chopchini/), *Smilax china L.*
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Karnikara](/herb/karnikara/)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 
 #### Often Found With
 

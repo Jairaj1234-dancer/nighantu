@@ -36,7 +36,7 @@ srcRel: "_Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md"
   Actions: Antioxidant, Hepatoprotective, Wound Healing
 - [Bhadra](/herb/bhadra/) *Aerva lanata (L.) Juss. ex Schult.*
   Actions: Antioxidant, Hepatoprotective, Bronchodilator
-- [Kshavaka](/herb/kshavaka/) *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/) *Amaranthus spinosus L.*
   Actions: Antioxidant, Hepatoprotective, Wound Healing
 - [Kulattha](/herb/kulattha/) *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
   Actions: Antioxidant, Bronchodilator, Antidiabetic

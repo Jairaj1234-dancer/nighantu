@@ -46,7 +46,7 @@ srcRel: "_Hub/Compounds/Stigmasterol.md"
 - [Kokilaksha](/herb/kokilaksha/)
 - [Koshataki](/herb/koshataki/)
 - [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
 - [Lajjalu](/herb/lajjalu/)
 - [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*

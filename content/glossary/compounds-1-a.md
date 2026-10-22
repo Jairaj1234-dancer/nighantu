@@ -575,7 +575,7 @@ answer: "Phytochemical compounds (1-A) is a reference glossary of 73 entries dra
 - [Kakatikta](/herb/kakatikta/)
 - [Kalamba](/glossary/concepts-a-m/#kalamba)
 - [Kataka](/herb/kataka/), *Strychnos potatorum L.f.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Meda](/herb/meda/), *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
 - [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don*

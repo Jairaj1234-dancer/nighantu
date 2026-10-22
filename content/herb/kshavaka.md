@@ -6,93 +6,59 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Kshavaka (Amaranthus spinosus L.) is a plant drug, also called Tanduliya and Kamta caulai, from the Amaranthaceae family. Traditionally used in Ayurveda for Mutrakrichchhra (dysuria) and urinary disorders. Pharmacological studies have reported diuretic activity. Traditionally applied topically for skin conditions and wounds. Preclinical studies have reported anti-inflammatory activity and effects on wound repair."
-botanical: "Amaranthus spinosus L."
-family: "Amaranthaceae"
+answer: "Kshavaka is the sneezeweed Centipeda minima (L.) A.Braun & Asch. (Asteraceae), a small creeping herb whose crushed plant provokes sneezing. Charaka lists it among the ten Shirovirechanopaga drugs, the adjuvants for nasal clearing. The name has also been attached to the spiny amaranth Amaranthus spinosus, which is the classical Tanduliya and has its own page."
+botanical: "Centipeda minima (L.) A.Braun & Asch."
+family: "Asteraceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Not listed in WHO monographs on medicinal plants; Amaranthus genus recognized as nutritionally important by FAO; Kshavaka identity remains debated in Ayurvedic pharmacognosy"
-aliases: ["Amaranthus spinosus L."]
-tags: ["ayurveda", "herb", "single-herb", "general-herbs", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+whoStatus: ""
+aliases: ["Centipeda minima (L.) A.Braun & Asch.", "Chhikkika", "Nakchhikni"]
+tags: ["ayurveda", "herb", "single-herb", "general-herbs", "clinical-evidence", "safety-concern"]
+sources: ["Charaka Samhita, Sutrasthana 4.27 (Charak Samhita Online edition and herb index)", "Easy Ayurveda rendering of Charaka Sutrasthana 4", "Wisdom Library and Monier-Williams entries for kshavaka and chikkika", "GBIF Backbone Taxonomy", "Flowers of India (vernacular names)", "PubMed reviews: Tan 2022 (PMID 35091011), Liu 2023 (PMID 38202691), Shang 2025 (PMID 41157091)"]
 productHints: []
-words: 588
+words: 700
 srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kshavaka/meta-analysis.md"
 ---
 ## Names and identification
 
 | Language | Name |
 |----------|------|
-| English | Kshavaka |
-| Latin/Botanical | *Amaranthus spinosus L.* |
+| Sanskrit | Kshavaka; also Chhikka, Chhikkani, Kshavakrita |
+| Hindi | Nakchhikni |
+| Marathi | Naakashikani |
+| Kannada | Chikani |
+| English | Spreading sneezeweed, sneezewort |
+| Latin/Botanical | *Centipeda minima* (L.) A.Braun & Asch. |
+| Family | Asteraceae |
 
-## Key Phytochemical Constituents
+Kshavaka is a small, prostrate annual of the daisy family. The Sanskrit name is built on *kshava*, a sneeze, and the crushed plant provokes sneezing, which is why it sits among the nasal-clearing drugs. The vernacular names above are those listed by Flowers of India for *Centipeda minima*.
 
-- Amaranthine (betacyanin pigment)
-- Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-- [Stigmasterol](/reference/stigmasterol/)
-- Linoleic acid
-- [Rutin](/glossary/compounds-q-t/#rutin)
-- [Quercetin](/reference/quercetinquercetin/)
-- [Kaempferol](/reference/kaempferol/) [glycosides](/glossary/compounds-g-l/#glycosides)
-- Betalains
-- Hydroxycinnamates
-- [Saponins](/reference/saponins/)
+The same name has also been applied to the spiny amaranth, *Amaranthus spinosus*. That plant is the classical Tanduliya, a leafy vegetable with a quite different use, and it has its own page at [Tanduliyaka](/herb/tanduliyaka/). This page describes only the sneezeweed.
 
-## How does it work?
+## Where does the identification come from?
 
-- Amaranthine and betalain pigments exert [antioxidant](/reference/antioxidant/) effects through electron donation and metal chelation, protecting cellular membranes from lipid peroxidation-induced damage
-- Rutin and [quercetin](/reference/quercetinquercetin/) glycosides inhibit COX-2, LOX, and phospholipase A2, reducing prostaglandin and leukotriene synthesis for anti-inflammatory and [analgesic](/reference/analgesic/) effects
-- Saponins exhibit [diuretic](/reference/diuretic/) activity through inhibition of renal tubular sodium reabsorption, increasing urine output and supporting traditional use for urinary disorders
+- Charaka Samhita, Sutrasthana 4, verse 27 names ten Shirovirechanopaga drugs, the adjuvants for nasal clearing: Jyotishmati, Kshavaka, Maricha, Pippali, Vidanga, Shigru, Sarshapa, Apamarga seed, Shveta and Mahashveta. The [Charak Samhita Online](https://www.carakasamhitaonline.com/index.php/Shadvirechanashatashritiya_Adhyaya) edition of the chapter and its [herb index](https://www.carakasamhitaonline.com/index.php/List_of_herbs_in_Charak_Samhita) identify Kshavaka as *Centipeda minima*. The [Easy Ayurveda](https://www.easyayurveda.com/charak-samhita-sutrasthana-4-shad-virechana-shatashriteeya-adhyaya/) rendering of the same chapter gives *Centipeda minima* A. Br. et Aschers.
+- Sanskrit lexicons: the [Wisdom Library](https://www.wisdomlib.org/definition/kshavaka) Ayurveda glossary glosses Kshavaka as "sneeze-wort", *Centipeda orbicularis*, an older name for the same plant. Monier-Williams gives chikkani, "causing sneezing", as *Artemisia sternutatoria* Roxb., which the [GBIF Backbone Taxonomy](https://api.gbif.org/v1/species/match?name=Artemisia%20sternutatoria) records as a synonym of *Centipeda minima*. Monier-Williams also records other senses of kshavaka (Achyranthes aspera, black mustard, a pot-herb), so the word is only unambiguous in the nasal-clearing context.
+- Botanical name: the GBIF Backbone Taxonomy accepts *Centipeda minima* (L.) A.Br. & Asch., family Asteraceae.
+- We could not find a monograph for Kshavaka or *Centipeda minima* in the Ayurvedic Pharmacopoeia of India, Part I, Volumes I to VII.
 
-## Which traditional uses are supported by research?
+## How is it used traditionally?
 
-*These summaries come from the source notes, which do not name the studies behind them.*
-
-- Mutrakrichchhra (dysuria): traditionally used in Ayurveda for Mutrakrichchhra and urinary disorders. Pharmacological studies have reported diuretic activity.
-- Skin conditions and wounds: traditionally applied topically. Preclinical studies have reported anti-inflammatory activity and effects on wound repair.
+- In Charaka it is one of the ten drugs that support Shirovirechana, the nasal route of cleansing (Sutrasthana 4.27). The group pairs it with [Jyotishmati](/herb/jyotishmati/), Maricha ([Black pepper](/herb/black-pepper/)), [Pippali](/herb/pippali/), [Vidanga](/herb/vidanga/), Shigru ([Moringa](/herb/moringa/)), Sarshapa, [Apamarga](/herb/apamarga/) seed and the two Shveta varieties of [Aparajita](/herb/aparajita/). Charaka gives no dose for the single drug, so none is given here.
+- In Chinese medicine the dried whole plant is listed in the Chinese Pharmacopoeia and has been used for rhinitis, sinusitis, cough and asthma-type complaints, as summarised by Tan and others 2022 and Liu and others 2023 (below).
 
 ## What do recent studies show?
 
-- Zeashan H, Amresh G, Singh S and others 2009. [Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity](https://pubmed.ncbi.nlm.nih.gov/19465104/). *Journal of ethnopharmacology*. PMID [19465104](https://pubmed.ncbi.nlm.nih.gov/19465104/) · [doi:10.1016/j.jep.2009.05.010](https://doi.org/10.1016/j.jep.2009.05.010)  
-  Ethanolic extract showed hepatoprotective activity by normalizing liver [enzymes](/glossary/compounds-d-g/#enzymes) and reducing oxidative stress markers in CCl4-induced hepatotoxicity model.
+- Tan J, Qiao Z, Meng M and others 2022. [Centipeda minima: An update on its phytochemistry, pharmacology and safety](https://pubmed.ncbi.nlm.nih.gov/35091011/). *Journal of Ethnopharmacology*. PMID [35091011](https://pubmed.ncbi.nlm.nih.gov/35091011/) · [doi:10.1016/j.jep.2022.115027](https://doi.org/10.1016/j.jep.2022.115027)  
+  Review of 191 compounds isolated from the plant (terpenes, flavonoids, sterols, phenols, organic acids, volatile oils). Reports in vitro and animal studies of anti-inflammatory and antibacterial activity, and notes that clinical use in China is mainly for rhinitis and sinusitis, cough and asthma.
+- Liu J, Zheng W, He Y and others 2023. [A Review of the Research Applications of Centipeda minima](https://pubmed.ncbi.nlm.nih.gov/38202691/). *Molecules*. PMID [38202691](https://pubmed.ncbi.nlm.nih.gov/38202691/) · [doi:10.3390/molecules29010108](https://doi.org/10.3390/molecules29010108)  
+  Covers composition, pharmacology, toxicity and safety; the safety section is summarised below.
+- Shang Z, Wang Y, Zhu T and others 2025. [Centipeda minima: A Review of Phytochemistry, Pharmacology, and Predictive Analysis on Quality Markers](https://pubmed.ncbi.nlm.nih.gov/41157091/). *Molecules*. PMID [41157091](https://pubmed.ncbi.nlm.nih.gov/41157091/) · [doi:10.3390/molecules30204072](https://doi.org/10.3390/molecules30204072)  
+  Proposes the sesquiterpene lactones brevilin A, arnicolide C, arnicolide D and helenalin as candidate quality markers for the drug.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 
 ## Recent safety updates
 
-- Note: Botanical identity of Kshavaka is debated in Ayurvedic literature; association with Amaranthus spinosus (classically Tanduliya) is one interpretation. Charaka lists Kshavaka in the Shirovirechanopaga group of nasal-clearing drugs (Sutrasthana 4), and standard translations identify that Kshavaka as the sneezewort Centipeda minima (Asteraceae). The Nasya dosing and nasal combinations below follow the Centipeda identification; the constituents, uses and study on this page refer to Amaranthus spinosus
-- Amaranthus spinosus leaves are consumed as a vegetable in many cultures with general dietary safety; however, high oxalate content may contribute to kidney stone risk in susceptible individuals
-- Spiny nature of the plant requires careful handling; no significant systemic toxicity reported at standard doses in animal studies
-
-## What is it made of?
-
-### Key Active Markers
-
-- Sitosterol
-- Stigmasterol
-- Rutin
-- Quercetin
-- Kaempferol
-- Glycosides
-- Saponins
-- Amaranthine 
-
-## Dosage forms and preparation
-
-**Dosage Forms:** Churna (fine powder for Nasya), Nasya (nasal insufflation), Dhoompana (medicated smoking), Kashayam (decoction), Capsule
-
-**Standard Dosage:** Nasya: pinch of fine powder (125-250 mg) per nostril; 2-3 g powder orally twice daily; 30-50 mL decoction
-
-**Optimal Timing:** Nasya: morning on empty stomach after oil massage of face (classical Poorvakarma); oral preparations: after meals
-
-**Storage:** Nasya powder in small, tightly sealed glass vials with desiccant. Oral preparations in airtight containers at 15-30°C. Protect from moisture, hygroscopic fine powders degrade rapidly.
-
-**Marker Compounds:** Saponins, [Tannins](/reference/tannins/)
-
-### Synergistic Combinations
-
-- Maricha ([Black pepper](/herb/black-pepper/)) for Shirovirechana (nasal cleansing)
-- [Vacha](/herb/vacha/) (Acorus calamus) for nasal and cognitive formulations
-- [Vidanga](/herb/vidanga/) in classical combinations
-- [Apamarga](/herb/apamarga/) in classical Nasya combinations
+- The 2023 review (Liu and others) reports that internal use can cause burning in the throat, oesophagus and stomach with nausea and vomiting, and that in one allergic rhinitis series 19 of 97 patients had transient adverse reactions and 9 had sustained reactions that led them to stop. The same review says the safety evidence is based largely on animal work and calls for formal toxicity studies and clinical trials.
+- Material sold as Kshavaka may be the spiny amaranth rather than the sneezeweed. Ask the supplier which plant is meant.
