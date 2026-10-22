@@ -65,3 +65,4 @@ sources-private/
 # The canary ledger proves which published records are ours. Private by definition.
 measurement/
 public/brand-disclosure.json
+public/disclosure-exclusions.json

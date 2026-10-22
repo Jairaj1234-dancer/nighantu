@@ -499,12 +499,12 @@ Ayurvedic Formulary of India, Part I, entry 4:10, from Bhaisajyaratnavali, Kasar
 |---|---|---|
 | AVN Ayurveda | [dasamoolam kashayam](https://www.avnayurveda.com/product/dasamoolam-kashayam/), [dasamoolam kashayam tablet](https://www.avnayurveda.com/product/dasamoolam-kashayam-tablet/) | no ingredient list, on 2 of its 2 pages |
 | Baidyanath | [baidyanath dashmool kadha](https://www.baidyanathayurved.com/products/baidyanath-dashmool-kadha) | an ingredient list, without quantities |
-| Kerala Ayurveda | [dasamoolam kwath](https://keralaayurveda.com/products/dasamoolam-kwath), [dasamoola rasayanam 100 gm](https://keralaayurveda.com/products/dasamoola-rasayanam-100-gm) | an ingredient list, without quantities, on 1 of its 2 pages |
-| Maharishi Ayurveda | [dashmoola taila for headaches 50ml](https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml), [dashmoola kashaya](https://maharishiayurvedaindia.com/products/dashmoola-kashaya), [dashmoola katutrayadi kashayam](https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam), [dashmool kashaya](https://maharishiayurvedaindia.com/products/dashmool-kashaya) | no ingredient list, on 4 of its 4 pages |
+| Kerala Ayurveda | [dasamoolam kwath](https://keralaayurveda.com/products/dasamoolam-kwath) | an ingredient list, without quantities |
+| Maharishi Ayurveda | [dashmoola kashaya](https://maharishiayurvedaindia.com/products/dashmoola-kashaya), [dashmool kashaya](https://maharishiayurvedaindia.com/products/dashmool-kashaya) | no ingredient list, on 2 of its 2 pages |
 | Patanjali Ayurved | [combo divya dashmool kwath 100g pack of 2](https://www.patanjaliayurved.net/product/combo-offers/combos/combo-divya-dashmool-kwath-100g-pack-of-2/7064), [divya dashmool kwath](https://www.patanjaliayurved.net/product/ayurvedic-medicine/kwath/divya-dashmool-kwath/35) | an ingredient list, without quantities, on 2 of its 2 pages |
 | Sandu Pharmaceuticals | [sandu dashmool kadha no 1 450ml](https://sandu.in/product/sandu-dashmool-kadha-no-1-450ml/) | no ingredient list |
-| Sitaram Ayurveda | [dasamool cough syrup](https://sitaramayurveda.com/products/dasamool-cough-syrup), [dasamoola rasayanam 100 gm](https://sitaramayurveda.com/products/dasamoola-rasayanam-100-gm), [dasamoola kashaya](https://sitaramayurveda.com/products/dasamoola-kashaya), [dasamoola kashayam tablet 50 nos](https://sitaramayurveda.com/products/dasamoola-kashayam-tablet-50-nos), [rasna dashamoola kashayam 200 ml](https://sitaramayurveda.com/products/rasna-dashamoola-kashayam-200-ml) | an ingredient list, without quantities, on 4 of its 5 pages |
-| SNA Oushadhasala | [dashamoolam](https://www.snaoushadhasala.com/product/dashamoolam), [dashamoola tailam](https://www.snaoushadhasala.com/product/dashamoola-tailam) | no ingredient list, on 2 of its 2 pages |
+| Sitaram Ayurveda | [dasamoola kashaya](https://sitaramayurveda.com/products/dasamoola-kashaya), [dasamoola kashayam tablet 50 nos](https://sitaramayurveda.com/products/dasamoola-kashayam-tablet-50-nos) | an ingredient list, without quantities, on 2 of its 2 pages |
+| SNA Oushadhasala | [dashamoolam](https://www.snaoushadhasala.com/product/dashamoolam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [dasamoolam kashayam](https://avpayurveda.com/products/dasamoolam-kashayam) | no ingredient list |
 
 ### SITOPALADI CURNA
@@ -570,7 +570,7 @@ Ayurvedic Formulary of India, Part I, entry 1:5, from Bhaisajyaratnavali, Striro
 | Kerala Ayurveda | [asokarishta](https://keralaayurveda.com/products/asokarishta) | an ingredient list, without quantities |
 | Maharishi Ayurveda | [ashokarishta](https://maharishiayurvedaindia.com/products/ashokarishta) | no ingredient list |
 | Patanjali Ayurved | [divya asokarista](https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-asokarista/20) | an ingredient list, without quantities |
-| Sandu Pharmaceuticals | [ashokarishta syrup uses and benefits for womens health](https://sandu.in/ashokarishta-syrup-uses-and-benefits-for-womens-health/), [ashokarishta the ayurvedic medicine for womens health](https://sandu.in/ashokarishta-the-ayurvedic-medicine-for-womens-health/), [sandu ashokarishta](https://sandu.in/product/sandu-ashokarishta/) | no ingredient list, on 3 of its 3 pages |
+| Sandu Pharmaceuticals | [sandu ashokarishta](https://sandu.in/product/sandu-ashokarishta/) | no ingredient list |
 | Shree Dhootapapeshwar | [ashokarishta](https://www.sdlindia.com/products/ashokarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [ashokarishtam](https://sitaramayurveda.com/products/ashokarishtam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [asokarishtam](https://avpayurveda.com/products/asokarishtam) | no ingredient list |
@@ -601,7 +601,7 @@ Ayurvedic Formulary of India, Part I, entry 1:11, from Bhaisajyaratnavali, Atisa
 | Kerala Ayurveda | [kutajarishta](https://keralaayurveda.com/products/kutajarishta) | an ingredient list, without quantities |
 | Maharishi Ayurveda | [kutjarishta for irritable bowel syndrome management 450ml](https://maharishiayurvedaindia.com/products/kutjarishta-for-irritable-bowel-syndrome-management-450ml) | no ingredient list |
 | Patanjali Ayurved | [divya kutajarista](https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-kutajarista/85) | no ingredient list |
-| Sandu Pharmaceuticals | [how kutajarishta supports digestive health and stops diarrhoea naturally](https://sandu.in/how-kutajarishta-supports-digestive-health-and-stops-diarrhoea-naturally/), [sandu kutajarishta](https://sandu.in/product/sandu-kutajarishta/) | no ingredient list, on 2 of its 2 pages |
+| Sandu Pharmaceuticals | [sandu kutajarishta](https://sandu.in/product/sandu-kutajarishta/) | no ingredient list |
 | Shree Dhootapapeshwar | [kutajarishta](https://www.sdlindia.com/products/kutajarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [kutajarishtam](https://sitaramayurveda.com/products/kutajarishtam) | no ingredient list |
 | SNA Oushadhasala | [kutajaarishtam](https://www.snaoushadhasala.com/product/kutajaarishtam) | no ingredient list |
@@ -704,13 +704,13 @@ Ayurvedic Formulary of India, Part I, entry 1:1, from Bhaisajyaratnavali, Arsoro
 | Company | Page read | What the page publishes |
 |---|---|---|
 | AVN Ayurveda | [abhayarishtam](https://www.avnayurveda.com/product/abhayarishtam/) | no ingredient list |
-| Baidyanath | [baidyanath abhayarisht 450 ml](https://www.baidyanathayurved.com/products/baidyanath-abhayarisht-450-ml), [kabz har abhyarishta triphala juice](https://www.baidyanathayurved.com/products/kabz-har-abhyarishta-triphala-juice) | no ingredient list, on 2 of its 2 pages |
+| Baidyanath | [baidyanath abhayarisht 450 ml](https://www.baidyanathayurved.com/products/baidyanath-abhayarisht-450-ml) | no ingredient list |
 | Dabur | [dabur abhyarishta](https://www.dabur.com/our-brand/dabur-abhyarishta) | no ingredient list |
 | Kerala Ayurveda | [abhayarishta](https://keralaayurveda.com/products/abhayarishta) | an ingredient list, without quantities |
 | Maharishi Ayurveda | [abhyarishta for treatment of constipation 450ml](https://maharishiayurvedaindia.com/products/abhyarishta-for-treatment-of-constipation-450ml) | no ingredient list |
 | Oushadhi | [abhayarishtam](https://www.oushadhi.org/product/abhayarishtam) | every ingredient with its quantity |
 | Patanjali Ayurved | [divya abhayarista new](https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-abhayarista-new/2) | an ingredient list, without quantities |
-| Sandu Pharmaceuticals | [abhayarishta benefits ayurvedic support for digestive wellness](https://sandu.in/abhayarishta-benefits-ayurvedic-support-for-digestive-wellness/), [sandu abhayarishta](https://sandu.in/product/sandu-abhayarishta/) | no ingredient list, on 2 of its 2 pages |
+| Sandu Pharmaceuticals | [sandu abhayarishta](https://sandu.in/product/sandu-abhayarishta/) | no ingredient list |
 | Shree Dhootapapeshwar | [abhayarishta](https://www.sdlindia.com/products/abhayarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [abhayarishtam](https://sitaramayurveda.com/products/abhayarishtam) | no ingredient list |
 | SNA Oushadhasala | [abhayaarishtam](https://www.snaoushadhasala.com/product/abhayaarishtam) | no ingredient list |
@@ -738,7 +738,7 @@ Ayurvedic Formulary of India, Part I, entry 7:15, from Bhavaprakasa, Haritakyadi
 | Kerala Ayurveda | [triphala choornam](https://keralaayurveda.com/products/triphala-choornam) | an ingredient list, without quantities |
 | Oushadhi | [thriphala churnam ed](https://www.oushadhi.org/product/thriphala-churnam-ed) | no ingredient list |
 | Patanjali Ayurved | [combo triphala churna 100g pack of 2](https://www.patanjaliayurved.net/product/combo-offers/combos/combo-triphala-churna-100g-pack-of-2/6997), [divya triphala churna](https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-triphala-churna/199) | no ingredient list, on 2 of its 2 pages |
-| Sandu Pharmaceuticals | [understanding triphala churna and isabgol in ayurveda](https://sandu.in/understanding-triphala-churna-and-isabgol-in-ayurveda/), [sandu triphala churna 100 g pack of 2](https://sandu.in/product/sandu-triphala-churna-100-g-pack-of-2/) | no ingredient list, on 2 of its 2 pages |
+| Sandu Pharmaceuticals | [sandu triphala churna 100 g pack of 2](https://sandu.in/product/sandu-triphala-churna-100-g-pack-of-2/) | no ingredient list |
 | Shree Dhootapapeshwar | [triphala choorna](https://www.sdlindia.com/products/triphala-choorna) | every ingredient with its quantity |
 | Sitaram Ayurveda | [triphala choornam](https://sitaramayurveda.com/products/triphala-choornam) | no ingredient list |
 | SNA Oushadhasala | [triphalaa choornam (varaa choornam)](https://www.snaoushadhasala.com/product/triphalaa-choornam-%28varaa-choornam%29) | no ingredient list |
@@ -787,7 +787,7 @@ Ayurvedic Formulary of India, Part I, entry 1:36, from Bhaisajyaratnavali, Rasay
 | Kerala Ayurveda | [saraswatharishta](https://keralaayurveda.com/products/saraswatharishta) | an ingredient list, without quantities |
 | Maharishi Ayurveda | [saraswatarishta brain tonic 50ml](https://maharishiayurvedaindia.com/products/saraswatarishta-brain-tonic-50ml), [saraswatarishta](https://maharishiayurvedaindia.com/products/saraswatarishta) | no ingredient list, on 2 of its 2 pages |
 | Patanjali Ayurved | [divya sarasvatarista](https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-sarasvatarista/161) | an ingredient list, without quantities |
-| Sandu Pharmaceuticals | [saraswatarishta uses and benefits for memory and focus](https://sandu.in/saraswatarishta-uses-and-benefits-for-memory-and-focus/), [sandu saraswatarishta](https://sandu.in/product/sandu-saraswatarishta/) | no ingredient list, on 2 of its 2 pages |
+| Sandu Pharmaceuticals | [sandu saraswatarishta](https://sandu.in/product/sandu-saraswatarishta/) | no ingredient list |
 | Shree Dhootapapeshwar | [saraswatarishta](https://www.sdlindia.com/products/saraswatarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [saraswatharishtam](https://sitaramayurveda.com/products/saraswatharishtam) | an ingredient list, without quantities |
 | SNA Oushadhasala | [saaraswataarishtam](https://www.snaoushadhasala.com/product/saaraswataarishtam) | every ingredient with its quantity |
@@ -816,7 +816,7 @@ Ayurvedic Formulary of India, Part I, entry 1:21, from Bhaisajyaratnavali, Hrdro
 | Baidyanath | [arjunarishta](https://www.baidyanathayurved.com/products/arjunarishta) | no ingredient list |
 | Maharishi Ayurveda | [arjunarishta](https://maharishiayurvedaindia.com/products/arjunarishta) | no ingredient list |
 | Patanjali Ayurved | [divya arjunarista](https://www.patanjaliayurved.net/product/ayurvedic-medicine/arishta/divya-arjunarista/12) | an ingredient list, without quantities |
-| Sandu Pharmaceuticals | [arjunarishta vs modern heart medications a comparative insight](https://sandu.in/arjunarishta-vs-modern-heart-medications-a-comparative-insight/), [sandu arjunarishta](https://sandu.in/product/sandu-arjunarishta/) | no ingredient list, on 2 of its 2 pages |
+| Sandu Pharmaceuticals | [sandu arjunarishta](https://sandu.in/product/sandu-arjunarishta/) | no ingredient list |
 | Shree Dhootapapeshwar | [arjunarishta parthadyarishta](https://www.sdlindia.com/products/arjunarishta-parthadyarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [arjunarishtam partharishtam](https://sitaramayurveda.com/products/arjunarishtam-partharishtam) | no ingredient list |
 
@@ -1132,7 +1132,7 @@ Ayurvedic Formulary of India, Part I, entry 7:39, from Astangahrdaya, Cikitsasth
 | Kerala Ayurveda | [hinguvachadi choornam 50 gm](https://keralaayurveda.com/products/hinguvachadi-choornam-50-gm) | no ingredient list |
 | Sitaram Ayurveda | [hinguvachadi choornam 50 gm](https://sitaramayurveda.com/products/hinguvachadi-choornam-50-gm) | an ingredient list, without quantities |
 | SNA Oushadhasala | [hinguvachaadi choornam](https://www.snaoushadhasala.com/product/hinguvachaadi-choornam) | no ingredient list |
-| The Arya Vaidya Pharmacy, Coimbatore | [hinguvachadi choornam gulika 10 nos strip](https://avpayurveda.com/products/hinguvachadi-choornam-gulika-10-nos-strip), [hinguvachadi choornam 25 gms](https://avpayurveda.com/products/hinguvachadi-choornam-25-gms) | no ingredient list, on 2 of its 2 pages |
+| The Arya Vaidya Pharmacy, Coimbatore | [hinguvachadi choornam 25 gms](https://avpayurveda.com/products/hinguvachadi-choornam-25-gms) | no ingredient list |
 
 ### KSIRABALA TAILA
 

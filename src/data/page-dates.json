@@ -25,7 +25,7 @@
     "modified": "2026-10-22"
   },
   "choosing/label-dose-against-the-formulary": {
-    "hash": "7ccfc8a10f23334e",
+    "hash": "62d41d892aef9c20",
     "published": "2026-10-09",
     "modified": "2026-10-22"
   },
@@ -40,9 +40,9 @@
     "modified": "2026-09-17"
   },
   "choosing/who-publishes-the-composition": {
-    "hash": "47bab602e705ccb9",
+    "hash": "6cf05930815298f5",
     "published": "2026-10-08",
-    "modified": "2026-10-09"
+    "modified": "2026-10-22"
   },
   "cite": {
     "hash": "91cbb20871a33073",
@@ -420,14 +420,14 @@
     "modified": "2026-10-11"
   },
   "formulation": {
-    "hash": "49b987d3893097ea",
+    "hash": "20129d96f0540317",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
   "formulation/abhayarishta": {
-    "hash": "bd5945735459c77d",
+    "hash": "13cbb1d582b6343d",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/agastya-haritaki-rasayana": {
     "hash": "72c8df8202f20554",
@@ -470,9 +470,9 @@
     "modified": "2026-10-21"
   },
   "formulation/amritarishta": {
-    "hash": "67af74ca62ade78b",
+    "hash": "2780fe38f15b7fb6",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/amritottaram-kashayam": {
     "hash": "49764890560551c8",
@@ -505,9 +505,9 @@
     "modified": "2026-10-22"
   },
   "formulation/arjunarishta": {
-    "hash": "367ebf34ada7f873",
+    "hash": "75f0246b9b20d6d4",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/arogyavardhini-vati": {
     "hash": "46ad545c604c0707",
@@ -525,12 +525,12 @@
     "modified": "2026-10-21"
   },
   "formulation/ashokarishta": {
-    "hash": "7ec706d21de53dfc",
+    "hash": "5c1e226bd98d7842",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/ashwagandharishta": {
-    "hash": "42053650908d3940",
+    "hash": "c10c244363063d2a",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -605,9 +605,9 @@
     "modified": "2026-10-21"
   },
   "formulation/chandraprabha-vati": {
-    "hash": "645f84f13519bf3f",
+    "hash": "a26c03f00e152516",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/changeri-ghrita": {
     "hash": "c78deac6335be458",
@@ -620,9 +620,9 @@
     "modified": "2026-10-21"
   },
   "formulation/chyawanprash": {
-    "hash": "204aa40e28963fd9",
+    "hash": "b1c700a6c41768b3",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/coconut-oil-narikela-taila": {
     "hash": "a3825f7ef88a3f8d",
@@ -645,12 +645,12 @@
     "modified": "2026-10-22"
   },
   "formulation/dashamula": {
-    "hash": "41739ed143c880be",
+    "hash": "24f7392ec3cf4019",
     "published": "2026-09-09",
-    "modified": "2026-10-20"
+    "modified": "2026-10-22"
   },
   "formulation/dashamularishta": {
-    "hash": "21bade8460305e24",
+    "hash": "d43e4d97868a13bd",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -670,9 +670,9 @@
     "modified": "2026-10-22"
   },
   "formulation/dhanwantaram-thailam": {
-    "hash": "910b716f6d0e83e9",
+    "hash": "827e2530958d56e4",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/dhatupaushtik-churna": {
     "hash": "3ac37cc87a264f36",
@@ -750,9 +750,9 @@
     "modified": "2026-10-21"
   },
   "formulation/haridra-khanda": {
-    "hash": "5802f2e9ec808c89",
+    "hash": "1b6260ccbff80889",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/himasagara-thailam": {
     "hash": "33890fa319d97249",
@@ -760,9 +760,9 @@
     "modified": "2026-10-21"
   },
   "formulation/hinguvachadi-churna": {
-    "hash": "51973b52b3cdf79c",
+    "hash": "fdee1f363debe58a",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/hingvashtak-churna": {
     "hash": "9d1ccf1fc96ac19b",
@@ -855,9 +855,9 @@
     "modified": "2026-10-21"
   },
   "formulation/kottamchukkadi-thailam": {
-    "hash": "0c123a6e6fa55734",
+    "hash": "01926d06a638f501",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/krimighna-vati": {
     "hash": "825438f3983af3ae",
@@ -880,9 +880,9 @@
     "modified": "2026-10-21"
   },
   "formulation/kumkumadi-tailam": {
-    "hash": "cf7c5df14605ccbf",
+    "hash": "d94edad0b243d18e",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/kumkumadi-thailam": {
     "hash": "bf11cd3e6212de95",
@@ -895,9 +895,9 @@
     "modified": "2026-10-21"
   },
   "formulation/kutajarishta": {
-    "hash": "3f1547d1c86c2f12",
+    "hash": "9b86745a090728f7",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/lakshadi-thailam": {
     "hash": "e621bd903eb3bba3",
@@ -940,9 +940,9 @@
     "modified": "2026-10-21"
   },
   "formulation/narayana-thailam": {
-    "hash": "6c88a84a1579b213",
+    "hash": "4688d91cb39c72c1",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/neelibringadi-thailam": {
     "hash": "451ae84545bfc658",
@@ -975,9 +975,9 @@
     "modified": "2026-10-21"
   },
   "formulation/pinda-thailam": {
-    "hash": "e08ce1b222abd6aa",
+    "hash": "eadf3a65b36c9529",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/pippali-khanda": {
     "hash": "275fca5c5c69a81c",
@@ -1030,7 +1030,7 @@
     "modified": "2026-10-21"
   },
   "formulation/saraswatarishta": {
-    "hash": "e387c9ebdb85144f",
+    "hash": "596a8efe4ba968d8",
     "published": "2026-09-09",
     "modified": "2026-10-22"
   },
@@ -1085,9 +1085,9 @@
     "modified": "2026-10-21"
   },
   "formulation/triphala-churna": {
-    "hash": "f784a76e15dce015",
+    "hash": "5c4140a89a561b6e",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-22"
   },
   "formulation/triphala-guggulu": {
     "hash": "abd64596aad728b5",
