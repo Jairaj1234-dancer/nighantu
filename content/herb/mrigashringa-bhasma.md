@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 
 ## Key Phytochemical Constituents
 
-- Calcium (66%) as primary constituent
+- Calcium (66%) as primary constituent (EDAX analysis of one bhasma sample, World Journal of Ayurveda Science, 2022; EDAX is a semi-quantitative surface method)
 - [Phosphorus](/glossary/compounds-o-q/#phosphorus) (32.46%)
 - [Potassium](/glossary/compounds-o-q/#potassium) (1.41%)
 - [Magnesium](/glossary/compounds-l-o/#magnesium) and carbonates
@@ -57,15 +57,13 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Mrigashringa-Bhasma/
 ## Recent safety updates
 
 - WILDLIFE CONSERVATION: Only naturally shed antlers should be used. Ethical sourcing important under CITES and wildlife protection regulations.
-- HYPERCALCEMIA RISK: High calcium content (66%) means overdosage can cause hypercalcemia. Dose monitoring essential for prolonged use.
+- HYPERCALCEMIA RISK: High calcium content means overdosage can cause hypercalcemia. Dose monitoring essential for prolonged use.
 
 ## What is it made of?
 
 ### Mineral/Elemental Profile
 
 - **Calcium phosphate:** Major component (deer antler)
-- **Calcium (Ca):** ~26%
-- **Phosphorus (P):** ~13%
 - **Collagen-derived amino acids:** Trace (from organic matrix)
 
 ## Dosage forms and preparation

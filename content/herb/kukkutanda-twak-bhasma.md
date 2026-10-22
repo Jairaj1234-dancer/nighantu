@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 
 ## Key Phytochemical Constituents
 
-- Calcium (60.83%) - highest among similar preparations
+- Calcium (22.75% and 41.16% in two bhasma samples by ICP-AES; Singh et al. 2017)
 - Calcium oxide (CaO) nanoparticles after calcination
 - Copper, zinc, [magnesium](/glossary/compounds-l-o/#magnesium) as trace minerals
 - [Strontium](/glossary/compounds-q-t/#strontium) and [phosphorus](/glossary/compounds-o-q/#phosphorus) traces
@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kukkutanda-Twak-Bhas
 ### Mineral/Elemental Profile
 
 - **Calcium carbonate (CaCO3):** Major component of raw eggshell (>94%)
-- **Calcium (Ca):** ~38%
+- **Calcium (Ca):** 22.75% and 41.16% in two bhasma samples (Singh et al. 2017)
 - **Magnesium (Mg):** Trace
 - **Phosphorus (P):** Trace
 - **Strontium (Sr):** Trace

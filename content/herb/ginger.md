@@ -125,7 +125,7 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 
 **Keywords:** Ayurveda, COVID-19, TCM, [curcumin](/herb/curcumin/), gingerol., [glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin), immunomodulation, medicinal plants, [quercetin](/reference/quercetinquercetin/), virucidal effect
 
-#### 5. Compounds of 
+#### 5. Compounds of Citrus medica and Zingiber officinale for COVID-19 inhibition: in silico evidence for cues from Ayurveda.
 
 **Authors:** Haridas M, Sasidhar Vijith, Nath Prajeesh et al.
 **Journal:** Future journal of pharmaceutical sciences (2021)
@@ -145,7 +145,7 @@ Called 'Vishwabheshaja' (universal medicine). Fresh (Ardraka) and dry (Shunthi) 
 
 **Keywords:** Anti-inflammatory mechanisms, Chronic inflammatory disorders, Inflammation, Molecular targets, Phytotherapy, Traditional indian herbs
 
-#### 7. Immunity against COVID-19: Potential role of 
+#### 7. Immunity against COVID-19: Potential role of Ayush Kwath.
 
 **Authors:** Gautam Shankar, Gautam Arun, Chhetri Sahanshila et al.
 **Journal:** Journal of Ayurveda and integrative medicine (2022)

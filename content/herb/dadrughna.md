@@ -7,8 +7,8 @@ category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Skin-Beauty"
 answer: "Dadrughna is a substance used in the Ayurvedic materia medica. Oil-based formulations (Taila) enhance dermal penetration of lipophilic actives. For internal use, limited pharmacokinetic data available. Traditional practice emphasizes external application. Enhancement: incorporation into liposomal gels or nanostructured lipid carriers for improved dermal delivery."
-botanical: ""
-family: ""
+botanical: "Cassia tora L. (syn. Senna tora)"
+family: "Fabaceae"
 sanskrit: ""
 ayurvedicCategory: ""
 whoStatus: ""
@@ -24,6 +24,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dadrughna/meta-analysis.md"
 | Language | Name |
 |----------|------|
 | English | Dadrughna |
+
+Dadrughna is a Sanskrit synonym of [Chakramarda](/herb/chakramarda/) (Cassia tora L., syn. Senna tora) in Bhavaprakasha Nighantu and Raja Nighantu (4.198-200); see that page for the fuller profile.
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -51,4 +53,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dadrughna/meta-analysis.md"
 - With [Karanja](/herb/karanja/) (Pongamia) oil for enhanced antifungal action
 - With [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/)) for anti-inflammatory and [antimicrobial](/reference/antimicrobial/) synergy
 - With [Nimba](/herb/nimba/) ([neem](/herb/neem/)) for broad-spectrum dermatological use
-- With [Chakramarda](/herb/chakramarda/) (Cassia tora), traditionally used for ringworm

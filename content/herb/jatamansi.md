@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jatamansi/meta-analysi
 
 **Keywords:** Drosophila, Memory, Nardostachys jatamansi, Oxidative stress, Pyranocoumarin, Tau protein
 
-#### 5. None
+#### 5. Nardostachys jatamansi Extract and Nardosinone Exert Neuroprotective Effects by Suppressing Glucose Metabolic Reprogramming and Modulating T Cell Infiltration.
 
 **Authors:** Duan Congyan, Lin Weifang, Zhang Mingjie et al.
 **Journal:** Cells (2025)
@@ -145,7 +145,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), Kashayam (decoction), [Arka](/herb/arka/) (distillate), Essential oil, [Ghrita](/herb/ghrita/) (medicated ghee)
 
-**Standard Dosage:** 1-3g powder twice daily; 250-500mg extract; 5-15ml medicated oil (external); 3-5 drops essential oil (aromatherapy)
+**Standard Dosage:** 2-3 g powder per day (Ayurvedic Pharmacopoeia of India, Part I, Vol. I); 250-500mg extract; 5-15ml medicated oil (external); 3-5 drops essential oil (aromatherapy)
 
 **Optimal Timing:** At bedtime with warm milk or ghee for sleep and anxiety; morning dose with water for cognitive support
 

@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Kashayams-Decoctions"
-answer: "Dashamoola Katutraya Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). Ashtanga Hridaya (Dashamoola Kwatham section). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness."
+answer: "Dashamoola Katutraya Kashayam is a classical Ayurvedic kashaya, a water decoction. Listed in the Ayurvedic Formulary of India (AFI). The Ayurvedic Formulary of India, Part I, entry 4:9 attributes it to Sahasrayoga, Kasayaprakarana 107, a Kerala compendium."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Referenced in Ashtanga Hridaya and Kerala Bhaishajya Ratnavali. Dashamoola (component) separately listed in Ayurvedic Pharmacopoeia of India."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Attributed by the AFI to Sahasrayoga, Kasayaprakarana 107. Dashamoola (component) separately listed in Ayurvedic Pharmacopoeia of India."
 aliases: ["Dashamoola Katutraya Kashayam", "DashamoolaKatutrayaKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dashamoola-K
 
 ## Where is it described in the classical texts?
 
-Ashtanga Hridaya ([Dashamoola](/herb/dashamoola/) Kwatham section). Refined in the Travancore region and documented in Kerala Bhaishajya Ratnavali as Dashamoolakatutrayam Kashayam for stubborn coughs, chronic arthritis, and post-natal weakness.
+Sahasrayoga, Kasayaprakarana 107, as cited by the Ayurvedic Formulary of India, Part I, entry 4:9 (Dasamula Katutraya Kvatha Curna). The formulary lists the ten [Dashamoola](/herb/dashamoola/) roots, Sunthi, Marica, Pippali and Vasa in equal parts, and gives its traditional uses as svasa, kasa, parsva ruja, vataroga, trika ruja, prstha ruja and siroruja.
 
 ## How does it work?
 

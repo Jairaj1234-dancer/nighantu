@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; individual ingredients (Syzygium aromaticum, Piper longum, Terminalia bellirica) monographed in Ayurvedic Pharmacopoeia of India (API) Part I; classified as OTC Ayurvedic medicine"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; individual ingredients (Syzygium aromaticum, Piper nigrum, Terminalia bellirica) monographed in Ayurvedic Pharmacopoeia of India (API) Part I; classified as OTC Ayurvedic medicine"
 aliases: ["Lavangadi Vati", "LavangadiVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -32,9 +32,9 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 ## How does it work?
 
 - [Expectorant](/reference/expectorant/) and mucolytic: [Eugenol](/glossary/compounds-d-g/#eugenol) from [Lavanga](/herb/lavanga/) (clove) and warming herbs are traditionally used to loosen mucus and ease expectoration
-- Anti-inflammatory throat and lung action: Combined eugenol, gingerols, and [piperine](/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue
+- Anti-inflammatory throat and lung action: Combined eugenol and [piperine](/reference/piperine/) reduce inflammation in the throat, bronchi, and lung tissue
 - [Antimicrobial](/reference/antimicrobial/) defense: Eugenol, piperine, and [catechins](/glossary/compounds-c-d/#catechins) from [Khadira](/herb/khadira/) provide broad-spectrum antimicrobial activity against oral and other pathogens (Streptococcus mutans, Staphylococcus aureus)
-- Kapha dissolution: Hot potency (Ushna Virya) of [Trikatu](/herb/trikatu/) and clove is classically described as reducing Kapha in the respiratory tract
+- Kapha dissolution: Hot potency (Ushna Virya) of [black pepper](/herb/black-pepper/) (Maricha) and clove is classically described as reducing Kapha in the respiratory tract
 - [Immunomodulatory](/reference/immunomodulatory/) action: Combined ingredients demonstrate antiallergic and immunomodulatory properties, supporting immune defense against respiratory infections
 
 ## Which traditional uses are supported by research?
@@ -61,7 +61,7 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ### Key Active Markers
 
-- Derived from constituent herbs (see individual herb profiles)
+- Composition, Ayurvedic Formulary of India Part I, entry 12:26 (from Vaidyajivanam, Kasasvasacikitsa 7): [Lavanga](/herb/lavanga/) flower bud 1 part, Maricha ([black pepper](/herb/black-pepper/) fruit) 1 part, [Bibhitaki](/herb/bibhitaki/) fruit pericarp 1 part, Khadira sara ([Khadira](/herb/khadira/) heartwood extract) 3 parts, triturated with [Babbula](/herb/babbula/) (Acacia arabica) stem bark decoction
 - Standardized on primary bioactive markers
 
 ## Dosage forms and preparation
@@ -80,4 +80,4 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ### Synergistic Combinations
 
-- Key herbs: [Lavanga](/herb/lavanga/) (clove), Karpura, [Jatiphala](/herb/jatiphala/)
+- Key herbs: [Lavanga](/herb/lavanga/) (clove), [black pepper](/herb/black-pepper/) (Maricha), [Bibhitaki](/herb/bibhitaki/), [Khadira](/herb/khadira/)

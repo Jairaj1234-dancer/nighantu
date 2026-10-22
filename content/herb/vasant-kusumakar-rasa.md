@@ -52,7 +52,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 
 - Contains mercury as HgS (mercuric sulfide) in processed form; after Shodhana (purification), trituration with sulfur (Kajjali preparation) converts mercury to an insoluble sulfide form that has significantly lower bioavailability than organic mercury compounds
 - A 2008 JAMA study found that 20% of Ayurvedic medicines purchased online (including rasa shastra products) contained detectable lead, mercury, or arsenic, with some products having levels 100-10,000 times above acceptable limits - highlighting the critical importance of sourcing from GMP-certified manufacturers
-- Preclinical studies show safety at therapeutic doses in animal models, but long-term human toxicity data is lacking; contains multiple heavy metals (gold, silver, tin, lead, mercury) requiring strict quality control
+- Preclinical studies show safety at therapeutic doses in animal models, but long-term human toxicity data is lacking; contains multiple heavy metals (gold, silver, tin, lead, iron, mercury) requiring strict quality control
 - Contraindicated in pregnancy, lactation, children, and patients with renal or hepatic impairment; must be taken strictly under qualified Ayurvedic physician supervision with periodic monitoring of renal and hepatic function
 - WHO contaminant limits for herbal products: 10 ppm for lead, 1 ppm for mercury and arsenic; these limits are for contamination and do not apply to the mercury intentionally included in this formulation, so products should be lab-tested by a qualified laboratory before use
 
@@ -61,6 +61,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 ### Mineral/Elemental Profile
 
 - **Primary component:** Mercury-based preparation (Parada) with herbal processing
+- **Classical composition (Ayurvedic Formulary of India Part I, entry 20:42, from Rasendra Sara Sangraha, Rasayanavajikaranadhikara 80-83):** Svarna (gold) and Rajata (silver) bhasma 2 parts each; Vanga (tin), Naga (lead) and Kanta Lauha (iron) bhasma 3 parts each; Abhraka (mica), Pravala (coral) and Mauktika (pearl) bhasma 4 parts each, triturated with cow milk, sugarcane juice, Vasa and other plant juices and Kasturi. The AFI entry lists no mercury; the Yogaratnakara and Bhaishajya Ratnavali versions used in the published rat studies add Parada or Rasa Sindura (mercury sulfide)
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 ## Dosage forms and preparation
