@@ -70,6 +70,9 @@ const MODEL = ENGINE === 'claude'
   : process.env.GEO_AUDIT_MODEL || 'gemini-2.5-flash';
 const URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${key}`;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+/** A request that has not answered in this long is abandoned. fetch has no timeout of its own, so a
+ *  connection dropped mid-request (a laptop going to sleep, say) would otherwise hold the run forever. */
+const REQUEST_TIMEOUT_MS = 120_000;
 /** Claude's token and search counts, summed over the run, so each reading records what it used. */
 const usage = { inputTokens: 0, outputTokens: 0, searches: 0 };
 const hostOf = (u) => { try { return new globalThis.URL(u).hostname.replace(/^www\./, '').toLowerCase(); } catch { return ''; } };
@@ -85,6 +88,7 @@ async function askClaude(question) {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
       body: JSON.stringify({
         model: MODEL,
         max_tokens: 1500,
@@ -121,12 +125,13 @@ async function askClaude(question) {
   }
 }
 
-/** One grounded ask. Returns the source domains, or throws with .fatal on a spent daily quota. */
+/** One grounded ask. Returns the source domains, or throws with .fatal on a refused key or a spent daily quota. */
 async function askGemini(question) {
   for (let attempt = 1; ; attempt += 1) {
     const res = await fetch(URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
       body: JSON.stringify({
         contents: [{ parts: [{ text: question }] }],
         tools: [{ googleSearch: {} }],
@@ -141,6 +146,11 @@ async function askGemini(question) {
     const msg = json?.error?.message ?? `HTTP ${res.status}`;
     // A per-minute limit clears in seconds. A spent daily allowance does not clear until the
     // quota resets, and backing off through it just burns the run.
+    if (res.status === 401 || res.status === 403 || /API key not valid|API_KEY_INVALID/i.test(msg)) {
+      const e = new Error(`key refused: ${msg}`);
+      e.fatal = true;
+      throw e;
+    }
     if (/per day|PerDay|daily limit|exceeded your current quota/i.test(msg)) {
       const e = new Error(`daily quota exhausted: ${msg}`);
       e.fatal = true;
@@ -181,7 +191,7 @@ for (const [i, question] of PROMPTS.entries()) {
     } catch (e) {
       error = String(e.message ?? e);
       if (e.fatal) {
-        console.log(`\n\nStopping: ${ENGINE === 'claude' ? 'the key or the credit balance was refused' : 'the daily allowance is spent'}. Partial results are kept.`);
+        console.log(`\n\nStopping: ${ENGINE === 'claude' ? 'the key or the credit balance was refused' : 'the key was refused or the daily allowance is spent'}. Partial results are kept.`);
         stopped = true;
       }
       break;

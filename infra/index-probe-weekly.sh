@@ -45,6 +45,8 @@ VERDICT="$(node -e '
   const d = JSON.parse(fs.readFileSync(dir + "/" + f, "utf8"));
   const mine = (d.domains ?? []).filter((x) => ours.some((o) => x.domain.includes(o)));
   const total = d.questionsAsked ?? 0;
+  // Every ask failed (a refused key, say): that is no reading, not a reading of "not cited".
+  if (!total) { console.log("FAILED|no question was answered, see the run log"); process.exit(0); }
   console.log(mine.length
     ? "YES|" + mine.map((m) => m.domain + " on " + m.n + " of " + total).join(", ")
     : "no|not cited on any of " + total + " questions");
@@ -78,6 +80,7 @@ CVERDICT="$(node -e '
     for (const h of (r.searched ?? []).filter(isOurs)) found.set(h, (found.get(h) ?? 0) + 1);
   }
   const total = d.questionsAsked ?? 0;
+  if (!total) { console.log("FAILED|no question was answered, see the run log"); process.exit(0); }
   const fmt = (m) => [...m].map(([h, n]) => h + " on " + n + " of " + total).join(", ");
   const extra = found.size ? "; search returned " + fmt(found) : "";
   console.log(cited.size ? "YES|cited: " + fmt(cited) + extra : "no|not cited on any of " + total + " questions" + extra);
