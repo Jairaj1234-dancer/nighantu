@@ -69,6 +69,14 @@ if (!RENDER_ONLY && !CHECK) {
     process.exit(1);
   }
   const products = JSON.parse(fs.readFileSync(path.join(SURVEY, 'products.json'), 'utf8'));
+  /**
+   * Pages the name match found that are not the preparation: blog articles, other product forms
+   * sold under the same name, different formulas sharing a head name. Reviewed by hand and listed
+   * with a reason in src/data/disclosure-exclusions.json, so a re-run cannot bring them back.
+   */
+  const EXCLUDED = new Set(JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8'))
+    .excluded.map((x) => x.url));
+  products.products = products.products.filter((p) => !EXCLUDED.has(p.url));
   const discovery = JSON.parse(fs.readFileSync(path.join(SURVEY, 'discovery.json'), 'utf8'));
   /**
    * Wave 2, the whole product range, read separately and kept separate.
@@ -366,6 +374,9 @@ if (!CHECK) {
   fs.mkdirSync('public', { recursive: true });
   fs.writeFileSync(path.join('public', 'brand-disclosure.json'), `${JSON.stringify(data, null, 2)}\n`);
   console.log(`published          public/brand-disclosure.json (${(JSON.stringify(data).length / 1024).toFixed(0)} KB)`);
+  // The pages excluded from the measurement, with the reason for each, linked from the page.
+  fs.copyFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), path.join('public', 'disclosure-exclusions.json'));
+  console.log('published          public/disclosure-exclusions.json');
 }
 const byId = Object.fromEntries(data.companies.map((c) => [c.id, c]));
 const nameOf = (id) => byId[id]?.name ?? id;
