@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Shukti-Bhasma/meta-a
 
 ## Recent safety updates
 
-- SAFE AT RECOMMENDED DOSES: Considered safe at the doses given under Dosage, under medical supervision
+- TRADITIONALLY CONSIDERED WELL TOLERATED: Traditionally considered well tolerated at the doses given under Dosage, under medical supervision
 - MILD SIDE EFFECTS: Overuse may cause dryness or constipation due to calcium carbonate excess
 - NO INTENTIONALLY ADDED TOXIC METALS: Marine shell-based preparation without intentional toxic heavy metal content. Relatively low contamination risk.
 - MEDICAL SUPERVISION REQUIRED: Self-medication discouraged. Dose should be adjusted based on individual calcium needs and serum calcium levels.

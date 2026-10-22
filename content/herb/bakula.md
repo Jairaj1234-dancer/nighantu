@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 - Anti-inflammatory action via triterpenoid-mediated (betulinic acid) inhibition of 5-LOX and COX-2 pathways
 - Studies of betulinic acid (a constituent) in cancer cells have reported [anticancer](/reference/anticancer/) activity through mitochondrial apoptosis and caspase cascade activation
 - [Anxiolytic](/reference/anxiolytic/) and anticonvulsant effects via GABAergic receptor modulation by bark alkaloid fractions
-- Oral health protection through [antimicrobial](/reference/antimicrobial/) activity against Streptococcus mutans and astringent tannin effects on gingival tissue
+- Reported [antimicrobial](/reference/antimicrobial/) activity against Streptococcus mutans and astringent tannin effects on gingival tissue, which may support oral health
 
 ## Which traditional uses are supported by research?
 
@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 
 ## Recent safety updates
 
-- Bark and flower decoctions are traditionally used for dental care and are generally well-tolerated at recommended Ayurvedic doses
+- Bark and flower decoctions are traditionally used for dental care and are traditionally considered well-tolerated
 - Formal human clinical safety trials are limited; acute toxicity studies in rodents indicate LD50 > 2000 mg/kg for most extracts
 
 ## What is it made of?

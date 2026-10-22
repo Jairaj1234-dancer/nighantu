@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Matsyakshi/meta-analys
 
 **Standard Dosage:** 3-6 g powder per day in divided doses; 50-100 mL decoction twice daily; 10-20 mL fresh juice; 500 mg extract capsules twice daily
 
-**Optimal Timing:** Morning for tonic and nutritive effects; between meals for eye health benefits (traditional use); with meals as nutritive supplement
+**Optimal Timing:** Morning for tonic and nutritive effects; between meals when traditionally used for the eyes; with meals as nutritive supplement
 
 **Storage:** Dried herb below 25 deg C in airtight containers with moisture protection. Fresh plant material at 4-8 deg C, process within 24 hours. Capsules in blister packs with desiccant.
 

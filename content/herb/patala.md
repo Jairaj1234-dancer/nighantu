@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 20-30 mL decoction twice daily; 500-750 mg standardized extract twice daily
 
-**Optimal Timing:** After meals for general anti-inflammatory use. As part of Dashmool Kwatha: morning and evening between meals.
+**Optimal Timing:** After meals. As part of Dashmool Kwatha: morning and evening between meals.
 
 **Storage:** Dried bark: airtight containers, below 25 deg C, protected from moisture and pest infestation. Extracts: amber containers, cool and dry. Arishtam: amber glass, room temperature.
 

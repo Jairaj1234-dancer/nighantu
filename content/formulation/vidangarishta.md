@@ -31,7 +31,7 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ## How does it work?
 
-- [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)) exerts potent anthelmintic action by paralyzing intestinal parasites (roundworms, tapeworms)
+- [Embelin](/glossary/compounds-d-g/#embelin) (from [Vidanga](/herb/vidanga/)) is regarded as the main anthelmintic constituent, traditionally used against intestinal parasites (roundworms, tapeworms)
 - Kutaja provides anti-dysenteric and anti-amoebic action complementing the antiparasitic activity
 - [Pippali](/herb/pippali/)-mediated bioavailability enhancement increases systemic absorption of embelin and other active compounds
 - [Triphala](/herb/triphala/) and [Rasna](/herb/rasna/) are traditionally regarded as [immunomodulatory](/reference/immunomodulatory/)
@@ -70,4 +70,4 @@ Sharangadharasamhita Madhyamakhanda. Also referenced in Bhavaprakasha Nighantu (
 
 ### Synergistic Combinations
 
-- Key herbs: [Vidanga](/herb/vidanga/) (Embelia ribes), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Vidanga](/herb/vidanga/) (Embelia ribes), [Dhataki](/herb/dhataki/), [Guda](/glossary/concepts-a-m/#guda)

@@ -133,7 +133,7 @@ answer: "Plant families is a reference glossary of 24 entries drawn from the Ayu
 
 *5 members in the catalogue*
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don* (Antioxidant, Aphrodisiac, Neuroprotective)
 
 ### Family: Piperaceae {#piperaceae}

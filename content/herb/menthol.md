@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Menthol/meta-analys
 
 **Standard Dosage:** Topical: 1-10% in formulations. Oral (lozenges): 5-10 mg per lozenge. Inhalation: 2-5 drops in steam. Internal: 0.2-0.4 mL peppermint oil (50-55% menthol) in enteric-coated capsules.
 
-**Optimal Timing:** Topical: as needed for pain or cooling. Lozenges: as needed for throat/nasal congestion. Enteric capsules: 30 minutes before meals for IBS. Inhalation: as needed for respiratory relief.
+**Optimal Timing:** Topical: as needed for pain or cooling. Lozenges: as needed for throat/nasal congestion. Enteric capsules: 30 minutes before meals. Inhalation: as needed for respiratory relief.
 
 **Storage:** Store menthol crystals in airtight glass containers at 15-25 deg C (sublimes at higher temperatures). Protect from heat and light. Essential oil in amber glass, tightly sealed. Topical products at room temperature. Lozenges in individually wrapped, moisture-proof packaging.
 

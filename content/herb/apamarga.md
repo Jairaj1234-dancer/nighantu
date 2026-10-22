@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Apamarga/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally safe at traditional Ayurvedic doses; acute toxicity studies in animals show LD50 > 2000 mg/kg for aqueous extracts
+- Acute toxicity studies in animals show LD50 > 2000 mg/kg for aqueous extracts
 - Contraindicated in pregnancy due to reported abortifacient activity in animal studies; patients on anticoagulants should exercise caution
 
 ## What is it made of?

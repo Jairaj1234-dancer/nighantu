@@ -158,7 +158,7 @@ answer: "Pharmacology terms is a reference glossary of 10 entries drawn from the
 #### Ayurveda (20)
 
 - [Akarakarabha](/herb/akarakarabha/), *Anacyclus pyrethrum (L.) Lag.*
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kapikachhu](/herb/kapikachhu/)
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Lata Kasturi](/herb/lata-kasturi/)

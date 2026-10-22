@@ -39,9 +39,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 ## How does it work?
 
-- Cardiovascular protective: Allicin and ajoene inhibit platelet aggregation, reduce LDL oxidation, and enhance NO-mediated vasodilation; DADS activates Nrf2-dependent [antioxidant](/reference/antioxidant/) pathways
+- Proposed cardiovascular mechanisms: Allicin and ajoene inhibit platelet aggregation, reduce LDL oxidation, and enhance NO-mediated vasodilation; DADS activates Nrf2-dependent [antioxidant](/reference/antioxidant/) pathways
 - [Antimicrobial](/reference/antimicrobial/): Allicin disrupts bacterial membranes and inhibits thiol-dependent [enzymes](/glossary/compounds-d-g/#enzymes); studies have reported activity against S. aureus, E. coli, P. aeruginosa, and H. pylori
-- [Anticancer](/reference/anticancer/): DATS and ajoene induce G2/M cell cycle arrest, activate intrinsic apoptotic pathway, and inhibit angiogenesis through VEGF suppression
+- Reported [anticancer](/reference/anticancer/) mechanisms: DATS and ajoene induce G2/M cell cycle arrest, activate intrinsic apoptotic pathway, and inhibit angiogenesis through VEGF suppression
 
 ## Which traditional uses are supported by research?
 

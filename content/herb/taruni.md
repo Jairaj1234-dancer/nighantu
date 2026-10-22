@@ -51,4 +51,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Taruni/meta-analysis.md"
 - Amalaki - cooling and Pitta-pacifying synergy
 - Mishri (rock sugar) - traditional adjuvant in Gulkand
 - [Shatavari](/herb/shatavari/) - female reproductive tonic synergy
-- Chandan (sandalwood) - cooling and cardiotonic combination
+- Chandan (sandalwood) - traditionally paired for cooling action

@@ -93,4 +93,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 - [Haritaki](/herb/haritaki/) ([Triphala](/herb/triphala/)-based laxative formulations)
 - [Fennel](/herb/fennel/)/Saunf (carminative addition to reduce griping)
 - Psyllium husk (bulk-forming + stimulant laxative combination)
-- [Ginger](/herb/ginger/) (reduces nausea and griping associated with senna)
+- [Ginger](/herb/ginger/) (traditionally combined to offset nausea and griping associated with senna)

@@ -51,7 +51,7 @@ Sahasrayogam. Also referenced in Rasa Tarangini and Bhaishajya Ratnavali under d
 
 ## Recent safety updates
 
-- Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles with immunomodulatory properties.
+- Well-tolerated with minimal side effects at recommended doses. All three ingredients have established safety profiles.
 - May counteract immunosuppressant drugs; use cautiously in autoimmune conditions. [Ginger](/herb/ginger/) component may interact with anticoagulant medications.
 
 ## Dosage forms and preparation

@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akshotaka/meta-analysis.md"
 
 **Standard Dosage:** 3-6g kernel powder twice daily; 5-10ml oil internally; 1-2 walnut kernels daily as dietary supplement
 
-**Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder with warm milk at bedtime for brain nourishment.
+**Optimal Timing:** With meals or as snack. Oil taken in morning on empty stomach for general health. Kernel powder is traditionally taken with warm milk at bedtime as a brain tonic.
 
 **Storage:** Kernels and powder in airtight containers, refrigerated or below 15°C. Oil in amber glass, nitrogen-flushed headspace, refrigerated after opening. Protect from heat, light, and oxygen.
 

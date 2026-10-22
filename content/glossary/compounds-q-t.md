@@ -1281,7 +1281,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kasturi](/herb/kasturi/)
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 - [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*

@@ -32,7 +32,7 @@ Bhaishajya Ratnavali (Kshudra Roga Chikitsa chapter); also documented in Ashtang
 ## How does it work?
 
 - [Crocin](/glossary/compounds-c-d/#crocin) and [crocetin](/glossary/compounds-c-d/#crocetin) from [Saffron](/herb/saffron/) inhibit tyrosinase enzyme activity, reducing melanin synthesis and providing skin-brightening effect
-- [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/herb/manjistha/) ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) provide blood-purifying and anti-inflammatory action, reducing post-inflammatory hyperpigmentation
+- [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) from [Manjistha](/herb/manjistha/) ([purpurin](/glossary/compounds-o-q/#purpurin), munjistin) are traditionally associated with blood-purifying and anti-inflammatory action
 - Sandalwood's santalol compounds reduce transepidermal water loss (TEWL) and provide anti-inflammatory barrier repair through modulation of inflammatory cytokines
 - [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice inhibits melanogenesis via downregulation of MITF (microphthalmia-associated transcription factor) and acts as a skin-soothing agent
 

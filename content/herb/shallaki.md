@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shallaki/meta-analysis.md"
 
 - Anti-inflammatory: AKBA is a potent direct inhibitor of 5-lipoxygenase (5-LOX), blocking leukotriene synthesis; also inhibits NF-kB, COX-2, MAPK, and NLRP3 inflammasome
 - Anti-arthritic: Boswellic acids are reported to inhibit MMP-3 and MMP-9 (matrix metalloproteinases), enzymes involved in cartilage degradation
-- [Immunomodulatory](/reference/immunomodulatory/): Modulates T-cell and B-cell function, shifts Th1/Th2 balance, and reduces autoimmune inflammatory cascades
+- [Immunomodulatory](/reference/immunomodulatory/): Modulates T-cell and B-cell function and shifts Th1/Th2 balance
 
 ## Which traditional uses are supported by research?
 

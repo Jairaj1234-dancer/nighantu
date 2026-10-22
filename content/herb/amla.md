@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Amla/meta-analysis.md"
 - Adipogenesis inhibition: Tannin content prevents adipogenesis and increases [glucose](/glossary/compounds-d-g/#glucose) uptake by enhancing peripheral insulin sensitivity.
 - Neuroprotection: Targets MAPK3, SRC, MAPK1; modulates neuroactive ligand-receptor interactions and serotonergic synapses.
 - Hepatoprotective and nephroprotective: Cytoprotective effects on liver and kidney tissues.
-- [Immunomodulatory](/reference/immunomodulatory/) and antiviral: Broad-spectrum immune support and documented antiviral activity.
+- [Immunomodulatory](/reference/immunomodulatory/) and antiviral: Immunomodulatory and antiviral activity reported in studies.
 
 ## How is it used traditionally?
 

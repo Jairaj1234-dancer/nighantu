@@ -51,4 +51,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Kasheruka/meta-analysis.md"
 - Musta (Cyperus rotundus) for digestive and gynecological synergy
 - [Ushira](/herb/ushira/) (Vetiver) for cooling and anti-pitta formulations
 - [Sariva](/herb/sariva/) for blood purification
-- [Chandana](/herb/chandana/) for urinary disorders
+- [Chandana](/herb/chandana/), traditionally combined in formulations for urinary complaints

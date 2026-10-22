@@ -51,5 +51,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Mulaka/meta-analysis.md"
 - [Pippali](/herb/pippali/) (bioenhancer and respiratory synergy)
 - [Haritaki](/herb/haritaki/) (digestive combination)
 - Chitraka (Agni-deepana, digestive fire kindling)
-- [Apamarga](/herb/apamarga/) Kshara (urolithiasis management)
+- [Apamarga](/herb/apamarga/) Kshara (traditionally paired for urinary stones)
 - [Yavakshara](/herb/yavakshara/) (acid-neutralizing and digestive)

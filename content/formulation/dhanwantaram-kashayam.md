@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Dhanwantaram
 ## Key Ingredients
 
 - [Bala](/herb/bala/) moola (Sida cordifolia root)
-- [Dashamoola](/herb/dashamoola/) (group of ten anti-inflammatory roots)
+- [Dashamoola](/herb/dashamoola/) (group of ten roots)
 - [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra)
 - [Vacha](/herb/vacha/) (Acorus calamus)
 - [Triphala](/herb/triphala/) ([Haritaki](/herb/haritaki/), [Bibhitaki](/herb/bibhitaki/), Amalaki)

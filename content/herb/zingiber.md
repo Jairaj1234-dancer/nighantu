@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 **Standard Dosage:** 1-3 g dry ginger powder twice daily; 5-10 mL fresh juice with honey; 250-500 mg standardized extract capsule twice daily; 1-2 g fresh ginger as food
 
-**Optimal Timing:** Before meals for digestive stimulation and anti-emetic effect; with meals for carminative action; morning with warm water for metabolism activation; 30-60 minutes before travel for motion sickness
+**Optimal Timing:** Before meals for digestive stimulation and anti-emetic effect; with meals for carminative action; morning with warm water for metabolism activation; traditionally taken 30-60 minutes before travel in motion sickness
 
 **Storage:** Fresh ginger at 12-14 deg C, 65% RH (not below 10 deg C to avoid chilling injury). Dry ginger in airtight, moisture-proof containers at 15-25 deg C. Oleoresin and essential oil in amber glass, tightly sealed, at 15-25 deg C. Protect from light and heat.
 

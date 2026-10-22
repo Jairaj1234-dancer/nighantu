@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga-Rasa/meta-analysis.
 
 **Standard Dosage:** 10-20 mL fresh juice diluted with water, 1-2 times daily; 5-10 mL concentrated juice; reconstituted freeze-dried powder equivalent to 15 mL fresh juice
 
-**Optimal Timing:** Morning on empty stomach diluted with warm water for digestive stimulation; before meals for appetite; with meals for iron absorption enhancement; as needed for nausea
+**Optimal Timing:** Morning on empty stomach diluted with warm water for digestive stimulation; before meals for appetite; with meals for iron absorption enhancement; traditionally taken as needed for nausea
 
 **Storage:** Fresh juice at 2-8 deg C immediately after extraction. Concentrate in glass or lined containers at cool temperature. Freeze-dried powder in moisture-proof, nitrogen-flushed sachets below 25 deg C. Effervescent tablets in aluminum-foil tubes with desiccant cap.
 
@@ -52,6 +52,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Matulunga-Rasa/meta-analysis.
 
 - [Saindhava Lavana](/herb/saindhava-lavana/)/Rock salt (digestive and electrolyte)
 - Shunthi juice (anti-emetic and digestive)
-- [Madhu](/herb/madhu/)/Honey (sore throat and cough)
+- [Madhu](/herb/madhu/)/Honey (traditionally paired for sore throat and cough)
 - [Ajwain](/herb/ajwain/) (carminative combination)
 - [Pudina](/herb/pudina/)/Mint (cooling digestive)

@@ -40,7 +40,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Abhraka-Bhasma/meta-
 - DNA repair enhancement through stimulation of base excision repair (BER) pathway, protecting against genotoxic damage and chromosomal aberrations
 - [Immunomodulatory](/reference/immunomodulatory/) action through modulation of innate and adaptive immune responses, supporting [Rasayana](/reference/rasayana/) (rejuvenation) properties described in classical texts
 - [Hepatoprotective](/reference/hepatoprotective/) effect at therapeutic doses through [antioxidant](/reference/antioxidant/) and cellular membrane stabilization, supporting traditional use in liver disorders
-- Respiratory system support through anti-inflammatory and mucolytic properties derived from multi-mineral nanoparticle composition
 
 ## Which traditional uses are supported by research?
 

@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 - Anti-inflammatory activity mediated by ferulic acid and sesquiterpene coumarins through inhibition of NF-kB and COX-2 pathways
 - Organosulfur compounds provide [antimicrobial](/reference/antimicrobial/) activity by disrupting bacterial and fungal cell membrane integrity
 - Volatile oil components eliminated through the lungs are proposed to have [expectorant](/reference/expectorant/) and bronchodilatory effects (not established in humans)
-- [Antioxidant](/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds, protecting against oxidative stress in liver and kidney
+- [Antioxidant](/reference/antioxidant/) mechanism via free radical scavenging by ferulic acid and polyphenolic compounds; animal studies have reported reduced oxidative stress in liver and kidney
 
 ## Which traditional uses are supported by research?
 

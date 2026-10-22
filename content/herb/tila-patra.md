@@ -49,6 +49,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila-Patra/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Tila](/herb/tila/) (sesame seed oil) - comprehensive Sesamum-based formulation
-- [Nimba](/herb/nimba/) ([neem](/herb/neem/)) leaves - synergistic dermatological action
+- [Nimba](/herb/nimba/) ([neem](/herb/neem/)) leaves
 - [Haridra](/herb/haridra/) ([turmeric](/herb/turmeric/))
 - [Ghrita](/herb/ghrita/) (ghee) - vehicle for enhanced lipophilic compound absorption

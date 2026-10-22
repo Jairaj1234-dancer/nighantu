@@ -51,5 +51,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Raktamoola/meta-analysis.
 - [Yashtimadhu](/herb/yashtimadhu/) (wound healing synergy)
 - [Haridra](/herb/haridra/) (anti-inflammatory combination)
 - [Ghrita](/herb/ghrita/)/Ghee (lipid vehicle enhances naphthoquinone absorption)
-- [Manjistha](/herb/manjistha/) (blood purification and wound healing)
+- [Manjistha](/herb/manjistha/) (traditionally paired for blood purification and wound healing)
 - Kumari/Aloe (topical wound healing formulation)
