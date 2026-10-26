@@ -53,6 +53,15 @@ const clinic = {
   })),
   ...(p.website ? { sameAs: [p.website, ...(p.reviewLinks ?? []).map((r: any) => r.url)] } : {}),
 };
+/** A prefilled email for the practice to confirm, correct or remove this listing; the site ships no script. */
+const verifyHref = `mailto:contact@ageayurveda.com?subject=${encodeURIComponent(`Practitioner directory: verify listing: ${p.practiceName}`)}&body=${encodeURIComponent([
+  `Listing: ${abs(canonical)}`, '',
+  'Request (confirm / correct / remove):', '',
+  'What should change, if anything:', '',
+  'Registration number and council:', '',
+  'Your name and role at the practice:', '',
+  'I run this practice or am authorised by it.',
+].join('\n'))}`;
 const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', address: 'Address', phone: 'Phone' } as Record<string, string>;
 ---
 <Page
@@ -101,7 +110,8 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
     <ul class="sources">
       {Object.entries(p.sources).filter(([k]) => FIELD[k]).map(([k, u]) => <li>{FIELD[k]}: <a href={u as string} rel="noopener">{(u as string).replace(/^https?:\/\/(www\.)?/, '').slice(0, 70)}</a></li>)}
     </ul>
-    <p class="note">Checked {p.checkedOn}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice. If you run this practice and a detail is wrong, or you want the listing removed, write to us through the <a href={rel('/corrections/')}>corrections page</a> and we will act on it.</p>
+    <p class="note">Checked {p.checkedOn}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice.</p>
+    <p><a class="practitioner-cta" href={verifyHref}>Is this your practice? Verify, correct or remove it</a> or use the <a href={rel('/practitioners/submit/')}>listing form</a>.</p>
   </section>
 
   {others.length > 0 && (
