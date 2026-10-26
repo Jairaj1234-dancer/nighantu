@@ -1,0 +1,87 @@
+---
+/**
+ * Where a practitioner lists a practice, confirms a listing, corrects it or asks for it to be removed.
+ *
+ * The site is static and keeps no server, and ships no script (scripts/crawl-audit.mjs refuses one), so
+ * the form is a plain HTML form posting to a mailto: address with enctype text/plain. The browser opens
+ * the reader's own mail app with the fields filled in, and they send it. Nothing is stored by this page
+ * and no third-party form service sees it. The per-listing "verify" links are prefilled mailto links.
+ *
+ * Nothing submitted is published as it arrives. A new listing is checked the same way a collected one
+ * is: the registration number against the state or national register, and the practice name, address
+ * and phone against the practice's own published details or a call to that number. Only then does it go
+ * through the same admission script as everything else.
+ */
+import Page from '../../layouts/Page.astro';
+import { rel } from '../../lib/site';
+const TO = 'contact@ageayurveda.com';
+---
+<Page
+  title="List or verify your Ayurvedic practice"
+  description="For Ayurvedic practitioners in India: add your practice to the Nighantu directory, confirm or correct an existing listing, or ask for it to be removed. Free, and checked before anything is published."
+  canonical="/practitioners/submit/"
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: 'List or verify your practice' }]}
+>
+  <h1>List or verify your Ayurvedic practice</h1>
+  <p class="answer">Listing is free and takes a few minutes. We publish four things about a practice: the practitioner's name, the practice's name, its address and a business phone number. We check every submission before it appears, and we never list a personal phone number.</p>
+
+  <h2>How it works</h2>
+  <ol>
+    <li>Fill in the form below and press <strong>Prepare email</strong>. Your email app opens with everything filled in. Send it from there. If you are already listed, the button on your listing opens an email with the listing's address filled in.</li>
+    <li>We check the registration number against the state or national register, and the address and phone against your practice's own published details, or by calling the business number.</li>
+    <li>Once checked, the listing goes live, usually within a week, showing the date it was checked. A verified registration is shown on the listing.</li>
+  </ol>
+
+  <form class="submit-form" id="submit" action={`mailto:${TO}?subject=${encodeURIComponent('Practitioner directory submission')}`} method="post" enctype="text/plain">
+    <label for="type">What would you like to do?</label>
+    <select id="type" name="type">
+      <option value="New listing">Add my practice</option>
+      <option value="Verify listing">Confirm my existing listing is correct</option>
+      <option value="Correct listing">Correct my existing listing</option>
+      <option value="Remove listing">Remove my listing</option>
+    </select>
+
+    <label for="listing">Existing listing address (if any)</label>
+    <input type="url" id="listing" name="listing" placeholder="https://nighantu.ageayurveda.com/practitioners/..." />
+
+    <label for="name">Practitioner's full name</label>
+    <input type="text" id="name" name="practitioner" required placeholder="Dr First-name Surname" />
+
+    <label for="qual">Qualification</label>
+    <input type="text" id="qual" name="qualification" placeholder="BAMS, MD (Ayu)..." />
+
+    <label for="reg">Registration number and the council that issued it</label>
+    <input type="text" id="reg" name="registration" placeholder="e.g. I-12345-A1, Maharashtra Council of Indian Medicine" />
+    <p class="hint">Needed for a new listing. It is how we confirm you are a registered practitioner.</p>
+
+    <label for="practice">Practice name</label>
+    <input type="text" id="practice" name="practice" required />
+
+    <label for="address">Full address with PIN code</label>
+    <textarea id="address" name="address" rows="3" required></textarea>
+
+    <label for="phone">Business phone number to publish</label>
+    <input type="tel" id="phone" name="business_phone" required placeholder="+91 ..." />
+    <p class="hint">The number patients should call. Please do not give a personal mobile you do not want published.</p>
+
+    <label for="website">Practice website or published listing (optional)</label>
+    <input type="url" id="website" name="website" />
+
+    <label for="email">Your email, for our reply only (not published)</label>
+    <input type="email" id="email" name="reply_email" />
+
+    <label for="notes">Anything else (services, hours, what to correct)</label>
+    <textarea id="notes" name="notes" rows="3"></textarea>
+
+    <label class="check"><input type="checkbox" id="consent" name="consent" value="I run this practice or am authorised by it, and agree to the name, practice, address and business phone being published" required /> I run this practice or am authorised by it, and I agree to the practitioner name, practice name, address and business phone above being published in the directory. I can ask for them to be corrected or removed at any time.</label>
+
+    <button type="submit">Prepare email</button>
+    <p class="hint">This opens your email app with the details filled in. Please press send there. If nothing opens, email us directly at the address below.</p>
+  </form>
+
+  <p>Prefer to write directly? Email <a href={`mailto:${TO}?subject=${encodeURIComponent('Practitioner directory')}`}>{TO}</a>. You can also ask for a listing to be removed without giving a reason, and we will remove it.</p>
+
+  <h2>What we do with your details</h2>
+  <p>We use what you send only to check and publish your listing. Your email address and anything you mark as not for publication are never published. Testimonials are not taken through this form; where your practice publishes them on its own website, the listing may quote short excerpts with a link. <a href={rel('/practitioners/about/')}>How the directory is made</a>.</p>
+
+</Page>
