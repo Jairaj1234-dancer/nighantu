@@ -1,22 +1,22 @@
 {
  "updatedAt": "2026-10-10T00:53:27.437Z",
  "summary": {
-  "papers": 3528,
-  "withDoi": 3349,
+  "papers": 3507,
+  "withDoi": 3328,
   "subjectsCovered": 478,
   "citedByMultiple": 638,
   "byTier": {
    "A": 158,
    "B": 105,
-   "C": 1176,
-   "D": 2089
+   "C": 1171,
+   "D": 2073
   },
   "byDecade": {
-   "2020s": 2146,
-   "2010s": 1084,
-   "2000s": 216,
+   "2020s": 2133,
+   "2010s": 1078,
+   "2000s": 215,
    "1990s": 42,
-   "1980s": 21,
+   "1980s": 20,
    "1970s": 10,
    "1960s": 5,
    "1950s": 1,
@@ -26,7 +26,7 @@
   "topJournals": [
    {
     "name": "Journal of ethnopharmacology",
-    "count": 218
+    "count": 217
    },
    {
     "name": "Molecules (Basel, Switzerland)",
@@ -34,15 +34,15 @@
    },
    {
     "name": "Plants (Basel, Switzerland)",
-    "count": 73
+    "count": 72
    },
    {
     "name": "Natural product research",
-    "count": 71
+    "count": 70
    },
    {
     "name": "Phytotherapy research : PTR",
-    "count": 70
+    "count": 69
    },
    {
     "name": "Ayu",
@@ -50,7 +50,7 @@
    },
    {
     "name": "Scientific reports",
-    "count": 61
+    "count": 62
    },
    {
     "name": "Journal of Ayurveda and integrative medicine",
@@ -62,7 +62,7 @@
    },
    {
     "name": "Heliyon",
-    "count": 51
+    "count": 50
    },
    {
     "name": "International journal of molecular sciences",
@@ -901,13 +901,13 @@
      "kind": "herb",
      "slug": "jivaka",
      "title": "Jivaka",
-     "binomial": "malaxis muscifera"
+     "binomial": "malaxis acuminata"
     },
     {
      "kind": "herb",
      "slug": "rishabhaka",
      "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
+     "binomial": "malaxis muscifera"
     }
    ]
   },
@@ -13419,32 +13419,6 @@
    ]
   },
   {
-   "pmid": "38513827",
-   "doi": "10.1016/j.toxicon.2024.107684",
-   "title": "Gaps in forensic toxicological analysis: The veiled abrin",
-   "journal": "Toxicon : official journal of the International Society on Toxinology",
-   "year": 2024,
-   "authors": [
-    "Chen Y",
-    "Liu J",
-    "Song T",
-    "Zou X",
-    "Li L",
-    "Nie Q",
-    "Zhang P"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/38513827/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "36503329",
    "doi": "10.1080/10408398.2022.2153793",
    "title": "Garlic (Allium sativum L.) in diabetes and its complications: Recent advances in mechanisms of action",
@@ -21719,6 +21693,12 @@
      "slug": "chakramarda",
      "title": "Chakramarda",
      "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -22205,32 +22185,6 @@
      "slug": "trapusha",
      "title": "Trapusha",
      "binomial": "cucumis sativus"
-    }
-   ]
-  },
-  {
-   "pmid": "35714881",
-   "doi": "10.1016/j.jep.2022.115463",
-   "title": "The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review",
-   "journal": "Journal of ethnopharmacology",
-   "year": 2022,
-   "authors": [
-    "Qian H",
-    "Wang L",
-    "Li Y",
-    "Wang B",
-    "Li C",
-    "Fang L",
-    "Tang L"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/35714881/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
     }
    ]
   },
@@ -24251,12 +24205,6 @@
      "slug": "ishwari",
      "title": "Ishwari",
      "binomial": "aristolochia indica"
-    },
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
     },
     {
      "kind": "herb",
@@ -27644,31 +27592,6 @@
      "slug": "pudina",
      "title": "Pudina",
      "binomial": "mentha spicata"
-    }
-   ]
-  },
-  {
-   "pmid": "32957510",
-   "doi": "10.3390/plants9091219",
-   "title": "Therapeutic Application of Betalains: A Review",
-   "journal": "Plants (Basel, Switzerland)",
-   "year": 2020,
-   "authors": [
-    "Madadi E",
-    "Mazloum-Ravasan S",
-    "Yu JS",
-    "Ha JW",
-    "Hamishehkar H",
-    "Kim KH"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/32957510/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -34398,27 +34321,6 @@
    ]
   },
   {
-   "pmid": "25183095",
-   "doi": "10.12980/APJTB.4.2014C1069",
-   "title": "Ethno botanical and Phytophrmacological potential of Abrus precatorius L.: A review",
-   "journal": "Asian Pacific journal of tropical biomedicine",
-   "year": 2014,
-   "authors": [
-    "Garaniya N",
-    "Bapodra A"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/25183095/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "24484589",
    "doi": "10.1016/S1875-5364(14)60001-7",
    "title": "Ethnopharmacology, phytochemistry and pharmacology of Tephrosia purpurea",
@@ -35241,32 +35143,6 @@
      "slug": "kasani",
      "title": "Kasani",
      "binomial": "cichorium intybus"
-    }
-   ]
-  },
-  {
-   "pmid": "23336629",
-   "doi": "10.1111/myc.12039",
-   "title": "First environmental isolation of Cryptococcus gattii, genotype AFLP5, from India and a global review",
-   "journal": "Mycoses",
-   "year": 2013,
-   "authors": [
-    "Chowdhary A",
-    "Prakash A",
-    "Randhawa HS",
-    "Kathuria S",
-    "Hagen F",
-    "Klaassen CH",
-    "Meis JF"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/23336629/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
@@ -37775,6 +37651,27 @@
    ]
   },
   {
+   "pmid": "15501482",
+   "doi": "10.1016/j.lfs.2004.07.011",
+   "title": "Antigenotoxic properties of Cassia tea (Cassia tora L.): mechanism of action and the influence of roasting process",
+   "journal": "Life sciences",
+   "year": 2004,
+   "authors": [
+    "Wu CH",
+    "Yen GC"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15501482/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
+    }
+   ]
+  },
+  {
    "pmid": "15452648",
    "doi": "10.1100/tsw.2004.131",
    "title": "Raphanus sativus (Radish): their chemistry and biology",
@@ -37824,30 +37721,6 @@
      "slug": "makoy",
      "title": "Makoy",
      "binomial": "solanum nigrum"
-    }
-   ]
-  },
-  {
-   "pmid": "15181663",
-   "doi": "10.2165/00139709-200322030-00002",
-   "title": "Abrin poisoning",
-   "journal": "Toxicological reviews",
-   "year": 2003,
-   "authors": [
-    "Dickers KJ",
-    "Bradberry SM",
-    "Rice P",
-    "Griffiths GD",
-    "Vale JA"
-   ],
-   "tier": "C",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/15181663/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
     }
    ]
   },
@@ -38656,12 +38529,6 @@
     },
     {
      "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    },
-    {
-     "kind": "herb",
      "slug": "vidari",
      "title": "Vidari",
      "binomial": "pueraria tuberosa"
@@ -39196,30 +39063,6 @@
      "slug": "katphala",
      "title": "Katphala",
      "binomial": "myrica esculenta"
-    }
-   ]
-  },
-  {
-   "pmid": "39670969",
-   "doi": "10.1080/14786419.2024.2435533",
-   "title": "Development of validated HPTLC methods for determination of triterpenoids and flavan-3-ols in leaf and stembark of Manilkara hexandra Dubard",
-   "journal": "Natural product research",
-   "year": 2026,
-   "authors": [
-    "Sharma S",
-    "Modi K",
-    "Thakar M",
-    "Sindhav G",
-    "Shah MB"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/39670969/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
@@ -40230,30 +40073,6 @@
    ]
   },
   {
-   "pmid": "40796806",
-   "doi": "10.1080/0886022X.2025.2545941",
-   "title": "4-Methoxylonchocarpin protects against cisplatin induced acute kidney injury via regulating ferroptosis",
-   "journal": "Renal failure",
-   "year": 2025,
-   "authors": [
-    "Jiao N",
-    "Wang B",
-    "Zhang Q",
-    "Liu Y",
-    "Zhao F"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40796806/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "40633549",
    "doi": "10.1055/a-2629-0226",
    "title": "Alkaloid Composition and Antiarrhythmic Activity of the Extracts from Rauvolfia serpentina Tissue Culture",
@@ -40325,35 +40144,6 @@
      "slug": "saptaparna",
      "title": "Saptaparna",
      "binomial": "alstonia scholaris"
-    }
-   ]
-  },
-  {
-   "pmid": "40395717",
-   "doi": "10.1002/fsn3.70314",
-   "title": "Amaranthus spinosus Linn. Extract as an Innovative Strategy to Regulate Biomarkers for Ovarian Hyperthecosis via Circular RNA (hsa-circ-0001577): Evidence From Biochemical, Metabolomics, Histological, and Phytochemical Profiling",
-   "journal": "Food science & nutrition",
-   "year": 2025,
-   "authors": [
-    "Ammar NM",
-    "Kadry MO",
-    "Abd Elkarim AS",
-    "Ibrahim RS",
-    "Sallam IE",
-    "El Gendy AEG",
-    "Afifi SM",
-    "Esatbeyoglu T",
-    "Farag MA",
-    "Elshamy AI"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40395717/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -40531,29 +40321,6 @@
      "slug": "mukta-pishti",
      "title": "Mukta Pishti",
      "binomial": ""
-    }
-   ]
-  },
-  {
-   "pmid": "41428221",
-   "doi": "10.1007/s00284-025-04645-9",
-   "title": "Antibacterial Activity, Phytochemical Composition, and Cytotoxicity Evaluation of Select Medicinal Plants from Bangladesh",
-   "journal": "Current microbiology",
-   "year": 2025,
-   "authors": [
-    "Ahmed F",
-    "Luyten W",
-    "Ghosh AK",
-    "Paeshuyse J"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41428221/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -41781,35 +41548,6 @@
      "slug": "amra",
      "title": "Amra",
      "binomial": "mangifera indica"
-    }
-   ]
-  },
-  {
-   "pmid": "40500983",
-   "doi": "10.1002/bio.70231",
-   "title": "Exploring the Nanoparticle Fabrication Ability of Amaranthus spinosus and Its Biological Functions",
-   "journal": "Luminescence : the journal of biological and chemical luminescence",
-   "year": 2025,
-   "authors": [
-    "Rengarajan S",
-    "Navaneethan RD",
-    "Alagendran S",
-    "Subramani C",
-    "Raman S",
-    "Dixit S",
-    "Mythili R",
-    "Chinnapandi B",
-    "Pandian A",
-    "Govindarajan RK"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40500983/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -52693,29 +52431,6 @@
    ]
   },
   {
-   "pmid": "38700595",
-   "doi": "10.1007/s10661-024-12634-x",
-   "title": "Urban trees' potential for regulatory services in the urban environment: an exploration of carbon sequestration",
-   "journal": "Environmental monitoring and assessment",
-   "year": 2024,
-   "authors": [
-    "Sharma S",
-    "Hussain S",
-    "Kumar P",
-    "Singh AN"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/38700595/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
-    }
-   ]
-  },
-  {
    "pmid": "39609685",
    "doi": "10.1186/s12906-024-04684-y",
    "title": "Validating anti-inflammatory and cytotoxic properties of Fagonia cretica L. through metabolic, in vitro, and in silico profiling",
@@ -55954,33 +55669,6 @@
    ]
   },
   {
-   "pmid": "37186777",
-   "doi": "10.1093/plphys/kiad281",
-   "title": "Extrachromosomal circular DNA-mediated spread of herbicide resistance in interspecific hybrids of pigweed",
-   "journal": "Plant physiology",
-   "year": 2023,
-   "authors": [
-    "Koo DH",
-    "Sathishraj R",
-    "Nakka S",
-    "Ju Y",
-    "Nandula VK",
-    "Jugulam M",
-    "Friebe B",
-    "Gill BS"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/37186777/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
-    }
-   ]
-  },
-  {
    "pmid": "37659486",
    "doi": "10.1016/j.ijbiomac.2023.126592",
    "title": "Extraction and characterization of Chitosan from Shell of Borassus flabellifer and their antibacterial and antioxidant applications",
@@ -58101,32 +57789,6 @@
      "slug": "kataka",
      "title": "Kataka",
      "binomial": "strychnos potatorum"
-    }
-   ]
-  },
-  {
-   "pmid": "36914315",
-   "doi": "10.1016/j.foodres.2023.112583",
-   "title": "Nutritional aspects of non-conventional edible plants from Brazil: Caruru (Amaranthus spinosus L) and trapoeraba (Commelina benghalensis)",
-   "journal": "Food research international (Ottawa, Ont.)",
-   "year": 2023,
-   "authors": [
-    "Pereira LV",
-    "Salvador MR",
-    "Silva BS",
-    "Pinheiro-Sant'Ana HM",
-    "Della Lucia CM",
-    "Teixeira RDBL",
-    "Cardoso LM"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/36914315/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -61293,8 +60955,8 @@
    "subjects": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "binomial": "amaranthus spinosus"
     }
    ]
@@ -62179,6 +61841,34 @@
    ]
   },
   {
+   "pmid": "36330257",
+   "doi": "10.3389/fpls.2022.954467",
+   "title": "De novo transcriptome based insights into secondary metabolite biosynthesis in Malaxis acuminata (Jeevak)-A therapeutically important orchid",
+   "journal": "Frontiers in plant science",
+   "year": 2022,
+   "authors": [
+    "Bhattacharyya P",
+    "Sharma T",
+    "Yadav A",
+    "Lalthafamkimi L",
+    "Ritu",
+    "Swarnkar MK",
+    "Joshi R",
+    "Shankar R",
+    "Kumar S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36330257/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "jivaka",
+     "title": "Jivaka",
+     "binomial": "malaxis acuminata"
+    }
+   ]
+  },
+  {
    "pmid": "35566808",
    "doi": "10.3390/polym14091639",
    "title": "Design and Evaluation of pH-Sensitive Nanoformulation of Bergenin Isolated from Bergenia ciliata",
@@ -62665,6 +62355,12 @@
      "kind": "herb",
      "slug": "chakramarda",
      "title": "Chakramarda",
+     "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
      "binomial": "cassia tora"
     }
    ]
@@ -63220,6 +62916,12 @@
      "kind": "herb",
      "slug": "chakramarda",
      "title": "Chakramarda",
+     "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
      "binomial": "cassia tora"
     }
    ]
@@ -67314,35 +67016,6 @@
    ]
   },
   {
-   "pmid": "33919561",
-   "doi": "10.3390/toxins13040284",
-   "title": "Differentiation, Quantification and Identification of Abrin and Abrus precatorius Agglutinin",
-   "journal": "Toxins",
-   "year": 2021,
-   "authors": [
-    "Worbs S",
-    "Kampa B",
-    "Skiba M",
-    "Hansbauer EM",
-    "Stern D",
-    "Volland H",
-    "Becher F",
-    "Simon S",
-    "Dorner MB",
-    "Dorner BG"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/33919561/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "34190692",
    "doi": "10.22034/iji.2021.85430.1710",
    "title": "Diospyros Peregrina Fruit Preparation Mediated Immunomodulation of Lymphocytes Isolated From The Blood of Breast Cancer Patients",
@@ -68110,28 +67783,6 @@
      "slug": "manikya-pishti",
      "title": "Manikya Pishti",
      "binomial": ""
-    }
-   ]
-  },
-  {
-   "pmid": "32449638",
-   "doi": "10.1080/19390211.2020.1770393",
-   "title": "Manilkara hexandra (Roxb.) Dubard Ameliorates Acetic Acid-induced Rat Gastric Ulcer",
-   "journal": "Journal of dietary supplements",
-   "year": 2021,
-   "authors": [
-    "Garabadu D",
-    "Singh S",
-    "Gautam T"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/32449638/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
@@ -70111,6 +69762,30 @@
    ]
   },
   {
+   "pmid": "32363579",
+   "doi": "10.1111/jphp.13283",
+   "title": "Cassia tora extract alleviates Aβ(1-42) aggregation processes in vitro and protects against aluminium-induced neurodegeneration in rats",
+   "journal": "The Journal of pharmacy and pharmacology",
+   "year": 2020,
+   "authors": [
+    "Ravi SK",
+    "Narasingappa RB",
+    "Mundagaru R",
+    "Girish TK",
+    "Vincent B"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32363579/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
+    }
+   ]
+  },
+  {
    "pmid": "35813362",
    "doi": "10.4103/ayu.AYU_155_19",
    "title": "Characterization and antimicrobial study of Trinakantamani (Amber) Pishti",
@@ -70913,33 +70588,6 @@
    ]
   },
   {
-   "pmid": "35518160",
-   "doi": "10.1039/d0ra05679k",
-   "title": "Inhibition of SARS-CoV-2 main protease by phenolic compounds from Manilkara hexandra (Roxb.) Dubard assisted by metabolite profiling and in silico virtual screening",
-   "journal": "RSC advances",
-   "year": 2020,
-   "authors": [
-    "Abd El-Mordy FM",
-    "El-Hamouly MM",
-    "Ibrahim MT",
-    "El-Rheem GA",
-    "Aly OM",
-    "Abd El-Kader AM",
-    "Youssif KA",
-    "Abdelmohsen UR"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/35518160/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
-    }
-   ]
-  },
-  {
    "pmid": "31887877",
    "doi": "10.1016/j.carbpol.2019.115636",
    "title": "Isolation, structural elucidation and immuno-stimulatory properties of polysaccharides from Cuminum cyminum",
@@ -70985,32 +70633,6 @@
      "slug": "vasaka",
      "title": "Vasaka",
      "binomial": "justicia adhatoda"
-    }
-   ]
-  },
-  {
-   "pmid": "32349421",
-   "doi": "10.3390/antib9020011",
-   "title": "Mapping Immunodominant Antibody Epitopes of Abrin",
-   "journal": "Antibodies (Basel, Switzerland)",
-   "year": 2020,
-   "authors": [
-    "Alcalay R",
-    "Falach R",
-    "Gal Y",
-    "Sapoznikov A",
-    "Sabo T",
-    "Kronman C",
-    "Mazor O"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/32349421/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
     }
    ]
   },
@@ -71670,6 +71292,12 @@
      "slug": "chakramarda",
      "title": "Chakramarda",
      "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -72292,29 +71920,6 @@
    ]
   },
   {
-   "pmid": "31049430",
-   "doi": "10.1016/j.heliyon.2019.e01518",
-   "title": "Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms",
-   "journal": "Heliyon",
-   "year": 2019,
-   "authors": [
-    "Ibrahim AE",
-    "Saraya RE",
-    "Saleh H",
-    "Elhenawee M"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/31049430/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
-    }
-   ]
-  },
-  {
    "pmid": "30898582",
    "doi": "10.1016/j.joim.2019.03.001",
    "title": "Discovery and preclinical development of IIIM-160, a Bergenia ciliata-based anti-inflammatory and anti-arthritic botanical drug candidate",
@@ -72439,8 +72044,8 @@
    "subjects": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "binomial": "amaranthus spinosus"
     }
    ]
@@ -72859,6 +72464,27 @@
      "slug": "gojihva",
      "title": "Gojihva",
      "binomial": "onosma bracteatum"
+    }
+   ]
+  },
+  {
+   "pmid": "31892700",
+   "doi": "10.1038/s41598-019-50977-5",
+   "title": "Nutraceuticals, antioxidant pigments, and phytochemicals in the leaves of Amaranthus spinosus and Amaranthus viridis weedy species",
+   "journal": "Scientific reports",
+   "year": 2019,
+   "authors": [
+    "Sarker U",
+    "Oba S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31892700/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
+     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -74197,6 +73823,12 @@
      "slug": "chakramarda",
      "title": "Chakramarda",
      "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -75250,31 +74882,6 @@
    ]
   },
   {
-   "pmid": "28189973",
-   "doi": "10.1016/j.intimp.2017.02.003",
-   "title": "4-Methoxylonchocarpin attenuates inflammation by inhibiting lipopolysaccharide binding to Toll-like receptor of macrophages and M1 macrophage polarization",
-   "journal": "International immunopharmacology",
-   "year": 2017,
-   "authors": [
-    "Jang HM",
-    "Kang GD",
-    "Van Le TK",
-    "Lim SM",
-    "Jang DS",
-    "Kim DH"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/28189973/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "28386305",
    "doi": "10.1155/2017/1026268",
    "title": "A Fermented Whole Grain Prevents Lipopolysaccharides-Induced Dysfunction in Human Endothelial Progenitor Cells",
@@ -75817,6 +75424,31 @@
      "slug": "saptala",
      "title": "Saptala",
      "binomial": "euphorbia dracunculoides"
+    }
+   ]
+  },
+  {
+   "pmid": "28584491",
+   "doi": "10.4103/0975-7406.206215",
+   "title": "Evaluation of Cassia tora Linn. against Oxidative Stress-induced DNA and Cell Membrane Damage",
+   "journal": "Journal of pharmacy & bioallied sciences",
+   "year": 2017,
+   "authors": [
+    "Kumar RS",
+    "Narasingappa RB",
+    "Joshi CG",
+    "Girish TK",
+    "Prasada Rao UJ",
+    "Danagoudar A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28584491/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -76410,7 +76042,7 @@
      "kind": "herb",
      "slug": "jivaka",
      "title": "Jivaka",
-     "binomial": "malaxis muscifera"
+     "binomial": "malaxis acuminata"
     }
    ]
   },
@@ -76841,6 +76473,12 @@
      "slug": "chakramarda",
      "title": "Chakramarda",
      "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -77064,27 +76702,6 @@
      "slug": "satyanashi",
      "title": "Satyanashi",
      "binomial": "argemone mexicana"
-    }
-   ]
-  },
-  {
-   "pmid": "27695273",
-   "doi": "10.4103/0974-8490.188881",
-   "title": "Antihyperglycemic and Insulin Secretagogue Activities of Abrus precatorius Leaf Extract",
-   "journal": "Pharmacognosy research",
-   "year": 2016,
-   "authors": [
-    "Umamahesh B",
-    "Veeresham C"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/27695273/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
     }
    ]
   },
@@ -78411,6 +78028,27 @@
      "slug": "meda",
      "title": "Meda",
      "binomial": "polygonatum verticillatum"
+    }
+   ]
+  },
+  {
+   "pmid": "27261615",
+   "doi": "10.1016/j.biopha.2016.04.018",
+   "title": "Polyphenols of Cassia tora leaves prevents lenticular apoptosis and modulates cataract pathology in Sprague-Dawley rat pups",
+   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "year": 2016,
+   "authors": [
+    "Sreelakshmi V",
+    "Abraham A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27261615/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
     }
    ]
   },
@@ -80881,28 +80519,6 @@
    ]
   },
   {
-   "pmid": "25383222",
-   "doi": "10.1155/2014/748549",
-   "title": "Abrus precatorius Leaves: Antioxidant Activity in Food and Biological Systems, pH, and Temperature Stability",
-   "journal": "International journal of medicinal chemistry",
-   "year": 2014,
-   "authors": [
-    "Reddy Palvai V",
-    "Mahalingu S",
-    "Urooj A"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/25383222/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kankshi",
-     "title": "Kankshi",
-     "binomial": "abrus precatorius"
-    }
-   ]
-  },
-  {
    "pmid": "24812473",
    "doi": "10.4103/0975-9476.128853",
    "title": "Activity of Plumbago zeylanica Linn. root and Holoptelea integrifolia Roxb. bark pastes in acute and chronic paw inflammation in Wistar rat",
@@ -81039,30 +80655,6 @@
      "slug": "bakula",
      "title": "Bakula",
      "binomial": "mimusops elengi"
-    }
-   ]
-  },
-  {
-   "pmid": "25436078",
-   "doi": "",
-   "title": "Antidepressant activity of methanolic extract of amaranthus spinosus",
-   "journal": "Basic and clinical neuroscience",
-   "year": 2014,
-   "authors": [
-    "Ashok Kumar BS",
-    "Lakshman K",
-    "Velmurugan C",
-    "Sridhar SM",
-    "Gopisetty S"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/25436078/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -81764,29 +81356,6 @@
      "slug": "kshirabala-thailam",
      "title": "Kshirabala Thailam",
      "binomial": ""
-    }
-   ]
-  },
-  {
-   "pmid": "25312122",
-   "doi": "10.1016/S1995-7645(14)60233-9",
-   "title": "Effect of certain natural products and organic solvents on quorum sensing in Chromobacterium violaceum",
-   "journal": "Asian Pacific journal of tropical medicine",
-   "year": 2014,
-   "authors": [
-    "Chaudhari V",
-    "Gosai H",
-    "Raval S",
-    "Kothari V"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/25312122/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
@@ -83639,28 +83208,6 @@
    ]
   },
   {
-   "pmid": "23220606",
-   "doi": "10.1016/j.jenvman.2012.10.050",
-   "title": "Improvement of effectiveness of existing Casuarina equisetifolia forests in mitigating tsunami damage",
-   "journal": "Journal of environmental management",
-   "year": 2013,
-   "authors": [
-    "Samarakoon MB",
-    "Tanaka N",
-    "Iimura K"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/23220606/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
-    }
-   ]
-  },
-  {
    "pmid": "23837445",
    "doi": "10.1186/1472-6882-13-166",
    "title": "Induction of apoptosis in melanoma A375 cells by a chloroform fraction of Centratherum anthelminticum (L.) seeds involves NF-kappaB, p53 and Bcl-2-controlled mitochondrial signaling pathways",
@@ -84356,6 +83903,33 @@
    ]
   },
   {
+   "pmid": "22821231",
+   "doi": "10.1007/s00436-012-3042-3",
+   "title": "Adulticidal and repellent properties of Cassia tora Linn. (Family: Caesalpinaceae) against Culex quinquefasciatus, Aedes aegypti, and Anopheles stephensi",
+   "journal": "Parasitology research",
+   "year": 2012,
+   "authors": [
+    "Amerasan D",
+    "Murugan K",
+    "Kovendan K",
+    "Mahesh Kumar P",
+    "Panneerselvam C",
+    "Subramaniam J",
+    "John William S",
+    "Hwang JS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22821231/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "binomial": "cassia tora"
+    }
+   ]
+  },
+  {
    "pmid": "23225960",
    "doi": "10.4103/0974-8490.102259",
    "title": "Aerva lanata (Polpala): Its effects on the structure and function of the urinary tract",
@@ -84967,31 +84541,6 @@
      "slug": "koshamra",
      "title": "Koshamra",
      "binomial": "schleichera oleosa"
-    }
-   ]
-  },
-  {
-   "pmid": "23025418",
-   "doi": "10.1186/1472-6882-12-166",
-   "title": "Evaluation of gut modulatory and bronchodilator activities of Amaranthus spinosus Linn",
-   "journal": "BMC complementary and alternative medicine",
-   "year": 2012,
-   "authors": [
-    "Chaudhary MA",
-    "Imran I",
-    "Bashir S",
-    "Mehmood MH",
-    "Rehman NU",
-    "Gilani AH"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/23025418/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -88485,8 +88034,8 @@
    "subjects": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "binomial": "amaranthus spinosus"
     }
    ]
@@ -89333,32 +88882,6 @@
    ]
   },
   {
-   "pmid": "18608895",
-   "doi": "10.1080/13693780802124026",
-   "title": "The expanding host tree species spectrum of Cryptococcus gattii and Cryptococcus neoformans and their isolations from surrounding soil in India",
-   "journal": "Medical mycology",
-   "year": 2008,
-   "authors": [
-    "Randhawa HS",
-    "Kowshik T",
-    "Chowdhary A",
-    "Preeti Sinha K",
-    "Khan ZU",
-    "Sun S",
-    "Xu J"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/18608895/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
-    }
-   ]
-  },
-  {
    "pmid": "18594903",
    "doi": "10.1007/s00267-008-9165-8",
    "title": "Vegetation as an indicator of soil properties and water quality in the Akarçay stream (Turkey)",
@@ -89463,6 +88986,12 @@
      "kind": "herb",
      "slug": "chakramarda",
      "title": "Chakramarda",
+     "binomial": "cassia tora"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
      "binomial": "cassia tora"
     }
    ]
@@ -90314,8 +89843,8 @@
    "subjects": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "binomial": "amaranthus spinosus"
     }
    ]
@@ -90346,28 +89875,6 @@
      "slug": "brihati",
      "title": "Brihati",
      "binomial": "solanum indicum"
-    }
-   ]
-  },
-  {
-   "pmid": "15551386",
-   "doi": "10.1002/ptr.1565",
-   "title": "Effect of Manilkara hexandra (Roxb.) Dubard against experimentally-induced gastric ulcers",
-   "journal": "Phytotherapy research : PTR",
-   "year": 2004,
-   "authors": [
-    "Shah MB",
-    "Goswami SS",
-    "Santani DD"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/15551386/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
@@ -90864,6 +90371,27 @@
      "slug": "nikochaka",
      "title": "Nikochaka",
      "binomial": "alangium salviifolium"
+    }
+   ]
+  },
+  {
+   "pmid": "12498581",
+   "doi": "",
+   "title": "Antigenic and allergenic properties of Amaranthus Spinosus pollen--a commonly growing weed in India",
+   "journal": "Annals of agricultural and environmental medicine : AAEM",
+   "year": 2002,
+   "authors": [
+    "Singh AB",
+    "Dahiya P"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12498581/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
+     "binomial": "amaranthus spinosus"
     }
    ]
   },
@@ -91776,27 +91304,6 @@
      "slug": "madanaphala",
      "title": "Madanaphala",
      "binomial": "randia dumetorum"
-    }
-   ]
-  },
-  {
-   "pmid": "15092455",
-   "doi": "10.1016/0269-7491(89)90002-x",
-   "title": "Effect of chlorine pollution on three fruit tree species at Ranoli near Baroda, India",
-   "journal": "Environmental pollution (Barking, Essex : 1987)",
-   "year": 1989,
-   "authors": [
-    "Vijayan R",
-    "Bedi SJ"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/15092455/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "rishabhaka",
-     "title": "Rishabhaka",
-     "binomial": "manilkara hexandra"
     }
    ]
   },
