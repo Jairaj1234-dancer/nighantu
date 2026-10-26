@@ -69,5 +69,7 @@ const CITY_STATE: Record<string, string> = {
   kalyan: 'Maharashtra', dombivli: 'Maharashtra', 'mira-bhayandar': 'Maharashtra', pune: 'Maharashtra',
   delhi: 'Delhi', 'new-delhi': 'Delhi', gurugram: 'Haryana', noida: 'Uttar Pradesh', bengaluru: 'Karnataka',
   hyderabad: 'Telangana', chennai: 'Tamil Nadu', kolkata: 'West Bengal', ahmedabad: 'Gujarat',
+  'pimpri-chinchwad': 'Maharashtra', 'greater-noida': 'Uttar Pradesh', ghaziabad: 'Uttar Pradesh',
+  faridabad: 'Haryana', secunderabad: 'Telangana', gandhinagar: 'Gujarat', howrah: 'West Bengal',
 };
 export const stateOf = (p: Practice) => (p.address as any).state ?? CITY_STATE[cityOf(p)] ?? '';
