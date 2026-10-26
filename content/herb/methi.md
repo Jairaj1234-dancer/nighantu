@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 - [Trigonelline](/glossary/compounds-t-z/#trigonelline): Alkaloid contributing to [antidiabetic](/reference/antidiabetic/) properties through multiple pathways.
 - Soluble fiber ([galactomannan](/glossary/compounds-d-g/#galactomannan)): High fiber content slows gastric emptying and glucose absorption, contributing to glycemic control.
 - Multi-tissue targeting: Pancreas (insulin secretion), skeletal muscle (glucose uptake via GLUT4), liver (gluconeogenesis reduction), adipose tissue (lipid metabolism), and gut (glucose absorption) are all modulated.
-- Hormonal modulation: Influences testosterone levels and reproductive hormones, relevant to PCOS and testosterone deficiency applications.
+- Hormonal modulation: Influences testosterone levels and reproductive hormones.
 
 ## Modern Research (Meta-Analysis)
 

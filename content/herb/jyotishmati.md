@@ -131,4 +131,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Jyotishmati/meta-analy
 - With [Shankhpushpi](/herb/shankhpushpi/) for mental clarity
 - With [Jatamansi](/herb/jatamansi/) for [anxiolytic](/reference/anxiolytic/) and nootropic synergy
 - With [Vacha](/herb/vacha/), traditionally combined for speech and memory support
-- With [Ashwagandha](/herb/ashwagandha/) for neuroprotection
+- With [Ashwagandha](/herb/ashwagandha/), traditionally combined to support nervous system function

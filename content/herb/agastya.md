@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 50-100ml decoction; 10-20ml flower juice
 
-**Optimal Timing:** Before meals with warm water or honey for respiratory conditions; with food for nutritional supplementation
+**Optimal Timing:** Traditionally taken before meals with warm water or honey in respiratory complaints; with food for nutritional supplementation
 
 **Storage:** Store in airtight containers away from light. Powder and capsules below 25°C, RH < 60%. Fresh preparations require refrigeration (2-8°C).
 
@@ -79,6 +79,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agastya/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Vasa](/herb/vasa/) (Adhatoda) for respiratory conditions
+- With [Vasa](/herb/vasa/) (Adhatoda), traditionally combined in respiratory complaints
 - With [Haridra](/herb/haridra/) for anti-inflammatory synergy
 - With [Yashtimadhu](/herb/yashtimadhu/) for bronchial support

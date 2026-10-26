@@ -53,7 +53,7 @@ srcRel: "_Hub/Body-Systems/Kidney--Urinary.md"
 - [Kharbhuja](/glossary/concepts-a-m/#kharbhuja)
 - [Kokilaksha](/herb/kokilaksha/) (Adaptogenic)
 - [Kshara Parpati](/herb/kshara-parpati/) (Diuretic)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.* (Antioxidant, Hepatoprotective, Wound Healing)
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.* (Antioxidant, Hepatoprotective, Wound Healing)
 - [Kukkutanda Twak Bhasma](/herb/kukkutanda-twak-bhasma/) (Antimicrobial)
 - [Kulathadi Kwath](/formulation/kulathadi-kwath/) (Antioxidant)
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)* (Antioxidant, Bronchodilator, Antidiabetic)

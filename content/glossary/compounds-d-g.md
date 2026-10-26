@@ -7,8 +7,8 @@ groupTitle: "Phytochemical compounds"
 range: "D-G"
 part: 4
 partCount: 9
-entryCount: 73
-answer: "Phytochemical compounds (D-G) is a reference glossary of 73 entries drawn from the Ayurvedic materia medica, each listing the herbs it occurs in and the compounds it commonly appears alongside."
+entryCount: 72
+answer: "Phytochemical compounds (D-G) is a reference glossary of 72 entries drawn from the Ayurvedic materia medica, each listing the herbs it occurs in and the compounds it commonly appears alongside."
 ---
 ### Diallyl disulfide {#diallyl-disulfide}
 
@@ -183,16 +183,6 @@ answer: "Phytochemical compounds (D-G) is a reference glossary of 73 entries dra
 - [Myristicin](/glossary/compounds-l-o/#myristicin) (2 shared sources)
 - [Sabinene](/glossary/compounds-q-t/#sabinene) (2 shared sources)
 - [Sesamin](/glossary/compounds-q-t/#sesamin) (2 shared sources)
-
-### Elettaria cardamomum {#elettaria-cardamomum}
-
-*Found in 3 entries across the catalogue*
-
-#### Often Found With
-
-- [Terminalia chebula](/glossary/compounds-t-z/#terminalia-chebula) (1 shared sources)
-- D-[Camphor](/herb/camphor/) (1 shared sources)
-- [Tsotel](/glossary/compounds-t-z/#tsotel) (1 shared sources)
 
 ### Ellagitannins {#ellagitannins}
 

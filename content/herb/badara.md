@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Badara/meta-analysis.md"
 
 **Standard Dosage:** 3-6g fruit powder twice daily; 20-50ml fresh juice; 5-10g Avaleha daily; 500mg-1g extract capsule
 
-**Optimal Timing:** Fruit/juice as snack or with meals for nutritional support. Seed kernel powder at bedtime with warm milk for sleep. Avaleha anytime for general health.
+**Optimal Timing:** Fruit/juice as snack or with meals for nutritional support. Seed kernel powder is traditionally taken at bedtime with warm milk to support sleep. Avaleha anytime for general health.
 
 **Storage:** Fresh fruit refrigerated (2-8°C). Dried fruit and powder in airtight containers, cool and dry. Phalasava in amber glass at room temperature.
 

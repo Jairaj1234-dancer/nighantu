@@ -32,7 +32,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Balaswagand
 - [Manjistha](/herb/manjistha/) (Rubia cordifolia root)
 - [Durva](/herb/durva/) (Cynodon dactylon / Bermuda grass)
 - [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice root)
-- Shveta [Vacha](/herb/vacha/) (Curcuma zedoaria / White [Turmeric](/herb/turmeric/) root)
 - [Sariva](/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla root)
 - [Sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) taila) base
 

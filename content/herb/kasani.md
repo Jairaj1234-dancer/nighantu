@@ -78,7 +78,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kasani/meta-analysis.md"
 ### Synergistic Combinations
 
 - [Bhumyamalaki](/herb/bhumyamalaki/) (Phyllanthus niruri) for hepatoprotective synergy
-- Kutki for liver disorders
+- Kutki, traditionally combined for liver support
 - [Punarnava](/herb/punarnava/) for hepatorenal protection
 - [Guduchi](/herb/guduchi/) for comprehensive liver support
 - [Yashtimadhu](/herb/yashtimadhu/) for gastroprotective combination

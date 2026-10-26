@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 - Fresh sugarcane juice has high glycemic load despite moderate GI; diabetic patients should consume in limited quantities under medical guidance
 - Rapid microbial contamination of fresh juice at ambient temperature; should be consumed within 30 minutes of extraction or refrigerated
 - Sugarcane juice from fields treated with excess pesticides may contain organophosphate residues; organic sourcing preferred
-- Processing into refined sugar destroys all beneficial polyphenols, vitamins, and minerals; only fresh juice or minimally processed forms (jaggery) retain therapeutic value
+- Processing into refined sugar greatly reduces polyphenol, vitamin and mineral content
 
 ## Dosage forms and preparation
 

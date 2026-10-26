@@ -104,6 +104,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 
 ### Synergistic Combinations
 
+Traditionally combined as follows:
+
 - With [Guggulu](/formulation/guggulu/) for anti-inflammatory and anti-arthritic synergy
 - With [Rasna](/herb/rasna/) for Vata-Kapha joint disorders
 - With [Eranda](/herb/eranda/) Taila for external application in musculoskeletal pain

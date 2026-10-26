@@ -161,5 +161,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Karela/meta-analysis.md
 - [Gudmar](/herb/gudmar/) (Gymnema sylvestre) for comprehensive glycemic management
 - [Jamun](/herb/jamun/) (Syzygium cumini) seed for diabetic formulations
 - [Methi](/herb/methi/) (Fenugreek) for insulin sensitization
-- [Haridra](/herb/haridra/) ([Turmeric](/herb/turmeric/)) for metabolic syndrome
+- [Haridra](/herb/haridra/) ([Turmeric](/herb/turmeric/)), traditionally combined in formulations for metabolic support
 - [Neem](/herb/neem/) for synergistic hypoglycemic activity

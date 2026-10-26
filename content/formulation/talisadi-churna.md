@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I. Referenced in Sharangdhara Samhita official compendia. Recognized by AYUSH as a standard respiratory formulation."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I."
 aliases: ["Talisadi Churna", "TalisadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

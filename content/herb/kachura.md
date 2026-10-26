@@ -37,7 +37,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kachura/meta-analysis.md"
 
 ## How does it work?
 
-- [Anticancer](/reference/anticancer/) activity via curcuzedoalide-mediated apoptosis induction and cell cycle arrest in gastric cancer cell lines
+- Laboratory studies in gastric cancer cell lines have reported [anticancer](/reference/anticancer/) activity attributed to curcuzedoalide-mediated apoptosis induction and cell cycle arrest
 - [Cardioprotective](/reference/cardioprotective/) effects through germacrone-mediated attenuation of oxidative stress, NF-kB-driven inflammation, and anti-apoptotic pathway activation
 - Anti-inflammatory mechanism via [curcumin](/herb/curcumin/)-mediated inhibition of COX-2, iNOS, and pro-inflammatory cytokines
 - [Antimicrobial](/reference/antimicrobial/) activity through essential oil disruption of microbial cell membranes affecting Aspergillus niger, Bacillus subtilis, Candida albicans, and Klebsiella pneumoniae

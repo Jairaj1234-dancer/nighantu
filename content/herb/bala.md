@@ -110,7 +110,7 @@ Root powder: as given under Standard Dosage; Oil (Bala Taila): external use
 ### Synergistic Combinations
 
 - With [Ashwagandha](/herb/ashwagandha/) for muscle strength and [Rasayana](/reference/rasayana/) (rejuvenation)
-- With [Dashamoola](/herb/dashamoola/) for musculoskeletal disorders
-- With Narayana Taila ingredients for pain management
-- With [Guduchi](/herb/guduchi/) for immune modulation
+- Traditionally combined with [Dashamoola](/herb/dashamoola/) for musculoskeletal complaints
+- Traditionally combined with Narayana Taila ingredients for pain
+- Traditionally combined with [Guduchi](/herb/guduchi/) to support immune function
 - With [Shatavari](/herb/shatavari/) for female reproductive health

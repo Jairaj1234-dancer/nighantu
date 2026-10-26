@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Padmaka/meta-analysis.md"
 ## Recent safety updates
 
 - No significant adverse effects reported in traditional use at recommended doses. Limited formal toxicology data available; the 2025 comprehensive review emphasizes the need for formal safety studies
-- Wild Himalayan cherry is a food-grade plant (fruits edible); bark and heartwood preparations for skin use have centuries of traditional safety record in Ayurveda. No known drug interactions reported
+- Wild Himalayan cherry is a food-grade plant (fruits edible); bark and heartwood preparations for skin use have a long history of traditional use in Ayurveda. Formal safety and drug interaction data are limited
 
 ## What is it made of?
 

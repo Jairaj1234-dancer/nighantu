@@ -108,7 +108,7 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Karpasa](/herb/karpasa/)
 - [Kharbhuja](/glossary/concepts-a-m/#kharbhuja)
 - [Koshataki](/herb/koshataki/)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Kusumbha](/herb/kusumbha/)
 - [Kusumbha Taila](/glossary/concepts-a-m/#kusumbha-taila)
 - [Madhukarkati](/herb/madhukarkati/)
@@ -897,7 +897,7 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 
 #### Ayurveda
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Senna](/herb/senna/), *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)*
 
 #### Often Found With
@@ -922,7 +922,7 @@ answer: "Phytochemical compounds (L-O) is a reference glossary of 72 entries dra
 - [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
 - [Ishabgula](/herb/ishabgula/)
 - [Japa](/herb/japa/)
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kakoli](/herb/kakoli/), *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
 - [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*
 - [Nagabala](/herb/nagabala/), *Grewia hirsuta Vahl / Sida veronicifolia Lam. (syn. Sida veronicaefolia)*

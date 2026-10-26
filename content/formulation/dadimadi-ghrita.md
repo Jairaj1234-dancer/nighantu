@@ -31,7 +31,7 @@ Ashtanga Hridaya (Brihat Trayi compendia, 1st century CE); Charaka Samhita; Sush
 
 ## How does it work?
 
-- [Dadima](/herb/dadima/) (pomegranate) provides iron, folic acid, and [polyphenols](/glossary/compounds-o-q/#polyphenols) that directly support hemoglobin synthesis and erythropoiesis
+- [Dadima](/herb/dadima/) (pomegranate) provides iron, folic acid, and [polyphenols](/glossary/compounds-o-q/#polyphenols), and is traditionally regarded as supporting blood formation
 - Chitraka ([plumbagin](/glossary/compounds-o-q/#plumbagin)) stimulates Agni (digestive fire), enhancing iron absorption from dietary sources
 - [Pippali](/herb/pippali/) and Shunthi improve bioavailability of nutrients through enhanced hepatic and intestinal enzyme activity
 - Ghee base provides fat-soluble vitamin delivery and enhances absorption of mineral supplements

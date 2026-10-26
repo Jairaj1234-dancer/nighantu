@@ -46,7 +46,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Svarasas-Fresh-Juices/Bhringaraja
 
 **Standard Dosage:** 10-20 mL twice daily for internal use; externally as hair oil base.
 
-**Optimal Timing:** Morning on empty stomach for hepatoprotective effect; externally before bath for hair health
+**Optimal Timing:** Traditionally taken in the morning on an empty stomach; externally applied before bath
 
 **Storage:** Fresh juice: use immediately or refrigerate at 2-8°C for up to 24 hours. Preserved: amber glass at room temperature. Oil: amber bottles at room temperature.
 

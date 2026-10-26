@@ -46,7 +46,7 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 - [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
 - [Holy Basil](/herb/holy-basil/)
 - [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.*
 - [Kokilaksha](/herb/kokilaksha/)
 - [Lakshadi Thailam](/formulation/lakshadi-thailam/)

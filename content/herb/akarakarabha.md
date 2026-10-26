@@ -95,6 +95,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 ### Synergistic Combinations
 
 - With [Ashwagandha](/herb/ashwagandha/) for nervous system toning and Vajikarana (aphrodisiac)
-- With [Jatiphala](/herb/jatiphala/) (nutmeg) for stammering and speech disorders
+- Traditionally combined with [Jatiphala](/herb/jatiphala/) (nutmeg) for stammering and speech disorders
 - With [Lavanga](/herb/lavanga/) (clove) and Karpura ([camphor](/herb/camphor/)) for toothache
 - With [Pippali](/herb/pippali/) for bioenhancement and respiratory conditions

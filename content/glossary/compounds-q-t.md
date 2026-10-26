@@ -61,7 +61,6 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-
 #### Often Found With
 
 - [Diosgenin](/glossary/compounds-d-g/#diosgenin) (1 shared sources)
@@ -323,7 +322,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 - [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.*
 - [Karira](/herb/karira/)
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+
 - [Nimba Patra](/herb/nimba-patra/)
 - [Nyagrodha](/herb/nyagrodha/), *Ficus benghalensis L.*
 - [Sharapunkha](/herb/sharapunkha/)
@@ -427,7 +426,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 - [Tsotel](/glossary/compounds-t-z/#tsotel) (2 shared sources)
 - [Gold nanoparticles](/glossary/compounds-g-l/#gold-nanoparticles) (1 shared sources)
 - [Mercury sulfide](/glossary/compounds-l-o/#mercury-sulfide) (1 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (1 shared sources)
 
 ### Safranal {#safranal}
@@ -1281,7 +1280,7 @@ answer: "Phytochemical compounds (Q-T) is a reference glossary of 73 entries dra
 
 #### Ayurveda
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kasturi](/herb/kasturi/)
 - [Surana](/herb/surana/), *Amorphophallus campanulatus (Roxb.) Blume ex Decne. (syn. Amorphophallus paeoniifolius (Dennst.) Nicolson)*
 - [Talisa](/herb/talisa/), *Abies webbiana Lindl. (syn. Abies spectabilis (D. Don) Mirb.)*

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Priyala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark powder daily; 1-3 g seed powder daily; 20-30 mL bark decoction twice daily; 500 mg standardized extract twice daily
 
-**Optimal Timing:** Seed/kernel: with meals as nutritive supplement. Bark decoction: between meals for therapeutic use. Seed oil: topical application at night for skin conditions.
+**Optimal Timing:** Seed/kernel: with meals as nutritive supplement. Bark decoction: between meals for therapeutic use. Seed oil: traditionally applied topically at night for skin conditions.
 
 **Storage:** Seeds/kernels: cool, dry, pest-proof, below 20 deg C in vacuum-sealed or nitrogen-flushed packages. Oil: amber glass with nitrogen headspace, below 25 deg C. Bark: airtight containers, below 25 deg C, RH <55%.
 

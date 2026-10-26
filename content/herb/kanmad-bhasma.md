@@ -25,49 +25,27 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 |----------|------|
 | English | [Kanmad Bhasma](/herb/kanmad-bhasma/) |
 
-## Key Phytochemical Constituents
+## What is Kanmada?
 
-- Magnetite (Fe3O4) - primary phase
-- Hematite (Fe2O3) from oxidation during processing
-- Fe2+/Fe3+ ratio optimized through calcination
-- Trace carbon, sodium, zinc as minor elements
-- Nanocrystalline iron oxide particles with magnetic properties
-
-## How does it work?
-
-- Iron supply through magnetite nanoparticle form providing both Fe2+ and Fe3+ ions for intestinal absorption and hemoglobin synthesis
-- Hematopoietic support through efficient iron delivery to bone marrow for red blood cell production
-- Metabolic enhancement through iron-dependent enzyme cofactor provision supporting cellular respiration, DNA synthesis, and energy metabolism
+- Kanmadam is the Malayalam name for Shilajatu (asphaltum). Kottakkal Arya Vaidya Sala lists its Kanmadabhasmam as prepared from Silajatu (asphalt) with Tanduliya (Amaranthus spinosus) and cow's milk (Therapeutic Index 2023). Some Kerala sources identify this Kanmada with Karpura Shilajit (potassium nitrate); the mineral identity is not settled. Neither source lists iron oxide.
 
 ## Traditional uses
 
 *These summaries come from the source notes, which do not name the studies behind them.*
 
-- Iron-deficiency anemia (Pandu Roga): traditionally used for iron-deficiency anemia.
 - Diabetes (Madhumeha): traditionally used for diabetes.
 - Chronic fevers (Jeerna Jwara): traditionally used for chronic fevers.
 
-## What do recent studies show?
-
-- Tiwari MK, Singh A, Khooha A and others 2023. [Structural investigation of Ayurveda Lauha (Iron) Bhasma](https://pubmed.ncbi.nlm.nih.gov/36822148/). *Journal of Ayurveda and integrative medicine*. PMID [36822148](https://pubmed.ncbi.nlm.nih.gov/36822148/) · [doi:10.1016/j.jaim.2023.100690](https://doi.org/10.1016/j.jaim.2023.100690)  
-  Lauha Bhasma from magnetite has great potential for noninvasive localized target killing of cancer cells via necrosis by application of alternating external magnetic field or photoelectron generation through X-rays.
-
-*Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
-
 ## Recent safety updates
 
-- DOSE LIMIT: Should not exceed 500 mg/day. Overuse can cause constipation, stomach upset, or iron toxicity.
-- PROPER PREPARATION ESSENTIAL: Must undergo complete Shodhana, Marana, and Amruteekarana processes. Improperly prepared magnetite may contain heavy metal contaminants.
-- IRON OVERLOAD MONITORING: Like all iron preparations, periodic hemoglobin, serum ferritin, and liver function monitoring recommended during prolonged use
+- DOSE LIMIT: Should not exceed 500 mg/day. Overuse can cause constipation, or stomach upset.
+- PROPER PREPARATION ESSENTIAL: Must undergo complete Shodhana, Marana, and Amruteekarana processes. Improperly prepared material may contain heavy metal contaminants.
 
 ## What is it made of?
 
 ### Mineral/Elemental Profile
 
-- **Iron oxide (Fe2O3):** Major component (iron ore)
-- **Iron (Fe):** >60%
-- **Silicon (Si):** Trace
-- **Aluminum (Al):** Trace
+- **Declared raw material:** Silajatu (asphalt), processed with Tanduliya (Amaranthus spinosus) and cow's milk (Kottakkal Arya Vaidya Sala, Therapeutic Index 2023)
 
 ## Dosage forms and preparation
 
@@ -79,6 +57,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Kanmad-Bhasma/meta-a
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Calcium silicate, Iron oxide, [Magnesium](/glossary/compounds-l-o/#magnesium)
+**Marker Compounds:** Calcium silicate, [Magnesium](/glossary/compounds-l-o/#magnesium)
 
 **Vehicle (Anupana):** Honey

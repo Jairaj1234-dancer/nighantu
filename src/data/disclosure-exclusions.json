@@ -1,0 +1,249 @@
+{
+  "note": "Product pages the survey matched to a formulary preparation by name, which on review are not that preparation: blog articles, other product forms sold under the same name, and different formulas that share a head name. Excluded from every count and table that reports disclosure per preparation. Reviewed by hand on 22 October 2026 against the page address and title. Blog articles are excluded from both surveys, the formulary-name pages and the whole range, because they are not products at all. Other product forms and other formulas are excluded only from the formulary-name survey: they are real products and stay in each company's whole range.",
+  "reviewedOn": "2026-10-22",
+  "excluded": [
+    {
+      "preparation": "abhayarishta",
+      "url": "https://sandu.in/abhayarishta-benefits-ayurvedic-support-for-digestive-wellness/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "dashamularishta",
+      "url": "https://sandu.in/how-ayurvedic-pain-killers-like-dashmularishta-ease-pain-naturally/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "amritarishta",
+      "url": "https://sandu.in/boost-immunity-naturally-with-mskplus-and-amritarishtha-combo/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "ashokarishta",
+      "url": "https://sandu.in/ashokarishta-syrup-uses-and-benefits-for-womens-health/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "ashokarishta",
+      "url": "https://sandu.in/ashokarishta-the-ayurvedic-medicine-for-womens-health/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "ashwagandharishta",
+      "url": "https://sandu.in/stay-energetic-this-monsoon-with-ashwagandharishta/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "kutajarishta",
+      "url": "https://sandu.in/how-kutajarishta-supports-digestive-health-and-stops-diarrhoea-naturally/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "saraswatarishta",
+      "url": "https://sandu.in/saraswatarishta-uses-and-benefits-for-memory-and-focus/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "triphala-churna",
+      "url": "https://sandu.in/understanding-triphala-churna-and-isabgol-in-ayurveda/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "arjunarishta",
+      "url": "https://sandu.in/arjunarishta-vs-modern-heart-medications-a-comparative-insight/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "chandraprabha-vati",
+      "url": "https://sandu.in/chandraprabha-vati-uses-in-ayurveda-benefits-and-ingredients/",
+      "reason": "a blog article on the company site, not a product page",
+      "appliesTo": [
+        "formulary-name",
+        "whole-range"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://maharishiayurvedaindia.com/products/dashmoola-taila-for-headaches-50ml",
+      "reason": "a different product form sold under the same name (an oil)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://sitaramayurveda.com/products/dasamool-cough-syrup",
+      "reason": "a different product form sold under the same name (a syrup)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://keralaayurveda.com/products/dasamoola-rasayanam-100-gm",
+      "reason": "a different product form sold under the same name (a rasayana)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://sitaramayurveda.com/products/dasamoola-rasayanam-100-gm",
+      "reason": "a different product form sold under the same name (a rasayana)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://www.snaoushadhasala.com/product/dashamoola-tailam",
+      "reason": "a different product form sold under the same name (an oil)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://maharishiayurvedaindia.com/products/dashmoola-katutrayadi-kashayam",
+      "reason": "a different formula that shares the head name (Dashamula Katutrayadi)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dashamula",
+      "url": "https://sitaramayurveda.com/products/rasna-dashamoola-kashayam-200-ml",
+      "reason": "a different formula that shares the head name (Rasna Dashamula)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "haridra-khanda",
+      "url": "https://www.baidyanathayurved.com/products/baidyanath-haridra-khand-brihat",
+      "reason": "a different formula that shares the head name (Brihat Haridra Khanda)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "kumkumadi-tailam",
+      "url": "https://avpayurveda.com/products/kumkumadi-thailam-night-face-serum-skin-recovery-prevents-pigmentation-even-skin-tone-copy",
+      "reason": "a different product form sold under the same name (a serum)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "kumkumadi-tailam",
+      "url": "https://www.snaoushadhasala.com/product/kumkumaadi-thailam-cream-pDHdjh",
+      "reason": "a different product form sold under the same name (a cream)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "kottamchukkadi-thailam",
+      "url": "https://www.snaoushadhasala.com/product/kottamchukkaadi-thailam-cream-ByZhV9",
+      "reason": "a different product form sold under the same name (a cream)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "pinda-thailam",
+      "url": "https://www.snaoushadhasala.com/product/pindatailam-cream-kN7vak",
+      "reason": "a different product form sold under the same name (a cream)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dhanwantaram-thailam",
+      "url": "https://avpayurveda.com/products/dhanwantharam-thailam-balm-to-relieve-joint-and-muscle-pain",
+      "reason": "a different product form sold under the same name (a balm)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "dhanwantaram-thailam",
+      "url": "https://avpayurveda.com/products/dhanwantharam-thailam-mezhupakam-200-ml",
+      "reason": "a different product form sold under the same name (a mezhupakam)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "narayana-thailam",
+      "url": "https://avpayurveda.com/products/narayana-thailam-big-balm-to-relieve-joint-and-muscle-pain",
+      "reason": "a different product form sold under the same name (a balm)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "hinguvachadi-churna",
+      "url": "https://avpayurveda.com/products/hinguvachadi-choornam-gulika-10-nos-strip",
+      "reason": "a different product form sold under the same name (a gulika)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "abhayarishta",
+      "url": "https://www.baidyanathayurved.com/products/kabz-har-abhyarishta-triphala-juice",
+      "reason": "a different product form sold under the same name (a juice)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    },
+    {
+      "preparation": "chyawanprash",
+      "url": "https://www.patanjaliayurved.net/product/natural-food-products/biscuits-and-cookies/chyawanprash-cookies/7124",
+      "reason": "a different product form sold under the same name (cookies)",
+      "appliesTo": [
+        "formulary-name"
+      ]
+    }
+  ]
+}

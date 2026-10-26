@@ -119,5 +119,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Isabgol/meta-analysis.m
 
 - With [Triphala](/herb/triphala/) for comprehensive bowel health
 - With probiotics for enhanced prebiotic action
-- With [Senna](/herb/senna/) for stronger [laxative](/reference/laxative/) effect (acute constipation)
+- With [Senna](/herb/senna/) (traditionally paired for a stronger [laxative](/reference/laxative/) action)
 - With [Methi](/herb/methi/) (fenugreek)

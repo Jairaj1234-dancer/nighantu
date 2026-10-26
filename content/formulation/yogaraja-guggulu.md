@@ -35,7 +35,7 @@ Ashtanga Hridayam (Chikitsa Sthana); also described in Bhaishajya Ratnavali
 - Muscle tissue stimulation: [Plumbagin](/glossary/compounds-o-q/#plumbagin), an alkaloid present in Chitraka (Plumbago zeylanica), is a known stimulant of muscle tissue that enhances musculoskeletal strength
 - Joint mobility enhancement: [Guggulu](/formulation/guggulu/)'s oleo-gum resin showed anti-arthritic activity in animal models of carrageenan-induced paw edema and adjuvant arthritis
 - Vata pacification: The warm potency (Ushna Virya) and pungent taste (Katu Rasa) of multiple ingredients collectively pacify Vata dosha, the primary driver of musculoskeletal disorders in Ayurveda
-- Digestive fire enhancement: Chitraka and [Trikatu](/herb/trikatu/) ingredients kindle Agni, preventing Ama formation that contributes to joint inflammation
+- Digestive fire enhancement: In Ayurvedic doctrine, Chitraka and [Trikatu](/herb/trikatu/) are held to kindle Agni and limit Ama formation, which is held to contribute to joint inflammation
 
 ## Which traditional uses are supported by research?
 

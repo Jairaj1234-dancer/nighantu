@@ -16,7 +16,7 @@ answer: "Plant families is a reference glossary of 24 entries drawn from the Ayu
 
 - [Apamarga](/herb/apamarga/), *Achyranthes aspera L.* (Diuretic, Wound Healing, Anti-inflammatory)
 - [Bhadra](/herb/bhadra/), *Aerva lanata (L.) Juss. ex Schult.* (Antioxidant, Hepatoprotective, Bronchodilator)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.* (Antioxidant, Hepatoprotective, Wound Healing)
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.* (Antioxidant, Hepatoprotective, Wound Healing)
 
 ### Family: Apiaceae {#apiaceae}
 
@@ -133,7 +133,7 @@ answer: "Plant families is a reference glossary of 24 entries drawn from the Ayu
 
 *5 members in the catalogue*
 
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)
 - [Riddhi](/herb/riddhi/), *Habenaria intermedia D. Don* (Antioxidant, Aphrodisiac, Neuroprotective)
 
 ### Family: Piperaceae {#piperaceae}

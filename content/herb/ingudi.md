@@ -88,7 +88,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 **Dosage Forms:** Taila (oil), Churna (seed powder), Lepa (external paste), Capsule
 
-**Standard Dosage:** 3-5g seed kernel powder; 5-10ml oil for external application; 1-3g purified seed powder internally
+**Standard Dosage:** 5-10ml oil for external application; 1-3g purified seed powder internally
 
 **Optimal Timing:** External oil application morning and evening; internal use under physician guidance only, before meals
 
@@ -98,6 +98,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- With [Eranda](/herb/eranda/) Taila for joint pain (external)
-- With [Guggulu](/formulation/guggulu/) for anti-inflammatory action
-- With [Nimba](/herb/nimba/) for skin conditions
+- Traditionally combined with [Eranda](/herb/eranda/) Taila in external applications for joints
+- Traditionally combined with [Guggulu](/formulation/guggulu/) in inflammatory conditions
+- Traditionally combined with [Nimba](/herb/nimba/) in skin conditions
