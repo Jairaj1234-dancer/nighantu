@@ -1,0 +1,10 @@
+{
+  "note": "Pages whose identity was corrected after their names were gathered. The names were collected for the drug the page used to describe, so they are dropped, or moved to the page that now describes that drug. Applied by scripts/apply-names.mjs.",
+  "drop": [
+    { "page": "herb/kankshi", "reason": "Names were gathered for Gunja (Abrus precatorius). Kankshi is alum, a mineral; its names are in the page's own table." },
+    { "page": "herb/rishabhaka", "reason": "Names were gathered for Rajadana (Manilkara hexandra). Rishabhaka is the Ashtavarga orchid Malaxis muscifera." }
+  ],
+  "move": [
+    { "from": "herb/kshavaka", "to": "herb/tanduliyaka", "reason": "Names were gathered for Amaranthus spinosus, which is Tanduliya. Kshavaka is now the sneezewort Centipeda minima." }
+  ]
+}

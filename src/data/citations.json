@@ -24642,8 +24642,246 @@
   },
   "herb/dadrughna": {
    "title": "Dadrughna",
-   "binomial": "",
-   "citations": []
+   "binomial": "cassia tora",
+   "citations": [
+    {
+     "pmid": "36281483",
+     "title": "Preclinical activities of Cassia tora Linn against aging-related diseases",
+     "journal": "Expert reviews in molecular medicine",
+     "year": 2022,
+     "authors": [
+      "Hwang SY",
+      "Na CS",
+      "Moon BC",
+      "Shim JH",
+      "Lee MH"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1017/erm.2022.33",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36281483/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "15501482",
+     "title": "Antigenotoxic properties of Cassia tea (Cassia tora L.): mechanism of action and the influence of roasting process",
+     "journal": "Life sciences",
+     "year": 2004,
+     "authors": [
+      "Wu CH",
+      "Yen GC"
+     ],
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/j.lfs.2004.07.011",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15501482/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35606481",
+     "title": "Engineering properties of Cassia tora L. seeds and meal as a function of moisture content",
+     "journal": "Scientific reports",
+     "year": 2022,
+     "authors": [
+      "Peng F",
+      "Fang F",
+      "Xiang R",
+      "Liu D"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1038/s41598-022-12748-7",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35606481/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34611854",
+     "title": "Green Synthesis and Characterisation of Silver Nanoparticles Using Cassia tora Seed Extract and Investigation of Antibacterial Potential",
+     "journal": "Applied biochemistry and biotechnology",
+     "year": 2022,
+     "authors": [
+      "Nawabjohn MS",
+      "Sivaprakasam P",
+      "Anandasadagopan SK",
+      "Begum AA",
+      "Pandurangan AK"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s12010-021-03651-4",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34611854/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31952579",
+     "title": "Synthesis and characterization of quaternized Cassia tora gum using Taguchi L'16 approach",
+     "journal": "Carbohydrate polymers",
+     "year": 2020,
+     "authors": [
+      "Sharma D",
+      "Kumar V",
+      "Nautiyal R",
+      "Sharma P"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.carbpol.2019.115731",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31952579/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "32363579",
+     "title": "Cassia tora extract alleviates Aβ(1-42) aggregation processes in vitro and protects against aluminium-induced neurodegeneration in rats",
+     "journal": "The Journal of pharmacy and pharmacology",
+     "year": 2020,
+     "authors": [
+      "Ravi SK",
+      "Narasingappa RB",
+      "Mundagaru R",
+      "Girish TK",
+      "Vincent B"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1111/jphp.13283",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32363579/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "29469686",
+     "title": "Editorial: The Potential Medicinal Uses of Cassia tora Linn Leaf and Seed Extracts",
+     "journal": "Reviews on recent clinical trials",
+     "year": 2018,
+     "authors": [
+      "Puri BK"
+     ],
+     "pubtypes": [
+      "Editorial"
+     ],
+     "doi": "10.2174/157488711301180131145359",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29469686/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "28584491",
+     "title": "Evaluation of Cassia tora Linn. against Oxidative Stress-induced DNA and Cell Membrane Damage",
+     "journal": "Journal of pharmacy & bioallied sciences",
+     "year": 2017,
+     "authors": [
+      "Kumar RS",
+      "Narasingappa RB",
+      "Joshi CG",
+      "Girish TK",
+      "Prasada Rao UJ",
+      "Danagoudar A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.4103/0975-7406.206215",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28584491/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "27261615",
+     "title": "Polyphenols of Cassia tora leaves prevents lenticular apoptosis and modulates cataract pathology in Sprague-Dawley rat pups",
+     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+     "year": 2016,
+     "authors": [
+      "Sreelakshmi V",
+      "Abraham A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.biopha.2016.04.018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27261615/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "26786764",
+     "title": "Anthraquinones and flavonoids of Cassia tora leaves ameliorate sodium selenite induced cataractogenesis in neonatal rats",
+     "journal": "Food & function",
+     "year": 2016,
+     "authors": [
+      "Sreelakshmi V",
+      "Abraham A"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1039/c5fo00905g",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26786764/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "22821231",
+     "title": "Adulticidal and repellent properties of Cassia tora Linn. (Family: Caesalpinaceae) against Culex quinquefasciatus, Aedes aegypti, and Anopheles stephensi",
+     "journal": "Parasitology research",
+     "year": 2012,
+     "authors": [
+      "Amerasan D",
+      "Murugan K",
+      "Kovendan K",
+      "Mahesh Kumar P",
+      "Panneerselvam C",
+      "Subramaniam J",
+      "John William S",
+      "Hwang JS"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s00436-012-3042-3",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22821231/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "17917292",
+     "title": "Estrogenic and anti-estrogenic activities of Cassia tora phenolic constituents",
+     "journal": "Chemical & pharmaceutical bulletin",
+     "year": 2007,
+     "authors": [
+      "El-Halawany AM",
+      "Chung MH",
+      "Nakamura N",
+      "Ma CM",
+      "Nishihara T",
+      "Hattori M"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1248/cpb.55.1476",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17917292/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/danti-moola": {
    "title": "Danti Moola",
@@ -39758,7 +39996,7 @@
   },
   "herb/jivaka": {
    "title": "Jivaka",
-   "binomial": "malaxis muscifera",
+   "binomial": "malaxis acuminata",
    "citations": [
     {
      "pmid": "38289898",
@@ -39779,6 +40017,30 @@
      "doi": "10.1002/cbdv.202301830",
      "url": "https://pubmed.ncbi.nlm.nih.gov/38289898/",
      "tier": "A",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36330257",
+     "title": "De novo transcriptome based insights into secondary metabolite biosynthesis in Malaxis acuminata (Jeevak)-A therapeutically important orchid",
+     "journal": "Frontiers in plant science",
+     "year": 2022,
+     "authors": [
+      "Bhattacharyya P",
+      "Sharma T",
+      "Yadav A",
+      "Lalthafamkimi L",
+      "Ritu",
+      "Swarnkar MK",
+      "Joshi R",
+      "Shankar R",
+      "Kumar S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3389/fpls.2022.954467",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36330257/",
+     "tier": "D",
      "source": "pubmed-live"
     },
     {
@@ -44393,256 +44655,6 @@
      ],
      "doi": "10.1002/ptr.2088",
      "url": "https://pubmed.ncbi.nlm.nih.gov/17236178/",
-     "tier": "D",
-     "source": "pubmed-live"
-    }
-   ]
-  },
-  "herb/kankshi": {
-   "title": "Kankshi",
-   "binomial": "abrus precatorius",
-   "citations": [
-    {
-     "pmid": "38513827",
-     "title": "Gaps in forensic toxicological analysis: The veiled abrin",
-     "journal": "Toxicon : official journal of the International Society on Toxinology",
-     "year": 2024,
-     "authors": [
-      "Chen Y",
-      "Liu J",
-      "Song T",
-      "Zou X",
-      "Li L",
-      "Nie Q",
-      "Zhang P"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.1016/j.toxicon.2024.107684",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/38513827/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "35714881",
-     "doi": "10.1016/j.jep.2022.115463",
-     "title": "The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2022,
-     "authors": [
-      "Qian H",
-      "Wang L",
-      "Li Y",
-      "Wang B",
-      "Li C",
-      "Fang L",
-      "Tang L"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35714881/",
-     "source": "recovered-claim"
-    },
-    {
-     "pmid": "33164294",
-     "title": "Is it safe to consume traditional medicinal plants during pregnancy?",
-     "journal": "Phytotherapy research : PTR",
-     "year": 2021,
-     "authors": [
-      "Bernstein N",
-      "Akram M",
-      "Yaniv-Bachrach Z",
-      "Daniyal M"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.1002/ptr.6935",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/33164294/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "25183095",
-     "title": "Ethno botanical and Phytophrmacological potential of Abrus precatorius L.: A review",
-     "journal": "Asian Pacific journal of tropical biomedicine",
-     "year": 2014,
-     "authors": [
-      "Garaniya N",
-      "Bapodra A"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.12980/APJTB.4.2014C1069",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/25183095/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "15181663",
-     "title": "Abrin poisoning",
-     "journal": "Toxicological reviews",
-     "year": 2003,
-     "authors": [
-      "Dickers KJ",
-      "Bradberry SM",
-      "Rice P",
-      "Griffiths GD",
-      "Vale JA"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.2165/00139709-200322030-00002",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15181663/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "6752588",
-     "title": "Research on plants for fertility regulation in India",
-     "journal": "Journal of ethnopharmacology",
-     "year": 1982,
-     "authors": [
-      "Kamboj VP",
-      "Dhawan BN"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.1016/0378-8741(82)90004-6",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/6752588/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "40796806",
-     "title": "4-Methoxylonchocarpin protects against cisplatin induced acute kidney injury via regulating ferroptosis",
-     "journal": "Renal failure",
-     "year": 2025,
-     "authors": [
-      "Jiao N",
-      "Wang B",
-      "Zhang Q",
-      "Liu Y",
-      "Zhao F"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1080/0886022X.2025.2545941",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/40796806/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "33919561",
-     "title": "Differentiation, Quantification and Identification of Abrin and Abrus precatorius Agglutinin",
-     "journal": "Toxins",
-     "year": 2021,
-     "authors": [
-      "Worbs S",
-      "Kampa B",
-      "Skiba M",
-      "Hansbauer EM",
-      "Stern D",
-      "Volland H",
-      "Becher F",
-      "Simon S",
-      "Dorner MB",
-      "Dorner BG"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't",
-      "Validation Study"
-     ],
-     "doi": "10.3390/toxins13040284",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/33919561/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "32349421",
-     "title": "Mapping Immunodominant Antibody Epitopes of Abrin",
-     "journal": "Antibodies (Basel, Switzerland)",
-     "year": 2020,
-     "authors": [
-      "Alcalay R",
-      "Falach R",
-      "Gal Y",
-      "Sapoznikov A",
-      "Sabo T",
-      "Kronman C",
-      "Mazor O"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.3390/antib9020011",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/32349421/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "28189973",
-     "title": "4-Methoxylonchocarpin attenuates inflammation by inhibiting lipopolysaccharide binding to Toll-like receptor of macrophages and M1 macrophage polarization",
-     "journal": "International immunopharmacology",
-     "year": 2017,
-     "authors": [
-      "Jang HM",
-      "Kang GD",
-      "Van Le TK",
-      "Lim SM",
-      "Jang DS",
-      "Kim DH"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1016/j.intimp.2017.02.003",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/28189973/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "27695273",
-     "title": "Antihyperglycemic and Insulin Secretagogue Activities of Abrus precatorius Leaf Extract",
-     "journal": "Pharmacognosy research",
-     "year": 2016,
-     "authors": [
-      "Umamahesh B",
-      "Veeresham C"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.4103/0974-8490.188881",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/27695273/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "25383222",
-     "title": "Abrus precatorius Leaves: Antioxidant Activity in Food and Biological Systems, pH, and Temperature Stability",
-     "journal": "International journal of medicinal chemistry",
-     "year": 2014,
-     "authors": [
-      "Reddy Palvai V",
-      "Mahalingu S",
-      "Urooj A"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1155/2014/748549",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/25383222/",
      "tier": "D",
      "source": "pubmed-live"
     }
@@ -51181,271 +51193,6 @@
    "title": "Kshara Parpati",
    "binomial": "",
    "citations": []
-  },
-  "herb/kshavaka": {
-   "title": "Kshavaka",
-   "binomial": "amaranthus spinosus",
-   "citations": [
-    {
-     "pmid": "32957510",
-     "title": "Therapeutic Application of Betalains: A Review",
-     "journal": "Plants (Basel, Switzerland)",
-     "year": 2020,
-     "authors": [
-      "Madadi E",
-      "Mazloum-Ravasan S",
-      "Yu JS",
-      "Ha JW",
-      "Hamishehkar H",
-      "Kim KH"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Review"
-     ],
-     "doi": "10.3390/plants9091219",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/32957510/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "40500983",
-     "title": "Exploring the Nanoparticle Fabrication Ability of Amaranthus spinosus and Its Biological Functions",
-     "journal": "Luminescence : the journal of biological and chemical luminescence",
-     "year": 2025,
-     "authors": [
-      "Rengarajan S",
-      "Navaneethan RD",
-      "Alagendran S",
-      "Subramani C",
-      "Raman S",
-      "Dixit S",
-      "Mythili R",
-      "Chinnapandi B",
-      "Pandian A",
-      "Govindarajan RK"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1002/bio.70231",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/40500983/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "41428221",
-     "title": "Antibacterial Activity, Phytochemical Composition, and Cytotoxicity Evaluation of Select Medicinal Plants from Bangladesh",
-     "journal": "Current microbiology",
-     "year": 2025,
-     "authors": [
-      "Ahmed F",
-      "Luyten W",
-      "Ghosh AK",
-      "Paeshuyse J"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1007/s00284-025-04645-9",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/41428221/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "40395717",
-     "title": "Amaranthus spinosus Linn. Extract as an Innovative Strategy to Regulate Biomarkers for Ovarian Hyperthecosis via Circular RNA (hsa-circ-0001577): Evidence From Biochemical, Metabolomics, Histological, and Phytochemical Profiling",
-     "journal": "Food science & nutrition",
-     "year": 2025,
-     "authors": [
-      "Ammar NM",
-      "Kadry MO",
-      "Abd Elkarim AS",
-      "Ibrahim RS",
-      "Sallam IE",
-      "El Gendy AEG",
-      "Afifi SM",
-      "Esatbeyoglu T",
-      "Farag MA",
-      "Elshamy AI"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1002/fsn3.70314",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/40395717/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "36914315",
-     "title": "Nutritional aspects of non-conventional edible plants from Brazil: Caruru (Amaranthus spinosus L) and trapoeraba (Commelina benghalensis)",
-     "journal": "Food research international (Ottawa, Ont.)",
-     "year": 2023,
-     "authors": [
-      "Pereira LV",
-      "Salvador MR",
-      "Silva BS",
-      "Pinheiro-Sant'Ana HM",
-      "Della Lucia CM",
-      "Teixeira RDBL",
-      "Cardoso LM"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-     ],
-     "doi": "10.1016/j.foodres.2023.112583",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/36914315/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "37186777",
-     "title": "Extrachromosomal circular DNA-mediated spread of herbicide resistance in interspecific hybrids of pigweed",
-     "journal": "Plant physiology",
-     "year": 2023,
-     "authors": [
-      "Koo DH",
-      "Sathishraj R",
-      "Nakka S",
-      "Ju Y",
-      "Nandula VK",
-      "Jugulam M",
-      "Friebe B",
-      "Gill BS"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, U.S. Gov't, Non-P.H.S.",
-      "Research Support, Non-U.S. Gov't"
-     ],
-     "doi": "10.1093/plphys/kiad281",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/37186777/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "35355878",
-     "title": "Bioactivity of Amaranthus spinosus L. leaf extracts and meals against Aeromonas hydrophila",
-     "journal": "Access microbiology",
-     "year": 2022,
-     "authors": [
-      "Patalinghug JMR",
-      "Padayao MHRA",
-      "Angeles IP Jr",
-      "Yee JC"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1099/acmi.0.000305",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35355878/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "31020865",
-     "title": "Effects of lead and cadmium on photosynthesis in Amaranthus spinosus and assessment of phytoremediation potential",
-     "journal": "International journal of phytoremediation",
-     "year": 2019,
-     "authors": [
-      "Huang Y",
-      "Xi Y",
-      "Gan L",
-      "Johnson D",
-      "Wu Y",
-      "Ren D",
-      "Liu H"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1080/15226514.2019.1594686",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31020865/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "25436078",
-     "title": "Antidepressant activity of methanolic extract of amaranthus spinosus",
-     "journal": "Basic and clinical neuroscience",
-     "year": 2014,
-     "authors": [
-      "Ashok Kumar BS",
-      "Lakshman K",
-      "Velmurugan C",
-      "Sridhar SM",
-      "Gopisetty S"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/25436078/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "23025418",
-     "title": "Evaluation of gut modulatory and bronchodilator activities of Amaranthus spinosus Linn",
-     "journal": "BMC complementary and alternative medicine",
-     "year": 2012,
-     "authors": [
-      "Chaudhary MA",
-      "Imran I",
-      "Bashir S",
-      "Mehmood MH",
-      "Rehman NU",
-      "Gilani AH"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-     ],
-     "doi": "10.1186/1472-6882-12-166",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23025418/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "19465104",
-     "doi": "10.1016/j.jep.2009.05.010",
-     "title": "Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2009,
-     "authors": [
-      "Zeashan H",
-      "Amresh G",
-      "Singh S",
-      "Rao CV"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/19465104/",
-     "source": "recovered-claim"
-    },
-    {
-     "pmid": "15018042",
-     "title": "Betacyanins and phenolic compounds from Amaranthus spinosus L. and Boerhavia erecta L",
-     "journal": "Zeitschrift fur Naturforschung. C, Journal of biosciences",
-     "year": 2004,
-     "authors": [
-      "Stintzing FC",
-      "Kammerer D",
-      "Schieber A",
-      "Adama H",
-      "Nacoulma OG",
-      "Carle R"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1515/znc-2004-1-201",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15018042/",
-     "tier": "D",
-     "source": "pubmed-live"
-    }
-   ]
   },
   "herb/ksheera": {
    "title": "Ksheera",
@@ -72373,7 +72120,7 @@
   },
   "herb/rishabhaka": {
    "title": "Rishabhaka",
-   "binomial": "manilkara hexandra",
+   "binomial": "malaxis muscifera",
    "citations": [
     {
      "pmid": "38289898",
@@ -72391,222 +72138,6 @@
      "tier": "A",
      "url": "https://pubmed.ncbi.nlm.nih.gov/38289898/",
      "source": "companion-db"
-    },
-    {
-     "pmid": "23336629",
-     "title": "First environmental isolation of Cryptococcus gattii, genotype AFLP5, from India and a global review",
-     "journal": "Mycoses",
-     "year": 2013,
-     "authors": [
-      "Chowdhary A",
-      "Prakash A",
-      "Randhawa HS",
-      "Kathuria S",
-      "Hagen F",
-      "Klaassen CH",
-      "Meis JF"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't",
-      "Review"
-     ],
-     "doi": "10.1111/myc.12039",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23336629/",
-     "tier": "C",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "39670969",
-     "title": "Development of validated HPTLC methods for determination of triterpenoids and flavan-3-ols in leaf and stembark of Manilkara hexandra Dubard",
-     "journal": "Natural product research",
-     "year": 2026,
-     "authors": [
-      "Sharma S",
-      "Modi K",
-      "Thakar M",
-      "Sindhav G",
-      "Shah MB"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1080/14786419.2024.2435533",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/39670969/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "38700595",
-     "title": "Urban trees' potential for regulatory services in the urban environment: an exploration of carbon sequestration",
-     "journal": "Environmental monitoring and assessment",
-     "year": 2024,
-     "authors": [
-      "Sharma S",
-      "Hussain S",
-      "Kumar P",
-      "Singh AN"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1007/s10661-024-12634-x",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/38700595/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "32449638",
-     "title": "Manilkara hexandra (Roxb.) Dubard Ameliorates Acetic Acid-induced Rat Gastric Ulcer",
-     "journal": "Journal of dietary supplements",
-     "year": 2021,
-     "authors": [
-      "Garabadu D",
-      "Singh S",
-      "Gautam T"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1080/19390211.2020.1770393",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/32449638/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "35518160",
-     "title": "Inhibition of SARS-CoV-2 main protease by phenolic compounds from Manilkara hexandra (Roxb.) Dubard assisted by metabolite profiling and in silico virtual screening",
-     "journal": "RSC advances",
-     "year": 2020,
-     "authors": [
-      "Abd El-Mordy FM",
-      "El-Hamouly MM",
-      "Ibrahim MT",
-      "El-Rheem GA",
-      "Aly OM",
-      "Abd El-Kader AM",
-      "Youssif KA",
-      "Abdelmohsen UR"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1039/d0ra05679k",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35518160/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "31049430",
-     "doi": "10.1016/j.heliyon.2019.e01518",
-     "title": "Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms",
-     "journal": "Heliyon",
-     "year": 2019,
-     "authors": [
-      "Ibrahim AE",
-      "Saraya RE",
-      "Saleh H",
-      "Elhenawee M"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31049430/",
-     "source": "recovered-claim"
-    },
-    {
-     "pmid": "25312122",
-     "title": "Effect of certain natural products and organic solvents on quorum sensing in Chromobacterium violaceum",
-     "journal": "Asian Pacific journal of tropical medicine",
-     "year": 2014,
-     "authors": [
-      "Chaudhari V",
-      "Gosai H",
-      "Raval S",
-      "Kothari V"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1016/S1995-7645(14)60233-9",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/25312122/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "23220606",
-     "title": "Improvement of effectiveness of existing Casuarina equisetifolia forests in mitigating tsunami damage",
-     "journal": "Journal of environmental management",
-     "year": 2013,
-     "authors": [
-      "Samarakoon MB",
-      "Tanaka N",
-      "Iimura K"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-     ],
-     "doi": "10.1016/j.jenvman.2012.10.050",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23220606/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "18608895",
-     "title": "The expanding host tree species spectrum of Cryptococcus gattii and Cryptococcus neoformans and their isolations from surrounding soil in India",
-     "journal": "Medical mycology",
-     "year": 2008,
-     "authors": [
-      "Randhawa HS",
-      "Kowshik T",
-      "Chowdhary A",
-      "Preeti Sinha K",
-      "Khan ZU",
-      "Sun S",
-      "Xu J"
-     ],
-     "pubtypes": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-     ],
-     "doi": "10.1080/13693780802124026",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/18608895/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "15551386",
-     "title": "Effect of Manilkara hexandra (Roxb.) Dubard against experimentally-induced gastric ulcers",
-     "journal": "Phytotherapy research : PTR",
-     "year": 2004,
-     "authors": [
-      "Shah MB",
-      "Goswami SS",
-      "Santani DD"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1002/ptr.1565",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15551386/",
-     "tier": "D",
-     "source": "pubmed-live"
-    },
-    {
-     "pmid": "15092455",
-     "title": "Effect of chlorine pollution on three fruit tree species at Ranoli near Baroda, India",
-     "journal": "Environmental pollution (Barking, Essex : 1987)",
-     "year": 1989,
-     "authors": [
-      "Vijayan R",
-      "Bedi SJ"
-     ],
-     "pubtypes": [
-      "Journal Article"
-     ],
-     "doi": "10.1016/0269-7491(89)90002-x",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15092455/",
-     "tier": "D",
-     "source": "pubmed-live"
     }
    ]
   },
@@ -82419,8 +81950,124 @@
   },
   "herb/tanduliyaka": {
    "title": "Tanduliyaka",
-   "binomial": "",
-   "citations": []
+   "binomial": "amaranthus spinosus",
+   "citations": [
+    {
+     "pmid": "35355878",
+     "title": "Bioactivity of Amaranthus spinosus L. leaf extracts and meals against Aeromonas hydrophila",
+     "journal": "Access microbiology",
+     "year": 2022,
+     "authors": [
+      "Patalinghug JMR",
+      "Padayao MHRA",
+      "Angeles IP Jr",
+      "Yee JC"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1099/acmi.0.000305",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35355878/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31892700",
+     "title": "Nutraceuticals, antioxidant pigments, and phytochemicals in the leaves of Amaranthus spinosus and Amaranthus viridis weedy species",
+     "journal": "Scientific reports",
+     "year": 2019,
+     "authors": [
+      "Sarker U",
+      "Oba S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1038/s41598-019-50977-5",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31892700/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31020865",
+     "title": "Effects of lead and cadmium on photosynthesis in Amaranthus spinosus and assessment of phytoremediation potential",
+     "journal": "International journal of phytoremediation",
+     "year": 2019,
+     "authors": [
+      "Huang Y",
+      "Xi Y",
+      "Gan L",
+      "Johnson D",
+      "Wu Y",
+      "Ren D",
+      "Liu H"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/15226514.2019.1594686",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31020865/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "19465104",
+     "title": "Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2009,
+     "authors": [
+      "Zeashan H",
+      "Amresh G",
+      "Singh S",
+      "Rao CV"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jep.2009.05.010",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19465104/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "15018042",
+     "title": "Betacyanins and phenolic compounds from Amaranthus spinosus L. and Boerhavia erecta L",
+     "journal": "Zeitschrift fur Naturforschung. C, Journal of biosciences",
+     "year": 2004,
+     "authors": [
+      "Stintzing FC",
+      "Kammerer D",
+      "Schieber A",
+      "Adama H",
+      "Nacoulma OG",
+      "Carle R"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1515/znc-2004-1-201",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15018042/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "12498581",
+     "title": "Antigenic and allergenic properties of Amaranthus Spinosus pollen--a commonly growing weed in India",
+     "journal": "Annals of agricultural and environmental medicine : AAEM",
+     "year": 2002,
+     "authors": [
+      "Singh AB",
+      "Dahiya P"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12498581/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/tankana-bhasma": {
    "title": "Tankana Bhasma",

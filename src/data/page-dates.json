@@ -1300,9 +1300,9 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "6c29448fd48d9b82",
+    "hash": "ce0b80c982e83b4a",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/abhraka-bhasma": {
     "hash": "e578e8d54ebe35b8",
@@ -1805,9 +1805,9 @@
     "modified": "2026-10-22"
   },
   "herb/dadrughna": {
-    "hash": "9c68a2b05ba90716",
+    "hash": "e67a31ef7f2b4d33",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/danti": {
     "hash": "9bb2d9b4f0f63746",
@@ -2215,9 +2215,9 @@
     "modified": "2026-10-21"
   },
   "herb/jivaka": {
-    "hash": "cf07c6026b8c0ee2",
+    "hash": "3945ee2a60e899ea",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/jivanti": {
     "hash": "74f29098f5e292fb",
@@ -2335,9 +2335,9 @@
     "modified": "2026-10-21"
   },
   "herb/kankshi": {
-    "hash": "95869f530fcb3743",
+    "hash": "88c9685447caf924",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-26"
   },
   "herb/kanmad-bhasma": {
     "hash": "59b787a8be940f49",
@@ -2510,9 +2510,9 @@
     "modified": "2026-10-21"
   },
   "herb/kshavaka": {
-    "hash": "26e0757b5daf01f9",
+    "hash": "d77b49b5b368bcca",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/ksheera": {
     "hash": "b31972c9c1fa3b5a",
@@ -3175,9 +3175,9 @@
     "modified": "2026-10-21"
   },
   "herb/rishabhaka": {
-    "hash": "5418c068c4831949",
+    "hash": "bbef63d0acb56007",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-26"
   },
   "herb/rohisha": {
     "hash": "cff0fb0fea2e375c",
@@ -3500,9 +3500,9 @@
     "modified": "2026-10-21"
   },
   "herb/tanduliyaka": {
-    "hash": "41d9a1fad5d2b8de",
+    "hash": "761888c1f0a25ad8",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/tankana-bhasma": {
     "hash": "4dd11a7f930d2e10",
