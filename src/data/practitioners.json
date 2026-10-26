@@ -10179,6 +10179,2189 @@
       "id": "aushadh-ayurved-panchakarma-sushant-lok-1"
     },
     {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Care Hospital and Panchakarma Centre, Hyderabad (Abids)",
+      "practitioners": [
+        {
+          "name": "Dr Sreekanth P Namboothiri",
+          "qualification": "MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Sreerag P Namboothiri",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sobhanan M P",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 101-102, Majestic Heights, No. 5-9-201/B/A, Chirag Ali Lane",
+        "locality": "Abids",
+        "city": "Hyderabad",
+        "pin": "500001"
+      },
+      "phone": [
+        "+91 70340 20977",
+        "+91 96056 00032",
+        "+91 94977 24244"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/hyderabad",
+      "email": "bichyderabad@sreedhareeyam.com",
+      "hours": "Monday to Sunday 9:00 am to 5:30 pm",
+      "services": [
+        "Ayurvedic eye care",
+        "Panchakarma",
+        "Pizhichil",
+        "Udvartana",
+        "Shirodhara",
+        "Abhyanga",
+        "Diagnostic services"
+      ],
+      "sources": {
+        "practiceName": "https://www.sreedhareeyam.com/branch-network",
+        "practitioners": "https://clinics.sreedhareeyam.com/hyderabad/doctors",
+        "address": "https://clinics.sreedhareeyam.com/hyderabad",
+        "phone": "https://clinics.sreedhareeyam.com/hyderabad"
+      },
+      "testimonials": [
+        {
+          "excerpt": "more like a pilgrimage than just treatment",
+          "attribution": "Sarath Chandran",
+          "url": "https://clinics.sreedhareeyam.com/hyderabad"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://goo.gl/maps/7jzRUUaa7pFWizPD8"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sreedhareeyam-ayurvedic-eye-care-hospital-and-panchakarma"
+    },
+    {
+      "practiceName": "Sri Chakra Kerala Ayurvedic Hospital (Sri Chakra Ayurveda), Attapur",
+      "practitioners": [
+        {
+          "name": "Dr Mahender M",
+          "qualification": "BAMS, Certificate of Completion in Panchakarma (NARIP), Certificate in Kshara Sutra (Jamnagar)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sunitha Joshi",
+          "qualification": "MD Ayurveda (Stree Roga and Prasuthi Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr B. Mukesh",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H No. 3-4-174/4A, 2nd Floor, Above Union Bank, Pillar No. 134, Near Eshwar Theatre, Attapur",
+        "locality": "Attapur",
+        "city": "Hyderabad",
+        "pin": "500048"
+      },
+      "phone": [
+        "+91 93900 55108",
+        "+91 40 4005 5108"
+      ],
+      "website": "https://srichakraayu.com/",
+      "email": "srichakraayu@gmail.com",
+      "hours": "Monday to Sunday, 08:00 AM to 08:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Shirodhara",
+        "Nasya",
+        "Kshara Sutra",
+        "Swarna Bindu Prashana (paediatric)",
+        "Ayurveda awareness programmes",
+        "Therapist training"
+      ],
+      "sources": {
+        "practiceName": "https://srichakraayu.com/",
+        "practitioners": "https://srichakraayu.com/",
+        "address": "https://srichakraayu.com/contact-us/",
+        "phone": "https://srichakraayu.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://maps.app.goo.gl/nhkN3TREntQs2d6dA"
+        },
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/hyderabad/clinic/sri-chakra-kerala-ayurvedic-hospital-attapur"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sri-chakra-kerala-ayurvedic-hospital-sri-chakra-ayurveda"
+    },
+    {
+      "practiceName": "Tvasta Ayurveda, Bandlaguda Jagir",
+      "practitioners": [
+        {
+          "name": "Dr Swetha Mallela",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anwin J Thayyil",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ground Floor, Sri Balaji Nilayam, Plot No 85, Road No 6, Sri Venkateshwara Colony",
+        "locality": "Bandlaguda Jagir",
+        "city": "Hyderabad",
+        "pin": "500086"
+      },
+      "phone": [
+        "+91 81063 99657"
+      ],
+      "website": "https://tvastaayurveda.com/",
+      "email": "tvastaayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Ayurveda pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://tvastaayurveda.com/",
+        "practitioners": "https://tvastaayurveda.com/",
+        "address": "https://tvastaayurveda.com/",
+        "phone": "https://tvastaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "tvasta-ayurveda-bandlaguda-jagir"
+    },
+    {
+      "practiceName": "KSAC Hospitals (Dr Saji D'Souza's Kerala Sanjeevani Ayurvedic Centre), Banjara Hills",
+      "practitioners": [
+        {
+          "name": "Dr Saji D'Souza",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr M. Sharmista",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Bikash Ranjan Mishra",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "6-3-252/1/3, Banjara Hills Main Road, adjacent to Taj Deccan",
+        "locality": "Banjara Hills",
+        "city": "Hyderabad",
+        "pin": "500034"
+      },
+      "phone": [
+        "+91 98661 32743",
+        "+91 98661 30743"
+      ],
+      "website": "https://ksachospitals.com/",
+      "email": "info@ksachospitals.com",
+      "hours": "Consulting Monday to Saturday 10:00 am to 2:00 pm; hospital open Monday to Sunday 8:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Inpatient care",
+        "Brain and spine care",
+        "Anorectal and gastro-intestinal care",
+        "Gynaecology and obstetrics",
+        "Paediatrics",
+        "Orthopaedics",
+        "Respiratory care",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "https://ksachospitals.com/",
+        "practitioners": "https://ksachospitals.com/pages/our-specialists",
+        "address": "https://ksachospitals.com/pages/contact-us",
+        "phone": "https://ksachospitals.com/pages/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ksac-hospitals-dr-saji-d-souza-s-kerala-sanjeevani-ayurvedic"
+    },
+    {
+      "practiceName": "Vardhan Ayurveda Hospital, Banjara Hills",
+      "practitioners": [
+        {
+          "name": "Dr Madhuri Vardhan",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "RMK Plaza, Flat No. 202, 2nd Floor, 8-2-629/11/A, Road No. 12, opposite HDFC Bank, above Bank of Baroda, Mithila Nagar",
+        "locality": "Banjara Hills",
+        "city": "Hyderabad",
+        "pin": "500034"
+      },
+      "phone": [
+        "+91 79971 08108"
+      ],
+      "website": "https://vardhanayurveda.com/our-locations/banjara-hills/",
+      "email": "info@vardhanayurveda.com",
+      "hours": "Monday to Saturday 9:00 am to 6:00 pm; Sunday 9:00 am to 1:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasya",
+        "Raktamokshana",
+        "Kati Basti",
+        "Greeva Basti",
+        "Janu Basti",
+        "Lepanam",
+        "Rejuvenation therapies",
+        "Diet and lifestyle plans"
+      ],
+      "sources": {
+        "practiceName": "https://vardhanayurveda.com/our-locations/banjara-hills/",
+        "practitioners": "https://vardhanayurveda.com/our-doctors/",
+        "address": "https://vardhanayurveda.com/our-locations/banjara-hills/",
+        "phone": "https://vardhanayurveda.com/our-locations/banjara-hills/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vardhan-ayurveda-hospital-banjara-hills"
+    },
+    {
+      "practiceName": "Amrutham Ayurveda Hospital, Dilsukhnagar",
+      "practitioners": [
+        {
+          "name": "Dr N. Subrahmanyam",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#13-9-6, Lalitha Nagar, near Konark Theatre",
+        "locality": "Dilsukhnagar",
+        "city": "Hyderabad",
+        "pin": "500060"
+      },
+      "phone": [
+        "+91 92465 65193",
+        "+91 92465 65192"
+      ],
+      "website": "https://www.ayuramrutham.com/",
+      "email": "srfamrutham@gmail.com",
+      "hours": "Mon to Sat 10:30 AM to 2:00 PM and 4:00 PM to 8:00 PM; Sun 10:30 AM to 2:00 PM",
+      "services": [
+        "Ayurvedic consultation (by prior appointment)",
+        "Dietary consultation",
+        "Anorectal care",
+        "Ayurvedic medicines and products"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayuramrutham.com/",
+        "practitioners": "https://www.ayuramrutham.com/Doctor%20Consultation.html",
+        "address": "https://www.ayuramrutham.com/Contact%20page.html",
+        "phone": "https://www.ayuramrutham.com/Contact%20page.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/hyderabad/hospital/amrutham-ayurveda-hospital-punjagutta/services"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "amrutham-ayurveda-hospital-dilsukhnagar"
+    },
+    {
+      "practiceName": "Government Ayurvedic Hospital and Research Centre, Dr B.R.K.R. Government Ayurvedic Medical College, Erragadda",
+      "practitioners": [
+        {
+          "name": "Dr B. Ramdas",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr G. Rambai",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr A. Sulochana",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr L. Anitha",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Teja Ramname",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr N. Sridhar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sunitha Joshi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr P. Srikanth Babu",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr D. Gyaneshwar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr B. Johar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr K. Laxmikantham",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr V. Madhava Rao",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr S. Durgabai",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr K. Aruna Gayathri",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr K. Ashok Kumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr G. Sujatha",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Y. Sri Vani",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr P. Jyothi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr M. Praveen Kumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr N. Uma Srinivas Rao",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr B.R.K.R. Government Ayurvedic College campus, opposite ESI Hospital, S.R. Nagar",
+        "locality": "Erragadda",
+        "city": "Hyderabad",
+        "pin": "500038"
+      },
+      "phone": [
+        "+91 40 2381 0236"
+      ],
+      "website": "https://brkrgac.org/government-ayurvedic-hospital-and-research-centre/",
+      "email": "brkrgacinfo@gmail.com",
+      "hours": "College office 9:00 am to 3:30 pm (hospital OPD timings not published as text)",
+      "services": [
+        "Outpatient and inpatient Ayurvedic care",
+        "Panchakarma therapy (OPD and IPD)",
+        "Ksharasutra therapy",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya",
+        "Prasuti and Stri Roga",
+        "Kaumarabhritya",
+        "Clinical laboratory",
+        "Teaching pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://brkrgac.org/government-ayurvedic-hospital-and-research-centre/",
+        "practitioners": "https://brkrgac.org/government-ayurvedic-hospital-and-research-centre/",
+        "address": "https://ncismindia.org/A.%20List%20of%20Total%20Ayurveda%20Colleges%20across%20Country%20till%2014.03.2023.pdf",
+        "phone": "https://brkrgac.org/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "government-ayurvedic-hospital-and-research-centre-dr-b-r-k-r"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Gachibowli",
+      "practitioners": [
+        {
+          "name": "Dr Rama Ranjitha",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Dhrishya Manoharan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjitha Satheesh",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 104, 1st Floor, Cyber Residency, Indira Nagar",
+        "locality": "Gachibowli",
+        "city": "Hyderabad",
+        "pin": "500032"
+      },
+      "phone": [
+        "+91 40 2300 4368",
+        "+91 40 2955 8813",
+        "+91 97035 77770"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-gachibowli/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Kizhi",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil",
+        "Snehapanam",
+        "Dhanyamla Dhara",
+        "Sirodhara",
+        "Udwarthanam",
+        "Njavarakizhi"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-gachibowli/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-gachibowli/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-gachibowli/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "It was super relaxing and nice.",
+          "attribution": "Sonal Gupta",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-gachibowli/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-gachibowli"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Hydershakote",
+      "practitioners": [
+        {
+          "name": "Dr Asha Jyothi Yeggoni",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sandhya Rani",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ground Floor, Flat No. 5-36/1, Shanthi Nagar Colony, Gandipet",
+        "locality": "Hydershakote",
+        "city": "Hyderabad",
+        "pin": "500091"
+      },
+      "phone": [
+        "+91 91216 66245"
+      ],
+      "website": "https://madhavbaugts.in/hydershakote/",
+      "email": null,
+      "hours": "9:00 am to 8:00 pm, all days",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Cardiac and metabolic lifestyle programmes",
+        "Anorectal care"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaugts.in/hydershakote/",
+        "practitioners": "https://madhavbaugts.in/hydershakote/",
+        "address": "https://madhavbaugts.in/hydershakote/",
+        "phone": "https://madhavbaugts.in/hydershakote/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-hydershakote"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Jubilee Hills",
+      "practitioners": [
+        {
+          "name": "Dr S. Rachana",
+          "qualification": "BAMS, MD (Dravyaguna)",
+          "registration": null
+        },
+        {
+          "name": "Dr Jishnu Kumar EM",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2nd Floor, Suvarna Nilayam SSRC Building, Plot No. 1278, Road No. 63A, opposite Luna Books, behind Petrol Pump lane",
+        "locality": "Jubilee Hills",
+        "city": "Hyderabad",
+        "pin": "500033"
+      },
+      "phone": [
+        "+91 97035 77721",
+        "+91 40 2354 1812"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapothichil",
+        "Pain management",
+        "Weight management",
+        "Skin care",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The clinic was very clean and well-maintained.",
+          "attribution": "ravi chandra",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/"
+        },
+        {
+          "excerpt": "I am very much happy with the service given.",
+          "attribution": "tabbu hap",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/"
+        },
+        {
+          "excerpt": "Highly recommend Travancore for their care and commitment, both in treatment and documentation.",
+          "attribution": "Am An",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-jubilee-hills/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-jubilee-hills"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Kokapet",
+      "practitioners": [
+        {
+          "name": "Dr Meena Chandran",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anaswara P",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sankaradas K U",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Srishti Khanna",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 7, Gayathri Enclave, Gandipet Main Road, opposite PMJ Jewels",
+        "locality": "Kokapet",
+        "city": "Hyderabad",
+        "pin": "500075"
+      },
+      "phone": [
+        "+91 40 4902 5435",
+        "+91 97035 77757"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-kokapet/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-kokapet/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-kokapet/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-kokapet/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-kokapet"
+    },
+    {
+      "practiceName": "Dr. Balaji Ayurveda Hospital, Kompally",
+      "practitioners": [
+        {
+          "name": "Dr B. Balaji",
+          "qualification": "M.D (Ayu), Specialist in Panchakarma",
+          "registration": {
+            "number": "CCIM Regd No. 190035",
+            "source": "https://drbalajiayurveda.in/"
+          }
+        },
+        {
+          "name": "Dr B. Shravya",
+          "qualification": "B.A.M.S (UHS)",
+          "registration": {
+            "number": "CCIM Regd No. 189997",
+            "source": "https://drbalajiayurveda.in/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Door No 3-123/168, Near Punjab National Bank, Srinivas Nagar Colony",
+        "locality": "Kompally",
+        "city": "Hyderabad",
+        "pin": "500100"
+      },
+      "phone": [
+        "+91 88861 11153"
+      ],
+      "website": "https://drbalajiayurveda.in/",
+      "email": "balaji.ayu@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Rejuvenation packages"
+      ],
+      "sources": {
+        "practiceName": "https://drbalajiayurveda.in/",
+        "practitioners": "https://drbalajiayurveda.in/",
+        "address": "https://drbalajiayurveda.in/contact-us/",
+        "phone": "https://drbalajiayurveda.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/hyderabad/clinic/dr-balaji-ayurveda-hospital-kompally-1"
+        },
+        {
+          "platform": "JustDial",
+          "url": "https://www.justdial.com/Rangareddy/Dr-Balaji-Ayurveda-Hospital-Beside-Punjab-National-Bank-Kompally/040PXX40-XX40-220209132007-F6F7_BZDET"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "dr-balaji-ayurveda-hospital-kompally"
+    },
+    {
+      "practiceName": "Dr Krishna Kumar's Kerala Ayurvedic Centre, Kondapur",
+      "practitioners": [
+        {
+          "name": "Dr Krishna Kumar",
+          "qualification": "BAMS (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 283, Raja Rajeshwari Nagar, opposite Kangaroo Kids",
+        "locality": "Kondapur",
+        "city": "Hyderabad",
+        "pin": "500084"
+      },
+      "phone": [
+        "+91 98491 66970",
+        "+91 90325 38354"
+      ],
+      "website": "https://www.keralayurveda.co.in/ayurveda-clinic-in-kondapur/",
+      "email": "Contact@keralayurveda.co.in",
+      "hours": "Wednesday to Monday, 8:00 am to 8:00 pm; Tuesday 8:00 am to 1:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Therapeutic massages",
+        "Spinal and joint care",
+        "Geriatric care",
+        "Women's wellness",
+        "Stress management therapies"
+      ],
+      "sources": {
+        "practiceName": "https://www.keralayurveda.co.in/ayurveda-clinic-in-kondapur/",
+        "practitioners": "https://www.keralayurveda.co.in/our-doctors/",
+        "address": "https://www.keralayurveda.co.in/ayurveda-clinic-in-kondapur/",
+        "phone": "https://www.keralayurveda.co.in/ayurveda-clinic-in-kondapur/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-krishna-kumar-s-kerala-ayurvedic-centre-kondapur"
+    },
+    {
+      "practiceName": "Sri Sri Holistic Hospitals, Kondapur (Ayurveda and Panchakarma department)",
+      "practitioners": [
+        {
+          "name": "Dr A Rajya Lakshmi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kalajyothi Road, next to Ryan International School, Masjid Banda, Sai Pruthvi Enclave",
+        "locality": "Kondapur",
+        "city": "Hyderabad",
+        "pin": "500084"
+      },
+      "phone": [
+        "+91 92402 12342",
+        "+91 88866 66108"
+      ],
+      "website": "https://srisriholistichospitals.com/hospital-in-kondapur/",
+      "email": "info.kondapur@srisriholistichospitals.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Basti"
+      ],
+      "sources": {
+        "practiceName": "https://srisriholistichospitals.com/hospital-in-kondapur/",
+        "practitioners": "https://srisriholistichospitals.com/hospital-in-kondapur/",
+        "address": "https://srisriholistichospitals.com/hospital-in-kondapur/",
+        "phone": "https://srisriholistichospitals.com/hospital-in-kondapur/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-sri-holistic-hospitals-kondapur-ayurveda-and-panchakarma"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Kondapur",
+      "practitioners": [
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Hari Sankar",
+          "qualification": "BSMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 201, Sai Jyothi Residency, beside Aditya Sunshine, Hanuman Nagar, Shilpa Hills",
+        "locality": "Kondapur",
+        "city": "Hyderabad",
+        "pin": "500085"
+      },
+      "phone": [
+        "+91 97035 77704"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-kondapur/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Kizhi",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil",
+        "Snehapanam",
+        "Dhanyamla Dhara",
+        "Sirodhara",
+        "Udwarthanam",
+        "Njavarakizhi"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-kondapur/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-kondapur/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-kondapur/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Highly recommend Travancore for their care and commitment, both in treatment and documentation.",
+          "attribution": "Am An",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-kondapur/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-kondapur"
+    },
+    {
+      "practiceName": "Sai Ayush Ayurveda Hospital, KPHB",
+      "practitioners": [
+        {
+          "name": "Dr Pasalapudi Visalaanjani",
+          "qualification": "BAMS, MD (Ayurveda, Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Chenna Abhilash",
+          "qualification": "BAMS, MS (Ayurveda, Shalya Tantra), Fellowship in Advanced Proctology",
+          "registration": null
+        },
+        {
+          "name": "Dr Gundu Bhavani",
+          "qualification": "BAMS, MS (Ayurveda, Shalya Tantra)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 59, JNTU to Hitech City Road, KPHB 7th Phase Road",
+        "locality": "KPHB Colony",
+        "city": "Hyderabad",
+        "pin": "500085"
+      },
+      "phone": [
+        "+91 81423 28080",
+        "+91 89776 17710"
+      ],
+      "website": "https://saiayushayurveda.com/",
+      "email": "info@saiayushayurveda.com",
+      "hours": "All days, 7:00 am to 10:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (outpatient and inpatient)",
+        "Janu Basti",
+        "Kshara Sutra",
+        "Agnikarma",
+        "Anorectal care",
+        "Swarna Prashana",
+        "Daycare therapies"
+      ],
+      "sources": {
+        "practiceName": "https://saiayushayurveda.com/contact-us/",
+        "practitioners": "https://saiayushayurveda.com/doctors/",
+        "address": "https://saiayushayurveda.com/contact-us/",
+        "phone": "https://saiayushayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sai-ayush-ayurveda-hospital-kphb"
+    },
+    {
+      "practiceName": "AyushNidhi Ayurveda Hospital, Kukatpally",
+      "practitioners": [
+        {
+          "name": "Dr Khanisri Singapanga",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ch Srinivas",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Jupally Heights, Sai Baba Nagar Colony Phase 1, Prakash Nagar, Sangeet Nagar",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500072"
+      },
+      "phone": [
+        "+91 80087 95949",
+        "+91 40 4859 5949"
+      ],
+      "website": "https://www.ayushnidhi.com/",
+      "email": "dr.ayushnidhi@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Pizhichil",
+        "Udwarthanam",
+        "Njavarakizhi",
+        "Kati Basti",
+        "Greeva Basti",
+        "Janu Basti",
+        "Netra Tarpana",
+        "Takradhara",
+        "Ksharasutra therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayushnidhi.com/",
+        "practitioners": "https://www.ayushnidhi.com/",
+        "address": "https://www.ayushnidhi.com/",
+        "phone": "https://www.ayushnidhi.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very caring doctor and excellent treatment approach.",
+          "attribution": "Ramesh K.",
+          "url": "https://www.ayushnidhi.com/"
+        },
+        {
+          "excerpt": "Professional hospital with natural and holistic treatment methods.",
+          "attribution": "Suresh M.",
+          "url": "https://www.ayushnidhi.com/"
+        },
+        {
+          "excerpt": "Personalized Ayurvedic care helped me understand my health better.",
+          "attribution": "Priya S.",
+          "url": "https://www.ayushnidhi.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayushnidhi-ayurveda-hospital-kukatpally"
+    },
+    {
+      "practiceName": "Darshana Ayurveda Research Centre, Kukatpally",
+      "practitioners": [
+        {
+          "name": "Dr Darshana Reddy",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": {
+            "number": "29681",
+            "source": "https://darshanaayurveda.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Flat No. 201, above Axis Bank, Addagutta",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500090"
+      },
+      "phone": [
+        "+91 85220 58811",
+        "+91 85220 68811"
+      ],
+      "website": "https://darshanaayurveda.com/",
+      "email": "info@darshanaayurveda.com",
+      "hours": "Monday to Saturday, 9:00 am to 7:00 pm; Sunday by appointment",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Shirodhara",
+        "Agnikarma",
+        "Cupping",
+        "In-house pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://darshanaayurveda.com/",
+        "practitioners": "https://darshanaayurveda.com/",
+        "address": "https://darshanaayurveda.com/locations/ayurveda-clinic-kphb.html",
+        "phone": "https://darshanaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "darshana-ayurveda-research-centre-kukatpally"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Kukatpally (JNTUH Metro)",
+      "practitioners": [
+        {
+          "name": "Dr K A L Prabhavathi",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr B Kishan",
+          "qualification": "MD (Ay), Shalya Tantra",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 20, Road No. 2, Vasant Nagar, 16-3-217/A, near JNTUH Metro Station, Dharma Reddy Colony Phase II",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500085"
+      },
+      "phone": [
+        "+91 99480 01014",
+        "+91 90778 99899"
+      ],
+      "website": "https://madhavbaug.org/clinic/kukatpally-hyderabad-telangana",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, Thursday closed (madhavbaug.org); madhavbaugts.in says 9:00 am to 8:00 pm, all days",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Cardiac and metabolic lifestyle programmes",
+        "Diet and yoga guidance",
+        "ECG, TMT and blood test diagnostics"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/kukatpally-hyderabad-telangana",
+        "practitioners": "https://madhavbaug.org/clinic/kukatpally-hyderabad-telangana",
+        "address": "https://madhavbaug.org/clinic/kukatpally-hyderabad-telangana",
+        "phone": "https://madhavbaug.org/clinic/kukatpally-hyderabad-telangana"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-kukatpally-jntuh-metro"
+    },
+    {
+      "practiceName": "Nagarjuna Ayurveda Treatment Centre, Kukatpally",
+      "practitioners": [
+        {
+          "name": "Dr Rigin K C",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd Floor, Park View Commercial Complex, Vasanthnagar",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500085"
+      },
+      "phone": [
+        "+91 91541 01080"
+      ],
+      "website": "https://www.nagarjunaayurveda.com/hyderabad",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Spine care",
+        "Stroke rehabilitation",
+        "Kerala Ayurveda medicines"
+      ],
+      "sources": {
+        "practiceName": "https://www.nagarjunaayurveda.com/hyderabad",
+        "practitioners": "https://www.nagarjunaayurveda.com/hyderabad",
+        "address": "https://www.nagarjunaayurveda.com/hyderabad",
+        "phone": "https://www.nagarjunaayurveda.com/hyderabad"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "nagarjuna-ayurveda-treatment-centre-kukatpally"
+    },
+    {
+      "practiceName": "Saraja's Ayurvedic Anorectal Hospital, Kukatpally",
+      "practitioners": [
+        {
+          "name": "Dr G Venkateswarlu",
+          "qualification": "MS (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr B L Saraja",
+          "qualification": "MS (Ay), OBG",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd Floor, People's Hospital Complex (People Plaza), Metro Pillar No 817, beside Narayana Junior College, KPHB",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500072"
+      },
+      "phone": [
+        "+91 92999 00129"
+      ],
+      "website": "https://sarajasayurveda.com/",
+      "email": "drvenkat.bharadwaj@gmail.com",
+      "hours": "Monday to Sunday, 8:00 am to 3:00 pm",
+      "services": [
+        "Kshara Sutra therapy",
+        "Anorectal care (piles, fissure, fistula, pilonidal sinus)",
+        "Laser treatment"
+      ],
+      "sources": {
+        "practiceName": "https://sarajasayurveda.com/",
+        "practitioners": "https://sarajasayurveda.com/",
+        "address": "https://sarajasayurveda.com/",
+        "phone": "https://sarajasayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "saraja-s-ayurvedic-anorectal-hospital-kukatpally"
+    },
+    {
+      "practiceName": "Sri Veda Sushruta Ayurveda Hospital, KPHB",
+      "practitioners": [
+        {
+          "name": "Dr S Mahesh Kumar",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dharma Reddy Colony Phase I",
+        "locality": "Kukatpally",
+        "city": "Hyderabad",
+        "pin": "500085"
+      },
+      "phone": [
+        "+91 90326 20202",
+        "+91 96427 20202"
+      ],
+      "website": "https://www.sushrutaayurveda.com/",
+      "email": "ayur.drmahesh@gmail.com",
+      "hours": "Monday to Saturday, 10:00 am to 2:00 pm and 4:00 pm to 9:00 pm (contact section says 10:00 am to 6:00 pm)",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Dhara",
+        "Sirovasti",
+        "Pizhichil",
+        "Nasyam",
+        "Vamanam",
+        "Virechanam",
+        "Vasthi",
+        "Navara Kizhi",
+        "Swarna Bindu Prashanam",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://www.sushrutaayurveda.com/",
+        "practitioners": "https://www.sushrutaayurveda.com/our-doctors/dr-mahesh-kumar/",
+        "address": "https://www.sushrutaayurveda.com/contact/",
+        "phone": "https://www.sushrutaayurveda.com/contact/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Excellent doctor. I would surely recommend Dr. Mahesh.",
+          "attribution": "kande raghu",
+          "url": "https://www.sushrutaayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-veda-sushruta-ayurveda-hospital-kphb"
+    },
+    {
+      "practiceName": "Dr. Raju's Institute of Ayurveda and Panchakarma Rejuvenation Center, Mansoorabad",
+      "practitioners": [
+        {
+          "name": "Dr A.V. Krishna Raju",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ramya Raju",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#8/19, Bahar-A, Sahara States, Mansoorabad",
+        "locality": "LB Nagar",
+        "city": "Hyderabad",
+        "pin": "500068"
+      },
+      "phone": [
+        "+91 88978 88211"
+      ],
+      "website": "https://www.drraju.com/",
+      "email": "drrajuinstitute@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha (pulse diagnosis)",
+        "Daily vaidya consultations",
+        "Herbal preparations",
+        "Online consultations",
+        "Ayurveda courses"
+      ],
+      "sources": {
+        "practiceName": "https://drraju.com/contact-order-schedule",
+        "practitioners": "https://drraju.com/the-raju-family",
+        "address": "https://drraju.com/contact-order-schedule",
+        "phone": "https://drraju.com/contact-order-schedule"
+      },
+      "testimonials": [
+        {
+          "excerpt": "At the clinic, the most amazing experiences were the daily consultations with the Dr. Rajus.",
+          "attribution": "Panama",
+          "url": "https://drraju.com/testimonials"
+        },
+        {
+          "excerpt": "Dr. Krishna Raju is a brilliant, compassionate, highly skilled and knowledgeable Vaidya.",
+          "attribution": "USA",
+          "url": "https://drraju.com/testimonials"
+        },
+        {
+          "excerpt": "The technicians are loving and skilled, and the whole feeling at the Center is nurturing.",
+          "attribution": "USA",
+          "url": "https://drraju.com/testimonials"
+        },
+        {
+          "excerpt": "Thank you very much to this great family who from so many generations are preserving the purity of this deep knowledge.",
+          "attribution": "Italy",
+          "url": "https://drraju.com/testimonials"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-raju-s-institute-of-ayurveda-and-panchakarma-rejuvenation"
+    },
+    {
+      "practiceName": "Maitri Ayurved Health and Wellness Centre, Madhapur",
+      "practitioners": [
+        {
+          "name": "Dr H Kishore Kumar",
+          "qualification": "BAMS, MD (Ayu), PG in Yoga Therapy and Stress Management",
+          "registration": null
+        },
+        {
+          "name": "Dr H Devika",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No 301, Black Square Apartments, Kavuri Hills",
+        "locality": "Madhapur",
+        "city": "Hyderabad",
+        "pin": "500033"
+      },
+      "phone": [
+        "+91 91005 06609"
+      ],
+      "website": "https://maitriayurved.com/",
+      "email": "maitri.ayu22@gmail.com",
+      "hours": "Wednesday to Monday, 8:00 am to 8:00 pm; Tuesday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Pain and spine care",
+        "Women's wellness",
+        "Skin care",
+        "Weight management",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://maitriayurved.com/",
+        "practitioners": "https://maitriayurved.com/",
+        "address": "https://maitriayurved.com/",
+        "phone": "https://maitriayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "maitri-ayurved-health-and-wellness-centre-madhapur"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Madinaguda",
+      "practitioners": [
+        {
+          "name": "Dr G Karunamoorthi",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Jayashree Nandurkar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Aashitha P S",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No. 24 and 25, Padmaja Nilaya, Madava Enclave, beside Indian Overseas Bank",
+        "locality": "Madinaguda",
+        "city": "Hyderabad",
+        "pin": "500032"
+      },
+      "phone": [
+        "+91 40 2304 0554",
+        "+91 97035 77772"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapothichil",
+        "Matru Raksha postnatal care"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The staff were incredibly friendly and welcoming.",
+          "attribution": "Mounika Divya",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/"
+        },
+        {
+          "excerpt": "Special thanks to Smita Ma'am who provided such exceptional care with genuine warmth and professionalism",
+          "attribution": "Chundi Karthik",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/"
+        },
+        {
+          "excerpt": "Excellent team. Doctor is good.",
+          "attribution": "Venkat Prakash",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-madinaguda/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-madinaguda"
+    },
+    {
+      "practiceName": "Dr Saraja's Ayurvedic Anorectal Hospital, Manikonda",
+      "practitioners": [
+        {
+          "name": "Dr G Venkateswarlu",
+          "qualification": "MS (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr B L Saraja",
+          "qualification": "MS (Ay), OBG",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2nd Floor, Shivapuri Colony, Muppas Panchavati Colony",
+        "locality": "Manikonda",
+        "city": "Hyderabad",
+        "pin": "500089"
+      },
+      "phone": [
+        "+91 92999 00129"
+      ],
+      "website": "https://sarajasayurveda.com/manikonda/",
+      "email": "drvenkat.bharadwaj@gmail.com",
+      "hours": "Monday to Sunday, 3:00 pm to 8:00 pm",
+      "services": [
+        "Kshara Sutra therapy",
+        "Anorectal care (piles, fissure, fistula, pilonidal sinus)",
+        "Laser treatment"
+      ],
+      "sources": {
+        "practiceName": "https://sarajasayurveda.com/manikonda/",
+        "practitioners": "https://sarajasayurveda.com/manikonda/",
+        "address": "https://sarajasayurveda.com/manikonda/",
+        "phone": "https://sarajasayurveda.com/manikonda/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I truly suggest him for the best treatment he provide to patient and explaining everything with so much patience.",
+          "attribution": "Arundha Reddy",
+          "url": "https://sarajasayurveda.com/manikonda/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-saraja-s-ayurvedic-anorectal-hospital-manikonda"
+    },
+    {
+      "practiceName": "Vaidya Kshetra, Manikonda",
+      "practitioners": [
+        {
+          "name": "Dr Deepa Jaju",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 7-14/68A, 68B/11B, First Floor, above Lenskart, Alkapur Township, Puppalguda",
+        "locality": "Manikonda",
+        "city": "Hyderabad",
+        "pin": "500089"
+      },
+      "phone": [
+        "+91 88860 80001"
+      ],
+      "website": "https://www.vaidyakshetra.com/",
+      "email": "marketing.vaidyakshetra@gmail.com",
+      "hours": "Monday to Sunday, 8:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Rasayana",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://www.vaidyakshetra.com/",
+        "practitioners": "https://www.vaidyakshetra.com/",
+        "address": "https://www.vaidyakshetra.com/",
+        "phone": "https://www.vaidyakshetra.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The authenticity is unmatched - the lifestyle tips I learned are now part of my daily routine.",
+          "attribution": "Meera, Chennai",
+          "url": "https://www.vaidyakshetra.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vaidya-kshetra-manikonda"
+    },
+    {
+      "practiceName": "Dr. Krishna Kumar's Kerala Ayurvedic Centre, Masab Tank",
+      "practitioners": [
+        {
+          "name": "Dr Krishna Kumar",
+          "qualification": "BAMS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr B. Jayareena",
+          "qualification": "BAMS (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "10-1-843/102, Nazeer Plaza, Sham Nagar Colony Road, AC Guards Road, behind Mahaveer Hospital, Masab Tank",
+        "locality": "Masab Tank",
+        "city": "Hyderabad",
+        "pin": "500004"
+      },
+      "phone": [
+        "+91 73861 93546",
+        "+91 98491 66970"
+      ],
+      "website": "https://www.keralayurveda.co.in/ayurveda-clinic-in-masab-tank/",
+      "email": "Contact@keralayurveda.co.in",
+      "hours": "Mon to Sat 7am to 7pm; Sun 7am to 1pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma therapies",
+        "Therapeutic massages",
+        "Spinal and joint care",
+        "Neuro care",
+        "Women's wellness",
+        "Geriatric care",
+        "Stress management therapies",
+        "Skin and hair solutions"
+      ],
+      "sources": {
+        "practiceName": "https://www.keralayurveda.co.in/ayurveda-clinic-in-masab-tank/",
+        "practitioners": "https://www.keralayurveda.co.in/our-doctors/",
+        "address": "https://www.keralayurveda.co.in/ayurveda-clinic-in-masab-tank/",
+        "phone": "https://www.keralayurveda.co.in/ayurveda-clinic-in-masab-tank/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-krishna-kumar-s-kerala-ayurvedic-centre-masab-tank"
+    },
+    {
+      "practiceName": "Sri Samskrti Ayurveda Multi Speciality Clinic and Panchakarma Center, Masab Tank",
+      "practitioners": [
+        {
+          "name": "Dr D. Venkata Krishna Naik",
+          "qualification": "BAMS (Sri Venkateshwara Ayurvedic College, Tirupati), MD Kaya Chikitsa (Dr BRKR Govt Ayurvedic Medical College)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "NMDC Lane, Masab Tank",
+        "locality": "Masab Tank",
+        "city": "Hyderabad",
+        "pin": "500057"
+      },
+      "phone": [
+        "+91 99665 07030",
+        "+91 96527 39467"
+      ],
+      "website": "http://www.srisamskrtiayurveda.com/",
+      "email": "srisamskrti@gmail.com",
+      "hours": "Mon to Sat, Morning 10 AM to 2 PM, Evening 5 PM to 9:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Wellness and rejuvenation",
+        "Diet and lifestyle management",
+        "Karkidaka Chikitsa (seasonal regimen)",
+        "Mano Vikara (mind care)",
+        "Swarna Bindu Prashanam"
+      ],
+      "sources": {
+        "practiceName": "http://www.srisamskrtiayurveda.com/",
+        "practitioners": "http://www.srisamskrtiayurveda.com/",
+        "address": "http://www.srisamskrtiayurveda.com/",
+        "phone": "http://www.srisamskrtiayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Great experience, rare to find this type of Dr now a days and Dr Krishna sir explains each pont in Detail.",
+          "attribution": "Surith Kumar",
+          "url": "http://www.srisamskrtiayurveda.com/"
+        },
+        {
+          "excerpt": "He is not only a doctor more than a philosopher who change our lifestyle and shows good path.",
+          "attribution": "Rajani N",
+          "url": "http://www.srisamskrtiayurveda.com/"
+        },
+        {
+          "excerpt": "Nice place with good people and non commercial place. Rare to find such good service oriented clinics in these days.",
+          "attribution": "Tanu Sree",
+          "url": "http://www.srisamskrtiayurveda.com/"
+        },
+        {
+          "excerpt": "Doctor has given specific diet. Explained me clearly.",
+          "attribution": "Banovath Gayathri",
+          "url": "http://www.srisamskrtiayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-samskrti-ayurveda-multi-speciality-clinic-and"
+    },
+    {
+      "practiceName": "Darshana Ayurveda, Nallagandla",
+      "practitioners": [
+        {
+          "name": "Dr Darshana Reddy",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": {
+            "number": "29681",
+            "source": "https://darshanaayurveda.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "4/A, GRR Enclave, 2nd Floor, Nallagandla Road",
+        "locality": "Nallagandla",
+        "city": "Hyderabad",
+        "pin": "500046"
+      },
+      "phone": [
+        "+91 85220 58811",
+        "+91 85220 68811"
+      ],
+      "website": "https://darshanaayurveda.com/",
+      "email": "info@darshanaayurveda.com",
+      "hours": "Monday to Saturday, 9:00 am to 7:00 pm; Sunday by appointment",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Shirodhara",
+        "Agnikarma",
+        "Cupping",
+        "In-house pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://darshanaayurveda.com/",
+        "practitioners": "https://darshanaayurveda.com/",
+        "address": "https://darshanaayurveda.com/",
+        "phone": "https://darshanaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "darshana-ayurveda-nallagandla"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Nallagandla",
+      "practitioners": [
+        {
+          "name": "Dr R M Sireesha",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Mahesh Kumar",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, The Elysium Towers, MIG-65, beside ICICI Bank, HUDA Layout",
+        "locality": "Nallagandla",
+        "city": "Hyderabad",
+        "pin": "502034"
+      },
+      "phone": [
+        "+91 99480 01013",
+        "+91 91600 31212",
+        "+91 97044 40281"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavabaug-ayurvedic-clinic-in-nallagandla-hyderabad-telangana",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, Thursday closed (madhavbaug.org); madhavbaugts.in says 9:00 am to 8:00 pm, all days",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Cardiac and metabolic lifestyle programmes",
+        "Diet and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavabaug-ayurvedic-clinic-in-nallagandla-hyderabad-telangana",
+        "practitioners": "https://madhavbaug.org/clinic/madhavabaug-ayurvedic-clinic-in-nallagandla-hyderabad-telangana",
+        "address": "https://madhavbaug.org/clinic/madhavabaug-ayurvedic-clinic-in-nallagandla-hyderabad-telangana",
+        "phone": "https://madhavbaug.org/clinic/madhavabaug-ayurvedic-clinic-in-nallagandla-hyderabad-telangana"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-nallagandla"
+    },
+    {
+      "practiceName": "Sri Sri Wellbeing Centre, Nallagandla",
+      "practitioners": [
+        {
+          "name": "Dr Shivani Kulkarni",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. HIG-18/B, HIG HUDA Layout, Serilingampally",
+        "locality": "Nallagandla",
+        "city": "Hyderabad",
+        "pin": "500019"
+      },
+      "phone": [
+        "+91 89196 03936"
+      ],
+      "website": "https://www.srisriwellbeing.com/hyderabad",
+      "email": "ssw.nallagandla@srisritattva.com",
+      "hours": "8:00 am to 5:00 pm; Tuesday off (page also says Mon to Sun)",
+      "services": [
+        "Nadi Pariksha",
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Relaxation treatments",
+        "Netratejas eye care"
+      ],
+      "sources": {
+        "practiceName": "https://www.srisriwellbeing.com/hyderabad",
+        "practitioners": "https://www.srisriwellbeing.com/hyderabad",
+        "address": "https://www.srisriwellbeing.com/hyderabad",
+        "phone": "https://www.srisriwellbeing.com/hyderabad"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-sri-wellbeing-centre-nallagandla"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Nallagandla",
+      "practitioners": [
+        {
+          "name": "Dr Aarati Vatambe",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Sri Nayani Pabbaraju",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katti Gotur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 151/2, HUDA Layout, beside Amul Ice Cream parlour, HUDA Residential Colony, Serilingampally",
+        "locality": "Nallagandla",
+        "city": "Hyderabad",
+        "pin": "500019"
+      },
+      "phone": [
+        "+91 97035 77792"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "In-patient Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapothichil"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Sanoj and jismo have provided excellent therapy for my 89 year old father.",
+          "attribution": "Srinivas Sadasyula",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/"
+        },
+        {
+          "excerpt": "They worked in full coordination and balance and took care of my specific need very greatly.",
+          "attribution": "Arihant Jain",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-nallagandla/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-nallagandla"
+    },
+    {
+      "practiceName": "Vardhan Ayurveda Hospital, Narayanguda",
+      "practitioners": [
+        {
+          "name": "Dr Madhuri Vardhan",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Legend Venkatesa, 3rd Floor, beside Narayanguda Flyover, next to Taj Mahal Hotel",
+        "locality": "Narayanaguda",
+        "city": "Hyderabad",
+        "pin": "500029"
+      },
+      "phone": [
+        "+91 79971 08108"
+      ],
+      "website": "https://vardhanayurveda.com/our-locations/narayanguda/",
+      "email": "info@vardhanayurveda.com",
+      "hours": "Monday to Saturday 9:00 am to 6:00 pm; Sunday 9:00 am to 1:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Vasti",
+        "Nasyam",
+        "Raktamokshana",
+        "Abhyangam",
+        "Shirodhara",
+        "Pizhichil",
+        "Elakizhi",
+        "Marma Chikitsa",
+        "Diet and nutrition counselling"
+      ],
+      "sources": {
+        "practiceName": "https://vardhanayurveda.com/our-locations/narayanguda/",
+        "practitioners": "https://vardhanayurveda.com/our-locations/narayanguda/",
+        "address": "https://vardhanayurveda.com/our-locations/narayanguda/",
+        "phone": "https://vardhanayurveda.com/our-locations/narayanguda/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vardhan-ayurveda-hospital-narayanguda"
+    },
+    {
+      "practiceName": "Sri Sri Holistic Hospitals, Nizampet (Ayurveda and Panchakarma department)",
+      "practitioners": [
+        {
+          "name": "Dr S Amrutha",
+          "qualification": "BAMS, MS (PT and SR)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#1-2-49/13B, Nizampet Road, Nagarjuna Homes, Hydernagar",
+        "locality": "Nizampet",
+        "city": "Hyderabad",
+        "pin": "500090"
+      },
+      "phone": [
+        "+91 92402 12342",
+        "+91 92402 12343",
+        "+91 88866 66124"
+      ],
+      "website": "https://srisriholistichospitals.com/location/nizampet/",
+      "email": "info.nizampet@srisriholistichospitals.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Basti",
+        "Detox programmes"
+      ],
+      "sources": {
+        "practiceName": "https://srisriholistichospitals.com/location/nizampet/",
+        "practitioners": "https://srisriholistichospitals.com/departments/best-ayurveda-and-panchakarma-hospital-in-hyderabad/",
+        "address": "https://srisriholistichospitals.com/location/nizampet/",
+        "phone": "https://srisriholistichospitals.com/location/nizampet/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Authentic Ayurveda & Panchakarma experience!",
+          "attribution": "Swapna",
+          "url": "https://srisriholistichospitals.com/departments/best-ayurveda-and-panchakarma-hospital-in-hyderabad/"
+        },
+        {
+          "excerpt": "Expert staff guided every step.",
+          "attribution": "Teja",
+          "url": "https://srisriholistichospitals.com/departments/best-ayurveda-and-panchakarma-hospital-in-hyderabad/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-sri-holistic-hospitals-nizampet-ayurveda-and-panchakarma"
+    },
+    {
+      "practiceName": "Vishnu Siree Ayurvedic Hospital, Nizampet",
+      "practitioners": [
+        {
+          "name": "Dr V Sireesha",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No 2-104, Bramakantam, near Abhayanjaneya Temple, above Medplus",
+        "locality": "Nizampet",
+        "city": "Hyderabad",
+        "pin": "500090"
+      },
+      "phone": [
+        "+91 90101 08063",
+        "+91 99661 08597",
+        "+91 63005 02022"
+      ],
+      "website": "https://www.vishnusiree.com/",
+      "email": null,
+      "hours": "Monday to Friday, 10:00 am to 9:00 pm; Saturday and Sunday, 10:00 am to 10:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Vasti, Nasya, Raktamokshana)",
+        "Swarna Prashana",
+        "Abhyanga",
+        "Shirodhara",
+        "Pizhichil",
+        "Elakizhi",
+        "Njavarakizhi",
+        "Udwarthanam",
+        "Kati Basti",
+        "Janu Basti",
+        "Greeva Basti",
+        "Netra Tarpana"
+      ],
+      "sources": {
+        "practiceName": "https://www.vishnusiree.com/",
+        "practitioners": "https://www.vishnusiree.com/",
+        "address": "https://www.vishnusiree.com/",
+        "phone": "https://www.vishnusiree.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vishnu-siree-ayurvedic-hospital-nizampet"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Sainikpuri",
+      "practitioners": [
+        {
+          "name": "Dr Basil T.A",
+          "qualification": "B.A.M.S (Centre Head, Sainikpuri)",
+          "registration": null
+        },
+        {
+          "name": "Dr Fathima Zahra M",
+          "qualification": "B.A.M.S (Ayurvedic Physician, Sainikpuri)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, SS Heights, Plot No 42, opp. Nirmal Nagar United Church, Defence Colony",
+        "locality": "Sainikpuri",
+        "city": "Hyderabad",
+        "pin": "500094"
+      },
+      "phone": [
+        "+91 40 4203 8442",
+        "+91 97035 77771"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 7:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil",
+        "In-patient facility",
+        "Ayurvedic pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Prem and Vivek were amazing at their job. Amazing work done by them. They have taken the atmost care.",
+          "attribution": "anirudh",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/"
+        },
+        {
+          "excerpt": "Recently underwent treatment at this facility and the experience was awesome.",
+          "attribution": "Neeraja A",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-sainikpuri/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/hyderabad/clinic/travancore-ayurveda-sainikpuri"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-sainikpuri"
+    },
+    {
+      "practiceName": "Sri Visista Super Speciality Ayurveda, Somajiguda",
+      "practitioners": [
+        {
+          "name": "Dr G.K. Reddy",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr K. Lakshmi Prasad",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr B. Venkataiah",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr M. Chandrakanth",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr B. Mamata",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shaik Shabana Begum",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Srihitha Badam",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat Nos. 201, 204 and 401, Concorde Apartments, near Civil Supplies Bhavan, opposite Erramanzil bus stop",
+        "locality": "Somajiguda",
+        "city": "Hyderabad",
+        "pin": "500082"
+      },
+      "phone": [
+        "+91 78936 88116",
+        "+91 95332 66113"
+      ],
+      "website": "https://srivisista.com/",
+      "email": "srivisista@gmail.com",
+      "hours": "Monday to Sunday 10:00 am to 8:00 pm",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Chikitsa",
+        "Ksharasutra",
+        "Shalakya",
+        "Stri Roga",
+        "Kaumarabhritya",
+        "Rasayana Chikitsa",
+        "Vajikarana Chikitsa",
+        "Inpatient care"
+      ],
+      "sources": {
+        "practiceName": "https://srivisista.com/",
+        "practitioners": "https://srivisista.com/doctors/",
+        "address": "https://portal.nabh.co/Documents/AccreditedList/AYUSH%20Hospitals/AH-2018-0044.pdf",
+        "phone": "https://srivisista.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/hyderabad/hospital/sri-visista-super-speciality-ayurveda-somajiguda/services"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sri-visista-super-speciality-ayurveda-somajiguda"
+    },
+    {
+      "practiceName": "Shree Dhruti Ayurvedic Panchakarma Chikitsalaya, Uppal",
+      "practitioners": [
+        {
+          "name": "Dr Ahiteja Anand Sai",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "16-47/1, Prashanth Nagar",
+        "locality": "Uppal",
+        "city": "Hyderabad",
+        "pin": "500039"
+      },
+      "phone": [
+        "+91 94948 54354",
+        "+91 94901 90354"
+      ],
+      "website": "https://www.shreedhruti.com/ayurvedic-clinic-in-uppal-hyderabad/",
+      "email": "shreedhrutiayurvedic@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Swedana",
+        "Bashpa Sweda",
+        "Kaya Seka (Pizhichil)",
+        "Patra Potala Sweda (Elakizhi)",
+        "Shashtika Shali Pinda Sweda",
+        "Choorna Pinda Sweda",
+        "Dhanyamla Dhara",
+        "Shirodhara",
+        "Takradhara",
+        "Shirovasti",
+        "Thalam",
+        "Nasyam",
+        "Tarpanam",
+        "Karna Poorana",
+        "Udwarthanam",
+        "Greeva, Kati and Janu Vasti",
+        "Upanaham",
+        "Jalaukavacharana (leech therapy)"
+      ],
+      "sources": {
+        "practiceName": "https://www.shreedhruti.com/contact-us/",
+        "practitioners": "https://www.shreedhruti.com/ayurvedic-clinic-in-uppal-hyderabad/",
+        "address": "https://www.shreedhruti.com/contact-us/",
+        "phone": "https://www.shreedhruti.com/contact-us/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The doctor and staff were very professional and caring.",
+          "attribution": "Krupan Goud",
+          "url": "https://www.shreedhruti.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://maps.app.goo.gl/dSWnG57AVNsNrES6A"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "shree-dhruti-ayurvedic-panchakarma-chikitsalaya-uppal"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Katemanivali, Kalyan East",
       "practitioners": [
         {
@@ -21350,6 +23533,143 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "vedshruti-ayurveda-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, East Marredpally",
+      "practitioners": [
+        {
+          "name": "Dr Jisha J Nair",
+          "qualification": "B.A.M.S (Centre Head, East Marredpally; Cluster Head, Secunderabad)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No 10-2, Opp The Deccan Club, Above Ibaco, Nehru Nagar Colony",
+        "locality": "East Marredpally",
+        "city": "Secunderabad",
+        "pin": "500026"
+      },
+      "phone": [
+        "+91 40 4210 2370",
+        "+91 97035 77715"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Monday to Sunday, 07:00 am to 08:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapothichil",
+        "Abhyangam",
+        "Ayurvedic pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/",
+        "practitioners": "https://www.travancoreayurveda.com/panel-of-doctors/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I went for Abhyangan therapy at this location. Ambience and staff were welcoming.",
+          "attribution": "Pranu Reddy",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/"
+        },
+        {
+          "excerpt": "Good massage. Had to rush since it's a weekend and there were others waiting for treatment.",
+          "attribution": "Ashish Khurana",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/"
+        },
+        {
+          "excerpt": "Great massage, highly recommend.",
+          "attribution": "gitika meher",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-in-marredpally/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "travancore-ayurveda-east-marredpally"
+    },
+    {
+      "practiceName": "Kottakkal Arya Vaidya Sala, Branch Clinic and Pharmacy, Secunderabad",
+      "practitioners": [
+        {
+          "name": "Dr G.S. Subin",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Seven Hills Building, 1-1-39, Sarojini Devi Road, opp. Manju Cinema",
+        "locality": "Secunderabad",
+        "city": "Secunderabad",
+        "pin": "500003"
+      },
+      "phone": [
+        "+91 40 2772 2226",
+        "+91 40 2772 2224"
+      ],
+      "website": "https://www.aryavaidyasala.com/branches/",
+      "email": "secbad@aryavaidyasala.com",
+      "hours": "9.30 to 20.00 hrs; closed on Sundays and all public holidays",
+      "services": [
+        "OP consultation",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.aryavaidyasala.com/branches/",
+        "practitioners": "https://www.nfc.gov.in/ama-aurveda.html",
+        "address": "https://www.aryavaidyasala.com/branches/",
+        "phone": "https://www.aryavaidyasala.com/branches/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "kottakkal-arya-vaidya-sala-branch-clinic-and-pharmacy"
+    },
+    {
+      "practiceName": "Swasthayu Ayurveda Panchakarma Therapy Centre, Yapral",
+      "practitioners": [
+        {
+          "name": "Dr Saroj Viswanadha",
+          "qualification": "MD (Ayurveda, Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 101, South Block, GVR Central Vistas Apartments, Shaili Gardens Main Road, Kalyanpuri Colony, Chandragiri Colony",
+        "locality": "Yapral",
+        "city": "Secunderabad",
+        "pin": "500087"
+      },
+      "phone": [
+        "+91 78939 66441"
+      ],
+      "website": "https://swasthayu.org/",
+      "email": "dr.vsaroj@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Herbal facials",
+        "Ayurvedic pedicure",
+        "Yoga and Pranayama",
+        "Meditation therapy"
+      ],
+      "sources": {
+        "practiceName": "https://swasthayu.org/",
+        "practitioners": "https://swasthayu.org/about-us/",
+        "address": "https://swasthayu.org/contact-us/",
+        "phone": "https://swasthayu.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "swasthayu-ayurveda-panchakarma-therapy-centre-yapral"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Kalwa",

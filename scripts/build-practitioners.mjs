@@ -27,7 +27,7 @@ const DIR = arg('--dir', path.join('measurement', 'practitioners'));
 const DRY = process.argv.includes('--dry');
 const OUT = path.join('src', 'data', 'practitioners.json');
 
-const AGGREGATOR = /(^|\.)(google\.[a-z.]+|goo\.gl|maps\.app\.goo\.gl|g\.page|practo\.com|justdial\.com|jsdl\.in|lybrate\.com|sulekha\.com|indiamart\.com|credihealth\.com|docprime\.com|healthfrog\.in|sehat\.com|quikr\.com|yelp\.[a-z.]+|facebook\.com|instagram\.com|wa\.me|whatsapp\.com)$/i;
+const AGGREGATOR = /(^|\.)(google\.[a-z.]+|goo\.gl|maps\.app\.goo\.gl|g\.page|practo\.com|justdial\.com|jsdl\.in|lybrate\.com|sulekha\.com|indiamart\.com|credihealth\.com|docprime\.com|healthfrog\.in|sehat\.com|quikr\.com|yelp\.[a-z.]+|facebook\.com|instagram\.com|wa\.me|whatsapp\.com|cghshospitals\.com|gconnect\.in|staffnews\.in|uway\.health|drlogy\.com|docindia\.org|bajajfinservhealth\.in|latrexa\.com|timesmed\.com|connectto\.in)$/i;
 const CURE = /\b(cure[ds]?|curing|healed|got rid of|gone|disappeared|reversed|treated my|treatment of|recovered from)\b/i;
 /**
  * A testimonial may say what the visit was like, not what it did to the patient's health. Outcome
