@@ -1,0 +1,37 @@
+---
+/** Every listed Ayurvedic practice in one locality, with the four admitted fields for each. */
+import Page from '../../../../layouts/Page.astro';
+import { cities, urlOf, telHref } from '../../../../lib/practitioners';
+import { abs, rel } from '../../../../lib/site';
+
+export function getStaticPaths() {
+  return cities().flatMap((c) => c.localities.map((l) => ({ params: { city: c.slug, locality: l.slug }, props: { c, l } })));
+}
+const { c, l } = Astro.props as any;
+const canonical = `/practitioners/${c.slug}/${l.slug}/`;
+const n = l.practices.length;
+const title = `Ayurvedic doctors in ${l.name}, ${c.name}: ${n} ${n === 1 ? 'practice' : 'practices'} with address and phone`;
+const description = `${n} Ayurvedic ${n === 1 ? 'practice' : 'practices'} in ${l.name}, ${c.name}, each listed with a named practitioner, address and phone number published by the practice itself.`;
+const list = {
+  '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs(canonical)}#list`,
+  name: `Ayurvedic practices in ${l.name}, ${c.name}`, numberOfItems: n,
+  itemListElement: l.practices.map((p: any, i: number) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(p)), name: p.practiceName })),
+};
+const updated = l.practices.map((p: any) => p.checkedOn).sort().pop();
+---
+<Page title={title} description={description} canonical={canonical} updated={updated}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: c.name, href: `/practitioners/${c.slug}/` }, { label: l.name }]} jsonld={list}>
+  <h1>Ayurvedic practitioners in {l.name}, {c.name}</h1>
+  <p class="answer">{description}</p>
+  <ul class="practice-list">
+    {l.practices.map((p: any) => (
+      <li>
+        <a href={rel(urlOf(p))}><strong>{p.practiceName}</strong></a><br />
+        {p.practitioners.map((d: any) => d.name).join(', ')}<br />
+        {p.address.line}, {l.name} {p.address.pin}<br />
+        <a href={telHref(p.phone[0])}>{p.phone[0]}</a>
+      </li>
+    ))}
+  </ul>
+  <p class="note">Listed only where the practice or an official list publishes all four details. Not an endorsement. <a href={rel('/practitioners/about/')}>How this directory is made</a>.</p>
+</Page>

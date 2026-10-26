@@ -1,0 +1,30 @@
+---
+/** A city: every locality with its count, then every practice. */
+import Page from '../../../layouts/Page.astro';
+import { cities, urlOf } from '../../../lib/practitioners';
+import { abs, rel } from '../../../lib/site';
+
+export function getStaticPaths() { return cities().map((c) => ({ params: { city: c.slug }, props: { c } })); }
+const { c } = Astro.props as any;
+const canonical = `/practitioners/${c.slug}/`;
+const n = c.localities.reduce((a: number, l: any) => a + l.practices.length, 0);
+const title = `Ayurvedic doctors in ${c.name}: ${n} practices by locality, with address and phone`;
+const description = `${n} Ayurvedic practices across ${c.localities.length} localities of ${c.name}, each with a named practitioner, address and phone number published by the practice itself.`;
+const updated = c.localities.flatMap((l: any) => l.practices.map((p: any) => p.checkedOn)).sort().pop();
+const list = {
+  '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs(canonical)}#list`,
+  name: `Ayurvedic practices in ${c.name}`, numberOfItems: n,
+  itemListElement: c.localities.flatMap((l: any) => l.practices).map((p: any, i: number) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(p)), name: p.practiceName })),
+};
+---
+<Page title={title} description={description} canonical={canonical} updated={updated}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: c.name }]} jsonld={list}>
+  <h1>Ayurvedic practitioners in {c.name}</h1>
+  <p class="answer">{description}</p>
+  {c.localities.map((l: any) => (
+    <section>
+      <h2><a href={rel(`/practitioners/${c.slug}/${l.slug}/`)}>{l.name}</a> ({l.practices.length})</h2>
+      <ul>{l.practices.map((p: any) => <li><a href={rel(urlOf(p))}>{p.practiceName}</a>, {p.practitioners[0].name}</li>)}</ul>
+    </section>
+  ))}
+</Page>
