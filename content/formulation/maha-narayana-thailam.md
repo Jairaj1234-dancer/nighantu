@@ -57,10 +57,7 @@ Bhaishajya Ratnavali (Vatavyadhi Chikitsa) by Govind Das Sen. The 'Maha' (great)
 
 ## What is it made of?
 
-### Key Active Markers
-
-- Derived from constituent herbs (see individual herb profiles)
-- Standardized on primary bioactive markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
 
 ## Dosage forms and preparation
 

@@ -4,6 +4,7 @@ import { KINDS } from '../../lib/collections';
 import safety from '../../data/safety.json';
 import names from '../../data/names.json';
 import { abs } from '../../lib/site';
+import { formularySentence } from '../../lib/lead';
 
 /**
  * Plain-Markdown twin of every monograph. Several crawlers and agents prefer a
@@ -118,7 +119,7 @@ export const GET: APIRoute = ({ props }) => {
     // cannot attribute is worse for this site than no twin at all.
     `Canonical version of this page: ${canonical}`,
     '',
-    `> ${d.answer}`,
+    `> ${[d.answer, formularySentence(d)].filter(Boolean).join(' ')}`,
     '',
     ...(facts.length ? ['## Key facts', '', ...facts.map(([k, v]) => `- **${k}:** ${v}`), ''] : []),
     ...nameBlock,

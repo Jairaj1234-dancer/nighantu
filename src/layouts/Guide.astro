@@ -63,7 +63,7 @@ const breadcrumbs = {
 };
 ---
 <Base
-  title={`${d.title} · ${SITE_NAME}`}
+  title={`${d.seoTitle ?? d.title} · ${SITE_NAME}`}
   description={d.description ?? d.answer}
   canonical={canonical}
   jsonld={[article, ...(webPage ? [webPage] : []), breadcrumbs, ...(faqSchema ? [faqSchema] : [])]}

@@ -80,6 +80,8 @@ const practiceSchema = z.object({
  */
 const choosingSchema = z.object({
   title: z.string(),
+  /** The <title>, where the page's own heading is editorial and names none of the words a reader searches with. */
+  seoTitle: z.string().optional(),
   slug: z.string(),
   kind: z.literal('choosing'),
   order: z.number(),

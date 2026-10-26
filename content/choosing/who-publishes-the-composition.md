@@ -1,4 +1,5 @@
 ---
+seoTitle: "Which Ayurvedic brands publish ingredients and quantities on their product pages"
 title: "Which Ayurvedic manufacturers publish what is in the bottle"
 slug: "who-publishes-the-composition"
 kind: "choosing"
@@ -12,6 +13,8 @@ grounding:
   - "Every host's robots.txt was fetched and parsed before any product page, and a host that declined was not fetched. The permission result travels with each record."
   - "Two populations are counted and kept apart, both read on 9 October 2026: every product on each permitted host, and the subset sold under one of the 101 formulary names transcribed here. Each table says which it is."
 faq:
+  - q: "Which Ayurvedic brands publish ingredient quantities on their product pages?"
+    a: "Very few. Of 474 product pages sold under a formulary name, 53 give a quantity against an ingredient, and 50 of those are from three companies: Shree Dhootapapeshwar (28), Patanjali Ayurved (14) and Oushadhi (8). Most companies name the ingredients without quantities, or publish no list at all. This measures disclosure, not product quality."
   - q: "Do Ayurvedic companies have to publish the ingredients of a classical preparation?"
     a: "The label is regulated, and that is a different surface from the website. Nothing requires a manufacturer to publish the composition on its product page, and 4,155 of the 6,086 pages read did not. It is clearly possible to do: one company named ingredients on 89% of its range and gave a quantity against each on 76%."
   - q: "Which Ayurvedic brand lists the most ingredient information online?"
