@@ -55,7 +55,7 @@ function locality(raw, city, line) {
 }
 /** A URL segment of at most 60 characters, cut at a word boundary. */
 const shortSlug = (s) => { const x = slug(s); if (x.length <= 60) return x; const c = x.slice(0, 61); return c.slice(0, c.lastIndexOf('-')) || x.slice(0, 60); };
-const CITY_NAME = { 'Mira Bhayandar (Thane district)': 'Mira Bhayandar', 'Mira Road': 'Mira Bhayandar', 'Bhayandar': 'Mira Bhayandar' };
+const CITY_NAME = { 'New Delhi': 'Delhi', 'Mira Bhayandar (Thane district)': 'Mira Bhayandar', 'Mira Road': 'Mira Bhayandar', 'Bhayandar': 'Mira Bhayandar' };
 const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } };
 const slug = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
   .replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
