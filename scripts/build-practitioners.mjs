@@ -35,7 +35,7 @@ const CURE = /\b(cure[ds]?|curing|healed|got rid of|gone|disappeared|reversed|tr
  * named condition beside the treatment ("visited for cervical spondylosis") read as claims of effect,
  * which this site does not make in its own voice and does not republish in anyone else's.
  */
-const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transformed|revitali[sz]\w*|rejuvenat\w*|for my health|for our health|feel(ing)? better|felt better|sleep|sorrow|relief|reliev\w*|improv\w*|pain|spondyl\w*|arthrit\w*|diabet\w*|thyroid|bp\b|pressure|weight|piles|fistula|detox\w*|healthy|healthier)\b/i;
+const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transformed|revitali[sz]\w*|rejuvenat\w*|for my health|for our health|feel(ing)? better|felt better|sleep|sorrow|relief|reliev\w*|improv\w*|pain|spondyl\w*|arthrit\w*|diabet\w*|thyroid|bp\b|pressure|weight|piles|fistula|detox\w*|healthy|healthier|effective|solutions?|healing|de-?stress\w*|stress)\b/i;
 /**
  * The locality a page is grouped under: the standard area a reader searches by ("Thane West"), not
  * the sub-area a clinic happens to print ("Vishnu Nagar, Naupada, Thane West"). The sub-area is kept,
@@ -43,7 +43,8 @@ const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transf
  */
 const LOCALITY_NAME = { 'Chembur / Govandi': 'Govandi', 'Sion West': 'Sion' };
 function locality(raw, city, line) {
-  const l = LOCALITY_NAME[raw.trim()] ?? raw.trim();
+  // A bracketed aside ("Anchepalya (Kumbalgodu, beyond Kengeri)") is an address detail, not the area.
+  const l = (LOCALITY_NAME[raw.trim()] ?? raw.trim()).replace(/\s*\([^)]*\)?/g, '').trim();
   const parts = l.split(',').map((x) => x.trim()).filter(Boolean);
   if (parts.length < 2) return { locality: l, line };
   const last = parts[parts.length - 1];
@@ -100,7 +101,8 @@ for (const f of files) {
       else if (AGGREGATOR.test(host(src[k]))) why.push(`${k} sourced from ${host(src[k])}`);
     }
     if (why.length) { refused.push({ file: path.basename(f), practiceName: r.practiceName, why }); continue; }
-    if (HELD.has(`${r.practiceName?.trim()}|${a.locality?.trim()}`)) { held += 1; continue; }
+    // Held by name with the locality either as collected or as normalised for the page.
+    if ([a.locality?.trim(), locality(a.locality ?? '', CITY_NAME[a.city?.trim()] ?? a.city?.trim() ?? '', a.line ?? '').locality].some((l) => HELD.has(`${r.practiceName?.trim()}|${l}`))) { held += 1; continue; }
 
     const testimonials = (r.testimonials ?? []).filter((t) => t?.excerpt && t.url
       && !AGGREGATOR.test(host(t.url))
@@ -120,7 +122,10 @@ for (const f of files) {
       reviewLinks: (r.reviewLinks ?? []).filter((x) => /^https?:\/\//.test(x?.url ?? '')),
       checkedOn: j.collectedOn ?? null,
     };
-    const keys = [...rec.phone, `${slug(rec.practiceName)}|${rec.address.pin}`];
+    // A phone alone is not a practice: chains publish one central number for branches in different
+    // cities, and merging on it swallowed a Mumbai branch into a Bengaluru one. Same number AND same
+    // PIN, or same name and PIN, is the same practice.
+    const keys = [...rec.phone.map((ph) => `${ph}|${rec.address.pin}`), `${slug(rec.practiceName)}|${rec.address.pin}`];
     const dup = keys.map((k) => kept.get(k)).find(Boolean);
     if (dup) {
       // Same practice found twice: keep the record with more detail, union the doctors and testimonials.
