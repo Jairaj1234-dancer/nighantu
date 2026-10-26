@@ -530,7 +530,7 @@
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "1ec5e523201150fd",
       "https://nighantu.ageayurveda.com/corrections/": "c9b388f977d3b605",
       "https://nighantu.ageayurveda.com/crosswalk/": "71565ae5995aa6c6",
-      "https://nighantu.ageayurveda.com/datasets/": "6cd7bcc3e1703d4d",
+      "https://nighantu.ageayurveda.com/datasets/": "f1285c8900704d54",
       "https://nighantu.ageayurveda.com/device/": "94b25314b498b95c",
       "https://nighantu.ageayurveda.com/device/agnikarma-thermal-cauterization-instruments/": "162dea776d03c451",
       "https://nighantu.ageayurveda.com/device/basti-enema-equipment/": "b27429f508798a86",
@@ -1734,8 +1734,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b8aff23703216e9f",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "1487c66a66902617"
     },
-    "lastSubmittedAt": "2026-10-26T05:46:40.869Z",
-    "lastSubmittedCount": 742,
+    "lastSubmittedAt": "2026-10-26T07:29:35.443Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -3949,6 +3949,6 @@
     "seen": 28,
     "surfaced": 2
   },
-  "updatedAt": "2026-10-26T06:59:17.671Z",
+  "updatedAt": "2026-10-26T07:29:35.443Z",
   "version": 1
 }
