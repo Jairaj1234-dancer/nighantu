@@ -84,6 +84,8 @@ those are left uncompared too. 4 state no adult amount at all.
 The pattern is per company, not per preparation, and it is visible because a house dose gives
 itself away: the same figure appears against preparations whose formulary doses differ.
 
+<div class="tablewrap">
+
 | Company | Pages | Identical | Overlapping | Contains | Within | Above | Below | Touching |
 |---|---|---|---|---|---|---|---|---|
 | Patanjali Ayurved | 17 | 11 | 2 | 0 | 0 | 1 | 3 | 0 |
@@ -108,6 +110,8 @@ itself away: the same figure appears against preparations whose formulary doses 
 | Dabur | 2 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
 | Hind Herbal Pharmacy | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
 | Sidheswara Drugs | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+
+</div>
 
 **Patanjali Ayurved states the formulary figure verbatim more often than any other company here.**
 Eleven of its seventeen comparable pages give exactly the formulary range: 12 to 24 ml for
@@ -148,15 +152,21 @@ figure is the company's own, in the company's own words, from the page recorded 
 
 The formulary states **48 g** (Ayurvedic Formulary of India part I, entry 4:10). The composition is at [/formulation/dashamula/](../../formulation/dashamula/).
 
+<div class="tablewrap">
+
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Patanjali Ayurved | 5 to 10 g | entirely below | Take 5-10g kwath powder in 400ml water and boil it till 100ml mixture left |
 | Patanjali Ayurved | 5 to 10 g | entirely below | Take 5-10g kwath powder in 400ml water and boil it till 100ml mixture left |
 | tansukhherbals | 5 to 10 g | entirely below | For one dose , boil 5 to 10 grams og Kwath in 16 parts of water till 1/4 of water remains |
 
+</div>
+
 ### SITOPALADI CURNA
 
 The formulary states **1 to 3 g** (Ayurvedic Formulary of India part I, entry 7:34). The composition is at [/formulation/sitopaladi-churna/](../../formulation/sitopaladi-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -168,9 +178,13 @@ The formulary states **1 to 3 g** (Ayurvedic Formulary of India part I, entry 7:
 | shreedhanwantri | 3 to 6 g | touching above | 3-6 g twice a day with honey |
 | Shree Dhootapapeshwar | 5 to 10 g | entirely above | 1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day |
 
+</div>
+
 ### ASOKARISTA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:5). The composition is at [/formulation/ashokarishta/](../../formulation/ashokarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -186,9 +200,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | tansukhherbals | 15 to 30 ml | overlapping | 3 to 6 teaspoonful (15 to 30ml) with equal water twice after meals |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml Asokarishtam twice or thrice daily after food. |
 
+</div>
+
 ### KUTAJARISTA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:11). The composition is at [/formulation/kutajarishta/](../../formulation/kutajarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -204,9 +222,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | swadeshiayurved | 15 to 30 ml | overlapping | Take 15-30 ml once or twice daily |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 mL twice or thrice daily after food |
 
+</div>
+
 ### AVIPATTIKARA CURNA
 
 The formulary states **3 to 6 g** (Ayurvedic Formulary of India part I, entry 7:2). The composition is at [/formulation/avipattikar-churna/](../../formulation/avipattikar-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -220,9 +242,13 @@ The formulary states **3 to 6 g** (Ayurvedic Formulary of India part I, entry 7:
 | curoveda | 5 to 10 g | overlapping | Adults should take 1-2 teaspoons (5-10 grams) once or twice day |
 | tansukhherbals | 5 to 10 g | overlapping | Take 1-2 teaspoons (5-10 grams) of Avipattikar Churna with lukewarm water |
 
+</div>
+
 ### AROGYAVARDHINI GUTIKA
 
 The formulary states **250 to 500 mg** (Ayurvedic Formulary of India part I, entry 20:4). The composition is at [/formulation/arogyavardhini-vati/](../../formulation/arogyavardhini-vati/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -230,9 +256,13 @@ The formulary states **250 to 500 mg** (Ayurvedic Formulary of India part I, ent
 | atharvaveda | 125 to 500 mg | contains | Common dosages may range from 125 mg to 500 mg, usually taken once or twice a day after meals |
 | Patanjali Ayurved | 250 to 500 mg | the same | 250 to 500 mg with Ardraka svarasa, Honey ,Nimba, Svarasa, water or milk twice daily |
 
+</div>
+
 ### ABHAYARISTA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:1). The composition is at [/formulation/abhayarishta/](../../formulation/abhayarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -245,9 +275,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | tansukhherbals | 15 to 30 ml | overlapping | 3 to 6 teaspoonful (15 to 30ml) with equal water twice after meals |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml of Abhayarishtam twice or thrice daily after food |
 
+</div>
+
 ### TRIPHALA CURNA
 
 The formulary states **3 to 6 g** (Ayurvedic Formulary of India part I, entry 7:15). The composition is at [/formulation/triphala-churna/](../../formulation/triphala-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -262,9 +296,13 @@ The formulary states **3 to 6 g** (Ayurvedic Formulary of India part I, entry 7:
 | swadeshiayurved | 5 to 10 g | overlapping | 5-10 gm powder twice daily |
 | swadeshiayurved | 5 to 10 g | overlapping | 5-10 gm powder twice daily |
 
+</div>
+
 ### SARASVATARISTA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:36). The composition is at [/formulation/saraswatarishta/](../../formulation/saraswatarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -278,9 +316,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | shreedhanwantri | 15 to 30 ml | overlapping | 15-30 ml, with equal amount of water, after meals, two times a day. |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml Saraswatharishtam twice or thrice daily after food. |
 
+</div>
+
 ### PARTHADYARISTA (Synonym : Arjunarista)
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:21). The composition is at [/formulation/arjunarishta/](../../formulation/arjunarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -295,18 +337,26 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | tansukhherbals | 15 to 30 ml | overlapping | 3 to 6 teaspoonful (15 to 30ml) with equal water twice after meals |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml Arjunarishta syrup twice or thrice daily after food. |
 
+</div>
+
 ### AGNITUNDIVATI
 
 The formulary states **125 to 250 mg** (Ayurvedic Formulary of India part I, entry 12:1). The composition is at [/formulation/agnitundi-vati/](../../formulation/agnitundi-vati/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | sidheswaradrugs | 125 mg | within | 125mg twice a day |
 | wilsondrugs | 250 to 1000 mg | touching above | 1 to 4 tablets (250mg to 1gm.) in the morning and evening |
 
+</div>
+
 ### HINGVASTAKA CURNA
 
 The formulary states **1 to 2 g** (Ayurvedic Formulary of India part I, entry 7:37). The composition is at [/formulation/hingvashtak-churna/](../../formulation/hingvashtak-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -316,9 +366,13 @@ The formulary states **1 to 2 g** (Ayurvedic Formulary of India part I, entry 7:
 | Patanjali Ayurved | 3 g | entirely above | 3 g twice a day with lukewarm water |
 | Shree Dhootapapeshwar | 5 to 10 g | entirely above | 1 tsf. to 2 tsf. (5 to 10 gm.) 2 times a day |
 
+</div>
+
 ### TALISADYA CURNA
 
 The formulary states **3 g** (Ayurvedic Formulary of India part I, entry 7:13). The composition is at [/formulation/talisadi-churna/](../../formulation/talisadi-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -328,9 +382,13 @@ The formulary states **3 g** (Ayurvedic Formulary of India part I, entry 7:13). 
 | shreedhanwantri | 3 to 6 g | contains | 3-6 g Twice a Day with Honey. |
 | Shree Dhootapapeshwar | 5 to 10 g | entirely above | 1 tsf. to 2 tsf. (5 to 10 gm) twice or thrice a day |
 
+</div>
+
 ### BALARISTA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:24). The composition is at [/formulation/balarishta/](../../formulation/balarishta/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -341,9 +399,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | shreedhanwantri | 15 to 30 ml | overlapping | 15-30 ml with equal amount of water, after meals, twice daily |
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml Balarishtam twice or thrice daily after food. |
 
+</div>
+
 ### BRAHMA RASAYANA
 
 The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 3:20). The composition is at [/formulation/brahma-rasayana/](../../formulation/brahma-rasayana/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -351,9 +413,13 @@ The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 3:20).
 | Sitaram Ayurveda | 10 to 15 g | contains | Adults: 10-15 gms or 1 tbsp Brahma Rasaayanam at bedtime. |
 | SNA Oushadhasala | 10 to 20 g | contains | 10-20 gms Or As directed by the physician. |
 
+</div>
+
 ### SARIVADYASAVA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:37). The composition is at [/formulation/sarivadyasava/](../../formulation/sarivadyasava/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -362,9 +428,13 @@ The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry
 | shreedhanwantri | 15 to 30 ml | overlapping | 15-30 ml, with equal amount of water, after meals two times a day |
 | tansukhherbals | 15 to 30 ml | overlapping | 3 to 6 teaspoonful (15 to 30ml) with equal water twice after meals |
 
+</div>
+
 ### VASAVALEHA
 
 The formulary states **6 to 12 g** (Ayurvedic Formulary of India part I, entry 3:26). The composition is at [/formulation/vasa-avaleha/](../../formulation/vasa-avaleha/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -373,9 +443,13 @@ The formulary states **6 to 12 g** (Ayurvedic Formulary of India part I, entry 3
 | curoveda | 6 to 12 g | the same | Adults – 6-12 grams twice daily after meals |
 | wilsondrugs | 6 to 12 g | the same | 6 – 12 grams once or two times a day |
 
+</div>
+
 ### TRIKATU CURNA
 
 The formulary states **3 g** (Ayurvedic Formulary of India part I, entry 7:14). The composition is at [/formulation/trikatu-churna/](../../formulation/trikatu-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -384,9 +458,13 @@ The formulary states **3 g** (Ayurvedic Formulary of India part I, entry 7:14). 
 | tansukhherbals | 0.5 to 2 g | entirely below | कम गंभीर रोगियों के लिए: ½ ग्राम दिन में दो बार गंभीर रोगियों के लिए: 2 ग्राम दिन में दो बार |
 | Maharishi Ayurveda | 3 to 6 g | contains | Take 3 to 6 gram twice a day with honey/lukewarm water |
 
+</div>
+
 ### HINGUVACADI CURNA (Hingvadi Curna)
 
 The formulary states **2 to 4 g** (Ayurvedic Formulary of India part I, entry 7:39). The composition is at [/formulation/hinguvachadi-churna/](../../formulation/hinguvachadi-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
@@ -394,73 +472,107 @@ The formulary states **2 to 4 g** (Ayurvedic Formulary of India part I, entry 7:
 | SNA Oushadhasala | 5 to 10 g | entirely above | 5-10 gms Or As directed by the physician. |
 | Sitaram Ayurveda | 5 to 8 g | entirely above | Adult: 5-8 gms Hinguvachadi Choornam once or twice daily |
 
+</div>
+
 ### KSIRABALA TAILA
 
 The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 8:11). The composition is at [/formulation/kshirabala-thailam/](../../formulation/kshirabala-thailam/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Patanjali Ayurved | 12 g | the same | 12 g with milk or warm water |
 
+</div>
+
 ### MADHUSNUHI RASAYANA
 
 The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 3:19). The composition is at [/formulation/madhusnuhi-rasayana/](../../formulation/madhusnuhi-rasayana/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | SNA Oushadhasala | 5 to 15 g | contains | 5-15 gms followed by milk |
 | aryavaidyakalpashala | 5 to 10 g | entirely below | 5–10 grams (1–2 teaspoons) once or twice daily |
 
+</div>
+
 ### PHALA GHRTA
 
 The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 6:30). The composition is at [/formulation/phala-ghrita/](../../formulation/phala-ghrita/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Maharishi Ayurveda | 6 g | entirely below | Take 6 gram twice a day with milk |
 | Patanjali Ayurved | 12 g | the same | 12 g with warm water |
 
+</div>
+
 ### SUDARSANA CURNA
 
 The formulary states **2 to 4 g** (Ayurvedic Formulary of India part I, entry 7:35). The composition is at [/formulation/sudarshan-churna/](../../formulation/sudarshan-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Sitaram Ayurveda | 2 to 4 g | the same | A decoction made from 2 to 4 grams of Sudarshana Churna can be taken thrice daily. |
 | wilsondrugs | 3 to 6 g | overlapping | It is to be taken 3-6 grams twice a day with lukewarm water |
 
+</div>
+
 ### SUDARSANA CURNA
 
 The formulary states **2 to 4 g** (Ayurvedic Formulary of India part I, entry 7:35). The composition is at [/formulation/mahasudarshan-churna/](../../formulation/mahasudarshan-churna/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | tansukhherbals | 2 to 5 g | contains | 2 to 5 grams twice a day |
 | shrigangapharmacy | 5 to 10 g | entirely above | 5 to 10 gram with water |
 
+</div>
+
 ### MAHA NARAYANA TAILA
 
 The formulary states **6 g** (Ayurvedic Formulary of India part I, entry 8:45). The composition is at [/formulation/maha-narayana-thailam/](../../formulation/maha-narayana-thailam/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Patanjali Ayurved | 6 g | the same | 6 g with milk or warm water |
 
+</div>
+
 ### PIPPALYADYASAVA
 
 The formulary states **12 to 24 ml** (Ayurvedic Formulary of India part I, entry 1:22). The composition is at [/formulation/pippalyasava/](../../formulation/pippalyasava/).
+
+<div class="tablewrap">
 
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | Sitaram Ayurveda | 25 to 30 ml | entirely above | Adult: 25-30 ml Pippalyasavam twice or thrice daily after food. |
 
+</div>
+
 ### ASOKA GHRTA
 
 The formulary states **12 g** (Ayurvedic Formulary of India part I, entry 6:4). The composition is at [/formulation/ashoka-ghrita/](../../formulation/ashoka-ghrita/).
 
+<div class="tablewrap">
+
 | Company | States | Against the formulary | In their own words |
 |---|---|---|---|
 | ashtangam | 10 g | entirely below | 10 gms twice a day or as directed by the Physician. |
+
+</div>
 
 Every cell was read on 2026-10-09. 129 rows across 27 preparations.
 
@@ -481,6 +593,8 @@ Ayurvedic Formulary of India, Part I, entry 4:10, from Bhaisajyaratnavali, Kasar
 <details>
 <summary>The formulary recipe</summary>
 
+<div class="tablewrap">
+
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
 | 1 | Salaparni | Pl. | 1 part |
@@ -494,9 +608,13 @@ Ayurvedic Formulary of India, Part I, entry 4:10, from Bhaisajyaratnavali, Kasar
 | 9 | Kasmari (gambhari) | Rt./St. Bk. | 1 part |
 | 10 | Patala | Rt./St. Bk. | 1 part |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -510,12 +628,16 @@ Ayurvedic Formulary of India, Part I, entry 4:10, from Bhaisajyaratnavali, Kasar
 | SNA Oushadhasala | [dashamoolam](https://www.snaoushadhasala.com/product/dashamoolam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [dasamoolam kashayam](https://avpayurveda.com/products/dasamoolam-kashayam) | no ingredient list |
 
+</div>
+
 ### SITOPALADI CURNA
 
 Ayurvedic Formulary of India, Part I, entry 7:34, from Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 134-135 4. 5 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -525,9 +647,13 @@ Ayurvedic Formulary of India, Part I, entry 7:34, from Sarngadharasamhita, Madhy
 | 4 | Ela (siksmaila) | Sd. | 24 g. |
 | 5 | Tvak | St. Bk. | 12 g. |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -537,12 +663,16 @@ Ayurvedic Formulary of India, Part I, entry 7:34, from Sarngadharasamhita, Madhy
 | Patanjali Ayurved | [divya sitopaladi churna](https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-sitopaladi-churna/176) | an ingredient list, without quantities |
 | Shree Dhootapapeshwar | [sitopaladi choorna](https://www.sdlindia.com/products/sitopaladi-choorna) | every ingredient with its quantity |
 
+</div>
+
 ### ASOKARISTA
 
 Ayurvedic Formulary of India, Part I, entry 1:5, from Bhaisajyaratnavali, Strirogadhikara; 114-116. 16 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -563,7 +693,11 @@ Ayurvedic Formulary of India, Part I, entry 1:5, from Bhaisajyaratnavali, Striro
 | 15 | Vasa | Rt. | 48 g. |
 | 16 | Candana (Sveta candana) | Ht. Wd. | 48 g. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -578,12 +712,16 @@ Ayurvedic Formulary of India, Part I, entry 1:5, from Bhaisajyaratnavali, Striro
 | Sitaram Ayurveda | [ashokarishtam](https://sitaramayurveda.com/products/ashokarishtam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [asokarishtam](https://avpayurveda.com/products/asokarishtam) | no ingredient list |
 
+</div>
+
 ### KUTAJARISTA
 
 Ayurvedic Formulary of India, Part I, entry 1:11, from Bhaisajyaratnavali, Atisaradhikara; 97-98½. 7 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -595,7 +733,11 @@ Ayurvedic Formulary of India, Part I, entry 1:11, from Bhaisajyaratnavali, Atisa
 | 6 | Guda |  | 4.800 kg. |
 | 7 | Dhataki | Fl. | 960 g. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -610,12 +752,16 @@ Ayurvedic Formulary of India, Part I, entry 1:11, from Bhaisajyaratnavali, Atisa
 | SNA Oushadhasala | [kutajaarishtam](https://www.snaoushadhasala.com/product/kutajaarishtam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [kutajarishtam 450 ml](https://avpayurveda.com/products/kutajarishtam-450-ml) | no ingredient list |
 
+</div>
+
 ### AVIPATTIKARA CURNA
 
 Ayurvedic Formulary of India, Part I, entry 7:2, from Bhaisajyaratnavali, Amlapittadhikara; 24-25. 14 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -634,7 +780,11 @@ Ayurvedic Formulary of India, Part I, entry 7:2, from Bhaisajyaratnavali, Amlapi
 | 13 | Trivrt | Rt. | 44 parts |
 | 14 | Sarkara |  | 66 parts |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -643,12 +793,16 @@ Ayurvedic Formulary of India, Part I, entry 7:2, from Bhaisajyaratnavali, Amlapi
 | Patanjali Ayurved | [divya avipattikar churna](https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-avipattikar-churna/23) | an ingredient list, without quantities |
 | Shree Dhootapapeshwar | [avipattikar choorna](https://www.sdlindia.com/products/avipattikar-choorna) | every ingredient with its quantity |
 
+</div>
+
 ### AROGYAVARDHINI GUTIKA
 
 Ayurvedic Formulary of India, Part I, entry 20:4, from Rasaratnasamuccaya, Visarpadicikitsa; Adhyaya 20; 106-108. 13 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -666,9 +820,13 @@ Ayurvedic Formulary of India, Part I, entry 20:4, from Rasaratnasamuccaya, Visar
 | 12 | Tikta (katuka) (katuka) * | Rt./Rz. | 22 parts |
 | 13 | Nimba vrksa dalambha (nimba)-svarasa (nimba) * |  | not legible in the scan |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -676,12 +834,16 @@ Ayurvedic Formulary of India, Part I, entry 20:4, from Rasaratnasamuccaya, Visar
 | Maharishi Ayurveda | [arogya vardhini vati](https://maharishiayurvedaindia.com/products/arogya-vardhini-vati) | no ingredient list |
 | Patanjali Ayurved | [divya arogyavardhini vati](https://www.patanjaliayurved.net/product/ayurvedic-medicine/vati/divya-arogyavardhini-vati/13) | an ingredient list, without quantities |
 
+</div>
+
 ### ABHAYARISTA
 
 Ayurvedic Formulary of India, Part I, entry 1:1, from Bhaisajyaratnavali, Arsorogadhikara ; 105-107. 16 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -702,7 +864,11 @@ Ayurvedic Formulary of India, Part I, entry 1:1, from Bhaisajyaratnavali, Arsoro
 | 15 | Danti | Rt. | 96 g. |
 | 16 | Mocarasa (salmali) | Exd. | 96 g. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -719,6 +885,8 @@ Ayurvedic Formulary of India, Part I, entry 1:1, from Bhaisajyaratnavali, Arsoro
 | SNA Oushadhasala | [abhayaarishtam](https://www.snaoushadhasala.com/product/abhayaarishtam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [abhayarishtam](https://avpayurveda.com/products/abhayarishtam) | no ingredient list |
 
+</div>
+
 ### TRIPHALA CURNA
 
 Ayurvedic Formulary of India, Part I, entry 7:15, from Bhavaprakasa, Haritakyadi varga; 41. 3 rows.
@@ -726,13 +894,19 @@ Ayurvedic Formulary of India, Part I, entry 7:15, from Bhavaprakasa, Haritakyadi
 <details>
 <summary>The formulary recipe</summary>
 
+<div class="tablewrap">
+
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
 | 1 | Pathya (haritaki) | P. | 1 part |
 | 2 | Bibhita (bibhitaka) | P. | 1 part |
 | 3 | Dhatri (amalaki) | P. | 1 part |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -746,12 +920,16 @@ Ayurvedic Formulary of India, Part I, entry 7:15, from Bhavaprakasa, Haritakyadi
 | Sitaram Ayurveda | [triphala choornam](https://sitaramayurveda.com/products/triphala-choornam) | no ingredient list |
 | SNA Oushadhasala | [triphalaa choornam (varaa choornam)](https://www.snaoushadhasala.com/product/triphalaa-choornam-%28varaa-choornam%29) | no ingredient list |
 
+</div>
+
 ### SARASVATARISTA
 
 Ayurvedic Formulary of India, Part I, entry 1:36, from Bhaisajyaratnavali, Rasayanadhikara; 178-184. 24 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -780,9 +958,13 @@ Ayurvedic Formulary of India, Part I, entry 1:36, from Bhaisajyaratnavali, Rasay
 | 23 | Tvak | St. Bk. | 12 g. |
 | 24 | Svarnapatra * |  | not legible in the scan |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -796,12 +978,16 @@ Ayurvedic Formulary of India, Part I, entry 1:36, from Bhaisajyaratnavali, Rasay
 | SNA Oushadhasala | [saaraswataarishtam](https://www.snaoushadhasala.com/product/saaraswataarishtam) | every ingredient with its quantity |
 | The Arya Vaidya Pharmacy, Coimbatore | [saraswatharistham with gold](https://avpayurveda.com/products/saraswatharistham-with-gold) | no ingredient list |
 
+</div>
+
 ### PARTHADYARISTA (Synonym : Arjunarista)
 
 Ayurvedic Formulary of India, Part I, entry 1:21, from Bhaisajyaratnavali, Hrdrogadhikara; 73-74%. 6 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -812,7 +998,11 @@ Ayurvedic Formulary of India, Part I, entry 1:21, from Bhaisajyaratnavali, Hrdro
 | 5 | Dhataki | Fl. | 960 g. |
 | 6 | Guda |  | 4.800 kg. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -823,12 +1013,16 @@ Ayurvedic Formulary of India, Part I, entry 1:21, from Bhaisajyaratnavali, Hrdro
 | Shree Dhootapapeshwar | [arjunarishta parthadyarishta](https://www.sdlindia.com/products/arjunarishta-parthadyarishta) | every ingredient with its quantity |
 | Sitaram Ayurveda | [arjunarishtam partharishtam](https://sitaramayurveda.com/products/arjunarishtam-partharishtam) | no ingredient list |
 
+</div>
+
 ### AGNITUNDIVATI
 
 Ayurvedic Formulary of India, Part I, entry 12:1, from Bhaisajyaratnavali, Agnimandyadirogadhikara; 117-118. 18 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -851,6 +1045,8 @@ Ayurvedic Formulary of India, Part I, entry 12:1, from Bhaisajyaratnavali, Agnim
 | 17 | Visamusti - Suddha | Sd. | 16 part |
 | 18 | Jambiramla (jambira) | Fr. | Q.S. (for mardana) |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
@@ -864,6 +1060,8 @@ Ayurvedic Formulary of India, Part I, entry 7:37, from Bhaisajyaratnavali. Agnim
 <details>
 <summary>The formulary recipe</summary>
 
+<div class="tablewrap">
+
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
 | 1 | Sunthi | Rz. | 3 g |
@@ -875,9 +1073,13 @@ Ayurvedic Formulary of India, Part I, entry 7:37, from Bhaisajyaratnavali. Agnim
 | 7 | Krsna jiraka | Fr. | 3 g |
 | 8 | Hingu-suddha | Exd. | 3 g |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -886,12 +1088,16 @@ Ayurvedic Formulary of India, Part I, entry 7:37, from Bhaisajyaratnavali. Agnim
 | Patanjali Ayurved | [divya hingvashtak churna](https://www.patanjaliayurved.net/product/ayurvedic-medicine/churna/divya-hingvashtak-churna/1586) | an ingredient list, without quantities |
 | Shree Dhootapapeshwar | [hingwashtak choorna](https://www.sdlindia.com/products/hingwashtak-choorna) | every ingredient with its quantity |
 
+</div>
+
 ### TALISADYA CURNA
 
 Ayurvedic Formulary of India, Part I, entry 7:13, from Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 130-131. 8 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -904,6 +1110,8 @@ Ayurvedic Formulary of India, Part I, entry 7:13, from Sarngadharasamhita, Madhy
 | 7 | Tvak | St. Bk. | 6 g. |
 | 8 | Sarkara |  | 384 g. |
 
+</div>
+
 </details>
 
 The disclosure survey did not cover this preparation.
@@ -914,6 +1122,8 @@ Ayurvedic Formulary of India, Part I, entry 1:24, from Bhaisajyaratnavali, Vatav
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -931,9 +1141,13 @@ Ayurvedic Formulary of India, Part I, entry 1:24, from Bhaisajyaratnavali, Vatav
 | 12 | Usira | Rt. | 48 g |
 | 13 | Svadamstra (goksura) | Fr. | 48 g |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -945,12 +1159,16 @@ Ayurvedic Formulary of India, Part I, entry 1:24, from Bhaisajyaratnavali, Vatav
 | SNA Oushadhasala | [balaarishtam](https://www.snaoushadhasala.com/product/balaarishtam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [balarishtam](https://avpayurveda.com/products/balarishtam) | no ingredient list |
 
+</div>
+
 ### BRAHMA RASAYANA
 
 Ayurvedic Formulary of India, Part I, entry 3:20, from Astangahrdaya, Uttarasthana, Adhyaya 39; 15-19%. 46 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1001,9 +1219,13 @@ Ayurvedic Formulary of India, Part I, entry 3:20, from Astangahrdaya, Uttarastha
 | 45 | Taila (tila) | Ol | 6.144 kg. |
 | 46 | Ksaudra (madhu) |  | 15.360 kg. |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1012,12 +1234,16 @@ Ayurvedic Formulary of India, Part I, entry 3:20, from Astangahrdaya, Uttarastha
 | SNA Oushadhasala | [braahmarasaayanam](https://www.snaoushadhasala.com/product/braahmarasaayanam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [brahmarasayanam 200 gms](https://avpayurveda.com/products/brahmarasayanam-200-gms) | no ingredient list |
 
+</div>
+
 ### SARIVADYASAVA
 
 Ayurvedic Formulary of India, Part I, entry 1:37, from Bhaisajyaratnavali, Pramehapidakadhikara; 22-25. 27 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1049,6 +1275,8 @@ Ayurvedic Formulary of India, Part I, entry 1:37, from Bhaisajyaratnavali, Prame
 | 26 | Dhataki | Fl. | 480 g. |
 | 27 | Draksa | Dr.Fr. | 2.880 kg. |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
@@ -1062,6 +1290,8 @@ Ayurvedic Formulary of India, Part I, entry 3:26, from Bhaisajyaratnavali, Rajay
 <details>
 <summary>The formulary recipe</summary>
 
+<div class="tablewrap">
+
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
 | 1 | Vasaka svarasa (vasa) (vasa) | Lf. | 768 g. |
@@ -1069,6 +1299,8 @@ Ayurvedic Formulary of India, Part I, entry 3:26, from Bhaisajyaratnavali, Rajay
 | 3 | Sarpi (goghrta) (goghrta) |  | 96 g. |
 | 4 | Pippali | Fr. | 96 g. |
 | 5 | Madhu |  | 384 g. |
+
+</div>
 
 </details>
 
@@ -1081,11 +1313,15 @@ Ayurvedic Formulary of India, Part I, entry 7:14, from Bhaisajyaratnavali, Parib
 <details>
 <summary>The formulary recipe</summary>
 
+<div class="tablewrap">
+
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
 | 1 | Pippali | Fr. | 1 part |
 | 2 | Marica | Fr. | 1 part |
 | 3 | Sunthi | Rz. | 1 part |
+
+</div>
 
 </details>
 
@@ -1097,6 +1333,8 @@ Ayurvedic Formulary of India, Part I, entry 7:39, from Astangahrdaya, Cikitsasth
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1125,9 +1363,13 @@ Ayurvedic Formulary of India, Part I, entry 7:39, from Astangahrdaya, Cikitsasth
 | 23 | Tintidika | Fr. P. | 1 part |
 | 24 | Vetasamla (amlavetasa) | Fr. | 1 part |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1137,12 +1379,16 @@ Ayurvedic Formulary of India, Part I, entry 7:39, from Astangahrdaya, Cikitsasth
 | SNA Oushadhasala | [hinguvachaadi choornam](https://www.snaoushadhasala.com/product/hinguvachaadi-choornam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [hinguvachadi choornam 25 gms](https://avpayurveda.com/products/hinguvachadi-choornam-25-gms) | no ingredient list |
 
+</div>
+
 ### KSIRABALA TAILA
 
 Ayurvedic Formulary of India, Part I, entry 8:11, from Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44. 5 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1152,7 +1398,11 @@ Ayurvedic Formulary of India, Part I, entry 8:11, from Astangahrdaya, Vataraktac
 | 4 | Ksira (godugdha) (godugdha) |  | 4 parts |
 | 5 | Water |  | 16 parts |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1164,12 +1414,16 @@ Ayurvedic Formulary of India, Part I, entry 8:11, from Astangahrdaya, Vataraktac
 | SNA Oushadhasala | [ksheerabalaatailam](https://www.snaoushadhasala.com/product/ksheerabalaatailam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [ksheerabala thailam](https://avpayurveda.com/products/ksheerabala-thailam) | no ingredient list |
 
+</div>
+
 ### MADHUSNUHI RASAYANA
 
 Ayurvedic Formulary of India, Part I, entry 3:19, from Sahasrayoga, Lehaprakarana; 41. 32 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1206,7 +1460,11 @@ Ayurvedic Formulary of India, Part I, entry 3:19, from Sahasrayoga, Lehaprakaran
 | 31 | Sita |  | 576 g. |
 | 32 | Madhu |  | 768 g. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1215,12 +1473,16 @@ Ayurvedic Formulary of India, Part I, entry 3:19, from Sahasrayoga, Lehaprakaran
 | SNA Oushadhasala | [madhusnuheerasaayanam](https://www.snaoushadhasala.com/product/madhusnuheerasaayanam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [madhusnuhirasayanam small 200 gms](https://avpayurveda.com/products/madhusnuhirasayanam-small-200-gms) | no ingredient list |
 
+</div>
+
 ### PHALA GHRTA
 
 Ayurvedic Formulary of India, Part I, entry 6:30, from Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½. 21 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1246,6 +1508,8 @@ Ayurvedic Formulary of India, Part I, entry 6:30, from Astangahrdaya, Uttarastha
 | 20 | Ghrta (go ghrta) |  | 768 g. |
 | 21 | Ksira (go dugdha) |  | 3.072 l. |
 
+</div>
+
 </details>
 
 The disclosure survey did not cover this preparation.
@@ -1256,6 +1520,8 @@ Ayurvedic Formulary of India, Part I, entry 7:35, from Bhaisajyaratnavali, Jvara
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1304,6 +1570,8 @@ Ayurvedic Formulary of India, Part I, entry 7:35, from Bhaisajyaratnavali, Jvara
 | 43 | Kalasi (prsniparni) * |  | 1 part |
 | 44 | Kairata (kiratatikta) * |  | 1 part |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
@@ -1316,6 +1584,8 @@ Ayurvedic Formulary of India, Part I, entry 7:35, from Bhaisajyaratnavali, Jvara
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1364,6 +1634,8 @@ Ayurvedic Formulary of India, Part I, entry 7:35, from Bhaisajyaratnavali, Jvara
 | 43 | Kalasi (prsniparni) | Pl. | 1 part |
 | 44 | Kairata (kiratatikta) | Pl. | 1 part |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
@@ -1376,6 +1648,8 @@ Ayurvedic Formulary of India, Part I, entry 8:45, from Bhaisajyaratnavali, Vatav
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1439,7 +1713,11 @@ Ayurvedic Formulary of India, Part I, entry 8:45, from Bhaisajyaratnavali, Vatav
 | 58 | Kasmira (kunkuma) | Stl./ Stg. | 48 g. |
 | 59 | Mrgandaja (mrgamada) |  | 48 g. |
 
+</div>
+
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1448,12 +1726,16 @@ Ayurvedic Formulary of India, Part I, entry 8:45, from Bhaisajyaratnavali, Vatav
 | Sitaram Ayurveda | [mahanarayana thailam 200 ml](https://sitaramayurveda.com/products/mahanarayana-thailam-200-ml) | an ingredient list, without quantities |
 | SNA Oushadhasala | [mahanarayana tailam](https://www.snaoushadhasala.com/product/mahanarayana-tailam) | no ingredient list |
 
+</div>
+
 ### PIPPALYADYASAVA
 
 Ayurvedic Formulary of India, Part I, entry 1:22, from Sarngadharasamhita, Madhyamakhanda, Adhyaya 10 ; 28-32. 27 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1485,9 +1767,13 @@ Ayurvedic Formulary of India, Part I, entry 1:22, from Sarngadharasamhita, Madhy
 | 26 | Dhataki | Fl. | 480 g. |
 | 27 | Draksa | Dr. Fr. | 2.880 kg. |
 
+</div>
+
 \* Part of this row is uncertain in the scanned book. The formulation page gives the detail.
 
 </details>
+
+<div class="tablewrap">
 
 | Company | Page read | What the page publishes |
 |---|---|---|
@@ -1497,12 +1783,16 @@ Ayurvedic Formulary of India, Part I, entry 1:22, from Sarngadharasamhita, Madhy
 | Sitaram Ayurveda | [pippalyasavam](https://sitaramayurveda.com/products/pippalyasavam) | no ingredient list |
 | The Arya Vaidya Pharmacy, Coimbatore | [pippalyasavam 450 ml](https://avpayurveda.com/products/pippalyasavam-450-ml) | no ingredient list |
 
+</div>
+
 ### ASOKA GHRTA
 
 Ayurvedic Formulary of India, Part I, entry 6:4, from Bhaisajyaratnavali, Strirogadhikara; 17 - 20. 28 rows.
 
 <details>
 <summary>The formulary recipe</summary>
+
+<div class="tablewrap">
 
 | # | Ingredient | Part | Quantity |
 |---|---|---|---|
@@ -1534,6 +1824,8 @@ Ayurvedic Formulary of India, Part I, entry 6:4, from Bhaisajyaratnavali, Striro
 | 26 | Satavari | Rt.Tr. | 24 g. |
 | 27 | Tanduliyaka-mula | Rt. | 24 g. |
 | 28 | Sarkara |  | 384 g. |
+
+</div>
 
 </details>
 

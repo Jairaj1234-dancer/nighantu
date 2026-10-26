@@ -361,13 +361,14 @@ for (const p of preparations.filter((x) => x.comparedLabels.length)) {
   lines.push(`### ${p.afiHeading ?? p.formulation}`, '');
   lines.push(`The formulary states **${p.afiDose}** (Ayurvedic Formulary of India part ${p.afiPart}, `
     + `entry ${p.afiEntry}). The composition is at [/formulation/${p.formulation}/](../../formulation/${p.formulation}/).`, '');
+  lines.push('<div class="tablewrap">', '');
   lines.push('| Company | States | Against the formulary | In their own words |');
   lines.push('|---|---|---|---|');
   for (const l of p.comparedLabels.slice().sort((a, b) => (a.low ?? 0) - (b.low ?? 0))) {
     const amount = l.low === l.high ? `${l.low} ${l.unit}` : `${l.low} to ${l.high} ${l.unit}`;
     lines.push(`| ${esc(NAMES[l.brand] ?? l.brand)} | ${esc(amount)} | ${esc(RELATION_WORD[l.relation] ?? l.relation)} | ${esc(l.quote)} |`);
   }
-  lines.push('');
+  lines.push('', '</div>', '');
 }
 lines.push(`Every cell was read on ${payload.measuredOn}. ${published} rows across `
   + `${preparations.filter((x) => x.comparedLabels.length).length} preparations.`, '', END);
@@ -410,11 +411,12 @@ for (const p of preparations.filter((x) => x.comparedLabels.length)) {
   recipes.push(`Ayurvedic Formulary of India, Part ${rec.afiPart}, entry ${rec.entryNumber}`
     + `${rec.classicalSource ? `, from ${esc(rec.classicalSource).replace(/[.;\s]+$/, '')}` : ''}. ${rows.length} rows.`, '');
   recipes.push('<details>', `<summary>The formulary recipe</summary>`, '');
-  recipes.push('| # | Ingredient | Part | Quantity |', '|---|---|---|---|');
+  recipes.push('<div class="tablewrap">', '', '| # | Ingredient | Part | Quantity |', '|---|---|---|---|');
   for (const r of rows) {
     const name = `${esc(r.name)}${r.gloss ? ` (${esc(r.gloss)})` : ''}${r.illegible ? ' *' : ''}`;
     recipes.push(`| ${r.n} | ${name} | ${partCell(r)} | ${esc(r.quantity ?? 'not legible in the scan')} |`);
   }
+  recipes.push('', '</div>');
   if (rows.some((r) => r.illegible)) recipes.push('', '\\* Part of this row is uncertain in the scanned book. The formulation page gives the detail.');
   recipes.push('', '</details>', '');
   const d = disclosed.get(p.formulation);
@@ -422,7 +424,7 @@ for (const p of preparations.filter((x) => x.comparedLabels.length)) {
     recipes.push('The disclosure survey did not cover this preparation.', '');
     continue;
   }
-  recipes.push('| Company | Page read | What the page publishes |', '|---|---|---|');
+  recipes.push('<div class="tablewrap">', '', '| Company | Page read | What the page publishes |', '|---|---|---|');
   const rowsC = Object.entries(d.companies)
     .map(([id, v]) => ({ name: NAMES[id] ?? id, v }))
     .sort((a, b) => a.name.localeCompare(b.name));
@@ -432,7 +434,7 @@ for (const p of preparations.filter((x) => x.comparedLabels.length)) {
     const share = v.pages > 1 ? `, on ${v.pagesInThatState} of its ${v.pages} pages` : '';
     recipes.push(`| ${esc(name)} | ${pages} | ${STATE_WORDS[v.state] ?? v.state}${share} |`);
   }
-  recipes.push('');
+  recipes.push('', '</div>', '');
 }
 recipes.push(`${recipeCount} recipes. Company pages were read on the dates recorded in the disclosure dataset.`, '', END2);
 const block2 = recipes.join('\n');
