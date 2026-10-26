@@ -186,7 +186,7 @@ const jsonld = [
     // Both identities: the DOI resolves to the archived deposit, the Wikidata item is what lets an
     // engine treat this corpus as an entity it already knows. Q141494735 is verified as this
     // corpus by its own official-website and DOI claims.
-    sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK],
+    sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK, 'https://huggingface.co/datasets/AgeAyurveda/nighantu'],
     name: 'Age Ayurveda Nighantu Data Catalog',
     description,
     url: abs('/datasets/'),
@@ -202,7 +202,7 @@ const jsonld = [
       description: d.description,
       url: abs((d as any).browse ?? '/datasets/'),
       identifier: `https://doi.org/${ZENODO_CONCEPT_DOI}`,
-      sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK],
+      sameAs: [`https://doi.org/${ZENODO_CONCEPT_DOI}`, WIKIDATA_WORK, 'https://huggingface.co/datasets/AgeAyurveda/nighantu'],
       isAccessibleForFree: true,
       license: 'https://creativecommons.org/licenses/by/4.0/',
       creator: {
@@ -251,6 +251,12 @@ const jsonld = [
   <p>
     The corpus is archived on Zenodo under a concept DOI, which always resolves to the newest
     deposit. Cite that one unless you need a specific version.
+  </p>
+  <p>
+    The page text and the main tables are also published as a Hugging Face dataset,
+    <a href="https://huggingface.co/datasets/AgeAyurveda/nighantu">AgeAyurveda/nighantu</a>, with one
+    row per page and each table as its own configuration, under the same CC BY 4.0 licence. Pages about
+    the publisher's own products are not included.
   </p>
   <p class="caveat">
     <strong>What the DOI actually resolves to, stated plainly because it is not what you would
