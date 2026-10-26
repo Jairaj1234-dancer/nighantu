@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 
 **Standard Dosage:** 2-4g powder twice daily; 500mg extract capsule twice daily; topical paste as needed
 
-**Optimal Timing:** With meals containing fat/oil for enhanced curcuminoid absorption; with warm milk at bedtime for anti-inflammatory and immune benefits
+**Optimal Timing:** With meals containing fat/oil for enhanced curcuminoid absorption; with warm milk at bedtime
 
 **Storage:** Cool, dry place below 25°C, protected from light (curcuminoids are photosensitive). Airtight containers. Essential oil in amber glass.
 
@@ -49,6 +49,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Amra-Haridra/meta-analysis.md"
 ### Synergistic Combinations
 
 - With Maricha ([black pepper](/herb/black-pepper/)) for piperine-enhanced curcuminoid absorption
-- With [Haridra](/herb/haridra/) (common [turmeric](/herb/turmeric/)) for enhanced anti-inflammatory action
+- With [Haridra](/herb/haridra/) (common [turmeric](/herb/turmeric/)), a traditional combination
 - With Sunthi for digestive and anti-inflammatory synergy
-- With [Guduchi](/herb/guduchi/) for immune modulation
+- With [Guduchi](/herb/guduchi/), a traditional combination

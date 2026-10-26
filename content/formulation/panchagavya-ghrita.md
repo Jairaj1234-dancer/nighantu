@@ -51,7 +51,7 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ## Recent safety updates
 
-- No known side effects at recommended doses; however people with diabetes, high cholesterol, and heart disease should exercise precautions
+- People with diabetes, high cholesterol, and heart disease should exercise precautions
 - Very high doses may cause diarrhea and indigestion; cow urine component requires quality-assured sourcing and proper processing per AFI standards
 - Interaction potential with conventional anticonvulsants noted - PG may interact with phenytoin and carbamazepine; any dose adjustment only under medical supervision
 

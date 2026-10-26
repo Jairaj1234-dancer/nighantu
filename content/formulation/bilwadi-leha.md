@@ -35,7 +35,7 @@ Sahasrayoga, Lehaprakarana (per the Ayurvedic Formulary of India); Bhaishajya Ra
 - Musta (Cyperus rotundus) provides Grahi (absorbent) and Deepana (digestive stimulant) properties, normalizing stool consistency
 - [Trikatu](/herb/trikatu/) stimulates Agni (digestive fire), correcting Mandagni (weak digestion) that underlies IBS pathogenesis in Ayurveda
 - Carminative spices ([cumin](/herb/cumin/), [coriander](/herb/coriander/), cardamom, caraway) are traditionally used to reduce intestinal gas, bloating, and abdominal spasm
-- Jaggery base provides prebiotic support and mild [laxative](/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
+- Jaggery base is traditionally regarded as providing mild [laxative](/reference/laxative/) action, balancing the astringent herbs for normalized bowel function
 
 ## Which traditional uses are supported by research?
 

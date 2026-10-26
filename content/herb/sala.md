@@ -74,7 +74,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Sala/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g bark/resin powder per day; 50-100 mL kwatha twice daily; external application of resin paste as needed
 
-**Optimal Timing:** After meals for GI-protective effects; externally as needed for wound healing applications
+**Optimal Timing:** After meals; externally as needed
 
 **Storage:** Store below 25 deg C. Resin should be kept in airtight containers to prevent oxidation. Protect from direct sunlight. RH <55%.
 

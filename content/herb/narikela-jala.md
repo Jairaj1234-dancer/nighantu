@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela-Jala/meta-analy
 
 **Standard Dosage:** 100-330 mL fresh coconut water per dose; 3-5 g spray-dried powder reconstituted; up to 1 L daily in rehydration therapy
 
-**Optimal Timing:** Best consumed fresh; as a supplement taken between meals or post-exercise for rehydration. Morning intake on empty stomach for metabolic benefits.
+**Optimal Timing:** Best consumed fresh; as a supplement taken between meals or post-exercise for rehydration.
 
 **Storage:** Fresh coconut water: 2-8 deg C, consume within 24 hours of opening. Processed liquid: ambient below 25 deg C, protect from light. Dried powders: below 25 deg C, RH <40%, in moisture-barrier aluminum-laminated sachets with desiccant.
 

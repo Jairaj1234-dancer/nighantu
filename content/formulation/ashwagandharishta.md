@@ -59,7 +59,7 @@ The Ayurvedic Formulary of India attributes it to Bhaisajyaratnavali (Murccha ch
 
 **Standard Dosage:** 15-30 mL twice daily after meals with equal water. The Ayurvedic Formulary of India attributes this formula to Bhaisajyaratnavali, Mirccha ra; 13-17.
 
-**Optimal Timing:** After meals, twice daily, preferably after lunch and dinner. Best results with long-term use (3-6 months).
+**Optimal Timing:** After meals, twice daily, preferably after lunch and dinner.
 
 **Storage:** Store in well-closed amber glass or HDPE containers in a cool, dry place. Protect from direct sunlight. Temperature not exceeding 30°C.
 

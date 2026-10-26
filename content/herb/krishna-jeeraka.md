@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Krishna-Jeeraka/met
 
 **Standard Dosage:** 1-3 g powder twice daily; 3-5 drops essential oil (diluted); 500 mg capsule twice daily; 5-10 mL Ark
 
-**Optimal Timing:** After meals with honey (traditional); essential oil inhalation: anytime for respiratory benefit; before meals for appetite and digestive stimulation
+**Optimal Timing:** After meals with honey (traditional); essential oil inhalation: anytime (traditionally inhaled for respiratory complaints); before meals for appetite and digestive stimulation
 
 **Storage:** Cold-pressed oil in amber glass bottles at 4-15°C (refrigeration extends potency). Seeds in airtight containers away from light. Thymoquinone degrades in heat and light, cold chain preferred for premium products.
 

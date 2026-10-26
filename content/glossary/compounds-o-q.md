@@ -447,7 +447,7 @@ answer: "Phytochemical compounds (O-Q) is a reference glossary of 73 entries dra
 
 - [Gajapippali](/herb/gajapippali/), *Scindapsus officinalis (Roxb.) Schott*
 - [Guda](/glossary/concepts-a-m/#guda)
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kasturi](/herb/kasturi/)
 - [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*
 - [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.*

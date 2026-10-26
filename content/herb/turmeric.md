@@ -103,7 +103,7 @@ Used widely in Ayurvedic formulations. Sacred in Hindu rituals. Classified as Va
 - Liver injury features: Marked aminotransferase elevations (often >1000 U/L) with hepatocellular pattern; autoantibodies may develop.
 - Genetic susceptibility identified: HLA-B*35:01 allele found in 7/10 DILIN patients, previously linked to green tea hepatotoxicity.
 - Recovery: Generally rapid after discontinuation; prednisone used in severe cases but may not be necessary.
-- Turmeric-induced liver injury cases increasingly reported in combination with semaglutide (2024 case report).
+- Turmeric-induced liver injury reported in combination with semaglutide (2024 case report).
 - Drug interactions: May interact with blood thinners (anticoagulants/antiplatelets), diabetes medications, and drugs metabolized by CYP3A4, CYP1A2, and CYP2B6.
 - GI side effects at high doses: nausea, diarrhea, and abdominal discomfort.
 

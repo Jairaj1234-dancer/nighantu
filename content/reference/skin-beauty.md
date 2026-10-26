@@ -79,4 +79,4 @@ srcRel: "_Hub/Body-Systems/Skin--Beauty.md"
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/) (Wound Healing, Antimicrobial, Anti-inflammatory)
 - [Jatyadi Taila](/formulation/jatyadi-taila/) (Rasayana, Wound Healing, Antimicrobial)
 - [Jayapala](/herb/jayapala/), *Croton tiglium L.* (Antiemetic, Anti-inflammatory)
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don* (Antioxidant, Aphrodisiac, Adaptogenic)

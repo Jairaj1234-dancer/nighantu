@@ -59,7 +59,7 @@ srcRel: "_Hub/Pharmacology/Wound-Healing.md"
 - [Kasamarda](/herb/kasamarda/), *Cassia occidentalis L. (syn. [Senna](/herb/senna/) occidentalis)*
 - [Khadira](/herb/khadira/), *Acacia catechu (L.f.) Willd.*
 - [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 
 ## Related Body Systems
 

@@ -96,6 +96,7 @@ const DESCRIBED = {
   'parquet/taxonomy.parquet': 'The botanical taxonomy as Parquet.',
   'verification.json': 'The editorial verification ledger: what was checked, by what method, and what was rejected, with the counts computed from the run artefacts rather than stated.',
   'brand-disclosure.json': 'What Indian Ayurvedic manufacturers publish about their own products, measured across their product pages: whether each page names its ingredients, gives a quantity against them, states a dose amount, or cites an authority. Every count carries the page URL it came from.',
+  'disclosure-exclusions.json': 'Product pages the disclosure survey matched to a formulary preparation by name that on review are not that preparation (blog articles, other product forms, different formulas sharing a head name). One row is one excluded page URL with the preparation it was filed under and the reason.',
   'dose-comparison.json': 'Manufacturers\' stated doses against the dose the Ayurvedic Formulary of India states for the same classical preparation, with each manufacturer\'s own wording and the page it was read from. Includes the claims withheld on an adversarial check, with reasons.',
   'dose-comparison.csv': 'The dose comparison, one row per compared product page.',
   'manufacturer-register.json': 'A register of Indian Ayurvedic manufacturers with the website each publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.',

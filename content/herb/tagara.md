@@ -120,4 +120,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Tagara/meta-analysis.m
 - [Brahmi](/herb/brahmi/) (calming cognitive support)
 - [Shankhpushpi](/herb/shankhpushpi/) (anxiolytic and Medhya combination)
 - Passionflower (Western herb synergy for sleep formulations)
-- Hops + Lemon balm (evidence-based sleep combination)
+- Hops + Lemon balm (combination used in Western sleep formulations)

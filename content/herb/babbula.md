@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Babbula/meta-analysis.md
 
 ## Recent safety updates
 
-- Bark and gum are widely used in traditional oral hygiene (babool toothpaste/datun) with established safety at recommended doses
+- Bark and gum are widely used in traditional oral hygiene (babool toothpaste/datun)
 - Tannin-rich preparations may reduce iron and mineral absorption with chronic high-dose use; should be taken separately from mineral supplements and iron medications
 
 ## What is it made of?

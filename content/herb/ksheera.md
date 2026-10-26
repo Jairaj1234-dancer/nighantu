@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ksheera/meta-analysis.md"
 ## How does it work?
 
 - Lactoferrin exhibits [antimicrobial](/reference/antimicrobial/) activity through iron sequestration (depriving pathogens of essential iron) and direct membrane disruption; also modulates innate immune response through TLR4 signaling
-- Casein-derived bioactive peptides (casomorphins) bind to opioid mu-receptors in the gut, providing antidiarrheal effects and modulating gastrointestinal motility and secretion
+- Casein-derived bioactive peptides (casomorphins) bind to opioid mu-receptors in the gut, modulating gastrointestinal motility and secretion
 - Milk serves as a pharmaceutical vehicle (Anupana) enhancing bioavailability of lipophilic herbal compounds through emulsification with milk fat, and provides buffering action that moderates pungent/irritant properties of co-administered herbs
 
 ## Which traditional uses are supported by research?

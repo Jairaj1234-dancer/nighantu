@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patola-Patra/meta-analysis.md"
 
 **Standard Dosage:** 10-15 mL fresh leaf juice daily; 2-4 g dried leaf powder daily; 15-20 mL decoction twice daily; 500 mg leaf extract twice daily
 
-**Optimal Timing:** Fresh juice: morning on empty stomach for blood purification. Decoction: between meals. Leaf powder supplements: after meals with warm water.
+**Optimal Timing:** Fresh juice: morning on empty stomach (traditionally used for blood purification). Decoction: between meals. Leaf powder supplements: after meals with warm water.
 
 **Storage:** Fresh leaves: refrigerated 5-10 deg C in perforated bags. Dried powder: airtight, below 25 deg C, RH <50%, protected from light (to preserve chlorophyll). Extracts: amber containers, below 25 deg C.
 

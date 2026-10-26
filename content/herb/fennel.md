@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel/meta-analysis.md"
 
 **Dosage Forms:** Essential oil, Capsule (oil or extract), Tablet, Gripe water (infant formulation), Tea/infusion, Tincture, [Arka](/herb/arka/) (distillate)
 
-**Standard Dosage:** Essential oil: 100-200mg (0.1-0.6ml) in enteric capsule daily; seed: 1-4g as tea/infusion 2-3 times daily; tincture: 2-5ml three times daily; gripe water: as directed for infants
+**Standard Dosage:** Essential oil: 0.2 mL daily, as a single dose or in divided doses (EMEA/HMPC Community herbal monograph on bitter fennel fruit oil, 2007); seed: 1-4g as tea/infusion 2-3 times daily; tincture: 2-5ml three times daily; gripe water: as directed for infants
 
 **Optimal Timing:** After meals for digestive support; fennel tea throughout the day as a gentle carminative; gripe water for infants after feeding
 

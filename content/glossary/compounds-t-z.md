@@ -116,7 +116,7 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (2 shared sources)
 - [Zingiber](/herb/zingiber/) officinale (1 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 
 ### Terpenoids {#terpenoids}
 
@@ -126,7 +126,7 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 
 - [Gajapippali](/herb/gajapippali/), *Scindapsus officinalis (Roxb.) Schott*
 - [Hingupatri](/herb/hingupatri/), *Ferula spp. (leaf portion of Ferula assa-foetida L. or related Ferula species)*
-- [Jivaka](/herb/jivaka/), *Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don*
+- [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*
 - [Kakoli](/herb/kakoli/), *Roscoea purpurea Sm. (also identified with Fritillaria roylei)*
 - [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
 - [Meda](/herb/meda/), *Polygonatum verticillatum (L.) All. / Polygonatum cirrhifolium (Wall.) Royle*
@@ -607,7 +607,7 @@ answer: "Phytochemical compounds (T-Z) is a reference glossary of 65 entries dra
 
 - [Myristica fragrans](/glossary/compounds-l-o/#myristica-fragrans) (2 shared sources)
 - [Saffron](/herb/saffron/) (2 shared sources)
-- [Elettaria cardamomum](/glossary/compounds-d-g/#elettaria-cardamomum) (1 shared sources)
+- Elettaria cardamomum (1 shared sources)
 
 ### Turmerone {#turmerone}
 

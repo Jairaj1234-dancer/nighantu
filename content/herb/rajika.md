@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rajika/meta-analysi
 
 ### Synergistic Combinations
 
-- [Haridra](/herb/haridra/) (anti-inflammatory paste for joint pain)
+- [Haridra](/herb/haridra/) (combined paste traditionally applied to joints)
 - Sarshapa/White mustard (combined mustard formulation)
 - [Saindhava Lavana](/herb/saindhava-lavana/) (digestive and appetizer combination)
 - Rasona/Garlic (cardiovascular and metabolic combination)

@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-10-21",
+ "updatedAt": "2026-10-22",
  "sources": [
   "GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
   "Wikidata, https://www.wikidata.org/",
   "NCBI Taxonomy, https://www.ncbi.nlm.nih.gov/taxonomy"
  ],
  "summary": {
-  "botanicals": 282,
-  "resolved": 282,
-  "exact": 275,
+  "botanicals": 284,
+  "resolved": 284,
+  "exact": 277,
   "fuzzy": 1,
   "higherRank": 6,
-  "synonyms": 36,
+  "synonyms": 37,
   "notFound": 0,
-  "withWikidata": 267,
-  "withNcbiTaxid": 274
+  "withWikidata": 269,
+  "withNcbiTaxid": 276
  },
  "taxa": [
   {
@@ -618,8 +618,8 @@
    "pages": [
     {
      "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
+     "slug": "tanduliyaka",
+     "title": "Tanduliyaka",
      "asPublished": "Amaranthus spinosus L."
     }
    ],
@@ -1991,6 +1991,12 @@
      "slug": "chakramarda",
      "title": "Chakramarda",
      "asPublished": "Cassia tora L. (syn. Senna tora)"
+    },
+    {
+     "kind": "herb",
+     "slug": "dadrughna",
+     "title": "Dadrughna",
+     "asPublished": "Cassia tora L. (syn. Senna tora)"
     }
    ],
    "status": "ok",
@@ -2094,6 +2100,34 @@
    "checkedAt": "2026-09-12",
    "wikidata": "Q324714",
    "ncbiTaxid": "48106"
+  },
+  {
+   "query": "Centipeda minima",
+   "pages": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "asPublished": "Centipeda minima (L.) A.Braun & Asch."
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 5391292,
+   "scientificName": "Centipeda minima (L.) A.Br. & Asch.",
+   "canonicalName": "Centipeda minima",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Asteraceae",
+   "order": "Asterales",
+   "genus": "Centipeda",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-10-22",
+   "wikidata": "Q6744117",
+   "ncbiTaxid": "397370"
   },
   {
    "query": "Centratherum anthelminticum",
@@ -4798,14 +4832,36 @@
    "ncbiTaxid": "317856"
   },
   {
-   "query": "Malaxis muscifera",
+   "query": "Malaxis acuminata",
    "pages": [
     {
      "kind": "herb",
      "slug": "jivaka",
      "title": "Jivaka",
-     "asPublished": "Malaxis muscifera (Lindl.) Kuntze / Malaxis acuminata D. Don"
-    },
+     "asPublished": "Malaxis acuminata D. Don"
+    }
+   ],
+   "status": "ok",
+   "gbifKey": 2808062,
+   "scientificName": "Malaxis acuminata D.Don",
+   "canonicalName": "Malaxis acuminata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Orchidaceae",
+   "order": "Asparagales",
+   "genus": "Crepidium",
+   "acceptedName": "Crepidium acuminatum (D.Don) Szlach.",
+   "acceptedKey": 5307089,
+   "checkedAt": "2026-10-22",
+   "wikidata": "Q11148044",
+   "ncbiTaxid": "421261"
+  },
+  {
+   "query": "Malaxis muscifera",
+   "pages": [
     {
      "kind": "herb",
      "slug": "rishabhaka",

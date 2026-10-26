@@ -35,7 +35,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Haratala-Bhasma/meta
 
 ## How does it work?
 
-- Kaphahara (Kapha-reducing) action through stimulation of respiratory secretion clearance and bronchodilation, used traditionally for Shwasa (asthma) and Kasa (cough)
+- Kaphahara (Kapha-reducing) action, used traditionally for Shwasa (asthma) and Kasa (cough)
 - Kushthahara (skin disease management) through [antimicrobial](/reference/antimicrobial/) and keratolytic effects on skin lesions, traditionally used for chronic dermatological conditions
 - Jvaraghna ([antipyretic](/reference/antipyretic/)) action through modulation of inflammatory pathways involved in fever generation
 

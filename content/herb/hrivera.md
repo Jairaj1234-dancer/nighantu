@@ -47,5 +47,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Hrivera/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Chandana](/herb/chandana/) (sandalwood) for cooling and pitta-pacifying action
-- With [Ushira](/herb/ushira/) (vetiver) for urinary disorders
-- With [Sariva](/herb/sariva/) for blood purification
+- With [Ushira](/herb/ushira/) (vetiver), traditionally used for urinary complaints
+- With [Sariva](/herb/sariva/), traditionally used for blood purification

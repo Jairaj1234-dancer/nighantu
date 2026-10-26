@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lavali/meta-analysis.md"
 
 **Standard Dosage:** 3-6 g fruit powder per day; 50-100 mL decoction twice daily; 10-20 mL fresh juice
 
-**Optimal Timing:** Between meals for digestive benefits; morning for nutritive supplementation; avoid in patients with kidney disorders
+**Optimal Timing:** Between meals or in the morning; avoid in patients with kidney disorders
 
 **Storage:** Fresh fruit at 5-10 deg C. Dried extracts in airtight, moisture-proof containers below 25 deg C with desiccant. Protect from light. Nitrogen-flush packaging recommended.
 

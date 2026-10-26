@@ -70,4 +70,4 @@ Charaka Samhita and Sushruta Samhita. Originally classified as a Medhya [Rasayan
 
 ### Synergistic Combinations
 
-- Key herbs: [Brahmi](/herb/brahmi/) (Bacopa), [Shatavari](/herb/shatavari/), [Ashwagandha](/herb/ashwagandha/), [Haritaki](/herb/haritaki/), [Dhataki](/herb/dhataki/); fermentation creates unique metabolite profile with enhanced therapeutic activity
+- Key herbs: [Brahmi](/herb/brahmi/) (Bacopa), [Shatavari](/herb/shatavari/), [Ashwagandha](/herb/ashwagandha/), [Haritaki](/herb/haritaki/), [Dhataki](/herb/dhataki/)

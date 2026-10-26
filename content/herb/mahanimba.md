@@ -50,6 +50,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 - [Nimba](/herb/nimba/)/[Neem](/herb/neem/) ([antimicrobial](/reference/antimicrobial/) and antidermatosis synergy)
 - [Haridra](/herb/haridra/) (anti-inflammatory combination)
-- [Khadira](/herb/khadira/) (blood purification and skin diseases)
-- Kutaja (antidiarrheal and antiparasitic)
+- [Khadira](/herb/khadira/) (traditionally paired for blood purification and skin conditions)
+- Kutaja (traditionally paired for diarrhea and intestinal parasites)
 - [Patola](/herb/patola/) ([Pitta-balancing](/glossary/concepts-m-y/#pitta-balancing) skin formulation)

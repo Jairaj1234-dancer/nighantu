@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 ## Recent safety updates
 
-- EMA and WHO recommend use for no more than 1-2 weeks without medical supervision; chronic use may lead to electrolyte imbalance (hypokalemia), melanosis coli, and rarely hepatotoxicity (LiverTox likelihood score D - possible rare cause)
+- The EMA monograph (2018) limits use to 1 week, and the WHO monograph (1999) says use for more than 2 weeks requires medical supervision; chronic use may lead to electrolyte imbalance (hypokalemia), melanosis coli, and rarely hepatotoxicity (LiverTox likelihood score D - possible rare cause)
 - Severe hepatotoxicity is unusual but documented in cases of chronic overuse; one case of acute liver failure with portal vein thrombosis reported; Cassia angustifolia extract was found not hepatotoxic at doses higher than normal in controlled in vitro/in vivo study
 
 ## What is it made of?
@@ -80,7 +80,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 
 **Dosage Forms:** Tablet, Capsule, Tea/Infusion, Syrup, Granules, Churna (powder), Standardized extract tablet
 
-**Standard Dosage:** 15-30 mg sennosides (calculated as sennoside B) per day for adults; 0.5-2 g leaf powder; 1-2 g pod powder; use for maximum 7-10 consecutive days
+**Standard Dosage:** 15-30 mg sennosides (calculated as sennoside B) per day for adults; 0.5-2 g leaf powder; 1-2 g pod powder; not to be used for more than 1 week (EMA herbal monograph on senna leaf, Revision 1, 2018)
 
 **Optimal Timing:** Single dose at bedtime for morning bowel movement (6-12 hour onset); take with adequate water (250 mL minimum)
 
@@ -93,4 +93,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Senna/meta-analysis.md"
 - [Haritaki](/herb/haritaki/) ([Triphala](/herb/triphala/)-based laxative formulations)
 - [Fennel](/herb/fennel/)/Saunf (carminative addition to reduce griping)
 - Psyllium husk (bulk-forming + stimulant laxative combination)
-- [Ginger](/herb/ginger/) (reduces nausea and griping associated with senna)
+- [Ginger](/herb/ginger/) (traditionally combined to offset nausea and griping associated with senna)

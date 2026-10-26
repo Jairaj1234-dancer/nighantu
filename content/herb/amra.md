@@ -94,7 +94,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; 5-10g Amchur as culinary-medicinal ingredient; 50-100ml Aam Panna
 
-**Optimal Timing:** Before meals for appetite stimulation (Amchur); with meals for digestive support; Aam Panna in summer afternoons for heat protection
+**Optimal Timing:** Before meals for appetite stimulation (Amchur); with meals for digestive support; Aam Panna traditionally taken in summer afternoons
 
 **Storage:** Amchur in airtight containers at room temperature. Extracts below 25°C in moisture-proof packaging. Fresh pulp preparations require refrigeration.
 

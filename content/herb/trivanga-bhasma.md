@@ -53,7 +53,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 ## What do recent studies show?
 
 - Jamadagni PS, Jamadagni SB, Singh R and others 2013. [Repeated dose oral toxicity of Trivanga Bhasma in Swiss albino mice](https://pubmed.ncbi.nlm.nih.gov/24049417/). *Ayu*. PMID [24049417](https://pubmed.ncbi.nlm.nih.gov/24049417/) · [doi:10.4103/0974-8520.115449](https://doi.org/10.4103/0974-8520.115449)  
-  No treatment-related effects up to 10x therapeutic dose (78 mg/kg body weight = NOEL). Normal cyto-architecture at therapeutic doses. Toxicity in liver and kidney observed only at very high dose (10x TED).
+  90-day study in Swiss albino mice at 7.8, 39.5 and 78 mg/kg (the therapeutic dose, 5x and 10x). No treatment-related effects at any dose; 78 mg/kg body weight, the highest dose tested, was set as the NOAEL. Normal cyto-architecture on histopathology of the high-dose group.
 - Rasheed A, Naik M, Mohammed-Haneefa KP and others 2014. [Formulation, characterization and comparative evaluation of Trivanga bhasma: a herbo-mineral Indian traditional medicine](https://pubmed.ncbi.nlm.nih.gov/25015442/). *Pakistan journal of pharmaceutical sciences*. PMID [25015442](https://pubmed.ncbi.nlm.nih.gov/25015442/)  
   Physicochemical characterization confirmed trimetallic composition. Comparative evaluation of preparations from different sources showed variations in metal content ratios.
 
@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Trivanga-Bhasma/meta
 ## Recent safety updates
 
 - CONTAINS LEAD (31.67%): Despite Ayurvedic purification, lead content remains a serious safety concern. Lead has NO safe exposure level per modern toxicology.
-- MOUSE REPEATED-DOSE STUDY: NOEL of 78 mg/kg in mice. No treatment effects up to 10x therapeutic dose except at highest level (liver/kidney toxicity).
+- MOUSE REPEATED-DOSE STUDY: NOAEL of 78 mg/kg in mice, the highest dose tested (10x the therapeutic dose), with no treatment-related effects at any dose over 90 days.
 - LEAD ACCUMULATION RISK: Chronic use may lead to cumulative lead exposure. Blood lead level monitoring essential for any patient taking this preparation.
 - REGULATORY CONFLICT: While AYUSH permits its manufacture, FDA and WHO guidelines effectively prohibit lead-containing medicines. This creates a regulatory paradox.
 

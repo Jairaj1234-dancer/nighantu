@@ -33,7 +33,7 @@ Bhaishajya Ratnavali, Madatyaya Adhikara (chapter on intoxication/alcoholism). D
 
 - Sheeta Virya (cooling potency) of [Chandana](/herb/chandana/) and [Ushira](/herb/ushira/) pacifies aggravated Pitta dosha and reduces burning sensations
 - In vitro assays have reported [antioxidant](/reference/antioxidant/) activity (santalols, [flavonoids](/reference/flavonoids/), phenolics)
-- [Antimicrobial](/reference/antimicrobial/) action against S. aureus and E. coli supports traditional dermatological and urinary tract applications
+- [Antimicrobial](/reference/antimicrobial/) activity against S. aureus and E. coli has been reported in vitro
 - [Jatamansi](/herb/jatamansi/) and [Ushira](/herb/ushira/) are traditionally described as calming and are used classically for agitation from Pitta excess
 
 ## Which traditional uses are supported by research?

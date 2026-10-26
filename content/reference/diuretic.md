@@ -50,7 +50,7 @@ srcRel: "_Hub/Pharmacology/Diuretic.md"
 - [Kantakari](/herb/kantakari/), *Solanum xanthocarpum Schrad. & Wendl. (syn. S. surattense Burm. f., S. virginianum L.)*
 - [Kapittha](/herb/kapittha/), *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)*
 - [Kshara Parpati](/herb/kshara-parpati/)
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Kshavaka](/herb/kshavaka/)
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
 - [Kusha](/herb/kusha/)
 - [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.*

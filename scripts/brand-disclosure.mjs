@@ -69,6 +69,17 @@ if (!RENDER_ONLY && !CHECK) {
     process.exit(1);
   }
   const products = JSON.parse(fs.readFileSync(path.join(SURVEY, 'products.json'), 'utf8'));
+  /**
+   * Pages the name match found that are not the preparation: blog articles, other product forms
+   * sold under the same name, different formulas sharing a head name. Reviewed by hand and listed
+   * with a reason in src/data/disclosure-exclusions.json, so a re-run cannot bring them back.
+   */
+  const EXCLUSIONS = JSON.parse(fs.readFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), 'utf8')).excluded;
+  const EXCLUDED = new Set(EXCLUSIONS.map((x) => x.url));
+  // Blog articles are not products at all, so they leave the whole range too. The other two kinds
+  // are real products filed under the wrong preparation, and stay in the range.
+  const EXCLUDED_FROM_RANGE = new Set(EXCLUSIONS.filter((x) => x.appliesTo.includes('whole-range')).map((x) => x.url));
+  products.products = products.products.filter((p) => !EXCLUDED.has(p.url));
   const discovery = JSON.parse(fs.readFileSync(path.join(SURVEY, 'discovery.json'), 'utf8'));
   /**
    * Wave 2, the whole product range, read separately and kept separate.
@@ -87,6 +98,7 @@ if (!RENDER_ONLY && !CHECK) {
    */
   const w2Path = path.join(SURVEY, 'products-wave2.json');
   const wave2 = fs.existsSync(w2Path) ? JSON.parse(fs.readFileSync(w2Path, 'utf8')) : null;
+  if (wave2) wave2.products = wave2.products.filter((p) => !EXCLUDED_FROM_RANGE.has(p.url));
   const afi = JSON.parse(fs.readFileSync(COMPOSITION, 'utf8')).records;
 
   /**
@@ -366,6 +378,9 @@ if (!CHECK) {
   fs.mkdirSync('public', { recursive: true });
   fs.writeFileSync(path.join('public', 'brand-disclosure.json'), `${JSON.stringify(data, null, 2)}\n`);
   console.log(`published          public/brand-disclosure.json (${(JSON.stringify(data).length / 1024).toFixed(0)} KB)`);
+  // The pages excluded from the measurement, with the reason for each, linked from the page.
+  fs.copyFileSync(path.join('src', 'data', 'disclosure-exclusions.json'), path.join('public', 'disclosure-exclusions.json'));
+  console.log('published          public/disclosure-exclusions.json');
 }
 const byId = Object.fromEntries(data.companies.map((c) => [c.id, c]));
 const nameOf = (id) => byId[id]?.name ?? id;

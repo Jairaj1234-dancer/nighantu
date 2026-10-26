@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-12",
- "count": 288,
+ "updatedAt": "2026-10-22",
+ "count": 289,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -2794,6 +2794,23 @@
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
+  },
+  "Malaxis acuminata": {
+   "status": "ok",
+   "gbifKey": 2808062,
+   "scientificName": "Malaxis acuminata D.Don",
+   "canonicalName": "Malaxis acuminata",
+   "rank": "SPECIES",
+   "taxonomicStatus": "SYNONYM",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Orchidaceae",
+   "order": "Asparagales",
+   "genus": "Crepidium",
+   "acceptedName": "Crepidium acuminatum (D.Don) Szlach.",
+   "acceptedKey": 5307089,
+   "checkedAt": "2026-10-22"
   },
   "Malaxis muscifera": {
    "status": "ok",

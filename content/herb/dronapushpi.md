@@ -51,4 +51,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Dronapushpi/meta-analysi
 - With [Tulsi](/herb/tulsi/) (Ocimum) for respiratory and antipyretic synergy
 - With [Shirisha](/herb/shirisha/) (Albizia) for anti-allergic combination
 - With [Haridra](/herb/haridra/) for anti-inflammatory and [wound-healing](/reference/wound-healing/) applications
-- With [Kantakari](/herb/kantakari/) for cough and bronchial conditions
+- With [Kantakari](/herb/kantakari/), traditionally combined for cough and bronchial conditions

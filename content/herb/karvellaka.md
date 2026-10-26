@@ -131,7 +131,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 - Zhang X, Zhao Y, Song Y and others 2024. [Effects of Momordica charantia L. supplementation on glycemic control and lipid profile in type 2 diabetes mellitus patients: A systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/38784554/). *Heliyon*. PMID [38784554](https://pubmed.ncbi.nlm.nih.gov/38784554/) · [doi:10.1016/j.heliyon.2024.e31126](https://doi.org/10.1016/j.heliyon.2024.e31126)  
   Meta-analysis of RCTs found M. charantia supplementation reduced FPG, PPG, and HbA1c in T2DM patients, though evidence quality was low to very low for primary outcomes.
 - Mkhize SAL, Phoswa WN, Ngubane PS and others 2025. [Efficacy of Momordica charantia in glycaemic control and insulin resistance among patients with prediabetes and type 2 diabetes. A GRADE-adherent meta-analysis of randomised controlled trials](https://pubmed.ncbi.nlm.nih.gov/41280283/). *Metabolism open*. PMID [41280283](https://pubmed.ncbi.nlm.nih.gov/41280283/) · [doi:10.1016/j.metop.2025.100407](https://doi.org/10.1016/j.metop.2025.100407)  
-  GRADE-adherent meta-analysis assessed glycemic control and insulin resistance in prediabetes and T2DM, providing the most rigorous evidence assessment to date using GRADE methodology.
+  GRADE-adherent meta-analysis assessed glycemic control and insulin resistance in prediabetes and T2DM, rating evidence certainty using GRADE methodology.
 - Laczkó-Zöld E, Csupor-Löffler B, Kolcsár EB and others 2023. [The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials](https://pubmed.ncbi.nlm.nih.gov/38274207/). *Frontiers in nutrition*. PMID [38274207](https://pubmed.ncbi.nlm.nih.gov/38274207/) · [doi:10.3389/fnut.2023.1200801](https://doi.org/10.3389/fnut.2023.1200801)  
   Contradictory findings: concluded that the metabolic effect cannot be definitively determined from available clinical evidence. Low to very low quality evidence for primary outcomes, with sparse safety data warranting further research.
 - Mes JJ, van den Belt M, van der Haar S and others 2025. [Bitter gourd (Momordica charantia L.) supplementation for twelve weeks improves biomarkers of glucose homeostasis in a prediabetic population](https://pubmed.ncbi.nlm.nih.gov/40199408/). *Journal of ethnopharmacology*. PMID [40199408](https://pubmed.ncbi.nlm.nih.gov/40199408/) · [doi:10.1016/j.jep.2025.119756](https://doi.org/10.1016/j.jep.2025.119756)  
@@ -166,7 +166,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karvellaka/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Gudmar](/herb/gudmar/) (Gymnema) for anti-diabetic synergy
-- [Methi](/herb/methi/) (Fenugreek) for metabolic syndrome management
-- [Jamun](/herb/jamun/) seeds for comprehensive glycemic control
-- [Haridra](/herb/haridra/) for insulin sensitization
+- [Gudmar](/herb/gudmar/) (Gymnema)
+- [Methi](/herb/methi/) (Fenugreek)
+- [Jamun](/herb/jamun/) seeds
+- [Haridra](/herb/haridra/)

@@ -44,5 +44,5 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Avipattikar-Herbs/meta-analys
 ### Synergistic Combinations
 
 - Internal synergies identical to Avipattikar compound
-- Sugar-free version can be combined with [Shatavari](/herb/shatavari/) for diabetic patients with hyperacidity
+- Sugar-free version is traditionally paired with [Shatavari](/herb/shatavari/)
 - With [Guduchi](/herb/guduchi/) for metabolic support alongside digestive correction

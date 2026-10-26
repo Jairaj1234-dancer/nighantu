@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam ([Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/))
+Cakradatta, Amavatacikitsa 58 (Amrita Ghrita; Ayurvedic Formulary of India, Part I, entry 6:1); Bhaishajya Ratnavali (Amrita Ghrita); Rasaratna Samuccaya; Yogaratnakara (preparations for enhancing Ojas); Ashtanga Hridayam ([Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/); Ayurvedic Formulary of India, Part I, entry 6:2, a separate formula)
 
 ## How does it work?
 

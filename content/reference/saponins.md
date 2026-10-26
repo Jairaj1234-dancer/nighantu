@@ -35,7 +35,7 @@ srcRel: "_Hub/Compounds/Saponins.md"
 - [Kataka](/herb/kataka/), *Strychnos potatorum L.f.*
 - [Kharjura](/herb/kharjura/), *Phoenix dactylifera L.*
 - [Kovidara](/herb/kovidara/), *Bauhinia purpurea L.*
-- [Kshavaka](/herb/kshavaka/), *Amaranthus spinosus L.*
+- [Tanduliyaka](/herb/tanduliyaka/), *Amaranthus spinosus L.*
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)*
 - [Lavali](/herb/lavali/), *Meyna spinosa Roxb. ex Link*
 - [Mahabala](/herb/mahabala/), *Sida rhombifolia L.*

@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Amla/meta-analysis.md"
 - Adipogenesis inhibition: Tannin content prevents adipogenesis and increases [glucose](/glossary/compounds-d-g/#glucose) uptake by enhancing peripheral insulin sensitivity.
 - Neuroprotection: Targets MAPK3, SRC, MAPK1; modulates neuroactive ligand-receptor interactions and serotonergic synapses.
 - Hepatoprotective and nephroprotective: Cytoprotective effects on liver and kidney tissues.
-- [Immunomodulatory](/reference/immunomodulatory/) and antiviral: Broad-spectrum immune support and documented antiviral activity.
+- [Immunomodulatory](/reference/immunomodulatory/) and antiviral: Immunomodulatory and antiviral activity reported in studies.
 
 ## How is it used traditionally?
 
@@ -104,7 +104,7 @@ One of the three fruits in [Triphala](/herb/triphala/). Classified as best among
 - GI effects: Cramping or diarrhea possible at high doses (>5 g/day).
 - Drug interactions with anticoagulants: Possible interaction with warfarin and clopidogrel; pharmacodynamic study documented with clopidogrel and ecosprin in Type II diabetes patients.
 - Hypoglycemia risk: May interact with anti-diabetic medications; blood sugar monitoring recommended.
-- Iron absorption: High tannin content may reduce non-heme iron uptake; caution in iron-deficient individuals.
+- Iron absorption: High tannin content may reduce non-heme iron uptake; caution in iron-deficient individuals. An in vitro study of amla added to cereals and pulses found no net improvement in iron availability, the tannins offsetting the ascorbic acid (Gowri BS, Platel K, Prakash J, Srinivasan K 2001. *Nutrition Research* 21(12):1483-1492. [doi:10.1016/s0271-5317(01)00362-1](https://doi.org/10.1016/s0271-5317(01)00362-1)).
 - Surgery precaution: May affect bleeding risk and drug metabolism; caution before medical procedures.
 - Antibacterial synergy: Phyllanthus emblica extracts show synergistic interactions with certain antibiotics (2025 study), which could affect antibiotic dosing.
 
@@ -115,7 +115,6 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna) and Juice: see Standard Dosage unde
 ## Safety, contraindications and cautions
 
 - May lower blood sugar (monitor with diabetes medications)
-- Iron absorption enhancement (caution with hemochromatosis)
 
 ## What is it made of?
 
@@ -163,7 +162,7 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna) and Juice: see Standard Dosage unde
 
 **Standard Dosage:** 3-6g powder twice daily; 15-30ml fresh juice; 500mg-1g extract capsule twice daily; 1-2 tsp Chyawanprash daily
 
-**Optimal Timing:** Morning on empty stomach for Rasayana effects; with meals for iron absorption enhancement; at bedtime with warm milk for rejuvenation
+**Optimal Timing:** Morning on empty stomach for Rasayana effects; at bedtime with warm milk for rejuvenation
 
 **Storage:** Airtight containers, cool and dry place below 25°C. Protect from light (photo-degradation of vitamin C and tannins). Hygroscopic powder requires desiccant in packaging.
 
@@ -173,6 +172,6 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna) and Juice: see Standard Dosage unde
 
 - With [Haritaki](/herb/haritaki/) and Vibhitaki in Triphala (synergistic antioxidant and digestive action)
 - With [Ashwagandha](/herb/ashwagandha/) in Chyawanprash for Rasayana (rejuvenation)
-- With [Pippali](/herb/pippali/) for Dhatri Rasayana (iron absorption enhancement)
+- With [Pippali](/herb/pippali/) for Dhatri Rasayana
 - With [Yashtimadhu](/herb/yashtimadhu/) for gastric mucosal protection
 - With Bhringaraja for hair health

@@ -31,7 +31,7 @@ Ashtanga Hridayam (Sutrasthana Chapter 20 - Nasya Vidhi) by Vagbhata. Described 
 
 ## How does it work?
 
-- Transnasal drug delivery through olfactory neuroepithelium provides direct access to the CNS (nose-to-brain pathway), bypassing the blood-brain barrier for [neuroprotective](/reference/neuroprotective/) herb constituents
+- Transnasal delivery through the olfactory neuroepithelium is proposed as a nose-to-brain route that may bypass the blood-brain barrier; this is not established for this formulation
 - [Sesame oil](/glossary/concepts-m-y/#tila-taila) base (Murchana-processed) increases saponification and refractive index while decreasing free fatty acids and peroxide levels
 - Sandalwood's santalol and [Jatamansi](/herb/jatamansi/)'s nardostachin provide anti-inflammatory and calming effects on nasal mucosa
 - [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) from Licorice is proposed to provide mucosal protective effects; a hamster study described the oil as a 'biological mask' for the nasal epithelium, and human evidence is not established
