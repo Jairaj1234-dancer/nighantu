@@ -770,6 +770,11 @@
           "name": "Dr. K. Vineesha Vasudevan",
           "qualification": "BAMS; Diploma in Clinical Dietician and Nutrition",
           "registration": null
+        },
+        {
+          "name": "Dr Vikram Rajpurohit",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
         }
       ],
       "address": {
@@ -1201,6 +1206,16 @@
           "name": "Dr. Anand Rambharoseylal Sharma",
           "qualification": "BAMS",
           "registration": null
+        },
+        {
+          "name": "Dr Pooja Bisht",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Nangre",
+          "qualification": "BAMS",
+          "registration": null
         }
       ],
       "address": {
@@ -1253,6 +1268,16 @@
           "excerpt": "Excellent doctor n their staff vert humble n polite.",
           "attribution": "Trancina Dsouza",
           "url": "https://www.jiva.com/clinic/maharashtra/mumbai/chembur"
+        },
+        {
+          "excerpt": "The doctor listened carefully and explained the treatment in a simple and easy to understand way.",
+          "attribution": "Kanta Rathod",
+          "url": "https://www.jiva.com/clinic/maharashtra/pune/dhole-patil-road"
+        },
+        {
+          "excerpt": "Good vibes. Best treatment. Should try.",
+          "attribution": "Kamal Elavia",
+          "url": "https://www.jiva.com/clinic/maharashtra/pune/dhole-patil-road"
         }
       ],
       "reviewLinks": [],
@@ -5831,6 +5856,4029 @@
       "id": "madhavbaug-ayurvedic-clinic-panvel"
     },
     {
+      "practiceName": "Shree Vishwa Swasthya Ayurvedic Clinic And Panchakarma Chikitsalaya, Akurdi",
+      "practitioners": [
+        {
+          "name": "Dr Pruthviraj Ugale",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pallavi Mane",
+          "qualification": "MD (Ayurved Medicine)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 154, Sector No. 27/A, Sant Tukaram Maharaj Udyan, opposite Yashwantrao Chavan Smruti Smarak, Mhalasakant Chowk",
+        "locality": "Akurdi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411044"
+      },
+      "phone": [
+        "+91 80872 36239"
+      ],
+      "website": "https://vishwaswasthya.com/",
+      "email": "vishwa27swasthya@gmail.com",
+      "hours": "10:00 am to 2:00 pm and 6:00 pm to 9:00 pm; Sunday by appointment",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vaman, Virechan, Basti, Nasya, Raktamokshan)",
+        "Suvarnaprashan",
+        "Garbh Sanskar",
+        "Skin, hair and joint care"
+      ],
+      "sources": {
+        "practiceName": "https://vishwaswasthya.com/",
+        "practitioners": "https://vishwaswasthya.com/",
+        "address": "https://vishwaswasthya.com/",
+        "phone": "https://vishwaswasthya.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The staff was knowledgeable, friendly and welcoming.",
+          "attribution": "Suraj Mohite",
+          "url": "https://vishwaswasthya.com/"
+        },
+        {
+          "excerpt": "Dr explain everything very clearly. Hospital is very clean and hygienic.",
+          "attribution": "Dipti Choudhari",
+          "url": "https://vishwaswasthya.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-vishwa-swasthya-ayurvedic-clinic-and-panchakarma"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Bhosari",
+      "practitioners": [
+        {
+          "name": "Dr Shital Karande",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Survey No 69, Hira Plaza, near Pavana Bank, Pune Nashik Road",
+        "locality": "Bhosari",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411039"
+      },
+      "phone": [
+        "+91 95953 95123",
+        "+91 97307 83486"
+      ],
+      "website": "https://madhavbaug.org/clinic/bhosari-pune/",
+      "email": null,
+      "hours": "9:30 am to 7:15 pm, closed Friday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/bhosari-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/bhosari-pune/",
+        "address": "https://madhavbaug.org/clinic/bhosari-pune/",
+        "phone": "https://madhavbaug.org/clinic/bhosari-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-bhosari"
+    },
+    {
+      "practiceName": "Pranav Ayurveda Panchakarma Clinic, Chikhali Pradhikaran",
+      "practitioners": [
+        {
+          "name": "Dr Priti M. Deshmukh",
+          "qualification": "BAMS, M.D. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-01, Dreamnest, opposite Sukhwani Oasis, Sector No. 13, Mercedes Benz Chowk, PCNTDA, Spine Road Flyover, Chikhali Pradhikaran",
+        "locality": "Chikhali",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411019"
+      },
+      "phone": [
+        "+91 72762 12348"
+      ],
+      "website": "https://www.pranavayurveda.com/",
+      "email": null,
+      "hours": "Monday and Thursday 10:00 am to 12:30 pm and 5:30 pm to 8:00 pm; 1st, 3rd and 5th Friday same times; 2nd and 4th Saturday 9:30 am to 4:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Garbhasanskar counselling",
+        "Suvarnaprashan",
+        "Ayurvedic massage",
+        "Rejuvenation and beauty care"
+      ],
+      "sources": {
+        "practiceName": "https://www.pranavayurveda.com/",
+        "practitioners": "https://www.pranavayurveda.com/",
+        "address": "https://www.pranavayurveda.com/",
+        "phone": "https://www.pranavayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr Priti is the best Doctor in her field. She has all the listening skills which a doctor should have.",
+          "attribution": "Anagha Joshi",
+          "url": "https://www.pranavayurveda.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/pranav-ayurved-chikitsalaya-panchakarma-kendra-chikhali/ayurveda-ps-4"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "pranav-ayurveda-panchakarma-clinic-chikhali-pradhikaran"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Chinchwad (Thergaon)",
+      "practitioners": [
+        {
+          "name": "Dr Ankita Pandagre",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No 102, 1st Floor, Kamal Heights, opposite Aditya Birla Hospital, Thergaon",
+        "locality": "Chinchwad",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411033"
+      },
+      "phone": [
+        "+91 93262 33337",
+        "+91 95459 43430"
+      ],
+      "website": "https://madhavbaug.org/clinic/chinchwad-pune/",
+      "email": null,
+      "hours": "8:00 am to 5:00 pm, closed Monday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/chinchwad-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/chinchwad-pune/",
+        "address": "https://madhavbaug.org/clinic/chinchwad-pune/",
+        "phone": "https://madhavbaug.org/clinic/chinchwad-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-chinchwad-thergaon"
+    },
+    {
+      "practiceName": "Maha Ayurved, Kasarwadi",
+      "practitioners": [
+        {
+          "name": "Dr Ravindra Borade",
+          "qualification": "BAMS (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Seema Kadam",
+          "qualification": "BAMS, MD (Striroga)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 12 & 13, Vishal Residency, near Pride Motors, Laxman Krupa Housing Society",
+        "locality": "Kasarwadi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411034"
+      },
+      "phone": [
+        "+91 74101 82111"
+      ],
+      "website": "https://mahayurved.com/",
+      "email": "mahayurvedinfo@gmail.com",
+      "hours": "Monday to Sunday, 10:00 am to 9:00 pm (Thursday and Saturday 2:00 pm to 10:00 pm)",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya)",
+        "Shirodhara",
+        "Women's health",
+        "Skin and hair care",
+        "Joint and spine care",
+        "Digestive and metabolic care"
+      ],
+      "sources": {
+        "practiceName": "https://mahayurved.com/contact-us/",
+        "practitioners": "https://mahayurved.com/contact-us/",
+        "address": "https://mahayurved.com/contact-us/",
+        "phone": "https://mahayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "maha-ayurved-kasarwadi"
+    },
+    {
+      "practiceName": "Palash Ayurveda, Moshi Pradhikaran (Clinic 1)",
+      "practitioners": [
+        {
+          "name": "Dr Yamini Sadavarte",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gokul Dham Society, near Jalvayu Vihar, Sector No. 6, Moshi Pradhikaran",
+        "locality": "Moshi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "412105"
+      },
+      "phone": [
+        "+91 99229 31321"
+      ],
+      "website": "https://www.palashayurved.com/",
+      "email": "dryaminisadavarte@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Keraliya Panchakarma (Snehana, Swedana, Vaman, Virechanam, Basti, Raktamoksham, Nasyam)",
+        "Shirodhara",
+        "Netra Tarpana",
+        "Udwarthanam",
+        "Kati, Manya and Janu Basti",
+        "Suvarnaprashan Sanskar",
+        "Yoga and meditation",
+        "Diet consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.palashayurved.com/",
+        "practitioners": "https://www.palashayurved.com/",
+        "address": "https://www.palashayurved.com/",
+        "phone": "https://www.palashayurved.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Great experience, helpful doctor and have yoga facilities also",
+          "attribution": "Maushami Singh",
+          "url": "https://www.palashayurved.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "palash-ayurveda-moshi-pradhikaran-clinic-1"
+    },
+    {
+      "practiceName": "Ayurpushpam Ayurvedic Chikitsalaya & Panchakarma Centre, New Sangvi",
+      "practitioners": [
+        {
+          "name": "Dr Sushama Raje",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No C1, Shivam Raj Park, near God Shankar Statue, Maheshwari Chowk, Indraprastha Road",
+        "locality": "New Sangvi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411061"
+      },
+      "phone": [
+        "+91 86691 46707"
+      ],
+      "website": "https://ayurpushpam.com/",
+      "email": "ayurpushpam@gmail.com",
+      "hours": "Monday to Saturday, 10:00 am to 1:00 pm and 6:00 pm to 9:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Dosha-specific treatment",
+        "Dietary and lifestyle consulting",
+        "Ayurvedic remedies"
+      ],
+      "sources": {
+        "practiceName": "https://ayurpushpam.com/",
+        "practitioners": "https://ayurpushpam.com/",
+        "address": "https://ayurpushpam.com/",
+        "phone": "https://ayurpushpam.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurpushpam-ayurvedic-chikitsalaya-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Nigdi",
+      "practitioners": [
+        {
+          "name": "Dr Sujata Prasanna Gumaste",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 47, Sector 24, Nigdi Pradhikaran, near Lokmanya Hospital",
+        "locality": "Nigdi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411044"
+      },
+      "phone": [
+        "+91 95793 15218"
+      ],
+      "website": "https://madhavbaug.org/clinic/nigdi-pune/",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, closed Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/nigdi-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/nigdi-pune/",
+        "address": "https://madhavbaug.org/clinic/nigdi-pune/",
+        "phone": "https://madhavbaug.org/clinic/nigdi-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-nigdi"
+    },
+    {
+      "practiceName": "Shree Yash's Ayurvedic Clinic, Nigdi Pradhikaran",
+      "practitioners": [
+        {
+          "name": "Dr Smitaa Jadhav",
+          "qualification": "B.A.M.S., Ayurvedacharya",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot L-C 9B, behind Ganesh Sweet Mart, near Amrita Vidyalayam, Sector 21, Yamuna Nagar",
+        "locality": "Nigdi",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411044"
+      },
+      "phone": [
+        "+91 91307 83701",
+        "+91 97674 06395"
+      ],
+      "website": "https://shreeyashsayurvedicclinic.com/",
+      "email": null,
+      "hours": "Monday to Saturday, 10:00 am to 1:30 pm and 6:00 pm to 9:00 pm; Sunday by appointment",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Basti, Virechan, Nasya, Shirodhara, Raktamokshan, Pindaswed, Netratarpan, Janu Basti, Kati Basti)",
+        "Suvarna Prashan",
+        "Hair and skin care",
+        "Lifestyle disorder care",
+        "Children's health care"
+      ],
+      "sources": {
+        "practiceName": "https://shreeyashsayurvedicclinic.com/",
+        "practitioners": "https://shreeyashsayurvedicclinic.com/about-us/",
+        "address": "https://shreeyashsayurvedicclinic.com/",
+        "phone": "https://shreeyashsayurvedicclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-yash-s-ayurvedic-clinic-nigdi-pradhikaran"
+    },
+    {
+      "practiceName": "Heal & Care Ayurveda Clinic, Pimple Saudagar",
+      "practitioners": [
+        {
+          "name": "Dr Geetanjali Thokal",
+          "qualification": "MD (Ayu Medicine), DYA",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 128, Vision 9 Mall, above Star Bazaar",
+        "locality": "Pimple Saudagar",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411027"
+      },
+      "phone": [
+        "+91 94234 22379",
+        "+91 99606 15648"
+      ],
+      "website": "https://www.healandcareayurveda.com/",
+      "email": "healandcareayurvedaclinic@gmail.com",
+      "hours": "Monday to Saturday, 10:00 am to 1:00 pm and 5:00 pm to 9:00 pm; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vamana, Virechana, Nasya, Basti, Raktamokshana)",
+        "Beej Shuddhi (preconception care)",
+        "Women's health",
+        "Skin and hair care",
+        "Joint care",
+        "Online video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.healandcareayurveda.com/",
+        "practitioners": "https://www.healandcareayurveda.com/",
+        "address": "https://www.healandcareayurveda.com/",
+        "phone": "https://www.healandcareayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr Geetanjali has become our first point of contact for any illness or medical advice.",
+          "attribution": "Kunal Chaudhari",
+          "url": "https://www.healandcareayurveda.com/"
+        },
+        {
+          "excerpt": "Best ayurvedic doctor I came across.",
+          "attribution": "Amruta Kadam",
+          "url": "https://www.healandcareayurveda.com/"
+        },
+        {
+          "excerpt": "Doctor has very deep knowledge of ayurved.",
+          "attribution": "Deepak Ugale",
+          "url": "https://www.healandcareayurveda.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/heal-care-ayurveda-and-panchakarma-pimple-saudagar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "heal-and-care-ayurveda-clinic-pimple-saudagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Pimple Saudagar (Pimple Gurav page)",
+      "practitioners": [
+        {
+          "name": "Dr Surekha Somnath Burud",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H-102, 1st Floor, La Vida Loca Commercial Complex, Kate Wasti Road, near Govind Garden Restaurant",
+        "locality": "Pimple Saudagar",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411027"
+      },
+      "phone": [
+        "+91 78880 35060"
+      ],
+      "website": "https://madhavbaug.org/clinic/pimple-saudagar-pune/",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, closed Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/pimple-saudagar-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/pimple-saudagar-pune/",
+        "address": "https://madhavbaug.org/clinic/pimple-saudagar-pune/",
+        "phone": "https://madhavbaug.org/clinic/pimple-saudagar-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-pimple-saudagar-pimple-gurav"
+    },
+    {
+      "practiceName": "Pranav Ayurveda Panchakarma Clinic, Pimple Saudagar",
+      "practitioners": [
+        {
+          "name": "Dr Priti M. Deshmukh",
+          "qualification": "BAMS, M.D. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "RH No. 1, Sai Orchards, near Govind Garden Hotel",
+        "locality": "Pimple Saudagar",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411027"
+      },
+      "phone": [
+        "+91 85300 56156"
+      ],
+      "website": "https://www.pranavayurveda.com/",
+      "email": null,
+      "hours": "Tuesday and Wednesday 10:00 am to 12:30 pm and 5:30 pm to 8:00 pm; 2nd and 4th Friday same times; 1st, 3rd and 5th Saturday 9:30 am to 4:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Garbhasanskar counselling",
+        "Suvarnaprashan",
+        "Ayurvedic massage",
+        "Rejuvenation and beauty care"
+      ],
+      "sources": {
+        "practiceName": "https://www.pranavayurveda.com/",
+        "practitioners": "https://www.pranavayurveda.com/",
+        "address": "https://www.pranavayurveda.com/",
+        "phone": "https://www.pranavayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr Priti is the best Doctor in her field. She has all the listening skills which a doctor should have.",
+          "attribution": "Anagha Joshi",
+          "url": "https://www.pranavayurveda.com/"
+        },
+        {
+          "excerpt": "She is so patient and understanding. She gives a lot of time to each patient to understand their problem.",
+          "attribution": "Mallika Ghosh",
+          "url": "https://www.pranavayurveda.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/sterling-health-box-multispeciality-clinic-pimple-saudagar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "pranav-ayurveda-panchakarma-clinic-pimple-saudagar"
+    },
+    {
+      "practiceName": "Shree Vishwapranaya Ayurved & Panchakarma Clinic, Pimple Saudagar",
+      "practitioners": [
+        {
+          "name": "Dr Krishna Chavan",
+          "qualification": "BAMS, M.D. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Seven Star Lane, near K.E.T. Public School, Mithila Nagari",
+        "locality": "Pimple Saudagar",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411027"
+      },
+      "phone": [
+        "+91 80480 48086"
+      ],
+      "website": "https://www.shreevishwapranayaayurved.com/",
+      "email": "krishnachavan147@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Hair and skin care",
+        "Lifestyle disorder management",
+        "Joint and spine care",
+        "Diet counselling"
+      ],
+      "sources": {
+        "practiceName": "https://www.shreevishwapranayaayurved.com/",
+        "practitioners": "https://www.shreevishwapranayaayurved.com/",
+        "address": "https://www.shreevishwapranayaayurved.com/",
+        "phone": "https://www.shreevishwapranayaayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-vishwapranaya-ayurved-and-panchakarma-clinic-pimple"
+    },
+    {
+      "practiceName": "Dr Nair's Center for Ayurveda and Panchakarma, Pimpri",
+      "practitioners": [
+        {
+          "name": "Dr Baiju K. Nair",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 57/4, Kohinoor Housing Society, near Bank of Maharashtra, opposite Vitthal Temple, Masulkar Colony, Ajmera Road",
+        "locality": "Pimpri",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411018"
+      },
+      "phone": [
+        "+91 98222 96862",
+        "+91 81490 09631"
+      ],
+      "website": "https://www.drnairsayurveda.com/",
+      "email": "nairbaiju@yahoo.com",
+      "hours": "Monday to Saturday, 10:00 am to 1:00 pm and 6:00 pm to 9:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vaman, Virechana, Raktamokshan, Nasya, Basti)",
+        "Spine and joint care",
+        "Skin care",
+        "Digestive care"
+      ],
+      "sources": {
+        "practiceName": "https://www.drnairsayurveda.com/",
+        "practitioners": "https://www.drnairsayurveda.com/about-us/",
+        "address": "https://www.drnairsayurveda.com/contact-us/",
+        "phone": "https://www.drnairsayurveda.com/contact-us/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I have no hesitation in recommending Dr. Nair's Ayurvedic Clinic",
+          "attribution": "Mrs. Santhammal",
+          "url": "https://www.drnairsayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-nair-s-center-for-ayurveda-and-panchakarma-pimpri"
+    },
+    {
+      "practiceName": "Dr. D. Y. Patil College of Ayurved and Research Centre (Ayurved Hospital), Pimpri",
+      "practitioners": [
+        {
+          "name": "Dr Prashant Annaso Khade",
+          "qualification": "B.A.M.S, M.D, PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Mamta Mahadevrao Nakade",
+          "qualification": "B.A.M.S, M.D, PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Swapnali Prakashrao Hiwrale",
+          "qualification": "B.A.M.S, M.S, MBA",
+          "registration": null
+        },
+        {
+          "name": "Dr Urmila Jijaba Shirke",
+          "qualification": "MD, Ph.D. (Swasthavritta)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pradnya Vijay Shirke",
+          "qualification": "MS, Ph.D. (Prasuti evam Streeroga)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sant Tukaram Nagar",
+        "locality": "Pimpri",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411018"
+      },
+      "phone": [
+        "+91 20 6711 6421",
+        "+91 20 6711 6422",
+        "+91 20 6711 6420",
+        "+91 20 2780 5899"
+      ],
+      "website": "https://ayurved.dpu.edu.in/",
+      "email": "info.ayurved@dypvp.edu.in",
+      "hours": null,
+      "services": [
+        "Ayurveda OPD (12 departments) and IPD (325 beds)",
+        "Panchakarma",
+        "Paralysis Ayurved Treatment Centre",
+        "Kriya-kalp (ENT and eye)",
+        "Swasthavritta clinic",
+        "Suvarnaprashan",
+        "Garbhasanskar",
+        "Operation theatres, ICU, NICU, 24x7 ambulance"
+      ],
+      "sources": {
+        "practiceName": "https://ayurved.dpu.edu.in/about-hospital.aspx",
+        "practitioners": "https://ayurved.dpu.edu.in/panel-doctors.aspx",
+        "address": "https://ayurved.dpu.edu.in/contact-us.aspx",
+        "phone": "https://ayurved.dpu.edu.in/contact-us.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-d-y-patil-college-of-ayurved-and-research-centre-ayurved"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Morwadi, Pimpri",
+      "practitioners": [
+        {
+          "name": "Dr Shital More-Mhaisane",
+          "qualification": "BAMS, M.D.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Row House No 2, Sukhwani Residency, near Morjai Ganesh Mandir, Morwadi",
+        "locality": "Pimpri",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411018"
+      },
+      "phone": [
+        "+91 73784 43322",
+        "+91 97654 43322"
+      ],
+      "website": "https://madhavbaug.org/clinic/pimpri-morwadi-pune/",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, closed Wednesday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/pimpri-morwadi-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/pimpri-morwadi-pune/",
+        "address": "https://madhavbaug.org/clinic/pimpri-morwadi-pune/",
+        "phone": "https://madhavbaug.org/clinic/pimpri-morwadi-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-morwadi-pimpri"
+    },
+    {
+      "practiceName": "Snehadip Ayurveda & Panchakarma Center, Pimpri",
+      "practitioners": [
+        {
+          "name": "Dr D. G. Dipankar",
+          "qualification": "M.D. (Ayurveda) Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Snehal D. Dipankar",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Jagruti Housing Society, Ajmera Main Road, near State Bank of India, T-Sector, Pimpri Colony",
+        "locality": "Pimpri",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411018"
+      },
+      "phone": [
+        "+91 91564 73172"
+      ],
+      "website": "https://www.snehadipayurveda.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Garbhasanskar",
+        "Suvarnaprashan",
+        "Skin care",
+        "Bone and joint care",
+        "Digestive and liver care",
+        "Women's health",
+        "Paediatric care"
+      ],
+      "sources": {
+        "practiceName": "https://www.snehadipayurveda.com/",
+        "practitioners": "https://www.snehadipayurveda.com/our-doctors/",
+        "address": "https://www.snehadipayurveda.com/contact-us/",
+        "phone": "https://www.snehadipayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "snehadip-ayurveda-and-panchakarma-center-pimpri"
+    },
+    {
+      "practiceName": "Amrut Ayurved & Kerala Panchakarma, Rahatani",
+      "practitioners": [
+        {
+          "name": "Dr Shilpa Jungare (Tayade)",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rajesh Tayade",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4th Floor, Shubhchandra, Nakhate Vasti Chowk, Kalewadi - Rahatani Road",
+        "locality": "Rahatani",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411017"
+      },
+      "phone": [
+        "+91 80805 09922",
+        "+91 96658 36737"
+      ],
+      "website": "https://www.amrutayurved.com/",
+      "email": "dramrutayu@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Kerala Panchakarma (Vaman, Virechan, Basti, Nasya, Raktamokshana)",
+        "Udwartana",
+        "Takradhara",
+        "Shirodhara",
+        "Netratarpan",
+        "Uttar Basti",
+        "Beej Shuddhi",
+        "Skin and hair care",
+        "Spine and joint care",
+        "Tele-consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.amrutayurved.com/",
+        "practitioners": "https://www.amrutayurved.com/wakad/about-us",
+        "address": "https://www.amrutayurved.com/",
+        "phone": "https://www.amrutayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "amrut-ayurved-and-kerala-panchakarma-rahatani"
+    },
+    {
+      "practiceName": "Vishwashreeja Ayurvedic Clinic & Panchkarma Centre, Ravet",
+      "practitioners": [
+        {
+          "name": "Dr Neha Kulkarni-Pimpale",
+          "qualification": "B.A.M.S., M.D. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 03, 101 High Street Mall, beside Pharande Felicity, Celestial City Road",
+        "locality": "Ravet",
+        "city": "Pimpri-Chinchwad",
+        "pin": "412101"
+      },
+      "phone": [
+        "+91 94213 41270"
+      ],
+      "website": "https://www.vishwashreejaayurveda.com/",
+      "email": "vishwashreeja@gmail.com",
+      "hours": "9:00 am to 8:00 pm; Wednesday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Snehan, Swedan, Vaman, Virechana, Basti, Raktamokshan, Nasya)",
+        "Shirodhara",
+        "Garbhasanskar",
+        "Suvarnaprashan",
+        "Uttar Basti",
+        "Women's health"
+      ],
+      "sources": {
+        "practiceName": "https://www.vishwashreejaayurveda.com/",
+        "practitioners": "https://www.vishwashreejaayurveda.com/dr-neha-kulkarni-pimpale",
+        "address": "https://www.vishwashreejaayurveda.com/dr-neha-kulkarni-pimpale",
+        "phone": "https://www.vishwashreejaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vishwashreeja-ayurvedic-clinic-and-panchkarma-centre-ravet"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Hinjawadi (Wakad)",
+      "practitioners": [
+        {
+          "name": "Dr Swati Ambulkar",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office 1, First Floor, Sakar Apartments, Dange Chowk to Laxmi Chowk Road, near CNG Pump, Survey No 91/1",
+        "locality": "Wakad",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411057"
+      },
+      "phone": [
+        "+91 70571 10967"
+      ],
+      "website": "https://madhavbaug.org/clinic/hinjewadi-pune/",
+      "email": null,
+      "hours": "9:00 am to 6:00 pm, closed Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/hinjewadi-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/hinjewadi-pune/",
+        "address": "https://madhavbaug.org/clinic/hinjewadi-pune/",
+        "phone": "https://madhavbaug.org/clinic/hinjewadi-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-hinjawadi-wakad"
+    },
+    {
+      "practiceName": "Maha Ayurved, Wakad",
+      "practitioners": [
+        {
+          "name": "Dr Ravindra Borade",
+          "qualification": "BAMS (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Seema Kadam",
+          "qualification": "BAMS, MD (Striroga)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Arogyam Dhansampada, Vrundavan Society, opposite Orion Hospital, Datta Mandir Road",
+        "locality": "Wakad",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411057"
+      },
+      "phone": [
+        "+91 70382 43375"
+      ],
+      "website": "https://mahayurved.com/",
+      "email": "mahayurvedinfo@gmail.com",
+      "hours": "Thursday and Saturday, 7:00 am to 2:00 pm (call before visiting)",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya)",
+        "Shirodhara",
+        "Women's health",
+        "Skin and hair care",
+        "Joint and spine care",
+        "Digestive and metabolic care"
+      ],
+      "sources": {
+        "practiceName": "https://mahayurved.com/contact-us/",
+        "practitioners": "https://mahayurved.com/contact-us/",
+        "address": "https://mahayurved.com/contact-us/",
+        "phone": "https://mahayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "maha-ayurved-wakad"
+    },
+    {
+      "practiceName": "Siddhi Ayurved & Panchkarma Clinic, Wakad",
+      "practitioners": [
+        {
+          "name": "Dr Shraddha Pankaj Chaudhari",
+          "qualification": "BAMS, MD (A.M.)",
+          "registration": {
+            "number": "159244-A",
+            "source": "https://www.siddhiayurved.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Shop No. 106, Pristine Square",
+        "locality": "Wakad",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411057"
+      },
+      "phone": [
+        "+91 80480 37206",
+        "+91 90220 39939"
+      ],
+      "website": "https://www.siddhiayurved.com/",
+      "email": "shraddha.ratnaparakhi25@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Women's health care",
+        "Spine and joint care",
+        "Skin and hair care",
+        "Digestive care",
+        "Weight management",
+        "Stress and sleep care"
+      ],
+      "sources": {
+        "practiceName": "https://www.siddhiayurved.com/",
+        "practitioners": "https://www.siddhiayurved.com/",
+        "address": "https://www.siddhiayurved.com/",
+        "phone": "https://www.siddhiayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "siddhi-ayurved-and-panchkarma-clinic-wakad"
+    },
+    {
+      "practiceName": "Vedang Ayurveda And Panchkarma Clinic, Wakad (Thergaon)",
+      "practitioners": [
+        {
+          "name": "Dr Sachin Rohani",
+          "qualification": "BAMS, MD Ayu, PhD-SCH",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vithai Piles Clinic, Dange Empire, Dange Chowk Road, Thergaon",
+        "locality": "Wakad",
+        "city": "Pimpri-Chinchwad",
+        "pin": "411033"
+      },
+      "phone": [
+        "+91 80481 28796",
+        "+91 98225 92534"
+      ],
+      "website": "https://www.drsachinrohani.com/wakad",
+      "email": "sachinrohani1985@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Bone, joint and spine care",
+        "Nasya",
+        "Shirodhara",
+        "Basti",
+        "Hair and cosmetic care"
+      ],
+      "sources": {
+        "practiceName": "https://www.drsachinrohani.com/wakad",
+        "practitioners": "https://www.drsachinrohani.com/wakad",
+        "address": "https://www.drsachinrohani.com/wakad",
+        "phone": "https://www.drsachinrohani.com/wakad"
+      },
+      "testimonials": [
+        {
+          "excerpt": "One of the best doctor I met in my life. Dr. Sachin Rohani is not only best doctor but also good human being.",
+          "attribution": "Abhilash Kabadi",
+          "url": "https://www.drsachinrohani.com/testimonials/1"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedang-ayurveda-and-panchkarma-clinic-wakad-thergaon"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Ambegaon Budruk",
+      "practitioners": [
+        {
+          "name": "Dr Dhanashri Chetan Mahajan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 406, 4th Floor, Excellaa Plazzo, Near Bharat Petrol Pump",
+        "locality": "Ambegaon Budruk",
+        "city": "Pune",
+        "pin": "411046"
+      },
+      "phone": [
+        "+91 80804 99793"
+      ],
+      "website": "https://madhavbaug.org/clinic/ambegaon-budruk-pune/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/ambegaon-budruk-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/ambegaon-budruk-pune/",
+        "address": "https://madhavbaug.org/clinic/ambegaon-budruk-pune/",
+        "phone": "https://madhavbaug.org/clinic/ambegaon-budruk-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-ambegaon-budruk"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Sinhagad Road (Anand Nagar)",
+      "practitioners": [
+        {
+          "name": "Dr Yogesh Yelmar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 3, 1st Floor, Aaditya Co-op Society, Anand Nagar Chowk, Near Santosh Hall, Sinhgad Road",
+        "locality": "Anand Nagar",
+        "city": "Pune",
+        "pin": "411051"
+      },
+      "phone": [
+        "+91 93735 34353"
+      ],
+      "website": "https://madhavbaug.org/clinic/sinhgad-road-pune",
+      "email": null,
+      "hours": "8:00 AM to 8:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/sinhgad-road-pune",
+        "practitioners": "https://madhavbaug.org/clinic/sinhgad-road-pune",
+        "address": "https://madhavbaug.org/clinic/sinhgad-road-pune",
+        "phone": "https://madhavbaug.org/clinic/sinhgad-road-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-sinhagad-road-anand-nagar"
+    },
+    {
+      "practiceName": "Ayurprevencia Clinic, Aundh",
+      "practitioners": [
+        {
+          "name": "Dr Anagha Kothadia",
+          "qualification": "MD Ayurved (Tilak Ayurved College, Pune)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "251/1, Plot 5/1, Sankalp Park Lane, opposite Aundh Telephone Exchange, behind Shashwat Hospital",
+        "locality": "Aundh",
+        "city": "Pune",
+        "pin": "411007"
+      },
+      "phone": [
+        "+91 97667 07516"
+      ],
+      "website": "https://www.ayurprevencia.in/",
+      "email": "ayurprevencia@gmail.com",
+      "hours": "Open seven days a week (times not published)",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vaman, Virechana, Basti, Nasya, Raktamokshan)",
+        "Shirodhara",
+        "Netra Tarpan",
+        "Udvartana",
+        "Pinda Swed",
+        "Yoga therapy",
+        "Skin, hair and women's care"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurprevencia.in/",
+        "practitioners": "https://ayurprevencia.in/ayurvedic-doctor-in-aundh-pune.php",
+        "address": "https://www.ayurprevencia.in/contacts.php",
+        "phone": "https://www.ayurprevencia.in/contacts.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurprevencia-clinic-aundh"
+    },
+    {
+      "practiceName": "Dr. Nambiar's Advanced Ayurveda, Aundh",
+      "practitioners": [
+        {
+          "name": "Dr Rajeev Keloth Nambiar",
+          "qualification": "BAMS, MD (Ayurveda Medicine, Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No. 501, Lotus Ridhi, Kotbagi Hospital Lane",
+        "locality": "Aundh",
+        "city": "Pune",
+        "pin": "411067"
+      },
+      "phone": [
+        "+91 80480 30818",
+        "+91 98229 68437"
+      ],
+      "website": "https://www.drnambiarsayurveda.com/",
+      "email": "ayurbiotic@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Kayachikitsa",
+        "Spine, nerve and joint care",
+        "Autoimmune and skin care",
+        "Respiratory care"
+      ],
+      "sources": {
+        "practiceName": "https://www.drnambiarsayurveda.com/",
+        "practitioners": "https://www.drnambiarsayurveda.com/",
+        "address": "https://www.drnambiarsayurveda.com/",
+        "phone": "https://www.drnambiarsayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr. Rajeev Nambiar's Ayurvedic clinic provides excellent and qualitative treatment.",
+          "attribution": "Dr. Mrs. Vijaya Lakshmi",
+          "url": "https://www.drnambiarsayurveda.com/testimonials/1"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-nambiar-s-advanced-ayurveda-aundh"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Aundh",
+      "practitioners": [
+        {
+          "name": "Dr Jyoti Kshirsagar",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "DP Road, above Bank of Maharashtra, Sindh Society, Sadhu Vasvani Nagar",
+        "locality": "Aundh",
+        "city": "Pune",
+        "pin": "411007"
+      },
+      "phone": [
+        "+91 77208 92299"
+      ],
+      "website": "https://madhavbaug.org/clinic/aundh-pune/",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, closed Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "ECG, TMT and lifestyle risk assessment",
+        "Diet and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/aundh-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/aundh-pune/",
+        "address": "https://madhavbaug.org/clinic/aundh-pune/",
+        "phone": "https://madhavbaug.org/clinic/aundh-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-aundh"
+    },
+    {
+      "practiceName": "Vedacare Ayurved & Panchakarma Clinic, Aundh",
+      "practitioners": [
+        {
+          "name": "Dr Harshal Nemade",
+          "qualification": "BAMS, MD-AM, ADYA",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No 1, First Floor, Sahil Apartment, Parihar Chowk, ITI Road, Sindh Society, Sadhu Vasvani Nagar",
+        "locality": "Aundh",
+        "city": "Pune",
+        "pin": "411067"
+      },
+      "phone": [
+        "+91 91750 69155"
+      ],
+      "website": "https://vedacareayurveda.com/",
+      "email": null,
+      "hours": "Monday to Saturday, 10:30 am to 1:30 pm and 6:00 pm to 8:30 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vaman, Virechan, Basti, Nasya, Raktamokshan)",
+        "Shirodhara",
+        "Abhyanga",
+        "Swedan",
+        "Kati Basti",
+        "Janu Basti",
+        "Takradhara",
+        "Pizhichil",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://vedacareayurveda.com/",
+        "practitioners": "https://vedacareayurveda.com/",
+        "address": "https://vedacareayurveda.com/",
+        "phone": "https://vedacareayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr. Harshal Nemade is very knowledgeable and experienced.",
+          "attribution": "Pankaj B.",
+          "url": "https://vedacareayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedacare-ayurved-and-panchakarma-clinic-aundh"
+    },
+    {
+      "practiceName": "Aatreya Ayurveda Clinic (Panchakarma and Infertility Clinic), Balewadi",
+      "practitioners": [
+        {
+          "name": "Dr Sagar Pampattiwar",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Nomina Pampattiwar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 102, 1st Floor, B Wing, Windsor Residency, Balewadi Phata, near Pan Card Club Road",
+        "locality": "Balewadi",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 91585 63433",
+        "+91 91704 86803"
+      ],
+      "website": "https://aatreyaayurveda.in/",
+      "email": "sagarpampattiwar@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Beejashudhi Sanskar",
+        "Uttarbasti",
+        "Suvarna Prashan",
+        "General Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://aatreyaayurveda.in/",
+        "practitioners": "https://aatreyaayurveda.in/",
+        "address": "https://aatreyaayurveda.in/",
+        "phone": "https://aatreyaayurveda.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/aatreya-ayurvedic-panchakarma-infertility-clinic-baner"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "aatreya-ayurveda-clinic-panchakarma-and-infertility-clinic"
+    },
+    {
+      "practiceName": "Gynovitaa Fertility & Wellness Clinic (Dr. Pradnya Dole Ayurveda Panchakarma & Infertility Clinic), Balewadi",
+      "practitioners": [
+        {
+          "name": "Dr Pradnya Dole",
+          "qualification": "BAMS, Fellowship in Gynecology & Infertility, Master of Ayurvedic Dietetics, MSc Psychology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A401, Sai Ankur, opposite F-Residences",
+        "locality": "Balewadi",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 88559 55508",
+        "+91 77093 92761"
+      ],
+      "website": "https://www.gynovita.com/",
+      "email": "gynovita.pune@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic fertility and gynaecology consultation",
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Abhyanga",
+        "Sweda",
+        "Nasya",
+        "Uttar Basti",
+        "Kati Basti",
+        "Shirodhara",
+        "Lepan therapy",
+        "Yoga and diet guidance"
+      ],
+      "sources": {
+        "practiceName": "https://www.gynovita.com/",
+        "practitioners": "https://www.gynovita.com/",
+        "address": "https://www.gynovita.com/",
+        "phone": "https://www.gynovita.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "gynovitaa-fertility-and-wellness-clinic-dr-pradnya-dole"
+    },
+    {
+      "practiceName": "Ayurvedgram, Baner",
+      "practitioners": [
+        {
+          "name": "Dr Sadanand Sardeshmukh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sukumar Sardeshmukh",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "18 High Street, Baner - Pashan Link Road",
+        "locality": "Baner",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 93704 66953",
+        "+91 91124 66470"
+      ],
+      "website": "https://ayurvedgram.in/",
+      "email": "info@ayurvedgram.in",
+      "hours": "Monday to Sunday, 9:00 am to 9:00 pm",
+      "services": [
+        "Ayurvedic consultation (Chikitsalaya)",
+        "Panchakarma",
+        "Abhyangam",
+        "Steam bath",
+        "Ayurvedic cosmetic therapies",
+        "Ayurvedic products store",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedgram.in/",
+        "practitioners": "https://ayurvedgram.in/",
+        "address": "https://ayurvedgram.in/",
+        "phone": "https://ayurvedgram.in/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Excellent service with proper explanation.",
+          "attribution": "Sanjay Kulkarni",
+          "url": "https://ayurvedgram.in/"
+        },
+        {
+          "excerpt": "Excellent therapy very professionally done value for money.",
+          "attribution": "Dr Archana",
+          "url": "https://ayurvedgram.in/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurvedgram-baner"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Baner Balewadi",
+      "practitioners": [
+        {
+          "name": "Dr Mayuri Pradeepkumar Kudchi",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No 402, Decent Home Apartment, Lalit Estate, opposite Urbo Experience, near Ganraj Chowk",
+        "locality": "Baner",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 90223 63092"
+      ],
+      "website": "https://madhavbaug.org/clinic/baner-balewadi-pune/",
+      "email": null,
+      "hours": "10:00 am to 7:00 pm, closed Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/baner-balewadi-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/baner-balewadi-pune/",
+        "address": "https://madhavbaug.org/clinic/baner-balewadi-pune/",
+        "phone": "https://madhavbaug.org/clinic/baner-balewadi-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-baner-balewadi"
+    },
+    {
+      "practiceName": "NormoLife Ayurvedic Clinic & Panchakarma Treatments (Dr. Benade's), Baner",
+      "practitioners": [
+        {
+          "name": "Dr Shekhar Benade",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "301, Avenue Daffodils, near Balewadi High Street",
+        "locality": "Baner",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 88888 80244"
+      ],
+      "website": "https://ayurveda.normolife.in/",
+      "email": null,
+      "hours": "Monday to Sunday, 10:00 am to 9:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Padabhyanga",
+        "Janu Basti",
+        "Nasya",
+        "Swedana",
+        "Joint, spine, skin and hair care"
+      ],
+      "sources": {
+        "practiceName": "https://ayurveda.normolife.in/",
+        "practitioners": "https://ayurveda.normolife.in/",
+        "address": "https://ayurveda.normolife.in/",
+        "phone": "https://ayurveda.normolife.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/normolife-ayurvedic-clinic-panchakarma-treatments-bavdhan"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "normolife-ayurvedic-clinic-and-panchakarma-treatments-dr"
+    },
+    {
+      "practiceName": "Vishwankur Ayurveda And Panchakarma, Baner",
+      "practitioners": [
+        {
+          "name": "Dr Sachin Gaikwad Patil",
+          "qualification": "BAMS, MD",
+          "registration": {
+            "number": "A-66633",
+            "source": "https://www.vishwankurayurvedapune.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "ONE+ Whitewater, Pan Card Club Road, near Zenistry Apartment",
+        "locality": "Baner",
+        "city": "Pune",
+        "pin": "411045"
+      },
+      "phone": [
+        "+91 80480 35415",
+        "+91 76208 90670"
+      ],
+      "website": "https://www.vishwankurayurvedapune.com/",
+      "email": "drsachin.ayu87@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Basti, Virechana, Vaman)",
+        "Shirodhara",
+        "Kati Basti",
+        "Swedana",
+        "Suvarna Prashan",
+        "Women's health and fertility care",
+        "Spine, joint, skin and hair care"
+      ],
+      "sources": {
+        "practiceName": "https://www.vishwankurayurvedapune.com/",
+        "practitioners": "https://www.vishwankurayurvedapune.com/",
+        "address": "https://www.vishwankurayurvedapune.com/",
+        "phone": "https://www.vishwankurayurvedapune.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vishwankur-ayurveda-and-panchakarma-baner"
+    },
+    {
+      "practiceName": "Ayurvishwa Healthcare, Bibwewadi clinic",
+      "practitioners": [
+        {
+          "name": "Dr Vishwas Ghatge",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "C/o Dr. Vilas Dhere Clinic, Ramyanagari Society, B Building, 1st Floor, Beside Suhag Mangal Karyalaya, Near Medical World Shop",
+        "locality": "Bibwewadi",
+        "city": "Pune",
+        "pin": "411037"
+      },
+      "phone": [
+        "+91 84484 49260"
+      ],
+      "website": "https://ayurvishwahealthcare.com/ayurvedic-company-india/clinics/pune/bibwewadi/",
+      "email": "info@ayurvishwahealthcare.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation (in-clinic and online)",
+        "Nadi Pariksha"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvishwahealthcare.com/ayurvedic-company-india/clinics/pune/bibwewadi/",
+        "practitioners": "https://ayurvishwahealthcare.com/ayurvedic-company-india/clinics/pune/bibwewadi/",
+        "address": "https://ayurvishwahealthcare.com/ayurvedic-company-india/clinics/pune/bibwewadi/",
+        "phone": "https://ayurvishwahealthcare.com/ayurvedic-company-india/clinics/pune/bibwewadi/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurvishwa-healthcare-bibwewadi-clinic"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Bibwewadi",
+      "practitioners": [
+        {
+          "name": "Dr Varsha Vikas Mane",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "687/2 A, Rajarshi Shahu Society, 2 PL A2 Kondhwa Road, Opposite Bank of Maharashtra",
+        "locality": "Bibwewadi",
+        "city": "Pune",
+        "pin": "411037"
+      },
+      "phone": [
+        "+91 76208 04833",
+        "+91 81808 14121"
+      ],
+      "website": "https://madhavbaug.org/clinic/bibwevadi-pune/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance",
+        "ECG",
+        "Stress test (TMT)",
+        "Blood pressure and blood sugar checks"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/bibwevadi-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/bibwevadi-pune/",
+        "address": "https://madhavbaug.org/clinic/bibwevadi-pune/",
+        "phone": "https://madhavbaug.org/clinic/bibwevadi-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-bibwewadi"
+    },
+    {
+      "practiceName": "Shree Ayurved and Panchakarma Hospital, Chandan Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Prashant Daundkar Patil",
+          "qualification": "BAMS, DYA, MD (Ayurved Preventive & Social Medicine)",
+          "registration": null
+        },
+        {
+          "name": "Dr Priya Daundkar Patil",
+          "qualification": "Ayurvedacharya, Yog Ayurved Padvika",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sr. No. 43, Behind Balaji Hospital, Pune Nagar Road",
+        "locality": "Chandan Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 89569 89541",
+        "+91 98504 98075",
+        "+91 99221 46452"
+      ],
+      "website": "https://www.ayurvedandpanchakarma.com/",
+      "email": "shreeayurvedapune@gmail.com",
+      "hours": "7:00 AM to 9:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Nasya, Basti, Virechan, Vaman, Raktamokshan)",
+        "Ksharsutra",
+        "Physiotherapy and yoga",
+        "Garbhasanskar",
+        "Inpatient care and ICU",
+        "Pharmacy",
+        "Cashless mediclaim facility"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedandpanchakarma.com/about-us.html",
+        "practitioners": "https://www.ayurvedandpanchakarma.com/about-us.html",
+        "address": "https://www.ayurvedandpanchakarma.com/contact-us.html",
+        "phone": "https://www.ayurvedandpanchakarma.com/contact-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/doctor/dr-prashant-daundkar-patil-ayurveda"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "shree-ayurved-and-panchakarma-hospital-chandan-nagar"
+    },
+    {
+      "practiceName": "Astro Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Subodh Jagdale",
+          "qualification": "Graduate in Ayurveda (Tilak Ayurveda Mahavidyalaya, Pune); MPM",
+          "registration": null
+        },
+        {
+          "name": "Dr Leena Jagdale",
+          "qualification": "M.D. (Ayurveda Medicine), Tilak Ayurveda Mahavidyalaya, Pune",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bhandarkar Road",
+        "locality": "Deccan Gymkhana",
+        "city": "Pune",
+        "pin": "411004"
+      },
+      "phone": [
+        "+91 98906 72315",
+        "+91 98508 21159"
+      ],
+      "website": "https://astroayurved.com/",
+      "email": "contact@astroayurved.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Geriatric care",
+        "Gynaecology",
+        "Paediatrics"
+      ],
+      "sources": {
+        "practiceName": "https://astroayurved.com/contact-ayurveda-clinic-pune/",
+        "practitioners": "https://astroayurved.com/ayurveda-physician-pune/",
+        "address": "https://astroayurved.com/contact-ayurveda-clinic-pune/",
+        "phone": "https://astroayurved.com/contact-ayurveda-clinic-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "astro-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Bharati Vidyapeeth (Deemed to be University) College of Ayurved and Hospital (Bharati Ayurved Hospital), Dhankawadi (NABH accredited Ayurveda teaching hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Shubhangi R. Katkar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Santosh E. Chavan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Minaj A. Dhage",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Asmita Jagtap",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bharati Vidyapeeth Educational Campus, Pune-Satara Road, Dhankawadi",
+        "locality": "Dhankawadi",
+        "city": "Pune",
+        "pin": "411043"
+      },
+      "phone": [
+        "+91 20 4055 5600",
+        "+91 20 4055 5666",
+        "+91 20 2437 3954"
+      ],
+      "website": "https://bharatiayurvedhospital.com/",
+      "email": "coayurved@bharatividyapeeth.edu",
+      "hours": "OPD Monday to Saturday 9:00 AM to 5:00 PM; casualty 24x7",
+      "services": [
+        "Kayachikitsa OPD",
+        "Panchakarma",
+        "Executive Panchakarma Centre",
+        "Shalya Tantra",
+        "Shalakya Tantra (Netra and Karna-Nasa-Mukha)",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarbhritya",
+        "Swasthavritta",
+        "Agadtantra",
+        "Swarnaprashana OPD",
+        "Ksharakarma",
+        "Agnikarma",
+        "Yoga and Naturopathy",
+        "Physiotherapy",
+        "Inpatient care"
+      ],
+      "sources": {
+        "practiceName": "https://coayurved.bharatividyapeeth.edu/site/hospital",
+        "practitioners": "https://coayurved.bharatividyapeeth.edu/site/hospital",
+        "address": "https://bharatiayurvedhospital.com/",
+        "phone": "https://coayurved.bharatividyapeeth.edu/site/hospital"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "bharati-vidyapeeth-deemed-to-be-university-college-of"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Dhayari",
+      "practitioners": [
+        {
+          "name": "Dr Anuradha Saurabh Deshpande",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ground Floor, Sawali Building, Opp. New Golden Bakery, Dhayari Phata Chowk",
+        "locality": "Dhayari",
+        "city": "Pune",
+        "pin": "411068"
+      },
+      "phone": [
+        "+91 87882 59567"
+      ],
+      "website": "https://madhavbaug.org/clinic/dhayari-pune/",
+      "email": null,
+      "hours": "7:00 AM to 8:00 PM, all days",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/dhayari-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/dhayari-pune/",
+        "address": "https://madhavbaug.org/clinic/dhayari-pune/",
+        "phone": "https://madhavbaug.org/clinic/dhayari-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-dhayari"
+    },
+    {
+      "practiceName": "Shree Vishwadatta Ayurved Panchakarma and Research Center (Ayurvedic Child Healthcare Center), Dhayari Phata",
+      "practitioners": [
+        {
+          "name": "Dr Arvind Tulshiramji Mehare",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Aditi Arvind Mehare",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shree Gajanan Ashish, D Wing, Above Jijamata Bank, Near Siddharth Complex, Sinhagad Road, Dhayari Phata",
+        "locality": "Dhayari",
+        "city": "Pune",
+        "pin": "411041"
+      },
+      "phone": [
+        "+91 96571 95950",
+        "+91 96571 95951"
+      ],
+      "website": "https://childayurved.com/",
+      "email": "childayurved@gmail.com",
+      "hours": "Monday to Saturday, morning 10 am to 1 pm and evening 5 pm to 9 pm",
+      "services": [
+        "Panchakarma",
+        "Basti",
+        "Snehan",
+        "Swedan",
+        "Vaman",
+        "Virechan",
+        "Nasya",
+        "Shirodhara",
+        "Raktamokshan",
+        "Padabhyanga",
+        "Agni Karma",
+        "Kati Basti",
+        "Nadi Pariksha",
+        "Prakriti Parikshana",
+        "Suvarna Prashana",
+        "Child healthcare consultation",
+        "Counselling"
+      ],
+      "sources": {
+        "practiceName": "https://childayurved.com/dr-arvind-mehare/",
+        "practitioners": "https://childayurved.com/dr-arvind-mehare/",
+        "address": "https://childayurved.com/location/",
+        "phone": "https://childayurved.com/location/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-vishwadatta-ayurved-panchakarma-and-research-center"
+    },
+    {
+      "practiceName": "Ayurdharma Ayurvedic Clinic And Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Aishwary P Supekar",
+          "qualification": "BAMS, MD - Ayurveda Medicine, PGDEMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Swaroop Apartment, off Khilare-Patil Road, beside Reliance Trends Mall, opposite Saichaya Misal House, Raja Mantri Udyan Chowk",
+        "locality": "Erandwane",
+        "city": "Pune",
+        "pin": "411004"
+      },
+      "phone": [
+        "+91 90969 64437"
+      ],
+      "website": "http://www.ayurdharmaclinic.com/",
+      "email": "aishwary_supekar@yahoo.co.in",
+      "hours": "11 am to 1.30 pm and 5 to 8 pm; Sunday closed",
+      "services": [
+        "Panchakarma",
+        "Diet and lifestyle consultation",
+        "Computerised Nadi Parikshan"
+      ],
+      "sources": {
+        "practiceName": "http://www.ayurdharmaclinic.com/contact.html",
+        "practitioners": "http://www.ayurdharmaclinic.com/about.html",
+        "address": "http://www.ayurdharmaclinic.com/contact.html",
+        "phone": "http://www.ayurdharmaclinic.com/contact.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very much satisfied with the overall experience.",
+          "attribution": "Suvarna Patil",
+          "url": "http://www.ayurdharmaclinic.com/"
+        },
+        {
+          "excerpt": "I would love to recommend this doctor to anyone.",
+          "attribution": "Chandrashekhar Pathak",
+          "url": "http://www.ayurdharmaclinic.com/"
+        },
+        {
+          "excerpt": "I will recommend him to ofhers as well for ayurvedic treatment",
+          "attribution": "Pooja Saini",
+          "url": "http://www.ayurdharmaclinic.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/doctor/aishwary-p-supekar-ayurveda"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "ayurdharma-ayurvedic-clinic-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Deenanath Mangeshkar Hospital, Department of Ayurveda and Integrative Medicine (DMH Ayurved)",
+      "practitioners": [
+        {
+          "name": "Dr Dhananjay Kulkarni",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vaibhav Mehta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Rahalkar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Girish Sarade",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sharad Vidhate",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pankaj Wanjarkhedkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Deenanath Mangeshkar Hospital and Research Center, near Mhatre Bridge",
+        "locality": "Erandwane",
+        "city": "Pune",
+        "pin": "411004"
+      },
+      "phone": [
+        "+91 20 4915 2401",
+        "+91 20 4015 1100",
+        "+91 20 4015 1000"
+      ],
+      "website": "https://www.dmhospital.org/specialty-details/AYURVED",
+      "email": "ayurved@dmhospital.org",
+      "hours": "Ayurved OPD Monday to Saturday, doctor-wise: Mon 10 am to 1 pm and 3 to 5 pm; Tue 10 am to 1 pm and 2 to 7 pm; Wed 10 am to 1 pm; Thu 10 am to 3 pm and 3 to 5 pm; Fri 10 am to 1 pm and 2 to 7 pm; Sat 10 am to 1 pm",
+      "services": [
+        "Ayurveda OPD",
+        "Panchakarma",
+        "Panchakarma day care",
+        "Limited IPD",
+        "Ayurveda pharmacy",
+        "Yoga therapy",
+        "Meditation unit",
+        "Music therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.dmhospital.org/specialty-details/AYURVED",
+        "practitioners": "https://www.dmhospital.org/specialty-details/AYURVED",
+        "address": "https://www.dmhospital.org",
+        "phone": "https://www.dmhospital.org/specialty-details/AYURVED"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "deenanath-mangeshkar-hospital-department-of-ayurveda-and"
+    },
+    {
+      "practiceName": "Amrut Ayu Care, Ayurvedic Clinic & Panchakarma Centre, Ghorpadi",
+      "practitioners": [
+        {
+          "name": "Dr Prashant Amrutkar",
+          "qualification": "M.D. (Ayurveda), PhD Scholar (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Amruta Amrutkar",
+          "qualification": "M.D. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. B-10, Solace Park, BT Kawade Road, Opp. Kalashankar Bus Stop",
+        "locality": "Ghorpadi",
+        "city": "Pune",
+        "pin": "411001"
+      },
+      "phone": [
+        "+91 80480 50185",
+        "+91 86982 82507"
+      ],
+      "website": "https://www.amrutayucare.in/",
+      "email": "doctor@amrutayucare.in",
+      "hours": "Mon to Thu 10 AM to 2 PM; Friday afternoon (as printed: 3 PM onward)",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Nasya",
+        "Virechana",
+        "Vamana",
+        "Anuvasana Basti",
+        "Niruha Basti",
+        "Netra Tarpan",
+        "Takradhara",
+        "Janu Basti",
+        "Kati Basti",
+        "Manya Basti",
+        "Pinda Sweda",
+        "Agnikarma",
+        "Leech therapy",
+        "Abhyangam",
+        "Ksharsutra",
+        "Suvarnaprashana",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.amrutayucare.in/",
+        "practitioners": "https://www.amrutayucare.in/",
+        "address": "https://www.amrutayucare.in/",
+        "phone": "https://www.amrutayucare.in/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I visited Dr. Prashant Amrutkar for Netra Basti sessions, a traditional Ayurvedic therapy",
+          "attribution": "Ajoy Bharadwaj",
+          "url": "https://www.amrutayucare.in/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "amrut-ayu-care-ayurvedic-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Aatreya Ayurved Panchakarma & Infertility Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Dattatray Nalage",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Swati Nalage",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd Floor, Sopan Park, Dagdusheth Tupe Patil Chowk, DP Road, above Hotel Siddheshwar Foods",
+        "locality": "Hadapsar",
+        "city": "Pune",
+        "pin": "411028"
+      },
+      "phone": [
+        "+91 98600 07992",
+        "+91 95613 23931"
+      ],
+      "website": "https://aatreyaayurved.com/",
+      "email": "drnalage01@gmail.com",
+      "hours": "Monday to Saturday, 10 AM to 2 PM and 5 PM to 9 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Garbhasanskar",
+        "Suvarnaprashan",
+        "Skin and hair care (Saundaryam)",
+        "Yoga studio",
+        "Diet plans"
+      ],
+      "sources": {
+        "practiceName": "https://aatreyaayurved.com/",
+        "practitioners": "https://aatreyaayurved.com/",
+        "address": "https://aatreyaayurved.com/",
+        "phone": "https://aatreyaayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/aatreya-multispeciality-ayurved-clinic-hadapsar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "aatreya-ayurved-panchakarma-and-infertility-clinic"
+    },
+    {
+      "practiceName": "Sumatibhai Shah Ayurved Mahavidyalaya Hospital (Maharashtra Arogya Mandal)",
+      "practitioners": [
+        {
+          "name": "Dr Sachinkumar Sahebrao Patil",
+          "qualification": "Post Graduate (Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sanket Ravindra Darawade",
+          "qualification": "Post Graduate (Deputy Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vandana Anil Avhad",
+          "qualification": "Post Graduate (Consultant, Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kiran Damoo Ubhe",
+          "qualification": "Post Graduate (Consultant, Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Survey No. 165-A, Malwadi Road, Malwadi",
+        "locality": "Hadapsar",
+        "city": "Pune",
+        "pin": "411028"
+      },
+      "phone": [
+        "+91 20 2952 2505",
+        "+91 95118 22604",
+        "+91 20 2952 2506"
+      ],
+      "website": "https://www.ssayurved.org/",
+      "email": "ssayucollege@mam.org.in",
+      "hours": "OPDs 9:00 am to 5:00 pm; OPD-1 (casualty) 24 hours",
+      "services": [
+        "Ayurveda OPD and IPD (250 beds)",
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra (ENT and Netra)",
+        "Strirog and Prasuti",
+        "Kaumarbhritya",
+        "Swasthavritta and therapeutic yoga",
+        "Ayurveda pharmacy",
+        "Pathology"
+      ],
+      "sources": {
+        "practiceName": "https://www.ssayurved.org/hospital/",
+        "practitioners": "https://www.ssayurved.org/wp-content/uploads/2026/05/Hospital_Staff_2026.pdf",
+        "address": "https://www.ssayurved.org/contact/",
+        "phone": "https://www.ssayurved.org/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sumatibhai-shah-ayurved-mahavidyalaya-hospital-maharashtra"
+    },
+    {
+      "practiceName": "Waghole Ayurved Clinic, Panchakarma & Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Rahul D. Waghole",
+          "qualification": "Ayurvedacharya (B.A.M.S.), D.Y.A., M.A. (Sanskrit)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 101, 1st Floor, City Centre, Opposite Vaibhav Theatre",
+        "locality": "Hadapsar",
+        "city": "Pune",
+        "pin": "411028"
+      },
+      "phone": [
+        "+91 91128 18136",
+        "+91 98256 00737"
+      ],
+      "website": "https://www.wagholeayurved.com/",
+      "email": "wagholeayurved@gmail.com",
+      "hours": "Monday to Saturday, 10 AM to 1 PM and 6 PM to 8:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Online consultation",
+        "Ayurvedic products"
+      ],
+      "sources": {
+        "practiceName": "https://www.wagholeayurved.com/",
+        "practitioners": "https://www.wagholeayurved.com/",
+        "address": "https://www.wagholeayurved.com/",
+        "phone": "https://www.wagholeayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "waghole-ayurved-clinic-panchakarma-and-research-centre"
+    },
+    {
+      "practiceName": "Ashtang Ayurved And Panchkarma Clinic, Hinjewadi",
+      "practitioners": [
+        {
+          "name": "Dr Sudam Sakunde",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pratibha Wagh-Sakunde",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Above City Samosa, Chatrapati Shivaji Chowk, Dange Chowk Road, Hinjewadi Phase 1 Road",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "pin": "411057"
+      },
+      "phone": [
+        "+91 92094 42293"
+      ],
+      "website": "https://www.ashtangayurvedclinic.com/",
+      "email": "ashtangayurvedclinic@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Snehan, Swedan, Vaman, Virechan, Nasya, Basti)",
+        "Shirodhara",
+        "Netra Tarpan",
+        "Jalaukavacharan (leech therapy)",
+        "Pinda Swed",
+        "Suvarna Prashan"
+      ],
+      "sources": {
+        "practiceName": "https://www.ashtangayurvedclinic.com/",
+        "practitioners": "https://www.ashtangayurvedclinic.com/our-doctors",
+        "address": "https://www.ashtangayurvedclinic.com/",
+        "phone": "https://www.ashtangayurvedclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ashtang-ayurved-and-panchkarma-clinic-hinjewadi"
+    },
+    {
+      "practiceName": "Jeevana Kerala Ayurvedic Centre, Kalyani Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Vinod P. Nair",
+          "qualification": "MD (Ay), PGD Preventive Health Care, PGD Holistic Health Care, PGDEMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Preetha P. Nair",
+          "qualification": "BAMS (Ayurved Acharya), Diploma in Emergency Medicine",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ashoka Triplex A, Lane No. 8, Opposite Silver Oak Society, Off Jogesh Park Lane, Near Goldadlabs Theater",
+        "locality": "Kalyani Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 91464 74888",
+        "+91 70839 39706",
+        "+91 20 2665 6665",
+        "+91 20 2665 6666"
+      ],
+      "website": "http://www.jeevana.in/",
+      "email": "info@jeevana.in",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Shirodhara",
+        "Shirovasti",
+        "Pizhichil",
+        "Podikizhi",
+        "Navarakizhi",
+        "Udwarthanam",
+        "Pre and post natal care",
+        "Rasayana and Vajikarana",
+        "Geriatric care"
+      ],
+      "sources": {
+        "practiceName": "http://www.jeevana.in/about-us/",
+        "practitioners": "http://www.jeevana.in/about-us/",
+        "address": "https://jeevana.in/contact/",
+        "phone": "https://jeevana.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "jeevana-kerala-ayurvedic-centre-kalyani-nagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Karve Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Nita Ramakant Hinge",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kulashree Housing Society No 2, Plot 34, Shiv-Gayatri, near City Pride Kothrud, lane next to Shriman Society",
+        "locality": "Karve Nagar",
+        "city": "Pune",
+        "pin": "411052"
+      },
+      "phone": [
+        "+91 90670 78726"
+      ],
+      "website": "https://madhavbaug.org/clinic/karve-nagar-pune",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet, exercise and yoga plans",
+        "ECG and stress test (TMT)"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/karve-nagar-pune",
+        "practitioners": "https://madhavbaug.org/clinic/karve-nagar-pune",
+        "address": "https://madhavbaug.org/clinic/karve-nagar-pune",
+        "phone": "https://madhavbaug.org/clinic/karve-nagar-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-karve-nagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Katraj",
+      "practitioners": [
+        {
+          "name": "Dr Rugved Pratap Mahale",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No 1, Aagam Apartment, Katraj-Dattanagar Road, Near Shani Mandir",
+        "locality": "Katraj",
+        "city": "Pune",
+        "pin": "411046"
+      },
+      "phone": [
+        "+91 77750 60808"
+      ],
+      "website": "https://madhavbaug.org/clinic/katraj-pune",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance",
+        "ECG",
+        "Stress test (TMT)",
+        "Blood pressure and blood sugar checks"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/katraj-pune",
+        "practitioners": "https://madhavbaug.org/clinic/katraj-pune",
+        "address": "https://madhavbaug.org/clinic/katraj-pune",
+        "phone": "https://madhavbaug.org/clinic/katraj-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-katraj"
+    },
+    {
+      "practiceName": "Ayush Ayurved (Ayurvedic & Panchakarma Clinic), Kharadi",
+      "practitioners": [
+        {
+          "name": "Dr Narendra Ashok Shekade",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Swati Narendra Shekade",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop 2, Gera Trinity Towers, Grant Road, near Gera Bunglows, Vitthal Nagar",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 92250 60655",
+        "+91 91728 33451"
+      ],
+      "website": "https://ayushayurved.com/",
+      "email": "ayushayurvedinfo@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Janu Basti",
+        "Kati Basti",
+        "Ayurvedic diet and nutrition planning",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayushayurved.com/",
+        "practitioners": "https://ayushayurved.com/",
+        "address": "https://ayushayurved.com/contact-us/",
+        "phone": "https://ayushayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayush-ayurved-ayurvedic-and-panchakarma-clinic-kharadi"
+    },
+    {
+      "practiceName": "Dr. Phalle's Ayusanjivani Ayurveda Clinic & Panchakarma Centre, Kharadi",
+      "practitioners": [
+        {
+          "name": "Dr Shailesh Shamkant Phalle",
+          "qualification": "BAMS (Ayurvedacharya), M.D. Kayachikitsa (MUHS Nashik)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vinita Awalkanthe",
+          "qualification": "BAMS, MD (Ayurvedacharya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Vitthal Heights, Opp. Radisson Hotel, Bypass Road",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 84323 29371",
+        "+91 90116 09371"
+      ],
+      "website": "https://ayusanjivani.com/",
+      "email": "ayusanjivanipune@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Uttar Basti",
+        "Nasya",
+        "Raktamokshana",
+        "Shirodhara",
+        "Netra Tarpan",
+        "Kati Basti",
+        "Janu Basti",
+        "Agnikarma",
+        "Leech therapy",
+        "Pizhichil"
+      ],
+      "sources": {
+        "practiceName": "https://ayusanjivani.com/about-us/",
+        "practitioners": "https://ayusanjivani.com/about-us/",
+        "address": "https://ayusanjivani.com/contact-us/",
+        "phone": "https://ayusanjivani.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/dr-phalle-s-ayusanjivani-speciality-clinic-and-panchakarma-centre-kharadi"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "dr-phalle-s-ayusanjivani-ayurveda-clinic-and-panchakarma"
+    },
+    {
+      "practiceName": "Savyan Swasthayurved & Panchakarma Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sheetal Kadam",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sr No 58, Arissa Avenue Apartment, 102, Fountain Road, above HDFC Bank, Tulaja Bhawani Nagar",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 86000 03425"
+      ],
+      "website": "https://savyanswasthayurved.in/",
+      "email": "savyanswasthayurved@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Vaman",
+        "Virechan",
+        "Basti",
+        "Nasya",
+        "Raktamokshan",
+        "Shirodhara",
+        "Abhyanga",
+        "Padabhyanga",
+        "Agnikarma",
+        "Viddhakarma",
+        "Jalaukavacharana (leech therapy)",
+        "Lep therapy",
+        "Ayurvedic facials",
+        "Hair treatments"
+      ],
+      "sources": {
+        "practiceName": "https://savyanswasthayurved.in/",
+        "practitioners": "https://savyanswasthayurved.in/",
+        "address": "https://savyanswasthayurved.in/",
+        "phone": "https://savyanswasthayurved.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "savyan-swasthayurved-and-panchakarma-hospital"
+    },
+    {
+      "practiceName": "Sanjeevani Ayurveda (Sanjeevani Ayurvedic & Panchkarma), NIBM Road",
+      "practitioners": [
+        {
+          "name": "Dr Niloy Kar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 210, Manish Plaza, NIBM Road",
+        "locality": "Kondhwa (NIBM Road)",
+        "city": "Pune",
+        "pin": "411048"
+      },
+      "phone": [
+        "+91 93700 34545",
+        "+91 77091 33448"
+      ],
+      "website": "https://sanjeevaniayurveda.digivisions.in/",
+      "email": "drniloykar@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Prakriti Pariksha",
+        "Panchakarma (Snehan, Swedan, Basti, Vaman, Virechan, Nasya, Raktmokshan)",
+        "Shirodhara",
+        "Abhyangam",
+        "Udwarthanam",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://sanjeevaniayurveda.digivisions.in/",
+        "practitioners": "https://sanjeevaniayurveda.digivisions.in/about-us",
+        "address": "https://sanjeevaniayurveda.digivisions.in/",
+        "phone": "https://sanjeevaniayurveda.digivisions.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/sanjeevani-ayurvediya-chikitsalaya-panchkarma-kendra-kondhwa"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sanjeevani-ayurveda-sanjeevani-ayurvedic-and-panchkarma-nibm"
+    },
+    {
+      "practiceName": "Aasha Ayurveda Clinic, Pune (Kothrud)",
+      "practitioners": [
+        {
+          "name": "Dr Prachi Kulkarni",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sayali Vaidya Shukla",
+          "qualification": "BAMS, MD (Ayurveda), PG diploma in emergency medical services",
+          "registration": null
+        },
+        {
+          "name": "Dr Chanchal Sharma",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 101, Shivalik Apartment, CST No. 755/7 - 755/8, Karve Road, opposite Shri Mrutyunjayeshwar Mandir",
+        "locality": "Kothrud",
+        "city": "Pune",
+        "pin": "411038"
+      },
+      "phone": [
+        "+91 98117 73770"
+      ],
+      "website": "https://aashaayurveda.com/Infertility-Clinic-in-Pune",
+      "email": "pune@aashaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Fertility and women's health care"
+      ],
+      "sources": {
+        "practiceName": "https://aashaayurveda.com/Infertility-Clinic-in-Pune",
+        "practitioners": "https://aashaayurveda.com/Ayurvedic-Doctors-Pune-Maharashtra",
+        "address": "https://aashaayurveda.com/Infertility-Clinic-in-Pune",
+        "phone": "https://www.aashaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "aasha-ayurveda-clinic-pune-kothrud"
+    },
+    {
+      "practiceName": "Arogya Sarathi Chikitsalaya, Kothrud branch",
+      "practitioners": [
+        {
+          "name": "Vd Shrirang Galgali",
+          "qualification": "M.D., Ph.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        },
+        {
+          "name": "Vd Varsha Shrirang Galgali",
+          "qualification": "M.D., Ph.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        },
+        {
+          "name": "Vd Rushikesh Anantrao Thombre",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        },
+        {
+          "name": "Vd Apurva Vaibhav Vitvekar",
+          "qualification": "M.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ramdoot Vihar, 1st floor, Karishma Chowk, Karve Road, near Hanuman Mandir bus stop",
+        "locality": "Kothrud",
+        "city": "Pune",
+        "pin": "411038"
+      },
+      "phone": [
+        "+91 95955 84466",
+        "+91 75882 88099"
+      ],
+      "website": "https://www.aarogyasarathi.com/",
+      "email": "arogyasarathi@gmail.com",
+      "hours": "Monday, Friday, Saturday 9:00 AM to 9:00 PM; Tuesday, Wednesday, Thursday 9:00 AM to 5:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Training courses for BAMS graduates"
+      ],
+      "sources": {
+        "practiceName": "https://www.aarogyasarathi.com/about-us",
+        "practitioners": "https://www.aarogyasarathi.com/",
+        "address": "https://www.aarogyasarathi.com/",
+        "phone": "https://www.aarogyasarathi.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The doctors are so professional, knowledgeable, and very caring as well.",
+          "attribution": "Emoke Csaky, Budapest",
+          "url": "https://www.aarogyasarathi.com/"
+        },
+        {
+          "excerpt": "I would highly recommend Arogyasarathi Chikitsalaya as a family health service provider!",
+          "attribution": "Aishwarya Jagtap, Dallas, TX",
+          "url": "https://www.aarogyasarathi.com/"
+        },
+        {
+          "excerpt": "I highly recommend Dr. Galgali for his precise diagnosis and comprehensive treatment.",
+          "attribution": "Abbas Tehrani, USA",
+          "url": "https://www.aarogyasarathi.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "arogya-sarathi-chikitsalaya-kothrud-branch"
+    },
+    {
+      "practiceName": "Ayurva Multispeciality Ayurveda and Panchkarma Clinic, Kothrud",
+      "practitioners": [
+        {
+          "name": "Dr Suyogkumar Bhavare",
+          "qualification": "MD in Ayurveda (MUHS Nashik)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vaibhav Sonar",
+          "qualification": "MD Ayurveda",
+          "registration": null
+        },
+        {
+          "name": "Dr Leena Gurger-Deshmukh",
+          "qualification": "BAMS, Post Graduate Diploma in Panchakarma Procedure",
+          "registration": null
+        },
+        {
+          "name": "Dr Nirmala Suryawanshi",
+          "qualification": "BAMS, Post Graduate Diploma in Psychological Counselling",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. A-613, 6th Floor, Gokhale Business Bay, opposite City Pride, Paschim Nagari",
+        "locality": "Kothrud",
+        "city": "Pune",
+        "pin": "411038"
+      },
+      "phone": [
+        "+91 88888 60977"
+      ],
+      "website": "https://ayurva.com/",
+      "email": null,
+      "hours": "Monday to Sunday 9 am to 7 pm",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Suprajanan (pregnancy programme)",
+        "Suvarna Prashan Sanskar",
+        "Shirodhara",
+        "Pinda Pottali Swedan",
+        "Netra Basti",
+        "Kati Basti",
+        "Janu Basti",
+        "Karnapuran"
+      ],
+      "sources": {
+        "practiceName": "https://ayurva.com/",
+        "practitioners": "https://ayurva.com/about/",
+        "address": "https://ayurva.com/",
+        "phone": "https://ayurva.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "This is wonderful treatment for servicing of our body as we do for our car.",
+          "attribution": "Mr. and Mrs. Patil, Pimpale Saudagar, Pune",
+          "url": "https://ayurva.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurva-multispeciality-ayurveda-and-panchkarma-clinic"
+    },
+    {
+      "practiceName": "Ayurveda Zentrum Pune (Ayurved Clinic), Karve Road",
+      "practitioners": [
+        {
+          "name": "Dr Milind Manohar Sathe",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "15, Suvarna Complex, near Maruti Mandir, Karve Road",
+        "locality": "Kothrud",
+        "city": "Pune",
+        "pin": "411038"
+      },
+      "phone": [
+        "+91 20 2546 5161",
+        "+91 98500 09204"
+      ],
+      "website": "https://ayurvedazentrumpune.in/",
+      "email": "ayurved_pune@hotmail.com",
+      "hours": "11:00 AM to 1:00 PM and 5:00 PM to 7:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Residential facilities for Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedazentrumpune.in/contact-us/",
+        "practitioners": "https://www.ayurvedazentrumpune.in/about-us/",
+        "address": "https://ayurvedazentrumpune.in/contact-us/",
+        "phone": "https://ayurvedazentrumpune.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurveda-zentrum-pune-ayurved-clinic-karve-road"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Paud Road (Kothrud)",
+      "practitioners": [
+        {
+          "name": "Dr Varada Sule Sugwekar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 2, Ground floor, Shirish Classic Apartment, near Borse Vitalife Hospital, Paud Road, Right Bhusari Colony",
+        "locality": "Kothrud",
+        "city": "Pune",
+        "pin": "411038"
+      },
+      "phone": [
+        "+91 93203 57676"
+      ],
+      "website": "https://madhavbaug.org/clinic/kothrud-pune",
+      "email": null,
+      "hours": "9:30 AM to 7:15 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet, exercise and yoga plans",
+        "ECG and stress test (TMT)"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/kothrud-pune",
+        "practitioners": "https://madhavbaug.org/clinic/kothrud-pune",
+        "address": "https://madhavbaug.org/clinic/kothrud-pune",
+        "phone": "https://madhavbaug.org/clinic/kothrud-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-paud-road-kothrud"
+    },
+    {
+      "practiceName": "Muppra Kerala Ayurvedic Treatment Centre, Magarpatta",
+      "practitioners": [
+        {
+          "name": "Dr Syam Bhargavan",
+          "qualification": "M.D. (Ayu), Ph.D., D.N.Y.S., CCH, CGO",
+          "registration": null
+        },
+        {
+          "name": "Dr Reepa Pavitran",
+          "qualification": "B.A.M.S., PGDCP, CCH, CGO",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kanchan Ganga Apartments, Opp. Noble Hospital, Near State Bank of India, Magarpatta",
+        "locality": "Magarpatta (Hadapsar)",
+        "city": "Pune",
+        "pin": "411028"
+      },
+      "phone": [
+        "+91 70662 92255",
+        "+91 94043 92255",
+        "+91 72764 22255"
+      ],
+      "website": "https://keralaayurvedpune.com/",
+      "email": "hadapsar@muppra.com",
+      "hours": "Monday to Sunday, 8:00 AM to 8:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Potali massage",
+        "Nasyam",
+        "Abhyangam",
+        "Udvardhanam",
+        "Thakradhara",
+        "Pizhichil"
+      ],
+      "sources": {
+        "practiceName": "https://keralaayurvedpune.com/",
+        "practitioners": "https://keralaayurvedpune.com/",
+        "address": "https://keralaayurvedpune.com/contact.html",
+        "phone": "https://keralaayurvedpune.com/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/clinic/kerela-ayurveda-treatment-center-hadapsar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "muppra-kerala-ayurvedic-treatment-centre-magarpatta"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Nanded City",
+      "practitioners": [
+        {
+          "name": "Dr Mayuri Supare",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Destination Center-1, S-83 (Second Floor), Nanded City, Sinhagad Road",
+        "locality": "Nanded City",
+        "city": "Pune",
+        "pin": "411041"
+      },
+      "phone": [
+        "+91 89994 77655"
+      ],
+      "website": "https://madhavbaug.org/clinic/nandedgaon-city-pune/",
+      "email": null,
+      "hours": "9:00 AM to 9:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/nandedgaon-city-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/nandedgaon-city-pune/",
+        "address": "https://madhavbaug.org/clinic/nandedgaon-city-pune/",
+        "phone": "https://madhavbaug.org/clinic/nandedgaon-city-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-nanded-city"
+    },
+    {
+      "practiceName": "Arogya Sarathi Chikitsalaya, Narayan Peth branch",
+      "practitioners": [
+        {
+          "name": "Vd Shrirang Galgali",
+          "qualification": "M.D., Ph.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        },
+        {
+          "name": "Vd Varsha Shrirang Galgali",
+          "qualification": "M.D., Ph.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        },
+        {
+          "name": "Vd Rushikesh Anantrao Thombre",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        },
+        {
+          "name": "Vd Apurva Vaibhav Vitvekar",
+          "qualification": "M.D. (Ayu.), M.A. (Sanskrit)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "525, Vishwakumud, near Modi Ganpati Temple",
+        "locality": "Narayan Peth",
+        "city": "Pune",
+        "pin": "411030"
+      },
+      "phone": [
+        "+91 95293 84491"
+      ],
+      "website": "https://www.aarogyasarathi.com/",
+      "email": "arogyasarathi@gmail.com",
+      "hours": "Monday, Friday, Saturday 9:00 AM to 9:00 PM; Tuesday, Wednesday, Thursday 9:00 AM to 5:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Training courses for BAMS graduates"
+      ],
+      "sources": {
+        "practiceName": "https://www.aarogyasarathi.com/about-us",
+        "practitioners": "https://www.aarogyasarathi.com/",
+        "address": "https://www.aarogyasarathi.com/",
+        "phone": "https://www.aarogyasarathi.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "arogya-sarathi-chikitsalaya-narayan-peth-branch"
+    },
+    {
+      "practiceName": "Ayurvedamitra (Ayurveda Mitra)",
+      "practitioners": [
+        {
+          "name": "Dr Sachin Nandedkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "641 Narayan Peth, N C Kelkar Road, opposite Somvanshi Arya Kshatriya Karyalay",
+        "locality": "Narayan Peth",
+        "city": "Pune",
+        "pin": "411030"
+      },
+      "phone": [
+        "+91 74475 56262",
+        "+91 99602 24989"
+      ],
+      "website": "https://www.ayurvedamitra.com",
+      "email": "drk2s@yahoo.co.in",
+      "hours": "Monday to Friday 10:00 am to 2:00 pm and 5:00 pm to 8:00 pm; Saturday and Sunday 10:00 am to 2:00 pm",
+      "services": [
+        "Panchakarma",
+        "Diet management",
+        "Garbhasanskar",
+        "Leech therapy",
+        "Lifestyle management",
+        "Sports medicine",
+        "Aarogyasangeet"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedamitra.com",
+        "practitioners": "https://www.ayurvedamitra.com",
+        "address": "https://www.ayurvedamitra.com",
+        "phone": "https://www.ayurvedamitra.com"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurvedamitra-ayurveda-mitra"
+    },
+    {
+      "practiceName": "Kalpataru Ayurvediya Chikitsalaya",
+      "practitioners": [
+        {
+          "name": "Dr Manoj M. Deshpande",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aparna M. Deshpande",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "I-32452-A-1",
+            "source": "https://www.kalpataru-ayurved.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "1st floor, Patwardhangad Apartment, above New Poona Bakery, Mati Ganapati Chowk, 545 N C Kelkar Road",
+        "locality": "Narayan Peth",
+        "city": "Pune",
+        "pin": "411030"
+      },
+      "phone": [
+        "+91 20 2448 0625",
+        "+91 94220 68682",
+        "+91 94235 91682"
+      ],
+      "website": "https://www.kalpataru-ayurved.com/",
+      "email": "info@kalpataru-ayurved.com",
+      "hours": "Monday, Wednesday, Thursday, Friday, Saturday 10:00 AM to 2:00 PM and 6:00 PM to 8:30 PM",
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.kalpataru-ayurved.com/",
+        "practitioners": "https://www.kalpataru-ayurved.com/",
+        "address": "https://www.kalpataru-ayurved.com/",
+        "phone": "https://www.kalpataru-ayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "kalpataru-ayurvediya-chikitsalaya"
+    },
+    {
+      "practiceName": "Tilak Ayurved Mahavidyalaya Hospital (teaching hospital, NABH accredited)",
+      "practitioners": [
+        {
+          "name": "Dr Rajendra Shashishekhar Huprikar",
+          "qualification": "BAMS, MD Kayachikitsa, PhD Kayachikitsa (Professor, Panchakarma)",
+          "registration": {
+            "number": "I-19461A-1 (MCIM)",
+            "source": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf"
+          }
+        },
+        {
+          "name": "Dr Anjali Vinayak Damale",
+          "qualification": "BAMS, MD Panchakarma (Associate Professor)",
+          "registration": {
+            "number": "I-32578A-1 (MCIM)",
+            "source": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf"
+          }
+        },
+        {
+          "name": "Dr Rahul Surendra Kathawate",
+          "qualification": "BAMS, MD Panchakarma (Associate Professor)",
+          "registration": {
+            "number": "I-33507A-1 (MCIM)",
+            "source": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf"
+          }
+        },
+        {
+          "name": "Dr Anupama Jitendra Shimpi",
+          "qualification": "BAMS, MD (Associate Professor, Kayachikitsa)",
+          "registration": {
+            "number": "I-26115-A-1 (MCIM)",
+            "source": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf"
+          }
+        },
+        {
+          "name": "Dr Siddharth Suhas Parchure",
+          "qualification": "BAMS, MD Kayachikitsa (Assistant Professor)",
+          "registration": {
+            "number": "I-41452A-1 (MCIM)",
+            "source": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf"
+          }
+        }
+      ],
+      "address": {
+        "line": "583/2, Rasta Peth",
+        "locality": "Rasta Peth",
+        "city": "Pune",
+        "pin": "411011"
+      },
+      "phone": [
+        "+91 20 2633 6755",
+        "+91 20 2612 1261",
+        "+91 20 2633 6428"
+      ],
+      "website": "https://www.tilakayurved.org",
+      "email": "principaltamv@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarbhritya"
+      ],
+      "sources": {
+        "practiceName": "https://www.tilakayurved.org",
+        "practitioners": "https://tilakayurved.org/wp-content/uploads/2025/04/ANNEXURE-I-Teaching-staff-list-for-A3-Copy.pdf",
+        "address": "https://www.tilakayurved.org",
+        "phone": "https://www.tilakayurved.org"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "tilak-ayurved-mahavidyalaya-hospital-teaching-hospital-nabh"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Aranyeshwar (Pune-Satara Road)",
+      "practitioners": [
+        {
+          "name": "Dr Pratima Yadav",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G108, Ruturang Society Phase 2, Shravan Bldg, Near Kotak Mahindra Bank, Aranyeshwar, Pune-Satara Road",
+        "locality": "Sahakar Nagar",
+        "city": "Pune",
+        "pin": "411009"
+      },
+      "phone": [
+        "+91 20 7962 1719"
+      ],
+      "website": "https://madhavbaug.org/clinic/aranyeshwar-pune-satara-road-pune",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/aranyeshwar-pune-satara-road-pune",
+        "practitioners": "https://madhavbaug.org/clinic/aranyeshwar-pune-satara-road-pune",
+        "address": "https://madhavbaug.org/clinic/aranyeshwar-pune-satara-road-pune",
+        "phone": "https://madhavbaug.org/clinic/aranyeshwar-pune-satara-road-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-aranyeshwar-pune-satara-road"
+    },
+    {
+      "practiceName": "Jeevana Kerala Ayurvedic Centre, Salunke Vihar",
+      "practitioners": [
+        {
+          "name": "Dr Vinod P. Nair",
+          "qualification": "MD (Ay), PGD Preventive Health Care, PGD Holistic Health Care, PGDEMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Preetha P. Nair",
+          "qualification": "BAMS (Ayurved Acharya), Diploma in Emergency Medicine",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 2, Vazir Manor, Near Sahyadri Park, Behind Salunke Vihar Road",
+        "locality": "Salunke Vihar (Wanowrie)",
+        "city": "Pune",
+        "pin": "411048"
+      },
+      "phone": [
+        "+91 77419 33245",
+        "+91 20 2685 5070",
+        "+91 20 2685 5080"
+      ],
+      "website": "http://www.jeevana.in/",
+      "email": "info@jeevana.in",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Shirodhara",
+        "Shirovasti",
+        "Pizhichil",
+        "Podikizhi",
+        "Navarakizhi",
+        "Udwarthanam"
+      ],
+      "sources": {
+        "practiceName": "http://www.jeevana.in/about-us/",
+        "practitioners": "http://www.jeevana.in/about-us/",
+        "address": "https://jeevana.in/contact/",
+        "phone": "https://jeevana.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "jeevana-kerala-ayurvedic-centre-salunke-vihar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Shivaji Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Pratima Bhanuse",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Premium Point, First Floor, Jangli Maharaj Road",
+        "locality": "Shivajinagar",
+        "city": "Pune",
+        "pin": "411005"
+      },
+      "phone": [
+        "+91 88059 99111"
+      ],
+      "website": "https://madhavbaug.org/clinic/shivajinagar-pune",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet, exercise and yoga plans",
+        "ECG and stress test (TMT)"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/shivajinagar-pune",
+        "practitioners": "https://madhavbaug.org/clinic/shivajinagar-pune",
+        "address": "https://madhavbaug.org/clinic/shivajinagar-pune",
+        "phone": "https://madhavbaug.org/clinic/shivajinagar-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-shivaji-nagar"
+    },
+    {
+      "practiceName": "Gurukripa Ayurved Clinic (Ayurconcept), Sinhagad Road",
+      "practitioners": [
+        {
+          "name": "Dr Manjiri Joshi",
+          "qualification": "Bachelor of Ayurvedic Medicine and Surgery; M.D. in Alternative Medicine; post graduate course in Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 6, Shwetambari Bldg., Near Navashya Maruti Mandir, Sinhagad Road",
+        "locality": "Sinhagad Road",
+        "city": "Pune",
+        "pin": "411030"
+      },
+      "phone": [
+        "+91 94033 60452"
+      ],
+      "website": "https://ayurconcept.com/",
+      "email": "jmanjiri321@gmail.com",
+      "hours": "11 AM to 2 PM and 6 PM to 9 PM",
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation",
+        "Online consultation",
+        "Diet and nutrition guidance",
+        "Yoga",
+        "Ayurveda training courses"
+      ],
+      "sources": {
+        "practiceName": "https://ayurconcept.com/contact-us.html",
+        "practitioners": "https://ayurconcept.com/about-us.html",
+        "address": "https://ayurconcept.com/contact-us.html",
+        "phone": "https://ayurconcept.com/contact-us.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr. Manjiri joshi is a wonderful person. She is willing to share all details and is very helpful to us",
+          "attribution": "Ben-Zion and Rina Solomon, Israel",
+          "url": "https://ayurconcept.com/testimonials.html"
+        },
+        {
+          "excerpt": "She is very kind, and intelligent, with lot of experience in teaching and practicing Ayurveda.",
+          "attribution": "Juliana, Brazil",
+          "url": "https://ayurconcept.com/testimonials.html"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "gurukripa-ayurved-clinic-ayurconcept-sinhagad-road"
+    },
+    {
+      "practiceName": "Shree Vishwarpan Ayurved (Rugnalay, Panchakarma and Research Centre), Manikbaug",
+      "practitioners": [
+        {
+          "name": "Dr Prafulla R. Raut",
+          "qualification": "B.A.M.S., D.Y.A.",
+          "registration": null
+        },
+        {
+          "name": "Dr Snehal P. Raut",
+          "qualification": "M.D. (Ayurved)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 9, 1st Floor, Triveni Sangam Apartment, Survey No. 33/14/6, Near Parinay Mangal Karyalay, Manikbaug, Sinhagad Road",
+        "locality": "Sinhagad Road",
+        "city": "Pune",
+        "pin": "411051"
+      },
+      "phone": [
+        "+91 98505 35418",
+        "+91 94207 29982"
+      ],
+      "website": "https://shreevishwarpanayurved.com/",
+      "email": "drprafullaraut@gmail.com",
+      "hours": "Monday to Saturday 10 AM to 1 PM and 5 PM to 9 PM; Sunday closed",
+      "services": [
+        "Panchakarma",
+        "Basti",
+        "Nasya",
+        "Shirodhara",
+        "Vaman",
+        "Virechan",
+        "Raktamokshan",
+        "Janubasti",
+        "Katibasti",
+        "Netratarpan",
+        "Pizhichil",
+        "Shashtikapinda Swed",
+        "Patrapottali Swed",
+        "Uttar Basti",
+        "Viddha Karma",
+        "Suvarnaprashan",
+        "Garbhasanskar"
+      ],
+      "sources": {
+        "practiceName": "https://shreevishwarpanayurved.com/",
+        "practitioners": "https://shreevishwarpanayurved.com/doctors/",
+        "address": "https://shreevishwarpanayurved.com/",
+        "phone": "https://shreevishwarpanayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-vishwarpan-ayurved-rugnalay-panchakarma-and-research"
+    },
+    {
+      "practiceName": "Vedashree Ayurved and Panchakarma, Manik Baug",
+      "practitioners": [
+        {
+          "name": "Dr Deepali Ambegaonkar-Patil",
+          "qualification": "B.A.M.S., M.Ayu.D. (Master in Ayurvedic Dietetics), D.Y.A.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 3, Ganesh Park B, Yashoda Jewellers Lane, Sinhgad Road, Manik Baug",
+        "locality": "Sinhagad Road",
+        "city": "Pune",
+        "pin": "411051"
+      },
+      "phone": [
+        "+91 72763 93619"
+      ],
+      "website": "https://vedashreeayurvedsinhagadroad.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Ayurvedic dietetics",
+        "Garbh Sanskar",
+        "Suvarnaprashan"
+      ],
+      "sources": {
+        "practiceName": "https://vedashreeayurvedsinhagadroad.com/",
+        "practitioners": "https://vedashreeayurvedsinhagadroad.com/deepali-ambegaonkar-patil-ayurvedic-doctor-in-sinhgad-road",
+        "address": "https://vedashreeayurvedsinhagadroad.com/",
+        "phone": "https://vedashreeayurvedsinhagadroad.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The doctor's diagnosis is accurate and he guides the patients properly.",
+          "attribution": "Sakshi Deshpande",
+          "url": "https://vedashreeayurvedsinhagadroad.com/testimonial"
+        },
+        {
+          "excerpt": "Vedashree Ayurved is the best place for authentic Panchakarma.",
+          "attribution": "Abhijeet Mishra",
+          "url": "https://vedashreeayurvedsinhagadroad.com/testimonial"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedashree-ayurved-and-panchakarma-manik-baug"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Swargate",
+      "practitioners": [
+        {
+          "name": "Dr Mahadevi Jadhav",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 3 and 5, 3rd Floor, Gurudatt Complex, CTS No. 989 and 1089, Shivaji Road, Swargate Corner, Opposite Sushil Lodge, Shukrawar Peth",
+        "locality": "Swargate",
+        "city": "Pune",
+        "pin": "411002"
+      },
+      "phone": [
+        "+91 93234 43963"
+      ],
+      "website": "https://madhavbaug.org/clinic/swargate-pune/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Mondays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/swargate-pune/",
+        "practitioners": "https://madhavbaug.org/clinic/swargate-pune/",
+        "address": "https://madhavbaug.org/clinic/swargate-pune/",
+        "phone": "https://madhavbaug.org/clinic/swargate-pune/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-swargate"
+    },
+    {
+      "practiceName": "Prachin Ayurvedic Clinic and Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Surekha Kadam",
+          "qualification": "BAMS, CCH, CGO, PGDGAP",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "307, 3rd Floor, Undri City Center, Near Bishops School",
+        "locality": "Undri",
+        "city": "Pune",
+        "pin": "411060"
+      },
+      "phone": [
+        "+91 98233 99285"
+      ],
+      "website": "https://prachinayurvedic.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Raktamokshan (leech therapy)",
+        "Vaman",
+        "Virechan",
+        "Nasya",
+        "Basti",
+        "Pinda Swedana",
+        "Patra Pottali",
+        "Udwartan"
+      ],
+      "sources": {
+        "practiceName": "https://prachinayurvedic.com/",
+        "practitioners": "https://prachinayurvedic.com/",
+        "address": "https://prachinayurvedic.com/",
+        "phone": "https://prachinayurvedic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Justdial",
+          "url": "https://www.justdial.com/Pune/Prachin-Ayurveda-Clinic-And-Panchakarma-Center-Near-In-Undri-City-Centre-Near-Bishop-School-Undri/020PXX20-XX20-190705183905-V8J2_BZDET"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "prachin-ayurvedic-clinic-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Dr. Prajakta's Ayurveda & Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Prajakta Shah",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Jeevan Jyot Clinic, Datta Mandir Chowk, Opposite Datta Mandir, Clover Park",
+        "locality": "Viman Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 96899 08818",
+        "+91 99224 34698"
+      ],
+      "website": "https://drprajaktaayurveda.com/",
+      "email": "drprajaktashah@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasya",
+        "Raktamokshana",
+        "Hrid Basti",
+        "Shirodhara"
+      ],
+      "sources": {
+        "practiceName": "https://drprajaktaayurveda.com/",
+        "practitioners": "https://drprajaktaayurveda.com/",
+        "address": "https://drprajaktaayurveda.com/contact-us/",
+        "phone": "https://drprajaktaayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/pune/doctor/dr-prajakta-9"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "dr-prajakta-s-ayurveda-and-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Muppra Kerala Ayurvedic Treatment Centre, Viman Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Syam Bhargavan",
+          "qualification": "M.D. (Ayu), Ph.D., D.N.Y.S., CCH, CGO",
+          "registration": null
+        },
+        {
+          "name": "Dr Reepa Pavitran",
+          "qualification": "B.A.M.S., PGDCP, CCH, CGO",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjana Krishnan",
+          "qualification": "M.D. (Ayu), D.N.Y.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Row House No. 7, Clower Arch Housing Society, Opp. Nataraj Bhel, Behind Khalsa Sweet Home, Near Datt Mandir Chowk",
+        "locality": "Viman Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 94042 92255",
+        "+91 72765 22255"
+      ],
+      "website": "https://keralaayurvedpune.com/",
+      "email": "contact@muppra.com",
+      "hours": "Monday to Sunday, 8:00 AM to 8:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Shirodhara",
+        "Potali massage",
+        "Nasyam",
+        "Abhyangam",
+        "Udvardhanam",
+        "Thakradhara",
+        "Pizhichil",
+        "Wellness programmes"
+      ],
+      "sources": {
+        "practiceName": "https://keralaayurvedpune.com/",
+        "practitioners": "https://keralaayurvedpune.com/",
+        "address": "https://keralaayurvedpune.com/contact.html",
+        "phone": "https://keralaayurvedpune.com/contact.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "YOU SHOULD NEVER MISS THIS EXPERIENCE!",
+          "attribution": "Vijay P Sadanandan",
+          "url": "https://keralaayurvedpune.com/"
+        },
+        {
+          "excerpt": "Shirodhara Is Fabulous",
+          "attribution": "Ashwini Bhirud",
+          "url": "https://keralaayurvedpune.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "muppra-kerala-ayurvedic-treatment-centre-viman-nagar"
+    },
+    {
+      "practiceName": "Ortho Vedah Multi-Speciality Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Shilpa Puri",
+          "qualification": "BAMS, CCACT",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Wing B, Optimus, Office No 9, opposite Lunkad Queensland",
+        "locality": "Viman Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 91560 70787",
+        "+91 95187 55376"
+      ],
+      "website": "https://www.orthovedah-ayurveda.com/",
+      "email": "orthovedah1@gmail.com",
+      "hours": "Monday to Sunday, 9 AM to 8 PM",
+      "services": [
+        "Ayurvedic consultation (bone and joint focus)",
+        "Nadi and Prakriti parikshan",
+        "Shirodhara",
+        "Snehan",
+        "Swedan",
+        "Udvartan",
+        "Janu Basti",
+        "Kati Basti",
+        "Manya Basti",
+        "Dhara therapy",
+        "Garbhasanskar",
+        "Diet and lifestyle"
+      ],
+      "sources": {
+        "practiceName": "https://www.orthovedah-ayurveda.com/",
+        "practitioners": "https://www.orthovedah-ayurveda.com/our-director",
+        "address": "https://www.orthovedah-ayurveda.com/",
+        "phone": "https://www.orthovedah-ayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Nice set-up, well trained friendly staff with excellent patient- centric service.",
+          "attribution": "Bijalwad Girish",
+          "url": "https://www.orthovedah-ayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ortho-vedah-multi-speciality-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Vedika Multi-Speciality Clinic & Panchkarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Savita Nemade",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sai Apex, 111, Datta Mandir Chowk, Clover Park",
+        "locality": "Viman Nagar",
+        "city": "Pune",
+        "pin": "411014"
+      },
+      "phone": [
+        "+91 80427 81465",
+        "+91 90496 22690"
+      ],
+      "website": "https://www.vedikacares.com/",
+      "email": "drsagarnemade@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.vedikacares.com/",
+        "practitioners": "https://www.vedikacares.com/",
+        "address": "https://www.vedikacares.com/",
+        "phone": "https://www.vedikacares.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedika-multi-speciality-clinic-and-panchkarma-center"
+    },
+    {
+      "practiceName": "AyurMantra Clinic & Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Rohini Jedhe",
+          "qualification": "BAMS, PGDEMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Baif Road, Vadjai, Awhalwadi",
+        "locality": "Wagholi",
+        "city": "Pune",
+        "pin": "412207"
+      },
+      "phone": [
+        "+91 97660 73175",
+        "+91 93594 03722"
+      ],
+      "website": "https://ayurmantrapanchkarma.com/",
+      "email": null,
+      "hours": "Morning 10:00 AM to 1:00 PM; Evening 5:00 PM to 8:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vaman",
+        "Virechan",
+        "Basti",
+        "Raktamokshan",
+        "Nasya",
+        "Shirodhara",
+        "Suvarnaprashan"
+      ],
+      "sources": {
+        "practiceName": "https://ayurmantrapanchkarma.com/",
+        "practitioners": "https://ayurmantrapanchkarma.com/",
+        "address": "https://ayurmantrapanchkarma.com/",
+        "phone": "https://ayurmantrapanchkarma.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Justdial",
+          "url": "https://www.justdial.com/Pune/Ayurmantra-clinic-and-Panchkarma-Center-Wagholi/020PXX20-XX20-240216153641-X2A1_BZDET"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "ayurmantra-clinic-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Bharatiya Sanskriti Darshan Trust's Ayurved Hospital & Research Centre (BSDT's Ayurved College), Wagholi",
+      "practitioners": [
+        {
+          "name": "Vd Prashant Pandurang Amrutkar",
+          "qualification": "MD (Panchakarma), Ph.D. Scholar (Incharge Principal)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anand B. Kulkarni",
+          "qualification": "PGDTM (Agad Tantra), Ph.D. (Principal)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vishwashanti Dham, Kesnand Road",
+        "locality": "Wagholi",
+        "city": "Pune",
+        "pin": "412207"
+      },
+      "phone": [
+        "+91 20 6734 6152"
+      ],
+      "website": "https://ayurvedcollegewagholi.com/",
+      "email": "bsdtam@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurveda OPD and IPD (112 beds)",
+        "Panchakarma therapy centre",
+        "Shalyatantra, Shalakyatantra and Strirog-Prasuti operation theatre",
+        "Pathology laboratory",
+        "CGHS-approved Ayurved hospital for Panchakarma",
+        "NABH-accredited AYUSH hospital (AH-2025-0369)"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedcollegewagholi.com/hosp.html",
+        "practitioners": "https://ayurvedcollegewagholi.com/principalnote.html",
+        "address": "https://ayurvedcollegewagholi.com/contact.html",
+        "phone": "https://ayurvedcollegewagholi.com/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "bharatiya-sanskriti-darshan-trust-s-ayurved-hospital-and"
+    },
+    {
+      "practiceName": "Dr Nikita's Panchkarma Center and Ayurvedic Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Nikita Bhuse",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 2, Awhale Complex, Domkhel Road, opp. G.H. Raisoni College of Engineering",
+        "locality": "Wagholi",
+        "city": "Pune",
+        "pin": "412207"
+      },
+      "phone": [
+        "+91 79727 18218"
+      ],
+      "website": "https://drnikitabhuse.in/",
+      "email": "nikitabandal07@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Agnikarma",
+        "Viddhakarma",
+        "Detoxification",
+        "Skin and hair care",
+        "Elderly care"
+      ],
+      "sources": {
+        "practiceName": "https://drnikitabhuse.in/",
+        "practitioners": "https://drnikitabhuse.in/",
+        "address": "https://drnikitabhuse.in/",
+        "phone": "https://drnikitabhuse.in/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Best treatment by Dr nikita .best doctor ever,",
+          "attribution": "Mahendra Shelke",
+          "url": "https://drnikitabhuse.in/"
+        },
+        {
+          "excerpt": "Maam does very good treatment",
+          "attribution": "Vidya Rakhonde",
+          "url": "https://drnikitabhuse.in/"
+        },
+        {
+          "excerpt": "gives me best treatment always",
+          "attribution": "MinishA ToDkar",
+          "url": "https://drnikitabhuse.in/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-nikita-s-panchkarma-center-and-ayurvedic-clinic"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Warje",
+      "practitioners": [
+        {
+          "name": "Dr Bhagyashree Kulkarni",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "201, A wing, Dangat Park, above Union Bank, opposite Federal Bank, near Warje bridge, NDA Road",
+        "locality": "Warje",
+        "city": "Pune",
+        "pin": "411058"
+      },
+      "phone": [
+        "+91 91567 30797"
+      ],
+      "website": "https://madhavbaug.org/clinic/warje-pune",
+      "email": null,
+      "hours": "9:30 AM to 7:30 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet, exercise and yoga plans"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/warje-pune",
+        "practitioners": "https://madhavbaug.org/clinic/warje-pune",
+        "address": "https://madhavbaug.org/clinic/warje-pune",
+        "phone": "https://madhavbaug.org/clinic/warje-pune"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-warje"
+    },
+    {
+      "practiceName": "Vedshruti Ayurveda & Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Chandrakant Gujar",
+          "qualification": "B.A.M.S. (Pune), PGPP",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ganga Complex, Above Bafna Hardware, Opposite Business Bay and Nita Park, Airport Road",
+        "locality": "Yerawada",
+        "city": "Pune",
+        "pin": "411006"
+      },
+      "phone": [
+        "+91 89833 58896"
+      ],
+      "website": "https://www.vedshruti.com/",
+      "email": "info@vedshruti.com",
+      "hours": "7:00 AM to 9:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vaman",
+        "Virechan",
+        "Basti (Hriday, Kati, Griva, Janu Basti)",
+        "Raktamokshan (leech therapy)",
+        "Nasya",
+        "Shirodhara",
+        "Pinda and Pottali Sweda",
+        "Udvartana",
+        "Suvarnaprashan",
+        "Pre-pregnancy detox for couples"
+      ],
+      "sources": {
+        "practiceName": "https://www.vedshruti.com/",
+        "practitioners": "https://www.vedshruti.com/",
+        "address": "https://www.vedshruti.com/contact-us/",
+        "phone": "https://www.vedshruti.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedshruti-ayurveda-and-panchakarma-center"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Kalwa",
       "practitioners": [
         {
@@ -6162,6 +10210,36 @@
         {
           "name": "Dr. Karishma Lad",
           "qualification": "BAMS; Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Trupti Vasant Pathare",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Snehal Thorat",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Snehaa V. Patil",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Pallavi Kishor Shinde",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Rohini Shinde",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        },
+        {
+          "name": "Dr Yogita Rahul Gorde",
+          "qualification": "BAMS, Preventive Cardiology",
           "registration": null
         }
       ],

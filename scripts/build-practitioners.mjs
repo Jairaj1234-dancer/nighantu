@@ -35,7 +35,7 @@ const CURE = /\b(cure[ds]?|curing|healed|got rid of|gone|disappeared|reversed|tr
  * named condition beside the treatment ("visited for cervical spondylosis") read as claims of effect,
  * which this site does not make in its own voice and does not republish in anyone else's.
  */
-const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transformed|revitali[sz]\w*|rejuvenat\w*|for my health|for our health|feel(ing)? better|felt better|sleep|sorrow|relief|reliev\w*|improv\w*|pain|spondyl\w*|arthrit\w*|diabet\w*|thyroid|bp\b|pressure|weight|piles|fistula)\b/i;
+const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transformed|revitali[sz]\w*|rejuvenat\w*|for my health|for our health|feel(ing)? better|felt better|sleep|sorrow|relief|reliev\w*|improv\w*|pain|spondyl\w*|arthrit\w*|diabet\w*|thyroid|bp\b|pressure|weight|piles|fistula|detox\w*|healthy|healthier)\b/i;
 /**
  * The locality a page is grouped under: the standard area a reader searches by ("Thane West"), not
  * the sub-area a clinic happens to print ("Vishnu Nagar, Naupada, Thane West"). The sub-area is kept,
