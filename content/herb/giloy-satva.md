@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Giloy-Satva/meta-analysis.md"
 ## Recent safety updates
 
 - Generally considered safe at doses up to 2000 mg/kg in acute toxicity studies; 28-day repeated dose study (OECD-407 compliant under GLP) confirmed safety up to 1000 mg/kg/day with no mortality or toxicological manifestation
-- IMPORTANT: Post-COVID reports of [Giloy](/herb/guduchi/)-associated hepatotoxicity emerged; however, evidence suggests the hepatotoxic species may be Tinospora crispa (not T. cordifolia) or contaminated/adulterated products; autoimmune hepatitis unmasking is a proposed mechanism in susceptible individuals; caution advised in patients with pre-existing liver conditions
+- IMPORTANT: Post-COVID reports of [Giloy](/herb/guduchi/)-associated hepatotoxicity emerged; the related species Tinospora crispa has its own published hepatitis cases, but the Mumbai group identified the plant material its patients had used as T. cordifolia by DNA barcoding ([Nagral 2023](https://pubmed.ncbi.nlm.nih.gov/36950495/)), and some retrieved products also contained metals or solvents ([Kulkarni 2022](https://pubmed.ncbi.nlm.nih.gov/35037744/)); autoimmune hepatitis unmasking is a proposed mechanism in susceptible individuals; caution advised in patients with pre-existing liver conditions
 
 ## Dosage forms and preparation
 

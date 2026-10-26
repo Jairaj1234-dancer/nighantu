@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Aloe-Vera/meta-analysis.md"
 ## Recent safety updates
 
 - 48 known moderate drug interactions documented (Drugs.com interaction checker).
-- Hepatotoxicity concern: 22 reported cases of liver injury attributed to Aloe vera preparations (17 women, 5 men, mean age 50). Hepatocellular injury most common manifestation (86.3%). Latency 3-24 weeks.
+- Hepatotoxicity concern: NIH [LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK548634/) rates oral aloe vera a likely but rare cause of clinically apparent liver injury, on about a dozen published cases, none fatal ([Bottenberg 2007](https://pubmed.ncbi.nlm.nih.gov/17726067/); [Yang 2010](https://pubmed.ncbi.nlm.nih.gov/20191055/)).
 - [Alkaloids](/glossary/compounds-1-a/#alkaloids) in aloe vera enhance hepatic [enzymes](/glossary/compounds-d-g/#enzymes) and alcohol dehydrogenase activity, potentially interfering with detoxification mechanisms.
 - Oral ingestion associated with diarrhea, hypokalemia, pseudomelanosis coli, and kidney failure.
 - Topical use may cause phototoxicity and hypersensitive reactions in susceptible individuals.

@@ -19,15 +19,20 @@
     "published": "2026-09-17",
     "modified": "2026-09-17"
   },
+  "choosing/ayurvedic-herbs-and-liver-injury": {
+    "hash": "deb27d261467d410",
+    "published": "2026-10-26",
+    "modified": "2026-10-26"
+  },
   "choosing/citing-the-classical-texts": {
     "hash": "ad9b58f846cd5a3d",
     "published": "2026-10-09",
     "modified": "2026-10-22"
   },
   "choosing/label-dose-against-the-formulary": {
-    "hash": "62d41d892aef9c20",
+    "hash": "babe1a94e00510d6",
     "published": "2026-10-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "choosing/one-herb-several-names": {
     "hash": "a1f153fc9bcb73e4",
@@ -1300,7 +1305,7 @@
     "modified": "2026-09-19"
   },
   "herb": {
-    "hash": "ce0b80c982e83b4a",
+    "hash": "1f30a0c02a509618",
     "published": "2026-09-09",
     "modified": "2026-10-26"
   },
@@ -1395,9 +1400,9 @@
     "modified": "2026-10-22"
   },
   "herb/aloe-vera": {
-    "hash": "7d84ccab3a3aacd4",
+    "hash": "e20a26c5b97e867c",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-10-26"
   },
   "herb/ambasthaki": {
     "hash": "a9b4dbb8772c78d8",
@@ -1980,9 +1985,9 @@
     "modified": "2026-10-21"
   },
   "herb/giloy-satva": {
-    "hash": "63f3155eff7fa1af",
+    "hash": "48657b5c708a9b2d",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-10-26"
   },
   "herb/ginger": {
     "hash": "831047ac5b6a98e9",
