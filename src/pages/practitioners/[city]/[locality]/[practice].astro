@@ -1,0 +1,113 @@
+---
+/**
+ * One practice location. The page states the four admitted fields first, each with the source it was
+ * read from and the date, then what the practice itself publishes about its services and its patients.
+ *
+ * The structured data is MedicalClinic with a PostalAddress and the telephone, which is what an answer
+ * engine needs to place a practice and to answer "an Ayurvedic doctor near me". Testimonials are shown
+ * as quotations from the practice's own site and are deliberately NOT marked up as Review: they are the
+ * practice's selection, and presenting them as independent reviews would misdescribe them.
+ */
+import Page from '../../../../layouts/Page.astro';
+import { cities, practices, urlOf, telHref, cityOf, localityOf, stateOf } from '../../../../lib/practitioners';
+import { abs, rel, PUBLISHER } from '../../../../lib/site';
+
+export function getStaticPaths() {
+  return practices.map((p) => ({ params: { city: cityOf(p), locality: localityOf(p), practice: p.id }, props: { p } }));
+}
+const { p } = Astro.props as any;
+const city = cities().find((c) => c.slug === cityOf(p))!;
+const locality = city.localities.find((l) => l.slug === localityOf(p))!;
+const canonical = urlOf(p);
+const doctors = p.practitioners.map((d: any) => d.name);
+const where = `${p.address.locality}, ${p.address.city}`;
+const title = `${p.practiceName}, ${where}: Ayurvedic practitioner ${doctors[0]}${doctors.length > 1 ? ` and ${doctors.length - 1} more` : ''}`;
+const description = `${p.practiceName} is an Ayurvedic practice in ${where}. ${doctors.length === 1 ? 'Practitioner' : 'Practitioners'}: ${doctors.join(', ')}. Address: ${p.address.line}, ${where} ${p.address.pin}. Phone: ${p.phone.join(', ')}.`;
+const others = locality.practices.filter((x: any) => x.id !== p.id).slice(0, 8);
+
+const clinic = {
+  '@context': 'https://schema.org',
+  '@type': 'MedicalClinic',
+  '@id': `${abs(canonical)}#practice`,
+  name: p.practiceName,
+  description: `Ayurvedic practice in ${where}.`,
+  url: p.website || abs(canonical),
+  telephone: p.phone[0],
+  ...(p.email ? { email: p.email } : {}),
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: p.address.line,
+    addressLocality: p.address.locality,
+    ...(stateOf(p) ? { addressRegion: stateOf(p) } : {}),
+    postalCode: p.address.pin,
+    addressCountry: 'IN',
+  },
+  ...(p.geo ? { geo: { '@type': 'GeoCoordinates', latitude: p.geo.lat, longitude: p.geo.lon } } : {}),
+  ...(p.hours ? { openingHours: p.hours } : {}),
+  knowsAbout: ['Ayurveda', ...(p.services ?? [])],
+  employee: p.practitioners.map((d: any) => ({
+    '@type': 'Person',
+    name: d.name,
+    jobTitle: 'Ayurvedic practitioner',
+    ...(d.qualification ? { hasCredential: { '@type': 'EducationalOccupationalCredential', name: d.qualification } } : {}),
+  })),
+  ...(p.website ? { sameAs: [p.website, ...(p.reviewLinks ?? []).map((r: any) => r.url)] } : {}),
+};
+const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', address: 'Address', phone: 'Phone' } as Record<string, string>;
+---
+<Page
+  title={title}
+  description={description}
+  canonical={canonical}
+  updated={p.checkedOn}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: city.name, href: `/practitioners/${city.slug}/` }, { label: locality.name, href: `/practitioners/${city.slug}/${locality.slug}/` }, { label: p.practiceName }]}
+  jsonld={clinic}
+>
+  <h1>{p.practiceName}</h1>
+  <p class="answer">Ayurvedic practice in {where}. {doctors.length === 1 ? 'Practitioner' : 'Practitioners'}: {doctors.join(', ')}.</p>
+
+  <dl class="facts">
+    <dt>Practitioners</dt>
+    <dd>{p.practitioners.map((d: any, i: number) => (
+      <span>{i > 0 && '; '}{d.name}{d.qualification && <>, {d.qualification}</>}{d.registration && <>, registration <a href={d.registration.source}>{d.registration.number}</a></>}</span>
+    ))}</dd>
+    <dt>Address</dt><dd>{p.address.line}, {where} {p.address.pin}</dd>
+    <dt>Phone</dt><dd>{p.phone.map((t: string, i: number) => <>{i > 0 && ', '}<a href={telHref(t)}>{t}</a></>)}</dd>
+    {p.website && <><dt>Website</dt><dd><a href={p.website} rel="noopener">{p.website.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a></dd></>}
+    {p.email && <><dt>Email</dt><dd>{p.email}</dd></>}
+    {p.hours && <><dt>Hours, as published</dt><dd>{p.hours}</dd></>}
+    {p.services?.length > 0 && <><dt>Services, as published</dt><dd>{p.services.join(', ')}</dd></>}
+  </dl>
+
+  {p.testimonials?.length > 0 && (
+    <section>
+      <h2>What patients say, as published by the practice</h2>
+      <p class="note">These are quoted from the practice's own website, which chooses what to publish. They are not independent reviews, and nothing here is a claim that any treatment works.</p>
+      {p.testimonials.map((t: any) => (
+        <blockquote><p>{t.excerpt}</p><footer>{t.attribution}, <a href={t.url} rel="noopener">source</a></footer></blockquote>
+      ))}
+    </section>
+  )}
+
+  {p.reviewLinks?.length > 0 && (
+    <section>
+      <h2>Reviews elsewhere</h2>
+      <ul>{p.reviewLinks.map((r: any) => <li><a href={r.url} rel="noopener nofollow">{r.platform}</a></li>)}</ul>
+    </section>
+  )}
+
+  <section>
+    <h2>Where each detail comes from</h2>
+    <ul class="sources">
+      {Object.entries(p.sources).filter(([k]) => FIELD[k]).map(([k, u]) => <li>{FIELD[k]}: <a href={u as string} rel="noopener">{(u as string).replace(/^https?:\/\/(www\.)?/, '').slice(0, 70)}</a></li>)}
+    </ul>
+    <p class="note">Checked {p.checkedOn}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice. If you run this practice and a detail is wrong, or you want the listing removed, write to us through the <a href={rel('/corrections/')}>corrections page</a> and we will act on it.</p>
+  </section>
+
+  {others.length > 0 && (
+    <section>
+      <h2>Other Ayurvedic practices in {locality.name}</h2>
+      <ul>{others.map((o: any) => <li><a href={rel(urlOf(o))}>{o.practiceName}</a>, {o.practitioners[0].name}</li>)}</ul>
+    </section>
+  )}
+</Page>

@@ -1,0 +1,19 @@
+---
+/** Method, limits and the correction route, stated once and linked from every directory page. */
+import Page from '../../layouts/Page.astro';
+import { rel } from '../../lib/site';
+---
+<Page title="How the Ayurvedic practitioner directory is made" description="What it takes to be listed, where every detail comes from, what a listing does not mean, and how a practice can correct or remove its entry." canonical="/practitioners/about/" trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: 'How it is made' }]}>
+  <h1>How the directory is made</h1>
+  <h2>What it takes to be listed</h2>
+  <p>A practice is listed only when all four of these are published for it: the name of an Ayurvedic practitioner who practises there, the name of the practice, a full address with PIN code, and a business telephone number. If any one is missing, the practice is not listed.</p>
+  <h2>Where the details come from</h2>
+  <p>Every detail is read from the practice's own website or from an official list, such as a government or teaching-hospital listing. Each listing shows the address it was read from and the date it was checked. Nothing is copied from map, booking or review platforms. Where a practice has pages on those platforms, the listing links to them and copies nothing from them.</p>
+  <p>Only business numbers that the practice itself publishes are listed. Personal numbers are never collected.</p>
+  <h2>What patients say</h2>
+  <p>Where a practice publishes testimonials on its own website, the listing quotes a few short excerpts with a link to the original. They are the practice's own selection, not independent reviews. Testimonials that claim to cure or treat a named disease are left out.</p>
+  <h2>What a listing does not mean</h2>
+  <p>A listing is not an endorsement, a rating or a referral. Age Ayurveda has no arrangement with the practices listed and receives nothing from them. Registration numbers are shown where one is published; where none is shown, registration has not yet been checked.</p>
+  <h2>Correcting or removing a listing</h2>
+  <p>If you run a listed practice and a detail is wrong, or you want the listing removed, write to us through the <a href={rel('/corrections/')}>corrections page</a>. We act on removal requests without asking for a reason. A page where practitioners can verify and submit their own details is planned.</p>
+</Page>
