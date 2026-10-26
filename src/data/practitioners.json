@@ -5167,6 +5167,262 @@
       "id": "urja-ayurveda-anand-vihar"
     },
     {
+      "practiceName": "Lok Nayak Hospital, Charak Ayur Kendra (Charak Panchkarma Centre)",
+      "practitioners": [
+        {
+          "name": "Dr Akhilesh C Vashishtha",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "OPD Block, 7th Floor, Lok Nayak Hospital, Jawaharlal Nehru Marg, Maulana Azad Medical College campus, Delhi Gate",
+        "locality": "Daryaganj",
+        "city": "Delhi",
+        "pin": "110002"
+      },
+      "phone": [
+        "+91 11 2323 6000"
+      ],
+      "website": "https://lnjp.delhi.gov.in/hi/node/9570",
+      "email": null,
+      "hours": "Monday to Friday 8:30 am to 12:30 pm; Saturday 8:30 am to 11:30 am",
+      "services": [
+        "Ayurveda OPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://lnjp.delhi.gov.in/hi/node/9570",
+        "practitioners": "https://lnjp.delhi.gov.in/hi/node/9571",
+        "address": "https://lnjp.delhi.gov.in/hi/node/9571",
+        "phone": "https://lnjp.delhi.gov.in/hi/node/9571"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "lok-nayak-hospital-charak-ayur-kendra-charak-panchkarma"
+    },
+    {
+      "practiceName": "Ayurvedic Vaidya Shala (Kerala Ayurvedic Vaidyashala), Dwarka",
+      "practitioners": [
+        {
+          "name": "Dr Deepak P K",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Shalini Jha",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Phoolchandra Prajapati",
+          "qualification": "BAMS, CRAV",
+          "registration": null
+        },
+        {
+          "name": "Dr Aditya Suresh",
+          "qualification": "BAMS, MHA",
+          "registration": null
+        },
+        {
+          "name": "Dr Diksha Nighah",
+          "qualification": "MD (Kaumarabhritya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Old Shiksha Bharati Public School building, opposite Khadi Gram Udyog, 467 Ramphal Chowk Road, Sector 7",
+        "locality": "Dwarka",
+        "city": "Delhi",
+        "pin": "110075"
+      },
+      "phone": [
+        "+91 83869 90337"
+      ],
+      "website": "https://ayurvedicvaidyashala.in/",
+      "email": "ayurvedicvaidyashala@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Online consultation",
+        "Kerala Panchakarma therapies",
+        "Geriatric care with pick-up and drop",
+        "Women's care",
+        "Anorectal care",
+        "Cashless facility for CGHS, CAPF and Ayushman card holders"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedicvaidyashala.in/contact-us-dwarka/",
+        "practitioners": "https://ayurvedicvaidyashala.in/our-doctors/",
+        "address": "https://ayurvedicvaidyashala.in/contact-us-dwarka/",
+        "phone": "https://ayurvedicvaidyashala.in/contact-us-dwarka/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurvedic-vaidya-shala-kerala-ayurvedic-vaidyashala-dwarka"
+    },
+    {
+      "practiceName": "Karma Ayurveda Hospital (Ayurvedic Day Care Clinic), Dwarka",
+      "practitioners": [
+        {
+          "name": "Dr Sippy Mehta",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Puneet Dhawan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-254, Ground and First Floor, Sector 8",
+        "locality": "Dwarka",
+        "city": "Delhi",
+        "pin": "110077"
+      },
+      "phone": [
+        "+91 99719 28080"
+      ],
+      "website": "https://www.karmaayurveda.com/delhi-dwarka",
+      "email": "drkarmaayurveda@gmail.com",
+      "hours": "Monday to Saturday 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma therapies",
+        "Uttar Basti",
+        "Dietary and lifestyle guidance",
+        "Follow-up consultations"
+      ],
+      "sources": {
+        "practiceName": "https://www.karmaayurveda.com/delhi-dwarka",
+        "practitioners": "https://www.karmaayurveda.com/delhi-dwarka",
+        "address": "https://www.karmaayurveda.com/delhi-dwarka",
+        "phone": "https://www.karmaayurveda.com/delhi-dwarka"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "karma-ayurveda-hospital-ayurvedic-day-care-clinic-dwarka"
+    },
+    {
+      "practiceName": "Sanjeevani Ayurveda, Dwarka",
+      "practitioners": [
+        {
+          "name": "Dr C P Verma",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vijay Kumar Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 54, Upper Ground Floor, Opposite Pragati Public School (Gate No 2), Near Reliance Mall, Sector 13B",
+        "locality": "Dwarka",
+        "city": "Delhi",
+        "pin": "110078"
+      },
+      "phone": [
+        "+91 11 4503 4048",
+        "+91 95601 13189"
+      ],
+      "website": "https://sanjeevaniayurveda.com/",
+      "email": "info@sanjeevaniayurveda.com",
+      "hours": "Centre timing 8:00 AM to 8:00 PM; consulting 10:00 AM to 1:00 PM and 4:00 PM to 7:00 PM; Wednesday weekly off",
+      "services": [
+        "Panchakarma",
+        "Pain management and rehabilitation",
+        "Padabhyanga",
+        "Udwarthanam",
+        "Swedanam",
+        "Podi Kizhi",
+        "Shirodhara",
+        "Nasyam",
+        "Women's health consultation",
+        "Immunity and rejuvenation",
+        "Elderly care"
+      ],
+      "sources": {
+        "practiceName": "https://sanjeevaniayurveda.com/contact-us/",
+        "practitioners": "https://sanjeevaniayurveda.com/",
+        "address": "https://sanjeevaniayurveda.com/contact-us/",
+        "phone": "https://sanjeevaniayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinic/sanjeevani-ayurveda-dwarka-3"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sanjeevani-ayurveda-dwarka"
+    },
+    {
+      "practiceName": "TarunVeda Ayurveda Hospital, Dwarka",
+      "practitioners": [
+        {
+          "name": "Dr Nisha Srivas",
+          "qualification": "BAMS, PG Diploma in Panchakarma, Diploma in Mental Health Counselling",
+          "registration": null
+        },
+        {
+          "name": "Dr Neethu K V",
+          "qualification": null,
+          "registration": {
+            "number": "20810",
+            "source": "https://tarunveda.com/about-us/doctors/"
+          }
+        }
+      ],
+      "address": {
+        "line": "318-319, 3rd Floor, D-21, Corporate Park, Sector 21",
+        "locality": "Dwarka",
+        "city": "Delhi",
+        "pin": "110077"
+      },
+      "phone": [
+        "+91 93197 97144",
+        "+91 11 4602 7481",
+        "+91 93191 43889"
+      ],
+      "website": "https://tarunveda.com/",
+      "email": "info@tarunveda.com",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma (Vamana, Virechana, Nasyam, Raktamokshana, Sneha Basti / Anuvasan Basti)",
+        "Shirodhara",
+        "Abhyangam",
+        "Udvartanam",
+        "Janu Basti",
+        "Greeva Basti",
+        "Patra Pind Swedanam (Potli)",
+        "Netra Tarpan",
+        "Kshara Karma",
+        "Agni Karma",
+        "Cupping",
+        "Naturopathy",
+        "Therapeutic yoga"
+      ],
+      "sources": {
+        "practiceName": "https://tarunveda.com/contact-us/",
+        "practitioners": "https://tarunveda.com/about-us/doctors/",
+        "address": "https://tarunveda.com/contact-us/",
+        "phone": "https://tarunveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "tarunveda-ayurveda-hospital-dwarka"
+    },
+    {
       "practiceName": "Kerala Ayurveda East of Kailash Wellness Clinic",
       "practitioners": [
         {
@@ -5368,6 +5624,459 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "ganesha-ayurveda"
+    },
+    {
+      "practiceName": "Central Ayurveda Research Institute (CCRAS, Ministry of Ayush), Janakpuri",
+      "practitioners": [
+        {
+          "name": "Dr Sarada Ota",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Hemanta Panigrahi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sakshi Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Seema Jain",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Patel Kishorji Premaji",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mata Shweta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rajput Shiv Shankar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anu Bhatnagar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shaizi Layeeq",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Chandra Dwivedi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "61-65, opposite D Block, Janakpuri Institutional Area",
+        "locality": "Janakpuri",
+        "city": "Delhi",
+        "pin": "110058"
+      },
+      "phone": [
+        "+91 11 2852 5991",
+        "+91 11 2852 5488"
+      ],
+      "website": "https://ccras.nic.in/cari-new-delhi/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic OPD and IPD",
+        "Panchakarma",
+        "Ksharasutra OPD",
+        "ENT OPD",
+        "Eye OPD",
+        "Leech therapy OPD",
+        "Balroga OPD",
+        "Sandhi Roga OPD",
+        "Geriatric OPD",
+        "Preventive cardiology and lifestyle clinic",
+        "Clinical psychology",
+        "Physiotherapy",
+        "Pharmacy",
+        "Laboratory",
+        "X-ray"
+      ],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/cari-new-delhi/",
+        "practitioners": "https://ccras.nic.in/wp-content/uploads/2023/08/Delhi-1.pdf",
+        "address": "https://ccras.nic.in/cari-new-delhi/",
+        "phone": "https://ccras.nic.in/cari-new-delhi/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "central-ayurveda-research-institute-ccras-ministry-of-ayush"
+    },
+    {
+      "practiceName": "Karma Ayurveda Hospital (Ayurvedic Day Care Clinic), Janakpuri",
+      "practitioners": [
+        {
+          "name": "Dr Nidhi Dagar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Puneet Dhawan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A1-11, Ground Floor",
+        "locality": "Janakpuri",
+        "city": "Delhi",
+        "pin": "110058"
+      },
+      "phone": [
+        "+91 99719 28080"
+      ],
+      "website": "https://www.karmaayurveda.com/delhi-janakpuri",
+      "email": "drkarmaayurveda@gmail.com",
+      "hours": "Monday to Saturday 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma therapies",
+        "Dietary and lifestyle guidance",
+        "Follow-up consultations"
+      ],
+      "sources": {
+        "practiceName": "https://www.karmaayurveda.com/delhi-janakpuri",
+        "practitioners": "https://www.karmaayurveda.com/delhi-janakpuri",
+        "address": "https://www.karmaayurveda.com/delhi-janakpuri",
+        "phone": "https://www.karmaayurveda.com/delhi-janakpuri"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "karma-ayurveda-hospital-ayurvedic-day-care-clinic-janakpuri"
+    },
+    {
+      "practiceName": "SKK Ayurveda & Panchakarma, Janakpuri",
+      "practitioners": [
+        {
+          "name": "Dr Tarun Gupta",
+          "qualification": "BAMS (DU)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rani Gupta",
+          "qualification": "BAMS, MD (Ay. Gynae) (BHU)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "C-2/95, Near Kendriya Vidyalaya, Janak Puri",
+        "locality": "Janakpuri",
+        "city": "Delhi",
+        "pin": "110058"
+      },
+      "phone": [
+        "+91 98114 41562",
+        "+91 98114 40562",
+        "+91 11 4552 3443"
+      ],
+      "website": "https://www.ayurvedadoctor.net/",
+      "email": "drtarungupta@rediffmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Online consultation",
+        "Panchakarma",
+        "Pain treatments",
+        "Ayurvedic gynaecology",
+        "Skin and hair treatment",
+        "Digestive disorders"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedadoctor.net/",
+        "practitioners": "https://www.ayurvedadoctor.net/about-us/",
+        "address": "https://www.ayurvedadoctor.net/about-us/",
+        "phone": "https://www.ayurvedadoctor.net/about-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinic/kayakalp-ayurvedic-clinic-janak-puri"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "skk-ayurveda-and-panchakarma-janakpuri"
+    },
+    {
+      "practiceName": "Ayurvedic and Unani Tibbia College and Hospital (Government of NCT of Delhi), Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Manoj K Shamkuwar",
+          "qualification": "MD (Panchakarma), PhD",
+          "registration": {
+            "number": "DBCP/A/6881",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Nitin Jindal",
+          "qualification": "MD (Panchakarma)",
+          "registration": {
+            "number": "DBCP/A/6960",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Shruti Balabhim Joshi",
+          "qualification": "BAMS, MD, MA (Yogashastra)",
+          "registration": {
+            "number": "32527A",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Umesh Patil",
+          "qualification": "BAMS, MD (Ayu), PhD (Kayachikitsa)",
+          "registration": {
+            "number": "50303",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Rashmi Tokas Rana",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": {
+            "number": "60796",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Praveen Kumar Chaudhary",
+          "qualification": "MS (Ayu)",
+          "registration": {
+            "number": "DBCP/A/4075",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Prashant L Rasale",
+          "qualification": "MS, PhD (Shalya)",
+          "registration": {
+            "number": "DBCP/A/9164",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Santosh R Naik",
+          "qualification": "BAMS, MS",
+          "registration": {
+            "number": "26030",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Rajesh Kumar Chhoker",
+          "qualification": "MS (Ayu)",
+          "registration": {
+            "number": "DBCP/BA/7292",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Haramohan Moharana",
+          "qualification": "MS (Ay), PhD (Ay)",
+          "registration": {
+            "number": "DBCP/A/6892",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Poonam Dhruv",
+          "qualification": "BAMS, MS (Shalakya Tantra)",
+          "registration": {
+            "number": "DBCP/A/8432",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Bhagwan Sahaya Sharma",
+          "qualification": "MD (Kaumarbhritya), PhD (Ayu)",
+          "registration": {
+            "number": "DBCP7080",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Mukesh Kumar Meena",
+          "qualification": "MD (Kaumarbhritya)",
+          "registration": {
+            "number": "25830",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Neelam Gupta",
+          "qualification": "BAMS, CRAV, MD, Diploma in Yoga",
+          "registration": {
+            "number": "BCP(UP) 50250 / central 105619",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        },
+        {
+          "name": "Dr Sujata Rajan",
+          "qualification": "BAMS, MD, PhD (Scholar) Kriya Sharira",
+          "registration": {
+            "number": "DBCP/A/6883",
+            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
+          }
+        }
+      ],
+      "address": {
+        "line": "Ajmal Khan Road",
+        "locality": "Karol Bagh",
+        "city": "Delhi",
+        "pin": "110005"
+      },
+      "phone": [
+        "+91 11 2083 8315",
+        "+91 11 2352 4180"
+      ],
+      "website": "https://autch.delhi.gov.in/",
+      "email": "ms-officeitibbia@delhi.gov.in",
+      "hours": null,
+      "services": [
+        "Ayurveda OPD and IPD",
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Kaumarabhritya (paediatrics)",
+        "Rog Nidan"
+      ],
+      "sources": {
+        "practiceName": "https://autch.delhi.gov.in/autch/contact-us",
+        "practitioners": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx",
+        "address": "https://autch.delhi.gov.in/autch/contact-us",
+        "phone": "https://autch.delhi.gov.in/autch/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurvedic-and-unani-tibbia-college-and-hospital-government"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Karol Bagh",
+      "practitioners": [
+        {
+          "name": "Dr Jyoti Rastogi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Building No 6772, Block No 10, Street No 3, opposite Bali Nursing Home, Dev Nagar",
+        "locality": "Karol Bagh",
+        "city": "Delhi",
+        "pin": "110005"
+      },
+      "phone": [
+        "+91 70421 42727",
+        "+91 92667 14040"
+      ],
+      "website": "https://www.jiva.com/clinic/karol-bagh",
+      "email": "clinics@jiva.com",
+      "hours": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday 10:00 am to 7:00 pm; Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/karol-bagh",
+        "practitioners": "https://www.jiva.com/delhi/doctors/dr-jyoti-rastogi",
+        "address": "https://www.jiva.com/clinic/karol-bagh",
+        "phone": "https://www.jiva.com/clinic/karol-bagh"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Excellent consultation and service",
+          "attribution": "Harish Garg",
+          "url": "https://www.jiva.com/clinic/karol-bagh"
+        },
+        {
+          "excerpt": "Excellent consultation and good services",
+          "attribution": "Sunil Kumar",
+          "url": "https://www.jiva.com/clinic/karol-bagh"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinic/jiva-ayurveda-karol-bagh"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "jiva-ayurveda-clinic-karol-bagh"
+    },
+    {
+      "practiceName": "Shree Anandam Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Vaidya Sanghamitra Dash",
+          "qualification": "MD (Ayurveda), Rachana Shareer",
+          "registration": null
+        },
+        {
+          "name": "Dr Narayan G Shahane",
+          "qualification": "MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Praveen Kumar Sharma",
+          "qualification": "BAMS, MD (Bala Roga)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "21-B/6, Upper Ground Floor, New Rohtak Road, near Liberty Cinema, Block 21 B, Dev Nagar",
+        "locality": "Karol Bagh",
+        "city": "Delhi",
+        "pin": "110005"
+      },
+      "phone": [
+        "+91 96542 21300"
+      ],
+      "website": "https://www.shreeanandamayurveda.com/",
+      "email": "info@shreeanandamayurveda.com",
+      "hours": "Sunday to Saturday 9:00 am to 7:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "External therapies",
+        "Ayurvedic paediatrics",
+        "Ayurvedic urology",
+        "Wellness therapies",
+        "Ayurveda training courses"
+      ],
+      "sources": {
+        "practiceName": "https://www.shreeanandamayurveda.com/",
+        "practitioners": "https://www.shreeanandamayurveda.com/dr-vaidya-sanghamitra-dash",
+        "address": "https://www.shreeanandamayurveda.com/contact",
+        "phone": "https://www.shreeanandamayurveda.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "shree-anandam-ayurveda"
     },
     {
       "practiceName": "Jiva Ayurveda Clinic & Panchakarma Centre, Lajpat Nagar",
@@ -5826,6 +6535,156 @@
       "id": "ayurvedic-clinic-dr-reena-arora-mukherjee-nagar"
     },
     {
+      "practiceName": "Chaudhary Brahm Prakash Ayurved Charak Sansthan (Government Ayurveda Hospital), Khera Dabar",
+      "practitioners": [
+        {
+          "name": "Dr Sonal Chaturvedi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sanjeev Kaushik",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Seema Ahlawat",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr R N Garg",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pushpa Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Garima Bajaj",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Samita Puri",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rashmi Ranjan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Khera Dabar, Najafgarh",
+        "locality": "Najafgarh",
+        "city": "Delhi",
+        "pin": "110073"
+      },
+      "phone": [
+        "+91 88105 76375",
+        "+91 97104 44434"
+      ],
+      "website": "https://cbpacs.delhi.gov.in/",
+      "email": "cbpayurved@gmail.com",
+      "hours": "Morning OPD registration 8:00 am to 12:30 pm; OPD consultation 8:00 am to 2:00 pm (schedule w.e.f. 01.12.2025)",
+      "services": [
+        "Kayachikitsa OPD",
+        "Panchakarma OPD",
+        "Shalya OPD",
+        "Shalakya OPD",
+        "Balroga OPD",
+        "Prasuti Tantra and Stri Roga OPD",
+        "Agad Tantra OPD",
+        "Swasthya Rakshan OPD",
+        "Geriatric OPD",
+        "Casualty medical OPD",
+        "IPD"
+      ],
+      "sources": {
+        "practiceName": "https://cbpacs.delhi.gov.in/cbpacs/contact-us",
+        "practitioners": "https://cbpacs.delhi.gov.in/cbpacs/hospital-staff",
+        "address": "https://cbpacs.delhi.gov.in/cbpacs/contact-us",
+        "phone": "https://cbpacs.delhi.gov.in/cbpacs/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "chaudhary-brahm-prakash-ayurved-charak-sansthan-government"
+    },
+    {
+      "practiceName": "Sri Sri Ayurveda Panchkarma",
+      "practitioners": [
+        {
+          "name": "Dr Rajiv Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Priya Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anand Mishra",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-433, Shankar Road",
+        "locality": "New Rajinder Nagar",
+        "city": "Delhi",
+        "pin": "110060"
+      },
+      "phone": [
+        "+91 95553 26299"
+      ],
+      "website": "https://panchkarmatreatment.com/",
+      "email": "sstpdelhi@gmail.com",
+      "hours": "Monday to Sunday 9:00 am to 7:00 pm",
+      "services": [
+        "Abhyangam",
+        "Basti",
+        "Shirodhara",
+        "Virechana",
+        "Janu Basti",
+        "Shashtik Shali Pinda Sweda",
+        "Greeva Basti",
+        "Kati Basti",
+        "Marma therapy",
+        "Netra Tarpana",
+        "Vamana",
+        "Raktamokshana",
+        "Nasya",
+        "Udwartanam"
+      ],
+      "sources": {
+        "practiceName": "https://panchkarmatreatment.com/",
+        "practitioners": "https://panchkarmatreatment.com/about.php",
+        "address": "https://panchkarmatreatment.com/contact.php",
+        "phone": "https://panchkarmatreatment.com/contact.php"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The physicians here explain what each therapy is doing and why, which gave me confidence to complete it.",
+          "attribution": "Homemaker, Karol Bagh",
+          "url": "https://panchkarmatreatment.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinics/ayurveda-clinics/new-rajendra-nagar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sri-sri-ayurveda-panchkarma"
+    },
+    {
       "practiceName": "Sushruta Ayurvedic Clinic (Sushruta Ayurvedic Therapy Center)",
       "practitioners": [
         {
@@ -5918,6 +6777,147 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "holy-family-hospital-department-of-ayurveda"
+    },
+    {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinics & Panchakarma Centre, Delhi (Palam Colony)",
+      "practitioners": [
+        {
+          "name": "Dr Aaromal Vijay",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Dileeban K J",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/46, Vijay Enclave, Opp. Jindal Public School, Main Dabri Palam Road, Palam Colony",
+        "locality": "Palam",
+        "city": "Delhi",
+        "pin": "110045"
+      },
+      "phone": [
+        "+91 96056 00032",
+        "+91 70340 20057"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/delhi",
+      "email": "support@sreedhareeyam.com",
+      "hours": "Monday to Sunday 9:00 am to 5:30 pm",
+      "services": [
+        "Ayurvedic ophthalmology (Shalakya) consultation",
+        "Netra Tarpana",
+        "Panchakarma",
+        "Pizhichil",
+        "Udvartana",
+        "Shirodhara",
+        "Abhyanga"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.sreedhareeyam.com/delhi",
+        "practitioners": "https://clinics.sreedhareeyam.com/delhi",
+        "address": "https://clinics.sreedhareeyam.com/delhi",
+        "phone": "https://clinics.sreedhareeyam.com/delhi"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sreedhareeyam-ayurvedic-eye-clinics-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Nirmal Ayurved, Paschim Vihar",
+      "practitioners": [
+        {
+          "name": "Dr Prashant Jain",
+          "qualification": "BAMS, MD (Ayurveda), PhD (Scholar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "5/199, opposite Gurusharan Convent School, Block 5, Sunder Vihar",
+        "locality": "Paschim Vihar",
+        "city": "Delhi",
+        "pin": "110087"
+      },
+      "phone": [
+        "+91 74110 16510"
+      ],
+      "website": "https://www.nirmalayurved.co.in/",
+      "email": "nirmalayurved01@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation (clinic and online)",
+        "Panchakarma",
+        "Pain management",
+        "Ayurvedic gynaecology",
+        "Skin care",
+        "Metabolic and lifestyle consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.nirmalayurved.co.in/contact-us/",
+        "practitioners": "https://www.nirmalayurved.co.in/dr-prashant-jain/",
+        "address": "https://www.nirmalayurved.co.in/contact-us/",
+        "phone": "https://www.nirmalayurved.co.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "nirmal-ayurved-paschim-vihar"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, West Patel Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Shraddha Jain",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Rastogi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3/27, Ground Floor, near W Store and DAV Public School Chauraha, West Patel Nagar",
+        "locality": "Patel Nagar",
+        "city": "Delhi",
+        "pin": "110008"
+      },
+      "phone": [
+        "+91 11 4563 7292",
+        "+91 92667 14040"
+      ],
+      "website": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
+      "email": "clinics@jiva.com",
+      "hours": "Monday to Sunday 10:00 am to 7:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
+        "practitioners": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
+        "address": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
+        "phone": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Good contact with therapists, natural treatment methods.",
+          "attribution": "Marcin Jan",
+          "url": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinic/jiva-ayurveda-clinic-west-patel-nagar-patel-nagar/doctors"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "jiva-ayurveda-clinic-west-patel-nagar"
     },
     {
       "practiceName": "Aastha Ayurveda Clinic, Rani Bagh",
@@ -6127,6 +7127,151 @@
       ],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-pitampura"
+    },
+    {
+      "practiceName": "Sir Ganga Ram Hospital, Department of Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Preeti Chhabra",
+          "qualification": "BAMS, MD (Gujarat Ayurved University)",
+          "registration": null
+        },
+        {
+          "name": "Dr Madhav Batra",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sir Ganga Ram Hospital Marg",
+        "locality": "Rajinder Nagar",
+        "city": "Delhi",
+        "pin": "110060"
+      },
+      "phone": [
+        "+91 11 4225 4000",
+        "+91 11 3512 5600"
+      ],
+      "website": "https://sgrh.com/departments/ayurvedic",
+      "email": "gangaram@sgrh.com",
+      "hours": "Dr Preeti Chhabra OPD: Monday and Wednesday 4:00 pm to 6:00 pm (Room F-37)",
+      "services": [
+        "Panchakarma (Snehan, Swedan, Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Rasayana therapy",
+        "Ayurvedic diet and lifestyle guidance (Pathya Apathya, Dinacharya, Ritucharya)",
+        "Swasthavritta counselling"
+      ],
+      "sources": {
+        "practiceName": "https://sgrh.com/departments/ayurvedic",
+        "practitioners": "https://sgrh.com/departments/ayurvedic",
+        "address": "https://sgrh.com/contact-us",
+        "phone": "https://sgrh.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sir-ganga-ram-hospital-department-of-ayurveda"
+    },
+    {
+      "practiceName": "Aasha Ayurveda, Rajouri Garden",
+      "practitioners": [
+        {
+          "name": "Dr Chanchal Sharma",
+          "qualification": "BAMS, MD (AM), CGO, Certified in Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "J-146, Near Rajouri Garden Metro Station",
+        "locality": "Rajouri Garden",
+        "city": "Delhi",
+        "pin": "110027"
+      },
+      "phone": [
+        "+91 98117 73770"
+      ],
+      "website": "https://www.aashaayurveda.com/",
+      "email": "info@aashaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic fertility consultation",
+        "Uttar Basti",
+        "Kerala Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Virechana",
+        "Vamana",
+        "Kati Basti",
+        "Janu Basti",
+        "Nasya",
+        "Kizhi"
+      ],
+      "sources": {
+        "practiceName": "https://www.aashaayurveda.com/clinic-location",
+        "practitioners": "https://www.aashaayurveda.com/",
+        "address": "https://www.aashaayurveda.com/clinic-location",
+        "phone": "https://www.aashaayurveda.com/clinic-location"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I highly recommend Asha Ayurveda Clinic. The staff here is very cooperative, polite and helpful.",
+          "attribution": "Swastis Aggarwal",
+          "url": "https://www.aashaayurveda.com/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/delhi/clinic/asha-ayurveda-rajouri-garden"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "aasha-ayurveda-rajouri-garden"
+    },
+    {
+      "practiceName": "Arogya Nidhi Ayurvedic Clinic, Rajouri Garden",
+      "practitioners": [
+        {
+          "name": "Dr Munesh Sharma",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "DBCP Enrollment No. BA/8465",
+            "source": "https://www.arogyanidhi.com/about-us.html"
+          }
+        }
+      ],
+      "address": {
+        "line": "B-4/1, Rajouri Garden (Opposite Metro Pillar No. 378)",
+        "locality": "Rajouri Garden",
+        "city": "Delhi",
+        "pin": "110027"
+      },
+      "phone": [
+        "+91 98992 27193"
+      ],
+      "website": "https://www.arogyanidhi.com/",
+      "email": "clinicayurveda2373@gmail.com",
+      "hours": "Monday to Saturday 11 AM to 6 PM; Sunday off",
+      "services": [
+        "Ayurvedic consultation",
+        "Prakruti analysis",
+        "Nasya",
+        "Nabhi Purana",
+        "Swarna Prashana",
+        "Skin and hair consultation",
+        "Weight management",
+        "Yoga classes"
+      ],
+      "sources": {
+        "practiceName": "https://www.arogyanidhi.com/",
+        "practitioners": "https://www.arogyanidhi.com/about-us.html",
+        "address": "https://www.arogyanidhi.com/about-us.html",
+        "phone": "https://www.arogyanidhi.com/about-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "arogya-nidhi-ayurvedic-clinic-rajouri-garden"
     },
     {
       "practiceName": "Aastha Ayurveda Clinic, Rohini",
@@ -14435,1151 +15580,6 @@
       ],
       "checkedOn": "2026-10-26",
       "id": "sameera-piles-clinic-vashi-madar-mashuq-piles-clinic-group"
-    },
-    {
-      "practiceName": "Lok Nayak Hospital, Charak Ayur Kendra (Charak Panchkarma Centre)",
-      "practitioners": [
-        {
-          "name": "Dr Akhilesh C Vashishtha",
-          "qualification": "MD (Kayachikitsa)",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "OPD Block, 7th Floor, Lok Nayak Hospital, Jawaharlal Nehru Marg, Maulana Azad Medical College campus, Delhi Gate",
-        "locality": "Daryaganj",
-        "city": "New Delhi",
-        "pin": "110002"
-      },
-      "phone": [
-        "+91 11 2323 6000"
-      ],
-      "website": "https://lnjp.delhi.gov.in/hi/node/9570",
-      "email": null,
-      "hours": "Monday to Friday 8:30 am to 12:30 pm; Saturday 8:30 am to 11:30 am",
-      "services": [
-        "Ayurveda OPD",
-        "Panchakarma"
-      ],
-      "sources": {
-        "practiceName": "https://lnjp.delhi.gov.in/hi/node/9570",
-        "practitioners": "https://lnjp.delhi.gov.in/hi/node/9571",
-        "address": "https://lnjp.delhi.gov.in/hi/node/9571",
-        "phone": "https://lnjp.delhi.gov.in/hi/node/9571"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "lok-nayak-hospital-charak-ayur-kendra-charak-panchkarma"
-    },
-    {
-      "practiceName": "Ayurvedic Vaidya Shala (Kerala Ayurvedic Vaidyashala), Dwarka",
-      "practitioners": [
-        {
-          "name": "Dr Deepak P K",
-          "qualification": "BAMS",
-          "registration": null
-        },
-        {
-          "name": "Dr Shalini Jha",
-          "qualification": "BAMS, MD (Panchakarma)",
-          "registration": null
-        },
-        {
-          "name": "Dr Phoolchandra Prajapati",
-          "qualification": "BAMS, CRAV",
-          "registration": null
-        },
-        {
-          "name": "Dr Aditya Suresh",
-          "qualification": "BAMS, MHA",
-          "registration": null
-        },
-        {
-          "name": "Dr Diksha Nighah",
-          "qualification": "MD (Kaumarabhritya)",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "Old Shiksha Bharati Public School building, opposite Khadi Gram Udyog, 467 Ramphal Chowk Road, Sector 7",
-        "locality": "Dwarka",
-        "city": "New Delhi",
-        "pin": "110075"
-      },
-      "phone": [
-        "+91 83869 90337"
-      ],
-      "website": "https://ayurvedicvaidyashala.in/",
-      "email": "ayurvedicvaidyashala@gmail.com",
-      "hours": null,
-      "services": [
-        "Ayurvedic consultation",
-        "Online consultation",
-        "Kerala Panchakarma therapies",
-        "Geriatric care with pick-up and drop",
-        "Women's care",
-        "Anorectal care",
-        "Cashless facility for CGHS, CAPF and Ayushman card holders"
-      ],
-      "sources": {
-        "practiceName": "https://ayurvedicvaidyashala.in/contact-us-dwarka/",
-        "practitioners": "https://ayurvedicvaidyashala.in/our-doctors/",
-        "address": "https://ayurvedicvaidyashala.in/contact-us-dwarka/",
-        "phone": "https://ayurvedicvaidyashala.in/contact-us-dwarka/"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "ayurvedic-vaidya-shala-kerala-ayurvedic-vaidyashala-dwarka"
-    },
-    {
-      "practiceName": "Karma Ayurveda Hospital (Ayurvedic Day Care Clinic), Dwarka",
-      "practitioners": [
-        {
-          "name": "Dr Sippy Mehta",
-          "qualification": "BAMS, MD (Ayu)",
-          "registration": null
-        },
-        {
-          "name": "Dr Puneet Dhawan",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "B-254, Ground and First Floor, Sector 8",
-        "locality": "Dwarka",
-        "city": "New Delhi",
-        "pin": "110077"
-      },
-      "phone": [
-        "+91 99719 28080"
-      ],
-      "website": "https://www.karmaayurveda.com/delhi-dwarka",
-      "email": "drkarmaayurveda@gmail.com",
-      "hours": "Monday to Saturday 9:30 AM to 6:30 PM",
-      "services": [
-        "Ayurvedic consultation",
-        "Panchakarma therapies",
-        "Uttar Basti",
-        "Dietary and lifestyle guidance",
-        "Follow-up consultations"
-      ],
-      "sources": {
-        "practiceName": "https://www.karmaayurveda.com/delhi-dwarka",
-        "practitioners": "https://www.karmaayurveda.com/delhi-dwarka",
-        "address": "https://www.karmaayurveda.com/delhi-dwarka",
-        "phone": "https://www.karmaayurveda.com/delhi-dwarka"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "karma-ayurveda-hospital-ayurvedic-day-care-clinic-dwarka"
-    },
-    {
-      "practiceName": "Sanjeevani Ayurveda, Dwarka",
-      "practitioners": [
-        {
-          "name": "Dr C P Verma",
-          "qualification": "MD (Panchakarma)",
-          "registration": null
-        },
-        {
-          "name": "Dr Vijay Kumar Sharma",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "Plot No 54, Upper Ground Floor, Opposite Pragati Public School (Gate No 2), Near Reliance Mall, Sector 13B",
-        "locality": "Dwarka",
-        "city": "New Delhi",
-        "pin": "110078"
-      },
-      "phone": [
-        "+91 11 4503 4048",
-        "+91 95601 13189"
-      ],
-      "website": "https://sanjeevaniayurveda.com/",
-      "email": "info@sanjeevaniayurveda.com",
-      "hours": "Centre timing 8:00 AM to 8:00 PM; consulting 10:00 AM to 1:00 PM and 4:00 PM to 7:00 PM; Wednesday weekly off",
-      "services": [
-        "Panchakarma",
-        "Pain management and rehabilitation",
-        "Padabhyanga",
-        "Udwarthanam",
-        "Swedanam",
-        "Podi Kizhi",
-        "Shirodhara",
-        "Nasyam",
-        "Women's health consultation",
-        "Immunity and rejuvenation",
-        "Elderly care"
-      ],
-      "sources": {
-        "practiceName": "https://sanjeevaniayurveda.com/contact-us/",
-        "practitioners": "https://sanjeevaniayurveda.com/",
-        "address": "https://sanjeevaniayurveda.com/contact-us/",
-        "phone": "https://sanjeevaniayurveda.com/contact-us/"
-      },
-      "testimonials": [],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinic/sanjeevani-ayurveda-dwarka-3"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "sanjeevani-ayurveda-dwarka"
-    },
-    {
-      "practiceName": "TarunVeda Ayurveda Hospital, Dwarka",
-      "practitioners": [
-        {
-          "name": "Dr Nisha Srivas",
-          "qualification": "BAMS, PG Diploma in Panchakarma, Diploma in Mental Health Counselling",
-          "registration": null
-        },
-        {
-          "name": "Dr Neethu K V",
-          "qualification": null,
-          "registration": {
-            "number": "20810",
-            "source": "https://tarunveda.com/about-us/doctors/"
-          }
-        }
-      ],
-      "address": {
-        "line": "318-319, 3rd Floor, D-21, Corporate Park, Sector 21",
-        "locality": "Dwarka",
-        "city": "New Delhi",
-        "pin": "110077"
-      },
-      "phone": [
-        "+91 93197 97144",
-        "+91 11 4602 7481",
-        "+91 93191 43889"
-      ],
-      "website": "https://tarunveda.com/",
-      "email": "info@tarunveda.com",
-      "hours": null,
-      "services": [
-        "OPD",
-        "IPD",
-        "Panchakarma (Vamana, Virechana, Nasyam, Raktamokshana, Sneha Basti / Anuvasan Basti)",
-        "Shirodhara",
-        "Abhyangam",
-        "Udvartanam",
-        "Janu Basti",
-        "Greeva Basti",
-        "Patra Pind Swedanam (Potli)",
-        "Netra Tarpan",
-        "Kshara Karma",
-        "Agni Karma",
-        "Cupping",
-        "Naturopathy",
-        "Therapeutic yoga"
-      ],
-      "sources": {
-        "practiceName": "https://tarunveda.com/contact-us/",
-        "practitioners": "https://tarunveda.com/about-us/doctors/",
-        "address": "https://tarunveda.com/contact-us/",
-        "phone": "https://tarunveda.com/contact-us/"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "tarunveda-ayurveda-hospital-dwarka"
-    },
-    {
-      "practiceName": "Central Ayurveda Research Institute (CCRAS, Ministry of Ayush), Janakpuri",
-      "practitioners": [
-        {
-          "name": "Dr Sarada Ota",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Hemanta Panigrahi",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Sakshi Sharma",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Seema Jain",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Patel Kishorji Premaji",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Mata Shweta",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Rajput Shiv Shankar",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Anu Bhatnagar",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Shaizi Layeeq",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Pramod Chandra Dwivedi",
-          "qualification": null,
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "61-65, opposite D Block, Janakpuri Institutional Area",
-        "locality": "Janakpuri",
-        "city": "New Delhi",
-        "pin": "110058"
-      },
-      "phone": [
-        "+91 11 2852 5991",
-        "+91 11 2852 5488"
-      ],
-      "website": "https://ccras.nic.in/cari-new-delhi/",
-      "email": null,
-      "hours": null,
-      "services": [
-        "Ayurvedic OPD and IPD",
-        "Panchakarma",
-        "Ksharasutra OPD",
-        "ENT OPD",
-        "Eye OPD",
-        "Leech therapy OPD",
-        "Balroga OPD",
-        "Sandhi Roga OPD",
-        "Geriatric OPD",
-        "Preventive cardiology and lifestyle clinic",
-        "Clinical psychology",
-        "Physiotherapy",
-        "Pharmacy",
-        "Laboratory",
-        "X-ray"
-      ],
-      "sources": {
-        "practiceName": "https://ccras.nic.in/cari-new-delhi/",
-        "practitioners": "https://ccras.nic.in/wp-content/uploads/2023/08/Delhi-1.pdf",
-        "address": "https://ccras.nic.in/cari-new-delhi/",
-        "phone": "https://ccras.nic.in/cari-new-delhi/"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "central-ayurveda-research-institute-ccras-ministry-of-ayush"
-    },
-    {
-      "practiceName": "Karma Ayurveda Hospital (Ayurvedic Day Care Clinic), Janakpuri",
-      "practitioners": [
-        {
-          "name": "Dr Nidhi Dagar",
-          "qualification": "BAMS",
-          "registration": null
-        },
-        {
-          "name": "Dr Puneet Dhawan",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "A1-11, Ground Floor",
-        "locality": "Janakpuri",
-        "city": "New Delhi",
-        "pin": "110058"
-      },
-      "phone": [
-        "+91 99719 28080"
-      ],
-      "website": "https://www.karmaayurveda.com/delhi-janakpuri",
-      "email": "drkarmaayurveda@gmail.com",
-      "hours": "Monday to Saturday 9:30 AM to 6:30 PM",
-      "services": [
-        "Ayurvedic consultation",
-        "Panchakarma therapies",
-        "Dietary and lifestyle guidance",
-        "Follow-up consultations"
-      ],
-      "sources": {
-        "practiceName": "https://www.karmaayurveda.com/delhi-janakpuri",
-        "practitioners": "https://www.karmaayurveda.com/delhi-janakpuri",
-        "address": "https://www.karmaayurveda.com/delhi-janakpuri",
-        "phone": "https://www.karmaayurveda.com/delhi-janakpuri"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "karma-ayurveda-hospital-ayurvedic-day-care-clinic-janakpuri"
-    },
-    {
-      "practiceName": "SKK Ayurveda & Panchakarma, Janakpuri",
-      "practitioners": [
-        {
-          "name": "Dr Tarun Gupta",
-          "qualification": "BAMS (DU)",
-          "registration": null
-        },
-        {
-          "name": "Dr Rani Gupta",
-          "qualification": "BAMS, MD (Ay. Gynae) (BHU)",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "C-2/95, Near Kendriya Vidyalaya, Janak Puri",
-        "locality": "Janakpuri",
-        "city": "New Delhi",
-        "pin": "110058"
-      },
-      "phone": [
-        "+91 98114 41562",
-        "+91 98114 40562",
-        "+91 11 4552 3443"
-      ],
-      "website": "https://www.ayurvedadoctor.net/",
-      "email": "drtarungupta@rediffmail.com",
-      "hours": null,
-      "services": [
-        "Ayurvedic consultation",
-        "Online consultation",
-        "Panchakarma",
-        "Pain treatments",
-        "Ayurvedic gynaecology",
-        "Skin and hair treatment",
-        "Digestive disorders"
-      ],
-      "sources": {
-        "practiceName": "https://www.ayurvedadoctor.net/",
-        "practitioners": "https://www.ayurvedadoctor.net/about-us/",
-        "address": "https://www.ayurvedadoctor.net/about-us/",
-        "phone": "https://www.ayurvedadoctor.net/about-us/"
-      },
-      "testimonials": [],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinic/kayakalp-ayurvedic-clinic-janak-puri"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "skk-ayurveda-and-panchakarma-janakpuri"
-    },
-    {
-      "practiceName": "Ayurvedic and Unani Tibbia College and Hospital (Government of NCT of Delhi), Ayurveda Hospital",
-      "practitioners": [
-        {
-          "name": "Dr Manoj K Shamkuwar",
-          "qualification": "MD (Panchakarma), PhD",
-          "registration": {
-            "number": "DBCP/A/6881",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Nitin Jindal",
-          "qualification": "MD (Panchakarma)",
-          "registration": {
-            "number": "DBCP/A/6960",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Shruti Balabhim Joshi",
-          "qualification": "BAMS, MD, MA (Yogashastra)",
-          "registration": {
-            "number": "32527A",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Umesh Patil",
-          "qualification": "BAMS, MD (Ayu), PhD (Kayachikitsa)",
-          "registration": {
-            "number": "50303",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Rashmi Tokas Rana",
-          "qualification": "BAMS, MD (Ayu)",
-          "registration": {
-            "number": "60796",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Praveen Kumar Chaudhary",
-          "qualification": "MS (Ayu)",
-          "registration": {
-            "number": "DBCP/A/4075",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Prashant L Rasale",
-          "qualification": "MS, PhD (Shalya)",
-          "registration": {
-            "number": "DBCP/A/9164",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Santosh R Naik",
-          "qualification": "BAMS, MS",
-          "registration": {
-            "number": "26030",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Rajesh Kumar Chhoker",
-          "qualification": "MS (Ayu)",
-          "registration": {
-            "number": "DBCP/BA/7292",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Haramohan Moharana",
-          "qualification": "MS (Ay), PhD (Ay)",
-          "registration": {
-            "number": "DBCP/A/6892",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Poonam Dhruv",
-          "qualification": "BAMS, MS (Shalakya Tantra)",
-          "registration": {
-            "number": "DBCP/A/8432",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Bhagwan Sahaya Sharma",
-          "qualification": "MD (Kaumarbhritya), PhD (Ayu)",
-          "registration": {
-            "number": "DBCP7080",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Mukesh Kumar Meena",
-          "qualification": "MD (Kaumarbhritya)",
-          "registration": {
-            "number": "25830",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Neelam Gupta",
-          "qualification": "BAMS, CRAV, MD, Diploma in Yoga",
-          "registration": {
-            "number": "BCP(UP) 50250 / central 105619",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        },
-        {
-          "name": "Dr Sujata Rajan",
-          "qualification": "BAMS, MD, PhD (Scholar) Kriya Sharira",
-          "registration": {
-            "number": "DBCP/A/6883",
-            "source": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx"
-          }
-        }
-      ],
-      "address": {
-        "line": "Ajmal Khan Road",
-        "locality": "Karol Bagh",
-        "city": "New Delhi",
-        "pin": "110005"
-      },
-      "phone": [
-        "+91 11 2083 8315",
-        "+91 11 2352 4180"
-      ],
-      "website": "https://autch.delhi.gov.in/",
-      "email": "ms-officeitibbia@delhi.gov.in",
-      "hours": null,
-      "services": [
-        "Ayurveda OPD and IPD",
-        "Panchakarma",
-        "Kayachikitsa",
-        "Shalya Tantra",
-        "Shalakya Tantra",
-        "Kaumarabhritya (paediatrics)",
-        "Rog Nidan"
-      ],
-      "sources": {
-        "practiceName": "https://autch.delhi.gov.in/autch/contact-us",
-        "practitioners": "https://autch.delhi.gov.in/sites/default/files/autch/generic_multiple_files/ayurved_teachers_1_1_1_1_1.docx",
-        "address": "https://autch.delhi.gov.in/autch/contact-us",
-        "phone": "https://autch.delhi.gov.in/autch/contact-us"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "ayurvedic-and-unani-tibbia-college-and-hospital-government"
-    },
-    {
-      "practiceName": "Jiva Ayurveda Clinic, Karol Bagh",
-      "practitioners": [
-        {
-          "name": "Dr Jyoti Rastogi",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "Building No 6772, Block No 10, Street No 3, opposite Bali Nursing Home, Dev Nagar",
-        "locality": "Karol Bagh",
-        "city": "New Delhi",
-        "pin": "110005"
-      },
-      "phone": [
-        "+91 70421 42727",
-        "+91 92667 14040"
-      ],
-      "website": "https://www.jiva.com/clinic/karol-bagh",
-      "email": "clinics@jiva.com",
-      "hours": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday 10:00 am to 7:00 pm; Thursday closed",
-      "services": [
-        "Ayurvedic consultation",
-        "Panchakarma",
-        "Video consultation"
-      ],
-      "sources": {
-        "practiceName": "https://www.jiva.com/clinic/karol-bagh",
-        "practitioners": "https://www.jiva.com/delhi/doctors/dr-jyoti-rastogi",
-        "address": "https://www.jiva.com/clinic/karol-bagh",
-        "phone": "https://www.jiva.com/clinic/karol-bagh"
-      },
-      "testimonials": [
-        {
-          "excerpt": "Excellent consultation and service",
-          "attribution": "Harish Garg",
-          "url": "https://www.jiva.com/clinic/karol-bagh"
-        },
-        {
-          "excerpt": "Excellent consultation and good services",
-          "attribution": "Sunil Kumar",
-          "url": "https://www.jiva.com/clinic/karol-bagh"
-        }
-      ],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinic/jiva-ayurveda-karol-bagh"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "jiva-ayurveda-clinic-karol-bagh"
-    },
-    {
-      "practiceName": "Shree Anandam Ayurveda",
-      "practitioners": [
-        {
-          "name": "Dr Vaidya Sanghamitra Dash",
-          "qualification": "MD (Ayurveda), Rachana Shareer",
-          "registration": null
-        },
-        {
-          "name": "Dr Narayan G Shahane",
-          "qualification": "MS (Ayurveda)",
-          "registration": null
-        },
-        {
-          "name": "Dr Praveen Kumar Sharma",
-          "qualification": "BAMS, MD (Bala Roga)",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "21-B/6, Upper Ground Floor, New Rohtak Road, near Liberty Cinema, Block 21 B, Dev Nagar",
-        "locality": "Karol Bagh",
-        "city": "New Delhi",
-        "pin": "110005"
-      },
-      "phone": [
-        "+91 96542 21300"
-      ],
-      "website": "https://www.shreeanandamayurveda.com/",
-      "email": "info@shreeanandamayurveda.com",
-      "hours": "Sunday to Saturday 9:00 am to 7:00 pm",
-      "services": [
-        "Ayurvedic consultation",
-        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
-        "External therapies",
-        "Ayurvedic paediatrics",
-        "Ayurvedic urology",
-        "Wellness therapies",
-        "Ayurveda training courses"
-      ],
-      "sources": {
-        "practiceName": "https://www.shreeanandamayurveda.com/",
-        "practitioners": "https://www.shreeanandamayurveda.com/dr-vaidya-sanghamitra-dash",
-        "address": "https://www.shreeanandamayurveda.com/contact",
-        "phone": "https://www.shreeanandamayurveda.com/contact"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "shree-anandam-ayurveda"
-    },
-    {
-      "practiceName": "Chaudhary Brahm Prakash Ayurved Charak Sansthan (Government Ayurveda Hospital), Khera Dabar",
-      "practitioners": [
-        {
-          "name": "Dr Sonal Chaturvedi",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Sanjeev Kaushik",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Seema Ahlawat",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr R N Garg",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Pushpa Sharma",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Garima Bajaj",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Samita Puri",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Rashmi Ranjan",
-          "qualification": null,
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "Khera Dabar, Najafgarh",
-        "locality": "Najafgarh",
-        "city": "New Delhi",
-        "pin": "110073"
-      },
-      "phone": [
-        "+91 88105 76375",
-        "+91 97104 44434"
-      ],
-      "website": "https://cbpacs.delhi.gov.in/",
-      "email": "cbpayurved@gmail.com",
-      "hours": "Morning OPD registration 8:00 am to 12:30 pm; OPD consultation 8:00 am to 2:00 pm (schedule w.e.f. 01.12.2025)",
-      "services": [
-        "Kayachikitsa OPD",
-        "Panchakarma OPD",
-        "Shalya OPD",
-        "Shalakya OPD",
-        "Balroga OPD",
-        "Prasuti Tantra and Stri Roga OPD",
-        "Agad Tantra OPD",
-        "Swasthya Rakshan OPD",
-        "Geriatric OPD",
-        "Casualty medical OPD",
-        "IPD"
-      ],
-      "sources": {
-        "practiceName": "https://cbpacs.delhi.gov.in/cbpacs/contact-us",
-        "practitioners": "https://cbpacs.delhi.gov.in/cbpacs/hospital-staff",
-        "address": "https://cbpacs.delhi.gov.in/cbpacs/contact-us",
-        "phone": "https://cbpacs.delhi.gov.in/cbpacs/contact-us"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "chaudhary-brahm-prakash-ayurved-charak-sansthan-government"
-    },
-    {
-      "practiceName": "Sri Sri Ayurveda Panchkarma",
-      "practitioners": [
-        {
-          "name": "Dr Rajiv Sharma",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Priya Gupta",
-          "qualification": null,
-          "registration": null
-        },
-        {
-          "name": "Dr Anand Mishra",
-          "qualification": null,
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "F-433, Shankar Road",
-        "locality": "New Rajinder Nagar",
-        "city": "New Delhi",
-        "pin": "110060"
-      },
-      "phone": [
-        "+91 95553 26299"
-      ],
-      "website": "https://panchkarmatreatment.com/",
-      "email": "sstpdelhi@gmail.com",
-      "hours": "Monday to Sunday 9:00 am to 7:00 pm",
-      "services": [
-        "Abhyangam",
-        "Basti",
-        "Shirodhara",
-        "Virechana",
-        "Janu Basti",
-        "Shashtik Shali Pinda Sweda",
-        "Greeva Basti",
-        "Kati Basti",
-        "Marma therapy",
-        "Netra Tarpana",
-        "Vamana",
-        "Raktamokshana",
-        "Nasya",
-        "Udwartanam"
-      ],
-      "sources": {
-        "practiceName": "https://panchkarmatreatment.com/",
-        "practitioners": "https://panchkarmatreatment.com/about.php",
-        "address": "https://panchkarmatreatment.com/contact.php",
-        "phone": "https://panchkarmatreatment.com/contact.php"
-      },
-      "testimonials": [
-        {
-          "excerpt": "The physicians here explain what each therapy is doing and why, which gave me confidence to complete it.",
-          "attribution": "Homemaker, Karol Bagh",
-          "url": "https://panchkarmatreatment.com/"
-        }
-      ],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinics/ayurveda-clinics/new-rajendra-nagar"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "sri-sri-ayurveda-panchkarma"
-    },
-    {
-      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinics & Panchakarma Centre, Delhi (Palam Colony)",
-      "practitioners": [
-        {
-          "name": "Dr Aaromal Vijay",
-          "qualification": "BAMS",
-          "registration": null
-        },
-        {
-          "name": "Dr Dileeban K J",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "1/46, Vijay Enclave, Opp. Jindal Public School, Main Dabri Palam Road, Palam Colony",
-        "locality": "Palam",
-        "city": "New Delhi",
-        "pin": "110045"
-      },
-      "phone": [
-        "+91 96056 00032",
-        "+91 70340 20057"
-      ],
-      "website": "https://clinics.sreedhareeyam.com/delhi",
-      "email": "support@sreedhareeyam.com",
-      "hours": "Monday to Sunday 9:00 am to 5:30 pm",
-      "services": [
-        "Ayurvedic ophthalmology (Shalakya) consultation",
-        "Netra Tarpana",
-        "Panchakarma",
-        "Pizhichil",
-        "Udvartana",
-        "Shirodhara",
-        "Abhyanga"
-      ],
-      "sources": {
-        "practiceName": "https://clinics.sreedhareeyam.com/delhi",
-        "practitioners": "https://clinics.sreedhareeyam.com/delhi",
-        "address": "https://clinics.sreedhareeyam.com/delhi",
-        "phone": "https://clinics.sreedhareeyam.com/delhi"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "sreedhareeyam-ayurvedic-eye-clinics-and-panchakarma-centre"
-    },
-    {
-      "practiceName": "Nirmal Ayurved, Paschim Vihar",
-      "practitioners": [
-        {
-          "name": "Dr Prashant Jain",
-          "qualification": "BAMS, MD (Ayurveda), PhD (Scholar)",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "5/199, opposite Gurusharan Convent School, Block 5, Sunder Vihar",
-        "locality": "Paschim Vihar",
-        "city": "New Delhi",
-        "pin": "110087"
-      },
-      "phone": [
-        "+91 74110 16510"
-      ],
-      "website": "https://www.nirmalayurved.co.in/",
-      "email": "nirmalayurved01@gmail.com",
-      "hours": null,
-      "services": [
-        "Ayurvedic consultation (clinic and online)",
-        "Panchakarma",
-        "Pain management",
-        "Ayurvedic gynaecology",
-        "Skin care",
-        "Metabolic and lifestyle consultation"
-      ],
-      "sources": {
-        "practiceName": "https://www.nirmalayurved.co.in/contact-us/",
-        "practitioners": "https://www.nirmalayurved.co.in/dr-prashant-jain/",
-        "address": "https://www.nirmalayurved.co.in/contact-us/",
-        "phone": "https://www.nirmalayurved.co.in/contact-us/"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "nirmal-ayurved-paschim-vihar"
-    },
-    {
-      "practiceName": "Jiva Ayurveda Clinic, West Patel Nagar",
-      "practitioners": [
-        {
-          "name": "Dr Shraddha Jain",
-          "qualification": "BAMS",
-          "registration": null
-        },
-        {
-          "name": "Dr Jyoti Rastogi",
-          "qualification": "BAMS",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "3/27, Ground Floor, near W Store and DAV Public School Chauraha, West Patel Nagar",
-        "locality": "Patel Nagar",
-        "city": "New Delhi",
-        "pin": "110008"
-      },
-      "phone": [
-        "+91 11 4563 7292",
-        "+91 92667 14040"
-      ],
-      "website": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
-      "email": "clinics@jiva.com",
-      "hours": "Monday to Sunday 10:00 am to 7:00 pm",
-      "services": [
-        "Ayurvedic consultation",
-        "Panchakarma",
-        "Video consultation"
-      ],
-      "sources": {
-        "practiceName": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
-        "practitioners": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
-        "address": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar",
-        "phone": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar"
-      },
-      "testimonials": [
-        {
-          "excerpt": "Good contact with therapists, natural treatment methods.",
-          "attribution": "Marcin Jan",
-          "url": "https://www.jiva.com/clinic/delhi/delhi/patel-nagar"
-        }
-      ],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinic/jiva-ayurveda-clinic-west-patel-nagar-patel-nagar/doctors"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "jiva-ayurveda-clinic-west-patel-nagar"
-    },
-    {
-      "practiceName": "Sir Ganga Ram Hospital, Department of Ayurveda",
-      "practitioners": [
-        {
-          "name": "Dr Preeti Chhabra",
-          "qualification": "BAMS, MD (Gujarat Ayurved University)",
-          "registration": null
-        },
-        {
-          "name": "Dr Madhav Batra",
-          "qualification": null,
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "Sir Ganga Ram Hospital Marg",
-        "locality": "Rajinder Nagar",
-        "city": "New Delhi",
-        "pin": "110060"
-      },
-      "phone": [
-        "+91 11 4225 4000",
-        "+91 11 3512 5600"
-      ],
-      "website": "https://sgrh.com/departments/ayurvedic",
-      "email": "gangaram@sgrh.com",
-      "hours": "Dr Preeti Chhabra OPD: Monday and Wednesday 4:00 pm to 6:00 pm (Room F-37)",
-      "services": [
-        "Panchakarma (Snehan, Swedan, Vamana, Virechana, Basti, Nasya, Raktamokshana)",
-        "Rasayana therapy",
-        "Ayurvedic diet and lifestyle guidance (Pathya Apathya, Dinacharya, Ritucharya)",
-        "Swasthavritta counselling"
-      ],
-      "sources": {
-        "practiceName": "https://sgrh.com/departments/ayurvedic",
-        "practitioners": "https://sgrh.com/departments/ayurvedic",
-        "address": "https://sgrh.com/contact-us",
-        "phone": "https://sgrh.com/contact-us"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "sir-ganga-ram-hospital-department-of-ayurveda"
-    },
-    {
-      "practiceName": "Aasha Ayurveda, Rajouri Garden",
-      "practitioners": [
-        {
-          "name": "Dr Chanchal Sharma",
-          "qualification": "BAMS, MD (AM), CGO, Certified in Panchakarma",
-          "registration": null
-        }
-      ],
-      "address": {
-        "line": "J-146, Near Rajouri Garden Metro Station",
-        "locality": "Rajouri Garden",
-        "city": "New Delhi",
-        "pin": "110027"
-      },
-      "phone": [
-        "+91 98117 73770"
-      ],
-      "website": "https://www.aashaayurveda.com/",
-      "email": "info@aashaayurveda.com",
-      "hours": null,
-      "services": [
-        "Ayurvedic fertility consultation",
-        "Uttar Basti",
-        "Kerala Panchakarma",
-        "Abhyanga",
-        "Shirodhara",
-        "Virechana",
-        "Vamana",
-        "Kati Basti",
-        "Janu Basti",
-        "Nasya",
-        "Kizhi"
-      ],
-      "sources": {
-        "practiceName": "https://www.aashaayurveda.com/clinic-location",
-        "practitioners": "https://www.aashaayurveda.com/",
-        "address": "https://www.aashaayurveda.com/clinic-location",
-        "phone": "https://www.aashaayurveda.com/clinic-location"
-      },
-      "testimonials": [
-        {
-          "excerpt": "I highly recommend Asha Ayurveda Clinic. The staff here is very cooperative, polite and helpful.",
-          "attribution": "Swastis Aggarwal",
-          "url": "https://www.aashaayurveda.com/"
-        }
-      ],
-      "reviewLinks": [
-        {
-          "platform": "Practo",
-          "url": "https://www.practo.com/delhi/clinic/asha-ayurveda-rajouri-garden"
-        }
-      ],
-      "checkedOn": "2026-10-26",
-      "id": "aasha-ayurveda-rajouri-garden"
-    },
-    {
-      "practiceName": "Arogya Nidhi Ayurvedic Clinic, Rajouri Garden",
-      "practitioners": [
-        {
-          "name": "Dr Munesh Sharma",
-          "qualification": "BAMS",
-          "registration": {
-            "number": "DBCP Enrollment No. BA/8465",
-            "source": "https://www.arogyanidhi.com/about-us.html"
-          }
-        }
-      ],
-      "address": {
-        "line": "B-4/1, Rajouri Garden (Opposite Metro Pillar No. 378)",
-        "locality": "Rajouri Garden",
-        "city": "New Delhi",
-        "pin": "110027"
-      },
-      "phone": [
-        "+91 98992 27193"
-      ],
-      "website": "https://www.arogyanidhi.com/",
-      "email": "clinicayurveda2373@gmail.com",
-      "hours": "Monday to Saturday 11 AM to 6 PM; Sunday off",
-      "services": [
-        "Ayurvedic consultation",
-        "Prakruti analysis",
-        "Nasya",
-        "Nabhi Purana",
-        "Swarna Prashana",
-        "Skin and hair consultation",
-        "Weight management",
-        "Yoga classes"
-      ],
-      "sources": {
-        "practiceName": "https://www.arogyanidhi.com/",
-        "practitioners": "https://www.arogyanidhi.com/about-us.html",
-        "address": "https://www.arogyanidhi.com/about-us.html",
-        "phone": "https://www.arogyanidhi.com/about-us.html"
-      },
-      "testimonials": [],
-      "reviewLinks": [],
-      "checkedOn": "2026-10-26",
-      "id": "arogya-nidhi-ayurvedic-clinic-rajouri-garden"
     },
     {
       "practiceName": "Ayuquo Centrum, Noida",
