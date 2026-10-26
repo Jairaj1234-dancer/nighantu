@@ -35,8 +35,9 @@
     "ks"
   ],
   "summary": {
-    "pages": 271,
-    "names": 3761,
+    "pages": 269,
+    "names": 3747,
+    "identityCorrections": "src/data/name-identity-corrections.json",
     "fromPharmacopoeia": 967,
     "fromPharmacopoeiaAdjudicated": 903,
     "adjudicatedMonographs": 82,
@@ -48,21 +49,21 @@
     "duplicatesMerged": 567,
     "romanisationVariantsCollapsed": 279,
     "byLanguage": {
-      "Sanskrit": 656,
-      "Hindi": 499,
+      "Sanskrit": 653,
+      "Hindi": 494,
       "English": 152,
-      "Tamil": 504,
+      "Tamil": 501,
       "Malayalam": 217,
       "Telugu": 200,
       "Kannada": 309,
       "Marathi": 180,
       "Bengali": 198,
       "Gujarati": 216,
-      "Urdu": 138,
+      "Urdu": 136,
       "Punjabi": 176,
       "Oriya": 141,
       "Assamese": 129,
-      "Kashmiri": 46
+      "Kashmiri": 45
     }
   },
   "rejected": [
@@ -13567,55 +13568,6 @@
         }
       ]
     },
-    "herb/kankshi": {
-      "sa": [
-        {
-          "name": "रक्तिका",
-          "iast": "raktikā",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds, api-all.txt line 6424; root, line 21658, of Abrus precatorius Linn.), Sanskrit slot \"Raktika, Kakananti\"; MMPND Abrus page lists Sanskrit \"रक्तिका Raktika\""
-          ]
-        }
-      ],
-      "hi": [
-        {
-          "name": "घुंघची",
-          "iast": "ghuṃghacī",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Hindi slot \"Ratti, Ghungchi\""
-          ]
-        },
-        {
-          "name": "गुंजा",
-          "iast": "guṃjā",
-          "sources": [
-            "MMPND (plantnames.unimelb.edu.au/Sorting/Abrus.html) lists under HINDI for Abrus precatorius: \"Ganchi, Guncai, गुंच Gunch, Gunche, गुंची Gunchi, गुञ्जा Gunja, कूंच Kunch, माषा Masha, पाटहिका Patahika, करजनी, रत्ती Ratti\"."
-          ]
-        },
-        {
-          "name": "रत्ती",
-          "iast": "rattī",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Hindi slot \"Ratti, Ghungchi\"; MMPND Abrus page lists \"रत्ती Ratti\" under Hindi"
-          ]
-        }
-      ],
-      "ta": [
-        {
-          "name": "குன்றி",
-          "preferred": true,
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (seeds and root of Abrus precatorius Linn.), Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றி\" and \"குன்றிமணி\"."
-          ]
-        },
-        {
-          "name": "குன்றிமணி",
-          "sources": [
-            "Ayurvedic Pharmacopoeia of India, GUNJA monographs (Abrus precatorius Linn.), Tamil slots \"Kuntri, Kunrimani, Kundamani\" and \"Kunrimani, Kundumani\"; MMPND Abrus page lists Tamil \"குன்றிமணி\""
-          ]
-        }
-      ]
-    },
     "herb/kantakari": {
       "sa": [
         {
@@ -15622,41 +15574,6 @@
           "name": "நீலத்திருவத்தி",
           "sources": [
             "efloraofindia, Bauhinia purpurea: Tamil \"மந்தாரை (mandarai), நீலத்திருவத்தி (nilattiruvatti)\"."
-          ]
-        }
-      ]
-    },
-    "herb/kshavaka": {
-      "sa": [
-        {
-          "name": "तण्डुलीय",
-          "iast": "taṇḍulīya",
-          "sources": [
-            "Flowers of India, Prickly Amaranth page: Sanskrit \"सुशाक Sushaka, तण्डुलीय Tanduliya\"; efloraofindia gives the same pair."
-          ]
-        }
-      ],
-      "hi": [
-        {
-          "name": "कांटा चौलाई",
-          "iast": "kāṃṭā caulāī",
-          "sources": [
-            "Flowers of India / \"Names of Plants in India\", Prickly Amaranth page: Hindi \"कांटा चौलाई Kanta Chaulai\"; efloraofindia gives कांटा चौलाई."
-          ]
-        }
-      ],
-      "ta": [
-        {
-          "name": "முள்ளுக்கீரை",
-          "preferred": true,
-          "sources": [
-            "Flowers of India / \"Names of Plants in India\" Prickly Amaranth (Amaranthus spinosus) page gives Tamil \"முள்ளுக்கீரை Mullu-K-Kirai, முட்கீரை Mut-Kirai\"; efloraofindia gives the same two names for the species."
-          ]
-        },
-        {
-          "name": "முட்கீரை",
-          "sources": [
-            "Flowers of India, Prickly Amaranth page: Tamil \"முள்ளுக்கீரை Mullu-K-Kirai, முட்கீரை Mut-Kirai\"."
           ]
         }
       ]
@@ -23443,42 +23360,6 @@
         }
       ]
     },
-    "herb/rishabhaka": {
-      "sa": [
-        {
-          "name": "राजादन",
-          "iast": "rājādana",
-          "sources": [
-            "eFloraofIndia / Names of Plants in India, Manilkara hexandra, Sanskrit: क्षीरिणी, निम्बबिज, राजादन"
-          ]
-        }
-      ],
-      "hi": [
-        {
-          "name": "खिरनी",
-          "iast": "khiranī",
-          "preferred": true,
-          "sources": [
-            "eFloraofIndia / Names of Plants in India, Manilkara hexandra, Hindi: दृढ़ (drirh), खिरनी (khirni), क्षीरी (kshiri), रायन (rayan)."
-          ]
-        },
-        {
-          "name": "रायन",
-          "iast": "rāyana",
-          "sources": [
-            "eFloraofIndia / Names of Plants in India, Manilkara hexandra, Hindi: दृढ़, खिरनी, क्षीरी, रायन"
-          ]
-        }
-      ],
-      "ta": [
-        {
-          "name": "உலக்கைப்பாலை",
-          "sources": [
-            "eFloraofIndia / Names of Plants in India, Manilkara hexandra, Tamil: உலக்கைப்பாலை (ulakkai-p-palai)"
-          ]
-        }
-      ]
-    },
     "herb/rohitaka": {
       "sa": [
         {
@@ -26476,6 +26357,41 @@
             "Ayurvedic Pharmacopoeia of India (column alignment reconstructed)"
           ],
           "repairedFrom": "Bhuin Ami a"
+        }
+      ]
+    },
+    "herb/tanduliyaka": {
+      "sa": [
+        {
+          "name": "तण्डुलीय",
+          "iast": "taṇḍulīya",
+          "sources": [
+            "Flowers of India, Prickly Amaranth page: Sanskrit \"सुशाक Sushaka, तण्डुलीय Tanduliya\"; efloraofindia gives the same pair."
+          ]
+        }
+      ],
+      "hi": [
+        {
+          "name": "कांटा चौलाई",
+          "iast": "kāṃṭā caulāī",
+          "sources": [
+            "Flowers of India / \"Names of Plants in India\", Prickly Amaranth page: Hindi \"कांटा चौलाई Kanta Chaulai\"; efloraofindia gives कांटा चौलाई."
+          ]
+        }
+      ],
+      "ta": [
+        {
+          "name": "முள்ளுக்கீரை",
+          "preferred": true,
+          "sources": [
+            "Flowers of India / \"Names of Plants in India\" Prickly Amaranth (Amaranthus spinosus) page gives Tamil \"முள்ளுக்கீரை Mullu-K-Kirai, முட்கீரை Mut-Kirai\"; efloraofindia gives the same two names for the species."
+          ]
+        },
+        {
+          "name": "முட்கீரை",
+          "sources": [
+            "Flowers of India, Prickly Amaranth page: Tamil \"முள்ளுக்கீரை Mullu-K-Kirai, முட்கீரை Mut-Kirai\"."
+          ]
         }
       ]
     },

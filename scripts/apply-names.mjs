@@ -301,9 +301,29 @@ const byPage = Object.fromEntries(
     .sort(([a], [b]) => a.localeCompare(b)),
 );
 
-const total = withNames.reduce((a, p) => a + Object.values(p.names).reduce((x, n) => x + n.length, 0), 0);
+/**
+ * Pages whose identity was corrected after their names were gathered (src/data/name-identity-corrections.json).
+ * Kankshi's names were Gunja's and Rishabhaka's were Rajadana's, so the page said one drug and its
+ * names table another. Applied here so a regeneration cannot bring them back.
+ */
+const CORRECTIONS = JSON.parse(fs.readFileSync(path.join('src', 'data', 'name-identity-corrections.json'), 'utf8'));
+export function applyIdentityCorrections(table) {
+  for (const { page } of CORRECTIONS.drop ?? []) delete table[page];
+  for (const { from, to } of CORRECTIONS.move ?? []) {
+    if (!table[from]) continue;
+    if (table[to]) throw new Error(`name correction: ${to} already has names; merge by hand`);
+    table[to] = table[from];
+    delete table[from];
+  }
+  return Object.fromEntries(Object.entries(table).sort(([a], [b]) => a.localeCompare(b)));
+}
+const corrected = applyIdentityCorrections(byPage);
+for (const k of Object.keys(byPage)) delete byPage[k];
+Object.assign(byPage, corrected);
+
+const total = Object.values(byPage).reduce((a, p) => a + Object.values(p).reduce((x, n) => x + n.length, 0), 0);
 const byLanguage = Object.fromEntries(LANGS
-  .map(([c, label]) => [label, withNames.reduce((a, p) => a + (p.names[c]?.length ?? 0), 0)])
+  .map(([c, label]) => [label, Object.values(byPage).reduce((a, p) => a + (p[c]?.length ?? 0), 0)])
   .filter(([, n]) => n));
 
 const payload = {
@@ -315,8 +335,9 @@ const payload = {
   languages: LANG_NAME,
   languageOrder: LANGS.map(([c]) => c),
   summary: {
-    pages: withNames.length,
+    pages: Object.keys(byPage).length,
     names: total,
+    identityCorrections: 'src/data/name-identity-corrections.json',
     fromPharmacopoeia: counts.api,
     fromPharmacopoeiaAdjudicated: counts.adjudicated,
     adjudicatedMonographs: counts.adjudicatedRecords,
@@ -333,7 +354,7 @@ const payload = {
   pages: byPage,
 };
 
-console.log(`\npages          ${withNames.length}`);
+console.log(`\npages          ${Object.keys(byPage).length}`);
 console.log(`names          ${total}`);
 console.log(`by language    ${Object.entries(byLanguage).map(([l, n]) => `${l} ${n}`).join(', ')}`);
 
