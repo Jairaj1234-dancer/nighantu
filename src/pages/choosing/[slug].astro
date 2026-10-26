@@ -65,7 +65,7 @@ if (d.faq.length) {
   });
 }
 ---
-<Base title={`${d.title} · ${SITE_NAME}`} description={d.description} canonical={canonical} jsonld={jsonld}>
+<Base title={`${d.seoTitle ?? d.title} · ${SITE_NAME}`} description={d.description} canonical={canonical} jsonld={jsonld}>
   <article>
     <Crumbs trail={[{ label: 'Choosing', href: '/choosing/' }, { label: d.title }]} />
     <h1>{d.title}</h1>

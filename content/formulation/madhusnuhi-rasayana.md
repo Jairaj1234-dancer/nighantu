@@ -57,6 +57,8 @@ Sahasrayogam (under Lehya Kalpana); 15th-16th century texts describe it as maste
 
 ## What is it made of?
 
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
+
 ## Dosage forms and preparation
 
 **Dosage Forms:** Rasayana (rejuvenative confection)

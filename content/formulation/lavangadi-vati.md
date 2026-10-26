@@ -59,11 +59,10 @@ Sharangdhara Samhita (Madhyama Khanda); also described in Bhaishajya Ratnavali (
 
 ## What is it made of?
 
-### Key Active Markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
+
 
 - Composition, Ayurvedic Formulary of India Part I, entry 12:26 (from Vaidyajivanam, Kasasvasacikitsa 7): [Lavanga](/herb/lavanga/) flower bud 1 part, Maricha ([black pepper](/herb/black-pepper/) fruit) 1 part, [Bibhitaki](/herb/bibhitaki/) fruit pericarp 1 part, Khadira sara ([Khadira](/herb/khadira/) heartwood extract) 3 parts, triturated with [Babbula](/herb/babbula/) (Acacia arabica) stem bark decoction
-- Standardized on primary bioactive markers
-
 ## Dosage forms and preparation
 
 **Dosage Forms:** Vati (pill/tablet), Capsule

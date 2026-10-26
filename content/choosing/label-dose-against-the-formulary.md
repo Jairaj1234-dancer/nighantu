@@ -1,4 +1,5 @@
 ---
+seoTitle: "Ayurvedic company doses compared with the Ayurvedic Formulary of India, by preparation and brand"
 title: "What the label says to take, against what the formulary says"
 slug: "label-dose-against-the-formulary"
 kind: "choosing"
@@ -13,6 +14,8 @@ grounding:
   - "Where the formulary figure is the weight of drug used to prepare a decoction rather than the amount swallowed, no comparison is drawn. 21 label pages were set aside for that reason and it is a property of the formulary, not of the company."
   - "The relation between the two figures is arithmetic, so it is computed from the two ranges rather than judged, after converting both to a common unit. Nothing is compared across dimensions: a mass against a volume has no relation to state."
 faq:
+  - q: "How do Ayurvedic company doses compare with the Ayurvedic Formulary of India?"
+    a: "On the 129 product pages where a manufacturer's dose can be compared with the formulary's, 29 state exactly the formulary figure and 51 overlap it; the rest sit entirely above or below it. Patanjali Ayurved holds 11 of its 17 comparable pages at the formulary figure. A difference is a fact about two published figures, not a finding that either dose is wrong."
   - q: "Does the Ayurvedic Formulary of India specify a dose?"
     a: "Yes, for most of its entries. It states a dose for 51 of the 101 entries transcribed on this site, usually as a range: 12 to 24 ml for an arishta, 1 to 2 g for Hingvastaka Churna, 250 to 500 mg for Arogyavardhini Vati. Part II prefaces its doses with the note that they are intended for general guidance, so the figure is a published standard rather than a limit."
   - q: "Do Ayurvedic manufacturers follow the formulary dose?"

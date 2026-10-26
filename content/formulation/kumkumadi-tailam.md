@@ -69,7 +69,8 @@ Yogaratnakara, Ksudrarogadhikara (as cited by the Ayurvedic Formulary of India);
 
 ## What is it made of?
 
-### Key Active Markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
+
 
 - Crocin
 - Antioxidant

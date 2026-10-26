@@ -17,10 +17,13 @@ import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
 import { pageDates } from '../lib/dates';
+import { pageTitle, formularySentence } from '../lib/lead';
 
 interface Props { entry: any; sectionLabel: string; sectionHref: string }
 const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
+const lead = formularySentence(d);
+const description = lead ? `${d.answer} ${lead}` : d.answer;
 
 /**
  * External identifiers for this page's subject, read from the committed GBIF crosswalk.
@@ -97,7 +100,7 @@ const jsonld = {
   '@type': 'Article',
   '@id': `${abs(selfUrl)}#article`,
   headline: d.title,
-  description: d.answer,
+  description,
   inLanguage: 'en',
   isAccessibleForFree: true,
   datePublished: published,
@@ -124,7 +127,13 @@ const jsonld = {
      */
     '@id': `${abs(selfUrl)}#entity`,
     name: d.title,
-    ...(d.botanical ? { alternateName: d.botanical } : {}),
+    ...((() => {
+      // The spellings a reader searches under, not only the binomial: "Vasant Kusumakar Ras" for
+      // Vasant Kusumakar Rasa. Aliases that merely repeat the binomial are not repeated.
+      const alt = [d.botanical, ...(d.aliases ?? [])].filter((x: any) => x && x !== d.title);
+      const uniq = [...new Set(alt)];
+      return uniq.length ? { alternateName: uniq.length === 1 ? uniq[0] : uniq } : {};
+    })()),
     ...(externalIds.sameAs.length ? { sameAs: externalIds.sameAs } : {}),
     ...(externalIds.identifier.length ? { identifier: externalIds.identifier } : {}),
     inDefinedTermSet: { '@type': 'DefinedTermSet', name: SITE_NAME, url: abs('/') },
@@ -151,8 +160,8 @@ const breadcrumbs = {
 ---
 <Base
   twins={`/${entry.collection}/${d.slug}`}
-  title={`${d.title} · ${SITE_NAME}`}
-  description={d.answer}
+  title={`${pageTitle(d, entry.body ?? '')} · ${SITE_NAME}`}
+  description={description}
   canonical={canonical}
   jsonld={[jsonld, ...(webPage ? [webPage] : []), breadcrumbs]}
 >
@@ -161,7 +170,7 @@ const breadcrumbs = {
     <h1>{d.title}</h1>
     {d.botanical && <p class="binomial">{d.botanical}</p>}
 
-    <p class="answer">{d.answer}</p>
+    <p class="answer">{lead ? `${d.answer} ${lead}` : d.answer}</p>
 
     <KeyFacts
       kind={d.kind}
@@ -173,6 +182,13 @@ const breadcrumbs = {
       whoStatus={d.whoStatus}
       aliases={d.aliases}
     />
+
+    {/*
+      The formulary recipe, moved up from after the body. It is the fact most readers of a
+      formulation page came for, and it sat behind 400 to 600 words of prose. Renders nothing
+      for a page with no formulary record.
+    */}
+    <Composition kind={d.kind} slug={d.slug} />
 
     <NameForms kind={d.kind} slug={d.slug} />
 
@@ -201,8 +217,6 @@ const breadcrumbs = {
     )}
 
     <div class="prose"><slot /></div>
-
-    <Composition kind={d.kind} slug={d.slug} />
 
     <Disclosure kind={d.kind} slug={d.slug} />
 
