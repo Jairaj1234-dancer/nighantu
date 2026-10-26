@@ -29,6 +29,32 @@ const OUT = path.join('src', 'data', 'practitioners.json');
 
 const AGGREGATOR = /(^|\.)(google\.[a-z.]+|goo\.gl|maps\.app\.goo\.gl|g\.page|practo\.com|justdial\.com|jsdl\.in|lybrate\.com|sulekha\.com|indiamart\.com|credihealth\.com|docprime\.com|healthfrog\.in|sehat\.com|quikr\.com|yelp\.[a-z.]+|facebook\.com|instagram\.com|wa\.me|whatsapp\.com)$/i;
 const CURE = /\b(cure[ds]?|curing|healed|got rid of|gone|disappeared|reversed|treated my|treatment of|recovered from)\b/i;
+/**
+ * A testimonial may say what the visit was like, not what it did to the patient's health. Outcome
+ * language ("helped me recover", "transformative for my health", "the deepest sleep in years") and a
+ * named condition beside the treatment ("visited for cervical spondylosis") read as claims of effect,
+ * which this site does not make in its own voice and does not republish in anyone else's.
+ */
+const OUTCOME = /\b(recover\w*|treat(s|ed)? you|prevent\w*|transformative|transformed|revitali[sz]\w*|rejuvenat\w*|for my health|for our health|feel(ing)? better|felt better|sleep|sorrow|relief|reliev\w*|improv\w*|pain|spondyl\w*|arthrit\w*|diabet\w*|thyroid|bp\b|pressure|weight|piles|fistula)\b/i;
+/**
+ * The locality a page is grouped under: the standard area a reader searches by ("Thane West"), not
+ * the sub-area a clinic happens to print ("Vishnu Nagar, Naupada, Thane West"). The sub-area is kept,
+ * moved into the street line, so the address on the page is unchanged.
+ */
+const LOCALITY_NAME = { 'Chembur / Govandi': 'Govandi', 'Sion West': 'Sion' };
+function locality(raw, city, line) {
+  const l = LOCALITY_NAME[raw.trim()] ?? raw.trim();
+  const parts = l.split(',').map((x) => x.trim()).filter(Boolean);
+  if (parts.length < 2) return { locality: l, line };
+  const last = parts[parts.length - 1];
+  const area = last.toLowerCase() === city.toLowerCase() ? parts[0] : last;
+  const sub = parts.filter((x) => x !== area && x.toLowerCase() !== city.toLowerCase());
+  const missing = sub.filter((x) => !line.toLowerCase().includes(x.toLowerCase()));
+  return { locality: area, line: missing.length ? `${line}, ${missing.join(', ')}` : line };
+}
+/** A URL segment of at most 60 characters, cut at a word boundary. */
+const shortSlug = (s) => { const x = slug(s); if (x.length <= 60) return x; const c = x.slice(0, 61); return c.slice(0, c.lastIndexOf('-')) || x.slice(0, 60); };
+const CITY_NAME = { 'Mira Bhayandar (Thane district)': 'Mira Bhayandar', 'Mira Road': 'Mira Bhayandar', 'Bhayandar': 'Mira Bhayandar' };
 const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } };
 const slug = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
   .replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -40,9 +66,18 @@ function phone(raw) {
   return /^[6-9]/.test(d) ? `+91 ${d.slice(0, 5)} ${d.slice(5)}` : `+91 ${d.slice(0, 2)} ${d.slice(2, 6)} ${d.slice(6)}`;
 }
 
+const SKIP = new Set(['hold.json', 'refused.json']);
 const files = fs.existsSync(DIR)
-  ? fs.readdirSync(DIR, { recursive: true }).filter((f) => String(f).endsWith('.json')).map((f) => path.join(DIR, String(f)))
+  ? fs.readdirSync(DIR, { recursive: true }).filter((f) => String(f).endsWith('.json') && !SKIP.has(path.basename(String(f)))).map((f) => path.join(DIR, String(f)))
   : [];
+/**
+ * Listings that pass every check here but are held out: the phone or the practitioner could not be
+ * found on the cited page when it was re-fetched, or the listing waits on an editorial decision.
+ * Matched on practice name and locality. The file lives with the collection, at <dir>/hold.json.
+ */
+const HOLD_FILE = [path.join(DIR, 'hold.json'), path.join(path.dirname(DIR), 'hold.json')].find((f) => fs.existsSync(f));
+const HELD = new Set((HOLD_FILE ? JSON.parse(fs.readFileSync(HOLD_FILE, 'utf8')).hold : []).map((h) => `${h.practiceName}|${h.locality}`));
+let held = 0;
 const refused = [];
 const kept = new Map();
 let seen = 0;
@@ -65,15 +100,16 @@ for (const f of files) {
       else if (AGGREGATOR.test(host(src[k]))) why.push(`${k} sourced from ${host(src[k])}`);
     }
     if (why.length) { refused.push({ file: path.basename(f), practiceName: r.practiceName, why }); continue; }
+    if (HELD.has(`${r.practiceName?.trim()}|${a.locality?.trim()}`)) { held += 1; continue; }
 
     const testimonials = (r.testimonials ?? []).filter((t) => t?.excerpt && t.url
       && !AGGREGATOR.test(host(t.url))
-      && !CURE.test(t.excerpt) && !DISEASE_WORD.test(t.excerpt)
+      && !CURE.test(t.excerpt) && !DISEASE_WORD.test(t.excerpt) && !OUTCOME.test(t.excerpt)
       && t.excerpt.split(/\s+/).length <= 45);
     const rec = {
       practiceName: r.practiceName.trim(),
       practitioners: docs.map((d) => ({ name: d.name.trim(), qualification: d.qualification ?? null, registration: d.registration?.number ? d.registration : null })),
-      address: { line: a.line.trim(), locality: a.locality.trim(), city: a.city.trim(), pin: String(a.pin).replace(/\s/g, '') },
+      address: (() => { const city = CITY_NAME[a.city.trim()] ?? a.city.trim(); const loc = locality(a.locality, city, a.line.trim()); return { line: loc.line, locality: loc.locality, city, pin: String(a.pin).replace(/\s/g, '') }; })(),
       phone: phones,
       website: r.website || null,
       email: r.email || null,
@@ -102,10 +138,10 @@ const practices = [...new Set(kept.values())];
 // Ids are unique within a locality, which is all the URL needs.
 const used = new Set();
 for (const p of practices) {
-  let id = slug(p.practiceName) || 'practice';
+  let id = shortSlug(p.practiceName) || 'practice';
   const scope = `${slug(p.address.city)}/${slug(p.address.locality)}`;
   let n = 1;
-  while (used.has(`${scope}/${id}`)) id = `${slug(p.practiceName)}-${++n}`;
+  while (used.has(`${scope}/${id}`)) id = `${shortSlug(p.practiceName)}-${++n}`;
   used.add(`${scope}/${id}`);
   p.id = id;
 }
@@ -116,6 +152,7 @@ console.log(`refused          ${refused.length}`);
 const reasons = {};
 for (const r of refused) for (const w of r.why) { const k = w.replace(/sourced from .*/, 'sourced from an aggregator'); reasons[k] = (reasons[k] ?? 0) + 1; }
 for (const [k, v] of Object.entries(reasons).sort((a, b) => b[1] - a[1])) console.log(`  ${String(v).padStart(4)}  ${k}`);
+console.log(`held             ${held} (see hold.json)`);
 console.log(`admitted         ${practices.length} practices after merging duplicates`);
 if (DRY) process.exit(0);
 const prev = JSON.parse(fs.readFileSync(OUT, 'utf8'));
