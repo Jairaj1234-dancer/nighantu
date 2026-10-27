@@ -6826,6 +6826,510 @@
       "id": "madhavbaug-ayurvedic-clinic-besa"
     },
     {
+      "practiceName": "R. D. Memorial Ayurvedic PG College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Atul Bhavarao Pawar",
+          "qualification": "BAMS, MD (Ayu) Panchakarma",
+          "registration": {
+            "number": "59130",
+            "source": "https://rdmayurvedcollege.org/medical-superintendent/"
+          }
+        },
+        {
+          "name": "Dr Meena Singh",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "50787",
+            "source": "https://rdmayurvedcollege.org/deputy-medical-superintendent/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Barkhedi Kala, Bhadbhada Road",
+        "locality": "Bhadbhada Road",
+        "city": "Bhopal",
+        "pin": "462044",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 755 292 0883",
+        "+91 755 269 6776"
+      ],
+      "website": "https://rdmayurvedcollege.org/",
+      "email": "rdayurved@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://rdmayurvedcollege.org/contact-us/",
+        "practitioners": "http://rdmayurvedcollege.org/wp-content/uploads/2026/06/Hospital-staff.pdf",
+        "address": "https://rdmayurvedcollege.org/contact-us/",
+        "phone": "https://rdmayurvedcollege.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "r-d-memorial-ayurvedic-pg-college-and-hospital"
+    },
+    {
+      "practiceName": "Ayurvedam Clinic (Ayurvedam Charak Panchakarma Kendra)",
+      "practitioners": [
+        {
+          "name": "Dr Dhiraj Choudhary",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shiddhi Bhawan, Basement Floor, Corner Building of Nahar Chouraha",
+        "locality": "Chuna Bhatti",
+        "city": "Bhopal",
+        "pin": "462016",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 99070 81799",
+        "+91 89594 91933"
+      ],
+      "website": "https://ayurvedamclinic.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Shirodhara",
+        "Basti Karma",
+        "Janu Basti",
+        "Kati Basti",
+        "Nasya",
+        "Netra Tarpan",
+        "Leech therapy"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedamclinic.com/",
+        "practitioners": "https://ayurvedamclinic.com/",
+        "address": "https://ayurvedamclinic.com/",
+        "phone": "https://ayurvedamclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedam-clinic-ayurvedam-charak-panchakarma-kendra"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, BHEL Indrapuri",
+      "practitioners": [
+        {
+          "name": "Dr Shubhanshu Shrivastava",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H. No. MIG-21, Sector B, Indrapuri, Behind Patanjali Store, In Front of Yadav Tea Stall, Jubilee Gate, Raisen Road, BHEL",
+        "locality": "Indrapuri",
+        "city": "Bhopal",
+        "pin": "462022",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 82690 01509",
+        "+91 76489 48245"
+      ],
+      "website": "https://madhavbaug.org/clinic/indrapuri-colony-bhopal",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/indrapuri-colony-bhopal",
+        "practitioners": "https://madhavbaug.org/clinic/indrapuri-colony-bhopal",
+        "address": "https://madhavbaug.org/clinic/indrapuri-colony-bhopal",
+        "phone": "https://madhavbaug.org/clinic/indrapuri-colony-bhopal"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-bhel-indrapuri"
+    },
+    {
+      "practiceName": "Arogyaved Ayurved Health Center, Bhopal",
+      "practitioners": [
+        {
+          "name": "Dr Rupali Singh Kushwah",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "C-48, BDA Colony, Opp Central Hospital",
+        "locality": "Kohefiza",
+        "city": "Bhopal",
+        "pin": "462001",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 89824 98195"
+      ],
+      "website": "https://arogyaved.com/ayurvedic-doctor-in-bhopal/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha"
+      ],
+      "sources": {
+        "practiceName": "https://arogyaved.com/ayurvedic-doctor-in-bhopal/",
+        "practitioners": "https://arogyaved.com/best-ayurvedic-doctors-in-india/",
+        "address": "https://arogyaved.com/ayurvedic-doctor-in-bhopal/",
+        "phone": "https://arogyaved.com/ayurvedic-doctor-in-bhopal/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "arogyaved-ayurved-health-center-bhopal"
+    },
+    {
+      "practiceName": "L N Ayurved College & Hospital (LNCT University)",
+      "practitioners": [
+        {
+          "name": "Dr Sapan Jain",
+          "qualification": "BAMS, MD Ayu, M.R.A.V (Panchakarma), PhD (Kayachikitsa)",
+          "registration": {
+            "number": "I-21152-A1",
+            "source": "https://lnctu.ac.in/lnac/"
+          }
+        },
+        {
+          "name": "Dr Maya Kamble",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "I-13998",
+            "source": "https://lnctu.ac.in/lnac/"
+          }
+        }
+      ],
+      "address": {
+        "line": "J.K. Hospital and L.N. Medical College Campus, J.K. Town, Kolar Road",
+        "locality": "Kolar Road",
+        "city": "Bhopal",
+        "pin": "462042",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 755 408 7028"
+      ],
+      "website": "https://lnctu.ac.in/lnac/",
+      "email": "ayurveda@lnctu.ac.in",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://lnctu.ac.in/lnac/",
+        "practitioners": "https://lnctu.ac.in/lnac/",
+        "address": "https://lnctu.ac.in/lnac/",
+        "phone": "https://lnctu.ac.in/lnac/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "l-n-ayurved-college-and-hospital-lnct-university"
+    },
+    {
+      "practiceName": "Mansarovar Ayurvedic Medical College Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Anurag Singh Rajput",
+          "qualification": "BAMS, MD (Rasa Shastra and Bhaishajya Kalpana)",
+          "registration": {
+            "number": "47776",
+            "source": "https://www.mamcbhopal.com/info-for-ncism"
+          }
+        },
+        {
+          "name": "Dr Kushal Yadav",
+          "qualification": "Professor and Head, Panchakarma",
+          "registration": {
+            "number": "50759",
+            "source": "https://www.mamcbhopal.com/info-for-ncism"
+          }
+        },
+        {
+          "name": "Dr Ashwinkumar Shindhe",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mayank Rai",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ward No. 84, Rani Avanti Bai Road, Dr. Shyama Prasad Mukherjee Nagar",
+        "locality": "Kolar Road",
+        "city": "Bhopal",
+        "pin": "462042",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 755 282 9728",
+        "+91 76111 50888",
+        "+91 76111 05888"
+      ],
+      "website": "https://www.mamcbhopal.com/",
+      "email": "mansarovarayu2015@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://www.mamcbhopal.com/contact",
+        "practitioners": "https://www.mamcbhopal.com/info-for-ncism",
+        "address": "https://www.mamcbhopal.com/contact",
+        "phone": "https://www.mamcbhopal.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mansarovar-ayurvedic-medical-college-hospital-and-research"
+    },
+    {
+      "practiceName": "Sarvepalli Radhakrishnan College of Ayurveda, Hospital & Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Satya Prakash Pathak",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shailaja G. Kashetti",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Saili Sacin Lokare",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sukmani Shankar Dhurve",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rachna Jangid",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "NH-12, Hoshangabad Road, Jatkhedi",
+        "locality": "Misrod",
+        "city": "Bhopal",
+        "pin": "462026",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 70241 44982",
+        "+91 98272 28604"
+      ],
+      "website": "https://www.srkcahrc.in/",
+      "email": "srkcahrcb@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.srkcahrc.in/contact.aspx",
+        "practitioners": "https://www.srkcahrc.in/Hospital-Staff.pdf",
+        "address": "https://www.srkcahrc.in/contact.aspx",
+        "phone": "https://www.srkcahrc.in/contact.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sarvepalli-radhakrishnan-college-of-ayurveda-hospital-and"
+    },
+    {
+      "practiceName": "Pt. Khushilal Sharma Government Ayurveda Hospital (Pt. Khushilal Sharma Government Autonomous Ayurveda College and Institute)",
+      "practitioners": [
+        {
+          "name": "Dr Umesh Shukla",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Babita Dash",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Kamini Soni",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Preeti Chaturvedi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Dushyant Choparia",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Priyanka Jakra",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Science Hills, Nehru Nagar, Kolar Bypass Road",
+        "locality": "Nehru Nagar",
+        "city": "Bhopal",
+        "pin": "462003",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 755 297 0319",
+        "+91 755 297 0310"
+      ],
+      "website": "https://www.klsgaci.edu.in/",
+      "email": "principal@klsgaci.nic.in",
+      "hours": "OPD October to March 9:00 AM to 2:00 PM and 2:00 PM to 6:00 PM; April to September 8:00 AM to 1:00 PM and 1:00 PM to 5:00 PM",
+      "services": [
+        "Panchakarma (snehana, swedana, basti, vamana, virechana)",
+        "OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://www.klsgaci.edu.in/opd.php?deptId=114",
+        "practitioners": "https://www.klsgaci.edu.in/opd.php?deptId=114",
+        "address": "https://www.klsgaci.edu.in/opd.php?deptId=114",
+        "phone": "https://www.klsgaci.edu.in/opd.php?deptId=114"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "pt-khushilal-sharma-government-ayurveda-hospital-pt"
+    },
+    {
+      "practiceName": "Corporate Ayurved Hospital (Corporate College of Ayurvedic Sciences)",
+      "practitioners": [
+        {
+          "name": "Dr Reeya Gamne",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vinod Kumar Deshmukh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Kuldeep Morey",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Chavan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sanskriti Nema",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vithal Kadam",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pallavi Chaudhari",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr VedPrakash Gupta",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Hataikheda, Near Patel Nagar, Raisen Road",
+        "locality": "Raisen Road",
+        "city": "Bhopal",
+        "pin": "462022",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 755 299 4880",
+        "+91 755 299 8188"
+      ],
+      "website": "https://www.corporatebpl.com/Ayurved/",
+      "email": "cah@corporatebpl.com",
+      "hours": "OPD 9:00 AM to 2:00 PM",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya and Netra",
+        "Prasuti and Stri Roga",
+        "Balaroga"
+      ],
+      "sources": {
+        "practiceName": "https://www.corporatebpl.com/Ayurved/contactus.php",
+        "practitioners": "https://www.corporatebpl.com/Ayurved/OPD-Roster-4-2026.pdf",
+        "address": "https://www.corporatebpl.com/Ayurved/contactus.php",
+        "phone": "https://www.corporatebpl.com/Ayurved/contactus.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "corporate-ayurved-hospital-corporate-college-of-ayurvedic"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Shahpura",
+      "practitioners": [
+        {
+          "name": "Dr Alkaj Chauhan",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.I.G-8, Lake View Complex, Shahpura Road, Beside Bansal Hospital Petrol Pump",
+        "locality": "Shahpura",
+        "city": "Bhopal",
+        "pin": "462026",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 82690 01507"
+      ],
+      "website": "https://madhavbaug.org/clinic/shahpura-bhopal",
+      "email": null,
+      "hours": "9:00 AM to 6:30 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/shahpura-bhopal",
+        "practitioners": "https://madhavbaug.org/clinic/shahpura-bhopal",
+        "address": "https://madhavbaug.org/clinic/shahpura-bhopal",
+        "phone": "https://madhavbaug.org/clinic/shahpura-bhopal"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-shahpura"
+    },
+    {
       "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
       "practitioners": [
         {
@@ -21804,6 +22308,294 @@
       ],
       "checkedOn": "2026-10-26",
       "id": "shree-dhruti-ayurvedic-panchakarma-chikitsalaya-uppal"
+    },
+    {
+      "practiceName": "R.N. Kapoor Memorial Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Manisha Dunghav",
+          "qualification": "BAMS, MD (Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashish Choyal",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Minal M Khode",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Indore-Dewas Bypass Road, Village Arandia, P.O. Jhalaria",
+        "locality": "Jhalaria",
+        "city": "Indore",
+        "pin": "452016",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 91740 07612"
+      ],
+      "website": "https://rnkmamc.in/",
+      "email": null,
+      "hours": "OPD 9:30 AM to 3:00 PM",
+      "services": [
+        "Kayachikitsa OPD",
+        "Panchakarma OPD",
+        "Shalya OPD",
+        "Shalakya OPD (eye, ENT)",
+        "Balrog OPD",
+        "Prasuti and Strirog OPD",
+        "Swasthavritta OPD (yoga and nutrition)"
+      ],
+      "sources": {
+        "practiceName": "https://rnkmamc.in/index.php/contact/",
+        "practitioners": "https://rnkmamc.in/index.php/hospital-staff/",
+        "address": "https://rnkmamc.in/index.php/contact/",
+        "phone": "https://rnkmamc.in/index.php/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "r-n-kapoor-memorial-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Govt. Ashtang Ayurved Hospital (Govt. Autonomous Ashtang Ayurved College), Lokmanya Nagar",
+      "practitioners": [
+        {
+          "name": "Dr S K Das Adhikari",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Neeraj Kanungo",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Govt. Ashtang Ayurved Hospital, College Campus, Lokmanya Nagar, Kesharbagh Road",
+        "locality": "Lokmanya Nagar",
+        "city": "Indore",
+        "pin": "452009",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 70008 79278",
+        "+91 731 351 2623"
+      ],
+      "website": "https://gaacindore.edu.in/",
+      "email": "cchgaaac@rediffmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stree Roga",
+        "Kaumarbhritya",
+        "Swasthavritta and Yoga",
+        "Prakriti and Nadi Pariksha"
+      ],
+      "sources": {
+        "practiceName": "https://gaacindore.edu.in/",
+        "practitioners": "https://gaacindore.edu.in/kayachikits.html",
+        "address": "https://gaacindore.edu.in/",
+        "phone": "https://gaacindore.edu.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "govt-ashtang-ayurved-hospital-govt-autonomous-ashtang"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Mahadev Totla Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Siddharth Badole",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "29A Mahadev Total Nagar, near Bengali Square",
+        "locality": "Mahadev Totla Nagar",
+        "city": "Indore",
+        "pin": "452016",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 91099 79732"
+      ],
+      "website": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore",
+        "practitioners": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore",
+        "address": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore",
+        "phone": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-mahadev-totla-nagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Rambagh",
+      "practitioners": [
+        {
+          "name": "Dr Swati Shinde",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "151-152, Tilak Path, Opposite Malhar Ashram Khel Parisar, 1st Floor",
+        "locality": "Rambagh",
+        "city": "Indore",
+        "pin": "452007",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 91099 79735",
+        "+91 70008 00000"
+      ],
+      "website": "https://madhavbaug.org/clinic/rambaug-indore",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/rambaug-indore",
+        "practitioners": "https://madhavbaug.org/clinic/rambaug-indore",
+        "address": "https://madhavbaug.org/clinic/rambaug-indore",
+        "phone": "https://madhavbaug.org/clinic/rambaug-indore"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-rambagh"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Silicon City Rau",
+      "practitioners": [
+        {
+          "name": "Dr Vishal Singh Chundawat",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A-H, Kadambari Nagar, Near Chogala Restaurant, Silicon City",
+        "locality": "Rau",
+        "city": "Indore",
+        "pin": "453331",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 98065 15206"
+      ],
+      "website": "https://madhavbaug.org/clinic/silicon-city-rau-indore",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Monday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/silicon-city-rau-indore",
+        "practitioners": "https://madhavbaug.org/clinic/silicon-city-rau-indore",
+        "address": "https://madhavbaug.org/clinic/silicon-city-rau-indore",
+        "phone": "https://madhavbaug.org/clinic/silicon-city-rau-indore"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-silicon-city-rau"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vidya Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Monika Parmar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat G1, Shanti Pearl, Plot 49, Vidya Nagar, Near Sapna Sangeeta Talkies",
+        "locality": "Vidya Nagar",
+        "city": "Indore",
+        "pin": "452001",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 731 498 8455",
+        "+91 91099 79733"
+      ],
+      "website": "https://madhavbaug.org/clinic/vidya-nagar-indore",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vidya-nagar-indore",
+        "practitioners": "https://madhavbaug.org/clinic/vidya-nagar-indore",
+        "address": "https://madhavbaug.org/clinic/vidya-nagar-indore",
+        "phone": "https://madhavbaug.org/clinic/vidya-nagar-indore"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-vidya-nagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vijay Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay Meena",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "EH-13, Scheme No. 54, Opposite Rajshree Apollo Hospital, Near Hotel Stay Well",
+        "locality": "Vijay Nagar",
+        "city": "Indore",
+        "pin": "452010",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 91099 79731"
+      ],
+      "website": "https://madhavbaug.org/clinic/vijay-nagar-indore",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Monday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vijay-nagar-indore",
+        "practitioners": "https://madhavbaug.org/clinic/vijay-nagar-indore",
+        "address": "https://madhavbaug.org/clinic/vijay-nagar-indore",
+        "phone": "https://madhavbaug.org/clinic/vijay-nagar-indore"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-vijay-nagar"
     },
     {
       "practiceName": "National Institute of Ayurveda Hospital (NIA Arogyashala), Jaipur",
