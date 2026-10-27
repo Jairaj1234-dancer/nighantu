@@ -47,12 +47,11 @@ const latest = [...reviews].map((r) => r.reviewedOn).sort().pop() ?? null;
  * on every reviewed page. Those stay, because they are true and cost nothing, but the credential
  * a rater or a model can actually check belongs on the reviewer's own page as a Person node.
  *
- * The same sweep is why there is no `sameAs` here. Google's structured-data rules forbid marking
- * up information that is not visible on the page, and the quality guidelines tell raters to
- * research a creator's reputation OFF the site rather than believe its own claims. A sameAs
- * pointing at a registry entry, council registration or publication record would be the useful
- * thing, and inventing or guessing one would be worse than omitting it. It goes in when there is
- * a real URL to put in it.
+ * `sameAs` carries only a real profile of the reviewer off this site, and only when the page
+ * also links it visibly: Google's structured-data rules forbid marking up information that is not
+ * visible on the page, and the quality guidelines tell raters to research a creator's reputation
+ * OFF the site rather than believe its own claims. Inventing or guessing a registry entry would
+ * be worse than omitting it, so the field follows review.json's profileUrl and nothing else.
  *
  * Also from that sweep, recorded because it is counter-intuitive: a 2026 study of 615 citations
  * in ChatGPT health answers found 64.7% of the cited pages carried no author attribution at all
@@ -75,6 +74,7 @@ const jsonld = [
       description: `${reviewer.qualification}. Reviewing practitioner for the Age Ayurveda Nighantu, `
         + `affiliated with the ${reviewer.affiliation}.`,
       affiliation: { '@type': 'Organization', name: reviewer.affiliation },
+      ...(reviewer.profileUrl ? { sameAs: [reviewer.profileUrl] } : {}),
       knowsAbout: ['Ayurveda', 'Ayurvedic pharmacology', 'Dravyaguna', 'Classical Ayurvedic formulations'],
     },
   },
@@ -90,6 +90,7 @@ const jsonld = [
 >
 <h2>What has been reviewed</h2>
 <p><strong>{reviewer.name}, {reviewer.qualification}, of the {reviewer.affiliation} ({reviewer.affiliationShort}), has read the whole reference work and passed it.</strong> This page is generated from the record of that review, so it states what was actually done rather than what we would like it to say.</p>
+{reviewer.profileUrl && <p>His practitioner profile is also listed at <a href={reviewer.profileUrl} rel="noopener">doctsaab.com</a>.</p>}
 <table class="reviews">
   <thead>
     <tr><th>Section</th><th>What it covers</th><th>Reviewed</th><th>Outcome</th></tr>

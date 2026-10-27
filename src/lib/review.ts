@@ -26,6 +26,8 @@ export interface ReviewEntry {
 const data = review as any;
 export const reviewer = data.reviewer as {
   name: string; qualification: string; affiliation: string; affiliationShort: string;
+  /** A public profile of the reviewer on a site other than this one, linked visibly on /reviewers/. */
+  profileUrl?: string;
 };
 export const reviews: ReviewEntry[] = data.reviews ?? [];
 
