@@ -2773,7 +2773,7 @@
       "https://nighantu.ageayurveda.com/research/d/7/": "d4452a1c33225c93",
       "https://nighantu.ageayurveda.com/research/d/8/": "82d125246ad896bb",
       "https://nighantu.ageayurveda.com/research/d/9/": "35b86a51a651171c",
-      "https://nighantu.ageayurveda.com/reviewers/": "c9955acee4d65ed0",
+      "https://nighantu.ageayurveda.com/reviewers/": "c533d9f8ee562a77",
       "https://nighantu.ageayurveda.com/shirodhara/": "ee3804b1010177b0",
       "https://nighantu.ageayurveda.com/shirodhara/at-home-or-clinic/": "d001d5a462622522",
       "https://nighantu.ageayurveda.com/shirodhara/cautions/": "6bcfd98ec4fe54b9",
@@ -2802,8 +2802,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b45bacf9e83db25e",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9d5cc5ab940d5980"
     },
-    "lastSubmittedAt": "2026-10-27T06:55:13.769Z",
-    "lastSubmittedCount": 4,
+    "lastSubmittedAt": "2026-10-27T07:03:33.921Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -6132,6 +6132,6 @@
     "seen": 10,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-27T06:55:13.769Z",
+  "updatedAt": "2026-10-27T07:03:33.921Z",
   "version": 1
 }
