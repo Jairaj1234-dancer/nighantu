@@ -7098,6 +7098,163 @@
       "id": "softouch-ayurveda-village-hospital-and-retreat"
     },
     {
+      "practiceName": "Santushti Holistic Health & Healing",
+      "practitioners": [
+        {
+          "name": "Dr Ankita Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SCO 2421-22, Sector 22 C, near Aroma Hotel",
+        "locality": "Sector 22",
+        "city": "Chandigarh",
+        "pin": "160022",
+        "state": "Chandigarh"
+      },
+      "phone": [
+        "+91 98704 81482",
+        "+91 98726 17668"
+      ],
+      "website": "https://santushtibylavleen.com/panchakarma-centre-chandigarh",
+      "email": null,
+      "hours": "Monday to Saturday, 9:30 AM to 6:00 PM",
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Greeva Basti",
+        "Nasya"
+      ],
+      "sources": {
+        "practiceName": "https://santushtibylavleen.com/contact-us/",
+        "practitioners": "https://santushtibylavleen.com/panchakarma-centre-chandigarh",
+        "address": "https://santushtibylavleen.com/contact-us/",
+        "phone": "https://santushtibylavleen.com/panchakarma-centre-chandigarh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "santushti-holistic-health-and-healing"
+    },
+    {
+      "practiceName": "Ayurvedic Care Centre (Khatana Vedasetu)",
+      "practitioners": [
+        {
+          "name": "Dr Subhash Khatana",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "7, Sector 28A",
+        "locality": "Sector 28",
+        "city": "Chandigarh",
+        "pin": "160002",
+        "state": "Chandigarh"
+      },
+      "phone": [
+        "+91 94170 37788",
+        "+91 94170 03032"
+      ],
+      "website": "https://ayurvedasetu.com/",
+      "email": "khatanavedastu@gmail.com",
+      "hours": "Monday to Saturday, 9:00 AM to 6:00 PM",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedasetu.com/contact/",
+        "practitioners": "https://ayurvedasetu.com/",
+        "address": "https://ayurvedasetu.com/contact/",
+        "phone": "https://ayurvedasetu.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-care-centre-khatana-vedasetu"
+    },
+    {
+      "practiceName": "Shri Dhanwantry Ayurvedic College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Janardhan Mishra",
+          "qualification": "MS (Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kanika Mehta",
+          "qualification": "BAMS, MBA (D.M.S, Hospital)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pragati Ashok Kataria",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Oorvi Kulkarni",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Neerja R Sharma",
+          "qualification": "MD, PhD (Swasthavritta and Yoga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kanika Aggarwal",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Avtar Singh",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Hardeep Singh",
+          "qualification": "BAMS (E.M.O)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shri Dhanwantry Ayurvedic College & Hospital, Sector 46-B",
+        "locality": "Sector 46",
+        "city": "Chandigarh",
+        "pin": "160047",
+        "state": "Chandigarh"
+      },
+      "phone": [
+        "+91 172 504 6000",
+        "+91 172 504 6200",
+        "+91 77107 78822"
+      ],
+      "website": "https://www.sdach.ac.in/",
+      "email": "info@sdach.ac.in",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Prasuti Tantra and Stree Roga",
+        "Kaumarabhritya",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://www.sdach.ac.in/?p=335",
+        "practitioners": "https://www.sdach.ac.in/hospital-staff/",
+        "address": "https://www.sdach.ac.in/?p=335",
+        "phone": "https://www.sdach.ac.in/?p=335"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shri-dhanwantry-ayurvedic-college-and-hospital"
+    },
+    {
       "practiceName": "SNJB's Ayurved College and Ayurved & Multispeciality Hospital",
       "practitioners": [
         {
@@ -25451,6 +25608,219 @@
       "id": "madhavbaug-ayurvedic-clinic-mira-road-east"
     },
     {
+      "practiceName": "Dr. Sharda Ayurveda, Mohali",
+      "practitioners": [
+        {
+          "name": "Dr Ramanjeet Kaur",
+          "qualification": "BAMS, MD (AM)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vinod Chauhan",
+          "qualification": "BAMS, MSc",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SCO 105, Phase 10, Sector 64, Opposite Army Canteen",
+        "locality": "Phase 10",
+        "city": "Mohali",
+        "pin": "160062",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 98720 70926"
+      ],
+      "website": "https://drshardaayurveda.com/pages/mohali",
+      "email": "info@drshardaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/mohali",
+        "practitioners": "https://drshardaayurveda.com/pages/mohali",
+        "address": "https://drshardaayurveda.com/pages/mohali",
+        "phone": "https://drshardaayurveda.com/pages/mohali"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-sharda-ayurveda-mohali"
+    },
+    {
+      "practiceName": "Tejasvi Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Mrinalini Gupta",
+          "qualification": "BAMS (Ayurvedacharya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SCO 458, TDI City, South Ex II, Sector 117",
+        "locality": "Sector 117",
+        "city": "Mohali",
+        "pin": "160055",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 95019 46530"
+      ],
+      "website": "https://tejasviayurveda.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Diet and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://tejasviayurveda.com/",
+        "practitioners": "https://tejasviayurveda.com/ayurvedic-doctors-in-mohali/",
+        "address": "https://tejasviayurveda.com/ayurvedic-doctors-in-mohali/",
+        "phone": "https://tejasviayurveda.com/ayurvedic-doctors-in-mohali/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "tejasvi-ayurveda"
+    },
+    {
+      "practiceName": "Arogyam Piles Clinic and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Vinay Kumar",
+          "qualification": "BAMS, CKS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anupam Verma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2nd Floor, Above Longia Sweet, opposite Government School, Kharar-Chandigarh Highway, Desumajra, Sector 125",
+        "locality": "Sector 125",
+        "city": "Mohali",
+        "pin": "140301",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 96467 64444",
+        "+91 62808 40477"
+      ],
+      "website": "https://www.arogyampilesclinic.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic anorectal care",
+        "Ksharasutra"
+      ],
+      "sources": {
+        "practiceName": "https://www.arogyampilesclinic.com/",
+        "practitioners": "https://www.arogyampilesclinic.com/",
+        "address": "https://www.arogyampilesclinic.com/",
+        "phone": "https://www.arogyampilesclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "arogyam-piles-clinic-and-research-centre"
+    },
+    {
+      "practiceName": "Planet Ayurveda OPD",
+      "practitioners": [
+        {
+          "name": "Dr Vikram Chauhan",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Meenakshi Chauhan",
+          "qualification": "BAMS, MD (Alternative Medicine)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 627, JLPL Industrial Area, Sector 82",
+        "locality": "Sector 82",
+        "city": "Mohali",
+        "pin": "160055",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 172 521 4040"
+      ],
+      "website": "https://www.planetayurveda.com/",
+      "email": "support@planetayurveda.com",
+      "hours": "OPD: Dr Vikram Chauhan 11:00 AM to 4:00 PM Monday and Tuesday; Dr Meenakshi Chauhan 11:00 AM to 2:00 PM Monday to Saturday",
+      "services": [
+        "Ayurvedic consultation (OPD)",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.planetayurveda.com/contact-us/",
+        "practitioners": "https://www.planetayurveda.com/contact-us/",
+        "address": "https://www.planetayurveda.com/contact-us/",
+        "phone": "https://www.planetayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "planet-ayurveda-opd"
+    },
+    {
+      "practiceName": "Yukti Herbs Ayurveda and Panchakarma Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Suhas Sakhare",
+          "qualification": "MD, PhD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Manpreet Singh",
+          "qualification": "BAMS, MD Ayurveda",
+          "registration": null
+        },
+        {
+          "name": "Dr Vishal Chaudhary",
+          "qualification": "BAMS, MD Ayurveda",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 956, Sector 82, JLPL Industrial Area",
+        "locality": "Sector 82",
+        "city": "Mohali",
+        "pin": "140306",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 75278 69388",
+        "+91 82888 82923"
+      ],
+      "website": "https://www.yuktiherbs.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic hospital",
+        "Panchakarma",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.yuktiherbs.com/pages/contact-us",
+        "practitioners": "https://www.yuktiherbs.com/pages/our-doctors",
+        "address": "https://www.yuktiherbs.com/pages/contact-us",
+        "phone": "https://www.yuktiherbs.com/pages/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "yukti-herbs-ayurveda-and-panchakarma-hospital"
+    },
+    {
       "practiceName": "Alva's Ayurveda Medical College Hospital, Moodbidri",
       "practitioners": [
         {
@@ -42252,6 +42622,88 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "datta-meghe-ayurvedic-medical-college-hospital-and-research"
+    },
+    {
+      "practiceName": "Dirghayu Arogya Kendra",
+      "practitioners": [
+        {
+          "name": "Vaidya Shashi Tiwari",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SCO 11-12, Silver City Extension",
+        "locality": "Silver City Extension",
+        "city": "Zirakpur",
+        "pin": "140603",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 90411 22999"
+      ],
+      "website": "https://dirghayuarogyakendra.com/",
+      "email": "info@dirghayuarogyakendra.com",
+      "hours": "Monday to Saturday 10:00 AM to 7:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Yoga and naturopathy"
+      ],
+      "sources": {
+        "practiceName": "https://dirghayuarogyakendra.com/contact/",
+        "practitioners": "https://dirghayuarogyakendra.com/about/",
+        "address": "https://dirghayuarogyakendra.com/contact/",
+        "phone": "https://dirghayuarogyakendra.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dirghayu-arogya-kendra"
+    },
+    {
+      "practiceName": "Ayunest Ayurvedic and Panchkarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Upasna Thakur",
+          "qualification": "BAMS, MD (Panchakarma), PhD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Lower Ground Floor, VIP Central, SCO 04, VIP Road",
+        "locality": "VIP Road",
+        "city": "Zirakpur",
+        "pin": "140603",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 93173 29099"
+      ],
+      "website": "https://www.ayunest.in/",
+      "email": null,
+      "hours": "Monday to Saturday 10:00 AM to 8:00 PM; Sunday closed (prior appointments only)",
+      "services": [
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasyam",
+        "Raktamokshana",
+        "Shirodhara",
+        "Nadi Pariksha"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayunest.in/contact.html",
+        "practitioners": "https://www.ayunest.in/",
+        "address": "https://www.ayunest.in/contact.html",
+        "phone": "https://www.ayunest.in/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayunest-ayurvedic-and-panchkarma-centre"
     }
   ]
 }
