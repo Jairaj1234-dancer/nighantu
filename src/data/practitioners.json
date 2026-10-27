@@ -18007,6 +18007,358 @@
       "id": "prasida-ayurveda-clinic"
     },
     {
+      "practiceName": "Kripa Arya Vaidya Madom (Kripa Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr K Gopakumar",
+          "qualification": "BAMS, DMM, D(ACU), MS (Psych)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Kovilakam Residency, Mini Bypass Road, Govindapuram PO",
+        "locality": "Govindapuram",
+        "city": "Kozhikode",
+        "pin": "673016"
+      },
+      "phone": [
+        "+91 495 274 1550",
+        "+91 81294 17164",
+        "+91 98950 67971"
+      ],
+      "website": "https://www.kripaayurveda.com/",
+      "email": "doctor@kripaayurveda.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.kripaayurveda.com/",
+        "practitioners": "https://www.kripaayurveda.com/",
+        "address": "https://www.kripaayurveda.com/contact.php",
+        "phone": "https://www.kripaayurveda.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kripa-arya-vaidya-madom-kripa-ayurveda"
+    },
+    {
+      "practiceName": "Vaidyaratnam Treatment Centre, Kozhikode",
+      "practitioners": [
+        {
+          "name": "Dr K S Vimal Kumar",
+          "qualification": "BAMS, MS (Psy), MHA, PGDHHA",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Pushpa Junction, Kallai Road",
+        "locality": "Kallai",
+        "city": "Kozhikode",
+        "pin": "673002"
+      },
+      "phone": [
+        "+91 495 230 2696",
+        "+91 97467 32696"
+      ],
+      "website": "https://vaidyaratnammooss.com/health-care/kozhikode-treatment-centre",
+      "email": "clttc@vaidyaratnam.com",
+      "hours": "Dr K S Vimal Kumar: Mon to Fri 10am to 1pm and 3pm to 6:30pm, Sat 3pm to 6:30pm, Sun closed. Therapy 7am to 11am and 3pm to 7pm including Sunday. Pharmacy 9:30am to 7:30pm, Sun closed.",
+      "services": [
+        "Panchakarma",
+        "Sirodhara",
+        "Sirovasthi",
+        "Pizhichil",
+        "Abhyangam",
+        "Udwarthanam",
+        "Kateevasthi",
+        "Tharppanam",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnammooss.com/health-care/kozhikode-treatment-centre",
+        "practitioners": "https://vaidyaratnammooss.com/health-care/kozhikode-treatment-centre",
+        "address": "https://vaidyaratnammooss.com/health-care/kozhikode-treatment-centre",
+        "phone": "https://vaidyaratnammooss.com/health-care/kozhikode-treatment-centre"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-treatment-centre-kozhikode"
+    },
+    {
+      "practiceName": "Tatva Ayurved Hospital (formerly Keraleeya Ayurveda Samajam)",
+      "practitioners": [
+        {
+          "name": "Dr Satheesh Kumar C",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Smitha A V",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Priyamvadha P",
+          "qualification": "BAMS, MS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sherli O K",
+          "qualification": "BAM, Rtd DMO",
+          "registration": null
+        },
+        {
+          "name": "Dr M P Eswara Sarma",
+          "qualification": "MD, PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Sruthi Muralidharan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anagha K",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Thekkuveedu Lane, Kannur Road, Near Christian College",
+        "locality": "Kannur Road",
+        "city": "Kozhikode",
+        "pin": "673001"
+      },
+      "phone": [
+        "+91 98951 12264",
+        "+91 495 276 6717"
+      ],
+      "website": "https://www.tatvaayurved.com/",
+      "email": "info@tatvaayurved.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Abhyangam",
+        "Shirodhara",
+        "Nasyam",
+        "Kativasti",
+        "Podikizhi",
+        "Ilakkizhi",
+        "Prasavaraksha (postnatal care)",
+        "In-patient and out-patient care",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.tatvaayurved.com/contact",
+        "practitioners": "https://www.tatvaayurved.com/",
+        "address": "https://www.tatvaayurved.com/contact",
+        "phone": "https://www.tatvaayurved.com/contact"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The clinic maintains a calm, welcoming atmosphere.",
+          "attribution": "Abhinand Ramani Balan",
+          "url": "https://www.tatvaayurved.com/"
+        },
+        {
+          "excerpt": "we feel home away from home with very friendly staff and exceptionally experienced doctors.",
+          "attribution": "Shyjith Kozhikulavan",
+          "url": "https://www.tatvaayurved.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "tatva-ayurved-hospital-formerly-keraleeya-ayurveda-samajam"
+    },
+    {
+      "practiceName": "Sree Subramania Ayurvedic Nursing Home",
+      "practitioners": [
+        {
+          "name": "Dr Sanand Ratnam Thekkayil",
+          "qualification": "BAMS, MD (Ayurveda), PG Diploma in Hospital Management",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Karikkamkulam, Karaparampa PO",
+        "locality": "Karaparamba",
+        "city": "Kozhikode",
+        "pin": "673010"
+      },
+      "phone": [
+        "+91 75940 03003",
+        "+91 70340 61009"
+      ],
+      "website": "https://ayurvedichospitalkerala.com/",
+      "email": "enquiry@ssanh.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayurvedichospitalkerala.com/about-us/",
+        "practitioners": "https://ayurvedichospitalkerala.com/about-us/",
+        "address": "https://ayurvedichospitalkerala.com/contact/",
+        "phone": "https://ayurvedichospitalkerala.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sree-subramania-ayurvedic-nursing-home"
+    },
+    {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinics and Panchakarma Centre, Kozhikode",
+      "practitioners": [
+        {
+          "name": "Dr Anjana Nambiar",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shan A H",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "22/180-B, Sreedhareeyam Building, West Mankavu PO",
+        "locality": "Mankavu",
+        "city": "Kozhikode",
+        "pin": "673029"
+      },
+      "phone": [
+        "+91 95449 49993",
+        "+91 96056 00053",
+        "+91 495 232 3434",
+        "+91 96056 00032"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/kozhikode",
+      "email": "biccalicut@sreedhareeyam.com",
+      "hours": "Monday to Sunday, 9:00am to 5:30pm",
+      "services": [
+        "Ayurvedic eye care",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.sreedhareeyam.com/kozhikode",
+        "practitioners": "https://clinics.sreedhareeyam.com/kozhikode",
+        "address": "https://clinics.sreedhareeyam.com/kozhikode",
+        "phone": "https://clinics.sreedhareeyam.com/kozhikode"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sreedhareeyam-ayurvedic-eye-clinics-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Sukrutham Ayurveda Chikitsalayam, Calicut",
+      "practitioners": [
+        {
+          "name": "Dr Madhu K Parameswaran",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Priya V Nair",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ankitha H",
+          "qualification": "BAMS, MD (Ayu), YIC",
+          "registration": null
+        },
+        {
+          "name": "Dr Manaswitha B Ninjoor",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anagha S Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Mankave Kovilakam Road",
+        "locality": "Mankavu",
+        "city": "Kozhikode",
+        "pin": "673007"
+      },
+      "phone": [
+        "+91 99958 30838"
+      ],
+      "website": "https://sukruthamayurveda.org/",
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://sukruthamayurveda.org/calicut.php",
+        "practitioners": "https://sukruthamayurveda.org/calicut.php",
+        "address": "https://sukruthamayurveda.org/calicut.php",
+        "phone": "https://sukruthamayurveda.org/calicut.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sukrutham-ayurveda-chikitsalayam-calicut"
+    },
+    {
+      "practiceName": "Sreshta Multi Specialty Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Nanditha M",
+          "qualification": "UG (Vishnu Ayurveda College, Shornur), PG Dravyagunavijnana (Amrita School of Ayurveda), PG Diploma in Ayurvedic Cosmetology",
+          "registration": null
+        },
+        {
+          "name": "Dr Shaheema Shamsudeen",
+          "qualification": "UG (Vishnu Ayurveda College, Shornur), certificate in gynaecological diseases and Ayurvedic management",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "32/1815, Guruvayurappan College PO",
+        "locality": "Pokkunnu",
+        "city": "Kozhikode",
+        "pin": "673014"
+      },
+      "phone": [
+        "+91 89215 18790",
+        "+91 87141 10578"
+      ],
+      "website": "https://sreshta.org/",
+      "email": "sreshtacalicut@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic cosmetology",
+        "Gynaecology wing",
+        "Guidance and counselling",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://sreshta.org/",
+        "practitioners": "https://sreshta.org/",
+        "address": "https://sreshta.org/",
+        "phone": "https://sreshta.org/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "She was very professional and would communicate and explain to me what she was going to do.",
+          "attribution": "Anooja J",
+          "url": "https://sreshta.org/"
+        },
+        {
+          "excerpt": "The therapists here are very good at their work and are well behaved too.",
+          "attribution": "Manikandan M",
+          "url": "https://sreshta.org/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sreshta-multi-specialty-ayurveda-clinic"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
       "practitioners": [
         {
@@ -18206,6 +18558,126 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-mira-road-east"
+    },
+    {
+      "practiceName": "Highlife Ayurvedic Multispecialty Hospital, Mukkam",
+      "practitioners": [
+        {
+          "name": "Dr Swaroopa Rani",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "5406",
+            "source": "https://highlifeayurveda.com/"
+          }
+        },
+        {
+          "name": "Dr Abdul Basith UM",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Arshad Rahman OP",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Karassery Junction",
+        "locality": "Karassery",
+        "city": "Mukkam",
+        "pin": "673602"
+      },
+      "phone": [
+        "+91 495 229 6200",
+        "+91 90613 12200",
+        "+91 85940 42990",
+        "+91 85898 42990",
+        "+91 91421 58510"
+      ],
+      "website": "https://highlifeayurveda.com/",
+      "email": "info@highlifeayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kalari Marma Chikitsa",
+        "Ayurveda packages",
+        "Physiotherapy",
+        "Yoga and meditation",
+        "Inpatient rooms"
+      ],
+      "sources": {
+        "practiceName": "https://highlifeayurveda.com/",
+        "practitioners": "https://highlifeayurveda.com/",
+        "address": "https://highlifeayurveda.com/contact.php",
+        "phone": "https://highlifeayurveda.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "highlife-ayurvedic-multispecialty-hospital-mukkam"
+    },
+    {
+      "practiceName": "KMCT Ayurveda Medical College Hospital, Manassery",
+      "practitioners": [
+        {
+          "name": "Dr Sarun Mohan",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": {
+            "number": "TCMC 8968",
+            "source": "https://www.kmctayurvedacollege.org/source/Faculty/Principal-Medical-Superintendent%20MARCH%202026.pdf"
+          }
+        },
+        {
+          "name": "Dr Vineetha N",
+          "qualification": "BAMS, MD",
+          "registration": {
+            "number": "10550",
+            "source": "https://www.kmctayurvedacollege.org/source/Faculty/KMCT%20AMC%20-details%20of%20teaching%20faculty.pdf"
+          }
+        },
+        {
+          "name": "Dr Arathi V",
+          "qualification": "BAMS, MD",
+          "registration": {
+            "number": "12796",
+            "source": "https://www.kmctayurvedacollege.org/source/Faculty/KMCT%20AMC%20-details%20of%20teaching%20faculty.pdf"
+          }
+        }
+      ],
+      "address": {
+        "line": "KMCT Ayurveda College Campus, Manassery P.O",
+        "locality": "Manassery",
+        "city": "Mukkam",
+        "pin": "673602"
+      },
+      "phone": [
+        "+91 495 229 4664",
+        "+91 495 229 0692"
+      ],
+      "website": "https://www.kmctayurvedacollege.org/hospital.html",
+      "email": "ayurveda@kmct.org",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shalakya Tantra",
+        "Shalya Tantra",
+        "Kayachikitsa",
+        "Kaumarabhritya",
+        "Prasuti and Streeroga",
+        "Inpatient care (about 100 beds)",
+        "Laboratory",
+        "In-house pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.kmctayurvedacollege.org/hospital.html",
+        "practitioners": "https://www.kmctayurvedacollege.org/source/Faculty/KMCT%20AMC%20-details%20of%20teaching%20faculty.pdf",
+        "address": "https://www.kmctayurvedacollege.org/contact-us.html",
+        "phone": "https://www.kmctayurvedacollege.org/contact-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kmct-ayurveda-medical-college-hospital-manassery"
     },
     {
       "practiceName": "Karma Ayurveda Clinic, Andheri East",
