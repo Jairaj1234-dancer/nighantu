@@ -1685,6 +1685,60 @@
       "id": "olive-ayurveda-hospital-and-rehabilitation-centre"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Hospital, Vadodara (Ankodia)",
+      "practitioners": [
+        {
+          "name": "Dr Jagruti Kokani",
+          "qualification": "B.A.M.S., M.D. (OPD Head)",
+          "registration": null
+        },
+        {
+          "name": "Dr Yash Gupta",
+          "qualification": "B.A.M.S., M.D. (Ayurveda) (Resident Medical Officer)",
+          "registration": null
+        },
+        {
+          "name": "Dr Arati Vasava",
+          "qualification": "B.A.M.S. (IPD Head and Medical Officer)",
+          "registration": null
+        },
+        {
+          "name": "Dr Yashvi Patel",
+          "qualification": "B.A.M.S. (Medical Officer)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Koyli-Sevasi Road, near New Alkapuri",
+        "locality": "Ankodia",
+        "city": "Ankodia",
+        "pin": "391330",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 91587 83344"
+      ],
+      "website": "https://madhavbaug.org/hospitals/vadodara",
+      "email": "info@madhavbaug.org",
+      "hours": "24x7 hospital operations",
+      "services": [
+        "35-bed Ayurvedic hospital",
+        "Panchakarma (12 units)",
+        "Residential Panchakarma programmes (4, 6 and 7 days)",
+        "ECG, stress test, 6-minute walk test, pulmonary function test"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/hospitals/vadodara",
+        "practitioners": "https://madhavbaug.org/hospitals/vadodara",
+        "address": "https://madhavbaug.org/hospitals/vadodara",
+        "phone": "https://madhavbaug.org/hospitals/vadodara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-hospital-vadodara-ankodia"
+    },
+    {
       "practiceName": "Kottakkal Arya Vaidya Sala dealer clinic (Gouri Sankara Ayurvedics), Bagalur Cross",
       "practitioners": [
         {
@@ -12831,6 +12885,50 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "smbt-ayurved-college-and-hospital"
+    },
+    {
+      "practiceName": "P. P. Savani Ayurvedic College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Gaurang Lineswala",
+          "qualification": "M.D. Ayu",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "P P Savani University, NH48, GETCO, Near Biltech, Dhamdod Village, Ta. Mangrol, Kosamba",
+        "locality": "Dhamdod",
+        "city": "Dhamdod",
+        "pin": "394125",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 63589 36201"
+      ],
+      "website": "https://www.ppsu.ac.in/ayurvedic-college-hospital/AyurvedicHospital.php",
+      "email": null,
+      "hours": "Hospital open 24 hours; visiting time 8 to 10 AM and 6 to 8 PM",
+      "services": [
+        "OPD",
+        "IPD (100 beds)",
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarbhritya",
+        "Ksharsutra"
+      ],
+      "sources": {
+        "practiceName": "https://www.ppsu.ac.in/ayurvedic-college-hospital/AyurvedicHospital.php",
+        "practitioners": "https://www.ppsu.ac.in/ayurvedic-college-hospital/AyurvedicHospital.php",
+        "address": "https://www.ppsu.ac.in/ayurvedic-college-hospital/AyurvedicHospital.php",
+        "phone": "https://www.ppsu.ac.in/ayurvedic-college-hospital/AyurvedicHospital.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "p-p-savani-ayurvedic-college-and-hospital"
     },
     {
       "practiceName": "AyuSphere Ayurveda Clinic, Palava City",
@@ -41222,6 +41320,396 @@
       "id": "beehive-ayurved-medical-college-and-hospital"
     },
     {
+      "practiceName": "Amrutkalp Ayurvedic Panchkarma Hospital",
+      "practitioners": [
+        {
+          "name": "Vaidya Vishal Koshiya",
+          "qualification": "Ayurvedacharya (Gulabkunverba Ayurved Mahavidyalaya, Jamnagar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "201, 202, 203, Sangini Magnus, Opp. Rushabh Tower, Above BATA Showroom, Opposite Indian Oil Petrol Pump, Rander Road",
+        "locality": "Adajan",
+        "city": "Surat",
+        "pin": "395009",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 81415 52919",
+        "+91 80436 94596"
+      ],
+      "website": "https://www.amrutkalpayurved.com/",
+      "email": "vkoshi.vishal@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Suvarnaprashan",
+        "Udvartana"
+      ],
+      "sources": {
+        "practiceName": "https://www.amrutkalpayurved.com/",
+        "practitioners": "https://www.amrutkalpayurved.com/",
+        "address": "https://www.amrutkalpayurved.com/",
+        "phone": "https://www.amrutkalpayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "amrutkalp-ayurvedic-panchkarma-hospital"
+    },
+    {
+      "practiceName": "Ayuramaze Ayurvedic Hospital",
+      "practitioners": [
+        {
+          "name": "Vd Urmi Italia",
+          "qualification": "B.A.M.S., PG in Panchkarma",
+          "registration": null
+        },
+        {
+          "name": "Vd Sagar Purohit",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "442 - 445 Green Palladia, Opp. Raj World Shopping Center, Palanpore",
+        "locality": "Adajan",
+        "city": "Surat",
+        "pin": "395009",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 79901 45539",
+        "+91 93271 68245"
+      ],
+      "website": "https://www.ayuramaze.com/",
+      "email": "ayuramaze@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchkarma",
+        "Suvarnaprashan",
+        "Uttam Santan Vidhi",
+        "Diet guidance"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayuramaze.com/",
+        "practitioners": "https://www.ayuramaze.com/",
+        "address": "https://www.ayuramaze.com/",
+        "phone": "https://www.ayuramaze.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayuramaze-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "JOGI Ayurved Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Devangi N Jogal",
+          "qualification": "MD Ayurved",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd Floor / 4th Floor, Shreeji Arcade, A-301 / 401, Anand Mahal Road, behind Bhulka Bhawan School, Adajan Gam",
+        "locality": "Adajan",
+        "city": "Surat",
+        "pin": "395009",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 81409 46153"
+      ],
+      "website": "https://jogiayurved.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "OPD and IPD",
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Digital consultation"
+      ],
+      "sources": {
+        "practiceName": "https://jogiayurved.com/",
+        "practitioners": "https://jogiayurved.com/",
+        "address": "https://jogiayurved.com/",
+        "phone": "https://jogiayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jogi-ayurved-hospital"
+    },
+    {
+      "practiceName": "Bharadwaj Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Jayveersinh J Mahida",
+          "qualification": "BAMS, PK (CCP)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "106, Raghuvir Symphony Shoppers, Bhimrad-Althan Road, Apcha Nagar",
+        "locality": "Althan",
+        "city": "Surat",
+        "pin": "395007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 79906 25845"
+      ],
+      "website": "https://bharadwajayurveda.com/",
+      "email": null,
+      "hours": "Monday to Saturday 9 AM to 1 PM and 4 PM to 8 PM; Sunday closed",
+      "services": [
+        "Consultation",
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Suvarnaprashan"
+      ],
+      "sources": {
+        "practiceName": "https://bharadwajayurveda.com/",
+        "practitioners": "https://bharadwajayurveda.com/",
+        "address": "https://bharadwajayurveda.com/",
+        "phone": "https://bharadwajayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bharadwaj-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Shree Swami Atmanand Saraswati Ayurved Hospital (Shree O. H. Nazar Ayurved College)",
+      "practitioners": [
+        {
+          "name": "Dr Megha Chirag Vyas",
+          "qualification": "M.D. (Ayu.)",
+          "registration": {
+            "number": "GB I 15278",
+            "source": "https://ohnazarayu.org/mandatory-disclosures/"
+          }
+        },
+        {
+          "name": "Dr Pannaben R Sojitra",
+          "qualification": "M.D. (Ayu.)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shree O. H. Nazar Ayurved College campus, Near Railway Station, Lal Darwaja Road",
+        "locality": "Lal Darwaja",
+        "city": "Surat",
+        "pin": "395003",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 87993 28432",
+        "+91 261 253 6572"
+      ],
+      "website": "https://ohnazarayu.org/",
+      "email": "ohnazarayurved@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD and IPD",
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarbhritya"
+      ],
+      "sources": {
+        "practiceName": "https://ohnazarayu.org/about-us/",
+        "practitioners": "https://ohnazarayu.org/mandatory-disclosures/",
+        "address": "https://ohnazarayu.org/about-us/",
+        "phone": "https://ohnazarayu.org/about-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shree-swami-atmanand-saraswati-ayurved-hospital-shree-o-h"
+    },
+    {
+      "practiceName": "Niramay Ayurvedic Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sandip Patel",
+          "qualification": "M.D. (Ayu), PhD (Botany)",
+          "registration": null
+        },
+        {
+          "name": "Dr Priyanka Vaghela",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Nishtha Chaudhari",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Denisha Vaghasiya",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/934, Adgara Street",
+        "locality": "Nanpura",
+        "city": "Surat",
+        "pin": "395001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 75748 61856"
+      ],
+      "website": "https://niramayayurveda.com/",
+      "email": "niramayayu1991@gmail.com",
+      "hours": null,
+      "services": [
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Shirodhara",
+        "Abhyanga",
+        "Marma therapy",
+        "Garbh Sanskar"
+      ],
+      "sources": {
+        "practiceName": "https://niramayayurveda.com/",
+        "practitioners": "https://niramayayurveda.com/",
+        "address": "https://niramayayurveda.com/",
+        "phone": "https://niramayayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "niramay-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Orlima (Ring Road)",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay M Sali",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "303, Surya Plaza, B/S Gujarat Samachar Press, Ring Road",
+        "locality": "Ring Road",
+        "city": "Surat",
+        "pin": "395002",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 99090 90271"
+      ],
+      "website": "https://madhavbaug.org/clinic/orlima-surat",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/orlima-surat",
+        "practitioners": "https://madhavbaug.org/clinic/orlima-surat",
+        "address": "https://madhavbaug.org/clinic/orlima-surat",
+        "phone": "https://madhavbaug.org/clinic/orlima-surat"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-orlima-ring-road"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vesu",
+      "practitioners": [
+        {
+          "name": "Dr Jigar Prajapati",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "129, Gokul Solitaire, Above Union Bank, VIP Road",
+        "locality": "Vesu",
+        "city": "Surat",
+        "pin": "395007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 87996 47996"
+      ],
+      "website": "https://madhavbaug.org/clinic/heart-hospital-in-vesu-surat",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/heart-hospital-in-vesu-surat",
+        "practitioners": "https://madhavbaug.org/clinic/heart-hospital-in-vesu-surat",
+        "address": "https://madhavbaug.org/clinic/heart-hospital-in-vesu-surat",
+        "phone": "https://madhavbaug.org/clinic/heart-hospital-in-vesu-surat"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-vesu"
+    },
+    {
+      "practiceName": "Shashwat Ayurveda and Panchkarma",
+      "practitioners": [
+        {
+          "name": "Dr Vishal B Bhuva",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "127, Aagam Orchid, Opp. Shivkartik Enclave, Near Nandini-2",
+        "locality": "Vesu",
+        "city": "Surat",
+        "pin": "395007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 80427 55211",
+        "+91 83206 99167"
+      ],
+      "website": "https://www.shashwatayurveda.com/",
+      "email": "vishal.bhuva1@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Janu basti",
+        "Kati basti",
+        "Greeva basti",
+        "Karnapuran",
+        "Udvartana",
+        "Suvarnaprashan"
+      ],
+      "sources": {
+        "practiceName": "https://www.shashwatayurveda.com/",
+        "practitioners": "https://www.shashwatayurveda.com/",
+        "address": "https://www.shashwatayurveda.com/",
+        "phone": "https://www.shashwatayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shashwat-ayurveda-and-panchkarma"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Kalwa",
       "practitioners": [
         {
@@ -44617,6 +45105,479 @@
       "id": "sri-dharmasthala-manjunatheshwara-college-of-ayurveda"
     },
     {
+      "practiceName": "Chiranjeevi Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Hardikchandra J. Kalal",
+          "qualification": "M.D. (Ayu.), C.Y.S.",
+          "registration": {
+            "number": "G.B.I. - 18935",
+            "source": "https://www.chiranjeeviayurved.com/about_chiranjeevi.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "401, Rudrax Complex, Nr. Goverdhannathji Haveli",
+        "locality": "Alkapuri",
+        "city": "Vadodara",
+        "pin": "390020",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 76228 49896"
+      ],
+      "website": "https://www.chiranjeeviayurved.com/",
+      "email": "dr.hardikchandrakalal@gmail.com",
+      "hours": "Monday to Thursday 10 AM to 1 PM and 4 to 8 PM; Friday to Sunday by appointment only",
+      "services": [
+        "Panchakarma",
+        "20 beds"
+      ],
+      "sources": {
+        "practiceName": "https://www.chiranjeeviayurved.com/",
+        "practitioners": "https://www.chiranjeeviayurved.com/about_chiranjeevi.php",
+        "address": "https://www.chiranjeeviayurved.com/contact.php",
+        "phone": "https://www.chiranjeeviayurved.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chiranjeevi-ayurveda-hospital"
+    },
+    {
+      "practiceName": "Satvik Ayurved Panchkarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Charmi Shah",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-201, Oxydarshanam Tower B, B/d Nand Hospital, Nr. Panchmukhi Hanuman Temple, Vasna-Bhayli Main Road",
+        "locality": "Bhayli",
+        "city": "Vadodara",
+        "pin": "391410",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 99792 82901"
+      ],
+      "website": "http://www.satvikayurved.com/",
+      "email": "satvikayurved@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Shirodhara",
+        "Nasya",
+        "Basti"
+      ],
+      "sources": {
+        "practiceName": "http://www.satvikayurved.com/",
+        "practitioners": "http://www.satvikayurved.com/about.html",
+        "address": "http://www.satvikayurved.com/contact.html",
+        "phone": "http://www.satvikayurved.com/contact.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr Charmi is a wonderful guide and doctor ! Every advise is backed with a good logic and reasoning !",
+          "attribution": "Madhavi Karanji, Vadodara",
+          "url": "http://www.satvikayurved.com/"
+        },
+        {
+          "excerpt": "A very warm, understanding and full of patience. She will answer your queries till you are satisfied.",
+          "attribution": "Sumegha Shanbhag, Vadodara",
+          "url": "http://www.satvikayurved.com/"
+        },
+        {
+          "excerpt": "She has a very deep understanding of the body type and prescribes a doable diet and small modifications according to your lifestyle.",
+          "attribution": "Sonia Dhanwani, Vadodara",
+          "url": "http://www.satvikayurved.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "satvik-ayurved-panchkarma-clinic"
+    },
+    {
+      "practiceName": "Dhanvantari Super Speciality Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Saurabh B. Dave",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "D-109 Sangam Society, Nr. Sangam Cross Road, Harni Road",
+        "locality": "Harni Road",
+        "city": "Vadodara",
+        "pin": "390006",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 63544 80826"
+      ],
+      "website": "https://dhanvantariayurveda.com/",
+      "email": "contact@dhanvantariayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kerala Ashta Vaidya treatments",
+        "Kshara Sutra"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvantariayurveda.com/team/",
+        "practitioners": "https://dhanvantariayurveda.com/team/",
+        "address": "https://dhanvantariayurveda.com/contact-us/",
+        "phone": "https://dhanvantariayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvantari-super-speciality-ayurveda-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Manjalpur",
+      "practitioners": [
+        {
+          "name": "Dr Rashmi Jogal",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "E-18, Manjeet Nagar Soc., Opp Madhuli Kathyiwadi Restaurant, Nr. Tulsidham Cross Road",
+        "locality": "Manjalpur",
+        "city": "Vadodara",
+        "pin": "390011",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 72290 40747",
+        "+91 88661 60006"
+      ],
+      "website": "https://madhavbaug.org/clinic/manjalpur-vadodara",
+      "email": null,
+      "hours": "9:00 AM to 6:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/manjalpur-vadodara",
+        "practitioners": "https://madhavbaug.org/clinic/manjalpur-vadodara",
+        "address": "https://madhavbaug.org/clinic/manjalpur-vadodara",
+        "phone": "https://madhavbaug.org/clinic/manjalpur-vadodara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-manjalpur"
+    },
+    {
+      "practiceName": "Maharshi Atreya Health Centre (MAHC Clinic), Race Course Road",
+      "practitioners": [
+        {
+          "name": "Dr Dinesh C. Pandya",
+          "qualification": "MSAM, PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Avani Pandya",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Kumud Pandya",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "311 The Emerald, Near Bird Circle, Race Course Road",
+        "locality": "Race Course",
+        "city": "Vadodara",
+        "pin": "390007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 93272 19418"
+      ],
+      "website": "https://maharshiatreya.com/",
+      "email": "mail@maharshiatreya.com",
+      "hours": "Ayurvedic OPD 9 AM to 12 PM (and 4:30 to 6:30 PM on some days) as per the contact page; Panchakarma by appointment",
+      "services": [
+        "Ayurvedic OPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://maharshiatreya.com/contact-us/",
+        "practitioners": "https://maharshiatreya.com/",
+        "address": "https://maharshiatreya.com/contact-us/",
+        "phone": "https://maharshiatreya.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "maharshi-atreya-health-centre-mahc-clinic-race-course-road"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Sama-Chhani Road",
+      "practitioners": [
+        {
+          "name": "Dr Vaishnavi Avghate",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "E-16, Vrundavan Duplex, Chhani-Sama Canal Road, Near Prit Party Plot",
+        "locality": "Sama",
+        "city": "Vadodara",
+        "pin": "390024",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 99747 04441"
+      ],
+      "website": "https://madhavbaug.org/clinic/vadodara-gujarat",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vadodara-gujarat",
+        "practitioners": "https://madhavbaug.org/clinic/vadodara-gujarat",
+        "address": "https://madhavbaug.org/clinic/vadodara-gujarat",
+        "phone": "https://madhavbaug.org/clinic/vadodara-gujarat"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-sama-chhani-road"
+    },
+    {
+      "practiceName": "Pioneer Ayurvedic College and Hospital",
+      "practitioners": [
+        {
+          "name": "Vaidya Mita Shantilal Mashru",
+          "qualification": "Principal and Medical Director",
+          "registration": null
+        },
+        {
+          "name": "Dr Vijaya Roshan Agrawal",
+          "qualification": "MD Ayu (In-charge Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vishalkumar Dipteshkumar Sheth",
+          "qualification": "MD Ayu (Deputy Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Hitanshi Jayeshkumar Patel",
+          "qualification": "MD (Ayu.), Consultant",
+          "registration": null
+        },
+        {
+          "name": "Dr Pravir Vinodkumar Gupta",
+          "qualification": "MS (Ayu.), Consultant",
+          "registration": null
+        },
+        {
+          "name": "Dr Chintan Janakkumar Bhatt",
+          "qualification": "MD (Ayu.), Consultant",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Pioneer Medical and Paramedical Campus, Ajwa-Nimeta Road, At and Post Sayajipura",
+        "locality": "Sayajipura",
+        "city": "Vadodara",
+        "pin": "390019",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 93167 21993",
+        "+91 97148 55993"
+      ],
+      "website": "https://www.pioneerayurvedic.ac.in/",
+      "email": "pioneerayurvediccollege@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurveda teaching hospital (60 beds)",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.pioneerayurvedic.ac.in/",
+        "practitioners": "https://www.pioneerayurvedic.ac.in/updated-pdf/Consultant%20&%20Medical%20Officer.pdf",
+        "address": "https://www.pioneerayurvedic.ac.in/contact.html",
+        "phone": "https://www.pioneerayurvedic.ac.in/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "pioneer-ayurvedic-college-and-hospital"
+    },
+    {
+      "practiceName": "Mishv Ayurved Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Saurav Brahmabhatt",
+          "qualification": "B.A.M.S., M.D. (Ayurved)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "418, Darshanam Crossroad, Soma Talav Char Rasta, Uma Nagar",
+        "locality": "Soma Talav",
+        "city": "Vadodara",
+        "pin": "390025",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 70413 14149",
+        "+91 94080 78409"
+      ],
+      "website": "https://mishvayurvedhospital.lovable.app/",
+      "email": null,
+      "hours": "Monday to Saturday 6:00 PM to 9:00 PM; Sunday 9:00 AM to 12:00 PM",
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://mishvayurvedhospital.lovable.app/",
+        "practitioners": "https://mishvayurvedhospital.lovable.app/",
+        "address": "https://mishvayurvedhospital.lovable.app/",
+        "phone": "https://mishvayurvedhospital.lovable.app/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mishv-ayurved-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Gotri",
+      "practitioners": [
+        {
+          "name": "Dr Neha Bhavsar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H-154, Aakanksha Duplex, Laxmipura Road",
+        "locality": "Subhanpura",
+        "city": "Vadodara",
+        "pin": "390023",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 88660 18900"
+      ],
+      "website": "https://madhavbaug.org/clinic/gotri-vadodara",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/gotri-vadodara",
+        "practitioners": "https://madhavbaug.org/clinic/gotri-vadodara",
+        "address": "https://madhavbaug.org/clinic/gotri-vadodara",
+        "phone": "https://madhavbaug.org/clinic/gotri-vadodara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-gotri"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Old Padra Road",
+      "practitioners": [
+        {
+          "name": "Dr Priya Shah",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B/2, Shiv Darshan Society, Opp Siddharth Exellence, Near D-Mart, Vasana Road",
+        "locality": "Vasna Road",
+        "city": "Vadodara",
+        "pin": "390007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 72290 40746",
+        "+91 99747 34441"
+      ],
+      "website": "https://madhavbaug.org/clinic/old-padra-road-vadodara",
+      "email": null,
+      "hours": "9:00 AM to 6:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/old-padra-road-vadodara",
+        "practitioners": "https://madhavbaug.org/clinic/old-padra-road-vadodara",
+        "address": "https://madhavbaug.org/clinic/old-padra-road-vadodara",
+        "phone": "https://madhavbaug.org/clinic/old-padra-road-vadodara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-old-padra-road"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, VIP Road",
+      "practitioners": [
+        {
+          "name": "Dr Krupa Chhatrodiya",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "7, Sahjanand Society, Opposite Skin 360 Clinic, Near Sangam Char Rasta, Sangam-Warasia Road",
+        "locality": "VIP Road",
+        "city": "Vadodara",
+        "pin": "390022",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 72290 40748"
+      ],
+      "website": "https://madhavbaug.org/clinic/vip-road-vadodara",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vip-road-vadodara",
+        "practitioners": "https://madhavbaug.org/clinic/vip-road-vadodara",
+        "address": "https://madhavbaug.org/clinic/vip-road-vadodara",
+        "phone": "https://madhavbaug.org/clinic/vip-road-vadodara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-vip-road"
+    },
+    {
       "practiceName": "Jiva Ayurveda Clinic, Bhojubeer",
       "practitioners": [
         {
@@ -44775,6 +45736,109 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "jiva-ayurveda-clinic-sigra"
+    },
+    {
+      "practiceName": "Parul Ayurved Hospital (Parul Institute of Ayurved, Parul University)",
+      "practitioners": [
+        {
+          "name": "Dr O. P. Dave",
+          "qualification": "M.S. (Ayu.), Ph.D., Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Jaimini Rathod",
+          "qualification": "M.D. (Ayu.), Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Nishant N Patel",
+          "qualification": "M.S. (Ayu.), Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Mauli Vaishnav",
+          "qualification": "M.S. (Ayu.), Prasuti Tantra and Stree Roga",
+          "registration": null
+        },
+        {
+          "name": "Dr Yogesh Patel",
+          "qualification": "M.D. (Ayu.), Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Maitri Patel",
+          "qualification": "M.D. (Ayu.), Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Aparna Bagul",
+          "qualification": "M.D. (Ayu.), Swasthavritta and Yoga",
+          "registration": null
+        },
+        {
+          "name": "Dr Dipeeka Surwase",
+          "qualification": "M.D. (Ayu.), Kayachikitsa (Geriatrics)",
+          "registration": null
+        },
+        {
+          "name": "Dr Harish Daga",
+          "qualification": "M.S. (Ayu.), Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Manjiri Keskar",
+          "qualification": "M.S. (Ayu.), Shalakya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Manjusha Karkare",
+          "qualification": "M.S. (Ayu.), Stri Roga and Prasuti Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Parikshit Shirode",
+          "qualification": "M.S. (Ayu.), Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Radhika Daga",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Parul Ayurved Hospital, Parul University, P.O. Limda, Tal. Waghodia",
+        "locality": "Limda",
+        "city": "Waghodia",
+        "pin": "391760",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 266 826 0225",
+        "+91 63589 18993"
+      ],
+      "website": "https://parulayurvedhospital.com/",
+      "email": "info@parulayurvedhospital.com",
+      "hours": "OPD 8:00 AM to 6:00 PM, Monday to Saturday",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra (Kshara Sutra)",
+        "Shalakya Tantra",
+        "Stri Roga and Prasuti Tantra",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://parulayurvedhospital.com/",
+        "practitioners": "https://parulayurvedhospital.com/our-doctors/",
+        "address": "https://parulayurvedhospital.com/contact-us/",
+        "phone": "https://parulayurvedhospital.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "parul-ayurved-hospital-parul-institute-of-ayurved-parul"
     },
     {
       "practiceName": "Datta Meghe Ayurvedic Medical College Hospital and Research Centre",
