@@ -60,11 +60,18 @@ const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ''); } 
 const slug = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
   .replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
-/** "+91 22 2345 6789", "022-23456789", "98200 12345" all become +91 and 10 digits, or null. */
+/** STD codes that are two digits long (the metros); any other landline code is three digits unless listed in STD4. */
+const STD2 = new Set(['11', '20', '22', '33', '40', '44', '79', '80']);
+const STD4 = new Set(['4885']);
+
+/** "+91 22 2345 6789", "0471-2223542", "98200 12345" all become +91 and 10 digits, or null. */
 function phone(raw) {
   let d = String(raw).replace(/[^\d+]/g, '').replace(/^\+?91/, '').replace(/^0/, '');
   if (!/^\d{10}$/.test(d)) return null;
-  return /^[6-9]/.test(d) ? `+91 ${d.slice(0, 5)} ${d.slice(5)}` : `+91 ${d.slice(0, 2)} ${d.slice(2, 6)} ${d.slice(6)}`;
+  if (/^[6-9]/.test(d)) return `+91 ${d.slice(0, 5)} ${d.slice(5)}`;
+  if (STD2.has(d.slice(0, 2))) return `+91 ${d.slice(0, 2)} ${d.slice(2, 6)} ${d.slice(6)}`;
+  if (STD4.has(d.slice(0, 4))) return `+91 ${d.slice(0, 4)} ${d.slice(4)}`;
+  return `+91 ${d.slice(0, 3)} ${d.slice(3, 6)} ${d.slice(6)}`;
 }
 
 const SKIP = new Set(['hold.json', 'refused.json']);
