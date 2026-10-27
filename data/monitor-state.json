@@ -1625,7 +1625,7 @@
       "https://nighantu.ageayurveda.com/practice/talapodichil/": "6ee224ee26f4d8aa",
       "https://nighantu.ageayurveda.com/practice/tikshna-nasya/": "0e77fc11f0fce202",
       "https://nighantu.ageayurveda.com/practice/vatatapika-rasayana/": "383dd095581f12b0",
-      "https://nighantu.ageayurveda.com/practitioners/": "006fc231b6d43c56",
+      "https://nighantu.ageayurveda.com/practitioners/": "e09e572fa8bba707",
       "https://nighantu.ageayurveda.com/practitioners/about/": "ca3cb58c1ed473c1",
       "https://nighantu.ageayurveda.com/practitioners/ahmedabad/": "2bd6856bb52f2bec",
       "https://nighantu.ageayurveda.com/practitioners/ahmedabad/ambawadi/": "5a1732003c5da647",
@@ -2081,7 +2081,7 @@
       "https://nighantu.ageayurveda.com/practitioners/guruvayur/guruvayur/ayurtoday-sri-guruvayurappan-ayurveda-nursing-home/": "9d1a697c0332fd2d",
       "https://nighantu.ageayurveda.com/practitioners/guruvayur/west-nada/": "59142969edae2575",
       "https://nighantu.ageayurveda.com/practitioners/guruvayur/west-nada/sreedhareeyam-ayurvedic-eye-clinic-and-panchakarma-centre/": "a649c1e233aeace9",
-      "https://nighantu.ageayurveda.com/practitioners/howrah/": "e02ce6f6529a74e6",
+      "https://nighantu.ageayurveda.com/practitioners/howrah/": "fa0f6902a8a61e9c",
       "https://nighantu.ageayurveda.com/practitioners/howrah/howrah-maidan/": "597ef0767a3aa63d",
       "https://nighantu.ageayurveda.com/practitioners/howrah/howrah-maidan/ayurlife/": "a7cfbe23909ed68f",
       "https://nighantu.ageayurveda.com/practitioners/hyderabad/": "50df5478393b52ca",
@@ -2203,7 +2203,7 @@
       "https://nighantu.ageayurveda.com/practitioners/kochi/vypin/ayurdara/": "7ff510e47847499f",
       "https://nighantu.ageayurveda.com/practitioners/kochi/vyttila/": "080734295b71faf3",
       "https://nighantu.ageayurveda.com/practitioners/kochi/vyttila/sahrudaya-naivedya-ayurvedic-hospital/": "05fb47e754f1f10a",
-      "https://nighantu.ageayurveda.com/practitioners/kodungallur/": "cbe20b370583b0cc",
+      "https://nighantu.ageayurveda.com/practitioners/kodungallur/": "ed7bfcbb28445d60",
       "https://nighantu.ageayurveda.com/practitioners/kodungallur/kodungallur/": "20e6f453aac21cd0",
       "https://nighantu.ageayurveda.com/practitioners/kodungallur/kodungallur/swasthy-ayurvedic-hospital/": "6e78eb508fe94f43",
       "https://nighantu.ageayurveda.com/practitioners/kolkata/": "e98b8752b42c1d7d",
@@ -2353,7 +2353,7 @@
       "https://nighantu.ageayurveda.com/practitioners/mumbai/worli/": "b729196c6d77e6ed",
       "https://nighantu.ageayurveda.com/practitioners/mumbai/worli/m-a-podar-hospital-r-a-podar-medical-college-ayurved-worli/": "ca3a5f690099a8ba",
       "https://nighantu.ageayurveda.com/practitioners/mumbai/worli/madhavbaug-ayurvedic-clinic-worli/": "2aa5909e055ccb64",
-      "https://nighantu.ageayurveda.com/practitioners/nattika/": "a5ca0b7f7904b9f0",
+      "https://nighantu.ageayurveda.com/practitioners/nattika/": "e4ce3b82a68e0eee",
       "https://nighantu.ageayurveda.com/practitioners/nattika/nattika/": "1d808c654cf83d4c",
       "https://nighantu.ageayurveda.com/practitioners/nattika/nattika/the-nattika-beach-ayurveda-resort-swastha-ayurveda-centre/": "eb11a3d69b11adab",
       "https://nighantu.ageayurveda.com/practitioners/navi-mumbai/": "a874a953a36b530f",
@@ -2802,8 +2802,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b45bacf9e83db25e",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9d5cc5ab940d5980"
     },
-    "lastSubmittedAt": "2026-10-27T06:43:01.230Z",
-    "lastSubmittedCount": 40,
+    "lastSubmittedAt": "2026-10-27T06:55:13.769Z",
+    "lastSubmittedCount": 4,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -6132,6 +6132,6 @@
     "seen": 10,
     "surfaced": 0
   },
-  "updatedAt": "2026-10-27T06:51:34.531Z",
+  "updatedAt": "2026-10-27T06:55:13.769Z",
   "version": 1
 }
