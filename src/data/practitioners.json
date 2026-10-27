@@ -2413,6 +2413,95 @@
       "id": "s-g-v-ayurvedic-medical-college-hospital-and-research-center"
     },
     {
+      "practiceName": "Kala Ashram Ayurved Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Prof Shriram Sharma",
+          "qualification": "BAMS, MD, PhD (Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sangeeta Bhatnagar",
+          "qualification": "BAMS (Deputy Medical Superintendent)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rakesh Katara",
+          "qualification": "BAMS, MD (Consultant, Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Arvind Kumar Lohar",
+          "qualification": "BAMS, MS (Consultant, Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dinesh Kumar Jat",
+          "qualification": "BAMS, MS (Consultant, Shalakya Tantra ENT)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sanjay Ahari",
+          "qualification": "BAMS, MD (Consultant, Balrog)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ankita Yadav",
+          "qualification": "BAMS, MS (Consultant, PTSR)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravi Choyal",
+          "qualification": "BAMS, MD (Consultant, Agad Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Hemanshu Jain",
+          "qualification": "BAMS, MD (Consultant, Swasthavritta)",
+          "registration": null
+        },
+        {
+          "name": "Dr Deepak Narayankar",
+          "qualification": "BAMS, MS (Consultant, Shalakya Tantra Eye)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "NHW-27, Dholighati, Village Bansada, Tehsil Gogunda, District Udaipur",
+        "locality": "Dholighati",
+        "city": "Bansada",
+        "pin": "313705",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 295 629 4042",
+        "+91 94141 57457"
+      ],
+      "website": "https://www.kalaashramayurved.org/",
+      "email": "kaamcudaipur@gmail.com",
+      "hours": "Hospital OPD 9 AM to 3 PM",
+      "services": [
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra (ENT, Eye)",
+        "Balrog",
+        "PTSR",
+        "Agad Tantra",
+        "Swasthavritta"
+      ],
+      "sources": {
+        "practiceName": "https://www.kalaashramayurved.org/contact-us/",
+        "practitioners": "https://www.kalaashramayurved.org/wp-content/uploads/2026/06/Hospital-Staff-2026-27-NEW.pdf",
+        "address": "https://www.kalaashramayurved.org/contact-us/",
+        "phone": "https://www.kalaashramayurved.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "kala-ashram-ayurved-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Acharya Deshabushan Ayurvedic Medical College and Hospital",
       "practitioners": [
         {
@@ -8600,6 +8689,53 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "astang-ayurveda"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Bikaner (Pawanpuri)",
+      "practitioners": [
+        {
+          "name": "Dr Piyush Bishnoi",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Muskan Bainsla",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Gargi Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3, near Naagnechi Temple Road",
+        "locality": "Pawanpuri",
+        "city": "Bikaner",
+        "pin": "334003",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 98881 60400"
+      ],
+      "website": "https://drshardaayurveda.com/pages/bikaner",
+      "email": "info@drshardaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/bikaner",
+        "practitioners": "https://drshardaayurveda.com/pages/bikaner",
+        "address": "https://drshardaayurveda.com/pages/bikaner",
+        "phone": "https://drshardaayurveda.com/pages/bikaner"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-bikaner-pawanpuri"
     },
     {
       "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
@@ -30843,6 +30979,47 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "kandamkulathy-ayurveda-hospital-kondotty"
+    },
+    {
+      "practiceName": "Ayurlekha Ayurvedic Hospital and Panchakarma Center, Mahaveer Nagar Extension, Kota",
+      "practitioners": [
+        {
+          "name": "Dr Lekha Soni",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "6-A-14, near Teen Batti, opposite Yadav Hospital, Mahaveer Nagar Extension, Circle",
+        "locality": "Mahaveer Nagar",
+        "city": "Kota",
+        "pin": "324005",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 63773 20446"
+      ],
+      "website": "https://ayurlekha.com/",
+      "email": "ayurlekha@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Patra Potli Swedan",
+        "Janu Basti",
+        "Griva Basti",
+        "Agni Karma",
+        "Virtual consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayurlekha.com/",
+        "practitioners": "https://ayurlekha.com/",
+        "address": "https://ayurlekha.com/",
+        "phone": "https://ayurlekha.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayurlekha-ayurvedic-hospital-and-panchakarma-center-mahaveer"
     },
     {
       "practiceName": "Kundapura Rural Ayurveda Medical College and Hospital",
@@ -55207,6 +55384,200 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedapuri-ayurveda"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Udaipur",
+      "practitioners": [
+        {
+          "name": "Dr Durga Shankar Choudhary",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Jigisha Kumpawat",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "80 ft road, RK Circle, near Orbit Resort, New Bhupalpura, Pulla Bhuwana, Rupsagar",
+        "locality": "Bhupalpura",
+        "city": "Udaipur",
+        "pin": "313001",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 98881 75400"
+      ],
+      "website": "https://drshardaayurveda.com/pages/udaipur",
+      "email": "info@drshardaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Online consultation",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/udaipur",
+        "practitioners": "https://drshardaayurveda.com/pages/udaipur",
+        "address": "https://drshardaayurveda.com/pages/udaipur",
+        "phone": "https://drshardaayurveda.com/pages/udaipur"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps/place/Dr+Sharda+Ayurveda+-+Ayurvedic+Clinic+in+Udaipur/data=!4m7!3m6!1s0x3967e5dc528a09cf:0xdea51a716ea6e0f8!8m2!3d24.6003835!4d73.701577!16s%2Fg%2F11xclll15l!19sChIJzwmKUtzlZzkR-OCmbnEapd4"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-udaipur"
+    },
+    {
+      "practiceName": "Kalyanam Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Lalit Singh Dewra",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Navratna Complex Rd, near Shrinath Hospital",
+        "locality": "Bhuwana",
+        "city": "Udaipur",
+        "pin": "313001",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 95713 80078"
+      ],
+      "website": "https://kalayanamayurveda.online/",
+      "email": null,
+      "hours": "Evening 4:00 PM to 8:00 PM",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Rasayana therapy",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://kalayanamayurveda.online/contact-us/",
+        "practitioners": "https://kalayanamayurveda.online/about-dr-lalit-singh-dewra/",
+        "address": "https://kalayanamayurveda.online/contact-us/",
+        "phone": "https://kalayanamayurveda.online/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps/place/KALAYANAM+AYURVEDA/data=!4m7!3m6!1s0x3967e503a8e0fa3d:0x75894d760ab92b47!8m2!3d24.619009!4d73.6986135!16s%2Fg%2F11n4xdf8yn!19sChIJPfrgqAPlZzkRRyu5CnZNiXU"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "kalyanam-ayurveda"
+    },
+    {
+      "practiceName": "Pranav Yoga Ayurveda Healthcare, Chetak Marg",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay Maheshwari",
+          "qualification": "BAMS; PG Diploma in Yoga Education",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "118, Chetak Marg, Opp. PNB ATM",
+        "locality": "Chetak Circle",
+        "city": "Udaipur",
+        "pin": "313001",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 95292 33951",
+        "+91 90019 48055"
+      ],
+      "website": "http://www.yogaayurvedaudaipur.com/",
+      "email": "pranavnaad@gmail.com",
+      "hours": null,
+      "services": [
+        "Yoga",
+        "Ayurveda treatments",
+        "Panchakarma therapies",
+        "Wellness packages"
+      ],
+      "sources": {
+        "practiceName": "http://www.yogaayurvedaudaipur.com/contact.html",
+        "practitioners": "http://www.yogaayurvedaudaipur.com/about/vaidya-sanjay.html",
+        "address": "http://www.yogaayurvedaudaipur.com/contact.html",
+        "phone": "http://www.yogaayurvedaudaipur.com/contact.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I had shirodhara and massage experience under skilled attendant and doctor ,this made my Udaipur trip unforgatable.",
+          "attribution": "CA Madan Gopal Sharma, Udaipur",
+          "url": "http://www.yogaayurvedaudaipur.com/testimonials/testimonials.html"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps/place/Pranav+Yoga+Ayurveda+Healthcare-Ayurvedic+%7C+Panchkarma+hospital+%7C+Best+Ayurvedic+Doctor+in+Udaipur/data=!4m7!3m6!1s0x3967e572149cfd7d:0x33d1055e335dd74e!8m2!3d24.5899574!4d73.6901101!16s%2Fg%2F11b5phqd13!19sChIJff2cFHLlZzkRTtddM14F0TM"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "pranav-yoga-ayurveda-healthcare-chetak-marg"
+    },
+    {
+      "practiceName": "Shuddhi HiiMS Udaipur (Jeena Sikho HiiMS Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Payal Gaur",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sheela Kumari Meena",
+          "qualification": "BAMS, PG Diploma in Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Sanket Patidar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 337, Sector-14, Transport Nagar, Goverdhan Villas, 100 Ft. Road",
+        "locality": "Sector 14",
+        "city": "Udaipur",
+        "pin": "313001",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/udaipur",
+      "email": null,
+      "hours": "Daily 8:00 AM to 7:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Digestive health",
+        "Women's health care",
+        "Weight management",
+        "Stress and sleep management"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/udaipur",
+        "practitioners": "https://clinics.shuddhi.com/clinic/udaipur",
+        "address": "https://clinics.shuddhi.com/clinic/udaipur",
+        "phone": "https://clinics.shuddhi.com/clinic/udaipur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shuddhi-hiims-udaipur-jeena-sikho-hiims-hospital"
     },
     {
       "practiceName": "Hitaayu Ayurveda Centre, City Clinic",
