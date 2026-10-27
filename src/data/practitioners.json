@@ -22448,6 +22448,51 @@
       "id": "tattvaveda-ayurvedic-clinic"
     },
     {
+      "practiceName": "Javitri Institute of Ayurvedic Medical Sciences and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Nitin Pandey",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Jitendra Gangwar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kankaha, Raibareli Road",
+        "locality": "Kankaha",
+        "city": "Kankaha",
+        "pin": "226301",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 86040 54140",
+        "+91 98381 82247",
+        "+91 73885 78889"
+      ],
+      "website": "https://jiams.co.in/",
+      "email": "javitri2019@gmail.com",
+      "hours": null,
+      "services": [
+        "Teaching hospital OPD and IPD",
+        "Kayachikitsa",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://jiams.co.in/",
+        "practitioners": "https://jiams.co.in/doc/Hospital-Staff.pdf",
+        "address": "https://jiams.co.in/Web/Contact",
+        "phone": "https://jiams.co.in/Web/Contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "javitri-institute-of-ayurvedic-medical-sciences-and-hospital"
+    },
+    {
       "practiceName": "Prajna Kuteera Ayurveda Centre",
       "practitioners": [
         {
@@ -24548,6 +24593,744 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedanjana-yoga-and-ayurveda-retreat"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Alambagh",
+      "practitioners": [
+        {
+          "name": "Dr Bhagyashree Bahera",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Arun Singh",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Shallu Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Space No UGF-01, Shri Pratap Tower, Sector B, LDA Colony, Behind Phoenix Mall, Kanpur Road",
+        "locality": "Alambagh",
+        "city": "Lucknow",
+        "pin": "226012",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 93117 66831",
+        "+91 77550 00991"
+      ],
+      "website": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/alambagh",
+      "email": "clinics@jiva.com",
+      "hours": "10:00 AM to 7:00 PM, all days",
+      "services": [
+        "Expert counselling",
+        "Panchakarma",
+        "OPD",
+        "Day care"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/alambagh",
+        "practitioners": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/alambagh",
+        "address": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/alambagh",
+        "phone": "https://www.jiva.com/clinic/uttar-pradesh/lucknow"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-and-panchakarma-centre-alambagh"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Alambagh",
+      "practitioners": [
+        {
+          "name": "Dr Om Narayan Trivedi",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 569-ka/508, 1st Floor, Sneh Nagar, VIP Road, Near Gramin Bank of Aryavart",
+        "locality": "Alambagh",
+        "city": "Lucknow",
+        "pin": "226005",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 90768 00938"
+      ],
+      "website": "https://madhavbaug.org/clinic/alambagh-lucknow",
+      "email": null,
+      "hours": "9:30 AM to 6:30 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/alambagh-lucknow",
+        "practitioners": "https://madhavbaug.org/clinic/alambagh-lucknow",
+        "address": "https://madhavbaug.org/clinic/alambagh-lucknow",
+        "phone": "https://madhavbaug.org/clinic/alambagh-lucknow"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-alambagh"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Aliganj",
+      "practitioners": [
+        {
+          "name": "Dr Aquib Khan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "LGF1, Ramanand Trade Centre 34A, Chandralok, Near Spencer, Kapurthala Road",
+        "locality": "Aliganj",
+        "city": "Lucknow",
+        "pin": "226024",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 93118 15832",
+        "+91 92667 14040"
+      ],
+      "website": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/aliganj",
+      "email": null,
+      "hours": "10:00 AM to 8:00 PM, all days",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.jiva.com/jiva-ayurveda-clinic-aliganj-lucknow-ayurvedic-clinic-aliganj-lucknow-328913/Home",
+        "practitioners": "https://www.jiva.com/clinic/uttar-pradesh/lucknow/aliganj",
+        "address": "https://clinics.jiva.com/jiva-ayurveda-clinic-aliganj-lucknow-ayurvedic-clinic-aliganj-lucknow-328913/Home",
+        "phone": "https://clinics.jiva.com/jiva-ayurveda-clinic-aliganj-lucknow-ayurvedic-clinic-aliganj-lucknow-328913/Home"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-aliganj"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Aliganj",
+      "practitioners": [
+        {
+          "name": "Dr Manish Kaushal",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-1/8, First Floor, Sector H, Opposite Mahalaxmi Sweets, near Purania Chauraha",
+        "locality": "Aliganj",
+        "city": "Lucknow",
+        "pin": "226024",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 96957 00936"
+      ],
+      "website": "https://madhavbaug.org/clinic/aliganj-lucknow-uttar-pradesh",
+      "email": null,
+      "hours": "10:00 AM to 6:30 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/aliganj-lucknow-uttar-pradesh",
+        "practitioners": "https://madhavbaug.org/clinic/aliganj-lucknow-uttar-pradesh",
+        "address": "https://madhavbaug.org/clinic/aliganj-lucknow-uttar-pradesh",
+        "phone": "https://madhavbaug.org/clinic/aliganj-lucknow-uttar-pradesh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-aliganj"
+    },
+    {
+      "practiceName": "Dr. Pawani Health and Wellness Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Pawani Srivastava",
+          "qualification": "BAMS, PGDEMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Sultanpur Road",
+        "locality": "Arjunganj",
+        "city": "Lucknow",
+        "pin": "226002",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 92784 82911"
+      ],
+      "website": "https://www.drpawaniclinic.com/",
+      "email": "drpawaniclinic@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Weight and nutrition"
+      ],
+      "sources": {
+        "practiceName": "https://www.drpawaniclinic.com/",
+        "practitioners": "https://www.drpawaniclinic.com/",
+        "address": "https://www.drpawaniclinic.com/",
+        "phone": "https://www.drpawaniclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-pawani-health-and-wellness-clinic"
+    },
+    {
+      "practiceName": "Goel Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Subodh Asthana",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ranjana Rajpoot",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Village Anaura Kalan, Faizabad Road, Near Indira Canal",
+        "locality": "Faizabad Road",
+        "city": "Lucknow",
+        "pin": "226028",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 70070 77003",
+        "+91 70070 77009"
+      ],
+      "website": "https://gamch.goel.edu.in/",
+      "email": "info@goel.edu.in",
+      "hours": "Monday to Saturday 08:00 AM to 06:00 PM",
+      "services": [
+        "Teaching hospital OPD and IPD",
+        "Kayachikitsa",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://gamch.goel.edu.in/",
+        "practitioners": "https://gamch.goel.edu.in/wp-content/uploads/2026/09/Teaching-Staff-Updated-List-10-Sep-2026.pdf",
+        "address": "https://gamch.goel.edu.in/",
+        "phone": "https://gamch.goel.edu.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "goel-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Anand Clinic (Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr Anand Kumar Tripathi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 31, Kursi Road, opposite St. Mary Polyclinic, Bajrang Vihar Colony",
+        "locality": "Gaurabagh",
+        "city": "Lucknow",
+        "pin": "226026",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 94154 02702"
+      ],
+      "website": "https://www.anandclinicayurveda.com/",
+      "email": "dranandclinicayurveda@gmail.com",
+      "hours": "Mon to Sat 9:00 AM to 1:00 PM and 6:00 PM to 8:00 PM; Sunday 9:00 AM to 1:00 PM; Tuesday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Diet and nutrition (dosha-based meal planning)",
+        "Wellness therapies"
+      ],
+      "sources": {
+        "practiceName": "https://www.anandclinicayurveda.com/",
+        "practitioners": "https://www.anandclinicayurveda.com/",
+        "address": "https://www.anandclinicayurveda.com/",
+        "phone": "https://www.anandclinicayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "anand-clinic-ayurveda"
+    },
+    {
+      "practiceName": "Aasha Ayurveda Centre, Lucknow",
+      "practitioners": [
+        {
+          "name": "Dr Chanchal Sharma",
+          "qualification": "BAMS, MD (AM), CGO",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3/45 Viram Khand, Patrakarpuram Crossing Road",
+        "locality": "Gomti Nagar",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 98117 73770"
+      ],
+      "website": "https://www.aashaayurveda.com/",
+      "email": "info@aashaayurveda.com",
+      "hours": null,
+      "services": [
+        "Fertility-focused Ayurvedic care",
+        "Panchakarma",
+        "Garbh Sanskar"
+      ],
+      "sources": {
+        "practiceName": "https://www.aashaayurveda.com/clinic-location",
+        "practitioners": "https://www.aashaayurveda.com/aurvedic-doctor-lucknow",
+        "address": "https://www.aashaayurveda.com/clinic-location",
+        "phone": "https://www.aashaayurveda.com/clinic-location"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aasha-ayurveda-centre-lucknow"
+    },
+    {
+      "practiceName": "DJI Ayurveda and Panchakarma Multispeciality Clinic and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Pradeep Kumar Chaurasiya",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Saumya Gupta",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "624-V/34, Office Square, 1st Floor, Near Hotel Surya Grand, BBD Viraj Tower Road, Behind New High Court, Vibhuti Khand",
+        "locality": "Gomti Nagar",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 78870 85549",
+        "+91 95329 83397"
+      ],
+      "website": "https://djiayurved.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://djiayurved.com/",
+        "practitioners": "https://djiayurved.com/about-us/",
+        "address": "https://djiayurved.com/",
+        "phone": "https://djiayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dji-ayurveda-and-panchakarma-multispeciality-clinic-and"
+    },
+    {
+      "practiceName": "Karma Ayurveda, Gomti Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Balram Tiwari",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Priyanka Yadav",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "House No. 2/258, Vishal Khand",
+        "locality": "Gomti Nagar",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 99719 28080"
+      ],
+      "website": "https://www.karmaayurveda.com/lucknow_gomti_nagar",
+      "email": "drkarmaayurveda@gmail.com",
+      "hours": "Mon to Sat 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic day care",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.karmaayurveda.com/lucknow_gomti_nagar",
+        "practitioners": "https://www.karmaayurveda.com/lucknow_gomti_nagar",
+        "address": "https://www.karmaayurveda.com/lucknow_gomti_nagar",
+        "phone": "https://www.karmaayurveda.com/lucknow_gomti_nagar"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "karma-ayurveda-gomti-nagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Viram Khand (Gomti Nagar)",
+      "practitioners": [
+        {
+          "name": "Dr Vinit Mishra",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/246, Viram Khand, Near Open Air Restaurant",
+        "locality": "Gomti Nagar",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 90768 00934"
+      ],
+      "website": "https://madhavbaug.org/clinic/viram-khand-lucknow",
+      "email": null,
+      "hours": "9:00 AM to 6:30 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/viram-khand-lucknow",
+        "practitioners": "https://madhavbaug.org/clinic/viram-khand-lucknow",
+        "address": "https://madhavbaug.org/clinic/viram-khand-lucknow",
+        "phone": "https://madhavbaug.org/clinic/viram-khand-lucknow"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-viram-khand-gomti-nagar"
+    },
+    {
+      "practiceName": "Babu Yugraj Singh Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Namrata Modi",
+          "qualification": "B.A.M.S and M.D. (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Yogendra Kumar",
+          "qualification": "B.A.M.S and M.D. (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "R2MF+273 Power House, Badhamau, Near Maleshemau, Lane E, Gomtinagar Extension, Sector 6",
+        "locality": "Gomti Nagar Extension",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 83037 00427",
+        "+91 83037 00428"
+      ],
+      "website": "https://www.bysayurvedic.com/",
+      "email": "babuyugrajsinghayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Teaching hospital OPD and IPD",
+        "Kayachikitsa",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.bysayurvedic.com/",
+        "practitioners": "https://www.bysayurvedic.com/TeamDepartment.aspx?Id=9",
+        "address": "https://www.bysayurvedic.com/contact.aspx",
+        "phone": "https://www.bysayurvedic.com/contact.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "babu-yugraj-singh-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Pushya Ayurveda",
+      "practitioners": [
+        {
+          "name": "Vaidya Sandeep Rai",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vaidya Medha Rai",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 6/D859, 2nd Floor, Sector 6, Near HDFC Bank, Gomti Nagar Vistar Yojna",
+        "locality": "Gomti Nagar Extension",
+        "city": "Lucknow",
+        "pin": "226010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 89320 05555"
+      ],
+      "website": "https://www.pushyaayurveda.com/",
+      "email": "consult.pushyaayurveda@gmail.com",
+      "hours": "Monday to Saturday 7 am to 8 pm; Sunday 7 am to 12 pm",
+      "services": [
+        "Panchakarma",
+        "Hydrotherapy",
+        "Kshar Sutra"
+      ],
+      "sources": {
+        "practiceName": "https://www.pushyaayurveda.com/",
+        "practitioners": "https://www.pushyaayurveda.com/",
+        "address": "https://www.pushyaayurveda.com/",
+        "phone": "https://www.pushyaayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I met Vaidya Medha Rai and was amazed by the knowledge she has.",
+          "attribution": "Savita Rai",
+          "url": "https://www.pushyaayurveda.com/"
+        },
+        {
+          "excerpt": "The staff is courteous and the ambience of the clinic is wonderful",
+          "attribution": "Savita Rai",
+          "url": "https://www.pushyaayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "pushya-ayurveda"
+    },
+    {
+      "practiceName": "Dr. Dhruv Ayurveda Clinic and Panchkarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Dhruv Mishra",
+          "qualification": "MD (Ayurveda), PhD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "7/621, Neeta Bahadur Tiraha, Sector 7, Jankipuram Extension",
+        "locality": "Jankipuram",
+        "city": "Lucknow",
+        "pin": "226021",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 91987 35173",
+        "+91 93353 99157"
+      ],
+      "website": "https://drdhruvayurveda.com/",
+      "email": "info@drdhruvayurveda.com",
+      "hours": "Monday to Saturday 5:00 PM to 9:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://drdhruvayurveda.com/",
+        "practitioners": "https://drdhruvayurveda.com/",
+        "address": "https://drdhruvayurveda.com/contact-us.html",
+        "phone": "https://drdhruvayurveda.com/contact-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-dhruv-ayurveda-clinic-and-panchkarma-center"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Jankipuram",
+      "practitioners": [
+        {
+          "name": "Dr Swati Gupta",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Heera Tower No. 3, Bhawani Chowk, Jankipuram Extension, in front of Easy Day Store",
+        "locality": "Jankipuram",
+        "city": "Lucknow",
+        "pin": "226021",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 90768 00941"
+      ],
+      "website": "https://madhavbaug.org/clinic/jankipuram-lucknow",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/jankipuram-lucknow",
+        "practitioners": "https://madhavbaug.org/clinic/jankipuram-lucknow",
+        "address": "https://madhavbaug.org/clinic/jankipuram-lucknow",
+        "phone": "https://madhavbaug.org/clinic/jankipuram-lucknow"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-jankipuram"
+    },
+    {
+      "practiceName": "Gangotri Ayurveda Panchkarma and Wellness Center",
+      "practitioners": [
+        {
+          "name": "Dr Ashutosh Srivastava",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        },
+        {
+          "name": "Dr Govind Tiwari",
+          "qualification": "M.S. (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 11, JD Tower, Patanjali Arogya Kendra, near Jwala Devi Mandir, Kanpur Road",
+        "locality": "Kanpur Road",
+        "city": "Lucknow",
+        "pin": "226012",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 522 367 3993",
+        "+91 93073 36077",
+        "+91 95809 08100"
+      ],
+      "website": "https://gangotriayurveda.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kshar Sutra",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://gangotriayurveda.com/",
+        "practitioners": "https://gangotriayurveda.com/about-us/",
+        "address": "https://gangotriayurveda.com/",
+        "phone": "https://gangotriayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "gangotri-ayurveda-panchkarma-and-wellness-center"
+    },
+    {
+      "practiceName": "Karma Ayurveda, Vikas Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Rahul Singh",
+          "qualification": "BAMS, PG Dip Panchakarma (IMS BHU)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vikrant Kumar Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4/447, Sector 4, opposite Vikas Nagar Thana",
+        "locality": "Vikas Nagar",
+        "city": "Lucknow",
+        "pin": "226022",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 99719 28080"
+      ],
+      "website": "https://www.karmaayurveda.com/lucknow_vikas_nagar",
+      "email": "drkarmaayurveda@gmail.com",
+      "hours": "Mon to Sat 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.karmaayurveda.com/lucknow_vikas_nagar",
+        "practitioners": "https://www.karmaayurveda.com/lucknow_vikas_nagar",
+        "address": "https://www.karmaayurveda.com/lucknow_vikas_nagar",
+        "phone": "https://www.karmaayurveda.com/lucknow_vikas_nagar"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "karma-ayurveda-vikas-nagar"
+    },
+    {
+      "practiceName": "Sri Sri Wellbeing Centre, Lucknow",
+      "practitioners": [
+        {
+          "name": "Dr Shipra Srivastava",
+          "qualification": "BAMS, PG Dip. Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/120, Vikas Nagar, Kursi Road, Near Pioneer Montessori College",
+        "locality": "Vikas Nagar",
+        "city": "Lucknow",
+        "pin": "226022",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 77060 90946"
+      ],
+      "website": "https://www.srisriwellbeing.com/lucknow",
+      "email": "ssw.lucknow@srisritattva.com",
+      "hours": "Mon to Sat 9:00 AM to 9:00 PM, Sunday off",
+      "services": [
+        "Nadi Pariksha",
+        "Ayurveda and Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.srisriwellbeing.com/lucknow",
+        "practitioners": "https://www.srisriwellbeing.com/lucknow",
+        "address": "https://www.srisriwellbeing.com/lucknow",
+        "phone": "https://www.srisriwellbeing.com/lucknow"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sri-sri-wellbeing-centre-lucknow"
     },
     {
       "practiceName": "Dev Bhoomi Medical College of Ayurveda & Hospital",
