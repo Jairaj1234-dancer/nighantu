@@ -1685,6 +1685,83 @@
       "id": "olive-ayurveda-hospital-and-rehabilitation-centre"
     },
     {
+      "practiceName": "Svasthvida (Getwell Ayurvedic Clinic), Ranjit Avenue",
+      "practitioners": [
+        {
+          "name": "Dr Bhupinder Singh Arora",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-78 Flat, Near Bachat Bhawan, Near Ramsharnam Hospital, Ranjit Avenue",
+        "locality": "Ranjit Avenue",
+        "city": "Amritsar",
+        "pin": "143001",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 93160 78128",
+        "+91 99143 21828"
+      ],
+      "website": "https://svasthvida.com/",
+      "email": "info@svasthvida.com",
+      "hours": "Sat to Thu 9:30 AM to 1:30 PM and 5:30 PM to 9:30 PM; Fri closed",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Leech therapy",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://svasthvida.com/contact/",
+        "practitioners": "https://svasthvida.com/about/",
+        "address": "https://svasthvida.com/contact/",
+        "phone": "https://svasthvida.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "svasthvida-getwell-ayurvedic-clinic-ranjit-avenue"
+    },
+    {
+      "practiceName": "Ayubhumi Ayurveda and Panchkarma Centre, Verka Bypass",
+      "practitioners": [
+        {
+          "name": "Dr Atiya Jamba",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "965, Greenland, Near S.G Resort, Opp. Fortis Hospital, Verka Bye Pass",
+        "locality": "Verka Bypass",
+        "city": "Amritsar",
+        "pin": "143001",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 92165 44447"
+      ],
+      "website": "https://www.ayubhumi.com/",
+      "email": "ayubhumiayurveda23@gmail.com",
+      "hours": "9:00 AM to 8:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayubhumi.com/",
+        "practitioners": "https://www.ayubhumi.com/",
+        "address": "https://www.ayubhumi.com/",
+        "phone": "https://www.ayubhumi.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayubhumi-ayurveda-and-panchkarma-centre-verka-bypass"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Hospital, Vadodara (Ankodia)",
       "practitioners": [
         {
@@ -24552,6 +24629,308 @@
       "id": "karma-ayurveda-clinic-vaishali-nagar"
     },
     {
+      "practiceName": "Dayanand Ayurvedic College Hospital, Jalandhar",
+      "practitioners": [
+        {
+          "name": "Dr Rajni Thakur",
+          "qualification": "BAMS, MS (Shalakya Tantra)",
+          "registration": {
+            "number": "12533 (State/central Regn. No., as published)",
+            "source": "https://davayurveda.com/hospital-2/"
+          }
+        },
+        {
+          "name": "Dr Atul Dutta",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Nishu Raina",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anant Bhardwaj",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Devender Kaushik",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Neetika Nirmal",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Priyanka Kumari",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Varinder Singh",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Mahatma Hans Raj Marg, Opp. Burlton Park, Gurdev Nagar",
+        "locality": "Dayanand Nagar",
+        "city": "Jalandhar",
+        "pin": "144008",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 181 225 3572",
+        "+91 181 225 3571"
+      ],
+      "website": "https://davayurveda.com/",
+      "email": "davayur1898@gmail.com",
+      "hours": "OPD Mon to Fri 9:00 AM to 1:00 PM and 2:00 PM to 4:00 PM; Sat 9:00 AM to 1:00 PM",
+      "services": [
+        "OPD and IPD (100 beds)",
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Kshar Sutra",
+        "Stri Rog and Prasuti Tantra",
+        "Kaumarbhritya",
+        "Shalakya Tantra",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://davayurveda.com/contact/",
+        "practitioners": "https://davayurveda.com/hospital-2/",
+        "address": "https://davayurveda.com/contact/",
+        "phone": "https://davayurveda.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dayanand-ayurvedic-college-hospital-jalandhar"
+    },
+    {
+      "practiceName": "AyushVeda Ayurvedic and Panchkarma Centre, Urban Estate Phase 1",
+      "practitioners": [
+        {
+          "name": "Dr Isha Mehta",
+          "qualification": "BAMS (Pb), MNIMA",
+          "registration": {
+            "number": "10254 (Pb)",
+            "source": "https://ayushveda.in/about/"
+          }
+        },
+        {
+          "name": "Dr Abhinav Mehta",
+          "qualification": "BAMS (Pb), MNIMA",
+          "registration": {
+            "number": "10084 (Pb)",
+            "source": "https://ayushveda.in/about/"
+          }
+        }
+      ],
+      "address": {
+        "line": "SCF 50, Ground Floor and First Floor, Opposite KVC School, Urban Estate Phase 1",
+        "locality": "Urban Estate Phase 1",
+        "city": "Jalandhar",
+        "pin": "144022",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 181 415 7415",
+        "+91 94647 80812",
+        "+91 75893 58735"
+      ],
+      "website": "https://ayushveda.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma and therapies",
+        "Ayurveda consultation",
+        "Herbal medicines"
+      ],
+      "sources": {
+        "practiceName": "https://ayushveda.in/contact/",
+        "practitioners": "https://ayushveda.in/about/",
+        "address": "https://ayushveda.in/contact/",
+        "phone": "https://ayushveda.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushveda-ayurvedic-and-panchkarma-centre-urban-estate-phase"
+    },
+    {
+      "practiceName": "The Veda Vibe Ayurvedic Clinic and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Arun Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "House No 917, Urban Estate Phase 2",
+        "locality": "Urban Estate Phase 2",
+        "city": "Jalandhar",
+        "pin": "144001",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 91156 61715",
+        "+91 91159 61715"
+      ],
+      "website": "https://thevedavibe.com/",
+      "email": "care@thevedavibe.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Nadi Pariksha",
+        "Yoga and meditation",
+        "Online and offline consultation"
+      ],
+      "sources": {
+        "practiceName": "https://thevedavibe.com/contact-us/",
+        "practitioners": "https://thevedavibe.com/about/",
+        "address": "https://thevedavibe.com/contact-us/",
+        "phone": "https://thevedavibe.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "the-veda-vibe-ayurvedic-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "L N Ayurveda and Kshar Sutra Clinic",
+      "practitioners": [
+        {
+          "name": "Dr M. L. Sharma",
+          "qualification": "BAMS, CRAV (Kshar Sutra)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-4 Arvind Nagar, opp. Central School Scheme Gate No. 3",
+        "locality": "Air Force Area",
+        "city": "Jodhpur",
+        "pin": "342011",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 78510 87565"
+      ],
+      "website": "https://l-n-ayurveda-kshar-sutra-clinic-jodhpur-1.ueniweb.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Kshar Sutra",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://l-n-ayurveda-kshar-sutra-clinic-jodhpur-1.ueniweb.com/",
+        "practitioners": "https://l-n-ayurveda-kshar-sutra-clinic-jodhpur-1.ueniweb.com/",
+        "address": "https://l-n-ayurveda-kshar-sutra-clinic-jodhpur-1.ueniweb.com/",
+        "phone": "https://l-n-ayurveda-kshar-sutra-clinic-jodhpur-1.ueniweb.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "l-n-ayurveda-and-kshar-sutra-clinic"
+    },
+    {
+      "practiceName": "Arogyam Ayurvedic Panchakarma Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Arun Tyagi",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "32-B, Bhagat ki Kothi Extension, HI Area Phase II",
+        "locality": "Bhagat ki Kothi",
+        "city": "Jodhpur",
+        "pin": "342001",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 96679 50575",
+        "+91 96679 50578"
+      ],
+      "website": "https://arogyampanchakarma.com/",
+      "email": "aruntyagi_53@yahoo.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Vasti",
+        "Nasya",
+        "Raktamokshana",
+        "Shirodhara",
+        "Navarakizhi"
+      ],
+      "sources": {
+        "practiceName": "https://arogyampanchakarma.com/",
+        "practitioners": "https://arogyampanchakarma.com/dr-arun-tyagi/",
+        "address": "https://arogyampanchakarma.com/contact/",
+        "phone": "https://arogyampanchakarma.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "arogyam-ayurvedic-panchakarma-hospital-and-research-centre"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Jodhpur (Pal Road)",
+      "practitioners": [
+        {
+          "name": "Dr Kuldeep Bairwa",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Kratika Bidawat",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Karishma Vyas",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bhagwan Market, near Maajisa Mandir, Khema Ka Kuwa, Pal Road",
+        "locality": "Pal Road",
+        "city": "Jodhpur",
+        "pin": "342003",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 98884 65800"
+      ],
+      "website": "https://drshardaayurveda.com/pages/jodhpur",
+      "email": "info@drshardaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/jodhpur",
+        "practitioners": "https://drshardaayurveda.com/pages/jodhpur",
+        "address": "https://drshardaayurveda.com/pages/jodhpur",
+        "phone": "https://drshardaayurveda.com/pages/jodhpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-sharda-ayurveda-jodhpur-pal-road"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Katemanivali, Kalyan East",
       "practitioners": [
         {
@@ -24821,6 +25200,96 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "javitri-institute-of-ayurvedic-medical-sciences-and-hospital"
+    },
+    {
+      "practiceName": "Sanjivani Ayurved Hospital (Dr Sarvepalli Radhakrishnan Rajasthan Ayurved University teaching hospital)",
+      "practitioners": [
+        {
+          "name": "Prof (Dr) Neelima Aligy Reddy",
+          "qualification": "BAMS, MD (Ayu), PhD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Brahmanand Sharma",
+          "qualification": "BAMS, MD (Kayachikitsa), PhD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vishnu Dutt Sharma",
+          "qualification": "MS, PhD (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Prof (Dr) Govind Prasad Gupta",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Prof (Dr) Mahesh Kumar Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Prof (Dr) Rajesh Kumar Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rajveer Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Harish Kumar Singhal",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ritu Kapoor",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Gyan Prakash Sharma",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr Sarvepalli Radhakrishnan Rajasthan Ayurved University campus, Kadwad, Jodhpur-Nagaur Highway (Nagaur Road)",
+        "locality": "Karwar",
+        "city": "Karwar",
+        "pin": "342037",
+        "state": "Rajasthan"
+      },
+      "phone": [
+        "+91 97843 48668"
+      ],
+      "website": "https://rauonline.in/index.php/hospital/ayurved",
+      "email": "drguptagovind@gmail.com",
+      "hours": null,
+      "services": [
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Shalya Chikitsa",
+        "Shalakya Tantra",
+        "Stri and Prasuti Roga",
+        "Bal Roga",
+        "Swasthavritta",
+        "Jara Chikitsa",
+        "IPD (220 beds)",
+        "Central lab"
+      ],
+      "sources": {
+        "practiceName": "https://rauonline.in/index.php/hospital/ayurved",
+        "practitioners": "https://rauonline.in/index.php/hospital/ayurved",
+        "address": "https://rauonline.in/index.php/misc/contact",
+        "phone": "https://rauonline.in/index.php/hospital/ayurved"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sanjivani-ayurved-hospital-dr-sarvepalli-radhakrishnan"
     },
     {
       "practiceName": "Prajna Kuteera Ayurveda Centre",
@@ -27883,6 +28352,98 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "sri-sri-wellbeing-centre-lucknow"
+    },
+    {
+      "practiceName": "Dr Vatsyayan's Sanjivani Ayurvedshala, Civil Lines",
+      "practitioners": [
+        {
+          "name": "Dr Ravindra Vatsyayan",
+          "qualification": "Ayurvedacharya (Govt Ayurvedic College Patiala)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anshu Vatsyayan",
+          "qualification": "Ayurvedacharya",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Rose Garden Main Gate, Civil Lines",
+        "locality": "Civil Lines",
+        "city": "Ludhiana",
+        "pin": "141001",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 98729 33112"
+      ],
+      "website": "https://drvatsyayan.com/",
+      "email": "ayu@live.in",
+      "hours": "Weekdays 9:00 AM to 2:00 PM and 5:00 PM to 8:00 PM; Sun 10:00 AM to 1:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drvatsyayan.com/contact-us/",
+        "practitioners": "https://drvatsyayan.com/about-us/",
+        "address": "https://drvatsyayan.com/contact-us/",
+        "phone": "https://drvatsyayan.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-vatsyayan-s-sanjivani-ayurvedshala-civil-lines"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Ludhiana (Head Office, Model Town)",
+      "practitioners": [
+        {
+          "name": "Dr Jeevan Jyoti",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Vandana Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Pankaj Vishwakarma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "562-L, Opposite Suman Hospital, Model Town",
+        "locality": "Model Town",
+        "city": "Ludhiana",
+        "pin": "141002",
+        "state": "Punjab"
+      },
+      "phone": [
+        "+91 98769 35500"
+      ],
+      "website": "https://drshardaayurveda.com/pages/ludhiana",
+      "email": "info@drshardaayurveda.com",
+      "hours": null,
+      "services": [
+        "In-clinic consultation",
+        "Online consultation",
+        "Nadi Pariksha",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/ludhiana",
+        "practitioners": "https://drshardaayurveda.com/pages/ludhiana",
+        "address": "https://drshardaayurveda.com/pages/ludhiana",
+        "phone": "https://drshardaayurveda.com/pages/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-sharda-ayurveda-ludhiana-head-office-model-town"
     },
     {
       "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Main Branch, Alagappan Nagar",
