@@ -7564,6 +7564,242 @@
       "id": "madhavbaug-ayurvedic-clinic-shahpura"
     },
     {
+      "practiceName": "CCRAS Central Ayurveda Research Institute (CARI), Bhubaneswar",
+      "practitioners": [
+        {
+          "name": "Dr Mruthyumjaya Rao Meda",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sarada Ota",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Susmita P. Otta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr S. K. Meher",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr P. Panda",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr K. K. Ratha",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bharatpur, Near Kalinga Studio Chowk",
+        "locality": "Bharatpur",
+        "city": "Bhubaneswar",
+        "pin": "751029",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 674 238 7702"
+      ],
+      "website": "https://caribhubaneswar.ccras.res.in/",
+      "email": "nriadd-bhubaneswar[at]gov[dot]in",
+      "hours": null,
+      "services": [
+        "Regular OPD",
+        "50-bed IPD hospital",
+        "Panchakarma",
+        "Yoga therapy",
+        "Physiotherapy",
+        "Clinical laboratory"
+      ],
+      "sources": {
+        "practiceName": "https://caribhubaneswar.ccras.res.in/",
+        "practitioners": "https://caribhubaneswar.ccras.res.in/ (Director In-charge); https://caribhubaneswar.ccras.res.in/wp-content/uploads/2026/09/Employee-details-CARI-Bhubaneswar.pdf (Assistant Director (Ay.) and Research Officers (Ay.))",
+        "address": "https://caribhubaneswar.ccras.res.in/contact-us/",
+        "phone": "https://caribhubaneswar.ccras.res.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ccras-central-ayurveda-research-institute-cari-bhubaneswar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Lewis Road",
+      "practitioners": [
+        {
+          "name": "Dr R Adarsh Reddy",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 407/2019, Garage Chowk, Lewis Road, Near Reliance Trends",
+        "locality": "Lewis Road",
+        "city": "Bhubaneswar",
+        "pin": "751002",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 90404 67764"
+      ],
+      "website": "https://madhavbaug.org/clinic/heart-hospital-in-bhubaneswar-odisha",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/heart-hospital-in-bhubaneswar-odisha",
+        "practitioners": "https://madhavbaug.org/clinic/heart-hospital-in-bhubaneswar-odisha",
+        "address": "https://madhavbaug.org/clinic/heart-hospital-in-bhubaneswar-odisha",
+        "phone": "https://madhavbaug.org/clinic/heart-hospital-in-bhubaneswar-odisha"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-lewis-road"
+    },
+    {
+      "practiceName": "Vedi Wellness Centre, Bhubaneswar",
+      "practitioners": [
+        {
+          "name": "Dr Deeptimayee Sarangi",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No- 266/3328, Gangadhar Meher Marg, Patia, PO KIIT",
+        "locality": "Patia",
+        "city": "Bhubaneswar",
+        "pin": "751024",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 22 4893 1316"
+      ],
+      "website": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar",
+      "email": "namaste@vediherbals.com",
+      "hours": "Mon-Sat, 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Pain management",
+        "Detoxification consultation",
+        "Lifestyle management"
+      ],
+      "sources": {
+        "practiceName": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar",
+        "practitioners": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar",
+        "address": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar",
+        "phone": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The place was easy like a breeze where the doctor took the time to understand all of my concerns and provided a detailed explanation",
+          "attribution": "Gautam 520",
+          "url": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar"
+        },
+        {
+          "excerpt": "Great place with amazing staff.",
+          "attribution": "S Mathew",
+          "url": "https://vediherbals.com/pages/vedi-wellness-bhubaneswar"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vedi-wellness-centre-bhubaneswar"
+    },
+    {
+      "practiceName": "AIIMS Bhubaneswar, Department of AYUSH (Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr Prasanta Kumar Sahoo",
+          "qualification": "BAMS, M.S. (Ay) Shalakya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajit Kumar Pradhan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "All India Institute of Medical Sciences, Sijua, Patrapada",
+        "locality": "Patrapada",
+        "city": "Bhubaneswar",
+        "pin": "751019",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 674 247 6789"
+      ],
+      "website": "https://aiimsbhubaneswar.nic.in/category_department/ayush/",
+      "email": null,
+      "hours": "Helpdesk telephone: Monday to Friday 7:00 AM to 4:30 PM, Saturday 7:00 AM to 12:30 PM",
+      "services": [
+        "Ayurveda OPD",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://aiimsbhubaneswar.nic.in/category_department/ayush/",
+        "practitioners": "https://aiimsbhubaneswar.nic.in/faculty/dr-prasanta-kumar-sahoo/ ; https://aiimsbhubaneswar.nic.in/faculty/dr-ajit-kumar-pradhan/",
+        "address": "https://aiimsbhubaneswar.nic.in/contact-us/",
+        "phone": "https://aiimsbhubaneswar.nic.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aiims-bhubaneswar-department-of-ayush-ayurveda"
+    },
+    {
+      "practiceName": "Astang Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Ambika Prasad Nayak",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. MIG-43, BDA Colony, Phase-1, Pokhariput",
+        "locality": "Pokhariput",
+        "city": "Bhubaneswar",
+        "pin": "751020",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 674 235 2797",
+        "+91 94370 55021",
+        "+91 70081 76012"
+      ],
+      "website": "https://www.astangayurveda.com/",
+      "email": "info@astangayurveda.com",
+      "hours": "OPD 7:00 AM to 1:00 PM every day; IPD 24 hours",
+      "services": [
+        "Panchakarma",
+        "Netra Kriya Kalpa",
+        "Agni Karma",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://www.astangayurveda.com/",
+        "practitioners": "https://www.astangayurveda.com/ayurvedic-doctor-in-bhubaneswar/ (qualification: https://www.astangayurveda.com/cuttack/)",
+        "address": "https://www.astangayurveda.com/contact/",
+        "phone": "https://www.astangayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "astang-ayurveda"
+    },
+    {
       "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
       "practitioners": [
         {
@@ -9922,6 +10158,79 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "dhanwanthralaya-ayurveda-speciality-clinic-vadavalli"
+    },
+    {
+      "practiceName": "Sri Sri College of Ayurvedic Science and Research Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Kshirabdhi Tanaya Rautaray",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Sri University, Sri Sri Vihar, Ward No 3, Godi Sahi",
+        "locality": "Godi Sahi",
+        "city": "Cuttack",
+        "pin": "754006",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 67171 32670"
+      ],
+      "website": "https://srisriuniversity.edu.in/faculty-of-ayurveda-and-research-hospital/",
+      "email": "info.ayh@srisriuniversity.edu.in",
+      "hours": null,
+      "services": [
+        "Ayurveda teaching hospital"
+      ],
+      "sources": {
+        "practiceName": "https://srisriuniversity.edu.in/faculty-of-ayurveda-and-research-hospital/",
+        "practitioners": "https://srisriuniversity.edu.in/faculty-of-ayurveda-and-research-hospital/",
+        "address": "https://srisriuniversity.edu.in/contact-us/",
+        "phone": "https://paradipport.gov.in/medical-facility/list-of-referral-hospitals/ (Paradip Port Authority list of referral hospitals)"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sri-sri-college-of-ayurvedic-science-and-research-hospital"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Mangalabag",
+      "practitioners": [
+        {
+          "name": "Dr Bindulata Barik",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2nd Floor, Top of Vishal Megamart, Bajrakbati Road, Samanta Sahi",
+        "locality": "Mangalabag",
+        "city": "Cuttack",
+        "pin": "753001",
+        "state": "Odisha"
+      },
+      "phone": [
+        "+91 70088 63215"
+      ],
+      "website": "https://www.jiva.com/clinic/odisha/cuttack/mangalabag",
+      "email": "clinics@jiva.com",
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/odisha",
+        "practitioners": "https://www.jiva.com/clinic/odisha ; https://www.jiva.com/cuttack/doctors",
+        "address": "https://www.jiva.com/clinic/odisha/cuttack/mangalabag",
+        "phone": "https://www.jiva.com/clinic/odisha ; https://clinics.jiva.com/jiva-ayurveda-clinic-cuttack-odisha-ayurvedic-clinic-mangalabag-cuttack-446226/Contact-Us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-mangalabag"
     },
     {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
@@ -47532,6 +47841,277 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "jiva-ayurveda-clinic-sigra"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Dasapalla Hills",
+      "practitioners": [
+        {
+          "name": "Dr M. Jabilli",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sai Sagar Saudha, Opposite Treebo Sea Rock Hotel, Jaganath Temple Lane",
+        "locality": "Dasapalla Hills",
+        "city": "Visakhapatnam",
+        "pin": "530002",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 891 276 6498",
+        "+91 97035 77774"
+      ],
+      "website": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Mon to Sun, 07:00 am to 08:00 pm",
+      "services": [
+        "Consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil",
+        "Abhyangam",
+        "Sirodhara"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/",
+        "practitioners": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/",
+        "address": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/",
+        "phone": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Sujit and sujit kumar did a very good job",
+          "attribution": "Anil vaishnav",
+          "url": "https://www.travancoreayurveda.com/best-ayurvedic-clinic-in-daspalla-hills/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "travancore-ayurveda-dasapalla-hills"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Kurmannapalem",
+      "practitioners": [
+        {
+          "name": "Dr B V N A Pavan Kumar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, 31-17-9, Road No. 1, Sathavahana Nagar",
+        "locality": "Kurmannapalem",
+        "city": "Visakhapatnam",
+        "pin": "530046",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 72075 95511"
+      ],
+      "website": "https://madhavbaug.org/clinic/kurmannapalem-visakhapatnam-andhra-pradesh",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/kurmannapalem-visakhapatnam-andhra-pradesh",
+        "practitioners": "https://madhavbaug.org/clinic/kurmannapalem-visakhapatnam-andhra-pradesh",
+        "address": "https://madhavbaug.org/clinic/kurmannapalem-visakhapatnam-andhra-pradesh",
+        "phone": "https://madhavbaug.org/clinic/kurmannapalem-visakhapatnam-andhra-pradesh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-kurmannapalem"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, MVP Colony",
+      "practitioners": [
+        {
+          "name": "Dr K Chandra Lekha",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 111/3, MIG-1, Near Mahatma Gandhi Cancer Hospital, Sector-3",
+        "locality": "MVP Colony",
+        "city": "Visakhapatnam",
+        "pin": "530017",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 89127 46498",
+        "+91 97035 77714"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Mon to Sun, 07:00 am to 08:00 pm",
+      "services": [
+        "Consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil",
+        "Abhyangam",
+        "Sirodhara"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/",
+        "practitioners": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Aravind and Kannan has helped through the process and took good care. Will surely come again for another therapy.",
+          "attribution": "nikhil b",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/"
+        },
+        {
+          "excerpt": "I highly recommend the full body ayurvedic massage here.",
+          "attribution": "manjush p",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-vishakapatnam-mvp-colony/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "travancore-ayurveda-mvp-colony"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Hospital, Vizag",
+      "practitioners": [
+        {
+          "name": "Dr Jhansi Lakshmi Paramkusam",
+          "qualification": "BAMS, MSc (Anatomy)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sushma M",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "AMTZ Campus, District 4, CLSPL, Plot No. 11, Mercury Avenue",
+        "locality": "Nadupuru",
+        "city": "Visakhapatnam",
+        "pin": "530031",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 91587 83344"
+      ],
+      "website": "https://madhavbaug.org/hospitals/vizag",
+      "email": "info@madhavbaug.org",
+      "hours": "24x7",
+      "services": [
+        "In-patient Ayurvedic care",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/hospitals/vizag",
+        "practitioners": "https://madhavbaug.org/hospitals/vizag",
+        "address": "https://madhavbaug.org/hospitals/vizag",
+        "phone": "https://madhavbaug.org/hospitals/vizag"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-hospital-vizag"
+    },
+    {
+      "practiceName": "AyurQr Ayurveda Hospital, Visakhapatnam",
+      "practitioners": [
+        {
+          "name": "Dr M. Trinadha Rao",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "50-105-1/2, Opp NRI Hospital",
+        "locality": "Seethammadhara",
+        "city": "Visakhapatnam",
+        "pin": "530013",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 891 278 8899",
+        "+91 83310 82104"
+      ],
+      "website": "http://www.ayurqr.com/",
+      "email": "ayurqrvizag@gmail.com",
+      "hours": "Mon to Sat 9.00 am to 9.00 pm; Sun 9.00 am to 2.00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kerala therapies"
+      ],
+      "sources": {
+        "practiceName": "http://www.ayurqr.com/",
+        "practitioners": "http://www.ayurqr.com/about.html",
+        "address": "http://www.ayurqr.com/contact.html",
+        "phone": "http://www.ayurqr.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurqr-ayurveda-hospital-visakhapatnam"
+    },
+    {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinics and Panchakarma Centre, Visakhapatnam",
+      "practitioners": [
+        {
+          "name": "Dr Lakshmanan Koodathil",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Balu Mukesh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dairy Trust Campus",
+        "locality": "Sheela Nagar",
+        "city": "Visakhapatnam",
+        "pin": "530012",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 70340 21515",
+        "+91 94977 24244"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/visakhapatnam",
+      "email": "bicvisak@sreedhareeyam.com",
+      "hours": "Mon to Sun, 09:00 am to 05:30 pm",
+      "services": [
+        "Ayurvedic eye care",
+        "Panchakarma",
+        "Pizhichil",
+        "Udvartana",
+        "Shirodhara",
+        "Abhyanga"
+      ],
+      "sources": {
+        "practiceName": "https://www.sreedhareeyam.com/branch-network",
+        "practitioners": "https://clinics.sreedhareeyam.com/visakhapatnam",
+        "address": "https://www.sreedhareeyam.com/branch-network",
+        "phone": "https://clinics.sreedhareeyam.com/visakhapatnam"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sreedhareeyam-ayurvedic-eye-clinics-and-panchakarma-centre"
     },
     {
       "practiceName": "Parul Ayurved Hospital (Parul Institute of Ayurved, Parul University)",
