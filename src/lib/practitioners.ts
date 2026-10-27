@@ -72,7 +72,7 @@ const CITY_STATE: Record<string, string> = {
   'pimpri-chinchwad': 'Maharashtra', 'greater-noida': 'Uttar Pradesh', ghaziabad: 'Uttar Pradesh',
   faridabad: 'Haryana', secunderabad: 'Telangana', gandhinagar: 'Gujarat', howrah: 'West Bengal',
   kochi: 'Kerala', aluva: 'Kerala', tripunithura: 'Kerala', thiruvananthapuram: 'Kerala', thrissur: 'Kerala', nattika: 'Kerala',
-  kozhikode: 'Kerala', mukkam: 'Kerala', guruvayur: 'Kerala', irinjalakuda: 'Kerala', chalakudy: 'Kerala', kodungallur: 'Kerala',
+  kozhikode: 'Kerala', mukkam: 'Kerala', jaipur: 'Rajasthan', 'rampura-dabri': 'Rajasthan', guruvayur: 'Kerala', irinjalakuda: 'Kerala', chalakudy: 'Kerala', kodungallur: 'Kerala',
   kunnamkulam: 'Kerala', neyyattinkara: 'Kerala', feroke: 'Kerala', koyilandy: 'Kerala',
 };
 export const stateOf = (p: Practice) => (p.address as any).state ?? CITY_STATE[cityOf(p)] ?? '';
