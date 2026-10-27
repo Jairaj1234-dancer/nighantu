@@ -1469,6 +1469,44 @@
       "id": "sankalp-hospital"
     },
     {
+      "practiceName": "Maitreyi Vedic Village",
+      "practitioners": [
+        {
+          "name": "Dr Abilash Anand",
+          "qualification": "BAMS, PGDY",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ishwaramalai, Aliyar, Pollachi (TK)",
+        "locality": "Aliyar",
+        "city": "Aliyar",
+        "pin": "642101",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 93616 04000",
+        "+91 96557 24703",
+        "+91 425 328 8763"
+      ],
+      "website": "https://maitreyivedic.in/",
+      "email": "maitreyivedic.in@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurveda retreat"
+      ],
+      "sources": {
+        "practiceName": "https://maitreyivedic.in/contact/",
+        "practitioners": "https://maitreyivedic.in/about-the-vaidya/",
+        "address": "https://maitreyivedic.in/contact/",
+        "phone": "https://maitreyivedic.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "maitreyi-vedic-village"
+    },
+    {
       "practiceName": "Kerala Ayurveda Aluva Wellness Clinic",
       "practitioners": [
         {
@@ -8844,6 +8882,200 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "shri-krishna-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "RR Ayurveda & Wellness Centre",
+      "practitioners": [
+        {
+          "name": "Dr Ramesh M",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr K. Thilagavathi Ammal",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/A3, GKT Towers, SSS Maryland",
+        "locality": "Kovaipudur",
+        "city": "Coimbatore",
+        "pin": "641042",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 98650 98202"
+      ],
+      "website": "https://www.rrayurvedaa.com/",
+      "email": "rrayurveda@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.rrayurvedaa.com/contact.php",
+        "practitioners": "https://www.rrayurvedaa.com/about_rr.php",
+        "address": "https://www.rrayurvedaa.com/contact.php",
+        "phone": "https://www.rrayurvedaa.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "rr-ayurveda-and-wellness-centre"
+    },
+    {
+      "practiceName": "AVP Research Foundation Ayurveda Clinic, Ramanathapuram",
+      "practitioners": [
+        {
+          "name": "Dr Somit Kumar",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Srinivasan A",
+          "qualification": "MS (Ayu), MSc (Applied Psychology), MSc (Yoga), PGDPH",
+          "registration": null
+        },
+        {
+          "name": "Dr Ragavendran Dorairaj",
+          "qualification": "BAMS, PGDY, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Premsankar P",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Uma V",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjana D",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pooja Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Uthiraleka G",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Reshma Mhaske",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "136-137, Trichy Road, Olymbus, Rukmani Nagar, Puliakulam",
+        "locality": "Ramanathapuram",
+        "city": "Coimbatore",
+        "pin": "641045",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 97904 22100"
+      ],
+      "website": "https://avpresearch.org/",
+      "email": "heal@avpresearch.org",
+      "hours": "Mon to Sat, 9.00 am to 6.00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Ayurveda therapy",
+        "Direct visit, audio and video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://avpresearch.org/our-ayurveda-clinic/",
+        "practitioners": "https://avpresearch.org/our-doctors/",
+        "address": "https://avpresearch.org/ayurveda-courses/3-week-international-ayurveda-clinical-observation-program/",
+        "phone": "https://avpresearch.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "avp-research-foundation-ayurveda-clinic-ramanathapuram"
+    },
+    {
+      "practiceName": "Vaidyaratnam Oushadhasala Coimbatore branch clinic, Ramanathapuram",
+      "practitioners": [
+        {
+          "name": "Dr Dhanya Velayudhan V",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1869, Trichy Road, Palaniappa Nagar, Sawripalayam Pirivu",
+        "locality": "Ramanathapuram",
+        "city": "Coimbatore",
+        "pin": "641045",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 422 299 6244"
+      ],
+      "website": "https://vaidyaratnammooss.com/clinics",
+      "email": "cbe@vaidyaratnam.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Vaidyaratnam medicines"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnammooss.com/clinics",
+        "practitioners": "https://vaidyaratnammooss.com/clinics",
+        "address": "https://vaidyaratnammooss.com/clinics",
+        "phone": "https://vaidyaratnammooss.com/clinics"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-oushadhasala-coimbatore-branch-clinic"
+    },
+    {
+      "practiceName": "Avanika Ayurvedic Hospital, Saibaba Colony",
+      "practitioners": [
+        {
+          "name": "Dr M Anushya",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "28A Bharathi Park 7th Cross",
+        "locality": "Saibaba Colony",
+        "city": "Coimbatore",
+        "pin": "641043",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 89039 69555"
+      ],
+      "website": "https://www.avanikaayurvedic.com/",
+      "email": null,
+      "hours": "7 am to 7 pm, every day",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyangam",
+        "Rejuvenation programmes",
+        "Kerala traditional Ayurvedic massages"
+      ],
+      "sources": {
+        "practiceName": "https://www.avanikaayurvedic.com/about/",
+        "practitioners": "https://www.avanikaayurvedic.com/",
+        "address": "https://www.avanikaayurvedic.com/about/",
+        "phone": "https://www.avanikaayurvedic.com/about/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "avanika-ayurvedic-hospital-saibaba-colony"
     },
     {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
@@ -26193,6 +26425,44 @@
       "id": "muniyal-ayurveda-hospital-and-research-institute"
     },
     {
+      "practiceName": "AVP Pathanjalipuri (Arya Vaidyan P.V. Rama Varier Birth Centennial Ayurveda Hospital & Training Academy)",
+      "practitioners": [
+        {
+          "name": "Dr Somit Kumar",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Pathanjalipuri (P.O), Thadagam (Via)",
+        "locality": "Mankarai",
+        "city": "Mankarai",
+        "pin": "641108",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 422 236 7400",
+        "+91 70944 44751"
+      ],
+      "website": "https://pathanjalipuri.com/",
+      "email": "pathanjalipuri@avpayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurveda hospital",
+        "Residential treatment"
+      ],
+      "sources": {
+        "practiceName": "https://pathanjalipuri.com/",
+        "practitioners": "https://pathanjalipuri.com/about-us",
+        "address": "https://pathanjalipuri.com/",
+        "phone": "https://pathanjalipuri.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "avp-pathanjalipuri-arya-vaidyan-p-v-rama-varier-birth"
+    },
+    {
       "practiceName": "Dr Lodha's Ayurved Panchakarma and Research Centre, Manmad",
       "practitioners": [
         {
@@ -32478,6 +32748,77 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "the-nattika-beach-ayurveda-resort-swastha-ayurveda-centre"
+    },
+    {
+      "practiceName": "Saranya Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Balagopal S",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sreeja Mohandas",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sekhar R",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Mahima K M",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Somasree A. S",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Theertha Preman",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Mubash Basheer",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4/24, Saranya Campus, Mavuthampathi Village",
+        "locality": "Navakkarai",
+        "city": "Navakkarai",
+        "pin": "641105",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 95007 79026"
+      ],
+      "website": "https://saranyaayurveda.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Purvakarma",
+        "Abhyangam",
+        "Pizhichil",
+        "Kizhi",
+        "Dhara"
+      ],
+      "sources": {
+        "practiceName": "https://saranyaayurveda.com/contact-us/",
+        "practitioners": "https://saranyaayurveda.com/team/",
+        "address": "https://saranyaayurveda.com/contact-us/",
+        "phone": "https://saranyaayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "saranya-ayurveda-hospital"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Airoli Sector 3",
@@ -39739,6 +40080,56 @@
       "id": "om-setu-yogashala-ayurveda-retreat"
     },
     {
+      "practiceName": "Saigram Ayurveda Hospital and Research Institute",
+      "practitioners": [
+        {
+          "name": "Dr Alapati Rajendra Prasad",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Radhika Vengadesh",
+          "qualification": "BAMS, PG Diploma in Mental Health",
+          "registration": null
+        },
+        {
+          "name": "Dr Vimal Mithran",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Navya Vimal",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "64/1, Saigramam, Anna Nagar, Samichettipalayam North, Jothipuram Post",
+        "locality": "Samichettipalayam",
+        "city": "Samichettipalayam",
+        "pin": "641047",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 422 220 2200",
+        "+91 99437 69911"
+      ],
+      "website": "https://sgayurveda.com/",
+      "email": "info@sgayurveda.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://sgayurveda.com/contact-us/",
+        "practitioners": "https://sgayurveda.com/about-us/",
+        "address": "https://sgayurveda.com/contact-us/",
+        "phone": "https://sgayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "saigram-ayurveda-hospital-and-research-institute"
+    },
+    {
       "practiceName": "Anasuya Clinic, Bolarum",
       "practitioners": [
         {
@@ -40867,6 +41258,105 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "vishwashree-ayurved-and-panchkarma-clinic-pokhran-road"
+    },
+    {
+      "practiceName": "Vaidyagrama Ayurveda Healing Village",
+      "practitioners": [
+        {
+          "name": "Dr A.R. Ramadas",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Harikumar Namboodiri",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Omprakash G",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vinod Govind",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aruna M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sajna C",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anupama K",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sreeji V.N.",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aparna S",
+          "qualification": "MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Arun Krishnan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ardent Winston",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Renjisha Padmanabhan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mojin Mathew",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "15(1) Rottikaranur Road, Thirumalayampalayam Post, Madukkarai via",
+        "locality": "Thirumalayampalayam",
+        "city": "Thirumalayampalayam",
+        "pin": "641105",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 422 236 4200",
+        "+91 95855 27525"
+      ],
+      "website": "https://www.vaidyagrama.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurveda hospital",
+        "Panchakarma",
+        "Residential treatment"
+      ],
+      "sources": {
+        "practiceName": "https://www.vaidyagrama.com/contact.html",
+        "practitioners": "https://www.vaidyagrama.com/our-family.html",
+        "address": "https://www.vaidyagrama.com/contact.html",
+        "phone": "https://www.vaidyagrama.com/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyagrama-ayurveda-healing-village"
     },
     {
       "practiceName": "Anandalakshmi Ayurveda Retreat",
