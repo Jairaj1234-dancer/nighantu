@@ -8801,6 +8801,51 @@
       "id": "avn-arogya-ayurvedic-centre-velachery"
     },
     {
+      "practiceName": "Shri Krishna Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Prof Rajesh Dutt Tiwari",
+          "qualification": "Ayurvedacharya (BAMS), MD (Kayachikitsa)",
+          "registration": {
+            "number": "51692",
+            "source": "http://shrikrishnaayurvedichospital.com/"
+          }
+        },
+        {
+          "name": "Dr Baby Chaturvedi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Raunakhurda",
+        "locality": "Cholapur",
+        "city": "Cholapur",
+        "pin": "221101",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 92506 25541"
+      ],
+      "website": "http://shrikrishnaayurvedichospital.com/",
+      "email": "shrikrishnaamc@gmail.com",
+      "hours": "OPD 10:00 AM to 4:00 PM (notice from 1 February 2025)",
+      "services": [
+        "Ayurveda OPD and IPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "http://shrikrishnaayurvedichospital.com/",
+        "practitioners": "http://shrikrishnaayurvedichospital.com/hospital-staff.html",
+        "address": "http://shrikrishnaayurvedichospital.com/hospital-staff.html",
+        "phone": "http://shrikrishnaayurvedichospital.com/hospital-staff.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shri-krishna-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
       "practitioners": [
         {
@@ -43288,6 +43333,166 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "sri-dharmasthala-manjunatheshwara-college-of-ayurveda"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Bhojubeer",
+      "practitioners": [
+        {
+          "name": "Dr Jitendra Bahadur Singh",
+          "qualification": "BAMS, BSc",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "S-2/1-8, Plot No. 8, Bhojubeer Tiraha, Front of Samarpan Hospital",
+        "locality": "Bhojubeer",
+        "city": "Varanasi",
+        "pin": "221002",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 93117 66824"
+      ],
+      "website": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+      "email": "clinics@jiva.com",
+      "hours": "Closed on Thursday",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+        "practitioners": "https://www.jiva.com/varanasi/doctors",
+        "address": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+        "phone": "https://www.jiva.com/clinic/uttar-pradesh/varanasi"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-bhojubeer"
+    },
+    {
+      "practiceName": "Shreenivas Ayurvedic Centre",
+      "practitioners": [
+        {
+          "name": "Prof. Dr R K Tripathi",
+          "qualification": "BAMS, MD (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr M Tripathi",
+          "qualification": "BAMS, MD (Ay), MD (AM)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Janki Nagar Colony, Samne Ghat Road, behind Gyandeep Academy School",
+        "locality": "Lanka",
+        "city": "Varanasi",
+        "pin": "221005",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 79858 75741"
+      ],
+      "website": "https://www.shreenivasayurveda.com/",
+      "email": null,
+      "hours": "Mon to Sat 8:00 am to 7:00 pm; Sunday by appointment",
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.shreenivasayurveda.com/contact",
+        "practitioners": "https://www.shreenivasayurveda.com/blank-1",
+        "address": "https://www.shreenivasayurveda.com/contact",
+        "phone": "https://www.shreenivasayurveda.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shreenivas-ayurvedic-centre"
+    },
+    {
+      "practiceName": "Reviving Rituals Ayurveda and Panchakarma",
+      "practitioners": [
+        {
+          "name": "Dr Richa Tripathi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rashmi Singh",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Lane No. 1, Sri Krishna Nagar Colony, Janki Nagar",
+        "locality": "Samne Ghat",
+        "city": "Varanasi",
+        "pin": "221005",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 94151 25330"
+      ],
+      "website": "https://www.revivingrituals.com/",
+      "email": "revivingrituals@gmail.com",
+      "hours": "Monday to Saturday 10:00 AM to 6:00 PM; Sunday 11:00 AM to 5:00 PM",
+      "services": [
+        "SwarnaPrashan",
+        "Panchakarma",
+        "Diet plan",
+        "Ayurveda therapies and medicines",
+        "Prakriti Pareekshana",
+        "Yoga",
+        "Lifestyle plans",
+        "Ayurvedic beauty therapies",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.revivingrituals.com/",
+        "practitioners": "https://www.revivingrituals.com/about-us",
+        "address": "https://www.revivingrituals.com/contact-us",
+        "phone": "https://www.revivingrituals.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "reviving-rituals-ayurveda-and-panchakarma"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Sigra",
+      "practitioners": [
+        {
+          "name": "Dr Sanjit Kumar Singh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Jas Maa Complex 58/12, Opposite Tata Motor, Near Ksheer Sagar Sweet Shop, Main Road Sigra",
+        "locality": "Sigra",
+        "city": "Varanasi",
+        "pin": "221010",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 93117 66821"
+      ],
+      "website": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+      "email": "clinics@jiva.com",
+      "hours": "Open on all days",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+        "practitioners": "https://www.jiva.com/varanasi/doctors",
+        "address": "https://www.jiva.com/clinic/uttar-pradesh/varanasi",
+        "phone": "https://www.jiva.com/clinic/uttar-pradesh/varanasi"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-sigra"
     },
     {
       "practiceName": "Datta Meghe Ayurvedic Medical College Hospital and Research Centre",
