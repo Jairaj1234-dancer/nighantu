@@ -36642,6 +36642,52 @@
       "id": "vedic-suttra-wellness-center"
     },
     {
+      "practiceName": "Himalaya Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Nitai Senapati",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pratima Shukla",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Chiksi, Kinjar Road, State Highway",
+        "locality": "Paliganj",
+        "city": "Paliganj",
+        "pin": "801110",
+        "state": "Bihar"
+      },
+      "phone": [
+        "+91 90310 52021",
+        "+91 62870 90205",
+        "+91 62870 90206",
+        "+91 79034 52049"
+      ],
+      "website": "https://hamch.in/",
+      "email": "himalayaayurvedicmch@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic ambulance service",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://hamch.in/",
+        "practitioners": "https://hamch.in/",
+        "address": "https://hamch.in/",
+        "phone": "https://hamch.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "himalaya-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Dr. Pol's Vedamrut Ayurvedic Clinic and Panchakarma Center",
       "practitioners": [
         {
@@ -36912,6 +36958,216 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-panvel"
+    },
+    {
+      "practiceName": "Karma Ayurveda, Patna",
+      "practitioners": [
+        {
+          "name": "Dr Deepak Yadav",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "131, Ground & First Floor, Road No. 1, Friends Colony, Ashiyana Nagar Phase 1, Kautilya Nagar",
+        "locality": "Ashiana Nagar",
+        "city": "Patna",
+        "pin": "800025",
+        "state": "Bihar"
+      },
+      "phone": [
+        "+91 99719 28080"
+      ],
+      "website": "https://www.karmaayurveda.com/patna",
+      "email": null,
+      "hours": "Mon to Sat 9:30 AM to 6:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Kidney care programme"
+      ],
+      "sources": {
+        "practiceName": "https://www.karmaayurveda.com/patna",
+        "practitioners": "https://www.karmaayurveda.com/patna",
+        "address": "https://www.karmaayurveda.com/patna",
+        "phone": "https://www.karmaayurveda.com/patna"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "karma-ayurveda-patna"
+    },
+    {
+      "practiceName": "JP Institute of Ayurveda and Medical Sciences, Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sangita Bhandare",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ashok Kumar Pathak",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Amrendra Kumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Punam Thakur",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Priyanka Priyadarshni Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Seema Mehra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sonam Verma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Namrata Survase",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Kr Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Sharma",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Neoraganj Sarai Panchmukhi Road, Near Shivala More",
+        "locality": "Danapur",
+        "city": "Patna",
+        "pin": "801113",
+        "state": "Bihar"
+      },
+      "phone": [
+        "+91 61152 20144",
+        "+91 61152 20145",
+        "+91 87899 99644",
+        "+91 79036 79618"
+      ],
+      "website": "https://jpinstituteofayurveda.com/",
+      "email": "info@jpinstituteofayurveda.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Streeroga",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga",
+        "In-patient care (100 beds)"
+      ],
+      "sources": {
+        "practiceName": "https://jpinstituteofayurveda.com/hospital/",
+        "practitioners": "https://jpinstituteofayurveda.com/hospital-doctors/",
+        "address": "https://jpinstituteofayurveda.com/contact-us/",
+        "phone": "https://jpinstituteofayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jp-institute-of-ayurveda-and-medical-sciences-ayurveda"
+    },
+    {
+      "practiceName": "Bhardwaj Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Ashutosh Kr. Bhardwaj",
+          "qualification": "B.A.M.S. (WBUHS Kolkata), M.D. (Kayachikitsa) (RGUHS Bangalore), CKS (Ano-Rectal Diseases)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sudhir Kumar",
+          "qualification": "B.A.M.S. (KSDSU Darbhanga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Siva Prasad",
+          "qualification": "B.A.M.S., M.D. (Panchakarma) (RGUHS Bangalore)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Kumar Majhi",
+          "qualification": "B.A.M.S., M.S. (Prasuti & Stri Roga), Ph.D. (Ayu.)",
+          "registration": null
+        },
+        {
+          "name": "Dr Mukesh Kumar",
+          "qualification": "B.A.M.S., M.S. (Shalakya) (Kerala)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pragya Puspanjali",
+          "qualification": "B.A.M.S., M.D. (Bal Roga) (IPGTR Jamnagar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bailey Road",
+        "locality": "Rukanpura",
+        "city": "Patna",
+        "pin": "800014",
+        "state": "Bihar"
+      },
+      "phone": [
+        "+91 89691 91986"
+      ],
+      "website": "https://bhardwajayurveda.com/",
+      "email": "info@bhardwajayurveda.com",
+      "hours": "Monday to Sunday 10:00 AM to 9:00 PM",
+      "services": [
+        "Panchakarma",
+        "Kaya Chikitsa",
+        "Ano-rectal care",
+        "Skin care",
+        "Bone and joint care"
+      ],
+      "sources": {
+        "practiceName": "https://bhardwajayurveda.com/",
+        "practitioners": "https://bhardwajayurveda.com/",
+        "address": "https://bhardwajayurveda.com/",
+        "phone": "https://bhardwajayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very good Clinic for Ayurvedic Treatment.",
+          "attribution": "Asish Singh",
+          "url": "https://bhardwajayurveda.com/"
+        },
+        {
+          "excerpt": "Well Ayurvedic Treatment and doctors behaviours are well.",
+          "attribution": "Rupesh Sharma",
+          "url": "https://bhardwajayurveda.com/"
+        },
+        {
+          "excerpt": "Panchakarma Treatment is very good at Bhardwaj Ayurvdea Clinic",
+          "attribution": "Rishi Shreya",
+          "url": "https://bhardwajayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bhardwaj-ayurveda"
     },
     {
       "practiceName": "Shree Vishwa Swasthya Ayurvedic Clinic And Panchakarma Chikitsalaya, Akurdi",
@@ -41920,6 +42176,86 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "arogyasudha-hospital-and-wellness-centre"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Lalpur",
+      "practitioners": [
+        {
+          "name": "Dr Kumar Gyan Prakash",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F 1, Anand Complex, 1st Floor, Hazaribagh Road, above Bandhan Bank and Dominos Pizza",
+        "locality": "Lalpur",
+        "city": "Ranchi",
+        "pin": "834001",
+        "state": "Jharkhand"
+      },
+      "phone": [
+        "+91 93117 66820",
+        "+91 92667 14040"
+      ],
+      "website": "https://www.jiva.com/clinic/jharkhand/ranchi/lalpur",
+      "email": null,
+      "hours": "Mon to Sun 10:00 AM to 07:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "OPD",
+        "Expert counselling"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/jharkhand/ranchi/lalpur",
+        "practitioners": "https://www.jiva.com/ranchi/doctors",
+        "address": "https://www.jiva.com/ranchi/doctors",
+        "phone": "https://clinics.jiva.com/jiva-ayurveda-clinic-lalpur-ranchi-ayurvedic-clinic-lalpur-ranchi-328925/Contact-Us (clinic number); https://www.jiva.com/clinic/jharkhand/ranchi/lalpur (Jiva consultation number)"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-lalpur"
+    },
+    {
+      "practiceName": "Upasya Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Vartika Kumari",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dutta Villa Road, Antu Chowk",
+        "locality": "Morabadi",
+        "city": "Ranchi",
+        "pin": "834008",
+        "state": "Jharkhand"
+      },
+      "phone": [
+        "+91 651 356 5065",
+        "+91 93116 06700",
+        "+91 97714 77116"
+      ],
+      "website": "https://www.upasyaayurveda.com/",
+      "email": "upasayaayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurveda OPD",
+        "Clinic consultation",
+        "Online consultation",
+        "Swarna Prashan"
+      ],
+      "sources": {
+        "practiceName": "https://www.upasyaayurveda.com/",
+        "practitioners": "https://www.upasyaayurveda.com/about",
+        "address": "https://www.upasyaayurveda.com/contact",
+        "phone": "https://www.upasyaayurveda.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "upasya-ayurveda"
     },
     {
       "practiceName": "Vedic Yoga & Ayurveda Retreat Centre",
