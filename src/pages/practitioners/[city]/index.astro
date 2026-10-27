@@ -8,8 +8,8 @@ export function getStaticPaths() { return cities().map((c) => ({ params: { city:
 const { c } = Astro.props as any;
 const canonical = `/practitioners/${c.slug}/`;
 const n = c.localities.reduce((a: number, l: any) => a + l.practices.length, 0);
-const title = `Ayurvedic doctors in ${c.name}: ${n} practices by locality, with address and phone`;
-const description = `${n} Ayurvedic practices across ${c.localities.length} localities of ${c.name}, each with a named practitioner, address and phone number published by the practice itself.`;
+const title = `Ayurvedic doctors in ${c.name}: ${n} ${n === 1 ? 'practice' : 'practices'} by locality, with address and phone`;
+const description = `${n} Ayurvedic ${n === 1 ? 'practice' : 'practices'} across ${c.localities.length} ${c.localities.length === 1 ? 'locality' : 'localities'} of ${c.name}, each with a named practitioner, address and phone number published by the practice itself.`;
 const updated = c.localities.flatMap((l: any) => l.practices.map((p: any) => p.checkedOn)).sort().pop();
 const list = {
   '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs(canonical)}#list`,
