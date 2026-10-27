@@ -10,7 +10,7 @@ const description = `${practices.length} Ayurvedic practices in ${all.length} ${
 <Page title={title} description={description} canonical="/practitioners/" updated={updatedAt} trail={[{ label: 'Practitioners' }]}>
   <h1>Ayurvedic practitioners</h1>
   <p class="answer">{description}</p>
-  <ul>{all.map((c) => <li><a href={rel(`/practitioners/${c.slug}/`)}>{c.name}</a>: {c.localities.reduce((a, l) => a + l.practices.length, 0)} practices in {c.localities.length} localities</li>)}</ul>
+  <ul>{all.map((c) => <li><a href={rel(`/practitioners/${c.slug}/`)}>{c.name}</a>: {((n) => `${n} ${n === 1 ? 'practice' : 'practices'}`)(c.localities.reduce((a, l) => a + l.practices.length, 0))} in {c.localities.length} {c.localities.length === 1 ? 'locality' : 'localities'}</li>)}</ul>
   <p><a class="practitioner-cta" href={rel('/practitioners/submit/')}>Are you an Ayurvedic practitioner? List your practice for free</a></p>
   <p>Starting with Mumbai, then the other largest cities. <a href={rel('/practitioners/about/')}>How the directory is made, and how to correct or remove a listing</a>.</p>
 </Page>
