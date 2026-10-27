@@ -71,7 +71,7 @@ const CITY_STATE: Record<string, string> = {
   hyderabad: 'Telangana', chennai: 'Tamil Nadu', kolkata: 'West Bengal', ahmedabad: 'Gujarat',
   'pimpri-chinchwad': 'Maharashtra', 'greater-noida': 'Uttar Pradesh', ghaziabad: 'Uttar Pradesh',
   faridabad: 'Haryana', secunderabad: 'Telangana', gandhinagar: 'Gujarat', howrah: 'West Bengal',
-  kochi: 'Kerala', aluva: 'Kerala', tripunithura: 'Kerala', thiruvananthapuram: 'Kerala', thrissur: 'Kerala',
+  kochi: 'Kerala', aluva: 'Kerala', tripunithura: 'Kerala', thiruvananthapuram: 'Kerala', thrissur: 'Kerala', nattika: 'Kerala',
   kozhikode: 'Kerala', guruvayur: 'Kerala', irinjalakuda: 'Kerala', chalakudy: 'Kerala', kodungallur: 'Kerala',
   kunnamkulam: 'Kerala', neyyattinkara: 'Kerala', feroke: 'Kerala', koyilandy: 'Kerala',
 };
