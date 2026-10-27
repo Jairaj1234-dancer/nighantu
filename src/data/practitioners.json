@@ -1,7 +1,1473 @@
 {
   "note": "Ayurvedic practices admitted to the directory: each has a named practitioner, a practice name, a full address and a business phone published by the practice itself or an official list, with the source URL of each field. Built from measurement/practitioners/ by scripts/build-practitioners.mjs.",
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "practices": [
+    {
+      "practiceName": "Aagyarth Ayurved and Panchkarma Hospital, Ambawadi",
+      "practitioners": [
+        {
+          "name": "Dr Milan Prajapati",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Niharika Prajapati",
+          "qualification": "B.A.M.S., post-graduate degree in Ayurveda (Panchakarma), Gujarat Ayurved University",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "304, Silver Brook Complex, Opp. Doctor House, Nr. Parimal Underpass",
+        "locality": "Ambawadi",
+        "city": "Ahmedabad",
+        "pin": "380006"
+      },
+      "phone": [
+        "+91 97245 75599",
+        "+91 73838 21737"
+      ],
+      "website": "https://www.aagyarthayurved.com/",
+      "email": "info@aagyarthayurved.com",
+      "hours": null,
+      "services": [
+        "Panchakarma (Vaman, Virechana, Raktamokshan)",
+        "Shirodhara",
+        "Nasya",
+        "Kati Basti",
+        "Janu Basti",
+        "Snehan",
+        "Swedana",
+        "Uttarbasti",
+        "Detoxification packages"
+      ],
+      "sources": {
+        "practiceName": "https://www.aagyarthayurved.com/",
+        "practitioners": "https://www.aagyarthayurved.com/doctors-at-aagyarth/",
+        "address": "https://www.aagyarthayurved.com/",
+        "phone": "https://www.aagyarthayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "aagyarth-ayurved-and-panchkarma-hospital-ambawadi"
+    },
+    {
+      "practiceName": "Government Akhandanand Ayurved College and Hospital, Bhadra",
+      "practitioners": [
+        {
+          "name": "Prof. Vd Harshit Sharadkumar Shah",
+          "qualification": "MD (Ayu), Principal and Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Surendra Asharam Soni",
+          "qualification": "MD (Ayu) PhD, Professor, Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Vd Rohini Rakesh Salve",
+          "qualification": "MD (Ayu), Associate Professor, Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Vd Krupali Raut",
+          "qualification": "MD (Ayu), Associate Professor, Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Rajesh Surajmal Sharma",
+          "qualification": "MD (Ayu), Professor, Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Hemangi Brijeshkumar Shukla",
+          "qualification": "MD (Ayu) PhD, Professor, Shalakya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Nipa A Jarsania",
+          "qualification": "MD (Ayu) PhD, Professor, Prasuti Tantra and Stree Roga",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Mayank Rasiklal Maniar",
+          "qualification": "MD (Ayu), Professor, Kaumarabhritya",
+          "registration": null
+        },
+        {
+          "name": "Prof. Vd Manish Arora",
+          "qualification": "MD (Ayu) PhD, Professor, Swasthavritta and Yoga",
+          "registration": null
+        },
+        {
+          "name": "Vaidya Harshit Shah",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Government Akhandanand Ayurved College and Hospital, Nr. Victoria Garden, Bhadra, Lal Darwaja",
+        "locality": "Bhadra",
+        "city": "Ahmedabad",
+        "pin": "380001"
+      },
+      "phone": [
+        "+91 79255 07796"
+      ],
+      "website": "https://gaac.co.in/",
+      "email": "akhandanandprincipal@gmail.com",
+      "hours": null,
+      "services": [
+        "Government Ayurveda teaching hospital OPD and IPD",
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra (Kshar Sutra)",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stree Roga",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://urja.gaac.co.in/index.php/urja/about/contact",
+        "practitioners": "https://gaac.co.in/teachingstaff/",
+        "address": "https://urja.gaac.co.in/index.php/urja/about/contact",
+        "phone": "https://urja.gaac.co.in/index.php/urja/about/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "government-akhandanand-ayurved-college-and-hospital-bhadra"
+    },
+    {
+      "practiceName": "Ashtang Ayurvedic Panchakarma Clinic, Bodakdev",
+      "practitioners": [
+        {
+          "name": "Dr Beena Hindocha",
+          "qualification": "B.A.M.S. (G.A.U.)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "GF-8, Suryamandir Tower, Opp. BSNL Tele Exchange, Judges Bungalow Road",
+        "locality": "Bodakdev",
+        "city": "Ahmedabad",
+        "pin": "380015"
+      },
+      "phone": [
+        "+91 99240 20480",
+        "+91 94095 59061"
+      ],
+      "website": "https://www.ashtangayurved.in/",
+      "email": "beena.hindocha@yahoo.com",
+      "hours": null,
+      "services": [
+        "Panchakarma (Vamana, Virechana, Raktamokshana, Nasya)",
+        "Ayurvedic massage",
+        "Medicated steam",
+        "Kati Vasti",
+        "Janu Vasti",
+        "Griva Vasti",
+        "Shirodhara",
+        "Netra Tarpan"
+      ],
+      "sources": {
+        "practiceName": "https://www.ashtangayurved.in/",
+        "practitioners": "https://www.ashtangayurved.in/",
+        "address": "https://www.ashtangayurved.in/",
+        "phone": "https://www.ashtangayurved.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ashtang-ayurvedic-panchakarma-clinic-bodakdev"
+    },
+    {
+      "practiceName": "VedGarbhsanskar Ayurved Clinic, Bodakdev",
+      "practitioners": [
+        {
+          "name": "Dr Daxa M Patel",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "408, Zion Z1, Nr. Avalon Hotel, Ramdas Road, Off Sindhu Bhavan Marg",
+        "locality": "Bodakdev",
+        "city": "Ahmedabad",
+        "pin": "380054"
+      },
+      "phone": [
+        "+91 99252 22763"
+      ],
+      "website": "https://vedgarbhsanskar.com/",
+      "email": "vedgarbhsansakar@gmail.com",
+      "hours": null,
+      "services": [
+        "Garbh Sanskar",
+        "Gynaecological care",
+        "Pre-conception care",
+        "Pregnancy yoga, pranayama and meditation",
+        "Postnatal care",
+        "Suvarnaprashan",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://vedgarbhsanskar.com/",
+        "practitioners": "https://vedgarbhsanskar.com/",
+        "address": "https://vedgarbhsanskar.com/",
+        "phone": "https://vedgarbhsanskar.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedgarbhsanskar-ayurved-clinic-bodakdev"
+    },
+    {
+      "practiceName": "Amrutam Ayurveda Panchakarma and Agnikarma Hospital, Bopal",
+      "practitioners": [
+        {
+          "name": "Dr Nayan Gajera",
+          "qualification": "BAMS (Akhandanand Ayurveda College, Ahmedabad)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "104, Mandir Complex, near Sterling City BRTS Bus Stand, Bopal-Ghuma Road",
+        "locality": "Bopal",
+        "city": "Ahmedabad",
+        "pin": "380058"
+      },
+      "phone": [
+        "+91 94265 35642",
+        "+91 92653 08371"
+      ],
+      "website": "https://amrutamayurveda.com/",
+      "email": "nayan.gajera201190@gmail.com",
+      "hours": "Monday to Saturday 10:00 AM to 2:00 PM and 5:00 PM to 8:00 PM; Sunday 10:00 AM to 1:00 PM; by prior appointment",
+      "services": [
+        "Panchakarma (Vaman, Virechan, Basti, Nasya, Raktamokshan)",
+        "Agnikarma",
+        "Shirodhara",
+        "Abhyanga",
+        "Bashpa Swedan",
+        "Karnapuran",
+        "Netra Tarpan",
+        "Patra Potali Swedan",
+        "Janu Basti",
+        "Manya Basti",
+        "Udwartan"
+      ],
+      "sources": {
+        "practiceName": "https://amrutamayurveda.com/",
+        "practitioners": "https://amrutamayurveda.com/about-doctor.html",
+        "address": "https://amrutamayurveda.com/",
+        "phone": "https://amrutamayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "amrutam-ayurveda-panchakarma-and-agnikarma-hospital-bopal"
+    },
+    {
+      "practiceName": "Divine Ayurveda Multispeciality Panchakarma Hospital, Bopal",
+      "practitioners": [
+        {
+          "name": "Dr Divyaraj Rathod",
+          "qualification": "B.A.M.S., CCPT (Kerala)",
+          "registration": null
+        },
+        {
+          "name": "Dr Bhavini Rathod",
+          "qualification": "B.A.M.S. (Bangalore)",
+          "registration": null
+        },
+        {
+          "name": "Dr Nimesh Patel",
+          "qualification": "B.A.M.S. (Gold Medalist), CCPT (Kerala)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd floor, 3001-3006, A wing, TRP Mall, near Sterling City BRTS Stand",
+        "locality": "Bopal",
+        "city": "Ahmedabad",
+        "pin": "380058"
+      },
+      "phone": [
+        "+91 76000 04490",
+        "+91 76000 04496"
+      ],
+      "website": "https://divineayurvedahospital.com/",
+      "email": "divineayurveda01@gmail.com",
+      "hours": "Monday to Saturday 9:00 AM to 8:00 PM; Sunday 10:00 AM to 2:00 PM; IPD and emergency 24 x 7",
+      "services": [
+        "Kerala Panchakarma (Vamana, Virechana, Basti, Nasya)",
+        "Shirodhara",
+        "Abhyanga",
+        "Uttarbasti",
+        "Janu Basti",
+        "Kati Basti",
+        "Patra Pinda Sweda",
+        "Detox and rejuvenation",
+        "IPD Panchakarma (30 beds)"
+      ],
+      "sources": {
+        "practiceName": "https://divineayurvedahospital.com/",
+        "practitioners": "https://divineayurvedahospital.com/",
+        "address": "https://divineayurvedahospital.com/",
+        "phone": "https://divineayurvedahospital.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "divine-ayurveda-multispeciality-panchakarma-hospital-bopal"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Bopal",
+      "practitioners": [
+        {
+          "name": "Dr Ashutosh Joshi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-124, SOBO Center, South Bopal",
+        "locality": "Bopal",
+        "city": "Ahmedabad",
+        "pin": "380058"
+      },
+      "phone": [
+        "+91 72290 48469",
+        "+91 76888 30111"
+      ],
+      "website": "https://madhavbaug.org/clinic/bopal-ahmedabad",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; closed on Thursday",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and exercise guidance",
+        "ECG and stress test diagnostics"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/bopal-ahmedabad",
+        "practitioners": "https://madhavbaug.org/clinic/bopal-ahmedabad",
+        "address": "https://madhavbaug.org/clinic/bopal-ahmedabad",
+        "phone": "https://madhavbaug.org/clinic/bopal-ahmedabad"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-bopal"
+    },
+    {
+      "practiceName": "Madhavbaug Clinic, Chandkheda",
+      "practitioners": [
+        {
+          "name": "Dr Bhakti Somaiya",
+          "qualification": "BAMS, Fellowship in preventive Cardiology",
+          "registration": {
+            "number": "GB I - 21725",
+            "source": "https://madhavbaug.org/our-doctors/dr-bhakti-somaiya"
+          }
+        }
+      ],
+      "address": {
+        "line": "Madhavbaug Clinic, 11, Manmohan Society, 1st Floor, Nr. Shivshakti Nagar BRTS Bus Stop, Opp. Sentara Hospital",
+        "locality": "Chandkheda",
+        "city": "Ahmedabad",
+        "pin": "382424"
+      },
+      "phone": [
+        "+91 72290 48461"
+      ],
+      "website": "https://madhavbaug.org/clinic/chandkheda-ahmedabad/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Panchakarma",
+        "Heart health programme (SHS Therapy)",
+        "Weight management programme",
+        "ECG",
+        "Stress test (TMT)",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/chandkheda-ahmedabad/",
+        "practitioners": "https://madhavbaug.org/clinic/chandkheda-ahmedabad/",
+        "address": "https://madhavbaug.org/clinic/chandkheda-ahmedabad/",
+        "phone": "https://madhavbaug.org/clinic/chandkheda-ahmedabad/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-clinic-chandkheda"
+    },
+    {
+      "practiceName": "Sharma Ayurvedic Clinic (Dr Paneri), Law Garden",
+      "practitioners": [
+        {
+          "name": "Dr Mukesh Bhawanishanker Paneri",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "101, ATP Arcade, Opp. National Handloom, Off C.G. Road, Law Garden",
+        "locality": "Ellisbridge",
+        "city": "Ahmedabad",
+        "pin": "380006"
+      },
+      "phone": [
+        "+91 79264 03487",
+        "+91 79221 40207"
+      ],
+      "website": "https://www.drpaneri.com/",
+      "email": "drpaneri@drpaneri.com",
+      "hours": "Morning 9:30 AM to 12:30 PM; evening 4:30 PM to 7:30 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchkarma",
+        "Weight management",
+        "Hair and skin care"
+      ],
+      "sources": {
+        "practiceName": "https://www.drpaneri.com/",
+        "practitioners": "https://www.drpaneri.com/dr_paneri.html",
+        "address": "https://www.drpaneri.com/",
+        "phone": "https://www.drpaneri.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sharma-ayurvedic-clinic-dr-paneri-law-garden"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Ghatlodiya",
+      "practitioners": [
+        {
+          "name": "Dr Manish Pandya",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sobhagya Deep Mishra",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Tenement No 1 & 2, 1st Floor, Above ICICI Bank, Yash Kunj Co. Housing Society Ltd., Prabhat Chowk",
+        "locality": "Ghatlodia",
+        "city": "Ahmedabad",
+        "pin": "380060"
+      },
+      "phone": [
+        "+91 92667 14040",
+        "+91 70430 20505"
+      ],
+      "website": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya",
+      "email": "clinics@jiva.com",
+      "hours": "Monday to Sunday, 10:00 am to 7:00 pm",
+      "services": [
+        "Ayurvedic consultation (clinic and video)",
+        "Panchakarma",
+        "Ayurvedic therapies",
+        "Diet and lifestyle counselling"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya",
+        "practitioners": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya",
+        "address": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya",
+        "phone": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Good clinic",
+          "attribution": "Naresh Nanoma",
+          "url": "https://www.jiva.com/clinic/gujarat/ahmedabad/ghatlodiya"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "jiva-ayurveda-clinic-ghatlodiya"
+    },
+    {
+      "practiceName": "Advait Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Kalpit N. Goswami",
+          "qualification": "BAMS (Gujarat Ayurved University, Jamnagar), M.D. (A.M.)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A-222, Shakti ETC (Extol Trade Centre), Vandematram Circle, Near Vandematram Cross Road",
+        "locality": "Gota",
+        "city": "Ahmedabad",
+        "pin": "382481"
+      },
+      "phone": [
+        "+91 99045 57565"
+      ],
+      "website": "https://advaitayutreatment.com/",
+      "email": "info@advaitayutreatment.com",
+      "hours": "Mon to Sat 10:00 am to 1:00 pm and 5:00 pm to 8:00 pm; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma (Vaman, Virechana, Basti, Nasya)",
+        "Shirodhara",
+        "Janu Basti",
+        "Kati Basti",
+        "Suvarnaprashan",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://advaitayutreatment.com/ayurvedic-clinic-in-gota-ahmedabad/",
+        "practitioners": "https://advaitayutreatment.com/about/",
+        "address": "https://advaitayutreatment.com/contact/",
+        "phone": "https://advaitayutreatment.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps?cid=2437132930910785725"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "advait-ayurveda"
+    },
+    {
+      "practiceName": "Ayutirth Ayurved & Panchkarma Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Harshad Solanki",
+          "qualification": "BAMS (Government Akhandanand Ayurved Mahavidyalaya, Ahmedabad, 2012), CCP Kerala (Certificate course in Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "FF-5, Vrundavan Heights, Vandematram Road, Opposite Centre Point",
+        "locality": "Gota",
+        "city": "Ahmedabad",
+        "pin": "382470"
+      },
+      "phone": [
+        "+91 98246 54364"
+      ],
+      "website": "https://www.ayutirthayurveda.com/",
+      "email": "ayutirthayurveda2025@gmail.com",
+      "hours": "Mon to Sat 9:30 AM to 1:00 PM and 5:00 PM to 8:30 PM; Sunday 10:00 AM to 1:00 PM",
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Abhyanga and Swedana",
+        "Basti",
+        "Nasya",
+        "Agnikarma",
+        "Jalaukavacharana (leech therapy)",
+        "Kshar Sutra",
+        "Weight loss Panchakarma programme",
+        "Hair and skin care"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayutirthayurveda.com/",
+        "practitioners": "https://www.ayutirthayurveda.com/best-ayurvedic-doctor-ahmedabad.html",
+        "address": "https://www.ayutirthayurveda.com/contact",
+        "phone": "https://www.ayutirthayurveda.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayutirth-ayurved-and-panchkarma-hospital"
+    },
+    {
+      "practiceName": "Jayveer Ayurveda Hospital (Jayveer Superspeciality Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Geetika Patel",
+          "qualification": "B.A.M.S., M.S. (Ayu), CRAV (Ksharsutra)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A-301/312, Shakti ETC, Vandematram Road",
+        "locality": "Gota",
+        "city": "Ahmedabad",
+        "pin": "382481"
+      },
+      "phone": [
+        "+91 83206 58199"
+      ],
+      "website": "https://jayveerayurveda.com/",
+      "email": "jayveerhelp@gmail.com",
+      "hours": "10 am to 7 pm",
+      "services": [
+        "Kshar Sutra and ano-rectal care (piles, fissure, fistula, pilonidal sinus)",
+        "Panchakarma",
+        "Lifestyle disorder consultation",
+        "Inpatient department (10 beds)"
+      ],
+      "sources": {
+        "practiceName": "https://jayveerayurveda.com/",
+        "practitioners": "https://jayveerayurveda.com/about-jayveer/",
+        "address": "https://jayveerayurveda.com/contact-us/",
+        "phone": "https://jayveerayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps/place/Jayveer+Superspeciality+Hospital+-+Dr.+Geetika+Patel/@23.092546,72.5457793,17z/"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "jayveer-ayurveda-hospital-jayveer-superspeciality-hospital"
+    },
+    {
+      "practiceName": "Manusmruti Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Priyanka Oza",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 110, Seventh Paradise Complex, Opposite Silver Harmony Flat, Near ICB Flora",
+        "locality": "Gota",
+        "city": "Ahmedabad",
+        "pin": "382481"
+      },
+      "phone": [
+        "+91 83204 79378"
+      ],
+      "website": "https://manusmruti-ayurveda.grexa.site/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma (Basti, Vaman, Virechan, Uttar Basti, Nasya)",
+        "Shirodhara"
+      ],
+      "sources": {
+        "practiceName": "https://manusmruti-ayurveda.grexa.site/",
+        "practitioners": "https://manusmruti-ayurveda.grexa.site/",
+        "address": "https://manusmruti-ayurveda.grexa.site/",
+        "phone": "https://manusmruti-ayurveda.grexa.site/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "manusmruti-ayurveda"
+    },
+    {
+      "practiceName": "Swarna Ayurveda & Panchakarma Hospital",
+      "practitioners": [
+        {
+          "name": "Vd. Saumya V. Patel",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 210, 2nd Floor, Silver Harmony 2, Opp. ICB Flora",
+        "locality": "Gota",
+        "city": "Ahmedabad",
+        "pin": "382481"
+      },
+      "phone": [
+        "+91 77788 91049"
+      ],
+      "website": "https://swarnaayurveda.com/",
+      "email": "saumyapatel103@gmail.com",
+      "hours": "Mon to Sat 9:00 AM to 1:00 PM and 4:00 PM to 7:30 PM; Sunday 10:30 AM to 1:00 PM and 4:00 PM to 7:30 PM",
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Basti",
+        "Nasya",
+        "Virechana",
+        "Garbh Sanskar"
+      ],
+      "sources": {
+        "practiceName": "https://swarnaayurveda.com/",
+        "practitioners": "https://swarnaayurveda.com/assets/index-DRdduhvp.js",
+        "address": "https://swarnaayurveda.com/assets/index-DRdduhvp.js",
+        "phone": "https://swarnaayurveda.com/assets/index-DRdduhvp.js"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "swarna-ayurveda-and-panchakarma-hospital"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Maninagar",
+      "practitioners": [
+        {
+          "name": "Dr Vajra N Kamani",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Unit 203 and 204, Second Floor, Shreekar Avenue, Above HDFC Bank, Gopal Cross Roads, Bhairavnath BRTS Road",
+        "locality": "Maninagar",
+        "city": "Ahmedabad",
+        "pin": "380008"
+      },
+      "phone": [
+        "+91 92667 14040",
+        "+91 93118 33054"
+      ],
+      "website": "https://www.jiva.com/clinic/ahmedabad",
+      "email": "clinics@jiva.com",
+      "hours": "Monday to Sunday, 10:00 am to 8:00 pm",
+      "services": [
+        "Ayurvedic consultation (OPD)",
+        "Panchakarma",
+        "Video consultation",
+        "Expert counselling"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/ahmedabad",
+        "practitioners": "https://www.jiva.com/ahmedabad/doctors/dr-vajra-n-kamani",
+        "address": "https://www.jiva.com/clinic/ahmedabad",
+        "phone": "https://www.jiva.com/clinic/ahmedabad"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Had a wonderful experience at Jiva Ayurveda Panchakarma. The staff was caring and professional, the therapies were well conducted.",
+          "attribution": "Jyoti Vyas",
+          "url": "https://www.jiva.com/clinic/ahmedabad"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/ahmedabad/clinic/jiva-ayurveda-clinic-5-maninagar"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "jiva-ayurveda-clinic-and-panchakarma-centre-maninagar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Maninagar",
+      "practitioners": [
+        {
+          "name": "Dr Sadik Khan",
+          "qualification": "BAMS, preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-01, 02, 03, Prayosha Building, Opp. Swaminarayan Temple, L.G. Hospital Road",
+        "locality": "Maninagar",
+        "city": "Ahmedabad",
+        "pin": "380008"
+      },
+      "phone": [
+        "+91 72290 48463",
+        "+91 76888 30111"
+      ],
+      "website": "https://madhavbaug.org/clinic/maninagar-ahmedabad/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Cardiac and metabolic risk assessment (ECG, TMT, blood sugar, HbA1c, lipid profile)",
+        "Diet, exercise and lifestyle plans"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/maninagar-ahmedabad/",
+        "practitioners": "https://madhavbaug.org/clinic/maninagar-ahmedabad/",
+        "address": "https://madhavbaug.org/clinic/maninagar-ahmedabad/",
+        "phone": "https://madhavbaug.org/clinic/maninagar-ahmedabad/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "madhavbaug-ayurvedic-clinic-maninagar"
+    },
+    {
+      "practiceName": "Prashanti Ayurvedic Clinic and Panchkarma Centre, Gurukul",
+      "practitioners": [
+        {
+          "name": "Dr Shekhar Sharma",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "407, 4th Floor, Shilp Corner, Subhash Chowk, Gurukul Road",
+        "locality": "Memnagar",
+        "city": "Ahmedabad",
+        "pin": "380052"
+      },
+      "phone": [
+        "+91 79274 12069",
+        "+91 98258 84803"
+      ],
+      "website": "https://www.prashantiayurvedic.com/",
+      "email": "info@prashantiayurvedic.com",
+      "hours": "3:00 PM to 7:00 PM; Sunday closed",
+      "services": [
+        "Panchakarma (Vaman, Virechana, Nasya, Basti, Raktamokshan)",
+        "Rasayana",
+        "Abhyangam",
+        "Pizhichil",
+        "Shirodhara",
+        "Takradhara",
+        "Shirobasti",
+        "Navarakizhi",
+        "Greeva Basti",
+        "Kati Basti",
+        "Janu Basti",
+        "Udvarthanam",
+        "Netra Tarpana",
+        "Agni Karma",
+        "Suvarna Prashan",
+        "Karna Purana"
+      ],
+      "sources": {
+        "practiceName": "https://www.prashantiayurvedic.com/",
+        "practitioners": "https://www.prashantiayurvedic.com/about-doctor.php",
+        "address": "https://www.prashantiayurvedic.com/",
+        "phone": "https://www.prashantiayurvedic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "prashanti-ayurvedic-clinic-and-panchkarma-centre-gurukul"
+    },
+    {
+      "practiceName": "Prashanti Ayurvedic Clinic & Panchkarma Centre, Motera",
+      "practitioners": [
+        {
+          "name": "Dr Shekhar S. Sharma",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "301, Sahyog Plaza, Opp. Vishwakarma Govt Engg College",
+        "locality": "Motera",
+        "city": "Ahmedabad",
+        "pin": "380005"
+      },
+      "phone": [
+        "+91 79275 00055",
+        "+91 98258 84803"
+      ],
+      "website": "https://www.prashantiayurvedic.com/",
+      "email": "info@prashantiayurvedic.com",
+      "hours": "9:30 AM to 1:00 PM; Sunday closed",
+      "services": [
+        "Panchkarma (Vaman, Virechana, Nasya, Basti, Raktamokshan)",
+        "Rasayana",
+        "Abhyangam",
+        "Pizhichil",
+        "Shirodhara",
+        "Takradhara",
+        "Shirobasti",
+        "Navarakizhi",
+        "Greeva Basti",
+        "Udvarthanam",
+        "Kati Basti",
+        "Janu Basti",
+        "Netra Tarpana",
+        "Agni Karma",
+        "Suvarna Prashan",
+        "Karna Purana",
+        "Swedana"
+      ],
+      "sources": {
+        "practiceName": "https://www.prashantiayurvedic.com/",
+        "practitioners": "https://www.prashantiayurvedic.com/about-doctor.php",
+        "address": "https://www.prashantiayurvedic.com/",
+        "phone": "https://www.prashantiayurvedic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "prashanti-ayurvedic-clinic-and-panchkarma-centre-motera"
+    },
+    {
+      "practiceName": "Dr Bhatt's Clinic, Navrangpura",
+      "practitioners": [
+        {
+          "name": "Dr Dhruti Bhatt",
+          "qualification": "BAMS (Akhand Anand Ayurvedic Medical College, Ahmedabad, 2003)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "301, Aarohi-II, Nr. Vijay Shalby Hospital, Vijay Cross Roads",
+        "locality": "Navrangpura",
+        "city": "Ahmedabad",
+        "pin": "380009"
+      },
+      "phone": [
+        "+91 97270 82623",
+        "+91 79400 82623",
+        "+91 79279 12623"
+      ],
+      "website": "https://www.drbhattsclinic.com/",
+      "email": "drbhattsclinic.1@gmail.com",
+      "hours": "Monday to Friday 10:00 AM to 2:00 PM and 5:00 PM to 8:00 PM; Saturday 10:00 AM to 2:00 PM; Sunday closed; new cases by prior appointment",
+      "services": [
+        "Ayurvedic treatment",
+        "Panchkarma",
+        "Homoeopathy (separate practitioner)"
+      ],
+      "sources": {
+        "practiceName": "https://www.drbhattsclinic.com/",
+        "practitioners": "https://www.drbhattsclinic.com/dr.dhrutibhatt-team",
+        "address": "https://www.drbhattsclinic.com/",
+        "phone": "https://www.drbhattsclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-bhatt-s-clinic-navrangpura"
+    },
+    {
+      "practiceName": "Vedant Ayurved Panchkarm Hospital, Paldi",
+      "practitioners": [
+        {
+          "name": "Dr Jayshree Vadher",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "113, Span Trade Center, Opp. Kochrab Ashram",
+        "locality": "Paldi",
+        "city": "Ahmedabad",
+        "pin": "380007"
+      },
+      "phone": [
+        "+91 97128 85452",
+        "+91 76003 70991"
+      ],
+      "website": "https://www.vedantayurveda.in/",
+      "email": "info@vedantayurveda.in",
+      "hours": "Clinic visits Monday to Wednesday 11:00 am to 1:00 pm; online consultations Monday to Friday 9:00 to 11:00 am and 4:00 to 6:00 pm",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Shirodhara",
+        "Skin and hair care",
+        "Pain management",
+        "Weight management",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.vedantayurveda.in/",
+        "practitioners": "https://www.vedantayurveda.in/about-us/",
+        "address": "https://www.vedantayurveda.in/",
+        "phone": "https://www.vedantayurveda.in/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very kind and solicitous staff.",
+          "attribution": "Hugo James",
+          "url": "https://www.vedantayurveda.in/"
+        },
+        {
+          "excerpt": "Amazing experience with my panchakarma treatments.",
+          "attribution": "Pritvi Raj",
+          "url": "https://www.vedantayurveda.in/"
+        },
+        {
+          "excerpt": "I came twice to the clinic and every time has been more magical and unforgettable.",
+          "attribution": "Stefanie Rashford",
+          "url": "https://www.vedantayurveda.in/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "vedant-ayurved-panchkarm-hospital-paldi"
+    },
+    {
+      "practiceName": "Ayushman Bhavah Ayurvedic Clinic, Satellite",
+      "practitioners": [
+        {
+          "name": "Dr Sushma Tiwary",
+          "qualification": "BAMS (Calcutta University), PGD Ras Shastra (CRAV)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "10 Jaswant Society",
+        "locality": "Satellite",
+        "city": "Ahmedabad",
+        "pin": "380015"
+      },
+      "phone": [
+        "+91 84692 60584"
+      ],
+      "website": "https://www.ayushmaanbhavah.com/",
+      "email": "contact@ayushmaanbhavah.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Parikshan",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Shirodhara",
+        "Abhyanga",
+        "Netra Tarpan",
+        "Udarshodhak"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayushmaanbhavah.com/",
+        "practitioners": "https://ayushmaanbhavah.com/about/",
+        "address": "https://www.ayushmaanbhavah.com/",
+        "phone": "https://www.ayushmaanbhavah.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayushman-bhavah-ayurvedic-clinic-satellite"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic, Satellite",
+      "practitioners": [
+        {
+          "name": "Dr Hitanshi Patel",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Heena Joshi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No 107, Neelkanth Palace, Near Seema Hall, Opp. Godrej Interio, 100 ft Road, Anand Nagar",
+        "locality": "Satellite",
+        "city": "Ahmedabad",
+        "pin": "380015"
+      },
+      "phone": [
+        "+91 92667 14040",
+        "+91 93229 32440"
+      ],
+      "website": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite",
+      "email": "clinics@jiva.com",
+      "hours": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday 10:00 am to 7:00 pm; Thursday closed",
+      "services": [
+        "Ayurvedic consultation (clinic and video)",
+        "Panchakarma",
+        "Ayurvedic therapies",
+        "Diet and lifestyle counselling"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite",
+        "practitioners": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite",
+        "address": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite",
+        "phone": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Superb service and diagnosis",
+          "attribution": "Biren Shah",
+          "url": "https://www.jiva.com/clinic/gujarat/ahmedabad/satellite"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "jiva-ayurveda-clinic-satellite"
+    },
+    {
+      "practiceName": "Sattva Ayurved and Panchkarma Clinic, Satellite",
+      "practitioners": [
+        {
+          "name": "Dr Amit Patel",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "233/234, Iscon Emporio, near Star Bazaar, Jodhpur Cross Road",
+        "locality": "Satellite",
+        "city": "Ahmedabad",
+        "pin": "380015"
+      },
+      "phone": [
+        "+91 96627 99548"
+      ],
+      "website": "https://sattvaayurved.com/",
+      "email": "sattva.amit@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Prakruti and Vikruti assessment",
+        "Panchakarma (Vamana, Virechana, Nasya, Basti, Raktamokshana)",
+        "Abhyanga",
+        "Shirodhara",
+        "Swedana",
+        "Udvartana",
+        "Pottali Sweda",
+        "Pizhichil",
+        "Akshi Tarpana",
+        "Garbha Sanskar",
+        "Suvarna Prashan"
+      ],
+      "sources": {
+        "practiceName": "https://sattvaayurved.com/",
+        "practitioners": "https://sattvaayurved.com/about/",
+        "address": "https://sattvaayurved.com/",
+        "phone": "https://sattvaayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sattva-ayurved-and-panchkarma-clinic-satellite"
+    },
+    {
+      "practiceName": "Sri Sri Wellbeing Centre, Ahmedabad",
+      "practitioners": [
+        {
+          "name": "Dr Nidhi Rishi",
+          "qualification": "BAMS (Rishikul State Ayurveda College, Haridwar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Sri Gyan Mandir Campus, 272 Mayurpankh Society, Near Pintu Garment Lane, Shivranjani Cross Road",
+        "locality": "Satellite",
+        "city": "Ahmedabad",
+        "pin": "380015"
+      },
+      "phone": [
+        "+91 85116 06276"
+      ],
+      "website": "https://www.srisriwellbeing.com/ahmedabad",
+      "email": "ahmedabad.reception@srisritattva.com",
+      "hours": "Monday to Sunday, 9:30 AM to 6:30 PM; closed on Tuesdays",
+      "services": [
+        "Nadi Pariksha",
+        "Ayurveda consultation",
+        "Panchakarma",
+        "Relaxation treatments",
+        "Osteopathy",
+        "Ozone therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.srisriwellbeing.com/ahmedabad",
+        "practitioners": "https://www.srisriwellbeing.com/ahmedabad",
+        "address": "https://www.srisriwellbeing.com/ahmedabad",
+        "phone": "https://www.srisriwellbeing.com/ahmedabad"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sri-sri-wellbeing-centre-ahmedabad"
+    },
+    {
+      "practiceName": "SGVP Holistic Hospital, Ayurveda Centre",
+      "practitioners": [
+        {
+          "name": "Vd Pravin Hirpara",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Hitendra Gohil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Sanket Patel",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Swapnil Modi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Bhavesh Joshi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Bhavdeep Ganatra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Hitisha Vora",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Vinay Vora",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Jinal Bagthaliya",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Pravin Hirpara",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Hitendra Gohil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Sanket Patel",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Swapnil Modi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Bhavesh Joshi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Bhavdeep Ganatra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Hitisha Vora",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Vinay Vora",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd. Jinal Bagthaliya",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SGVP Ayurveda Centre, 2nd floor, SGVP Holistic Hospital, SGVP Campus, Opp. Nirma University, SG Highway",
+        "locality": "SG Highway",
+        "city": "Ahmedabad",
+        "pin": "382481"
+      },
+      "phone": [
+        "+91 79656 60000",
+        "+91 95122 00122"
+      ],
+      "website": "https://www.sgvpholistichospital.org/ayurvedic-hospital-ahmedabad/",
+      "email": "hospital@sgvp.org",
+      "hours": "OPD Monday to Saturday, 8 AM to 7 PM",
+      "services": [
+        "Ayurveda consultation",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Snehana",
+        "Swedana",
+        "Shirodhara",
+        "Akshi Tarpana",
+        "Mukhalepanam",
+        "Janu Basti",
+        "Kati Basti",
+        "Abhyanga",
+        "Agni Karma",
+        "Kshar Sutra",
+        "Nadi Parikshan",
+        "Garbh Sanskar",
+        "Suvarna Prashan",
+        "De-addiction and rehabilitation"
+      ],
+      "sources": {
+        "practiceName": "https://www.sgvpholistichospital.org/ayurvedic-hospital-ahmedabad/",
+        "practitioners": "https://www.sgvpholistichospital.org/ayurvedic-doctor-ahmedabad/",
+        "address": "https://www.sgvpholistichospital.org/contact-us/",
+        "phone": "https://www.sgvpholistichospital.org/contact-us/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Good ayurveda treatment",
+          "attribution": "Mitesh Khant",
+          "url": "https://www.sgvpholistichospital.org/ayurvedic-hospital-ahmedabad/"
+        },
+        {
+          "excerpt": "Very supportive staff specially Dr Hitendra Gohil sir.",
+          "attribution": "Mitesh Khant",
+          "url": "https://www.sgvpholistichospital.org/kshar-sutra/"
+        },
+        {
+          "excerpt": "Vd Pravin Hirapara is the best Ayurved doctor i have ever known.",
+          "attribution": "Ramila Dabasia",
+          "url": "https://www.sgvpholistichospital.org/ayurvedic-hospital-ahmedabad/"
+        },
+        {
+          "excerpt": "His consultancy very good and maintained interpersonal relationship..",
+          "attribution": "Hitesh Patel",
+          "url": "https://www.sgvpholistichospital.org/ayurvedic-doctor-ahmedabad/"
+        },
+        {
+          "excerpt": "Staff is very cooperative and polite.",
+          "attribution": "Khushi Rajput",
+          "url": "https://www.sgvpholistichospital.org/ayurvedic-doctor-ahmedabad/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sgvp-holistic-hospital-ayurveda-centre"
+    },
+    {
+      "practiceName": "Guduchi Ayurveda, Sola (Ayurvedic Diabetes Care Clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Komal Maurya",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "79616",
+            "source": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in"
+          }
+        },
+        {
+          "name": "Dr Kirtika Brahmbhatt",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "G.B. I-13919",
+            "source": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in"
+          }
+        }
+      ],
+      "address": {
+        "line": "Shop No. 202, City Centre 2, Science City Road, near Hir Party Plot, Panchamrut Bunglows II",
+        "locality": "Sola",
+        "city": "Ahmedabad",
+        "pin": "380060"
+      },
+      "phone": [
+        "+91 91872 39420"
+      ],
+      "website": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in",
+      "email": null,
+      "hours": "Mon to Sat 9:00 AM to 6:00 PM",
+      "services": [
+        "Weight management",
+        "Diet guidance"
+      ],
+      "sources": {
+        "practiceName": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in",
+        "practitioners": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in",
+        "address": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in",
+        "phone": "https://guduchiayurveda.in/clinic/ahmedabad/diabetes-clinic-ga-in"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps?cid=6010146156884659272"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "guduchi-ayurveda-sola-ayurvedic-diabetes-care-clinic"
+    },
+    {
+      "practiceName": "Dr Shraddha Ayurvedic Clinic, Thaltej",
+      "practitioners": [
+        {
+          "name": "Dr Shraddha Trivedi",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shivangi Apartment, Opp. Goyal Intercity, near Drive-In Road",
+        "locality": "Thaltej",
+        "city": "Ahmedabad",
+        "pin": "380052"
+      },
+      "phone": [
+        "+91 99250 12016"
+      ],
+      "website": "https://drshraddha.in/",
+      "email": "info@drshraddha.in",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Parikshan",
+        "Panchakarma",
+        "Shirodhara",
+        "Hair and skin care",
+        "Weight management",
+        "Stress management",
+        "Yoga and meditation"
+      ],
+      "sources": {
+        "practiceName": "https://drshraddha.in/",
+        "practitioners": "https://drshraddha.in/our-specialists/",
+        "address": "https://drshraddha.in/",
+        "phone": "https://drshraddha.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "dr-shraddha-ayurvedic-clinic-thaltej"
+    },
+    {
+      "practiceName": "Sankalp Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sunil J. Suthar",
+          "qualification": "BAMS, CRAV (New Delhi)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Sangam Shopping Center, Near Siddhi Vinayak Temple, Akhbarnagar Circle",
+        "locality": "Vadaj",
+        "city": "Ahmedabad",
+        "pin": "380013"
+      },
+      "phone": [
+        "+91 96620 08511"
+      ],
+      "website": "https://sankalphospital.co.in/",
+      "email": "sunil.suthar16@gmail.com",
+      "hours": "Mon to Sat 10:00 AM to 1:00 PM and 4:00 PM to 7:00 PM; Sunday 10:00 AM to 1:00 PM",
+      "services": [
+        "Piles, fissure and fistula care (Ayurvedic proctology)",
+        "Panchakarma (Vamana, Virechana, Basti)",
+        "Shashtika Shali Pinda Sweda",
+        "Indoor facilities"
+      ],
+      "sources": {
+        "practiceName": "https://sankalphospital.co.in/",
+        "practitioners": "https://sankalphospital.co.in/",
+        "address": "https://sankalphospital.co.in/",
+        "phone": "https://sankalphospital.co.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://goo.gl/maps/nhgUapRGz7v9d5uP8"
+        }
+      ],
+      "checkedOn": "2026-10-26",
+      "id": "sankalp-hospital"
+    },
     {
       "practiceName": "Kottakkal Arya Vaidya Sala dealer clinic (Gouri Sankara Ayurvedics), Bagalur Cross",
       "practitioners": [
@@ -8803,6 +10269,306 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "jivagram-centre-for-wellbeing-jiva-ayurveda-hospital-sector"
+    },
+    {
+      "practiceName": "State Model Ayurved College attached Hospital, SMIAS Campus (State Model Institute of Ayurveda Sciences, Government of Gujarat)",
+      "practitioners": [
+        {
+          "name": "Vd Falgun Patel",
+          "qualification": "MD (Ayurveda); Medical Superintendent (I/C)",
+          "registration": null
+        },
+        {
+          "name": "Vd Pina Joshi",
+          "qualification": "BAMS; Resident Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Amit Patel",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Daxen Trivedi",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Sima Polara",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Gaurav Thakkar",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Asha Patel",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Chetan Prajapati",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Nehal Modi",
+          "qualification": "MD (Ayurveda); Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Vd Gayatri Patel",
+          "qualification": "BAMS; Ayurveda Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Dr Varshaben Dave",
+          "qualification": "I/C Medical Superintendent (hospital contact person)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "State Model Ayurved College, SMIAS Campus, Sonipur Road",
+        "locality": "Kolavada",
+        "city": "Gandhinagar",
+        "pin": "382028"
+      },
+      "phone": [
+        "+91 79239 75900",
+        "+91 94285 93294",
+        "+91 76981 89375"
+      ],
+      "website": "https://www.smias.in",
+      "email": "sup.smias@gmail.com",
+      "hours": "OPD Monday to Friday 9:00 am to 1:00 pm and 3:00 pm to 5:00 pm; Saturday 9:00 am to 1:00 pm. Case window Monday to Friday 8:30 am to 12:30 pm and 2:30 pm to 4:30 pm; Saturday 8:30 am to 12:30 pm",
+      "services": [
+        "Departmental OPDs (Kayachikitsa, Panchakarma, Shalya Tantra, Shalakya Tantra, Prasuti Tantra and Stri Roga, Kaumarabhritya, Swasthavritta and Yoga)",
+        "Inpatient wards (400 bed capacity)",
+        "Panchakarma",
+        "Kriyakalpa",
+        "Ksharsutra and minor procedures",
+        "Physiotherapy",
+        "Suvarnaprashan",
+        "Garbhadhana Samskara",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://www.smias.in/Hospital/page/Overview%20of%20Hospital",
+        "practitioners": "https://www.smias.in/Hospital/page/Hospital%20Staff",
+        "address": "http://www.smias.in/contact",
+        "phone": "http://www.smias.in/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "state-model-ayurved-college-attached-hospital-smias-campus"
+    },
+    {
+      "practiceName": "Ayurdham Ayurvedic Clinic and Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Pravin S Kharadi",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Suresh Prajapati",
+          "qualification": "MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Hina Mehta",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Priya Patel",
+          "qualification": "MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kinjal Panchal",
+          "qualification": "MS (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "220, Radhe Square, Reliance Cross Road",
+        "locality": "Kudasan",
+        "city": "Gandhinagar",
+        "pin": "382421"
+      },
+      "phone": [
+        "+91 98980 99084"
+      ],
+      "website": "https://ayurdhamclinic.com",
+      "email": "ayurdham123@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Abhyangam",
+        "Shirodhara",
+        "Swedana",
+        "Leech therapy",
+        "Janu Basti",
+        "Kati Basti",
+        "Ayurvedic consultation",
+        "Personalised wellness programmes"
+      ],
+      "sources": {
+        "practiceName": "https://ayurdhamclinic.com/",
+        "practitioners": "https://ayurdhamclinic.com/",
+        "address": "https://ayurdhamclinic.com/contact-us/",
+        "phone": "https://ayurdhamclinic.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Justdial",
+          "url": "https://www.justdial.com/Gandhinagar-Gujarat/Ayurdham-Ayurveda-Panchkarma-Centre-Near-Re-Cross-Road-Opposite-Pramukh-Complex-Kudasan/9999PXX79-XX79-180313170102-T3P7_BZDET"
+        }
+      ],
+      "checkedOn": "2026-10-27",
+      "id": "ayurdham-ayurvedic-clinic-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Balark Ayurveda and Panchakarma Clinic, Kudasan",
+      "practitioners": [
+        {
+          "name": "Dr Chirag B Vyas",
+          "qualification": "BAMS, PG CPK",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "269, Second Floor, Suyash Solitaire, near Podar International School, Reliance Chokadi to Kudasan Por Road",
+        "locality": "Kudasan",
+        "city": "Gandhinagar",
+        "pin": "382421"
+      },
+      "phone": [
+        "+91 99245 19705",
+        "+91 63528 45195"
+      ],
+      "website": "https://balarkayurved.com",
+      "email": "infobalarkayrveda@gmail.com",
+      "hours": "Monday to Sunday 10:30 am to 4:00 pm; Dr Chirag by appointment on Tuesday, Friday and Sunday; medical officer on Monday, Wednesday, Thursday and Saturday",
+      "services": [
+        "Panchakarma",
+        "Vaman karma",
+        "Virechan karma",
+        "Shirodhara",
+        "Joints and spine care",
+        "Ante natal and post natal care in Ayurveda",
+        "Skin and hair care",
+        "Women's health"
+      ],
+      "sources": {
+        "practiceName": "https://balarkayurved.com/about-us.php",
+        "practitioners": "https://balarkayurved.com/about-us.php",
+        "address": "https://balarkayurved.com/about-us.php",
+        "phone": "https://balarkayurved.com/about-us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Practo",
+          "url": "https://www.practo.com/gandhinagar/clinic/balark-ayurveda-and-panchakarma-clinic-radhanpur-road"
+        }
+      ],
+      "checkedOn": "2026-10-27",
+      "id": "balark-ayurveda-and-panchakarma-clinic-kudasan"
+    },
+    {
+      "practiceName": "Ayurved Panchkarma Hospital (Vaidya Dharmendra Patel)",
+      "practitioners": [
+        {
+          "name": "Vaidya Dharmendra V Patel",
+          "qualification": "BAMS (site wording: bachelor degree in Ayurvedic Medicine and Surgery)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-221, 211, 212, Second Floor, Siddhraj Zori, Sargasan Cross Road, SG Highway",
+        "locality": "Sargasan",
+        "city": "Gandhinagar",
+        "pin": "382421"
+      },
+      "phone": [
+        "+91 94276 14152"
+      ],
+      "website": "http://vaidyadharmendrapatel.com",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Agnikarma",
+        "Raktamokshana",
+        "Basti",
+        "Nasya",
+        "Panchgavya chikitsa",
+        "Physiotherapy",
+        "Ayurvedic hair care"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyadharmendrapatel.com/",
+        "practitioners": "https://vaidyadharmendrapatel.com/about-us/meet-vaidya-dharmendra-v-patel/",
+        "address": "https://vaidyadharmendrapatel.com/contact-us/",
+        "phone": "https://vaidyadharmendrapatel.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://g.co/kgs/e2JGWp"
+        }
+      ],
+      "checkedOn": "2026-10-27",
+      "id": "ayurved-panchkarma-hospital-vaidya-dharmendra-patel"
+    },
+    {
+      "practiceName": "Harjivan Hospital (Panchkarma and Ksharsutra Centre)",
+      "practitioners": [
+        {
+          "name": "Dr Vishvamitra Patel",
+          "qualification": "BAMS, DAK, PGDIP",
+          "registration": {
+            "number": "GBI-11609 (Gujarat Council)",
+            "source": "https://www.harjivanhospital.com/doctor"
+          }
+        }
+      ],
+      "address": {
+        "line": "3rd Floor, Sharan Business, near D-Mart, Sector 26",
+        "locality": "Sector 26",
+        "city": "Gandhinagar",
+        "pin": "382028"
+      },
+      "phone": [
+        "+91 96240 44999"
+      ],
+      "website": "https://www.harjivanhospital.com",
+      "email": null,
+      "hours": "OPD 10:00 am to 2:00 pm, all days including Sunday",
+      "services": [
+        "Panchakarma",
+        "Kshar Sutra therapy",
+        "Kshara application",
+        "Anorectal day-care procedures",
+        "Laser therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.harjivanhospital.com/",
+        "practitioners": "https://www.harjivanhospital.com/doctor",
+        "address": "https://www.harjivanhospital.com/contact",
+        "phone": "https://www.harjivanhospital.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "harjivan-hospital-panchkarma-and-ksharsutra-centre"
     },
     {
       "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Indirapuram",
