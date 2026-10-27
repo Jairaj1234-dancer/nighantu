@@ -145,6 +145,133 @@
       "id": "jeeva-ayurveda-clinic-and-panchakarma-center"
     },
     {
+      "practiceName": "R.B. Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Prof Dr Gaurav Gupta",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": {
+            "number": "State Registration 54877",
+            "source": "http://www.rbamc.in/document/DetailMedicalSuperintendent1.pdf"
+          }
+        },
+        {
+          "name": "Prof Dr Ishwar Chandra Rai",
+          "qualification": "MD (Ayurveda Siddhanta)",
+          "registration": {
+            "number": "State Registration 53079",
+            "source": "http://www.rbamc.in/document/DetailsOfPrincipal.pdf"
+          }
+        }
+      ],
+      "address": {
+        "line": "RBAMC Campus, Jalesar Road, Muddi Crossing",
+        "locality": "Jalesar Road",
+        "city": "Agra",
+        "pin": "283126",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 95680 05051",
+        "+91 95680 05053"
+      ],
+      "website": "http://www.rbamc.in/",
+      "email": "rbamc.agra@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "http://www.rbamc.in/",
+        "practitioners": "http://www.rbamc.in/document/DetailMedicalSuperintendent1.pdf",
+        "address": "http://www.rbamc.in/contact.php (street); PIN from http://www.rbamc.in/document/DetailsOfPrincipal.pdf (RBAMC Campus, Jalesar Road, Mudi Crossing, Agra, Pin Code 283126)",
+        "phone": "http://www.rbamc.in/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "r-b-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Naiminath Ayurvedic Medical College, Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Prof Dr Pradeep Kumar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "N.H. 19, Nawalpur, Kuberpur, Behind Maruti TrueValue Showroom, Etmadpur",
+        "locality": "Kuberpur",
+        "city": "Agra",
+        "pin": "283202",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 81938 96320"
+      ],
+      "website": "https://naiminathayurveda.org/",
+      "email": "namcagra@gmail.com",
+      "hours": "9am to 4pm",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Agada Tantra",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://naiminathayurveda.org/",
+        "practitioners": "https://naiminathayurveda.org/",
+        "address": "https://naiminathayurveda.org/",
+        "phone": "https://naiminathayurveda.org/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "naiminath-ayurvedic-medical-college-hospital-and-research"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic & Panchakarma Centre, Sanjay Place",
+      "practitioners": [
+        {
+          "name": "Dr Shekhar Goswami",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-8, 9 & 10, E-17/2/4, Friends Wasan Plaza, Behind Hotel Marina",
+        "locality": "Sanjay Place",
+        "city": "Agra",
+        "pin": "282002",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 93118 15831"
+      ],
+      "website": "https://www.jiva.com/clinic/uttar-pradesh/agra/sanjay-place-behind-hotel-marina",
+      "email": "clinics@jiva.com",
+      "hours": "Mon to Sun 10:00 AM to 07:00 PM",
+      "services": [
+        "Expert Counselling",
+        "Panchakarma",
+        "OPD",
+        "Day Care"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/uttar-pradesh/agra/sanjay-place-behind-hotel-marina",
+        "practitioners": "https://www.jiva.com/clinic/uttar-pradesh/agra/sanjay-place-behind-hotel-marina",
+        "address": "https://www.jiva.com/clinic/uttar-pradesh/agra/sanjay-place-behind-hotel-marina",
+        "phone": "https://www.jiva.com/clinics"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jiva-ayurveda-clinic-and-panchakarma-centre-sanjay-place"
+    },
+    {
       "practiceName": "Aagyarth Ayurved and Panchkarma Hospital, Ambawadi",
       "practitioners": [
         {
@@ -1661,6 +1788,109 @@
       "id": "duah-ayur-care"
     },
     {
+      "practiceName": "J.D. Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Saurabh Kumar",
+          "qualification": "M.S. (Ayu.)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajay Kumar Agarwal",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Avnesh Kumar Raghav",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Mukesh Kumar Saini",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G.T. Road (NH-91)",
+        "locality": "Bhankari",
+        "city": "Aligarh",
+        "pin": "202001",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 91930 89042",
+        "+91 93582 54913"
+      ],
+      "website": "https://www.jdamch.com/",
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.jdamch.com/",
+        "practitioners": "https://www.jdamch.com/attendance/hospital/hospital-staff-anexure-for-website/",
+        "address": "https://www.jdamch.com/contact-us/",
+        "phone": "https://www.jdamch.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "j-d-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Sri Sai Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sunil Kumar Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Saurabha Nayak",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Praveen Kumar Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Nirbhay Gupta",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Sai R Group of Institutions, Opp. Phal Mandi, G.T. Road",
+        "locality": "Sarsol",
+        "city": "Aligarh",
+        "pin": "202001",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 89370 33300"
+      ],
+      "website": "https://srisairgroup.com/ayurvedic/index.html",
+      "email": "info@srisaigroup.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "OPD and IPD (200-bed hospital)"
+      ],
+      "sources": {
+        "practiceName": "https://srisairgroup.com/ayurvedic/index.html",
+        "practitioners": "https://srisairgroup.com/ayurvedic/teaching-staff-list.pdf",
+        "address": "https://srisairgroup.com/ayurvedic/index.html",
+        "phone": "https://srisairgroup.com/ayurvedic/index.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sri-sai-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Maitreyi Vedic Village",
       "practitioners": [
         {
@@ -2500,6 +2730,234 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "kala-ashram-ayurved-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "A.N.A. Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr H Harihara Prasad Rao",
+          "qualification": "BAMS, MD (Ayurved)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anil Kumar Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Dhananjay Pralhadrao Tanpure",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mandeep Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwin Kumar Soni",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Agras Road, Near Rubber Factory",
+        "locality": "Agras Road",
+        "city": "Bareilly",
+        "pin": "243501",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 97192 33333"
+      ],
+      "website": "https://anaamch.org.in/",
+      "email": "info@anacollege.org",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Kaumarbhritya",
+        "Stri evam Prasooti"
+      ],
+      "sources": {
+        "practiceName": "https://anaamch.org.in/",
+        "practitioners": "https://anaamch.org.in/pdf/HOSPITA-STAFF-LIST-2026.pdf",
+        "address": "https://anaamch.org.in/",
+        "phone": "https://anaamch.org.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "a-n-a-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Dr. Basu Eye Care Centre, Bareilly",
+      "practitioners": [
+        {
+          "name": "Dr Mahender Singh Basu",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Madhuresh Singh Tomar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajay Pratap Singh",
+          "qualification": "BAMS, Diploma in Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Pooja Singh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "23-B, Ekta Nagar, Stadium Road",
+        "locality": "Ekta Nagar",
+        "city": "Bareilly",
+        "pin": "243122",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 82358 08080"
+      ],
+      "website": "https://drbasueyecarecentre.com/bareilly-hospital/",
+      "email": "care@drbasueyecarecentre.com",
+      "hours": "Monday to Saturday, 11:00 AM to 6:00 PM",
+      "services": [
+        "Ayurvedic eye care",
+        "Eye testing",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drbasueyecarecentre.com/bareilly-hospital/",
+        "practitioners": "https://drbasueyecarecentre.com/bareilly-hospital/",
+        "address": "https://drbasueyecarecentre.com/bareilly-hospital/",
+        "phone": "https://drbasueyecarecentre.com/bareilly-hospital/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-basu-eye-care-centre-bareilly"
+    },
+    {
+      "practiceName": "Mithila Ayurvedic Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Vishal Agarwal",
+          "qualification": "BAMS, MS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Stadium Road, Near Shiv Mandir",
+        "locality": "Ekta Nagar",
+        "city": "Bareilly",
+        "pin": "243005",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 98375 57591",
+        "+91 82185 35035"
+      ],
+      "website": "https://www.ayurvedicpileshospital.com/",
+      "email": "info@ayurvedicpileshospital.com",
+      "hours": "Monday to Saturday, 9 AM to 5 PM",
+      "services": [
+        "Panchakarma",
+        "Ksharsutra",
+        "Agnikarma",
+        "Yoga",
+        "Ayurveda consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedicpileshospital.com/contact-us.html",
+        "practitioners": "https://www.ayurvedicpileshospital.com/contact-us.html",
+        "address": "https://www.ayurvedicpileshospital.com/contact-us.html",
+        "phone": "https://www.ayurvedicpileshospital.com/contact-us.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Best place for your treatment. Doctor & staff behaviour is very polite & helpful. Definitely recommend this place to others.",
+          "attribution": "Kaif Alam, Bareilly",
+          "url": "https://www.ayurvedicpileshospital.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "mithila-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "Rajshree Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Rammika Singh",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Neethu Prasad",
+          "qualification": "Ayurveda Vachaspati, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anupriya P.S.",
+          "qualification": "MD (Ay) Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Pragati Saxena",
+          "qualification": "MS Ayurveda (Prasuti Tantra evam Stri Roga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Siraj Ahmad",
+          "qualification": "MD Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Rashmi Bisht",
+          "qualification": "MS Shalakya Tantra",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "16 KM, NH-30 Pilibhit Road",
+        "locality": "Pilibhit Road",
+        "city": "Bareilly",
+        "pin": "243122",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 81920 00288",
+        "+91 96900 00100"
+      ],
+      "website": "https://rajshree.ac.in/ayurvedic/",
+      "email": "2024ayu0856@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra evam Stri Roga",
+        "Kaumarabhritya"
+      ],
+      "sources": {
+        "practiceName": "https://rajshree.ac.in/ayurvedic/contact-us/",
+        "practitioners": "https://rajshree.ac.in/ayurvedic/wp-content/uploads/2026/05/Hospital-Staff-List-1.pdf",
+        "address": "https://rajshree.ac.in/ayurvedic/contact-us/",
+        "phone": "https://rajshree.ac.in/ayurvedic/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rajshree-ayurvedic-medical-college-and-hospital"
     },
     {
       "practiceName": "Acharya Deshabushan Ayurvedic Medical College and Hospital",
@@ -16208,6 +16666,68 @@
       "id": "jivagram-centre-for-wellbeing-jiva-ayurveda-hospital-sector"
     },
     {
+      "practiceName": "Dhanvantari Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Kishor Chandra Pradhan",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Jitendra Kumar Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sushil Kumar Gupta",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Arvind Chaturvedi",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Aditya Kumar Shil",
+          "qualification": "MS (Shalya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Rehpura-Meerapur Road, Fatehganj-West, Distt. Bareilly",
+        "locality": "Fatehganj West",
+        "city": "Fatehganj West",
+        "pin": "243501",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 94104 05769"
+      ],
+      "website": "https://damcbareilly.in/",
+      "email": "mgfayur@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya",
+        "Prasuti avum Stri Roga",
+        "Kaumarbhritya",
+        "Swastha Vritta & Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://damcbareilly.in/",
+        "practitioners": "https://damcbareilly.in/media/faculty-and-staff-list/Hospital-staff.pdf",
+        "address": "https://damcbareilly.in/",
+        "phone": "https://damcbareilly.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dhanvantari-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Late Kedari Redekar Ayurvedic Mahavidyalaya Hospital",
       "practitioners": [
         {
@@ -21429,6 +21949,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "ayushman-arogya-mandir-ayush-wadi-talauli"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Geetavatika Gorakhpur",
+      "practitioners": [
+        {
+          "name": "Dr Kirtika Yadav",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "House No. 25, Awas Vikash Colony, Shahpur Geetavatika Road, Near Mintu Medical Stores (Modela Sweet)",
+        "locality": "Shahpur",
+        "city": "Gorakhpur",
+        "pin": "273006",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 96218 53651"
+      ],
+      "website": "https://madhavbaug.org/clinic/heart-hospital-in-gorakhpur-uttar-pradesh",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/heart-hospital-in-gorakhpur-uttar-pradesh",
+        "practitioners": "https://madhavbaug.org/clinic/heart-hospital-in-gorakhpur-uttar-pradesh",
+        "address": "https://madhavbaug.org/clinic/heart-hospital-in-gorakhpur-uttar-pradesh",
+        "phone": "https://madhavbaug.org/clinic/heart-hospital-in-gorakhpur-uttar-pradesh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-geetavatika-gorakhpur"
     },
     {
       "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Greater Noida",
@@ -28181,6 +28735,252 @@
       "id": "sreedhareeyam-kannur-sreedhareeyam-ayurvedic-eye-clinics-and"
     },
     {
+      "practiceName": "Jeena Sikho HiiMS Hospital, Kanpur",
+      "practitioners": [
+        {
+          "name": "Dr Shushant Chaurasiya",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Shewta Singh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Building No. 111/143, 1st Floor, near Kannika Hospital",
+        "locality": "Harsh Nagar",
+        "city": "Kanpur",
+        "pin": "208012",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 87920 87920",
+        "+91 81920 89920"
+      ],
+      "website": "https://hiims.in/hospital/kanpur/",
+      "email": "care@jeenasikho.com",
+      "hours": null,
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://hiims.in/hospital/kanpur/contact-us",
+        "practitioners": "https://hiims.in/hospital/kanpur",
+        "address": "https://hiims.in/hospital/kanpur/contact-us; https://clinics.shuddhi.com/clinic/kanpur (PIN)",
+        "phone": "https://hiims.in/hospital/kanpur/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jeena-sikho-hiims-hospital-kanpur"
+    },
+    {
+      "practiceName": "Pracheta Ayurvedic Clinic and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Govind S. Raghuvansi",
+          "qualification": "B.Sc., BAMS, C.V.D. and C.S.D, Dip in Panchakarma (Kerala)",
+          "registration": null
+        },
+        {
+          "name": "Dr Swati Raghuvansi",
+          "qualification": "BAMS, C.G.O. (Mumbai), Dip in Panchakarma (Kerala)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "O-78, Near KDMA World School, Awas Vikas Keshav Puram",
+        "locality": "Kalyanpur",
+        "city": "Kanpur",
+        "pin": "208017",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 512 355 2524",
+        "+91 96486 29735"
+      ],
+      "website": "https://prachetaayurvedic.com/",
+      "email": "info@prachetaayurvedic.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Swarna Prashana",
+        "Shirodhara",
+        "Nasyam",
+        "Uttar Basti",
+        "Naturopathy",
+        "Diet therapy"
+      ],
+      "sources": {
+        "practiceName": "https://prachetaayurvedic.com/contact-us-ayurvedic-clinic-kanpur/",
+        "practitioners": "http://www.prachetaclinic.com/contact_us.php",
+        "address": "https://prachetaayurvedic.com/contact-us-ayurvedic-clinic-kanpur/",
+        "phone": "https://prachetaayurvedic.com/contact-us-ayurvedic-clinic-kanpur/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Experience at Pracheta Ayurveda has been wonderful for me.",
+          "attribution": "Sachin Srivastava",
+          "url": "https://prachetaayurvedic.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "pracheta-ayurvedic-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Kidwai Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Sandeep Kumar Tripathi",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "133/50, O Block, Gulab Complex, Side No. 1",
+        "locality": "Kidwai Nagar",
+        "city": "Kanpur",
+        "pin": "208011",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 90768 00944"
+      ],
+      "website": "https://madhavbaug.org/clinic/kidwainagar-kanpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/kidwainagar-kanpur",
+        "practitioners": "https://madhavbaug.org/clinic/kidwainagar-kanpur",
+        "address": "https://madhavbaug.org/clinic/kidwainagar-kanpur",
+        "phone": "https://madhavbaug.org/clinic/kidwainagar-kanpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-kidwai-nagar"
+    },
+    {
+      "practiceName": "Rincysachan Kerala Traditional Ayurveda and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Rincy Sachan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1205/12, Koyla Nagar Police Chowki, Near Neelsha Lawn",
+        "locality": "Koyla Nagar",
+        "city": "Kanpur",
+        "pin": "208011",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 62602 53695",
+        "+91 94257 61779"
+      ],
+      "website": "https://healwithnature.in/",
+      "email": "rincysachan96@gmail.com",
+      "hours": "Thursday to Tuesday 10:00 AM to 8:00 PM; Wednesday closed",
+      "services": [
+        "Panchakarma",
+        "Agnikarma",
+        "Viddhakarma",
+        "Cupping therapy",
+        "Leech therapy",
+        "Virechana",
+        "Vamana",
+        "Basti",
+        "Nasya",
+        "Shirodhara",
+        "Pizhichil"
+      ],
+      "sources": {
+        "practiceName": "https://healwithnature.in/about",
+        "practitioners": "https://healwithnature.in/about",
+        "address": "https://healwithnature.in/contact",
+        "phone": "https://healwithnature.in/contact"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The clinic was very clean and organized. My appointment was on time and thorough care made it a pleasant experience, also to mention Dr. Rincy was truly knowledgeable and professional!",
+          "attribution": "Udesh Chaskar",
+          "url": "https://healwithnature.in/about"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://maps.app.goo.gl/bwEaTai97ZnppHug9"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "rincysachan-kerala-traditional-ayurveda-and-panchakarma"
+    },
+    {
+      "practiceName": "Punarnava Ayurvedic Hospital (Panchakarma and Ksharsutra Centre)",
+      "practitioners": [
+        {
+          "name": "Dr B.S. Katiyar",
+          "qualification": "MD (Ayurvedic Medicine), PGCKS",
+          "registration": null
+        },
+        {
+          "name": "Dr Smita Katiyar",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "68, Lakhanpur, Vikas Nagar, Behind Lucky Restaurant, G.T. Road",
+        "locality": "Lakhanpur",
+        "city": "Kanpur",
+        "pin": "208024",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 80097 08080"
+      ],
+      "website": "https://www.pahindia.com/",
+      "email": "info@pahindia.com",
+      "hours": "Morning 9:30 AM to 2:00 PM (Mon to Sun); Evening 5:30 PM to 8:00 PM (Mon to Sat)",
+      "services": [
+        "Ksharsutra",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasya",
+        "Raktamokshana",
+        "Shirodhara",
+        "Janu Basti",
+        "Patra Pinda Swedana",
+        "Nadi Pariksha",
+        "Ayurvedic pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.pahindia.com/",
+        "practitioners": "https://www.pahindia.com/",
+        "address": "https://www.pahindia.com/",
+        "phone": "https://www.pahindia.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://maps.app.goo.gl/GouFfgFTu7vqa9Je8"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "punarnava-ayurvedic-hospital-panchakarma-and-ksharsutra"
+    },
+    {
       "practiceName": "Panchaved Ayurvedic Panchakarma Hospital, Karad (Mangalwar Peth)",
       "practitioners": [
         {
@@ -33459,6 +34259,50 @@
       "id": "anima-ayurvedic-medical-centre"
     },
     {
+      "practiceName": "Rama Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Prem Chandra",
+          "qualification": "BAMS, MS (Shalya)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shyam Tiwari",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rajesh Kumar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "NH-91, Rama City",
+        "locality": "Mandhana",
+        "city": "Mandhana",
+        "pin": "209217",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 80523 02666"
+      ],
+      "website": "https://ramaayurveda.com/",
+      "email": "principal.ramch@ramauniversity.ac.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ramaayurveda.com/",
+        "practitioners": "https://ramaayurveda.com/medical_superintendent_Information.php; https://ramaayurveda.com/faculty.php",
+        "address": "https://ramaayurveda.com/",
+        "phone": "https://ramaayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rama-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Dev Bhoomi Medical College of Ayurveda & Hospital",
       "practitioners": [
         {
@@ -34413,6 +35257,71 @@
       "id": "dr-lodha-s-ayurved-panchakarma-and-research-centre-manmad"
     },
     {
+      "practiceName": "Sanskriti Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Raj Kumar Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vidhi Jain",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shubham Gupta",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Hemlata Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Priti Singh Verma",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "28 K.M. Stone, Mathura-Delhi Highway, Sanskriti University campus",
+        "locality": "Mathura-Delhi Highway",
+        "city": "Mathura",
+        "pin": "281401",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 75007 23300",
+        "+91 75001 83300"
+      ],
+      "website": "https://www.sanskriti.edu.in/ayurveda.php",
+      "email": "info@sanskriti.edu.in",
+      "hours": "Consultant OPDs 09:15 am to 04:00 pm on scheduled days",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra (Eye, ENT)",
+        "Stri Roga and Prasuti Tantra",
+        "Kaumarbhritya",
+        "Swasthavritta and Yoga",
+        "Agad Tantra",
+        "OPD and IPD (140 beds)"
+      ],
+      "sources": {
+        "practiceName": "https://www.sanskriti.edu.in/ayurveda.php",
+        "practitioners": "https://www.sanskriti.edu.in/ccim-disclosure/2026/specialties-of-the-hospital-and-the-consultants-their-opd-days-and-timings.pdf",
+        "address": "https://www.sanskriti.edu.in/contact/reach-us.php",
+        "phone": "https://www.sanskriti.edu.in/contact/reach-us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sanskriti-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Rural Institute of Ayurved Research Center and Hospital (RIARCH), Mayani",
       "practitioners": [
         {
@@ -34520,6 +35429,119 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "itoozhi-ayurveda-hospital-and-research-centre-itoozhi"
+    },
+    {
+      "practiceName": "IIMT Ayurvedic Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Prof. Vd. Sujit Kumar Dalai",
+          "qualification": "BAMS, MD, PhD (Principal)",
+          "registration": null
+        },
+        {
+          "name": "Dr. Amber Mani",
+          "qualification": "BAMS (RMO)",
+          "registration": null
+        },
+        {
+          "name": "Dr. Ajay Sharma",
+          "qualification": "BAMS (RMO)",
+          "registration": null
+        },
+        {
+          "name": "Dr. Bhupender Tiwari",
+          "qualification": "BAMS (RMO)",
+          "registration": null
+        },
+        {
+          "name": "Dr. Peehu Gola",
+          "qualification": "BAMS (RMO)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "'O' Pocket, Ganga Nagar, Mawana Road",
+        "locality": "Ganga Nagar",
+        "city": "Meerut",
+        "pin": "250001",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 121 279 3610",
+        "+91 121 279 3611",
+        "+91 121 279 3612",
+        "+91 73027 92990"
+      ],
+      "website": "https://iimtayurvediccollege.ac.in",
+      "email": "iimtayurveda@iimtindia.net",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya",
+        "Prasuti and Stri Roga",
+        "Kaumarbhritya",
+        "Swasthavritta and Yoga",
+        "OPD and IPD",
+        "24 hour emergency"
+      ],
+      "sources": {
+        "practiceName": "https://iimtayurvediccollege.ac.in",
+        "practitioners": "https://iimtayurvediccollege.ac.in/assets/pdf/Hospital%20Staff%20List%20Web.pdf (hospital staff list, Annexure-III); principal from https://iimtayurvediccollege.ac.in/principal.php",
+        "address": "https://iimtayurvediccollege.ac.in/contact.php (street); PIN 250001 from the college's own published hospital OPD/IPD form https://iimtayurvediccollege.ac.in/assets/pdf/IPD%20OPD%20DETAILS.pdf",
+        "phone": "https://iimtayurvediccollege.ac.in/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "iimt-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Jeena Sikho HiiMS Hospital, Meerut (Jagriti Vihar)",
+      "practitioners": [
+        {
+          "name": "Dr. Hitendra Kumar",
+          "qualification": "BAMS, PGD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr. Madhav Yaduvanshi",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "66/1, Garh Road, Sector-1",
+        "locality": "Jagriti Vihar",
+        "city": "Meerut",
+        "pin": "250004",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://hiims.in/hospital/meerut-jagriti-vihar",
+      "email": "care@jeenasikho.com",
+      "hours": "Monday to Sunday, 8:00 AM to 7:00 PM",
+      "services": [
+        "Ayurveda treatment",
+        "Panchakarma therapies",
+        "Naturopathy",
+        "Yoga and meditation",
+        "Diet and lifestyle guidance",
+        "OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/meerut",
+        "practitioners": "https://clinics.shuddhi.com/clinic/meerut (both doctors); also on https://hiims.in/hospital/meerut-jagriti-vihar",
+        "address": "https://clinics.shuddhi.com/clinic/meerut",
+        "phone": "https://clinics.shuddhi.com/clinic/meerut"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jeena-sikho-hiims-hospital-meerut-jagriti-vihar"
     },
     {
       "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Melur",
@@ -45783,6 +46805,95 @@
       "id": "government-ayurveda-dispensary-pookkottukavu"
     },
     {
+      "practiceName": "Jeena Sikho HiiMS Hospital, Prayagraj",
+      "practitioners": [
+        {
+          "name": "Dr Ritesh Kumar Srivastava",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Jitendra Rajbhar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "9/27, Church Lane, opposite Sarojini Naidu Children Hospital, The Adelphi",
+        "locality": "Allenganj",
+        "city": "Prayagraj",
+        "pin": "211002",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 87920 87920",
+        "+91 81920 89920"
+      ],
+      "website": "https://hiims.in/hospital/prayagraj-allahabad/",
+      "email": "care@jeenasikho.com",
+      "hours": null,
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://hiims.in/hospital/prayagraj-allahabad/contact-us",
+        "practitioners": "https://hiims.in/hospital/prayagraj-allahabad/",
+        "address": "https://hiims.in/hospital/prayagraj-allahabad/contact-us; https://clinics.shuddhi.com/clinic/prayagraj-allahabad (PIN)",
+        "phone": "https://hiims.in/hospital/prayagraj-allahabad/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jeena-sikho-hiims-hospital-prayagraj"
+    },
+    {
+      "practiceName": "Advance Ayurved Centre",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay Verma",
+          "qualification": "MD Ayurved",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "353/183/3, near Inter College Collenganj",
+        "locality": "Tagore Town",
+        "city": "Prayagraj",
+        "pin": "211002",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 95326 50556",
+        "+91 91162 22369"
+      ],
+      "website": "https://advanceayurvedcentre.com/",
+      "email": "advanceayurvedcentre@gmail.com",
+      "hours": null,
+      "services": [
+        "Physiotherapy",
+        "Diagnostics",
+        "Manual therapy",
+        "Massage therapy",
+        "Rehabilitation"
+      ],
+      "sources": {
+        "practiceName": "https://advanceayurvedcentre.com/contact.html",
+        "practitioners": "https://advanceayurvedcentre.com/",
+        "address": "https://advanceayurvedcentre.com/contact.html",
+        "phone": "https://advanceayurvedcentre.com/contact.html"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I had a truly wonderful experience at this Advanced Ayurvedic Center.",
+          "attribution": "Sandeep Prayag",
+          "url": "https://advanceayurvedcentre.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "advance-ayurved-centre"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Ambegaon Budruk",
       "practitioners": [
         {
@@ -50079,6 +51190,56 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "aiims-rishikesh-department-of-ayush-and-integrative-medicine"
+    },
+    {
+      "practiceName": "Kritika Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Satish Kumar Panda",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sanjai Srivastav",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Raghvendra Yadav",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ashutosh Sharma",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Khaikhera, Pilibhit Road",
+        "locality": "Rithora",
+        "city": "Rithora",
+        "pin": "243122",
+        "state": "Uttar Pradesh"
+      },
+      "phone": [
+        "+91 94576 97581",
+        "+91 90275 10784"
+      ],
+      "website": "https://kritikaayurvediccollege.in/",
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://kritikaayurvediccollege.in/contact-us.aspx",
+        "practitioners": "https://kritikaayurvediccollege.in/detail-0f-principal.aspx",
+        "address": "https://kritikaayurvediccollege.in/contact-us.aspx",
+        "phone": "https://kritikaayurvediccollege.in/contact-us.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "kritika-ayurvedic-medical-college-and-hospital"
     },
     {
       "practiceName": "Saigram Ayurveda Hospital and Research Institute",
