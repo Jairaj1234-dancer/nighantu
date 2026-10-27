@@ -21040,6 +21040,296 @@
       "id": "sreedhareeyam-ayurvedic-eye-clinic-and-panchakarma-centre"
     },
     {
+      "practiceName": "Central Ayurveda Research Institute (CCRAS), Guwahati",
+      "practitioners": [
+        {
+          "name": "Dr P L Bharati",
+          "qualification": "Research Officer (Ayurveda), In-charge",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Barsojai, Beltola",
+        "locality": "Beltola",
+        "city": "Guwahati",
+        "pin": "781028",
+        "state": "Assam"
+      },
+      "phone": [
+        "+91 361 230 3714"
+      ],
+      "website": "https://ccras.nic.in/cari-guwahati/",
+      "email": "neiari-guwahati@gov.in",
+      "hours": null,
+      "services": [
+        "General OPD",
+        "Geriatric OPD",
+        "IPD",
+        "Panchakarma (OPD day care)",
+        "Pathology and biochemistry laboratory"
+      ],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/cari-guwahati/",
+        "practitioners": "https://ccras.nic.in/wp-content/uploads/2026/06/22062026-Cari-Guwahati.pdf",
+        "address": "https://ccras.nic.in/wp-content/uploads/2024/06/Suo-Moto-Disclosure_RTI-CARI-Guwahati.pdf",
+        "phone": "https://ccras.nic.in/wp-content/uploads/2024/06/Suo-Moto-Disclosure_RTI-CARI-Guwahati.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "central-ayurveda-research-institute-ccras-guwahati"
+    },
+    {
+      "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Guwahati (Hengrabari, Milan Nagar)",
+      "practitioners": [
+        {
+          "name": "Dr Arpan Saha",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No 316, Anupama Mention, 1st Floor, No 1 Hengrabari, Milan Nagar, near Nabajyoti Club",
+        "locality": "Hengrabari",
+        "city": "Guwahati",
+        "pin": "781036",
+        "state": "Assam"
+      },
+      "phone": [
+        "+91 69013 70770",
+        "+91 98640 91900"
+      ],
+      "website": "https://www.jiva.com/clinic/assam/guwahati/milan-nagar",
+      "email": "clinics@jiva.com",
+      "hours": "10:00 AM to 7:00 PM; closed Thursday",
+      "services": [
+        "Expert counselling",
+        "OPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.jiva.com/clinic/assam/guwahati/milan-nagar",
+        "practitioners": "https://www.jiva.com/clinic/assam",
+        "address": "https://www.jiva.com/clinic/assam/guwahati/milan-nagar",
+        "phone": "https://www.jiva.com/clinic/assam"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jiva-ayurveda-clinic-and-panchakarma-centre-guwahati"
+    },
+    {
+      "practiceName": "Government Ayurvedic College and Hospital, Guwahati",
+      "practitioners": [
+        {
+          "name": "Dr Pranabjyoti Baishya",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": {
+            "number": "SCIM 0884 (Reg. No. as published)",
+            "source": "https://gachguwahati.in/administration/"
+          }
+        },
+        {
+          "name": "Dr Dipak Sarma",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shyamanta Kalita",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Manir Uddin Dewan",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Jyotirmoy Sarmah",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Yanbeni Humtsoe",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dipak Kumar Goswami",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Trishna Moni Das",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kaushalya Khakhlary",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pankaj Kumar Barman",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Roshan Sahu",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Binod Kalita",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Champak Medhi",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Namita Baishya",
+          "qualification": "BAMS, MS (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ruprekha Dutta",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Naba Kumar Hazarika",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Biswajit Das",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Khagen Basumatary",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Bimal Deka",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Hemen Kalita",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Anup Baishya",
+          "qualification": "BAMS, MD (Ayu), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Mrinal Baishya",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Swapnali Das",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ramez Uddin",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dhiren Deka",
+          "qualification": "BAMS, MD (Ayu), PhD, PGDY",
+          "registration": null
+        },
+        {
+          "name": "Dr Hari Prasad Sarma",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sundarbari, Jalukbari",
+        "locality": "Jalukbari",
+        "city": "Guwahati",
+        "pin": "781014",
+        "state": "Assam"
+      },
+      "phone": [
+        "+91 361 257 0455"
+      ],
+      "website": "https://gachguwahati.in/",
+      "email": "principalgacghy@gmail.com",
+      "hours": "OPD 8 am to 2 pm",
+      "services": [
+        "OPD and IPD",
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalakya Tantra (ENT and Ophthalmology)",
+        "Prasuti Tantra and Stree Roga",
+        "Shalya Tantra",
+        "Kaumarbhritya",
+        "Swasthavritta and Yoga",
+        "Marma Chikitsa"
+      ],
+      "sources": {
+        "practiceName": "https://gachguwahati.in/",
+        "practitioners": "https://gachguwahati.in/opd/",
+        "address": "https://gachguwahati.in/contact/",
+        "phone": "https://gachguwahati.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "government-ayurvedic-college-and-hospital-guwahati"
+    },
+    {
+      "practiceName": "Apollo Clinic Ulubari (Ayurveda department)",
+      "practitioners": [
+        {
+          "name": "Dr Amrita Pincha",
+          "qualification": "BAMS, MD (Ayurvedic Medicine)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kanchan Road, Opp. Bora Service, G.S. Road",
+        "locality": "Ulubari",
+        "city": "Guwahati",
+        "pin": "781007",
+        "state": "Assam"
+      },
+      "phone": [
+        "+91 90856 12000"
+      ],
+      "website": "https://apolloclinicguwahati.com/consultations/ayurveda/",
+      "email": "info@apolloclinicguwahati.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Herbal remedies",
+        "Ayurvedic diet and lifestyle counselling",
+        "Stress management and relaxation techniques"
+      ],
+      "sources": {
+        "practiceName": "https://apolloclinicguwahati.com/consultations/ayurveda/",
+        "practitioners": "https://apolloclinicguwahati.com/doctor/dr-amrita-pincha/",
+        "address": "https://apolloclinicguwahati.com/consultations/ayurveda/",
+        "phone": "https://apolloclinicguwahati.com/consultations/ayurveda/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "apollo-clinic-ulubari-ayurveda-department"
+    },
+    {
       "practiceName": "Patanjali Ayurved Hospital (attached to Patanjali Ayurved College, Patanjali Bhartiya Ayurvigyan Evam Anusandhan Sansthan)",
       "practitioners": [
         {
