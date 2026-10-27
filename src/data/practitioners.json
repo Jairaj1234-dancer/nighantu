@@ -3,6 +3,43 @@
   "updatedAt": "2026-10-27",
   "practices": [
     {
+      "practiceName": "Vedicride Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Swarada Asgaonkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Tejraj House, opposite Ambika Hardware",
+        "locality": "Agarwada",
+        "city": "Agarwada",
+        "pin": "403512",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 91450 41846"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 4 pm to 7 pm",
+      "services": [
+        "Ayurveda diet and lifestyle",
+        "Therapeutic Ayurveda diet planning"
+      ],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vedicride-clinic"
+    },
+    {
       "practiceName": "Aagyarth Ayurved and Panchkarma Hospital, Ambawadi",
       "practitioners": [
         {
@@ -1659,7 +1696,8 @@
         "line": "Bardez",
         "locality": "Assagao",
         "city": "Assagao",
-        "pin": "403507"
+        "pin": "403507",
+        "state": "Goa"
       },
       "phone": [
         "+91 80073 60677"
@@ -1685,6 +1723,74 @@
       "id": "swan-ayurveda"
     },
     {
+      "practiceName": "Om Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Sunil Naik",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Parwado",
+        "locality": "Assonora",
+        "city": "Assonora",
+        "pin": "403503",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98903 52583"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 8 am to 1:30 pm and 4 pm to 8 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "om-clinic"
+    },
+    {
+      "practiceName": "Ayurarogya Ayurveda Centre",
+      "practitioners": [
+        {
+          "name": "Dr Sumesh S Kamat",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Navelkar Hill City, behind Poddar School, opposite Navelkar Godown",
+        "locality": "Baiguinim",
+        "city": "Baiguinim",
+        "pin": "403402",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94031 17922"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 10 am to 1 pm, 4 pm to 9 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurarogya-ayurveda-centre"
+    },
+    {
       "practiceName": "Ayurvedic OPD, Primary Health Centre Balli",
       "practitioners": [
         {
@@ -1697,7 +1803,8 @@
         "line": "Primary Health Centre",
         "locality": "Balli",
         "city": "Balli",
-        "pin": "403703"
+        "pin": "403703",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 267 0216",
@@ -1731,7 +1838,8 @@
         "line": "Crasto Mansion",
         "locality": "Benaulim",
         "city": "Benaulim",
-        "pin": "403716"
+        "pin": "403716",
+        "state": "Goa"
       },
       "phone": [
         "+91 85520 01707",
@@ -1759,6 +1867,74 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "ayur-sparsh-crasto-mansion"
+    },
+    {
+      "practiceName": "Dr. Natasha Fernandes, Benaulim",
+      "practitioners": [
+        {
+          "name": "Dr Natasha Fernandes",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 369, Vasvaddo",
+        "locality": "Benaulim",
+        "city": "Benaulim",
+        "pin": "403716",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 88307 49951"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-natasha-fernandes-benaulim"
+    },
+    {
+      "practiceName": "Mantra Ayurveda Clinic, Benaulim",
+      "practitioners": [
+        {
+          "name": "Dr Rajan Suresh Gaonkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 1, Golden Triangle, Adsulim",
+        "locality": "Benaulim",
+        "city": "Benaulim",
+        "pin": "403716",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98238 80578"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mantra-ayurveda-clinic-benaulim"
     },
     {
       "practiceName": "Kottakkal Arya Vaidya Sala dealer clinic (Gouri Sankara Ayurvedics), Bagalur Cross",
@@ -6866,6 +7042,516 @@
       "id": "tatkshana-ayurveda-hospital-yeshwanthpur"
     },
     {
+      "practiceName": "Dr. Natasha Fernandes, Betalbatim",
+      "practitioners": [
+        {
+          "name": "Dr Natasha Fernandes",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 10/A, Arvind Joe's Comfort, Gonsua",
+        "locality": "Betalbatim",
+        "city": "Betalbatim",
+        "pin": "403713",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 90118 76361"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-natasha-fernandes-betalbatim"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Bhati",
+      "practitioners": [
+        {
+          "name": "Dr Swamini Raikar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Village Panchayat",
+        "locality": "Bhati",
+        "city": "Bhati",
+        "pin": "403704",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 75079 65106"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-bhati"
+    },
+    {
+      "practiceName": "Dr Vijaykumar Malik Ayurveda Skin, Pain Management Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Vijaykumar Malik",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bandarwada",
+        "locality": "Bandarwada",
+        "city": "Bicholim",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98237 09244"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday, 10 to 2 and 5 to 6",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-vijaykumar-malik-ayurveda-skin-pain-management-clinic"
+    },
+    {
+      "practiceName": "CHC Bicholim, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Pushparaj Amonkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Community Health Centre Bicholim",
+        "locality": "Bicholim",
+        "city": "Bicholim",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99709 47222"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday, Saturday, 9:00 am to 12:30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chc-bicholim-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Ayurbramh Arogyalay",
+      "practitioners": [
+        {
+          "name": "Vaidya Pratibha Doshi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shri Shantadurga Sangodkarin Apartment, Main Road",
+        "locality": "Bordem",
+        "city": "Bicholim",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 77680 76226"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 10 am to 1 pm, 3:30 pm to 7 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurbramh-arogyalay"
+    },
+    {
+      "practiceName": "Deendayal Healthcare Hospital & Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Srushti Gawas",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near ITI, Valshi",
+        "locality": "Valshi",
+        "city": "Bicholim",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 93257 40221"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 9 am to 1 pm, 2:30 pm to 5:30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "deendayal-healthcare-hospital-and-research-centre"
+    },
+    {
+      "practiceName": "Dr. Sapana Prabhakar Naik Gaunkar (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Sapana Prabhakar Naik Gaunkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Radha Niwas, Bhagatwada",
+        "locality": "Canacona",
+        "city": "Canacona",
+        "pin": "403702",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 87885 10613"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-sapana-prabhakar-naik-gaunkar-ayurveda-clinic"
+    },
+    {
+      "practiceName": "5 Elements Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Suraj Mirashi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First floor, 285-F-1 (F101), Swastik Heights",
+        "locality": "Devadaug",
+        "city": "Canacona",
+        "pin": "403702",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99233 91896"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "5-elements-clinic"
+    },
+    {
+      "practiceName": "Mayur Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Mayur Bhandari",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 151/A-1, Shristhal-Gaondongrem",
+        "locality": "Shristhal",
+        "city": "Canacona",
+        "pin": "403702",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94041 76113"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mayur-clinic"
+    },
+    {
+      "practiceName": "PHC Candolim, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Savita Naik",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Primary Health Centre Candolim, Vaddy",
+        "locality": "Candolim",
+        "city": "Candolim",
+        "pin": "403515",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94208 18916"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday, Tuesday, Thursday, Friday, Saturday, 9 am to 1 pm and 2 pm to 4 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "phc-candolim-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Dr. Natasha Fernandes, Cansaulim",
+      "practitioners": [
+        {
+          "name": "Dr Natasha Fernandes",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "House No. 260/7, Arossim Bandar",
+        "locality": "Arossim",
+        "city": "Cansaulim",
+        "pin": "403712",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 88307 49951"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-natasha-fernandes-cansaulim"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Carmona",
+      "practitioners": [
+        {
+          "name": "Dr Siddhesh Rao",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Carmona Panchayat",
+        "locality": "Carmona",
+        "city": "Carmona",
+        "pin": "403717",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98506 45372"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-carmona"
+    },
+    {
+      "practiceName": "Dr. Rahul Pathak (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Rahul Pathak",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. B-S-37 and 38, H.No. 389",
+        "locality": "Cavelossim",
+        "city": "Cavelossim",
+        "pin": "403731",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 77758 46305"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-rahul-pathak-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Ayushakil Ayurved",
+      "practitioners": [
+        {
+          "name": "Dr Shane Apollo Fernandes",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "The Byke Old Market Resort, Cavelossim Beach",
+        "locality": "Mobor",
+        "city": "Cavelossim",
+        "pin": "403731",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 85919 35856"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushakil-ayurved"
+    },
+    {
+      "practiceName": "Mantra Ayurveda Clinic, Cavelossim",
+      "practitioners": [
+        {
+          "name": "Dr Rajan Suresh Gaonkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 6, Lvisa By the Sea, Mobor",
+        "locality": "Mobor",
+        "city": "Cavelossim",
+        "pin": "403731",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98238 80578"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mantra-ayurveda-clinic-cavelossim"
+    },
+    {
       "practiceName": "K.P. Pathrose Vaidyan's Kandamkulathy Ayursoukhyam Ayurveda Hospital, Athirappilly",
       "practitioners": [
         {
@@ -7118,6 +7804,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "softouch-ayurveda-village-hospital-and-retreat"
+    },
+    {
+      "practiceName": "Chandor Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Keshava Kamath",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Church Complex",
+        "locality": "Chandor",
+        "city": "Chandor",
+        "pin": "403714",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98229 83283"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chandor-clinic"
     },
     {
       "practiceName": "Sanjeevani Ayurveda and Yoga Centre, Adyar",
@@ -8627,7 +9347,8 @@
         "line": "Sub-District Hospital, near Chicalim Circle",
         "locality": "Chicalim",
         "city": "Chicalim",
-        "pin": "403711"
+        "pin": "403711",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 254 1698"
@@ -8660,7 +9381,8 @@
         "line": "Primary Health Centre, near Chinchinim Church",
         "locality": "Chinchinim",
         "city": "Chinchinim",
-        "pin": "403715"
+        "pin": "403715",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 286 3237"
@@ -8681,6 +9403,108 @@
       "id": "ayurvedic-opd-primary-health-centre-chinchinim"
     },
     {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Sarzora",
+      "practitioners": [
+        {
+          "name": "Dr Reena Kamat",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Village Panchayat Building",
+        "locality": "Sarzora",
+        "city": "Chinchinim",
+        "pin": "403715",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98234 37374"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-sarzora"
+    },
+    {
+      "practiceName": "Ayurveda Speciality Clinic and Herbal Shopee, Colva",
+      "practitioners": [
+        {
+          "name": "Dr Narayan S. Vete",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 476/5, 4th Ward, opposite Soul Vacation Resort",
+        "locality": "Colva",
+        "city": "Colva",
+        "pin": "403708",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 44427"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurveda-speciality-clinic-and-herbal-shopee-colva"
+    },
+    {
+      "practiceName": "Bethesda Ayurveda Accupuncture Yoga Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Deepali Morajkar Mathew",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-3, Kelgan Empire, Luta Ferrao Road",
+        "locality": "Colva",
+        "city": "Colva",
+        "pin": "403708",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96236 91243"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bethesda-ayurveda-accupuncture-yoga-clinic"
+    },
+    {
       "practiceName": "KARE Ayurveda at Soul Vacation",
       "practitioners": [
         {
@@ -8693,7 +9517,8 @@
         "line": "Soul Vacation, 4th Ward",
         "locality": "Colva",
         "city": "Colva",
-        "pin": "403708"
+        "pin": "403708",
+        "state": "Goa"
       },
       "phone": [
         "+91 99210 25818"
@@ -8720,6 +9545,176 @@
       "id": "kare-ayurveda-at-soul-vacation"
     },
     {
+      "practiceName": "Om Clinic, Colva",
+      "practitioners": [
+        {
+          "name": "Dr Vaibhav B. Shirvaikar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 2, Amrut Apartments",
+        "locality": "Colva",
+        "city": "Colva",
+        "pin": "403708",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 96879"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "om-clinic-colva"
+    },
+    {
+      "practiceName": "Ramaa Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Vilaxana Joshi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 98/1, Grande Vanelim",
+        "locality": "Colva",
+        "city": "Colva",
+        "pin": "403708",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 84331 28050"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ramaa-ayurveda"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Veroda",
+      "practitioners": [
+        {
+          "name": "Dr Shraddha Suresh Dhumaskar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kegdicotto",
+        "locality": "Veroda",
+        "city": "Cuncolim",
+        "pin": "403703",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 86989 06095"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-veroda"
+    },
+    {
+      "practiceName": "Bondre's Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Mithun Bondre",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "OF-09 and 11, 1st floor, Building A, Venkatesh Chambers, near Shivaji Chowk",
+        "locality": "Curchorem",
+        "city": "Curchorem",
+        "pin": "403706",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98231 70774"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bondre-s-ayurveda"
+    },
+    {
+      "practiceName": "Doctor's Hub",
+      "practitioners": [
+        {
+          "name": "Dr Sudiksha Sawant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opposite Pontemol ground",
+        "locality": "Curchorem",
+        "city": "Curchorem",
+        "pin": "403706",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 77580 29741"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "doctor-s-hub"
+    },
+    {
       "practiceName": "Ayurvedic OPD, Primary Health Centre Curtorim",
       "practitioners": [
         {
@@ -8732,7 +9727,8 @@
         "line": "Primary Health Centre, Ungrim",
         "locality": "Curtorim",
         "city": "Curtorim",
-        "pin": "403709"
+        "pin": "403709",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 278 6206",
@@ -8752,6 +9748,74 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "ayurvedic-opd-primary-health-centre-curtorim"
+    },
+    {
+      "practiceName": "Ayurnidhi Ayurveda and Yoga Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Shrinidh Nair",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "49/b-2, Alto Dabolim",
+        "locality": "Alto Dabolim",
+        "city": "Dabolim",
+        "pin": "403801",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 82750 66143"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurnidhi-ayurveda-and-yoga-clinic"
+    },
+    {
+      "practiceName": "Shubham Medical Centre, Dabolim",
+      "practitioners": [
+        {
+          "name": "Dr Mehul Shukla",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 11, 12, 13, Antrix Marior Apartments",
+        "locality": "Dabolim",
+        "city": "Dabolim",
+        "pin": "403801",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94059 22552"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shubham-medical-centre-dabolim"
     },
     {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
@@ -12125,7 +13189,8 @@
         "line": "All India Institute of Ayurveda, Dhargal, Pernem",
         "locality": "Dhargal",
         "city": "Dhargal",
-        "pin": "403513"
+        "pin": "403513",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 291 8205"
@@ -12148,6 +13213,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "all-india-institute-of-ayurveda-dhargal-goa-campus-hospital"
+    },
+    {
+      "practiceName": "Aarogya Niketan",
+      "practitioners": [
+        {
+          "name": "Dr Sameer M. Joshi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G6, Bhagvati Residency, Dhavli-Farmagudi Bypass",
+        "locality": "Dhavali",
+        "city": "Dhavali",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99231 11910"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aarogya-niketan"
     },
     {
       "practiceName": "AyuSphere Ayurveda Clinic, Palava City",
@@ -12906,6 +14005,40 @@
       "id": "jivagram-centre-for-wellbeing-jiva-ayurveda-hospital-sector"
     },
     {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Fatorpa",
+      "practitioners": [
+        {
+          "name": "Dr Chaitali L. Shirodkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Shantadurga Fatarpekarin temple",
+        "locality": "Fatorpa",
+        "city": "Fatorpa",
+        "pin": "403703",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96237 49185"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-fatorpa"
+    },
+    {
       "practiceName": "State Model Ayurved College attached Hospital, SMIAS Campus (State Model Institute of Ayurveda Sciences, Government of Gujarat)",
       "practitioners": [
         {
@@ -13204,6 +14337,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "harjivan-hospital-panchkarma-and-ksharsutra-centre"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Gaune",
+      "practitioners": [
+        {
+          "name": "Dr Shukla Kamat",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vithoba Sports Club, Rajinwada",
+        "locality": "Gaune",
+        "city": "Gaune",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 83800 74702"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-gaune"
     },
     {
       "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Indirapuram",
@@ -18031,6 +19198,40 @@
       "id": "tattvaveda-ayurvedic-clinic"
     },
     {
+      "practiceName": "AAM Karapur, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Ashka Padelkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir, opposite GPS Bholwada",
+        "locality": "Karapur",
+        "city": "Karapur",
+        "pin": "403505",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 91586 86843"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 9 am to 1 pm and 2 pm to 4.30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aam-karapur-ayurvedic-opd"
+    },
+    {
       "practiceName": "Prakruthi.Life Ayurveda Wellness Centre (Dr Hari's)",
       "practitioners": [
         {
@@ -20014,6 +21215,108 @@
       "id": "vedanjana-yoga-and-ayurveda-retreat"
     },
     {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Loliem",
+      "practitioners": [
+        {
+          "name": "Dr Darshana Korgaokar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir Loliem",
+        "locality": "Loliem",
+        "city": "Loliem",
+        "pin": "403728",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 86982 51030"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-loliem"
+    },
+    {
+      "practiceName": "Ayurveda Speciality Clinic and Herbal Shopee, Majorda",
+      "practitioners": [
+        {
+          "name": "Dr Narayan S. Vete",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 7, Sapana Exotica, 263/6, G. Kirbhat, opposite Petagon",
+        "locality": "Majorda",
+        "city": "Majorda",
+        "pin": "403713",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 44427"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurveda-speciality-clinic-and-herbal-shopee-majorda"
+    },
+    {
+      "practiceName": "Om Clinic, Majorda",
+      "practitioners": [
+        {
+          "name": "Dr Dipali Vibhav Shirwaikar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 1 and 2, Sapna Exotic",
+        "locality": "Majorda",
+        "city": "Majorda",
+        "pin": "403713",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 40464"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "om-clinic-majorda"
+    },
+    {
       "practiceName": "Goa Ayur Care Ayurveda and Naturopathy Centre",
       "practitioners": [
         {
@@ -20026,7 +21329,8 @@
         "line": "Junos Vaddo",
         "locality": "Mandrem",
         "city": "Mandrem",
-        "pin": "403519"
+        "pin": "403519",
+        "state": "Goa"
       },
       "phone": [
         "+91 99239 45433",
@@ -20194,6 +21498,40 @@
       "id": "dev-bhoomi-medical-college-of-ayurveda-and-hospital"
     },
     {
+      "practiceName": "Ayurvedic Clinic of Dr Dhanashree Abhiram Panshikar",
+      "practitioners": [
+        {
+          "name": "Dr Dhanashree Abhiram Panshikar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office 2, first floor, behind Maruti Mandir, opposite Kalika Bank",
+        "locality": "Mapusa",
+        "city": "Mapusa",
+        "pin": "403507",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94212 49499"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 10 am to 1:30 pm (evening on prior appointment)",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-clinic-of-dr-dhanashree-abhiram-panshikar"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Mapusa",
       "practitioners": [
         {
@@ -20206,7 +21544,8 @@
         "line": "Sai Chaaya, Keni Wada, next to Natekar Dress Wala, behind Satyaheera Building",
         "locality": "Mapusa",
         "city": "Mapusa",
-        "pin": "403507"
+        "pin": "403507",
+        "state": "Goa"
       },
       "phone": [
         "+91 74004 57971"
@@ -20227,6 +21566,221 @@
       "id": "madhavbaug-ayurvedic-clinic-mapusa"
     },
     {
+      "practiceName": "Navjeevan Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Prasad Parab",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Citiscape Commercial Centre, above Yes Bank, next to IIFL Gold Loan Office, near Old Mapusa Municipality",
+        "locality": "Mapusa",
+        "city": "Mapusa",
+        "pin": "403507",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99239 09878"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday, 4:30 pm to 8:00 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "navjeevan-ayurveda"
+    },
+    {
+      "practiceName": "Aatrey Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Sampada Korde",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 432, Banastari",
+        "locality": "Marcela",
+        "city": "Marcela",
+        "pin": "403107",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 70203 98382"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aatrey-ayurveda"
+    },
+    {
+      "practiceName": "Anamay Ayurvedic Centre",
+      "practitioners": [
+        {
+          "name": "Dr Madhura Desai",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Nishehal Desai",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 453, Deulwada",
+        "locality": "Marcela",
+        "city": "Marcela",
+        "pin": "403107",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98235 94779",
+        "+91 98237 55331"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "anamay-ayurvedic-centre"
+    },
+    {
+      "practiceName": "Dr. Vedangi D. Morajkar (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Vedangi D. Morajkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "S-16, Omkar Building, opposite Kadamba bus stand",
+        "locality": "Marcela",
+        "city": "Marcela",
+        "pin": "403107",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 97649 36414"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-vedangi-d-morajkar-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Ayushree, An Ayurvedic Health Destination",
+      "practitioners": [
+        {
+          "name": "Dr Sujata Gopalkrishna",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr T. Naveen Kumar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-04, 1st floor, opposite Canara Bank, Babu Naik Road",
+        "locality": "Aquem",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98901 89090"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushree-an-ayurvedic-health-destination"
+    },
+    {
+      "practiceName": "Dhanwantari Ayurvedic Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Sapana R. Sawal",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-10, Karishma Apartments, near Cine Vishant",
+        "locality": "Aquem",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98506 59019"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanwantari-ayurvedic-clinic"
+    },
+    {
       "practiceName": "Oorja Wellness Centre, Margao",
       "practitioners": [
         {
@@ -20244,7 +21798,8 @@
         "line": "63 Abade Faria Road, near Civil and Criminal Court, Comba",
         "locality": "Comba",
         "city": "Margao",
-        "pin": "403601"
+        "pin": "403601",
+        "state": "Goa"
       },
       "phone": [
         "+91 90112 75650"
@@ -20272,6 +21827,318 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "oorja-wellness-centre-margao"
+    },
+    {
+      "practiceName": "Arogyam Ayurveda and Yoga Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Joy Pereira",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 01, Vishwesh Apartments, Murida",
+        "locality": "Fatorda",
+        "city": "Margao",
+        "pin": "403602",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 86009 89159"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "arogyam-ayurveda-and-yoga-clinic"
+    },
+    {
+      "practiceName": "Kamakshi Ayra Wellness Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Prashant R. Sangekar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Reshma Sangekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "S-7, Viegas Apartments, Mutt Road, near Chowgule College",
+        "locality": "Fatorda",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98504 74234",
+        "+91 96042 01137"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kamakshi-ayra-wellness-clinic"
+    },
+    {
+      "practiceName": "Shree Mahalaxmi Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Sonal V. Sawant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-1, Building F, Kurtarkar Complex",
+        "locality": "Fatorda",
+        "city": "Margao",
+        "pin": "403602",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 77680 55225"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shree-mahalaxmi-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Ayurprabha Ayurveda Panchakarma Clinic and Pharmacy",
+      "practitioners": [
+        {
+          "name": "Dr Anamika Bhaskar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ground floor, Shop No. G-27, Phase II, Ferreira Garden, near Chowgule College",
+        "locality": "Gogol",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 91725 41304"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurprabha-ayurveda-panchakarma-clinic-and-pharmacy"
+    },
+    {
+      "practiceName": "Skandh Ayurvedic Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Shreya Amit Dhume",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 6, Golden Shower Apartments",
+        "locality": "Gogol",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98903 21575"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "skandh-ayurvedic-clinic"
+    },
+    {
+      "practiceName": "Aryoushadhi Margao",
+      "practitioners": [
+        {
+          "name": "Dr Pratima Shikerkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 102, 1st floor, Niana Gracias Plaza",
+        "locality": "Margao",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99237 65256"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aryoushadhi-margao"
+    },
+    {
+      "practiceName": "Ayura Ayurveda Pharmacy and Polyclinic, Margao",
+      "practitioners": [
+        {
+          "name": "Dr Sushant B. Raikar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ground floor, Bale Building, near Civil and Criminal Court",
+        "locality": "Margao",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96650 26045"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayura-ayurveda-pharmacy-and-polyclinic-margao"
+    },
+    {
+      "practiceName": "Dr. Anura P. Bale (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Anura P. Bale",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "A-207, SGPDA Building, OSIA Complex",
+        "locality": "Margao",
+        "city": "Margao",
+        "pin": "403601",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98225 89751"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-anura-p-bale-ayurveda-clinic"
+    },
+    {
+      "practiceName": "PHC Mayem, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Vaibhavi Barve",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Primary Health Centre Mayem, near Kelbai Temple",
+        "locality": "Mayem",
+        "city": "Mayem",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 89751 79559"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Friday, 9.00 am to 1 pm and 2.30 to 4.00 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "phc-mayem-ayurvedic-opd"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
@@ -20473,6 +22340,111 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-mira-road-east"
+    },
+    {
+      "practiceName": "Anvi Ayurved Treatment Centre",
+      "practitioners": [
+        {
+          "name": "Dr Renuka Yadav",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "House No 1073, Madhalawada",
+        "locality": "Morjim",
+        "city": "Morjim",
+        "pin": "403512",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98345 60358"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday, 10 am to 1 pm",
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "anvi-ayurved-treatment-centre"
+    },
+    {
+      "practiceName": "Navjivan Health and Wellness Centre",
+      "practitioners": [
+        {
+          "name": "Dr Dharmendra P. Prabhu Dessai",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ward III, near Prince Bakery, Headland Sada",
+        "locality": "Headland Sada",
+        "city": "Mormugao",
+        "pin": "403804",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96891 54332",
+        "+91 94224 39747"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "navjivan-health-and-wellness-centre"
+    },
+    {
+      "practiceName": "Dr. Archana's Clinic and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Archana Dukle",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 6, Haroon Greenfields Co-op. Society, Davarlim Road",
+        "locality": "Mugali",
+        "city": "Mugali",
+        "pin": "403709",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99706 57912"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-archana-s-clinic-and-panchakarma-centre"
     },
     {
       "practiceName": "Highlife Ayurvedic Multispecialty Hospital, Mukkam",
@@ -24656,6 +26628,40 @@
       "id": "madhavbaug-ayurvedic-clinic-worli"
     },
     {
+      "practiceName": "AAM Narve, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Sahana Kadam",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir, near Ravalnath Temple, Konatiwada",
+        "locality": "Narve",
+        "city": "Narve",
+        "pin": "403504",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 92843 28045"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday 9.00 am to 4.30 pm; Saturday 9:00 am to 1:00 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aam-narve-ayurvedic-opd"
+    },
+    {
       "practiceName": "The Nattika Beach Ayurveda Resort (Swastha Ayurveda Centre)",
       "practitioners": [
         {
@@ -24734,6 +26740,74 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "the-nattika-beach-ayurveda-resort-swastha-ayurveda-centre"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Aquem Baixo",
+      "practitioners": [
+        {
+          "name": "Dr Akalpita Dessai Samant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Aquem Baixo Panchayat, Shantinagar",
+        "locality": "Aquem Baixo",
+        "city": "Navelim",
+        "pin": "403707",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 84079 92391"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-aquem-baixo"
+    },
+    {
+      "practiceName": "Shivtattva Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Rounak Naik",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shantinagar, Rawandfond, near Shantadurga Temple",
+        "locality": "Rawandfond",
+        "city": "Navelim",
+        "pin": "403707",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 83081 06951"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shivtattva-ayurveda"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Airoli Sector 3",
@@ -26441,6 +28515,74 @@
       "id": "vedic-suttra-wellness-center"
     },
     {
+      "practiceName": "Dr Desai's Clinic, Panjim",
+      "practitioners": [
+        {
+          "name": "Dr Gaurav Jayant Desai",
+          "qualification": "M.D. Ayu",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3rd Floor, OmDutta Sadan, off Dr Atmaram Borkar Road",
+        "locality": "Panaji",
+        "city": "Panaji",
+        "pin": "403001",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 91456 32334"
+      ],
+      "website": "https://drdesaisclinic.com/",
+      "email": "drgauravdesai@gmail.com",
+      "hours": "Sunday, 10 am to 1 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://drdesaisclinic.com/our-team/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-desai-s-clinic-panjim"
+    },
+    {
+      "practiceName": "Shrey Ayur Wellness",
+      "practitioners": [
+        {
+          "name": "Dr Sakshi Dinesh Mandrekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 8, DRS Building, next to Sai Mandir, near Cafe Bhonsle",
+        "locality": "Panaji",
+        "city": "Panaji",
+        "pin": "403001",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 70301 48923"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday, 7:00 pm to 8:30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shrey-ayur-wellness"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Panjim",
       "practitioners": [
         {
@@ -26453,7 +28595,8 @@
         "line": "2nd floor, Zarina Towers Phase I, near Dr Lal Path lab, C block",
         "locality": "Santa Inez",
         "city": "Panaji",
-        "pin": "403002"
+        "pin": "403002",
+        "state": "Goa"
       },
       "phone": [
         "+91 93261 66966"
@@ -26472,6 +28615,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "madhavbaug-ayurvedic-clinic-panjim"
+    },
+    {
+      "practiceName": "Ved Ayurved Bhavan",
+      "practitioners": [
+        {
+          "name": "Dr Chinmay Kulkarni",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. S-16, Second floor, Building A, Silvio Heights",
+        "locality": "Santa Inez",
+        "city": "Panaji",
+        "pin": "403001",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 97664 99699"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 10 am to 6 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ved-ayurved-bhavan"
     },
     {
       "practiceName": "Dr. Pol's Vedamrut Ayurvedic Clinic and Panchakarma Center",
@@ -28060,6 +30237,244 @@
       "id": "vedang-ayurveda-and-panchkarma-clinic-wakad-thergaon"
     },
     {
+      "practiceName": "AAM Pissurlem, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Mrunal Shankar Chari",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir, Panchayatwada, Honda, Sattari",
+        "locality": "Pissurlem",
+        "city": "Pissurlem",
+        "pin": "403530",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 88067 66259"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "9 am to 4.30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aam-pissurlem-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Poinguinim",
+      "practitioners": [
+        {
+          "name": "Dr Shreya Prabhu",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Vibhav Pharmacy, Welwada",
+        "locality": "Poinguinim",
+        "city": "Poinguinim",
+        "pin": "403702",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 80105 71554"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-poinguinim"
+    },
+    {
+      "practiceName": "Ayur Clinic, Curti",
+      "practitioners": [
+        {
+          "name": "Dr Chandan Chowgule",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 18, Kayji Residency",
+        "locality": "Curti",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 78752 23345"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayur-clinic-curti"
+    },
+    {
+      "practiceName": "Dr. Amita Prabhu, Ponda",
+      "practitioners": [
+        {
+          "name": "Dr Amita Prabhu",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 3, Durgadatta Sadan, Haveli",
+        "locality": "Curti",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 95884 48307"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-amita-prabhu-ponda"
+    },
+    {
+      "practiceName": "Dr. Yogita Shekhar Patil (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Yogita Shekhar Patil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. B/6-21, Sapana Park, Bethora Road",
+        "locality": "Curti",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 92848 49417"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-yogita-shekhar-patil-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Shripadma Ayurvedic Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Yogesh Kavalekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 3, Golden Heritage",
+        "locality": "Dhavali",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94232 56764"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shripadma-ayurvedic-clinic"
+    },
+    {
+      "practiceName": "Dr. Deepali Anil Panse (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Deepali Anil Panse",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. LG54B, Royalnest",
+        "locality": "Kaziwada",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96737 73108"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-deepali-anil-panse-ayurveda-clinic"
+    },
+    {
       "practiceName": "Dixit Ayurveda",
       "practitioners": [
         {
@@ -28077,7 +30492,8 @@
         "line": "B-3, Kapila Society, opposite LIC Office",
         "locality": "Khadpabandh",
         "city": "Ponda",
-        "pin": "403401"
+        "pin": "403401",
+        "state": "Goa"
       },
       "phone": [
         "+91 97639 57101"
@@ -28120,7 +30536,8 @@
         "line": "Shop No. G1, Ganeshprasad Building",
         "locality": "Khadpabandh",
         "city": "Ponda",
-        "pin": "403401"
+        "pin": "403401",
+        "state": "Goa"
       },
       "phone": [
         "+91 91754 23111"
@@ -28145,6 +30562,74 @@
       "id": "yatharth-ayurveda-clinic"
     },
     {
+      "practiceName": "Dr. Dileep Senan, Ponda",
+      "practitioners": [
+        {
+          "name": "Dr Dileep Senan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 07, Shetye Plaza",
+        "locality": "Ponda",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 24344"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-dileep-senan-ponda"
+    },
+    {
+      "practiceName": "Shree Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Mahesh P. Patil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 219, 2nd floor, Heritage Princee",
+        "locality": "Ponda",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99236 38626"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shree-ayurveda"
+    },
+    {
       "practiceName": "Abhayam Ayurved",
       "practitioners": [
         {
@@ -28162,7 +30647,8 @@
         "line": "Behind State Bank of India, near Mount Carmel Chapel",
         "locality": "Sadar",
         "city": "Ponda",
-        "pin": "403401"
+        "pin": "403401",
+        "state": "Goa"
       },
       "phone": [
         "+91 75880 65507"
@@ -28192,6 +30678,108 @@
       "id": "abhayam-ayurved"
     },
     {
+      "practiceName": "Deerghayu Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Aditya A. Samant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-2, 1st floor, D.K. Arcade",
+        "locality": "Sadar",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98231 22959"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "deerghayu-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Dr. Geeta Patki's Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Geeta Patki",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F3, Anirudha Plaza",
+        "locality": "Shanti Nagar",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98812 17891"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-geeta-patki-s-clinic"
+    },
+    {
+      "practiceName": "Shree Varad Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Somnath Hebli",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "3A, LG1, Kurtarkar Nagari",
+        "locality": "Shanti Nagar",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98226 79536"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shree-varad-ayurveda-clinic"
+    },
+    {
       "practiceName": "Ayurvedic OPD, Sub-District Hospital Ponda",
       "practitioners": [
         {
@@ -28204,7 +30792,8 @@
         "line": "Sub-District Hospital, St. Cruz",
         "locality": "Tisk",
         "city": "Ponda",
-        "pin": "403401"
+        "pin": "403401",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 231 2116",
@@ -28224,6 +30813,142 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "ayurvedic-opd-sub-district-hospital-ponda"
+    },
+    {
+      "practiceName": "Dr. Neelesh Korde (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Neelesh Korde",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "19, Ponda Commerce Centre, 2nd floor",
+        "locality": "Tisk",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 75076 56784"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-neelesh-korde-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Sachira Wellness Centre",
+      "practitioners": [
+        {
+          "name": "Vd Shubhra Manish Sinai Borkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 104, 1st floor, Ganaraj Arcade, opposite HDFC Upper Bazar branch",
+        "locality": "Upper Bazar",
+        "city": "Ponda",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 86001 46613"
+      ],
+      "website": null,
+      "email": "shubkamat@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sachira-wellness-centre"
+    },
+    {
+      "practiceName": "Ayurkriti",
+      "practitioners": [
+        {
+          "name": "Dr Aaditi Sachin Verlekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 405/31, opposite Supreme By The Woods",
+        "locality": "Porvorim",
+        "city": "Porvorim",
+        "pin": "403521",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 86982 66593"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Sunday, 9:00 AM to 1:00 PM, 2:00 PM to 6:00 PM",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurkriti"
+    },
+    {
+      "practiceName": "Yogeshwari Ayurved",
+      "practitioners": [
+        {
+          "name": "Dr Priyanka Barve",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "AgF1, Prabhu Residency, opposite Socorro Panchayat",
+        "locality": "Socorro",
+        "city": "Porvorim",
+        "pin": "403521",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98233 96039"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 10 am to 1 pm, 4:30 pm to 7:30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "yogeshwari-ayurved"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Ambegaon Budruk",
@@ -31714,6 +34439,74 @@
       "id": "vedshruti-ayurveda-and-panchakarma-center"
     },
     {
+      "practiceName": "Aura Ayurved Clinic and Panchkarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Rakshit Jangali",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Cindios Apartment, Bindimol",
+        "locality": "Quepem",
+        "city": "Quepem",
+        "pin": "403705",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99212 08704"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aura-ayurved-clinic-and-panchkarma-center"
+    },
+    {
+      "practiceName": "Dr. Supriya Sameer Patil (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Supriya Sameer Patil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "606/5, near Gas Godown, Chichanagar, Taki",
+        "locality": "Quepem",
+        "city": "Quepem",
+        "pin": "403705",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 95454 77680"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-supriya-sameer-patil-ayurveda-clinic"
+    },
+    {
       "practiceName": "Arogyasudha Hospital and Wellness Centre",
       "practitioners": [
         {
@@ -32083,6 +34876,314 @@
       "id": "om-setu-yogashala-ayurveda-retreat"
     },
     {
+      "practiceName": "Dr. Sapana Sakhalkar (Ayurveda clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Sapana Sakhalkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gurukrupa, H.No. 176, Plot No. 44",
+        "locality": "Sancoale",
+        "city": "Sancoale",
+        "pin": "403726",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 77740 09306"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-sapana-sakhalkar-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Maruti Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Krishnaji Pawar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 616",
+        "locality": "Sancoale",
+        "city": "Sancoale",
+        "pin": "403726",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 97655 08700"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "maruti-clinic"
+    },
+    {
+      "practiceName": "Aarya Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Virendra Singh",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Zuarinagar, near old petrol pump",
+        "locality": "Zuarinagar",
+        "city": "Sancoale",
+        "pin": "403726",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 82089 79274"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aarya-clinic"
+    },
+    {
+      "practiceName": "Chhaya Ayur Clinic and Panchkarma",
+      "practitioners": [
+        {
+          "name": "Dr Rekha Patil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Mother Teressa Colony, H.No. 178B/1, near MES College",
+        "locality": "Zuarinagar",
+        "city": "Sancoale",
+        "pin": "403726",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 78228 47969"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chhaya-ayur-clinic-and-panchkarma"
+    },
+    {
+      "practiceName": "Dr. Yogita D. Govenker, Sancoale",
+      "practitioners": [
+        {
+          "name": "Dr Yogita D. Govenker",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Market, Zuarinagar",
+        "locality": "Zuarinagar",
+        "city": "Sancoale",
+        "pin": "403726",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98231 98054"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-yogita-d-govenker-sancoale"
+    },
+    {
+      "practiceName": "Sukhayu Ayurvedic Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Jyoti Sandip Sawant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First Floor, Emanual Building",
+        "locality": "Gokulwadi",
+        "city": "Sankhali",
+        "pin": "403505",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 79720 18235"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday, Wednesday, Friday, 4 pm to 7 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sukhayu-ayurvedic-clinic"
+    },
+    {
+      "practiceName": "CHC Sankhali, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Vaibhavi Barve",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Community Health Centre, Sankhali-Valpoi Main Road",
+        "locality": "Sankhali",
+        "city": "Sankhali",
+        "pin": "403505",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 89751 79559"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Thursday and Saturday, 9 am to 1 pm and 2:30 to 4:00 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chc-sankhali-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Dr Shambhavi's Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Shambhavi Gadgil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Jawahar Arcade Phase II",
+        "locality": "Tara Nagar",
+        "city": "Sankhali",
+        "pin": "403505",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 75070 80839"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 5 pm to 8 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-shambhavi-s-ayurveda"
+    },
+    {
+      "practiceName": "Dr Avinash Kande Ayurveda Clinic and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Avinash Kande",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No. 5, Popular Apartment",
+        "locality": "Santa Cruz",
+        "city": "Santa Cruz",
+        "pin": "403005",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99233 79745"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 5:30 pm to 10:00 pm",
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-avinash-kande-ayurveda-clinic-and-panchakarma-centre"
+    },
+    {
       "practiceName": "Travancore Ayurveda, East Marredpally",
       "practitioners": [
         {
@@ -32348,6 +35449,74 @@
       "id": "beehive-ayurved-medical-college-and-hospital"
     },
     {
+      "practiceName": "Prudential Landmarks Clinic and Health Services",
+      "practitioners": [
+        {
+          "name": "Dr Birambole Minal G.",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 106/1, Ambexir",
+        "locality": "Sernabatim",
+        "city": "Sernabatim",
+        "pin": "403708",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 92259 01386"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "prudential-landmarks-clinic-and-health-services"
+    },
+    {
+      "practiceName": "Dr. Guruprasad Anant Bakhale (Ayurveda day care)",
+      "practitioners": [
+        {
+          "name": "Dr Guruprasad Anant Bakhale",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ferry Road, Pele Wada",
+        "locality": "Shiroda",
+        "city": "Shiroda",
+        "pin": "403103",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 80076 51962"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-guruprasad-anant-bakhale-ayurveda-day-care"
+    },
+    {
       "practiceName": "Gomantak Ayurveda Mahavidyalaya and Research Centre Hospital (Kamakshi Arogya Dham)",
       "practitioners": [
         {
@@ -32368,7 +35537,8 @@
         "line": "Gomantak Ayurved Mahavidyalaya and Research Centre, Vazem",
         "locality": "Shiroda",
         "city": "Shiroda",
-        "pin": "403103"
+        "pin": "403103",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 230 6550",
@@ -32399,6 +35569,74 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "gomantak-ayurveda-mahavidyalaya-and-research-centre-hospital"
+    },
+    {
+      "practiceName": "PHC Siolim, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Amina Govind Patre",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Siolim Marna Road, Igrez Waddo, behind St Anthony Church, Marna",
+        "locality": "Siolim",
+        "city": "Siolim",
+        "pin": "403517",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96896 16783"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday, Tuesday, Friday 9 am to 12 noon and 2 pm to 4 pm; Saturday 9 am to 12 noon",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "phc-siolim-ayurvedic-opd"
+    },
+    {
+      "practiceName": "AAM Talarn, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Divya Naik",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir, Kasartale",
+        "locality": "Talarn",
+        "city": "Talarn",
+        "pin": "403512",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 91300 56644"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 9 am to 4.30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aam-talarn-ayurvedic-opd"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Kalwa",
@@ -35579,6 +38817,40 @@
       "id": "vedapuri-ayurveda"
     },
     {
+      "practiceName": "Ayurveda Clinic, Usgao",
+      "practitioners": [
+        {
+          "name": "Dr Amita Prabhu",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "296/1, C/o Naresh Gad, Barazan",
+        "locality": "Usgao",
+        "city": "Usgao",
+        "pin": "403406",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 95884 48307"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurveda-clinic-usgao"
+    },
+    {
       "practiceName": "CHC Valpoi, Ayurvedic OPD",
       "practitioners": [
         {
@@ -35591,7 +38863,8 @@
         "line": "Community Health Centre Valpoi, Sattari",
         "locality": "Valpoi",
         "city": "Valpoi",
-        "pin": "403506"
+        "pin": "403506",
+        "state": "Goa"
       },
       "phone": [
         "+91 832 237 5234"
@@ -35612,6 +38885,40 @@
       "id": "chc-valpoi-ayurvedic-opd"
     },
     {
+      "practiceName": "Devaki Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Dayanand Devidas Prabhu",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Betkekar Wada, Nanus",
+        "locality": "Valpoi",
+        "city": "Valpoi",
+        "pin": "403506",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 87882 41021"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Friday, 9 AM to 2 PM, 4:30 PM to 9 PM",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "devaki-clinic"
+    },
+    {
       "practiceName": "Shraddha, An Authentic Ayurveda and Yoga",
       "practitioners": [
         {
@@ -35629,7 +38936,8 @@
         "line": "H.No. 643, Shops S-1 to S-4, Serenity, 1st Fatrade, opposite St. Roque Chapel",
         "locality": "Fatrade",
         "city": "Varca",
-        "pin": "403721"
+        "pin": "403721",
+        "state": "Goa"
       },
       "phone": [
         "+91 98221 44355",
@@ -35656,6 +38964,288 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "shraddha-an-authentic-ayurveda-and-yoga"
+    },
+    {
+      "practiceName": "Shubham Clinic, Baina",
+      "practitioners": [
+        {
+          "name": "Dr Mehul Shukla",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 4, Fatima Manzil, opposite Post Office",
+        "locality": "Baina",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 94059 22552"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shubham-clinic-baina"
+    },
+    {
+      "practiceName": "Advaya Holistics",
+      "practitioners": [
+        {
+          "name": "Dr Shubha Rohan Loliyekar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sonali Khandeparkar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Gautam Khandeparkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st floor, Laxminarayan Niwas, above Rajani cloth store",
+        "locality": "Vaddem",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 88841 27866"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "advaya-holistics"
+    },
+    {
+      "practiceName": "Ayura Ayurvedic Pharmacy and Clinic, Vasco",
+      "practitioners": [
+        {
+          "name": "Dr Nitin Manjrekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 14, Ground floor, Anand Trade Centre, near Mormugao Municipal building",
+        "locality": "Vasco",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 44959"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayura-ayurvedic-pharmacy-and-clinic-vasco"
+    },
+    {
+      "practiceName": "Dr. Ajay's Ayurveda Centre",
+      "practitioners": [
+        {
+          "name": "Dr Ajay Prakash Yadav",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 12, Gladstone Building, near Vasco Civil Court",
+        "locality": "Vasco",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 90499 29389"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-ajay-s-ayurveda-centre"
+    },
+    {
+      "practiceName": "Dr. Dileep Senan, Vasco (Veda Wellness)",
+      "practitioners": [
+        {
+          "name": "Dr Dileep Senan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F4, Shrikrishna Apartment",
+        "locality": "Vasco",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 98232 24344"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-dileep-senan-vasco-veda-wellness"
+    },
+    {
+      "practiceName": "Panacea Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Pansy P. Saldanha",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-8, Helena Apartments, opposite Axis Bank, Swatantra Path",
+        "locality": "Vasco",
+        "city": "Vasco da Gama",
+        "pin": "403802",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 96375 14400"
+      ],
+      "website": null,
+      "email": "ayurpanacea@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "panacea-clinic"
+    },
+    {
+      "practiceName": "AAM Velguem, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Pradnya Masurkar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayushman Arogya Mandir, opposite Village Panchayat Velguem, Sawaribhat",
+        "locality": "Velguem",
+        "city": "Velguem",
+        "pin": "403105",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 99232 47670"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 9 am to 4.30 pm",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aam-velguem-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Ayushman Arogya Mandir (AYUSH) Wadi Talauli",
+      "practitioners": [
+        {
+          "name": "Dr Adhishri Narvekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Gopal Ganpati temple, Kaswada",
+        "locality": "Wadi Talauli",
+        "city": "Wadi Talauli",
+        "pin": "403401",
+        "state": "Goa"
+      },
+      "phone": [
+        "+91 90495 98834"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/aam-ayush-ayurvedic-opd/",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-arogya-mandir-ayush-wadi-talauli"
     }
   ]
 }

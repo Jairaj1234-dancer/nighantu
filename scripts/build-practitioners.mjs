@@ -133,7 +133,7 @@ for (const f of files) {
     const rec = {
       practiceName: r.practiceName.trim(),
       practitioners: docs.map((d) => ({ name: d.name.trim(), qualification: d.qualification ?? null, registration: d.registration?.number ? d.registration : null })),
-      address: (() => { const city = CITY_NAME[a.city.trim()] ?? a.city.trim(); const loc = locality(a.locality, city, a.line.trim()); return { line: loc.line, locality: loc.locality, city, pin: String(a.pin).replace(/\s/g, '') }; })(),
+      address: (() => { const city = CITY_NAME[a.city.trim()] ?? a.city.trim(); const loc = locality(a.locality, city, a.line.trim()); return { line: loc.line, locality: loc.locality, city, pin: String(a.pin).replace(/\s/g, ''), ...(a.state ? { state: String(a.state).trim() } : {}) }; })(),
       phone: phones,
       website: r.website || null,
       email: r.email || null,
