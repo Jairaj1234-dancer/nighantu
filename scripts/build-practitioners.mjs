@@ -63,15 +63,30 @@ const slug = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerC
 /** STD codes that are two digits long (the metros); any other landline code is three digits unless listed in STD4. */
 const STD2 = new Set(['11', '20', '22', '33', '40', '44', '79', '80']);
 const STD4 = new Set(['4885']);
+/**
+ * Landline codes that begin with 6 to 9, the digits mobile numbers begin with. Ten digits alone cannot
+ * tell "80 2345 6789" (Bengaluru) from a mobile, so these are recognised only when the source writes the
+ * code as its own group or with a trunk 0, never inferred from the digits.
+ */
+const STD_6_9 = new Set(['79', '80', '612', '651', '661', '674', '712', '731', '755', '761', '820', '821', '824', '831', '832', '836', '863', '866', '891']);
 
-/** "+91 22 2345 6789", "0471-2223542", "98200 12345" all become +91 and 10 digits, or null. */
+const stdLength = (d) => (STD2.has(d.slice(0, 2)) ? 2 : STD4.has(d.slice(0, 4)) ? 4 : 3);
+const landline = (d, n) => (n === 4 ? `+91 ${d.slice(0, 4)} ${d.slice(4)}` : `+91 ${d.slice(0, n)} ${d.slice(n, n + 4 - (n === 3 ? 1 : 0))} ${d.slice(n + 4 - (n === 3 ? 1 : 0))}`);
+
+/** "+91 22 2345 6789", "0471-2223542", "0832 2918205", "98200 12345" all become +91 and 10 digits, or null. */
 function phone(raw) {
-  let d = String(raw).replace(/[^\d+]/g, '').replace(/^\+?91/, '').replace(/^0/, '');
+  const text = String(raw).trim().replace(/^\+?\s*91[\s-]+|^\+91(?=0)/, '');
+  let d = String(raw).replace(/[^\d+]/g, '').replace(/^\+?91/, '');
+  const trunk = d.startsWith('0');
+  d = d.replace(/^0/, '');
   if (!/^\d{10}$/.test(d)) return null;
-  if (/^[6-9]/.test(d)) return `+91 ${d.slice(0, 5)} ${d.slice(5)}`;
-  if (STD2.has(d.slice(0, 2))) return `+91 ${d.slice(0, 2)} ${d.slice(2, 6)} ${d.slice(6)}`;
-  if (STD4.has(d.slice(0, 4))) return `+91 ${d.slice(0, 4)} ${d.slice(4)}`;
-  return `+91 ${d.slice(0, 3)} ${d.slice(3, 6)} ${d.slice(6)}`;
+  const group = (text.replace(/^0/, '').match(/^\(?(\d{2,4})[)\s-]/) ?? [])[1];
+  if (/^[6-9]/.test(d)) {
+    if (trunk) return landline(d, stdLength(d));
+    if (group && STD_6_9.has(group) && d.startsWith(group)) return landline(d, group.length);
+    return `+91 ${d.slice(0, 5)} ${d.slice(5)}`;
+  }
+  return landline(d, stdLength(d));
 }
 
 const SKIP = new Set(['hold.json', 'refused.json']);

@@ -112,7 +112,7 @@
         "pin": "380001"
       },
       "phone": [
-        "+91 79255 07796"
+        "+91 79 2550 7796"
       ],
       "website": "https://gaac.co.in/",
       "email": "akhandanandprincipal@gmail.com",
@@ -420,8 +420,8 @@
         "pin": "380006"
       },
       "phone": [
-        "+91 79264 03487",
-        "+91 79221 40207"
+        "+91 79 2640 3487",
+        "+91 79 2214 0207"
       ],
       "website": "https://www.drpaneri.com/",
       "email": "drpaneri@drpaneri.com",
@@ -807,7 +807,7 @@
         "pin": "380052"
       },
       "phone": [
-        "+91 79274 12069",
+        "+91 79 2741 2069",
         "+91 98258 84803"
       ],
       "website": "https://www.prashantiayurvedic.com/",
@@ -858,7 +858,7 @@
         "pin": "380005"
       },
       "phone": [
-        "+91 79275 00055",
+        "+91 79 2750 0055",
         "+91 98258 84803"
       ],
       "website": "https://www.prashantiayurvedic.com/",
@@ -911,8 +911,8 @@
       },
       "phone": [
         "+91 97270 82623",
-        "+91 79400 82623",
-        "+91 79279 12623"
+        "+91 79 4008 2623",
+        "+91 79 2791 2623"
       ],
       "website": "https://www.drbhattsclinic.com/",
       "email": "drbhattsclinic.1@gmail.com",
@@ -1270,7 +1270,7 @@
         "pin": "382481"
       },
       "phone": [
-        "+91 79656 60000",
+        "+91 79 6566 0000",
         "+91 95122 00122"
       ],
       "website": "https://www.sgvpholistichospital.org/ayurvedic-hospital-ahmedabad/",
@@ -1647,6 +1647,120 @@
       "id": "olive-ayurveda-hospital-and-rehabilitation-centre"
     },
     {
+      "practiceName": "SWAN Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Siddhesh Bandekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bardez",
+        "locality": "Assagao",
+        "city": "Assagao",
+        "pin": "403507"
+      },
+      "phone": [
+        "+91 80073 60677"
+      ],
+      "website": "https://swanayurveda.com/",
+      "email": "info@swanayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurveda treatments",
+        "Ayurveda yoga retreats",
+        "Day consultations"
+      ],
+      "sources": {
+        "practiceName": "https://swanayurveda.com/contact.html",
+        "practitioners": "https://swanayurveda.com/about.html",
+        "address": "https://swanayurveda.com/contact.html",
+        "phone": "https://swanayurveda.com/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "swan-ayurveda"
+    },
+    {
+      "practiceName": "Ayurvedic OPD, Primary Health Centre Balli",
+      "practitioners": [
+        {
+          "name": "Dr Santosh Vernekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Primary Health Centre",
+        "locality": "Balli",
+        "city": "Balli",
+        "pin": "403703"
+      },
+      "phone": [
+        "+91 832 267 0216",
+        "+91 832 267 0965"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://nhm.goa.gov.in/wp-content/uploads/2020/07/PMNDP-List-of-centres.pdf",
+        "phone": "https://socialwelfare.goa.gov.in/wp-content/uploads/2025/05/Telephone-Numbers-of-Hospitals-and-Health-centres-under-Directorate-of-Health-Services.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-opd-primary-health-centre-balli"
+    },
+    {
+      "practiceName": "Ayur Sparsh, Crasto Mansion",
+      "practitioners": [
+        {
+          "name": "Dr Amita P. Samant",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Crasto Mansion",
+        "locality": "Benaulim",
+        "city": "Benaulim",
+        "pin": "403716"
+      },
+      "phone": [
+        "+91 85520 01707",
+        "+91 92846 62328"
+      ],
+      "website": "https://ayursparshgoa.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Abhyangam",
+        "Kati Basti",
+        "Nasyam",
+        "Netra Tarpana",
+        "Shirodhara",
+        "Udvarthanam",
+        "Panchakarma packages"
+      ],
+      "sources": {
+        "practiceName": "https://ayursparshgoa.com/",
+        "practitioners": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "address": "https://ayursparshgoa.com/",
+        "phone": "https://ayursparshgoa.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayur-sparsh-crasto-mansion"
+    },
+    {
       "practiceName": "Kottakkal Arya Vaidya Sala dealer clinic (Gouri Sankara Ayurvedics), Bagalur Cross",
       "practitioners": [
         {
@@ -1757,7 +1871,7 @@
         "pin": "560043"
       },
       "phone": [
-        "+91 80229 36518"
+        "+91 80 2293 6518"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -2074,7 +2188,7 @@
       },
       "phone": [
         "+91 96056 00032",
-        "+91 80503 10338"
+        "+91 80 5031 0338"
       ],
       "website": "https://clinics.sreedhareeyam.com/bengaluru",
       "email": null,
@@ -2305,7 +2419,7 @@
         "pin": "560100"
       },
       "phone": [
-        "+91 80480 37866"
+        "+91 80 4803 7866"
       ],
       "website": "https://www.ayurvedamane.com/",
       "email": "sdayurvedamane@gmail.com",
@@ -2402,7 +2516,7 @@
         "pin": "560043"
       },
       "phone": [
-        "+91 80485 31669",
+        "+91 80 4853 1669",
         "+91 90877 71192"
       ],
       "website": "https://www.rjrhospitalscurepatient.com/branches/karnataka/bangalore-kalyan-nagar/",
@@ -2781,7 +2895,7 @@
         "pin": "560102"
       },
       "phone": [
-        "+91 80624 51611",
+        "+91 80 6245 1611",
         "+91 96068 29771"
       ],
       "website": "https://keralaayurveda.com/pages/bengaluru-hsr-layout-clinic",
@@ -2877,7 +2991,7 @@
         "pin": "560102"
       },
       "phone": [
-        "+91 80495 16062",
+        "+91 80 4951 6062",
         "+91 76250 13625"
       ],
       "website": "https://www.piahc.com/",
@@ -2922,7 +3036,7 @@
         "pin": "560102"
       },
       "phone": [
-        "+91 80229 36521"
+        "+91 80 2293 6521"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -3073,7 +3187,7 @@
       },
       "phone": [
         "+91 88845 67838",
-        "+91 80256 36644"
+        "+91 80 2563 6644"
       ],
       "website": "https://www.vedicaayurveda.com/",
       "email": "vedicaayurveda@gmail.com",
@@ -3220,7 +3334,7 @@
         "pin": "560038"
       },
       "phone": [
-        "+91 80624 51608",
+        "+91 80 6245 1608",
         "+91 77605 02800"
       ],
       "website": "https://keralaayurveda.com/pages/bengaluru-indiranagar-clinic",
@@ -3331,8 +3445,8 @@
         "pin": "560011"
       },
       "phone": [
-        "+91 80266 59455",
-        "+91 80640 68799"
+        "+91 80 2665 9455",
+        "+91 80 6406 8799"
       ],
       "website": "https://keralaayurveda.com/pages/bengaluru-jayanagar-clinic",
       "email": null,
@@ -4337,7 +4451,7 @@
         "pin": "560034"
       },
       "phone": [
-        "+91 80624 51612",
+        "+91 80 6245 1612",
         "+91 83109 86599"
       ],
       "website": "https://keralaayurveda.com/pages/bengaluru-koramangala-clinic",
@@ -4431,7 +4545,7 @@
         "pin": "560095"
       },
       "phone": [
-        "+91 80229 36520"
+        "+91 80 2293 6520"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -4513,7 +4627,7 @@
         "pin": "560034"
       },
       "phone": [
-        "+91 80411 29663",
+        "+91 80 4112 9663",
         "+91 99006 51800"
       ],
       "website": "https://www.shreshthaayurveda.com/",
@@ -4565,7 +4679,7 @@
         "pin": "560034"
       },
       "phone": [
-        "+91 80456 83156",
+        "+91 80 4568 3156",
         "+91 76060 03580"
       ],
       "website": "https://vediherbals.com/pages/vedi-wellness-bengaluru",
@@ -4719,7 +4833,7 @@
         "pin": "560074"
       },
       "phone": [
-        "+91 80687 85080",
+        "+91 80 6878 5080",
         "+91 97418 97124"
       ],
       "website": "https://sdmayurbangalore.in/",
@@ -4938,7 +5052,7 @@
         "pin": "560003"
       },
       "phone": [
-        "+91 80421 93402"
+        "+91 80 4219 3402"
       ],
       "website": "https://holisticayushya.wordpress.com/",
       "email": null,
@@ -4985,7 +5099,7 @@
         "pin": "560003"
       },
       "phone": [
-        "+91 80229 36511"
+        "+91 80 2293 6511"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -5124,7 +5238,7 @@
         "pin": "560054"
       },
       "phone": [
-        "+91 80229 36512"
+        "+91 80 2293 6512"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -5180,8 +5294,8 @@
         "pin": "560054"
       },
       "phone": [
-        "+91 80405 03456",
-        "+91 80621 53456",
+        "+91 80 4050 3456",
+        "+91 80 6215 3456",
         "+91 63641 31347"
       ],
       "website": "https://ramaiahayurveda.com/",
@@ -5230,7 +5344,7 @@
         "pin": "560072"
       },
       "phone": [
-        "+91 80235 07441"
+        "+91 80 2350 7441"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -5323,7 +5437,7 @@
         "pin": "560054"
       },
       "phone": [
-        "+91 80229 36513"
+        "+91 80 2293 6513"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -5392,9 +5506,9 @@
         "pin": "560010"
       },
       "phone": [
-        "+91 80229 36500",
-        "+91 80229 36501",
-        "+91 80229 36502"
+        "+91 80 2293 6500",
+        "+91 80 2293 6501",
+        "+91 80 2293 6502"
       ],
       "website": "http://www.kajeayurveda.in/",
       "email": "info@kajeayurveda.in",
@@ -5440,8 +5554,8 @@
         "pin": "560010"
       },
       "phone": [
-        "+91 80427 81778",
-        "+91 80235 05777",
+        "+91 80 4278 1778",
+        "+91 80 2350 5777",
         "+91 93530 77772"
       ],
       "website": "https://dhanvantarihospital.com/",
@@ -5520,7 +5634,7 @@
         "pin": "560098"
       },
       "phone": [
-        "+91 80229 36528"
+        "+91 80 2293 6528"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -5614,7 +5728,7 @@
         "pin": "560016"
       },
       "phone": [
-        "+91 80485 42888",
+        "+91 80 4854 2888",
         "+91 94481 50492"
       ],
       "website": "https://www.ayuremedy.com/",
@@ -5662,7 +5776,7 @@
         "pin": "560032"
       },
       "phone": [
-        "+91 80233 36962"
+        "+91 80 2333 6962"
       ],
       "website": "https://www.drbrahma.com/",
       "email": null,
@@ -5838,7 +5952,7 @@
         "pin": "560092"
       },
       "phone": [
-        "+91 80229 36516"
+        "+91 80 2293 6516"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -5921,7 +6035,7 @@
         "pin": "560094"
       },
       "phone": [
-        "+91 80229 36517"
+        "+91 80 2293 6517"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -6019,7 +6133,7 @@
         "pin": "560097"
       },
       "phone": [
-        "+91 80437 80668",
+        "+91 80 4378 0668",
         "+91 98868 59809"
       ],
       "website": "https://pranavayur.com/",
@@ -6078,7 +6192,7 @@
         "pin": "560097"
       },
       "phone": [
-        "+91 80229 36514"
+        "+91 80 2293 6514"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -6114,7 +6228,7 @@
         "pin": "560040"
       },
       "phone": [
-        "+91 80229 36530"
+        "+91 80 2293 6530"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": "info@kajeayurveda.in",
@@ -6160,8 +6274,8 @@
         "pin": "560104"
       },
       "phone": [
-        "+91 80233 84666",
-        "+91 80234 07806",
+        "+91 80 2338 4666",
+        "+91 80 2340 7806",
         "+91 94498 31620"
       ],
       "website": "http://skamch.org/",
@@ -6216,7 +6330,7 @@
         "pin": "560040"
       },
       "phone": [
-        "+91 80231 53041",
+        "+91 80 2315 3041",
         "+91 73531 10066",
         "+91 99005 56416"
       ],
@@ -6525,7 +6639,7 @@
       },
       "phone": [
         "+91 72043 77000",
-        "+91 80285 67000"
+        "+91 80 2856 7000"
       ],
       "website": "https://iaimhealthcare.org/",
       "email": "info@iaimhealthcare.org",
@@ -6608,7 +6722,7 @@
         "pin": "560064"
       },
       "phone": [
-        "+91 80229 36515"
+        "+91 80 2293 6515"
       ],
       "website": "http://www.kajeayurveda.in/Branches.html",
       "email": null,
@@ -8499,6 +8613,145 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "avn-arogya-ayurvedic-centre-velachery"
+    },
+    {
+      "practiceName": "Ayurvedic OPD, Sub-District Hospital Chicalim",
+      "practitioners": [
+        {
+          "name": "Dr Pankaj Velip",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sub-District Hospital, near Chicalim Circle",
+        "locality": "Chicalim",
+        "city": "Chicalim",
+        "pin": "403711"
+      },
+      "phone": [
+        "+91 832 254 1698"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://socialwelfare.goa.gov.in/wp-content/uploads/2025/05/Telephone-Numbers-of-Hospitals-and-Health-centres-under-Directorate-of-Health-Services.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-opd-sub-district-hospital-chicalim"
+    },
+    {
+      "practiceName": "Ayurvedic OPD, Primary Health Centre Chinchinim",
+      "practitioners": [
+        {
+          "name": "Dr Santosh Vernekar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Primary Health Centre, near Chinchinim Church",
+        "locality": "Chinchinim",
+        "city": "Chinchinim",
+        "pin": "403715"
+      },
+      "phone": [
+        "+91 832 286 3237"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://socialwelfare.goa.gov.in/wp-content/uploads/2025/05/Telephone-Numbers-of-Hospitals-and-Health-centres-under-Directorate-of-Health-Services.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-opd-primary-health-centre-chinchinim"
+    },
+    {
+      "practiceName": "KARE Ayurveda at Soul Vacation",
+      "practitioners": [
+        {
+          "name": "Dr Niranjan Bhide",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Soul Vacation, 4th Ward",
+        "locality": "Colva",
+        "city": "Colva",
+        "pin": "403708"
+      },
+      "phone": [
+        "+91 99210 25818"
+      ],
+      "website": "https://soulvacation.in/kare/",
+      "email": "info@soulvacation.in",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Abhyanga",
+        "Shirodhara",
+        "Panchakarma",
+        "Kati Basti"
+      ],
+      "sources": {
+        "practiceName": "https://soulvacation.in/kare/",
+        "practitioners": "https://soulvacation.in/kare/",
+        "address": "https://soulvacation.in/kare/",
+        "phone": "https://soulvacation.in/kare/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kare-ayurveda-at-soul-vacation"
+    },
+    {
+      "practiceName": "Ayurvedic OPD, Primary Health Centre Curtorim",
+      "practitioners": [
+        {
+          "name": "Dr Shilpa Kaisukar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Primary Health Centre, Ungrim",
+        "locality": "Curtorim",
+        "city": "Curtorim",
+        "pin": "403709"
+      },
+      "phone": [
+        "+91 832 278 6206",
+        "+91 832 278 6910"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://socialwelfare.goa.gov.in/wp-content/uploads/2025/05/Telephone-Numbers-of-Hospitals-and-Health-centres-under-Directorate-of-Health-Services.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-opd-primary-health-centre-curtorim"
     },
     {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
@@ -11710,6 +11963,193 @@
       "id": "jiva-ayurveda-clinic-and-panchakarma-centre-vasant-kunj"
     },
     {
+      "practiceName": "All India Institute of Ayurveda, Dhargal (Goa campus hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Mohan Joshi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Akhilesh Shukla",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sarita Kapgate",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shivanand Patil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Thrijil Krishnan E M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Yogesh Shinde",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rajesh Uikey",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rashmi Pujar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Bhargav Vijay Bhide",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sanjay Khedekar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sayali Anil Kulkarni",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Yashashree Joshi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vikrant Patil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Nikita Naik",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Raghuveer Devendra Hadimani",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shilpa Govind Patil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shweta Sheshappa Mumbaraddi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vitthal Huddar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr C Ashwin Chandra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Bharat Krushna Khuntia",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Swapnil Shivaji Auti",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rashmi Bhise",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pallavi Suman",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pravin Bhat",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Neethu Kesavan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sujata Dhanajirao Kadam",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Swati Gaikwad",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rahul Dhanrajji Ghuse",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sumeet Goel",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mrudul Chitrakar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Prashant Uttam Sasane",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "All India Institute of Ayurveda, Dhargal, Pernem",
+        "locality": "Dhargal",
+        "city": "Dhargal",
+        "pin": "403513"
+      },
+      "phone": [
+        "+91 832 291 8205"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "9 AM to 4 PM",
+      "services": [
+        "Panchakarma",
+        "Specialty Ayurveda OPDs",
+        "Yoga and diet"
+      ],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://goaonline.gov.in/Downloads/HealthCamp.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "all-india-institute-of-ayurveda-dhargal-goa-campus-hospital"
+    },
+    {
       "practiceName": "AyuSphere Ayurveda Clinic, Palava City",
       "practitioners": [
         {
@@ -12531,7 +12971,7 @@
         "pin": "382028"
       },
       "phone": [
-        "+91 79239 75900",
+        "+91 79 2397 5900",
         "+91 94285 93294",
         "+91 76981 89375"
       ],
@@ -19574,6 +20014,44 @@
       "id": "vedanjana-yoga-and-ayurveda-retreat"
     },
     {
+      "practiceName": "Goa Ayur Care Ayurveda and Naturopathy Centre",
+      "practitioners": [
+        {
+          "name": "Dr Suvira Bandekar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Junos Vaddo",
+        "locality": "Mandrem",
+        "city": "Mandrem",
+        "pin": "403519"
+      },
+      "phone": [
+        "+91 99239 45433",
+        "+91 95117 98307"
+      ],
+      "website": "https://www.ayurcaregoa.in/",
+      "email": "info@ayurcaregoa.in",
+      "hours": null,
+      "services": [
+        "Ayurveda",
+        "Panchakarma",
+        "Naturopathy"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurcaregoa.in/contact/",
+        "practitioners": "https://www.ayurcaregoa.in/dr-suvira-bandekar/",
+        "address": "https://www.ayurcaregoa.in/contact/",
+        "phone": "https://www.ayurcaregoa.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "goa-ayur-care-ayurveda-and-naturopathy-centre"
+    },
+    {
       "practiceName": "Dev Bhoomi Medical College of Ayurveda & Hospital",
       "practitioners": [
         {
@@ -19716,6 +20194,86 @@
       "id": "dev-bhoomi-medical-college-of-ayurveda-and-hospital"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Mapusa",
+      "practitioners": [
+        {
+          "name": "Dr Kanvisha Datta Gimonkar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sai Chaaya, Keni Wada, next to Natekar Dress Wala, behind Satyaheera Building",
+        "locality": "Mapusa",
+        "city": "Mapusa",
+        "pin": "403507"
+      },
+      "phone": [
+        "+91 74004 57971"
+      ],
+      "website": "https://madhavbaug.org/clinic/mapusa-goa/",
+      "email": null,
+      "hours": "9:30 AM to 6:30 PM, Sunday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/mapusa-goa/",
+        "practitioners": "https://madhavbaug.org/clinic/mapusa-goa/",
+        "address": "https://madhavbaug.org/clinic/mapusa-goa/",
+        "phone": "https://madhavbaug.org/clinic/mapusa-goa/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-mapusa"
+    },
+    {
+      "practiceName": "Oorja Wellness Centre, Margao",
+      "practitioners": [
+        {
+          "name": "Dr Pranav Bhagwat",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sneha Bhagwat",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "63 Abade Faria Road, near Civil and Criminal Court, Comba",
+        "locality": "Comba",
+        "city": "Margao",
+        "pin": "403601"
+      },
+      "phone": [
+        "+91 90112 75650"
+      ],
+      "website": "https://oorjawellness.in/",
+      "email": "oorjawellness@gmail.com",
+      "hours": "OPD Monday to Saturday 9:00 AM to 8:00 PM",
+      "services": [
+        "Abhyangam",
+        "Shirodhara",
+        "Basti",
+        "Nasyam",
+        "Pizhichil",
+        "Agnikarma",
+        "Panchakarma",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://oorjawellness.in/contact-1/",
+        "practitioners": "https://oorjawellness.in/our-specialists/",
+        "address": "https://oorjawellness.in/contact-1/",
+        "phone": "https://oorjawellness.in/contact-1/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "oorja-wellness-centre-margao"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
       "practitioners": [
         {
@@ -19786,7 +20344,7 @@
         "pin": "401107"
       },
       "phone": [
-        "+91 79690 02222",
+        "+91 79 6900 2222",
         "+91 84001 46262"
       ],
       "website": "https://www.bhaktivedantahospital.com/specialities/alternative-medicine-and-therapy/ayurveda",
@@ -24583,7 +25141,7 @@
         "pin": "400710"
       },
       "phone": [
-        "+91 80427 55360",
+        "+91 80 4275 5360",
         "+91 82704 82704"
       ],
       "website": "https://hiims.in/hospital/navi-mumbai/",
@@ -25881,6 +26439,39 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "vedic-suttra-wellness-center"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Panjim",
+      "practitioners": [
+        {
+          "name": "Dr Suvarna Pol",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2nd floor, Zarina Towers Phase I, near Dr Lal Path lab, C block",
+        "locality": "Santa Inez",
+        "city": "Panaji",
+        "pin": "403002"
+      },
+      "phone": [
+        "+91 93261 66966"
+      ],
+      "website": "https://madhavbaug.org/clinic/panjim-goa/",
+      "email": null,
+      "hours": "9:00 AM to 7:00 PM, Sunday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/panjim-goa/",
+        "practitioners": "https://madhavbaug.org/clinic/panjim-goa/",
+        "address": "https://madhavbaug.org/clinic/panjim-goa/",
+        "phone": "https://madhavbaug.org/clinic/panjim-goa/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-panjim"
     },
     {
       "practiceName": "Dr. Pol's Vedamrut Ayurvedic Clinic and Panchakarma Center",
@@ -27467,6 +28058,172 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "vedang-ayurveda-and-panchkarma-clinic-wakad-thergaon"
+    },
+    {
+      "practiceName": "Dixit Ayurveda",
+      "practitioners": [
+        {
+          "name": "Vaidya Upendra Dixit",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vaidya Madhavilata Dixit",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "B-3, Kapila Society, opposite LIC Office",
+        "locality": "Khadpabandh",
+        "city": "Ponda",
+        "pin": "403401"
+      },
+      "phone": [
+        "+91 97639 57101"
+      ],
+      "website": "https://www.dixitayurveda.com/",
+      "email": "info@dixitayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasya",
+        "Shirodhara",
+        "Diet and lifestyle guidance",
+        "Garbha Sanskara"
+      ],
+      "sources": {
+        "practiceName": "https://www.dixitayurveda.com/",
+        "practitioners": "https://www.dixitayurveda.com/about/",
+        "address": "https://www.dixitayurveda.com/contact/",
+        "phone": "https://www.dixitayurveda.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dixit-ayurveda"
+    },
+    {
+      "practiceName": "Yatharth Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Pinak V. Prabhudessai",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. G1, Ganeshprasad Building",
+        "locality": "Khadpabandh",
+        "city": "Ponda",
+        "pin": "403401"
+      },
+      "phone": [
+        "+91 91754 23111"
+      ],
+      "website": "https://yatharthayurveda.in/",
+      "email": "drpinak@yatharthayurveda.in",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Diet and nutrition counselling",
+        "Yoga and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://yatharthayurveda.in/",
+        "practitioners": "https://yatharthayurveda.in/about-us/",
+        "address": "https://yatharthayurveda.in/contact-us/",
+        "phone": "https://yatharthayurveda.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "yatharth-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Abhayam Ayurved",
+      "practitioners": [
+        {
+          "name": "Dr Aditi Joshi Mahajan",
+          "qualification": "MD (Vyavahar Ayurved and Agad Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Parth S. Mahajan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Behind State Bank of India, near Mount Carmel Chapel",
+        "locality": "Sadar",
+        "city": "Ponda",
+        "pin": "403401"
+      },
+      "phone": [
+        "+91 75880 65507"
+      ],
+      "website": "https://www.abhayamayurved.com/",
+      "email": "abhayam.goa@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Vaman",
+        "Virechan",
+        "Basti",
+        "Nasya",
+        "Raktamokshan",
+        "Leech therapy",
+        "Body therapies"
+      ],
+      "sources": {
+        "practiceName": "https://www.abhayamayurved.com/contact",
+        "practitioners": "https://www.abhayamayurved.com/aboutus",
+        "address": "https://www.abhayamayurved.com/contact",
+        "phone": "https://www.abhayamayurved.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "abhayam-ayurved"
+    },
+    {
+      "practiceName": "Ayurvedic OPD, Sub-District Hospital Ponda",
+      "practitioners": [
+        {
+          "name": "Dr Shweta Tilve",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sub-District Hospital, St. Cruz",
+        "locality": "Tisk",
+        "city": "Ponda",
+        "pin": "403401"
+      },
+      "phone": [
+        "+91 832 231 2116",
+        "+91 832 231 2115"
+      ],
+      "website": null,
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "practitioners": "https://ayush.goa.gov.in/ayurvedic-opd/",
+        "address": "https://nhm.goa.gov.in/wp-content/uploads/2020/07/PMNDP-List-of-centres.pdf",
+        "phone": "https://socialwelfare.goa.gov.in/wp-content/uploads/2025/05/Telephone-Numbers-of-Hospitals-and-Health-centres-under-Directorate-of-Health-Services.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvedic-opd-sub-district-hospital-ponda"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Ambegaon Budruk",
@@ -31591,6 +32348,59 @@
       "id": "beehive-ayurved-medical-college-and-hospital"
     },
     {
+      "practiceName": "Gomantak Ayurveda Mahavidyalaya and Research Centre Hospital (Kamakshi Arogya Dham)",
+      "practitioners": [
+        {
+          "name": "Dr Neelesh P. Korde",
+          "qualification": "B.A.M.S., M.D. (Rachana Sharir), Ph.D.",
+          "registration": {
+            "number": "Goa Board of Indian System of Medicine and Homeopathy A-7722020",
+            "source": "https://gamrc.org/index.php/medical-superintendent/"
+          }
+        },
+        {
+          "name": "Dr Chinmayee Tamhankar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gomantak Ayurved Mahavidyalaya and Research Centre, Vazem",
+        "locality": "Shiroda",
+        "city": "Shiroda",
+        "pin": "403103"
+      },
+      "phone": [
+        "+91 832 230 6550",
+        "+91 832 295 7305",
+        "+91 832 295 6827"
+      ],
+      "website": "https://gamrc.org/",
+      "email": "ayurgoa@rediffmail.com",
+      "hours": "General OPD Mon to Sat 9:00 AM to 1:00 PM and 2:00 PM to 5:00 PM; Panchakarma Mon to Fri 9:00 AM to 12:00 PM",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya",
+        "Strirog and Prasuti",
+        "Kaumarbhritya",
+        "Swasthavritta and Yoga",
+        "Agadatantra",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://gamrc.org/",
+        "practitioners": "https://gamrc.org/index.php/hospital-staff/",
+        "address": "https://gamrc.org/index.php/contact-us/",
+        "phone": "https://gamrc.org/index.php/hospital/opd-timing/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "gomantak-ayurveda-mahavidyalaya-and-research-centre-hospital"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Kalwa",
       "practitioners": [
         {
@@ -34767,6 +35577,85 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedapuri-ayurveda"
+    },
+    {
+      "practiceName": "CHC Valpoi, Ayurvedic OPD",
+      "practitioners": [
+        {
+          "name": "Dr Pramod R Bhide",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Community Health Centre Valpoi, Sattari",
+        "locality": "Valpoi",
+        "city": "Valpoi",
+        "pin": "403506"
+      },
+      "phone": [
+        "+91 832 237 5234"
+      ],
+      "website": null,
+      "email": null,
+      "hours": "Monday to Saturday, 9 am to 4:30",
+      "services": [],
+      "sources": {
+        "practiceName": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "practitioners": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "address": "https://goaonline.gov.in/Downloads/HealthCamp.pdf",
+        "phone": "https://ayush.goa.gov.in/ayush-centres/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "chc-valpoi-ayurvedic-opd"
+    },
+    {
+      "practiceName": "Shraddha, An Authentic Ayurveda and Yoga",
+      "practitioners": [
+        {
+          "name": "Dr Sini Sajeev",
+          "qualification": "B.Sc, B.A.M.S.",
+          "registration": null
+        },
+        {
+          "name": "Dr Sajeev T",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H.No. 643, Shops S-1 to S-4, Serenity, 1st Fatrade, opposite St. Roque Chapel",
+        "locality": "Fatrade",
+        "city": "Varca",
+        "pin": "403721"
+      },
+      "phone": [
+        "+91 98221 44355",
+        "+91 98221 44588",
+        "+91 88881 86475"
+      ],
+      "website": "https://shraddhaayurveda.com/",
+      "email": "shraddhaayurgoa@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic treatments",
+        "Yoga and meditation",
+        "Ayurveda meals",
+        "Accommodation"
+      ],
+      "sources": {
+        "practiceName": "https://shraddhaayurveda.com/about-us/",
+        "practitioners": "https://shraddhaayurveda.com/about-us/",
+        "address": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/2026-10/goa1_goa2_merged_removed.pdf",
+        "phone": "https://shraddhaayurveda.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shraddha-an-authentic-ayurveda-and-yoga"
     }
   ]
 }
