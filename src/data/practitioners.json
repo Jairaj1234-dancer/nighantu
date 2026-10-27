@@ -2260,6 +2260,287 @@
       "id": "kottathil-ayurvedic-hospital"
     },
     {
+      "practiceName": "Shri Veer Pulikeshi Rural Ayurveda Medical College, Hospital and Research Centre (SVPRAMC), Badami",
+      "practitioners": [
+        {
+          "name": "Dr Basavaraj M Mulkipatil",
+          "qualification": "BAMS, MD (Kayachikitsa); Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "S.V.P.R.A.M.C., Hospital and Research Centre",
+        "locality": "Badami",
+        "city": "Badami",
+        "pin": "587201",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 98863 42489"
+      ],
+      "website": "https://svpayur.org/",
+      "email": "svprambdm@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://svpayur.org/contact-us/",
+        "practitioners": "https://svpayur.org/principal/",
+        "address": "https://svpayur.org/contact-us/",
+        "phone": "https://svpayur.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-veer-pulikeshi-rural-ayurveda-medical-college-hospital"
+    },
+    {
+      "practiceName": "BVVS Ayurved Medical College and Hospital, Bagalkot",
+      "practitioners": [
+        {
+          "name": "Dr Mallikarjun S. Hiremath",
+          "qualification": "MD PhD Ayurveda (Rachana Shareera); Incharge Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "BVVS Ayurved Medical College and Hospital",
+        "locality": "Bagalkot",
+        "city": "Bagalkot",
+        "pin": "587101",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83542 23280"
+      ],
+      "website": "https://www.bvvsayurved.ac.in/",
+      "email": "bvvsamch2012@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.bvvsayurved.ac.in/contact-us/",
+        "practitioners": "https://www.bvvsayurved.ac.in/governing-body/principal/",
+        "address": "https://www.bvvsayurved.ac.in/contact-us/",
+        "phone": "https://www.bvvsayurved.ac.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "bvvs-ayurved-medical-college-and-hospital-bagalkot"
+    },
+    {
+      "practiceName": "Dr Hooli's Shri Dhanvantari Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Mruthunjay S. Hooli",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Manjula M. Hooli",
+          "qualification": "BAMS, MD Samhita",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Vidyagiri Bus Stop, Kaladagi Road, Teggi Layout, Opp to Mallikarjuna Temple",
+        "locality": "Vidyagiri",
+        "city": "Bagalkot",
+        "pin": "587102",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 98456 34252",
+        "+91 98447 90948"
+      ],
+      "website": "https://www.drhooliayurveda.com/",
+      "email": "drmshooli@gmail.com",
+      "hours": "Call time 10am to 7pm",
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Chakra Basti",
+        "Greeva Basti",
+        "Hrid Basti",
+        "Nasya",
+        "Padabhyanga",
+        "Swarna Prashana",
+        "Nasha Mukti",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.drhooliayurveda.com/",
+        "practitioners": "https://www.drhooliayurveda.com/",
+        "address": "https://www.drhooliayurveda.com/",
+        "phone": "https://www.drhooliayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-hooli-s-shri-dhanvantari-ayurveda-hospital"
+    },
+    {
+      "practiceName": "S.G.V. Ayurvedic Medical College, Hospital and Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Subhas V Bagade",
+          "qualification": "BAMS, MD (Dravyaguna)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dharwad Road",
+        "locality": "Dharwad Road",
+        "city": "Bailhongal",
+        "pin": "591102",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 94811 42547"
+      ],
+      "website": "https://www.sgvamcbailhongal.org/",
+      "email": "sgvamc@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.sgvamcbailhongal.org/contact.htm",
+        "practitioners": "https://www.sgvamcbailhongal.org/principals_message.htm",
+        "address": "https://www.sgvamcbailhongal.org/contact.htm",
+        "phone": "https://www.sgvamcbailhongal.org/contact.htm"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "s-g-v-ayurvedic-medical-college-hospital-and-research-center"
+    },
+    {
+      "practiceName": "Acharya Deshabushan Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Raju R. Jasud",
+          "qualification": "BAMS, MBA (Hospital Administration)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dhiraj K. Patil",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Latthe Education Society campus, Shantinagar",
+        "locality": "Shantinagar",
+        "city": "Bedhikihal-Shamanewadi",
+        "pin": "591214",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83382 00247",
+        "+91 97316 04049"
+      ],
+      "website": "https://www.lesayurvediccollege.com/",
+      "email": "adamch1008@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://lesayurvediccollege.com/",
+        "practitioners": "https://www.lesayurvediccollege.com/medical-superintendent-desk",
+        "address": "https://www.lesayurvediccollege.com/contact",
+        "phone": "https://www.lesayurvediccollege.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "acharya-deshabushan-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "KLE Ayurveda Hospital and Medical Research Centre (KAHER Shri B M Kankanawadi Ayurveda Mahavidyalaya)",
+      "practitioners": [
+        {
+          "name": "Dr Suhas Kumar Shetty",
+          "qualification": "MD (Ayu), PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shri B M K Ayurveda Mahavidyalaya campus",
+        "locality": "Shahapur",
+        "city": "Belagavi",
+        "pin": "590003",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 831 248 6286",
+        "+91 90364 86286"
+      ],
+      "website": "https://kleayurveda.org/",
+      "email": "kleayurvedahospital@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasooti Tantra and Streeroga",
+        "Kaumarabhritya",
+        "Swasthavritta",
+        "Agada Tantra",
+        "Physiotherapy",
+        "Yoga",
+        "Pharmacy",
+        "Laboratory"
+      ],
+      "sources": {
+        "practiceName": "https://www.klehospital.org/ayurveda",
+        "practitioners": "https://www.kleayurworld.edu.in/principal/",
+        "address": "https://www.kleayurworld.edu.in/contact-us-2/",
+        "phone": "https://www.klehospital.org/ayurveda"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "kle-ayurveda-hospital-and-medical-research-centre-kaher-shri"
+    },
+    {
+      "practiceName": "Ved Ayurveda and Panchakarma Speciality Centre",
+      "practitioners": [
+        {
+          "name": "Dr Sandeep Sagare",
+          "qualification": "MD (Ayurveda), Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "'Sneh Vastu' Apartment, Shop No. 4, Ground Floor, Opp. Patil Dairy, Behind Reliance Smart, Somwar Peth",
+        "locality": "Tilakwadi",
+        "city": "Belagavi",
+        "pin": "590006",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 98445 86894"
+      ],
+      "website": "https://vedayurvedaandpanchakarma.in/",
+      "email": "sandeepsagare@gmail.com",
+      "hours": "Monday to Saturday, 9:00 AM to 7:00 PM; Sunday closed",
+      "services": [
+        "Panchakarma",
+        "Prakriti analysis",
+        "Dietary guidance",
+        "Lifestyle guidance",
+        "Herbal medicines"
+      ],
+      "sources": {
+        "practiceName": "https://vedayurvedaandpanchakarma.in/",
+        "practitioners": "https://vedayurvedaandpanchakarma.in/dr-sandeep-sagare-md/",
+        "address": "https://vedayurvedaandpanchakarma.in/contact-us/",
+        "phone": "https://vedayurvedaandpanchakarma.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ved-ayurveda-and-panchakarma-speciality-centre"
+    },
+    {
       "practiceName": "Kottakkal Arya Vaidya Sala dealer clinic (Gouri Sankara Ayurvedics), Bagalur Cross",
       "practitioners": [
         {
@@ -14690,6 +14971,132 @@
       "id": "government-ayurveda-dispensary-dharmadam"
     },
     {
+      "practiceName": "Shri C. B. Guttal Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Shashidhar T. Hombal",
+          "qualification": "BAMS, MD (Ayu) Kaya Chikitsa",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shri R. F. Neeralakatti Educational Campus, Garag Road",
+        "locality": "Mummigatti",
+        "city": "Dharwad",
+        "pin": "580011",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 836 248 6951",
+        "+91 836 248 6941"
+      ],
+      "website": "https://cbguttalamc.in/",
+      "email": "cbgamcdwd0014@gmail.com",
+      "hours": "OPD: weekdays 10.00 am to 4.30 pm; IPD 24 hours",
+      "services": [
+        "OPD in all specialities of Ayurveda",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Shirodhara",
+        "Abhyanga",
+        "Kshara karma",
+        "Laboratory, X-ray, USG, ECG"
+      ],
+      "sources": {
+        "practiceName": "https://cbguttalamc.in/",
+        "practitioners": "https://cbguttalamc.in/college.html",
+        "address": "https://cbguttalamc.in/",
+        "phone": "https://cbguttalamc.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-c-b-guttal-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Ayur Sparsh Consultation and Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Rashmi Patil",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H. No. 8B, Siddarth Colony, near New Bus Stand, opp. Indira Canteen",
+        "locality": "P. B. Road",
+        "city": "Dharwad",
+        "pin": "580008",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 63607 89865",
+        "+91 98452 93856"
+      ],
+      "website": "https://ayursparshclinic.com/",
+      "email": "ayursparshclinic20@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Skin and hair care",
+        "Joint and spine care",
+        "Gynaecology",
+        "Lifestyle disorders"
+      ],
+      "sources": {
+        "practiceName": "https://ayursparshclinic.com/",
+        "practitioners": "https://ayursparshclinic.com/",
+        "address": "https://ayursparshclinic.com/contact",
+        "phone": "https://ayursparshclinic.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayur-sparsh-consultation-and-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Shree Samviran Hospital of Ayurveda",
+      "practitioners": [
+        {
+          "name": "Vaidya Shreya Pastey",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-09, Gattu Square, beside Triveni Pastries and Bakery",
+        "locality": "Saptapur",
+        "city": "Dharwad",
+        "pin": "580001",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 74838 95926"
+      ],
+      "website": "https://www.samviran.com/",
+      "email": "shreesamviran@gmail.com",
+      "hours": null,
+      "services": [
+        "Nadi Pariksha",
+        "Panchakarma",
+        "Agnikarma",
+        "Viddha Karma",
+        "Jalaukavacharana",
+        "Garbhasanskar",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.samviran.com/",
+        "practitioners": "https://www.samviran.com/founder",
+        "address": "https://www.samviran.com/contact-us",
+        "phone": "https://www.samviran.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shree-samviran-hospital-of-ayurveda"
+    },
+    {
       "practiceName": "Himalayiya Ayurvedic (PG) Medical College & Hospital",
       "practitioners": [
         {
@@ -16040,6 +16447,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "harjivan-hospital-panchkarma-and-ksharsutra-centre"
+    },
+    {
+      "practiceName": "Shri J. G. Co-operative Hospital Society's Ayurvedic Medical College and Hospital, Ghataprabha",
+      "practitioners": [
+        {
+          "name": "Dr Jayanta Kumar Sarma",
+          "qualification": "BAMS, MD (Ayu) Kayachikitsa, PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sahakar Maharshi Shri B. A. Patil Ayurvedic Medical College campus, Gokak Taluk",
+        "locality": "Ghataprabha",
+        "city": "Ghataprabha",
+        "pin": "591306",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83322 86262"
+      ],
+      "website": "http://www.sjgchsamcghataprabha.org/",
+      "email": "1996ayu0066@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "http://www.sjgchsamcghataprabha.org/principals_message.htm",
+        "practitioners": "http://www.sjgchsamcghataprabha.org/principals_message.htm",
+        "address": "http://www.sjgchsamcghataprabha.org/principals_message.htm",
+        "phone": "http://www.sjgchsamcghataprabha.org/contact_us.htm"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-j-g-co-operative-hospital-society-s-ayurvedic-medical"
     },
     {
       "practiceName": "Jiva Ayurveda Clinic and Panchakarma Centre, Indirapuram",
@@ -22841,6 +23282,47 @@
       "id": "rashtriya-ayurved-college-and-research-institute-attached"
     },
     {
+      "practiceName": "Sindagi Shantaveereshwar Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Chandrashekhar Goudar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shantaveer Nagar, P. B. Road",
+        "locality": "Ijari Lakamapur",
+        "city": "Haveri",
+        "pin": "581110",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83752 32487",
+        "+91 83752 97288",
+        "+91 96320 68371"
+      ],
+      "website": "https://www.ssamch.co.in/",
+      "email": "ssamc1992@gmail.com",
+      "hours": "Hospital open 24 x 7",
+      "services": [
+        "Panchakarma",
+        "Yoga centre",
+        "Physiotherapy",
+        "60-bed hospital"
+      ],
+      "sources": {
+        "practiceName": "https://www.ssamch.co.in/",
+        "practitioners": "https://www.ssamch.co.in/principal-desk",
+        "address": "https://www.ssamch.co.in/contact-us",
+        "phone": "https://www.ssamch.co.in/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sindagi-shantaveereshwar-ayurvedic-medical-college-and"
+    },
+    {
       "practiceName": "Ayurlife",
       "practitioners": [
         {
@@ -22880,6 +23362,126 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "ayurlife"
+    },
+    {
+      "practiceName": "Sanjeevini Ayurveda Medical College and Hospital (SAMCH)",
+      "practitioners": [
+        {
+          "name": "Dr Charantayya C. Hiremath",
+          "qualification": "BAMS, MD (Dravya Guna)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravindrakumar Arahunsi",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Srivatsa Navalur",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr. K. S. Sharma Campus, Basaveshwar Nagar, Gokul Road",
+        "locality": "Gokul Road",
+        "city": "Hubballi",
+        "pin": "580030",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 836 353 1302"
+      ],
+      "website": "https://samchhubballi.org/",
+      "email": "sanjeeviniamch@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD"
+      ],
+      "sources": {
+        "practiceName": "https://samchhubballi.org/",
+        "practitioners": "https://samchhubballi.org/teaching-staff-details",
+        "address": "https://samchhubballi.org/contact-us",
+        "phone": "https://samchhubballi.org/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sanjeevini-ayurveda-medical-college-and-hospital-samch"
+    },
+    {
+      "practiceName": "Ayurveda Mahavidyalaya and Hospital, Hubli (Hubli Ayurveda Seva Samiti)",
+      "practitioners": [
+        {
+          "name": "Dr Prashanth A. S.",
+          "qualification": "BAMS, MD (Ay) Kayachikitsa",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Heggeri Extension, Old Hubli",
+        "locality": "Heggeri",
+        "city": "Hubballi",
+        "pin": "580024",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 836 230 5122",
+        "+91 94481 14773"
+      ],
+      "website": "http://ayurvedamahavidyalaya.org/",
+      "email": "amvhhubli54@gmail.com",
+      "hours": null,
+      "services": [
+        "Out-patient care",
+        "In-patient care",
+        "Wellness programmes"
+      ],
+      "sources": {
+        "practiceName": "http://ayurvedamahavidyalaya.org/ayurmedmain.php?mainpage=hospitalinfo",
+        "practitioners": "http://ayurvedamahavidyalaya.org/ayurmedmain.php?mainpage=principal",
+        "address": "http://ayurvedamahavidyalaya.org/ayurmedmain.php?mainpage=contactus",
+        "phone": "http://ayurvedamahavidyalaya.org/ayurmedmain.php?mainpage=contactus"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayurveda-mahavidyalaya-and-hospital-hubli-hubli-ayurveda"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vidyanagar Hubli",
+      "practitioners": [
+        {
+          "name": "Dr Anusha Sadhunavar",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "8, Ganesh Krupa, behind Reliance Digital, near Siddhivinayak Temple, Prabhat Colony",
+        "locality": "Vidyanagar",
+        "city": "Hubballi",
+        "pin": "580021",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 95917 17095"
+      ],
+      "website": "https://madhavbaug.org/clinic/vidyanagar-hubli/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM (Monday closed)",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vidyanagar-hubli/",
+        "practitioners": "https://madhavbaug.org/clinic/vidyanagar-hubli/",
+        "address": "https://madhavbaug.org/clinic/vidyanagar-hubli/",
+        "phone": "https://madhavbaug.org/clinic/vidyanagar-hubli/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-vidyanagar-hubli"
     },
     {
       "practiceName": "Sreedhareeyam Ayurvedic Eye Care Hospital and Panchakarma Centre, Hyderabad (Abids)",
@@ -25135,6 +25737,49 @@
       "id": "madhavbaug-ayurvedic-clinic-ichalkaranji"
     },
     {
+      "practiceName": "Shri Shivayogeeshwar Rural Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr G. Vinay Mohan",
+          "qualification": "MD (Ayu), Kaya Chikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Draksharapu Nageshwar Rao",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "S.S.B.E Society's campus, Tq Savadatti, Dist Belagavi",
+        "locality": "Inchal",
+        "city": "Inchal",
+        "pin": "591102",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83372 44847"
+      ],
+      "website": "https://ssramcinchal.com/",
+      "email": "ssramch@gmail.com",
+      "hours": "Hospital OPD 10:00 AM to 5:00 PM",
+      "services": [
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Kaumara Bhritya"
+      ],
+      "sources": {
+        "practiceName": "https://ssramcinchal.com/2026/05/10/opd-days-and-timing/",
+        "practitioners": "https://ssramcinchal.com/2017/02/21/hospital-staff/",
+        "address": "https://ssramcinchal.com/2026/05/10/opd-days-and-timing/",
+        "phone": "https://ssramcinchal.com/2017/02/20/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-shivayogeeshwar-rural-ayurvedic-medical-college-and"
+    },
+    {
       "practiceName": "R.N. Kapoor Memorial Ayurvedic Medical College and Hospital",
       "practitioners": [
         {
@@ -26443,6 +27088,45 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "the-veda-vibe-ayurvedic-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "A.G.M Ayurvedic Medical College and Hospital, Jamkhandi",
+      "practitioners": [
+        {
+          "name": "Dr Muralidhar Badiger",
+          "qualification": "MD (Ayu), PhD; Principal",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashok Wali",
+          "qualification": "BAMS, MD; Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opposite Algur RC, Vijayapur Road",
+        "locality": "Jamkhandi",
+        "city": "Jamkhandi",
+        "pin": "587301",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 73489 31008"
+      ],
+      "website": "https://agmamcj.com/",
+      "email": "agmayujmk@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://agmamcj.com/contact-us/",
+        "practitioners": "https://agmamcj.com/principal-message/",
+        "address": "https://agmamcj.com/contact-us/",
+        "phone": "https://agmamcj.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "a-g-m-ayurvedic-medical-college-and-hospital-jamkhandi"
     },
     {
       "practiceName": "Shantabai Shivshankar Arali Ayurvedic Hospital and College, Jath",
@@ -49552,6 +50236,46 @@
       "id": "madhavbaug-ayurvedic-clinic-vishram-baug-sangli"
     },
     {
+      "practiceName": "Krishna Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Santoshkumar S. Khajjannavar",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Manjunath S. Gavimath",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Behind Syrine Hospital, Old P B Road",
+        "locality": "Old P B Road",
+        "city": "Sankeshwar",
+        "pin": "591313",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 98863 72642",
+        "+91 90600 33885"
+      ],
+      "website": "https://www.krishnaamch.org/",
+      "email": "kamchsnk@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.krishnaamch.org/",
+        "practitioners": "https://www.krishnaamch.org/hospital-staff",
+        "address": "https://www.krishnaamch.org/contact",
+        "phone": "https://www.krishnaamch.org/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "krishna-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Sai Ayurved College, Hospital & Research Centre (Sai Ayurvedic Hospital and Research Centre), Sasure",
       "practitioners": [
         {
@@ -50764,6 +51488,41 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "shashwat-ayurveda-and-panchkarma"
+    },
+    {
+      "practiceName": "Grameen Ayurvedic Medical College, Hospital and Research Center (GAMCH and RC)",
+      "practitioners": [
+        {
+          "name": "Dr Sharanabasaveshwar C Nuchhi",
+          "qualification": "MD (Ayu), Swasthavritta; Principal and Medical Director",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gurukul Campus, Vidyagiri, Tq Jamakhandi, District Bagalkot",
+        "locality": "Terdal",
+        "city": "Terdal",
+        "pin": "587315",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83532 00261",
+        "+91 83532 00232"
+      ],
+      "website": "https://www.gamchterdal.org/",
+      "email": "gamchterdal@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.gamchterdal.org/contact",
+        "practitioners": "https://www.gamchterdal.org/home/Principal-and-medical-director",
+        "address": "https://www.gamchterdal.org/contact",
+        "phone": "https://www.gamchterdal.org/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "grameen-ayurvedic-medical-college-hospital-and-research"
     },
     {
       "practiceName": "Government Ayurveda Dispensary, Muriyankanni (Thachanattukara Grama Panchayat)",
@@ -55507,6 +56266,87 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "govt-ayurveda-dispensary-vellavoor"
+    },
+    {
+      "practiceName": "Smt. Rajeshwari Karpurmath Memorial (RKM) Ayurved Medical College, Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Nandakumar M Rudragoudar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Karpurmath Campus, 100 Feet Ring Road, Behind K.C. Nagar, Near Solapur Road",
+        "locality": "K.C. Nagar",
+        "city": "Vijayapura",
+        "pin": "586103",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 70226 51929"
+      ],
+      "website": "https://www.rkmamc.com/",
+      "email": "rkmamc@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.rkmamc.com/contact-us/",
+        "practitioners": "https://www.rkmamc.com/contact-us/",
+        "address": "https://www.rkmamc.com/contact-us/",
+        "phone": "https://www.rkmamc.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "smt-rajeshwari-karpurmath-memorial-rkm-ayurved-medical"
+    },
+    {
+      "practiceName": "BLDEA's A.V.S. Ayurveda Mahavidyalaya, Hospital and Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay Kadlimatti",
+          "qualification": "BAMS, MD, PhD (Kaya Chikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravindrasingh N. Rajaput",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bagalkot Road",
+        "locality": "Vidya Nagar",
+        "city": "Vijayapura",
+        "pin": "586109",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 95133 97413"
+      ],
+      "website": "http://bldeaavsamv.ac.in/",
+      "email": "avshospital@bldea.org",
+      "hours": null,
+      "services": [
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Shalakya Tantra",
+        "Shalya Tantra",
+        "Prasooti and Streeroga",
+        "Bala Roga",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "http://bldeaavsamv.ac.in/contact-us.php",
+        "practitioners": "http://bldeaavsamv.ac.in/doctors.php",
+        "address": "http://bldeaavsamv.ac.in/contact-us.php",
+        "phone": "http://bldeaavsamv.ac.in/contact-us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "bldea-s-a-v-s-ayurveda-mahavidyalaya-hospital-and-research"
     },
     {
       "practiceName": "Pillaiyar Ayurveda Vaidyasala (Multi-speciality Hospital and Research Centre)",
