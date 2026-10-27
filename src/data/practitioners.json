@@ -8409,6 +8409,60 @@
       "id": "madhavbaug-ayurvedic-clinic-besa"
     },
     {
+      "practiceName": "Lanjewar's Total Health, Ayurveda & Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Goldy Lanjewar",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": {
+            "number": "CG1601AYURVED",
+            "source": "http://www.lanjewarspanchakarma.in/pages/About-Doctors"
+          }
+        },
+        {
+          "name": "Dr Mini Lanjewar",
+          "qualification": "BAMS, PGDEMS",
+          "registration": {
+            "number": "CG1865AYURVED",
+            "source": "http://www.lanjewarspanchakarma.in/pages/About-Doctors"
+          }
+        }
+      ],
+      "address": {
+        "line": "Plot 45/A-1, Gurudwara Smriti Nagar Main Road, Near Goyal Medico, Nehru Nagar (W)",
+        "locality": "Nehru Nagar",
+        "city": "Bhilai",
+        "pin": "490020",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 91799 56880",
+        "+91 97550 20890"
+      ],
+      "website": "http://www.lanjewarspanchakarma.in/",
+      "email": "lanjewartotalhealth@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Classical Panchakarma",
+        "Keraliya Panchakarma",
+        "Garbha Samskara",
+        "Swarna Prashana",
+        "Nadi Pariksha",
+        "Ayurvedic medicine dispensing"
+      ],
+      "sources": {
+        "practiceName": "http://www.lanjewarspanchakarma.in/contact-us",
+        "practitioners": "http://www.lanjewarspanchakarma.in/pages/About-Doctors",
+        "address": "http://www.lanjewarspanchakarma.in/contact-us",
+        "phone": "http://www.lanjewarspanchakarma.in/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "lanjewar-s-total-health-ayurveda-and-panchakarma-centre"
+    },
+    {
       "practiceName": "R. D. Memorial Ayurvedic PG College & Hospital",
       "practitioners": [
         {
@@ -9194,6 +9248,53 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "dr-sharda-ayurveda-bikaner-pawanpuri"
+    },
+    {
+      "practiceName": "Chouksey College of Ayurved Research Center & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Jeewan Lal Sahu",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": {
+            "number": "CG01467AYURVED",
+            "source": "https://ccabilaspur.com/"
+          }
+        },
+        {
+          "name": "Dr Anjali Bhange",
+          "qualification": "MD (Kaumarbhritya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Lal Khadan, Masturi Road, NH-49",
+        "locality": "Lal Khadan",
+        "city": "Bilaspur",
+        "pin": "495004",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 97522 16224",
+        "+91 77460 99992"
+      ],
+      "website": "https://ccabilaspur.com/",
+      "email": "shoma.choukseyayurved@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://ccabilaspur.com/",
+        "practitioners": "https://ccabilaspur.com/wp-content/uploads/2025/11/Hospital-Staff.pdf",
+        "address": "https://ccabilaspur.com/",
+        "phone": "https://ccabilaspur.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "chouksey-college-of-ayurved-research-center-and-hospital"
     },
     {
       "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
@@ -35215,6 +35316,44 @@
       "id": "avp-pathanjalipuri-arya-vaidyan-p-v-rama-varier-birth"
     },
     {
+      "practiceName": "Chhattisgarh Ayurved Medical College Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Umesh Gandhi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G.E. Road, Manki",
+        "locality": "Manki",
+        "city": "Manki",
+        "pin": "491441",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 91317 02701"
+      ],
+      "website": "https://camc.co.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Swarnaprashan"
+      ],
+      "sources": {
+        "practiceName": "https://camc.co.in/",
+        "practitioners": "https://camc.co.in/uploads/upload_image/1773499264tal_ID_CARD.pdf",
+        "address": "https://camc.co.in/contact-us.php",
+        "phone": "https://camc.co.in/contact-us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "chhattisgarh-ayurved-medical-college-hospital"
+    },
+    {
       "practiceName": "Dr Lodha's Ayurved Panchakarma and Research Centre, Manmad",
       "practitioners": [
         {
@@ -50631,6 +50770,187 @@
       "id": "shri-vivekanand-nursing-home-trust-s-ayurved-mahavidyalaya"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Raipur",
+      "practitioners": [
+        {
+          "name": "Dr Vijendra Kumar Kashyap",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "L-2, Ring Road No. 1, behind Ashoka Biryani, Sector-2, Agroha Colony",
+        "locality": "Changurabhata",
+        "city": "Raipur",
+        "pin": "492013",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 77135 93555",
+        "+91 75874 81139"
+      ],
+      "website": "https://madhavbaug.org/clinic/raipur-chhattisgarh",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and yoga guidance",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/raipur-chhattisgarh",
+        "practitioners": "https://madhavbaug.org/clinic/raipur-chhattisgarh",
+        "address": "https://madhavbaug.org/clinic/raipur-chhattisgarh",
+        "phone": "https://madhavbaug.org/clinic/raipur-chhattisgarh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-raipur"
+    },
+    {
+      "practiceName": "RK Aarogyam Ayurvedic Centre",
+      "practitioners": [
+        {
+          "name": "Dr Rashmi Shukla",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "H2 Khalsa Complex, Daldal Seoni Main Rd",
+        "locality": "Mowa",
+        "city": "Raipur",
+        "pin": "492007",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 73549 54821",
+        "+91 95894 33800",
+        "+91 91091 15595"
+      ],
+      "website": "https://rkaarogyam.in/",
+      "email": "info@rkaarogyam.in",
+      "hours": "Monday to Saturday 7:30 to 8 pm; Sunday 7:30 to 6 pm",
+      "services": [
+        "Panchakarma",
+        "Rejuvenation therapy",
+        "Detox therapy",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://rkaarogyam.in/about-us/",
+        "practitioners": "https://rkaarogyam.in/about-us/",
+        "address": "https://rkaarogyam.in/",
+        "phone": "https://rkaarogyam.in/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "they serve customers with lot of care and patience, every single treatment is done as per ayurvedic methods",
+          "attribution": "Shikha Shrivastava",
+          "url": "https://rkaarogyam.in/"
+        },
+        {
+          "excerpt": "Good experience, staff is very professional , nice service",
+          "attribution": "SAURABH PATHAK",
+          "url": "https://rkaarogyam.in/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rk-aarogyam-ayurvedic-centre"
+    },
+    {
+      "practiceName": "Shree Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Anay Chandrakar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Golden Spring, Geetajali Colony, Near Bharat Mata Chowk, Behind BTI Ground",
+        "locality": "Shankar Nagar",
+        "city": "Raipur",
+        "pin": "492001",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 94060 10081",
+        "+91 77140 58100"
+      ],
+      "website": "https://www.shreeayurveda.in/",
+      "email": "dr.anay0009@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Abhyangam",
+        "Shirodhara",
+        "Pizhichil",
+        "Kizhi",
+        "Nasyam",
+        "Udvartanam",
+        "Netra Tarpanam",
+        "Janu Vasti",
+        "Kati Vasti",
+        "Greeva Vasti",
+        "Sirovasthi",
+        "Medicated steam bath"
+      ],
+      "sources": {
+        "practiceName": "https://www.shreeayurveda.in/",
+        "practitioners": "http://www.shreeayurveda.in/about-us/about/",
+        "address": "https://www.shreeayurveda.in/",
+        "phone": "https://www.shreeayurveda.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shree-ayurveda"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Rajnandgaon",
+      "practitioners": [
+        {
+          "name": "Dr Pooja Bagade",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, House No. 26, Barfaani Dham Gate, G.E. Road",
+        "locality": "GE Road",
+        "city": "Rajnandgaon",
+        "pin": "491441",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 77443 57431",
+        "+91 75871 16550"
+      ],
+      "website": "https://madhavbaug.org/clinic/rajnandgaon-chhattisgarh",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme",
+        "Panchakarma",
+        "Diet and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/rajnandgaon-chhattisgarh",
+        "practitioners": "https://madhavbaug.org/clinic/rajnandgaon-chhattisgarh",
+        "address": "https://madhavbaug.org/clinic/rajnandgaon-chhattisgarh",
+        "phone": "https://madhavbaug.org/clinic/rajnandgaon-chhattisgarh"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-rajnandgaon"
+    },
+    {
       "practiceName": "Arogyasudha Hospital and Wellness Centre",
       "practitioners": [
         {
@@ -52398,6 +52718,45 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "seth-sakharam-nemchand-jain-ayurved-rugnalaya-teaching"
+    },
+    {
+      "practiceName": "Mahaveer College of Ayurvedic Science Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Shikha Agrawal Satpute",
+          "qualification": "MD Ayurved",
+          "registration": {
+            "number": "CG02268 Ayurved",
+            "source": "https://www.mcas.co.in/medical-superintendent.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "P.O. 25, Village Sundra, G.E. Road",
+        "locality": "Sundra",
+        "city": "Sundra",
+        "pin": "491441",
+        "state": "Chhattisgarh"
+      },
+      "phone": [
+        "+91 77442 86361",
+        "+91 77442 81930",
+        "+91 77442 81931"
+      ],
+      "website": "https://www.mcas.co.in/",
+      "email": "mcasrjn@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.mcas.co.in/contact.php",
+        "practitioners": "https://www.mcas.co.in/medical-superintendent.php",
+        "address": "https://www.mcas.co.in/contact.php",
+        "phone": "https://www.mcas.co.in/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "mahaveer-college-of-ayurvedic-science-hospital"
     },
     {
       "practiceName": "Amrutkalp Ayurvedic Panchkarma Hospital",
