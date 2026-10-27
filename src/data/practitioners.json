@@ -2083,6 +2083,67 @@
       "id": "madhavbaug-ayurvedic-hospital-vadodara-ankodia"
     },
     {
+      "practiceName": "Hon. Shri Annasaheb Dange Ayurved Medical College, Post Graduate and Research Center, Teaching Hospital, Ashta",
+      "practitioners": [
+        {
+          "name": "Vd Parag Narayan Deshmukhe",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": {
+            "number": "I-38442-A-1",
+            "source": "https://www.adamc.ac.in/Faculty_List.aspx?id=1"
+          }
+        },
+        {
+          "name": "Vd Smita Vitthal Lokhande",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": {
+            "number": "I 52993-A",
+            "source": "https://www.adamc.ac.in/Faculty_List.aspx?id=1"
+          }
+        },
+        {
+          "name": "Vd Archana Suhas Wadkar",
+          "qualification": "BAMS, MD (Panchkarma), M.A. (Sanskrit)",
+          "registration": {
+            "number": "I-58193-A-1",
+            "source": "https://www.adamc.ac.in/Faculty_List.aspx?id=1"
+          }
+        },
+        {
+          "name": "Vd Shankar Lahuraj Mane",
+          "qualification": "BAMS, MD (Panchkarma)",
+          "registration": {
+            "number": "I - 77996 - A1",
+            "source": "https://www.adamc.ac.in/Faculty_List.aspx?id=1"
+          }
+        }
+      ],
+      "address": {
+        "line": "Ashta Sangli Road, Aanand Colony, Sant Dnyaneshwar Shikshan Sanstha Shaikshanik Sankul, Tal. Walwa",
+        "locality": "Ashta",
+        "city": "Ashta",
+        "pin": "416301",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 76663 90922"
+      ],
+      "website": "https://www.adamc.ac.in/",
+      "email": "ashta.adamc@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.adamc.ac.in/ContactUs.aspx",
+        "practitioners": "https://www.adamc.ac.in/Faculty_List.aspx?id=1",
+        "address": "https://www.adamc.ac.in/ContactUs.aspx",
+        "phone": "https://www.adamc.ac.in/ContactUs.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "hon-shri-annasaheb-dange-ayurved-medical-college-post"
+    },
+    {
       "practiceName": "Kottathil Ayurvedic Hospital",
       "practitioners": [
         {
@@ -15327,6 +15388,83 @@
       "id": "jivagram-centre-for-wellbeing-jiva-ayurveda-hospital-sector"
     },
     {
+      "practiceName": "Late Kedari Redekar Ayurvedic Mahavidyalaya Hospital",
+      "practitioners": [
+        {
+          "name": "Vd Sasawade Ajay Yashvant",
+          "qualification": "MD (Ayu); Medical Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Vd Dhainge Suraj Namdev",
+          "qualification": "MD (Ayu); Deputy Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "P-2, MIDC area, Shendri Mal",
+        "locality": "Shendri Mal MIDC",
+        "city": "Gadhinglaj",
+        "pin": "416502",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 232 722 4401",
+        "+91 232 722 4988"
+      ],
+      "website": "https://www.lkrayucollege.ac.in/",
+      "email": "bamsgad@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://www.lkrayucollege.ac.in/hospital-staff",
+        "practitioners": "https://www.lkrayucollege.ac.in/hospital-staff",
+        "address": "https://www.lkrayucollege.ac.in/contact-us",
+        "phone": "https://www.lkrayucollege.ac.in/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "late-kedari-redekar-ayurvedic-mahavidyalaya-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Gadhinglaj",
+      "practitioners": [
+        {
+          "name": "Dr Amol Bapurao Jadhav",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bharati Book stall Galli, Tilak Path",
+        "locality": "Tilak Path",
+        "city": "Gadhinglaj",
+        "pin": "416502",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 89834 79135",
+        "+91 73871 96315"
+      ],
+      "website": "https://madhavbaug.org/clinic/gadhinglaj-kolhapur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/gadhinglaj-kolhapur",
+        "practitioners": "https://madhavbaug.org/clinic/gadhinglaj-kolhapur",
+        "address": "https://madhavbaug.org/clinic/gadhinglaj-kolhapur",
+        "phone": "https://madhavbaug.org/clinic/gadhinglaj-kolhapur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-gadhinglaj"
+    },
+    {
       "practiceName": "State Model Ayurved College attached Hospital, SMIAS Campus (State Model Institute of Ayurveda Sciences, Government of Gujarat)",
       "practitioners": [
         {
@@ -24652,6 +24790,40 @@
       "id": "shree-dhruti-ayurvedic-panchakarma-chikitsalaya-uppal"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Ichalkaranji",
+      "practitioners": [
+        {
+          "name": "Dr Adarsh Udaykumar Chindake",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Malkar Building, Opp Weekly Market, Near Uttam Prakash Talkies",
+        "locality": "Ichalkaranji",
+        "city": "Ichalkaranji",
+        "pin": "416115",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 98500 80092"
+      ],
+      "website": "https://madhavbaug.org/clinic/ichalkaranji-kolhapur",
+      "email": null,
+      "hours": "9:00 AM to 6:30 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/ichalkaranji-kolhapur",
+        "practitioners": "https://madhavbaug.org/clinic/ichalkaranji-kolhapur",
+        "address": "https://madhavbaug.org/clinic/ichalkaranji-kolhapur",
+        "phone": "https://madhavbaug.org/clinic/ichalkaranji-kolhapur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-ichalkaranji"
+    },
+    {
       "practiceName": "R.N. Kapoor Memorial Ayurvedic Medical College and Hospital",
       "practitioners": [
         {
@@ -24972,6 +25144,60 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "government-ayurveda-dispensary-irikkur"
+    },
+    {
+      "practiceName": "Loknete Rajarambapu Patil Ayurvedic Medical College and Hospital, PG Institute and Research Centre, Islampur",
+      "practitioners": [
+        {
+          "name": "Vd Vinay Dadasaheb Chavan",
+          "qualification": "BAMS, MD Panchkarma",
+          "registration": {
+            "number": "I-49212",
+            "source": "https://www.lrpayurved.com/wp-content/uploads/2026/05/Details-of-faculty-April-2026-1.pdf"
+          }
+        },
+        {
+          "name": "Vd Suhas Bhagwan Mohite",
+          "qualification": "BAMS, MD Panchkarma",
+          "registration": {
+            "number": "I-33476-A-1",
+            "source": "https://www.lrpayurved.com/wp-content/uploads/2026/05/Details-of-faculty-April-2026-1.pdf"
+          }
+        },
+        {
+          "name": "Vd Supriya Ashishkumar Sangale",
+          "qualification": "BAMS, MD Panchkarma",
+          "registration": {
+            "number": "I-65895-E",
+            "source": "https://www.lrpayurved.com/wp-content/uploads/2026/05/Details-of-faculty-April-2026-1.pdf"
+          }
+        }
+      ],
+      "address": {
+        "line": "Ishwarpur-Sangli Road, Urun-Ishwarpur, Tal. Walwa",
+        "locality": "Urun-Ishwarpur",
+        "city": "Islampur",
+        "pin": "415409",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 234 266 1212",
+        "+91 81699 64531"
+      ],
+      "website": "https://www.lrpayurved.com/",
+      "email": "prakash_sankul@yahoo.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.lrpayurved.com/contact-us/",
+        "practitioners": "https://www.lrpayurved.com/wp-content/uploads/2026/05/Details-of-faculty-April-2026-1.pdf",
+        "address": "https://www.lrpayurved.com/contact-us/",
+        "phone": "https://www.lrpayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "loknete-rajarambapu-patil-ayurvedic-medical-college-and"
     },
     {
       "practiceName": "National Institute of Ayurveda Hospital (NIA Arogyashala), Jaipur",
@@ -25908,6 +26134,138 @@
       "id": "the-veda-vibe-ayurvedic-clinic-and-panchakarma-centre"
     },
     {
+      "practiceName": "Shantabai Shivshankar Arali Ayurvedic Hospital and College, Jath",
+      "practitioners": [
+        {
+          "name": "Dr Yogesh Jirankalgikar",
+          "qualification": "BAMS, MD Ayurveda Siddhant, PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Arali Education Campus, Vijaypur Road, Tal. Jath",
+        "locality": "Vijaypur Road",
+        "city": "Jath",
+        "pin": "416404",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 234 429 9480",
+        "+91 73040 18272",
+        "+91 84322 81414"
+      ],
+      "website": "https://www.araliayucollegejath.in/",
+      "email": "araliayucollegejath@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.araliayucollegejath.in/medical",
+        "practitioners": "https://www.araliayucollegejath.in/medical",
+        "address": "https://www.araliayucollegejath.in/",
+        "phone": "https://www.araliayucollegejath.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shantabai-shivshankar-arali-ayurvedic-hospital-and-college"
+    },
+    {
+      "practiceName": "Dr. J.J. Magdum Ayurved Medical College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Budruk Pramod Appaso",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ganbavale Tanuja Mahesh",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gat No. 295, Shirol-Wadi Road, Mouje-Agar, Tal. Shirol",
+        "locality": "Jaysingpur",
+        "city": "Jaysingpur",
+        "pin": "416101",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 232 222 1860",
+        "+91 232 222 1861"
+      ],
+      "website": "https://www.jjmayurved.com/",
+      "email": "jjmayu@rediffmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.jjmayurved.com/",
+        "practitioners": "https://www.jjmayurved.com/hospital/hospital-staff-list/",
+        "address": "https://www.jjmayurved.com/contact-us/",
+        "phone": "https://www.jjmayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-j-j-magdum-ayurved-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Rudra Ayurved Chikitsalay Va Panchakarma Kendra",
+      "practitioners": [
+        {
+          "name": "Dr Pranav Digraje",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "College Bus Stop, Nandani Road",
+        "locality": "Shahunagar",
+        "city": "Jaysingpur",
+        "pin": "416101",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 88300 52819"
+      ],
+      "website": "https://rudrayurved.com/",
+      "email": "rudra.chiktsalay24@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Panchbhautik Chikitsa",
+        "Nadi Parikshan",
+        "Suvarnaprashan",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://rudrayurved.com/",
+        "practitioners": "https://rudrayurved.com/",
+        "address": "https://rudrayurved.com/ContactUs.aspx",
+        "phone": "https://rudrayurved.com/ContactUs.aspx"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr Pranav always explains things in detail and makes you feel comfortable. very friendly and always on time with appointments",
+          "attribution": "Aakash Patil",
+          "url": "https://rudrayurved.com/"
+        },
+        {
+          "excerpt": "Dr Pranav is the best ayurvedic doctor who treats his patients with utmost care and priority.",
+          "attribution": "Vaishnavi Potnis",
+          "url": "https://rudrayurved.com/"
+        },
+        {
+          "excerpt": "Authentic Traditional Ayurvedic Clinic and Panchakarma Centre. ... Dr Pranav Is Very Kind and Knowledgeable Person.",
+          "attribution": "Nilesh Dhavale",
+          "url": "https://rudrayurved.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rudra-ayurved-chikitsalay-va-panchakarma-kendra"
+    },
+    {
       "practiceName": "L N Ayurveda and Kshar Sutra Clinic",
       "practitioners": [
         {
@@ -26690,6 +27048,88 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "sreedhareeyam-kannur-sreedhareeyam-ayurvedic-eye-clinics-and"
+    },
+    {
+      "practiceName": "Panchaved Ayurvedic Panchakarma Hospital, Karad (Mangalwar Peth)",
+      "practitioners": [
+        {
+          "name": "Dr Mihir Wachasundar",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Varada Wachasundar",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opp. Mahila Mahavidyalaya, Mangalwar Peth",
+        "locality": "Mangalwar Peth",
+        "city": "Karad",
+        "pin": "415110",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 94042 99613",
+        "+91 78878 56262"
+      ],
+      "website": "https://www.panchaved.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation",
+        "Inpatient Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.panchaved.com/contact",
+        "practitioners": "https://www.panchaved.com/dr-mihir-wachasunder",
+        "address": "https://www.panchaved.com/contact",
+        "phone": "https://www.panchaved.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "panchaved-ayurvedic-panchakarma-hospital-karad-mangalwar"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Shaniwar Peth, Karad",
+      "practitioners": [
+        {
+          "name": "Dr Suvarna Pravin Tirmare",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First Floor, Suparn Centre, Unit No.2, Opp. Mohite Hospital",
+        "locality": "Shaniwar Peth",
+        "city": "Karad",
+        "pin": "415110",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 94055 42711"
+      ],
+      "website": "https://madhavbaug.org/clinic/karad-satara",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/karad-satara",
+        "practitioners": "https://madhavbaug.org/clinic/karad-satara",
+        "address": "https://madhavbaug.org/clinic/karad-satara",
+        "phone": "https://madhavbaug.org/clinic/karad-satara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-shaniwar-peth-karad"
     },
     {
       "practiceName": "Government Ayurveda Hospital, Mamunda (Karukachal)",
@@ -28369,6 +28809,49 @@
       "id": "sahrudaya-naivedya-ayurvedic-hospital"
     },
     {
+      "practiceName": "Yashwant Ayurvedic College Post Graduate Training & Research Centre (Yashwant Charitable Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Godbole Milind Mohan",
+          "qualification": "BAMS, MD (Swasthavritta), PG Diploma (Swasthavritta); Dean and Medical Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Dr Laxmikant Balasaheb Patil",
+          "qualification": "BAMS, MD (Dravyaguna); Vice-Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Yashwant Ayurvedic College campus, At Post Kodoli, Tal. Panhala",
+        "locality": "Kodoli",
+        "city": "Kodoli",
+        "pin": "416114",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 232 822 4146",
+        "+91 232 822 4762",
+        "+91 232 822 4763"
+      ],
+      "website": "https://yackodoli.com/",
+      "email": "yamkodoli@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic teaching hospital OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://yackodoli.com/",
+        "practitioners": "https://yackodoli.com/about-dean/",
+        "address": "https://yackodoli.com/contact-us/",
+        "phone": "https://yackodoli.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "yashwant-ayurvedic-college-post-graduate-training-and"
+    },
+    {
       "practiceName": "Kairali - The Ayurvedic Healing Village",
       "practitioners": [
         {
@@ -28533,6 +29016,167 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "swasthy-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Crusher Chowk",
+      "practitioners": [
+        {
+          "name": "Dr Smita Vijay Patil",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Flat No 99, V R Corner Building, 1st Floor, Crusher Chowk, Near Irani Khan, Next To Sambhajinagar Stand, Radhanagari Road",
+        "locality": "Crusher Chowk",
+        "city": "Kolhapur",
+        "pin": "416012",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 95956 09099"
+      ],
+      "website": "https://madhavbaug.org/clinic/crusher-chowk-kolhapur",
+      "email": null,
+      "hours": "9:30 AM to 6:30 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/crusher-chowk-kolhapur",
+        "practitioners": "https://madhavbaug.org/clinic/crusher-chowk-kolhapur",
+        "address": "https://madhavbaug.org/clinic/crusher-chowk-kolhapur",
+        "phone": "https://madhavbaug.org/clinic/crusher-chowk-kolhapur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-crusher-chowk"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Mangalwar Peth",
+      "practitioners": [
+        {
+          "name": "Dr Ashwini Bhalchandra Thube-Autade",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2278, B Ward, In Front of Ahaar Hotel, Near Hanuman Mandir",
+        "locality": "Mangalwar Peth",
+        "city": "Kolhapur",
+        "pin": "416012",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 85300 03404"
+      ],
+      "website": "https://madhavbaug.org/clinic/mangalwar-peth-kolhapur",
+      "email": null,
+      "hours": "9:30 AM to 7:15 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/mangalwar-peth-kolhapur",
+        "practitioners": "https://madhavbaug.org/clinic/mangalwar-peth-kolhapur",
+        "address": "https://madhavbaug.org/clinic/mangalwar-peth-kolhapur",
+        "phone": "https://madhavbaug.org/clinic/mangalwar-peth-kolhapur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-mangalwar-peth"
+    },
+    {
+      "practiceName": "Sri Sri Wellbeing Centre Kolhapur",
+      "practitioners": [
+        {
+          "name": "Dr Shilpa Benade (Maney)",
+          "qualification": "BAMS, MD (Dravyaguna)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1182/33A, Near Bank of Baroda, 5th Lane, Purvarang",
+        "locality": "Rajarampuri",
+        "city": "Kolhapur",
+        "pin": "416008",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 98508 66685"
+      ],
+      "website": "https://www.srisriwellbeing.com/kolhapur",
+      "email": "ssw.kolhapur@srisritattva.com",
+      "hours": null,
+      "services": [
+        "Nadi Pariksha",
+        "Ayurveda and Panchakarma",
+        "Relaxation Treatments"
+      ],
+      "sources": {
+        "practiceName": "https://www.srisriwellbeing.com/kolhapur",
+        "practitioners": "https://www.srisriwellbeing.com/kolhapur",
+        "address": "https://www.srisriwellbeing.com/kolhapur",
+        "phone": "https://www.srisriwellbeing.com/kolhapur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sri-sri-wellbeing-centre-kolhapur"
+    },
+    {
+      "practiceName": "Swayambhu Ayurveda",
+      "practitioners": [
+        {
+          "name": "Dr Onkar Hanashi",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ramya Hanashi",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shailendra Chavan",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Harish Babu",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1835, Anand Business Center, 2nd Floor, Office no. 204, 4th Lane",
+        "locality": "Rajarampuri",
+        "city": "Kolhapur",
+        "pin": "416008",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 76666 20112"
+      ],
+      "website": "https://swayambhuayurcare.in/",
+      "email": "info@swayambhuayurveda.com",
+      "hours": "Mon to Sat 6:30 PM to 9:00 PM; Sunday online appointments only",
+      "services": [
+        "Ayurvedic Consultation (Prakriti and Vikriti analysis)",
+        "Panchakarma",
+        "Herbal Dispensary",
+        "Yoga and Pranayama",
+        "Diet and Lifestyle"
+      ],
+      "sources": {
+        "practiceName": "https://swayambhuayurcare.in/",
+        "practitioners": "https://swayambhuayurcare.in/about.php",
+        "address": "https://swayambhuayurcare.in/",
+        "phone": "https://swayambhuayurcare.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "swayambhu-ayurveda"
     },
     {
       "practiceName": "Swasti Ayurveda Clinic, Dunlop",
@@ -32463,6 +33107,69 @@
       "id": "dr-lodha-s-ayurved-panchakarma-and-research-centre-manmad"
     },
     {
+      "practiceName": "Rural Institute of Ayurved Research Center and Hospital (RIARCH), Mayani",
+      "practitioners": [
+        {
+          "name": "Dr Amit Raghunath Pawar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Dhanajay Shivaji Mengudale",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sachin Sarjerao Salunkhe",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Atul Jagannath Jadhav",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vidyagiri, Vita Road, Tal. Khatav, Dist. Satara",
+        "locality": "Vidyagiri",
+        "city": "Mayani",
+        "pin": "415102",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 216 127 0461",
+        "+91 216 127 0661"
+      ],
+      "website": "https://riarchmayani.in/",
+      "email": "riarchmyn05@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Strirog evam Prasuti Tantra",
+        "Kaumarbhritya",
+        "Panchakarma",
+        "Swasthavritta and Yoga",
+        "Pathology laboratory",
+        "X-ray, ECG, USG",
+        "Physiotherapy",
+        "ICU",
+        "Casualty"
+      ],
+      "sources": {
+        "practiceName": "https://riarchmayani.in/hospital-doctors/",
+        "practitioners": "https://riarchmayani.in/hospital-doctors/",
+        "address": "https://riarchmayani.in/wp-content/uploads/2023/03/Hospital-Profile.pdf",
+        "phone": "https://riarchmayani.in/wp-content/uploads/2023/03/Hospital-Profile.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rural-institute-of-ayurved-research-center-and-hospital"
+    },
+    {
       "practiceName": "Itoozhi Ayurveda Hospital and Research Centre (Itoozhi Namboothiri's Ayurveda Nursing Home)",
       "practitioners": [
         {
@@ -32788,6 +33495,122 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-mira-road-east"
+    },
+    {
+      "practiceName": "Shivganga Ayurvedic Medical College and Research Centre, Patgaon, Miraj",
+      "practitioners": [
+        {
+          "name": "Dr Leena Ashay Nandeshwar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gut No. 173, Miraj-Pandharpur Road",
+        "locality": "Patgaon",
+        "city": "Miraj",
+        "pin": "416410",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 95035 83342",
+        "+91 98909 41232"
+      ],
+      "website": "https://www.shivgangaayu.com/",
+      "email": "shivgangaayu@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.shivgangaayu.com/",
+        "practitioners": "https://www.shivgangaayu.com/",
+        "address": "https://www.shivgangaayu.com/",
+        "phone": "https://www.shivgangaayu.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shivganga-ayurvedic-medical-college-and-research-centre"
+    },
+    {
+      "practiceName": "Dr Jangam's Shree Vishwanath Ayurvedic Clinic and Panchakarma Centre, Miraj",
+      "practitioners": [
+        {
+          "name": "Dr Maheshkumar S. Jangam",
+          "qualification": "MD (Ayurved)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwini Jangam",
+          "qualification": "MD (Ayurved), PhD (Scholar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Koparde Building, In Front of Dnyandeep Vastra Niketan, Near Adarsh Mangal Karyalay",
+        "locality": "Shaniwar Peth",
+        "city": "Miraj",
+        "pin": "416410",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 82088 78433"
+      ],
+      "website": "https://drjangamayurveda.com/",
+      "email": "ayurvedadrjangam@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Patra Potali"
+      ],
+      "sources": {
+        "practiceName": "https://drjangamayurveda.com/",
+        "practitioners": "https://drjangamayurveda.com/",
+        "address": "https://drjangamayurveda.com/contact-us/",
+        "phone": "https://drjangamayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://maps.google.com/?cid=13361948676112597400"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "dr-jangam-s-shree-vishwanath-ayurvedic-clinic-and"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Sangli-Miraj Road, Miraj",
+      "practitioners": [
+        {
+          "name": "Dr Shruti Ashish Bidkar",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Pitashri Complex, 1st Floor, Vantmure Corner, Besides Hotel Mirchi, Sangli-Miraj Road",
+        "locality": "Vantmure Corner",
+        "city": "Miraj",
+        "pin": "416410",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 73505 22500"
+      ],
+      "website": "https://madhavbaug.org/clinic/miraj-sangli/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/miraj-sangli/",
+        "practitioners": "https://madhavbaug.org/clinic/miraj-sangli/",
+        "address": "https://madhavbaug.org/clinic/miraj-sangli/",
+        "phone": "https://madhavbaug.org/clinic/miraj-sangli/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-sangli-miraj-road-miraj"
     },
     {
       "practiceName": "Dr. Sharda Ayurveda, Mohali",
@@ -42232,6 +43055,46 @@
       "id": "pulickal-ayurveda-hospital"
     },
     {
+      "practiceName": "H.S.P.M. Ayurvedic Medical College, Peth Vadgaon (Dhanvantari Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Ranjit Prataprao Patil",
+          "qualification": "MD (Kayachikitsa); Hospital Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Dr Vinod Shrawan Patil",
+          "qualification": "MD (Samhita Siddhant); Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Raut Colony, Maratha Nagar, near Holy Mother English School, Tal. Hatkanangle",
+        "locality": "Peth Vadgaon",
+        "city": "Peth Vadgaon",
+        "pin": "416112",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 230 247 1018",
+        "+91 97639 62899"
+      ],
+      "website": "http://www.amcpethvadgaon.com/",
+      "email": "amcpethvadgaon@yahoo.co.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "http://www.amcpethvadgaon.com/",
+        "practitioners": "http://www.amcpethvadgaon.com/",
+        "address": "http://www.amcpethvadgaon.com/contact-us.php",
+        "phone": "http://www.amcpethvadgaon.com/contact-us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "h-s-p-m-ayurvedic-medical-college-peth-vadgaon-dhanvantari"
+    },
+    {
       "practiceName": "Shree Vishwa Swasthya Ayurvedic Clinic And Panchakarma Chikitsalaya, Akurdi",
       "practitioners": [
         {
@@ -47879,6 +48742,307 @@
       "id": "saigram-ayurveda-hospital-and-research-institute"
     },
     {
+      "practiceName": "Dr Jangam's Shree Vishwanath Ayurvedic Clinic and Panchakarma Centre, Sangli (Kala Nagar)",
+      "practitioners": [
+        {
+          "name": "Dr Maheshkumar S. Jangam",
+          "qualification": "MD (Ayurved)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwini Jangam",
+          "qualification": "MD (Ayurved), PhD (Scholar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bypass Road, Kala Nagar",
+        "locality": "Kala Nagar",
+        "city": "Sangli",
+        "pin": "416416",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 82088 78433"
+      ],
+      "website": "https://drjangamayurveda.com/",
+      "email": "ayurvedadrjangam@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Patra Potali"
+      ],
+      "sources": {
+        "practiceName": "https://drjangamayurveda.com/",
+        "practitioners": "https://drjangamayurveda.com/",
+        "address": "https://drjangamayurveda.com/contact-us/",
+        "phone": "https://drjangamayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-jangam-s-shree-vishwanath-ayurvedic-clinic-and"
+    },
+    {
+      "practiceName": "Vasantdada Patil Ayurvedic Medical College and Institute of Yoga, Teaching Hospital, Sangli (NABH accredited)",
+      "practitioners": [
+        {
+          "name": "Dr Vishwajeet Govindrao Mehetre",
+          "qualification": "BAMS, MD, PhD (Kayachikitsa)",
+          "registration": {
+            "number": "I-34722 A 1",
+            "source": "https://www.vpamcsangli.edu.in/facultydepartment/kaychikitsa-department/"
+          }
+        },
+        {
+          "name": "Dr Milind Gokul Rajguru",
+          "qualification": "BAMS, MD, PhD (Kayachikitsa)",
+          "registration": {
+            "number": "I-32147-A-1",
+            "source": "https://www.vpamcsangli.edu.in/facultydepartment/kaychikitsa-department/"
+          }
+        },
+        {
+          "name": "Dr Paresh Raosaheb Chougule",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": {
+            "number": "I-50411-A",
+            "source": "https://www.vpamcsangli.edu.in/facultydepartment/panchakarma-department/"
+          }
+        },
+        {
+          "name": "Dr Sujata Mukesh Phalake",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": {
+            "number": "I-53534-A",
+            "source": "https://www.vpamcsangli.edu.in/facultydepartment/panchakarma-department/"
+          }
+        },
+        {
+          "name": "Dr Bhagyesh Ramchandra Pangam",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": {
+            "number": "I 90328 E",
+            "source": "https://www.vpamcsangli.edu.in/facultydepartment/panchakarma-department/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Ayurvedic Medical College Chowk, Sangli-Miraj Road",
+        "locality": "South Shivajinagar",
+        "city": "Sangli",
+        "pin": "416416",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 233 232 3746",
+        "+91 92841 41279"
+      ],
+      "website": "https://www.vpamcsangli.edu.in/",
+      "email": "hospital@vpamcsangli.edu.in",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Balrog",
+        "Shalakya Tantra",
+        "Shalya Tantra",
+        "Strirog and Prasuti Tantra",
+        "Netra Rog",
+        "Sonography",
+        "X-Ray",
+        "Pathology Lab",
+        "ICU",
+        "Operation Theatres",
+        "OPD and IPD",
+        "Medical Store",
+        "Tele consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.vpamcsangli.edu.in/",
+        "practitioners": "https://www.vpamcsangli.edu.in/hospital-doctors/",
+        "address": "https://www.vpamcsangli.edu.in/",
+        "phone": "https://www.vpamcsangli.edu.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "vasantdada-patil-ayurvedic-medical-college-and-institute-of"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vishram Baug, Sangli",
+      "practitioners": [
+        {
+          "name": "Dr Rupali Sattu Kore",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Nakshatra Residency, 661-B, Ground Floor, Behind Chavan Transport, Near DCC Bank, Near Pruthviraj Patil Office (Yashodhan), Puspharaj Chowk",
+        "locality": "Vishrambag",
+        "city": "Sangli",
+        "pin": "416416",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 93260 24404"
+      ],
+      "website": "https://madhavbaug.org/clinic/vishram-baug-sangali/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/vishram-baug-sangali/",
+        "practitioners": "https://madhavbaug.org/clinic/vishram-baug-sangali/",
+        "address": "https://madhavbaug.org/clinic/vishram-baug-sangali/",
+        "phone": "https://madhavbaug.org/clinic/vishram-baug-sangali/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-vishram-baug-sangli"
+    },
+    {
+      "practiceName": "Seth Chandanmal Mutha Aryangla Vaidyak Mahavidyalaya and Dr M.N. Agashe Charitable Hospital, Satara",
+      "practitioners": [
+        {
+          "name": "Dr Pandit Dadasaheb Londhe",
+          "qualification": "MD Kayachikitsa",
+          "registration": {
+            "number": "I-27259-A-1",
+            "source": "https://www.aryanglavaidyak.org/teaching-staff"
+          }
+        },
+        {
+          "name": "Dr Sameer Pralhad Shinde",
+          "qualification": "MD Kayachikitsa",
+          "registration": {
+            "number": "I -57387-A",
+            "source": "https://www.aryanglavaidyak.org/teaching-staff"
+          }
+        },
+        {
+          "name": "Dr Abhijit Ganesh Mayane",
+          "qualification": "MD Panchkarma",
+          "registration": {
+            "number": "I-65407-A",
+            "source": "https://www.aryanglavaidyak.org/teaching-staff"
+          }
+        },
+        {
+          "name": "Vd Vijay Prabhakar Shingade",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": {
+            "number": "I-57402-A",
+            "source": "https://www.aryanglavaidyak.org/teaching-staff"
+          }
+        }
+      ],
+      "address": {
+        "line": "Genda Mal, ITI Road",
+        "locality": "Gendamal",
+        "city": "Satara",
+        "pin": "415002",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 216 228 2235",
+        "+91 216 228 1109",
+        "+91 216 225 2858"
+      ],
+      "website": "https://www.aryanglavaidyak.org/",
+      "email": "aryavm_vaidyak@rediffmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.aryanglavaidyak.org/about-hospital",
+        "practitioners": "https://www.aryanglavaidyak.org/teaching-staff",
+        "address": "https://www.aryanglavaidyak.org/contact",
+        "phone": "https://www.aryanglavaidyak.org/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "seth-chandanmal-mutha-aryangla-vaidyak-mahavidyalaya-and-dr"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Sadar Bazar, Satara",
+      "practitioners": [
+        {
+          "name": "Dr Pritali Tikole",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Kalyani Highschool, Kalyani Nagar, Opp. Satara Diagnostic Centre",
+        "locality": "Sadar Bazar",
+        "city": "Satara",
+        "pin": "415001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 93734 37070"
+      ],
+      "website": "https://madhavbaug.org/clinic/sadar-bazar-satara",
+      "email": null,
+      "hours": "9:30 AM to 7:30 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/sadar-bazar-satara",
+        "practitioners": "https://madhavbaug.org/clinic/sadar-bazar-satara",
+        "address": "https://madhavbaug.org/clinic/sadar-bazar-satara",
+        "phone": "https://madhavbaug.org/clinic/sadar-bazar-satara"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-sadar-bazar-satara"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Rajwada, Satara",
+      "practitioners": [
+        {
+          "name": "Dr Madhumati Ganpat Sapkar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "26/B, Vyankatpura Peth, Near Mangalwar Tale",
+        "locality": "Vyankatpura Peth",
+        "city": "Satara",
+        "pin": "415002",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 86259 49436"
+      ],
+      "website": "https://madhavbaug.org/clinic/rajwada-satara/",
+      "email": null,
+      "hours": "9:00 AM to 6:00 PM, closed on Thursdays",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/rajwada-satara/",
+        "practitioners": "https://madhavbaug.org/clinic/rajwada-satara/",
+        "address": "https://madhavbaug.org/clinic/rajwada-satara/",
+        "phone": "https://madhavbaug.org/clinic/rajwada-satara/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-rajwada-satara"
+    },
+    {
       "practiceName": "Anasuya Clinic, Bolarum",
       "practitioners": [
         {
@@ -53193,6 +54357,97 @@
       "id": "jiva-ayurveda-clinic-sigra"
     },
     {
+      "practiceName": "Sawkar Ayurvedic Medical College and Hospital, Satara",
+      "practitioners": [
+        {
+          "name": "Dr Suhas Chavan",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Tejas Maruti Bhosale",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Dhanwantari Gorakhnath Saste",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Aarati Bajirao Mali",
+          "qualification": "BAMS, MD Panchkarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Manasi Mahadeo Sanap",
+          "qualification": "MD Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gat No. 247, At Panmalewadi, Post Varye, Tal. and Dist. Satara",
+        "locality": "Panmalewadi",
+        "city": "Varye",
+        "pin": "415015",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 216 226 1122",
+        "+91 216 226 1133",
+        "+91 99239 00100"
+      ],
+      "website": "https://www.sawkarayurveda.com/",
+      "email": "sawkarayurvedichospital@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.sawkarayurveda.com/",
+        "practitioners": "https://www.sawkarayurveda.com/kayachikitsa-teaching-staff",
+        "address": "https://www.sawkarayurveda.com/kayachikitsa-teaching-staff",
+        "phone": "https://www.sawkarayurveda.com/kayachikitsa-teaching-staff"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sawkar-ayurvedic-medical-college-and-hospital-satara"
+    },
+    {
+      "practiceName": "Ashokrao Mane Ayurvedic Medical College, Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Mohan Kumar B N",
+          "qualification": "BAMS, MD (Ayu); Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vather Tarf Vadgaon, Tal. Hatkanangale",
+        "locality": "Vathar Tarf Vadgaon",
+        "city": "Vathar Tarf Vadgaon",
+        "pin": "416112",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 91681 11159",
+        "+91 78751 11179"
+      ],
+      "website": "http://www.amamchrc.com/",
+      "email": "amhrcvathar@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "http://www.amamchrc.com/",
+        "practitioners": "http://www.amamchrc.com/principal-desk",
+        "address": "http://www.amamchrc.com/contact",
+        "phone": "http://www.amamchrc.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ashokrao-mane-ayurvedic-medical-college-hospital-and"
+    },
+    {
       "practiceName": "Govt. Ayurveda Hospital, Veliyannoor",
       "practitioners": [
         {
@@ -54068,6 +55323,51 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "yerukalapudi-ayurvedic-hospital-dr-chandu-subbarao-hanumanth"
+    },
+    {
+      "practiceName": "Prakruti Ayurvedic Health Center (Prakruti Ayurvedic Health Resort), Yevateshwar",
+      "practitioners": [
+        {
+          "name": "Dr Suyog Dandekar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Snehal Shinde",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Prakruti Ayurvedic Health Resorts Pvt Ltd, A/P Yevateshwar, Tal and Dist Satara",
+        "locality": "Yevateshwar",
+        "city": "Yevateshwar",
+        "pin": "415002",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 91752 42908"
+      ],
+      "website": "https://prakruti.health/",
+      "email": "feelbetter@prakruti.health",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Basti",
+        "Residential Ayurvedic treatment programmes",
+        "Doctor consultation",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://prakruti.health/",
+        "practitioners": "https://prakruti.health/content/doctors",
+        "address": "https://prakruti.health/",
+        "phone": "https://prakruti.health/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "prakruti-ayurvedic-health-center-prakruti-ayurvedic-health"
     },
     {
       "practiceName": "Dirghayu Arogya Kendra",
