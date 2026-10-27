@@ -19931,6 +19931,96 @@
       "id": "jeena-sikho-hiims-hospital-greater-noida-shuddhi-ayurveda"
     },
     {
+      "practiceName": "Sri Venkateswara Ayurvedic Hospital (Head Office)",
+      "practitioners": [
+        {
+          "name": "Dr Konda Venkateswarlu",
+          "qualification": "MD (Panchakarma), Dip in Yoga (Kerala)",
+          "registration": {
+            "number": "1675",
+            "source": "https://srivenkateswaraayurvedichospital.com/about.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "Back Side Bhashyam Rama Sethu Campus, YSR Circle, MG Inner Ring Road",
+        "locality": "Gorantla",
+        "city": "Guntur",
+        "pin": "522034",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 94403 53099",
+        "+91 94408 70099"
+      ],
+      "website": "https://srivenkateswaraayurvedichospital.com/",
+      "email": "drkondaayurveda@gmail.com",
+      "hours": "OPD: Monday to Saturday 09:00 AM to 8:30 PM; Sunday 09:00 AM to 1:30 PM",
+      "services": [
+        "Vamana",
+        "Virechana",
+        "Nasyam",
+        "Vasti",
+        "Raktamokshana",
+        "Pizhichil",
+        "Lepam",
+        "Kizhi",
+        "Udwarthanam",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://srivenkateswaraayurvedichospital.com/contact.php",
+        "practitioners": "https://srivenkateswaraayurvedichospital.com/about.php",
+        "address": "https://srivenkateswaraayurvedichospital.com/contact.php",
+        "phone": "https://srivenkateswaraayurvedichospital.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sri-venkateswara-ayurvedic-hospital-head-office"
+    },
+    {
+      "practiceName": "Sree Sai Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr CH.V.S. Koteswar Rao",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "MSR Complex, Bose Bomma Centre",
+        "locality": "Kothapeta",
+        "city": "Guntur",
+        "pin": "522001",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 94410 72007",
+        "+91 863 356 0808"
+      ],
+      "website": "https://www.sreesaiayurvedaclinic.com/",
+      "email": null,
+      "hours": "Monday to Saturday: 10:00 AM to 2:00 PM, 5:00 PM to 8:00 PM",
+      "services": [
+        "Kshara Sutra",
+        "Panchakarma",
+        "Kizhi",
+        "Nasyam",
+        "Leech therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.sreesaiayurvedaclinic.com/contact-us/",
+        "practitioners": "https://www.sreesaiayurvedaclinic.com/about-us/",
+        "address": "https://www.sreesaiayurvedaclinic.com/contact-us/",
+        "phone": "https://www.sreesaiayurvedaclinic.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sree-sai-ayurveda-clinic"
+    },
+    {
       "practiceName": "Kiaan Ayurveda, DLF Phase 1",
       "practitioners": [
         {
@@ -27795,6 +27885,528 @@
       "id": "sri-sri-wellbeing-centre-lucknow"
     },
     {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Main Branch, Alagappan Nagar",
+      "practitioners": [
+        {
+          "name": "Dr S Dhanvanthri Premvel",
+          "qualification": "BAMS, FICA, FWAIM (USA)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vishak P Dhanvanthri",
+          "qualification": "BAMS, MD (Ayurveda, Panchakarma)",
+          "registration": {
+            "number": "47658",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        },
+        {
+          "name": "Dr U R Vishnu Dev",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr M Shivasri",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr S K Sandhya",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr S Kiran",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "C-108, Sundarar Street, Alagappan Nagar",
+        "locality": "Alagappan Nagar",
+        "city": "Madurai",
+        "pin": "625003",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 73737 07970",
+        "+91 73737 07960",
+        "+91 452 269 2721"
+      ],
+      "website": "https://dhanvanthri.in/",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_contact_us.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_main_branch.php",
+        "address": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_contact_us.php",
+        "phone": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_contact_us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-main-branch"
+    },
+    {
+      "practiceName": "AVN Arogya Ayurvedic Centre, TVS Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Jyothish Bharatan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Lakshmi Hospital Premises (TVS Hospital)",
+        "locality": "Chockikulam",
+        "city": "Madurai",
+        "pin": "625002",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 93848 39567"
+      ],
+      "website": "https://www.avnarogya.in/locations/madurai/tallakulam",
+      "email": "tvsclinic@avnarogya.in",
+      "hours": "Mon to Sat 9:30 AM to 6:30 PM; Sun closed",
+      "services": [
+        "Outpatient consultations",
+        "Panchakarma",
+        "Kerala therapies",
+        "Pharmacy",
+        "Telemedicine",
+        "Follow-up care"
+      ],
+      "sources": {
+        "practiceName": "https://www.avnarogya.in/locations/madurai/tallakulam",
+        "practitioners": "https://www.avnarogya.in/locations/madurai/tallakulam",
+        "address": "https://www.avnarogya.in/locations/madurai/tallakulam",
+        "phone": "https://www.avnarogya.in/locations/madurai/tallakulam"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "avn-arogya-ayurvedic-centre-tvs-hospital"
+    },
+    {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinic and Panchakarma Centre, Madurai",
+      "practitioners": [
+        {
+          "name": "Dr Arjun Babu",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Minu Padmini N",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rajesh N S",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shan A H",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Krishnadas CN",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "God's Garden, 2nd Floor, 4 Royal Street, 70 Feet Road, Raja Muthaiya Nagar",
+        "locality": "Ellis Nagar",
+        "city": "Madurai",
+        "pin": "625010",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 88704 96008",
+        "+91 94977 24244"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/madurai",
+      "email": "maduraibranch@sreedhareeyam.com",
+      "hours": "Mon to Sun 9:00 AM to 5:30 PM",
+      "services": [
+        "Ayurvedic eye care",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.sreedhareeyam.com/madurai",
+        "practitioners": "https://clinics.sreedhareeyam.com/madurai/doctors",
+        "address": "https://clinics.sreedhareeyam.com/madurai",
+        "phone": "https://clinics.sreedhareeyam.com/madurai"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sreedhareeyam-ayurvedic-eye-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Al-Ameen Nagar",
+      "practitioners": [
+        {
+          "name": "Dr B Devigaa",
+          "qualification": "BAMS, Dip (Panchakarma)",
+          "registration": {
+            "number": "4876/A",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "No. 1/87, Al-Ameen Nagar 2nd Street, near Ethim Gana, Al-Ameen Nagar",
+        "locality": "K Pudur",
+        "city": "Madurai",
+        "pin": "625007",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 96299 39430"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_alameennagar.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_alameennagar.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_alameennagar.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_alameennagar.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_alameennagar.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-al-ameen-nagar"
+    },
+    {
+      "practiceName": "Triphala Royal Ayurvedic Hospital",
+      "practitioners": [
+        {
+          "name": "Dr V Jagadeesh Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "TC 34/44, Valliammai Illam, 120 Feet Road, Surveyor Colony",
+        "locality": "K Pudur",
+        "city": "Madurai",
+        "pin": "625007",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 91590 66699"
+      ],
+      "website": "https://www.triphalaroyalayurvedichospital.com/",
+      "email": "triphalaroyalayurvedichospital@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic treatment",
+        "Varma treatment",
+        "Panchakarma therapies"
+      ],
+      "sources": {
+        "practiceName": "https://www.triphalaroyalayurvedichospital.com/",
+        "practitioners": "https://www.triphalaroyalayurvedichospital.com/",
+        "address": "https://www.triphalaroyalayurvedichospital.com/",
+        "phone": "https://www.triphalaroyalayurvedichospital.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "triphala-royal-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, KK Nagar",
+      "practitioners": [
+        {
+          "name": "Dr S Sundaram (a) Renu",
+          "qualification": "BAMS, DBFM, PGDip (Yoga)",
+          "registration": {
+            "number": "341/A (old AA 28033)",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "No. 515, K.K. Nagar West 2nd Street, opp. Law College and ESI Zonal Office Road",
+        "locality": "KK Nagar",
+        "city": "Madurai",
+        "pin": "625020",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 73737 07930"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_kknagar.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_kknagar.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_kknagar.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_kknagar.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_kknagar.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-kk-nagar"
+    },
+    {
+      "practiceName": "Haridra Holistic Royal Ayurvedic Treatment Centre",
+      "practitioners": [
+        {
+          "name": "Dr V Vijayabeeshmar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No. 41, 2nd Street, behind Vetri Cinemas, opp. Mattuthavani Bus Stand, Press Colony, Industrial Estate",
+        "locality": "Mattuthavani",
+        "city": "Madurai",
+        "pin": "625007",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 452 424 3366",
+        "+91 95662 61818",
+        "+91 94446 58482"
+      ],
+      "website": "https://www.haridraayurvedictreatmentcentre.com/",
+      "email": "haridraholisticroyal@gmail.com",
+      "hours": "Consulting 10:00 AM to 8:00 PM",
+      "services": [
+        "Ayurveda",
+        "Siddha and Varma treatments",
+        "Panchakarma",
+        "Kizhi therapies"
+      ],
+      "sources": {
+        "practiceName": "https://www.haridraayurvedictreatmentcentre.com/",
+        "practitioners": "https://www.haridraayurvedictreatmentcentre.com/",
+        "address": "https://www.haridraayurvedictreatmentcentre.com/",
+        "phone": "https://www.haridraayurvedictreatmentcentre.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Absolutely amazing service. Had the best treatment at a decent price. Courteous staff, authentic ayurvedic massages. Completely worth it.",
+          "attribution": "Prasad",
+          "url": "https://www.haridraayurvedictreatmentcentre.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "haridra-holistic-royal-ayurvedic-treatment-centre"
+    },
+    {
+      "practiceName": "Dr K Dhanvanthri Ayurveda Vaidya Salai",
+      "practitioners": [
+        {
+          "name": "Dr S Dhanvanthri Karthicvel",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "41/130, 131-A, Balaji Street, Alagappan Nagar",
+        "locality": "Palanganatham",
+        "city": "Madurai",
+        "pin": "625003",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 73731 16611",
+        "+91 94874 94626",
+        "+91 452 269 2647"
+      ],
+      "website": "https://dhanvanthri.co.in/",
+      "email": "drkarthic@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM; Sun closed",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Abhyangam",
+        "Swedana",
+        "Inpatient facility"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.co.in/",
+        "practitioners": "https://dhanvanthri.co.in/",
+        "address": "https://dhanvanthri.co.in/contact_us.php",
+        "phone": "https://dhanvanthri.co.in/branches.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-k-dhanvanthri-ayurveda-vaidya-salai"
+    },
+    {
+      "practiceName": "AVN Arogya Ayurvedic Hospital, Pasumalai",
+      "practitioners": [
+        {
+          "name": "Dr Biju Madhavan",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sridevi Rajeev Warrier",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Ramesh R Varier",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sreeja Biju",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Keerthy S Namboodiri",
+          "qualification": "BAMS, MD (Ayurveda, Paediatrics)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "175-A, Vilachery Main Road, near Sourashtra College, Kala Malai",
+        "locality": "Pasumalai",
+        "city": "Madurai",
+        "pin": "625004",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 95002 92220"
+      ],
+      "website": "https://www.avnarogya.in/",
+      "email": "contact@avnarogya.in",
+      "hours": "Mon to Sat 8:00 AM to 8:00 PM; Sun 9:00 AM to 6:00 PM",
+      "services": [
+        "Inpatient programmes",
+        "Outpatient consultations",
+        "Panchakarma",
+        "Kerala therapies",
+        "Physiotherapy and rehab",
+        "Pharmacy",
+        "Telemedicine",
+        "Yoga therapy",
+        "Diet and nutrition"
+      ],
+      "sources": {
+        "practiceName": "https://www.avnarogya.in/locations/madurai/vilachery",
+        "practitioners": "https://www.avnarogya.in/locations/madurai/vilachery",
+        "address": "https://www.avnarogya.in/locations/madurai/vilachery",
+        "phone": "https://www.avnarogya.in/locations/madurai/vilachery"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "avn-arogya-ayurvedic-hospital-pasumalai"
+    },
+    {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Villapuram",
+      "practitioners": [
+        {
+          "name": "Dr S K Rajeswari",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "644/A",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "No. 4187, opp. Little Diamonds Matric School, TNHB Colony",
+        "locality": "Villapuram",
+        "city": "Madurai",
+        "pin": "625012",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 93610 82648"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_villapuram.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_villapuram.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_villapuram.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_villapuram.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_villapuram.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-villapuram"
+    },
+    {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Simmakkal",
+      "practitioners": [
+        {
+          "name": "Dr S Sundaram (a) Renu",
+          "qualification": "BAMS, DBFM, PGDip (Yoga)",
+          "registration": {
+            "number": "341/A (old AA 28033)",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "No. 128, North Marat Street, opp. Anjaneyar Temple",
+        "locality": "Yanaikkal",
+        "city": "Madurai",
+        "pin": "625001",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 73737 07917"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_simmakal.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_simmakal.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_simmakal.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_simmakal.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_simmakal.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-simmakkal"
+    },
+    {
       "practiceName": "Dev Bhoomi Medical College of Ayurveda & Hospital",
       "practitioners": [
         {
@@ -28688,6 +29300,47 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "dr-lodha-s-ayurved-panchakarma-and-research-centre-manmad"
+    },
+    {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Melur",
+      "practitioners": [
+        {
+          "name": "Dr S Kaliyammal",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "1659/A",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "Door No. 70, Chettiyar Street, near Oorkavalan Kovil",
+        "locality": "Melur",
+        "city": "Melur",
+        "pin": "625106",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 63742 80024"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_melur.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_melur.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_melur.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_melur.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_melur.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-melur"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
@@ -44708,6 +45361,47 @@
       "id": "vaidyagrama-ayurveda-healing-village"
     },
     {
+      "practiceName": "Dhanvanthri Nilayam Ayurveda Vaidhyasalai, Thirumangalam",
+      "practitioners": [
+        {
+          "name": "Dr S K Rajeswari",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "644/A",
+            "source": "https://dhanvanthri.in/ayurveda_treatment_dhanvanthri_nilayam_doctors.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "No. 112, Kattu Mariamman Kovil Street, near Kamarajar Shopping Complex",
+        "locality": "Thirumangalam",
+        "city": "Thirumangalam",
+        "pin": "625706",
+        "state": "Tamil Nadu"
+      },
+      "phone": [
+        "+91 83001 47211"
+      ],
+      "website": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_thirumangalam.php",
+      "email": "drpremvelofficial@gmail.com",
+      "hours": "Mon to Sat 8:30 AM to 8:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Yoga therapy"
+      ],
+      "sources": {
+        "practiceName": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_thirumangalam.php",
+        "practitioners": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_thirumangalam.php",
+        "address": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_thirumangalam.php",
+        "phone": "https://dhanvanthri.in/ayurvedic_treatment_dhanvanthri_nilayam_contact_us_thirumangalam.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dhanvanthri-nilayam-ayurveda-vaidhyasalai-thirumangalam"
+    },
+    {
       "practiceName": "Anandalakshmi Ayurveda Retreat",
       "practitioners": [
         {
@@ -47843,6 +48537,199 @@
       "id": "jiva-ayurveda-clinic-sigra"
     },
     {
+      "practiceName": "Pillaiyar Ayurveda Vaidyasala (Multi-speciality Hospital and Research Centre)",
+      "practitioners": [
+        {
+          "name": "Dr Grandhi Satya Prasanth",
+          "qualification": "MS (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gate-2, Annapurna Devi Street, opp. Chitturi High School",
+        "locality": "Gandhi Nagar",
+        "city": "Vijayawada",
+        "pin": "520003",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 94924 69230"
+      ],
+      "website": "https://pillaiyarayurveda.com/",
+      "email": "pillaiyarayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Consultation",
+        "Panchakarma",
+        "Kshara Karma",
+        "Kshara Sutra",
+        "Agnikarma",
+        "Raktamokshana",
+        "Ayurveda cosmetology",
+        "Yoga and nutrition",
+        "In-patient facility",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://pillaiyarayurveda.com/",
+        "practitioners": "https://pillaiyarayurveda.com/",
+        "address": "https://pillaiyarayurveda.com/",
+        "phone": "https://pillaiyarayurveda.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "From the moment I walked in, I felt a sense of calm and tranquility. The practitioners are knowledgeable, compassionate, and truly dedicated to their patients' health and happiness.",
+          "attribution": "Manoj",
+          "url": "https://pillaiyarayurveda.com/"
+        },
+        {
+          "excerpt": "The practitioners here are incredibly skilled and passionate about what they do.",
+          "attribution": "Nalini",
+          "url": "https://pillaiyarayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "pillaiyar-ayurveda-vaidyasala-multi-speciality-hospital-and"
+    },
+    {
+      "practiceName": "Regional Ayurveda Research Institute, Vijayawada (CCRAS)",
+      "practitioners": [
+        {
+          "name": "Dr C. Murali Krishna",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "New Rajiv Nagar",
+        "locality": "Payakapuram",
+        "city": "Vijayawada",
+        "pin": "520015",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 866 294 1757"
+      ],
+      "website": "https://ccras.nic.in/rari-vijayawada/",
+      "email": "narivbd-vijayawada@gov.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/institutes-contact-details/",
+        "practitioners": "https://ccras.nic.in/institutes-contact-details/",
+        "address": "https://ccras.nic.in/institutes-contact-details/",
+        "phone": "https://ccras.nic.in/institutes-contact-details/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "regional-ayurveda-research-institute-vijayawada-ccras"
+    },
+    {
+      "practiceName": "Travancore Ayurveda, Siddhartha Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Md Zameer Irfan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr N.B.K. Sundari",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "RS No 18/4, D No 60-8-7/2, Opp. Diners Club, 5th Lane, Polyclinic Road, near Benz Circle",
+        "locality": "Siddhartha Nagar",
+        "city": "Vijayawada",
+        "pin": "520010",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 866 248 1812",
+        "+91 97035 77763"
+      ],
+      "website": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/",
+      "email": "info@travancoreayurveda.com",
+      "hours": "Mon to Sun, 07:00 am to 08:00 pm",
+      "services": [
+        "Consultation",
+        "Panchakarma",
+        "Kati Vasti",
+        "Pizhichil",
+        "Nasyam",
+        "Talapodichil"
+      ],
+      "sources": {
+        "practiceName": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/",
+        "practitioners": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/",
+        "address": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/",
+        "phone": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Amal and Ramu has done very well…..we are very happy while doing body massage…they also explained the benefits of it and well experienced guys too…….recommended.",
+          "attribution": "Rafi Khan",
+          "url": "https://www.travancoreayurveda.com/ayurvedic-clinic-vijayawada/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "travancore-ayurveda-siddhartha-nagar"
+    },
+    {
+      "practiceName": "Shanmuga Ayur",
+      "practitioners": [
+        {
+          "name": "Dr Vidya Sagar Badisa",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Old Madhu Restaurant, KMR Complex, 29-37-7/1A",
+        "locality": "Suryaraopeta",
+        "city": "Vijayawada",
+        "pin": "520002",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 70229 96455",
+        "+91 76006 60234"
+      ],
+      "website": "https://www.shanmugaayur.in/",
+      "email": "shanmugaayur@gmail.com",
+      "hours": null,
+      "services": [
+        "Shirodhara",
+        "Nasyam",
+        "Vasti",
+        "Shirovasti",
+        "Urovasti",
+        "Udwartana",
+        "Abhyanga",
+        "Karna-poorana"
+      ],
+      "sources": {
+        "practiceName": "https://www.shanmugaayur.in/contact-us-shanmuga-ayur",
+        "practitioners": "https://www.shanmugaayur.in/about-us-shanmuga-ayur",
+        "address": "https://www.shanmugaayur.in/contact-us-shanmuga-ayur",
+        "phone": "https://www.shanmugaayur.in/contact-us-shanmuga-ayur"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The doctor was very professional and efficient and explaining everything.he was extremely helpful and polite...I strongly recommend this hospital.",
+          "attribution": "Nasaraiah Madala",
+          "url": "https://www.shanmugaayur.in/about-us-shanmuga-ayur"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shanmuga-ayur"
+    },
+    {
       "practiceName": "Travancore Ayurveda, Dasapalla Hills",
       "practitioners": [
         {
@@ -48332,6 +49219,57 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "datta-meghe-ayurvedic-medical-college-hospital-and-research"
+    },
+    {
+      "practiceName": "Yerukalapudi Ayurvedic Hospital (Dr Chandu Subbarao Hanumanth Rao Memorial Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Chandu Sunil Kumar",
+          "qualification": "BAMS, MD (Ayu), MSc (Psy)",
+          "registration": {
+            "number": "716/A/2012",
+            "source": "https://yerukalapudihospital.com/"
+          }
+        },
+        {
+          "name": "Dr Chandu Sravanya",
+          "qualification": "BAMS, MSc (Psy)",
+          "registration": {
+            "number": "715/A/2012",
+            "source": "https://yerukalapudihospital.com/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Dr Chandu Subbarao Hanumanth Rao Memorial Hospital, Via Nandivelugu, Tenali mandal",
+        "locality": "Yerukalapudi",
+        "city": "Yerukalapudi",
+        "pin": "522306",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 99896 16699"
+      ],
+      "website": "https://yerukalapudihospital.com/",
+      "email": "info@yerukalapudihospital.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Sirovasthi",
+        "Udwarthanam",
+        "Abhyangam"
+      ],
+      "sources": {
+        "practiceName": "https://yerukalapudihospital.com/contact-us/",
+        "practitioners": "https://yerukalapudihospital.com/",
+        "address": "https://yerukalapudihospital.com/contact-us/",
+        "phone": "https://yerukalapudihospital.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "yerukalapudi-ayurvedic-hospital-dr-chandu-subbarao-hanumanth"
     },
     {
       "practiceName": "Dirghayu Arogya Kendra",
