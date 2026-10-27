@@ -185,9 +185,11 @@ for (const p of pages) {
      * keyed `guide/x` and its directory never matches. So the data-dated directories are named
      * instead, which is the honest statement of where the ledger's authority ends.
      */
-    const DATA_DATED = new Set(['lexicon', 'concept']);
+    // /practitioners/ is dated by when each listing was checked, not by the ledger, and its locality
+    // slugs collide with herb slugs: /practitioners/ahmedabad/bhadra/ resolved to herb/bhadra.
+    const DATA_DATED = new Set(['lexicon', 'concept', 'practitioners']);
 
-    const entry = DATA_DATED.has(dir)
+    const entry = DATA_DATED.has(dir) || DATA_DATED.has(segs[0])
       ? null
       : LEDGER[`${dir}/${pslug}`]
         ?? Object.entries(LEDGER).filter(([k]) => k.endsWith(`/${pslug}`)).map(([, v]) => v)[0];
