@@ -73,7 +73,7 @@ const CITY_STATE: Record<string, string> = {
   faridabad: 'Haryana', secunderabad: 'Telangana', gandhinagar: 'Gujarat', howrah: 'West Bengal',
   kochi: 'Kerala', aluva: 'Kerala', tripunithura: 'Kerala', thiruvananthapuram: 'Kerala', thrissur: 'Kerala', nattika: 'Kerala',
   kozhikode: 'Kerala', mukkam: 'Kerala', jaipur: 'Rajasthan', 'rampura-dabri': 'Rajasthan',
-  assagao: 'Goa', mandrem: 'Goa', panaji: 'Goa', mapusa: 'Goa', dhargal: 'Goa', valpoi: 'Goa', shiroda: 'Goa', colva: 'Goa', margao: 'Goa', ponda: 'Goa', varca: 'Goa', benaulim: 'Goa', chicalim: 'Goa', curchorem: 'Goa', balli: 'Goa', chinchinim: 'Goa', curtorim: 'Goa', dharbandora: 'Goa',
+  goa: 'Goa', assagao: 'Goa', mandrem: 'Goa', panaji: 'Goa', mapusa: 'Goa', dhargal: 'Goa', valpoi: 'Goa', shiroda: 'Goa', colva: 'Goa', margao: 'Goa', ponda: 'Goa', varca: 'Goa', benaulim: 'Goa', chicalim: 'Goa', curchorem: 'Goa', balli: 'Goa', chinchinim: 'Goa', curtorim: 'Goa', dharbandora: 'Goa',
   rishikesh: 'Uttarakhand', haridwar: 'Uttarakhand', dehradun: 'Uttarakhand', doiwala: 'Uttarakhand', selaqui: 'Uttarakhand', manduwala: 'Uttarakhand', kunaw: 'Uttarakhand', guruvayur: 'Kerala', irinjalakuda: 'Kerala', chalakudy: 'Kerala', kodungallur: 'Kerala',
   kunnamkulam: 'Kerala', neyyattinkara: 'Kerala', feroke: 'Kerala', koyilandy: 'Kerala',
 };
