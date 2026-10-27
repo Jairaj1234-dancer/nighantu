@@ -13440,6 +13440,47 @@
       "id": "aushadh-ayurved-panchakarma-sushant-lok-1"
     },
     {
+      "practiceName": "Ayurlife",
+      "practitioners": [
+        {
+          "name": "Dr Sandipan Santra",
+          "qualification": "BAMS (Cal), Dip Q.A.Q.C. (Pune)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "I. R. Belilious Lane, near Anjali Jewellers, Panchanantala Road",
+        "locality": "Howrah Maidan",
+        "city": "Howrah",
+        "pin": "711101"
+      },
+      "phone": [
+        "+91 98303 32926",
+        "+91 98302 12140"
+      ],
+      "website": "https://ayurlife.co.in/",
+      "email": "ayurlifetreatment@gmail.com",
+      "hours": "Saturday 12 pm to 7 pm, Sunday 10 am to 5 pm, Thursday 3 pm to 8 pm",
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Basti",
+        "Nasya",
+        "Jaloukavacharana (leech therapy)",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayurlife.co.in/",
+        "practitioners": "https://ayurlife.co.in/ayurvedic-doctors/",
+        "address": "https://ayurlife.co.in/contact/",
+        "phone": "https://ayurlife.co.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "ayurlife"
+    },
+    {
       "practiceName": "Sreedhareeyam Ayurvedic Eye Care Hospital and Panchakarma Centre, Hyderabad (Abids)",
       "practitioners": [
         {
@@ -15847,6 +15888,391 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "tattvaveda-ayurvedic-clinic"
+    },
+    {
+      "practiceName": "Swasti Ayurveda Clinic, Dunlop",
+      "practitioners": [
+        {
+          "name": "Dr Pradip Kumar Seth",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "127/1, B.T. Road, Near Bharat Gas, Dunlop",
+        "locality": "Baranagar",
+        "city": "Kolkata",
+        "pin": "700108"
+      },
+      "phone": [
+        "+91 94345 14863"
+      ],
+      "website": "https://swastiayurvedaclinic.com/",
+      "email": "swastiayurvedaclinic@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kshar Sutra Therapy",
+        "Uttar Vasti Therapy",
+        "Rejuvenation Therapy",
+        "Spine and Neck Care Programme",
+        "Beauty Care Programme"
+      ],
+      "sources": {
+        "practiceName": "https://swastiayurvedaclinic.com/contactus.html",
+        "practitioners": "https://swastiayurvedaclinic.com/aboutproprietor.html",
+        "address": "https://swastiayurvedaclinic.com/contactus.html",
+        "phone": "https://swastiayurvedaclinic.com/contactus.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "swasti-ayurveda-clinic-dunlop"
+    },
+    {
+      "practiceName": "Ayur Healing, Ayurveda and Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Jyoti Lakhani",
+          "qualification": "Founder",
+          "registration": null
+        },
+        {
+          "name": "Dr Manish Pillewan",
+          "qualification": "Senior Consultant",
+          "registration": null
+        },
+        {
+          "name": "Dr Sonia Mahajan",
+          "qualification": "Senior Consultant",
+          "registration": null
+        },
+        {
+          "name": "Dr Subodh Pal",
+          "qualification": "Agnikarma Specialist",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1/11A, Rup Chand Mukherjee Lane, Ground Floor, near Bhawanipur Police Station",
+        "locality": "Bhowanipore",
+        "city": "Kolkata",
+        "pin": "700025"
+      },
+      "phone": [
+        "+91 93301 28199"
+      ],
+      "website": "https://www.ayurhealing.com/",
+      "email": null,
+      "hours": "Monday to Saturday, 10:00 AM to 6:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Agnikarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurhealing.com/about-us/",
+        "practitioners": "https://www.ayurhealing.com/about-us/",
+        "address": "https://www.ayurhealing.com/contact-us/",
+        "phone": "https://www.ayurhealing.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayur-healing-ayurveda-and-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Shuddhi Clinic (Jeena Sikho HiiMS Clinic), Nandan Road",
+      "practitioners": [
+        {
+          "name": "Dr Rupesh Raj",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "25A Nandan Road, near Netaji Bhaban Metro Station, opposite Gaja Park",
+        "locality": "Bhowanipore",
+        "city": "Kolkata",
+        "pin": "700025"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/kolkata",
+      "email": null,
+      "hours": "Monday to Saturday 9:00 AM to 6:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/kolkata",
+        "practitioners": "https://clinics.shuddhi.com/clinic/kolkata",
+        "address": "https://clinics.shuddhi.com/clinic/kolkata",
+        "phone": "https://clinics.shuddhi.com/clinic/kolkata"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shuddhi-clinic-jeena-sikho-hiims-clinic-nandan-road"
+    },
+    {
+      "practiceName": "Beelive Ayurvedic Wellness Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Tapas Chatterjee",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sutapa Chakraborty",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Arnab Ray",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Suite No. 208, Ecosuite Business Tower, Tali Park",
+        "locality": "New Town",
+        "city": "Kolkata",
+        "pin": "700052"
+      },
+      "phone": [
+        "+91 73050 56565"
+      ],
+      "website": "https://beelive.co.in/",
+      "email": "info@beelive.co.in",
+      "hours": "Tue to Sun 8:00 am to 8:00 pm; Monday closed",
+      "services": [
+        "Panchakarma",
+        "Kshar Sutra",
+        "Leech Therapy",
+        "Swarna Prashan",
+        "Lifestyle Consultation",
+        "Meditation and Yoga",
+        "Marma Therapy"
+      ],
+      "sources": {
+        "practiceName": "https://beelive.co.in/",
+        "practitioners": "https://beelive.co.in/about-us/",
+        "address": "https://beelive.co.in/contact_us/",
+        "phone": "https://beelive.co.in/contact_us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "beelive-ayurvedic-wellness-clinic"
+    },
+    {
+      "practiceName": "Jeena Sikho HiiMS Hospital Kolkata New Town",
+      "practitioners": [
+        {
+          "name": "Dr Mir Rohijuudin",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashish Yadav",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Pinak Nath",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Trisha Mukhopadhyay",
+          "qualification": "MD Dravyaguna",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "43 Premises, Block A, Plot No AI, Action Area 1A",
+        "locality": "New Town",
+        "city": "Kolkata",
+        "pin": "700156"
+      },
+      "phone": [
+        "+91 87920 87920",
+        "+91 81920 89920"
+      ],
+      "website": "https://hiims.in/hospital/kolkata-new-town/",
+      "email": "care@jeenasikho.com",
+      "hours": "Mon to Sun 8:00 am to 7:00 pm",
+      "services": [
+        "Panchakarma",
+        "Naturopathy",
+        "Yoga and Meditation",
+        "Inpatient and outpatient care"
+      ],
+      "sources": {
+        "practiceName": "https://hiims.in/hospital/kolkata-new-town/",
+        "practitioners": "https://hiims.in/hospital/kolkata-new-town/",
+        "address": "https://hiims.in/hospital/kolkata-new-town/",
+        "phone": "https://hiims.in/hospital/kolkata-new-town/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "jeena-sikho-hiims-hospital-kolkata-new-town"
+    },
+    {
+      "practiceName": "Sriveda, Rajarhat",
+      "practitioners": [
+        {
+          "name": "Dr Sasanka Chowdhury",
+          "qualification": "BAMS (WBUHS)",
+          "registration": null
+        },
+        {
+          "name": "Dr Konika Anand",
+          "qualification": "BAMS (VBU, Ranchi)",
+          "registration": null
+        },
+        {
+          "name": "Dr C. K. Yadav",
+          "qualification": "BAMS (WBUHS), Nadi Vaidya",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Silveroak Estate, Tower 2, Commercial Space, Rajarhat Main Road, Kalipark",
+        "locality": "Rajarhat",
+        "city": "Kolkata",
+        "pin": "700136"
+      },
+      "phone": [
+        "+91 74396 34806",
+        "+91 85839 97586"
+      ],
+      "website": "https://sriveda.in/",
+      "email": "sriveda1stinfo@gmail.com",
+      "hours": "Mon and Wed to Sun 10:00 am to 8:00 pm; Tuesday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://sriveda.in/",
+        "practitioners": "https://sriveda.in/doctors/",
+        "address": "https://sriveda.in/contact/",
+        "phone": "https://sriveda.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "sriveda-rajarhat"
+    },
+    {
+      "practiceName": "Central Ayurveda Research Institute (CCRAS), Kolkata",
+      "practitioners": [
+        {
+          "name": "Dr Tushar Kanti Mandal",
+          "qualification": "Assistant Director (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dipsundar Sahu",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ranjita Ekka",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Suparna Saha",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shakti Bhushan",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Saroj Kumar Debnath",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4-CN Block, Sector V, Bidhannagar",
+        "locality": "Salt Lake Sector V",
+        "city": "Kolkata",
+        "pin": "700091"
+      },
+      "phone": [
+        "+91 33 2367 3881",
+        "+91 33 2367 1002"
+      ],
+      "website": "https://ccras.nic.in/cari-kolkata/",
+      "email": "nriadd-kolkata@gov.in",
+      "hours": "General OPD registration 10:00 am to 12:30 pm, daily except second Saturday, Sundays and holidays",
+      "services": [
+        "General OPD",
+        "20-bed IPD",
+        "Panchakarma Clinic",
+        "Ano-Rectal (Ksharasutra) Clinic",
+        "Geriatric Health Care Clinic"
+      ],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/cari-kolkata/",
+        "practitioners": "https://ccras.nic.in/employees-at-cari-kolkata/",
+        "address": "https://ccras.nic.in/wp-content/uploads/2023/08/Kolkata-1.pdf",
+        "phone": "https://ccras.nic.in/wp-content/uploads/2023/08/Kolkata-1.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "central-ayurveda-research-institute-ccras-kolkata"
+    },
+    {
+      "practiceName": "Prasida Ayurveda Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Sabitha Pradyumna",
+          "qualification": "BAMS, MD (Dravyaguna)",
+          "registration": null
+        },
+        {
+          "name": "Dr C. M. Pradyumna",
+          "qualification": "BAMS, MD (Dravyaguna)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "R-5, Millennium City, DN 62, Sector V",
+        "locality": "Salt Lake Sector V",
+        "city": "Kolkata",
+        "pin": "700091"
+      },
+      "phone": [
+        "+91 33 2334 8108",
+        "+91 98746 08108"
+      ],
+      "website": "http://www.prasida.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle guidance",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "http://www.prasida.com/",
+        "practitioners": "http://www.prasida.com/team-prasida.html",
+        "address": "http://www.prasida.com/",
+        "phone": "http://www.prasida.com/contact--forms.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-26",
+      "id": "prasida-ayurveda-clinic"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
