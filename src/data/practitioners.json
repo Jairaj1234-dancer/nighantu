@@ -6752,6 +6752,98 @@
       "id": "tatkshana-ayurveda-hospital-yeshwanthpur"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Besa",
+      "practitioners": [
+        {
+          "name": "Dr Pallavi Tamgade",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shiv Om Apartment, 1st Floor, Besa Road, DP Road, Chatrapati Shahu Maharaj Garden",
+        "locality": "Besa",
+        "city": "Besa",
+        "pin": "440037"
+      },
+      "phone": [
+        "+91 93598 84795"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-besa-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-besa-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-besa-nagpur",
+        "address": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-besa-nagpur",
+        "phone": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-besa-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-besa"
+    },
+    {
+      "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Vrinda Prashant Kadu",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pushpa Chhangani",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sarika Choure",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Bandewar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "P-73, R and C Zone, MIDC Butibori, Satgaon",
+        "locality": "MIDC Butibori",
+        "city": "Butibori",
+        "pin": "441122"
+      },
+      "phone": [
+        "+91 96238 47911",
+        "+91 96738 43111"
+      ],
+      "website": "https://bmacrhbutibori.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Shalyatantra",
+        "Shalakyatantra",
+        "Streerog",
+        "OPD and IPD",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://bmacrhbutibori.com/",
+        "practitioners": "https://bmacrhbutibori.com/online-consultation/",
+        "address": "https://bmacrhbutibori.com/",
+        "phone": "https://bmacrhbutibori.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bhausaheb-mulak-ayurved-college-and-research-hospital"
+    },
+    {
       "practiceName": "K.P. Pathrose Vaidyan's Kandamkulathy Ayursoukhyam Ayurveda Hospital, Athirappilly",
       "practitioners": [
         {
@@ -7004,6 +7096,57 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "softouch-ayurveda-village-hospital-and-retreat"
+    },
+    {
+      "practiceName": "SNJB's Ayurved College and Ayurved & Multispeciality Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Deepali Sachin Chandaliya",
+          "qualification": "BAMS, MD (Medical Director and Principal)",
+          "registration": null
+        },
+        {
+          "name": "Dr Chandan Mahendra Karnawat",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Kanchan Suryakant Khond",
+          "qualification": "BAMS, MD (Panchkarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "(Jain Gurukul), Mumbai-Agra Highway",
+        "locality": "Neminagar",
+        "city": "Chandwad",
+        "pin": "423101"
+      },
+      "phone": [
+        "+91 255 629 9070",
+        "+91 78877 88088"
+      ],
+      "website": "https://snjb.org/ayurved/",
+      "email": "principal.ayurved@snjb.org",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Stree Rog and Prasuti",
+        "Kaumarbhritya"
+      ],
+      "sources": {
+        "practiceName": "https://snjb.org/ayurved/about-hospital/",
+        "practitioners": "https://snjb.org/ayurved/wp-content/uploads/2024/10/List-of-Hospital-Staff.pdf",
+        "address": "https://snjb.org/ayurved/contact-us/",
+        "phone": "https://snjb.org/ayurved/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "snjb-s-ayurved-college-and-ayurved-and-multispeciality"
     },
     {
       "practiceName": "Sanjeevani Ayurveda and Yoga Centre, Adyar",
@@ -11708,6 +11851,48 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "jiva-ayurveda-clinic-and-panchakarma-centre-vasant-kunj"
+    },
+    {
+      "practiceName": "SMBT Ayurved College & Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Gunjal Ankush Haushiram",
+          "qualification": "HOD and Professor, Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Mandalkar Pramod Sakharam",
+          "qualification": "HOD and Professor, Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SMBT Ayurved College & Hospital, Nandi Hills, Igatpuri taluka",
+        "locality": "Nandi Hills",
+        "city": "Dhamangaon",
+        "pin": "422403"
+      },
+      "phone": [
+        "+91 77200 36036"
+      ],
+      "website": "https://ach.smbt.edu.in/",
+      "email": "smbttrust@smbt.edu.in",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Teaching hospital OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://ach.smbt.edu.in/about-hospital.php",
+        "practitioners": "https://ach.smbt.edu.in/pdf/employee-details/faculty-details/11.kayachikitsa.pdf",
+        "address": "https://ach.smbt.edu.in/about-hospital.php",
+        "phone": "https://ach.smbt.edu.in/about-hospital.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "smbt-ayurved-college-and-hospital"
     },
     {
       "practiceName": "AyuSphere Ayurveda Clinic, Palava City",
@@ -24231,6 +24416,48 @@
       "id": "dev-bhoomi-medical-college-of-ayurveda-and-hospital"
     },
     {
+      "practiceName": "Dr Lodha's Ayurved Panchakarma and Research Centre, Manmad",
+      "practitioners": [
+        {
+          "name": "Dr Mohit Lodha",
+          "qualification": "MD Ayurved",
+          "registration": null
+        },
+        {
+          "name": "Dr Ruta Lodha",
+          "qualification": "MD Ayurved",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "D-11, I.U.D.P.",
+        "locality": "Bhavani Chowk",
+        "city": "Manmad",
+        "pin": "423104"
+      },
+      "phone": [
+        "+91 79728 15386"
+      ],
+      "website": "https://drlodha.com/",
+      "email": "info@drlodha.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Nasya"
+      ],
+      "sources": {
+        "practiceName": "https://drlodha.com/",
+        "practitioners": "https://drlodha.com/",
+        "address": "https://drlodha.com/",
+        "phone": "https://drlodha.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-lodha-s-ayurved-panchakarma-and-research-centre-manmad"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Bhayandar East",
       "practitioners": [
         {
@@ -28611,6 +28838,957 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-worli"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Byramji Town",
+      "practitioners": [
+        {
+          "name": "Dr Sandesha Raut",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Above Cyclone Fitness Gym, Opp ICICI Bank, Gondwana Chowk",
+        "locality": "Byramji Town",
+        "city": "Nagpur",
+        "pin": "440013"
+      },
+      "phone": [
+        "+91 84592 24906"
+      ],
+      "website": "https://madhavbaug.org/clinic/byramji-town-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/byramji-town-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/byramji-town-nagpur",
+        "address": "https://madhavbaug.org/clinic/byramji-town-nagpur",
+        "phone": "https://madhavbaug.org/clinic/byramji-town-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-byramji-town"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Dhantoli",
+      "practitioners": [
+        {
+          "name": "Dr Sumera Imran Sabir",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First Floor, Saraf Court, Infront of Yashwant Stadium, Above Deshonti Office",
+        "locality": "Dhantoli",
+        "city": "Nagpur",
+        "pin": "440012"
+      },
+      "phone": [
+        "+91 83291 33008",
+        "+91 87933 32667"
+      ],
+      "website": "https://madhavbaug.org/clinic/dhantoli-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/dhantoli-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/dhantoli-nagpur",
+        "address": "https://madhavbaug.org/clinic/dhantoli-nagpur",
+        "phone": "https://madhavbaug.org/clinic/dhantoli-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-dhantoli"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Dharampeth",
+      "practitioners": [
+        {
+          "name": "Dr Kirti Mirche",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Megh Apartment, Flat No 1, Zenda Chowk Road, Beside Asim Pet Shop",
+        "locality": "Dharampeth",
+        "city": "Nagpur",
+        "pin": "440010"
+      },
+      "phone": [
+        "+91 93251 11748"
+      ],
+      "website": "https://madhavbaug.org/clinic/dharampeth-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/dharampeth-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/dharampeth-nagpur",
+        "address": "https://madhavbaug.org/clinic/dharampeth-nagpur",
+        "phone": "https://madhavbaug.org/clinic/dharampeth-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-dharampeth"
+    },
+    {
+      "practiceName": "Shri Vishwayan Ayurveda Panchkarma Clinic",
+      "practitioners": [
+        {
+          "name": "Vd Piyush Subhash Wankhede",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Vd Rajshree Piyush Wankhede",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "133, 1st Floor, Meher Shelter, Behind Batukbhai Jewellers",
+        "locality": "Dharampeth",
+        "city": "Nagpur",
+        "pin": "440010"
+      },
+      "phone": [
+        "+91 98230 53011"
+      ],
+      "website": "https://vishwayanayurveda.com/",
+      "email": "info.vishwayan@gmail.com",
+      "hours": "Monday to Saturday 10:00 am to 3:00 pm and 5:00 pm to 9:00 pm; Sunday 10:00 am to 1:00 pm",
+      "services": [
+        "Panchakarma",
+        "Abhyangam",
+        "Swedan",
+        "Shirodhara",
+        "Takradhara",
+        "Udvartana",
+        "Kati Basti",
+        "Netratarpanam"
+      ],
+      "sources": {
+        "practiceName": "https://vishwayanayurveda.com/",
+        "practitioners": "https://vishwayanayurveda.com/",
+        "address": "https://vishwayanayurveda.com/contact/",
+        "phone": "https://vishwayanayurveda.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shri-vishwayan-ayurveda-panchkarma-clinic"
+    },
+    {
+      "practiceName": "Kale Piles Hospital and Laser Surgery Center",
+      "practitioners": [
+        {
+          "name": "Dr Virendra Kale",
+          "qualification": "M.S. (Ayu.)",
+          "registration": null
+        },
+        {
+          "name": "Dr Lata Kale",
+          "qualification": "M.S. (Ayu.)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "6, Smruti Nagar, Umred Road, Near Dighori Bus Stop",
+        "locality": "Dighori",
+        "city": "Nagpur",
+        "pin": "440034"
+      },
+      "phone": [
+        "+91 712 274 5515",
+        "+91 91583 92936",
+        "+91 94231 05824"
+      ],
+      "website": "https://kalepileshospital.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ksharsutra",
+        "Ksharvarti",
+        "Ksharkarma",
+        "Anorectal care"
+      ],
+      "sources": {
+        "practiceName": "https://kalepileshospital.com/contact-us/",
+        "practitioners": "https://kalepileshospital.com/dr-virendra-kale-best-piles-surgeon-in-nagpur/",
+        "address": "https://kalepileshospital.com/contact-us/",
+        "phone": "https://kalepileshospital.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kale-piles-hospital-and-laser-surgery-center"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Medical Square",
+      "practitioners": [
+        {
+          "name": "Dr Diwakar Pawar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 66, Ambika Apartment, Hanuman Nagar, Near NGDA Gas Agency, Medical Square",
+        "locality": "Hanuman Nagar",
+        "city": "Nagpur",
+        "pin": "440024"
+      },
+      "phone": [
+        "+91 87880 11241"
+      ],
+      "website": "https://madhavbaug.org/clinic/medical-square-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/medical-square-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/medical-square-nagpur",
+        "address": "https://madhavbaug.org/clinic/medical-square-nagpur",
+        "phone": "https://madhavbaug.org/clinic/medical-square-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-medical-square"
+    },
+    {
+      "practiceName": "Abhyudaya Piles Ayurveda and Laser Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Praveen N Sahave",
+          "qualification": "M.S. (Shalya)",
+          "registration": null
+        },
+        {
+          "name": "Dr Puja P Sahave",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No. 5, Mahapushp Society, Behind Lohar Samaj Building, Shatabdi Square to Manish Nagar Road",
+        "locality": "Manish Nagar",
+        "city": "Nagpur",
+        "pin": "440027"
+      },
+      "phone": [
+        "+91 99707 43318",
+        "+91 92700 51446"
+      ],
+      "website": "https://pilesfistulacure.com/",
+      "email": "pppsahave@gmail.com",
+      "hours": null,
+      "services": [
+        "Ksharsutra",
+        "Anorectal care",
+        "Suvarna Prashan"
+      ],
+      "sources": {
+        "practiceName": "https://pilesfistulacure.com/contact-us/",
+        "practitioners": "https://pilesfistulacure.com/about-us/",
+        "address": "https://pilesfistulacure.com/contact-us/",
+        "phone": "https://pilesfistulacure.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "abhyudaya-piles-ayurveda-and-laser-hospital"
+    },
+    {
+      "practiceName": "Sai Krupa Ayurveda (Dr. Padole's), Medical Square",
+      "practitioners": [
+        {
+          "name": "Dr Mohan Padole",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sai Krupa Building, Near Medical Square Petrol Pump, Medical Square",
+        "locality": "Medical Square",
+        "city": "Nagpur",
+        "pin": "440009"
+      },
+      "phone": [
+        "+91 94221 24018"
+      ],
+      "website": "https://www.drpadolespolyclinic.com/",
+      "email": "info@drpadoleclinic.com",
+      "hours": "Monday to Saturday, 2:00 PM to 6:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.drpadolespolyclinic.com/",
+        "practitioners": "https://www.drpadolespolyclinic.com/",
+        "address": "https://www.drpadolespolyclinic.com/",
+        "phone": "https://www.drpadolespolyclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sai-krupa-ayurveda-dr-padole-s-medical-square"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Mhalgi Nagar Chowk",
+      "practitioners": [
+        {
+          "name": "Dr Rakesh Prabhakar Kukde",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "6/A, Ashirwad Nagar, Opposite Bank of Baroda, Besides Sundar Furniture, Hudkeshwar Road",
+        "locality": "Mhalgi Nagar",
+        "city": "Nagpur",
+        "pin": "440034"
+      },
+      "phone": [
+        "+91 90492 01913"
+      ],
+      "website": "https://madhavbaug.org/clinic/mhalgi-nagar-chowk-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 8:30 PM, Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/mhalgi-nagar-chowk-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/mhalgi-nagar-chowk-nagpur",
+        "address": "https://madhavbaug.org/clinic/mhalgi-nagar-chowk-nagpur",
+        "phone": "https://madhavbaug.org/clinic/mhalgi-nagar-chowk-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-mhalgi-nagar-chowk"
+    },
+    {
+      "practiceName": "AIIMS Nagpur, AYUSH (Ayurveda) OPD",
+      "practitioners": [
+        {
+          "name": "Dr Rajni Kachole",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "All India Institute of Medical Sciences, Plot No. 2, Sector 20, MIHAN",
+        "locality": "MIHAN",
+        "city": "Nagpur",
+        "pin": "441124"
+      },
+      "phone": [
+        "+91 94040 44944"
+      ],
+      "website": "https://aiimsnagpur.edu.in/AboutAyush",
+      "email": "info@aiimsnagpur.edu.in",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Agnikarma",
+        "Viddhakarma",
+        "Swarnaprashan",
+        "Garbhasanskar counselling",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://aiimsnagpur.edu.in/AboutAyush",
+        "practitioners": "https://aiimsnagpur.edu.in/AboutFaculty",
+        "address": "https://aiimsnagpur.edu.in/AboutFaculty",
+        "phone": "https://aiimsnagpur.edu.in/AboutFaculty"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aiims-nagpur-ayush-ayurveda-opd"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Pratap Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Shweta Nishant Wahane",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No.6, Datta Meghe College Gate No.1, Atrey Layout, Kotwal Nagar",
+        "locality": "Pratap Nagar",
+        "city": "Nagpur",
+        "pin": "440022"
+      },
+      "phone": [
+        "+91 97635 92018",
+        "+91 95790 33154"
+      ],
+      "website": "https://madhavbaug.org/clinic/pratap-nagar-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/pratap-nagar-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/pratap-nagar-nagpur",
+        "address": "https://madhavbaug.org/clinic/pratap-nagar-nagpur",
+        "phone": "https://madhavbaug.org/clinic/pratap-nagar-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-pratap-nagar"
+    },
+    {
+      "practiceName": "Dr. Padole's Polyclinic, Ramdaspeth",
+      "practitioners": [
+        {
+          "name": "Dr Mohan Padole",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot No 12, Canal Road, Near Lokmat Square",
+        "locality": "Ramdaspeth",
+        "city": "Nagpur",
+        "pin": "440010"
+      },
+      "phone": [
+        "+91 94221 24018"
+      ],
+      "website": "https://www.drpadolespolyclinic.com/",
+      "email": "info@drpadoleclinic.com",
+      "hours": "Ayurveda consultation (Dr Mohan Padole): Monday to Saturday, 10:00 AM to 2:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pariksha",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.drpadolespolyclinic.com/",
+        "practitioners": "https://www.drpadolespolyclinic.com/",
+        "address": "https://www.drpadolespolyclinic.com/",
+        "phone": "https://www.drpadolespolyclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-padole-s-polyclinic-ramdaspeth"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Zingabai Takli",
+      "practitioners": [
+        {
+          "name": "Dr Chetna Shailesh Fule",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Behind Sai Kirana and General Store, Sai Nagar",
+        "locality": "Zingabai Takli",
+        "city": "Nagpur",
+        "pin": "440030"
+      },
+      "phone": [
+        "+91 73850 46191"
+      ],
+      "website": "https://madhavbaug.org/clinic/zingabai-takli-nagpur",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Heart care programme"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/zingabai-takli-nagpur",
+        "practitioners": "https://madhavbaug.org/clinic/zingabai-takli-nagpur",
+        "address": "https://madhavbaug.org/clinic/zingabai-takli-nagpur",
+        "phone": "https://madhavbaug.org/clinic/zingabai-takli-nagpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-zingabai-takli"
+    },
+    {
+      "practiceName": "Kulkarni Ayurved Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Somadatta Kulkarni",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Prajakta Kulkarni",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st Floor, Kaveri Smruti, opposite Nakshatra Art Shop, Wakilwadi, near Ashok Stambh",
+        "locality": "Ashok Stambh",
+        "city": "Nashik",
+        "pin": "422001"
+      },
+      "phone": [
+        "+91 80427 54433",
+        "+91 90750 73019"
+      ],
+      "website": "https://www.kulkarniayurvedclinic.com/",
+      "email": "prajaktak018@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Garbhasanskar classes",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.kulkarniayurvedclinic.com/",
+        "practitioners": "https://www.kulkarniayurvedclinic.com/",
+        "address": "https://www.kulkarniayurvedclinic.com/",
+        "phone": "https://www.kulkarniayurvedclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kulkarni-ayurved-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Cidco (Untwadi) Nashik",
+      "practitioners": [
+        {
+          "name": "Dr Archana Anil Kelhe",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-9 & G-10 Ground Floor, Manohar Arcade, Behind Chroma Showroom, Near Bharat Petrol Pump, Untwadi",
+        "locality": "Cidco",
+        "city": "Nashik",
+        "pin": "422008"
+      },
+      "phone": [
+        "+91 91303 81663"
+      ],
+      "website": "https://madhavbaug.org/clinic/cidco-nashik",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation for chronic and lifestyle conditions",
+        "Panchakarma therapies",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/cidco-nashik",
+        "practitioners": "https://madhavbaug.org/clinic/cidco-nashik",
+        "address": "https://madhavbaug.org/clinic/cidco-nashik",
+        "phone": "https://madhavbaug.org/clinic/cidco-nashik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-cidco-untwadi-nashik"
+    },
+    {
+      "practiceName": "Jeena Sikho HiiMS Clinic Nashik (Shuddhi Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr Nitesh Patidar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "SCO No. 115, 1st Floor, Bodke Plaza, Dwarka Circle",
+        "locality": "Dwarka",
+        "city": "Nashik",
+        "pin": "422011"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/nasik",
+      "email": null,
+      "hours": "Monday to Saturday 9:00 AM to 6:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/nasik",
+        "practitioners": "https://clinics.shuddhi.com/clinic/nasik",
+        "address": "https://clinics.shuddhi.com/clinic/nasik",
+        "phone": "https://clinics.shuddhi.com/clinic/nasik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jeena-sikho-hiims-clinic-nashik-shuddhi-ayurveda"
+    },
+    {
+      "practiceName": "Ayushman Bhava Ayurveda Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Yogesh Chavan",
+          "qualification": "MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4 Sundarswapn Society, beside Pramod Mahajan Garden, Old Gangapur Naka",
+        "locality": "Gangapur Road",
+        "city": "Nashik",
+        "pin": "422005"
+      },
+      "phone": [
+        "+91 86686 98723",
+        "+91 80427 53729"
+      ],
+      "website": "https://www.ayushmanbhavayurveda.com/",
+      "email": "ayushmanbhavayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Suvarna Prashana",
+        "Video consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayushmanbhavayurveda.com/",
+        "practitioners": "https://www.ayushmanbhavayurveda.com/",
+        "address": "https://www.ayushmanbhavayurveda.com/",
+        "phone": "https://www.ayurvedanashik.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayushman-bhava-ayurveda-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Shree Vishwagovind Ayurvedic Clinic and Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Amol Suryawanshi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Chowk No. 2, Near Vishwas Bank, near Mumbai-Agra National Highway, Mumbai Naka",
+        "locality": "Govind Nagar",
+        "city": "Nashik",
+        "pin": "422009"
+      },
+      "phone": [
+        "+91 99757 48513"
+      ],
+      "website": "https://www.vishwagovind.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.vishwagovind.com/",
+        "practitioners": "https://www.vishwagovind.com/",
+        "address": "https://www.vishwagovind.com/",
+        "phone": "https://www.vishwagovind.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "shree-vishwagovind-ayurvedic-clinic-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Indira Nagar Nashik",
+      "practitioners": [
+        {
+          "name": "Dr Manjusha Nilesh Kulthe",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "5th Floor, Atrey Capital Building, Above Lenskart Showroom, Near Sainath Nagar Chowk, Wadala-Pathardi Road",
+        "locality": "Indira Nagar",
+        "city": "Nashik",
+        "pin": "422009"
+      },
+      "phone": [
+        "+91 94053 26408"
+      ],
+      "website": "https://madhavbaug.org/clinic/indira-nagar-nashik",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation for chronic and lifestyle conditions",
+        "Panchakarma therapies",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/indira-nagar-nashik",
+        "practitioners": "https://madhavbaug.org/clinic/indira-nagar-nashik",
+        "address": "https://madhavbaug.org/clinic/indira-nagar-nashik",
+        "phone": "https://madhavbaug.org/clinic/indira-nagar-nashik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-indira-nagar-nashik"
+    },
+    {
+      "practiceName": "Ayusparsh Panchkarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Siddharth Sadashiv Sonawane",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Dipali Ravibhushan Sonawane",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No 10, Anand Heritage, Mhasoba Nagar Road, near Mauli Lawns, Khutvad",
+        "locality": "Kamatwade",
+        "city": "Nashik",
+        "pin": "422010"
+      },
+      "phone": [
+        "+91 80451 34206",
+        "+91 94216 05196"
+      ],
+      "website": "https://www.ayurvednashik.com/",
+      "email": "info@ayurvednashik.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvednashik.com/",
+        "practitioners": "https://www.ayurvednashik.com/our-doctors/1",
+        "address": "https://www.ayurvednashik.com/about-us",
+        "phone": "https://www.ayurvednashik.com/about-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayusparsh-panchkarma-center"
+    },
+    {
+      "practiceName": "Arogyashala Rugnalaya (Ayurved Seva Sangh teaching hospital)",
+      "practitioners": [
+        {
+          "name": "Vd Vinay Sonambekar",
+          "qualification": "Principal, MS (Ayu) Shalyatantra, PhD",
+          "registration": null
+        },
+        {
+          "name": "Vd Eknath Kulkarni",
+          "qualification": "MD (Ayu), PhD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Vd Kumudini Sawale",
+          "qualification": "MD (Ayu), PhD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Vd Sanjivani Rathod",
+          "qualification": "MD (Ayu), PhD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Vd Harish Garge",
+          "qualification": "MD (Ayu) Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Vd Amogh Joshi",
+          "qualification": "MD (Ayu) Kayachikitsa",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ayurved Seva Sangh, Ganeshwadi",
+        "locality": "Panchavati",
+        "city": "Nashik",
+        "pin": "422003"
+      },
+      "phone": [
+        "+91 253 251 2564"
+      ],
+      "website": "http://arogyashala.org.in/",
+      "email": "arogyshalahospital@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya",
+        "Stree Rog and Prasuti",
+        "Kaumarbhritya",
+        "Agnikarma",
+        "X-ray"
+      ],
+      "sources": {
+        "practiceName": "http://arogyashala.org.in/contact/",
+        "practitioners": "http://arogyashala.org.in/our-experts/",
+        "address": "http://arogyashala.org.in/contact/",
+        "phone": "http://arogyashala.org.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "arogyashala-rugnalaya-ayurved-seva-sangh-teaching-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Panchavati Nashik",
+      "practitioners": [
+        {
+          "name": "Dr Anil Balwant Kelhe",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "103/104, First Floor, Laxmi Residency, Amrutdham Road, Near Bidi Kamgar Chowk, Next to Indira House",
+        "locality": "Panchavati",
+        "city": "Nashik",
+        "pin": "422003"
+      },
+      "phone": [
+        "+91 93563 29843"
+      ],
+      "website": "https://madhavbaug.org/clinic/panchvati-nashik",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation for chronic and lifestyle conditions",
+        "Panchakarma therapies",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/panchvati-nashik",
+        "practitioners": "https://madhavbaug.org/clinic/panchvati-nashik",
+        "address": "https://madhavbaug.org/clinic/panchvati-nashik",
+        "phone": "https://madhavbaug.org/clinic/panchvati-nashik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-panchavati-nashik"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Pandit Colony Nashik",
+      "practitioners": [
+        {
+          "name": "Dr Sarita Sandeep Patil",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Neelayam Heights, Near Devagavkar Hospital, Opposite KTHM College, Old Pandit Colony",
+        "locality": "Pandit Colony",
+        "city": "Nashik",
+        "pin": "422002"
+      },
+      "phone": [
+        "+91 92264 03518"
+      ],
+      "website": "https://madhavbaug.org/clinic/pandit-colony-nashik-central-nashik",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation for chronic and lifestyle conditions",
+        "Panchakarma therapies",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/pandit-colony-nashik-central-nashik",
+        "practitioners": "https://madhavbaug.org/clinic/pandit-colony-nashik-central-nashik",
+        "address": "https://madhavbaug.org/clinic/pandit-colony-nashik-central-nashik",
+        "phone": "https://madhavbaug.org/clinic/pandit-colony-nashik-central-nashik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-pandit-colony-nashik"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Satpur Nashik",
+      "practitioners": [
+        {
+          "name": "Dr Vivek Padmakar Joshi",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr Joshi Ayurved Chikitsa Kendra, Plot No 21, Near Papaya Nursery, Trimbak Road",
+        "locality": "Satpur",
+        "city": "Nashik",
+        "pin": "422012"
+      },
+      "phone": [
+        "+91 95791 21868"
+      ],
+      "website": "https://madhavbaug.org/clinic/satpur-nashik",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation for chronic and lifestyle conditions",
+        "Panchakarma therapies",
+        "Diet, exercise and yoga guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/satpur-nashik",
+        "practitioners": "https://madhavbaug.org/clinic/satpur-nashik",
+        "address": "https://madhavbaug.org/clinic/satpur-nashik",
+        "phone": "https://madhavbaug.org/clinic/satpur-nashik"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "madhavbaug-ayurvedic-clinic-satpur-nashik"
     },
     {
       "practiceName": "The Nattika Beach Ayurveda Resort (Swastha Ayurveda Centre)",
@@ -39317,6 +40495,123 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedapuri-ayurveda"
+    },
+    {
+      "practiceName": "Datta Meghe Ayurvedic Medical College Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Prathmesh Sudhir Vyas",
+          "qualification": "MD Kayachikitsa",
+          "registration": {
+            "number": "I-30964",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Swati S Tikale",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": {
+            "number": "I-68189-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Vignesh Madaswamy Pillai",
+          "qualification": "BAMS, MD Ayurveda (Panchakarma)",
+          "registration": {
+            "number": "I-74715-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Snehal Ramesh Sonwane",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": {
+            "number": "I-95596-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Shubham Sanjay Wasnik",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": {
+            "number": "I-93742-A-1",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Govind Girdharilal Asati",
+          "qualification": "BAMS, MD (Rognidan Evum Vikritivigyan), MD (Kayachikitsa)",
+          "registration": {
+            "number": "I-80760-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Natasha Udgikar",
+          "qualification": "MD Kayachikitsa",
+          "registration": {
+            "number": "I-75970-A-1",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Swanand Avinash Joshi",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": {
+            "number": "I-76452-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Namrata Padalkar Joshi",
+          "qualification": "BAMS, MD (Kayachikitsa), MA (Sanskrit)",
+          "registration": {
+            "number": "I-67393-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        },
+        {
+          "name": "Dr Sneha Shantaram Chanekar",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": {
+            "number": "I-94691-A",
+            "source": "https://dmamchrc.edu.in/faculty/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Wanadongri, Hingna Road",
+        "locality": "Hingna Road",
+        "city": "Wanadongri",
+        "pin": "441110"
+      },
+      "phone": [
+        "+91 97304 68295"
+      ],
+      "website": "https://dmamchrc.edu.in/",
+      "email": "dmachrc@gmail.com",
+      "hours": "OPD: Monday to Friday 9:00 AM to 4:30 PM; Saturday 9:00 AM to 2:00 PM; Sunday closed; 24x7 casualty",
+      "services": [
+        "Panchakarma OPD",
+        "Kayachikitsa OPD",
+        "Swasthya OPD",
+        "Strirog Prasuti Tantra",
+        "Kaumarbhritya",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Inpatient care"
+      ],
+      "sources": {
+        "practiceName": "https://dmamchrc.edu.in/contact-us/",
+        "practitioners": "https://dmamchrc.edu.in/faculty/",
+        "address": "https://dmamchrc.edu.in/contact-us/",
+        "phone": "https://dmamchrc.edu.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "datta-meghe-ayurvedic-medical-college-hospital-and-research"
     }
   ]
 }
