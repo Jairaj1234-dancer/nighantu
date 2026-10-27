@@ -6752,6 +6752,260 @@
       "id": "tatkshana-ayurveda-hospital-yeshwanthpur"
     },
     {
+      "practiceName": "K.P. Pathrose Vaidyan's Kandamkulathy Ayursoukhyam Ayurveda Hospital, Athirappilly",
+      "practitioners": [
+        {
+          "name": "Dr Rosemary Wilson",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shanu Shaji",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Safeera T P",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Greeshma Jaison",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Viripaara Road, Chalakudy - Athirapally Road, Konnakuzhy",
+        "locality": "Athirappilly",
+        "city": "Chalakudy",
+        "pin": "680721"
+      },
+      "phone": [
+        "+91 96459 87700",
+        "+91 96459 37700"
+      ],
+      "website": "https://www.kandamkulathy.com/athirapally",
+      "email": "office@kandamkulathy.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Detox and rejuvenation programmes",
+        "Inpatient care",
+        "Prasava Raksha (postnatal care)"
+      ],
+      "sources": {
+        "practiceName": "https://www.kandamkulathy.com/athirapally",
+        "practitioners": "https://www.kandamkulathy.com/athirapally",
+        "address": "https://www.kandamkulathy.com/hospitals",
+        "phone": "https://www.kandamkulathy.com/hospitals"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "k-p-pathrose-vaidyan-s-kandamkulathy-ayursoukhyam-ayurveda"
+    },
+    {
+      "practiceName": "St. James Hospital, Department of Ayurveda",
+      "practitioners": [
+        {
+          "name": "Prof Dr V Sreekumar",
+          "qualification": "MD",
+          "registration": null
+        },
+        {
+          "name": "Dr George Leon",
+          "qualification": "BAMS, ND, MD (AM)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sr Princy Koyikkalatt",
+          "qualification": "BSc, BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Sr Jancy Jose",
+          "qualification": "BSc, BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "St James' Hospital Building, Main Road",
+        "locality": "Chalakudy",
+        "city": "Chalakudy",
+        "pin": "680307"
+      },
+      "phone": [
+        "+91 480 271 0271",
+        "+91 480 271 0571"
+      ],
+      "website": "https://stjameshospital.co.in/category/departments/ayurveda/",
+      "email": "office@stjameshospital.co.in",
+      "hours": "Prof Dr V Sreekumar: daily 9 am to 1 pm except holidays and second Saturday; Dr George Leon: daily 9 am to 1 pm except holidays, Tuesday and Wednesday; Dr Sr Princy Koyikkalatt: 8 am to 5 pm on all days except holidays",
+      "services": [
+        "Ayurveda OP consultation"
+      ],
+      "sources": {
+        "practiceName": "https://stjameshospital.co.in/category/departments/ayurveda/",
+        "practitioners": "https://stjameshospital.co.in/category/departments/ayurveda/",
+        "address": "https://stjameshospital.co.in/category/departments/ayurveda/",
+        "phone": "https://stjameshospital.co.in/category/departments/ayurveda/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "st-james-hospital-department-of-ayurveda"
+    },
+    {
+      "practiceName": "K.P. Pathrose Vaidyan's Kandamkulathy Ayurveda Hospital, Mala",
+      "practitioners": [
+        {
+          "name": "Dr Rosemary Wilson",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anshiya Alex",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Annamanada - Mala Road, P.O Kuruvilassery, Valiyaparambu",
+        "locality": "Mala",
+        "city": "Chalakudy",
+        "pin": "680732"
+      },
+      "phone": [
+        "+91 90481 06281"
+      ],
+      "website": "https://www.kandamkulathy.com/mala",
+      "email": "office@kandamkulathy.com",
+      "hours": null,
+      "services": [
+        "Outpatient consultation",
+        "Inpatient care",
+        "Panchakarma",
+        "Post-surgical care",
+        "Prasava Raksha (postnatal care)"
+      ],
+      "sources": {
+        "practiceName": "https://www.kandamkulathy.com/mala",
+        "practitioners": "https://www.kandamkulathy.com/mala",
+        "address": "https://www.kandamkulathy.com/hospitals",
+        "phone": "https://www.kandamkulathy.com/mala"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "k-p-pathrose-vaidyan-s-kandamkulathy-ayurveda-hospital-mala"
+    },
+    {
+      "practiceName": "Bethzada Traditional Ayurvedic Centre",
+      "practitioners": [
+        {
+          "name": "Dr Litty M Ittiyachan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Theertha C N",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Thoppil Temple Road, Poolany, Meloor",
+        "locality": "Meloor",
+        "city": "Chalakudy",
+        "pin": "680311"
+      },
+      "phone": [
+        "+91 480 270 3880",
+        "+91 480 271 2131",
+        "+91 94462 63139",
+        "+91 94471 88608"
+      ],
+      "website": "https://www.bethzadatraditionalayurveda.com/",
+      "email": "info@bethzadatraditionalayurveda.com",
+      "hours": "Monday to Saturday 8 AM to 6 PM; Sunday 10 AM to 1 PM",
+      "services": [
+        "Panchakarma",
+        "Nadi Pareeksha",
+        "Yoga",
+        "Ayurveda cosmetology"
+      ],
+      "sources": {
+        "practiceName": "https://www.bethzadatraditionalayurveda.com/",
+        "practitioners": "https://www.bethzadatraditionalayurveda.com/ourdoctors.php",
+        "address": "https://www.bethzadatraditionalayurveda.com/",
+        "phone": "https://www.bethzadatraditionalayurveda.com/ourdoctors.php"
+      },
+      "testimonials": [
+        {
+          "excerpt": "She is an excellent doctor.",
+          "attribution": "Pritha Nair, Cochin",
+          "url": "https://www.bethzadatraditionalayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "bethzada-traditional-ayurvedic-centre"
+    },
+    {
+      "practiceName": "Softouch Ayurveda Village Hospital and Retreat",
+      "practitioners": [
+        {
+          "name": "Dr Henry Prasad",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Jugunu Raj",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjana L R",
+          "qualification": "MS (Prasuti Tantra and Streeroga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjana Sathyan",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Karadan Estate, Poolany, Meloor",
+        "locality": "Meloor",
+        "city": "Chalakudy",
+        "pin": "680311"
+      },
+      "phone": [
+        "+91 97455 70555"
+      ],
+      "website": "https://softouchayurveda.com/",
+      "email": "info@softouchayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Residential Ayurveda programmes",
+        "Ayurvedic gynaecology consultation",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://softouchayurveda.com/about-us",
+        "practitioners": "https://softouchayurveda.com/about-us",
+        "address": "https://softouchayurveda.com/contact-us",
+        "phone": "https://softouchayurveda.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "softouch-ayurveda-village-hospital-and-retreat"
+    },
+    {
       "practiceName": "Sanjeevani Ayurveda and Yoga Centre, Adyar",
       "practitioners": [
         {
@@ -13618,6 +13872,97 @@
       "id": "aushadh-ayurved-panchakarma-sushant-lok-1"
     },
     {
+      "practiceName": "Ayurtoday, Sri Guruvayurappan Ayurveda Nursing Home",
+      "practitioners": [
+        {
+          "name": "Dr Sankaranarayanan K P",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Neenu K Shaji",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Guruvayurappan Ayurveda Nursing Home",
+        "locality": "Guruvayur",
+        "city": "Guruvayur",
+        "pin": "680101"
+      },
+      "phone": [
+        "+91 487 255 6406"
+      ],
+      "website": "https://www.ayurtoday.com/",
+      "email": "Info@ayurtoday.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Online Ayurvedic consultation",
+        "Ayurvedic pharmacy",
+        "Ayur yoga retreat"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurtoday.com/",
+        "practitioners": "https://www.ayurtoday.com/about-us",
+        "address": "https://www.ayurtoday.com/contact",
+        "phone": "https://www.ayurtoday.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurtoday-sri-guruvayurappan-ayurveda-nursing-home"
+    },
+    {
+      "practiceName": "Sreedhareeyam Ayurvedic Eye Clinic and Panchakarma Centre, Guruvayur",
+      "practitioners": [
+        {
+          "name": "Dr Sreekala N P",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Tom Augustine",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Albin Manuel",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gandhi Nagar, West Nada",
+        "locality": "West Nada",
+        "city": "Guruvayur",
+        "pin": "680101"
+      },
+      "phone": [
+        "+91 94960 00660",
+        "+91 94977 24244"
+      ],
+      "website": "https://clinics.sreedhareeyam.com/guruvayur",
+      "email": "guruvayoorcentre@sreedhareeyam.com",
+      "hours": "Mon-Sun 09:00-05:30",
+      "services": [
+        "Ayurvedic eye care",
+        "Panchakarma",
+        "OP consultation"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.sreedhareeyam.com/guruvayur",
+        "practitioners": "https://clinics.sreedhareeyam.com/guruvayur",
+        "address": "https://clinics.sreedhareeyam.com/guruvayur/contact",
+        "phone": "https://clinics.sreedhareeyam.com/guruvayur/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sreedhareeyam-ayurvedic-eye-clinic-and-panchakarma-centre"
+    },
+    {
       "practiceName": "Ayurlife",
       "practitioners": [
         {
@@ -17222,6 +17567,59 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "sahrudaya-naivedya-ayurvedic-hospital"
+    },
+    {
+      "practiceName": "Swasthy Ayurvedic Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Indu R",
+          "qualification": "BAMS, ADH, Naturopathy",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kodungallur Co-operative Hospital Ltd. No. (R)966 Building",
+        "locality": "Kodungallur",
+        "city": "Kodungallur",
+        "pin": "680664"
+      },
+      "phone": [
+        "+91 88917 36737",
+        "+91 88917 36738"
+      ],
+      "website": "https://swasthyayurvedahospital.com/",
+      "email": "swasthyayurvedic@hotmail.com",
+      "hours": "Monday to Saturday 09:00 AM - 05:00 PM",
+      "services": [
+        "Ayurvedic treatment",
+        "Naturopathy",
+        "Dorn therapy",
+        "Ayurvedic gynaecology",
+        "Postnatal care",
+        "Panchakarma",
+        "Detox and diet"
+      ],
+      "sources": {
+        "practiceName": "https://swasthyayurvedahospital.com/",
+        "practitioners": "https://swasthyayurvedahospital.com/ayurveda-hospital-in-and-around-kodungallur.html",
+        "address": "https://swasthyayurvedahospital.com/",
+        "phone": "https://swasthyayurvedahospital.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "I had a wonderful experience here from the moment I arrived. I felt supported, cared for and truly understood.",
+          "attribution": "Nasriya V.A",
+          "url": "https://swasthyayurvedahospital.com/"
+        },
+        {
+          "excerpt": "My 14-day post natal care treatment at Swasthy Ayurvedic hospital was a soothing and relaxing experience.",
+          "attribution": "Sreelekha S Pai",
+          "url": "https://swasthyayurvedahospital.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "swasthy-ayurvedic-hospital"
     },
     {
       "practiceName": "Swasti Ayurveda Clinic, Dunlop",
@@ -21869,6 +22267,86 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-worli"
+    },
+    {
+      "practiceName": "The Nattika Beach Ayurveda Resort (Swastha Ayurveda Centre)",
+      "practitioners": [
+        {
+          "name": "Dr Hema K P",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Suhas S V",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Arul Susan George",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Nitha Gopalan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shaheena S",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Leshma Vijay",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anupriya R R",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Karthik Kannan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Geethu Prakash",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "The Nattika Beach Ayurveda Resort, Nattika Beach P.O",
+        "locality": "Nattika",
+        "city": "Nattika",
+        "pin": "680566"
+      },
+      "phone": [
+        "+91 487 239 6770",
+        "+91 89438 84444",
+        "+91 90723 48923"
+      ],
+      "website": "https://thenattikabeach.com/",
+      "email": "reservation@thenattikabeach.com",
+      "hours": null,
+      "services": [
+        "Ayurveda treatment packages",
+        "Panchakarma",
+        "Ayurvedic diet consultation",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://thenattikabeach.com/contact/",
+        "practitioners": "https://thenattikabeach.com/the-team/",
+        "address": "https://thenattikabeach.com/contact/",
+        "phone": "https://thenattikabeach.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "the-nattika-beach-ayurveda-resort-swastha-ayurveda-centre"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Airoli Sector 3",
@@ -31133,6 +31611,561 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "sreedhareeyam-ayurvedic-eye-clinic-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "AyurGem Ayurvedic Specialty Hospital, OP Division",
+      "practitioners": [
+        {
+          "name": "Dr Subhash Subramanian",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sruthy Subhash",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Dipu Sukumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Usman Sahib",
+          "qualification": "MD (Ay)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Grace Park Building, Next to HDFC Bank",
+        "locality": "Koorkkenchery",
+        "city": "Thrissur",
+        "pin": "680007"
+      },
+      "phone": [
+        "+91 95440 62200",
+        "+91 95440 92200"
+      ],
+      "website": "https://ayurgem.com/",
+      "email": "info@ayurgem.com",
+      "hours": null,
+      "services": [
+        "Ano-Rectal Clinic",
+        "Skin Clinic",
+        "Kidney Clinic",
+        "Orthopaedic care"
+      ],
+      "sources": {
+        "practiceName": "https://ayurgem.com/",
+        "practitioners": "https://ayurgem.com/our-team/",
+        "address": "https://ayurgem.com/contact-us/",
+        "phone": "https://ayurgem.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurgem-ayurvedic-specialty-hospital-op-division"
+    },
+    {
+      "practiceName": "Vaidyaratnam Oushadhasala Branch, Kottappuram",
+      "practitioners": [
+        {
+          "name": "Dr Gopika K",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kottappuram Road, M.G. Road",
+        "locality": "Kottappuram",
+        "city": "Thrissur",
+        "pin": "680004"
+      },
+      "phone": [
+        "+91 487 238 6479"
+      ],
+      "website": "https://vaidyaratnammooss.com/clinics",
+      "email": "ktprm@vaidyaratnam.com",
+      "hours": null,
+      "services": [
+        "Consultation",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnammooss.com/clinics",
+        "practitioners": "https://vaidyaratnammooss.com/clinics",
+        "address": "https://vaidyaratnammooss.com/clinics",
+        "phone": "https://vaidyaratnammooss.com/clinics"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-oushadhasala-branch-kottappuram"
+    },
+    {
+      "practiceName": "Vaidyaratnam Ayurveda College Hospital, Ollur",
+      "practitioners": [
+        {
+          "name": "Dr Radhika Satheesan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rejitha R Warrier",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vargheese Jibi",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vaidyaratnam Ayurveda College, Ollur, Thaikkattussery",
+        "locality": "Ollur",
+        "city": "Thrissur",
+        "pin": "680306"
+      },
+      "phone": [
+        "+91 487 235 3066",
+        "+91 85477 83066"
+      ],
+      "website": "https://vaidyaratnamcollege.org/",
+      "email": "vac.ollur@gmail.com",
+      "hours": null,
+      "services": [
+        "Out-patient departments",
+        "In-patient care (100 beds)",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnamcollege.org/about-vaidyaratnam-ayurveda-hospital/",
+        "practitioners": "https://vaidyaratnamcollege.org/op-doctors-duty/",
+        "address": "https://vaidyaratnamcollege.org/contact-us/",
+        "phone": "https://vaidyaratnamcollege.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-ayurveda-college-hospital-ollur"
+    },
+    {
+      "practiceName": "Vaidyaratnam Ayurveda Hospital (formerly Vaidyaratnam Nursing Home)",
+      "practitioners": [
+        {
+          "name": "Dr K Sudha",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr B Sajini Krishnadas",
+          "qualification": "BAMS, MHA, PGDQA",
+          "registration": null
+        },
+        {
+          "name": "Dr P S Vishnu Prasad",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr S Soumya",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr M Gopu",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr P R Saranya",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Karthika Neelakandan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr M Krishnadas",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr K A Manikandan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Asha Sunny",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vaidyaratnam Road, Ollur, Thaikkattussery PO",
+        "locality": "Ollur",
+        "city": "Thrissur",
+        "pin": "680306"
+      },
+      "phone": [
+        "+91 487 350 4646",
+        "+91 487 350 4647",
+        "+91 62356 92732"
+      ],
+      "website": "https://vaidyaratnamhospitals.com/",
+      "email": "msd@vaidyaratnamayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "In-patient care (NABH accredited)"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnamhospitals.com/nursing-home.php",
+        "practitioners": "https://vaidyaratnamhospitals.com/doctors.php",
+        "address": "https://vaidyaratnamhospitals.com/contact.php",
+        "phone": "https://vaidyaratnamhospitals.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-ayurveda-hospital-formerly-vaidyaratnam-nursing"
+    },
+    {
+      "practiceName": "Ayurvati Vaidyasala",
+      "practitioners": [
+        {
+          "name": "Dr Deepa M R",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "TCMC No 10193",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr P K Geetha",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "TCMC No 5632",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr K U Pambavasan",
+          "qualification": "BSc, BAMS",
+          "registration": {
+            "number": "TCMC No 7639",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr Syam Chandran C",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": {
+            "number": "TCMC No 11842",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr Haridev S",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "TCMC No 13727",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr Nisha B M",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "TCMC No 10187",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        },
+        {
+          "name": "Dr Nirmal Krishnan R",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": {
+            "number": "Register no 20349",
+            "source": "https://ayurvativaidyasala.in/specialists.html"
+          }
+        }
+      ],
+      "address": {
+        "line": "'Chithrakoodam', Peringavu PO",
+        "locality": "Peringavu",
+        "city": "Thrissur",
+        "pin": "680008"
+      },
+      "phone": [
+        "+91 94952 25300"
+      ],
+      "website": "https://ayurvativaidyasala.in/",
+      "email": "ayurvati.vaidyasala@gmail.com",
+      "hours": "Monday to Saturday 9:30 AM to 6:30 PM",
+      "services": [
+        "General Medicine",
+        "Women and Children Health Care",
+        "Skin and Hair Care",
+        "Eye, ENT and Dental Care",
+        "Geriatric Care",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvativaidyasala.in/",
+        "practitioners": "https://ayurvativaidyasala.in/specialists.html",
+        "address": "https://ayurvativaidyasala.in/contact.html",
+        "phone": "https://ayurvativaidyasala.in/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "ayurvati-vaidyasala"
+    },
+    {
+      "practiceName": "SNA Ayurveda Hospital (Thaikkattu Mooss SNA Ayurveda Nursing Home)",
+      "practitioners": [
+        {
+          "name": "Ashtavaidyan P T N Vasudevan Mooss",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Nanma S",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Vinay V Gopal",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kottappuram Road, Poothole PO",
+        "locality": "Poothole",
+        "city": "Thrissur",
+        "pin": "680004"
+      },
+      "phone": [
+        "+91 95441 04442"
+      ],
+      "website": "https://www.moossayurveda.com/",
+      "email": "doctor@moossayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "In-patient care (NABH accredited)"
+      ],
+      "sources": {
+        "practiceName": "https://www.moossayurveda.com/contact.html",
+        "practitioners": "https://www.moossayurveda.com/",
+        "address": "https://www.moossayurveda.com/contact.html",
+        "phone": "https://www.moossayurveda.com/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sna-ayurveda-hospital-thaikkattu-mooss-sna-ayurveda-nursing"
+    },
+    {
+      "practiceName": "Jubilee Ayurveda Mission Hospital and Research Institute",
+      "practitioners": [
+        {
+          "name": "Dr C D Sahadevan",
+          "qualification": "DAM, PGCR",
+          "registration": null
+        },
+        {
+          "name": "Dr N V Sreevaths",
+          "qualification": "BAMS, MD (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr Grettamol M J",
+          "qualification": "BAMS, MS (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr Litty K V",
+          "qualification": "BAMS, PGDO (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr Binu Bahuleyan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Harvin George N",
+          "qualification": "BAMS, MD (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr Saritha Menon K",
+          "qualification": "BAMS, MD (Ay)",
+          "registration": null
+        },
+        {
+          "name": "Dr Parvathy A",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anshiya Alex",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Cheroor PO, Ramavarmapuram, Opp. Police Academy",
+        "locality": "Ramavarmapuram",
+        "city": "Thrissur",
+        "pin": "680631"
+      },
+      "phone": [
+        "+91 92076 55599"
+      ],
+      "website": "https://ayurveda.jmmcri.org/",
+      "email": "ayurveda@jmmc.ac.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://ayurveda.jmmcri.org/contact.php",
+        "practitioners": "https://ayurveda.jmmcri.org/doctors.php",
+        "address": "https://ayurveda.jmmcri.org/contact.php",
+        "phone": "https://ayurveda.jmmcri.org/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "jubilee-ayurveda-mission-hospital-and-research-institute"
+    },
+    {
+      "practiceName": "Vaidyaratnam Oushadhasala Branch, Thrissur Main (Swaraj Round)",
+      "practitioners": [
+        {
+          "name": "Dr Vijaygopal V",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Mangalodayam Building, Swaraj Round, near Jose Theatre",
+        "locality": "Swaraj Round",
+        "city": "Thrissur",
+        "pin": "680001"
+      },
+      "phone": [
+        "+91 487 242 0382",
+        "+91 91889 51179"
+      ],
+      "website": "https://vaidyaratnamhospitals.com/clinics.php",
+      "email": "trsur@vaidyaratnam.com",
+      "hours": null,
+      "services": [
+        "Consultation",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://vaidyaratnamhospitals.com/clinics.php",
+        "practitioners": "https://vaidyaratnamhospitals.com/clinics.php",
+        "address": "https://vaidyaratnammooss.com/clinics",
+        "phone": "https://vaidyaratnamhospitals.com/clinics.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "vaidyaratnam-oushadhasala-branch-thrissur-main-swaraj-round"
+    },
+    {
+      "practiceName": "Sitaram Ayurveda Speciality Hospital",
+      "practitioners": [
+        {
+          "name": "Dr D Ramanathan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr J Mannachan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr R Bhagavathy Ammal",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sreejith Mukkadekat",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr V S Priya",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Meera Sudhakaran",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Athira K",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anjana Vivek",
+          "qualification": "BAMS, CRAV, CSAMT, DAP",
+          "registration": null
+        },
+        {
+          "name": "Dr Aravind T K R",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sreelakshmi P S",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Salini M",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Behind Thrissur KSRTC Bus Stand, Veliyannur Road",
+        "locality": "Veliyannur",
+        "city": "Thrissur",
+        "pin": "680021"
+      },
+      "phone": [
+        "+91 90726 64664"
+      ],
+      "website": "https://sitaramayurvedahospital.com/",
+      "email": "hospital@sitaramayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa (General Medicine)",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://sitaramayurvedahospital.com/contact-us/",
+        "practitioners": "https://sitaramayurvedahospital.com/doctors/",
+        "address": "https://sitaramayurvedahospital.com/contact-us/",
+        "phone": "https://sitaramayurvedahospital.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sitaram-ayurveda-speciality-hospital"
     },
     {
       "practiceName": "Palazhi Ayurveda (Palazhi Ayurvedic Chikitsalayam)",
