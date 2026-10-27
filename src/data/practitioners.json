@@ -22291,6 +22291,59 @@
       "id": "tattvaveda-ayurvedic-clinic"
     },
     {
+      "practiceName": "Prajna Kuteera Ayurveda Centre",
+      "practitioners": [
+        {
+          "name": "Dr N V Krishnamurthy",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Poornima K Murthy",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "# 100/2, Vishwamanava Double Road, Kergalli Village, Jayapura Hobli, Off Ring Road",
+        "locality": "Kergalli",
+        "city": "Kergalli",
+        "pin": "570026"
+      },
+      "phone": [
+        "+91 821 234 7469",
+        "+91 821 254 2069",
+        "+91 99451 22596"
+      ],
+      "website": "http://www.ayurprajna.com/",
+      "email": "ayurprajna@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Antenatal and post-natal care",
+        "Rejuvenation",
+        "Weight management",
+        "Swarna Praashana",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "http://www.ayurprajna.com/contact-us",
+        "practitioners": "http://www.ayurprajna.com/meet-our-team",
+        "address": "http://www.ayurprajna.com/contact-us",
+        "phone": "http://www.ayurprajna.com/contact-us"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very good place to be, everyone from the doctors down to the cleaning personnel are courteous & caring.",
+          "attribution": "Dr. Radhey Shyam Dwivedi, Maryland, USA",
+          "url": "http://www.ayurprajna.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "prajna-kuteera-ayurveda-centre"
+    },
+    {
       "practiceName": "Prakruthi.Life Ayurveda Wellness Centre (Dr Hari's)",
       "practitioners": [
         {
@@ -23885,6 +23938,72 @@
       "id": "prasida-ayurveda-clinic"
     },
     {
+      "practiceName": "Kundapura Rural Ayurveda Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Gautham Shetty",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Laxmi Sanganal",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Shailesh Shetty",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ramya Shetty",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Swarnalatha Nayak",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Pooja Shetty",
+          "qualification": "BAMS, MS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#1-57/3, Prafulla Enclave, Halady Road",
+        "locality": "Koteshwara",
+        "city": "Koteshwara",
+        "pin": "576222"
+      },
+      "phone": [
+        "+91 89513 80555",
+        "+91 96060 76496"
+      ],
+      "website": "https://kundapuraruralayurveda.com/",
+      "email": "kramch100@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma",
+        "Yoga",
+        "Physiotherapy",
+        "Pathya (diet) department"
+      ],
+      "sources": {
+        "practiceName": "https://kundapuraruralayurveda.com/contact.php",
+        "practitioners": "https://kundapuraruralayurveda.com/admin/uploads/staff_upload/staff_1780288853_326.pdf",
+        "address": "https://kundapuraruralayurveda.com/contact.php",
+        "phone": "https://kundapuraruralayurveda.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kundapura-rural-ayurveda-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Kripa Arya Vaidya Madom (Kripa Ayurveda)",
       "practitioners": [
         {
@@ -24416,6 +24535,679 @@
       "id": "dev-bhoomi-medical-college-of-ayurveda-and-hospital"
     },
     {
+      "practiceName": "Karnataka Ayurveda Medical College Hospital, Ashok Nagar",
+      "practitioners": [
+        {
+          "name": "Dr Uday D K",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sajith Mangalassery",
+          "qualification": "BAMS, MS (Ayu) Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Waheeda Banu",
+          "qualification": "BAMS, MD (Ayu), PhD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr K. Ravindra Bhat",
+          "qualification": "BAMS, MD (Manasaroga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sahana M",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anitha S",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Keshava Raj B",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rajeshwari T",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Veena Kumari",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Sudhehi V Acharya",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Meera K Baby",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Abhinethri Hegde",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Swathi Suvarna",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravi Ganesh Mogra",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Anupama S P",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajith Kamath M",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shubhasri B",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "KECT Towers, Hoigebail, Ashoknagar Post",
+        "locality": "Ashok Nagar",
+        "city": "Mangaluru",
+        "pin": "575006"
+      },
+      "phone": [
+        "+91 824 245 1442",
+        "+91 824 245 4127"
+      ],
+      "website": "https://karnatakaayurveda.com/hospital/",
+      "email": "scsinstitutions@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Kaumarabhritya",
+        "Agada Tantra",
+        "Swasthavritta and Yoga",
+        "OPD and IPD"
+      ],
+      "sources": {
+        "practiceName": "https://karnatakaayurveda.com/hospital/",
+        "practitioners": "https://karnatakaayurveda.com/hospital/kayachikitsa-3/ ; https://karnatakaayurveda.com/hospital/department-of-panchakarma/ ; https://karnatakaayurveda.com/hospital/department-of-shalya-tantra-surgery-opd/ ; https://karnatakaayurveda.com/hospital/shalakya-tantra/ ; https://karnatakaayurveda.com/hospital/kaumarabhrithya/ ; https://karnatakaayurveda.com/hospital/agada-tantraforensic-science-and-toxicology/ ; https://karnatakaayurveda.com/hospital/department-of-swasthavritta-and-yoga/",
+        "address": "https://karnatakaayurveda.com/hospital/",
+        "phone": "https://karnatakaayurveda.com/hospital/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "karnataka-ayurveda-medical-college-hospital-ashok-nagar"
+    },
+    {
+      "practiceName": "SDM Ayurveda Hospital, Bejai",
+      "practitioners": [
+        {
+          "name": "Dr Deepak S. M",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Prashanth Bhat K",
+          "qualification": "MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shailesh Y Acharya",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Suchetha Kumari M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shilpa Hegde",
+          "qualification": "BAMS, MBA (HCS)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Manjusha, Next to Automatrix, Near KSRTC Bus Stand",
+        "locality": "Bejai",
+        "city": "Mangaluru",
+        "pin": "575004"
+      },
+      "phone": [
+        "+91 824 222 4884",
+        "+91 87628 91284"
+      ],
+      "website": "https://sdmayurvedamangaluru.in/",
+      "email": "sdmahbejai@gmail.com",
+      "hours": "OPD Monday to Saturday 09:00 am to 7:30 pm, Sunday 09:00 am to 5:00 pm",
+      "services": [
+        "Abhyanga",
+        "Shirodhara",
+        "Nasya",
+        "Akshitarpana",
+        "Udwarthana",
+        "Janu basti",
+        "Patrapinda sweda",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "https://sdmayurvedamangaluru.in/index.php",
+        "practitioners": "https://sdmayurvedamangaluru.in/index.php",
+        "address": "https://sdmayurvedamangaluru.in/contact.php",
+        "phone": "https://sdmayurvedamangaluru.in/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sdm-ayurveda-hospital-bejai"
+    },
+    {
+      "practiceName": "Laxmi Clinic, Car Street",
+      "practitioners": [
+        {
+          "name": "Dr Jyothi K",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "11-1-30a, Near Flower Market",
+        "locality": "Car Street",
+        "city": "Mangaluru",
+        "pin": "575001"
+      },
+      "phone": [
+        "+91 81519 47100"
+      ],
+      "website": "https://www.laxmiclinic.com/",
+      "email": "thelaxmiclinic@gmail.com",
+      "hours": "Monday to Saturday 10:30 am to 8:00 pm; Sunday by prior appointment only",
+      "services": [
+        "Ayurveda consultation",
+        "Panchakarma",
+        "Online video consultation",
+        "Ayurveda pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.laxmiclinic.com/",
+        "practitioners": "https://www.laxmiclinic.com/physicians",
+        "address": "https://www.laxmiclinic.com/",
+        "phone": "https://www.laxmiclinic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "laxmi-clinic-car-street"
+    },
+    {
+      "practiceName": "Kanachur Ayurveda Medical College and Hospital, Deralakatte",
+      "practitioners": [
+        {
+          "name": "Dr Vidyaprabha R",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Karthikeya Prasad",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Suresh Neghaliguli",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Archana S Babu",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Saleema Banu",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Bhavya B.S",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shree Rama K",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Neethu Dev",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr P. Rajesh Chandran",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Zainuddeen M Ullal",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjali Sekhar",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Aruna C Sekhar",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Athira S Ravi",
+          "qualification": "BAMS, MS (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwin K",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Soumya Kumari",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Arya A.R",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kanachur Ayurveda Medical College and Hospital campus, Natekal",
+        "locality": "Deralakatte",
+        "city": "Mangaluru",
+        "pin": "575018"
+      },
+      "phone": [
+        "+91 824 220 3332",
+        "+91 99001 09568"
+      ],
+      "website": "https://www.kanachurayurveda.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti and Stri Roga",
+        "Kaumarabhritya",
+        "Swasthavritta",
+        "Agada Tantra",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.kanachurayurveda.com/",
+        "practitioners": "https://www.kanachurayurveda.com/doctors.html",
+        "address": "https://www.kanachurayurveda.com/",
+        "phone": "https://www.kanachurayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "kanachur-ayurveda-medical-college-and-hospital-deralakatte"
+    },
+    {
+      "practiceName": "Easy Ayurveda Hospital, Morgan's Gate",
+      "practitioners": [
+        {
+          "name": "Dr JV Hebbar",
+          "qualification": "BAMS, MD (Ayu), PGDPSM",
+          "registration": null
+        },
+        {
+          "name": "Dr Shilpa Ramdas",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwin J Shetty",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Abhinethri Hegde",
+          "qualification": "BAMS, MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sindhu Smitha TT",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Amritha TT",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Next to Mphasis (Palemar Garden), Morgan's Gate",
+        "locality": "Morgan's Gate",
+        "city": "Mangaluru",
+        "pin": "575001"
+      },
+      "phone": [
+        "+91 86188 98900",
+        "+91 88673 85567"
+      ],
+      "website": "https://www.easyayurveda.com/hospital/",
+      "email": "hebbar@easyayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://www.easyayurveda.com/hospital/",
+        "practitioners": "https://www.easyayurveda.com/hospital/",
+        "address": "https://www.easyayurveda.com/contact-us/",
+        "phone": "https://www.easyayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "easy-ayurveda-hospital-morgan-s-gate"
+    },
+    {
+      "practiceName": "Sharada Ayurveda Medical College Hospital, Talapady",
+      "practitioners": [
+        {
+          "name": "Dr Sandeep Bekal R",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shyam Prasad M",
+          "qualification": "BAMS, MD (Kayachikitsa), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Tony Thomas Manamel",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shilpa Suraj",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Swathi N",
+          "qualification": "BAMS, MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Abhinetri Hegde",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwin Jayaram Shetty",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Santosh Kumar J",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Deepa Devarajan",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sapna Dinesh Bhandary",
+          "qualification": "BAMS, MS (Shalakya Tantra), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Harsha S",
+          "qualification": "BAMS, MS (Shalakya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashwini Marathe",
+          "qualification": "BAMS, MS (Prasooti Tantra and Stri Roga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Archana A.V.",
+          "qualification": "BAMS, MS (Prasooti Tantra and Stri Roga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sahana G",
+          "qualification": "BAMS, MS (Prasooti Tantra and Stri Roga)",
+          "registration": null
+        },
+        {
+          "name": "Dr Shravya Chiplunkar",
+          "qualification": "BAMS, MD (Kaumarabhritya)",
+          "registration": null
+        },
+        {
+          "name": "Dr Elsa Jose",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Nidhin Boban L.S",
+          "qualification": "BAMS, MD (Swasthavritta)",
+          "registration": null
+        },
+        {
+          "name": "Dr Saumya Lakshmi S",
+          "qualification": "BAMS, MD (Manovijnana evum Manasaroga)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sharada Ayurdhama Campus, Devinagar",
+        "locality": "Talapady",
+        "city": "Mangaluru",
+        "pin": "575023"
+      },
+      "phone": [
+        "+91 89711 53232"
+      ],
+      "website": "https://samch.co.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasooti Tantra",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga",
+        "Manasa Roga",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "https://samch.co.in/ayurvedic-doctors-mangalore-karnataka.php",
+        "practitioners": "https://samch.co.in/ayurvedic-doctors-mangalore-karnataka.php",
+        "address": "https://samch.co.in/ayurvedic-doctors-mangalore-karnataka.php",
+        "phone": "https://samch.co.in/ayurvedic-doctors-mangalore-karnataka.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sharada-ayurveda-medical-college-hospital-talapady"
+    },
+    {
+      "practiceName": "Vedamarogya Ayurveda Multi Speciality Hospital, Valencia",
+      "practitioners": [
+        {
+          "name": "Dr Sachin Nadka",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anusha G",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sonkash, Next to Mangala Bar/Restaurant, Near P F Office, Silva Cross Road",
+        "locality": "Valencia",
+        "city": "Mangaluru",
+        "pin": "575002"
+      },
+      "phone": [
+        "+91 824 243 4666",
+        "+91 824 243 1166",
+        "+91 99641 39245"
+      ],
+      "website": "https://www.vedamarogya.in/",
+      "email": null,
+      "hours": "Monday to Sunday 7 am to 7 pm",
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Abhyanga",
+        "Udwarthana",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Jalukavacharana",
+        "Swarnaprashana"
+      ],
+      "sources": {
+        "practiceName": "https://www.vedamarogya.in/",
+        "practitioners": "https://www.vedamarogya.in/about-us/",
+        "address": "https://www.vedamarogya.in/contact-us/",
+        "phone": "https://www.vedamarogya.in/contact-us/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Excellent, Ambiance, treatment facilities and nice atmosphere. Well trained staffs. Near to city premises. Very good experience.",
+          "attribution": "Dr. Ismail",
+          "url": "https://www.vedamarogya.in/"
+        },
+        {
+          "excerpt": "Good place. Nice treatment room. Background music in treatment room makes to feel more fresh and relaxing.",
+          "attribution": "Mr. Preetham P",
+          "url": "https://www.vedamarogya.in/"
+        }
+      ],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://www.google.com/maps/place/Vedamarogya+Ayurveda+hospital+and+pharmacy+Mangalore/@12.863778,74.854841,16z/data=!4m5!3m4!1s0x0:0x80d9c1e4b62bd7e5!8m2!3d12.8637782!4d74.8548406?hl=en"
+        }
+      ],
+      "checkedOn": "2026-10-27",
+      "id": "vedamarogya-ayurveda-multi-speciality-hospital-valencia"
+    },
+    {
+      "practiceName": "Muniyal Ayurveda Hospital and Research Institute",
+      "practitioners": [
+        {
+          "name": "Dr Pramod Shet B",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Yashashree Madhava Kamath",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Shripathi Acharya",
+          "qualification": "MD (Kayachikitsa), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ganapathi J Bhat",
+          "qualification": "MD (Ayu) Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Vyasaraja Thantri A",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sri Devi Shetty",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Veena Adiga",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "34-C, Shivally Industrial Area",
+        "locality": "Shivally",
+        "city": "Manipal",
+        "pin": "576104"
+      },
+      "phone": [
+        "+91 820 257 2819",
+        "+91 81234 03232",
+        "+91 81234 03233"
+      ],
+      "website": "https://muniyalayurvedacollege.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Navarakizhi",
+        "Pizhichil",
+        "Netra Tarpana",
+        "Shirodhara",
+        "Udvartana",
+        "Svedana",
+        "Nasya",
+        "Basti"
+      ],
+      "sources": {
+        "practiceName": "https://muniyalayurvedacollege.com/muniyal-ayurveda-hospital/",
+        "practitioners": "https://muniyalayurvedacollege.com/wp-content/uploads/2026/03/Hospital-Staff-Updated.pdf",
+        "address": "https://muniyalayurvedacollege.com/contact-us/",
+        "phone": "https://muniyalayurvedacollege.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "muniyal-ayurveda-hospital-and-research-institute"
+    },
+    {
       "practiceName": "Dr Lodha's Ayurved Panchakarma and Research Centre, Manmad",
       "practitioners": [
         {
@@ -24657,6 +25449,113 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-mira-road-east"
+    },
+    {
+      "practiceName": "Alva's Ayurveda Medical College Hospital, Moodbidri",
+      "practitioners": [
+        {
+          "name": "Dr Surekha Pai",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "12696/Ay",
+            "source": "https://alvasayurveda.com/college/ccim-mandates/principal-and-medical-superintendent/"
+          }
+        },
+        {
+          "name": "Dr Susheel Shetty",
+          "qualification": "BAMS, MD (Ayu) Kayachikitsa",
+          "registration": {
+            "number": "KAUPB 16537",
+            "source": "https://alvasayurveda.com/college/ccim-mandates/principal-and-medical-superintendent/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Sundari Ananda Alva Campus, Vidyagiri",
+        "locality": "Vidyagiri",
+        "city": "Moodbidri",
+        "pin": "574227"
+      },
+      "phone": [
+        "+91 82582 50330",
+        "+91 96204 80722"
+      ],
+      "website": "https://alvasayurveda.com/",
+      "email": "alvasayur@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Leech therapy",
+        "Kshara karma",
+        "Agni karma",
+        "Rasayana",
+        "Yoga and Naturopathy",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "https://alvasayurveda.com/contact-us/",
+        "practitioners": "https://alvasayurveda.com/college/ccim-mandates/principal-and-medical-superintendent/",
+        "address": "https://alvasayurveda.com/contact-us/",
+        "phone": "https://alvasayurveda.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "alva-s-ayurveda-medical-college-hospital-moodbidri"
+    },
+    {
+      "practiceName": "Indus Valley Ayurvedic Centre (IVAC)",
+      "practitioners": [
+        {
+          "name": "Dr Deepthi Niranjan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Belaku Chandu",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shilpa Sreenivas",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mohammad Jaseem P",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Survey No. 40/3, 40/4, Mosambayanhalli Village, Varuna Hobli, via Suttur Road, behind Morarji Desai School, Mysore Taluk",
+        "locality": "Mosambayanhalli",
+        "city": "Mosambayanhalli",
+        "pin": "570010"
+      },
+      "phone": [
+        "+91 80952 94444",
+        "+91 70222 77720"
+      ],
+      "website": "https://ayurindus.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Residential Ayurveda programmes",
+        "Panchakarma",
+        "Yoga",
+        "Online consultations"
+      ],
+      "sources": {
+        "practiceName": "https://ayurindus.com/contact-us/",
+        "practitioners": "https://ayurindus.com/about-us/",
+        "address": "https://ayurindus.com/contact-us/",
+        "phone": "https://ayurindus.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "indus-valley-ayurvedic-centre-ivac"
     },
     {
       "practiceName": "Highlife Ayurvedic Multispecialty Hospital, Mukkam",
@@ -28840,6 +29739,480 @@
       "id": "madhavbaug-ayurvedic-clinic-worli"
     },
     {
+      "practiceName": "Aarohi Ayurveda, Dattagalli Centre",
+      "practitioners": [
+        {
+          "name": "Dr Rakshita Jain",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#1954, 1st Cross, 80 ft Road",
+        "locality": "Dattagalli",
+        "city": "Mysuru",
+        "pin": "570023"
+      },
+      "phone": [
+        "+91 96635 47378"
+      ],
+      "website": "https://aarohiayurveda.com/",
+      "email": null,
+      "hours": "9:30 AM to 2:00 PM, 4:30 PM to 9:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Abhyanga",
+        "Shirodhara",
+        "Swedana"
+      ],
+      "sources": {
+        "practiceName": "https://aarohiayurveda.com/Centre",
+        "practitioners": "https://aarohiayurveda.com/",
+        "address": "https://aarohiayurveda.com/Centre",
+        "phone": "https://aarohiayurveda.com/Centre"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aarohi-ayurveda-dattagalli-centre"
+    },
+    {
+      "practiceName": "Sriranga Ayurveda Chikitsa Mandira",
+      "practitioners": [
+        {
+          "name": "Dr Prasanna Venkatesh T S",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Manjushri P",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sruthimol K G",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Bhargav Krishna",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Dayananda R D",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#3394, Near Netaji Circle, 3rd Stage",
+        "locality": "Dattagalli",
+        "city": "Mysuru",
+        "pin": "570023"
+      },
+      "phone": [
+        "+91 82778 88526",
+        "+91 821 259 8523"
+      ],
+      "website": "https://ayurvedamysore.org/",
+      "email": "info@ayurvedamysore.org",
+      "hours": "Monday to Saturday, 10:30 AM to 1:30 PM and 3:30 PM to 6:00 PM",
+      "services": [
+        "Out-patient consultation",
+        "In-patient care",
+        "Panchakarma",
+        "Upakarma",
+        "Shamana",
+        "Preventive health care",
+        "Swarna Prashana"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedamysore.org/",
+        "practitioners": "http://www.ayurvedamysore.org/doctors/",
+        "address": "https://ayurvedamysore.org/",
+        "phone": "https://ayurvedamysore.org/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sriranga-ayurveda-chikitsa-mandira"
+    },
+    {
+      "practiceName": "Dixit Ayurved, Gokulam",
+      "practitioners": [
+        {
+          "name": "Dr C S Anil Kumar Dixit",
+          "qualification": "BAMS, MD (Ayurveda, Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No.865/1, I Main, 3rd Phase, Old Post Office Road",
+        "locality": "Gokulam",
+        "city": "Mysuru",
+        "pin": "570002"
+      },
+      "phone": [
+        "+91 821 251 3619"
+      ],
+      "website": "https://www.ayurvedamysore.com/",
+      "email": "info@ayurvedamysore.com",
+      "hours": "Mon to Sat, 11 AM to 1 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedamysore.com/contact-us",
+        "practitioners": "https://www.ayurvedamysore.com/node/13",
+        "address": "https://www.ayurvedamysore.com/contact-us",
+        "phone": "https://www.ayurvedamysore.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dixit-ayurved-gokulam"
+    },
+    {
+      "practiceName": "Mayukha Ayurveda, Mysuru",
+      "practitioners": [
+        {
+          "name": "Dr Asha S",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "767, 3rd Cross Road, near Trinity House, 3rd Stage",
+        "locality": "Gokulam",
+        "city": "Mysuru",
+        "pin": "570002"
+      },
+      "phone": [
+        "+91 88842 93031"
+      ],
+      "website": "https://mayukhaayurveda.com/",
+      "email": "info@mayukhaayurveda.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://mayukhaayurveda.com/contact-ayurvedic-treatment-mysore-bangalore",
+        "practitioners": "https://mayukhaayurveda.com/",
+        "address": "https://mayukhaayurveda.com/contact-ayurvedic-treatment-mysore-bangalore",
+        "phone": "https://mayukhaayurveda.com/contact-ayurvedic-treatment-mysore-bangalore"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Very exprienced and thorough professionals in Ayurveda",
+          "attribution": "Prof. Ranganath GCC",
+          "url": "https://mayukhaayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "mayukha-ayurveda-mysuru"
+    },
+    {
+      "practiceName": "Suryavedam Ayur Wellness",
+      "practitioners": [
+        {
+          "name": "Dr Shilpashree K H",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#50, Seebinivas, 4th Main, Maruthi Temple Road, Near Kamakshi Hospital",
+        "locality": "Kuvempunagar",
+        "city": "Mysuru",
+        "pin": "570009"
+      },
+      "phone": [
+        "+91 821 485 1659",
+        "+91 99869 67000",
+        "+91 96114 68889"
+      ],
+      "website": "https://www.suryavedamayur.com/",
+      "email": "info@suryavedamayur.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Swarna Bindu Prashana",
+        "Postnatal care",
+        "Ayurveda courses"
+      ],
+      "sources": {
+        "practiceName": "https://www.suryavedamayur.com/contact-us/",
+        "practitioners": "https://www.suryavedamayur.com/",
+        "address": "https://www.suryavedamayur.com/contact-us/",
+        "phone": "https://www.suryavedamayur.com/contact-us/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Experienced skillful Ayurveda doctor and well trained, polite therapists make your health consultation and treatment a very good experience at Suryavedam.",
+          "attribution": "Mr. Gururaj Natikar",
+          "url": "https://www.suryavedamayur.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "suryavedam-ayur-wellness"
+    },
+    {
+      "practiceName": "Amay India (Atharva Multispeciality Ayurvedic and Healing Centre), TK Layout",
+      "practitioners": [
+        {
+          "name": "Dr Nagesh N",
+          "qualification": "BSAM",
+          "registration": null
+        },
+        {
+          "name": "Dr Pavithra S",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravish S N",
+          "qualification": "MD (Ayurveda), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravi Kumar M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aparna Unny",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1058, Paduvana Road, New Kantharaj Urs Road, opposite JK Tyre, TK Layout 4th Stage",
+        "locality": "Saraswathipuram",
+        "city": "Mysuru",
+        "pin": "570023"
+      },
+      "phone": [
+        "+91 76769 29394",
+        "+91 86609 69742"
+      ],
+      "website": "https://amayindia.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Rejuvenation therapy",
+        "Eye treatments",
+        "Kids spa",
+        "Herbal beauty treatments"
+      ],
+      "sources": {
+        "practiceName": "https://amayindia.in/contact/",
+        "practitioners": "https://amayindia.in/our-doctors/",
+        "address": "https://amayindia.in/contact/",
+        "phone": "https://amayindia.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "amay-india-atharva-multispeciality-ayurvedic-and-healing"
+    },
+    {
+      "practiceName": "Dixit Health Clinic and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr C S Anil Kumar Dixit",
+          "qualification": "BAMS, MD (Ayurveda, Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "No 88, 8th Main Road, 9th Cross, Kamakshi Hospital Road",
+        "locality": "Saraswathipuram",
+        "city": "Mysuru",
+        "pin": "570009"
+      },
+      "phone": [
+        "+91 821 254 3619"
+      ],
+      "website": "https://www.ayurvedamysore.com/",
+      "email": "info@ayurvedamysore.com",
+      "hours": "Mon to Sat, 6 PM to 8 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Yoga",
+        "Naturopathy"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedamysore.com/contact-us",
+        "practitioners": "https://www.ayurvedamysore.com/node/13",
+        "address": "https://www.ayurvedamysore.com/contact-us",
+        "phone": "https://www.ayurvedamysore.com/contact-us"
+      },
+      "testimonials": [
+        {
+          "excerpt": "The experience was good. All appointments were on time and did not waste my time. The staff are very cordial. Therapist too are very understanding.",
+          "attribution": "Menon",
+          "url": "https://www.ayurvedamysore.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dixit-health-clinic-and-research-centre"
+    },
+    {
+      "practiceName": "Amay India (Atharva Multispeciality Ayurvedic and Healing Centre), Vidyaranyapuram",
+      "practitioners": [
+        {
+          "name": "Dr Nagesh N",
+          "qualification": "BSAM",
+          "registration": null
+        },
+        {
+          "name": "Dr Pavithra S",
+          "qualification": "BAMS, MD (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravish S N",
+          "qualification": "MD (Ayurveda), PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ravi Kumar M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aparna Unny",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#40/C, behind Kanti Convention Hall, Vishweshwara Nagar",
+        "locality": "Vidyaranyapuram",
+        "city": "Mysuru",
+        "pin": "570008"
+      },
+      "phone": [
+        "+91 81519 29394",
+        "+91 86609 69742"
+      ],
+      "website": "https://amayindia.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Rejuvenation therapy"
+      ],
+      "sources": {
+        "practiceName": "https://amayindia.in/contact/",
+        "practitioners": "https://amayindia.in/our-doctors/",
+        "address": "https://amayindia.in/contact/",
+        "phone": "https://amayindia.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "amay-india-atharva-multispeciality-ayurvedic-and-healing"
+    },
+    {
+      "practiceName": "Aarohi Ayurveda, Vijayanagar Centre",
+      "practitioners": [
+        {
+          "name": "Dr Rakshita Jain",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#7699, 80ft Road, Vijayanagar 4th Stage, 2nd Phase",
+        "locality": "Vijayanagar",
+        "city": "Mysuru",
+        "pin": "570032"
+      },
+      "phone": [
+        "+91 91973 73787"
+      ],
+      "website": "https://aarohiayurveda.com/",
+      "email": null,
+      "hours": "9:00 AM to 9:00 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Ayurvedic pharmacy",
+        "Abhyanga",
+        "Shirodhara",
+        "Nasya"
+      ],
+      "sources": {
+        "practiceName": "https://aarohiayurveda.com/Centre",
+        "practitioners": "https://aarohiayurveda.com/",
+        "address": "https://aarohiayurveda.com/Centre",
+        "phone": "https://aarohiayurveda.com/Centre"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr. Rakshitha mam is knowledgeable and truly caring. The clinic is clean, calm, and very peaceful.",
+          "attribution": "Darshini Darshini",
+          "url": "https://aarohiayurveda.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "aarohi-ayurveda-vijayanagar-centre"
+    },
+    {
+      "practiceName": "Trisutra Ayushyalaya",
+      "practitioners": [
+        {
+          "name": "Dr Roopini N R",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#4520, Ground Floor, 17th Main, Near KD Road, Vijayanagara 2nd Stage",
+        "locality": "Vijayanagar",
+        "city": "Mysuru",
+        "pin": "570017"
+      },
+      "phone": [
+        "+91 80738 64061"
+      ],
+      "website": "https://triayush.com/",
+      "email": "3sutraayushyalaya@gmail.com",
+      "hours": "Mon to Sat, 10 AM to 6 PM",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Diet and lifestyle advice",
+        "Yoga and meditation classes",
+        "Suvarna Prashana"
+      ],
+      "sources": {
+        "practiceName": "https://triayush.com/",
+        "practitioners": "https://triayush.com/",
+        "address": "https://triayush.com/",
+        "phone": "https://triayush.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "trisutra-ayushyalaya"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Byramji Town",
       "practitioners": [
         {
@@ -29341,6 +30714,44 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "madhavbaug-ayurvedic-clinic-zingabai-takli"
+    },
+    {
+      "practiceName": "Prasadini Ayurnikethana Ayurveda Hospital, Narimogru",
+      "practitioners": [
+        {
+          "name": "Dr Raghavendra Prasad Bangaradka",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Narimogaru Gram Panchayat",
+        "locality": "Narimogru",
+        "city": "Narimogru",
+        "pin": "574202"
+      },
+      "phone": [
+        "+91 97405 45979"
+      ],
+      "website": "https://prasadini.com/",
+      "email": "prasadinicare@gmail.com",
+      "hours": "Daily 09:00 AM to 01:00 PM and 03:30 PM to 07:00 PM",
+      "services": [
+        "Panchakarma",
+        "Herbal formulations",
+        "Diet and lifestyle counselling",
+        "Yoga and meditation"
+      ],
+      "sources": {
+        "practiceName": "https://prasadini.com/contact/",
+        "practitioners": "https://prasadini.com/",
+        "address": "https://prasadini.com/contact/",
+        "phone": "https://prasadini.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "prasadini-ayurnikethana-ayurveda-hospital-narimogru"
     },
     {
       "practiceName": "Kulkarni Ayurved Panchakarma Clinic",
@@ -36650,6 +38061,117 @@
       "id": "vedshruti-ayurveda-and-panchakarma-center"
     },
     {
+      "practiceName": "Sushruta Ayurveda Hospital, Bolwar",
+      "practitioners": [
+        {
+          "name": "Dr Ravishankar Pervaje",
+          "qualification": "BAMS, MS (Shalya Tantra)",
+          "registration": null
+        },
+        {
+          "name": "Dr Jayashree R Pervaje",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Yadavi Jayakumar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Chaitanya B M",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Prathika K",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Inland Mayura",
+        "locality": "Bolwar",
+        "city": "Puttur",
+        "pin": "574201"
+      },
+      "phone": [
+        "+91 82512 31516",
+        "+91 94484 71516"
+      ],
+      "website": "https://sushrutaayurvedahospital.com/",
+      "email": "info@sushrutaayurvedahospital.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Abhyanga",
+        "Vamana",
+        "Virechana",
+        "Nasya",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://sushrutaayurvedahospital.com/contact/",
+        "practitioners": "https://sushrutaayurvedahospital.com/about/",
+        "address": "https://sushrutaayurvedahospital.com/contact/",
+        "phone": "https://sushrutaayurvedahospital.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sushruta-ayurveda-hospital-bolwar"
+    },
+    {
+      "practiceName": "Dr Pradeep Kumar's Hospital of Ayurveda (Nisarga Health Centre), Darbe",
+      "practitioners": [
+        {
+          "name": "Dr Pradeep Kumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vikyath Narayan",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Shruthi Dixith S S",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anjali P K",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Nisarga Health Centre, Main Road, near Jayantha Stores",
+        "locality": "Darbe",
+        "city": "Puttur",
+        "pin": "574202"
+      },
+      "phone": [
+        "+91 89713 05446",
+        "+91 94481 21446"
+      ],
+      "website": "https://www.drpradeepkumarsayurveda.com/",
+      "email": "meet@drpradeepkumarsayurveda.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.drpradeepkumarsayurveda.com/team.php",
+        "practitioners": "https://www.drpradeepkumarsayurveda.com/team.php",
+        "address": "https://www.drpradeepkumarsayurveda.com/team.php",
+        "phone": "https://www.drpradeepkumarsayurveda.com/team.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "dr-pradeep-kumar-s-hospital-of-ayurveda-nisarga-health"
+    },
+    {
       "practiceName": "Arogyasudha Hospital and Wellness Centre",
       "practitioners": [
         {
@@ -40495,6 +42017,124 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedapuri-ayurveda"
+    },
+    {
+      "practiceName": "Hitaayu Ayurveda Centre, City Clinic",
+      "practitioners": [
+        {
+          "name": "Dr M.B. Shivakumar",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajith KS",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Jishitha Madhavan",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Unit 1, Behind MGM Staff Quarters, Udupi-Manipal Highway",
+        "locality": "Kunjibettu",
+        "city": "Udupi",
+        "pin": "576102"
+      },
+      "phone": [
+        "+91 87920 13908",
+        "+91 91410 74818"
+      ],
+      "website": "https://www.ayurvedaudupi.com/",
+      "email": "ayurvedaudupi@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayurvedaudupi.com/contact",
+        "practitioners": "https://www.ayurvedaudupi.com/about-us",
+        "address": "https://www.ayurvedaudupi.com/contact",
+        "phone": "https://www.ayurvedaudupi.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "hitaayu-ayurveda-centre-city-clinic"
+    },
+    {
+      "practiceName": "Sri Dharmasthala Manjunatheshwara College of Ayurveda Hospital and Research Centre (SDM Ayurveda Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Veena Mayya",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Prasanna N Mogasale",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Yogeesha Acharya",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sadananda Bhat K",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pavithra Pai",
+          "qualification": "MS (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Prathviraj Puranik",
+          "qualification": "MD (Ayu), PhD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Dharmasthala Manjunatheshwara College of Ayurveda Hospital and Research Centre, Udyavara",
+        "locality": "Kuthpady",
+        "city": "Udupi",
+        "pin": "574118"
+      },
+      "phone": [
+        "+91 820 252 0623",
+        "+91 74119 18250"
+      ],
+      "website": "https://sdmayurvedaudupi.com/",
+      "email": "sdmcau@gmail.com",
+      "hours": "Open 24 hours",
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Anu-Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Streeroga",
+        "Kaumarabhritya",
+        "Manasaroga",
+        "Swasthavritta and Yoga",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "https://sdmayurvedaudupi.com/",
+        "practitioners": "https://sdmayurvedacollegeudupi.in/wp-content/uploads/2026/05/Hospital-staff-annex-III.pdf",
+        "address": "https://sdmayurvedaudupi.com/",
+        "phone": "https://sdmayurvedaudupi.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-27",
+      "id": "sri-dharmasthala-manjunatheshwara-college-of-ayurveda"
     },
     {
       "practiceName": "Datta Meghe Ayurvedic Medical College Hospital and Research Centre",
