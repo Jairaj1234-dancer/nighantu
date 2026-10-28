@@ -25232,6 +25232,126 @@
       "id": "apollo-clinic-ulubari-ayurveda-department"
     },
     {
+      "practiceName": "Regional Ayurveda Research Institute (CCRAS), Gwalior",
+      "practitioners": [
+        {
+          "name": "Dr Savita Sharma",
+          "qualification": "MD (Kayachikitsa), PhD (Ayurveda); Assistant Director (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Anil Mangal",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Chandra Dwivedi",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        },
+        {
+          "name": "Dr Amit Kumar",
+          "qualification": "Research Officer (Ayurveda)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Regional Ayurveda Research Institute, Aamkho",
+        "locality": "Aamkho",
+        "city": "Gwalior",
+        "pin": "474009",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 75129 20262"
+      ],
+      "website": "https://ccras.nic.in/",
+      "email": "nriashrd-gwalior@gov.in",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD"
+      ],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/wp-content/uploads/2026/02/Suo-Moto-Disclosure-RARI-Gwalior.pdf",
+        "practitioners": "https://ccras.nic.in/wp-content/uploads/2026/02/Suo-Moto-Disclosure-RARI-Gwalior.pdf",
+        "address": "https://ccras.nic.in/wp-content/uploads/2026/02/Suo-Moto-Disclosure-RARI-Gwalior.pdf",
+        "phone": "https://ccras.nic.in/wp-content/uploads/2026/02/Suo-Moto-Disclosure-RARI-Gwalior.pdf"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "regional-ayurveda-research-institute-ccras-gwalior"
+    },
+    {
+      "practiceName": "Govt. Autonomous Ayurved College and Hospital, Gwalior",
+      "practitioners": [
+        {
+          "name": "Dr Mahesh Kumar Sharma",
+          "qualification": "Principal and Professor, Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Vivek Kumar Deolia",
+          "qualification": "I/C Professor and HOD, Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Pravesh Kumar Mishra",
+          "qualification": "I/C Reader, Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Mahi Pravesh Mishra",
+          "qualification": "I/C Professor and HOD, Prasuti Tantra evum Stri Roga",
+          "registration": null
+        },
+        {
+          "name": "Dr Dev Kunj Chauhan",
+          "qualification": "Professor and HOD, Shalakya Tantra",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Government Autonomous Ayurveda College and Hospital, Amkho",
+        "locality": "Lashkar",
+        "city": "Gwalior",
+        "pin": "474009",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 75124 38603",
+        "+91 75123 72802"
+      ],
+      "website": "http://www.gacgwalior.edu.in/",
+      "email": "principalgacgwa@mp.gov.in",
+      "hours": null,
+      "services": [
+        "Kayachikitsa OPD",
+        "Panchakarma OPD and IPD",
+        "Shalya OPD",
+        "Shalakya Tantra OPD",
+        "Stri and Prasuti OPD",
+        "Kaumarabhritya OPD",
+        "Swasthya Rakshana OPD",
+        "Kshara Sutra",
+        "Agnikarma",
+        "Jalaukavacharana (leech therapy)",
+        "Pathology lab",
+        "100-bed IPD"
+      ],
+      "sources": {
+        "practiceName": "http://www.gacgwalior.edu.in/contact_us.html",
+        "practitioners": "http://www.gacgwalior.edu.in/faculties.html",
+        "address": "http://www.gacgwalior.edu.in/contact_us.html",
+        "phone": "http://www.gacgwalior.edu.in/contact_us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "govt-autonomous-ayurved-college-and-hospital-gwalior"
+    },
+    {
       "practiceName": "Patanjali Ayurved Hospital (attached to Patanjali Ayurved College, Patanjali Bhartiya Ayurvigyan Evam Anusandhan Sansthan)",
       "practitioners": [
         {
@@ -28577,6 +28697,146 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "loknete-rajarambapu-patil-ayurvedic-medical-college-and"
+    },
+    {
+      "practiceName": "Govt. Autonomous Ayurveda College & Hospital, Jabalpur",
+      "practitioners": [
+        {
+          "name": "Dr L.L. Ahirwal",
+          "qualification": "BAMS, MD, PhD (Samhita Siddhant), Principal",
+          "registration": null
+        },
+        {
+          "name": "Dr Jyoti Thakur",
+          "qualification": "BAMS, Hospital Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Geeta Dham Road",
+        "locality": "Gwarighat",
+        "city": "Jabalpur",
+        "pin": "482008",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 761 297 0733"
+      ],
+      "website": "https://gac.edu.in/",
+      "email": null,
+      "hours": "Phone line 10 am to 5 pm",
+      "services": [
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Agad Tantra",
+        "Shalya",
+        "Shalakya",
+        "Stri and Prasuti Tantra",
+        "Bal Roga",
+        "Swasthya Rakshan",
+        "Ksharsutra",
+        "Jalokavacharan",
+        "Agnikarma",
+        "Siravedha",
+        "Netra Tarpan",
+        "Shirodhara",
+        "IPD (100 beds)",
+        "Pathology lab",
+        "Physiotherapy",
+        "Dental OPD"
+      ],
+      "sources": {
+        "practiceName": "https://gac.edu.in/hospital/",
+        "practitioners": "https://gac.edu.in/principal/ ; https://gac.edu.in/hospital-superintendent/",
+        "address": "https://gac.edu.in/contact-us-2/",
+        "phone": "https://gac.edu.in/contact-us-2/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "govt-autonomous-ayurveda-college-and-hospital-jabalpur"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Napier Town",
+      "practitioners": [
+        {
+          "name": "Dr Arunima Yadav",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "G-2, Arjun Complex, In Front of Bhawartal Garden",
+        "locality": "Napier Town",
+        "city": "Jabalpur",
+        "pin": "482002",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 82510 25719"
+      ],
+      "website": "https://madhavbaug.org/clinic/napier-town-jabalpur",
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/napier-town-jabalpur",
+        "practitioners": "https://madhavbaug.org/clinic/napier-town-jabalpur",
+        "address": "https://madhavbaug.org/clinic/napier-town-jabalpur",
+        "phone": "https://madhavbaug.org/clinic/napier-town-jabalpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-napier-town"
+    },
+    {
+      "practiceName": "Poornayu Ayurved Chikitsalaya Evam Anusandhan Vidyapeeth",
+      "practitioners": [
+        {
+          "name": "Prof (Dr) Swapnil Singhai",
+          "qualification": "BAMS, PhD, MBA, Principal cum Medical Superintendent",
+          "registration": {
+            "number": "CR/AY/MP/133140",
+            "source": "https://poornayuayurved.org/information-for-ccim/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Tilwara Ghat",
+        "locality": "Tilwara Ghat",
+        "city": "Jabalpur",
+        "pin": "482003",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 95752 24466",
+        "+91 62620 00455"
+      ],
+      "website": "https://poornayuayurved.org/",
+      "email": "poornayuayurved@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga",
+        "Agada Tantra",
+        "100-bed Ayurved hospital"
+      ],
+      "sources": {
+        "practiceName": "https://poornayuayurved.org/information-for-ccim/",
+        "practitioners": "https://poornayuayurved.org/information-for-ccim/",
+        "address": "https://poornayuayurved.org/information-for-ccim/",
+        "phone": "https://poornayuayurved.org/information-for-ccim/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "poornayu-ayurved-chikitsalaya-evam-anusandhan-vidyapeeth"
     },
     {
       "practiceName": "National Institute of Ayurveda Hospital (NIA Arogyashala), Jaipur",
@@ -36890,6 +37150,50 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "rama-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Mandsaur Institute of Ayurved Education and Research (attached Ayurveda hospital)",
+      "practitioners": [
+        {
+          "name": "Dr G Babu",
+          "qualification": "BAMS, MD; Professor and Medical Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Dr Pramod Kumar Sharma",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Abhishree Chandrashekhar Lad",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Mhow-Neemuch Road, B R Nahata Marg, Opp. to Krishi Upaj Mandi",
+        "locality": "Mhow-Neemuch Road",
+        "city": "Mandsaur",
+        "pin": "458001",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 87208 22111"
+      ],
+      "website": "https://mandsauruniversity.in/ayurveda/",
+      "email": "office.ayurved@meu.edu.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://mandsauruniversity.in/ayurveda/contact-us/",
+        "practitioners": "https://mandsauruniversity.in/ayurveda/medical-superintendent-message/ and https://mandsauruniversity.in/ayurveda/teaching-faculties/",
+        "address": "https://mandsauruniversity.in/ayurveda/contact-us/",
+        "phone": "https://mandsauruniversity.in/ayurveda/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "mandsaur-institute-of-ayurved-education-and-research"
     },
     {
       "practiceName": "Dev Bhoomi Medical College of Ayurveda & Hospital",
@@ -54696,6 +55000,51 @@
       "id": "upasya-ayurveda"
     },
     {
+      "practiceName": "Govt. (Autonomous) Ayurveda College & Hospital, Rewa",
+      "practitioners": [
+        {
+          "name": "Dr Deepak Kulshrestha",
+          "qualification": "MD (Ayurveda), PhD, Principal (Shalya Tantra)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Nipaniya",
+        "locality": "Nipaniya",
+        "city": "Rewa",
+        "pin": "486001",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 95755 22246",
+        "+91 76622 99160"
+      ],
+      "website": "https://gacrewa.org.in/",
+      "email": "govtayucollegerewa@gmail.com",
+      "hours": null,
+      "services": [
+        "Agadtantra",
+        "Kaumar Bhritya",
+        "Kaya Chikitsa",
+        "Panchkarma",
+        "Samhita Siddhant",
+        "Shalakya Tantra",
+        "Shalya Tantra",
+        "Stri and Prasuti Tantra",
+        "Swasthavritta"
+      ],
+      "sources": {
+        "practiceName": "https://gacrewa.org.in/contact",
+        "practitioners": "https://gacrewa.org.in/administration-staff",
+        "address": "https://gacrewa.org.in/contact",
+        "phone": "https://gacrewa.org.in/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "govt-autonomous-ayurveda-college-and-hospital-rewa"
+    },
+    {
       "practiceName": "Vedic Yoga & Ayurveda Retreat Centre",
       "practitioners": [
         {
@@ -61230,6 +61579,54 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "sri-dharmasthala-manjunatheshwara-college-of-ayurveda"
+    },
+    {
+      "practiceName": "Ujjain Panchkarma Center",
+      "practitioners": [
+        {
+          "name": "Vaidya Dr S. N. Pande",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "K-1/7, Opposite Vyas Complex",
+        "locality": "Rishi Nagar",
+        "city": "Ujjain",
+        "pin": "456010",
+        "state": "Madhya Pradesh"
+      },
+      "phone": [
+        "+91 94250 91185",
+        "+91 73425 11185"
+      ],
+      "website": "http://www.ujjainpanchkarmacenter.com/",
+      "email": "ujnpanchkarma@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shodhana chikitsa (whole-body purification therapy)",
+        "Rejuvenation therapy"
+      ],
+      "sources": {
+        "practiceName": "http://www.ujjainpanchkarmacenter.com/",
+        "practitioners": "http://www.ujjainpanchkarmacenter.com/",
+        "address": "http://www.ujjainpanchkarmacenter.com/",
+        "phone": "http://www.ujjainpanchkarmacenter.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [
+        {
+          "platform": "Google",
+          "url": "https://g.page/r/Cd8DJYL9x7jjEBA"
+        },
+        {
+          "platform": "JustDial",
+          "url": "https://www.justdial.com/Ujjain/Ujjain-Panchkarma-Center-Opposite-Vyas-Complex-Ujjain-Rishi-Nagar/9999PX734-X734-180121143505-D5X6_BZDET"
+        }
+      ],
+      "checkedOn": "2026-10-28",
+      "id": "ujjain-panchkarma-center"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Umarkhed",
