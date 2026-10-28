@@ -2182,6 +2182,48 @@
       "id": "dr-jaya-s-sreepadam-ayurveda-panchakarma-hospital"
     },
     {
+      "practiceName": "Shridhar Atulkumar Jani Ayurvedic Medical College & Hospital, Amreli",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay M. Kambale",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shridhar Campus, Dhari Road Bypass",
+        "locality": "Dhari Road",
+        "city": "Amreli",
+        "pin": "365601",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 99135 55245",
+        "+91 94262 29671"
+      ],
+      "website": "https://sajamc.com/",
+      "email": "shridharjaniayurvedic@gmail.com",
+      "hours": null,
+      "services": [
+        "60-bed Ayurveda teaching hospital",
+        "Panchakarma",
+        "Netra Chikitsa (eye care)",
+        "Kaumarabhritya",
+        "Yoga and Naturopathy",
+        "Free medical camps"
+      ],
+      "sources": {
+        "practiceName": "https://sajamc.com/hospital/",
+        "practitioners": "https://sajamc.com/hospital/",
+        "address": "https://sajamc.com/contact/",
+        "phone": "https://sajamc.com/hospital/ ; https://sajamc.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shridhar-atulkumar-jani-ayurvedic-medical-college-and"
+    },
+    {
       "practiceName": "Svasthvida (Getwell Ayurvedic Clinic), Ranjit Avenue",
       "practitioners": [
         {
@@ -2257,6 +2299,197 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "ayubhumi-ayurveda-and-panchkarma-centre-verka-bypass"
+    },
+    {
+      "practiceName": "Taps Kayakalp Ayurvedic Panchakarma Center, Anand",
+      "practitioners": [
+        {
+          "name": "Vaidya Tapan Bhavsar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "5, Sraddha Park, Indira Gandhi Marg, Near Bhavnath Temple",
+        "locality": "Indira Gandhi Marg",
+        "city": "Anand",
+        "pin": "388001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 98254 40240"
+      ],
+      "website": "https://www.kayakalpayu.com/",
+      "email": "kayakalp_taps@yahoo.in",
+      "hours": "08:30 AM to 12:30 PM, 04:00 PM to 07:00 PM, Monday to Friday",
+      "services": [
+        "Panchakarma",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Nasya",
+        "Raktamokshana"
+      ],
+      "sources": {
+        "practiceName": "https://www.kayakalpayu.com/",
+        "practitioners": "https://www.kayakalpayu.com/aboutus.php",
+        "address": "https://www.kayakalpayu.com/contactus.php",
+        "phone": "https://www.kayakalpayu.com/contactus.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "taps-kayakalp-ayurvedic-panchakarma-center-anand"
+    },
+    {
+      "practiceName": "Sushrut Sanjeevani Hospital & Panchakarma Centre, Anand",
+      "practitioners": [
+        {
+          "name": "Dr Nidhi D Jha",
+          "qualification": "BAMS, MD Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Dhanwantari Jha",
+          "qualification": "MBBS, BAMS, MD (Kayachikitsa), PhD Ayurveda",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "10-Akhandanand Society, Opposite Mercantile College, Near New Bus Stand",
+        "locality": "New Bus Stand",
+        "city": "Anand",
+        "pin": "388001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 93164 60134",
+        "+91 269 225 2289"
+      ],
+      "website": "https://www.sushrutsanjeevani.com/",
+      "email": "info@sushrutsanjeevani.com",
+      "hours": "Monday to Saturday 10:00 AM to 01:00 PM, 05:00 PM to 08:00 PM",
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation",
+        "Online consultation",
+        "In-house Ayurvedic pharmacy (Shivangi Ayurvedic Aushadh Bhandar)"
+      ],
+      "sources": {
+        "practiceName": "https://www.sushrutsanjeevani.com/",
+        "practitioners": "https://www.sushrutsanjeevani.com/doctors",
+        "address": "https://www.sushrutsanjeevani.com/contact",
+        "phone": "https://www.sushrutsanjeevani.com/"
+      },
+      "testimonials": [
+        {
+          "excerpt": "Dr. Dhanwantari Has increased my faith in Ayurveda and now for all my health needs i prefer Ayurveda first.",
+          "attribution": "Ranjanben Patel",
+          "url": "https://www.sushrutsanjeevani.com/"
+        }
+      ],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sushrut-sanjeevani-hospital-and-panchakarma-centre-anand"
+    },
+    {
+      "practiceName": "S G Patel Ayurveda Hospital & Maternity Home (G. J. Patel Institute of Ayurvedic Studies and Research), New Vallabh Vidyanagar",
+      "practitioners": [
+        {
+          "name": "Dr Jasmine Gujarathi",
+          "qualification": "MS (Ayu), PhD, Prasuti Tantra and Stri Roga",
+          "registration": null
+        },
+        {
+          "name": "Dr Tanvi Bhatt",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Manchak Kendre",
+          "qualification": "BAMS, MD, PhD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Gayatri Gandhe",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "GIDC, Vitthal Udyog Nagar",
+        "locality": "New Vallabh Vidyanagar",
+        "city": "Anand",
+        "pin": "388121",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 269 223 5051",
+        "+91 269 223 5052",
+        "+91 87349 35052"
+      ],
+      "website": "http://ayucharutar.edu.in/",
+      "email": "ayugjp@gmail.com",
+      "hours": "OPD 09:15 AM to 12:30 PM and 03:00 PM to 05:00 PM (schedule w.e.f. 27 Feb 2026)",
+      "services": [
+        "Kayachikitsa OPD",
+        "Panchakarma",
+        "Hi-Tech Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stree Roga",
+        "Suvarnaprashana",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "http://ayucharutar.edu.in/contactus.aspx",
+        "practitioners": "http://ayucharutar.edu.in/Doctors.aspx ; http://ayucharutar.edu.in/OPD_Schedule.aspx",
+        "address": "http://ayucharutar.edu.in/contactus.aspx",
+        "phone": "http://ayucharutar.edu.in/contactus.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "s-g-patel-ayurveda-hospital-and-maternity-home-g-j-patel"
+    },
+    {
+      "practiceName": "Shri V.M. Mehta Institute of Ayurved (Gardi Vidyapith) teaching hospital",
+      "practitioners": [
+        {
+          "name": "Dr Ravikant R. Goyal",
+          "qualification": "Principal",
+          "registration": null
+        },
+        {
+          "name": "Dr Devangi Oza",
+          "qualification": "BAMS, MD (Ayu); HOD and Professor, Kayachikitsa",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Gardi Vidyapith Campus, opp. Aarya Club, Rajkot-Kalawad Highway",
+        "locality": "Anandpar",
+        "city": "Anandpar",
+        "pin": "361162",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 90818 86161"
+      ],
+      "website": "https://www.gardividyapith.ac.in/ayurveda",
+      "email": "info@gardividyapith.ac.in",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.gardividyapith.ac.in/ayurveda",
+        "practitioners": "https://www.gardividyapith.ac.in/ayurveda",
+        "address": "https://www.gardividyapith.ac.in/ayurveda",
+        "phone": "https://www.gardividyapith.ac.in/ayurveda"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-v-m-mehta-institute-of-ayurved-gardi-vidyapith-teaching"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Hospital, Vadodara (Ankodia)",
@@ -27920,6 +28153,57 @@
       "id": "a-g-m-ayurvedic-medical-college-and-hospital-jamkhandi"
     },
     {
+      "practiceName": "ITRA Hospital, Institute of Teaching and Research in Ayurveda (Institution of National Importance)",
+      "practitioners": [
+        {
+          "name": "Dr Chandresh Ukabhai Khunt",
+          "qualification": "M.D. (Ayu), Ph.D.; Deputy Superintendent of Hospital",
+          "registration": null
+        },
+        {
+          "name": "Dr Joyal K. Patel",
+          "qualification": "M.S. (Ayu), Ph.D.; Resident Medical Officer",
+          "registration": null
+        },
+        {
+          "name": "Dr Vipul Shashikant Vyas",
+          "qualification": "M.D. (Ayu); Medical Officer",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opp. B-Division Police Station, Gurudwara Road, Gujarat Ayurved University campus",
+        "locality": "Gurudwara Road",
+        "city": "Jamnagar",
+        "pin": "361008",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 288 255 2014",
+        "+91 288 267 6861"
+      ],
+      "website": "https://itra.ac.in/",
+      "email": "director@itra.edu.in",
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma",
+        "Physiotherapy",
+        "Satellite OPDs"
+      ],
+      "sources": {
+        "practiceName": "https://itra.ac.in/?p=1267",
+        "practitioners": "https://itra.ac.in/staff-2/",
+        "address": "https://itra.ac.in/contact/",
+        "phone": "https://itra.ac.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "itra-hospital-institute-of-teaching-and-research-in-ayurveda"
+    },
+    {
       "practiceName": "Shantabai Shivshankar Arali Ayurvedic Hospital and College, Jath",
       "practitioners": [
         {
@@ -28179,6 +28463,69 @@
       "id": "dr-sharda-ayurveda-jodhpur-pal-road"
     },
     {
+      "practiceName": "Government Ayurveda Hospital (Government Ayurveda College), Junagadh",
+      "practitioners": [
+        {
+          "name": "Dr Pawan G. Sharma",
+          "qualification": "MD Panchkarma",
+          "registration": {
+            "number": "GB I-22861",
+            "source": "https://gacj.co.in/?page_id=782"
+          }
+        },
+        {
+          "name": "Dr Bharat Ambabhai Mungara",
+          "qualification": "MD (Ayu) Kayachikitsa",
+          "registration": {
+            "number": "GB I 14996",
+            "source": "https://gacj.co.in/?page_id=782"
+          }
+        },
+        {
+          "name": "Dr Alpesh Thobhanbhai Jarsania",
+          "qualification": "MD (Ayu), PhD",
+          "registration": {
+            "number": "GBI-13289",
+            "source": "https://gacj.co.in/?page_id=782"
+          }
+        }
+      ],
+      "address": {
+        "line": "Government Ayurveda College campus, Pancheswar Road",
+        "locality": "Kadiyavad",
+        "city": "Junagadh",
+        "pin": "362001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 285 299 0009"
+      ],
+      "website": "https://gacj.co.in/",
+      "email": "principal.jun@gmail.com",
+      "hours": null,
+      "services": [
+        "100-plus bed government Ayurveda teaching hospital",
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya",
+        "Strirog-Prasutitantra",
+        "Kaumarbhritya",
+        "Agnikarma, Raktamokshana, Jalauka",
+        "Wellness centre with yoga and diet advice"
+      ],
+      "sources": {
+        "practiceName": "https://gacj.co.in/?page_id=786",
+        "practitioners": "https://gacj.co.in/?page_id=782",
+        "address": "https://gacj.co.in/",
+        "phone": "https://gacj.co.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "government-ayurveda-hospital-government-ayurveda-college"
+    },
+    {
       "practiceName": "Government Ayurveda Dispensary, Kaduthuruthy",
       "practitioners": [
         {
@@ -28272,6 +28619,80 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "focuz-ayurcentre"
+    },
+    {
+      "practiceName": "BGGAC Hospital (Shri B.G. Garaiya Ayurveda College)",
+      "practitioners": [
+        {
+          "name": "Dr Mahesh Kundagol",
+          "qualification": "MD (Kaya Chikitsa); Dean/Principal & Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Rajkot-Bhavnagar Highway, near Tramba, behind Ashapura Hotel, Dist. Rajkot",
+        "locality": "Kalipat",
+        "city": "Kalipat",
+        "pin": "360020",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 91709 99993",
+        "+91 70460 14900"
+      ],
+      "website": "http://bggac.org/",
+      "email": "info@bggac.org",
+      "hours": null,
+      "services": [
+        "Speciality OPD",
+        "Inpatient care",
+        "Wellness programmes",
+        "Swarnamrutha Prashana"
+      ],
+      "sources": {
+        "practiceName": "http://bggac.org/mandates.php",
+        "practitioners": "http://bggac.org/mandates.php",
+        "address": "http://bggac.org/mandates.php",
+        "phone": "http://bggac.org/mandates.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "bggac-hospital-shri-b-g-garaiya-ayurveda-college"
+    },
+    {
+      "practiceName": "Murlidhar Ayurved College & Hospital",
+      "practitioners": [
+        {
+          "name": "Prof. Dr Alpesh P. Sorathiya",
+          "qualification": "BAMS, MD (Kayachikitsa); Principal & Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opp. Paradise Hills, Rajkot-Bhavnagar Highway",
+        "locality": "Kalipat",
+        "city": "Kalipat",
+        "pin": "360020",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 95864 60405"
+      ],
+      "website": "https://murlidharayurvedcollege.org/",
+      "email": "murlidharayurvedcollege@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://murlidharayurvedcollege.org/",
+        "practitioners": "https://murlidharayurvedcollege.org/About_Principal.aspx",
+        "address": "https://murlidharayurvedcollege.org/",
+        "phone": "https://murlidharayurvedcollege.org/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "murlidhar-ayurved-college-and-hospital"
     },
     {
       "practiceName": "Government Ayurveda Hospital, Irinave",
@@ -36346,6 +36767,84 @@
       "id": "alva-s-ayurveda-medical-college-hospital-moodbidri"
     },
     {
+      "practiceName": "Satvam Ayurveda & Panchkarma Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Jay Bhoraniya",
+          "qualification": "B.A.M.S.",
+          "registration": {
+            "number": "GBI-22236",
+            "source": "https://satvam-jay-web-psi.vercel.app/about.html"
+          }
+        }
+      ],
+      "address": {
+        "line": "2nd floor, Shop No. 11, Sardar Patel Arcade, SP Road corner, Lilapar, Canal Road",
+        "locality": "Lilapar Road",
+        "city": "Morbi",
+        "pin": "363641",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 83471 81884"
+      ],
+      "website": "https://satvam-jay-web-psi.vercel.app/",
+      "email": "jaybhoraniya49@gmail.com",
+      "hours": "Monday to Saturday 9:00 AM to 7:30 PM; Sunday closed",
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://satvam-jay-web-psi.vercel.app/about.html",
+        "practitioners": "https://satvam-jay-web-psi.vercel.app/about.html",
+        "address": "https://satvam-jay-web-psi.vercel.app/contact.html",
+        "phone": "https://satvam-jay-web-psi.vercel.app/contact.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "satvam-ayurveda-and-panchkarma-hospital"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Morbi",
+      "practitioners": [
+        {
+          "name": "Dr Aum Aghara",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. T-66-67, Third Floor, Capital Market, Ravapar Road",
+        "locality": "Ravapar Road",
+        "city": "Morbi",
+        "pin": "363641",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 63535 15914",
+        "+91 83208 92151"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-morbi",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-morbi",
+        "practitioners": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-morbi",
+        "address": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-morbi",
+        "phone": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-morbi"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-morbi"
+    },
+    {
       "practiceName": "Indus Valley Ayurvedic Centre (IVAC)",
       "practitioners": [
         {
@@ -41216,6 +41715,57 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "trisutra-ayushyalaya"
+    },
+    {
+      "practiceName": "P. D. Patel Ayurveda Hospital (J. S. Ayurveda Mahavidyalaya), Nadiad",
+      "practitioners": [
+        {
+          "name": "Prof Dr Kalapi Bhogilal Patel",
+          "qualification": "BAMS, MD (Ayu) Panchakarma, PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr Jaimin Ranchhodbhai Patel",
+          "qualification": "BAMS, MD (Ayu) Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Mansi Patel",
+          "qualification": "BAMS, MD (Ayu) Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "P. D. Patel Ayurveda Hospital, College Road",
+        "locality": "College Road",
+        "city": "Nadiad",
+        "pin": "387001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 268 252 0724",
+        "+91 268 252 7055",
+        "+91 268 252 8096",
+        "+91 268 252 6098"
+      ],
+      "website": "https://nadiadayurveda.org/",
+      "email": "ayurvednadiad@gmail.com",
+      "hours": null,
+      "services": [
+        "150-bed Ayurveda teaching hospital",
+        "OPD and IPD",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://nadiadayurveda.org/hospital-superintendent-message/",
+        "practitioners": "https://nadiadayurveda.org/departments/panchakarma/",
+        "address": "https://nadiadayurveda.org/contact-us/",
+        "phone": "https://nadiadayurveda.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "p-d-patel-ayurveda-hospital-j-s-ayurveda-mahavidyalaya"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Byramji Town",
@@ -50911,6 +51461,494 @@
       "id": "shree-ayurveda"
     },
     {
+      "practiceName": "Redstone Ayurveda & Eve's Wellness Center",
+      "practitioners": [
+        {
+          "name": "Dr Pratixa Desai",
+          "qualification": "BAMS, MD (Ayurved, Gynec); Head of Department, Redstone Ayurveda Rajkot",
+          "registration": null
+        },
+        {
+          "name": "Dr Jaydipsinh P. Jadeja",
+          "qualification": "B.A.M.S.; Ayurvedic Consultant",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First Floor, West Gate, near Raiya Circle, 150 Ft. Ring Road",
+        "locality": "150 Feet Ring Road",
+        "city": "Rajkot",
+        "pin": "360007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 75750 01065",
+        "+91 75750 01066",
+        "+91 75750 01073"
+      ],
+      "website": "https://redstoneayurveda.com/",
+      "email": "info@redstoneayurveda.com",
+      "hours": "Monday to Saturday; Sunday closed",
+      "services": [
+        "Panchkarma therapy",
+        "Healthy lifestyle adaptation",
+        "Hair and skin care",
+        "Weight management",
+        "Women's health care",
+        "Garbhsanskar",
+        "Pre-conception sanskar"
+      ],
+      "sources": {
+        "practiceName": "https://redstoneayurveda.com/",
+        "practitioners": "https://redstoneayurveda.com/our-team",
+        "address": "https://redstoneayurveda.com/contact-us",
+        "phone": "https://redstoneayurveda.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "redstone-ayurveda-and-eve-s-wellness-center"
+    },
+    {
+      "practiceName": "Indian Institute of Ayurved Research & Hospital (IIARH)",
+      "practitioners": [
+        {
+          "name": "Dr Leena Shukla",
+          "qualification": "BAMS, MD (Dravyaguna); Professor and Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "150 ft. Ishwariya Road, Kalawad Road",
+        "locality": "Kalawad Road",
+        "city": "Rajkot",
+        "pin": "360110",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 95129 60001",
+        "+91 75677 35361"
+      ],
+      "website": "https://www.iiarh.com/",
+      "email": null,
+      "hours": "Monday to Saturday 9:00 AM to 4:00 PM",
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.iiarh.com/",
+        "practitioners": "https://www.iiarh.com/Medical_Sup_and_Prin.aspx",
+        "address": "https://www.iiarh.com/Contact.aspx",
+        "phone": "https://www.iiarh.com/Contact.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "indian-institute-of-ayurved-research-and-hospital-iiarh"
+    },
+    {
+      "practiceName": "Shuddhi HiiMS (Jeena Sikho) Ayurvedic Clinic, Rajkot",
+      "practitioners": [
+        {
+          "name": "Dr Naresh Gugar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Office No. 210 & 211, 2nd Floor, Touch, Gold Care Business Edifice, Canal Road, behind New Bus Stand",
+        "locality": "Karanpara",
+        "city": "Rajkot",
+        "pin": "360002",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/rajkot",
+      "email": null,
+      "hours": "Monday to Saturday 9:00 AM to 6:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Yoga and meditation",
+        "Diet planning"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/rajkot",
+        "practitioners": "https://clinics.shuddhi.com/clinic/rajkot",
+        "address": "https://clinics.shuddhi.com/clinic/rajkot",
+        "phone": "https://clinics.shuddhi.com/clinic/rajkot"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shuddhi-hiims-jeena-sikho-ayurvedic-clinic-rajkot"
+    },
+    {
+      "practiceName": "Nirvedh Ayurveda & Panchakarma",
+      "practitioners": [
+        {
+          "name": "Vaidya Twinkal Ghodasara",
+          "qualification": "BAMS; Chief Ayurvedic Physician",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "F-106, Hilton Aeristo, Mavdi-Kankot Road",
+        "locality": "Mavdi",
+        "city": "Rajkot",
+        "pin": "360004",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 92745 55295"
+      ],
+      "website": "https://nirvedhayurveda.com/",
+      "email": "nirvedhayurveda@gmail.com",
+      "hours": "Morning 9:00 AM to 12:30 PM; Evening 4:00 PM to 8:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Nadi Pariksha",
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Abhyanga",
+        "Shirodhara",
+        "Kati Basti",
+        "Udvartana"
+      ],
+      "sources": {
+        "practiceName": "https://nirvedhayurveda.com/",
+        "practitioners": "https://nirvedhayurveda.com/",
+        "address": "https://nirvedhayurveda.com/",
+        "phone": "https://nirvedhayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "nirvedh-ayurveda-and-panchakarma"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Madhuvan Ayurved, Rajkot",
+      "practitioners": [
+        {
+          "name": "Dr Ankita Chothani",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "201, Shaligram Signet, 2nd Floor, opp. HDFC Bank, Speedwell Party Plot Road",
+        "locality": "Mota Mava",
+        "city": "Rajkot",
+        "pin": "360005",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 90549 90547"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-madhuvan-ayurved-rajkot",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-madhuvan-ayurved-rajkot",
+        "practitioners": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-madhuvan-ayurved-rajkot",
+        "address": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-madhuvan-ayurved-rajkot",
+        "phone": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-madhuvan-ayurved-rajkot"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-madhuvan-ayurved-rajkot"
+    },
+    {
+      "practiceName": "Nilkanth Ayurveda & Panchakarma Center",
+      "practitioners": [
+        {
+          "name": "Dr Jigar Vekariya",
+          "qualification": "M.D. (Ayu.)",
+          "registration": null
+        },
+        {
+          "name": "Dr Khushbu Vekariya",
+          "qualification": "M.D. (Ayu.-Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4th floor, Gayatri Square, Nana Mava Road, beside Saket Hospital, near Rajnagar Chowk",
+        "locality": "Nana Mava Road",
+        "city": "Rajkot",
+        "pin": "360004",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 89805 99699"
+      ],
+      "website": "https://nilkanthayurveda.in/",
+      "email": "nilkanthayurveda5@gmail.com",
+      "hours": "Morning 10:00 AM to 1:00 PM; Evening 5:30 PM to 8:30 PM",
+      "services": [
+        "Panchakarma",
+        "Abhyanga",
+        "Swedana",
+        "Vamana",
+        "Virechana",
+        "Basti",
+        "Shirodhara",
+        "Kati Basti",
+        "Janu Basti",
+        "Nasya",
+        "Suvarnaprashana"
+      ],
+      "sources": {
+        "practiceName": "https://nilkanthayurveda.in/",
+        "practitioners": "https://nilkanthayurveda.in/doctor-profile",
+        "address": "https://nilkanthayurveda.in/contact-us",
+        "phone": "https://nilkanthayurveda.in/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "nilkanth-ayurveda-and-panchakarma-center"
+    },
+    {
+      "practiceName": "Atharva Multi Specialty Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Gaurang Joshi",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "2, Paras Society, Prakash Society Main Road, Nirmala Convent Road, opp. Shri K.K. Sheth Physiotherapy College",
+        "locality": "Nirmala Convent Road",
+        "city": "Rajkot",
+        "pin": "360007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 98251 63953",
+        "+91 90239 68063",
+        "+91 98253 14997"
+      ],
+      "website": "https://atharvaayurveda.com/",
+      "email": "ayurvedaatharva@yahoo.com",
+      "hours": "Monday to Saturday 10:30 AM to 12:30 PM and 4:30 PM to 7:30 PM, by appointment; Sunday closed",
+      "services": [
+        "Panchakarma",
+        "Prakriti, Dosha, Agni, Koshtha and Sara assessment",
+        "Ayurveda courses (Atharva Global Academy of Ayurveda)"
+      ],
+      "sources": {
+        "practiceName": "https://atharvaayurveda.com/",
+        "practitioners": "https://www.drgaurangjoshi.com/",
+        "address": "https://atharvaayurveda.com/contact-2/",
+        "phone": "https://atharvaayurveda.com/contact-2/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "atharva-multi-specialty-ayurveda-hospital"
+    },
+    {
+      "practiceName": "Piyushpani Hospital (Piles and Fistula Care)",
+      "practitioners": [
+        {
+          "name": "Dr Kaushal Vyas",
+          "qualification": "BAMS, YIC, PGDYS, CKS & ARD, MD (AM); Consultant Ayurvedic Proctologist",
+          "registration": null
+        },
+        {
+          "name": "Dr Shraddha Vyas",
+          "qualification": "MD (Ayurveda), DNHE; Consultant Physician",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Balmukund Plot, behind Shefali Tower, near Mangal Bhavan, Nirmala School Road / Dr Hedgewar Road",
+        "locality": "Nirmala School Road",
+        "city": "Rajkot",
+        "pin": "360005",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 99259 13231"
+      ],
+      "website": "https://piyushpani.in/",
+      "email": "vyaskoushal@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic proctology",
+        "Kshar Sutra therapy"
+      ],
+      "sources": {
+        "practiceName": "https://piyushpani.in/",
+        "practitioners": "https://piyushpani.in/doctor/",
+        "address": "https://piyushpani.in/contact-us/",
+        "phone": "https://piyushpani.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "piyushpani-hospital-piles-and-fistula-care"
+    },
+    {
+      "practiceName": "Dr Rupa Unadkat Ayurveda & Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Rupa D. Unadkat",
+          "qualification": "M.D. (Ayu.)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "304, Nakshatra 5, opp. Raj Palace, Sadhu Vasvani Road",
+        "locality": "Sadhu Vasvani Road",
+        "city": "Rajkot",
+        "pin": "360007",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 97276 81870"
+      ],
+      "website": "https://drrupaunadkat.com/",
+      "email": "wellnessayurvediccenter@gmail.com",
+      "hours": "Monday to Saturday 9:00 AM to 1:00 PM and 4:00 PM to 8:30 PM; Sunday by prior appointment",
+      "services": [
+        "Panchakarma (Basti, Shirodhara, Nasya)",
+        "Nadi Pariksha",
+        "Garbhasanskar",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drrupaunadkat.com/",
+        "practitioners": "https://drrupaunadkat.com/",
+        "address": "https://drrupaunadkat.com/",
+        "phone": "https://drrupaunadkat.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-rupa-unadkat-ayurveda-and-panchakarma-clinic"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, K D Clinic, Rajkot",
+      "practitioners": [
+        {
+          "name": "Dr Dikshita Chauhan",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "25-B, New Jagnath Road, opp. Koshiya Clinic, Astron Chowk",
+        "locality": "Sardarnagar",
+        "city": "Rajkot",
+        "pin": "360001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 79907 49092"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-k-d-rajkot",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Thursday closed",
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-k-d-rajkot",
+        "practitioners": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-k-d-rajkot",
+        "address": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-k-d-rajkot",
+        "phone": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-k-d-rajkot"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-k-d-clinic-rajkot"
+    },
+    {
+      "practiceName": "Athah Ayurveda & Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Vaidya Priya Kodrani",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 207, Business Corner, University Road, Indira Circle",
+        "locality": "University Road",
+        "city": "Rajkot",
+        "pin": "360005",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 91067 01274"
+      ],
+      "website": "http://www.athahayurved.com/",
+      "email": "vaidyapriya@athahayurved.com",
+      "hours": null,
+      "services": [
+        "Prakriti-based preventive care",
+        "Nadi Pariksha",
+        "Panchakarma (Vaman, Virechan, Nasya, Basti, Raktamokshan)"
+      ],
+      "sources": {
+        "practiceName": "http://www.athahayurved.com/",
+        "practitioners": "http://www.athahayurved.com/html/about-doctor.html",
+        "address": "http://www.athahayurved.com/html/contact-us.html",
+        "phone": "http://www.athahayurved.com/html/contact-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "athah-ayurveda-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Ketu Ayurveda & Panchakarma Clinic",
+      "practitioners": [
+        {
+          "name": "Dr Pratik Kansagra",
+          "qualification": "M.D. (Ayu - Panchakarma)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "At Muskaan, Ramkrishna Main Road, opp. Commissioner Bungalow Road",
+        "locality": "Virani Chowk",
+        "city": "Rajkot",
+        "pin": "360001",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 90108 35108"
+      ],
+      "website": "https://ketuayurveda.com/",
+      "email": "info@ketuayurveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma therapy",
+        "Hair and skin care",
+        "Weight management",
+        "Garbhsanskar"
+      ],
+      "sources": {
+        "practiceName": "https://ketuayurveda.com/",
+        "practitioners": "https://ketuayurveda.com/best-md-ayurvedic-doctor-in-rajkot.php",
+        "address": "https://ketuayurveda.com/",
+        "phone": "https://ketuayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ketu-ayurveda-and-panchakarma-clinic"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Rajnandgaon",
       "practitioners": [
         {
@@ -52757,6 +53795,41 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "mahaveer-college-of-ayurvedic-science-hospital"
+    },
+    {
+      "practiceName": "EVA College of Ayurved and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Prakash Kumbar",
+          "qualification": "M.D. (Ph.D); Principal",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Zanzmer Road, Ta. Dhoraji, Dist. Rajkot",
+        "locality": "Supedi",
+        "city": "Supedi",
+        "pin": "360440",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 282 428 5111",
+        "+91 94263 71471"
+      ],
+      "website": "https://www.evacollegeofayurved.com/",
+      "email": "tsssupedi@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.evacollegeofayurved.com/",
+        "practitioners": "https://www.evacollegeofayurved.com/principal.php",
+        "address": "https://www.evacollegeofayurved.com/",
+        "phone": "https://www.evacollegeofayurved.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "eva-college-of-ayurved-and-hospital"
     },
     {
       "practiceName": "Amrutkalp Ayurvedic Panchkarma Hospital",
@@ -56588,6 +57661,46 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "vaidyamadham-vaidyasala-and-nursing-home"
+    },
+    {
+      "practiceName": "Global Ayurveda Hospital (Global Institute of Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Vaidya Shreyas G. Bhalodia",
+          "qualification": "B.A.M.S., M.S. (Ayu) Shalya Tantra; Principal and Hospital Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Dr Mehul Harishbhai Joshi",
+          "qualification": "Graduate; Deputy Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Gadhka Patiyu, Rajkot-Bhavnagar Highway, Village Tramba, Dist. and Taluka Rajkot",
+        "locality": "Tramba",
+        "city": "Tramba",
+        "pin": "360020",
+        "state": "Gujarat"
+      },
+      "phone": [
+        "+91 82381 89381",
+        "+91 79840 64660"
+      ],
+      "website": "http://www.globalinstituteofayurveda.com/",
+      "email": "globalinstituteofayurveda@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "http://www.globalinstituteofayurveda.com/",
+        "practitioners": "http://www.globalinstituteofayurveda.com/Staff/Staff?type=Hospital",
+        "address": "http://www.globalinstituteofayurveda.com/",
+        "phone": "http://www.globalinstituteofayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "global-ayurveda-hospital-global-institute-of-ayurveda"
     },
     {
       "practiceName": "Government Ayurveda Hospital, Poyiloor",
