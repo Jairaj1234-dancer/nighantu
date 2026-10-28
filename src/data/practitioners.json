@@ -10422,6 +10422,50 @@
       "id": "softouch-ayurveda-village-hospital-and-retreat"
     },
     {
+      "practiceName": "Bapuji Ayurvedic Medical College and Hospital, Challakere",
+      "practitioners": [
+        {
+          "name": "Dr Basavarajappa C T",
+          "qualification": "BAMS, MD (Ayu) Kayachikitsa",
+          "registration": {
+            "number": "KAUPB 12042",
+            "source": "http://bamcclk.com/profile/principal-and-medical-superintendent/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Bapuji Campus",
+        "locality": "T R Nagar",
+        "city": "Challakere",
+        "pin": "577522",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81952 50007",
+        "+91 91275 88507"
+      ],
+      "website": "http://bamcclk.com/",
+      "email": "bamc.in@gmail.com",
+      "hours": null,
+      "services": [
+        "150-bed hospital",
+        "Panchakarma (Abhyanga, Sarvanga Sweda, Shirodhara, Shirovasti, Pizhichil)",
+        "Kshara Sutra",
+        "Agnikarma",
+        "Leech application"
+      ],
+      "sources": {
+        "practiceName": "http://bamcclk.com/",
+        "practitioners": "http://bamcclk.com/profile/principal-and-medical-superintendent/",
+        "address": "http://bamcclk.com/contact-us/",
+        "phone": "http://bamcclk.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "bapuji-ayurvedic-medical-college-and-hospital-challakere"
+    },
+    {
       "practiceName": "Santushti Holistic Health & Healing",
       "practitioners": [
         {
@@ -13221,6 +13265,83 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "madhavbaug-ayurvedic-clinic-daryapur"
+    },
+    {
+      "practiceName": "Anvaya Ayurveda Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Darshan Babu N",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1981, 10th Cross, Near Sai Baba Temple, Behind Ashraya Hospital",
+        "locality": "MCC A Block",
+        "city": "Davanagere",
+        "pin": "577004",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81922 52228",
+        "+91 86186 42929"
+      ],
+      "website": "https://anvayayurveda.com/",
+      "email": "anvayarathna@gmail.com",
+      "hours": "Monday to Saturday 10 am to 1.30 pm and 2.30 pm to 8 pm; Sunday 11 am to 2 pm",
+      "services": [
+        "Seasonal purification packages (Vasanta Vamana, Varsha Basti, Sharad Virechana)",
+        "Rejuvenation massage",
+        "Nadi Pariksha"
+      ],
+      "sources": {
+        "practiceName": "https://anvayayurveda.com/",
+        "practitioners": "https://anvayayurveda.com/about-us.php",
+        "address": "https://anvayayurveda.com/contact.php",
+        "phone": "https://anvayayurveda.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "anvaya-ayurveda-hospital"
+    },
+    {
+      "practiceName": "SriPAA (Sri Paramahamsa Atharva Ayurdhama), Davanagere",
+      "practitioners": [
+        {
+          "name": "Dr Sumathi B C",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "#193/B, First Floor, 3rd Main, Kuvempu Nagar",
+        "locality": "PJ Extension",
+        "city": "Davanagere",
+        "pin": "577002",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 63622 26505"
+      ],
+      "website": "https://sripaa.com/davanagere.php",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Swasthya Panchakarma",
+        "In-patient treatment",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://sripaa.com/davanagere.php",
+        "practitioners": "https://sripaa.com/dr-sumathi.php",
+        "address": "https://sripaa.com/contact.php",
+        "phone": "https://sripaa.com/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sripaa-sri-paramahamsa-atharva-ayurdhama-davanagere"
     },
     {
       "practiceName": "Mahila Utkarsh Pratishthan's Ayurved College, Hospital and Research Center",
@@ -17004,6 +17125,61 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "smt-k-c-ajmera-ayurved-mahavidyalaya-hospital-dadasaheb-c-r"
+    },
+    {
+      "practiceName": "Tapovana Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Anvita Kiran Kottur",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Chaithra H B",
+          "qualification": "MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Ananda Kumar M Wodeyar",
+          "qualification": "MS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Tapovana Ayurvedic Medical College and Hospital, Davanagere taluk",
+        "locality": "Doddabathi",
+        "city": "Doddabathi",
+        "pin": "577566",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81922 91822",
+        "+91 95388 89838",
+        "+91 95388 89839"
+      ],
+      "website": "https://www.tapovana.net/",
+      "email": "tapovanamedicalcollege@gmail.com",
+      "hours": null,
+      "services": [
+        "Nadi Pariksha",
+        "Ashtavidha Pariksha",
+        "Panchakarma",
+        "Abhyanga",
+        "Kati Vasti",
+        "Elakizhi",
+        "Njavara Kizhi",
+        "Swarnabindu Prashana"
+      ],
+      "sources": {
+        "practiceName": "https://www.tapovana.net//home/About-College",
+        "practitioners": "https://www.tapovana.net//public/assets/upload/documents/1778072745-HOSPITAL%20STAFF%20DETAILS-final.pdf",
+        "address": "https://www.tapovana.net/contact",
+        "phone": "https://www.tapovana.net/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "tapovana-ayurvedic-medical-college-and-hospital"
     },
     {
       "practiceName": "Himalayiya Ayurvedic (PG) Medical College & Hospital",
@@ -25253,6 +25429,68 @@
       "id": "vaidya-vrindavanam-ayurveda-hospital"
     },
     {
+      "practiceName": "Rajeev Ayurveda Hospital (Rajeev Institute of Ayurvedic Medical Science and Research Centre & Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Udaya Ganesha B",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Narayana Prakash B",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Govardhan Belaguli",
+          "qualification": "BAMS, MD",
+          "registration": null
+        },
+        {
+          "name": "Dr Tanuja M P",
+          "qualification": "BAMS, MS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Plot 1D-P2, Industrial Area, B M Bypass Road",
+        "locality": "Industrial Area",
+        "city": "Hassan",
+        "pin": "573201",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 78992 00672",
+        "+91 81722 96661"
+      ],
+      "website": "https://riams.in/",
+      "email": "rajeevayuhassan@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra (eye and ENT)",
+        "Prasuti Tantra and Stree Roga",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga",
+        "Kriya Kalpa",
+        "Physiotherapy",
+        "Inpatient care",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://riams.in/",
+        "practitioners": "https://riams.in/hospital-staff/",
+        "address": "https://riams.in/contact/",
+        "phone": "https://riams.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rajeev-ayurveda-hospital-rajeev-institute-of-ayurvedic"
+    },
+    {
       "practiceName": "Rashtriya Ayurved College and Research Institute (attached charitable Ayurved hospital)",
       "practitioners": [
         {
@@ -33411,6 +33649,40 @@
       "id": "kandamkulathy-ayurveda-hospital-kondotty"
     },
     {
+      "practiceName": "A.L.N. Rao Memorial Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Harsha N.M.",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Kachkal Road",
+        "locality": "Kachkal Road",
+        "city": "Koppa",
+        "pin": "577126",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 82178 58036"
+      ],
+      "website": "https://alnrmamc.com/",
+      "email": "alnrmamc@yahoo.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://alnrmamc.com/",
+        "practitioners": "https://alnrmamc.com/about-prinipal.html",
+        "address": "https://alnrmamc.com/",
+        "phone": "https://alnrmamc.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "a-l-n-rao-memorial-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Ayurlekha Ayurvedic Hospital and Panchakarma Center, Mahaveer Nagar Extension, Kota",
       "practitioners": [
         {
@@ -36094,6 +36366,48 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "shree-vishwasainath-ayurvedic-clinic-and-panchkarma-centre"
+    },
+    {
+      "practiceName": "Sri Raghavendra Ayurveda Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sripathi N E",
+          "qualification": null,
+          "registration": {
+            "number": "15416",
+            "source": "https://www.raghavendraayurveda.com/principalms.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "Anathasevashrama Trust campus, Holalkere Taluk, Chitradurga District",
+        "locality": "Malladihalli",
+        "city": "Malladihalli",
+        "pin": "577531",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81912 89777",
+        "+91 81912 89222"
+      ],
+      "website": "https://www.raghavendraayurveda.com/",
+      "email": "sramcmdh@gmail.com",
+      "hours": null,
+      "services": [
+        "60-bed hospital",
+        "Panchakarma unit (separate sections for men and women)",
+        "Laboratory, X-ray, ECG, scanning"
+      ],
+      "sources": {
+        "practiceName": "https://www.raghavendraayurveda.com/",
+        "practitioners": "https://www.raghavendraayurveda.com/principalms.php",
+        "address": "https://www.raghavendraayurveda.com/Contact_us.php",
+        "phone": "https://www.raghavendraayurveda.com/Contact_us.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sri-raghavendra-ayurveda-medical-college-and-hospital"
     },
     {
       "practiceName": "Anima Ayurvedic Medical Centre",
@@ -55415,6 +55729,100 @@
       "id": "shri-eknath-ayurved-rugnalaya-teaching-hospital-of-pravara"
     },
     {
+      "practiceName": "Bapuji Ayurvedic Medical College and Hospital, Shivamogga",
+      "practitioners": [
+        {
+          "name": "Dr Sheela N B",
+          "qualification": "MS Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Vivek T",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sowlanga Road",
+        "locality": "Sowlanga Road",
+        "city": "Shivamogga",
+        "pin": "577204",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81822 72008",
+        "+91 81822 22286"
+      ],
+      "website": "https://bamcshimoga.org/",
+      "email": "bamcsmg@rediffmail.com",
+      "hours": null,
+      "services": [
+        "Out-patient care in all specialties",
+        "In-patient care"
+      ],
+      "sources": {
+        "practiceName": "https://bamcshimoga.org/",
+        "practitioners": "https://bamcshimoga.org/wp-content/uploads/2026/10/hospital_staff.pdf",
+        "address": "https://bamcshimoga.org/contact/",
+        "phone": "https://bamcshimoga.org/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "bapuji-ayurvedic-medical-college-and-hospital-shivamogga"
+    },
+    {
+      "practiceName": "Sri Sadguru Chikitsalaya",
+      "practitioners": [
+        {
+          "name": "Dr Venkatakrishna K. V.",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Chitralekha V. Krishna",
+          "qualification": "BAMS, MD (Ayu)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sir M. V. Complex, Tilak Nagar Main Road",
+        "locality": "Tilak Nagar",
+        "city": "Shivamogga",
+        "pin": "577201",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81823 55349"
+      ],
+      "website": "http://srisadguruchikitsalaya.com/",
+      "email": "srisadguru@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma (Vamana, Virechana, Basti, Nasya, Raktamokshana)",
+        "Abhyanga",
+        "Sweda",
+        "Dhara",
+        "Udvartana",
+        "Tarpana",
+        "Swarna Prashana",
+        "Yoga",
+        "In-patient ward",
+        "Ano-rectal clinic",
+        "Physiotherapy"
+      ],
+      "sources": {
+        "practiceName": "http://srisadguruchikitsalaya.com/",
+        "practitioners": "http://srisadguruchikitsalaya.com/directors-profile.htm",
+        "address": "http://srisadguruchikitsalaya.com/contact-us.htm",
+        "phone": "http://srisadguruchikitsalaya.com/contact-us.htm"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sri-sadguru-chikitsalaya"
+    },
+    {
       "practiceName": "Vishnu Ayurveda College Hospital",
       "practitioners": [
         {
@@ -59839,6 +60247,67 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "vedapuri-ayurveda"
+    },
+    {
+      "practiceName": "Ashwini Multispeciality Ayurvedic Hospital (Ashwini Ayurvedic Medical College, Hospital and Research Centre)",
+      "practitioners": [
+        {
+          "name": "Dr C.V. Rajashekar",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr D.V. Anand",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Divya Kini",
+          "qualification": "MD (Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Dharmapal S.L.",
+          "qualification": "MS (Shalya)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ring Road, Maralur",
+        "locality": "Maralur",
+        "city": "Tumakuru",
+        "pin": "572105",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 81622 01729",
+        "+91 99805 92661"
+      ],
+      "website": "https://www.aamctumkur.com/",
+      "email": "ashwiniayu@gmail.com",
+      "hours": "OPD 9 AM to 5 PM on all weekdays",
+      "services": [
+        "Outpatient and inpatient care",
+        "Panchakarma",
+        "Kshara Karma",
+        "Agnikarma",
+        "Ksharasutra",
+        "Kriya Kalpa",
+        "Yoga and meditation",
+        "Physiotherapy",
+        "Swarnamruta Prashana",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://www.aamctumkur.com/hospital.html",
+        "practitioners": "https://www.aamctumkur.com/faculties.html",
+        "address": "https://www.aamctumkur.com/contact-us.html",
+        "phone": "https://www.aamctumkur.com/contact-us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ashwini-multispeciality-ayurvedic-hospital-ashwini-ayurvedic"
     },
     {
       "practiceName": "Dr. Sharda Ayurveda, Udaipur",
