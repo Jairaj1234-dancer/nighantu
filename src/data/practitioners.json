@@ -30694,6 +30694,41 @@
       "id": "government-ayurveda-hospital-government-ayurveda-college"
     },
     {
+      "practiceName": "Santhigiri Ayurveda and Siddha Hospital, Kadapa",
+      "practitioners": [
+        {
+          "name": "Dr Harikrishnan V P",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Door No 16/375, 1-1, Devuni Kadapa Road, Behind Electric Substation, YSR District",
+        "locality": "Devuni Kadapa Road",
+        "city": "Kadapa",
+        "pin": "516001",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 85622 56302",
+        "+91 81797 77270"
+      ],
+      "website": "https://santhigirihealthcare.com/kadapa/",
+      "email": "santhigirikdp@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://santhigirihealthcare.com/kadapa/",
+        "practitioners": "https://santhigirihealthcare.com/doctors/harikrishnan-vp/ (Assistant Medical Officer (Ayurveda), Santhigiri Ayurveda Siddha Hospital, Kadapa)",
+        "address": "https://santhigirihealthcare.com/kadapa/",
+        "phone": "https://santhigirihealthcare.com/kadapa/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "santhigiri-ayurveda-and-siddha-hospital-kadapa"
+    },
+    {
       "practiceName": "Government Ayurveda Dispensary, Kaduthuruthy",
       "practitioners": [
         {
@@ -55131,6 +55166,44 @@
       "id": "shree-ayurveda"
     },
     {
+      "practiceName": "SSK Ayurveda Nilayam",
+      "practitioners": [
+        {
+          "name": "Dr Sri Satya Upamaka",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Rise ENT Hospital Building (2nd Floor), Near Chinna Gandhi Bomma, Behind Gokavaram Bus Stand",
+        "locality": "Aryapuram",
+        "city": "Rajahmundry",
+        "pin": "533104",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 99485 30100"
+      ],
+      "website": "https://www.drsrisatya.com/",
+      "email": null,
+      "hours": "8 a.m. to 8 p.m., Monday to Sunday, except 2nd Saturday and the following Sunday",
+      "services": [
+        "Panchakarma",
+        "Ksharasutra",
+        "Mud therapy"
+      ],
+      "sources": {
+        "practiceName": "https://www.drsrisatya.com/",
+        "practitioners": "https://www.drsrisatya.com/contact-us; https://www.drsrisatya.com/about-us (BAMS, Dr. Nori Rama Sastry Government Ayurveda College)",
+        "address": "https://www.drsrisatya.com/contact-us",
+        "phone": "https://www.drsrisatya.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ssk-ayurveda-nilayam"
+    },
+    {
       "practiceName": "Redstone Ayurveda & Eve's Wellness Center",
       "practitioners": [
         {
@@ -61796,6 +61869,68 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "vaidyamadham-vaidyasala-and-nursing-home"
+    },
+    {
+      "practiceName": "Sri Venkateswara Ayurvedic Hospital (TTD's Sri Venkateswara Ayurvedic College)",
+      "practitioners": [
+        {
+          "name": "Dr Renu Dixit",
+          "qualification": "MD; PhD",
+          "registration": null
+        },
+        {
+          "name": "Dr N Venkata Subba Reddy",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr T Raveendra Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Ch Annapurna",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sri Venkateswara Ayurvedic College and Hospital, SVIMS Campus",
+        "locality": "SVIMS Campus",
+        "city": "Tirupati",
+        "pin": "517507",
+        "state": "Andhra Pradesh"
+      },
+      "phone": [
+        "+91 87722 64411",
+        "+91 87722 64636"
+      ],
+      "website": "http://www.svaych.com/",
+      "email": "svayhcs.tpt@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stree Roga",
+        "Kaumarabhritya",
+        "Swasthavritta and Yoga",
+        "Kshara Karma",
+        "Agni Karma",
+        "Jalaukavacharana",
+        "Kriya Kalpa"
+      ],
+      "sources": {
+        "practiceName": "http://www.svaych.com/p/hospital.html",
+        "practitioners": "http://www.svaych.com/p/hospital.html (Medical Superintendent FAC and Medical Officers); http://www.svaych.com/p/about-us_6.html (Dr. Renu Dixit, MD; PhD, Principal (FAC), Medical Superintendent)",
+        "address": "http://www.svaych.com/p/about-us.html ('SVIMS campus, Tirupati - 517507'); hospital page http://www.svaych.com/p/hospital.html gives 'SVIMS CAMPUS, TIRUPATI'",
+        "phone": "http://www.svaych.com/p/hospital.html ('Ph.No: 0877-2264411'); http://www.svaych.com/p/about-us.html ('Hospital: 0877-2264636')"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "sri-venkateswara-ayurvedic-hospital-ttd-s-sri-venkateswara"
     },
     {
       "practiceName": "Global Ayurveda Hospital (Global Institute of Ayurveda)",
