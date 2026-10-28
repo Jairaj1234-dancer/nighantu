@@ -3711,6 +3711,65 @@
       "id": "rajshree-ayurvedic-medical-college-and-hospital"
     },
     {
+      "practiceName": "Vedamrita Hospitals, Barwala",
+      "practitioners": [
+        {
+          "name": "Dr Mohit Arora",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Naveen Kumar",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Priyal Bansal",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Anjali Rana",
+          "qualification": "BAMS, CCPT",
+          "registration": null
+        },
+        {
+          "name": "Dr Sahil Gupta",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Hisar-Tohana Road, near MRF Agency",
+        "locality": "Barwala",
+        "city": "Barwala",
+        "pin": "125121",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 85700 23400"
+      ],
+      "website": "https://hospitals.vedamrita.com/",
+      "email": "info@vedamrita.com",
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Panchakarma",
+        "Yoga and Naturopathy",
+        "Pranamrita Therapy"
+      ],
+      "sources": {
+        "practiceName": "https://hospitals.vedamrita.com/",
+        "practitioners": "https://www.vedamrita.com/hospital/doctors",
+        "address": "https://hospitals.vedamrita.com/",
+        "phone": "https://hospitals.vedamrita.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "vedamrita-hospitals-barwala"
+    },
+    {
       "practiceName": "Acharya Deshabushan Ayurvedic Medical College and Hospital",
       "practitioners": [
         {
@@ -10041,6 +10100,65 @@
       "id": "dr-sharda-ayurveda-bikaner-pawanpuri"
     },
     {
+      "practiceName": "Shiva Ayurvedic Medical College and Hospital, Bilaspur",
+      "practitioners": [
+        {
+          "name": "Dr Rajesh Kumar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Upender Nath Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vishal Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Pooja Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Neha Thakur",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Vill. Luhanoo Kanetain, PO Chandpur",
+        "locality": "Chandpur",
+        "city": "Bilaspur",
+        "pin": "174004",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98050 92581",
+        "+91 98160 79160"
+      ],
+      "website": "https://amruhp.ac.in/?p=13639",
+      "email": null,
+      "hours": null,
+      "services": [
+        "60 bed hospital",
+        "24 hour care",
+        "Ambulance service"
+      ],
+      "sources": {
+        "practiceName": "https://amruhp.ac.in/?p=13639",
+        "practitioners": "https://amruhp.ac.in/wp-content/uploads/2025/07/Faculty-list-1-Shiva-Ayurvedic-Medical-College-Bilaspur-HP.pdf",
+        "address": "https://amruhp.ac.in/?p=13639",
+        "phone": "https://amruhp.ac.in/?p=13639"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shiva-ayurvedic-medical-college-and-hospital-bilaspur"
+    },
+    {
       "practiceName": "Chouksey College of Ayurved Research Center & Hospital",
       "practitioners": [
         {
@@ -10297,6 +10415,73 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "bhausaheb-mulak-ayurved-college-and-research-hospital"
+    },
+    {
+      "practiceName": "Abhilashi Ayurvedic College and Research Institute Hospital, Chail Chowk",
+      "practitioners": [
+        {
+          "name": "Prof Dharmendra Kumar Mishra",
+          "qualification": "BAMS, M.D. (Kaya Chikitsa)",
+          "registration": {
+            "number": "Bhartiya Chikitsa Parishad Uttar Pradesh 33983 (as published)",
+            "source": "https://www.abhilashiuniversity.ac.in/Static/V1/Files/Documents/639150618087654329.pdf"
+          }
+        },
+        {
+          "name": "Dr Bindu Chauhan",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Shivali Mehra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vikram Singh",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Bhawana Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Itika Thakur",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Abhilashi University campus, Tehsil Chachyot",
+        "locality": "Chail Chowk",
+        "city": "Chail Chowk",
+        "pin": "175045",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 190 725 0405",
+        "+91 190 729 2611"
+      ],
+      "website": "https://abhilashiuniversity.ac.in/abhilashi-ayurvedic-college",
+      "email": "info@abhilashiuniversity.ac.in",
+      "hours": null,
+      "services": [
+        "OPD and IPD",
+        "Kayachikitsa",
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://abhilashiuniversity.ac.in/abhilashi-ayurvedic-college",
+        "practitioners": "https://www.abhilashiuniversity.ac.in/Static/V1/Files/Documents/639150618087654329.pdf",
+        "address": "https://abhilashiuniversity.ac.in/abhilashi-ayurvedic-college",
+        "phone": "https://abhilashiuniversity.ac.in/abhilashi-ayurvedic-college"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "abhilashi-ayurvedic-college-and-research-institute-hospital"
     },
     {
       "practiceName": "K.P. Pathrose Vaidyan's Kandamkulathy Ayursoukhyam Ayurveda Hospital, Athirappilly",
@@ -16938,6 +17123,130 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "p-p-savani-ayurvedic-college-and-hospital"
+    },
+    {
+      "practiceName": "Ayuskama Ayurveda Clinic and Panchakarma Centre, Dharamkot",
+      "practitioners": [
+        {
+          "name": "Dr Arun Sharma",
+          "qualification": "B.A.M.S.",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "33 Ayurveda Street, After Tipa, Dharamkot Rd",
+        "locality": "Dharamkot",
+        "city": "Dharamshala",
+        "pin": "176216",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 62300 71333"
+      ],
+      "website": "https://www.ayuskama.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic treatments",
+        "Abhyangam",
+        "Shirodhara",
+        "Nasya",
+        "Panchakarma",
+        "Ayurveda courses"
+      ],
+      "sources": {
+        "practiceName": "https://www.ayuskama.com/",
+        "practitioners": "https://www.ayuskama.com/",
+        "address": "https://www.ayuskama.com/contact-us",
+        "phone": "https://www.ayuskama.com/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayuskama-ayurveda-clinic-and-panchakarma-centre-dharamkot"
+    },
+    {
+      "practiceName": "Himveda, Dharamshala (City Office)",
+      "practitioners": [
+        {
+          "name": "Dr Vibhor Sharma",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "HimVeda, Near International Cricket Stadium, Distt. Kangra",
+        "locality": "Dharamshala",
+        "city": "Dharamshala",
+        "pin": "176215",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 97368 53285"
+      ],
+      "website": "https://himveda.com/",
+      "email": "info@himveda.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ayurvedic consultations",
+        "Ayurveda courses"
+      ],
+      "sources": {
+        "practiceName": "https://himveda.com/contact",
+        "practitioners": "https://himveda.com/ayurvedic-doctor-dharamshala",
+        "address": "https://himveda.com/contact",
+        "phone": "https://himveda.com/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "himveda-dharamshala-city-office"
+    },
+    {
+      "practiceName": "White Petal Ayurveda, McLeod Ganj",
+      "practitioners": [
+        {
+          "name": "Dr Anandni Rehela",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Raymond Field Wanniang",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Trimurti Garden, Lower Dharamkot Rd",
+        "locality": "McLeod Ganj",
+        "city": "Dharamshala",
+        "pin": "176219",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 87928 30869",
+        "+91 93626 81984"
+      ],
+      "website": "https://www.whitepetalayurveda.com/",
+      "email": "whitepetalayurveda@gmail.com",
+      "hours": null,
+      "services": [
+        "Ayurveda healing programmes",
+        "Consultations",
+        "Ayurvedic therapies",
+        "Guest house accommodation"
+      ],
+      "sources": {
+        "practiceName": "https://www.whitepetalayurveda.com/",
+        "practitioners": "https://www.whitepetalayurveda.com/about-us",
+        "address": "https://www.whitepetalayurveda.com/",
+        "phone": "https://www.whitepetalayurveda.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "white-petal-ayurveda-mcleod-ganj"
     },
     {
       "practiceName": "Madhavbaug Manik Chowk, Dharashiv",
@@ -25352,6 +25661,47 @@
       "id": "govt-autonomous-ayurved-college-and-hospital-gwalior"
     },
     {
+      "practiceName": "Dr. Sharda Ayurveda, Hamirpur",
+      "practitioners": [
+        {
+          "name": "Dr Charu Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Navdeep Singh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near Sai Hospital, Hamirpur-Shimla Highway",
+        "locality": "Dugha",
+        "city": "Hamirpur",
+        "pin": "177001",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98889 54800"
+      ],
+      "website": "https://drshardaayurveda.com/pages/hamirpur",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/hamirpur",
+        "practitioners": "https://drshardaayurveda.com/pages/hamirpur",
+        "address": "https://drshardaayurveda.com/pages/hamirpur",
+        "phone": "https://drshardaayurveda.com/pages/hamirpur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-hamirpur"
+    },
+    {
       "practiceName": "Patanjali Ayurved Hospital (attached to Patanjali Ayurved College, Patanjali Bhartiya Ayurvigyan Evam Anusandhan Sansthan)",
       "practitioners": [
         {
@@ -30210,6 +30560,77 @@
       "id": "dr-sharda-ayurveda-jodhpur-pal-road"
     },
     {
+      "practiceName": "Ayujyoti Ayurvedic College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Sanjay Kumar",
+          "qualification": "MS Shalya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr Neeraj Mishra",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Ashok Kumar",
+          "qualification": "MD Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Ajay Goplani",
+          "qualification": "MD Kriya Sharir",
+          "registration": null
+        },
+        {
+          "name": "Dr Sunil Kumar",
+          "qualification": "MD Kaumarbhritiya",
+          "registration": null
+        },
+        {
+          "name": "Dr Vikas Kumar",
+          "qualification": "MD Kaumarbhritiya",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Panjuana-Kharian Road",
+        "locality": "Jodhpuria",
+        "city": "Jodhpuria",
+        "pin": "125076",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 86079 36928"
+      ],
+      "website": "https://www.ayujyoti.in/",
+      "email": "ayujyoticollege@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD and IPD",
+        "Kaya Chikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti Tantra and Stri Roga",
+        "Kaumarbhritya",
+        "Panchkarma",
+        "Swasthrakshan",
+        "Visha Chikitsa",
+        "Kshara Sutra",
+        "24-hour emergency"
+      ],
+      "sources": {
+        "practiceName": "https://ayujyoti.in/contact-address.html",
+        "practitioners": "https://ayujyoti.in/hospital-staff.html",
+        "address": "https://ayujyoti.in/contact-address.html",
+        "phone": "https://ayujyoti.in/contact-address.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayujyoti-ayurvedic-college-and-hospital"
+    },
+    {
       "practiceName": "Government Ayurveda Hospital (Government Ayurveda College), Junagadh",
       "practitioners": [
         {
@@ -30939,6 +31360,42 @@
       "id": "tattvaveda-ayurvedic-clinic"
     },
     {
+      "practiceName": "Dr. Sharda Ayurveda, Kangra",
+      "practitioners": [
+        {
+          "name": "Dr Nidhi Chaudhary",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Palampur Rd, near City Hospital",
+        "locality": "Sunehr",
+        "city": "Kangra",
+        "pin": "176001",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98881 92700"
+      ],
+      "website": "https://drshardaayurveda.com/pages/kangra",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/kangra",
+        "practitioners": "https://drshardaayurveda.com/pages/kangra",
+        "address": "https://drshardaayurveda.com/pages/kangra",
+        "phone": "https://drshardaayurveda.com/pages/kangra"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-kangra"
+    },
+    {
       "practiceName": "District Ayurveda Hospital, Padannakkad",
       "practitioners": [
         {
@@ -31483,6 +31940,97 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "madhavbaug-karanja-lad"
+    },
+    {
+      "practiceName": "AyurvedGuru (Vaidya Ayurvedguru Pvt. Ltd.)",
+      "practitioners": [
+        {
+          "name": "Dr Manoj Virmani",
+          "qualification": "BAMS, MD (Ayu) Panchkarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Poonam Virmani",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Gopesh Virmani",
+          "qualification": "BAMS, MD (Ayu) Panchakarma",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "95 Dyal Singh Colony",
+        "locality": "Dyal Singh Colony",
+        "city": "Karnal",
+        "pin": "132001",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 94160 11800",
+        "+91 90346 11800"
+      ],
+      "website": "https://ayurvedguru.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "OPD",
+        "IPD",
+        "Panchakarma",
+        "Day care",
+        "Herbal pharmacy",
+        "Yoga and Pranayama",
+        "Panchakarma training"
+      ],
+      "sources": {
+        "practiceName": "https://ayurvedguru.com/",
+        "practitioners": "https://ayurvedguru.com/",
+        "address": "https://ayurvedguru.com/",
+        "phone": "https://ayurvedguru.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayurvedguru-vaidya-ayurvedguru-pvt-ltd"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Karnal",
+      "practitioners": [
+        {
+          "name": "Dr Palak Verma",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "216 RB, near Sati Geeta Mandir",
+        "locality": "Model Town",
+        "city": "Karnal",
+        "pin": "132001",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 98884 50800"
+      ],
+      "website": "https://drshardaayurveda.com/pages/karnal",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Diet charts and lifestyle advice",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/karnal",
+        "practitioners": "https://drshardaayurveda.com/pages/karnal",
+        "address": "https://drshardaayurveda.com/pages/contact",
+        "phone": "https://drshardaayurveda.com/pages/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-karnal"
     },
     {
       "practiceName": "Government Ayurveda Hospital, Mamunda (Karukachal)",
@@ -37150,6 +37698,47 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "rama-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Mandi",
+      "practitioners": [
+        {
+          "name": "Dr Divya Thakur",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Gaurav Thakur",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Chakkar Bridge, Near Astha Hospital",
+        "locality": "Chakkar",
+        "city": "Mandi",
+        "pin": "175021",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98889 54600"
+      ],
+      "website": "https://drshardaayurveda.com/pages/mandi",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/mandi",
+        "practitioners": "https://drshardaayurveda.com/pages/mandi",
+        "address": "https://drshardaayurveda.com/pages/mandi",
+        "phone": "https://drshardaayurveda.com/pages/mandi"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-mandi"
     },
     {
       "practiceName": "Mandsaur Institute of Ayurved Education and Research (attached Ayurveda hospital)",
@@ -44882,6 +45471,48 @@
       "id": "madhavbaug-ayurvedic-clinic-zingabai-takli"
     },
     {
+      "practiceName": "Awasthi Ayurvedic Medical College and Hospital, Nalagarh",
+      "practitioners": [
+        {
+          "name": "Dr Anil Dutt",
+          "qualification": "BAMS (HPU Shimla), MD (BHU Varanasi)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Ward No. 9",
+        "locality": "Nalagarh",
+        "city": "Nalagarh",
+        "pin": "174101",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 88941 20009"
+      ],
+      "website": "https://www.amchnalagarh.com/",
+      "email": "info@amchnalagarh.in",
+      "hours": null,
+      "services": [
+        "Daily OPD",
+        "Kaya Chikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "60 bed IPD",
+        "Ayurvedic pharmacy",
+        "Laboratory services"
+      ],
+      "sources": {
+        "practiceName": "https://www.amchnalagarh.com/hospital-of-awasthi-ayurvedic-college",
+        "practitioners": "https://www.amchnalagarh.com/hospital-of-awasthi-ayurvedic-college",
+        "address": "https://www.amchnalagarh.com/hospital-of-awasthi-ayurvedic-college",
+        "phone": "https://www.amchnalagarh.com/hospital-of-awasthi-ayurvedic-college"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "awasthi-ayurvedic-medical-college-and-hospital-nalagarh"
+    },
+    {
       "practiceName": "Madhavbaug Bhagyanagar, Nanded",
       "practitioners": [
         {
@@ -47883,6 +48514,44 @@
       "id": "dr-sathish-s-changethu-ayurveda-hospital"
     },
     {
+      "practiceName": "Regional Ayurveda Research Institute (CCRAS), Mandi",
+      "practitioners": [
+        {
+          "name": "Dr Vikas Nariyal",
+          "qualification": "MD (Kayachikitsa)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "RARI, Jaral",
+        "locality": "Jaral",
+        "city": "Pandoh",
+        "pin": "175124",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 190 528 2736"
+      ],
+      "website": "https://ccras.nic.in/rari-mandi/",
+      "email": "arri-mandi@gov.in",
+      "hours": null,
+      "services": [
+        "OPD",
+        "Geriatric health care clinic",
+        "Clinical research"
+      ],
+      "sources": {
+        "practiceName": "https://ccras.nic.in/rari-mandi/",
+        "practitioners": "https://ccras.nic.in/?p=19788",
+        "address": "https://ccras.nic.in/rari-mandi/",
+        "phone": "https://ccras.nic.in/rari-mandi/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "regional-ayurveda-research-institute-ccras-mandi"
+    },
+    {
       "practiceName": "Sreekumara Pharmacy and Nursing Home",
       "practitioners": [
         {
@@ -48206,6 +48875,123 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-26",
       "id": "madhavbaug-ayurvedic-clinic-panvel"
+    },
+    {
+      "practiceName": "Rajiv Gandhi Government Post Graduate Ayurvedic College and Hospital, Paprola",
+      "practitioners": [
+        {
+          "name": "Dr Vijay Chaudhary",
+          "qualification": "M.D. (Ay), Ph.D.",
+          "registration": null
+        },
+        {
+          "name": "Dr Sunil Thakur",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Manik Soni",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Geetika Dharmani",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anil Bhardwaj",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Charu Supriya",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Neeraj Mehra",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Gaurav Parmar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Anil Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vijayant Bhardwaj",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Rakesh Sharma",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Soni Kapil",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Meena Parmar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Umesh Shukla",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ankush Jagota",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Rajiv Gandhi Government Post Graduate Ayurvedic College",
+        "locality": "Paprola",
+        "city": "Paprola",
+        "pin": "176115",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 189 424 2064",
+        "+91 189 424 2941"
+      ],
+      "website": "https://paprolaayurved.org/",
+      "email": "info@paprolaayurved.org",
+      "hours": null,
+      "services": [
+        "OPD and IPD (200 bed hospital)",
+        "24 hour emergency",
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya Tantra",
+        "Ksharsutra",
+        "Shalakya Tantra",
+        "Asthi Sandhi Vigyan",
+        "Bal Roga",
+        "Prasuti Tantra and Stree Roga",
+        "Swasthavritta and Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://paprolaayurved.org/contact-us/",
+        "practitioners": "https://paprolaayurved.org/opd-schedule/",
+        "address": "https://paprolaayurved.org/contact-us/",
+        "phone": "https://paprolaayurved.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rajiv-gandhi-government-post-graduate-ayurvedic-college-and"
     },
     {
       "practiceName": "MVR Ayurveda Medical College Hospital",
@@ -55045,6 +55831,42 @@
       "id": "govt-autonomous-ayurveda-college-and-hospital-rewa"
     },
     {
+      "practiceName": "Jeena Sikho HiiMS Clinic Rewari (Shuddhi Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr Himanshu Kumar Sharma",
+          "qualification": "B.A.M.S",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 192, New Anaj Mandi",
+        "locality": "New Anaj Mandi",
+        "city": "Rewari",
+        "pin": "123401",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/rewari",
+      "email": null,
+      "hours": "Mon to Sat 9:00 AM to 6:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/rewari",
+        "practitioners": "https://clinics.shuddhi.com/clinic/rewari",
+        "address": "https://clinics.shuddhi.com/clinic/rewari",
+        "phone": "https://clinics.shuddhi.com/clinic/rewari"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jeena-sikho-hiims-clinic-rewari-shuddhi-ayurveda"
+    },
+    {
       "practiceName": "Vedic Yoga & Ayurveda Retreat Centre",
       "practitioners": [
         {
@@ -55527,6 +56349,44 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "kritika-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Rohtak",
+      "practitioners": [
+        {
+          "name": "Dr Kajal Yadav",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "4 Puliya, Sonipat Road, opp. Inderprasth, near Sector 3",
+        "locality": "Ram Gopal Colony",
+        "city": "Rohtak",
+        "pin": "124001",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 98884 94500"
+      ],
+      "website": "https://drshardaayurveda.com/pages/rohtak",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Diet charts and lifestyle advice",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/rohtak",
+        "practitioners": "https://drshardaayurveda.com/pages/rohtak",
+        "address": "https://drshardaayurveda.com/pages/contact",
+        "phone": "https://drshardaayurveda.com/pages/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-rohtak"
     },
     {
       "practiceName": "Chaitanya Ayurved Mahavidyalaya Hospital",
@@ -56579,6 +57439,42 @@
       "id": "shri-eknath-ayurved-rugnalaya-teaching-hospital-of-pravara"
     },
     {
+      "practiceName": "Dr. Sharda Ayurveda, Shimla",
+      "practitioners": [
+        {
+          "name": "Dr Arrush Pawar",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Near HP Petrol Pump, BCS Panthaghati Highway",
+        "locality": "Vikas Nagar",
+        "city": "Shimla",
+        "pin": "171009",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98889 52800"
+      ],
+      "website": "https://drshardaayurveda.com/pages/shimla",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/shimla",
+        "practitioners": "https://drshardaayurveda.com/pages/shimla",
+        "address": "https://drshardaayurveda.com/pages/shimla",
+        "phone": "https://drshardaayurveda.com/pages/shimla"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-shimla"
+    },
+    {
       "practiceName": "Bapuji Ayurvedic Medical College and Hospital, Shivamogga",
       "practitioners": [
         {
@@ -56747,6 +57643,122 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "national-ayurvedic-hospital-and-medical-college"
+    },
+    {
+      "practiceName": "Jeena Sikho HiiMS Clinic Sirsa (Shuddhi Ayurveda)",
+      "practitioners": [
+        {
+          "name": "Dr Sachin Pareek",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shop No. 91, Near Fire Station, Arorvansh Chowk, Dabwali Road",
+        "locality": "Dabwali Road",
+        "city": "Sirsa",
+        "pin": "125055",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 77839 77839"
+      ],
+      "website": "https://clinics.shuddhi.com/clinic/sirsa",
+      "email": null,
+      "hours": "Mon to Sat 9:00 AM to 6:00 PM; Sunday closed",
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://clinics.shuddhi.com/clinic/sirsa",
+        "practitioners": "https://clinics.shuddhi.com/clinic/sirsa",
+        "address": "https://clinics.shuddhi.com/clinic/sirsa",
+        "phone": "https://clinics.shuddhi.com/clinic/sirsa"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "jeena-sikho-hiims-clinic-sirsa-shuddhi-ayurveda"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Sirsa",
+      "practitioners": [
+        {
+          "name": "Dr Gautam Sharma",
+          "qualification": "BAMS",
+          "registration": null
+        },
+        {
+          "name": "Dr Muskan Kamboj",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "17/157, Circular Road, near Jagdev Singh Chowk, opp. Chawla Restaurant",
+        "locality": "Shamshabad",
+        "city": "Sirsa",
+        "pin": "125055",
+        "state": "Haryana"
+      },
+      "phone": [
+        "+91 98884 91900"
+      ],
+      "website": "https://drshardaayurveda.com/pages/sirsa",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation",
+        "Diet charts and lifestyle advice",
+        "Online consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/sirsa",
+        "practitioners": "https://drshardaayurveda.com/pages/sirsa",
+        "address": "https://drshardaayurveda.com/pages/contact",
+        "phone": "https://drshardaayurveda.com/pages/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-sirsa"
+    },
+    {
+      "practiceName": "Shri Balmukand Apex Hospital (Ayurveda Department), Solan",
+      "practitioners": [
+        {
+          "name": "Dr Lokesh Mamgain",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Opposite Netaji Park, Hospital Road",
+        "locality": "Hospital Road",
+        "city": "Solan",
+        "pin": "173212",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 80919 66601",
+        "+91 80919 66602"
+      ],
+      "website": "https://www.sbah.in/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurveda OPD"
+      ],
+      "sources": {
+        "practiceName": "https://www.sbah.in/ayurveda",
+        "practitioners": "https://www.sbah.in/dr-lokesh-mamgain",
+        "address": "https://www.sbah.in/",
+        "phone": "https://www.sbah.in/contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-balmukand-apex-hospital-ayurveda-department-solan"
     },
     {
       "practiceName": "Seth Sakharam Nemchand Jain Ayurved Rugnalaya (teaching hospital of Seth Govindji Raoji Ayurved Mahavidyalaya), Solapur",
@@ -57338,6 +58350,49 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "shashwat-ayurveda-and-panchkarma"
+    },
+    {
+      "practiceName": "Maitriveda Healthcare, Tauni Devi",
+      "practitioners": [
+        {
+          "name": "Dr Rishav Patial",
+          "qualification": "BAMS",
+          "registration": {
+            "number": "Reg. 7109-I (as published)",
+            "source": "https://www.maitrivedahealthcare.com/doctor"
+          }
+        }
+      ],
+      "address": {
+        "line": "Tauni Devi-Kakdiyar Rd, Near Govt Hospital",
+        "locality": "Tauni Devi",
+        "city": "Tauni Devi",
+        "pin": "177023",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 81460 63060"
+      ],
+      "website": "https://www.maitrivedahealthcare.com/",
+      "email": "MaitrivedaHealthcare@gmail.com",
+      "hours": "Mon to Sat 9:00 AM to 7:00 PM",
+      "services": [
+        "General consultation",
+        "Prakriti and Dosha analysis",
+        "Diet and lifestyle counselling",
+        "Panchakarma and Ayurvedic therapies",
+        "Wellness and preventive care"
+      ],
+      "sources": {
+        "practiceName": "https://www.maitrivedahealthcare.com/",
+        "practitioners": "https://www.maitrivedahealthcare.com/doctor",
+        "address": "https://www.maitrivedahealthcare.com/",
+        "phone": "https://www.maitrivedahealthcare.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "maitriveda-healthcare-tauni-devi"
     },
     {
       "practiceName": "Grameen Ayurvedic Medical College, Hospital and Research Center (GAMCH and RC)",
@@ -61664,6 +62719,42 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "madhavbaug-ayurvedic-clinic-umarkhed"
+    },
+    {
+      "practiceName": "Dr. Sharda Ayurveda, Una",
+      "practitioners": [
+        {
+          "name": "Dr Sukhveer Singh",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Una-Chandigarh Highway, Near Railway Bridge",
+        "locality": "Rakkar Colony",
+        "city": "Una",
+        "pin": "174303",
+        "state": "Himachal Pradesh"
+      },
+      "phone": [
+        "+91 98889 54400"
+      ],
+      "website": "https://drshardaayurveda.com/pages/una",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Ayurvedic consultation"
+      ],
+      "sources": {
+        "practiceName": "https://drshardaayurveda.com/pages/una",
+        "practitioners": "https://drshardaayurveda.com/pages/una",
+        "address": "https://drshardaayurveda.com/pages/una",
+        "phone": "https://drshardaayurveda.com/pages/una"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-sharda-ayurveda-una"
     },
     {
       "practiceName": "Chiranjeevi Ayurveda Hospital",
