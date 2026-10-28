@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-22",
- "count": 285,
+ "updatedAt": "2026-10-28",
+ "count": 286,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -502,6 +502,13 @@
    "label": "Centella asiatica",
    "description": "species of plant",
    "checkedAt": "2026-09-12"
+  },
+  "Centipeda minima": {
+   "status": "ok",
+   "qid": "Q6744117",
+   "label": "Centipeda minima",
+   "description": "species of plant",
+   "checkedAt": "2026-10-28"
   },
   "Centratherum anthelminticum": {
    "status": "ok",

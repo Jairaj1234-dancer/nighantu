@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-22",
- "count": 285,
+ "updatedAt": "2026-10-28",
+ "count": 286,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -361,6 +361,11 @@
    "status": "ok",
    "taxid": "48106",
    "checkedAt": "2026-09-12"
+  },
+  "Centipeda minima": {
+   "status": "ok",
+   "taxid": "397370",
+   "checkedAt": "2026-10-28"
   },
   "Centratherum anthelminticum": {
    "status": "not-found",

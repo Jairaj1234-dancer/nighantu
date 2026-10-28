@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22",
+ "updatedAt": "2026-10-28",
  "sources": [
   "GBIF Backbone Taxonomy, https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
   "Wikidata, https://www.wikidata.org/",
@@ -2125,7 +2125,7 @@
    "genus": "Centipeda",
    "acceptedName": "",
    "acceptedKey": null,
-   "checkedAt": "2026-10-22",
+   "checkedAt": "2026-10-28",
    "wikidata": "Q6744117",
    "ncbiTaxid": "397370"
   },
