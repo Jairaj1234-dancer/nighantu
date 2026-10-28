@@ -1,7 +1,7 @@
 ---
 /** A city: every locality with its count, then every practice. */
 import Page from '../../../layouts/Page.astro';
-import { cities, urlOf } from '../../../lib/practitioners';
+import { cities, urlOf, stateOf, slug } from '../../../lib/practitioners';
 import { abs, rel } from '../../../lib/site';
 
 export function getStaticPaths() { return cities().map((c) => ({ params: { city: c.slug }, props: { c } })); }
@@ -10,6 +10,7 @@ const canonical = `/practitioners/${c.slug}/`;
 const n = c.localities.reduce((a: number, l: any) => a + l.practices.length, 0);
 const title = `Ayurvedic doctors in ${c.name}: ${n} ${n === 1 ? 'practice' : 'practices'} by locality, with address and phone`;
 const description = `${n} Ayurvedic ${n === 1 ? 'practice' : 'practices'} across ${c.localities.length} ${c.localities.length === 1 ? 'locality' : 'localities'} of ${c.name}, each with a named practitioner, address and phone number published by the practice itself.`;
+const st = stateOf(c.localities[0].practices[0]);
 const updated = c.localities.flatMap((l: any) => l.practices.map((p: any) => p.checkedOn)).sort().pop();
 const list = {
   '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs(canonical)}#list`,
@@ -17,8 +18,8 @@ const list = {
   itemListElement: c.localities.flatMap((l: any) => l.practices).map((p: any, i: number) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(p)), name: p.practiceName })),
 };
 ---
-<Page title={title} description={description} canonical={canonical} updated={updated}
-  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: c.name }]} jsonld={list}>
+<Page title={title} description={description} canonical={canonical} updated={updated} markdown={`/practitioners/${c.slug}.md`}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, ...(st ? [{ label: st, href: `/practitioners/state/${slug(st)}/` }] : []), { label: c.name }]} jsonld={list}>
   <h1>Ayurvedic practitioners in {c.name}</h1>
   <p class="answer">{description}</p>
   {c.localities.map((l: any) => (

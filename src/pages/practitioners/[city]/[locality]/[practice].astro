@@ -9,7 +9,7 @@
  * practice's selection, and presenting them as independent reviews would misdescribe them.
  */
 import Page from '../../../../layouts/Page.astro';
-import { cities, practices, urlOf, telHref, cityOf, localityOf, stateOf } from '../../../../lib/practitioners';
+import { cities, practices, urlOf, telHref, cityOf, localityOf, stateOf, summaryOf, mdOf, longDate, slug } from '../../../../lib/practitioners';
 import { abs, rel, PUBLISHER } from '../../../../lib/site';
 
 export function getStaticPaths() {
@@ -22,7 +22,8 @@ const canonical = urlOf(p);
 const doctors = p.practitioners.map((d: any) => d.name);
 const where = `${p.address.locality}, ${p.address.city}`;
 const title = `${p.practiceName}, ${where}: Ayurvedic practitioner ${doctors[0]}${doctors.length > 1 ? ` and ${doctors.length - 1} more` : ''}`;
-const description = `${p.practiceName} is an Ayurvedic practice in ${where}. ${doctors.length === 1 ? 'Practitioner' : 'Practitioners'}: ${doctors.join(', ')}. Address: ${p.address.line}, ${where} ${p.address.pin}. Phone: ${p.phone.join(', ')}.`;
+const summary = summaryOf(p);
+const description = summary;
 const others = locality.practices.filter((x: any) => x.id !== p.id).slice(0, 8);
 
 const clinic = {
@@ -30,7 +31,7 @@ const clinic = {
   '@type': 'MedicalClinic',
   '@id': `${abs(canonical)}#practice`,
   name: p.practiceName,
-  description: `Ayurvedic practice in ${where}.`,
+  description: summary,
   url: p.website || abs(canonical),
   telephone: p.phone[0],
   ...(p.email ? { email: p.email } : {}),
@@ -69,11 +70,12 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
   description={description}
   canonical={canonical}
   updated={p.checkedOn}
-  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: city.name, href: `/practitioners/${city.slug}/` }, { label: locality.name, href: `/practitioners/${city.slug}/${locality.slug}/` }, { label: p.practiceName }]}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, ...(stateOf(p) ? [{ label: stateOf(p), href: `/practitioners/state/${slug(stateOf(p))}/` }] : []), { label: city.name, href: `/practitioners/${city.slug}/` }, { label: locality.name, href: `/practitioners/${city.slug}/${locality.slug}/` }, { label: p.practiceName }]}
   jsonld={clinic}
+  markdown={mdOf(canonical)}
 >
   <h1>{p.practiceName}</h1>
-  <p class="answer">Ayurvedic practice in {where}. {doctors.length === 1 ? 'Practitioner' : 'Practitioners'}: {doctors.join(', ')}.</p>
+  <p class="answer">{summary}</p>
 
   <dl class="facts">
     <dt>Practitioners</dt>
@@ -110,7 +112,7 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
     <ul class="sources">
       {Object.entries(p.sources).filter(([k]) => FIELD[k]).map(([k, u]) => <li>{FIELD[k]}: <a href={u as string} rel="noopener">{(u as string).replace(/^https?:\/\/(www\.)?/, '').slice(0, 70)}</a></li>)}
     </ul>
-    <p class="note">Checked {p.checkedOn}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice.</p>
+    <p class="note">Checked {longDate(p.checkedOn)}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice.</p>
     <p><a class="practitioner-cta" href={verifyHref}>Is this your practice? Verify, correct or remove it</a> or use the <a href={rel('/practitioners/submit/')}>listing form</a>.</p>
   </section>
 

@@ -91,5 +91,46 @@ const CITY_STATE: Record<string, string> = {
   goa: 'Goa', assagao: 'Goa', mandrem: 'Goa', panaji: 'Goa', mapusa: 'Goa', dhargal: 'Goa', valpoi: 'Goa', shiroda: 'Goa', colva: 'Goa', margao: 'Goa', ponda: 'Goa', varca: 'Goa', benaulim: 'Goa', chicalim: 'Goa', curchorem: 'Goa', balli: 'Goa', chinchinim: 'Goa', curtorim: 'Goa', dharbandora: 'Goa',
   rishikesh: 'Uttarakhand', haridwar: 'Uttarakhand', dehradun: 'Uttarakhand', doiwala: 'Uttarakhand', selaqui: 'Uttarakhand', manduwala: 'Uttarakhand', kunaw: 'Uttarakhand', guruvayur: 'Kerala', irinjalakuda: 'Kerala', chalakudy: 'Kerala', kodungallur: 'Kerala',
   kunnamkulam: 'Kerala', neyyattinkara: 'Kerala', feroke: 'Kerala', koyilandy: 'Kerala',
+  kalaburagi: 'Karnataka', bidar: 'Karnataka',
 };
 export const stateOf = (p: Practice) => (p.address as any).state ?? CITY_STATE[cityOf(p)] ?? '';
+
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+export const longDate = (iso: string) => {
+  const [y, m, d] = iso.split('-').map(Number);
+  return y && m && d ? `${d} ${MONTHS[m - 1]} ${y}` : iso;
+};
+export const placeOf = (p: Practice) => [p.address.locality, p.address.city, stateOf(p)].filter((x, i, a) => x && a.indexOf(x) === i).join(', ');
+
+/**
+ * The one sentence a reader or an answer engine should be able to lift from a listing whole: who
+ * practises where, with what qualification, at what address and number, and on whose say-so. The
+ * page's lead, its MedicalClinic description and its Markdown twin all use this, so they cannot drift.
+ */
+export function summaryOf(p: Practice) {
+  const who = p.practitioners.map((d) => (d.qualification ? `${d.name} (${d.qualification})` : d.name)).join(', ');
+  const services = (p.services ?? []).slice(0, 6);
+  return [
+    `${p.practiceName} is an Ayurvedic practice in ${placeOf(p)} ${p.address.pin}.`,
+    `${p.practitioners.length === 1 ? 'Practitioner' : 'Practitioners'}: ${who}.`,
+    `Address: ${p.address.line}, ${p.address.locality}, ${p.address.city} ${p.address.pin}. Phone: ${p.phone.join(', ')}.`,
+    services.length ? `Services it lists: ${services.join(', ')}.` : '',
+    `Details as published by the practice${p.website ? '' : ' or an official list'}, checked ${longDate(p.checkedOn)}.`,
+  ].filter(Boolean).join(' ');
+}
+
+/** Where a listing's Markdown twin lives: the page path without its trailing slash, plus .md. */
+export const mdOf = (path: string) => `${path.replace(/\/$/, '')}.md`;
+
+/** States, each with its cities, for the state hubs. A city's state is the one its records carry. */
+export function states() {
+  const byState = new Map<string, { slug: string; name: string; cities: ReturnType<typeof cities> }>();
+  for (const c of cities()) {
+    const s = stateOf(c.localities[0].practices[0]);
+    if (!s) continue;
+    const k = slug(s);
+    if (!byState.has(k)) byState.set(k, { slug: k, name: s, cities: [] });
+    byState.get(k)!.cities.push(c);
+  }
+  return [...byState.values()].sort((a, b) => a.name.localeCompare(b.name));
+}

@@ -1,0 +1,38 @@
+---
+/**
+ * A state: every city and town with its practices. People ask for an Ayurvedic doctor "in Kerala" as
+ * often as "in Kottayam", and most towns here hold one or two practices, so the state page is the
+ * one that collects them into something worth citing.
+ */
+import Page from '../../../layouts/Page.astro';
+import { states, urlOf } from '../../../lib/practitioners';
+import { abs, rel } from '../../../lib/site';
+
+export function getStaticPaths() { return states().map((s) => ({ params: { state: s.slug }, props: { s } })); }
+const { s } = Astro.props as any;
+const canonical = `/practitioners/state/${s.slug}/`;
+const list = s.cities.flatMap((c: any) => c.localities.flatMap((l: any) => l.practices));
+const n = list.length;
+const plural = (k: number, one: string, many: string) => `${k.toLocaleString('en-GB')} ${k === 1 ? one : many}`;
+const title = `Ayurvedic doctors in ${s.name}: ${plural(n, 'practice', 'practices')} in ${plural(s.cities.length, 'city or town', 'cities and towns')}, with address and phone`;
+const description = `${plural(n, 'Ayurvedic practice', 'Ayurvedic practices')} in ${plural(s.cities.length, 'city or town', 'cities and towns')} of ${s.name}, each with a named practitioner, an address with PIN and a phone number published by the practice itself or an official list.`;
+const updated = list.map((p: any) => p.checkedOn).sort().pop();
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs(canonical)}#list`,
+  name: `Ayurvedic practices in ${s.name}`, numberOfItems: n,
+  itemListElement: list.map((p: any, i: number) => ({ '@type': 'ListItem', position: i + 1, url: abs(urlOf(p)), name: p.practiceName })),
+};
+const count = (c: any) => c.localities.reduce((a: number, l: any) => a + l.practices.length, 0);
+---
+<Page title={title} description={description} canonical={canonical} updated={updated}
+  trail={[{ label: 'Practitioners', href: '/practitioners/' }, { label: s.name }]} jsonld={jsonld} markdown={`/practitioners/state/${s.slug}.md`}>
+  <h1>Ayurvedic practitioners in {s.name}</h1>
+  <p class="answer">{description}</p>
+  {s.cities.map((c: any) => (
+    <section>
+      <h2><a href={rel(`/practitioners/${c.slug}/`)}>{c.name}</a> ({count(c)})</h2>
+      <ul>{c.localities.flatMap((l: any) => l.practices).map((p: any) => <li><a href={rel(urlOf(p))}>{p.practiceName}</a>, {p.practitioners[0].name}{p.practitioners.length > 1 && ` and ${p.practitioners.length - 1} more`}, {p.address.locality}</li>)}</ul>
+    </section>
+  ))}
+  <p><a class="practitioner-cta" href={rel('/practitioners/submit/')}>Are you an Ayurvedic practitioner in {s.name}? List your practice for free</a></p>
+</Page>

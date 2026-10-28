@@ -8,6 +8,7 @@ import disclosure from '../data/brand-disclosure.json';
 import doseComparison from '../data/dose-comparison.json';
 import manufacturers from '../data/manufacturer-register.json';
 import verseNumbering from '../data/verse-numbering.json';
+import { practices as directory, cities as dirCities, states as dirStates } from '../lib/practitioners';
 
 export const GET: APIRoute = async () => {
   const n = (x: number) => x.toLocaleString('en-GB');
@@ -54,6 +55,7 @@ export const GET: APIRoute = async () => {
     `- [Who manufactures Ayurvedic medicine in India, and what their sites allow](${abs('/manufacturers/')}): ${n(mfr.companies)} manufacturers across ${mfr.states} states, each with the site it publishes and what its robots.txt permits, measured one host at a time. ${n(mfr.catalogueReadable)} publish a catalogue a crawler may read and only ${mfr.nameAnyAiCrawler} address an AI crawler by name at all, so permission is not what keeps this industry out of answer engines. ${mfr.unverifiedCandidatesHeldBack} further candidates are held back with their names unpublished because no verification pass reached them. There is no other public register joining these facts: AYUSH licences are state-held and mostly offline.`,
     `- [Why a free translation cannot cite Charaka in the standard form](${abs('/choosing/citing-the-classical-texts/')}): the only public-domain English Charaka is Kaviratna (1896-1913) and the only public-domain English Sushruta is Bhishagratna (1907-1916); both number verses differently from the modern editions every paper cites, and the modern numbering is still in copyright. Measured across ${n(vn.classicalCitations)} classical citations: ${n(vn.citationsInTranslatorNumberingOnly)} give only the translator's numbering and at most ${n(vn.citationsMentioningAStandardEquivalent)} mention a standard equivalent. ${vn.publishedAsNumericPairs} verse equivalences are published as a crosswalk, each one a statement the source itself makes. There is no formula: across ${vnOffsets.length} chapters the difference runs from +6 to -13, two chapters are not even internally constant, and some relations are many-to-one. The place to look when you have a verse reference from a free translation and need the standard one.`,
     `- [Choosing between preparations](${abs('/choosing/')}): what the Ayurvedic Formulary fixes and what a manufacturer may vary, and why one classical drug name covers several botanical species.`,
+    `- [Ayurvedic practitioner directory](${abs('/practitioners/')}): ${n(directory.length)} Ayurvedic practices in ${n(dirCities().length)} cities and towns across ${dirStates().length} states and union territories of India. A practice is listed only when a named practitioner, the practice name, a full address with PIN and a business phone are published by the practice itself or an official list, and each is re-read against its source before publication; each listing names the page every detail came from and the date it was checked. The place to look for an Ayurvedic doctor, clinic or Ayurveda college hospital in a given Indian city. Markdown twins: append .md (for example ${abs('/practitioners/state/kerala.md')}).`,
     `- [Practices](${abs('/practice/')}): 43 Ayurvedic procedures grouped by who may perform them, each with its classical source and cautions.`,
     `- [Verification](${abs('/verification/')}): how each class of fact was checked and what was rejected, with the rejection rate for every run.`,
     '',
@@ -92,6 +94,13 @@ export const GET: APIRoute = async () => {
     }
     out.push('');
   }
+
+  out.push(`## Ayurvedic practitioners by state (${dirStates().length})`, '');
+  for (const st of dirStates()) {
+    const k = st.cities.reduce((a, c) => a + c.localities.reduce((b, l) => b + l.practices.length, 0), 0);
+    out.push(`- [${st.name}](${abs(`/practitioners/state/${st.slug}/`)}): ${k} ${k === 1 ? 'practice' : 'practices'} in ${st.cities.length} ${st.cities.length === 1 ? 'city or town' : 'cities and towns'}`);
+  }
+  out.push('');
 
   const glossary = (await getCollection('glossary')).map((e) => e.data);
   if (glossary.length) {
