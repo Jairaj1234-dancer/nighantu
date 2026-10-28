@@ -1633,7 +1633,7 @@
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/": "e2ea4573bf281e64",
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/mampuram/": "c81a21e21130927a",
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/mampuram/government-ayurveda-dispensary-mampuram-abdu-rahiman-nagar/": "c1a87b2531cc262a",
-      "https://nighantu.ageayurveda.com/practitioners/about/": "ca3cb58c1ed473c1",
+      "https://nighantu.ageayurveda.com/practitioners/about/": "eee727f72f4ab5b7",
       "https://nighantu.ageayurveda.com/practitioners/adoor/": "e3a2063f39ea5ef6",
       "https://nighantu.ageayurveda.com/practitioners/adoor/adoor/": "f04ddff232a6e50e",
       "https://nighantu.ageayurveda.com/practitioners/adoor/adoor/sankarajyothi-ayurveda-multispeciality-hospital/": "5a85c1724b8b8cc4",
@@ -4548,8 +4548,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b45bacf9e83db25e",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9d5cc5ab940d5980"
     },
-    "lastSubmittedAt": "2026-10-28T08:06:01.271Z",
-    "lastSubmittedCount": 1796,
+    "lastSubmittedAt": "2026-10-28T10:21:40.425Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -9912,6 +9912,6 @@
     "seen": 22,
     "surfaced": 1
   },
-  "updatedAt": "2026-10-28T08:06:01.272Z",
+  "updatedAt": "2026-10-28T10:21:40.425Z",
   "version": 1
 }
