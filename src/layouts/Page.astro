@@ -29,8 +29,10 @@ interface Props {
   /** The date the data behind this page was last exported, as YYYY-MM-DD. */
   updated?: string;
   jsonld?: Record<string, unknown> | Record<string, unknown>[];
+  /** Path of this page's .md twin, where one is built. */
+  markdown?: string;
 }
-const { title, description, canonical, lede, trail, updated, jsonld } = Astro.props;
+const { title, description, canonical, lede, trail, updated, jsonld, markdown } = Astro.props;
 
 const crumbs = trail ?? [{ label: title }];
 
@@ -69,7 +71,7 @@ if (updated) {
 
 const all = [...nodes, ...(Array.isArray(jsonld) ? jsonld : jsonld ? [jsonld] : [])];
 ---
-<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={all}>
+<Base title={`${title} · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={all} markdown={markdown}>
   <article>
     <Crumbs trail={crumbs} />
     <h1>{title}</h1>

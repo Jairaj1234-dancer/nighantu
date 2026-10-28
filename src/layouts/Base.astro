@@ -12,8 +12,10 @@ interface Props {
   wide?: boolean;
   /** Path without extension where this page's .md and .jsonld twins live, if it has them. */
   twins?: string;
+  /** Path of a .md twin alone, for pages built with a Markdown twin but no JSON-LD record. */
+  markdown?: string;
 }
-const { title, description, canonical, jsonld, wide = false , twins } = Astro.props;
+const { title, description, canonical, jsonld, wide = false , twins, markdown } = Astro.props;
 // From the content ledger, not the clock: a build-time year would rewrite every
 // page on 1 January and trigger a full, pointless resubmission.
 const year = Math.max(
@@ -51,6 +53,7 @@ const year = Math.max(
         <link rel="alternate" type="application/ld+json" title={`${SITE_NAME} (JSON-LD record)`} href={rel(`${twins}.jsonld`)} />
       </>
     )}
+    {markdown && <link rel="alternate" type="text/markdown" title={`${SITE_NAME} (Markdown)`} href={rel(markdown)} />}
     <Seo title={title} description={description} canonical={canonical} jsonld={jsonld} />
   </head>
   <body>

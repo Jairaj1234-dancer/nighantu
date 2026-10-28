@@ -1,16 +1,29 @@
 ---
-/** The directory's front door: every city with its count. */
+/** The directory's front door: every state, each with its cities and counts. */
 import Page from '../../layouts/Page.astro';
-import { cities, practices, updatedAt } from '../../lib/practitioners';
-import { rel } from '../../lib/site';
+import { cities, practices, updatedAt, states } from '../../lib/practitioners';
+import { abs, rel } from '../../lib/site';
 const all = cities();
+const byState = states();
+const count = (c: any) => c.localities.reduce((a: number, l: any) => a + l.practices.length, 0);
+const plural = (n: number, one: string, many: string) => `${n.toLocaleString('en-GB')} ${n === 1 ? one : many}`;
 const title = 'Ayurvedic practitioners in India: a directory with verified address and phone';
-const description = `${practices.length} Ayurvedic practices in ${all.length} ${all.length === 1 ? 'city' : 'cities'}, each listed only when a named practitioner, the practice name, a full address and a business phone number are published by the practice itself or an official list.`;
+const description = `${plural(practices.length, 'Ayurvedic practice', 'Ayurvedic practices')} in ${plural(all.length, 'city or town', 'cities and towns')} across ${plural(byState.length, 'state', 'states and union territories')} of India, each listed only when a named practitioner, the practice name, a full address with PIN and a business phone number are published by the practice itself or an official list.`;
+const list = {
+  '@context': 'https://schema.org', '@type': 'ItemList', '@id': `${abs('/practitioners/')}#states`,
+  name: 'Ayurvedic practitioners in India, by state', numberOfItems: byState.length,
+  itemListElement: byState.map((s, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/practitioners/state/${s.slug}/`), name: `Ayurvedic practitioners in ${s.name}` })),
+};
 ---
-<Page title={title} description={description} canonical="/practitioners/" updated={updatedAt} trail={[{ label: 'Practitioners' }]}>
+<Page title={title} description={description} canonical="/practitioners/" updated={updatedAt} trail={[{ label: 'Practitioners' }]} jsonld={list} markdown="/practitioners.md">
   <h1>Ayurvedic practitioners</h1>
   <p class="answer">{description}</p>
-  <ul>{all.map((c) => <li><a href={rel(`/practitioners/${c.slug}/`)}>{c.name}</a>: {((n) => `${n} ${n === 1 ? 'practice' : 'practices'}`)(c.localities.reduce((a, l) => a + l.practices.length, 0))} in {c.localities.length} {c.localities.length === 1 ? 'locality' : 'localities'}</li>)}</ul>
   <p><a class="practitioner-cta" href={rel('/practitioners/submit/')}>Are you an Ayurvedic practitioner? List your practice for free</a></p>
-  <p>Starting with Mumbai, then the other largest cities. <a href={rel('/practitioners/about/')}>How the directory is made, and how to correct or remove a listing</a>.</p>
+  {byState.map((s) => (
+    <section>
+      <h2><a href={rel(`/practitioners/state/${s.slug}/`)}>{s.name}</a> ({plural(s.cities.reduce((a, c) => a + count(c), 0), 'practice', 'practices')})</h2>
+      <p>{s.cities.map((c, i) => <>{i > 0 && ', '}<a href={rel(`/practitioners/${c.slug}/`)}>{c.name}</a> ({count(c)})</>)}</p>
+    </section>
+  ))}
+  <p><a href={rel('/practitioners/about/')}>How the directory is made, and how to correct or remove a listing</a>.</p>
 </Page>
