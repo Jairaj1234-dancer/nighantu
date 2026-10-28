@@ -17,7 +17,7 @@ export interface Practice {
   id: string;
   practiceName: string;
   practitioners: Practitioner[];
-  address: { line: string; locality: string; city: string; pin: string };
+  address: { line: string; locality: string; city: string; pin: string; state?: string };
   phone: string[];
   website?: string | null;
   email?: string | null;
@@ -36,7 +36,20 @@ export const slug = (s: string) => String(s).normalize('NFKD').replace(/[̀-ͯ]/
 export const practices: Practice[] = ((data as any).practices ?? []) as Practice[];
 export const updatedAt: string = (data as any).updatedAt ?? '';
 
-export const cityOf = (p: Practice) => slug(p.address.city);
+/** City names shared by towns in more than one state (Bilaspur, for one); those carry the state. */
+const SHARED_CITY = (() => {
+  const states = new Map<string, Set<string>>();
+  for (const p of practices) {
+    const c = slug(p.address.city);
+    if (!states.has(c)) states.set(c, new Set());
+    if (p.address.state) states.get(c)!.add(p.address.state);
+  }
+  return new Set([...states].filter(([, s]) => s.size > 1).map(([c]) => c));
+})();
+const shared = (p: Practice) => SHARED_CITY.has(slug(p.address.city)) && !!p.address.state;
+
+export const cityOf = (p: Practice) => (shared(p) ? slug(`${p.address.city} ${p.address.state}`) : slug(p.address.city));
+export const cityNameOf = (p: Practice) => (shared(p) ? `${p.address.city} (${p.address.state})` : p.address.city);
 export const localityOf = (p: Practice) => slug(p.address.locality);
 export const urlOf = (p: Practice) => `/practitioners/${cityOf(p)}/${localityOf(p)}/${p.id}/`;
 
@@ -45,7 +58,7 @@ export function cities() {
   const byCity = new Map<string, { slug: string; name: string; localities: Map<string, { slug: string; name: string; practices: Practice[] }> }>();
   for (const p of practices) {
     const c = cityOf(p);
-    if (!byCity.has(c)) byCity.set(c, { slug: c, name: p.address.city, localities: new Map() });
+    if (!byCity.has(c)) byCity.set(c, { slug: c, name: cityNameOf(p), localities: new Map() });
     const city = byCity.get(c)!;
     const l = localityOf(p);
     if (!city.localities.has(l)) city.localities.set(l, { slug: l, name: p.address.locality, practices: [] });
