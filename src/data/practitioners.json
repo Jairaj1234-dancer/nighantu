@@ -9994,6 +9994,124 @@
       "id": "madhavbaug-ayurvedic-clinic-bramhapuri"
     },
     {
+      "practiceName": "ASPM's Ayurved College, Hospital and Research Institute",
+      "practitioners": [
+        {
+          "name": "Dr Swati Rajeshwar Ubarhande",
+          "qualification": "BAMS, MD (Medical Superintendent)",
+          "registration": {
+            "number": "I-35078-A1",
+            "source": "https://www.aspmayurved.com/hospital/medical-superintendent/"
+          }
+        }
+      ],
+      "address": {
+        "line": "MH MSH 24, Dhad Naka, Ajanta Road",
+        "locality": "Ajanta Road",
+        "city": "Buldhana",
+        "pin": "443001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 72622 41716"
+      ],
+      "website": "https://www.aspmayurved.com/",
+      "email": "contact@aspmayurved.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.aspmayurved.com/contact-us/",
+        "practitioners": "https://www.aspmayurved.com/hospital/medical-superintendent/",
+        "address": "https://www.aspmayurved.com/contact-us/",
+        "phone": "https://www.aspmayurved.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "aspm-s-ayurved-college-hospital-and-research-institute"
+    },
+    {
+      "practiceName": "Madhavbaug Buldhana",
+      "practitioners": [
+        {
+          "name": "Dr Shailesh Mukund Kinge",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Behind Bus Stand, Near Dr Subhash Joshi Netralaya",
+        "locality": "Mutthe Layout",
+        "city": "Buldhana",
+        "pin": "443001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 92091 89485"
+      ],
+      "website": "https://madhavbaug.org/clinic/buldana",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Panchakarma",
+        "ECG",
+        "Stress test (TMT)",
+        "Diet and exercise guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/buldana",
+        "practitioners": "https://madhavbaug.org/clinic/buldana",
+        "address": "https://madhavbaug.org/clinic/buldana",
+        "phone": "https://madhavbaug.org/clinic/buldana"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-buldhana"
+    },
+    {
+      "practiceName": "Rajarshi Shahu Maharaj Ayurved College, Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Harshad Mohanlal Kela",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Sheshrao Nagorao Kalwaghe",
+          "qualification": "B.A.M.S. (Deputy Superintendent)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shahu Nagar, Near Palna Ghar",
+        "locality": "Sagwan",
+        "city": "Buldhana",
+        "pin": "443001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 91681 01017",
+        "+91 91681 01018"
+      ],
+      "website": "https://rsmachb.com/",
+      "email": "rsmayurvedcollegebul@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://rsmachb.com/?page_id=21",
+        "practitioners": "https://rsmachb.com/?page_id=88",
+        "address": "https://rsmachb.com/?page_id=21",
+        "phone": "https://rsmachb.com/?page_id=21"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rajarshi-shahu-maharaj-ayurved-college-hospital-and-research"
+    },
+    {
       "practiceName": "Bhausaheb Mulak Ayurved College and Research Hospital",
       "practitioners": [
         {
@@ -12572,6 +12690,92 @@
       "id": "shreeyash-ayurvedic-hospital-and-research-center"
     },
     {
+      "practiceName": "Shri Vishva Vedayu Chikitsalaya",
+      "practitioners": [
+        {
+          "name": "Dr Neha Pawar (Gadakh)",
+          "qualification": "B.A.M.S., Ayurvedacharya",
+          "registration": {
+            "number": "I-98529-A",
+            "source": "https://vishwavedayu.in/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Beside Shivam Fitness, In Front of Central Bank of India (Chikhali Branch)",
+        "locality": "Chikhli",
+        "city": "Chikhli",
+        "pin": "443201",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 99756 61059"
+      ],
+      "website": "https://vishwavedayu.in/",
+      "email": "vishvavedayu@gmail.com",
+      "hours": "All days, 9:00 AM to 9:00 PM",
+      "services": [
+        "Panchakarma",
+        "Nadiparikshan",
+        "Shirodhara",
+        "Abhyanga",
+        "Kati Basti",
+        "Janu Basti",
+        "Netra Tarpan",
+        "Garbha Sanskar"
+      ],
+      "sources": {
+        "practiceName": "https://vishwavedayu.in/",
+        "practitioners": "https://vishwavedayu.in/",
+        "address": "https://vishwavedayu.in/",
+        "phone": "https://vishwavedayu.in/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-vishva-vedayu-chikitsalaya"
+    },
+    {
+      "practiceName": "Lt. Sunil Ramshingji Chunawale Ayurved College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Jyostana Shankarrao Gulhane",
+          "qualification": "B.A.M.S., M.D. (Rasashastra and Bhaishajya Kalpana) (Principal)",
+          "registration": {
+            "number": "I-21505-A-1",
+            "source": "https://srcayurved.org/about.php"
+          }
+        }
+      ],
+      "address": {
+        "line": "Deen Dayal Nagar",
+        "locality": "Deen Dayal Nagar",
+        "city": "Chikhli",
+        "pin": "443201",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 72642 42063",
+        "+91 73857 62111"
+      ],
+      "website": "https://srcayurved.org/",
+      "email": "chunawaleayurved@gmail.com",
+      "hours": "Office: Monday to Saturday 10:00 AM to 5:30 PM, Sunday holiday",
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://srcayurved.org/contact.php",
+        "practitioners": "https://srcayurved.org/about.php",
+        "address": "https://srcayurved.org/contact.php",
+        "phone": "https://srcayurved.org/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "lt-sunil-ramshingji-chunawale-ayurved-college-and-hospital"
+    },
+    {
       "practiceName": "Narayana Ayurveda Chikitsalayam",
       "practitioners": [
         {
@@ -13017,6 +13221,48 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "madhavbaug-ayurvedic-clinic-daryapur"
+    },
+    {
+      "practiceName": "Mahila Utkarsh Pratishthan's Ayurved College, Hospital and Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Raghunath Shiwram Raut",
+          "qualification": "BAMS, MD (Principal and Superintendent; Professor and HOD Panchakarma)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rupali Prabhakar Bajad",
+          "qualification": "BAMS (Clinical Registrar)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Pundlik Nagar, Degaon, Tq. Risod, Dist. Washim",
+        "locality": "Pundlik Nagar",
+        "city": "Degaon",
+        "pin": "444506",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 72512 27511",
+        "+91 90966 75001"
+      ],
+      "website": "https://www.mupachrc.com/",
+      "email": "principalbams@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "https://www.mupachrc.com/Contact",
+        "practitioners": "https://www.mupachrc.com/PrincipalDesk",
+        "address": "https://www.mupachrc.com/Contact",
+        "phone": "https://www.mupachrc.com/Contact"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "mahila-utkarsh-pratishthan-s-ayurved-college-hospital-and"
     },
     {
       "practiceName": "Ayurmax Multispeciality Ayurveda Hospital and Panchkarma Centre",
@@ -16442,6 +16688,80 @@
       "id": "p-p-savani-ayurvedic-college-and-hospital"
     },
     {
+      "practiceName": "Madhavbaug Manik Chowk, Dharashiv",
+      "practitioners": [
+        {
+          "name": "Dr Srushti Vilasrao Bodhale",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Prasad Colony, Manik Chowk, DIC Road",
+        "locality": "Manik Chowk",
+        "city": "Dharashiv",
+        "pin": "413501",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 77090 85268"
+      ],
+      "website": "https://madhavbaug.org/clinic/manik-chowk-osmanabad",
+      "email": null,
+      "hours": "9:00 AM to 6:00 PM, Thursday closed",
+      "services": [
+        "Panchakarma",
+        "ECG",
+        "Stress test (TMT)",
+        "Diet and exercise guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/manik-chowk-osmanabad",
+        "practitioners": "https://madhavbaug.org/clinic/manik-chowk-osmanabad",
+        "address": "https://madhavbaug.org/clinic/manik-chowk-osmanabad",
+        "phone": "https://madhavbaug.org/clinic/manik-chowk-osmanabad"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-manik-chowk-dharashiv"
+    },
+    {
+      "practiceName": "Government Ayurved College and Hospital, Dharashiv",
+      "practitioners": [
+        {
+          "name": "Dr Veena A. Patil",
+          "qualification": "M.S., Ph.D. (Dean)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Govt Ayurvedic College & Hospital, Madhuban, Tuljapur Road",
+        "locality": "Tuljapur Road",
+        "city": "Dharashiv",
+        "pin": "413501",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 247 225 1692",
+        "+91 247 225 1741"
+      ],
+      "website": "https://gacdharashiv.edu.in/",
+      "email": "gacosbd@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://gacdharashiv.edu.in/Contact.aspx",
+        "practitioners": "https://gacdharashiv.edu.in/",
+        "address": "https://gacdharashiv.edu.in/Contact.aspx",
+        "phone": "https://gacdharashiv.edu.in/Contact.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "government-ayurved-college-and-hospital-dharashiv"
+    },
+    {
       "practiceName": "Government Ayurveda Dispensary, Dharmadam",
       "practitioners": [
         {
@@ -16600,6 +16920,90 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "shree-samviran-hospital-of-ayurveda"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Agra Road, Dhule (Suryodaya Clinic)",
+      "practitioners": [
+        {
+          "name": "Dr Devyani Vishweshwar Deshpande",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Suryodaya Clinic, Madhavbaug Cardiac Care Centre, Shri Jogeshwari Kripa, Bhidebaug, Near Sati Devi Furniture, Veer Savarkar Marg, Behind Shriram Mangal Karyalaya",
+        "locality": "Deopur",
+        "city": "Dhule",
+        "pin": "424002",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 96998 81665"
+      ],
+      "website": "https://madhavbaug.org/clinic/deopur-dhule/",
+      "email": null,
+      "hours": "9:00 AM to 6:00 PM; Thursday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/deopur-dhule/",
+        "practitioners": "https://madhavbaug.org/clinic/deopur-dhule/",
+        "address": "https://madhavbaug.org/clinic/deopur-dhule/",
+        "phone": "https://madhavbaug.org/locations/maharashtra/dhule"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-agra-road-dhule-suryodaya-clinic"
+    },
+    {
+      "practiceName": "Smt. K. C. Ajmera Ayurved Mahavidyalaya Hospital (Dadasaheb C. R. Ajmera Ayurved Hospital)",
+      "practitioners": [
+        {
+          "name": "Dr Rajesh Maganlal Shah",
+          "qualification": "B.A.M.S., D.P.S.M., Ph.D. Swastha Vritta; Hospital Superintendent and Principal",
+          "registration": null
+        },
+        {
+          "name": "Dr Mohit Premchand Jain",
+          "qualification": "B.A.M.S., M.D. Kayachikitsa; Deputy Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dayasagar Educational Campus, Old Agra Road, Nehru Chowk",
+        "locality": "Deopur",
+        "city": "Dhule",
+        "pin": "424002",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 256 222 1912",
+        "+91 256 229 7912",
+        "+91 256 222 0512",
+        "+91 256 222 3512"
+      ],
+      "website": "https://kcajmeraayurvedcollege.ac.in/",
+      "email": "ajmeradhi@hotmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Prasuti and Stri Roga",
+        "Shalakya Tantra",
+        "Shalya Tantra",
+        "Swasthavritta",
+        "100-bed in-patient hospital"
+      ],
+      "sources": {
+        "practiceName": "https://portal.nabh.co/Documents/AccreditedList/AYUSH Hospitals/AH-2023-0217.pdf",
+        "practitioners": "https://kcajmeraayurvedcollege.ac.in/non-teaching-staff-hospital/",
+        "address": "https://kcajmeraayurvedcollege.ac.in/contact/",
+        "phone": "https://kcajmeraayurvedcollege.ac.in/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "smt-k-c-ajmera-ayurved-mahavidyalaya-hospital-dadasaheb-c-r"
     },
     {
       "practiceName": "Himalayiya Ayurvedic (PG) Medical College & Hospital",
@@ -28691,6 +29095,94 @@
       "id": "the-veda-vibe-ayurvedic-clinic-and-panchakarma-centre"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Mahabal, Jalgaon",
+      "practitioners": [
+        {
+          "name": "Dr Shraddha Amit Mali",
+          "qualification": "BAMS, Preventive cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "9, First Floor, Audumber Plaza, Above Audumber Hotel, Near Navjeevan Super Shop, Mahabal Stop",
+        "locality": "Mahabal",
+        "city": "Jalgaon",
+        "pin": "425001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 89286 36155"
+      ],
+      "website": "https://madhavbaug.org/clinic/mahabal-colony-jalgaon/",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM; Monday closed",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/mahabal-colony-jalgaon/",
+        "practitioners": "https://madhavbaug.org/our-doctors/dr-shraddha-amit-mali",
+        "address": "https://madhavbaug.org/clinic/mahabal-colony-jalgaon/",
+        "phone": "https://madhavbaug.org/locations/maharashtra/jalgaon"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-ayurvedic-clinic-mahabal-jalgaon"
+    },
+    {
+      "practiceName": "Ojus Ayurved Superspeciality Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Mahesh Birla",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Archana M. Birla",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1, Lokmannya Housing Society, Near J.D.C.C. Bank, Ring Road",
+        "locality": "Ring Road",
+        "city": "Jalgaon",
+        "pin": "425001",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 257 222 5566",
+        "+91 257 224 0103",
+        "+91 93561 03448",
+        "+91 75178 28637"
+      ],
+      "website": "https://ojusayurved.com/",
+      "email": "contact@ojusayurved.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kerala therapies",
+        "Naturopathy",
+        "Yoga and exercise",
+        "Kaya Chikitsa OPD",
+        "Streeroga OPD",
+        "Twagroga OPD",
+        "Shalakya Tantra OPD",
+        "Baala Roga OPD",
+        "20-bed IPD",
+        "Pharmacy"
+      ],
+      "sources": {
+        "practiceName": "https://ojusayurved.com/",
+        "practitioners": "https://ojusayurved.com/",
+        "address": "https://ojusayurved.com/contact/",
+        "phone": "https://ojusayurved.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ojus-ayurved-superspeciality-hospital"
+    },
+    {
       "practiceName": "A.G.M Ayurvedic Medical College and Hospital, Jamkhandi",
       "practitioners": [
         {
@@ -30160,6 +30652,45 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "madhavbaug-ayurvedic-clinic-shaniwar-peth-karad"
+    },
+    {
+      "practiceName": "Madhavbaug Karanja Lad",
+      "practitioners": [
+        {
+          "name": "Dr Sangita Milind Dhande",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dhande Hospital, Ground Floor, Near Bus Stand",
+        "locality": "Nutan Colony",
+        "city": "Karanja Lad",
+        "pin": "444105",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 75071 71902"
+      ],
+      "website": "https://madhavbaug.org/clinic/karanja-lad-washim",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, Thursday closed",
+      "services": [
+        "Panchakarma",
+        "ECG",
+        "Stress test (TMT)",
+        "Diet and exercise guidance"
+      ],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/karanja-lad-washim",
+        "practitioners": "https://madhavbaug.org/clinic/karanja-lad-washim",
+        "address": "https://madhavbaug.org/clinic/karanja-lad-washim",
+        "phone": "https://madhavbaug.org/clinic/karanja-lad-washim"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "madhavbaug-karanja-lad"
     },
     {
       "practiceName": "Government Ayurveda Hospital, Mamunda (Karukachal)",
@@ -35486,6 +36017,83 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "dr-k-radhakrishnan-s-madhava-ayurveda-chikitsalayam"
+    },
+    {
+      "practiceName": "Pa. Pu. Gurumauli Annasaheb More Ayurved College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Jayashree Patil",
+          "qualification": "B.A.M.S., M.D. (Swasthavritta) (Principal)",
+          "registration": {
+            "number": "I43919 A1",
+            "source": "https://gurumauliayurvedcollege.com/index.php/principal-desk/"
+          }
+        }
+      ],
+      "address": {
+        "line": "Survey No. 311, 352, 312, Malipargaon, Tal. Majalgaon, Dist. Beed",
+        "locality": "Malipargaon",
+        "city": "Malipargaon",
+        "pin": "431129",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 98346 26659",
+        "+91 93253 73530"
+      ],
+      "website": "https://gurumauliayurvedcollege.com/",
+      "email": "gurumauli82@gmail.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Ksharasootra"
+      ],
+      "sources": {
+        "practiceName": "https://gurumauliayurvedcollege.com/index.php/contact-us/",
+        "practitioners": "https://gurumauliayurvedcollege.com/index.php/principal-desk/",
+        "address": "https://gurumauliayurvedcollege.com/index.php/contact-us/ (street); https://gurumauliayurvedcollege.com/ (PIN 431129)",
+        "phone": "https://gurumauliayurvedcollege.com/index.php/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "pa-pu-gurumauli-annasaheb-more-ayurved-college-and-hospital"
+    },
+    {
+      "practiceName": "Shree Vishwasainath Ayurvedic Clinic and Panchkarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Ram Balachandra Kakade",
+          "qualification": "BAMS, MD (Anatomy)",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shraddha Complex, Behind Saptashrungi Jeweller",
+        "locality": "Buldhana Road",
+        "city": "Malkapur",
+        "pin": "443101",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 99708 27949"
+      ],
+      "website": "http://www.vishwasainathayurveda.in/",
+      "email": "drramkakade22@gmail.com",
+      "hours": "11:00 AM to 1:00 PM and 7:00 PM to 9:00 PM",
+      "services": [
+        "Panchakarma"
+      ],
+      "sources": {
+        "practiceName": "http://www.vishwasainathayurveda.in/contact_us.html",
+        "practitioners": "http://www.vishwasainathayurveda.in/about_us.html",
+        "address": "http://www.vishwasainathayurveda.in/contact_us.html",
+        "phone": "http://www.vishwasainathayurveda.in/contact_us.html"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shree-vishwasainath-ayurvedic-clinic-and-panchkarma-centre"
     },
     {
       "practiceName": "Anima Ayurvedic Medical Centre",
@@ -53755,6 +54363,63 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "kritika-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "Chaitanya Ayurved Mahavidyalaya Hospital",
+      "practitioners": [
+        {
+          "name": "Vd Manik Bhaskar Patil",
+          "qualification": "B.A.M.S., M.D. (Kayachikitsa); Medical Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Vd Apurva Harshal Bari",
+          "qualification": "B.A.M.S., M.D. (Panchakarma); Deputy Medical Superintendent",
+          "registration": null
+        },
+        {
+          "name": "Vd Kalpesh Vikas Gulve",
+          "qualification": "BAMS, MD; Deputy Medical Superintendent",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Chaitanyavan, NH No. 6, A/p Sakegaon, Tal. Bhusawal, Dist. Jalgaon",
+        "locality": "Sakegaon",
+        "city": "Sakegaon",
+        "pin": "425203",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 258 225 5009",
+        "+91 76667 97338"
+      ],
+      "website": "https://www.camsakegaon.org/",
+      "email": "ayurvedchaitanya@yahoo.in",
+      "hours": null,
+      "services": [
+        "Kayachikitsa OPD",
+        "Shalya OPD",
+        "Shalakya (ENT and eye) OPD",
+        "Stree Roga and Prasuti Tantra OPD",
+        "Kaumarbhritya OPD",
+        "Swasthavritta and Yoga",
+        "Panchakarma",
+        "In-patient wards",
+        "Physiotherapy",
+        "Clinical laboratory",
+        "X-ray"
+      ],
+      "sources": {
+        "practiceName": "https://www.camsakegaon.org/HInfra.aspx",
+        "practitioners": "https://www.camsakegaon.org/StaffHospital.aspx",
+        "address": "https://www.camsakegaon.org/ContactUs.aspx",
+        "phone": "https://www.camsakegaon.org/ContactUs.aspx"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "chaitanya-ayurved-mahavidyalaya-hospital"
     },
     {
       "practiceName": "Saigram Ayurveda Hospital and Research Institute",
