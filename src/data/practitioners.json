@@ -3303,6 +3303,97 @@
       "id": "s-g-v-ayurvedic-medical-college-hospital-and-research-center"
     },
     {
+      "practiceName": "Taranath Government Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Janaki Y S",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Vijayamahantesh Hugar",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Santosh Yadahalli",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Ramalinga S Hugar",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr Rajkumar Road (Anantapur Road)",
+        "locality": "Anantapur Road",
+        "city": "Ballari",
+        "pin": "583101",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 83922 60273",
+        "+91 83922 61073"
+      ],
+      "website": "http://www.tgamcballari.org/",
+      "email": "principaltgamc@gmail.com",
+      "hours": null,
+      "services": [
+        "OPD: Kayachikitsa, Panchakarma, Shalya Tantra, Shalakya Tantra, Prasooti Tantra and Stree Roga, Koumarabhritya, Swasthya Rakshana",
+        "IPD",
+        "Physiotherapy",
+        "Laboratory",
+        "X-ray"
+      ],
+      "sources": {
+        "practiceName": "http://www.tgamcballari.org/",
+        "practitioners": "http://www.tgamcballari.org/index.php/faculty/teaching-faculty",
+        "address": "http://www.tgamcballari.org/index.php/contact-us",
+        "phone": "http://www.tgamcballari.org/index.php/contact-us"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "taranath-government-ayurvedic-medical-college-and-hospital"
+    },
+    {
+      "practiceName": "RJR Herbal Hospital, Ballari",
+      "practitioners": [
+        {
+          "name": "Dr Aishwarya Patil",
+          "qualification": "BAMS",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bushana Bhavana, City Union Bank Building, opp. New Bus Stand",
+        "locality": "New Bus Stand",
+        "city": "Ballari",
+        "pin": "583101",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 78269 77711",
+        "+91 83922 00533"
+      ],
+      "website": "https://www.rjrhospitalscurepatient.com/branches/karnataka/balleri-2/",
+      "email": null,
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://www.rjrhospitalscurepatient.com/branches/karnataka/balleri-2/",
+        "practitioners": "https://www.rjrhospitalscurepatient.com/branches/karnataka/balleri-2/",
+        "address": "https://www.rjrhospitalscurepatient.com/branches/karnataka/balleri-2/",
+        "phone": "https://www.rjrhospitalscurepatient.com/branches/karnataka/balleri-2/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rjr-herbal-hospital-ballari"
+    },
+    {
       "practiceName": "Kala Ashram Ayurved Medical College and Hospital",
       "practitioners": [
         {
@@ -9861,6 +9952,46 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "astang-ayurveda"
+    },
+    {
+      "practiceName": "Ayu Aesthetic",
+      "practitioners": [
+        {
+          "name": "Dr Swati Khandre",
+          "qualification": "BAMS, PGDCC",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "1st floor, Basvajyoti Netralaya, Mohan Market Road, behind GV Mall",
+        "locality": "Nandi Colony",
+        "city": "Bidar",
+        "pin": "585401"
+      },
+      "phone": [
+        "+91 80504 31243"
+      ],
+      "website": "https://ayuaesthetic.com/",
+      "email": "info@ayuaesthetic.com",
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Shirodhara",
+        "Abhyanga",
+        "Chemical Peel",
+        "Hydra Facial",
+        "Microdermabrasion"
+      ],
+      "sources": {
+        "practiceName": "https://ayuaesthetic.com/",
+        "practitioners": "https://ayuaesthetic.com/",
+        "address": "https://ayuaesthetic.com/",
+        "phone": "https://ayuaesthetic.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "ayu-aesthetic"
     },
     {
       "practiceName": "Dr. Sharda Ayurveda, Bikaner (Pawanpuri)",
@@ -25566,6 +25697,55 @@
       "id": "sindagi-shantaveereshwar-ayurvedic-medical-college-and"
     },
     {
+      "practiceName": "T.M.A.E.S Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Mahamadasraf Samudri",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Chandrashekhar Roogi",
+          "qualification": "MD (Ayu) Roga Nidana",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Bellary Road, Sankalapura Tanda",
+        "locality": "Sankalapura",
+        "city": "Hosapete",
+        "pin": "583201",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 98800 87221",
+        "+91 96328 25703"
+      ],
+      "website": "https://tmaeamchpt.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Kaumarabhritya",
+        "Prasuti Tantra and Stri Roga",
+        "IPD (120 beds)",
+        "Yoga"
+      ],
+      "sources": {
+        "practiceName": "https://tmaeamchpt.com/",
+        "practitioners": "https://tmaeamchpt.com/principal-desk/",
+        "address": "https://tmaeamchpt.com/contact/",
+        "phone": "https://tmaeamchpt.com/contact/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "t-m-a-e-s-ayurvedic-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Ayurlife",
       "practitioners": [
         {
@@ -29928,6 +30108,120 @@
       "id": "focuz-ayurcentre"
     },
     {
+      "practiceName": "Dr Rao's Ayurveda Hospital and Panchakarma Centre",
+      "practitioners": [
+        {
+          "name": "Dr Richa Rao",
+          "qualification": "MD (Ayu)",
+          "registration": null
+        },
+        {
+          "name": "Dr Sharon Samuel",
+          "qualification": "MS (Ayu) Prasuti Tantra Stree Roga",
+          "registration": null
+        },
+        {
+          "name": "Dr Preethi Pahwa",
+          "qualification": "MS (Ayu) Shalakya Tantra",
+          "registration": null
+        },
+        {
+          "name": "Dr S Sriman Narayanan",
+          "qualification": "MD (Ayu) Manasa Roga",
+          "registration": null
+        },
+        {
+          "name": "Dr Kripa Karan",
+          "qualification": "MD (Ayu) Kaumarabhritya",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "First floor, Raj Complex, Darga Road",
+        "locality": "Sangtrashwadi",
+        "city": "Kalaburagi",
+        "pin": "585102"
+      },
+      "phone": [
+        "+91 93423 57172",
+        "+91 90710 22882"
+      ],
+      "website": "https://raoayurvedahospital.com/",
+      "email": null,
+      "hours": null,
+      "services": [
+        "General Treatment",
+        "Panchakarma",
+        "Anorectal care",
+        "Garbha Sanskar",
+        "Ayurvedic Cosmetology",
+        "Suvarna Bindu Prashana",
+        "Wellness Program"
+      ],
+      "sources": {
+        "practiceName": "https://raoayurvedahospital.com/about-us/",
+        "practitioners": "https://raoayurvedahospital.com/our-panel-of-doctors/ (Dr Richa Rao qualification from https://raoayurvedahospital.com/about-us/)",
+        "address": "https://raoayurvedahospital.com/contact-us/",
+        "phone": "https://raoayurvedahospital.com/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "dr-rao-s-ayurveda-hospital-and-panchakarma-centre"
+    },
+    {
+      "practiceName": "Shri Basaveshwara Ayurvedic Medical College Hospital and Research Centre",
+      "practitioners": [
+        {
+          "name": "Dr Ashwini Balbatti",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Basavaraj Akkalkot",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Syed Rasool",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shetty Education Hub, Shahabad Road",
+        "locality": "Shahabad Road",
+        "city": "Kalaburagi",
+        "pin": "585105"
+      },
+      "phone": [
+        "+91 98459 75191"
+      ],
+      "website": "https://sbamch.in/",
+      "email": "sbamch2020@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Shalya",
+        "Shalakya",
+        "Kaumarabhritya",
+        "Prasooti Tantra",
+        "Swasthavritta",
+        "Vishachikitsa"
+      ],
+      "sources": {
+        "practiceName": "https://sbamch.in/contact-us/",
+        "practitioners": "https://sbamch.in/consultants/ (also https://sbamch.in/hospital-staff/ and https://sbamch.in/teaching-faculty/)",
+        "address": "https://sbamch.in/contact-us/",
+        "phone": "https://sbamch.in/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "shri-basaveshwara-ayurvedic-medical-college-hospital-and"
+    },
+    {
       "practiceName": "BGGAC Hospital (Shri B.G. Garaiya Ayurveda College)",
       "practitioners": [
         {
@@ -33683,6 +33977,65 @@
       "id": "a-l-n-rao-memorial-ayurvedic-medical-college-and-hospital"
     },
     {
+      "practiceName": "Agastya Ayurveda Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Mahantagouda M Biradar",
+          "qualification": "MD (Ayu) Panchakarma",
+          "registration": null
+        },
+        {
+          "name": "Dr Basayya Kalmath",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Satish Srinivas Rao Jalihal",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Mailar Rao Kulkarni",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Hospet Road",
+        "locality": "Hospet Road",
+        "city": "Koppal",
+        "pin": "583231",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 99868 48824"
+      ],
+      "website": "https://agastyayukoppal.org/",
+      "email": "agastyahospitalkoppal@gmail.com",
+      "hours": "OPD Monday to Saturday 8:00 AM to 6:00 PM; hospital and emergency 24x7",
+      "services": [
+        "Panchakarma",
+        "Kayachikitsa",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Prasuti and Striroga",
+        "IPD (60 beds)",
+        "Physiotherapy",
+        "Laboratory",
+        "X-ray, ECG, sonography"
+      ],
+      "sources": {
+        "practiceName": "https://agastyayukoppal.org/",
+        "practitioners": "https://agastyayukoppal.org/hospital_staff.php",
+        "address": "https://agastyayukoppal.org/contact.php",
+        "phone": "https://agastyayukoppal.org/contact.php"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "agastya-ayurveda-medical-college-and-hospital"
+    },
+    {
       "practiceName": "Ayurlekha Ayurvedic Hospital and Panchakarma Center, Mahaveer Nagar Extension, Kota",
       "practitioners": [
         {
@@ -34527,6 +34880,45 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "sreshta-multi-specialty-ayurveda-clinic"
+    },
+    {
+      "practiceName": "Rashmi Institute of Ayurveda Medical Sciences and Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Harisha H M",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Abhishekar Gone",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sanduru Road, Govindagiri",
+        "locality": "Govindagiri",
+        "city": "Kudligi",
+        "pin": "583135",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 97426 33638"
+      ],
+      "website": "https://riakarnataka.com/",
+      "email": "info@riakarnataka.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://riakarnataka.com/",
+        "practitioners": "https://riakarnataka.com/principal-message/",
+        "address": "https://riakarnataka.com/",
+        "phone": "https://riakarnataka.com/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "rashmi-institute-of-ayurveda-medical-sciences-and-research"
     },
     {
       "practiceName": "Vedanjana Yoga & Ayurveda Retreat",
@@ -37490,6 +37882,66 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "dr-lodha-s-ayurved-panchakarma-and-research-centre-manmad"
+    },
+    {
+      "practiceName": "Kalmathada Pujya Shri Virupaksha Shivacharya (KPSVS) Ayurvedic Medical College and Hospital",
+      "practitioners": [
+        {
+          "name": "Dr Pushpalatha T",
+          "qualification": "PG (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Rajeshwari M S",
+          "qualification": "BAMS, MD (Kayachikitsa)",
+          "registration": null
+        },
+        {
+          "name": "Dr Varsha Kulkarni",
+          "qualification": "BAMS, MD (Ayu) Kayachikitsa",
+          "registration": null
+        },
+        {
+          "name": "Dr Sunitha Rani",
+          "qualification": "BAMS, MD",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "KPSVS Ayurvedic Medical College and Hospital campus",
+        "locality": "Manvi",
+        "city": "Manvi",
+        "pin": "584123",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 94481 62595",
+        "+91 77953 62970"
+      ],
+      "website": "https://aayurvediccollegemanvi.org/",
+      "email": "kpsvsmanvi@gmail.com",
+      "hours": null,
+      "services": [
+        "Kayachikitsa",
+        "Panchakarma",
+        "Swasthavritta and Yoga",
+        "Shalya Tantra",
+        "Shalakya Tantra",
+        "Swarnaprashana",
+        "Physiotherapy",
+        "X-ray, ECG",
+        "IPD (60 beds)"
+      ],
+      "sources": {
+        "practiceName": "https://aayurvediccollegemanvi.org/kpsvs-hospital/",
+        "practitioners": "https://aayurvediccollegemanvi.org/kayachikitsa/",
+        "address": "https://aayurvediccollegemanvi.org/contact/",
+        "phone": "https://aayurvediccollegemanvi.org/kpsvs-hospital/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "kalmathada-pujya-shri-virupaksha-shivacharya-kpsvs-ayurvedic"
     },
     {
       "practiceName": "Sanskriti Ayurvedic Medical College & Hospital",
@@ -53397,6 +53849,55 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-28",
       "id": "shri-vivekanand-nursing-home-trust-s-ayurved-mahavidyalaya"
+    },
+    {
+      "practiceName": "Poornima Ayurvedic Medical College, Hospital and Research Center",
+      "practitioners": [
+        {
+          "name": "Dr Chandrashekaraddi Karamudi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Uma Mahantesh Yalagi",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Siddareddi Basanagouda Haranal",
+          "qualification": null,
+          "registration": null
+        },
+        {
+          "name": "Dr Aishwarya Ravindra Vijapur",
+          "qualification": null,
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Sy. No. 1163, MPL No. 4-4-409, Mantralaya Road",
+        "locality": "Mantralaya Road",
+        "city": "Raichur",
+        "pin": "584103",
+        "state": "Karnataka"
+      },
+      "phone": [
+        "+91 96638 81181"
+      ],
+      "website": "https://pamchrc.org/",
+      "email": "pamcrcr@gmail.com",
+      "hours": null,
+      "services": [],
+      "sources": {
+        "practiceName": "https://pamchrc.org/contact-us/",
+        "practitioners": "https://pamchrc.org/wp-content/uploads/2026/04/TEACHING-LIST-23.03.26-1.pdf",
+        "address": "https://pamchrc.org/contact-us/",
+        "phone": "https://pamchrc.org/contact-us/"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-28",
+      "id": "poornima-ayurvedic-medical-college-hospital-and-research"
     },
     {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Raipur",
