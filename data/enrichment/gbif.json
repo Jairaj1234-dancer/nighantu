@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-22",
- "count": 289,
+ "updatedAt": "2026-10-28",
+ "count": 290,
  "entries": {
   "Abelmoschus moschatus": {
    "status": "ok",
@@ -1225,6 +1225,23 @@
    "acceptedName": "",
    "acceptedKey": null,
    "checkedAt": "2026-09-12"
+  },
+  "Centipeda minima": {
+   "status": "ok",
+   "gbifKey": 5391292,
+   "scientificName": "Centipeda minima (L.) A.Br. & Asch.",
+   "canonicalName": "Centipeda minima",
+   "rank": "SPECIES",
+   "taxonomicStatus": "ACCEPTED",
+   "matchType": "EXACT",
+   "confidence": 98,
+   "kingdom": "Plantae",
+   "family": "Asteraceae",
+   "order": "Asterales",
+   "genus": "Centipeda",
+   "acceptedName": "",
+   "acceptedKey": null,
+   "checkedAt": "2026-10-28"
   },
   "Centratherum anthelminticum": {
    "status": "ok",
