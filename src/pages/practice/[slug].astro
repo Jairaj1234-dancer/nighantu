@@ -8,6 +8,8 @@ import ReviewCredit from '../../components/ReviewCredit.astro';
 import { reviewPageNode } from '../../lib/review';
 import Crumbs from '../../components/Crumbs.astro';
 import CiteThis from '../../components/CiteThis.astro';
+import Related from '../../components/Related.astro';
+import { related } from '../../lib/related';
 import { getCollection, render } from 'astro:content';
 import { SITE_NAME, abs, rel } from '../../lib/site';
 import { pageDates } from '../../lib/dates';
@@ -21,6 +23,7 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 const canonical = `/practice/${d.slug}/`;
+const substances = (await related()).substances(d.slug);
 
 // The review goes on a WebPage node, which is the type schema.org defines reviewedBy and
 // lastReviewed on. See src/lib/review.ts.
@@ -109,7 +112,7 @@ const jsonld = [
   {d.dravyas.length > 0 && (
     <>
       <h2>Substances named</h2>
-      <p>{d.dravyas.map((x: string, i: number) => <>{i > 0 && ', '}{x}</>)}</p>
+      <p>{substances.map((x: any, i: number) => <>{i > 0 && ', '}{typeof x === 'string' ? x : <a href={rel(x.href)}>{x.title}</a>}</>)}</p>
     </>
   )}
 
@@ -153,6 +156,8 @@ const jsonld = [
     modified or withheld depending on your constitution, your agni, the season and what else
     you are already doing. A page cannot know any of that.
   </p>
+
+  <Related collection="practice" data={d} />
 
   <CiteThis title={d.title} canonical={canonical} modified={modified} />
 </Base>
