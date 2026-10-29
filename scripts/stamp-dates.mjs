@@ -156,6 +156,68 @@ for (const { kind, file } of DATA_BACKED) {
 }
 
 /**
+ * THE PRACTITIONER DIRECTORY, rendered from src/data/practitioners.json with no file per page, so
+ * 2,805 of its URLs shipped with no lastmod: every listing, locality, city and state page.
+ *
+ * Each page is keyed by its URL path and hashed on exactly the records it renders, so a listing is
+ * revised when its own record changes and a city page when any practice in it does. `since` is the
+ * newest checkedOn among those records, the date the details on the page were last read at source.
+ *
+ * The paths must match src/lib/practitioners.ts (slug, cityOf, localityOf, stateOf), including the
+ * city-state suffix for a city name used in two states. A key that matches no URL is written and
+ * never read, which is the failure the ROOT PAGES note below warns about.
+ */
+/** State hub key -> the city keys it lists, dated after the main loop like the collection indexes. */
+const PRACTITIONER_HUBS = new Map();
+const PAGES_DIR_P = path.join('src', 'pages', 'practitioners');
+const PRACTITIONERS = path.join('src', 'data', 'practitioners.json');
+if (fs.existsSync(PRACTITIONERS)) {
+  const recs = JSON.parse(fs.readFileSync(PRACTITIONERS, 'utf8')).practices ?? [];
+  const pslug = (x) => String(x).normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const statesOf = new Map();
+  for (const p of recs) {
+    const c = pslug(p.address.city);
+    if (!statesOf.has(c)) statesOf.set(c, new Set());
+    if (p.address.state) statesOf.get(c).add(p.address.state);
+  }
+  const shared = (p) => (statesOf.get(pslug(p.address.city))?.size ?? 0) > 1 && !!p.address.state;
+  const cityOf = (p) => (shared(p) ? pslug(`${p.address.city} ${p.address.state}`) : pslug(p.address.city));
+  // A record's state, else the city's entry in CITY_STATE, read from the TS module so there is one map.
+  const ts = fs.readFileSync(path.join('src', 'lib', 'practitioners.ts'), 'utf8');
+  const mapSrc = /const CITY_STATE[^=]*=\s*\{([\s\S]*?)\n\};/.exec(ts)?.[1] ?? '';
+  const CITY_STATE = Object.fromEntries([...mapSrc.matchAll(/'?([a-z0-9-]+)'?:\s*'([^']+)'/g)].map((m) => [m[1], m[2]]));
+  const stateOf = (p) => p.address.state ?? CITY_STATE[cityOf(p)] ?? '';
+  const groups = new Map();
+  const add = (key, p) => { if (!groups.has(key)) groups.set(key, []); groups.get(key).push(p); };
+  for (const p of recs) {
+    const c = cityOf(p);
+    add(`practitioners/${c}/${pslug(p.address.locality)}/${p.id}`, p);
+    add(`practitioners/${c}/${pslug(p.address.locality)}`, p);
+    add(`practitioners/${c}`, p);
+  }
+  for (const [key, ps] of groups) {
+    const since = ps.map((p) => p.checkedOn).sort().at(-1);
+    sources.push({ key, text: stable(ps.map(({ geo, ...rest }) => rest)), since });
+  }
+  // A city sits under the state of its first record in display order, as states() in the TS module has it.
+  const byCity = new Map();
+  for (const p of recs) { const c = cityOf(p); if (!byCity.has(c)) byCity.set(c, []); byCity.get(c).push(p); }
+  for (const [c, ps] of byCity) {
+    const first = [...ps].sort((a, b) => a.address.locality.localeCompare(b.address.locality) || a.practiceName.localeCompare(b.practiceName))[0];
+    const st = stateOf(first);
+    if (!st) continue;
+    const k = `practitioners/state/${pslug(st)}`;
+    if (!PRACTITIONER_HUBS.has(k)) PRACTITIONER_HUBS.set(k, []);
+    PRACTITIONER_HUBS.get(k).push(`practitioners/${c}`);
+  }
+  for (const sub of ['about', 'submit']) {
+    const file = path.join(PAGES_DIR_P, `${sub}.astro`);
+    if (fs.existsSync(file)) sources.push({ key: `practitioners/${sub}`, file, astro: true, since: gitDate(file) ?? TODAY });
+  }
+}
+
+/**
  * ROOT PAGES, which are .astro files and were also absent from the ledger.
  *
  * /datasets/, /manufacturers/, /corrections/, /crosswalk/ and the collection indexes are real
@@ -359,6 +421,29 @@ for (const kind of INDEXED_KINDS) {
   };
   if (!prev) added += 1;
   else if (prev.modified !== newest) revised += 1;
+}
+
+/**
+ * DIRECTORY HUBS, dated by the rule above: a state page is revised when a city it lists is, and the
+ * directory front door when anything in the directory is. The front door is an .astro root page whose
+ * own hash only sees its markup, so its date is the newer of that and its newest member.
+ */
+for (const [key, members] of PRACTITIONER_HUBS) {
+  const rows = members.filter((k) => next[k]).map((k) => [k, next[k]]);
+  if (!rows.length) continue;
+  const newest = rows.map(([, v]) => v.modified).sort().at(-1);
+  const prev = previous[key];
+  next[key] = {
+    hash: hash(rows.map(([k, v]) => `${k}:${v.hash}`).join('|')),
+    published: prev?.published ?? rows.map(([, v]) => v.published).sort()[0],
+    modified: newest,
+  };
+  if (!prev) added += 1;
+  else if (prev.modified !== newest) revised += 1;
+}
+if (next.practitioners) {
+  const newest = Object.entries(next).filter(([k]) => k.startsWith('practitioners/')).map(([, v]) => v.modified).sort().at(-1);
+  if (newest && newest > next.practitioners.modified) next.practitioners = { ...next.practitioners, modified: newest };
 }
 
 const removed = Object.keys(previous).filter((k) => !(k in next));
