@@ -1,0 +1,31 @@
+---
+/** Reference lists, procedures and same-group pages that link to this one. See src/lib/related.ts. */
+import { related } from '../lib/related';
+import { rel } from '../lib/site';
+
+interface Props { collection: string; data: any }
+const { collection, data } = Astro.props;
+const r = await related();
+const key = `${collection}/${data.slug}`;
+const lists = r.lists(key);
+const procedures = r.procedures(key);
+const siblings = r.siblings(collection, data);
+---
+{lists.length > 0 && (
+  <section class="related">
+    <h2>Reference lists that include it</h2>
+    <p>{lists.map((x, i) => <>{i > 0 && ', '}<a href={rel(x.href)}>{x.title}</a></>)}</p>
+  </section>
+)}
+{procedures.length > 0 && (
+  <section class="related">
+    <h2>Procedures that name it</h2>
+    <p>{procedures.map((x, i) => <>{i > 0 && ', '}<a href={rel(x.href)}>{x.title}</a></>)}</p>
+  </section>
+)}
+{siblings && (
+  <section class="related">
+    <h2>{siblings.label}</h2>
+    <p>{siblings.items.map((x, i) => <>{i > 0 && ', '}<a href={rel(x.href)}>{x.title}</a></>)}</p>
+  </section>
+)}

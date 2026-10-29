@@ -12,6 +12,7 @@ import { reviewPageNode } from '../lib/review';
 import Composition from '../components/Composition.astro';
 import Disclosure from '../components/Disclosure.astro';
 import CiteThis from '../components/CiteThis.astro';
+import Related from '../components/Related.astro';
 import duplicates from '../data/duplicates.json';
 import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
@@ -223,6 +224,8 @@ const breadcrumbs = {
     <Safety kind={d.kind} slug={d.slug} />
 
     <References kind={d.kind} slug={d.slug} />
+
+    <Related collection={entry.collection} data={d} />
 
     <ReviewCredit kind={d.kind} slug={d.slug} />
 

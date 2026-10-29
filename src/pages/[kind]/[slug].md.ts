@@ -5,6 +5,7 @@ import safety from '../../data/safety.json';
 import names from '../../data/names.json';
 import { abs } from '../../lib/site';
 import { formularySentence } from '../../lib/lead';
+import { related } from '../../lib/related';
 
 /**
  * Plain-Markdown twin of every monograph. Several crawlers and agents prefer a
@@ -31,7 +32,7 @@ export async function getStaticPaths() {
   return out;
 }
 
-export const GET: APIRoute = ({ props }) => {
+export const GET: APIRoute = async ({ props }) => {
   const { entry } = props as { entry: any };
   const d = entry.data;
   const facts = [
@@ -109,6 +110,20 @@ export const GET: APIRoute = ({ props }) => {
     }
   }
 
+  // The same related links as the page, from src/lib/related.ts, so the two cannot disagree.
+  const rl = await related();
+  const md = (items: { href: string; title: string }[]) => items.map((x) => `[${x.title}](${abs(x.href)})`).join(', ');
+  const key = `${entry.collection}/${d.slug}`;
+  const sib = rl.siblings(entry.collection, d);
+  const subs = entry.collection === 'practice' ? rl.substances(d.slug) : [];
+  const relatedLines = [
+    ...(subs.length
+      ? ['## Substances named', '', subs.map((x: any) => (typeof x === 'string' ? x : `[${x.title}](${abs(x.href)})`)).join(', '), ''] : []),
+    ...(rl.lists(key).length ? ['## Reference lists that include it', '', md(rl.lists(key)), ''] : []),
+    ...(rl.procedures(key).length ? ['## Procedures that name it', '', md(rl.procedures(key)), ''] : []),
+    ...(sib ? [`## ${sib.label}`, '', md(sib.items), ''] : []),
+  ];
+
   const body = [
     `# ${d.title}`,
     '',
@@ -126,6 +141,7 @@ export const GET: APIRoute = ({ props }) => {
     entry.body?.trim() ?? '',
     '',
     ...safetyLines,
+    ...relatedLines,
     '---',
     '',
     `Canonical version of this page: ${canonical}`,
