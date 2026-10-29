@@ -18,6 +18,7 @@ import lexicon from '../../data/lexicon.json';
 import conceptsData from '../../data/concepts.json';
 import { abs, rel } from '../../lib/site';
 import { conceptLinksFor } from '../../lib/concept-links';
+import { termSlug, familyMembers } from '../../lib/lexicon-links';
 
 export function getStaticPaths() {
   return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
@@ -29,6 +30,7 @@ const families = data.families as { id: string; label: string }[];
 const family = families.find((f) => f.id === r.family) ?? null;
 
 const name = r.iast ?? r.slug;
+const siblings = familyMembers(r);
 
 /**
  * Two records can share a transliteration and mean different things.
@@ -218,7 +220,7 @@ const jsonld = [
       <dl class="distinguish">
         {r.distinguishFrom.map((d: any) => (
           <>
-            <dt>{d.term}</dt>
+            <dt>{termSlug(d.term, r.slug) ? <a href={rel(`/lexicon/${termSlug(d.term, r.slug)}/`)}>{d.term}</a> : d.term}</dt>
             <dd>{d.why}</dd>
           </>
         ))}
@@ -244,6 +246,13 @@ const jsonld = [
       <ul>
         {r.openQuestions.map((q: any) => <li>{typeof q === 'string' ? q : (q.question ?? JSON.stringify(q))}</li>)}
       </ul>
+    </>
+  )}
+
+  {family && siblings.length > 0 && (
+    <>
+      <h2>Other terms filed under {family.label}</h2>
+      <p>{siblings.map((t, i) => <>{i > 0 && ', '}<a href={rel(`/lexicon/${t.slug}/`)}>{t.name}</a></>)}</p>
     </>
   )}
 

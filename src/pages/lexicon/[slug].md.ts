@@ -10,6 +10,7 @@ import lexicon from '../../data/lexicon.json';
 import conceptsData from '../../data/concepts.json';
 import { abs } from '../../lib/site';
 import { conceptLinksFor } from '../../lib/concept-links';
+import { termSlug, familyMembers } from '../../lib/lexicon-links';
 
 export function getStaticPaths() {
   return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
@@ -117,7 +118,10 @@ export const GET: APIRoute = ({ props }) => {
 
   if ((r.distinguishFrom ?? []).length) {
     out.push('## Not to be confused with', '');
-    for (const d of r.distinguishFrom) out.push(`- **${d.term}.** ${d.why}`);
+    for (const d of r.distinguishFrom) {
+      const t = termSlug(d.term, r.slug);
+      out.push(`- **${t ? `[${d.term}](${abs(`/lexicon/${t}/`)})` : d.term}.** ${d.why}`);
+    }
     out.push('');
   }
 
@@ -133,6 +137,12 @@ export const GET: APIRoute = ({ props }) => {
     out.push('## Open questions', '', 'Recorded rather than resolved.', '');
     for (const q of r.openQuestions) out.push(`- ${typeof q === 'string' ? q : (q.question ?? '')}`);
     out.push('');
+  }
+
+  const siblings = familyMembers(r);
+  if (family && siblings.length) {
+    out.push(`## Other terms filed under ${family.label}`, '',
+      siblings.map((t) => `[${t.name}](${abs(`/lexicon/${t.slug}/`)})`).join(', '), '');
   }
 
   out.push('## Citation', '',
