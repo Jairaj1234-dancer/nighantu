@@ -89,4 +89,4 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Vida-Lavana/meta-analysis.md"
 
 **Marker Compounds:** Sodium chloride, Sodium sulfide, Iron sulfide
 
-**Vehicle (Anupana):** Part of digestive formulations; Lavana Bhaskar Churna
+**Used in formulations:** Lavana Bhaskar Churna

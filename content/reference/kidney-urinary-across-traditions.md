@@ -29,7 +29,7 @@ srcRel: "_Hub/Cross-Tradition/Kidney--Urinary-Across-Traditions.md"
 ## Ayurveda Approach
 
 - [Kushmanda](/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
-  Actions: Antioxidant, Nootropic, Medhya (Nootropic)
+  Actions: Antioxidant, Medhya (Nootropic)
 - [Akhuparni](/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*
   Actions: Antioxidant, Anticancer, Nootropic
 - [Narikela](/herb/narikela/) *Cocos nucifera L.*

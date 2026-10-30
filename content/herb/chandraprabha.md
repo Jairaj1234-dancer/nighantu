@@ -6,11 +6,11 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Rasayana-Immunity"
-answer: "Chandraprabha is classified in Ayurveda as Pramehaghna (Anti-diabetic), Mutrala (Urinary tonic), from the Multi-herb preparation family. Parts used: 37 ingredients including shilajit, guggulu, loha bhasma (iron bhasma), and multiple herbs. Name means 'moon-bright': said to make body radiant."
+answer: "Chandraprabha is classified in Ayurveda as Pramehaghna (Anti-diabetic), Mutrala (Diuretic), from the Multi-herb preparation family. Parts used: 37 ingredients including shilajit, guggulu, loha bhasma (iron bhasma), and multiple herbs. Name means 'moon-bright': said to make body radiant."
 botanical: ""
 family: "Multi-herb preparation"
 sanskrit: ""
-ayurvedicCategory: "Pramehaghna (Anti-diabetic), Mutrala (Urinary tonic)"
+ayurvedicCategory: "Pramehaghna (Anti-diabetic), Mutrala (Diuretic)"
 whoStatus: ""
 aliases: ["Compound formulation (37 herbs)"]
 tags: ["ayurveda", "herb", "single-herb", "rasayana-immunity", "rasayana", "pharmacopoeia-listed", "safety-concern"]

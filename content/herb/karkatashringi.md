@@ -54,7 +54,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karkatashringi/meta-analysis.
 ## What do recent studies show?
 
 - Bibi Y, Zia M, Qayyum A 2015. [Review-An overview of Pistacia integerrima a medicinal plant species: Ethnobotany, biological activities and phytochemistry](https://pubmed.ncbi.nlm.nih.gov/26004708/). *Pakistan journal of pharmaceutical sciences*. PMID [26004708](https://pubmed.ncbi.nlm.nih.gov/26004708/)  
-  Documented traditional use across Asian medicine systems; confirmed the insect galls as the primary medicinal part with anticonvulsant and muscle relaxant properties.
+  Documented traditional use across Asian medicine systems; identified the insect galls as the primary medicinal part and summarised reports of anticonvulsant and muscle relaxant activity.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

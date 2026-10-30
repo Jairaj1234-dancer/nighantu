@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel_Herb/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Fennel_Herb |
+| English | Fennel Herb |
 
 ## What is it made of?
 

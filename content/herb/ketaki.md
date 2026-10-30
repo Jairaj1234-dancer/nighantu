@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Ketaki/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Ketaki |
+| English | Fragrant Screwpine |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: ""
 aliases: []
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India", "Ayurvedic Formulary of India"]
 productHints: []
 words: 233
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Jeerakarishtam/meta-analysis.md"

@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Kasturi/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kasturi |
+| English | Musk |
+| Sanskrit | Kasturi |
 
 ## Key Phytochemical Constituents
 

@@ -81,9 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bakula/meta-analysis.md"
 - Quercitrin
 - Betulinic acid
 - Taraxerone
-- 
 - Ursolic acid
-- 
 
 ## Dosage forms and preparation
 

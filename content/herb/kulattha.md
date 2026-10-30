@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kulattha/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kulattha |
+| English | Horse gram |
 | Latin/Botanical | *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)* |
 
 ## Key Phytochemical Constituents

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Himsra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Himsra |
+| English | Caper bush |
 | Latin/Botanical | *Capparis spinosa L.* |
 
 ## Key Phytochemical Constituents

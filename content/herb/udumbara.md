@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Udumbara/meta-analysis.m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (powder), Kwatha (decoction), Kashaya (astringent wash), Capsule, Tablet, Svarasa (latex/juice), Lepa (paste)
+**Dosage Forms:** Churna (powder), Kwatha (decoction), Capsule, Tablet, Svarasa (latex/juice), Lepa (paste)
 
 **Standard Dosage:** 3-6 g bark powder twice daily; 50-100 mL decoction twice daily; latex: 5-10 drops with honey
 

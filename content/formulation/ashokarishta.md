@@ -78,7 +78,7 @@ Bhaishajya Ratnavali (Stree Rogadhikara / Female disorders chapter). Also descri
 ### Synergistic Combinations
 
 - [Pushyanuga Churna](/formulation/pushyanuga-churna/)
-- [Chandraprabha](/herb/chandraprabha/) Vati
+- Chandraprabha Vati
 - [Lodhra](/herb/lodhra/) Churna
 - [Shatavari](/herb/shatavari/) Churna
 - [Ashoka Ghrita](/formulation/ashoka-ghrita/)

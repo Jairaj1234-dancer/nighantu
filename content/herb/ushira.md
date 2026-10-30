@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ushira/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Ushira |
+| English | Vetiver |
 | Latin/Botanical | *Vetiveria zizanioides (L.) Nash (syn. Chrysopogon zizanioides (L.) Roberty)* |
 
 ## Key Phytochemical Constituents

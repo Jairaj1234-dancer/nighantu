@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Guggulus-Resin-Based"
-answer: "Gokshuradi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); Gokshura (Tribulus|Tribulus terrestris) fruit individually listed in API Part I."
+answer: "Gokshuradi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); Gokshura (Tribulus terrestris) fruit individually listed in API Part I."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); Gokshura (Tribulus|Tribulus terrestris) fruit individually listed in API Part I"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; monographed in Ayurvedic Pharmacopoeia of India (API); Gokshura (Tribulus terrestris) fruit individually listed in API Part I"
 aliases: ["Gokshuradi Guggulu", "GokshuradiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

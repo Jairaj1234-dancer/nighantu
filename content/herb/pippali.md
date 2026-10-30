@@ -135,7 +135,6 @@ Fruit powder: as given under Standard Dosage below; Vardhamana Pippali (graduate
 
 - Caryophyllene
 - Pentadecane
-- Bisdemethoxycurcumin
 
 ### Essential Oil Composition
 

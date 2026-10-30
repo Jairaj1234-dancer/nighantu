@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Koshataki/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Koshataki |
+| Sanskrit | Koshataki |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

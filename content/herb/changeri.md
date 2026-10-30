@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Changeri/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Changeri |
+| English | Indian Sorrel |
 | Latin/Botanical | *Oxalis corniculata L.* |
 
 ## Key Phytochemical Constituents

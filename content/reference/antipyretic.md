@@ -36,12 +36,11 @@ srcRel: "_Hub/Pharmacology/Antipyretic.md"
 - [Dhanyaka](/herb/dhanyaka/), *Coriandrum sativum L.*
 - [Dronapushpi](/herb/dronapushpi/)
 - [Gajapippali](/herb/gajapippali/), *Scindapsus officinalis (Roxb.) Schott*
-- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
 - [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
 - [Godanti Bhasma](/herb/godanti-bhasma/)
 - [Gojihva](/herb/gojihva/), *Onosma bracteatum Wall.*
 - [Gorochana](/herb/gorochana/)
-- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
+- [Guduchi (Giloy)](/herb/guduchi/), *Tinospora cordifolia*
 - [Guloochyadi Kashayam](/formulation/guloochyadi-kashayam/)
 - [Hamsapadi](/glossary/concepts-a-m/#hamsapadi)
 - [Haratala Bhasma](/herb/haratala-bhasma/)

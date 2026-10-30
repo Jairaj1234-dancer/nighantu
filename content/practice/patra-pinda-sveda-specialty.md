@@ -42,7 +42,7 @@ Nothing else is recorded: no preparation, no aftercare, no session length, no nu
 
 Four bolus contents are named: nirguṇḍī, eraṇḍa, citrus, and tāmra, which is the Sanskrit word for copper. The record does not say in what form the tāmra is included or why, and does not gloss the term, so nothing further should be read into it here.
 
-The boluses are cooked in oil, but the record leaves the oil unnamed. Its dedicated oil and dravya fields are both empty, so all four ingredients come from the wording of the procedure step.
+The boluses are cooked in oil, but the record leaves the oil unnamed. The record does not list the oil or the ingredients separately; all four ingredients come from the wording of the procedure step.
 
 ## What to ask before booking
 

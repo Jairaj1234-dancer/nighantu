@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Akarakarabha/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Akarakarabha |
+| English | Pellitory |
 | Latin/Botanical | *Anacyclus pyrethrum (L.) Lag.* |
 
 ## Key Phytochemical Constituents

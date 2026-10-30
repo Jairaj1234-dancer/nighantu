@@ -32,7 +32,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Agnikarna/meta-analysis.md"
 - Gloriosine
 - N-formyl-deacetylcolchicine
 - Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
-- Colchicine glycoside (new)
+- Colchicine glycoside
 - Beta- and gamma-lumicolchicines
 
 ## How does it work?

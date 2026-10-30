@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fenugreek_Herb/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | Fenugreek_Herb |
+| English | Fenugreek Herb |
 
 ## What is it made of?
 

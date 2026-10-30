@@ -74,7 +74,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Coconut-Oil
 ### Key Active Markers
 
 - Polyphenols
-- Coconut Oil
 - Tocopherols
 - Phytosterols
 - Sitosterol

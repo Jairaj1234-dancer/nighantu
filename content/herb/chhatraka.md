@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chhatraka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Chhatraka |
+| Sanskrit | Chhatraka |
+| English | Field mushroom |
 | Latin/Botanical | *Agaricus campestris L.* |
 
 ## Key Phytochemical Constituents

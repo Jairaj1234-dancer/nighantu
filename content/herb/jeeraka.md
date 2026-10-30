@@ -79,7 +79,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jeeraka/meta-analysis.md"
 - Gamma-terpinene
 - Beta-pinene
 - P-cymene
-- 
 
 ## Dosage forms and preparation
 

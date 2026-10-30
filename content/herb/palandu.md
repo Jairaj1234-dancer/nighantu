@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Palandu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Palandu |
+| English | Onion |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

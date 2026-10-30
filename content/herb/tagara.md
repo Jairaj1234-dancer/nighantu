@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Tagara/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Tagara |
+| English | Indian Valerian |
 
 ## Modern Research (Meta-Analysis)
 

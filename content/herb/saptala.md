@@ -75,9 +75,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Saptala/meta-analysis.md"
 - Terpenoids
 - Sterols
 - Ingenol esters
-- Dracunculins 
-- Flavonoid 
-- Latex compounds 
+- Dracunculins
+- Flavonoid glycosides
+- Latex compounds
 
 ## Dosage forms and preparation
 

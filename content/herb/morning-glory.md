@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Morning_Glory/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Morning_Glory |
+| English | Morning Glory |
 
 ## What is it made of?
 

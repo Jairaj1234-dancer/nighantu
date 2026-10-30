@@ -39,11 +39,10 @@ srcRel: "_Hub/Pharmacology/Adaptogenic.md"
 - [Eranda Moola](/herb/eranda-moola/)
 - [Gambhari](/herb/gambhari/), *Gmelina arborea Roxb.*
 - [Gangeruki](/herb/gangeruki/), *Grewia tenax (Forssk.) Fiori*
-- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
 - [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)*
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
 - [Gorakhmundi](/herb/gorakhmundi/), *Sphaeranthus indicus L.*
-- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
+- [Guduchi (Giloy)](/herb/guduchi/), *Tinospora cordifolia*
 - [Holy Basil](/herb/holy-basil/)
 - [Jatamansi Herb](/glossary/concepts-a-m/#jatamansi-herb)
 - [Jivaka](/herb/jivaka/), *Malaxis acuminata D. Don*

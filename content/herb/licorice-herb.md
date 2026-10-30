@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Licorice_Herb/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Licorice_Herb |
+| English | Licorice Herb |
 
 ## What is it made of?
 

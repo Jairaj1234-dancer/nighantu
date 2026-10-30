@@ -65,7 +65,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Amlaparni/meta-analysis.md"
 ## Recent safety updates
 
 - High oxalic acid content is the primary safety concern; excessive consumption may cause oxalate nephropathy and kidney stone formation in susceptible individuals
-- Traditional use suggests safe consumption in small therapeutic doses; no formal toxicity studies with standardized LD50 determination have been completed in human trials
+- Traditional use suggests safe consumption in small therapeutic doses; no formal toxicity studies with standardized LD50 determination have been reported
 - Should be used cautiously in patients with renal impairment, hyperoxaluria, or history of calcium oxalate kidney stones; further preclinical and clinical safety trials are recommended
 
 ## Dosage forms and preparation

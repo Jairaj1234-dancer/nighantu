@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Eucalyptus_Herb/met
 
 | Language | Name |
 |----------|------|
-| English | Eucalyptus_Herb |
+| English | Eucalyptus Herb |
 
 ## What is it made of?
 

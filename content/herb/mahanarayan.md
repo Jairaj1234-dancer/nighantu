@@ -79,7 +79,7 @@ External: warm oil massage on affected areas; Basti: as per Panchakarma protocol
 ### Key Active Markers
 
 - Sesame Oil
-- Combined actives of 40
+- Combined actives of 40+ herbs
 
 ## Dosage forms and preparation
 

@@ -78,7 +78,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chakragaja/meta-analysis.md"
 - Rubrofusarin
 - Toralactone
 - Aurantio-obtusin
-- Beta-
 
 ## Dosage forms and preparation
 

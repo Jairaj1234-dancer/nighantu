@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Digestive-Health"
-answer: "Mulaka (Raphanus sativus) is a plant drug, also called Mulakam, Marusambhava and Salamarkataka. Sulforaphane analogs are well absorbed. Vitamin C in fresh radish is well absorbed. Raphanol has moderate GI absorption. Kshara preparations have excellent mineral bioavailability due to alkaline form."
+answer: "Mulaka (Raphanus sativus) is a plant drug, also called Mulakam, Marusambhava and Salamarkataka."
 botanical: "Raphanus sativus"
 family: "Brassicaceae"
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Mulaka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Mulaka |
+| English | Radish |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

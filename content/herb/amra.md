@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Amra |
+| English | Mango |
 | Latin/Botanical | *Mangifera indica L.* |
 
 ## Key Phytochemical Constituents
@@ -81,12 +81,9 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Amra/meta-analysis.md"
 - Isomangiferin
 - Gallotannins
 - Gallic acid
-- 
 - Ellagic acid
 - Protocatechuic acid
-- 
 - Beta-carotene
-- 
 
 ## Dosage forms and preparation
 

@@ -58,7 +58,6 @@ srcRel: "_Hub/Body-Systems/Digestive-Health.md"
 - [Asphota](/glossary/concepts-a-m/#asphota)
 - [Atasi](/herb/atasi/), *Linum usitatissimum L.* (Antioxidant, Laxative, Anti-inflammatory)
 - [Atibala](/herb/atibala/) (Adaptogenic, Rasayana)
-- [Avipattikar](/herb/avipattikar/)
 - [Avipattikar Churna](/formulation/avipattikar-churna/) (Antioxidant, Laxative, Anti-inflammatory)
 - [Avipattikar Herbs](/herb/avipattikar-herbs/)
 - [Badama Taila](/formulation/badama-taila/)

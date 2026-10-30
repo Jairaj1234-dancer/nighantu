@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Fennel/meta-analysis.md"
 ### Synergistic Combinations
 
 - With [Jeeraka](/herb/jeeraka/) ([cumin](/herb/cumin/)) and [Dhanyaka](/herb/dhanyaka/) ([coriander](/herb/coriander/)) for digestive triad
-- With Saunf and Mishri (sugar candy) as traditional mouth freshener and digestive
+- With Mishri (sugar candy) as traditional mouth freshener and digestive
 - With Sunthi for enhanced carminative action
 - With [Yashtimadhu](/herb/yashtimadhu/) for gastric soothing
 - With [Shatavari](/herb/shatavari/) for [galactagogue](/glossary/pharmacology/#galactagogue) (lactation support) combination

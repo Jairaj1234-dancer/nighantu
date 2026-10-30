@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Hingu |
+| English | Asafoetida |
 | Latin/Botanical | *Ferula asafoetida* |
 
 ## Key Phytochemical Constituents
@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 ## What do recent studies show?
 
 - Mala KN, Thomas J, Syam DS and others 2018. [Safety and Efficacy of Ferula asafoetida in Functional Dyspepsia: A Randomized, Double-Blinded, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/30224930/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [30224930](https://pubmed.ncbi.nlm.nih.gov/30224930/) · [doi:10.1155/2018/4813601](https://doi.org/10.1155/2018/4813601)  
-  In 43 subjects with functional dyspepsia, 81% of the asafoetida group showed significant improvement in overall symptom scores and quality of life compared to placebo over a 30-day period.
+  In 43 subjects with functional dyspepsia, the asafoetida group showed significantly greater improvement in overall symptom scores and quality of life than placebo over a 30-day period.
 - Thulluri SP, Selvaraj K, Yerraguntla DP and others 2025. [A Review of the Protective Effects of Ferula asafoetida on the Liver, Kidney, and Testes Against Formaldehyde-Induced Damage](https://pubmed.ncbi.nlm.nih.gov/40144445/). *Cureus*. PMID [40144445](https://pubmed.ncbi.nlm.nih.gov/40144445/) · [doi:10.7759/cureus.79545](https://doi.org/10.7759/cureus.79545)  
   Demonstrated [hepatoprotective](/reference/hepatoprotective/), nephroprotective, and reproductive-protective effects of asafoetida extract against formaldehyde-induced oxidative damage in animal models.
 - Qasim M, Abdullah M, Ali Ashfaq U and others 2023. [Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach](https://pubmed.ncbi.nlm.nih.gov/36568408/). *Saudi journal of biological sciences*. PMID [36568408](https://pubmed.ncbi.nlm.nih.gov/36568408/) · [doi:10.1016/j.sjbs.2022.103527](https://doi.org/10.1016/j.sjbs.2022.103527)  
@@ -81,7 +81,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Hingu/meta-analysis.md"
 
 **Storage:** Airtight containers essential (prevents odor escape and volatile loss). Cool, dry place below 25°C. Keep away from other ingredients to prevent cross-contamination of odor.
 
-**Marker Compounds:** sec-Butyl propenyl disulfide, Ferulic acid, Farnesiferol A, Farnesiferol B, Umbelliprenin, 2-Butyl propenyl disulfide
+**Marker Compounds:** sec-Butyl propenyl disulfide, Ferulic acid, Farnesiferol A, Farnesiferol B, Umbelliprenin
 
 ### Synergistic Combinations
 

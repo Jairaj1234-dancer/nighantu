@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vathada/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Vathada |
+| English | Almond |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vathada/meta-analysis.md"
 
 **Optimal Timing:** Morning with warm milk for Medhya (cognitive) effect; soaked almonds (overnight) eaten first thing in morning; oil at bedtime with milk for Vata-pacifying action
 
-**Storage:** Kernels and powder in airtight containers at 15-25 deg C; refrigeration (2-8 deg C) extends shelf life. Oil in dark glass bottles, protect from light and heat. Include allergen warning: CONTAINS TREE NUTS.
+**Storage:** Kernels and powder in airtight containers at 15-25 deg C; refrigeration (2-8 deg C) extends shelf life. Oil in dark glass bottles, protect from light and heat. Allergen: contains tree nuts.
 
 **Marker Compounds:** alpha-Tocopherol, Oleic acid, Linoleic acid, Palmitic acid, [Amygdalin](/glossary/compounds-1-a/#amygdalin) (absent/trace in sweet variety), [Catechin](/reference/catechin/) (skin), [Epicatechin](/glossary/compounds-d-g/#epicatechin) (skin), [Kaempferol](/reference/kaempferol/), [Phytosterols](/glossary/compounds-o-q/#phytosterols)
 

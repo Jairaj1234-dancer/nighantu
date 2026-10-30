@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Narikela/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Narikela |
+| English | Coconut |
 | Latin/Botanical | *Cocos nucifera L.* |
 
 ## Key Phytochemical Constituents

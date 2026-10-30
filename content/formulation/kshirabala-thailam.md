@@ -63,7 +63,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Dosage Forms:** Thailam (medicated oil for external/internal use), Capsules (modern), Nasal drops (for Nasya)
 
-**Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India, Part I, entry 8:11 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
+**Standard Dosage:** External: sufficient for Abhyanga. Internal: 5-15 mL with warm milk. Nasya: 2-6 drops per nostril. The Ayurvedic Formulary of India, Part I, entry 8:11 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the oil's density. The formulary's anupana: milk, warm water. The formulary attributes this formula to Astangahrdaya, Vataraktacikitsa, Adhyaya 22; 44.
 
 **Optimal Timing:** External: morning Abhyanga. Internal: before meals or bedtime. Nasya: morning on empty stomach.
 

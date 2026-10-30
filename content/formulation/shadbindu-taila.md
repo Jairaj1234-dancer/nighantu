@@ -47,7 +47,7 @@ Ashtanga Hridayam (Sutrasthana); also referenced in Sharangadhara Samhita. The n
 ## What do recent studies show?
 
 - Shailajan S, Menon SN, Tiwari BR and others 2013. [Standardization of Shadbindu Taila: An Ayurvedic oil based medicine](https://pubmed.ncbi.nlm.nih.gov/24049414/). *Ayu*. PMID [24049414](https://pubmed.ncbi.nlm.nih.gov/24049414/) · [doi:10.4103/0974-8520.115442](https://doi.org/10.4103/0974-8520.115442)  
-  Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed indicating therapeutic compounds, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
+  Published in PMC, the study performed physicochemical, phytochemical, and HPTLC analysis. Five major spots were observed in the HPTLC fingerprint, with kaempferol detected and identity confirmed. Oil was found free of heavy metals and non-irritant on rabbit skin.
 
 *Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

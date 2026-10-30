@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Pudina/meta-analysi
 
 | Language | Name |
 |----------|------|
-| English | Pudina |
+| English | Spearmint |
+| Hindi | Pudina |
 | Latin/Botanical | *Mentha spicata* |
 
 ## Key Phytochemical Constituents

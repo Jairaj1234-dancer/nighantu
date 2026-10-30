@@ -33,7 +33,7 @@ srcRel: "_Hub/Cross-Tradition/Antiinflammatory--Pain-Across-Traditions.md"
 - [Gambhari Phala](/herb/gambhari-phala/) *Gmelina arborea Roxb.*
   Actions: Antioxidant, Galactagogue, Wound Healing
 - [Kushmanda](/herb/kushmanda/) *Benincasa hispida (Thunb.) Cogn.*
-  Actions: Antioxidant, Nootropic, Medhya (Nootropic)
+  Actions: Antioxidant, Medhya (Nootropic)
 - [Kharjura](/herb/kharjura/) *Phoenix dactylifera L.*
   Actions: Antioxidant, Anticancer, Aphrodisiac
 - [Akhuparni](/herb/akhuparni/) *Ipomoea reniformis Choisy (syn. Merremia emarginata (Burm.f.) Hallier f.)*

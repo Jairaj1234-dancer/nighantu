@@ -66,8 +66,6 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Mahalakshmi-Vilas-
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Optimal Timing:** With honey and Adrak Swarasa ([ginger](/herb/ginger/) juice)
-
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Mica-derived oxides, Tin oxide, [Pippali](/herb/pippali/) [alkaloids](/glossary/compounds-1-a/#alkaloids)

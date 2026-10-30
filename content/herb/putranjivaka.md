@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Putranjivaka/meta-analysis.md
 
 **Storage:** Seeds: cool, dry, pest-proof storage, below 20 deg C. Powder and extracts: airtight, below 25 deg C, RH <55%. Ghrita: clean, dry glass containers, below 30 deg C, protect from moisture.
 
-**Marker Compounds:** Glucosinolates (as glucococlearin), Putranjivic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Oleic acid, Triterpenoid saponins, [Friedelin](/glossary/compounds-d-g/#friedelin)
+**Marker Compounds:** Glucosinolates (as glucocochlearin), Putranjivic acid, Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol), [Stigmasterol](/reference/stigmasterol/), Oleic acid, Triterpenoid saponins, [Friedelin](/glossary/compounds-d-g/#friedelin)
 
 ### Synergistic Combinations
 

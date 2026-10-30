@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Bimbi/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Bimbi |
+| English | Ivy gourd |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

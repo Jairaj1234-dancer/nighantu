@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Tulsi/meta-analysis.md"
 - Metabolic regulation: Modulates [glucose](/glossary/compounds-d-g/#glucose) and lipid metabolism through AMPK activation and HMG-CoA reductase inhibition.
 - Multi-pathway pharmacology: Alters functionality of NF-kB, ERK, p38, and MAPK pathways.
 - Antimicrobial: Unsaturated fatty acids (linoleic and linolenic acid) destabilize microbial membranes by interfering with electron transport chain.
-- [Adaptogenic](/reference/adaptogenic/): Modulates cortisol and stress-response hormones including salivary amylase.
+- [Adaptogenic](/reference/adaptogenic/): Modulates cortisol and stress markers such as salivary amylase.
 - Antiviral: Eugenol inhibits SARS-CoV-2 spike protein interaction with ACE2.
 
 ## How is it used traditionally?

@@ -38,7 +38,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima/meta-analysis.md"
 
 **Dosage Forms:** Swarasa (fresh juice), Churna (seed/peel powder), Capsule, Tablet, Arishta (Dadimarishtam), Avaleha (Dadimavaleha), Extract concentrate
 
-**Standard Dosage:** 30-60ml fresh juice; 3-6g peel powder twice daily; 500mg-1g extract capsule; 15-30ml Dadimarishta; 10-20g Dadimavaleha. Seed, juice, peel, and flower all used for different indications.
+**Standard Dosage:** 30-60ml fresh juice; 3-6g peel powder twice daily; 500mg-1g extract capsule; 15-30ml Dadimarishta; 10-20g Dadimavaleha.
 
 **Optimal Timing:** Fresh juice anytime, preferably morning; peel powder traditionally taken before meals in digestive and diarrhea use; Dadimarishta after meals; Dadimavaleha between meals as tonic
 

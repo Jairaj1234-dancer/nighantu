@@ -37,7 +37,7 @@ The verse specifies a form and a vehicle for each. It does not state a weight, a
 
 ## What is used
 
-Brāhmī, yaṣṭīmadhu, śaṅkhapuṣpī and guḍūcī. The first of these is written as brāhmī in the record's dravya list and glossed as maṇḍūkaparṇī in its steps; maṇḍūkaparṇī is the name Caraka's verse uses. Since those names are not applied consistently to a single plant across sources, it is worth confirming which botanical any given preparation actually contains.
+Brāhmī, yaṣṭīmadhu, śaṅkhapuṣpī and guḍūcī. The first of these is called brāhmī in one part of the record and maṇḍūkaparṇī in another; maṇḍūkaparṇī is the name Caraka's verse uses. Since those names are not applied consistently to a single plant across sources, it is worth confirming which botanical any given preparation actually contains.
 
 ## What it involves
 

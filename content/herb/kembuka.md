@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Anti-inflammatory-Pain/Kembuka/meta-analysi
 
 | Language | Name |
 |----------|------|
-| English | Kembuka |
+| Sanskrit | Kembuka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

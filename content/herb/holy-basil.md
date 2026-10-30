@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Holy_Basil/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Holy_Basil |
+| English | Holy Basil |
 
 ## Dosage forms and preparation
 

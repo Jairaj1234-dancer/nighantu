@@ -91,4 +91,4 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Souvarchala-Lavana/meta-analysis.
 
 **Marker Compounds:** Sodium chloride, Sodium sulfate, Iron sulfide, Hydrogen sulfide (responsible for smell), Trace minerals
 
-**Vehicle (Anupana):** Part of Pachana (digestive) formulations; Hingvastak Churna, Lavana Bhaskar Churna
+**Used in formulations:** Part of Pachana (digestive) formulations; Hingvastak Churna, Lavana Bhaskar Churna

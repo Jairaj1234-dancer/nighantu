@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Indravaruni/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Indravaruni |
+| English | Bitter apple, Colocynth |
 | Latin/Botanical | *Citrullus colocynthis (L.) Schrad.* |
 
 ## Key Phytochemical Constituents

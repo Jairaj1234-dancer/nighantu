@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Fever-Infection"
-answer: "Saptaparna (Alstonia scholaris) is a plant drug, also called Saptacchada, Saptahva and Saptaparni. Alkaloids are basic and well-absorbed in the alkaline environment of the small intestine. Extensive hepatic metabolism via CYP3A4 and CYP2D6. Tannins in the bark may partially inhibit alkaloid absorption if not separated."
+answer: "Saptaparna (Alstonia scholaris) is a plant drug, also called Saptacchada, Saptahva and Saptaparni."
 botanical: "Alstonia scholaris"
 family: "Apocynaceae"
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Saptaparna/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Saptaparna |
+| English | Devil's tree (Dita) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

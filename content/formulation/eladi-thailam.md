@@ -87,7 +87,7 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 **Storage:** Store in amber glass bottles in a cool, dry place. Temperature not exceeding 25°C. Protect from light.
 
-**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Alpha-santalol (from [Chandana](/herb/chandana/) if included), Agarospirol (from Agaru)
+**Marker Compounds:** 1,8-Cineole, Alpha-terpinyl acetate, [Linalool](/glossary/compounds-l-o/#linalool), Alpha-santalol (from [Chandana](/herb/chandana/)), Agarospirol (from Agaru)
 
 **Vehicle (Anupana):** Not applicable, external use only
 
@@ -95,5 +95,4 @@ Sahasrayogam (Taila Prakarana), specifically referencing the Eladi Gana - a trad
 
 - [Kumkumadi Thailam](/formulation/kumkumadi-thailam/)
 - Nalpamaradi Thailam
-- Eladi Keram ([coconut oil](/glossary/concepts-a-m/#coconut-oil) variant)
 - Chandanadi Thailam

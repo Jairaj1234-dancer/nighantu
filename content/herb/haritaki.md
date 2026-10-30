@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Haritaki/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Haritaki |
+| English | Myrobalan |
 
 ## How does it work?
 

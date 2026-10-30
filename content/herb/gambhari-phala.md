@@ -30,7 +30,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gambhari-Phala/meta-analysis.
 
 - Butyric acid
 - Tartaric acid
-- Arboreal
+- Arboreol
 - [Verbascoside](/glossary/compounds-t-z/#verbascoside)
 - Gmelinol
 - Isoarboreol

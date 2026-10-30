@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Lavanga/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Lavanga |
+| English | Clove |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

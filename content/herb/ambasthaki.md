@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- Pareirarine (new isoquinoline alkaloid)
+- Pareirarine (isoquinoline alkaloid)
 - [Magnoflorine](/glossary/compounds-l-o/#magnoflorine)
 - Magnocurarine
 - Salutaridine
@@ -76,7 +76,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ambasthaki/meta-analysis.md"
 - Magnocurarine
 - Salutaridine
 - Cissamine and hayatinine
-- 
 
 ## Dosage forms and preparation
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Joint-Musculoskeletal/Latakaranja/meta-anal
 
 | Language | Name |
 |----------|------|
-| English | Latakaranja |
+| Sanskrit | Latakaranja |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -59,8 +59,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Kaharuba-Pishti/meta
 
 **Standard Dosage:** 125–250 mg
 
-**Optimal Timing:** With honey or Arq Gulab
-
 **Storage:** Airtight container
 
 **Marker Compounds:** Succinic acid, Fossil resin compounds, Trace minerals

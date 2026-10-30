@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Phala-Ghr
 
 | Language | Name |
 |----------|------|
-| English | Phala Ghrita Phala Kalyana Ghrita |
+| English | Phala Ghrita; Phala Kalyana Ghrita |
 
 ## Where is it described in the classical texts?
 
@@ -63,7 +63,7 @@ Ashtanga Hridayam by Acharya Vagbhata (for genital and reproductive disorders); 
 
 **Dosage Forms:** Ghrita (medicated ghee), Capsule (for convenience)
 
-**Standard Dosage:** 12-24ml for reproductive health. The Ayurvedic Formulary of India, Part I, entry 6:30 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½.
+**Standard Dosage:** 12-24ml for reproductive health. The Ayurvedic Formulary of India, Part I, entry 6:30 states a dose of 12 g; that is a different unit from the figure above and the two cannot be compared without knowing the ghee's density. The formulary's anupana: warm water. The formulary attributes this formula to Astangahrdaya, Uttarasthana, Adhyaya 34; 63-64½.
 
 **Optimal Timing:** Before meals on empty stomach for best absorption
 

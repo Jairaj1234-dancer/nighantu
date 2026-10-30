@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Draksha/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Draksha |
+| English | Grape, Raisin |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

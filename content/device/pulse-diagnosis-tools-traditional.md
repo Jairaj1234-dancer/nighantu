@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Medical-Devices"
 subcategory: "Diagnostic-Instruments"
 group: "Pulse-Diagnosis-Tools-Traditional"
-answer: "Pulse Diagnosis Tools Traditional (Sanskrit: Nadi Pariksha Yantra (Traditional)) is an instrument used in diagnostic instruments. In traditional Ayurvedic practice, Nadi Pariksha (pulse examination) is performed using the physician's three fingers (index, middle, ring) placed on the radial artery at the wrist. There is no traditional 'device' per se - the physician's trained fingers are the instrument."
+answer: "Pulse Diagnosis Tools Traditional (Sanskrit: Nadi Pariksha Yantra (Traditional)) refers to the means of performing pulse examination in Ayurvedic diagnosis. In traditional Ayurvedic practice, Nadi Pariksha (pulse examination) is performed using the physician's three fingers (index, middle, ring) placed on the radial artery at the wrist. There is no traditional 'device' per se - the physician's trained fingers are the instrument."
 botanical: ""
 family: ""
 sanskrit: "Nadi Pariksha Yantra (Traditional)"
@@ -43,6 +43,6 @@ Assessment of Tridosha (Vata-Pitta-Kapha) balance and imbalance through pulse qu
 
 ## Regulatory status
 
-- **India (CDSCO):** Traditional method requires no device regulation. Modern pulse diagnostic devices (see Nadi Tarangini below) are subject to CDSCO classification.
+- **India (CDSCO):** Traditional method requires no device regulation. Modern pulse diagnostic devices are subject to CDSCO classification.
 - **US (FDA):** Traditional method not applicable. Modern sensor-based devices would require FDA classification.
 - **EU (MDR):** Traditional method not applicable.

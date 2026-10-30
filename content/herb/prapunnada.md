@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Prapunnada/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Prapunnada |
+| Sanskrit | Prapunnada |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

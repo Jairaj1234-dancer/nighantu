@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Patala/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Patala |
+| Sanskrit | Patala |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

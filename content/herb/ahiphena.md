@@ -62,7 +62,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Ahiphena/meta-analysis
 
 **Storage:** Locked, secure storage as per narcotic regulations. Double-lock system required. Temperature-controlled (15-25°C). Detailed inventory and access logs mandatory.
 
-**Marker Compounds:** Morphine, Codeine, Thebaine, Papaverine, Noscapine, Narcotine
+**Marker Compounds:** Morphine, Codeine, Thebaine, Papaverine, Noscapine (narcotine)
 
 ### Synergistic Combinations
 

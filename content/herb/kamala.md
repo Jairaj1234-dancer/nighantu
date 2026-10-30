@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kamala |
+| English | Lotus |
 | Latin/Botanical | *Nelumbo nucifera Gaertn.* |
 
 ## Key Phytochemical Constituents
@@ -75,7 +75,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kamala/meta-analysis.md"
 - Nuciferine
 - Kaempferol
 - Flavonoids
-- Quercetin
 - Quercetin
 - Anthocyanins
 

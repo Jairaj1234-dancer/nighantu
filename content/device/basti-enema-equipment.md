@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Medical-Devices"
 subcategory: "Panchakarma-Equipment"
 group: "Basti-Enema-Equipment"
-answer: "Basti Enema Equipment (Sanskrit: Basti Yantra) is an instrument used in panchakarma equipment. Traditional enema apparatus consisting of a bladder-like bag (Basti Putaka, made from animal bladder or leather) attached to a tube (Basti Netra, made from metal). Used to administer medicated decoctions (Niruha Basti) or oils (Anuvasana Basti) rectally."
+answer: "Basti Enema Equipment (Sanskrit: Basti Yantra) is an instrument used in panchakarma therapy. Traditional enema apparatus consisting of a bladder-like bag (Basti Putaka, made from animal bladder or leather) attached to a tube (Basti Netra, a nozzle usually of metal). Used to administer medicated decoctions (Niruha Basti) or oils (Anuvasana Basti) rectally."
 botanical: ""
 family: ""
 sanskrit: "Basti Yantra"
@@ -19,7 +19,7 @@ productHints: []
 words: 181
 srcRel: "Ayurveda/Medical-Devices/Panchakarma-Equipment/Basti-Enema-Equipment/device-info.md"
 ---
-Traditional enema apparatus consisting of a bladder-like bag (Basti Putaka, made from animal bladder or leather) attached to a tube (Basti Netra, made from metal). Used to administer medicated decoctions (Niruha Basti) or oils (Anuvasana Basti) rectally.
+Traditional enema apparatus consisting of a bladder-like bag (Basti Putaka, made from animal bladder or leather) attached to a tube (Basti Netra, a nozzle usually of metal). Used to administer medicated decoctions (Niruha Basti) or oils (Anuvasana Basti) rectally.
 
 ## Where is it described in the classical texts?
 

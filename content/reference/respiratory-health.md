@@ -40,7 +40,6 @@ srcRel: "_Hub/Body-Systems/Respiratory-Health.md"
 - [Black Pepper](/herb/black-pepper/), *Piper nigrum* (Antioxidant)
 - [Brihati](/herb/brihati/), *Solanum indicum L.* (Antioxidant, Anticancer, Bronchodilator)
 - [Brihatyadi Kashayam](/formulation/brihatyadi-kashayam/) (Antioxidant, Expectorant, Anti-inflammatory)
-- [Bruhati](/herb/brihati/)
 - [Camphor](/herb/camphor/) (Analgesic, Anti-inflammatory)
 - [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.* (Antioxidant, Galactagogue, Antidiabetic)
 - [Chitrakaharitaki](/herb/chitrakaharitaki/), *Polyherbal formulation: Plumbago zeylanica ([Chitrak](/herb/chitrak/)) + Terminalia chebula ([Haritaki](/herb/haritaki/)) as principal herbs* (Bronchodilator, Laxative, Expectorant)

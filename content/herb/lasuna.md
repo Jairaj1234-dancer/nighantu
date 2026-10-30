@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Lasuna/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Lasuna |
+| English | Garlic |
 | Latin/Botanical | *Allium sativum L.* |
 
 ## Key Phytochemical Constituents

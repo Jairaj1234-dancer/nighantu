@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Heart-Circulation/Arjuna/meta-analysis.md"
 
 ## How does it work?
 
-- Arjunolic acid (pentacyclic triterpenoid saponin) is the primary [cardioprotective](/reference/cardioprotective/) compound, inhibiting thrombin-induced platelet aggregation (IC50: 0.048 mM, more potent than aspirin at 0.088 mM)
+- Arjunolic acid (pentacyclic triterpenoid) is the primary [cardioprotective](/reference/cardioprotective/) compound, inhibiting thrombin-induced platelet aggregation (IC50: 0.048 mM, more potent than aspirin at 0.088 mM)
 - Prevents doxorubicin-induced cardiac apoptosis by blocking JNK-p38 and p53 signaling pathways
 - Reverses cardiac fibrosis by inhibiting non-canonical TGF-beta signaling via TAK1 phosphorylation blockade, reducing p38 MAPK and NF-kB p65 activation
 - Boosts endogenous antioxidant defense: increases catalase, superoxide dismutase, and glutathione S-transferase activity
@@ -126,7 +126,6 @@ Bark powder at the dose given under Standard Dosage (with milk or water); Ksheer
 - Arjunolic acid
 - Arjunic acid
 - Arjungenin
-- 
 
 ## Dosage forms and preparation
 

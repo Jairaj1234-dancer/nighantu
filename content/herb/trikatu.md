@@ -83,7 +83,6 @@ Powder: at the dose given under Standard Dosage, before meals with honey
 - Piperine
 - Gingerols
 - Shogaols
-- Ginger
 
 ## Dosage forms and preparation
 

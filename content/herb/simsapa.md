@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Simsapa/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Simsapa |
+| English | Sissoo Tree |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

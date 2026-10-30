@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kampillaka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kampillaka |
+| Sanskrit | Kampillaka |
 | Latin/Botanical | *Mallotus philippensis (Lam.) Mull. Arg.* |
 
 ## Key Phytochemical Constituents

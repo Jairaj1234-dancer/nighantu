@@ -80,13 +80,11 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Devadaru/meta-analysis.m
 - Alpha-himachalene
 - Beta-himachalene
 - Gamma-himachalene
-- 
 - Cedrusone A
 - Deodarin
 - Cedeodarin
 - Cedrin
 - Alpha-terpineol
-- 
 - Isopimaric acid
 - Wikstromol 
 

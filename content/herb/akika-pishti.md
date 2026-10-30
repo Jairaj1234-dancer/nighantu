@@ -57,8 +57,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Akika-Pishti/meta-an
 
 **Standard Dosage:** 125–250 mg twice daily
 
-**Optimal Timing:** With honey, cream of milk (Malai), or Gulkand
-
 **Storage:** Airtight container; cool, dry place
 
 **Marker Compounds:** Silicon dioxide (chalcedony), Iron oxide, Trace minerals
