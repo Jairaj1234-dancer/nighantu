@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Moringa (Moringa oleifera) is classified in Ayurveda as Krimighna (Anthelmintic), Shothahara (Anti-inflammatory), from the Moringaceae family. Parts used: leaf, fruit, seed, bark. Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs."
+answer: "Moringa (Moringa oleifera) is classified in Ayurveda as Krimighna (Anthelmintic), Shothahara (Anti-inflammatory), from the Moringaceae family. Parts used: leaf, fruit, seed, bark, root, flower. Not listed in WHO Monographs on Selected Medicinal Plants or EMA-HMPC monographs."
 botanical: "Moringa oleifera"
 family: "Moringaceae"
 sanskrit: ""
@@ -96,7 +96,7 @@ Called 'Shigru' in Ayurveda. Indicated for Shotha (inflammation), Krimi (parasit
 - C Afiaenyi I, K Ngwu E, M Okafor A and others 2025. [Effects of Moringa oleifera leaves on the blood glucose, blood pressure, and lipid profile of type 2 diabetic subjects: A parallel group randomized clinical trial of efficacy](https://pubmed.ncbi.nlm.nih.gov/37229639/). *Nutrition and health*. PMID [37229639](https://pubmed.ncbi.nlm.nih.gov/37229639/) · [doi:10.1177/02601060231176873](https://doi.org/10.1177/02601060231176873)  
   RCT demonstrating Moringa leaves can improve blood glucose, blood pressure, and lipid profiles in type 2 diabetes patients.
 - Mundkar M, Bijalwan A, Soni D and others 2022. [Neuroprotective potential of Moringa oleifera mediated by NF-kB/Nrf2/HO-1 signaling pathway: A review](https://pubmed.ncbi.nlm.nih.gov/36206551/). *Journal of food biochemistry*. PMID [36206551](https://pubmed.ncbi.nlm.nih.gov/36206551/) · [doi:10.1111/jfbc.14451](https://doi.org/10.1111/jfbc.14451)  
-  Review establishing the neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
+  Review describing proposed neuroprotective mechanisms of Moringa through the NF-kB/Nrf2/HO-1 signaling cascade.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

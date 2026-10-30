@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahamanjishthadi/meta-analysi
 - Rubiadin and its [glycosides](/glossary/compounds-g-l/#glycosides) (from [Manjistha](/herb/manjistha/))
 - [Curcumin](/herb/curcumin/) (from [Haridra](/herb/haridra/), if included)
 - Gallic acid and ellagic acid (from [Triphala](/herb/triphala/) components)
-- [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/), if included)
+- [Berberine](/glossary/compounds-a-c/#berberine) (from [Daruharidra](/herb/daruharidra/))
 - [Saponins](/reference/saponins/) (from [Sariva](/herb/sariva/) and other herbs)
 - [Vacha](/herb/vacha/) phenylpropanoids (alpha-asarone, beta-asarone)
 - [Tannins](/reference/tannins/) and [flavonoids](/reference/flavonoids/) from multiple herbal components

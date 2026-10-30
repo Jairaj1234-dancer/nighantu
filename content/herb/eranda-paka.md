@@ -11,7 +11,7 @@ botanical: "Ricinus communis L. (processed castor preparation)"
 family: "Euphorbiaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Castor oil (Oleum Ricini) listed in WHO Model List of Essential Medicines as a laxative; Eranda|Eranda Paka specifically referenced in Ayurvedic Formulary of India; ricin classified as Schedule 1 substance under Chemical Weapons Convention"
+whoStatus: "Castor oil (Oleum Ricini) listed in WHO Model List of Essential Medicines as a laxative; Eranda Paka specifically referenced in Ayurvedic Formulary of India; ricin classified as Schedule 1 substance under Chemical Weapons Convention"
 aliases: ["Eranda Paka", "ErandaPaka", "Ricinus communis L. (processed castor preparation)"]
 tags: ["ayurveda", "herb", "single-herb", "general-herbs", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

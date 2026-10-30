@@ -4,7 +4,7 @@ slug: "mukha-abhyanga-intensive"
 kind: "practice"
 level: "supervised"
 sanskrit: "मुख-अभ्यङ्ग / Mukha-Abhyaṅga"
-answer: "Mukha-Abhyaṅga is massage of the face with warm medicated oil. The record describes a twenty to thirty minute session combining warm taila with work on marma points of the face, done by a trained therapist. Two oils are named: Aṇu Taila and Mahānārāyaṇa Taila."
+answer: "Mukha-Abhyaṅga is massage of the face with warm medicated oil. The record describes a twenty to thirty minute session combining warm taila with work on marma points of the face. Two oils are named: Aṇu Taila and Mahānārāyaṇa Taila."
 classicalSource: "Sahasrayogam (procedure locus unconfirmed)"
 citationVerified: false
 citationNote: "Could not confirm. The record cites Sahasrayogam, which is a Kerala compendium structured as a formulary of formulations rather than a manual of procedures; I found no evidence it describes Mukha-Abhyaṅga. Separately verified and noted in the body: Aṇu Taila, one of the two oils the record names for this facial procedure, is classically a nasal-instillation oil formulated at Aṣṭāṅga Hṛdaya Sūtra 20.37-38."

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Trapusha |
+| English | Cucumber |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 
@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Trapusha/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Svarasa (fresh juice), Churna (seed powder), Capsule, Tablet, Beeja Churna (seed powder)
+**Dosage Forms:** Svarasa (fresh juice), Capsule, Tablet, Beeja Churna (seed powder)
 
 **Standard Dosage:** 50-100 mL fresh cucumber juice twice daily; 3-6 g seed powder twice daily
 

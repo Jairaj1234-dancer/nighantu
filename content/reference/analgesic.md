@@ -44,7 +44,7 @@ srcRel: "_Hub/Pharmacology/Analgesic.md"
 - [Camphor](/herb/camphor/)
 - [Chandrashura](/herb/chandrashura/), *Lepidium sativum L.*
 - [Dashamoola](/herb/dashamoola/), *Compound: 10 roots (5 large trees + 5 small plants)*
-- [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
+- [Dashmoolarishta](/formulation/dashmool-dashmoolarishta/)
 - [Devadaru](/herb/devadaru/), *Cedrus deodara (Roxb. ex D.Don) G.Don*
 - [Dhamasa](/herb/dhamasa/), *Fagonia cretica L. / Fagonia arabica L.*
 - [Dhanwantaram Thailam](/formulation/dhanwantaram-thailam/)

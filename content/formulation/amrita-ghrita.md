@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Amrita-Gh
 
 | Language | Name |
 |----------|------|
-| English | Amrita Ghrita [Amritaprasha Ghrita](/formulation/amritaprasha-ghrita/) |
+| English | Amrita Ghrita |
 
 ## Where is it described in the classical texts?
 
@@ -62,7 +62,7 @@ Cakradatta, Amavatacikitsa 58 (Amrita Ghrita; Ayurvedic Formulary of India, Part
 
 **Standard Dosage:** 6-12 g (1-2 teaspoons) twice daily. The Ayurvedic Formulary of India attributes this formula to Cakradatta, Amavatacikitsa; 58.
 
-**Optimal Timing:** On empty stomach in the morning, or as directed by physician
+**Optimal Timing:** On empty stomach, or as directed by physician
 
 **Storage:** Store in airtight glass or tin-coated containers in a cool, dry place. Protect from moisture and light. Temperature not exceeding 25°C. Ghrita preparations are sensitive to oxidation.
 

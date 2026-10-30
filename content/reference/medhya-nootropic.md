@@ -33,9 +33,8 @@ srcRel: "_Hub/Pharmacology/Medhya-Nootropic.md"
 - [Chyawanprash](/formulation/chyawanprash/)
 - [Gambhari Phala](/herb/gambhari-phala/), *Gmelina arborea Roxb.*
 - [Ghrita](/herb/ghrita/)
-- [Giloy](/herb/guduchi/), *Tinospora cordifolia*
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)*
-- [Guduchi](/herb/guduchi/), *Tinospora cordifolia*
+- [Guduchi (Giloy)](/herb/guduchi/), *Tinospora cordifolia*
 - [Jatamansi](/herb/jatamansi/)
 - [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/)
 - [Kalyanaka Ghritam](/formulation/kalyanaka-ghritam/)

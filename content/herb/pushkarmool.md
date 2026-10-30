@@ -70,11 +70,10 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Pushkarmool/meta-analysis.md"
 - Alantolactone
 - Isoalantolactone
 - Inulin
-- Sitosterol
+- Beta-sitosterol
 - Daucosterol
 - Roylene
 - Dihydroisoalantolactone
-- Beta-
 - Inulicin
 
 ## Dosage forms and preparation

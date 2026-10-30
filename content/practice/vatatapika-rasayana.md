@@ -48,7 +48,7 @@ These are practice-tradition choices rather than the ones the cited chapters for
 
 ## Who it is for and who should avoid it
 
-Both cited chapters gate rasāyana behind conditions, and they are the reason this sits at supervised level.
+Both cited chapters gate rasāyana behind conditions, and they are the reason this is a practitioner-supervised procedure.
 
 Caraka Cikitsā 1.1 states that the person should first be cleansed by pañcakarma, and that rejuvenation therapy is administered afterwards, once he is happy and has regained his strength. Suśruta Cikitsā 27 is blunter still: it is not beneficial to give rasāyana to a person who has not been purified, and the chapter's image is that rasāyana will not bestow good qualities on an unpurified person just as a dirty canvas does not catch colour. The same chapter restricts rasāyana to young and middle-aged persons.
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bitter_Gourd_Herb/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Bitter_Gourd_Herb |
+| English | Bitter Gourd Herb |
 
 ## Dosage forms and preparation
 

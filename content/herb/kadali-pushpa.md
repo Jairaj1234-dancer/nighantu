@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kadali-Pushpa/meta-analysis.m
 
 ## How does it work?
 
-- Anthocyanins (cyanidin, delphinidin) inhibit neutrophil activation through downregulation of TLR4/NF-kB signaling, reducing reactive oxygen species generation and inflammatory cytokine release
+- Inflorescence extract has been reported to reduce neutrophil activation through downregulation of TLR4/NF-kB signaling in an animal model of acute lung injury
 - [Quercetin](/reference/quercetinquercetin/) and myricetin have been reported to inhibit adipogenesis through suppression of PPAR-gamma and C/EBP-alpha transcription factors in preadipocytes
 - Saponins and tannins have been reported to inhibit alpha-amylase and alpha-glucosidase [enzymes](/glossary/compounds-d-g/#enzymes) in the digestive tract
 

@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Jahar-Mohra-Pishti/m
 
 **Standard Dosage:** 125–250 mg
 
-**Optimal Timing:** With honey or Gulkand
-
 **Storage:** Airtight container
 
 **Marker Compounds:** Magnesium silicate (serpentine), Calcium, Iron, Trace minerals

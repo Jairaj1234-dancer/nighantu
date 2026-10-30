@@ -101,7 +101,7 @@ Classified as Balya (strength-promoting), Brimhana (nourishing), and Rasayana (r
 
 - Generally well tolerated for up to 3 months; long-term safety data lacking.
 - Common side effects (>5%): somnolence, epigastric pain/discomfort, loose stools.
-- Less common: giddiness, drowsiness, vertigo, nausea, constipation, dry mouth, hyperacidity, skin rash.
+- Less common: giddiness, vertigo, nausea, constipation, dry mouth, hyperacidity, skin rash.
 - Hepatotoxicity: Rare reports of liver injury reported to regulatory agencies; mechanism unclear.
 - Drug interactions: May enhance effects of sedatives, benzodiazepines, barbiturates, and anticonvulsants due to synergistic properties.
 - Interaction with SSRIs: Sertraline combination may cause severe diarrhea; escitalopram combination linked to myalgia, nausea, restless legs syndrome.

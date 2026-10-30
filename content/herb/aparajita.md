@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aparajita/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Aparajita |
+| English | Butterfly pea |
 | Latin/Botanical | *Clitoria ternatea L.* |
 
 ## Key Phytochemical Constituents

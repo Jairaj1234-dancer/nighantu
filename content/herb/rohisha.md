@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Rohisha/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Rohisha |
+| Sanskrit | Rohisha |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

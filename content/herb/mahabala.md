@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahabala/meta-analysis.md"
 
 ## Recent safety updates
 
-- Contains ephedrine-type alkaloids; prolonged use or high doses may cause cardiovascular stimulation (increased heart rate, blood pressure); should be used cautiously in patients with hypertension or cardiac conditions
+- May contain ephedrine-type alkaloids (trace, species-dependent); prolonged use or high doses may cause cardiovascular stimulation (increased heart rate, blood pressure); should be used cautiously in patients with hypertension or cardiac conditions
 - 28-day toxicity study showed safety at moderate doses in rats; however, regulatory concerns exist in some countries regarding ephedrine-containing plants
 
 ## What is it made of?

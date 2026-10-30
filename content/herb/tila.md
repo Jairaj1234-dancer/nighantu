@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Tila/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Tila |
+| English | Sesame |
 | Latin/Botanical | *Sesamum indicum L.* |
 
 ## Key Phytochemical Constituents

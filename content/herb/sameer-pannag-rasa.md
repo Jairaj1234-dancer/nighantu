@@ -57,7 +57,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Sameer-Pannag-Rasa
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Mercury-based preparation (Parada) with herbal processing
+- **Primary component:** Mercury- and arsenic-based preparation (Parada with arsenicals) with herbal processing
 - **Note:** Restricted use, requires strict Shodhana protocols and expert supervision
 
 ## Dosage forms and preparation

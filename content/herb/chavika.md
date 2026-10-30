@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavika/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Chavika |
+| Sanskrit | Chavika |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

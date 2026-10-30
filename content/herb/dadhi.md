@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Others/Animal-Derived-Products/Dadhi/meta-analysis.md"
 
 - Ayurvedic restriction against nighttime consumption: classical practice advises against eating it at night. Its heavy, sour, and hot properties are said to increase Kapha at night, and are described as possibly aggravating acid reflux and disturbing sleep.
 - Regular excessive consumption may aggravate Rakta (blood) disorders, skin diseases, and Kapha conditions per Ayurvedic texts; modern evidence links excess dairy to acne in susceptible individuals
-- Contraindicated in Hematemesis (Raktapitta), bleeding disorders, and during fever according to Ayurvedic texts
+- Contraindicated in Raktapitta (bleeding disorders) and during fever according to Ayurvedic texts
 - Lactose intolerant individuals may tolerate yogurt better than milk due to bacterial lactase, but sensitivity varies
 
 ## What is it made of?

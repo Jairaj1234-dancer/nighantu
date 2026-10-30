@@ -82,7 +82,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Vrikshamla/meta-analysis
 - Cyanidin-3-sambubioside
 - Cyanidin-3-glucoside 
 - Hydroxycitric acid lactone
-- 
 - Cambogic acid
 - Xanthochymol
 - Kokum butter 

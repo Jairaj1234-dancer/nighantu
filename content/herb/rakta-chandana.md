@@ -70,7 +70,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Rakta-Chandana/meta-analysis.md
 ### Key Active Markers
 
 - Pterostilbene
-- Antioxidant
 - Betulin
 - Isoflavonoids
 - Sitosterol

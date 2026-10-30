@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Naga-Bhasma/meta-ana
 
 | Language | Name |
 |----------|------|
-| English | Naga_Bhasma |
+| English | Naga Bhasma |
 
 ## Key Phytochemical Constituents
 

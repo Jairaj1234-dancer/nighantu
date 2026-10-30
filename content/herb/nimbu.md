@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nimbu |
+| English | Lemon |
 | Latin/Botanical | *Citrus limon (L.) Osbeck* |
 
 ## Key Phytochemical Constituents
@@ -83,7 +83,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Nimbu/meta-analysis.md"
 - Quercetin
 - Diosmin
 - Eriocitrin
-- 
 - Ascorbic acid 
 
 ## Dosage forms and preparation

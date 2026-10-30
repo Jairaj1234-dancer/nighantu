@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Bijapura/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Bijapura |
+| English | Citron |
 | Latin/Botanical | *Citrus medica L.* |
 
 ## Key Phytochemical Constituents

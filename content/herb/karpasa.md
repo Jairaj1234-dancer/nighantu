@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Karpasa/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Karpasa |
+| English | Cotton plant |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

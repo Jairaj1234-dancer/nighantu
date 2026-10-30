@@ -7,7 +7,7 @@ sanskrit: "Bidalaka"
 answer: "Bidalaka is a medicated paste spread over the closed eyelid, one of the netra kriyākalpa procedures of Ayurvedic ophthalmology. The source record describes a cooling paste of Candana or Triphalā applied to the shut lid. It is marked vaidya-only: clinic work, not something to try at home."
 classicalSource: "Śārṅgadhara Saṃhitā, Uttara Khaṇḍa 13 (Netrakarmādi-vidhi), correcting the record's \"Sushruta Uttara 18\""
 citationVerified: false
-citationNote: "The record's citation (Suśruta Uttara-tantra 18) does not cover this procedure: Suśruta's kriyākalpas are five (tarpaṇa, puṭapāka, seka, āścyotana, añjana) and bidalaka is not one of them. Secondary reviews place bidalaka among the seven kriyākalpas of Śārṅgadhara Saṃhitā Uttara Khaṇḍa 13; one source credits Vāgbhaṭa instead. The primary Śārṅgadhara text was not readable in this session, so the corrected citation is left unverified."
+citationNote: "The record's citation (Suśruta Uttara-tantra 18) does not cover this procedure: Suśruta's kriyākalpas are five (tarpaṇa, puṭapāka, seka, āścyotana, añjana) and bidalaka is not one of them. Secondary reviews place bidalaka among the seven kriyākalpas of Śārṅgadhara Saṃhitā Uttara Khaṇḍa 13; one source credits Vāgbhaṭa instead. The primary Śārṅgadhara text has not been checked, so the corrected citation is left unverified."
 dravyas: ["Candana", "Triphalā"]
 dravyasWithoutPages: []
 cautions: ["Not a home procedure. The record marks it vaidya-only and it places material on the eyelid skin next to the ocular surface.", "The classical citation on the source record is wrong, and the corrected one could not be confirmed against a primary text. Ask a practitioner offering bidalaka for their own source.", "The record gives no dose, paste quantity, contact time, frequency or course length. Any such figure quoted elsewhere did not come from this record.", "The record carries no indications, no contraindications and no adverse-event data, so nothing is known here about who should avoid it.", "Anything applied around the eye can reach the ocular surface. Eye symptoms need an eye examination before any procedure is chosen."]
@@ -30,7 +30,7 @@ The source record classifies it as kriyā-bāhya, an external procedure, and glo
 
 The record cites Suśruta Uttara-tantra 18. That chapter is Suśruta's general chapter on ocular measures, but the kriyākalpas Suśruta names are five: tarpaṇa, puṭapāka, seka or pariṣeka, āścyotana and añjana. Bidalaka is not among them.
 
-Secondary reviews consistently attribute bidalaka and piṇḍī to later authors. The most specific attribution found is Śārṅgadhara Saṃhitā, Uttara Khaṇḍa chapter 13 (Netrakarmādi-vidhi), a chapter given over to eye procedures which sets out all seven kriyākalpas including bidalaka; one source instead credits Vāgbhaṭa with adding vidalaka as a sixth. The primary Śārṅgadhara text could not be read in this session, so the corrected citation is recorded as unverified rather than confirmed.
+Secondary reviews consistently attribute bidalaka and piṇḍī to later authors. The most specific attribution found is Śārṅgadhara Saṃhitā, Uttara Khaṇḍa chapter 13 (Netrakarmādi-vidhi), a chapter given over to eye procedures which sets out all seven kriyākalpas including bidalaka; one source instead credits Vāgbhaṭa with adding vidalaka as a sixth. The primary Śārṅgadhara text has not been checked, so the corrected citation is recorded as unverified rather than confirmed.
 
 ## What it involves
 

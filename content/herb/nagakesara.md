@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Womens-Health/Nagakesara/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nagakesara |
+| English | Ceylon Ironwood, Cobra Saffron |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

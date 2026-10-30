@@ -64,7 +64,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 
 ## Recent safety updates
 
-- WHO monograph for Pericarpium Granatum confirmed no genotoxic effects; Cosmetic Ingredient Review Expert Panel (2019) deemed pomegranate-derived ingredients safe for use
+- WHO monograph for Pericarpium Granati confirmed no genotoxic effects; Cosmetic Ingredient Review Expert Panel (2019) deemed pomegranate-derived ingredients safe for use
 - Pelletierine alkaloids in bark/rind can cause nausea, vomiting, and diarrhea at high doses; traditional preparation methods (decoction) help control alkaloid concentration
 - Pomegranate juice/extract may interact with CYP3A4-metabolized drugs (statins, calcium channel blockers) similarly to grapefruit; monitor patients on warfarin for enhanced anticoagulant effects
 
@@ -81,7 +81,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Dadima-Twak/meta-analysis.md"
 - Gallic acid
 - Pelletierine
 - Isopelletierine
-- 
 - Tannic acid
 
 ## Dosage forms and preparation

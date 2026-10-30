@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Indukanth
 
 ## Where is it described in the classical texts?
 
-Sahasrayogam (ancient classical Ayurvedic text from Kerala tradition); mentioned in traditional Malayalam Ayurvedic compendiums
+Sahasrayogam (traditional Kerala compendium of formulations); mentioned in traditional Malayalam Ayurvedic compendiums
 
 ## How does it work?
 

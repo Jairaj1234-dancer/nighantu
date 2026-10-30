@@ -26,7 +26,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Saffron/meta-analysis.
 | English | Saffron |
 | Common Names | Saffron, Kesar |
 | Hindi | Kesar, Zafran |
-| Sanskrit | Kumkuma, Kashmirajanna |
+| Sanskrit | Kumkuma, Kashmirajanma |
 | Latin/Botanical | *Crocus sativus* |
 
 ## Parts Used
@@ -90,8 +90,7 @@ Most precious spice in Ayurveda. Used for Varnya (complexion), Vishodhan (purifi
 **Journal:** Journal of attention disorders (2024)
 **PMID:** 37864351
 
-> BACKGROUND AND AIM: 
-METHOD: This study includes clinical trial studies that assessed the efficacy and/or safety of saffron in ADHD patients. Non-English papers, review articles, commentaries, letters, observational studies, thesis, animal studies, in-vitro studies, and conference abstracts were not included. The risk of bias in randomized studies was evaluated based on the Cochrane RoB.2, and risk of bias in pre-post intervention studies was assessed using the ROBINS-I tool.
+> METHOD: This study includes clinical trial studies that assessed the efficacy and/or safety of saffron in ADHD patients. Non-English papers, review articles, commentaries, letters, observational studies, thesis, animal studies, in-vitro studies, and conference abstracts were not included. The risk of bias in randomized studies was evaluated based on the Cochrane RoB.2, and risk of bias in pre-post intervention studies was assessed using the ROBINS-I tool.
 RESULTS: Four studies met our inclusion criteria with a total of 118 patients. The results manifested an efficient role of saffron as either an adjuvant therapy to MPH or a single therapy against ADHD, without significant safety issues.
 DISCUSSION: Saffron demonstrates promise in improving ADHD symptoms, with an accep...
 
@@ -208,7 +207,6 @@ Stigma: 20-30mg/day (do not exceed 1.5g/day, the reported upper safety limit); W
 
 - Crocetin
 - Crocin
-- 
 - Safranal
 - Picrocrocin
 

@@ -31,7 +31,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kasamarda/meta-analysis.md"
 - [Anthraquinones](/glossary/compounds-1-a/#anthraquinones) ([chrysophanol](/glossary/compounds-c-d/#chrysophanol), [physcion](/glossary/compounds-o-q/#physcion), [emodin](/glossary/compounds-d-g/#emodin), aloe-emodin)
 - Achrosin (chromone)
 - Cassiollin (unique chromone)
-- Chrysophanic acid
 - Chrysarobin (anthrone)
 - [Chrysoeriol](/glossary/compounds-c-d/#chrysoeriol) (flavone)
 - [Apigenin](/glossary/compounds-1-a/#apigenin) (flavone)

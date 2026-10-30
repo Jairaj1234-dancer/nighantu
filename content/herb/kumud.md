@@ -48,7 +48,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Kumud/meta-analysis.md"
 
 ### Synergistic Combinations
 
-- [Kumuda](/herb/kumuda/) for complementary aquatic plant synergy
 - [Padmaka](/herb/padmaka/) for cardiac support
 - [Chandana](/herb/chandana/) for cooling and Pitta-pacifying formulations
 - [Ushira](/herb/ushira/) for anti-inflammatory combinations

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Vatis-Tablets/Chandraprabha-Vati/
 
 | Language | Name |
 |----------|------|
-| English | [Chandraprabha](/herb/chandraprabha/) Vati |
+| English | Chandraprabha Vati |
 
 ## Where is it described in the classical texts?
 

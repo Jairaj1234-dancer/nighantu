@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Patha (Cissampelos pareira) is a plant drug, also called Ambasthaki, Akanadi and Padh. Alkaloids are lipophilic (log P 2-4) and cross biological membranes readily. First-pass metabolism is moderate; sustained-release formulations may improve therapeutic coverage. Hayatine shows Tmax of 2-3 hours."
+answer: "Patha (Cissampelos pareira) is a plant drug, also called Ambasthaki, Akanadi and Padh."
 botanical: "Cissampelos pareira"
 family: "Menispermaceae"
 sanskrit: ""
@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Patha/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Patha |
+| English | Velvet leaf |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

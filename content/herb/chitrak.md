@@ -39,7 +39,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Chitrak/meta-analysis.md"
 
 ## How does it work?
 
-- NF-kB inhibition: Plumbagin suppresses NF-kB-regulated transcription of pro-inflammatory cytokines (IFN-gamma, IL-6, iNOS).
+- NF-kB inhibition: Plumbagin suppresses NF-kB-regulated transcription of pro-inflammatory mediators (IFN-gamma, IL-6, iNOS).
 - Digestive fire enhancement (Deepana-Pachana): Stimulates gastric secretion and enhances digestive enzyme activity through pungent and hot potency.
 - [Anticancer](/reference/anticancer/) activity: Preclinical studies of plumbagin have reported anti-proliferative, chemopreventive, radiosensitizing, anti-angiogenic, and anti-metastatic activity via multiple signaling pathways.
 - [Antioxidant](/reference/antioxidant/) mechanism: Generates phenoxyl radicals upon reaction with hydroxyl, alkyl peroxyl, and glutathiyl radicals, scavenging reactive oxygen species.

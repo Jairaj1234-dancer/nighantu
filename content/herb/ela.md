@@ -89,7 +89,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Ela/meta-analysis.m
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Churna (seed powder), Essential oil, Tablet, Capsule, [Arka](/herb/arka/) (distillate), Tincture, Confectionery/culinary preparations
+**Dosage Forms:** Churna (seed powder), Essential oil, Tablet, Capsule, Arka (distillate), Tincture, Confectionery/culinary preparations
 
 **Standard Dosage:** 1-3g seed powder twice daily; 500mg extract capsule twice daily; essential oil: 1-2 drops in warm water or carrier; 2-5ml tincture
 

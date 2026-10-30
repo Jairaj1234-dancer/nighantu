@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthneyaka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Sthneyaka |
+| English | Yew (Himalayan yew) |
 | Latin/Botanical | *Taxus baccata L. (possibly Taxus wallichiana Zucc. in Indian context)* |
 
 ## Key Phytochemical Constituents

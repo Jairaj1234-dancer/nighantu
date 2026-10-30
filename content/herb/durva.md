@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Durva/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Durva |
+| Sanskrit | Durva |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

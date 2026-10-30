@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Granthiparni/meta-analys
 
 | Language | Name |
 |----------|------|
-| English | Granthiparni |
+| Sanskrit | Granthiparni |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -73,7 +73,6 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 
 - Crocin
-- Antioxidant
 - Crocetin
 - Safranal
 - Picrocrocin

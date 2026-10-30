@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bhutika/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Bhutika |
+| English | Lemongrass |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -25,5 +25,5 @@ srcRel: "_Hub/Families/Fabaceae.md"
 - [Mashaparni](/herb/mashaparni/), *Teramnus labialis (L.f.) Spreng.* (Antioxidant, Antidiabetic, Rasayana)
 - [Mudgaparni](/herb/mudgaparni/), *Phaseolus trilobus Ait. (syn. Vigna trilobata (L.) Verdc.)* (Antioxidant, Hepatoprotective, Adaptogenic)
 - [Prishniparni](/herb/prishniparni/), *Uraria picta (Jacq.) DC.* (Antioxidant, Anticancer, Wound Healing)
-- Senna Indian Senna, *Cassia angustifolia Vahl (syn. [Senna](/herb/senna/) alexandrina Mill.)* (Antioxidant, Antimicrobial, Laxative)
+- [Senna](/herb/senna/), *Cassia angustifolia Vahl (syn. Senna alexandrina Mill.)* (Antioxidant, Antimicrobial, Laxative)
 - [Shalparni](/herb/shalparni/), *Desmodium gangeticum (L.) DC.* (Antioxidant, Anticancer, Hepatoprotective)

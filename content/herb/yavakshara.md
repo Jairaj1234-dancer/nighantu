@@ -85,6 +85,6 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Yavakshara/meta-analysis.md"
 
 **Storage:** Airtight, moisture-proof container (very hygroscopic)
 
-**Marker Compounds:** Potassium carbonate (primary), Potassium hydroxide, Trace barley minerals
+**Marker Compounds:** Potassium carbonate (primary), Trace barley minerals
 
 **Vehicle (Anupana):** Warm water, buttermilk, or honey

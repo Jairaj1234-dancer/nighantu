@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ashwattha/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | Ashwattha |
+| English | Sacred fig (Pipal tree) |
 | Latin/Botanical | *Ficus religiosa L.* |
 
 ## Key Phytochemical Constituents

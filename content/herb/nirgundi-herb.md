@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nirgundi_Herb/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Nirgundi_Herb |
+| English | Nirgundi Herb |
 
 ## Dosage forms and preparation
 

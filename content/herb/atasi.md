@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Atasi |
+| English | Linseed |
 | Latin/Botanical | *Linum usitatissimum L.* |
 
 ## Key Phytochemical Constituents
@@ -60,7 +60,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Atasi/meta-analysis.md"
 
 ## Recent safety updates
 
-- Generally safe at recommended doses (1-2 tablespoons/day); contains cyanogenic glycosides which are destroyed by cooking; raw flaxseed in large quantities may cause cyanide toxicity
+- Generally safe at recommended doses; contains cyanogenic glycosides which are destroyed by cooking; raw flaxseed in large quantities may cause cyanide toxicity
 - May interact with blood-thinning medications, diabetes drugs, and hormonal therapies due to phytoestrogenic and anticoagulant effects; not recommended in high doses during pregnancy
 - Excessive consumption may cause gastrointestinal bloating, flatulence, and diarrhea; adequate water intake is necessary to prevent intestinal obstruction from mucilage
 

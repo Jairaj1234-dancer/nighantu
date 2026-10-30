@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Mishreya |
+| Sanskrit | Mishreya |
 | Latin/Botanical | *Foeniculum vulgare Mill.* |
 
 ## Key Phytochemical Constituents
@@ -77,7 +77,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mishreya/meta-analysis.md"
 
 **Storage:** Whole seeds in airtight containers at room temperature. Ground powder nitrogen-flushed in foil pouches. Essential oil in amber glass, tightly sealed, below 25 deg C. Saunf Ark refrigerate after opening.
 
-**Marker Compounds:** Trans-anethole, Fenchone, Estragole (controlled), Alpha-pinene, Limonene, Methyl chavicol, Anisaldehyde
+**Marker Compounds:** Trans-anethole, Fenchone, Estragole (controlled), Alpha-pinene, Limonene, Anisaldehyde
 
 ### Synergistic Combinations
 

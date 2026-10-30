@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Gavedhuka/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Gavedhuka |
+| Sanskrit | Gavedhuka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -73,9 +73,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Aragwadha/meta-analysis.md"
 - Catechin
 - Fistulic acid
 - Sennosides A-D
-- 
 - Oxyanthraquinone
-- 
 
 ## Dosage forms and preparation
 

@@ -135,7 +135,7 @@ RESULTS: Both NJ-1A and Nar could significantly suppress LPS-induced production 
 
 ## Recent safety updates
 
-- Generally well-tolerated in clinical trials; no serious adverse effects reported in post-stroke depression RCT after 6 weeks of treatment.
+- UNSOURCED: Generally well-tolerated in clinical trials; no serious adverse effects reported in post-stroke depression RCT after 6 weeks of treatment.
 - One randomized double-blind placebo-controlled study reported benefit and acceptable tolerability when used as an adjuvant to escitalopram (SSRI) in major depressive disorder.
 - Limitations noted: absence of comprehensive toxicology studies using animal models and long-term clinical trials in human subjects.
 - Listed as Critically Endangered on IUCN Red List (A2cd ver 3.1) and CITES Appendix II since 1997 -- sustainability of supply is a concern for commercial use.

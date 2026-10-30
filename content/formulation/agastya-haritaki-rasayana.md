@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Rasayanas-Rejuvenatives/Agastya-H
 
 ## Where is it described in the classical texts?
 
-Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage [Agastya](/herb/agastya/); Rasatarangini (17th century CE)
+Charaka Samhita, Chikitsa Sthana 17th chapter (Kasa Chikitsa: 57-62); Ashtanga Hridayam; attributed to sage Agastya; Rasatarangini (17th century CE)
 
 ## How does it work?
 
