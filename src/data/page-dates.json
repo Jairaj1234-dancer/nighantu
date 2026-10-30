@@ -5462,7 +5462,7 @@
   "practitioners": {
     "hash": "f5703f7eb53ebe82",
     "published": "2026-10-26",
-    "modified": "2026-10-28"
+    "modified": "2026-10-30"
   },
   "practitioners/abdu-rahiman-nagar": {
     "hash": "caa2b5dcfedfb372",
@@ -11395,19 +11395,24 @@
     "modified": "2026-10-28"
   },
   "practitioners/islampur": {
-    "hash": "3abc806fa96e7314",
+    "hash": "c59cf15f5f085d01",
     "published": "2026-10-28",
-    "modified": "2026-10-28"
+    "modified": "2026-10-30"
   },
   "practitioners/islampur/urun-ishwarpur": {
-    "hash": "3abc806fa96e7314",
+    "hash": "c59cf15f5f085d01",
     "published": "2026-10-28",
-    "modified": "2026-10-28"
+    "modified": "2026-10-30"
   },
   "practitioners/islampur/urun-ishwarpur/loknete-rajarambapu-patil-ayurvedic-medical-college-and": {
     "hash": "3abc806fa96e7314",
     "published": "2026-10-28",
     "modified": "2026-10-28"
+  },
+  "practitioners/islampur/urun-ishwarpur/madhavbaug-ayurvedic-clinic-urun-islampur": {
+    "hash": "b9e74e508cc96e49",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
   },
   "practitioners/jabalpur": {
     "hash": "c81908a7f3059bc3",
@@ -17415,9 +17420,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/sangli": {
-    "hash": "672f7d5464724c8d",
+    "hash": "835d4c8fafd9724b",
     "published": "2026-10-28",
-    "modified": "2026-10-28"
+    "modified": "2026-10-30"
   },
   "practitioners/sangli/kala-nagar": {
     "hash": "212a8210e4a162eb",
@@ -17438,6 +17443,16 @@
     "hash": "bbc62dff7d4b9e10",
     "published": "2026-10-28",
     "modified": "2026-10-28"
+  },
+  "practitioners/sangli/st-stand": {
+    "hash": "84ce7c8f43aeeb64",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
+  },
+  "practitioners/sangli/st-stand/madhavbaug-ayurvedic-clinic-st-stand-sangli": {
+    "hash": "84ce7c8f43aeeb64",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
   },
   "practitioners/sangli/vishrambag": {
     "hash": "8d47a002111c3dbc",
@@ -17885,9 +17900,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/state/maharashtra": {
-    "hash": "0bde8ab724c9f928",
+    "hash": "703b329a55dfd874",
     "published": "2026-10-26",
-    "modified": "2026-10-28"
+    "modified": "2026-10-30"
   },
   "practitioners/state/odisha": {
     "hash": "e213a7193f504348",
@@ -19333,6 +19348,21 @@
     "hash": "94d987cf9ac36816",
     "published": "2026-10-27",
     "modified": "2026-10-27"
+  },
+  "practitioners/vita": {
+    "hash": "8bbc9299fab3fa0a",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
+  },
+  "practitioners/vita/mayakka-nagar": {
+    "hash": "8bbc9299fab3fa0a",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
+  },
+  "practitioners/vita/mayakka-nagar/madhavbaug-ayurvedic-clinic-vita": {
+    "hash": "8bbc9299fab3fa0a",
+    "published": "2026-10-30",
+    "modified": "2026-10-30"
   },
   "practitioners/vizhikkithode": {
     "hash": "705ee4a0f628639d",

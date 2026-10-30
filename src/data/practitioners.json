@@ -1,6 +1,6 @@
 {
   "note": "Ayurvedic practices admitted to the directory: each has a named practitioner, a practice name, a full address and a business phone published by the practice itself or an official list, with the source URL of each field. Built from measurement/practitioners/ by scripts/build-practitioners.mjs.",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-30",
   "practices": [
     {
       "practiceName": "Government Ayurveda Dispensary, Mampuram (Abdu Rahiman Nagar Grama Panchayat)",
@@ -30301,6 +30301,41 @@
       "id": "loknete-rajarambapu-patil-ayurvedic-medical-college-and"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Urun Islampur",
+      "practitioners": [
+        {
+          "name": "Dr Jyoti Yogesh Watharkar",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Aadhar Madhavbaug, Aadhar Health Care, Akshar Colony, Road No. 10, Islampur Kameri Road",
+        "locality": "Urun-Ishwarpur",
+        "city": "Islampur",
+        "pin": "415409",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 88662 91212",
+        "+91 88667 91212"
+      ],
+      "website": "https://madhavbaug.org/clinic/urun-islampur",
+      "email": null,
+      "hours": "9:30 AM to 7:00 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/urun-islampur",
+        "practitioners": "https://madhavbaug.org/clinic/urun-islampur",
+        "address": "https://madhavbaug.org/clinic/urun-islampur",
+        "phone": "https://madhavbaug.org/clinic/urun-islampur"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-30",
+      "id": "madhavbaug-ayurvedic-clinic-urun-islampur"
+    },
+    {
       "practiceName": "Govt. Autonomous Ayurveda College & Hospital, Jabalpur",
       "practitioners": [
         {
@@ -58945,6 +58980,41 @@
       "id": "vasantdada-patil-ayurvedic-medical-college-and-institute-of"
     },
     {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, ST Stand, Sangli",
+      "practitioners": [
+        {
+          "name": "Dr Priyanka Nitin Gaikwad",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Dr. P. R. Patil Marg, Near Maratha Samaj Karyalaya, S.T. Stand Road",
+        "locality": "ST Stand",
+        "city": "Sangli",
+        "pin": "416416",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 93708 77295",
+        "+91 95794 40698"
+      ],
+      "website": "https://madhavbaug.org/clinic/st-stand-sangali",
+      "email": null,
+      "hours": "10:00 AM to 7:00 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/st-stand-sangali",
+        "practitioners": "https://madhavbaug.org/clinic/st-stand-sangali",
+        "address": "https://madhavbaug.org/clinic/st-stand-sangali",
+        "phone": "https://madhavbaug.org/clinic/st-stand-sangali"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-30",
+      "id": "madhavbaug-ayurvedic-clinic-st-stand-sangli"
+    },
+    {
       "practiceName": "Madhavbaug Ayurvedic Clinic, Vishram Baug, Sangli",
       "practitioners": [
         {
@@ -66835,6 +66905,40 @@
       "reviewLinks": [],
       "checkedOn": "2026-10-27",
       "id": "kerala-ayurveda-clinic-venkojipalem"
+    },
+    {
+      "practiceName": "Madhavbaug Ayurvedic Clinic, Vita",
+      "practitioners": [
+        {
+          "name": "Dr Priyadarshani Amit Pawar",
+          "qualification": "BAMS, Preventive Cardiology",
+          "registration": null
+        }
+      ],
+      "address": {
+        "line": "Shatayu Ayurved Vita Madhavbaug Mini Clinic, Sangli Road",
+        "locality": "Mayakka Nagar",
+        "city": "Vita",
+        "pin": "415311",
+        "state": "Maharashtra"
+      },
+      "phone": [
+        "+91 84849 84684"
+      ],
+      "website": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-vita-sangli",
+      "email": null,
+      "hours": "10:00 AM to 9:00 PM, closed Thursday",
+      "services": [],
+      "sources": {
+        "practiceName": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-vita-sangli",
+        "practitioners": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-vita-sangli",
+        "address": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-vita-sangli",
+        "phone": "https://madhavbaug.org/clinic/madhavbaug-ayurvedic-clinic-in-vita-sangli"
+      },
+      "testimonials": [],
+      "reviewLinks": [],
+      "checkedOn": "2026-10-30",
+      "id": "madhavbaug-ayurvedic-clinic-vita"
     },
     {
       "practiceName": "Govt. Ayurvedic Hospital, Vizhikkithode (Kanjirappally Grama Panchayat)",
