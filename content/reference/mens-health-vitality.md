@@ -37,7 +37,6 @@ srcRel: "_Hub/Body-Systems/Mens-Health--Vitality.md"
 - [Dashamoola Katutraya Kashayam](/formulation/dashamoola-katutraya-kashayam/) (Bronchodilator, Anti-inflammatory)
 - [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/) (Analgesic, Anti-inflammatory)
 - [Gandharvahastadi Kashayam](/formulation/gandharvahastadi-kashayam/) (Laxative, Bronchodilator, Anti-inflammatory)
-- [Giloy](/herb/guduchi/), *Tinospora cordifolia* (Antioxidant, Anticancer, Medhya (Nootropic))
 - [Giloy Satva](/herb/giloy-satva/), *Tinospora cordifolia (Willd.) Miers (aqueous starch extract)* (Antioxidant, Anticancer, Adaptogenic)
 - [Guduchi](/herb/guduchi/), *Tinospora cordifolia* (Antioxidant, Medhya (Nootropic), Adaptogenic)
 - [Hastikarna Palasha](/glossary/concepts-a-m/#hastikarna-palasha) (Wound Healing, Anti-inflammatory)

@@ -63,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Meda/meta-analysis.md"
 ## Recent safety updates
 
 - Classical literature does not document adverse effects when Meda is used as part of Ashtavarga formulations; modern safety data are not established
-- Critically endangered status means most commercial products may contain adulterants or substitutes; authentication and quality control are essential safety considerations
+- Endangered/critically endangered status means most commercial products may contain adulterants or substitutes; authentication and quality control are essential safety considerations
 
 ## Dosage forms and preparation
 

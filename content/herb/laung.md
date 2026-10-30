@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 
 | Language | Name |
 |----------|------|
-| English | Laung |
+| English | Clove |
+| Hindi | Laung |
 | Latin/Botanical | *Syzygium aromaticum* |
 
 ## Key Phytochemical Constituents
@@ -85,7 +86,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Laung/meta-analysis
 - Ellagic acid
 - alpha-Humulene
 - Oleanolic acid
-- 
 
 ## Dosage forms and preparation
 

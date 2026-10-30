@@ -78,7 +78,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bhadra/meta-analysis.md"
 - Methylaervine
 - Aervoside
 - Ervolanine
-- 
 - Methyl grevillate
 - Beta-sitosteryl acetate
 

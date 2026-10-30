@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Ikshu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Ikshu |
+| English | Sugarcane |
 
 ## Key Phytochemical Constituents
 

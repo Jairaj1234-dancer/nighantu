@@ -28,7 +28,7 @@ Caraka indicates sudation in vāta and kapha conditions amenable to it, and dist
 
 ## Where it comes from in the classical literature
 
-Both citations in the record check out. Caraka Sūtrasthāna 14 is the Svedādhyāya, the chapter on sudation. Aṣṭāṅga Hṛdaya Sūtrasthāna 17 is the Svedavidhi Adhyāya, which sits immediately after Snehavidhi (chapter 16) and before Vamana-Virecana Vidhi (chapter 18), exactly where a preparatory sweating chapter belongs in that text's sequence.
+Caraka Sūtrasthāna 14 is the Svedādhyāya, the chapter on sudation. Aṣṭāṅga Hṛdaya Sūtrasthāna 17 is the Svedavidhi Adhyāya, which sits immediately after Snehavidhi (chapter 16) and before Vamana-Virecana Vidhi (chapter 18), exactly where a preparatory sweating chapter belongs in that text's sequence.
 
 Caraka's chapter is considerably broader than modern clinic menus suggest. It enumerates thirteen thermal varieties of sveda, including bolus fomentation, hot-bed sudation, steam delivered through a tube, affusion with warm decoction, immersion, the jentāka hot-house, a heated stone slab, a trench of live coals and several buried-vessel methods. It then lists ten ways of inducing perspiration without fire at all: exercise, warm rooms, heavy clothing, hunger, excessive drinking, fear, wrath, plasters, war and sunshine.
 

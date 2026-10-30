@@ -43,7 +43,7 @@ Bhavaprakasha Nighantu (16th century, Sudarshan group of preparations); also des
 
 - Jwaraghna (antipyretic): traditionally used to reduce fever. A pilot study reported faster fever reduction compared to placebo.
 - Antimicrobial activity: an in vitro disc diffusion study reported activity against K. pneumoniae, E. coli, S. aureus, and P. vulgaris.
-- Immunomodulatory activity: pharmacological studies have reported anti-inflammatory and antihistamine activity.
+- Anti-inflammatory and antihistamine activity: pharmacological studies have reported anti-inflammatory and antihistamine activity.
 - Digestion and appetite: traditionally used to improve digestion and restore appetite. Classical practice links this to the Agni-enhancing action of [Trikatu](/herb/trikatu/) and bitter herbs.
 
 ## What do recent studies show?
@@ -72,7 +72,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Storage:** Airtight container, cool dry place, protected from moisture
 
-**Marker Compounds:** Swertimerin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
+**Marker Compounds:** Swertiamarin, [Berberine](/glossary/compounds-a-c/#berberine), Kutkin
 
 **Vehicle (Anupana):** Warm water or honey
 

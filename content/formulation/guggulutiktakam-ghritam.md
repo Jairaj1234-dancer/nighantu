@@ -41,7 +41,7 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Asthigata Vata (bone diseases/osteoporosis): traditionally used for this condition. Clinical studies in osteoarthritis (Sandhigata Vata), a different condition, have reported reduced pain and improved mobility.
-- Bhagandara (fistula-in-ano): traditionally used for this condition. [Guggulu](/formulation/guggulu/)-based [Ksharasutra](/glossary/concepts-a-m/#ksharasutra) is an Ayurvedic surgical procedure traditionally used for fistula.
+- Bhagandara (fistula-in-ano): traditionally used for this condition.
 - Kushta (chronic skin diseases): traditionally used for this condition. Pharmacological studies have reported anti-inflammatory and anti-microbial actions of its ingredients.
 - Vatarakta (gout): traditionally used for this condition. Experimental studies have reported anti-hyperuricemic and anti-inflammatory effects of [Guggulu](/formulation/guggulu/).
 
@@ -75,5 +75,4 @@ Ashtanga Hridayam (written circa 750 CE by Vagbhata); also known as Pancatikta [
 
 - Kaishore [Guggulu](/formulation/guggulu/)
 - [Triphala](/herb/triphala/) Guggulu
-- Kaisora Guggulu
 - [Panchatikta Ghrita](/formulation/panchatikta-ghrita/) Guggulu

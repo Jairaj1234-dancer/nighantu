@@ -34,7 +34,7 @@ It also carries a broad contraindication list: people of pitta constitution, tho
 
 Separately, the material in Suśruta that concerns the ear lobule (karṇapālī) is in Sūtrasthāna 16, Karṇavyadha-bandha-vidhi, which covers piercing an infant's lobule and the fifteen methods of repairing a torn one. That chapter is about piercing and reconstruction, not cautery, so it is not the missing citation either.
 
-No classical basis could be confirmed in this session for briefly cauterising marma points on the ear.
+No classical basis could be confirmed for briefly cauterising marma points on the ear.
 
 ## Why this needs a vaidya, and why the record is not enough
 

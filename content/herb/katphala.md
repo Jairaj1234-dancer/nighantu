@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Fever-Infection/Katphala/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Katphala |
+| Sanskrit | Katphala |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

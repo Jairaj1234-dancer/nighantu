@@ -29,9 +29,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bilva-Majja/meta-analysis.md"
 ## Key Phytochemical Constituents
 
 - [Marmelide](/glossary/compounds-l-o/#marmelide)
-- [Marmelosin](/glossary/compounds-l-o/#marmelosin)
+- [Marmelosin](/glossary/compounds-l-o/#marmelosin) (imperatorin)
 - [Psoralen](/glossary/compounds-o-q/#psoralen)
-- [Imperatorin](/glossary/compounds-g-l/#imperatorin)
 - [Aegeline](/glossary/compounds-1-a/#aegeline)
 - Marmin
 - Beta-carotene

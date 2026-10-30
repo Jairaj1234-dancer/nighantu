@@ -55,4 +55,4 @@ Vagbhata also codifies the **viruddha (incompatibility) doctrine**, Sutrasthana 
 - [Rasayana](/reference/rasayana/)
 - [Avaleha](/formulation/avaleha/)
 
-*Classical-text reference hub. Expand with chapter-level citation index as needed.*
+*Classical-text reference hub.*

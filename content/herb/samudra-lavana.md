@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Others"
 subcategory: "Salts-Minerals-Metals"
 group: "Samudra-Lavana"
-answer: "Samudra Lavana is a salt or alkali preparation used in Ayurveda. It is sea salt, 85-90% sodium chloride, with magnesium chloride and sulfate, calcium sulfate and potassium chloride making up the rest."
+answer: "Samudra Lavana is a salt used in Ayurveda. It is sea salt, 85-90% sodium chloride, with magnesium chloride and sulfate, calcium sulfate and potassium chloride making up the rest."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -75,7 +75,6 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Samudra-Lavana/meta-analysis.md"
 - Strontium
 - Sodium chloride 
 - Calcium sulfate
-- 
 - Trace minerals
 
 ## Dosage forms and preparation

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shana/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Shana |
+| Sanskrit | Shana |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

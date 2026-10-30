@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "General-Herbs"
-answer: "Karpura Camphor is an isolated compound rather than a whole plant drug. Rapidly metabolized hepatically to hydroxycamphor and glucuronic acid conjugates. Peak plasma levels in 15-30 minutes."
+answer: "Karpura (camphor) is an isolated compound rather than a whole plant drug. It is used in balms, camphorated oil, inhalation preparations and, under supervision, in small internal doses."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Karpura-Camphor/meta-analysis
 
 | Language | Name |
 |----------|------|
-| English | Karpura ([Camphor](/herb/camphor/)) |
+| Sanskrit | Karpura |
+| English | [Camphor](/herb/camphor/) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

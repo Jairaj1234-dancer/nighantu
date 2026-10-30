@@ -28,7 +28,7 @@ The source record classifies it as rasāyana with the subcategory kuṭīpraveś
 
 ## Where it comes from in the classical literature
 
-Caraka Cikitsā-sthāna 1.1, the Abhaya-āmalakīya rasāyana pāda. This checks out.
+Caraka Cikitsā-sthāna 1.1, the Abhaya-āmalakīya rasāyana pāda.
 
 The kuṭī itself is specified in verses 16 to 24. It should face east or north, have thick walls and three chambers one within the other, narrow ventilators, sufficient height and space, be well lit and pleasant to the mind, clean, comfortable across the seasons, impermeable to unwanted sound, not accessible to women, and stocked with the necessary accessories. Entry is timed: during the sun's northern course, in the bright half of the month, on an auspicious day and at a favourable muhūrta. Commentary on the design reads the thick walls and small openings as the means of keeping out wind, noise and other distractions.
 

@@ -76,7 +76,7 @@ Shirodhara is a classical murdha-taila procedure described in **Ashtanga Hridaya
 
 - **Shirodhara:** warm to ~40–42 °C (a little warmer than a Vata Shirodhara, favouring a mobilising stream). Pour in a continuous unbroken stream over the ajna marma for 25–35 minutes.
 - **Shiro-abhyanga:** massage a warmed quantity vigorously into scalp and temples, preferably in the morning (Kapha time of day), leave 20–30 min and cleanse with a warm herbal rinse.
-- **Pada-abhyanga:** a small quantity to the soles of the feet before sleep, per the classical murdha-taila routine.
+- **Pada-abhyanga:** a small quantity to the soles of the feet before sleep.
 
 ## Safety, contraindications and cautions
 

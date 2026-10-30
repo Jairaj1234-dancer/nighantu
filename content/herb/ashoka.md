@@ -38,7 +38,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 
 - Estrogenic activity: Phytoestrogens (catechin, epicatechin) bind estrogen receptors, modulating reproductive hormone levels (FSH, LH, estradiol, progesterone).
 - Aromatase inhibition: Procyanidin B2 and luteolin inhibit aromatase enzyme, relevant for PCOS and estrogen-dependent conditions.
-- [Antioxidant](/reference/antioxidant/) action: [Flavonoids](/reference/flavonoids/) (kaempferol, rutin, gallic acid) scavenge free radicals and reduce malonaldehyde levels.
+- [Antioxidant](/reference/antioxidant/) action: [Flavonoids](/reference/flavonoids/) (kaempferol, rutin) and gallic acid scavenge free radicals and reduce malonaldehyde levels.
 - Uterine smooth muscle modulation: Oxytocic effect on uterine musculature, producing rhythmic contractions.
 - Anti-inflammatory pathway: Inhibition of COX-2 and pro-inflammatory cytokines, contributing to [analgesic](/reference/analgesic/) and [antipyretic](/reference/antipyretic/) effects.
 
@@ -66,7 +66,7 @@ Charaka Samhita (Chikitsa Sthana) and Sushruta Samhita reference Ashoka for Prad
 ## Recent safety updates
 
 - Acute oral toxicity studies show safety up to 2000 mg/kg body weight (ethanolic flower extract) with no mortality or toxic symptoms observed.
-- At higher doses (250-1000 mg/kg), aqueous bark extract revealed significant changes in hematological and biochemical parameters, with potential toxic effects on hematopoietic and metabolic systems, and significant variation in relative organ weight of liver, spleen, and kidney.
+- At doses of 250-1000 mg/kg, aqueous bark extract revealed significant changes in hematological and biochemical parameters, with potential toxic effects on hematopoietic and metabolic systems, and significant variation in relative organ weight of liver, spleen, and kidney.
 - Contraindicated during pregnancy due to uterotonic effects. Should be used under medical supervision for long-term use.
 
 ## What is it made of?

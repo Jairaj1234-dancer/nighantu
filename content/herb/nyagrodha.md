@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nyagrodha |
+| English | Banyan tree |
 | Latin/Botanical | *Ficus benghalensis L.* |
 
 ## Key Phytochemical Constituents
@@ -80,7 +80,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nyagrodha/meta-analysis.md"
 - Rutin
 - Bengalinoside 
 - Leucopelargonidin
-- 
 
 ## Dosage forms and preparation
 

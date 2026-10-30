@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tala/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Tala |
+| English | Palmyra Palm |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

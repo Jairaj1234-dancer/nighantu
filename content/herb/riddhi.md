@@ -61,7 +61,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Riddhi/meta-analysis.md"
 ## Recent safety updates
 
 - No documented toxicity at traditional Ayurvedic doses; it is a traditional ingredient of Ashtavarga and [Chyawanprash](/formulation/chyawanprash/) formulations
-- Critically endangered orchid species; authenticity of commercial samples is a major concern, with frequent adulteration by unrelated species posing potential safety risks
+- Rare and endangered orchid species; authenticity of commercial samples is a major concern, with frequent adulteration by unrelated species posing potential safety risks
 
 ## Dosage forms and preparation
 

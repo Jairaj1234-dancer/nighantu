@@ -17,7 +17,7 @@ faq:
   - q: "How long does the ghee stay on the eye?"
     a: "The record says around twenty minutes. Aṣṭāṅga Hṛdaya Sūtrasthāna 24 does not give a single figure: it sets retention in mātrākāla, varying widely according to the condition being addressed. So the duration is a clinical decision, not a fixed number."
   - q: "Which ghee is used?"
-    a: "The record names Triphalā Ghṛta, Mahā-tripalā Ghṛta and Ksīrabalā. The classical chapter notes that in some conditions vasā, muscle fat, is used in place of ghee. The selection belongs to the vaidya."
+    a: "The record names Triphalā Ghṛta, Mahā-triphalā Ghṛta and Ksīrabalā. The classical chapter notes that in some conditions vasā, muscle fat, is used in place of ghee. The selection belongs to the vaidya."
 ---
 
 ## What it is
@@ -45,7 +45,7 @@ The record specifies no pūrva-karma and no paschāt-karma, no course length, no
 
 ## What is used
 
-The medicated ghees and oils the record names are Triphalā Ghṛta, Mahā-tripalā Ghṛta and Ksīrabalā. Aṣṭāṅga Hṛdaya Sūtrasthāna 24 describes barley and black gram paste as the material of the retaining wall, and notes that in some conditions vasā, muscle fat, replaces ghee.
+The medicated ghees and oils the record names are Triphalā Ghṛta, Mahā-triphalā Ghṛta and Ksīrabalā. Aṣṭāṅga Hṛdaya Sūtrasthāna 24 describes barley and black gram paste as the material of the retaining wall, and notes that in some conditions vasā, muscle fat, replaces ghee.
 
 ## What to ask before booking
 

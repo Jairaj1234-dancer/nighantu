@@ -69,8 +69,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Bharangi/meta-analysis.md"
 
 - Mannitol
 - Hispidulin
-- Acteoside
-- Verbascoside
+- Acteoside (verbascoside)
 - Scutellarein
 - Spinasterol
 - Serratumin A

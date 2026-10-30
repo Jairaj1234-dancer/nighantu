@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Cumin_Herb/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Cumin_Herb |
+| English | Cumin herb |
 
 ## Dosage forms and preparation
 

@@ -97,5 +97,4 @@ srcRel: "_Hub/Compounds/Kaempferol.md"
 - [Lupeol](/reference/lupeol/) (13 shared sources)
 - [Chlorogenic acid](/glossary/compounds-c-d/#chlorogenic-acid) (13 shared sources)
 - [Stigmasterol](/reference/stigmasterol/) (10 shared sources)
-- [beta-Sitosterol](/glossary/compounds-a-c/#betasitosterol) (9 shared sources)
 - [Ellagic acid](/reference/ellagic-acid/) (9 shared sources)

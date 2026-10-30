@@ -11,7 +11,7 @@ botanical: "Eclipta prostrata"
 family: "Asteraceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) Part I as a hepatoprotective herb (monograph name: Bhringaraja). Recognized in Ayurveda, Unani (as Bhangraa), and Siddha (as Karissalaankanni) traditional medicine systems. No standalone WHO monograph identified, but referenced in WHO traditional medicine databases. Important Ayurvedic formulations include Bhringaraja Taila, Niuli Bhringaradi Taila, and Bhringarajasava."
+whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India (API) Part I as a hepatoprotective herb (monograph name: Bhringaraja). Recognized in Ayurveda, Unani (as Bhangraa), and Siddha (as Karissalaankanni) traditional medicine systems. No standalone WHO monograph identified, but referenced in WHO traditional medicine databases. Important Ayurvedic formulations include Bhringaraja Taila, Nilibhringadi Taila, and Bhringarajasava."
 aliases: []
 tags: ["ayurveda", "herb", "single-herb", "hair-health", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "AgeAyurveda Product Catalog", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

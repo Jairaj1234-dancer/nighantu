@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Zingiber/meta-analysis.md"
 
 **Storage:** Fresh ginger at 12-14 deg C, 65% RH (not below 10 deg C to avoid chilling injury). Dry ginger in airtight, moisture-proof containers at 15-25 deg C. Oleoresin and essential oil in amber glass, tightly sealed, at 15-25 deg C. Protect from light and heat.
 
-**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, 8-Shogaol, 10-Shogaol, [Zingerone](/glossary/compounds-t-z/#zingerone), Zingiberene, beta-Sesquiphellandrene, ar-Curcumene, alpha-Zingiberene, beta-Bisabolene
+**Marker Compounds:** 6-Gingerol, 8-Gingerol, 10-Gingerol, 6-Shogaol, 8-Shogaol, 10-Shogaol, [Zingerone](/glossary/compounds-t-z/#zingerone), Zingiberene, beta-Sesquiphellandrene, ar-Curcumene, beta-Bisabolene
 
 ### Synergistic Combinations
 

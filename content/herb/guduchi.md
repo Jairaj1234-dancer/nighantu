@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Rasayana-Immunity"
-answer: "Guduchi (Tinospora cordifolia) is classified in Ayurveda as Rasayana, Jwaraghna, from the Menispermaceae family. Parts used: stem, root. Same as Giloy: alternate name used in classical texts."
+answer: "Guduchi (Tinospora cordifolia) is classified in Ayurveda as Rasayana, Jwaraghna, from the Menispermaceae family. Parts used: stem, root. Also called Giloy."
 botanical: "Tinospora cordifolia"
 family: "Menispermaceae"
 sanskrit: ""
@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Rasayana-Immunity/Guduchi/meta-analysis.md"
 
 ## How is it used traditionally?
 
-Same as [Giloy](/herb/guduchi/), alternate name used in classical texts.
+See Optimal Timing under Dosage forms and preparation for the traditional ways it is taken.
 
 ## Where is it described in the classical texts?
 

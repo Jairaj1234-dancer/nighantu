@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Water_Hyssop/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Water_Hyssop |
+| English | Water Hyssop |
 
 ## Dosage forms and preparation
 

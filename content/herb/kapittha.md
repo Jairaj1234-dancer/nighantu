@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Kapittha/meta-analysis.m
 
 | Language | Name |
 |----------|------|
-| English | Kapittha |
+| English | Wood apple |
 | Latin/Botanical | *Limonia acidissima Groff (syn. Feronia limonia (L.) Swingle)* |
 
 ## Key Phytochemical Constituents

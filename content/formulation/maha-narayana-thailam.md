@@ -63,7 +63,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
 
-**Standard Dosage:** External massage or Basti (enema): 30-60ml. The Ayurvedic Formulary of India, Part I, entry 8:45 states a dose of 6 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density or tablet mass. The formulary's anupana: milk, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 151-157.
+**Standard Dosage:** External massage or Basti (enema): 30-60ml. The Ayurvedic Formulary of India, Part I, entry 8:45 states a dose of 6 g; that is a different unit from the figure above and the two cannot be compared without knowing the preparation's density. The formulary's anupana: milk, warm water. The formulary attributes this formula to Bhaisajyaratnavali, Vatavyadhyadhikara; 151-157.
 
 **Optimal Timing:** External: before bath or at bedtime. Internal: before meals
 

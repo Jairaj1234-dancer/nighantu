@@ -74,7 +74,7 @@ srcRel: "_Hub/Body-Systems/Skin--Beauty.md"
 - [Ingudi](/herb/ingudi/), *Balanites aegyptiaca (L.) Delile* (Antioxidant, Anticancer, Wound Healing)
 - [Jaitun Taila](/glossary/concepts-a-m/#jaitun-taila)
 - [Jalavetasa](/herb/jalavetasa/), *Vallisneria spiralis L. (aquatic medicinal plant grouped under Jalaj Aushadhi)* (Antioxidant, Diuretic, Analgesic)
-- [Jatamansi](/herb/jatamansi/) (Antioxidant, Nootropic, Medhya (Nootropic))
+- [Jatamansi](/herb/jatamansi/) (Antioxidant, Medhya (Nootropic))
 - [Jati](/herb/jati/)
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/) (Wound Healing, Antimicrobial, Anti-inflammatory)
 - [Jatyadi Taila](/formulation/jatyadi-taila/) (Rasayana, Wound Healing, Antimicrobial)

@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vanapsa/meta-analysis.md"
 - Batiha GE, Lukman HY, Shaheen HM and others 2023. [A Systematic Review of Phytochemistry, Nutritional Composition, and Pharmacologic Application of Species of the Genus Viola in Noncommunicable Diseases (NCDs)](https://pubmed.ncbi.nlm.nih.gov/37941895/). *Evidence-based complementary and alternative medicine : eCAM*. PMID [37941895](https://pubmed.ncbi.nlm.nih.gov/37941895/) · [doi:10.1155/2023/5406039](https://doi.org/10.1155/2023/5406039)  
   Systematic review establishing Viola odorata as having the highest number of isolated bioactive compounds among Viola species with documented efficacy against noncommunicable diseases.
 - Heger T, Zatloukal M, Kubala M and others 2022. [Procyanidin C1 from Viola odorata L. inhibits Na(+),K(+)-ATPase](https://pubmed.ncbi.nlm.nih.gov/35487935/). *Scientific reports*. PMID [35487935](https://pubmed.ncbi.nlm.nih.gov/35487935/) · [doi:10.1038/s41598-022-11086-y](https://doi.org/10.1038/s41598-022-11086-y)  
-  Identified procyanidin C1 as a novel Na+/K+-ATPase inhibitor, providing mechanistic basis for traditional use as diuretic and cardiovascular remedy.
+  Identified procyanidin C1 as a novel Na+/K+-ATPase inhibitor.
 
 ## Recent safety updates
 

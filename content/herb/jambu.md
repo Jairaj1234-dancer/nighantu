@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jambu/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Jambu |
+| English | Java plum, Jamun |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Jatiphala/meta-anal
 
 | Language | Name |
 |----------|------|
-| English | Jatiphala |
+| English | Nutmeg |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

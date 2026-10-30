@@ -79,8 +79,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Raupya-Bhasma/meta-a
 
 **Standard Dosage:** 15–30 mg
 
-**Optimal Timing:** With honey, ghee, or [Brahmi](/herb/brahmi/) Swarasa
-
 **Storage:** Airtight glass container; avoid light
 
 **Marker Compounds:** Silver oxide (Ag2O), Silver nanoparticles, Trace gold from processing

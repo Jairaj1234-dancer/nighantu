@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | [Saindhava Lavana](/herb/saindhava-lavana/) Rock Salt |
+| English | Rock Salt |
 
 ## Key Phytochemical Constituents
 
@@ -73,7 +73,6 @@ srcRel: "Ayurveda/Others/Salts-Minerals-Metals/Saindhava-Lavana/meta-analysis.md
 - Selenium
 - Sodium chloride 
 - Up to 84 trace minerals and elements
-- 
 - Iron 
 
 ## Dosage forms and preparation

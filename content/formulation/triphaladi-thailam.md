@@ -61,7 +61,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila)), External application
+**Dosage Forms:** Thailam (medicated [sesame oil](/glossary/concepts-m-y/#tila-taila), or [coconut oil](/glossary/concepts-a-m/#coconut-oil) base as Triphaladi Kera Thailam), External application
 
 **Standard Dosage:** External application (Shiro Abhyanga) or Nasya, as directed by a practitioner
 

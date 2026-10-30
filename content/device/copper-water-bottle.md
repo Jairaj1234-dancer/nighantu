@@ -23,7 +23,7 @@ A modern portable adaptation of the traditional Tamra Patra (copper vessel), des
 
 ## Where is it described in the classical texts?
 
-Based on Charaka Samhita and Ashtanga Hridaya references to the therapeutic properties of water stored in copper vessels.
+Based on Charaka Samhita and Ashtanga Hridaya references to the therapeutic properties of water stored in copper vessels. Chapter and verse: not traced.
 
 ## How is it used traditionally?
 

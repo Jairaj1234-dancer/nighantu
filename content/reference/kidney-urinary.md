@@ -58,7 +58,7 @@ srcRel: "_Hub/Body-Systems/Kidney--Urinary.md"
 - [Kulathadi Kwath](/formulation/kulathadi-kwath/) (Antioxidant)
 - [Kulattha](/herb/kulattha/), *Macrotyloma uniflorum (Lam.) Verdc. (syn. Dolichos biflorus L.)* (Antioxidant, Bronchodilator, Antidiabetic)
 - [Kusha](/herb/kusha/) (Diuretic)
-- [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.* (Antioxidant, Nootropic, Medhya (Nootropic))
+- [Kushmanda](/herb/kushmanda/), *Benincasa hispida (Thunb.) Cogn.* (Antioxidant, Medhya (Nootropic))
 - [Laghu Sutshekhar Ras](/herb/laghu-sutshekhar-ras/) (Anti-inflammatory)
 - [Licorice Herb](/herb/licorice-herb/) (Adaptogenic, Hepatoprotective, Anti-inflammatory)
 - [Madhu Mandur](/herb/madhu-mandur/) (Antioxidant)

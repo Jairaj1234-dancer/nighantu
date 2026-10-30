@@ -81,7 +81,7 @@ Ashtanga Hridaya Chikitsasthana 16/29-31 (Pandu Roga / anemia chapter); referenc
 
 **Storage:** Clean, dry, airtight glass or food-grade plastic containers at room temperature (below 30 deg C). Use clean dry spoon for dispensing - moisture introduction causes microbial growth. Do not refrigerate unless specified - cold storage may crystallize sugars.
 
-**Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) / OPCs (from [Draksha](/herb/draksha/)), Piperine (from [Pippali](/herb/pippali/), if present in formulation), [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from [Yashtimadhu](/herb/yashtimadhu/), if present), Total polyphenols, Sugar content (Brix)
+**Marker Compounds:** [Resveratrol](/glossary/compounds-q-t/#resveratrolresveratrol) / OPCs (from [Draksha](/herb/draksha/)), Piperine (from [Pippali](/herb/pippali/)), [Glycyrrhizin](/glossary/compounds-g-l/#glycyrrhizinglycyrrhizin) (from [Yashtimadhu](/herb/yashtimadhu/)), Total polyphenols, Sugar content (Brix)
 
 ### Synergistic Combinations
 

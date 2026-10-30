@@ -56,9 +56,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda-Patra/meta-analysis.md
 ## What do recent studies show?
 
 - Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
-  GC-MS analysis of leaf extracts revealed 48-53 peaks identifying dominant compounds including phytol, phytyl palmitate, and tetracontane with significant antibacterial and anti-inflammatory activities.
-- Ramothloa TP, Mkolo NM, Motshudi MC and others 2025. [Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential](https://pubmed.ncbi.nlm.nih.gov/40807390/). *Molecules (Basel, Switzerland)*. PMID [40807390](https://pubmed.ncbi.nlm.nih.gov/40807390/) · [doi:10.3390/molecules30153214](https://doi.org/10.3390/molecules30153214)  
-  Leaf extracts demonstrated significant anti-inflammatory, analgesic, and antibacterial effects supporting traditional medicinal applications; chloroform fraction showed highest antibacterial efficacy.
+  GC-MS analysis of leaf extracts revealed 48-53 peaks identifying dominant compounds including phytol, phytyl palmitate, and tetracontane with significant antibacterial and anti-inflammatory activities. Leaf extracts demonstrated significant anti-inflammatory, analgesic, and antibacterial effects supporting traditional medicinal applications; chloroform fraction showed highest antibacterial efficacy.
 
 *Only studies that could be traced to a published paper are listed here. An absence here means we could not identify the source, not that no work exists.*
 

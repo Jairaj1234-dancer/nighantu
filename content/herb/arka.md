@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Respiratory-Health/Arka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Arka |
+| Sanskrit | Arka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

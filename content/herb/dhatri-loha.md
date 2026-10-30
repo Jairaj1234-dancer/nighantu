@@ -56,7 +56,7 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 - The multi-center trial listed above reported Dhatri Lauha was well tolerated with no significant adverse effects at 500 mg twice daily for 45 days
 - Prolonged unsupervised use may lead to iron overload (hemochromatosis-like symptoms) - serum ferritin monitoring recommended beyond 8 weeks
 - Contraindicated in patients with hemochromatosis, thalassemia major, or conditions with existing iron overload
-- [Loha Bhasma](/herb/loha-bhasma/) toxicity study showed safety at therapeutic dose and 5x therapeutic dose; only at highest doses were biochemical alterations evident, confirming dose-dependent safety profile
+- [Loha Bhasma](/herb/loha-bhasma/) toxicity study showed safety at therapeutic dose and 5x therapeutic dose; only at highest doses were biochemical alterations evident (study not identified in the source notes)
 - Heavy metal contaminant testing should confirm compliance with API limits for lead, arsenic, and mercury
 
 ## What is it made of?

@@ -55,6 +55,5 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Drakshadi-Ka
 ### Synergistic Combinations
 
 - [Draksharishta](/formulation/draksharishta/)
-- [Drakshadi Kwath](/glossary/concepts-a-m/#drakshadi-kwath)
 - [Abhayarishta](/formulation/abhayarishta/)
 - [Triphala](/herb/triphala/) Churna

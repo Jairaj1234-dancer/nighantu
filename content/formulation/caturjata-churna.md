@@ -42,7 +42,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Dosage Forms:** Churna (fine powder), Capsules (modern), Sachets (modern)
 
-**Standard Dosage:** 2 to 4 g twice daily with honey or warm water, as given in the Ayurvedic Formulary of India, Part I, entry 7:10. The formulary's anupana: honey, ghee, water. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
+**Standard Dosage:** 2 to 4 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:10. The formulary's anupana: honey, ghee, water. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 144.
 
 **Optimal Timing:** After meals as digestive adjuvant, or mixed into [Rasayana](/reference/rasayana/) formulations
 
@@ -50,7 +50,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Caturjata-Churna/
 
 **Marker Compounds:** Cinnamaldehyde, 1,8-Cineole, [Eugenol](/glossary/compounds-d-g/#eugenol) (from Tejpatra), Alpha-terpineol, Mesuaferrone A (from [Nagakesara](/herb/nagakesara/))
 
-**Vehicle (Anupana):** Honey or warm water
+**Vehicle (Anupana):** Honey, ghee or water
 
 ### Synergistic Combinations
 

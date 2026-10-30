@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Lehams-Avalehas-Pastes"
-answer: "Avaleha is a classical Ayurvedic avaleha, a semi-solid herbal confection. Avaleha (Sanskrit: ava-lih, \"to lick\"), also called Leha or Lehya, is the classical Ayurvedic semi-solid confection pharmaceutical dosage form."
+answer: "Avaleha (Sanskrit: ava-lih, \"to lick\"), also called Leha or Lehya, is the classical Ayurvedic semi-solid confection pharmaceutical dosage form."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -89,7 +89,7 @@ The dosage form solves four pharmacological problems classical practitioners fac
 - [Ghrita](/herb/ghrita/)
 - [Tila Taila](/glossary/concepts-m-y/#tila-taila)
 
-*Concept hub for the Avaleha kalpana family. Expand with manufacturing-process detail, API-wise shelf-life table, and per-formulation cross-links as the catalogue grows.*
+*Concept hub for the Avaleha kalpana family.*
 
 ## Which traditional uses are supported by research?
 

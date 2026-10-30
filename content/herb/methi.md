@@ -29,7 +29,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 
 - 4-Hydroxyisoleucine (4-OHIle): Non-protein amino acid that increases [glucose](/glossary/compounds-d-g/#glucose)-induced insulin release in a glucose-concentration-dependent manner; stimulates glucose uptake by increasing surface GLUT4 via PI3K-dependent pathway in skeletal muscle.
 - 4-OHIle anti-inflammatory: Ameliorates fatty acid-induced insulin resistance and inflammatory response in skeletal muscle cells.
-- [Diosgenin](/glossary/compounds-d-g/#diosgenin): Steroidal saponin serving as pharmaceutical precursor; inhibits aberrant crypt foci formation and induces apoptosis in colon cancer cells; anti-hypercholesterolemic and anti-inflammatory effects.
+- [Diosgenin](/glossary/compounds-d-g/#diosgenin): Steroidal sapogenin serving as pharmaceutical precursor; inhibits aberrant crypt foci formation and induces apoptosis in colon cancer cells; anti-hypercholesterolemic and anti-inflammatory effects.
 - [Trigonelline](/glossary/compounds-t-z/#trigonelline): Alkaloid contributing to [antidiabetic](/reference/antidiabetic/) properties through multiple pathways.
 - Soluble fiber ([galactomannan](/glossary/compounds-d-g/#galactomannan)): High fiber content slows gastric emptying and glucose absorption, contributing to glycemic control.
 - Multi-tissue targeting: Pancreas (insulin secretion), skeletal muscle (glucose uptake via GLUT4), liver (gluconeogenesis reduction), adipose tissue (lipid metabolism), and gut (glucose absorption) are all modulated.
@@ -141,7 +141,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Diabetes-Metabolism/Methi/meta-analysis.md"
 - Suspected hypokalemia reported in some cases.
 - Pregnancy contraindicated: Not recommended during pregnancy due to potential uterotonic effects.
 - Few drug interactions documented; caution with diabetes, asthma, and [potassium](/glossary/compounds-o-q/#potassium)-lowering medications.
-- Hepatotoxicity: No clinically apparent liver injury cases despite widespread use; prospective studies show no effect on serum enzyme levels at therapeutic doses.
+- Hepatotoxicity: No clinically apparent liver injury cases attributed to fenugreek alone despite widespread use; prospective studies show no effect on serum enzyme levels at therapeutic doses.
 - Case report (2025): Ribociclib-induced hepatotoxicity potentially exacerbated by concurrent fenugreek supplement use, suggesting possible CYP-mediated interactions with oncology drugs.
 - No fatalities attributed to fenugreek use in the literature.
 

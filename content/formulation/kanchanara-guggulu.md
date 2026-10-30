@@ -49,7 +49,7 @@ Sharangdhara Samhita (Madhyama Khanda, Chapter 7); also described in Bhaishajya 
 ## What do recent studies show?
 
 - Kulkarni SP, Parwe S 2024. [Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/39255475/). *JMIR research protocols*. PMID [39255475](https://pubmed.ncbi.nlm.nih.gov/39255475/) · [doi:10.2196/57287](https://doi.org/10.2196/57287)  
-  RCT protocol registered comparing [Kanchanar](/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
+  RCT protocol registered comparing Kshar Basti and [Kanchanar](/herb/kanchanar/) Guggul with levothyroxine for hypothyroidism; enrollment began June 2024 with data analysis expected December 2025 and results by early 2026.
 
 *Only studies that could be traced to a published paper are listed here. Classical formulations are researched largely in journals that PubMed does not index, so an absence here reflects the reach of the index rather than the state of the evidence.*
 

@@ -38,7 +38,7 @@ That differs from Vāgbhaṭa on one point worth knowing: the classical instruct
 
 ## What is used
 
-Mañjiṣṭhā, sārivā, candana and yaṣṭīmadhu are the dravyas named, generally as a mañjiṣṭhādi combination or as triphalā. No oil is part of the paste itself, though the classical text has an oil application after the lepa is removed.
+Mañjiṣṭhā, sārivā, candana and yaṣṭīmadhu are the dravyas named, generally as a mañjiṣṭhādi combination; a triphalā paste is the alternative. No oil is part of the paste itself, though the classical text has an oil application after the lepa is removed.
 
 ## Who should avoid it
 

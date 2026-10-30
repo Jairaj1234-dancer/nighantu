@@ -65,8 +65,6 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vatagajankush-Rasa
 
 **Standard Dosage:** 125 mg twice daily
 
-**Optimal Timing:** With Dashamula Kwatha, [Eranda](/herb/eranda/) Taila, or warm milk
-
 **Storage:** Airtight container
 
 **Marker Compounds:** Mercury sulfide, Iron oxide, Tin oxide, Lead oxide

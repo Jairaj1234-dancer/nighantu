@@ -73,7 +73,7 @@ srcRel: "_Hub/Body-Systems/Diabetes--Metabolism.md"
 - [Jambu Beeja](/herb/jambu-beeja/)
 - [Jamun](/herb/jamun/) (Antioxidant, Anticancer, Antidiabetic)
 - [Jamun Herb](/glossary/concepts-a-m/#jamun-herb) (Antipyretic)
-- [Jatamansi](/herb/jatamansi/) (Antioxidant, Nootropic, Medhya (Nootropic))
+- [Jatamansi](/herb/jatamansi/) (Antioxidant, Medhya (Nootropic))
 - [Jatyadi Ghrita](/formulation/jatyadi-ghrita/) (Wound Healing, Antimicrobial, Anti-inflammatory)
 - [Jeeraka](/herb/jeeraka/), *Cuminum cyminum L.* (Antidiabetic, Antimicrobial, Anti-inflammatory)
 - [Jivanti](/herb/jivanti/), *Leptadenia reticulata (Retz.) Wight & Arn.* (Antioxidant, Anticancer, Galactagogue)

@@ -28,7 +28,7 @@ This is surgical work. It is not a treatment a reader can arrange for themselves
 
 ## Where it comes from in the classical literature
 
-Suśruta Sūtrasthāna 11, the Kṣāra-paka-vidhi chapter, is the classical chapter on kṣāra, and the record cites it correctly. In Bhishagratna's translation the chapter sets out the preparation: selected plants and limestone are burnt to ash, the ash is dissolved in water or cow's urine, the liquid is filtered twenty-one times, then boiled down, with further additives producing a mild, middling or strong grade. Apāmārga and Snuhī both appear in the chapter's list of plant sources, alongside Kutaja, Palāśa, Arka, Pāṭalā and others.
+Suśruta Sūtrasthāna 11, the Kṣāra-paka-vidhi chapter, is the classical chapter on kṣāra. In Bhishagratna's translation the chapter sets out the preparation: selected plants and limestone are burnt to ash, the ash is dissolved in water or cow's urine, the liquid is filtered twenty-one times, then boiled down, with further additives producing a mild, middling or strong grade. Apāmārga and Snuhī both appear in the chapter's list of plant sources, alongside Kutaja, Palāśa, Arka, Pāṭalā and others.
 
 The same chapter carries the line most often quoted about this procedure: "An Alkali administered by an ignorant physician is to be dreaded more than poison, fire, blows with a weapon, thunder-bolts, or death itself; while in the hand of an intelligent physician it is potent enough to speedily subdue all serious diseases in which its use is indicated."
 

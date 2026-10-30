@@ -64,7 +64,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Dosage Forms:** Arishta/Asava (fermented liquid), Syrup (modern adaptation)
 
-**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:26. The formulary attributes this formula to Bhaisajyaratnavali, Agnimadyadirogadhikara; 108-110.
+**Standard Dosage:** 12 to 24 ml with equal water, as given in the Ayurvedic Formulary of India, Part I, entry 1:26. The formulary attributes this formula to Bhaisajyaratnavali, Agnimandyadirogadhikara; 108-110.
 
 **Optimal Timing:** After meals, twice daily
 

@@ -51,7 +51,7 @@ Charaka Samhita (Chikitsa Sthana - Kushtha Chikitsa); Sushruta Samhita; Bhaishaj
 
 - Shvitra (vitiligo/leucoderma): traditionally used for repigmentation. A randomized controlled trial reported improvement in repigmentation. A clinical study reported improvement with an Ayurvedic formulation compared with oral PUVA.
 - Kushtha (psoriasis and chronic skin disorders): traditionally used for these conditions. Pharmacological studies have reported anti-inflammatory and immunomodulatory properties of psoralen and flavonoids.
-- Alopecia and hair loss: traditionally used for these conditions. Studies have reported that bakuchiol may stimulate hair follicle melanocytes and promote pigmentation.
+- Alopecia and hair loss: traditionally used for these conditions.
 
 ## What do recent studies show?
 

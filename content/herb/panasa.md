@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Panasa/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Panasa |
+| English | Jackfruit |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

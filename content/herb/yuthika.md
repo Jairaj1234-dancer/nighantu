@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Yuthika/meta-analysis.md"
 
 ## Key Phytochemical Constituents
 
-- cis-[Jasmone](/glossary/compounds-g-l/#jasmone) (monoterpenoid ketone - characteristic fragrance compound)
+- cis-[Jasmone](/glossary/compounds-g-l/#jasmone) (cyclopentenone ketone - characteristic fragrance compound)
 - [Linalool](/glossary/compounds-l-o/#linalool) (monoterpene alcohol)
 - [Rutin](/glossary/compounds-q-t/#rutin) (flavonoid glycoside)
 - [Quercetin](/reference/quercetinquercetin/) (flavonol)

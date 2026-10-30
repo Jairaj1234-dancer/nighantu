@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: ""
 aliases: ["Ajamodadi Churna", "AjamodadiChurna"]
 tags: ["ayurveda", "formulation", "churna", "pharmacopoeia-listed", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Ayurvedic Pharmacopoeia of India", "Ayurvedic Formulary of India"]
 productHints: []
 words: 256
 srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Ajamodadi-Churna/meta-analysis.md"

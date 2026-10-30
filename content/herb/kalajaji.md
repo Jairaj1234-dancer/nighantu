@@ -72,14 +72,12 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 
 - Thymoquinone
 - Thymohydroquinone
-- Nigellone
+- Nigellone (dithymoquinone)
 - Carvacrol
 - Thymol
 - Kaempferol
-- Dithymoquinone 
 - Alpha-pinene
 - Alpha-hederin
-- 
 
 ## Dosage forms and preparation
 
@@ -99,4 +97,3 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kalajaji/meta-analysis.md"
 - With [Haridra](/herb/haridra/) for anti-inflammatory synergy
 - With [Methi](/herb/methi/) for blood sugar management
 - With Amalaki for immune support and antioxidant action
-- With Habbatus Sauda oil and honey for respiratory support
