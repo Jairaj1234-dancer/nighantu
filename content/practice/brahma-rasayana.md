@@ -26,7 +26,7 @@ Brahma-rasāyana is a compound rasāyana preparation, not a procedure done to th
 
 ## Where it comes from in the classical literature
 
-Caraka Cikitsā-sthāna 1.1, the Abhaya-āmalakīya rasāyana pāda, verses 41 to 57. This checks out: the Caraka Samhita Online edition places the Brahma Rasayana formulation and its closing phalaśruti at exactly 1.1.41-57. Caraka gives two preparations under the name in this pāda. The same pāda also contains other well-known rasāyana formulations, including Cyavanaprāśa, which is why the two are sometimes confused.
+Caraka Cikitsā-sthāna 1.1, the Abhaya-āmalakīya rasāyana pāda, verses 41 to 57. The Caraka Samhita Online edition places the Brahma Rasayana formulation and its closing phalaśruti at 1.1.41-57. Caraka gives two preparations under the name in this pāda. The same pāda also contains other well-known rasāyana formulations, including Cyavanaprāśa, which is why the two are sometimes confused.
 
 A striking detail of the second preparation: translations record that scholars versed in the Atharvaveda perform rites over it during a fortnight-long burial of the preparation.
 

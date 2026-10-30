@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Kashayams-Decoctions/Gandharvahas
 
 ## Where is it described in the classical texts?
 
-Bhaishajya Ratnavali and Sharangadhara Samhita, classified under Vata-Kapha balancing formulations. Also referenced in Sahasrayogam for constipation and flatulence management.
+The Ayurvedic Formulary of India attributes it to Sahasrayogam (kasayaprakarana), where it is referenced for constipation and flatulence.
 
 ## How does it work?
 

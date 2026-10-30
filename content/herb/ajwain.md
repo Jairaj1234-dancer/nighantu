@@ -66,7 +66,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Ajwain/meta-analysis.md"
 
 - Pregnant women should avoid ajwain due to potential adverse effects on fetal development; use discouraged during breastfeeding
 - High oral doses can cause fatal poisoning; people on NSAIDs or antiplatelet medications should use cautiously due to ajwain's inherent anti-clotting activity
-- Acute and sub-acute toxicity studies (2020) found no significant toxicity at standard therapeutic doses; thymol classified as safe by US-FDA and European Commission as a flavoring agent
+- Acute and sub-acute toxicity studies found no significant toxicity at standard therapeutic doses; thymol classified as safe by US-FDA and European Commission as a flavoring agent
 
 ## What is it made of?
 

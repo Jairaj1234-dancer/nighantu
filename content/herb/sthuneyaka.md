@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Sthuneyaka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Sthuneyaka |
+| Sanskrit | Sthuneyaka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

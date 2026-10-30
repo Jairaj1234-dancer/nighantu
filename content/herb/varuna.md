@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kidney-Urinary/Varuna/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Varuna |
+| English | Three leaved caper |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

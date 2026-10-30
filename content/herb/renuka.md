@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Renuka |
+| English | Chaste tree / Chasteberry |
+| Sanskrit | Renuka |
 | Latin/Botanical | *Vitex agnus-castus L.* |
 
 ## Key Phytochemical Constituents
@@ -62,7 +63,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Renuka/meta-analysis.md"
 
 ## Recent safety updates
 
-- Well-tolerated in clinical trials; common mild side effects include gastrointestinal discomfort, headache, and skin reactions; rare cases of liver toxicity signal noted in rat studies but no corresponding human reports
+- Well-tolerated in clinical trials; common mild side effects include gastrointestinal discomfort, headache, and skin reactions; a liver toxicity signal has been noted in rat studies, with no corresponding human reports
 - Potential interactions with dopamine agonists/antagonists, estrogens, anti-estrogens, and oral contraceptives; not recommended during pregnancy; may reduce efficacy of in vitro fertilization treatments
 
 ## What is it made of?

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Dhataki/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Dhataki |
+| English | Fire flame bush |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

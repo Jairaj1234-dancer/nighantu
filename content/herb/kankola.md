@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kankola/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Kankola |
+| English | Cubeb |
 | Latin/Botanical | *Piper cubeba L.f.* |
 
 ## Key Phytochemical Constituents

@@ -56,11 +56,11 @@ Panchakarma, basti, nasya, and therapeutic applications.
 **Madhyama Khanda Chapter 8 (Avaleha Kalpana)** is the canonical classical source for the 4-phase Avaleha manufacturing protocol used in [Chyawanprash](/formulation/chyawanprash/):
 
 1. Kashaya preparation
-2. Paka (the long cook), with pakva (consistency) tests defined: *mridu paka*, *madhyama*, *kharatara*, *khara*, *atikhara*
+2. Paka (the long cook), with pakva (consistency) tests defined
 3. Prakshep (lukewarm fine-powder addition), naming Pippali, Twak, Ela, Patra, Nagakesara and Vamshalochana as the classical aromatic layer
 4. Cold madhu addition, respecting Vagbhata's viruddha rule
 
-The **pakva stages** Sharangadhara defines (thread-tests between fingers) are still the basis of modern Avaleha QC, the *kharatara paka* (two-thread test) is the classical endpoint for Chyawanprash batch cooking.
+The **pakva stages** Sharangadhara defines (thread-tests between fingers) are still the basis of modern Avaleha QC.
 
 ## Commentaries
 

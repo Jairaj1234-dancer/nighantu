@@ -33,7 +33,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Shirisha/meta-analysis.md"
 - Melacacidin
 - Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - Albiziahexoside
-- Betulnic acid
+- Betulinic acid
 - Echinocystic acid [glycosides](/glossary/compounds-g-l/#glycosides)
 - Lebbekosides A-C ([saponins](/reference/saponins/))
 - [Friedelin](/glossary/compounds-d-g/#friedelin)

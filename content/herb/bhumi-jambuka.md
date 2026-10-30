@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhumi-Jambuka/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | [Bhumi Jambuka](/herb/bhumi-jambuka/) |
+| Sanskrit | Bhumi Jambuka |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

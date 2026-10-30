@@ -77,10 +77,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Daruharidra/meta-analysis.md"
 - Berbamine
 - Tannins
 - Oxyberberine
-- 
 - Karachine
 - Taxilamine
-- 
 
 ## Dosage forms and preparation
 

@@ -14,7 +14,7 @@ ayurvedicCategory: ""
 whoStatus: "Acacia catechu is listed in the Ayurvedic Pharmacopoeia of India and recognized by Indian traditional medicine regulatory authorities (AYUSH). Referenced in WHO traditional medicine guidelines for South-East Asia region. No dedicated WHO monograph currently published."
 aliases: ["Acacia catechu (L.f.) Willd."]
 tags: ["ayurveda", "herb", "single-herb", "skin-beauty", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
-sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
+sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, safety databases)", "Ayurvedic Pharmacopoeia of India"]
 productHints: []
 words: 616
 srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Khadira/meta-analysis.md"

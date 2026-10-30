@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Mahanimba/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Mahanimba |
+| English | Persian Lilac |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

@@ -9,7 +9,7 @@ classicalSource: "Caraka Sūtrasthāna 5; Caraka Siddhisthāna 9; Suśruta Cikit
 citationVerified: true
 citationNote: "All four citations verified as given, no correction needed. Caraka Sūtrasthāna 5 = Mātrāśitīya Adhyāya, which includes nasya among the daily regimens (carakasamhitaonline.com and easyayurveda.com chapter summaries). Caraka Siddhisthāna 9 = Trimarmīya Siddhi, which describes nasya and its types in relation to disorders of the head (carakasamhitaonline.com). Suśruta Cikitsāsthāna 40 = Dhūma-Nasya-Kavalagraha Cikitsitam (wisdomlib vol. 4 Cikitsasthana, Chapter XL, \"Description of medicated fumes, snuffs, errhines and gargles\"). Aṣṭāṅga Hṛdaya Sūtrasthāna 20 = Nasya Vidhi Adhyāya (easyayurveda.com)."
 dravyas: ["Aṇu Taila", "Ṣaḍbindu Taila"]
-dravyasWithoutPages: ["Ksīrabalā Taila", "Mahāmāṣa Taila"]
+dravyasWithoutPages: ["Kṣīrabalā Taila", "Mahāmāṣa Taila"]
 cautions: ["The source record marks nasya vaidya-only. It is described here, not taught.", "The record specifies avoiding cold, wind and smoke for twenty-four hours afterwards, which means the rest of the day needs planning around.", "Oil instilled into the nose can reach the airway. Anyone with an acute respiratory infection, recent nasal or sinus surgery, or a bleeding tendency should raise it with the vaidya before booking.", "The record lists no contraindications and no adverse events, so those fields are empty rather than clear. Aṣṭāṅga Hṛdaya Sūtrasthāna 20 is the classical chapter that sets out when nasya is not to be given.", "The dose in the record, six to eight drops per nostril, is what that protocol specifies in a clinical setting. It is not a home measure."]
 faq:
   - q: "Can I do nasya at home with a few drops of oil?"
@@ -17,7 +17,7 @@ faq:
   - q: "What actually happens during a nasya session?"
     a: "Per the record: the face is massaged with oil and the head and neck are steamed, then the person lies supine with the head extended while warm medicated oil is instilled, six to eight drops per nostril, and drawn in by inhalation. Anything that reaches the throat is spat out, followed by a warm-water gargle."
   - q: "Which oils are used for nasya?"
-    a: "The record names four: Aṇu Taila, Ṣaḍbindu Taila, Ksīrabalā and Mahāmāṣa Taila. The choice between them is made by the vaidya; Aṣṭāṅga Hṛdaya Sūtrasthāna 20 is the classical chapter covering types, methods and contraindications."
+    a: "The record names four: Aṇu Taila, Ṣaḍbindu Taila, Kṣīrabalā and Mahāmāṣa Taila. The choice between them is made by the vaidya; Aṣṭāṅga Hṛdaya Sūtrasthāna 20 is the classical chapter covering types, methods and contraindications."
 ---
 
 ## What it is
@@ -49,7 +49,7 @@ The record gives no course length, no frequency and no preferred season, and rec
 
 ## What is used
 
-The oils the record names are Aṇu Taila, Ṣaḍbindu Taila, Ksīrabalā and Mahāmāṣa Taila. No other dravyas are listed. Which oil is chosen, and whether nasya is appropriate at all, is a clinical judgement, and Aṣṭāṅga Hṛdaya Sūtrasthāna 20 is the chapter that sets out the contraindications.
+The oils the record names are Aṇu Taila, Ṣaḍbindu Taila, Kṣīrabalā and Mahāmāṣa Taila. No other dravyas are listed. Which oil is chosen, and whether nasya is appropriate at all, is a clinical judgement, and Aṣṭāṅga Hṛdaya Sūtrasthāna 20 is the chapter that sets out the contraindications.
 
 ## Who it is for and what to ask
 

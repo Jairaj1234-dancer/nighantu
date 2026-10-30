@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Aloe Vera (Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)) is a plant drug, from the Asphodelaceae family. WHO Monograph exists in WHO Monographs on Selected Medicinal Plants, Volume 1 (Aloe Vera|Aloe Vera Gel)."
+answer: "Aloe Vera (Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)) is a plant drug, from the Asphodelaceae family. WHO Monograph exists in WHO Monographs on Selected Medicinal Plants, Volume 1 (Aloe Vera; Aloe Vera Gel)."
 botanical: "Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)"
 family: "Asphodelaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "WHO Monograph exists in WHO Monographs on Selected Medicinal Plants, Volume 1 (Aloe Vera|Aloe Vera Gel). European Medicines Agency (EMA) has published assessment reports and herbal monographs on Aloe barbadensis Mill. addressing both gel and latex preparations. Listed in multiple national pharmacopoeias including USP, BP, and Indian Pharmacopoeia."
+whoStatus: "WHO Monograph exists in WHO Monographs on Selected Medicinal Plants, Volume 1 (Aloe Vera; Aloe Vera Gel). European Medicines Agency (EMA) has published assessment reports and herbal monographs on Aloe barbadensis Mill. addressing both gel and latex preparations. Listed in multiple national pharmacopoeias including USP, BP, and Indian Pharmacopoeia."
 aliases: ["Aloe Vera", "Aloe barbadensis Mill. (syn. Aloe vera (L.) Burm.f.)", "AloeVera"]
 tags: ["ayurveda", "herb", "single-herb", "liver-detox", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

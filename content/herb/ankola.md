@@ -76,7 +76,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ankola/meta-analysis.md"
 - Alangicine
 - Salsoline
 - Salviifosides A
-- Beta-
 - Lamarckianin
 - Alangimarine
 

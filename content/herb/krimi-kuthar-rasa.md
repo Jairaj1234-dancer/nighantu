@@ -79,6 +79,6 @@ Bhaishajya Ratnavali, Krimi Rogadhikara (Parasitic Diseases Chapter); also refer
 
 **Storage:** Airtight container
 
-**Marker Compounds:** Mercury sulfide, Iron oxide, Copper oxide, [Vidanga](/herb/vidanga/) [saponins](/reference/saponins/)
+**Marker Compounds:** Mercury sulfide, Iron oxide, Copper oxide, [Embelin](/glossary/compounds-d-g/#embelin) ([Vidanga](/herb/vidanga/))
 
 **Vehicle (Anupana):** Buttermilk, Vidanga Kwatha, or Palash seed powder

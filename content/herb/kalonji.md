@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Kitchen-Spices-Culinary"
-answer: "Kalonji (Nigella sativa) is a plant drug, also called Upakuncika and Kalaumji, from the Ranunculaceae family. Listed in the Pharmacopoeia of India."
+answer: "Kalonji (Nigella sativa) is a plant drug, also called Upakuncika and Kalaumji, from the Ranunculaceae family. Listed in the Ayurvedic Pharmacopoeia of India."
 botanical: "Nigella sativa"
 family: "Ranunculaceae"
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Pharmacopoeia of India at recommended dose of 0.5-4 g seed powder for digestive and carminative purposes. Recognized in Unani medicine and in Prophetic medicine (Tibb-e-Nabawi, traditional Islamic medicine) with extensive historical documentation. Not yet included in WHO monographs as a standalone entry, though substantial peer-reviewed evidence supports therapeutic applications."
+whoStatus: "Listed in the Ayurvedic Pharmacopoeia of India at recommended dose of 0.5-4 g seed powder for digestive and carminative purposes. Recognized in Unani medicine and in Prophetic medicine (Tibb-e-Nabawi, traditional Islamic medicine) with extensive historical documentation. Not yet included in WHO monographs as a standalone entry, though substantial peer-reviewed evidence supports therapeutic applications."
 aliases: ["Nigella sativa"]
 tags: ["ayurveda", "herb", "single-herb", "kitchen-spices-culinary", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]
@@ -84,7 +84,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Kitchen-Spices-Culinary/Kalonji/meta-analys
 - Carvacrol
 - Nigellidine
 - Alkaloids
-- Nigellicine and 
+- Nigellicine
 
 ## Dosage forms and preparation
 

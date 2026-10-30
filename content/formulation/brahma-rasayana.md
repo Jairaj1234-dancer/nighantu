@@ -44,7 +44,7 @@ Charaka Samhita Chikitsa Sthana ([Rasayana](/reference/rasayana/) Adhyaya - two 
 
 - Medhya (cognitive enhancement/memory): traditionally used for memory and cognition. Clinical studies have reported improvement in memory recall and MMSE scores.
 - Vayasthapana (anti-aging/longevity): traditionally used for longevity and healthy aging. Studies have reported antioxidant and neuroprotective activity in relation to age-related neural damage.
-- Smriti [Vriddhi](/herb/vriddhi/) (memory improvement): traditionally used for memory improvement. Animal studies have reported memory restorative activity.
+- Smriti Vriddhi (memory improvement): traditionally used for memory improvement. Animal studies have reported memory restorative activity.
 - Ojas Vardhana (vital energy): traditionally used to build vital energy. Laboratory studies have reported [immunomodulatory](/reference/immunomodulatory/) activity, including IL-2 upregulation, and [adaptogenic](/reference/adaptogenic/) effects.
 
 ## What do recent studies show?

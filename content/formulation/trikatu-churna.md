@@ -43,7 +43,7 @@ Charaka Samhita (Sutra Sthana, Chapter 4); Sushruta Samhita; Ashtanga Hridayam; 
 - Agni Deepana (digestive fire enhancement): traditionally used to kindle digestion. Studies have reported increases in salivary amylase, gastric acid and pancreatic enzyme secretion.
 - Yogavahi (bioavailability enhancement): traditionally regarded as a carrier that enhances other substances. Studies have reported that piperine can increase the absorption of certain compounds.
 - Obesity: a placebo-controlled clinical study reported significant effects on body weight parameters.
-- Kapha-reducing action: traditionally used to reduce Kapha and to clear respiratory congestion. All three ingredients are described as having thermogenic and mucolytic properties.
+- Kapha-reducing action: traditionally used to reduce Kapha and to clear respiratory congestion. All three ingredients are described as having thermogenic and mucolytic properties. The source notes name no study supporting this use.
 
 ## What do recent studies show?
 

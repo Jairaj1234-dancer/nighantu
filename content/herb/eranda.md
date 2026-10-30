@@ -23,8 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Eranda |
-| Latin/Botanical | *Ricinus communis L.* |
+| English | Castor oil plant |
+| Latin/Botanical | *Ricinus communis* L. |
 
 ## Key Phytochemical Constituents
 
@@ -75,7 +75,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Eranda/meta-analysis.md"
 - Ricinoleic acid 
 - Ricin 
 - Ellagic acid
-- 
 
 ## Dosage forms and preparation
 

@@ -40,7 +40,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Eye-Health/Chakshushya/meta-analysis.md"
 
 **Standard Dosage:** 3-6g powder twice daily; [Ghrita](/herb/ghrita/): 5-10g with warm milk; eye drops: 1-2 drops per eye; as directed by Vaidya for Anjana application
 
-**Optimal Timing:** Ghrita with warm milk at bedtime for eye nourishment (Netra Tarpana effect); eye drops morning and evening; Anjana as prescribed
+**Optimal Timing:** Ghrita with warm milk at bedtime for eye nourishment; eye drops morning and evening; Anjana as prescribed
 
 **Storage:** Ghrita at room temperature in glass jars. Eye drops under refrigeration (2-8°C) after opening. Powder in airtight containers. Protect from light.
 

@@ -39,7 +39,7 @@ srcRel: "_Hub/Body-Systems/Eye-Health.md"
 - [Eranda Taila](/formulation/eranda-taila/) (Laxative)
 - [Gokarna](/herb/gokarna/), *Clitoria ternatea L. (same species as [Aparajita](/herb/aparajita/); Gokarna is a regional Ayurvedic synonym)* (Antioxidant, Wound Healing, Nootropic)
 - [Himasagara Thailam](/formulation/himasagara-thailam/) (Anxiolytic, Neuroprotective, Anti-inflammatory)
-- [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) (Rasayana, Nootropic, Medhya (Nootropic))
+- [Kalyanaka Ghrita](/formulation/kalyanaka-ghrita/) (Rasayana, Medhya (Nootropic))
 - [Kamsya Bhasma](/herb/kamsya-bhasma/) (Antimicrobial, Anti-inflammatory)
 - [Karanja Taila](/formulation/karanja-taila/) (Rasayana)
 - [Karpas Asthyadi Thailam](/formulation/karpas-asthyadi-thailam/)

@@ -23,13 +23,13 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander_Herb/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | Coriander_Herb |
+| English | Coriander Herb |
 
 ## Dosage forms and preparation
 
 **Dosage Forms:** Swarasa (fresh leaf juice), Churna (dried leaf powder), Lepa (paste), Kashayam (decoction), Culinary herb (fresh)
 
-**Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb. Cilantro/[coriander](/herb/coriander/) leaves used as fresh herb primarily.
+**Standard Dosage:** 10-20ml fresh juice; 2-4g dried leaf powder; external paste as needed; liberally used as fresh culinary herb.
 
 **Optimal Timing:** Fresh juice traditionally taken early morning; as culinary herb with meals; external paste as needed for skin conditions
 

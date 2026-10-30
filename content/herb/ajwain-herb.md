@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ajwain_Herb/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Ajwain_Herb |
+| English | Ajwain Herb |
 
 ## Dosage forms and preparation
 

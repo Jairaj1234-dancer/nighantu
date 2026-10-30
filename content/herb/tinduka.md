@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Tinduka/meta-analysis.md
 
 | Language | Name |
 |----------|------|
-| English | Tinduka |
+| Sanskrit | Tinduka |
 | Latin/Botanical | *Diospyros peregrina (Gaertn.) Gurke (syn. D. embryopteris Pers., D. malabarica (Desr.) Kostel.)* |
 
 ## Key Phytochemical Constituents

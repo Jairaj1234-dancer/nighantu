@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Taruni/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Taruni |
+| Sanskrit | Taruni |
+| English | Rose (Cabbage rose) |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

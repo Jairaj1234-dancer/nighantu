@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Jvara (all types of fever): traditionally used in classical practice for all types of fever. Pharmacological studies have reported antipyretic and anti-inflammatory activity for the [Trikatu](/herb/trikatu/) and [Tulsi](/herb/tulsi/) components.
-- Pratishyaya (common cold): traditionally used for upper respiratory infections. The formulation contains [Tulsi](/herb/tulsi/), [Trikatu](/herb/trikatu/), and processed aconite.
+- Pratishyaya (common cold): traditionally used for upper respiratory infections. No research on this use is cited in the source notes.
 
 ## What do recent studies show?
 
@@ -64,8 +64,6 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Tribhuvan-Kirti-Ra
 **Dosage Forms:** Vati
 
 **Standard Dosage:** 125–250 mg twice daily
-
-**Optimal Timing:** With honey and [Tulsi](/herb/tulsi/) juice; or with Ardrak Swarasa
 
 **Storage:** Airtight container
 

@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Skin-Beauty/Chakramarda/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Chakramarda |
+| Sanskrit | Chakramarda |
+| English | Sickle senna, Foetid cassia |
 | Latin/Botanical | *Cassia tora L. (syn. [Senna](/herb/senna/) tora)* |
 
 ## Key Phytochemical Constituents

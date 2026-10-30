@@ -80,9 +80,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Ingudi/meta-analysis.md"
 - Sitosterol
 - Balanitin-6
 - Balanitin-7
-- Furostanol 
+- Furostanol saponins
 - Phenolic acids
-- 
 
 ## Dosage forms and preparation
 

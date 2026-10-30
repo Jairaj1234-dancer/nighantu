@@ -23,7 +23,8 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Yashtimadhu/meta-analysis.
 
 | Language | Name |
 |----------|------|
-| English | Yashtimadhu |
+| English | Licorice (Liquorice) |
+| Sanskrit | Yashtimadhu |
 
 ## How does it work?
 

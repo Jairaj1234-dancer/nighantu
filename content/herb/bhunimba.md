@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Bhunimba/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Bhunimba |
+| English | Andrographis, King of Bitters |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

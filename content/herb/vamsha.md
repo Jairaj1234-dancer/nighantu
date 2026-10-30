@@ -36,7 +36,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Vamsha/meta-analysis.md"
 
 ## Dosage forms and preparation
 
-**Dosage Forms:** Vamshalochana (bamboo manna) Churna, Capsule, Tablet, Avaleha ([Sitopaladi Churna](/formulation/sitopaladi-churna/)), Kwatha (decoction of leaves), Svarasa (stem juice)
+**Dosage Forms:** Vamshalochana (bamboo manna) Churna ([Sitopaladi Churna](/formulation/sitopaladi-churna/)), Capsule, Tablet, Avaleha, Kwatha (decoction of leaves), Svarasa (stem juice)
 
 **Standard Dosage:** Vamshalochana: 250 mg-1 g twice daily; Bamboo shoot/leaf preparation: 3-6 g twice daily; as part of Sitopaladi Churna: 1-3 g with honey
 

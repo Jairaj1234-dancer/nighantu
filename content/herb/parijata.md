@@ -34,7 +34,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Trees-Large-Plants/Parijata/meta-analysis.m
 - Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 - [Friedelin](/glossary/compounds-d-g/#friedelin)
 - [Lupeol](/reference/lupeol/)
-- Oleanic acid
+- Oleanolic acid
 - Tannic acid
 - [Carotenoids](/glossary/compounds-a-c/#carotenoids) ([crocin](/glossary/compounds-c-d/#crocin)-related)
 - Benzoic acid

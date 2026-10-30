@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: "External Shirodhara (murdha-taila) oil, Pitta-shamaka"
-whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India. Compliant with AYUSH advertising guidelines and the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954."
+whoStatus: "Formulated in the classical Shirodhara tradition (Ashtanga Hridaya, Sushruta Samhita). Constituent herbs are listed in the Ayurvedic Pharmacopoeia of India."
 aliases: ["Pitta Shirodhara Taila", "Pitta-Pacifying Shirodhara Oil", "Pitta Shirodhara Oil"]
 tags: ["ayurveda", "formulation", "taila", "shirodhara", "external-use", "pitta-shamaka", "pharmacopoeia-listed", "clinical-evidence", "ageayurveda-product", "nitya-naturals"]
 sources: ["Classical Ayurvedic texts: Ashtanga Hridaya, Sushruta Samhita, Charaka Samhita, Bhavaprakasha Nighantu", "Ayurvedic Pharmacopoeia of India", "Peer-reviewed clinical research on Shirodhara and constituent herbs (PubMed-indexed, verified 2026-04-20)", "AYUSH Advertising Guidelines; Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954"]

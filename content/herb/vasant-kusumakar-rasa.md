@@ -28,7 +28,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Vasant-Kusumakar-R
 ## How does it work?
 
 - Preclinical studies report improved serum insulin and glycaemic parameters in diabetic rats; the mechanism is not established
-- [Antioxidant](/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart, brain, and retina
+- [Antioxidant](/reference/antioxidant/) and anti-inflammatory action: reduces oxidative stress markers (MDA, ROS) and inflammatory cytokines (TNF-alpha, IL-6, NF-kB) in target tissues including heart and brain
 - [Neuroprotective](/reference/neuroprotective/) mechanism: modulates neurotransmitter levels ([serotonin](/glossary/compounds-q-t/#serotonin), dopamine, acetylcholine) and reduces neuroinflammation in diabetic encephalopathy
 - [Cardioprotective](/reference/cardioprotective/) action: improves hemodynamic parameters and reduces cardiac biomarkers (CK-MB, LDH, troponin-I) through reduction of myocardial oxidative damage
 

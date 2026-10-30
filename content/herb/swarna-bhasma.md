@@ -79,11 +79,11 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Swarna-Bhasma/meta-a
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 15–30 mg (premium preparation, precise dosing)
+**Standard Dosage:** 15–30 mg
 
 **Optimal Timing:** Morning; with honey, ghee, or [Chyawanprash](/formulation/chyawanprash/)
 
-**Storage:** Airtight glass container; premium packaging
+**Storage:** Airtight glass container
 
 **Marker Compounds:** Gold nanoparticles (Au), Gold oxide, Trace elements from Bhavana media
 

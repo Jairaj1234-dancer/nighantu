@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gudmar_Herb/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Gudmar_Herb |
+| English | Gudmar Herb |
 
 ## What is it made of?
 

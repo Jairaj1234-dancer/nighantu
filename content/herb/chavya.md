@@ -72,9 +72,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Chavya/meta-analysis.md"
 - Pellitorine
 - Retrofractamide A
 - Retrofractamide C
-- 
 - Chabamide
-- 
 - Guineensine
 - Methyl piperate
 

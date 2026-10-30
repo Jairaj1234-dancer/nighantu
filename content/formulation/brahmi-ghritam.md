@@ -55,7 +55,7 @@ Charaka Samhita Chikitsa Sthana (Unmada and Apasmara Chikitsa); Ashtanga Hridaya
 
 ## Recent safety updates
 
-- Generally safe when taken in recommended doses under practitioner guidance; no significant adverse effects reported in clinical studies
+- Generally safe when taken in recommended doses under practitioner guidance
 - Contraindicated in individuals with hyperlipidemia due to ghee base; diabetics should use with caution due to lipid content
 - May cause mild gastrointestinal discomfort in very high doses; long-term safety data from controlled trials remains limited
 

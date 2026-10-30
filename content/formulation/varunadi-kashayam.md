@@ -73,7 +73,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Marker Compounds:** [Lupeol](/reference/lupeol/), Punarnavine, [Protodioscin](/glossary/compounds-o-q/#protodioscin)
 
-**Vehicle (Anupana):** Warm, usually taken on empty stomach
+**Vehicle (Anupana):** Not established. The decoction is usually taken warm, on an empty stomach
 
 ### Synergistic Combinations
 

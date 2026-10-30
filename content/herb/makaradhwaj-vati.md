@@ -70,7 +70,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Makaradhwaj-Vati/m
 
 **Optimal Timing:** With honey, ghee, or [Chyawanprash](/formulation/chyawanprash/); morning and evening
 
-**Storage:** Airtight glass container; premium storage
+**Storage:** Airtight glass container
 
 **Marker Compounds:** Gold-mercury sulfide complex, Red mercuric sulfide (alpha-HgS), Colloidal gold
 

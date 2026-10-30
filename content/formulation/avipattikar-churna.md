@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Churnas-Powders/Avipattikar-Churn
 
 | Language | Name |
 |----------|------|
-| English | [Avipattikar](/herb/avipattikar/) Churna |
+| English | Avipattikar Churna |
 
 ## Where is it described in the classical texts?
 

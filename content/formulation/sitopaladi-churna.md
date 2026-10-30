@@ -66,7 +66,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Dosage Forms:** Churna (fine powder), Capsule, Tablet
 
-**Standard Dosage:** 1-3g with honey 3-4 times daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:34. The formulary's anupana: ghee, honey. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 134-135 4.
+**Standard Dosage:** 1-3g with honey 3-4 times daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:34. The formulary's anupana: ghee, honey. The formulary attributes this formula to Sarngadharasamhita, Madhyamakhanda, Adhyaya 6; 134-135.
 
 **Optimal Timing:** Multiple times daily for cough
 
@@ -74,7 +74,7 @@ The Ayurvedic Formulary of India recipe, every ingredient with its part and quan
 
 **Marker Compounds:** Piperine, [Cineole](/glossary/compounds-c-d/#cineole)
 
-**Vehicle (Anupana):** Honey
+**Vehicle (Anupana):** Ghee, honey
 
 ### Synergistic Combinations
 

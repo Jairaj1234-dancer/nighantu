@@ -41,7 +41,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Gangeruki/meta-analysis.md"
 
 ## How does it work?
 
-- Betulin and lupenone [triterpenes](/glossary/compounds-t-z/#triterpenes) exhibit [hepatoprotective](/reference/hepatoprotective/) effects by reducing oxidative stress markers (MDA, SOD, catalase) and normalizing serum hepatic [enzymes](/glossary/compounds-d-g/#enzymes) (SGOT, SGPT, ALP) in CCl4-induced liver damage models
+- Betulin and lupenone [triterpenes](/glossary/compounds-t-z/#triterpenes) exhibit [hepatoprotective](/reference/hepatoprotective/) effects by reducing the oxidative stress marker MDA and normalizing serum hepatic [enzymes](/glossary/compounds-d-g/#enzymes) (SGOT, SGPT, ALP) in CCl4-induced liver damage models
 - [Flavonoids](/reference/flavonoids/) and phytosterols provide [antioxidant](/reference/antioxidant/) and radioprotective effects through scavenging of free radicals and upregulation of cellular defense enzymes (glutathione peroxidase, superoxide dismutase)
 - Fruit extract mediates gut relaxant effects through calcium channel blocking mechanism and modulation of intestinal smooth muscle contractility
 

@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 | Language | Name |
 |----------|------|
-| English | Guggulu_Herb |
+| English | Guggulu Herb |
 
 ## Which traditional uses are supported by research?
 
@@ -42,13 +42,10 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Guggulus-Resin-Based/Guggulu_Herb
 
 **Standard Dosage:** Only as Shuddha (purified) form: 250-500 mg twice daily.
 
-**Optimal Timing:** After Shodhana, as directed in specific Guggulu formulations
-
 **Storage:** Store raw resin in airtight containers away from heat and sunlight. Dried resin is hard and brittle. Temperature not exceeding 30°C.
 
 **Marker Compounds:** Z-Guggulsterone, E-Guggulsterone, Guggulsterol I-III, Myrrhanol A, Cembrene, Mukulol
 
-**Vehicle (Anupana):** Must be processed (Shodhana) before use, not taken as raw herb
 
 ### Synergistic Combinations
 

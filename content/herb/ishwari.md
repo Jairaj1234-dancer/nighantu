@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Ishwari/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Ishwari |
+| English | Indian Birthwort |
 | Latin/Botanical | *Aristolochia indica L.* |
 
 ## Key Phytochemical Constituents

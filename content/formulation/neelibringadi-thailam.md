@@ -41,7 +41,7 @@ Sahasrayogam (Taila Prakarana, 12th century CE Kerala tradition). One of the mos
 *These summaries come from the source notes, which do not name the studies behind them.*
 
 - Hair fall and hair growth: traditionally used for hair fall and to promote hair growth. A clinical study reported reduced hair shedding, and a hair density study reported increased hair density compared with placebo.
-- Premature greying (Palitya): traditionally used for premature greying of hair. The oil's ingredients include Neeli (Indigofera) and [Amla](/herb/amla/).
+- Premature greying (Palitya): traditionally used for premature greying of hair. No supporting study was traced in the source notes.
 - Dandruff and scalp infections: traditionally used for dandruff and scalp infections. An in vitro study reported anti-dermatophyte activity of Neeli extract against Trichophyton strains.
 
 ## What do recent studies show?

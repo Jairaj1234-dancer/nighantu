@@ -76,7 +76,6 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Kataka/meta-analysis.md"
 - Sterols
 - Glycosides
 - Lignins
-- 
 
 ## Dosage forms and preparation
 

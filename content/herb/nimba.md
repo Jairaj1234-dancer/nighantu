@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Nimba/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Nimba |
+| English | Neem |
 | Latin/Botanical | *Azadirachta indica A. Juss.* |
 
 ## Parts Used

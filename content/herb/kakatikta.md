@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Single-Herbs"
 group: "Liver-Detox"
-answer: "Kakatikta is a substance used in the Ayurvedic materia medica. Contains bitter principles, flavonoids, and terpenoids typical of its botanical family. Traditional decoction preparation is the standard route. Bitter taste receptors (T2Rs) are activated in GI tract, mediating digestive stimulation independent of systemic absorption."
+answer: "Kakatikta is a substance used in the Ayurvedic materia medica. Traditional decoction preparation is the standard route. Bitter taste receptors (T2Rs) are activated in GI tract, mediating digestive stimulation independent of systemic absorption."
 botanical: ""
 family: ""
 sanskrit: ""
@@ -44,7 +44,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Liver-Detox/Kakatikta/meta-analysis.md"
 
 **Storage:** Cool, dry place below 25°C, protected from moisture. Airtight containers.
 
-**Marker Compounds:** Bitter principles (quantified by bitterness value assay), Flavonoids (general profiling), [Alkaloids](/glossary/compounds-1-a/#alkaloids) (if present), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
+**Marker Compounds:** Bitter principles (quantified by bitterness value assay), Flavonoids (general profiling), Beta-[sitosterol](/glossary/compounds-q-t/#sitosterol)
 
 ### Synergistic Combinations
 

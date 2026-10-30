@@ -23,7 +23,7 @@ A small bronze bowl used with ghee to massage the soles of the feet. A tradition
 
 ## Where is it described in the classical texts?
 
-Pada Abhyanga (foot massage) described in Charaka Samhita Sutrasthana Chapter 5 (Dinacharya). Kansa as therapeutic metal described in Rasaratna Samuchaya. The Kansa Vataki tradition is from Kerala Ayurvedic lineages.
+Pada Abhyanga (foot massage) described in Charaka Samhita Sutrasthana Chapter 5 (Matrashitiya Adhyaya, on daily regimen). Kansa as therapeutic metal described in Rasaratna Samuchaya. The Kansa Vataki tradition is from Kerala Ayurvedic lineages.
 
 ## How is it used traditionally?
 

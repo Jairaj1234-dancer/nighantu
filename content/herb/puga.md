@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Mens-Health-Vitality/Puga/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Puga |
+| Sanskrit | Puga |
 
 ## Ayurvedic pharmacology (Dravyaguna)
 

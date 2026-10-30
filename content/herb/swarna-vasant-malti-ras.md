@@ -48,7 +48,7 @@ srcRel: "Ayurveda/Others/Rasa-Shastra-Alchemical-Preparations/Swarna-Vasant-Malt
 ## Recent safety updates
 
 - The only published clinical safety study (2002) was small (n=20, male only) and of short duration (40 days); no long-term safety data exists in peer-reviewed literature
-- Contains mercury as HgS and multiple metal bhasmas - heavy metal accumulation is a concern with prolonged use; gold was detected in plasma, erythrocytes, urine, and semen indicating systemic distribution
+- Contains mercury as HgS and multiple metal bhasmas - heavy metal accumulation is a concern with prolonged use; gold was detected in plasma, erythrocytes, and semen indicating systemic distribution
 - Strictly contraindicated in pregnancy, lactation, and children; not recommended for patients with pre-existing renal or hepatic disorders due to heavy metal content
 - Must be sourced from GMP-certified manufacturers with batch-wise heavy metal testing; counterfeit or poorly prepared products pose significant toxicity risks
 

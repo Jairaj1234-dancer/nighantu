@@ -46,5 +46,4 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Coriander/meta-analysis.md"
 - With [Cumin](/herb/cumin/) and [Fennel](/herb/fennel/) ([Dhanyaka](/herb/dhanyaka/)-[Jeeraka](/herb/jeeraka/)-Saunf) for digestive triad formulations
 - With [Guduchi](/herb/guduchi/), traditionally used for fever (Guduchyadi Kashayam)
 - With Amalaki for Pitta pacification
-- With [Mishreya](/herb/mishreya/) (fennel) for digestive comfort
 - With Sunthi for appetite stimulation

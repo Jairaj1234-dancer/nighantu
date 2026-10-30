@@ -71,8 +71,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Vajra-Bhasma/meta-an
 
 **Standard Dosage:** 15–30 mg (rare and premium)
 
-**Optimal Timing:** With honey or specific formulation vehicle
-
 **Storage:** Airtight container; premium storage
 
 **Marker Compounds:** Carbon nanostructures, Trace mineral matrix from Bhavana

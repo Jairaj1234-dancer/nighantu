@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Haridra/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Haridra |
+| Sanskrit | Haridra |
 | Latin/Botanical | *Curcuma longa L.* |
 
 ## Parts Used

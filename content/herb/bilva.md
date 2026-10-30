@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Digestive-Health/Bilva/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Bilva |
+| English | Bael |
 
 ## How does it work?
 

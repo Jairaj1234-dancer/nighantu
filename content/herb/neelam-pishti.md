@@ -27,7 +27,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 ## How does it work?
 
-- Trace cobalt and titanium: These elements may contribute to unique biological activities distinct from ruby; cobalt is an essential component of vitamin B12 and participates in erythropoiesis
+- Trace iron and titanium: These elements may contribute to unique biological activities distinct from ruby
 - Tridosha balancing: Per Ayurvedic pharmacology, the cooling and stabilizing properties address imbalances across all three doshas, with particular emphasis on Vata pacification for neurological and musculoskeletal conditions
 
 ## Traditional uses
@@ -47,7 +47,6 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Pishtis/Neelam-Pishti/meta-a
 
 - Very limited safety data: No peer-reviewed safety studies specific to [Neelam Pishti](/herb/neelam-pishti/) exist in published literature
 - Primary component is aluminum oxide (Al2O3) - same concerns as [Manikya Pishti](/herb/manikya-pishti/) regarding chronic aluminum exposure and potential neurotoxicity at high doses
-- Cobalt trace content requires monitoring if used long-term as excessive cobalt exposure can cause cardiomyopathy (cobalt toxicity)
 - Extremely small recommended dose reflects the traditional recognition of potency; must be taken under strict medical supervision
 
 ## What is it made of?

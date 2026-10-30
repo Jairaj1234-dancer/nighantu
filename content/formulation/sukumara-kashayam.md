@@ -11,7 +11,7 @@ botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Manufactured under Drug and Cosmetics Act, 1940 guidelines. Referenced in Sahasrayogam, a classical Kerala pharmacopoeia."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI). Manufactured under Drugs and Cosmetics Act, 1940 guidelines. Referenced in Sahasrayogam, a classical Kerala pharmacopoeia."
 aliases: ["Sukumara Kashayam", "SukumaraKashayam"]
 tags: ["ayurveda", "formulation", "kashayam", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

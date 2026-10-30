@@ -6,7 +6,7 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Guggulus-Resin-Based"
-answer: "Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. IUCN Red List: Critically Endangered (2015 assessment) with >80% population decline over 84 years due to unsustainable harvesting and habitat loss."
+answer: "Guggulu is the oleo-gum-resin of Commiphora wightii, used in Ayurveda as a base for many compound formulations. IUCN Red List: Critically Endangered (2015 assessment) with >80% population decline over 84 years due to unsustainable harvesting and habitat loss."
 botanical: "Commiphora wightii (syn. C. mukul)"
 family: "Burseraceae"
 sanskrit: ""
@@ -159,4 +159,4 @@ Purified guggulu: see Standard Dosage below; Guggulsterones: 25mg three times da
 
 - [Triphala](/herb/triphala/) Churna
 - [Trikatu](/herb/trikatu/) Churna
-- Specific herbs depending on formulation (Kanchanara, [Gokshura](/herb/gokshura/), Yogaraja, etc.)
+- Specific herbs depending on formulation (Kanchanara, [Gokshura](/herb/gokshura/), etc.)

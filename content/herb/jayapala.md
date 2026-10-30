@@ -23,7 +23,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 | Language | Name |
 |----------|------|
-| English | Jayapala |
+| Sanskrit | Jayapala |
 | Latin/Botanical | *Croton tiglium L.* |
 
 ## Which traditional uses are supported by research?
