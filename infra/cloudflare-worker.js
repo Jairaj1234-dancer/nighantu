@@ -20,7 +20,7 @@
  * than to a reader is cloaking, and this project's whole position is that its claims are
  * checkable. Every crawler gets exactly what a person gets.
  *
- * DEPLOY: see infra/cloudflare-setup.md. The DNS change is the part a person has to make.
+ * DEPLOY: the DNS change is the part a person has to make.
  */
 
 const SITE = 'https://nighantu.ageayurveda.com';
