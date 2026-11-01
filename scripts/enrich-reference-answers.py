@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+Autonomous Reference Answer Block Enricher.
 Replaces placeholder listing text in content/reference/*.md with dense, authoritative,
 45-65 word definitions combining modern biochemistry and classical Ayurvedic pharmacology.
 """
