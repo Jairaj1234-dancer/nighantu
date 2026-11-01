@@ -32,8 +32,6 @@ public/chemistry.json
 # report on anyone else's posture. scripts/brand-catalogue.mjs regenerates all of it.
 data/brands/
 
-# questions. The prompt sets are committed, because the questions are the method; the results name
-# other companies' positions and are analysis, which this repository is the wrong place for.
 
 # Full verification-run output: agent prose, record bodies and complete verdicts.
 # Kept locally as evidence, never published. scripts/slim-runs.mjs writes the
@@ -50,10 +48,7 @@ data/runs/procedures/
 # secrets/gsc-service-account.json.
 secrets/
 
-# This project's own index coverage, read from the Bing Webmaster API by
-# scripts/bing-coverage.mjs. data/DASHBOARD.md is committed rather than published so that
-# reasoning applies with more force to a per-section map of which of our pages an engine has not
-# indexed, so this one is not committed at all.
+# Local working files.
 data/coverage/
 
 public/access.json
@@ -63,3 +58,30 @@ sources-private/
 measurement/
 public/brand-disclosure.json
 public/disclosure-exclusions.json
+
+# Local working files, not part of the published project.
+TRAFFIC-PLAN.md
+NEXT-STEPS.md
+SETUP-CREDENTIALS.local.md
+data/FINDINGS.md
+data/DASHBOARD.md
+data/citation-log*.csv
+data/citation-probe-*.csv
+data/market-map-*.json
+data/prompts/
+scripts/geo-audit.mjs
+scripts/market-map.mjs
+scripts/citation-report.mjs
+scripts/snippet-experiment.mjs
+scripts/bing-performance.mjs
+scripts/gsc-*.mjs
+scripts/bing-coverage.mjs
+scripts/lib/gsc.mjs
+scripts/test/bing-coverage.test.mjs
+scripts/test/dashboard.test.mjs
+infra/cloudflare-setup.md
+infra/bing-coverage-weekly.sh
+infra/com.ageayurveda.bing-coverage.plist
+infra/index-probe-weekly.sh
+infra/com.ageayurveda.index-probe.plist
+scripts/lib/bing-coverage.mjs

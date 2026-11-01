@@ -9,6 +9,7 @@
  * are about traceability rather than effort:
  *
  *   1. Neither gives a stable resolvable identifier of PMID quality, so a reader could not check a
+ *      citation.
  *   2. check-retractions.mjs verifies every current citation against PubMed. A non-MEDLINE source
  *      has no equivalent feed, so those citations would be unverifiable for retraction forever.
  *   3. Mixing checkable and uncheckable citations without marking which is which would quietly

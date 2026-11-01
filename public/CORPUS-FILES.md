@@ -42,7 +42,7 @@ The Ayurvedic Formulary of India ingredient-name crosswalk: every Sanskrit ingre
 
 ### `afi-crosswalk.pdf`
 
-The formulary ingredient crosswalk as a typeset document, generated from afi-crosswalk.json so it cannot disagree with it. Published to test a measured hypothesis: two probes of what answer engines cite on formulary composition questions put a document host above every publisher, so format may be part of what gets selected in this niche. It carries the canonical address, the DOI and the Wikidata entity on page one.
+The formulary ingredient crosswalk as a typeset document, generated from afi-crosswalk.json so it cannot disagree with it. It carries the canonical address, the DOI and the Wikidata entity on page one.
 
 - 0.24 MB
 - sha256 `2f98d875b973e764923d0270fd1a838c5cccca67eda50a92cedcf12d5830d137`

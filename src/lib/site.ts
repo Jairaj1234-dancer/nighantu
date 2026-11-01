@@ -5,7 +5,8 @@ export const STORE = 'https://ageayurveda.com';
 /**
  * Wikidata items for the publisher and for this work, created 18 September 2026.
  *
- * Until they existed, every page's JSON-LD named its publisher as a string, which an
+ * Until they existed, every page's JSON-LD named its publisher as a string, which a
+ * machine cannot resolve: "Age Ayurveda" is a name, not a thing. Emitting the item
  * as sameAs turns the publisher into an entity that can be looked up and connected to the
  * store, the DOI and this corpus. The slot was empty rather than wrong on purpose: the
  * identifier that used to sit here belonged to Stemonurus cambodianus, a tree.

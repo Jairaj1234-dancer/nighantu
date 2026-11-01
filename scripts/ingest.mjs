@@ -208,6 +208,7 @@ for (const p of kept) {
    * each and pushed them under the threshold, so pages that had just gained a
    * Pharmacopoeia-anchored binomial would have lost their URL in the same run. That is
    * backwards: on this site, "Simsapa is Dalbergia sissoo, per API Part I Vol. III, and
+   * here is the GBIF taxon" is exactly the fact a reader came for.
    * The floor still applies, so a page with nothing but a name is still rolled up.
    */
   const identified = p.kind === 'herb' && Boolean(normaliseBinomial(p.facts['Botanical Name'] ?? ''));

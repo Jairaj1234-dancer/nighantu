@@ -70,7 +70,7 @@ async function fetchEntities(ids) {
     } catch (e) {
       /**
        * A THROWN FETCH IS THE SAME EVENT AS A 503, and this retry loop used to handle only one of
-       * them. scripts/gsc-coverage.mjs lost a 1,239-call run to exactly this: it retried HTTP
+       * them. An earlier long-running script lost a 1,239-call run to exactly this: it retried HTTP
        * status codes and let a `read ETIMEDOUT` throw straight out of the loop and kill the
        * process. The shape of the bug is a retry loop that believes failure only arrives with a
        * status attached.

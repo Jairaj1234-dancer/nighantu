@@ -52,11 +52,6 @@ const latest = [...reviews].map((r) => r.reviewedOn).sort().pop() ?? null;
  * visible on the page, and the quality guidelines tell raters to research a creator's reputation
  * OFF the site rather than believe its own claims. Inventing or guessing a registry entry would
  * be worse than omitting it, so the field follows review.json's profileUrl and nothing else.
- *
- * Also from that sweep, recorded because it is counter-intuitive: a 2026 study of 615 citations
- * and 70.4% no review statement. Named review is not what gets a page cited. It is still worth
- * doing, for the reader and because the quality guidelines ask who produced the content, but it
- * should not be mistaken for a retrieval lever.
  */
 const jsonld = [
   {
@@ -125,6 +120,7 @@ const jsonld = [
 </ul>
 <p>The <a href={rel('/verification/')}>verification ledger</a> gives the rejection rate for every one of those passes, computed from the run records rather than typed in.</p>
 <h2>Why this page is written this way</h2>
+<p>A vague gesture at expertise is tempting and cheap. "Reviewed by our Ayurvedic team" would cost nothing to write and would be worth nothing, because it commits to no one.</p>
 <p>So this page names a person, states his qualification and institution, gives a date for each section, and draws the line around exactly what he read. As further sections are reviewed, the table grows and the count of unreviewed pages falls, with the same precision each time.</p>
 <h2>If you are qualified and want to help</h2>
 <p>A second independent reader is always worth more than a first. We are interested in qualified Ayurvedic physicians willing to be credited by name for reviewing any part of this work, and particularly in disagreement with what the first review passed. Corrections from anyone, credentialled or not, are welcome at <a href={rel('/corrections/')}>corrections</a>.</p>

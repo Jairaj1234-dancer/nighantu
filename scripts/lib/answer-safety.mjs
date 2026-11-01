@@ -2,6 +2,7 @@
  * What may not appear in an answer block.
  *
  * The answer block is 40-60 words at the top of every page. It is what a reader sees first,
+ * what the JSON-LD carries, and the passage most likely to be quoted whole.
  * That makes it the riskiest sentence on the site, so two classes of statement are barred
  * from it that are perfectly acceptable in the body, where they keep their framing.
  *

@@ -183,6 +183,7 @@ print(ds["train"][0])
 ```
 
 ## Attribution & Provenance
+If you use this dataset in research or applications, please cite:
 
 ```bibtex
 @dataset{age_ayurveda_nighantu_2026,

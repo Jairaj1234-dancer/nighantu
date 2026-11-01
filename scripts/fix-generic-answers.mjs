@@ -5,6 +5,7 @@
  * WHAT WAS WRONG. 336 of the 802 answer blocks on this site, 42%, opened with "is a plant used in
  * Ayurveda". scripts/answer.mjs writes that when a page has no `Ayurvedic Category`, which is true
  * of every one of them. The answer block is three things at once: the passage a reader sees first,
+ * the passage most likely to be quoted verbatim, and the meta description Google
  * shows in a result. So the filler is not cosmetic. It is the sentence a searcher is shown.
  *
  * /herb/kapikachhu/ is the measured cost. It is one of the highest-demand pages on this site,

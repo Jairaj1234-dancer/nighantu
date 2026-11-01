@@ -37,6 +37,7 @@ const CLAIM_VERBS = [
  *
  * This list began with the bare word `baidyanath` in it, which blocked the framing and the name
  * together. The framing is what the gate is for: "House of Baidyanath, est. 1917" sells a lineage
+ * and undercuts its neutrality. The bare name is a fact about a manufacturer,
  * and the site already names Dabur, Kottakkal, AVP, Kerala Ayurveda, Nagarjuna, Vaidyaratnam and
  * Sitaram the same way, in unranked parenthetical lists attached to a verifiable regulatory
  * status. Blocking one company's name while naming seven others was not neutrality; it was a gap
@@ -54,6 +55,7 @@ const HERITAGE_TERMS = ['house of baidyanath', 'est. 1917', 'since 1917'];
  * One page may name the reviewer's institution.
  *
  * The heritage gate exists because that framing has a job on B2B sales collateral and
+ * undercuts neutrality on an editorial site. A named reviewer's
  * affiliation is a different thing: it is the credential a reader checks, and a review
  * credited to a person with no institution is weaker than one that says where they work.
  *
@@ -160,6 +162,7 @@ for (const f of files) {
 // 6. Every page needs an answer block, which is the point of the exercise.
 //
 // It is also the riskiest sentence on the page. It is what a reader sees first and what an
+// passage quoted whole, so two things are barred from it that are acceptable in the
 // body, where they carry their framing with them:
 //
 //   - A DOSE. 492 herb blocks read "Usual dose: 3-6 g powder twice daily". A dose stated by

@@ -21,6 +21,7 @@ export async function run(state) {
           `\`${url}\` returned **${res.status || 'no response'}**${res.error ? ` (${res.error})` : ''}.`,
           '',
           'This path is on the health list because something depends on it:',
+          'the sitemap and llms files are how crawlers discover the site,',
           'and the sample pages are representative of whole sections.',
         ].join('\n'),
       });

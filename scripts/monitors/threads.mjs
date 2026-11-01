@@ -218,7 +218,7 @@ export async function run(state) {
         '',
         'Nothing was posted for you and nothing will be. Reddit acts on inauthenticity and volume,',
         'and the exposure is a silent domain-level ban that would poison every future mention of',
-        'the site. It is also worth the minute: Google licenses Reddit content, so unlike other',
+        'the site.',
         blocked ? `\n_${blocked} feed(s) returned HTTP 429 this run; coverage was partial._` : '',
       ].filter(Boolean).join('\n'),
     });

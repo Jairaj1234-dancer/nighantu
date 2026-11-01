@@ -11,9 +11,7 @@
  * .astro pages. This brings the markdown-derived ones to the same standard rather than leaving the
  * site inconsistent with itself.
  *
- * WHAT PROMPTED IT. OpenAI's documentation is almost silent on page signals, and the one on-page
- * statement it does make is that ChatGPT Atlas reads a page's accessibility tree to interpret
- * structure. `scope` is what puts a data table's shape into that tree. It is also the native HTML
+ * `scope` is what puts a data table's shape into the accessibility tree. It is also the native HTML
  * semantic rather than a vendor convention, which is the kind of thing worth doing regardless of
  * who currently reads it: it was correct before any engine asked for it.
  *

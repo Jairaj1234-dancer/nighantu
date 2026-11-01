@@ -161,7 +161,7 @@ for (const taxon of taxonomyData.taxa || []) {
 //
 // An earlier version emitted a Product/DietarySupplement node per SKU, linked to the
 // botanical entities. That inverts what this site is for. The reference surface is
-// discount marketing, and each page already carries exactly one soft product module.
+// deliberately separate from the storefront, and each page already carries exactly one soft product module.
 // A dataset that ships the catalogue inside the pharmacology graph turns the whole
 // corpus into a commercial surface, and a DietarySupplement node adjacent to a
 // pharmacology claim is also the shape regulators read as a health claim.

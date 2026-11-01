@@ -1,11 +1,12 @@
 /**
  * A machine-readable record per page, at the page's URL plus .jsonld.
  *
+ * WHY. A survey of established reference sites found one technical habit
  * common to every database among them and absent here: a per-record machine endpoint, advertised
  * from the HTML page. PubChem offers `link rel="alternate" type="application/json"` to a PUG View
  * document per compound. PubMed carries the PMID, PMCID and DOI in citation_* meta and serves
  * efetch per record. Wikipedia points `sameAs` and `mainEntity` at the Wikidata entity and serves a
- * REST summary. The WHO ICD browser is entirely client-rendered and still cited, because its
+ * REST summary. The WHO ICD browser is entirely client-rendered and still usable, because its
  * persistent entity URIs and API carry the content.
  *
  * This site had only the markdown twin, which is prose. Everything else was site-level bulk:

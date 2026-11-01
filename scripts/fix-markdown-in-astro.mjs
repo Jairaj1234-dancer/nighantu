@@ -10,6 +10,7 @@
  * literally, asterisks and leading hyphen included. Across the four there are 21 "## " headings
  * rendering as plain text, 62 stray asterisks and 26 Markdown bullets, and between them the four
  * pages contain ZERO real <h2> elements. So they have no document outline at all: nothing for a
+ * reader to skim and no structure to use.
  *
  * These are the site's trust pages. Editorial standards, how we source, the corrections policy and
  * the reviewer panel are where the project states what it will and will not do, and they were the

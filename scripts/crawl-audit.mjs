@@ -1,15 +1,8 @@
 #!/usr/bin/env node
 /**
- * Crawlability and indexability gate, aimed at the crawlers that actually matter here.
+ * Crawlability and indexability gate.
  *
- * AI crawlers behave worse than Googlebot in two measured ways, and both drive what
- * this checks. They do not execute JavaScript: Vercel and MERJ, across more than 500
- * million fetches, found GPTBot, ClaudeBot and PerplexityBot fetch JS files and never
- * run them. And they are poor at URL selection: ChatGPT wasted 34.8% of its fetches on
- * 404s and Claude 34.2%, against Googlebot's 8.2%. So a dead link or a JS-rendered page
- * costs far more crawl budget here than conventional SEO advice implies.
- *
- * This deliberately does NOT check for more schema. Schema markup was tracked across
+ * This deliberately does NOT check for more schema. What it
  * checks instead is that every page is reachable, self-describing, canonical, and
  * readable with JavaScript switched off.
  *

@@ -1,26 +1,11 @@
 #!/usr/bin/env node
 /**
- * The formulary ingredient crosswalk as a PDF, published to test a measured hypothesis.
- *
- * WHY A PDF, ON A SITE THAT OTHERWISE PUBLISHES HTML AND JSON. Two independent probes of what
- * on one run and 22% on another. Scribd is a document host. On "what is in Hingvastaka Churna" and
- * "how much Haritaki is in Abhayarishta", engines are reaching for somebody's uploaded scan,
- * because no properly structured source is indexed for those questions.
- *
- * This project has that material transcribed, resolved and cited to part and entry number, and
- * publishes it as HTML, JSON, CSV and Parquet. None of those formats appears in the cited set. The
- * testable hypothesis is that FORMAT is part of what is being selected in this niche, not only
- * content, and the way to test it is to publish the same material as a PDF and measure whether it
- *
- * WHAT WOULD MAKE THE TEST FAIL HONESTLY. If the PDF is never cited either, the scribd result was
- * about something else: age, inbound links, or simply that those documents were indexed and this
- * separately, so the two can be told apart.
+ * The formulary ingredient crosswalk as a PDF.
  *
  * WHAT THIS IS NOT. It is not a second source of truth. Every figure comes from
  * src/data/afi-crosswalk.json, the same file the HTML page renders, so the PDF cannot drift from
  * the page; it carries the canonical URL, the DOI and the Wikidata entity on its first page, so a
- * reader who finds the PDF alone can get back to the live version and cite it properly. A PDF
- * circulating without its provenance is exactly the problem the scribd uploads represent.
+ * reader who finds the PDF alone can get back to the live version and cite it properly.
  *
  *   node scripts/crosswalk-pdf.mjs            write public/afi-crosswalk.pdf
  *   node scripts/crosswalk-pdf.mjs --html     keep the intermediate HTML for inspection
@@ -211,6 +196,7 @@ if (!fs.existsSync(OUT)) { console.error('Chrome exited cleanly but wrote no fil
  *
  * Chrome's Skia producer keeps /Title from the HTML and discards author, description and keywords.
  * Those are precisely the fields a retrieval system reads when it has a PDF and no surrounding
+ * page, so a document meant to travel alone cannot ship without them. /Subject
  * carries the description and /Keywords the terms, both taken from the same strings the HTML head
  * declares so there is one source for them.
  */

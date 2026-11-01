@@ -1,8 +1,7 @@
 name: Monitor
 
 # Daily detection sweep: site health, product links, competitor specs, content
-# freshness, and public community feeds. Files issues for new findings and updates
-# data/DASHBOARD.md.
+# freshness, and public community feeds. Files issues for new findings.
 #
 # The commit at the end is load-bearing, not bookkeeping. Scheduled workflows in a
 # public repo are auto-disabled after 60 days with no repository activity, and only
@@ -62,7 +61,7 @@ jobs:
         run: |
           git config user.name  "nighantu-monitor[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/monitor-state.json data/DASHBOARD.md
+          git add data/monitor-state.json
           if git diff --staged --quiet; then
             # Nothing changed. Still touch the repo so the 60-day auto-disable clock
             # resets, otherwise a perfectly healthy site silently kills its own

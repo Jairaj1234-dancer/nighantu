@@ -102,8 +102,7 @@ const DESCRIBED = {
   'manufacturer-register.json': 'A register of Indian Ayurvedic manufacturers with the website each publishes, the state it operates from, and what its robots.txt permits, measured one host at a time.',
   'manufacturer-register.csv': 'The manufacturer register as a table, with per-crawler permissions as columns.',
   'afi-crosswalk.pdf': 'The formulary ingredient crosswalk as a typeset document, generated from '
-    + 'afi-crosswalk.json so it cannot disagree with it. Published to test a measured hypothesis: '
-    + 'host above every publisher, so format may be part of what gets selected in this niche. It '
+    + 'afi-crosswalk.json so it cannot disagree with it. It '
     + 'carries the canonical address, the DOI and the Wikidata entity on page one.',
 };
 

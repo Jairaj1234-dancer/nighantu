@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22805684.svg)](https://doi.org/10.5281/zenodo.22805684)
 
 A static reference encyclopedia of Ayurvedic herbs, classical formulations and instruments,
-tracked links. It is deliberately separate from the Shopify storefront and never touches it.
+published by Age Ayurveda. It is deliberately separate from the Shopify storefront and never touches it.
 
 Zero-cost to run: static output on GitHub Pages, built by GitHub Actions.
 
@@ -33,7 +33,7 @@ scripts/apply-safety.mjs    workflow output -> data/safety.json, via the validat
 scripts/dravyaguna.mjs      parses rasa/guna/virya/vipaka out of the monographs
 scripts/compounds.mjs       constituent co-occurrence graph, computed from content/
 scripts/safety-refresh.mjs  quarterly: are published safety sources still saying it
-scripts/crawl-audit.mjs     crawlability gate aimed at AI crawlers, not Googlebot
+scripts/crawl-audit.mjs     crawlability gate
 scripts/verification.mjs    builds the published verification ledger from run artifacts
 scripts/api-index.mjs       extracts botanical identities from the API text (no agent tokens)
 scripts/apply-identity.mjs  workflow output -> binomials + substance classes, re-checked here
@@ -44,7 +44,7 @@ scripts/test/               negative tests; every one injects a fault and expect
 
 guides/                 hand-written guide pages (the Shirodhara hub)
 content/                generated, committed, published
-data/                   monitor state, citation log, DASHBOARD.md
+data/                   monitor state
 data/runs/              slimmed verification-run records (raw output is gitignored)
 ```
 
@@ -103,7 +103,8 @@ by name.
 1. No published file may originate from a denied vault path.
 2. No commercial strings (COGS, MRP, landed cost, competitive matrix, launch roadmap).
 3. No cross-tradition leakage.
-4. No heritage framing (Baidyanath, 1917) on the editorial site. That framing has a real job on
+4. No heritage framing (Baidyanath, 1917) on the editorial site. On a reference site it
+   undercuts neutrality.
 5. No wikilink syntax may survive into published content.
 6. Every page has an answer block of a sensible length.
 7. No herb count for Chyawanprash while the classical source is contested (45 vs 50 vs 18), and
@@ -235,8 +236,19 @@ Push to `main`. The workflow audits, builds, link-checks and deploys to GitHub P
 Site URL and base path come from `ATLAS_SITE` and `ATLAS_BASE`, set in the workflow. The
 move to `nighantu.ageayurveda.com` is one command once the DNS CNAME exists:
 `./scripts/use-subdomain.sh nighantu.ageayurveda.com`. It refuses to run until DNS
-actually resolves, so it cannot break the live site by going early. See
-[NEXT-STEPS.md](NEXT-STEPS.md).
+actually resolves, so it cannot break the live site by going early.
+
+## Machine-readable surface
+
+- `robots.txt`, `sitemap-index.xml`, an RSS feed, `llms.txt` and `llms-full.txt`.
+- A plain-Markdown twin of every page at its URL with `.md` appended, naming its canonical HTML URL.
+- Per page: a short answer block, a key-facts table, a citation block and JSON-LD. Deliberately
+  not `MedicalWebPage`, `Drug` or `MedicalIndication` schema, which invite a regulatory reading of
+  educational text.
+- Downloadable datasets under CC BY 4.0, generated from the monographs so none can drift from the
+  pages.
+- `scripts/crawl-audit.mjs` gates every page in the sitemap for a canonical, a title, description
+  and h1, parseable JSON-LD, and full rendering with JavaScript off.
 
 ## Automation
 
@@ -249,8 +261,7 @@ local scheduler, survives the machine being closed.
 | `monitor.yml` | daily 01:43 UTC | health, product links, competitor specs, freshness, public feeds |
 | `search-health.yml` | Mondays 06:41 UTC | Bing Webmaster figures |
 
-Findings become GitHub issues labelled `monitor`; trends go to
-[data/DASHBOARD.md](data/DASHBOARD.md), which is committed rather than published so the
+Findings become GitHub issues labelled `monitor`.
 
 Three design points worth knowing before changing anything:
 

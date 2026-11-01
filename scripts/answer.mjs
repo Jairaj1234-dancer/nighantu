@@ -152,6 +152,7 @@ const clampWords = (text, max = 62) => {
 
 /**
  * Compose a 40-60 word definitional answer placed directly under the H1. This is
+ * the passage most likely to be quoted verbatim, so it is built
  * only from facts already stated on the page, never inferred.
  */
 /**
@@ -178,6 +179,7 @@ export function composeAnswer({ title, kind, facts, sections, lead, group, subst
    *
    * It used to be, and it reached 492 of the herb blocks as "Usual dose: 3-6 g powder
    * twice daily". The answer block is the passage a reader sees first and the one an
+   * passage most likely to be quoted whole, and a dose in it, published by a
    * company that sells the substance, reads as prescribing rather than reference. The
    * classical dose stays on the page, in the body, where it is framed as what the
    * literature describes. It is read here only so the composer can avoid repeating it.
@@ -227,6 +229,7 @@ export function composeAnswer({ title, kind, facts, sections, lead, group, subst
      *
      * That filler reached 336 of the 802 answer blocks on this site, 42%, every one of them a herb
      * page whose `Ayurvedic Category` was empty. It is the passage a reader sees first and the one
+     * most likely to be quoted, and it is also the meta description, so it is the
      * sentence a searcher is shown in the result. /herb/kapikachhu/ is the clearest cost: one of
      * the highest-demand pages on the site, earning search impressions on its own bare name and
      * no clicks at all, opening with a sentence that says nothing.

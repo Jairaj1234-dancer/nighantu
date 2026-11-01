@@ -103,6 +103,7 @@ export const longDate = (iso: string) => {
 export const placeOf = (p: Practice) => [p.address.locality, p.address.city, stateOf(p)].filter((x, i, a) => x && a.indexOf(x) === i).join(', ');
 
 /**
+ * The one sentence a reader should be able to lift from a listing whole: who
  * practises where, with what qualification, at what address and number, and on whose say-so. The
  * page's lead, its MedicalClinic description and its Markdown twin all use this, so they cannot drift.
  */

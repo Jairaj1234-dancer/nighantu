@@ -110,6 +110,7 @@ ul, ol { padding-left: 1.15rem; }
 li { margin: .3rem 0; }
 
 /* The lead answer. First thing on the page, and the passage most likely to be
+   quoted elsewhere, so it is given real visual weight. */
 .answer {
   background: var(--accent-bg);
   border-left: 3px solid var(--green);

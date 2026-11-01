@@ -23,6 +23,7 @@ name: Check for retractions
 on:
   schedule:
     # 03:19 UTC on Mondays. Off the hour, off midnight, and away from the 1st, 3rd and 8th which
+    # the citation refresh and other jobs already use.
     - cron: '19 3 * * 1'
   workflow_dispatch:
 

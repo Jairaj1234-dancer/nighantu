@@ -13,6 +13,7 @@
  *
  *   [slug].jsonld.ts  emits it as `botanicalFamily` inside additionalProperty, and that array is
  *                     filtered on truthiness, so an empty family is simply absent from the
+ *                     structured data.
  *   [slug].md.ts      emits it as the `Family` row of the markdown twin, which is the copy written
  *                     for machine readers.
  *   answer.mjs        composes "from the X family" into the answer block, which is the meta
