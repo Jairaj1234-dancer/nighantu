@@ -559,7 +559,7 @@
       "https://nighantu.ageayurveda.com/concept/vega-dharana/": "fbadf2020a813c01",
       "https://nighantu.ageayurveda.com/concept/vikriti-assessment/": "1bb71c4dc728cfa2",
       "https://nighantu.ageayurveda.com/concept/vyadhikshamatva/": "e8d881b77e4c7b7e",
-      "https://nighantu.ageayurveda.com/corrections/": "c8642c858836b2e0",
+      "https://nighantu.ageayurveda.com/corrections/": "fd3464df38295a28",
       "https://nighantu.ageayurveda.com/crosswalk/": "a796a74292003e33",
       "https://nighantu.ageayurveda.com/datasets/": "316a43d7dcbc58e2",
       "https://nighantu.ageayurveda.com/device/": "3d82f2d0958e46bd",
@@ -1273,7 +1273,7 @@
       "https://nighantu.ageayurveda.com/herb/tintidika/": "b19080f1a105b9d4",
       "https://nighantu.ageayurveda.com/herb/trapusha/": "a8c3d15877c60a5b",
       "https://nighantu.ageayurveda.com/herb/tribhuvan-kirti-rasa/": "b691a9f28890de51",
-      "https://nighantu.ageayurveda.com/herb/trikatu/": "aef5c4f90261ac8b",
+      "https://nighantu.ageayurveda.com/herb/trikatu/": "ec3dd53df989ead4",
       "https://nighantu.ageayurveda.com/herb/triphala-herbs/": "e01d2047ae66f3ef",
       "https://nighantu.ageayurveda.com/herb/triphala/": "007fefb7ccf1a3b6",
       "https://nighantu.ageayurveda.com/herb/trivanga-bhasma/": "3a9c161dada9df9f",
@@ -4577,8 +4577,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b45bacf9e83db25e",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9d5cc5ab940d5980"
     },
-    "lastSubmittedAt": "2026-11-02T11:11:50.709Z",
-    "lastSubmittedCount": 25,
+    "lastSubmittedAt": "2026-11-02T11:49:52.660Z",
+    "lastSubmittedCount": 2,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -10033,6 +10033,6 @@
     "seen": 22,
     "surfaced": 1
   },
-  "updatedAt": "2026-11-02T11:11:50.709Z",
+  "updatedAt": "2026-11-02T11:49:52.661Z",
   "version": 1
 }
