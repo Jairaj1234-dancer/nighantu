@@ -2,7 +2,11 @@
 /**
  * Apply the AFI composition workflow: verified ingredient tables for formulation pages.
  *
- *   node scripts/apply-composition.mjs <workflow-result.json> [--dry-run]
+ *   node scripts/apply-composition.mjs <workflow-result.json> [--dry-run] [--merge]
+ *
+ * Without --merge the result replaces src/data/composition.json and the run ledger whole. With
+ * --merge it is added to them: records and ledger entries for slugs not in this result are kept,
+ * as written, including the fields later scripts added to them. Every gate below applies either way.
  *
  * A table is published only when:
  *  - the page is a named formulation and the entry was found in AFI Part I or II;
@@ -18,6 +22,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const DRY = process.argv.includes('--dry-run');
+const MERGE = process.argv.includes('--merge');
 const IN = process.argv.slice(2).find((a) => !a.startsWith('--'));
 if (!IN || !fs.existsSync(IN)) { console.error('usage: node scripts/apply-composition.mjs <workflow-result.json> [--dry-run]'); process.exit(1); }
 
@@ -112,6 +117,21 @@ for (const { slug, extract: ex, verify: v } of done) {
   ledger.published.push({ slug, afi: `Part ${ex.afiPart} ${ex.entryNumber}`, rows: ingredients.length, ocrCorrected: rows.filter((r) => r.ocrCorrected).length });
 }
 
+if (MERGE) {
+  const here = new Set(done.map((d) => d.slug));
+  const keep = (list) => (list ?? []).filter((e) => !here.has(e.slug));
+  const oldOut = JSON.parse(fs.readFileSync(path.join('src', 'data', 'composition.json'), 'utf8'));
+  const oldLedger = JSON.parse(fs.readFileSync(path.join('data', 'runs', 'afi-composition.json'), 'utf8'));
+  const clash = Object.keys(oldOut.records).filter((s) => here.has(s));
+  if (clash.length) { console.error(`--merge would replace existing records: ${clash.join(', ')}`); process.exit(1); }
+  out.note = oldOut.note;
+  out.records = { ...oldOut.records, ...out.records };
+  ledger.published = [...keep(oldLedger.published), ...ledger.published];
+  ledger.notFound = [...keep(oldLedger.notFound), ...ledger.notFound];
+  ledger.rejected = [...keep(oldLedger.rejected), ...ledger.rejected];
+  ledger.dbDisagreements = { ...oldLedger.dbDisagreements, ...ledger.dbDisagreements };
+  ledger.examined = ledger.published.length + ledger.notFound.length + ledger.rejected.length;
+}
 out.records = Object.fromEntries(Object.entries(out.records).sort(([a], [b]) => a.localeCompare(b)));
 ledger.summary = {
   examined: ledger.examined, published: ledger.published.length,
@@ -121,6 +141,6 @@ ledger.summary = {
 };
 console.log(JSON.stringify(ledger.summary));
 if (DRY) { console.log(ledger.rejected.map((r) => `${r.slug}: ${r.why}`).join('\n')); process.exit(0); }
-fs.writeFileSync(path.join('src', 'data', 'composition.json'), `${JSON.stringify(out, null, 1)}\n`);
+fs.writeFileSync(path.join('src', 'data', 'composition.json'), `${JSON.stringify(out, null, MERGE ? 2 : 1)}\n`);
 fs.writeFileSync(path.join('data', 'runs', 'afi-composition.json'), `${JSON.stringify(ledger, null, 1)}\n`);
 console.log('wrote src/data/composition.json, data/runs/afi-composition.json');
