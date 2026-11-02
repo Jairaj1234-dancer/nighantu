@@ -10,9 +10,9 @@
     "modified": "2026-10-08"
   },
   "afi": {
-    "hash": "c7abeb41bb8b8435",
+    "hash": "88086b06468ad010",
     "published": "2026-10-09",
-    "modified": "2026-10-09"
+    "modified": "2026-11-02"
   },
   "choosing": {
     "hash": "6251eb54f75c7f5f",
@@ -210,14 +210,14 @@
     "modified": "2026-10-20"
   },
   "crosswalk": {
-    "hash": "aabee33977fa16ff",
+    "hash": "d0bdea671b0f7c50",
     "published": "2026-10-10",
-    "modified": "2026-11-01"
+    "modified": "2026-11-02"
   },
   "datasets": {
-    "hash": "bf00ecbf2d0d55ff",
+    "hash": "18ab66037e20995e",
     "published": "2026-10-10",
-    "modified": "2026-10-26"
+    "modified": "2026-11-02"
   },
   "device": {
     "hash": "c387c5489c23f222",
@@ -425,9 +425,9 @@
     "modified": "2026-10-11"
   },
   "formulation": {
-    "hash": "a0c28c38cd64461d",
+    "hash": "9c1ae3162e4e295f",
     "published": "2026-09-09",
-    "modified": "2026-10-30"
+    "modified": "2026-11-02"
   },
   "formulation/abhayarishta": {
     "hash": "9f698e7b3d7e9fe4",
@@ -565,9 +565,9 @@
     "modified": "2026-10-30"
   },
   "formulation/balaswagandhadi-thailam": {
-    "hash": "da2ecbc52d1fcba1",
+    "hash": "9bd62ea7214d5585",
     "published": "2026-09-09",
-    "modified": "2026-10-22"
+    "modified": "2026-11-02"
   },
   "formulation/bhallataka-taila": {
     "hash": "2186242621c09e4b",
@@ -640,9 +640,9 @@
     "modified": "2026-10-22"
   },
   "formulation/dadimashtaka-churna": {
-    "hash": "046a94bde9ff981a",
+    "hash": "97a8719866d2cd9d",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-11-02"
   },
   "formulation/dashamoola-katutraya-kashayam": {
     "hash": "8cbfb2271e34cc26",
@@ -660,9 +660,9 @@
     "modified": "2026-10-30"
   },
   "formulation/dashmool-dashmoolarishta": {
-    "hash": "87b3124646196aac",
+    "hash": "1d23b358255a78b9",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-11-02"
   },
   "formulation/dhanwantaram-gutika": {
     "hash": "51cfd68333a908a7",
@@ -785,9 +785,9 @@
     "modified": "2026-10-30"
   },
   "formulation/irimedadi-taila": {
-    "hash": "eec301c3fa65287d",
+    "hash": "974bb800ae8f32ec",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-11-02"
   },
   "formulation/jatyadi-ghrita": {
     "hash": "35811f70a19a14e1",
@@ -1130,9 +1130,9 @@
     "modified": "2026-10-22"
   },
   "formulation/vidaryadi-ghrita": {
-    "hash": "3eef8135b76a6711",
+    "hash": "5a1f6bc109db12e4",
     "published": "2026-09-09",
-    "modified": "2026-10-21"
+    "modified": "2026-11-02"
   },
   "formulation/vyoshadi-guggulu": {
     "hash": "79bbb67a86f5749b",

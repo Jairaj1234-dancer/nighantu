@@ -1,6 +1,6 @@
 {
  "run": "afi-composition",
- "examined": 135,
+ "examined": 142,
  "published": [
   {
    "slug": "abhayarishta",
@@ -601,19 +601,39 @@
    "afi": "Part I 5:7",
    "rows": 29,
    "ocrCorrected": 16
+  },
+  {
+   "slug": "irimedadi-taila",
+   "afi": "Part I 8:2",
+   "rows": 41,
+   "ocrCorrected": 22
+  },
+  {
+   "slug": "vidaryadi-ghrita",
+   "afi": "Part I 6:41",
+   "rows": 23,
+   "ocrCorrected": 11
+  },
+  {
+   "slug": "balaswagandhadi-thailam",
+   "afi": "Part I 8:36",
+   "rows": 23,
+   "ocrCorrected": 8
+  },
+  {
+   "slug": "dadimashtaka-churna",
+   "afi": "Part II 7.7",
+   "rows": 14,
+   "ocrCorrected": 8
+  },
+  {
+   "slug": "dashmool-dashmoolarishta",
+   "afi": "Part I 1:18",
+   "rows": 72,
+   "ocrCorrected": 36
   }
  ],
  "notFound": [
-  {
-   "slug": "amalaka-rasayana",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I (2003) or Part II (2000). Amalaki shows up only as an ingredient in other entries. Nothing should be published as an AFI table for this page. The page's composition section is "
-  },
-  {
-   "slug": "amalaki-rasayana",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I (2003) or Part II (2000). Both sources are at /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/. No AFI ingredient table can be published for this page."
-  },
   {
    "slug": "ardraka-svarasa",
    "why": "single-drug-or-generic-category"
@@ -623,70 +643,20 @@
    "why": "single-drug-or-generic-category"
   },
   {
-   "slug": "asanadi-kwath",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I (2003) or Part II (2000). Searched spellings: asanadi, asana, sanadi, and all kvatha/kasaya headings and the Part I kvatha contents table. Companion DB has no formulation match"
-  },
-  {
    "slug": "badama-taila",
    "why": "single-drug-or-generic-category"
-  },
-  {
-   "slug": "bakuchi-taila",
-   "why": "not in AFI Part I or II",
-   "note": "Searched both AFI OCR texts for bakuci/bakuchi/bavaci/vakuci/avalguja/somaraji spellings and for entry headings. Neither Part I nor Part II has an entry for Bakuchi Taila. Somaraji (a synonym of bakuc"
-  },
-  {
-   "slug": "bhallataka-taila",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I (2003) or Part II (2000). The companion DB has no formulation with a name like '%allat%', so there was nothing to compare. No composition table can be published from AFI for th"
   },
   {
    "slug": "bhringaraja-svarasa",
    "why": "single-drug-or-generic-category"
   },
   {
-   "slug": "brihatyadi-kashayam",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I or II. This is a Kerala Sahasrayogam-tradition kashayam, and those are often missing from AFI. The companion DB has no matching formulation either: its only Brhat-/Vrhat- rows "
-  },
-  {
-   "slug": "dhanwantaram-kashayam",
-   "why": "not in AFI Part I or II",
-   "note": "Not found. Dhanwantaram Kashayam comes from the Kerala Sahasrayogam tradition and is not in AFI Part I (2003) or Part II (2000). No ingredient table can be published from AFI for this page, and the pa"
-  },
-  {
    "slug": "dhatupaushtik-churna",
    "why": "proprietary-product"
   },
   {
-   "slug": "eladi-thailam",
-   "why": "not in AFI Part I or II",
-   "note": "Not found. This is a Kerala Sahasrayogam thailam, which is normal to be absent from AFI Part I/II. Searched: eladi/elaadi/spaced variants, ela+taila/tail/thail, and all chapter-8 Taila headings in bot"
-  },
-  {
-   "slug": "elakanadi-kashayam",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in either AFI part. That is the expected result for a Kerala Sahasrayogam kashayam. Sources searched: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt (Part I) a"
-  },
-  {
    "slug": "eranda-taila",
    "why": "single-drug-or-generic-category"
-  },
-  {
-   "slug": "gangadhara-churna",
-   "why": "not in AFI Part I or II",
-   "note": "No match for plain Gangadhara in either AFI text (searched gangadh/gamgadh variants, and ran grep excluding brhat/laghu). The companion DB has no Gangadhara row either (searched name_iast/english for "
-  },
-  {
-   "slug": "gulakanda",
-   "why": "not in AFI Part I or II",
-   "note": "Gulakanda (gulkand, a rose petal confection) has no entry in AFI Part I (2003) or Part II (2000), so there is no ingredient table to publish from AFI. The companion DB has no Gulakanda/Gulkand formula"
-  },
-  {
-   "slug": "himasagara-thailam",
-   "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I or Part II. This is expected for a Kerala (Sahasrayogam-tradition) thailam. The companion DB has no Himasagara formulation, so there are no rows to compare. The page's 'Listed "
   },
   {
    "slug": "kanthasudharak-vati",
@@ -697,132 +667,145 @@
    "why": "single-drug-or-generic-category"
   },
   {
+   "slug": "amalaka-rasayana",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry. No heading, contents or index line for amalaka/amalaki/dhatri rasayana in either part."
+  },
+  {
+   "slug": "amalaki-rasayana",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry. No heading, contents or index line for amalaka/amalaki/dhatri rasayana in either part."
+  },
+  {
+   "slug": "asanadi-kwath",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry. Only a gana mention at I:3528."
+  },
+  {
+   "slug": "bakuchi-taila",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry under this name. Somaraji Taila (I 8:61) exists and the book glosses somaraji as bakuci, but nothing in the book says that compound oil is this page's subject."
+  },
+  {
+   "slug": "bhallataka-taila",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry. Bhallataka appears in modaka, ghrta and rasayana entries only."
+  },
+  {
+   "slug": "brihatyadi-kashayam",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry."
+  },
+  {
+   "slug": "dhanwantaram-kashayam",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No kasaya. Only Dhanvantara Ghrta, Taila and Gutika."
+  },
+  {
+   "slug": "eladi-thailam",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No taila. Only Eladi Ghrta, Curna and Gutika."
+  },
+  {
+   "slug": "elakanadi-kashayam",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry."
+  },
+  {
+   "slug": "gangadhara-churna",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No plain entry. Brhat Gangadhara (I 7:25) and Laghugangadhara (II 7.14) carry distinguishing prefixes and are other formulations."
+  },
+  {
+   "slug": "gulakanda",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry."
+  },
+  {
+   "slug": "himasagara-thailam",
+   "why": "not in AFI Part I or II",
+   "note": "Re-checked 2 Nov 2026. No entry."
+  },
+  {
    "slug": "karpooradi-thailam",
    "why": "not in AFI Part I or II",
-   "note": "Not found is the expected outcome here: Karpooradi Thailam belongs to the Sahasrayogam/Kerala taila tradition, much of which AFI Part I and II do not carry. Searches run over both OCR files: case-inse"
+   "note": "Re-checked 2 Nov 2026. No taila. Only Karpuradi Curna and Kuzambu."
   },
   {
    "slug": "krimighna-vati",
    "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I (2003, 2nd rev. English ed.) or Part II (2000, 1st English ed.). This is a normal outcome: Krimighna is a classical gana (drug group) name rather than an AFI formulary title, a"
+   "note": "Re-checked 2 Nov 2026. No vati. Krmighna Kasaya Curna (II 4:5) is a different preparation."
   },
   {
    "slug": "kulathadi-kwath",
    "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I or Part II. This is a plausible-and-normal outcome: Kulathadi Kwath is a Kerala-tradition kashayam name (page group \\\"Kashayams-Decoctions\\\"), and Sahasrayogam-lineage kashayam"
+   "note": "Re-checked 2 Nov 2026. No entry."
   },
   {
    "slug": "kuntalakanti-tailam",
    "why": "not in AFI Part I or II",
-   "note": "Kuntalakanti Tailam is not present in AFI Part I (2nd revised English edition, 2003) or AFI Part II (1st English edition, 2000). It is a Kerala-tradition hair taila of the type commonly absent from AF"
+   "note": "Re-checked 2 Nov 2026. No entry."
   },
   {
    "slug": "murivenna",
    "why": "not in AFI Part I or II",
-   "note": "Not found in AFI Part I or Part II. This is the expected outcome for a Kerala Sahasrayogam/Chikitsamanjari-tradition venna. No rows are returned because nothing may be transcribed that the AFI text do"
+   "note": "Re-checked 2 Nov 2026. No entry."
   },
   {
    "slug": "patrangasava",
    "why": "not in AFI Part I or II",
-   "note": "Correct outcome is 'not found'. Patrangasava is absent from AFI Part I (2nd rev. English ed., 2003) and AFI Part II (1st English ed., 2000). Evidence: (a) Part I Asava & Arista contents list 37 formul"
+   "note": "Re-checked 2 Nov 2026. No entry."
   },
   {
    "slug": "pippali-khanda",
    "why": "not in AFI Part I or II",
-   "note": "Searched both OCR texts for \"Pippali Khanda\" and spelling variants (Pippalikhanda, Pippaly-, Pippali Khand, khanda+pippali on one line): no hit anywhere except an unrelated ingredient mention (Part I "
+   "note": "Re-checked 2 Nov 2026. No entry."
   },
   {
    "slug": "punarnavadi-guggulu",
    "why": "not in AFI Part I or II",
-   "note": "Read directly from /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232172.txt (AFI Part II, 1st English edn.), lines 5958-6170, not from the prior transcription.\n\nWhat the entry is."
+   "note": "Re-checked 2 Nov 2026. No entry under this name. Punarnava Guggulu (II 5:2) is the nearest, and nothing in the book establishes that it is this page's subject."
   },
   {
    "slug": "sukumara-kashayam",
    "why": "not in AFI Part I or II",
-   "note": "Searched both OCR texts case-insensitively for sukum/sukhum/sukumār across all spellings; Part II (afi-b32232172.txt) returns zero hits for any Sukumara name, and its kasaya/kvatha chapter (4:1 throug"
+   "note": "Re-checked 2 Nov 2026. No kasaya. Only Sukumara Ghrta (I 6:44)."
   },
   {
    "slug": "varanadi-ghritam",
    "why": "not in AFI Part I or II",
-   "note": "Searched both OCR texts with several spellings (varanadi, varunadi, varaṇadi, Varana, Varuna, plus loose regex v[aā]r[au]?n?[aā]?[dḍ]i). No Ghrta entry of this name exists. Verified by enumerating the"
+   "note": "Re-checked 2 Nov 2026. No ghrta. Only Varunadi Kvatha Curna (II 4:22)."
+  },
+  {
+   "slug": "avaleha",
+   "why": "single-drug-or-generic-category"
+  },
+  {
+   "slug": "coconut-oil-narikela-taila",
+   "why": "single-drug-or-generic-category"
+  },
+  {
+   "slug": "guggulu",
+   "why": "single-drug-or-generic-category"
+  },
+  {
+   "slug": "guggulu-herb",
+   "why": "single-drug-or-generic-category"
+  },
+  {
+   "slug": "kapha-shirodhara-taila",
+   "why": "proprietary-product"
+  },
+  {
+   "slug": "pitta-shirodhara-taila",
+   "why": "proprietary-product"
+  },
+  {
+   "slug": "vata-shirodhara-taila",
+   "why": "proprietary-product"
   }
  ],
- "rejected": [
-  {
-   "slug": "balaswagandhadi-thailam",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 2,
-     "problem": "The ocrCorrected note misdescribes the source. It states: \"lines 21024, 21025, 21027 and 21028 carry only stray marginal digits and line 21026 reads '32. Canda (Rz.) RL'\". Line 21026 is quoted correctly, but 21024, 21025, 21027 and 21028 are not \"stray marginal digits\" - they are byte-empty lines. I dumped them (awk NR>=21024 && NR<=21028 piped through od -c) and each renders as an empty string between newlines; the only non-empty line in that span is 21026. This is the same defect class the round was rejected for (a declared line citation the source does not bear out), and it is newly introduced: the prior round's row 2 note read \"between line 21023 (item 1) and the page number at line 21029 the right-hand column is blank except for the stray 'RL' that trails line 21026\", which was accurate. The cell values themselves are right and nothing published changes.",
-     "correct": "Keep name \"Asvagandha\", gloss null, part null, quantity \"768 g. (drugs 1 to 3 in equal proportion)\", illegible true. Fix only the sentence: no \"2.\" line survives anywhere in the OCR - between line 21023 (item 1) and the page number at line 21029 (\"145\"), lines 21024, 21025, 21027 and 21028 are blank and line 21026 reads \"32. Canda (Rz.) RL\", whose trailing \"RL\" sits in the position item 2's plant part would occupy but is not determinable as any abbreviation. Everything else in the transcription is confirmed and must be carried through unchanged."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Checked against /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt and afi-b32232172.txt, read-only; no repo file touched.\n\nENTRY IDENTITY - confirmed. Line 21011 is a two-column line whose right column reads \"8:36 BALASVAGANDHALAKSADI TAILA\"; 21012 right column \"(Sahasrayoga, Tailaprakarana; 13.)\"; verse 21013 \"बलाश्वगन्धालाक्षाणां क्वाथे पदावशेषिते\", 21015 \"...दधिमस्तुचतुर्गुणे\", 21016-21018 the kalka compound, 21019 \"कल्कैरेभिः सुसंयुक्तेःकार्षिकेश्च सुपेषितैः\", 21022 the Sanskrit source \"(सहस्रे योग, तेल प्रकरण; 13)\". entryNumber, entryHeading, classicalSource an"
-  },
-  {
-   "slug": "dadimashtaka-churna",
-   "why": "verifier: reject",
-   "rowErrors": [],
-   "missingRows": [],
-   "reasons": "ENTRY IDENTITY - CONFIRMED INDEPENDENTLY. Heading '7.7 DADIMASTAKA CURNA' stands at line 7799 of /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232172.txt, between '7.6 DASANA SAMSKARA CURNA' (7697) and '7.8 NARACA CURNA' (7870); line 7809 reads exactly '(Bhaisajyaratnavali, Grahanirogadhikara; 36-37)'. grep -i 'dadimas' over Part II returns only 7240 (contents), 7799 (heading), 27668 and 29514 (index); over Part I it returns nothing. grep -iE 'astaka|ashtak' over Part II returns only Kutajastaka and this entry, so there is no Laghu/Maha/Brhat Dadimastaka to confuse it with"
-  },
-  {
-   "slug": "dashmool-dashmoolarishta",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 21,
-     "problem": "Part is published as \"Rt.\" but line 4314 prints \"१; Rt) 96 8\" - the part token is \"Rt)\" with no full stop. A full stop is supplied, and the row's ocrCorrected says only \"Part read from the printed 'Rt'\", which asserts the value came from the print. This is the identical defect class as the blocking row-3 objection from the previous round (value altered while the note claims it was read), and it also falsifies the entry note's blanket claim that \"Punctuation is never supplied silently\".",
-     "correct": "Rt  (reproduce the print exactly, as rows 3, 30, 36, 48 and 66 now do) - or keep \"Rt.\" only if the row declares outright that the full stop is supplied, the way row 31 declares it for \"(Fl)\" to \"Fl.\""
-    },
-    {
-     "n": 8,
-     "problem": "Part is published as \"Pl.\" but line 4301 prints \"8. Brhati (Ph) 240 g.\" - the token is \"Ph\", with no full stop. The note declares the h/l glyph read but not the supplied full stop, so a character is added to the cell without being declared. Sibling rows 6, 7, 9 are clean because their tokens \"(?1.)\" do print the stop.",
-     "correct": "Pl  (as printed, with only the declared h-to-l glyph read) - or \"Pl.\" with the supplied full stop declared in ocrCorrected, as row 31 does"
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Identity confirmed. Line 4239 right column carries \"1 : 18 DAS AMULARISTA\", source at 4240-4241 (\"(Sarmgadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89)\"), verse 4242-4293 in the right column closing with the Devanagari colophon at 4293. Case-insensitive grep for \"amularis\" in Part I returns only 4239 plus the two index lines 47250 and 58802; Part II has no Dasamularista (only 8:6 Dasamula Taila at 9809, a chagamamsa decoction mention at 6948, and a dasamula kvatha bhavana at 21019). No Laghu/Maha/Brhat variant exists. So \"found: true\" and the Part/entry number are right.\n\nColumn hygiene chec"
-  },
-  {
-   "slug": "irimedadi-taila",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 32,
-     "problem": "illegible is true although no cell in the row is left blank. Line 19020 right column prints \"32. Mamsi(jatamamsi) (Rz/Rt.) 12g.\" and the row records all four cells filled (name Mamsi, gloss jatamamsi, part Rz./Rt., quantity 12 g); the row's own ocrCorrected says only spacing and the missing period after Rz. were normalised. This is the identical defect the verifier objected to at row 4, fixed there but left standing here. It also makes two statements in the record false: the note's claim that \"the illegible rows are exactly 5, 6, 10, 11, 12, 22, 23, 32, 33, 35 and 36, and each of those has at least one cell left blank because the print cannot be read\", and the row-4 howResolved's claim that with that change the flag now matches the stated convention on every row.",
-     "correct": "illegible should be false (and the two consistency statements in note and in the row-4 howResolved corrected accordingly). The cell values themselves are right."
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Entry identity confirmed. Line 19000 is the heading line; its left-column heading text is degraded to \"wee oN aloes em\" (its right column carries composition item 22), so \"8:2 ARIMEDADI TAILA\" is a reconstruction, but it is fixed by four independent points I verified: the source line at 19001-19002 (\"stangahrdaya, Uttarasthana,\" / \"Adhyaya 22; 90-93%, 95-96)\"), the Group 8 contents table at 18215-18216 placing Arimedadi Taila at page 129 between Anu Taila (18213) and Asanavilvadi Taila (18217), the next heading \"8:3 ASANABILVADI TAILA\" at 19067 with its Sahasrayoga source at 19068, and the run"
-  },
-  {
-   "slug": "vidaryadi-ghrita",
-   "why": "verifier: reject",
-   "rowErrors": [
-    {
-     "n": 4,
-     "problem": "Source misquoted, on the one line where the column break is least visible. Line 14970 is byte-for-byte \"36. Truti 0 (Sd.) 4.92 8.14  Vesciva (sveta punamava) (Rt.) 38.4 g.\" (verified with od -c: no pipe character). The objectionsResolved column-contamination paragraph, which presents five verbatim line quotations as its proof of no left-column leakage, renders this one as \"36. Truti 0 (Sd.) 4.92 8.|4  Vesciva ...\", fabricating the column-break character that is exactly what it claims to demonstrate; the other four quotes (14967, 14968, 14969, 14971) are verbatim. Row 4's own ocrCorrected likewise states the line \"prints\" \"4  Vesciva (sveta punamava) (Rt.) 38.4 g.\", presenting as printed a list number that is in fact fused into the left column's unit glyph as \"8.14\". The recorded cells (Vrsciva / sveta punarnava / Rt. / 38.4 g.) are themselves exact.",
-     "correct": "Quote line 14970 as it actually prints: \"36. Truti 0 (Sd.) 4.92 8.14  Vesciva (sveta punamava) (Rt.) 38.4 g.\", and state in row 4's note that the list number 4 survives only as the final digit of the fused token \"8.14\" (confirmed independently by the verse position of वृश्चीव and the unbroken 3-5 sequence). Cell values unchanged."
-    },
-    {
-     "n": 14,
-     "problem": "Undamaged printed text altered on a rationale the source contradicts. Line 14995 prints \"(Satavari)\" with a capital S; the gloss is recorded lower case as \"satavari\". The declared ground is \"AFI's lower-case printing of these parenthetical synonyms elsewhere in this same list\", but this entry's typography is inconsistent, not lower case: it prints \"(sveta punamava)\" lower case at 14970 yet \"(Satavari)\" at 14995 and \"(Sveta sariva)\" at 15000 capitalised, and 4:31 corroborates capitals at 10260 \"(Sveta punarnava)\" and 10275 \"(Sveta sariva.)\". The change is declared but not forced, and is applied to a cell that is legible exactly as printed.",
-     "correct": "Satavari"
-    },
-    {
-     "n": 19,
-     "problem": "Same defect. Line 15000 prints \"19. Gopa suta (Sveta sariva) (Rt.) 38.4 g.\" cleanly, with a capital S; the gloss is recorded lower case as \"sveta sariva\" under the same case-normalisation rationale, which the entry's own mixed capitalisation and 4:31's capitalised \"(Sveta sariva.)\" at 10275 undercut. Name, part and quantity are exact.",
-     "correct": "Sveta sariva"
-    }
-   ],
-   "missingRows": [],
-   "reasons": "Verified independently at source: /Users/jairajsharma/Projects/ayurveda-atlas/sources-private/afi-b32232184.txt lines 14940-15020 read raw, plus 10220-10280, 11960-11975, 48437, 48493, 53060/53111, 53826/53884, 14823, 15017, 14944/14946, 10815, 45676.\n\nENTRY IDENTITY: confirmed and not a variant. Sequence holds (6:40 VASTYAMAYANTAKA GHRTA at 14823, 6:42 SATPALA GHRTA at 15017); contents prints 40/41/42 at 11965/11968/11971; formulary index 48437 \"159. VIDARYADI GHRTA\"; alphabetical index pairs vidaryadi ghrta with 6:41. grep \"vidary\" in Part I returns only 4:31 VIDARYADI KVATHA CURNA (a curna "
-  }
- ],
+ "rejected": [],
  "dbDisagreements": {
   "abhayarishta": [
    "Companion DB has no Abhayarishta row in formulations (searched name_iast/english for 'abh', 'bhay'), so no ingredient rows to compare."
@@ -1501,11 +1484,11 @@
   ]
  },
  "summary": {
-  "examined": 135,
-  "published": 100,
-  "notInAfi": 30,
-  "rejected": 5,
-  "rows": 1937,
+  "examined": 142,
+  "published": 105,
+  "notInAfi": 37,
+  "rejected": 0,
+  "rows": 2110,
   "pagesWhereDbDisagrees": 122
  }
 }

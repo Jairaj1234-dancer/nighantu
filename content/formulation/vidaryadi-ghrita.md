@@ -25,19 +25,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Vidaryadi
 |----------|------|
 | English | Vidaryadi Ghrita |
 
-## Key Ingredients
-
-- [Vidari](/herb/vidari/) (Pueraria tuberosa) - 38.4g
-- [Eranda](/herb/eranda/) (Ricinus communis / Castor) - 38.4g
-- [Punarnava](/herb/punarnava/) (Boerhaavia diffusa) - 38.4g
-- [Devadaru](/herb/devadaru/) (Cedrus deodara) - 38.4g
-- Dashamula group herbs including [Shalparni](/herb/shalparni/), Prishnaparni, [Brihati](/herb/brihati/), [Kantakari](/herb/kantakari/), [Gokshura](/herb/gokshura/)
-- [Shatavari](/herb/shatavari/) (Asparagus racemosus) - 38.4g
-- [Jivanti](/herb/jivanti/) (Leptadenia reticulata) - 38.4g
-- [Sariva](/herb/sariva/) (Hemidesmus indicus) - 38.4g
-- [Ghrita](/herb/ghrita/) (clarified cow butter)
-- [Ksheera](/herb/ksheera/) (cow milk)
-
 ## Where is it described in the classical texts?
 
 Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described in Ashtanga Hridaya Sutrasthana 15/9-10
@@ -73,10 +60,7 @@ Ashtanga Hridayam Chikitsasthana 3/9 (main reference); Vidaryadi Gana described 
 
 ## What is it made of?
 
-### Key Active Markers
-
-- Derived from constituent herbs (see individual herb profiles)
-- Standardized on primary bioactive markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
 
 ## Dosage forms and preparation
 

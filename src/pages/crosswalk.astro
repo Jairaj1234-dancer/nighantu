@@ -84,7 +84,7 @@ const jsonld = [
   trail={[{ label: 'Formulary ingredient names' }]} jsonld={jsonld}>
   <p class="answer">
     The Ayurvedic Formulary of India names its ingredients in Sanskrit, and it does not use one name
-    per drug. Across the 101 entries transcribed on this site, <strong>{n(s.ingredientRows)} ingredient
+    per drug. Across the 106 entries transcribed on this site, <strong>{n(s.ingredientRows)} ingredient
     rows use {n(s.distinctNames)} distinct spellings</strong>. <i>Abhaya</i> and <i>Pathya</i> are both
     haritaki. <i>Nagara</i> is sunthi. <i>Marica</i> is black pepper. This resolves each name to a
     botanical identity where one could be established, and says plainly where one could not.
@@ -100,13 +100,13 @@ const jsonld = [
     <caption>What is here</caption>
     <tbody>
       {/*
-        "101 entries transcribed here", not "101 formulary entries". The formulary is transcribed
-        101 times on this site but those cover 96 DISTINCT entries: five formulations were
+        "106 entries transcribed here", not "106 formulary entries". The formulary is transcribed
+        106 times on this site but those cover 100 DISTINCT entries: six formulations were
         transcribed twice, and one of those pairs, mahasudarshan against sudarshan, is a deliberate
-        comparison and must not be merged away. Calling them 101 formulary entries overstates how
-        much of the formulary is covered by five.
+        comparison and must not be merged away. Calling them 106 formulary entries overstates how
+        much of the formulary is covered by six.
       */}
-      <tr><th scope="row">Ingredient rows covered</th><td>{n(s.ingredientRows)}, across the 101 entries transcribed here</td></tr>
+      <tr><th scope="row">Ingredient rows covered</th><td>{n(s.ingredientRows)}, across the 106 entries transcribed here</td></tr>
       <tr><th scope="row">Distinct names</th><td>{n(s.distinctNames)}</td></tr>
       <tr><th scope="row">Resolved to a botanical identity</th><td>{n(s.namesResolved)} names, {n(s.rowsResolved)} rows</td></tr>
       <tr><th scope="row">Of the plant rows</th><td>{n(s.plantRowsResolved)} of {n(s.plantRows)}</td></tr>

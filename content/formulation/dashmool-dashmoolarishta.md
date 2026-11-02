@@ -25,12 +25,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Arishtas-Asavas-Fermented/Dashmoo
 |----------|------|
 | English | [Dashmool Dashmoolarishta](/formulation/dashmool-dashmoolarishta/) |
 
-## Key Ingredients
-
-- Brihat Panchamoola (Five major roots): [Bilva](/herb/bilva/) (Aegle marmelos), [Shyonaka](/herb/shyonaka/) (Oroxylum indicum), [Gambhari](/herb/gambhari/) (Gmelina arborea), [Patala](/herb/patala/) (Stereospermum suaveolens), [Agnimantha](/herb/agnimantha/) (Premna mucronata)
-- Laghu Panchamoola (Five minor roots): Shalaparni (Desmodium gangeticum), [Prishniparni](/herb/prishniparni/) (Uraria picta), [Brihati](/herb/brihati/) (Solanum indicum), [Kantakari](/herb/kantakari/) (Solanum surattense), [Gokshura](/herb/gokshura/) (Tribulus terrestris)
-- Additional arishta ingredients: Chitraka, [Lodhra](/herb/lodhra/), Pushkarmoola, [Giloy](/herb/guduchi/), [Dhataki](/herb/dhataki/) (fermenting agent), Jaggery
-
 ## Where is it described in the classical texts?
 
 Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola](/herb/dashamoola/) is one of the Mahakashaya groups. Arishta preparation described in Sharangdhara Samhita (Madhyama Khanda) and Bhaishajya Ratnavali. The concept of ten roots is one of the oldest in Ayurveda, predating most individual formulations.
@@ -69,10 +63,7 @@ Charaka Samhita (Sutra Sthana, Shadvirechanashatashritiya Adhyaya) - [Dashamoola
 
 ## What is it made of?
 
-### Key Active Markers
-
-- Derived from constituent herbs (see individual herb profiles)
-- Standardized on primary bioactive markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
 
 ## Dosage forms and preparation
 

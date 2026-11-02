@@ -3704,6 +3704,255 @@
       "dose": "12 to 24 ml",
       "doseSource": "Ayurvedic Formulary of India, Part I, entry 1:24"
     },
+    "balaswagandhadi-thailam": {
+      "afiPart": "I",
+      "entryNumber": "8:36",
+      "entryHeading": "BALASVAGANDHALAKSADI TAILA",
+      "classicalSource": "Sahasrayoga, Tailaprakarana; 13",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "rows": [
+        {
+          "n": 1,
+          "name": "Bala",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "768 g. (drugs 1 to 3 in equal proportion)",
+          "ocrCorrected": "Line 21023 prints '|]. 2215 (Rt.)'; the verse at 21013 opens बलाश्वगन्धालाक्षाणां. The combined quantity is at line 21084.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 2,
+          "name": "Asvagandha",
+          "gloss": null,
+          "part": "[illegible: the row is blank in the scan between lines 21023 and 21029]",
+          "quantity": "768 g. (drugs 1 to 3 in equal proportion)",
+          "ocrCorrected": "No line of the scan carries this row. The name is from the verse at 21013 (बलाश्वगन्धालाक्षाणां) and numbering; the quantity is the combined line 21084.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "Laksa",
+          "gloss": null,
+          "part": "[illegible: part prints '((1.)' at line 21082]",
+          "quantity": "768 g. (drugs 1 to 3 in equal proportion)",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 4,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": null,
+          "quantity": "12.288 l.",
+          "ocrCorrected": "Line 21085 prints '12.288 1.'; final character read l.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 4,
+          "name": "reduced to",
+          "gloss": null,
+          "part": null,
+          "quantity": "[illegible: prints '1191.' at line 21087]",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": true
+        },
+        {
+          "n": 5,
+          "name": "Taila",
+          "gloss": "tila",
+          "part": "Ol.",
+          "quantity": "768 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 6,
+          "name": "Dadhi mastu",
+          "gloss": "go dadhi",
+          "part": null,
+          "quantity": "3.072 kg.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 7,
+          "name": "Rasna",
+          "gloss": null,
+          "part": "Rt./ Lf.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 8,
+          "name": "Candana",
+          "gloss": "rakta candana",
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 9,
+          "name": "Manjistha",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 21092 prints 'Manijistha'; verse at 21016 reads मंजिष्ठा.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 10,
+          "name": "Durva",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 21093 prints 'Darva'; verse at 21016 reads दूर्वा. Line 21093 prints the part '(P1.)'; read 'Pl.', digit or capital for the letter l.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 11,
+          "name": "Madhuka",
+          "gloss": "yasti",
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 12,
+          "name": "Coraka",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 21095 prints the quantity '१...'. The entry's verse, line 21019 (कार्षिकैश्च), sets the kalka drugs at one karsa each, printed 12 g on the legible rows.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 13,
+          "name": "Sariva",
+          "gloss": "Sveta sariva",
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 14,
+          "name": "Usira",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 15,
+          "name": "Jalada",
+          "gloss": "musta",
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 16,
+          "name": "Kustha",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 21099 prints the quantity '| 9'. The entry's verse, line 21019 (कार्षिकैश्च), sets the kalka drugs at one karsa each, printed 12 g on the legible rows.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 17,
+          "name": "Agaru",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 18,
+          "name": "Sura druma",
+          "gloss": "devadaru",
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 19,
+          "name": "Haridra",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 20,
+          "name": "Kumuda",
+          "gloss": "kumuda",
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 21,
+          "name": "Kaunti",
+          "gloss": "renuka",
+          "part": "Sd.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 21104 prints '12.89.'; read 12 g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 22,
+          "name": "Satahva",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 23,
+          "name": "Padma kesara",
+          "gloss": "kamala",
+          "part": "Adr.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        }
+      ]
+    },
     "bilwadi-leha": {
       "afiPart": "I",
       "entryNumber": "3:18",
@@ -5566,6 +5815,536 @@
       ],
       "anupana": "Important therapeutic use :"
     },
+    "chyawanprash": {
+      "afiPart": "I",
+      "entryNumber": "3:11",
+      "entryHeading": "CYAVANAPRASA",
+      "classicalSource": "Carakasamhita, Cikitsasthana, Adhyaya 1 (1); 62-69",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "reconstructed": "This entry's table came out of the scan in four separate column blocks and was rejoined. Rows marked rejoined had their name and their part in different blocks. Four adversarial verification passes refused earlier versions of this table; what they found is applied here and recorded per row.",
+      "counts": {
+        "numberedRows": 48,
+        "distinctIngredients": 46,
+        "rowsListedTwice": [
+          "pippali",
+          "ela"
+        ],
+        "notPlantMaterial": [
+          "38. Water for decoction",
+          "39. Ghrta",
+          "42. Madhu"
+        ],
+        "distinctPlantIngredients": 43,
+        "decoctionRangeAsPrinted": "Ingredients 1 to 38 are coarsely powdered",
+        "decoctionRangeCaveat": "Quote only. Row 38 is the water itself and row 37 amalaka is bundled in cloth and suspended whole rather than powdered, so the printed range cannot be restated as a count of decoction drugs.",
+        "reconcilesWith45": "A count of 45 is this same entry under a different rule: 46 distinct ingredients less the water, or 48 rows less water, ghee and honey. It is not a rival source.",
+        "doesNotReconcile": "Neither 50 nor 18 is reachable from this entry under any rule, so both belong to a different recension or a commercial label and must be attributed, not blended in."
+      },
+      "rows": [
+        {
+          "n": 1,
+          "name": "Bilva",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 2,
+          "name": "Agnimantha",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 3,
+          "name": "Syonaka",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 4,
+          "name": "Kasmari (gambhari)",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Kasmari (gambhar1)\": 1 read as i",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 5,
+          "name": "Patali (patala)",
+          "gloss": null,
+          "part": "Rt./St.Bk.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 6,
+          "name": "Bala",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 7,
+          "name": "Salaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 8,
+          "name": "Prsniparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "P1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 9,
+          "name": "Mudgaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 10,
+          "name": "Masaparni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 11,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 12,
+          "name": "Svadamstra (goksura)",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Svadanistra(goksura)\": read as \"Svadamstra\" (verse at line 7079 reads श्वदष्ट्रा)",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 13,
+          "name": "Brhati",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 14,
+          "name": "Kantakari",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "PL",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 15,
+          "name": "Srngi (karkatasrngi)",
+          "gloss": null,
+          "part": "Gl.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Srigi (karkatasrngi)\": read as \"Srngi\" (verse at line 7080 reads शृंगी)",
+          "partOcr": "(1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 16,
+          "name": "Tamalaki",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 17,
+          "name": "Draksa",
+          "gloss": null,
+          "part": "Dr. Fr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 18,
+          "name": "Jivanti",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 19,
+          "name": "Puskara",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 20,
+          "name": "Agaru",
+          "gloss": null,
+          "part": "Ht.Wd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 21,
+          "name": "Abhaya (haritaki)",
+          "gloss": null,
+          "part": "P.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Abhaya (haritak1)\": 1 read as i",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 22,
+          "name": "Amrta (guduci)",
+          "gloss": null,
+          "part": "St.",
+          "quantity": "48 g",
+          "ocrCorrected": "as printed \"Amrta (परत्र)\": read as \"(guduci)\" (the book prints this gloss as guduci elsewhere)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 23,
+          "name": "Rddhi",
+          "gloss": null,
+          "part": "Sub. Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 24,
+          "name": "Jivaka",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 25,
+          "name": "Rsabhaka",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 26,
+          "name": "Sati",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 27,
+          "name": "Musta",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 28,
+          "name": "Punarnava (rakta punarnava)",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "P1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 29,
+          "name": "Meda",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 30,
+          "name": "Ela (suksmaila)",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 31,
+          "name": "Candana (Sveta candana)",
+          "gloss": null,
+          "part": "Ht.Wd.",
+          "quantity": "48 g",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 32,
+          "name": "Utpala",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "48 g",
+          "partOcr": "?1.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": true
+        },
+        {
+          "n": 33,
+          "name": "Vidari",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 34,
+          "name": "Vrsamula (vasa)",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "48 g.",
+          "ocrCorrected": "as printed \"Vrsamiula (vasa)\": read as \"Vrsamula\" (verse at line 7087 reads वृषमूलानि)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 35,
+          "name": "Kakoli",
+          "gloss": null,
+          "part": "Sub.Rt.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 36,
+          "name": "Kakanasika",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 37,
+          "name": "Amalaka (amalaki)",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "500 in number",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 38,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": "",
+          "quantity": "12.288 l.",
+          "reduction": "reduced to 3.072 l.",
+          "reductionNote": "The scan reads \"5.072\". The book prints 3.072 l for this reduction in nine other entries, the method text specifies a reduction to one fourth, and one fourth of 12.288 l is 3.072 l, so the 5 is a misread 3.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 39,
+          "name": "Ghrta",
+          "gloss": null,
+          "part": "",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 40,
+          "name": "Taila (tila)",
+          "gloss": null,
+          "part": "Ol.",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 41,
+          "name": "Matsyandika",
+          "gloss": null,
+          "part": "",
+          "quantity": "2.400 kg.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 42,
+          "name": "Madhu",
+          "gloss": null,
+          "part": "",
+          "quantity": "288 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 43,
+          "name": "Tugaksiri (vamsa)",
+          "gloss": null,
+          "part": "S.C.",
+          "quantity": "192 g.",
+          "ocrCorrected": "as printed \"Tugaksiri (vanisa) iS)\": read as \"(vamsa)\" (the book prints vamsa elsewhere); the part is printed \"iS)\" in the scan and is read as \"S.C.\"",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 44,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 45,
+          "name": "Tvak",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 46,
+          "name": "Ela (suksmaila)",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g.",
+          "ocrCorrected": "as printed \"Ela (stksmaila)\": read as \"(suksmaila)\" (row 30 of this table prints suksmaila)",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 47,
+          "name": "Patra (tejapatra)",
+          "gloss": null,
+          "part": "Lf.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        },
+        {
+          "n": 48,
+          "name": "Kesara (nagakesara)",
+          "gloss": null,
+          "part": "Stmn.",
+          "quantity": "48 g.",
+          "illegible": false,
+          "structural": false,
+          "rejoined": false
+        }
+      ]
+    },
     "dadimadi-ghrita": {
       "afiPart": "I",
       "entryNumber": "6:19",
@@ -5645,6 +6424,155 @@
         }
       ],
       "anupana": "warm water"
+    },
+    "dadimashtaka-churna": {
+      "afiPart": "II",
+      "entryNumber": "7.7",
+      "entryHeading": "DADIMASTAKA CURNA",
+      "classicalSource": "Bhaisajyaratnavali, Grahanirogadhikara; 36-37",
+      "sourceUrl": "https://archive.org/details/b32232172",
+      "rows": [
+        {
+          "n": 1,
+          "name": "Tugaksiri",
+          "gloss": "vamsa",
+          "part": "S.C.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Part split by the OCR: '(S.' at 7830 and 'C.)' at 7812.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 2,
+          "name": "Tvak",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "24 g.",
+          "ocrCorrected": "Part prints 'St. Gk.)' at 7813; 'Gk' read 'Bk'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "Patra",
+          "gloss": "tajapatra",
+          "part": "Lf.",
+          "quantity": "24 g.",
+          "ocrCorrected": "Part split: '(Lf' at 7832 and '.)' at 7816.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 4,
+          "name": "Ela",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "24 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 5,
+          "name": "Nagakesara",
+          "gloss": null,
+          "part": "Adr.",
+          "quantity": "24 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 6,
+          "name": "Yamani",
+          "gloss": "Yavani",
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 7,
+          "name": "Dhanyaka",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 8,
+          "name": "Ajaji",
+          "gloss": "Svetajiraka",
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Part split: '(F' at 7837 and 'r.)' at 7822.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 9,
+          "name": "Granthi",
+          "gloss": "Pippalimula",
+          "part": "Rt.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Line 7777 prints '(Pippalimdla)'. Part split: '(Rt' at 7838 and ')' at 7824.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 10,
+          "name": "Sunthi",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Part split: '(R' at 7839 and 'Z.)' at 7825; read 'Rz.'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 11,
+          "name": "Marica",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Part prints 'Er)' at 7826; read 'Fr.'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 12,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Part split: '(F' at 7841 and 'r.)' at 7827.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 13,
+          "name": "Dadima",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 14,
+          "name": "Sita",
+          "gloss": null,
+          "part": null,
+          "quantity": "384 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        }
+      ]
     },
     "dashamoola-katutraya-kashayam": {
       "afiPart": "I",
@@ -6513,6 +7441,735 @@
           "quantity": "1.440 kg.",
           "ocrCorrected": "Line 4308, right column, prints \"60. Dhataki 1.) -1.440 kg.\" The part cell survives only as the fragment \"1.)\" and nothing in this entry resolves it: verse 87 at lines 4270-4271 (\"तरिशंतलिकं\" / \"त्रिशत्पलिक धातक्याः ककोलं प\") gives the thirty-pala quantity, 30 x 48 g = 1.440 kg, and never a plant part. The part is therefore left unread; \"Fl.\" is not imported from other AFI entries. Quantity is printed and verse-confirmed.",
           "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 61,
+          "name": "Kankola",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 62,
+          "name": "Jala",
+          "gloss": "hrivera",
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 63,
+          "name": "Candana",
+          "gloss": "Sveta candana",
+          "part": "Ht. Wd.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 64,
+          "name": "Jatiphala",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 65,
+          "name": "Lavanga",
+          "gloss": null,
+          "part": "Fl.Bd.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4313, right column, prints \"65. Lavanga (FI.Bd.) 96 £\" with capital I for lowercase l; read as Fl.Bd. Flagged because the printed string is not literally \"Fl.Bd.\". The name is matched by verse 87 (line 4272) \"जातीफलं लवंगं च त्वगेलापव्रकेशरम्‌ 118 7 ||\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 66,
+          "name": "Tvak",
+          "gloss": null,
+          "part": "St.Bk.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4314, right column, prints \"66. Tvak (St.Bk) 96g.\" - the part's closing full stop is dropped and the quantity is unspaced. Recorded as St.Bk. and 96 g.; flagged because the printed strings differ in punctuation and spacing. The name is matched by verse 87 (line 4272) \"त्वगेलापव्रकेशरम्‌\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 67,
+          "name": "Ela",
+          "gloss": "suksmaila",
+          "part": "Sd.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4316, right column, prints the gloss as \"stksmaila\"; read as suksmaila, a single-character OCR slip (t for u) in an otherwise legible word. Flagged because the printed string differs. The name is matched by verse 87 (line 4272) \"त्वगेलापव्रकेशरम्‌\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 68,
+          "name": "Patra",
+          "gloss": "tejapatra",
+          "part": "Lf.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 69,
+          "name": "Kesara",
+          "gloss": "nagakesara",
+          "part": "Stmn.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4318, right column, prints the gloss \"nagakeSara\". The capital S is this OCR's rendering of the printed s-acute; the same word is set \"Nagakesara\" at row 43 of this entry (line 4337), so it is recorded as nagakesara. Flagged because the printed string differs.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 70,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 71,
+          "name": "Kasturi",
+          "gloss": "mrgamada",
+          "part": null,
+          "quantity": "3 g.",
+          "ocrCorrected": "Line 4320, right column, prints \"71. Kastiri (mrgamada) 3 £.\"; the name is read as Kasturi, forced by verse 88 (line 4290) \"शाणमाव्रा च कस्तूरी सर्वमेकत्र निक्षिपेत्‌ 118811\", which also supplies the one-sana measure printed here as 3 g. No part is printed for this row, so the part cell is empty in the book rather than garbled.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 72,
+          "name": "Kataka Phala",
+          "gloss": "kataka",
+          "part": "Sd.",
+          "quantity": "Q.S. for cleaning",
+          "ocrCorrected": "Lines 4321-4322, right column, print \"72. Kataka Phala (kataka)  (Sd.) QS for\" / \"Cleaning\" across a line break; joined and pointed as \"Q.S. for cleaning\". Flagged because the printed string is \"QS for Cleaning\". The drug is confirmed by verse 89 (line 4292) \"कतकस्य फलं क्षिप्त्वा रसं निर्मलतां नयेत्‌ 1189 11\".",
+          "illegible": false,
+          "structural": false
+        }
+      ]
+    },
+    "dashmool-dashmoolarishta": {
+      "afiPart": "I",
+      "entryNumber": "1:18",
+      "entryHeading": "DASAMULARISTA",
+      "classicalSource": "Sarngadharasamhita, Madhyamakhanda, Adhyaya 10; 78-89",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "rows": [
+        {
+          "n": 1,
+          "name": "",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4294, left column, holds only the fragment \"॥\"; the name is not recoverable, so it is left unread. Quantity is forced by this entry's own verse 78 at line 4242, \"दशमूलानि कुर्वत भागे: पञ्चपलैः पृथक्‌ 178 I\" (the ten roots, five pala each), together with the numbering: rows 1-10 are the ten roots and rows 3-10 are printed at 240 g. The pala is fixed at 48 g inside this same entry (line 4248, \"पलैः षोडशभिधव्री\" = 16 pala Dhatri, against the printed 768 g at row 15), so 5 pala = 240 g. Independently confirmed by mass balance: rows 1-54 then total 12.576 kg, exactly one eighth of the 100.608 l printed at row 55, as verse 84 requires (line 4265, \"पचेदष्टगुणे जले\"); the balance fails unless rows 1 and 2 are 240 g each. Part not determinable from this entry (the verse names no parts).",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 2,
+          "name": "",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4295, left column, prints only \"ध : ee ee ao £\" - the terminal \"£\" is this OCR's glyph for \"g.\", but the name, part and numeral are gone. Quantity forced exactly as for row 1: verse 78 (line 4242) \"पञ्चपलैः पृथक्‌\" at 48 g per pala, the numbering of rows 1-10 as the ten roots, and the rows 1-54 = 12.576 kg = one eighth of row 55's 100.608 l mass balance (verse 84, line 4265). Name and part left unread.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "Gambhari",
+          "gloss": null,
+          "part": "Rt/St. Bk.",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4296, left column, prints \"Be ¢Gnrnbha (Rt/St. Bk.)240 ४\". The number is OCR'd \"Be\" and restored to 3 by the numbering (row 2 above at 4295, row 4 \"4. Patala\" below at 4297). The name is read from the printed fragment \"¢Gnrnbha\" ALONE. The entry's verse names the group only as \"दशमूलानि\" (line 4242) and never any individual root, so the verse is expressly not cited here, and the standard-dasamula-order argument is not used because that is external knowledge this entry does not supply. Part recorded exactly as printed, \"Rt/St. Bk.\" with no full stop after Rt, unlike rows 4 and 5 which print \"Rt./St. Bk.\". Quantity numeral 240 is printed clearly; the unit glyph is \"४\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 4,
+          "name": "Patala",
+          "gloss": null,
+          "part": "Rt./St. Bk.",
+          "quantity": "240 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 5,
+          "name": "Agnimantha",
+          "gloss": null,
+          "part": "Rt./St. Bk.",
+          "quantity": "240 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 6,
+          "name": "Salaparni",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4299 prints \"6. Salaparni (?1.) 240 2.\". The part cell's first character is an unresolved \"?\", so the abbreviation could be Pl. or Fl.; nothing in this entry decides between them, because the verse (line 4242) names no plant parts and the numbering says nothing about parts. The part is therefore left unread. Name and quantity numeral are printed; the unit glyph is \"2\".",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 7,
+          "name": "Prsniparni",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4300 prints \"7. Prsniparni (?1.) 240 g.\" - the same unresolved \"(?1.)\" part cell as row 6, not decided by the verse or the numbering, so left unread.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 8,
+          "name": "Brhati",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4301 prints \"8. Brhati (Ph) 240 g.\". \"(Ph)\" is not an abbreviation this entry uses anywhere, and is a larger corruption than the neighbouring \"(?1.)\" cells; the verse names no parts, so nothing forces a reading. Part left unread.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 9,
+          "name": "Kantakari",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4302 prints \"9. Kantakari (?1.) 240 g.\" - same unresolved part cell as rows 6 and 7; left unread.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 10,
+          "name": "Goksura",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "240 g.",
+          "ocrCorrected": "Line 4303 prints \"10. Goksura (P1.) 240 g.\". The digit 1 is this OCR's rendering of lowercase l, a substitution visible in this same entry where the litre unit is set \"100.608 I.\" (line 4299, right column) and \"12.288 1.\" (line 4302, right column); the cell therefore reads Pl. Flagged because the printed string is not literally \"Pl.\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 11,
+          "name": "Citraka",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "1.200 kg.",
+          "ocrCorrected": "Line 4304 is wholly garbled: \"tans (Re) bere\" - number, name, part and quantity all lost. Name and quantity are forced by this entry's verse 78-79 at lines 4243-4244, \"पञ्चविशत्पलं रं कर्याच्विततकं पौष्करं भ\" / \"कर्याच्वित्रक पौष्करं तथा\" (twenty-five pala; चित्रक and पौष्कर likewise), with the numbering putting this row immediately before row 12 Pauskara (line 4305). 25 pala x 48 g = 1.200 kg, confirmed by the mass balance (rows 1-54 = 12.576 kg = one eighth of row 55's 100.608 l, verse 84 line 4265). Part not determinable from the surviving \"(Re)\".",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 12,
+          "name": "Pauskara",
+          "gloss": "puskara",
+          "part": "Rt.",
+          "quantity": "1.200 kg.",
+          "ocrCorrected": "Line 4305 prints \"12. Pauskara (puskara) (Rt.) 1.200 g.\" - the unit is corrected from g. to kg. The entry's verse 78-79 (lines 4243-4244, \"पञ्चविशत्पलं ... कर्याच्वित्रक पौष्करं तथा\") gives pauskara twenty-five pala, i.e. 1200 g = 1.200 kg at this entry's internally fixed 48 g pala; and the mass balance of rows 1-54 against the 100.608 l of row 55 (verse 84, line 4265, \"पचेदष्टगुणे जले\") falls 1.199 kg short if the printed \"1.200 g.\" is taken literally. Gloss and part are printed as shown.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 13,
+          "name": "Lodhra",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "960 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 14,
+          "name": "Guduci",
+          "gloss": null,
+          "part": "St.",
+          "quantity": "960 g.",
+          "ocrCorrected": "Line 4307 prints the name \"Gudiici\"; the doubled i is this OCR's rendering of the printed u with macron, so the cell reads Guduci. Flagged because the printed string differs. Part and numeral printed; unit glyph \"£\". Verse 79 (line 4247) \"ॐ लोधर गुडूची तत्समा भवेत्‌ 1179 ||\" names lodhra and guduci together at the same quantity, matching the printed 960 g at rows 13 and 14.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 15,
+          "name": "Dhatri",
+          "gloss": "Amalaki",
+          "part": "P.",
+          "quantity": "768 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 16,
+          "name": "Duralabha",
+          "gloss": "[illegible: damaged in the scan; see this row's note]",
+          "part": "Pl.",
+          "quantity": "576 g.",
+          "ocrCorrected": "Line 4309 prints \"16. Duralabha (0121९2३8) (PI.) 576 £.\" - TWO parentheses. The first is a gloss cell that is wholly garbled in the text layer; it is recorded as present-but-unread, NOT as absent. Nothing in this entry supplies it (verse 79, line 4248, names duralabha only, \"रविसख्यर्दुरालभा\"). The second parenthesis prints \"(PI.)\" with capital I for lowercase l and reads Pl. Quantity 576 g is twelve pala x 48 g per the same verse.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 17,
+          "name": "Khadira",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "384 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 18,
+          "name": "Bijasara",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "384 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 19,
+          "name": "Pathya",
+          "gloss": "haritaki",
+          "part": "P.",
+          "quantity": "384 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 20,
+          "name": "Kustha",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 21,
+          "name": "Manjistha",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4314 prints only \"१; Rt) 96 8\" - the number and the name are gone. Forced by this entry's verse 81 at line 4250, \"अष्टभिर्गणितैः कुष्ठ मजिष्ठा देवदारु च\", which sets manjistha between kustha and devadaru, and by the numbering: row 20 Kustha is printed at line 4313 and row 22 Devadaru at line 4315. Part is read from the surviving letters \"Rt\" (only the opening bracket and full stop are lost). Quantity numeral 96 is printed and agrees with verse 84 (line 4265) \"कुर्यात्पृथग्दिपलिकान्\", two pala each = 96 g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 22,
+          "name": "Devadaru",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 23,
+          "name": "Vidanga",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 24,
+          "name": "Madhuka",
+          "gloss": "yasti",
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 25,
+          "name": "Bharngi",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 26,
+          "name": "Kapittha",
+          "gloss": null,
+          "part": "Fr. P.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 27,
+          "name": "Aksa",
+          "gloss": "bibhitaka",
+          "part": "P.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 28,
+          "name": "Punarnava",
+          "gloss": "[illegible: damaged in the scan; see this row's note]",
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4321 prints \"28. Punarnava (rakta- (Rt.) 96 £.\" and its continuation at line 4322 is wholly garbled, \"४ स) me ४\". Only the first word of the gloss, \"rakta-\", can be read, so the cell is marked illegible. It is NOT completed to \"rakta-punarnava\": the entry's verse 81 (line 4251) reads \"fast मधुक भार्गी कपित्थोऽक्षः पुनर्नवा 1181 ||\" and never qualifies punarnava as rakta, so nothing here forces the completion.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 29,
+          "name": "Cavya",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4323 prints \". Cavya ‘ ti\" - the number, part and quantity are lost; only the name survives. The position is fixed by the numbering (row 28 at line 4321, row 30 at line 4324) and matched by verse 82 (line 4258) \"चव्यं मासी प्रिय Ja सारिवा कृ aw\", which names cavya immediately before mamsi. Quantity from verse 84 (line 4265) \"कुर्यात्पृथग्दिपलिकान्\", two pala = 96 g, confirmed by the rows 1-54 mass balance. Part not determinable.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 30,
+          "name": "Mamsi",
+          "gloss": "jatamamsi",
+          "part": "Rt/Rz.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4324 prints \"30. Marist (jatamamsi) (Rt/Rz.) 96 3\". The name is corrected from \"Marist\" to Mamsi, forced by verse 82 (line 4258) \"चव्यं मासी\", which puts mamsi immediately after cavya (row 29), together with the printed numbering. Gloss and part are recorded exactly as printed; the quantity's unit glyph is \"3\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 31,
+          "name": "Priyangu",
+          "gloss": null,
+          "part": "Fl.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4325 prints \"31, Priyaneu (Fl) 96 g.\". Name read as Priyangu from the printed fragment together with verse 82 (line 4258), whose next member after मासी is legible as far as \"प्रिय\" (the line runs \"चव्यं मासी प्रिय Ja सारिवा कृ aw\", so only the tail of the word is garbled) and is followed by सारिवा = row 32 Sariva. Part printed \"(Fl)\" without the full stop.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 32,
+          "name": "Sariva",
+          "gloss": "Sveta sariva",
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 33,
+          "name": "Krsna jiraka",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 34,
+          "name": "Trivrta",
+          "gloss": "trivrt",
+          "part": "Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 35,
+          "name": "Renuka",
+          "gloss": "harenuka",
+          "part": "Sd.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 36,
+          "name": "Rasna",
+          "gloss": null,
+          "part": "Rt/Lf.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4330 prints \"36. Ra sna (Rt/Lf.) 96 g.\" with a spurious space inside the name; read as Rasna. Part recorded exactly as printed.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 37,
+          "name": "Pippali",
+          "gloss": null,
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 38,
+          "name": "Kramuka",
+          "gloss": "[illegible: damaged in the scan; see this row's note]",
+          "part": "Sd.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4332 prints \"38. Kramuka (९) (Sd.) 96 g.\" - a parenthetical gloss cell IS present but is wholly garbled, so the gloss is left unread rather than reported as absent. Nothing in this entry supplies it (verse 82, line 4261, names only \"क्रमुकः\"). Name, part and quantity are printed.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 39,
+          "name": "Sathi",
+          "gloss": "Sati",
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4333 prints \"39. Sathi (Sati) (1२2) Sasa\" - the part cell \"(1२2)\" and the whole quantity cell are garbled. Quantity from verse 84 (line 4265) \"कुर्यात्पृथग्दिपलिकान्\", two pala = 96 g, with the name confirmed by verse 82 (line 4261) \"त्रिवृता रेणुक शस्ता पिप्पली क्रमुकः शठी 118 2 ।|\" and by the mass balance. Part left unread: \"(1२2)\" is not resolved by the verse, which names no plant parts. Name and gloss printed.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 40,
+          "name": "Haridra",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4334 prints only \"1 (Rz.) 96 8.\" - the number and name are lost. Forced by this entry's verse 82-83 at lines 4261-4262, \"त्रिवृता रेणुक शस्ता पिप्पली क्रमुकः शठी 118 2 ।|\" / \"हरिद्रा शतपुष्पा च पद्मक नागकेशरम्‌\", which sets haridra between sathi and satapuspa, and by the numbering: row 39 Sathi at line 4333, row 41 Satapuspa at line 4335. Part and quantity are printed.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 41,
+          "name": "Satapuspa",
+          "gloss": "Satahva",
+          "part": "Fr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 42,
+          "name": "Padmaka",
+          "gloss": null,
+          "part": "St.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 43,
+          "name": "Nagakesara",
+          "gloss": null,
+          "part": "Stmn.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 44,
+          "name": "Musta",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 45,
+          "name": "Indrayava",
+          "gloss": "kutaja",
+          "part": "Sd.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 46,
+          "name": "Srngi",
+          "gloss": "[illegible: damaged in the scan; see this row's note]",
+          "part": "Gl.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4290, right column, prints \"46. Sagi (karkata अणा) = (GI..) 96 g.\". The name is read as Srngi from the printed fragment \"Sagi\" ALONE. The verse is expressly NOT offered as evidence: the corresponding token in verse 83 is itself unreadable - line 4263 runs \"मुस्तमिन्द्रयवः PT जीवकर्षभकौ तथा 1183 11\" - so any bracketed reconstruction there would be circular. The gloss's second word (\"अणा\") is garbled, so only the first word, \"karkata\", can be read; the cell is marked illegible and is NOT completed to \"karkata srngi\". Part printed \"(GI..)\" with capital I for lowercase l plus a stray dot, read as Gl.; flagged because the printed string is not literally \"Gl.\". Quantity printed.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 47,
+          "name": "Jivaka",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 48,
+          "name": "Rsabhaka",
+          "gloss": null,
+          "part": "Rt.Tr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 49,
+          "name": "Meda",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4293, right column, prints \"49. Meda (1 ie du\" - the part and quantity cells are lost. The name is printed and matched by verse 84 (line 4264) \"मेदा चान्या महामेदा काकोल्यौ कऋद्धिवृद्धिके ।\". Quantity from the two-pala rule of verse 84 (line 4265) \"कुर्यात्पृथग्दिपलिकान्\", plus the rows 1-54 mass balance. Part not determinable.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 50,
+          "name": "Mahameda",
+          "gloss": null,
+          "part": "Rt.Tr.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 51,
+          "name": "Kakoli",
+          "gloss": null,
+          "part": "Sub. Rt.",
+          "quantity": "96 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 52,
+          "name": "Ksirakakoli",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4296, right column, is wholly garbled: \"SS Te ese (क a १.\" The name is forced by verse 84 (line 4264) \"काकोल्यौ\" - a dual, therefore both kakolis, kakoli and ksirakakoli - taken with the numbering: row 51 is the printed Kakoli (line 4295) and row 53 is Rddhi (line 4297), so row 52 is Ksirakakoli. Quantity from the two-pala rule (line 4265) and the mass balance. Part not determinable.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 53,
+          "name": "Rddhi",
+          "gloss": null,
+          "part": "Sub. Rt. Tr.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4297, right column, prints the number as \"23. Rddhi (Sub. Rt. Tr.)96 g.\"; corrected to 53 by the numbering, which runs from row 52 (line 4296) to row 54 (line 4298) and on to the printed row 55 Water (line 4299). The name is printed and matched by verse 84 (line 4264) \"कऋद्धिवृद्धिके\". Part and quantity printed.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 54,
+          "name": "Vrddhika",
+          "gloss": "vrddhi",
+          "part": "Sub. Rt. Tr.",
+          "quantity": "96 g.",
+          "ocrCorrected": "Line 4298, right column, prints the number as \"34. Vrddhika (vrddhi) (Sub. Rt. Tr.)96 g.\"; corrected to 54 by the numbering - row 53 stands above and the printed \"55. Water for decoction\" (line 4299) stands below, which fixes this row as 54. Name, gloss, part and quantity printed; the name is matched by verse 84 (line 4264) \"कऋद्धिवृद्धिके\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 55,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": null,
+          "quantity": "100.608 l. reduced to 25.152 l.",
+          "ocrCorrected": "Line 4299, right column, prints \"55. Water for decoction 100.608 I.\", the capital I being this OCR's glyph for the litre l; line 4300 carries the reduction but is garbled, \"reduced to fog fey AA\". The reduced volume 25.152 l is forced by verse 85 (line 4266) \"चतुर्थाशं शृतं\", boiled down to a quarter: 100.608 / 4 = 25.152. The 100.608 l itself is the printed figure and is confirmed by verse 84 (line 4265) \"पचेदष्टगुणे जले\" against the rows 1-54 total of 12.576 kg.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 56,
+          "name": "Draksa",
+          "gloss": null,
+          "part": "Dr. Fr.",
+          "quantity": "3.072 kg.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 57,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": null,
+          "quantity": "12.288 l. reduced to 9.216 l.",
+          "ocrCorrected": "Line 4302, right column, prints \"57. Water for decoction 12.288 1.\" (digit 1 for the litre l), and line 4303 prints \"redticeden 9216 J.\" - the words \"reduced to\" and the decimal point are damaged, though the digits 9216 survive. 9.216 l is forced by verse 86 (line 4268) \"व्रिपादशेष\", three quarters remaining: 12.288 x 3/4 = 9.216. The 12.288 l is itself four times row 56's printed 3.072 kg of draksa, per verse 85 (line 4267) \"पचेन्नीरे चतुर्गुणे\".",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 58,
+          "name": "Ksaudra",
+          "gloss": "madhu",
+          "part": null,
+          "quantity": "1.536 kg.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 59,
+          "name": "Guda",
+          "gloss": null,
+          "part": null,
+          "quantity": "19.200 kg.",
+          "ocrCorrected": "Line 4305, right column, prints \"59. Guda 19.200 kg\" with no full stop after kg, at the extreme right edge of the column where the stop was most likely lost; every other kg./g. cell in this entry carries one. Recorded as \"19.200 kg.\" and flagged here, since the same class of punctuation difference is flagged at row 66. The value itself is both printed and forced by verse 86 (line 4269) \"द्वात्रिशंत्पलिक ela दद्याद्गुडचतुः शतम्‌ 1186 II\" - guda four hundred pala, 400 x 48 g = 19.200 kg - and by the 48 g pala fixed at line 4248.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 60,
+          "name": "Dhataki",
+          "gloss": null,
+          "part": "[illegible: damaged in the scan; see this row's note]",
+          "quantity": "1.440 kg.",
+          "ocrCorrected": "Line 4308, right column, prints \"60. Dhataki 1.) -1.440 kg.\" The part cell survives only as the fragment \"1.)\" and nothing in this entry resolves it: verse 87 at lines 4270-4271 (\"तरिशंतलिकं\" / \"त्रिशत्पलिक धातक्याः ककोलं प\") gives the thirty-pala quantity, 30 x 48 g = 1.440 kg, and never a plant part. The part is therefore left unread; \"Fl.\" is not imported from other AFI entries. Quantity is printed and verse-confirmed.",
+          "illegible": true,
           "structural": false
         },
         {
@@ -9174,6 +10831,435 @@
           "part": "Pl.",
           "quantity": "48 g.",
           "ocrCorrected": "printed \"(?1.)\" = Pl., the same abbreviation as items 8-12",
+          "illegible": false,
+          "structural": false
+        }
+      ]
+    },
+    "irimedadi-taila": {
+      "afiPart": "I",
+      "entryNumber": "8:2",
+      "entryHeading": "ARIMEDADI TAILA",
+      "classicalSource": "Astangahrdaya, Uttarasthana, Adhyaya 22; 90-93%, 95-96",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "rows": [
+        {
+          "n": 1,
+          "name": "Khadira",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "9.600 kg.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 2,
+          "name": "Arimeda-valkala",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "4.800 kg.",
+          "ocrCorrected": "Line 18966 prints the part as '(St. 81.)'; '81' read as 'Bk'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": null,
+          "quantity": "49.152 l.",
+          "ocrCorrected": "Line 18967, right column, keeps only 'क 1 49.152 1'; the name is lost. A litre figure with 'reduced to' beneath it (18969) and the verse's four ghata reduced to a quarter (19005) fix it as the decoction water.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "reduced to",
+          "gloss": null,
+          "part": null,
+          "quantity": "12.288 l.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": true
+        },
+        {
+          "n": 4,
+          "name": "Taila",
+          "gloss": "tila",
+          "part": "Ol.",
+          "quantity": "3.072 kg.",
+          "ocrCorrected": "Line 18970 prints '(01.)'; read 'Ol.'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 5,
+          "name": "Sevya",
+          "gloss": "[illegible: gloss prints '5778' at line 18971]",
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 6,
+          "name": "Ambu",
+          "gloss": "hrivera",
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18972 prints the quantity '1.22.'. The entry's verse, line 19008 (आक्षिकं ... रजः), sets this group at one aksa each, printed 12 g on the legible rows.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 7,
+          "name": "Pattanga",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18973 prints '12¢'; unit glyph read g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 8,
+          "name": "Gairika",
+          "gloss": null,
+          "part": null,
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18974 prints '12 ‘'; unit glyph read g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 9,
+          "name": "Sveta candana",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 10,
+          "name": "Rakta candana",
+          "gloss": null,
+          "part": "[illegible: part prints 'sree ds)?' at line 18979]",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18979 prints the quantity '12: 9.'; read 12 g.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 11,
+          "name": "Lodhra",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18985 prints the quantity 'Pan.'. The entry's verse, line 19008 (आक्षिकं ... रजः), sets this group at one aksa each, printed 12 g on the legible rows.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 12,
+          "name": "Pundrahva",
+          "gloss": "[illegible: gloss prints '01' at line 18987]",
+          "part": "Fl.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18986 prints 'Pyndrahva'; the verse at 19009 reads पुण्डाह्वय. Line 18987 prints the part '(FL)' and the quantity 'ay'. The entry's verse, line 19008 (आक्षिकं ... रजः), sets this group at one aksa each, printed 12 g on the legible rows.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 13,
+          "name": "Yastyahva",
+          "gloss": "yasti",
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18989 prints '(yasf1) (Rt)'; gloss read yasti, stop supplied in the part.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 14,
+          "name": "Laksa",
+          "gloss": null,
+          "part": "Gl.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18990 prints '(GI.)'; read 'Gl.'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 15,
+          "name": "Rasanjana",
+          "gloss": "daruharidra",
+          "part": "St. Ext.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 16,
+          "name": "Sauviranjana",
+          "gloss": null,
+          "part": null,
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 18993 prints 'Sauvirafjana'; 'f' read 'n'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 17,
+          "name": "Dhataki",
+          "gloss": null,
+          "part": "Fl.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 18,
+          "name": "Katphala",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 19,
+          "name": "Haridra",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 20,
+          "name": "Daru haridra",
+          "gloss": null,
+          "part": "St.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 21,
+          "name": "Haritaki",
+          "gloss": null,
+          "part": "P.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 22,
+          "name": "Bibhitaka",
+          "gloss": null,
+          "part": "[illegible: part prints '(?)' at line 19000]",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 23,
+          "name": "Amalaki",
+          "gloss": null,
+          "part": "[illegible: part prints '(7)' at line 19002]",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19002 keeps only '^ क (7) et;'. The verse at 19010 names त्रिफला, and rows 21 and 22 are Haritaki and Bibhitaka, so this row is the third fruit, as in the verse at 20985 and rows 46 to 48 at 20989-20991 of entry 8:35. The entry's verse, line 19008 (आक्षिकं ... रजः), sets this group at one aksa each, printed 12 g on the legible rows.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 24,
+          "name": "Tvak",
+          "gloss": null,
+          "part": "St. Bk.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 25,
+          "name": "Ela",
+          "gloss": "suksmaila",
+          "part": "Sd.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19004 prints 'Bla (siksmaila)'; read 'Ela (suksmaila)'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 26,
+          "name": "Patra",
+          "gloss": "tejapatra",
+          "part": "Lf.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19005 prints '(Lf)'; stop supplied.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 27,
+          "name": "Nagakesara",
+          "gloss": null,
+          "part": "Stmn.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 28,
+          "name": "Jongaka",
+          "gloss": "agaru",
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19014 prints '12 3.'; unit glyph read g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 29,
+          "name": "Musta",
+          "gloss": null,
+          "part": "Rz.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 30,
+          "name": "Manjistha",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19018 prints 'Maajistha'; verse at 19018 reads मञ्जिष्ठा.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 31,
+          "name": "Nyagrodha-praroha",
+          "gloss": null,
+          "part": "A.R.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 32,
+          "name": "Mamsi",
+          "gloss": "jatamamsi",
+          "part": "Rz./Rt.",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19020 prints '(Rz/Rt.)'; stop supplied after Rz.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 33,
+          "name": "Yavasaka",
+          "gloss": null,
+          "part": "[illegible: part prints '(ए.)' at line 19032]",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 34,
+          "name": "Padmaka",
+          "gloss": null,
+          "part": "Ht. Wd.",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 35,
+          "name": "Aila",
+          "gloss": "elavaluka",
+          "part": "[illegible: part prints '(9)' at line 19034]",
+          "quantity": "12 g.",
+          "ocrCorrected": "Line 19034 prints '(elavaliika)' and the quantity '12) £'; read elavaluka, 12 g.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 36,
+          "name": "Samanga",
+          "gloss": "lajjalu",
+          "part": "[illegible: part prints 'ie Ries' at line 19035]",
+          "quantity": "12 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 37,
+          "name": "Jatipatra",
+          "gloss": "jatiphala",
+          "part": "Ar.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Line 19037 prints 'Jatipatrajatiphala)'; the opening bracket is lost.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 38,
+          "name": "Jatiphala",
+          "gloss": null,
+          "part": "Sd.",
+          "quantity": "48 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 39,
+          "name": "Lavanga",
+          "gloss": null,
+          "part": "Fl. Bd.",
+          "quantity": "48 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 40,
+          "name": "Kankolika",
+          "gloss": "kankola",
+          "part": "Fr.",
+          "quantity": "48 g.",
+          "ocrCorrected": "Line 19054 prints 'ध Kankolika (kankola)'; the numeral is lost and numbering gives 40. Part and quantity are at line 19058.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 41,
+          "name": "Karpura",
+          "gloss": null,
+          "part": "Sub. Ext.",
+          "quantity": "192 g.",
+          "ocrCorrected": "Line 19055 prints 'Karpira!'; the verse at 19032 reads कर्पूर. Part and quantity are at line 19059.",
           "illegible": false,
           "structural": false
         }
@@ -20033,6 +22119,255 @@
         }
       ]
     },
+    "vidaryadi-ghrita": {
+      "afiPart": "I",
+      "entryNumber": "6:41",
+      "entryHeading": "VIDARYADI GHRTA",
+      "classicalSource": "Astangahrdaya, Cikitsasthana, Adhyaya 3; 9",
+      "sourceUrl": "https://archive.org/details/b32232184",
+      "rows": [
+        {
+          "n": 1,
+          "name": "Vidari",
+          "gloss": null,
+          "part": "Rt. Tr.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14967 prints '|]. Vidar? (RtTr.)'; verse at 14983 reads विदारि.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 2,
+          "name": "Pancangula",
+          "gloss": "eranda",
+          "part": "Rt.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14968 prints 'Paficangula'; 'fi' read 'n'.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 3,
+          "name": "Vrscikali",
+          "gloss": null,
+          "part": "[illegible: part prints '(?.)' at line 14969]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14969 prints 'vpscikali'; verse at 14983 reads वृश्चिकाली.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 4,
+          "name": "Vrsciva",
+          "gloss": "sveta punarnava",
+          "part": "Rt.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14970 prints 'Vesciva (sveta punamava)'; verse at 14983 reads वृश्चीव.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 5,
+          "name": "Devahvaya",
+          "gloss": "[illegible: gloss prints '१९४० daru' at line 14971]",
+          "part": "Ht. Wd.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 6,
+          "name": "Mudga parni",
+          "gloss": null,
+          "part": "[illegible: part prints '(?1.)' at line 14987]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 7,
+          "name": "Masa parni",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14988 prints the part '(P1.)'; read 'Pl.', digit or capital for the letter l.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 8,
+          "name": "Kandukari",
+          "gloss": "atmagupta",
+          "part": "Sd.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14989 prints '38.4 2.'; unit glyph read g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 9,
+          "name": "Salaparni",
+          "gloss": null,
+          "part": "[illegible: part prints '(?1.)' at line 14990]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 10,
+          "name": "Prsniparni",
+          "gloss": null,
+          "part": "[illegible: part prints '(?1.)' at line 14991]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 11,
+          "name": "Brhati",
+          "gloss": null,
+          "part": "[illegible: part prints '(?].)' at line 14992]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 12,
+          "name": "Kantakari",
+          "gloss": null,
+          "part": "[illegible: part prints '(7?1.)' at line 14993]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 13,
+          "name": "Goksura",
+          "gloss": null,
+          "part": "Pl.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14994 prints the part '(PI.)'; read 'Pl.', digit or capital for the letter l.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 14,
+          "name": "Abhiru",
+          "gloss": "Satavari",
+          "part": "[illegible: part prints '(11) .' at line 14995]",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 14995 prints '38.4.2,'; read 38.4 g.",
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 15,
+          "name": "Vira",
+          "gloss": "ksiravidari",
+          "part": "Rt. Tr.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 16,
+          "name": "Jivanti",
+          "gloss": null,
+          "part": "Rt.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 17,
+          "name": "Jivaka",
+          "gloss": null,
+          "part": "[illegible: part prints '८)' at line 14998]",
+          "quantity": "[illegible: quantity prints '3.41' at line 14998]",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 18,
+          "name": "Rsabhaka",
+          "gloss": null,
+          "part": "[illegible: part and quantity print '(11111 11.22.42' at line 14999]",
+          "quantity": "[illegible: part and quantity print '(11111 11.22.42' at line 14999]",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": false
+        },
+        {
+          "n": 19,
+          "name": "Gopa suta",
+          "gloss": "Sveta sariva",
+          "part": "Rt.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 20,
+          "name": "Tripadi",
+          "gloss": "hamsapadi",
+          "part": "Rt.",
+          "quantity": "38.4 g.",
+          "ocrCorrected": "Line 15001 prints '(hamsapadt)' and '38.4 2.'; read hamsapadi, g.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 21,
+          "name": "Water for decoction",
+          "gloss": null,
+          "part": null,
+          "quantity": "12.288 l.",
+          "ocrCorrected": "Line 15002 prints '12.288 1.'; final character read l.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 21,
+          "name": "reduced to",
+          "gloss": null,
+          "part": null,
+          "quantity": "[illegible: prints 'Eh 1/0 F' at line 15004]",
+          "ocrCorrected": null,
+          "illegible": true,
+          "structural": true
+        },
+        {
+          "n": 22,
+          "name": "Kalka of ingredients 1 to 20",
+          "gloss": null,
+          "part": null,
+          "quantity": "each 6.4 g.",
+          "ocrCorrected": "Line 15007 prints 'Kalka of ingredientsl to 20 each 6.4 g.)'; spacing restored and the stray bracket dropped.",
+          "illegible": false,
+          "structural": false
+        },
+        {
+          "n": 23,
+          "name": "Ghrta",
+          "gloss": "go ghrta",
+          "part": null,
+          "quantity": "768 g.",
+          "ocrCorrected": null,
+          "illegible": false,
+          "structural": false
+        }
+      ]
+    },
     "vyoshadi-guggulu": {
       "afiPart": "I",
       "entryNumber": "5:9",
@@ -20439,536 +22774,6 @@
           "ocrCorrected": "Name, gloss, part-absence and quantity are all as printed on line 10970, and verse 93 at line 10932, सर्पिषा, confirms the ghee. The blank part cell is an absence in the print, not an unreadable cell: sarpi is clarified butter and the book prints no plant-part abbreviation for it. The entry's own special method of preparation (lines 10975 to 10978) states that ghrta is added in small quantities while pounding, so this is a composition item and is kept as a numbered row.",
           "illegible": false,
           "structural": false
-        }
-      ]
-    },
-    "chyawanprash": {
-      "afiPart": "I",
-      "entryNumber": "3:11",
-      "entryHeading": "CYAVANAPRASA",
-      "classicalSource": "Carakasamhita, Cikitsasthana, Adhyaya 1 (1); 62-69",
-      "sourceUrl": "https://archive.org/details/b32232184",
-      "reconstructed": "This entry's table came out of the scan in four separate column blocks and was rejoined. Rows marked rejoined had their name and their part in different blocks. Four adversarial verification passes refused earlier versions of this table; what they found is applied here and recorded per row.",
-      "counts": {
-        "numberedRows": 48,
-        "distinctIngredients": 46,
-        "rowsListedTwice": [
-          "pippali",
-          "ela"
-        ],
-        "notPlantMaterial": [
-          "38. Water for decoction",
-          "39. Ghrta",
-          "42. Madhu"
-        ],
-        "distinctPlantIngredients": 43,
-        "decoctionRangeAsPrinted": "Ingredients 1 to 38 are coarsely powdered",
-        "decoctionRangeCaveat": "Quote only. Row 38 is the water itself and row 37 amalaka is bundled in cloth and suspended whole rather than powdered, so the printed range cannot be restated as a count of decoction drugs.",
-        "reconcilesWith45": "A count of 45 is this same entry under a different rule: 46 distinct ingredients less the water, or 48 rows less water, ghee and honey. It is not a rival source.",
-        "doesNotReconcile": "Neither 50 nor 18 is reachable from this entry under any rule, so both belong to a different recension or a commercial label and must be attributed, not blended in."
-      },
-      "rows": [
-        {
-          "n": 1,
-          "name": "Bilva",
-          "gloss": null,
-          "part": "Rt./St.Bk.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 2,
-          "name": "Agnimantha",
-          "gloss": null,
-          "part": "Rt./St.Bk.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 3,
-          "name": "Syonaka",
-          "gloss": null,
-          "part": "Rt./St.Bk.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 4,
-          "name": "Kasmari (gambhari)",
-          "gloss": null,
-          "part": "Rt./St.Bk.",
-          "quantity": "48 g",
-          "ocrCorrected": "as printed \"Kasmari (gambhar1)\": 1 read as i",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 5,
-          "name": "Patali (patala)",
-          "gloss": null,
-          "part": "Rt./St.Bk.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 6,
-          "name": "Bala",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 7,
-          "name": "Salaparni",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 8,
-          "name": "Prsniparni",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "P1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 9,
-          "name": "Mudgaparni",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 10,
-          "name": "Masaparni",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 11,
-          "name": "Pippali",
-          "gloss": null,
-          "part": "Fr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 12,
-          "name": "Svadamstra (goksura)",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "ocrCorrected": "as printed \"Svadanistra(goksura)\": read as \"Svadamstra\" (verse at line 7079 reads श्वदष्ट्रा)",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 13,
-          "name": "Brhati",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 14,
-          "name": "Kantakari",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "PL",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 15,
-          "name": "Srngi (karkatasrngi)",
-          "gloss": null,
-          "part": "Gl.",
-          "quantity": "48 g",
-          "ocrCorrected": "as printed \"Srigi (karkatasrngi)\": read as \"Srngi\" (verse at line 7080 reads शृंगी)",
-          "partOcr": "(1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 16,
-          "name": "Tamalaki",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 17,
-          "name": "Draksa",
-          "gloss": null,
-          "part": "Dr. Fr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 18,
-          "name": "Jivanti",
-          "gloss": null,
-          "part": "Rt.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 19,
-          "name": "Puskara",
-          "gloss": null,
-          "part": "Rt.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 20,
-          "name": "Agaru",
-          "gloss": null,
-          "part": "Ht.Wd.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 21,
-          "name": "Abhaya (haritaki)",
-          "gloss": null,
-          "part": "P.",
-          "quantity": "48 g",
-          "ocrCorrected": "as printed \"Abhaya (haritak1)\": 1 read as i",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 22,
-          "name": "Amrta (guduci)",
-          "gloss": null,
-          "part": "St.",
-          "quantity": "48 g",
-          "ocrCorrected": "as printed \"Amrta (परत्र)\": read as \"(guduci)\" (the book prints this gloss as guduci elsewhere)",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 23,
-          "name": "Rddhi",
-          "gloss": null,
-          "part": "Sub. Rt. Tr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 24,
-          "name": "Jivaka",
-          "gloss": null,
-          "part": "Rt. Tr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 25,
-          "name": "Rsabhaka",
-          "gloss": null,
-          "part": "Rt. Tr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 26,
-          "name": "Sati",
-          "gloss": null,
-          "part": "Rz.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 27,
-          "name": "Musta",
-          "gloss": null,
-          "part": "Rz.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 28,
-          "name": "Punarnava (rakta punarnava)",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "P1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 29,
-          "name": "Meda",
-          "gloss": null,
-          "part": "Rt. Tr.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 30,
-          "name": "Ela (suksmaila)",
-          "gloss": null,
-          "part": "Sd.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 31,
-          "name": "Candana (Sveta candana)",
-          "gloss": null,
-          "part": "Ht.Wd.",
-          "quantity": "48 g",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 32,
-          "name": "Utpala",
-          "gloss": null,
-          "part": "Pl.",
-          "quantity": "48 g",
-          "partOcr": "?1.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": true
-        },
-        {
-          "n": 33,
-          "name": "Vidari",
-          "gloss": null,
-          "part": "Rt. Tr.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 34,
-          "name": "Vrsamula (vasa)",
-          "gloss": null,
-          "part": "Rt.",
-          "quantity": "48 g.",
-          "ocrCorrected": "as printed \"Vrsamiula (vasa)\": read as \"Vrsamula\" (verse at line 7087 reads वृषमूलानि)",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 35,
-          "name": "Kakoli",
-          "gloss": null,
-          "part": "Sub.Rt.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 36,
-          "name": "Kakanasika",
-          "gloss": null,
-          "part": "Fr.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 37,
-          "name": "Amalaka (amalaki)",
-          "gloss": null,
-          "part": "Fr.",
-          "quantity": "500 in number",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 38,
-          "name": "Water for decoction",
-          "gloss": null,
-          "part": "",
-          "quantity": "12.288 l.",
-          "reduction": "reduced to 3.072 l.",
-          "reductionNote": "The scan reads \"5.072\". The book prints 3.072 l for this reduction in nine other entries, the method text specifies a reduction to one fourth, and one fourth of 12.288 l is 3.072 l, so the 5 is a misread 3.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 39,
-          "name": "Ghrta",
-          "gloss": null,
-          "part": "",
-          "quantity": "288 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 40,
-          "name": "Taila (tila)",
-          "gloss": null,
-          "part": "Ol.",
-          "quantity": "288 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 41,
-          "name": "Matsyandika",
-          "gloss": null,
-          "part": "",
-          "quantity": "2.400 kg.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 42,
-          "name": "Madhu",
-          "gloss": null,
-          "part": "",
-          "quantity": "288 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 43,
-          "name": "Tugaksiri (vamsa)",
-          "gloss": null,
-          "part": "S.C.",
-          "quantity": "192 g.",
-          "ocrCorrected": "as printed \"Tugaksiri (vanisa) iS)\": read as \"(vamsa)\" (the book prints vamsa elsewhere); the part is printed \"iS)\" in the scan and is read as \"S.C.\"",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 44,
-          "name": "Pippali",
-          "gloss": null,
-          "part": "Fr.",
-          "quantity": "96 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 45,
-          "name": "Tvak",
-          "gloss": null,
-          "part": "St. Bk.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 46,
-          "name": "Ela (suksmaila)",
-          "gloss": null,
-          "part": "Sd.",
-          "quantity": "48 g.",
-          "ocrCorrected": "as printed \"Ela (stksmaila)\": read as \"(suksmaila)\" (row 30 of this table prints suksmaila)",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 47,
-          "name": "Patra (tejapatra)",
-          "gloss": null,
-          "part": "Lf.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
-        },
-        {
-          "n": 48,
-          "name": "Kesara (nagakesara)",
-          "gloss": null,
-          "part": "Stmn.",
-          "quantity": "48 g.",
-          "illegible": false,
-          "structural": false,
-          "rejoined": false
         }
       ]
     }

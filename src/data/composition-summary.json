@@ -1,7 +1,7 @@
 {
-  "formulations": 101,
-  "ingredientRows": 1985,
-  "rowsWithQuantity": 1928,
-  "rowsIllegibleInScan": 31,
-  "rowsWithAnOcrCorrection": 795
+  "formulations": 106,
+  "ingredientRows": 2158,
+  "rowsWithQuantity": 2099,
+  "rowsIllegibleInScan": 60,
+  "rowsWithAnOcrCorrection": 880
 }

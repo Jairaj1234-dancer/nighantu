@@ -25,16 +25,6 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Tailas-Medicated-Oils/Balaswagand
 |----------|------|
 | English | [Balaswagandhadi Thailam](/formulation/balaswagandhadi-thailam/) |
 
-## Key Ingredients
-
-- [Bala](/herb/bala/) (Sida cordifolia / Country Mallow root)
-- [Ashwagandha](/herb/ashwagandha/) (Withania somnifera / Winter Cherry root)
-- [Manjistha](/herb/manjistha/) (Rubia cordifolia root)
-- [Durva](/herb/durva/) (Cynodon dactylon / Bermuda grass)
-- [Yashtimadhu](/herb/yashtimadhu/) (Glycyrrhiza glabra / Licorice root)
-- [Sariva](/herb/sariva/) (Hemidesmus indicus / Indian Sarsaparilla root)
-- [Sesame oil](/glossary/concepts-m-y/#tila-taila) ([Tila](/herb/tila/) taila) base
-
 ## Where is it described in the classical texts?
 
 Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) formulation in Kerala Ayurvedic tradition. Also referenced in Ashtanga Hridayam.
@@ -68,10 +58,7 @@ Sahasrayogam (Taila Prakarana). A classic Brimhana (nourishing/strengthening) fo
 
 ## What is it made of?
 
-### Key Active Markers
-
-- Derived from constituent herbs (see individual herb profiles)
-- Standardized on primary bioactive markers
+The Ayurvedic Formulary of India recipe, every ingredient with its part and quantity, is in the composition table near the top of this page.
 
 ## Dosage forms and preparation
 

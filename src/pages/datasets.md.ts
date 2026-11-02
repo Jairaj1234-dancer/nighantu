@@ -33,7 +33,7 @@ export const GET: APIRoute = async () => {
     '',
     '## Available datasets',
     '',
-    `- **Formulary ingredient name crosswalk**: the ${n(cw.distinctNames)} Sanskrit ingredient names used across the 101 formulary entries transcribed here, ${n(cw.namesResolved)} resolved to a botanical identity with the basis stated on every row, ${n(cw.namesAmbiguous)} published as ambiguous and ${n(cw.namesUnresolved)} as unresolved. The crosswalk nobody else publishes between what the formulary calls a drug and what a label calls it.`,
+    `- **Formulary ingredient name crosswalk**: the ${n(cw.distinctNames)} Sanskrit ingredient names used across the 106 formulary entries transcribed here, ${n(cw.namesResolved)} resolved to a botanical identity with the basis stated on every row, ${n(cw.namesAmbiguous)} published as ambiguous and ${n(cw.namesUnresolved)} as unresolved. The crosswalk nobody else publishes between what the formulary calls a drug and what a label calls it.`,
     `  - JSON: ${abs('/afi-crosswalk.json')}`,
     `  - CSV: ${abs('/afi-crosswalk.csv')} (one row per ingredient row)`,
     `  - Browse: ${abs('/crosswalk/')}`,
