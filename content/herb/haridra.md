@@ -128,7 +128,7 @@ Powder and curcumin extract: at the doses given under Standard Dosage (with pipe
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Kashayam (decoction), Lepa (paste for external use), Taila (oil), Soft gel capsule, Nano-formulation
 
-**Standard Dosage:** 3-6g powder daily; 400-600mg curcuminoid extract twice daily; 15-30ml decoction
+**Standard Dosage:** 1 to 3 g powder (Ayurvedic Pharmacopoeia of India, Part I, Vol. I) daily; 400-600mg curcuminoid extract twice daily; 15-30ml decoction
 
 **Optimal Timing:** With meals containing fat for improved absorption; traditionally taken with warm milk or ghee at bedtime
 

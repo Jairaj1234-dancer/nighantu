@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Ghritams-Medicated-Ghee"
-answer: "Amrita Ghrita is a classical Ayurvedic ghrita, a medicated ghee. Amrita (Guduchi) monograph in Ayurvedic Pharmacopoeia of India (API); Amritaprasha Ghrita listed in Ayurvedic Formulary of India; formulation standards regulated under PCIM&H."
+answer: "Amrita Ghrita is a classical Ayurvedic ghrita, a medicated ghee. Amrita (Guduchi) monograph in Ayurvedic Pharmacopoeia of India (API); Amrita Ghrita listed in Ayurvedic Formulary of India, Part I, entry 6:1; formulation standards regulated under PCIM&H."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Amrita (Guduchi) monograph in Ayurvedic Pharmacopoeia of India (API); Amritaprasha Ghrita listed in Ayurvedic Formulary of India; formulation standards regulated under PCIM&H"
+whoStatus: "Amrita (Guduchi) monograph in Ayurvedic Pharmacopoeia of India (API); Amrita Ghrita listed in Ayurvedic Formulary of India, Part I, entry 6:1; formulation standards regulated under PCIM&H"
 aliases: ["Amrita Ghrita", "AmritaGhrita"]
 tags: ["ayurveda", "formulation", "ghritam", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

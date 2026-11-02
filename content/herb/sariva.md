@@ -78,7 +78,7 @@ Traditionally regarded as one of the safest blood purifiers in Ayurveda. Used fo
 
 ## Recommended Dosage
 
-Root powder: 3-6g/day; Asava ([Sarivadyasava](/formulation/sarivadyasava/)): 15-30ml
+Root powder: 3-6g/day; Asava ([Sarivadyasava](/formulation/sarivadyasava/)): 12 to 24 ml (Ayurvedic Formulary of India, Part I, entry 1:37)
 
 ## Safety, contraindications and cautions
 

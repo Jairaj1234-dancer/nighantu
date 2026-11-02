@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Guggulus-Resin-Based"
-answer: "Punarnavadi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. Listed in Ayurvedic Formulary of India (AFI) Part I; Punarnava (Boerhavia diffusa) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; recognized by CCRAS for Shotha (edema) management."
+answer: "Punarnavadi Guggulu is a classical Ayurvedic guggulu, a resin-based preparation. The Ayurvedic Formulary of India has no entry under this name; Punarnava (Boerhavia diffusa) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; recognized by CCRAS for Shotha (edema) management."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Punarnava (Boerhavia diffusa) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; recognized by CCRAS for Shotha (edema) management"
+whoStatus: "No entry under this name in the Ayurvedic Formulary of India; Punarnava (Boerhavia diffusa) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; recognized by CCRAS for Shotha (edema) management"
 aliases: ["Punarnavadi Guggulu", "PunarnavadiGuggulu"]
 tags: ["ayurveda", "formulation", "guggulu", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

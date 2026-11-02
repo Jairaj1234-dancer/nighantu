@@ -55,7 +55,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/Brain-Nervous-System/Vatsanabha/meta-analys
 
 **Dosage Forms:** Shodhit (purified) Churna, Vati (tablet), Capsule, EXTERNAL USE: Lepa (paste), Taila (oil)
 
-**Standard Dosage:** TOXIC HERB - Only after Shodhana: 15-60 mg of Shodhit (purified) powder per dose; NEVER exceed 125 mg/day; ONLY under qualified Ayurvedic physician supervision
+**Standard Dosage:** TOXIC HERB - Only after Shodhana: 15 to 30 mg of Shodhit (purified) powder per dose (Ayurvedic Pharmacopoeia of India, Part I, Vol. II, which monographs Vatsanabha as Aconitum chasmanthum and notes that it is dangerous to exceed this dose); NEVER exceed 125 mg/day; ONLY under qualified Ayurvedic physician supervision
 
 **Optimal Timing:** Only as prescribed by qualified Vaidya; typically after meals with specific anupana; short-term use only
 

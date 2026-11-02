@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Vatis-Tablets"
-answer: "Krimighna Vati is a classical Ayurvedic vati, a herbal tablet or pill. Listed in Ayurvedic Formulary of India (AFI)."
+answer: "Krimighna Vati is a classical Ayurvedic vati, a herbal tablet or pill. The Ayurvedic Formulary of India has no entry under this name."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI); Krimighna Gana (antiparasitic group) recognized in all major Samhitas; Vidanga (Embelia ribes) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; Azadirachta indica in API and Indian Pharmacopoeia"
+whoStatus: "No entry under this name in the Ayurvedic Formulary of India; Krimighna Gana (antiparasitic group) recognized in all major Samhitas; Vidanga (Embelia ribes) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I; Azadirachta indica in API and Indian Pharmacopoeia"
 aliases: ["Krimighna Vati", "KrimighnaVati"]
 tags: ["ayurveda", "formulation", "vati", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

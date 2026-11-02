@@ -63,7 +63,7 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 ### Mineral/Elemental Profile
 
-- **Primary component:** Mineral-derived preparation
+- **Primary component:** Amalaki, Lauha Bhasma and Yashtimadhu, processed with Guduchi decoction (Ayurvedic Formulary of India, Part I, entry 21:2)
 - **Note:** Composition varies by specific preparation method
 
 ## Dosage forms and preparation
@@ -76,6 +76,6 @@ Bhaishajya Ratnavali, Shoolaroga Adhikara, Chapter 30, Verses 142-147; also refe
 
 **Storage:** Airtight container; cool, dry place
 
-**Marker Compounds:** Iron oxide (from [Loha Bhasma](/herb/loha-bhasma/)), Ascorbic acid/[tannins](/reference/tannins/) (from Dhatri), [Triphala](/herb/triphala/) [polyphenols](/glossary/compounds-o-q/#polyphenols)
+**Marker Compounds:** Iron oxide (from [Loha Bhasma](/herb/loha-bhasma/)), Ascorbic acid/[tannins](/reference/tannins/) (from Dhatri)
 
 **Vehicle (Anupana):** Honey, warm water, or Amla juice

@@ -155,7 +155,7 @@ Fresh leaves: 5-10 leaves/day
 
 **Dosage Forms:** Churna (powder), Svarasa (fresh juice), Kwatha (decoction/tea), Capsule, Tablet, Essential oil, Ark (distillate), Tincture, Drops, Syrup
 
-**Standard Dosage:** 3-5 g dried leaf powder twice daily; 10-20 mL fresh juice daily; 2-3 cups Tulsi tea; 300-600 mg standardized extract capsule twice daily
+**Standard Dosage:** 2 to 3 g dried leaf powder (Ayurvedic Pharmacopoeia of India, Part I, Vol. II) twice daily; 10-20 mL fresh juice daily; 2-3 cups Tulsi tea; 300-600 mg standardized extract capsule twice daily
 
 **Optimal Timing:** Morning on empty stomach for adaptogenic/[Rasayana](/reference/rasayana/) effect; after meals for digestive support; throughout the day as tea
 

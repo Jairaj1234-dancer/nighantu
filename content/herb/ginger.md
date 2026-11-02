@@ -204,7 +204,7 @@ Fresh ginger: 5-10g/day; Dry powder (Shunthi): as given under Standard Dosage be
 
 **Dosage Forms:** Fresh rhizome (Ardraka), Dried powder - Sunthi (Churna), Tablet, Capsule, Essential oil, Oleoresin, Tincture, Swarasa (fresh juice), [Arka](/herb/arka/) (distillate), Candy/preserve
 
-**Standard Dosage:** Fresh ginger: 5-10g daily; Dried powder (Sunthi): 1-3g twice daily; 250-500mg standardized extract capsule twice daily; essential oil: 1-2 drops; tincture: 2-4ml; oleoresin: 25-50mg equivalent
+**Standard Dosage:** Fresh ginger: 5-10g daily; Dried powder (Sunthi): 1 to 2 g (Ayurvedic Pharmacopoeia of India, Part I, Vol. I) twice daily; 250-500mg standardized extract capsule twice daily; essential oil: 1-2 drops; tincture: 2-4ml; oleoresin: 25-50mg equivalent
 
 **Optimal Timing:** Before meals for appetite stimulation and digestive support; traditionally taken before travel (30 min prior) for motion sickness; fresh ginger tea traditionally taken during colds
 

@@ -27,12 +27,11 @@ srcRel: "Ayurveda/Herbs/Classical-Formulations/Ghritams-Medicated-Ghee/Panchagav
 
 ## Where is it described in the classical texts?
 
-Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga Hridaya; Ayurvedic Formulary of India (AFI) - for Apasmara, Unmada
+Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga Hridaya; Ayurvedic Formulary of India (AFI) Part I, entry 6:25, from Ashtanga Hridaya, Uttarasthana 7; 18 - for Apasmara, Jvara, Unmada, Kamala
 
 ## How does it work?
 
 - Panchagavya components provide ketogenic substrate through high-fat cow ghee content, mimicking ketogenic diet mechanism in epilepsy management
-- [Brahmi](/herb/brahmi/) (bacosides) provides [neuroprotective](/reference/neuroprotective/) and anticonvulsant action via GABAergic pathway modulation
 - Phytochemical profile includes [proteins](/glossary/compounds-o-q/#proteins), amino acids, [alkaloids](/glossary/compounds-1-a/#alkaloids), [steroids](/glossary/compounds-q-t/#steroids), phenolics, [tannins](/reference/tannins/), and [flavonoids](/reference/flavonoids/) with [antioxidant](/reference/antioxidant/) action reducing oxidative stress in brain
 - Studies have reported a possible interaction with conventional anticonvulsants (phenytoin, carbamazepine); anticonvulsant doses should not be changed without medical supervision
 
@@ -71,4 +70,4 @@ Sushruta Samhita (mania, epilepsy, fever, hepatitis); Charaka Samhita; Ashtanga 
 
 ### Synergistic Combinations
 
-- Key herbs: 5 cow products: milk, curd, ghee, urine, dung + Kushtha, [Brahmi](/herb/brahmi/); ghee enhances tissue penetration (yogavahi property)
+- The formula is the 5 cow products only, with no herb: cow dung juice, milk, curd, urine and ghee (AFI Part I, entry 6:25); ghee enhances tissue penetration (yogavahi property)

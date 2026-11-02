@@ -59,7 +59,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Dosage Forms:** Churna (fine powder), Tablets (modern), Capsules (modern)
 
-**Standard Dosage:** 3-6 g twice daily with warm water or sugar, as given in the Ayurvedic Formulary of India, Part I, entry 7:2. The formulary's anupana: warm water. The formulary attributes this formula to Bhaisajyaratnavali, Amlapittadhikara; 24-25.
+**Standard Dosage:** 3-6 g twice daily, as given in the Ayurvedic Formulary of India, Part I, entry 7:2. The formulary's anupana: honey, water, milk. The formulary attributes this formula to Bhaisajyaratnavali, Amlapittadhikara; 24-25.
 
 **Optimal Timing:** After meals or at bedtime, especially for Amlapitta (hyperacidity)
 
@@ -67,7 +67,7 @@ Bhaishajya Ratnavali (Amlapitta Rogadhikara). Also referenced in Sharangdhara Sa
 
 **Marker Compounds:** Piperine, [Embelin](/glossary/compounds-d-g/#embelin), Operculin (from [Trivrit](/herb/trivrit/)), Eugenol (from [Lavanga](/herb/lavanga/)), 1,8-[Cineole](/glossary/compounds-c-d/#cineole) (from Ela), Gallic acid
 
-**Vehicle (Anupana):** Warm water
+**Vehicle (Anupana):** Honey, water or milk
 
 ### Synergistic Combinations
 

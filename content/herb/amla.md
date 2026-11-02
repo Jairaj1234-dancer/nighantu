@@ -160,7 +160,7 @@ Fresh fruit: 1-2 fruits/day; Powder (Churna) and Juice: see Standard Dosage unde
 
 **Dosage Forms:** Churna (powder), Swarasa (fresh juice), Capsule, Tablet, Avaleha/[Chyawanprash](/formulation/chyawanprash/) (confection), [Amalaki Rasayana](/formulation/amalaki-rasayana/), [Triphala](/herb/triphala/) component, Murabba (preserve), Taila (hair oil)
 
-**Standard Dosage:** 3-6g powder twice daily; 15-30ml fresh juice; 500mg-1g extract capsule twice daily; 1-2 tsp Chyawanprash daily
+**Standard Dosage:** 3-6g powder twice daily; 5 to 10 ml fresh juice (Ayurvedic Pharmacopoeia of India, Part I, Vol. I); 500mg-1g extract capsule twice daily; 1-2 tsp Chyawanprash daily
 
 **Optimal Timing:** Morning on empty stomach for Rasayana effects; at bedtime with warm milk for rejuvenation
 

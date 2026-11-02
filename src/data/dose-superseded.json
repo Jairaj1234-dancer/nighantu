@@ -1,6 +1,6 @@
 {
-  "note": "Dose figures replaced by the Ayurvedic Formulary of India's own figure because they carried no source. Kept so the change is reversible and auditable, and listed on /corrections/.",
-  "updatedAt": "2026-10-08",
+  "note": "Dose figures replaced by the figure in the Ayurvedic Formulary of India or the Ayurvedic Pharmacopoeia of India because they carried no source. Kept so the change is reversible and auditable, and listed on /corrections/.",
+  "updatedAt": "2026-11-02",
   "replaced": [
     {
       "slug": "abhayarishta",
@@ -176,6 +176,102 @@
       "replacedWith": "3 g",
       "entry": "7:14",
       "on": "2026-10-08"
+    },
+    {
+      "kind": "herb",
+      "slug": "jayapala",
+      "supersededFigure": "60-125 mg",
+      "replacedWith": "6 to 12 mg",
+      "entry": "API Part I, Vol. II, Jayapala (seed)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "vatsanabha",
+      "supersededFigure": "15-60 mg",
+      "replacedWith": "15 to 30 mg",
+      "entry": "API Part I, Vol. II, Vatsanabha (root), monographed as Aconitum chasmanthum",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "varatika-bhasma",
+      "supersededFigure": "250-500 mg",
+      "replacedWith": "250 mg",
+      "entry": "AFI Part II, entry 14:5",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "sariva",
+      "supersededFigure": "Sarivadyasava 15-30 ml",
+      "replacedWith": "12 to 24 ml",
+      "entry": "AFI Part I, entry 1:37",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "brahmi",
+      "supersededFigure": "3-6 g powder",
+      "replacedWith": "1 to 3 g powder",
+      "entry": "API Part I, Vol. II, Brahmi (whole plant)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "haridra",
+      "supersededFigure": "3-6 g powder",
+      "replacedWith": "1 to 3 g powder",
+      "entry": "API Part I, Vol. I, Haridra (rhizome)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "tulsi",
+      "supersededFigure": "3-5 g dried leaf powder",
+      "replacedWith": "2 to 3 g dried leaf powder",
+      "entry": "API Part I, Vol. II, Tulasi (leaf)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "amla",
+      "supersededFigure": "15-30 ml fresh juice",
+      "replacedWith": "5 to 10 ml fresh juice",
+      "entry": "API Part I, Vol. I, Amalaki (fresh fruit pulp)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "ginger",
+      "supersededFigure": "Sunthi powder 1-3 g",
+      "replacedWith": "1 to 2 g",
+      "entry": "API Part I, Vol. I, Sunthi (dried rhizome)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "black-pepper",
+      "supersededFigure": "1-2 g powder",
+      "replacedWith": "250 mg to 1 g powder",
+      "entry": "API Part I, Vol. III, Marica (fruit)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "nagarmotha",
+      "supersededFigure": "50-100 mL decoction",
+      "replacedWith": "20 to 30 ml decoction",
+      "entry": "API Part I, Vol. III, Musta (rhizome)",
+      "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "nimba",
+      "supersededFigure": "Leaf powder 2-4 g/day",
+      "replacedWith": "1 to 3 g",
+      "entry": "API Part I, Vol. II, Nimba (leaf)",
+      "on": "2026-11-02"
     }
   ]
 }

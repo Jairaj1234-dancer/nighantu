@@ -34,7 +34,7 @@ import superseded from '../data/dose-superseded.json';
 <ul>
   <li><strong>25 pages now state the formulary's figure</strong> instead of ours, cited to part and entry number, with the schedule and vehicle unchanged. The largest change is <a href={rel('/formulation/arogyavardhini-vati/')}>Arogyavardhini Vati</a>, where our 125-250&nbsp;mg became the formulary's 250-500&nbsp;mg; the others move by less. The figures they replaced:
     <ul>
-      {superseded.replaced.map((x) => (
+      {superseded.replaced.filter((x) => !x.kind).map((x) => (
         <li><a href={rel(`/formulation/${x.slug}/`)}>{x.slug.replace(/-/g, ' ')}</a>: {x.supersededFigure}, now {x.replacedWith}</li>
       ))}
     </ul>
@@ -59,4 +59,11 @@ known gap not yet closed. That was accurate when written. It stopped being accur
 downloadable, and the paragraph now describes that instead.
 <p>Two things did not change and the paragraph still says so. No dataset here has a DOI minted for it alone, because a file being separately downloadable is not the same as a file being separately identified, so the DOI continues to identify the work that contains these datasets rather than any one of them. And the direct downloads on the page remain the same bytes as the archived copies, checkable against the <a href={rel('/MANIFEST.json')}>manifest</a>'s sha256 for each file.</p>
 <p>Logged because the old paragraph was a disclosure of a weakness, and quietly deleting a disclosure once the weakness is fixed leaves no way to tell that it was ever disclosed. It was also nearly rewritten a day early, on the belief that the deposit had been published when the public record still showed one version holding one zip. <code>scripts/zenodo-claim.mjs</code> now reads the claim out of the page, compares it against the live deposit on every build, and fails the build when the two disagree, so the next time this page goes stale the build says so rather than a person remembering to look.</p>
+<h3>2 November 2026: more dose figures put on a source</h3>
+<p>These figures were replaced by the one the <cite>Ayurvedic Pharmacopoeia of India</cite> or the <cite>Ayurvedic Formulary of India</cite> states for the same drug part and preparation. Both works state a quantity per dose, not a schedule, so the schedule on each page is unchanged and remains unsourced.</p>
+<ul>
+  {superseded.replaced.filter((x) => x.kind).map((x) => (
+    <li><a href={rel(`/${x.kind}/${x.slug}/`)}>{x.slug.replace(/-/g, ' ')}</a>: {x.supersededFigure}, now {x.replacedWith} ({x.entry})</li>
+  ))}
+</ul>
 </Page>

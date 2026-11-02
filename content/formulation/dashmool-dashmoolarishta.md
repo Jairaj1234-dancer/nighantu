@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Arishtas-Asavas-Fermented"
-answer: "Dashmool Dashmoolarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I and Part II. Arishta preparation described in Sharangdhara Samhita (Madhyama Khanda) and Bhaishajya Ratnavali."
+answer: "Dashmool Dashmoolarishta is a classical Ayurvedic fermented arishta or asava. Listed in the Ayurvedic Formulary of India (AFI) Part I, entry 1:18. Arishta preparation described in Sharangdhara Samhita (Madhyama Khanda) and Bhaishajya Ratnavali."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I and Part II. Dashamoola is one of the most fundamental herbal groups (Gana) in Ayurvedic pharmacology. Referenced in the National Formulary of Ayurvedic Medicine (Bangladesh, 2011). Widely recognized across all Indian state pharmacopoeias."
+whoStatus: "Listed in the Ayurvedic Formulary of India (AFI) Part I, entry 1:18. Dashamoola is one of the most fundamental herbal groups (Gana) in Ayurvedic pharmacology. Referenced in the National Formulary of Ayurvedic Medicine (Bangladesh, 2011). Widely recognized across all Indian state pharmacopoeias."
 aliases: ["Dashmool Dashmoolarishta", "DashmoolDashmoolarishta"]
 tags: ["ayurveda", "formulation", "arishta", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

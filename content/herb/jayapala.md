@@ -58,7 +58,7 @@ srcRel: "Ayurveda/Herbs/Single-Herbs/General-Herbs/Jayapala/meta-analysis.md"
 
 **Dosage Forms:** Shodhita Beeja Churna (purified seed powder), Taila (oil - external only)
 
-**Standard Dosage:** 60-125mg Shodhita (purified) seed powder ONLY under strict physician supervision. HIGHLY TOXIC in crude form.
+**Standard Dosage:** 6 to 12 mg (Ayurvedic Pharmacopoeia of India, Part I, Vol. II) Shodhita (purified) seed powder ONLY under strict physician supervision. HIGHLY TOXIC in crude form.
 
 **Optimal Timing:** Only under direct physician supervision in controlled clinical setting. Traditional use: early morning on empty stomach (Shodhita preparation only).
 

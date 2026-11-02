@@ -145,7 +145,7 @@ Named after Brahma (creator god) for its intellect-enhancing properties. Counted
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Swarasa (fresh juice), [Ghrita](/herb/ghrita/) (ghee preparation), Taila (oil), Syrup, Brahmi Rasayana
 
-**Standard Dosage:** 3-6g powder twice daily; 300-450mg standardized extract (50% bacosides); 10-20ml juice; 5-10g Brahmi Ghrita; 5-10ml syrup
+**Standard Dosage:** 1 to 3 g powder (Ayurvedic Pharmacopoeia of India, Part I, Vol. II) twice daily; 300-450mg standardized extract (50% bacosides); 10-20ml juice; 5-10g Brahmi Ghrita; 5-10ml syrup
 
 **Optimal Timing:** Morning with milk or ghee for cognitive enhancement; Ghrita at bedtime for Vata pacification
 

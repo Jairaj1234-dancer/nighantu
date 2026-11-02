@@ -6,12 +6,12 @@ section: "Ayurveda"
 category: "Herbs"
 subcategory: "Classical-Formulations"
 group: "Vatis-Tablets"
-answer: "Brahmi Vati is a classical Ayurvedic vati, a herbal tablet or pill. Listed in Ayurvedic Formulary of India (AFI) Part I."
+answer: "Brahmi Vati is a classical Ayurvedic vati, a herbal tablet or pill. Listed in Ayurvedic Formulary of India (AFI) Part II, entry 16:45."
 botanical: ""
 family: ""
 sanskrit: ""
 ayurvedicCategory: ""
-whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part I; Brahmi (Bacopa monnieri) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I, Indian Pharmacopoeia, and referenced in WHO monographs; StatPearls (NCBI) comprehensive monograph available; the gold variant classified under Schedule E(1) controlled formulations"
+whoStatus: "Listed in Ayurvedic Formulary of India (AFI) Part II, entry 16:45; Brahmi (Bacopa monnieri) individually monographed in Ayurvedic Pharmacopoeia of India (API) Part I, Indian Pharmacopoeia, and referenced in WHO monographs; StatPearls (NCBI) comprehensive monograph available; the gold variant classified under Schedule E(1) controlled formulations"
 aliases: ["Brahmi Vati", "BrahmiVati"]
 tags: ["ayurveda", "formulation", "vati", "rasayana", "pharmacopoeia-listed", "clinical-evidence", "safety-concern"]
 sources: ["Amidha Ayurveda Herb Database (700+ herbs, CC-BY-4.0)", "Web research (clinical trials, WHO monographs, safety databases)", "Ayurvedic Pharmacopoeia of India"]

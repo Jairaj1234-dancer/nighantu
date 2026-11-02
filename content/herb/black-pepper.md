@@ -95,7 +95,7 @@ Powder: at the dose given under Standard Dosage; As part of [Trikatu](/herb/trik
 
 **Dosage Forms:** Churna (powder), Tablet, Capsule, Taila (oil), [Trikatu](/herb/trikatu/) (combination with [Pippali](/herb/pippali/) and Shunthi), Essential oil, Standardized piperine extract
 
-**Standard Dosage:** 1-2g powder; 5-10mg piperine as bioenhancer; as [Trikatu](/herb/trikatu/): 1-3g; 500mg extract capsule; essential oil: 1-3 drops
+**Standard Dosage:** 250 mg to 1 g powder (Ayurvedic Pharmacopoeia of India, Part I, Vol. III); 5-10mg piperine as bioenhancer; as [Trikatu](/herb/trikatu/): 1-3g; 500mg extract capsule; essential oil: 1-3 drops
 
 **Optimal Timing:** With meals to enhance digestion and nutrient absorption; as bioenhancer, taken concurrently with target compound; Trikatu before meals
 

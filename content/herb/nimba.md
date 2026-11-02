@@ -106,7 +106,7 @@ Called 'Sarva Roga Nivarini' (curer of all ailments). Extensively used in Kushth
 
 ## Recommended Dosage
 
-Leaf powder: 2-4g/day; Leaf juice: as given under Standard Dosage; Neem oil: external use only
+Leaf powder: 1 to 3 g (Ayurvedic Pharmacopoeia of India, Part I, Vol. II); Leaf juice: as given under Standard Dosage; Neem oil: external use only
 
 ## Safety, contraindications and cautions
 

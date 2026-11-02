@@ -71,7 +71,7 @@ srcRel: "Ayurveda/Others/Mineral-Metal-Preparations/Bhasmas/Varatika-Bhasma/meta
 
 **Dosage Forms:** Bhasma
 
-**Standard Dosage:** 250–500 mg
+**Standard Dosage:** 250 mg, as given in the Ayurvedic Formulary of India, Part II, entry 14:5
 
 **Optimal Timing:** With honey or warm water; before meals for Amlapitta
 

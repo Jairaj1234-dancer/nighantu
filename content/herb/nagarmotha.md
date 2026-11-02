@@ -94,7 +94,7 @@ Tuber powder: 3-6g/day; Decoction: as given under Standard Dosage
 
 **Dosage Forms:** Churna (rhizome powder), Kwatha (decoction), Capsules, Tablets, Essential oil, Arishta (fermented), Lepa (topical paste), Dhupana (fumigation)
 
-**Standard Dosage:** 3-6 g rhizome powder per day; 50-100 mL decoction twice daily; 500-1000 mg extract capsules daily; 1-3 drops essential oil (diluted)
+**Standard Dosage:** 3-6 g rhizome powder per day; 20 to 30 ml decoction (Ayurvedic Pharmacopoeia of India, Part I, Vol. III) twice daily; 500-1000 mg extract capsules daily; 1-3 drops essential oil (diluted)
 
 **Optimal Timing:** Before meals for appetite stimulation and digestive fire enhancement; between meals for bloating and gas; morning for menstrual regulation; Arishta after meals
 
