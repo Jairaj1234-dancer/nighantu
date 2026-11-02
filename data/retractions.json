@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-26",
+ "checkedAt": "2026-11-02",
  "papersChecked": 3507,
  "note": "Cumulative. This list only grows: a paper already dropped from the corpus is no longer cited, so a later run cannot rediscover it, and overwriting would un-block it.",
  "byKind": {
