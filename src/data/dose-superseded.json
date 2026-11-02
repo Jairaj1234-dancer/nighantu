@@ -272,6 +272,14 @@
       "replacedWith": "1 to 3 g",
       "entry": "API Part I, Vol. II, Nimba (leaf)",
       "on": "2026-11-02"
+    },
+    {
+      "kind": "herb",
+      "slug": "trikatu",
+      "supersededFigure": "0.5-1 g powder",
+      "replacedWith": "1 to 3 g powder",
+      "entry": "AFI Part I, entry 7:14",
+      "on": "2026-11-02"
     }
   ]
 }

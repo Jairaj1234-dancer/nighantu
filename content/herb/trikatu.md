@@ -88,7 +88,7 @@ Powder: at the dose given under Standard Dosage, before meals with honey
 
 **Dosage Forms:** Churna (powder), Vati (tablet), Capsule, [Guggulu](/formulation/guggulu/) combination, Kwatha additive
 
-**Standard Dosage:** 0.5-1 g powder twice daily with honey or warm water; 250-500 mg tablet/capsule twice daily
+**Standard Dosage:** 1 to 3 g powder (Ayurvedic Formulary of India, Part I, entry 7:14) twice daily with honey or warm water; 250-500 mg tablet/capsule twice daily
 
 **Optimal Timing:** Before meals (15-30 minutes) for digestive stimulation and bioenhancer effect; avoid at bedtime due to thermogenic activity
 
