@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-11-02T08:19:19.934Z",
+    "checkedAt": "2026-11-03T08:34:02.620Z",
     "feeds": 4,
     "matched": 1,
     "scanned": 25
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-11-02T08:18:56.757Z",
+      "checkedAt": "2026-11-03T08:33:37.931Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-11-02T08:18:59.482Z",
+      "checkedAt": "2026-11-03T08:33:44.923Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-11-02T08:18:56.062Z",
+      "checkedAt": "2026-11-03T08:33:37.295Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-11-02T08:18:57.793Z",
+      "checkedAt": "2026-11-03T08:33:38.879Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-11-02T08:18:59.328Z",
+      "checkedAt": "2026-11-03T08:33:40.421Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-11-02T08:18:59.482Z",
+    "checkedAt": "2026-11-03T08:33:44.923Z",
     "items": [
       {
         "id": "cristalmind",
@@ -88,67 +88,67 @@
   },
   "disclosure": {
     "ageayurveda": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "avn": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "avp": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "baidyanath": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "charak": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "dabur": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "list"
     },
     "himalaya": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "list"
     },
     "keralaayurveda": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "list"
     },
     "maharishi": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "oushadhi": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "quantities"
     },
     "patanjali": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "sandu": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "sdl": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "quantities"
     },
     "sitaram": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "sna": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "neither"
     },
     "zandu": {
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-03",
       "state": "list"
     }
   },
@@ -176,7 +176,7 @@
   },
   "feeds": {
     "r-ayurveda": {
-      "checkedAt": "2026-11-02T08:19:19.833Z",
+      "checkedAt": "2026-11-03T08:34:02.576Z",
       "seenIds": [
         "t3_1wbhvk6",
         "t3_1waw2la",
@@ -468,18 +468,26 @@
         "t3_1xkfcax",
         "t3_1xk5yfd",
         "t3_1xlrk20",
-        "t3_1xky20c"
+        "t3_1xky20c",
+        "t3_1xmlkq5",
+        "t3_1xml8hi",
+        "t3_1xmjg8v",
+        "t3_1xmj19m",
+        "t3_1xmabdz",
+        "t3_1xm0jfz",
+        "t3_1xlwe2z",
+        "t3_1xlus34"
       ]
     }
   },
   "freshness": {
-    "checkedAt": "2026-11-02T08:19:19.344Z",
+    "checkedAt": "2026-11-03T08:34:02.147Z",
     "oldest": [],
     "overdue": 0,
     "total": 3966
   },
   "health": {
-    "checkedAt": "2026-11-02T08:18:41.721Z",
+    "checkedAt": "2026-11-03T08:33:26.468Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -493,7 +501,7 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-11-02T08:21:38.817Z",
+    "checkedAt": "2026-11-03T08:36:21.827Z",
     "commonCrawl": {
       "checked": [
         "CC-MAIN-2026-43",
@@ -512,8 +520,9 @@
       "taskStatus": "succeeded"
     },
     "wayback": {
-      "note": "rate limited",
-      "status": "unknown"
+      "status": "present",
+      "timestamp": "20260918112656",
+      "url": "http://web.archive.org/web/20260918112656/https://nighantu.ageayurveda.com/"
     }
   },
   "indexnow": {
@@ -8950,7 +8959,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-11-02T08:18:53.681Z",
+    "checkedAt": "2026-11-03T08:33:35.507Z",
     "total": 21
   },
   "safetyRefresh": {
@@ -9245,15 +9254,15 @@
       "firstSeen": "2026-11-02T08:21:38.818Z",
       "lastSeen": "2026-11-02T08:21:38.818Z"
     },
+    "community:digest:2026-11-03": {
+      "count": 1,
+      "firstSeen": "2026-11-03T08:36:21.827Z",
+      "lastSeen": "2026-11-03T08:36:21.827Z"
+    },
     "competitor:changed:ananda:4e12cc6bfe5dcfa5": {
       "count": 2,
       "firstSeen": "2026-10-01T07:50:08.864Z",
       "lastSeen": "2026-10-06T08:09:10.150Z"
-    },
-    "competitor:changed:ananda:e3b0c44298fc1c14": {
-      "count": 2,
-      "firstSeen": "2026-09-30T07:29:12.986Z",
-      "lastSeen": "2026-10-04T07:24:28.063Z"
     },
     "competitor:changed:cristalmind:7b99df66ba52e31d": {
       "count": 1,
@@ -9266,9 +9275,9 @@
       "lastSeen": "2026-10-30T07:45:44.968Z"
     },
     "indexation:wayback:present": {
-      "count": 5,
+      "count": 6,
       "firstSeen": "2026-09-11T06:39:30.628Z",
-      "lastSeen": "2026-10-17T06:13:29.956Z"
+      "lastSeen": "2026-11-03T08:36:21.827Z"
     },
     "threads:2026-10-07": {
       "count": 1,
@@ -9347,7 +9356,7 @@
     }
   },
   "threads": {
-    "checkedAt": "2026-11-02T08:20:33.228Z",
+    "checkedAt": "2026-11-03T08:35:15.375Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -10020,19 +10029,44 @@
       "t3_1xj7mlw",
       "t3_1xj1m2g",
       "t3_1xiwol3",
-      "t3_1xiwbwt"
+      "t3_1xiwbwt",
+      "t3_1xmlkq5",
+      "t3_1xml8hi",
+      "t3_1xmjg8v",
+      "t3_1xmj19m",
+      "t3_1xmabdz",
+      "t3_1xm0jfz",
+      "t3_1xlwe2z",
+      "t3_1xlus34",
+      "t3_1xlrk20",
+      "t3_1xky20c",
+      "t3_1xkphvz",
+      "t3_1xkj2c9",
+      "t3_1xkfcax",
+      "t3_1xk5yfd",
+      "t3_1xjsli5",
+      "t3_1xjr594",
+      "t3_1xjmdqp",
+      "t3_1xjknum",
+      "t3_1xjjd5u",
+      "t3_1xjj8gw",
+      "t3_1xjiv8w",
+      "t3_1xjij5k",
+      "t3_1xjifne",
+      "t3_1xj4zj6",
+      "t3_1xj3ha0"
     ]
   },
   "threadStats": {
     "blocked": 12,
-    "checkedAt": "2026-11-02T08:20:33.228Z",
-    "fresh": 22,
+    "checkedAt": "2026-11-03T08:35:15.375Z",
+    "fresh": 25,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
-    "qualified": 1,
+    "qualified": 0,
     "requests": 13,
-    "seen": 22,
-    "surfaced": 1
+    "seen": 25,
+    "surfaced": 0
   },
-  "updatedAt": "2026-11-03T07:49:50.601Z",
+  "updatedAt": "2026-11-03T08:36:24.091Z",
   "version": 1
 }
