@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-10-10T00:53:27.437Z",
+ "updatedAt": "2026-11-03T12:18:00.591Z",
  "summary": {
-  "papers": 3507,
-  "withDoi": 3328,
-  "subjectsCovered": 478,
-  "citedByMultiple": 638,
+  "papers": 3593,
+  "withDoi": 3410,
+  "subjectsCovered": 487,
+  "citedByMultiple": 652,
   "byTier": {
    "A": 158,
    "B": 105,
-   "C": 1171,
-   "D": 2073
+   "C": 1176,
+   "D": 2154
   },
   "byDecade": {
-   "2020s": 2133,
-   "2010s": 1078,
-   "2000s": 215,
-   "1990s": 42,
-   "1980s": 20,
-   "1970s": 10,
+   "2020s": 2182,
+   "2010s": 1101,
+   "2000s": 220,
+   "1990s": 43,
+   "1980s": 25,
+   "1970s": 13,
    "1960s": 5,
    "1950s": 1,
    "1870s": 2,
@@ -26,23 +26,23 @@
   "topJournals": [
    {
     "name": "Journal of ethnopharmacology",
-    "count": 217
+    "count": 221
    },
    {
     "name": "Molecules (Basel, Switzerland)",
-    "count": 103
+    "count": 108
+   },
+   {
+    "name": "Natural product research",
+    "count": 76
    },
    {
     "name": "Plants (Basel, Switzerland)",
     "count": 72
    },
    {
-    "name": "Natural product research",
-    "count": 70
-   },
-   {
     "name": "Phytotherapy research : PTR",
-    "count": 69
+    "count": 70
    },
    {
     "name": "Ayu",
@@ -50,7 +50,7 @@
    },
    {
     "name": "Scientific reports",
-    "count": 62
+    "count": 64
    },
    {
     "name": "Journal of Ayurveda and integrative medicine",
@@ -62,19 +62,19 @@
    },
    {
     "name": "Heliyon",
+    "count": 51
+   },
+   {
+    "name": "Chemistry & biodiversity",
     "count": 50
    },
    {
     "name": "International journal of molecular sciences",
-    "count": 49
-   },
-   {
-    "name": "Chemistry & biodiversity",
-    "count": 48
+    "count": 50
    },
    {
     "name": "International journal of biological macromolecules",
-    "count": 38
+    "count": 40
    },
    {
     "name": "Ancient science of life",
@@ -7413,6 +7413,26 @@
    ]
   },
   {
+   "pmid": "42962935",
+   "doi": "10.1016/j.fitote.2026.107537",
+   "title": "Baliospermum solanifolium (Burm.) Suresh (syn. B. montanum): A critical evidence audit of diterpenoid chemistry, pharmacology, safety and translational constraints",
+   "journal": "Fitoterapia",
+   "year": 2026,
+   "authors": [
+    "Alok S"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962935/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "danti-moola",
+     "title": "Danti Moola",
+     "binomial": "baliospermum solanifolium"
+    }
+   ]
+  },
+  {
    "pmid": "41547697",
    "doi": "10.1186/s11671-026-04436-6",
    "title": "Biomedical and industrial applications of Trachyspermum ammi-derived nanoparticles: a comprehensive review",
@@ -8161,6 +8181,33 @@
      "slug": "vasa",
      "title": "Vasa",
      "binomial": "adhatoda vasica"
+    }
+   ]
+  },
+  {
+   "pmid": "41392849",
+   "doi": "10.1111/1541-4337.70358",
+   "title": "The Nutritional Composition, Functional Properties, and Food Application of Adlay (Coix lacryma-Jobi L.): A Comprehensive Review",
+   "journal": "Comprehensive reviews in food science and food safety",
+   "year": 2026,
+   "authors": [
+    "Wu-Chen RA",
+    "Liu X",
+    "Wang C",
+    "Wang C",
+    "Wu C",
+    "Han J",
+    "Li Y",
+    "Ni L"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41392849/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
     }
    ]
   },
@@ -9058,6 +9105,31 @@
      "slug": "kusumbha",
      "title": "Kusumbha",
      "binomial": "carthamus tinctorius"
+    }
+   ]
+  },
+  {
+   "pmid": "41157091",
+   "doi": "10.3390/molecules30204072",
+   "title": "Centipeda minima: A Review of Phytochemistry, Pharmacology, and Predictive Analysis on Quality Markers",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2025,
+   "authors": [
+    "Shang Z",
+    "Wang Y",
+    "Zhu T",
+    "Niu W",
+    "Lu T",
+    "Lou R"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41157091/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -20152,6 +20224,36 @@
    ]
   },
   {
+   "pmid": "35091011",
+   "doi": "10.1016/j.jep.2022.115027",
+   "title": "Centipeda minima: An update on its phytochemistry, pharmacology and safety",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2022,
+   "authors": [
+    "Tan J",
+    "Qiao Z",
+    "Meng M",
+    "Zhang F",
+    "Kwan HY",
+    "Zhong K",
+    "Yang C",
+    "Wang Y",
+    "Zhang M",
+    "Liu Z",
+    "Su T"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35091011/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    }
+   ]
+  },
+  {
    "pmid": "36939806",
    "doi": "10.1007/s43657-022-00074-x",
    "title": "Chinese Medicine Phenomics (Chinmedphenomics): Personalized, Precise and Promising",
@@ -22185,6 +22287,32 @@
      "slug": "trapusha",
      "title": "Trapusha",
      "binomial": "cucumis sativus"
+    }
+   ]
+  },
+  {
+   "pmid": "35714881",
+   "doi": "10.1016/j.jep.2022.115463",
+   "title": "The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2022,
+   "authors": [
+    "Qian H",
+    "Wang L",
+    "Li Y",
+    "Wang B",
+    "Li C",
+    "Fang L",
+    "Tang L"
+   ],
+   "tier": "C",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35714881/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kankshi",
+     "title": "Kankshi",
+     "binomial": ""
     }
    ]
   },
@@ -36921,6 +37049,12 @@
      "slug": "ambasthaki",
      "title": "Ambasthaki",
      "binomial": "cissampelos pareira"
+    },
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -39067,6 +39201,29 @@
    ]
   },
   {
+   "pmid": "41710148",
+   "doi": "10.2147/IJWH.S561213",
+   "title": "Effects of Shatavari (Asparagus racemosus) Root Extract on Sexual Wellness in Women: Findings from a Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study",
+   "journal": "International journal of women's health",
+   "year": 2026,
+   "authors": [
+    "Ademola J",
+    "Mahajan S",
+    "Srivathsan M",
+    "Langade D"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41710148/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shatavari",
+     "title": "Shatavari",
+     "binomial": "asparagus racemosus"
+    }
+   ]
+  },
+  {
    "pmid": "42622685",
    "doi": "10.1007/s00299-026-03932-4",
    "title": "Elevated ozone reprograms secondary metabolism in Abelmoschus moschatus pods, enhancing antidiabetic and antiobesity bioactivities",
@@ -39108,6 +39265,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -39496,6 +39659,29 @@
      "slug": "nikochaka",
      "title": "Nikochaka",
      "binomial": "alangium salviifolium"
+    }
+   ]
+  },
+  {
+   "pmid": "40743904",
+   "doi": "10.1080/14786419.2025.2538095",
+   "title": "Multifaceted evaluation of Fumaria parviflora: from bioactive isolation to anticancer screening and computational drug design",
+   "journal": "Natural product research",
+   "year": 2026,
+   "authors": [
+    "Singadi R",
+    "Koli R",
+    "Kagawad P",
+    "Maste MM"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40743904/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
     }
    ]
   },
@@ -40663,6 +40849,12 @@
      "slug": "vamsha",
      "title": "Vamsha",
      "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
     }
    ]
   },
@@ -40970,6 +41162,32 @@
    ]
   },
   {
+   "pmid": "41471332",
+   "doi": "10.3390/ph18121843",
+   "title": "Coixol and Sinigrin from Coix lacryma-jobi L. and Raphanus sativus L. Promote Fat Browning in 3T3-L1 Adipocytes",
+   "journal": "Pharmaceuticals (Basel, Switzerland)",
+   "year": 2025,
+   "authors": [
+    "Choi SM",
+    "Lim SH",
+    "Lee HS",
+    "Choi G",
+    "Kim MJ",
+    "Kim H",
+    "Choi CI"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41471332/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "40712280",
    "doi": "10.1016/j.phymed.2025.157079",
    "title": "Combination of Withania coagulans and Fagonia cretica ameliorates hyperuricemia by re-modulating gut microbiota-derived spermidine and traumatic acid",
@@ -41232,6 +41450,33 @@
      "slug": "kataka",
      "title": "Kataka",
      "binomial": "strychnos potatorum"
+    }
+   ]
+  },
+  {
+   "pmid": "39791234",
+   "doi": "10.1021/acs.orglett.4c04391",
+   "title": "Discovery, Characterization, and Anti-XOD Activity of Calcium Metallophore from Coix lacryma-jobi",
+   "journal": "Organic letters",
+   "year": 2025,
+   "authors": [
+    "Xue Y",
+    "Song D",
+    "Liu SR",
+    "Lei CW",
+    "Shi H",
+    "Zhou Y",
+    "Feng TT",
+    "Wei X"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39791234/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
     }
    ]
   },
@@ -41708,6 +41953,31 @@
      "slug": "vrikshamla",
      "title": "Vrikshamla",
      "binomial": "garcinia indica"
+    }
+   ]
+  },
+  {
+   "pmid": "38753976",
+   "doi": "10.1080/14786419.2024.2348682",
+   "title": "GC-MS profiling and biological investigations of Cissampelos pareira L. & Lantana camara L",
+   "journal": "Natural product research",
+   "year": 2025,
+   "authors": [
+    "Wasim M",
+    "Rafey HA",
+    "Sarwar S",
+    "Nadeem H",
+    "Ross SA",
+    "Shaheen F"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38753976/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -43979,6 +44249,27 @@
      "slug": "shirisha",
      "title": "Shirisha",
      "binomial": "albizia lebbeck"
+    }
+   ]
+  },
+  {
+   "pmid": "39257938",
+   "doi": "10.1016/j.crmicr.2024.100267",
+   "title": "A novel experimental approach for the catalytic conversion of lignocellulosic Bambusa bambos to bioethanol",
+   "journal": "Current research in microbial sciences",
+   "year": 2024,
+   "authors": [
+    "Paul SK",
+    "Das AJ"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39257938/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
     }
    ]
   },
@@ -46382,6 +46673,33 @@
    ]
   },
   {
+   "pmid": "38750533",
+   "doi": "10.1186/s12906-024-04498-y",
+   "title": "Correction: Centipeda minima active components and mechanisms in lung cancer",
+   "journal": "BMC complementary medicine and therapies",
+   "year": 2024,
+   "authors": [
+    "Gao C",
+    "Pan H",
+    "Ma F",
+    "Zhang Z",
+    "Zhao Z",
+    "Song J",
+    "Li W",
+    "Fan X"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38750533/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    }
+   ]
+  },
+  {
    "pmid": "38835963",
    "doi": "10.3389/fnut.2024.1352548",
    "title": "Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties",
@@ -48641,6 +48959,33 @@
    ]
   },
   {
+   "pmid": "39147484",
+   "doi": "10.1016/j.foodres.2024.114747",
+   "title": "In vitro digestion and fermentation characteristics of soluble dietary fiber from adlay (Coix lacryma-jobi L. var. ma-yuen Staft) bran modified by steam explosion",
+   "journal": "Food research international (Ottawa, Ont.)",
+   "year": 2024,
+   "authors": [
+    "Zhou S",
+    "Tang X",
+    "Hegyi F",
+    "Nagy A",
+    "Takács K",
+    "Zalán Z",
+    "Chen G",
+    "Du M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39147484/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "39463720",
    "doi": "10.32592/ARI.2024.79.2.395",
    "title": "In vitro Evaluation of Anti-obesity Potential of Phyllanthus Fraternus Leaves",
@@ -49714,6 +50059,31 @@
      "slug": "prasarini",
      "title": "Prasarini",
      "binomial": "paederia foetida"
+    }
+   ]
+  },
+  {
+   "pmid": "38280683",
+   "doi": "10.1016/j.fitote.2024.105834",
+   "title": "New cassane-type alkaloids and diterpenoids from the pericarps of Caesalpinia bonduc",
+   "journal": "Fitoterapia",
+   "year": 2024,
+   "authors": [
+    "Yan SJ",
+    "Huang SY",
+    "Xing JS",
+    "Cai YR",
+    "Ruan YP",
+    "Zhang PP"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38280683/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -51071,6 +51441,36 @@
      "slug": "nirgundi",
      "title": "Nirgundi",
      "binomial": "vitex negundo"
+    }
+   ]
+  },
+  {
+   "pmid": "39658430",
+   "doi": "10.1016/j.biopha.2024.117697",
+   "title": "Retraction notice to \"Helenalin from Centipeda minima ameliorates acute hepatic injury by protecting mitochondria function, activating Nrf2 pathway and inhibiting NF-κB activation\" [Biomed. Pharmacother. 119 (2019) 109435]",
+   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "year": 2024,
+   "authors": [
+    "Li Y",
+    "Zeng Y",
+    "Huang Q",
+    "Wen S",
+    "Wei Y",
+    "Chen Y",
+    "Zhang X",
+    "Bai F",
+    "Lu Z",
+    "Wei J",
+    "Lin X"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39658430/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -53846,6 +54246,30 @@
    ]
   },
   {
+   "pmid": "36448248",
+   "doi": "10.1080/15226514.2022.2152424",
+   "title": "Cadmium-resistant Streptomyces stimulates phytoextraction potential of Crotalaria juncea L. in cadmium-polluted soil",
+   "journal": "International journal of phytoremediation",
+   "year": 2023,
+   "authors": [
+    "Thooppeng P",
+    "Junpradit C",
+    "Rongsayamanont W",
+    "Duangmal K",
+    "Prapagdee B"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36448248/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "37282633",
    "doi": "10.2174/1568026623666230606162556",
    "title": "Calotropis procera (Aiton) Dryand (Apocynaceae): State of the art of its uses and Applications",
@@ -53983,6 +54407,33 @@
    ]
   },
   {
+   "pmid": "36959600",
+   "doi": "10.1186/s12906-023-03915-y",
+   "title": "Centipeda minima active components and mechanisms in lung cancer",
+   "journal": "BMC complementary medicine and therapies",
+   "year": 2023,
+   "authors": [
+    "Gao C",
+    "Pan H",
+    "Ma F",
+    "Zhang Z",
+    "Zhao Z",
+    "Song J",
+    "Li W",
+    "Fan X"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36959600/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    }
+   ]
+  },
+  {
    "pmid": "37704836",
    "doi": "10.1038/s41598-023-42140-y",
    "title": "Characteristics of wood apple (Limonia acidissima L.) and soybean powder jelly for emergency food alternatives",
@@ -54093,6 +54544,32 @@
      "slug": "aivana",
      "title": "Aivana",
      "binomial": "salvia officinalis"
+    }
+   ]
+  },
+  {
+   "pmid": "36677882",
+   "doi": "10.3390/molecules28020824",
+   "title": "Chemical Composition, Antibacterial and Antioxidant Activities of Essential Oil from Centipeda minima",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2023,
+   "authors": [
+    "Su F",
+    "Yang G",
+    "Hu D",
+    "Ruan C",
+    "Wang J",
+    "Zhang Y",
+    "Zhu Q"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36677882/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -54934,6 +55411,29 @@
    ]
   },
   {
+   "pmid": "36586624",
+   "doi": "10.1016/j.fitote.2022.105408",
+   "title": "Dimeric alkaloids from the barks of Erythrina variegata as well as their occurrence",
+   "journal": "Fitoterapia",
+   "year": 2023,
+   "authors": [
+    "Tang YT",
+    "Si ZR",
+    "Bao MF",
+    "Cai XH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36586624/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "37149067",
    "doi": "10.1016/j.jep.2023.116525",
    "title": "Diospyros malabarica fruit preparation mediates immunotherapeutic modulation and epigenetic regulation to evoke protection against non-small cell lung cancer (NSCLC)",
@@ -55664,6 +56164,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -57306,6 +57812,31 @@
    ]
   },
   {
+   "pmid": "37102725",
+   "doi": "10.1094/PDIS-09-22-2148-RE",
+   "title": "Molecular and Biological Characterization of a Novel Tobamovirus Infecting Sunn Hemp (Crotalaria juncea) in Hawaii",
+   "journal": "Plant disease",
+   "year": 2023,
+   "authors": [
+    "Kong AT",
+    "Olmedo-Velarde A",
+    "Borth W",
+    "Wang KH",
+    "Hu JS",
+    "Melzer MJ"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37102725/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "36568408",
    "doi": "10.1016/j.sjbs.2022.103527",
    "title": "Molecular mechanism of Ferula asafoetida for the treatment of asthma: Network pharmacology and molecular docking approach",
@@ -58583,6 +59114,29 @@
      "slug": "kovidara",
      "title": "Kovidara",
      "binomial": "bauhinia purpurea"
+    }
+   ]
+  },
+  {
+   "pmid": "37935736",
+   "doi": "10.1038/s41598-023-46587-x",
+   "title": "Publisher Correction: Physiological and biochemical mechanisms of grain yield loss in fumitory (Fumaria parviflora Lam.) exposed to copper and drought stress",
+   "journal": "Scientific reports",
+   "year": 2023,
+   "authors": [
+    "Tashakorizadeh M",
+    "Golkar P",
+    "Vahabi MR",
+    "Ghorbanpour M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37935736/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
     }
    ]
   },
@@ -60113,6 +60667,35 @@
    ]
   },
   {
+   "pmid": "36214059",
+   "doi": "10.1002/mnfr.202200447",
+   "title": "Adlay (Coix lacryma-jobi L.) Polyphenol Improves Hepatic Glucose and Lipid Homeostasis through Regulating Intestinal Flora via AMPK Pathway",
+   "journal": "Molecular nutrition & food research",
+   "year": 2022,
+   "authors": [
+    "Ma S",
+    "Yang B",
+    "Shi Y",
+    "Du Y",
+    "Lv Y",
+    "Liu J",
+    "Liu E",
+    "Xu H",
+    "Deng L",
+    "Chen XY"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36214059/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "35041912",
    "doi": "10.1016/j.ijpharm.2022.121450",
    "title": "AgVI and Ag/ZnOVI nanostructures from Vateria indica (L.) exert antioxidant, antidiabetic, anti-inflammatory and cytotoxic efficacy on triple negative breast cancer cells in vitro",
@@ -61167,6 +61750,35 @@
    ]
   },
   {
+   "pmid": "35815214",
+   "doi": "10.3389/fchem.2022.911543",
+   "title": "Caesalpinbondin A, a Novel Diterpenoid Lactone With an Unprecedented Carbon Skeleton from the Seeds of Caesalpinia bonduc",
+   "journal": "Frontiers in chemistry",
+   "year": 2022,
+   "authors": [
+    "Fei DQ",
+    "Li HH",
+    "Chen XH",
+    "Cui WB",
+    "Zhang ZP",
+    "Zhan XQ",
+    "Wang MJ",
+    "Qi FM",
+    "Zhang ZX",
+    "Li EW"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35815214/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
+    }
+   ]
+  },
+  {
    "pmid": "36226284",
    "doi": "10.3389/fpls.2022.960717",
    "title": "Calliterpenone, a natural plant growth promoter from a medicinal plant Callicarpa macrophylla, sustainably enhances the yield and productivity of crops",
@@ -61246,6 +61858,31 @@
      "slug": "ingudi",
      "title": "Ingudi",
      "binomial": "balanites aegyptiaca"
+    }
+   ]
+  },
+  {
+   "pmid": "34656025",
+   "doi": "10.1016/j.phytochem.2021.112973",
+   "title": "Cassane diterpenoids from the seeds of Caesalpinia bonduc and their nitric oxide production and α-glucosidase inhibitory activities",
+   "journal": "Phytochemistry",
+   "year": 2022,
+   "authors": [
+    "Tu WC",
+    "Ding LF",
+    "Peng LY",
+    "Song LD",
+    "Wu XD",
+    "Zhao QS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34656025/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -62083,6 +62720,30 @@
    ]
   },
   {
+   "pmid": "35292327",
+   "doi": "10.1016/j.phytochem.2022.113160",
+   "title": "Dimeric Erythrina alkaloids as well as their key units from Erythrina variegata",
+   "journal": "Phytochemistry",
+   "year": 2022,
+   "authors": [
+    "Tang YT",
+    "Wu J",
+    "Bao MF",
+    "Tan QG",
+    "Cai XH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35292327/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "35869256",
    "doi": "10.1038/s41598-022-16851-7",
    "title": "Discrimination of Curculigo orchioides Rhizoma and Curculigo glabrescens Rhizoma using stable isotope and mineral element analyses coupled with chemometrics",
@@ -62106,6 +62767,34 @@
      "slug": "talamuli",
      "title": "Talamuli",
      "binomial": "curculigo orchioides"
+    }
+   ]
+  },
+  {
+   "pmid": "35743309",
+   "doi": "10.3390/ijms23126871",
+   "title": "Diterpenoid Caesalmin C Delays Aβ-Induced Paralysis Symptoms via the DAF-16 Pathway in Caenorhabditis elegans",
+   "journal": "International journal of molecular sciences",
+   "year": 2022,
+   "authors": [
+    "Zhang ZP",
+    "Bai X",
+    "Cui WB",
+    "Chen XH",
+    "Liu X",
+    "Zhi DJ",
+    "Zhang ZX",
+    "Fei DQ",
+    "Wang DS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35743309/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -62983,6 +63672,27 @@
    ]
   },
   {
+   "pmid": "36457365",
+   "doi": "10.2478/jofnem-2022-0052",
+   "title": "Host Status of Cover Crops for the Management of Pratylenchus Jaehni on Coffee",
+   "journal": "Journal of nematology",
+   "year": 2022,
+   "authors": [
+    "Bessi R",
+    "Massayuki Inomoto M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36457365/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "35200507",
    "doi": "10.3390/gels8020126",
    "title": "Hydrogel Containing Borassus flabellifer L. Male Flower Extract for Antioxidant, Antimicrobial, and Anti-Inflammatory Activity",
@@ -63155,6 +63865,30 @@
      "slug": "granthiparni",
      "title": "Granthiparni",
      "binomial": "leonotis nepetifolia"
+    }
+   ]
+  },
+  {
+   "pmid": "35163898",
+   "doi": "10.3390/molecules27030633",
+   "title": "Insecticidal Activity of Extracts, Fractions, and Pure Molecules of Cissampelos pareira Linnaeus against Aphid, Aphis craccivora Koch",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2022,
+   "authors": [
+    "Kumari S",
+    "Dolma SK",
+    "Anmol",
+    "Sharma U",
+    "Reddy SGE"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35163898/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -63581,6 +64315,60 @@
      "slug": "bakula",
      "title": "Bakula",
      "binomial": "mimusops elengi"
+    }
+   ]
+  },
+  {
+   "pmid": "35889498",
+   "doi": "10.3390/molecules27144626",
+   "title": "Molecular Action Mechanism of Coixol from Soft-Shelled Adlay on Tyrosinase: The Future of Cosmetics",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2022,
+   "authors": [
+    "Lin LY",
+    "Liao YL",
+    "Chen MH",
+    "Chang SF",
+    "Chen KC",
+    "Peng RY"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35889498/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
+   "pmid": "36518143",
+   "doi": "10.6026/97320630018265",
+   "title": "Molecular docking analysis of bioactive compounds from Cissampelos pareira with PPAR gamma",
+   "journal": "Bioinformation",
+   "year": 2022,
+   "authors": [
+    "Vidhya Rekha U",
+    "Rajagopal P",
+    "Varadhachariyar R",
+    "Harie Priya P",
+    "Shazia Fathima JH",
+    "Govindan R",
+    "Palanisamy C",
+    "Aswini Brindha KB",
+    "Veeraraghavan VP",
+    "Jayaraman S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36518143/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -64451,6 +65239,30 @@
    ]
   },
   {
+   "pmid": "33823691",
+   "doi": "10.1080/14786419.2021.1904401",
+   "title": "Production of isoquinoline alkaloids from the in vitro conserved Fumaria parviflora and their in vitro wound healing activity",
+   "journal": "Natural product research",
+   "year": 2022,
+   "authors": [
+    "Elsaid MB",
+    "Elnaggar DM",
+    "Owis AI",
+    "AbouZid SF",
+    "Eldahmy S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33823691/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "35251216",
    "doi": "10.1155/2022/8738435",
    "title": "Protective Effects of Alternanthera sessilis Ethanolic Extract against TNF-α or H(2)O(2)-Induced Endothelial Activation in Human Aortic Endothelial Cells",
@@ -65226,6 +66038,32 @@
    ]
   },
   {
+   "pmid": "35141416",
+   "doi": "10.1080/23802359.2022.2032437",
+   "title": "The complete chloroplast genome sequence of medicinal plant Centipeda minima (Compositae)",
+   "journal": "Mitochondrial DNA. Part B, Resources",
+   "year": 2022,
+   "authors": [
+    "Ouyang X",
+    "Chen A",
+    "Mao Y",
+    "Zhang K",
+    "Gui P",
+    "Yang Y",
+    "Zuo L"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35141416/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    }
+   ]
+  },
+  {
    "pmid": "36558012",
    "doi": "10.3390/molecules27248880",
    "title": "The Detailed Pharmacodynamics of the Gut Relaxant Effect and GC-MS Analysis of the Grewia tenax Fruit Extract: In Vivo and Ex Vivo Approach",
@@ -65245,6 +66083,29 @@
      "slug": "gangeruki",
      "title": "Gangeruki",
      "binomial": "grewia tenax"
+    }
+   ]
+  },
+  {
+   "pmid": "35753722",
+   "doi": "10.1111/and.14512",
+   "title": "The effect of Fumaria parviflora on the expression of sexual hormones along with their receptors in testicles of adult rats induced by varicocele",
+   "journal": "Andrologia",
+   "year": 2022,
+   "authors": [
+    "Dolatkhah MA",
+    "Khezri S",
+    "Shokoohi M",
+    "Alihemmati A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35753722/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
     }
    ]
   },
@@ -65465,6 +66326,30 @@
      "slug": "mahanimba",
      "title": "Mahanimba",
      "binomial": "melia azedarach"
+    }
+   ]
+  },
+  {
+   "pmid": "33663272",
+   "doi": "10.1080/14786419.2021.1896511",
+   "title": "Two new cassane-type diterpenoids from the seed kernels of Caesalpinia bonduc (Linn.) Roxb. and their anti-inflammatory activity",
+   "journal": "Natural product research",
+   "year": 2022,
+   "authors": [
+    "Liu T",
+    "Li X",
+    "Ning Z",
+    "Qi S",
+    "Gao H"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33663272/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -65702,6 +66587,30 @@
    ]
   },
   {
+   "pmid": "31135214",
+   "doi": "10.1080/14786419.2019.1614576",
+   "title": "A new pyrrole alkaloid from the roots of Cissampelos pareira",
+   "journal": "Natural product research",
+   "year": 2021,
+   "authors": [
+    "Rukachaisirikul T",
+    "Kumjun S",
+    "Suebsakwong P",
+    "Apiratikul N",
+    "Suksamrarn A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31135214/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
+    }
+   ]
+  },
+  {
    "pmid": "34697741",
    "doi": "10.1134/S1607672921050203",
    "title": "Abutilon indicum Exhibits Anxiolytic and Antidepressant Effects in Mice Models",
@@ -65722,6 +66631,30 @@
      "slug": "atibala",
      "title": "Atibala",
      "binomial": "abutilon indicum"
+    }
+   ]
+  },
+  {
+   "pmid": "35480829",
+   "doi": "10.1039/d1ra03636j",
+   "title": "Acid-catalyzed transformation of cassane diterpenoids from Caesalpinia bonduc to aromatic derivatives",
+   "journal": "RSC advances",
+   "year": 2021,
+   "authors": [
+    "Liu T",
+    "Ning Z",
+    "Yin Y",
+    "Qi S",
+    "Gao H"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35480829/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -66019,6 +66952,12 @@
      "slug": "ambasthaki",
      "title": "Ambasthaki",
      "binomial": "cissampelos pareira"
+    },
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -66285,6 +67224,35 @@
    ]
   },
   {
+   "pmid": "34226956",
+   "doi": "10.1007/s10661-021-09231-7",
+   "title": "Assessment of eco-hydrological parameters for important sympodial bamboo species in Himalayan foothills",
+   "journal": "Environmental monitoring and assessment",
+   "year": 2021,
+   "authors": [
+    "Kaushal R",
+    "Kumar A",
+    "Alam NM",
+    "Singh I",
+    "Mandal D",
+    "Tomar JMS",
+    "Mehta H",
+    "Lepcha STS",
+    "Long TT",
+    "Durai J"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34226956/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
+    }
+   ]
+  },
+  {
    "pmid": "34476606",
    "doi": "10.1007/s10661-021-09356-9",
    "title": "Assessment of sal (Shorea robusta) forest phenology and its response to climatic variables in India",
@@ -66508,6 +67476,33 @@
    ]
   },
   {
+   "pmid": "34184408",
+   "doi": "10.1002/cbdv.202100309",
+   "title": "Cassane-Type Diterpenoids from the Seeds of Caesalpinia bonduc (L.) Roxb",
+   "journal": "Chemistry & biodiversity",
+   "year": 2021,
+   "authors": [
+    "Cao J",
+    "Xu Y",
+    "Lou R",
+    "Shi W",
+    "Chen J",
+    "Gan L",
+    "Lu J",
+    "Lin L"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34184408/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
+    }
+   ]
+  },
+  {
    "pmid": "33826680",
    "doi": "10.1371/journal.pone.0249704",
    "title": "Characterizing the cytotoxic effects and several antimicrobial phytocompounds of Argemone mexicana",
@@ -66704,6 +67699,32 @@
      "slug": "chyawanprash",
      "title": "Chyawanprash",
      "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "34546728",
+   "doi": "10.1021/acs.joc.1c01489",
+   "title": "Colored Dimeric Alkaloids from the Barks of Erythrina variegata and Their Neuroprotective Effects",
+   "journal": "The Journal of organic chemistry",
+   "year": 2021,
+   "authors": [
+    "Tang YT",
+    "Wu J",
+    "Yu Y",
+    "Bao MF",
+    "Tan QG",
+    "Schinnerl J",
+    "Cai XH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34546728/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },
@@ -66921,6 +67942,36 @@
    ]
   },
   {
+   "pmid": "33533247",
+   "doi": "10.1021/acs.jnatprod.0c00884",
+   "title": "Cytotoxic and Anti-Inflammatory Sesquiterpenes from the Whole Plants of Centipeda minima",
+   "journal": "Journal of natural products",
+   "year": 2021,
+   "authors": [
+    "Xue PH",
+    "Zhang N",
+    "Liu D",
+    "Zhang QR",
+    "Duan JS",
+    "Yu YQ",
+    "Li JY",
+    "Cao SJ",
+    "Zhao F",
+    "Kang N",
+    "Qiu F"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33533247/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    }
+   ]
+  },
+  {
    "pmid": "32841550",
    "doi": "10.1111/1755-0998.13240",
    "title": "De novo assemblies of Luffa acutangula and Luffa cylindrica genomes reveal an expansion associated with substantial accumulation of transposable elements",
@@ -67088,6 +68139,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -67805,6 +68862,39 @@
      "slug": "meda",
      "title": "Meda",
      "binomial": "polygonatum verticillatum"
+    }
+   ]
+  },
+  {
+   "pmid": "35574507",
+   "doi": "10.6026/97320630017866",
+   "title": "Molecular docking analysis of glycogen phosphorylase with inhibitors from Cissampelos pareira Linn",
+   "journal": "Bioinformation",
+   "year": 2021,
+   "authors": [
+    "Chandrashekar K",
+    "Rajagopal P",
+    "Jh SF",
+    "Radhakrishnan S",
+    "Krishnan Muthaiah VP",
+    "Sontakke BR",
+    "Deshmukh VR",
+    "Periyasamy V",
+    "Muthiyan GG",
+    "Tarnekar AM",
+    "Gugapriya TS",
+    "Laxman PA",
+    "Tripathi SC",
+    "Jayaraman S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35574507/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
     }
    ]
   },
@@ -69020,6 +70110,40 @@
    ]
   },
   {
+   "pmid": "34635729",
+   "doi": "10.1038/s41598-021-99444-0",
+   "title": "Transcriptome analysis and connectivity mapping of Cissampelos pareira L. provides molecular links of ESR1 modulation to viral inhibition",
+   "journal": "Scientific reports",
+   "year": 2021,
+   "authors": [
+    "Haider M",
+    "Dholakia D",
+    "Panwar A",
+    "Garg P",
+    "Gheware A",
+    "Singh D",
+    "Singhal K",
+    "Burse SA",
+    "Kumari S",
+    "Sharma A",
+    "Ray A",
+    "Medigeshi GR",
+    "Sharma U",
+    "Prasher B",
+    "Mukerji M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34635729/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
+    }
+   ]
+  },
+  {
    "pmid": "34149415",
    "doi": "10.3389/fphar.2021.662000",
    "title": "Triphala Churna-A Traditional Formulation in Ayurveda Mitigates Diabetic Neuropathy in Rats",
@@ -69337,6 +70461,27 @@
    ]
   },
   {
+   "pmid": "31600560",
+   "doi": "10.1016/j.jep.2019.112280",
+   "title": "Anti-depressant activity of Erythrina variegata bark extract and regulation of monoamine oxidase activities in mice",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2020,
+   "authors": [
+    "Martins J",
+    "Brijesh S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31600560/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "32382275",
    "doi": "10.1155/2020/1043471",
    "title": "Antibacterial, Antifungal, Antiviral, and Anthelmintic Activities of Medicinal Plants of Nepal Selected Based on Ethnobotanical Evidence",
@@ -69536,6 +70681,30 @@
    ]
   },
   {
+   "pmid": "32130690",
+   "doi": "10.1007/s13659-020-00235-3",
+   "title": "Artificial Erythrina Alkaloids from Three Erythrina Plants, E. variegata, E. crista-galli and E. arborescens",
+   "journal": "Natural products and bioprospecting",
+   "year": 2020,
+   "authors": [
+    "Zhang BJ",
+    "Wu J",
+    "Bao MF",
+    "Wang F",
+    "Cai XH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32130690/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "33050190",
    "doi": "10.3390/plants9101329",
    "title": "Artocarpus lakoocha Roxb. and Artocarpus heterophyllus Lam. Flowers: New Sources of Bioactive Compounds",
@@ -69658,6 +70827,31 @@
      "slug": "bhringraj",
      "title": "Bhringraj",
      "binomial": "eclipta prostrata"
+    }
+   ]
+  },
+  {
+   "pmid": "32640706",
+   "doi": "10.3390/molecules25133077",
+   "title": "Bioassay-Guided Separation of Centipeda minima Using Comprehensive Linear Gradient Centrifugal Partition Chromatography",
+   "journal": "Molecules (Basel, Switzerland)",
+   "year": 2020,
+   "authors": [
+    "Kim JH",
+    "Jung EJ",
+    "Lee YJ",
+    "Gao EM",
+    "Syed AS",
+    "Kim CY"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32640706/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -70423,6 +71617,32 @@
    ]
   },
   {
+   "pmid": "32991040",
+   "doi": "10.1111/and.13826",
+   "title": "Fumaria parviflora regulates oxidative stress and apoptosis gene expression in the rat model of varicocele induction",
+   "journal": "Andrologia",
+   "year": 2020,
+   "authors": [
+    "Dolatkhah MA",
+    "Shokoohi M",
+    "Charvandeh S",
+    "Tvrda E",
+    "Shoorei H",
+    "Moghimian M",
+    "Alihemmati A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32991040/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "33034447",
    "doi": "10.1021/acschembio.0c00719",
    "title": "Garcinol Is an HDAC11 Inhibitor",
@@ -70637,6 +71857,32 @@
    ]
   },
   {
+   "pmid": "31724078",
+   "doi": "10.1007/s00128-019-02742-7",
+   "title": "Limited Diclosulam Herbicide Uptake and Translocation-Induced Tolerance in Crotalaria juncea",
+   "journal": "Bulletin of environmental contamination and toxicology",
+   "year": 2020,
+   "authors": [
+    "de Souza CDCB",
+    "Borella J",
+    "Leal JFL",
+    "Tornisielo VL",
+    "Pimpinato RF",
+    "Monquero PA",
+    "de Pinho CF"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31724078/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "33374892",
    "doi": "10.3390/cells10010001",
    "title": "Metabolite Profiling of Alangium salviifolium Bark Using Advanced LC/MS and GC/Q-TOFTechnology",
@@ -70821,6 +72067,34 @@
      "slug": "vathada",
      "title": "Vathada",
      "binomial": "prunus dulcis"
+    }
+   ]
+  },
+  {
+   "pmid": "31962203",
+   "doi": "10.1016/j.bioorg.2020.103573",
+   "title": "New cassane-type diterpenoids from kernels of Caesalpinia bonduc (Linn.) Roxb. and their inhibitory activities on phosphodiesterase (PDE) and nuclear factor-kappa B (NF-κB) expression",
+   "journal": "Bioorganic chemistry",
+   "year": 2020,
+   "authors": [
+    "Liu T",
+    "Wang M",
+    "Qi S",
+    "Shen X",
+    "Wang Y",
+    "Jing W",
+    "Yang Y",
+    "Li X",
+    "Gao H"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31962203/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -71216,6 +72490,12 @@
      "slug": "vamsha",
      "title": "Vamsha",
      "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
     }
    ]
   },
@@ -71368,6 +72648,30 @@
      "slug": "vartaku",
      "title": "Vartaku",
      "binomial": "solanum melongena"
+    }
+   ]
+  },
+  {
+   "pmid": "31848915",
+   "doi": "10.1007/s11033-019-04711-z",
+   "title": "The Blepharis persica seed hydroalcoholic extract synergistically enhances the apoptotic effect of doxorubicin in human colon cancer and gastric cancer cells",
+   "journal": "Molecular biology reports",
+   "year": 2020,
+   "authors": [
+    "Aghaabbasi K",
+    "Askari N",
+    "Hassani Kumleh H",
+    "Torkzadeh-Mahani M",
+    "Ramzani-Ghara A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31848915/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "utingana",
+     "title": "Utingana",
+     "binomial": "blepharis persica"
     }
    ]
   },
@@ -71920,6 +73224,29 @@
    ]
   },
   {
+   "pmid": "31049430",
+   "doi": "10.1016/j.heliyon.2019.e01518",
+   "title": "Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms",
+   "journal": "Heliyon",
+   "year": 2019,
+   "authors": [
+    "Ibrahim AE",
+    "Saraya RE",
+    "Saleh H",
+    "Elhenawee M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31049430/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "rishabhaka",
+     "title": "Rishabhaka",
+     "binomial": "malaxis muscifera"
+    }
+   ]
+  },
+  {
    "pmid": "30898582",
    "doi": "10.1016/j.joim.2019.03.001",
    "title": "Discovery and preclinical development of IIIM-160, a Bergenia ciliata-based anti-inflammatory and anti-arthritic botanical drug candidate",
@@ -71946,6 +73273,35 @@
      "slug": "pashanabheda",
      "title": "Pashanabheda",
      "binomial": "bergenia ciliata"
+    }
+   ]
+  },
+  {
+   "pmid": "30753472",
+   "doi": "10.1093/ee/nvy190",
+   "title": "Documenting Potential Sunn Hemp (Crotalaria juncea L.) (Fabaceae) Pollinators in Florida",
+   "journal": "Environmental entomology",
+   "year": 2019,
+   "authors": [
+    "Meagher RL",
+    "Watrous KM",
+    "Fleischer SJ",
+    "Nagoshi RN",
+    "Brown JT",
+    "Bowers K",
+    "Miller N",
+    "Hight SD",
+    "Legaspi JC",
+    "Westbrook JK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30753472/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
     }
    ]
   },
@@ -72735,6 +74091,32 @@
      "slug": "ashoka",
      "title": "Ashoka",
      "binomial": "saraca asoca"
+    }
+   ]
+  },
+  {
+   "pmid": "30486940",
+   "doi": "10.1166/jnn.2019.15802",
+   "title": "Potent Anti-Proliferation on the Colon Cancer Cell Line (HT-29) of Liposomal Formulations Entrapped with Semi-Purified Job's Tears (Coix lacryma-jobi Linn.) Fractions",
+   "journal": "Journal of nanoscience and nanotechnology",
+   "year": 2019,
+   "authors": [
+    "Manosroi A",
+    "Sainakham M",
+    "Abe M",
+    "Sakai K",
+    "Sinchaipanid N",
+    "Manosroi W",
+    "Manosroi J"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30486940/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
     }
    ]
   },
@@ -74769,6 +76151,58 @@
    ]
   },
   {
+   "pmid": "29339280",
+   "doi": "10.1016/j.ijbiomac.2017.12.146",
+   "title": "Simultaneous degumming and production of a natural gum from Crotalaria juncea seeds: Physicochemical and rheological characterization",
+   "journal": "International journal of biological macromolecules",
+   "year": 2018,
+   "authors": [
+    "Sadhukhan S",
+    "Bhattacharjee A",
+    "Sarkar U",
+    "Baidya PK",
+    "Baksi S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29339280/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
+   "pmid": "33490553",
+   "doi": "10.1080/23802359.2018.1507653",
+   "title": "The complete chloroplast genome sequence of Coix lacryma-jobi L. (Poaceae), a cereal and medicinal crop",
+   "journal": "Mitochondrial DNA. Part B, Resources",
+   "year": 2018,
+   "authors": [
+    "Kang SH",
+    "Lee HO",
+    "Shin MJ",
+    "Kim NH",
+    "Choi BS",
+    "Kumar M",
+    "Ali A",
+    "Lee SC",
+    "Kim CK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33490553/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "29717575",
    "doi": "10.17420/ap6401.133",
    "title": "The in vitro effect of Ferula asafoetida and Allium sativum extracts on Strongylus spp",
@@ -75099,6 +76533,32 @@
    ]
   },
   {
+   "pmid": "28265545",
+   "doi": "",
+   "title": "Anti-inflammatory effect of Fumaria parviflora leaves based on TNF-α, IL-1, IL-6 and antioxidant potential",
+   "journal": "Avicenna journal of phytomedicine",
+   "year": 2017,
+   "authors": [
+    "Rizvi W",
+    "Fayazuddin M",
+    "Singh O",
+    "Syed SN",
+    "Moin S",
+    "Akhtar K",
+    "Kumar A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28265545/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "28884080",
    "doi": "",
    "title": "Antibacterial, antioxidant and cell proliferative properties of Coccinia grandis fruits",
@@ -75273,6 +76733,27 @@
      "slug": "agastya",
      "title": "Agastya",
      "binomial": "sesbania grandiflora"
+    }
+   ]
+  },
+  {
+   "pmid": "28502855",
+   "doi": "10.1016/j.ijbiomac.2017.05.044",
+   "title": "Caesalpinia bonduc serine proteinase inhibitor CbTI-2: Exploring the conformational features and antimalarial activity",
+   "journal": "International journal of biological macromolecules",
+   "year": 2017,
+   "authors": [
+    "Bhattacharyya A",
+    "Babu CR"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28502855/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -75615,6 +77096,12 @@
      "slug": "vamsha",
      "title": "Vamsha",
      "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
     }
    ]
   },
@@ -75697,6 +77184,33 @@
    ]
   },
   {
+   "pmid": "28278663",
+   "doi": "10.1080/14786419.2017.1292270",
+   "title": "Melanogenesis inhibitors from Coix lacryma-jobi seeds in B16-F10 melanoma cells",
+   "journal": "Natural product research",
+   "year": 2017,
+   "authors": [
+    "Amen Y",
+    "Arung ET",
+    "Afifi MS",
+    "Halim AF",
+    "Ashour A",
+    "Fujimoto R",
+    "Goto T",
+    "Shimizu K"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28278663/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "28743314",
    "doi": "10.1186/s13104-017-2665-y",
    "title": "Multidrug resistant bacteria are sensitive to Euphorbia prostrata and six others Cameroonian medicinal plants extracts",
@@ -75771,6 +77285,31 @@
      "slug": "bharangi",
      "title": "Bharangi",
      "binomial": "clerodendrum serratum"
+    }
+   ]
+  },
+  {
+   "pmid": "29234602",
+   "doi": "10.1016/j.toxrep.2017.11.005",
+   "title": "Neutralization of Naja naja venom induced lethality, edema and myonecrosis by ethanolic root extract of Coix lacryma-jobi",
+   "journal": "Toxicology reports",
+   "year": 2017,
+   "authors": [
+    "Rajesh KS",
+    "Bharath BR",
+    "Rao CV",
+    "Bhat KI",
+    "Bhat KSC",
+    "Bhat P"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29234602/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
     }
    ]
   },
@@ -76259,6 +77798,12 @@
      "slug": "vamsha",
      "title": "Vamsha",
      "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
+     "binomial": "bambusa bambos"
     }
    ]
   },
@@ -76479,6 +78024,33 @@
      "slug": "dadrughna",
      "title": "Dadrughna",
      "binomial": "cassia tora"
+    }
+   ]
+  },
+  {
+   "pmid": "27396185",
+   "doi": "",
+   "title": "Anti-angiogenic Activity and Mechanism of Sesquiterpene Lactones from Centipeda minima",
+   "journal": "Natural product communications",
+   "year": 2016,
+   "authors": [
+    "Huang W",
+    "Yu X",
+    "Liang N",
+    "Ge W",
+    "Kwok HF",
+    "Lau CB",
+    "Li Y",
+    "Chung HY"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27396185/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -79028,6 +80600,44 @@
    ]
   },
   {
+   "pmid": "26709822",
+   "doi": "10.1371/journal.pntd.0004255",
+   "title": "Cissampelos pareira Linn: Natural Source of Potent Antiviral Activity against All Four Dengue Virus Serotypes",
+   "journal": "PLoS neglected tropical diseases",
+   "year": 2015,
+   "authors": [
+    "Sood R",
+    "Raut R",
+    "Tyagi P",
+    "Pareek PK",
+    "Barman TK",
+    "Singhal S",
+    "Shirumalla RK",
+    "Kanoje V",
+    "Subbarayan R",
+    "Rajerethinam R",
+    "Sharma N",
+    "Kanaujia A",
+    "Shukla G",
+    "Gupta YK",
+    "Katiyar CK",
+    "Bhatnagar PK",
+    "Upadhyay DJ",
+    "Swaminathan S",
+    "Khanna N"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26709822/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "patha",
+     "title": "Patha",
+     "binomial": "cissampelos pareira"
+    }
+   ]
+  },
+  {
    "pmid": "26098775",
    "doi": "10.18632/oncotarget.4004",
    "title": "Citrus limon-derived nanovesicles inhibit cancer cell proliferation and suppress CML xenograft growth by inducing TRAIL-mediated cell death",
@@ -79663,6 +81273,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -81480,6 +83096,30 @@
    ]
   },
   {
+   "pmid": "25026645",
+   "doi": "10.1603/ec13435",
+   "title": "Effects of green manure cover crops on Spodoptera litura (Lepidoptera: Noctuidae) populations",
+   "journal": "Journal of economic entomology",
+   "year": 2014,
+   "authors": [
+    "Tuan SJ",
+    "Li NJ",
+    "Yeh CC",
+    "Tang LC",
+    "Chi H"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25026645/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "25558162",
    "doi": "10.4103/0974-8520.146236",
    "title": "Efficacy of Varunadi Ghritha (polyherbal compound) in treated head and neck cancer cases as a biological response modifier",
@@ -81994,6 +83634,29 @@
    ]
   },
   {
+   "pmid": "25489172",
+   "doi": "10.6026/97320630010630",
+   "title": "Molecular docking and analgesic studies of Erythrina variegata׳s derived phytochemicals with COX enzymes",
+   "journal": "Bioinformation",
+   "year": 2014,
+   "authors": [
+    "Uddin MM",
+    "Emran TB",
+    "Mahib MM",
+    "Dash R"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25489172/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "24395464",
    "doi": "10.1002/ptr.5112",
    "title": "Pharmacological studies on the antispasmodic, bronchodilator and anti-platelet activities of Abies webbiana",
@@ -82237,6 +83900,52 @@
      "slug": "danti",
      "title": "Danti",
      "binomial": "baliospermum montanum"
+    }
+   ]
+  },
+  {
+   "pmid": "23611729",
+   "doi": "10.1111/and.12100",
+   "title": "Protective effects of Fumaria parviflora L. on lead-induced testicular toxicity in male rats",
+   "journal": "Andrologia",
+   "year": 2014,
+   "authors": [
+    "Dorostghoal M",
+    "Seyyednejad SM",
+    "Jabari A"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23611729/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
+   "pmid": "25088294",
+   "doi": "10.1002/jobm.201300281",
+   "title": "Purification and biochemical characterization of an alkaline pectin lyase from Fusarium decemcellulare MTCC 2079 suitable for Crotalaria juncea fiber retting",
+   "journal": "Journal of basic microbiology",
+   "year": 2014,
+   "authors": [
+    "Yadav S",
+    "Dubey AK",
+    "Anand G",
+    "Kumar R",
+    "Yadav D"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25088294/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
     }
    ]
   },
@@ -82620,6 +84329,33 @@
      "slug": "asana",
      "title": "Asana",
      "binomial": "pterocarpus marsupium"
+    }
+   ]
+  },
+  {
+   "pmid": "24035223",
+   "doi": "10.1016/j.phymed.2013.08.004",
+   "title": "Antidyslipidemic and antioxidant activity of an unusual amino acid (2-amino-5-hydroxyhexanoic acid) isolated from the seeds of Crotalaria juncea",
+   "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "year": 2013,
+   "authors": [
+    "Prasad J",
+    "Singh VK",
+    "Shrivastava A",
+    "Chaturvedi U",
+    "Bhatia G",
+    "Arya KR",
+    "Awasthi SK",
+    "Narender T"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24035223/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
     }
    ]
   },
@@ -83116,6 +84852,28 @@
    ]
   },
   {
+   "pmid": "23345066",
+   "doi": "10.1007/s11250-013-0365-8",
+   "title": "Habitual diet and ascorbic acid status in Sudanese camels",
+   "journal": "Tropical animal health and production",
+   "year": 2013,
+   "authors": [
+    "Mohamed HE",
+    "Alhaidary A",
+    "Beynen AC"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23345066/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "utingana",
+     "title": "Utingana",
+     "binomial": "blepharis persica"
+    }
+   ]
+  },
+  {
    "pmid": "24041220",
    "doi": "10.1186/1752-153X-7-157",
    "title": "Hexane soluble extract of Mallotus philippensis (Lam.) Muell. Arg. root possesses anti-leukaemic activity",
@@ -83599,6 +85357,29 @@
      "slug": "udumbara",
      "title": "Udumbara",
      "binomial": "ficus racemosa"
+    }
+   ]
+  },
+  {
+   "pmid": "24455866",
+   "doi": "10.7868/s0555109913040156",
+   "title": "Purification and characterization of pectin lyase secreted by Aspergillus flavus MTCC 10938",
+   "journal": "Prikladnaia biokhimiia i mikrobiologiia",
+   "year": 2013,
+   "authors": [
+    "Yadav S",
+    "Dubey AK",
+    "Anand G",
+    "Yadav D"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24455866/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
     }
    ]
   },
@@ -84375,6 +86156,31 @@
    ]
   },
   {
+   "pmid": "23986976",
+   "doi": "",
+   "title": "Direct and indirect method of plant regeneration from root explants of Caesalpinia bonduc (L.) Roxb.--a threatened medicinal plant of Western Ghats",
+   "journal": "Indian journal of experimental biology",
+   "year": 2012,
+   "authors": [
+    "Kumar SR",
+    "Krishna V",
+    "Venkatesh",
+    "Pradeepa K",
+    "Kumar KG",
+    "Gnanesh AU"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23986976/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
+    }
+   ]
+  },
+  {
    "pmid": "22902823",
    "doi": "10.1016/j.fct.2012.08.007",
    "title": "Eclipta prostrata L. phytochemicals: isolation, structure elucidation, and their antitumor activity",
@@ -84609,6 +86415,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -85201,6 +87013,30 @@
    ]
   },
   {
+   "pmid": "22405321",
+   "doi": "10.1186/1472-6882-12-16",
+   "title": "Species and tissue-specificity of prokinetic, laxative and spasmodic effects of Fumaria parviflora",
+   "journal": "BMC complementary and alternative medicine",
+   "year": 2012,
+   "authors": [
+    "Najeeb-ur-Rehman",
+    "Mehmood MH",
+    "Al-Rehaily AJ",
+    "Mothana RA",
+    "Gilani AH"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22405321/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "24280680",
    "doi": "10.3390/ph5080882",
    "title": "The Chemical Components of Sesbania grandiflora Root and Their Antituberculosis Activity",
@@ -85452,6 +87288,26 @@
    ]
   },
   {
+   "pmid": "22514883",
+   "doi": "10.3923/pjbs.2011.1034.1035",
+   "title": "A comparison of Fumaria parviflora Lam. and Momordica balsamina Linn. hepatoprotection",
+   "journal": "Pakistan journal of biological sciences : PJBS",
+   "year": 2011,
+   "authors": [
+    "Ozaslan M"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22514883/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "21904671",
    "doi": "10.4061/2011/805795",
    "title": "Accessibility of Enzymatically Delignified Bambusa bambos for Efficient Hydrolysis at Minimum Cellulase Loading: An Optimization Study",
@@ -85470,6 +87326,12 @@
      "kind": "herb",
      "slug": "vamsha",
      "title": "Vamsha",
+     "binomial": "bambusa bambos"
+    },
+    {
+     "kind": "herb",
+     "slug": "vamshalochana",
+     "title": "Vamshalochana",
      "binomial": "bambusa bambos"
     }
    ]
@@ -86017,6 +87879,28 @@
      "slug": "cumin",
      "title": "Cumin",
      "binomial": "cuminum cyminum"
+    }
+   ]
+  },
+  {
+   "pmid": "22025860",
+   "doi": "10.4103/0976-500X.85950",
+   "title": "Effect of Erythrina variegata on experimental atherosclerosis in guinea pigs",
+   "journal": "Journal of pharmacology & pharmacotherapeutics",
+   "year": 2011,
+   "authors": [
+    "Kalachaveedu M",
+    "Kuruvilla S",
+    "Balakrishna K"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22025860/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },
@@ -86606,6 +88490,35 @@
      "slug": "dugdhika",
      "title": "Dugdhika",
      "binomial": "euphorbia prostrata"
+    }
+   ]
+  },
+  {
+   "pmid": "21404431",
+   "doi": "10.1002/cbdv.201000068",
+   "title": "Three new constituents from the roots of Erythrina variegata and their antibacterial activity against methicillin-resistant Staphylococcus aureus",
+   "journal": "Chemistry & biodiversity",
+   "year": 2011,
+   "authors": [
+    "Tanaka H",
+    "Atsumi I",
+    "Shirota O",
+    "Sekita S",
+    "Sakai E",
+    "Sato M",
+    "Murata J",
+    "Murata H",
+    "Darnaedi D",
+    "Chen IS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21404431/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },
@@ -88034,6 +89947,12 @@
    "subjects": [
     {
      "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
+    },
+    {
+     "kind": "herb",
      "slug": "tanduliyaka",
      "title": "Tanduliyaka",
      "binomial": "amaranthus spinosus"
@@ -88092,6 +90011,34 @@
      "slug": "udumbara",
      "title": "Udumbara",
      "binomial": "ficus racemosa"
+    }
+   ]
+  },
+  {
+   "pmid": "19429358",
+   "doi": "10.1016/j.jep.2009.02.040",
+   "title": "In vitro and in vivo antimicrobial activities of seeds of Caesalpinia bonduc (Lin.) Roxb",
+   "journal": "Journal of ethnopharmacology",
+   "year": 2009,
+   "authors": [
+    "Arif T",
+    "Mandal TK",
+    "Kumar N",
+    "Bhosale JD",
+    "Hole A",
+    "Sharma GL",
+    "Padhi MM",
+    "Lavekar GS",
+    "Dabur R"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19429358/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -88409,6 +90356,31 @@
      "slug": "gorochana",
      "title": "Gorochana",
      "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "20183316",
+   "doi": "10.1080/10286020903029231",
+   "title": "Two new terpene glucosides and antitumor agents from Centipeda minima",
+   "journal": "Journal of Asian natural products research",
+   "year": 2009,
+   "authors": [
+    "Ding LF",
+    "Liu Y",
+    "Liang HX",
+    "Liu DP",
+    "Zhou GB",
+    "Cheng YX"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20183316/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "kshavaka",
+     "title": "Kshavaka",
+     "binomial": "centipeda minima"
     }
    ]
   },
@@ -90105,6 +92077,32 @@
    ]
   },
   {
+   "pmid": "12834009",
+   "doi": "10.1078/0944-7113-00225",
+   "title": "Antibacterial property of isoflavonoids isolated from Erythrina variegata against cariogenic oral bacteria",
+   "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "year": 2003,
+   "authors": [
+    "Sato M",
+    "Tanaka H",
+    "Fujiwara S",
+    "Hirata M",
+    "Yamaguchi R",
+    "Etoh H",
+    "Tokuda C"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12834009/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
+    }
+   ]
+  },
+  {
    "pmid": "14696625",
    "doi": "10.1111/j.1533-869x.2003.01102.x",
    "title": "Antitumor effect of stilbenoids from Vateria indica against allografted sarcoma S-180 in animal model",
@@ -90251,6 +92249,30 @@
      "slug": "madanaphala",
      "title": "Madanaphala",
      "binomial": "randia dumetorum"
+    }
+   ]
+  },
+  {
+   "pmid": "14724953",
+   "doi": "",
+   "title": "Physical mapping of the 45S and 5S rDNA in Coix lacryma-jobi L",
+   "journal": "Shi yan sheng wu xue bao",
+   "year": 2003,
+   "authors": [
+    "Han YH",
+    "Qi CY",
+    "She CW",
+    "Liu LH",
+    "Song YC"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14724953/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
     }
    ]
   },
@@ -90525,6 +92547,28 @@
      "slug": "vartaku",
      "title": "Vartaku",
      "binomial": "solanum melongena"
+    }
+   ]
+  },
+  {
+   "pmid": "11507739",
+   "doi": "10.1002/ptr.756",
+   "title": "Antimicrobial activity of seed extracts and bondenolide from Caesalpinia bonduc (L.) Roxb",
+   "journal": "Phytotherapy research : PTR",
+   "year": 2001,
+   "authors": [
+    "Simin K",
+    "Khaliq-Uz-Zaman SM",
+    "Ahmad VU"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11507739/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "latakaranja",
+     "title": "Latakaranja",
+     "binomial": "caesalpinia bonduc"
     }
    ]
   },
@@ -90922,6 +92966,31 @@
      "slug": "brihati",
      "title": "Brihati",
      "binomial": "solanum indicum"
+    }
+   ]
+  },
+  {
+   "pmid": "9692201",
+   "doi": "10.1271/bbb.62.1166",
+   "title": "Cytotoxicity induced by Erythrina variegata serine proteinase inhibitors in tumor hematopoietic stem cell lines",
+   "journal": "Bioscience, biotechnology, and biochemistry",
+   "year": 1998,
+   "authors": [
+    "Ohba H",
+    "Nishikawa M",
+    "Kimura M",
+    "Yamasaki N",
+    "Moriwaki S",
+    "Itoh K"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9692201/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },
@@ -91376,6 +93445,50 @@
    ]
   },
   {
+   "pmid": "3215975",
+   "doi": "10.1016/s0021-9673(01)84530-1",
+   "title": "Determination of alkaloids of Fumaria parviflora and Fumaria capreolata by high-performance liquid chromatography and capillary isotachophoresis",
+   "journal": "Journal of chromatography",
+   "year": 1988,
+   "authors": [
+    "Válka I",
+    "Simánek V"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3215975/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
+   "pmid": "3240519",
+   "doi": "10.1248/cpb.36.3147",
+   "title": "Isolation of ovulatory-active substances from crops of Job's tears (Coix lacryma-jobi L. var. ma-yuen STAPF.)",
+   "journal": "Chemical & pharmaceutical bulletin",
+   "year": 1988,
+   "authors": [
+    "Kondo Y",
+    "Nakajima K",
+    "Nozoe S",
+    "Suzuki S"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3240519/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "gavedhuka",
+     "title": "Gavedhuka",
+     "binomial": "coix lacryma"
+    }
+   ]
+  },
+  {
    "pmid": "3613609",
    "doi": "10.1016/0378-8741(87)90042-0",
    "title": "Biochemical modes of action of Cassia occidentalis and Cardiospermum halicacabum in inflammation",
@@ -91525,6 +93638,30 @@
    ]
   },
   {
+   "pmid": "17340523",
+   "doi": "10.1055/s-2007-969501",
+   "title": "Separation and Quantification of Some Alkaloids from Fumaria parviflora by Capillary Isotachophoresis1",
+   "journal": "Planta medica",
+   "year": 1985,
+   "authors": [
+    "Válka I",
+    "Walterová D",
+    "Popova ME",
+    "Preininger V",
+    "Simánek V"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17340523/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
+    }
+   ]
+  },
+  {
    "pmid": "22557499",
    "doi": "",
    "title": "Study on the vrsya property (testicular regenerative potential) of vanga bhasma",
@@ -91587,6 +93724,12 @@
      "slug": "dugdhika",
      "title": "Dugdhika",
      "binomial": "euphorbia prostrata"
+    },
+    {
+     "kind": "herb",
+     "slug": "parpataka",
+     "title": "Parpataka",
+     "binomial": "fumaria parviflora"
     }
    ]
   },
@@ -91678,6 +93821,49 @@
      "slug": "draksharishta",
      "title": "Draksharishta",
      "binomial": ""
+    }
+   ]
+  },
+  {
+   "pmid": "6262351",
+   "doi": "10.1016/0166-0934(81)90028-8",
+   "title": "Bovine viral diarrhea virus: affinity chromatography on Crotalaria juncea lectin",
+   "journal": "Journal of virological methods",
+   "year": 1981,
+   "authors": [
+    "Moreno-Lopez J",
+    "Kristiansen T",
+    "Kårsnas P"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6262351/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
+   "pmid": "7325983",
+   "doi": "10.1042/bj1970751",
+   "title": "Identification, isolation and some properties of lectin from the seeds of Indian coral tree [Erythrina variegata (Linn.) var. orientalis (Linn.) Merrill]",
+   "journal": "The Biochemical journal",
+   "year": 1981,
+   "authors": [
+    "Datta TK",
+    "Basu PS"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7325983/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },
@@ -91833,6 +94019,28 @@
    ]
   },
   {
+   "pmid": "4719153",
+   "doi": "10.1016/0005-2795(73)90128-1",
+   "title": "The phytohemagglutinin from sunn hemp seeds (Crotalaria juncea). Purification by biospecific affinity chromatography",
+   "journal": "Biochimica et biophysica acta",
+   "year": 1973,
+   "authors": [
+    "Ersson B",
+    "Aspberg K",
+    "Porath J"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4719153/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "shana",
+     "title": "Shana",
+     "binomial": "crotalaria juncea"
+    }
+   ]
+  },
+  {
    "pmid": "5037482",
    "doi": "",
    "title": "Alkaloids from Aconitum plants. I. Isolation of bikhaconitine, chasmaconitine, indaconitine and pseudaconitine from Aconitum ferox",
@@ -91872,6 +94080,48 @@
      "slug": "mochras",
      "title": "Mochras",
      "binomial": "salmalia malabarica"
+    }
+   ]
+  },
+  {
+   "pmid": "28306860",
+   "doi": "10.1007/BF00347986",
+   "title": "Delayed seed dispersal and rapid germination as survival mechanisms of the desert plant Blepharis persica (Burm.) kuntze",
+   "journal": "Oecologia",
+   "year": 1972,
+   "authors": [
+    "Gutterman Y"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28306860/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "utingana",
+     "title": "Utingana",
+     "binomial": "blepharis persica"
+    }
+   ]
+  },
+  {
+   "pmid": "5050377",
+   "doi": "10.1002/jps.2600610821",
+   "title": "Erythrina--chemical and pharmacological evaluation II: alkaloids of Erythrina variegata L",
+   "journal": "Journal of pharmaceutical sciences",
+   "year": 1972,
+   "authors": [
+    "Ghosal S",
+    "Dutta SK",
+    "Bhattacharya SK"
+   ],
+   "tier": "D",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5050377/",
+   "subjects": [
+    {
+     "kind": "herb",
+     "slug": "paribhadra",
+     "title": "Paribhadra",
+     "binomial": "erythrina variegata"
     }
    ]
   },

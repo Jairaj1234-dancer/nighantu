@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T00:53:27.437Z",
+ "updatedAt": "2026-11-03T12:18:00.591Z",
  "pages": {
   "formulation/abhayarishta": {
    "title": "Abhayarishta",
@@ -62,22 +62,6 @@
      "matchedOn": "Ajmodadi Churna"
     },
     {
-     "pmid": "21808548",
-     "doi": "10.4103/0974-8490.62957",
-     "title": "Standardization of Ajmodadi churna, a polyherbal formulation",
-     "journal": "Pharmacognosy research",
-     "year": 2010,
-     "authors": [
-      "Sriwastava NK",
-      "Shreedhara CS",
-      "Aswatha Ram HN"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/21808548/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Ajmodadi Churna"
-    },
-    {
      "pmid": "22529678",
      "doi": "10.4103/0975-9476.93946",
      "title": "Anti-inflammatory activity of Ajmodadi Churna extract against acute inflammation in rats",
@@ -93,6 +77,22 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/22529678/",
      "source": "pubmed-formulation",
      "matchedOn": "Ajmodadi Churna"
+    },
+    {
+     "pmid": "21808548",
+     "doi": "10.4103/0974-8490.62957",
+     "title": "Standardization of Ajmodadi churna, a polyherbal formulation",
+     "journal": "Pharmacognosy research",
+     "year": 2010,
+     "authors": [
+      "Sriwastava NK",
+      "Shreedhara CS",
+      "Aswatha Ram HN"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21808548/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ajmodadi Churna"
     }
    ]
   },
@@ -105,6 +105,94 @@
    "title": "Amalaki Rasayana",
    "binomial": "",
    "citations": [
+    {
+     "pmid": "27364038",
+     "doi": "10.1016/j.jep.2016.06.062",
+     "title": "Effect of Amalaki rasayana on DNA damage and repair in randomized aged human individuals",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2016,
+     "authors": [
+      "Vishwanatha U",
+      "Guruprasad KP",
+      "Gopinath PM",
+      "Acharya RV",
+      "Prasanna BV",
+      "Nayak J",
+      "Ganesh R",
+      "Rao J",
+      "Shree R",
+      "Anchan S",
+      "Raghu KS",
+      "Joshi MB",
+      "Paladhi P",
+      "Varier PM",
+      "Muraleedharan K",
+      "Muraleedharan TS",
+      "Satyamoorthy K"
+     ],
+     "tier": "B",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27364038/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Amalaki Rasayana"
+    },
+    {
+     "pmid": "42172813",
+     "doi": "10.1016/j.jaim.2026.101338",
+     "title": "Geroprotection through modulation of heart rate variability, oxidative enzymes, tissue integrity, and gene expression by an Ayurvedic herbal formulation, Amalaki Rasayana",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2026,
+     "authors": [
+      "Lewis CR",
+      "Devi V",
+      "Upadhya D",
+      "Kuppuswamy D",
+      "Chinta R",
+      "Jasphin S",
+      "Dey S",
+      "Choudhari N",
+      "E M A"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42172813/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Amalaki Rasayana"
+    },
+    {
+     "pmid": "36436297",
+     "doi": "10.1016/j.jaim.2022.100636",
+     "title": "Ayurvedic formulations amalaki rasayana and rasa sindoor improve age-associated memory deficits in mice by modulating dendritic spine densities",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2022,
+     "authors": [
+      "Verma B",
+      "Sinha P",
+      "Ganesh S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36436297/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Amalaki Rasayana"
+    },
+    {
+     "pmid": "31595424",
+     "doi": "10.1007/s11010-019-03637-1",
+     "title": "Untargeted metabolomics reveals alterations in metabolites of lipid metabolism and immune pathways in the serum of rats after long-term oral administration of Amalaki rasayana",
+     "journal": "Molecular and cellular biochemistry",
+     "year": 2020,
+     "authors": [
+      "Kumar V",
+      "Kumar AA",
+      "Joseph V",
+      "Dan VM",
+      "Jaleel A",
+      "Kumar TRS",
+      "Kartha CC"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31595424/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Amalaki Rasayana"
+    },
     {
      "pmid": "28602428",
      "doi": "10.1016/j.jaim.2017.01.007",
@@ -158,56 +246,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "27364038",
-     "doi": "10.1016/j.jep.2016.06.062",
-     "title": "Effect of Amalaki rasayana on DNA damage and repair in randomized aged human individuals",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2016,
-     "authors": [
-      "Vishwanatha U",
-      "Guruprasad KP",
-      "Gopinath PM",
-      "Acharya RV",
-      "Prasanna BV",
-      "Nayak J",
-      "Ganesh R",
-      "Rao J",
-      "Shree R",
-      "Anchan S",
-      "Raghu KS",
-      "Joshi MB",
-      "Paladhi P",
-      "Varier PM",
-      "Muraleedharan K",
-      "Muraleedharan TS",
-      "Satyamoorthy K"
-     ],
-     "tier": "B",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/27364038/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Amalaki Rasayana"
-    },
-    {
-     "pmid": "31595424",
-     "doi": "10.1007/s11010-019-03637-1",
-     "title": "Untargeted metabolomics reveals alterations in metabolites of lipid metabolism and immune pathways in the serum of rats after long-term oral administration of Amalaki rasayana",
-     "journal": "Molecular and cellular biochemistry",
-     "year": 2020,
-     "authors": [
-      "Kumar V",
-      "Kumar AA",
-      "Joseph V",
-      "Dan VM",
-      "Jaleel A",
-      "Kumar TRS",
-      "Kartha CC"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31595424/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Amalaki Rasayana"
-    },
-    {
      "pmid": "29358550",
      "doi": "10.1007/s12038-017-9692-7",
      "title": "Amalaki Rasayana improved memory and neuronal metabolic activity in AbPP-PS1 mouse model of Alzheimer's disease",
@@ -223,6 +261,21 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/29358550/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Amalaki Rasayana"
+    },
+    {
+     "pmid": "27966490",
+     "doi": "10.1007/s12038-016-9641-x",
+     "title": "Ayurvedic Amalaki Rasayana promotes improved stress tolerance and thus has anti-aging effects in Drosophila melanogaster",
+     "journal": "Journal of biosciences",
+     "year": 2016,
+     "authors": [
+      "Dwivedi V",
+      "Lakhotia SC"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27966490/",
      "source": "pubmed-formulation",
      "matchedOn": "Amalaki Rasayana"
     },
@@ -254,59 +307,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/25963257/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Amalaki Rasayana"
-    },
-    {
-     "pmid": "27966490",
-     "doi": "10.1007/s12038-016-9641-x",
-     "title": "Ayurvedic Amalaki Rasayana promotes improved stress tolerance and thus has anti-aging effects in Drosophila melanogaster",
-     "journal": "Journal of biosciences",
-     "year": 2016,
-     "authors": [
-      "Dwivedi V",
-      "Lakhotia SC"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/27966490/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Amalaki Rasayana"
-    },
-    {
-     "pmid": "36436297",
-     "doi": "10.1016/j.jaim.2022.100636",
-     "title": "Ayurvedic formulations amalaki rasayana and rasa sindoor improve age-associated memory deficits in mice by modulating dendritic spine densities",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2022,
-     "authors": [
-      "Verma B",
-      "Sinha P",
-      "Ganesh S"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/36436297/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Amalaki Rasayana"
-    },
-    {
-     "pmid": "42172813",
-     "doi": "10.1016/j.jaim.2026.101338",
-     "title": "Geroprotection through modulation of heart rate variability, oxidative enzymes, tissue integrity, and gene expression by an Ayurvedic herbal formulation, Amalaki Rasayana",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2026,
-     "authors": [
-      "Lewis CR",
-      "Devi V",
-      "Upadhya D",
-      "Kuppuswamy D",
-      "Chinta R",
-      "Jasphin S",
-      "Dey S",
-      "Choudhari N",
-      "E M A"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42172813/",
      "source": "pubmed-formulation",
      "matchedOn": "Amalaki Rasayana"
     }
@@ -388,6 +388,25 @@
      "source": "recovered-claim"
     },
     {
+     "pmid": "36708174",
+     "doi": "10.1093/lambio/ovad014",
+     "title": "Anu Taila, an herbal nasal-drop, delays spore germination in Cunninghamella bertholletiae by reducing cAMP-PKA dependent ROS in mucorale pathogen and extrinsic ROS in human host cells",
+     "journal": "Letters in applied microbiology",
+     "year": 2023,
+     "authors": [
+      "Balkrishna A",
+      "Sengupta S",
+      "Kumari P",
+      "Dev R",
+      "Haldar S",
+      "Varshney A"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36708174/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Anu Taila"
+    },
+    {
      "pmid": "35025137",
      "doi": "10.1111/jam.15451",
      "title": "Anu taila, an herbal nasal drop, suppresses mucormycosis by regulating host TNF-α response and fungal ergosterol biosynthesis",
@@ -408,25 +427,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/35025137/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Anu Taila"
-    },
-    {
-     "pmid": "36708174",
-     "doi": "10.1093/lambio/ovad014",
-     "title": "Anu Taila, an herbal nasal-drop, delays spore germination in Cunninghamella bertholletiae by reducing cAMP-PKA dependent ROS in mucorale pathogen and extrinsic ROS in human host cells",
-     "journal": "Letters in applied microbiology",
-     "year": 2023,
-     "authors": [
-      "Balkrishna A",
-      "Sengupta S",
-      "Kumari P",
-      "Dev R",
-      "Haldar S",
-      "Varshney A"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/36708174/",
      "source": "pubmed-formulation",
      "matchedOn": "Anu Taila"
     }
@@ -477,6 +477,22 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "32885365",
+     "doi": "10.1007/s11033-020-05766-z",
+     "title": "Arjunarishta alleviates experimental colitis via suppressing proinflammatory cytokine expression, modulating gut microbiota and enhancing antioxidant effect",
+     "journal": "Molecular biology reports",
+     "year": 2020,
+     "authors": [
+      "Cota D",
+      "Mishra S",
+      "Shengule S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32885365/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Arjunarishta"
+    },
+    {
      "pmid": "29249636",
      "doi": "10.1016/j.jaim.2017.07.004",
      "title": "Anti-hyperglycemic and anti-hyperlipidaemic effect of Arjunarishta in high-fat fed animals",
@@ -495,22 +511,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/29249636/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Arjunarishta"
-    },
-    {
-     "pmid": "32885365",
-     "doi": "10.1007/s11033-020-05766-z",
-     "title": "Arjunarishta alleviates experimental colitis via suppressing proinflammatory cytokine expression, modulating gut microbiota and enhancing antioxidant effect",
-     "journal": "Molecular biology reports",
-     "year": 2020,
-     "authors": [
-      "Cota D",
-      "Mishra S",
-      "Shengule S"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/32885365/",
      "source": "pubmed-formulation",
      "matchedOn": "Arjunarishta"
     }
@@ -538,6 +538,23 @@
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/32035767/",
      "source": "recovered-claim"
+    },
+    {
+     "pmid": "24250146",
+     "doi": "10.4103/0975-9476.118707",
+     "title": "The hypolipidemic activity of Ayurvedic medicine, Arogyavardhini vati in Triton WR-1339-induced hyperlipidemic rats: A comparison with fenofibrate",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2013,
+     "authors": [
+      "Kumar G",
+      "Srivastava A",
+      "Sharma SK",
+      "Gupta YK"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24250146/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Arogyavardhini Vati"
     },
     {
      "pmid": "23559790",
@@ -569,23 +586,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22265750/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Arogyavardhini Vati"
-    },
-    {
-     "pmid": "24250146",
-     "doi": "10.4103/0975-9476.118707",
-     "title": "The hypolipidemic activity of Ayurvedic medicine, Arogyavardhini vati in Triton WR-1339-induced hyperlipidemic rats: A comparison with fenofibrate",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2013,
-     "authors": [
-      "Kumar G",
-      "Srivastava A",
-      "Sharma SK",
-      "Gupta YK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24250146/",
      "source": "pubmed-formulation",
      "matchedOn": "Arogyavardhini Vati"
     }
@@ -644,23 +644,6 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "23049195",
-     "doi": "10.4103/0974-8520.100327",
-     "title": "Protective role of Ashwagandharishta and flax seed oil against maximal electroshock induced seizures in albino rats",
-     "journal": "Ayu",
-     "year": 2012,
-     "authors": [
-      "Tanna IR",
-      "Aghera HB",
-      "Ashok BK",
-      "Chandola HM"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23049195/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Ashwagandharishta"
-    },
-    {
      "pmid": "39631219",
      "doi": "10.1016/j.jaim.2024.101022",
      "title": "Efficacy of Brahmi vati and Aswagandharista in major depressive disorder: A randomized controlled trial",
@@ -676,6 +659,22 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/39631219/",
      "source": "pubmed-formulation",
      "matchedOn": "Aswagandharista"
+    },
+    {
+     "pmid": "35696981",
+     "doi": "10.1016/j.jchromb.2022.123334",
+     "title": "High performance thin layer chromatography based chemo profiling of Ashvagandharishta and its antidepressant activity",
+     "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+     "year": 2022,
+     "authors": [
+      "Yadav K",
+      "Gupta T",
+      "Aeri V"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35696981/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ashvagandharishta"
     },
     {
      "pmid": "24211394",
@@ -695,20 +694,21 @@
      "matchedOn": "Ashvagandharishta"
     },
     {
-     "pmid": "35696981",
-     "doi": "10.1016/j.jchromb.2022.123334",
-     "title": "High performance thin layer chromatography based chemo profiling of Ashvagandharishta and its antidepressant activity",
-     "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
-     "year": 2022,
+     "pmid": "23049195",
+     "doi": "10.4103/0974-8520.100327",
+     "title": "Protective role of Ashwagandharishta and flax seed oil against maximal electroshock induced seizures in albino rats",
+     "journal": "Ayu",
+     "year": 2012,
      "authors": [
-      "Yadav K",
-      "Gupta T",
-      "Aeri V"
+      "Tanna IR",
+      "Aghera HB",
+      "Ashok BK",
+      "Chandola HM"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35696981/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23049195/",
      "source": "pubmed-formulation",
-     "matchedOn": "Ashvagandharishta"
+     "matchedOn": "Ashwagandharishta"
     }
    ]
   },
@@ -779,38 +779,6 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "31000995",
-     "doi": "10.4103/ayu.AYU_237_17",
-     "title": "Influence of intrinsic microbes on phytochemical changes and antioxidant activity of the Ayurvedic fermented medicines: Balarishta and Chandanasava",
-     "journal": "Ayu",
-     "year": 2018,
-     "authors": [
-      "Vinothkanna A",
-      "Sekar S"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31000995/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Balarishta"
-    },
-    {
-     "pmid": "22556860",
-     "doi": "",
-     "title": "Anti - inflammatory potential of balarishta and dhanvantara gutika in albino rats",
-     "journal": "Ancient science of life",
-     "year": 1998,
-     "authors": [
-      "Alam M",
-      "Dasan KK",
-      "Thomas S",
-      "Suganthan J"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22556860/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Balarishta"
-    },
-    {
      "pmid": "32772709",
      "doi": "10.1080/14786419.2020.1799364",
      "title": "Phytochemical profiling of Balarista formulation by GC-MS analysis",
@@ -842,6 +810,38 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/34012869/",
      "source": "pubmed-formulation",
      "matchedOn": "Balarista"
+    },
+    {
+     "pmid": "31000995",
+     "doi": "10.4103/ayu.AYU_237_17",
+     "title": "Influence of intrinsic microbes on phytochemical changes and antioxidant activity of the Ayurvedic fermented medicines: Balarishta and Chandanasava",
+     "journal": "Ayu",
+     "year": 2018,
+     "authors": [
+      "Vinothkanna A",
+      "Sekar S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31000995/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Balarishta"
+    },
+    {
+     "pmid": "22556860",
+     "doi": "",
+     "title": "Anti - inflammatory potential of balarishta and dhanvantara gutika in albino rats",
+     "journal": "Ancient science of life",
+     "year": 1998,
+     "authors": [
+      "Alam M",
+      "Dasan KK",
+      "Thomas S",
+      "Suganthan J"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22556860/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Balarishta"
     }
    ]
   },
@@ -947,32 +947,33 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "16550227",
-     "doi": "10.1093/ecam/nek014",
-     "title": "Brahmi rasayana improves learning and memory in mice",
-     "journal": "Evidence-based complementary and alternative medicine : eCAM",
-     "year": 2006,
+     "pmid": "27461610",
+     "doi": "10.4103/0973-1482.151931",
+     "title": "Protective effect of ayurvedic formulations against doxorubicin-induced cardiotoxicity: Preliminary studies on Brahma Rasayana and Chyavanaprash",
+     "journal": "Journal of cancer research and therapeutics",
+     "year": 2016,
      "authors": [
-      "Joshi H",
-      "Parle M"
+      "AlSuhailbani E",
+      "Menon A",
+      "Nair CK"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/16550227/",
-     "source": "recovered-claim"
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27461610/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahma Rasayana"
     },
     {
-     "pmid": "11510128",
-     "doi": "",
-     "title": "Antioxidant activity of brahma rasayana",
-     "journal": "Indian journal of experimental biology",
-     "year": 2001,
+     "pmid": "23771364",
+     "doi": "10.4103/0973-1482.113363",
+     "title": "Ayurvedic formulations ameliorate cisplatin-induced nephrotoxicity: preclinical studies on Brahma Rasayana and Chyavanaprash",
+     "journal": "Journal of cancer research and therapeutics",
+     "year": 2013,
      "authors": [
-      "Rekha PS",
-      "Kuttan G",
-      "Kuttan R"
+      "Menon A",
+      "Krishnan Nair CK"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/11510128/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23771364/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahma Rasayana"
     },
@@ -990,74 +991,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/21829300/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahma Rasayana"
-    },
-    {
-     "pmid": "11484978",
-     "doi": "",
-     "title": "Effect of Brahma Rasayana on antioxidant systems and cytokine levels in mice during cyclophosphamide administration",
-     "journal": "Journal of experimental & clinical cancer research : CR",
-     "year": 2001,
-     "authors": [
-      "Rekha PS",
-      "Kuttan G",
-      "Kuttan R"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/11484978/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahma Rasayana"
-    },
-    {
-     "pmid": "27461610",
-     "doi": "10.4103/0973-1482.151931",
-     "title": "Protective effect of ayurvedic formulations against doxorubicin-induced cardiotoxicity: Preliminary studies on Brahma Rasayana and Chyavanaprash",
-     "journal": "Journal of cancer research and therapeutics",
-     "year": 2016,
-     "authors": [
-      "AlSuhailbani E",
-      "Menon A",
-      "Nair CK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/27461610/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahma Rasayana"
-    },
-    {
-     "pmid": "15724840",
-     "doi": "",
-     "title": "Protective effect of a polyherbal preparation, Brahma rasayana against tumor growth and lung metastasis in rat prostate model system",
-     "journal": "Journal of experimental therapeutics & oncology",
-     "year": 2004,
-     "authors": [
-      "Gaddipati JP",
-      "Rajeshkumar NV",
-      "Thangapazham RL",
-      "Sharma A",
-      "Warren J",
-      "Mog SR",
-      "Singh AK",
-      "Maheshwari RK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15724840/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahma Rasayana"
-    },
-    {
-     "pmid": "23771364",
-     "doi": "10.4103/0973-1482.113363",
-     "title": "Ayurvedic formulations ameliorate cisplatin-induced nephrotoxicity: preclinical studies on Brahma Rasayana and Chyavanaprash",
-     "journal": "Journal of cancer research and therapeutics",
-     "year": 2013,
-     "authors": [
-      "Menon A",
-      "Krishnan Nair CK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23771364/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahma Rasayana"
     },
@@ -1093,20 +1026,18 @@
      "matchedOn": "Brahma Rasayana"
     },
     {
-     "pmid": "11906115",
-     "doi": "",
-     "title": "Effect of brahma rasayana on antioxidant system after radiation",
-     "journal": "Indian journal of experimental biology",
-     "year": 2001,
+     "pmid": "16550227",
+     "doi": "10.1093/ecam/nek014",
+     "title": "Brahmi rasayana improves learning and memory in mice",
+     "journal": "Evidence-based complementary and alternative medicine : eCAM",
+     "year": 2006,
      "authors": [
-      "Rekha PS",
-      "Kuttan G",
-      "Kuttan R"
+      "Joshi H",
+      "Parle M"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/11906115/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahma Rasayana"
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16550227/",
+     "source": "recovered-claim"
     },
     {
      "pmid": "17228520",
@@ -1125,6 +1056,75 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/17228520/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahma Rasayana"
+    },
+    {
+     "pmid": "15724840",
+     "doi": "",
+     "title": "Protective effect of a polyherbal preparation, Brahma rasayana against tumor growth and lung metastasis in rat prostate model system",
+     "journal": "Journal of experimental therapeutics & oncology",
+     "year": 2004,
+     "authors": [
+      "Gaddipati JP",
+      "Rajeshkumar NV",
+      "Thangapazham RL",
+      "Sharma A",
+      "Warren J",
+      "Mog SR",
+      "Singh AK",
+      "Maheshwari RK"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15724840/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahma Rasayana"
+    },
+    {
+     "pmid": "11510128",
+     "doi": "",
+     "title": "Antioxidant activity of brahma rasayana",
+     "journal": "Indian journal of experimental biology",
+     "year": 2001,
+     "authors": [
+      "Rekha PS",
+      "Kuttan G",
+      "Kuttan R"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11510128/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahma Rasayana"
+    },
+    {
+     "pmid": "11484978",
+     "doi": "",
+     "title": "Effect of Brahma Rasayana on antioxidant systems and cytokine levels in mice during cyclophosphamide administration",
+     "journal": "Journal of experimental & clinical cancer research : CR",
+     "year": 2001,
+     "authors": [
+      "Rekha PS",
+      "Kuttan G",
+      "Kuttan R"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11484978/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahma Rasayana"
+    },
+    {
+     "pmid": "11906115",
+     "doi": "",
+     "title": "Effect of brahma rasayana on antioxidant system after radiation",
+     "journal": "Indian journal of experimental biology",
+     "year": 2001,
+     "authors": [
+      "Rekha PS",
+      "Kuttan G",
+      "Kuttan R"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11906115/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahma Rasayana"
     }
    ]
   },
@@ -1132,6 +1132,21 @@
    "title": "Brahmi Ghritam",
    "binomial": "",
    "citations": [
+    {
+     "pmid": "42410094",
+     "doi": "10.1038/s41598-026-60864-5",
+     "title": "Brahmi Ghrita exerts nephroprotective effect on polycystic phenotype in the Malpighian tubules of caspase 3 deletion mutants of Drosophila melanogaster",
+     "journal": "Scientific reports",
+     "year": 2026,
+     "authors": [
+      "Sagar SC",
+      "Tapadia MG"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42410094/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahmi Ghrita"
+    },
     {
      "pmid": "39644797",
      "doi": "10.1016/j.jaim.2024.100995",
@@ -1150,22 +1165,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "24501526",
-     "doi": "10.4103/0974-8520.123130",
-     "title": "Preliminary physico-chemical profile of Brahmi Ghrita",
-     "journal": "Ayu",
-     "year": 2013,
-     "authors": [
-      "Yadav KD",
-      "Reddy KR",
-      "Agarwal A"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24501526/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahmi Ghrita"
-    },
-    {
      "pmid": "26664242",
      "doi": "10.4103/0974-8520.153755",
      "title": "Beneficial effect of Brahmi Ghrita on learning and memory in normal rat",
@@ -1178,6 +1177,22 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/26664242/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahmi Ghrita"
+    },
+    {
+     "pmid": "24501526",
+     "doi": "10.4103/0974-8520.123130",
+     "title": "Preliminary physico-chemical profile of Brahmi Ghrita",
+     "journal": "Ayu",
+     "year": 2013,
+     "authors": [
+      "Yadav KD",
+      "Reddy KR",
+      "Agarwal A"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24501526/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahmi Ghrita"
     },
@@ -1196,21 +1211,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/23559806/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahmi Ghrita"
-    },
-    {
-     "pmid": "42410094",
-     "doi": "10.1038/s41598-026-60864-5",
-     "title": "Brahmi Ghrita exerts nephroprotective effect on polycystic phenotype in the Malpighian tubules of caspase 3 deletion mutants of Drosophila melanogaster",
-     "journal": "Scientific reports",
-     "year": 2026,
-     "authors": [
-      "Sagar SC",
-      "Tapadia MG"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42410094/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahmi Ghrita"
     }
@@ -1253,21 +1253,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "26413128",
-     "doi": "10.1155/2015/717605",
-     "title": "Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement",
-     "journal": "Evidence-based complementary and alternative medicine : eCAM",
-     "year": 2015,
-     "authors": [
-      "Stough C",
-      "Singh H",
-      "Zangara A"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/26413128/",
-     "source": "recovered-claim"
-    },
-    {
      "pmid": "39631219",
      "doi": "10.1016/j.jaim.2024.101022",
      "title": "Efficacy of Brahmi vati and Aswagandharista in major depressive disorder: A randomized controlled trial",
@@ -1302,19 +1287,18 @@
      "matchedOn": "Brahmi Vati"
     },
     {
-     "pmid": "24396246",
-     "doi": "10.1016/j.jyp.2013.09.001",
-     "title": "HPLC analysis and standardization of Brahmi vati - An Ayurvedic poly-herbal formulation",
-     "journal": "Journal of young pharmacists : JYP",
-     "year": 2013,
+     "pmid": "35325682",
+     "doi": "10.1016/j.jaim.2022.100552",
+     "title": "Efficacy of Brahmi vati in generalised anxiety disorder - Randomized double blind comparative clinical trial",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2022,
      "authors": [
-      "Mishra A",
-      "Mishra AK",
-      "Tiwari OP",
-      "Jha S"
+      "Khot SG",
+      "Tubaki BR",
+      "Gonugade VB"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24396246/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35325682/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahmi Vati"
     },
@@ -1334,6 +1318,54 @@
      "matchedOn": "Brahmi Vati"
     },
     {
+     "pmid": "29414544",
+     "doi": "10.1016/j.yebeh.2017.12.040",
+     "title": "Effect of traditional medicine brahmi vati and bacoside A-rich fraction of Bacopa monnieri on acute pentylenetetrzole-induced seizures, amphetamine-induced model of schizophrenia, and scopolamine-induced memory loss in laboratory animals",
+     "journal": "Epilepsy & behavior : E&B",
+     "year": 2018,
+     "authors": [
+      "Mishra A",
+      "Mishra AK",
+      "Jha S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29414544/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahmi Vati"
+    },
+    {
+     "pmid": "26413128",
+     "doi": "10.1155/2015/717605",
+     "title": "Mechanisms, Efficacy, and Safety of Bacopa monnieri (Brahmi) for Cognitive and Brain Enhancement",
+     "journal": "Evidence-based complementary and alternative medicine : eCAM",
+     "year": 2015,
+     "authors": [
+      "Stough C",
+      "Singh H",
+      "Zangara A"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26413128/",
+     "source": "recovered-claim"
+    },
+    {
+     "pmid": "24396246",
+     "doi": "10.1016/j.jyp.2013.09.001",
+     "title": "HPLC analysis and standardization of Brahmi vati - An Ayurvedic poly-herbal formulation",
+     "journal": "Journal of young pharmacists : JYP",
+     "year": 2013,
+     "authors": [
+      "Mishra A",
+      "Mishra AK",
+      "Tiwari OP",
+      "Jha S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24396246/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Brahmi Vati"
+    },
+    {
      "pmid": "24146464",
      "doi": "10.4314/ajtcam.v10i3.1",
      "title": "Standardization of a traditional polyherbo-mineral formulation - Brahmi vati",
@@ -1347,38 +1379,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/24146464/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahmi Vati"
-    },
-    {
-     "pmid": "35325682",
-     "doi": "10.1016/j.jaim.2022.100552",
-     "title": "Efficacy of Brahmi vati in generalised anxiety disorder - Randomized double blind comparative clinical trial",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2022,
-     "authors": [
-      "Khot SG",
-      "Tubaki BR",
-      "Gonugade VB"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35325682/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Brahmi Vati"
-    },
-    {
-     "pmid": "29414544",
-     "doi": "10.1016/j.yebeh.2017.12.040",
-     "title": "Effect of traditional medicine brahmi vati and bacoside A-rich fraction of Bacopa monnieri on acute pentylenetetrzole-induced seizures, amphetamine-induced model of schizophrenia, and scopolamine-induced memory loss in laboratory animals",
-     "journal": "Epilepsy & behavior : E&B",
-     "year": 2018,
-     "authors": [
-      "Mishra A",
-      "Mishra AK",
-      "Jha S"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/29414544/",
      "source": "pubmed-formulation",
      "matchedOn": "Brahmi Vati"
     }
@@ -1411,6 +1411,38 @@
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/38821011/",
      "source": "recovered-claim"
+    },
+    {
+     "pmid": "31945445",
+     "doi": "10.1016/j.ijbiomac.2020.01.121",
+     "title": "Herbalome of Chandraprabha vati, a polyherbal formulation of Ayurveda prevents fibrillation of lysozyme by stabilizing aggregation-prone intermediate state",
+     "journal": "International journal of biological macromolecules",
+     "year": 2020,
+     "authors": [
+      "Kumari A",
+      "Muthu SA",
+      "Prakash P",
+      "Ahmad B"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31945445/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Chandraprabha Vati"
+    },
+    {
+     "pmid": "30595632",
+     "doi": "10.4103/ayu.AYU_44_18",
+     "title": "Establishment of quality function deployment with special reference to good manufacturing practice of Chandraprabha Vati",
+     "journal": "Ayu",
+     "year": 2018,
+     "authors": [
+      "Gandhi AJ",
+      "Shukla VJ"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30595632/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Chandraprabha Vati"
     },
     {
      "pmid": "27665674",
@@ -1447,38 +1479,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/24072152/",
      "source": "pubmed-formulation",
      "matchedOn": "Chandraprabha Vati"
-    },
-    {
-     "pmid": "31945445",
-     "doi": "10.1016/j.ijbiomac.2020.01.121",
-     "title": "Herbalome of Chandraprabha vati, a polyherbal formulation of Ayurveda prevents fibrillation of lysozyme by stabilizing aggregation-prone intermediate state",
-     "journal": "International journal of biological macromolecules",
-     "year": 2020,
-     "authors": [
-      "Kumari A",
-      "Muthu SA",
-      "Prakash P",
-      "Ahmad B"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31945445/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Chandraprabha Vati"
-    },
-    {
-     "pmid": "30595632",
-     "doi": "10.4103/ayu.AYU_44_18",
-     "title": "Establishment of quality function deployment with special reference to good manufacturing practice of Chandraprabha Vati",
-     "journal": "Ayu",
-     "year": 2018,
-     "authors": [
-      "Gandhi AJ",
-      "Shukla VJ"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/30595632/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Chandraprabha Vati"
     }
    ]
   },
@@ -1497,6 +1497,24 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "11211574",
+     "doi": "",
+     "title": "Effect of Chyawanprash and vitamin C on glucose tolerance and lipoprotein profile",
+     "journal": "Indian journal of physiology and pharmacology",
+     "year": 2001,
+     "authors": [
+      "Manjunatha S",
+      "Jaryal AK",
+      "Bijlani RL",
+      "Sachdeva U",
+      "Gupta SK"
+     ],
+     "tier": "B",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11211574/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Chyawanprash"
+    },
+    {
      "pmid": "39544586",
      "doi": "10.7759/cureus.71532",
      "title": "Safety and Efficacy of Chyawanprash as a Prophylaxis Treatment for COVID-19: A Systematic Review and Meta-Analysis of Randomized Control Trials",
@@ -1512,39 +1530,21 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "34867361",
-     "doi": "10.3389/fphar.2021.751576",
-     "title": "Chyawanprash, An Ancient Indian Ayurvedic Medicinal Food, Regulates Immune Response in Zebrafish Model of Inflammation by Moderating Inflammatory Biomarkers",
-     "journal": "Frontiers in pharmacology",
-     "year": 2021,
+     "pmid": "38021581",
+     "doi": "10.7759/cureus.47555",
+     "title": "An Ayurvedic Medication (Chyawanprash) as a Prophylaxis for Non-Communicable Disease and Communicable Disease: A Protocol for Systematic Review and Meta-Analysis",
+     "journal": "Cureus",
+     "year": 2023,
      "authors": [
-      "Balkrishna A",
-      "Tomer M",
-      "Manik M",
-      "Srivastava J",
-      "Dev R",
-      "Haldar S",
-      "Varshney A"
+      "Sharma S",
+      "Kumari K",
+      "Sethuraman G",
+      "Abdelwahab MM",
+      "Sivaperumal Yadav S",
+      "Nandini V"
      ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/34867361/",
-     "source": "recovered-claim"
-    },
-    {
-     "pmid": "11211574",
-     "doi": "",
-     "title": "Effect of Chyawanprash and vitamin C on glucose tolerance and lipoprotein profile",
-     "journal": "Indian journal of physiology and pharmacology",
-     "year": 2001,
-     "authors": [
-      "Manjunatha S",
-      "Jaryal AK",
-      "Bijlani RL",
-      "Sachdeva U",
-      "Gupta SK"
-     ],
-     "tier": "B",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/11211574/",
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38021581/",
      "source": "pubmed-formulation",
      "matchedOn": "Chyawanprash"
     },
@@ -1589,39 +1589,40 @@
      "matchedOn": "Chyawanprash"
     },
     {
-     "pmid": "20738179",
-     "doi": "10.3109/13880209.2010.489904",
-     "title": "Beneficial effect of chyawanprash on cognitive function in aged mice",
-     "journal": "Pharmaceutical biology",
-     "year": 2011,
+     "pmid": "39258271",
+     "doi": "10.1155/2022/9106415",
+     "title": "Golden Ager Chyawanprash with Meager Evidential Base from Human Clinical Trials",
+     "journal": "Evidence-based complementary and alternative medicine : eCAM",
+     "year": 2022,
      "authors": [
-      "Bansal N",
-      "Parle M"
+      "Sharma R",
+      "Kakodkar P",
+      "Kabra A",
+      "Prajapati PK"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/20738179/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39258271/",
      "source": "pubmed-formulation",
      "matchedOn": "Chyawanprash"
     },
     {
-     "pmid": "16295744",
-     "doi": "",
-     "title": "Effect of Sonachandi Chyawanprash and Chyawanprash Plus--two herbal formulations on immunomodulation",
-     "journal": "Nepal Medical College journal : NMCJ",
-     "year": 2004,
+     "pmid": "34867361",
+     "doi": "10.3389/fphar.2021.751576",
+     "title": "Chyawanprash, An Ancient Indian Ayurvedic Medicinal Food, Regulates Immune Response in Zebrafish Model of Inflammation by Moderating Inflammatory Biomarkers",
+     "journal": "Frontiers in pharmacology",
+     "year": 2021,
      "authors": [
-      "Sur TK",
-      "Pandit S",
-      "Mukherjee R",
-      "Pramanik T",
-      "Debnath PK",
-      "Bandyopadhyay SK",
-      "Bhattacharyya D"
+      "Balkrishna A",
+      "Tomer M",
+      "Manik M",
+      "Srivastava J",
+      "Dev R",
+      "Haldar S",
+      "Varshney A"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/16295744/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Chyawanprash"
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34867361/",
+     "source": "recovered-claim"
     },
     {
      "pmid": "27854199",
@@ -1643,38 +1644,17 @@
      "matchedOn": "Chyawanprash"
     },
     {
-     "pmid": "38021581",
-     "doi": "10.7759/cureus.47555",
-     "title": "An Ayurvedic Medication (Chyawanprash) as a Prophylaxis for Non-Communicable Disease and Communicable Disease: A Protocol for Systematic Review and Meta-Analysis",
-     "journal": "Cureus",
-     "year": 2023,
+     "pmid": "20738179",
+     "doi": "10.3109/13880209.2010.489904",
+     "title": "Beneficial effect of chyawanprash on cognitive function in aged mice",
+     "journal": "Pharmaceutical biology",
+     "year": 2011,
      "authors": [
-      "Sharma S",
-      "Kumari K",
-      "Sethuraman G",
-      "Abdelwahab MM",
-      "Sivaperumal Yadav S",
-      "Nandini V"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/38021581/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Chyawanprash"
-    },
-    {
-     "pmid": "39258271",
-     "doi": "10.1155/2022/9106415",
-     "title": "Golden Ager Chyawanprash with Meager Evidential Base from Human Clinical Trials",
-     "journal": "Evidence-based complementary and alternative medicine : eCAM",
-     "year": 2022,
-     "authors": [
-      "Sharma R",
-      "Kakodkar P",
-      "Kabra A",
-      "Prajapati PK"
+      "Bansal N",
+      "Parle M"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/39258271/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20738179/",
      "source": "pubmed-formulation",
      "matchedOn": "Chyawanprash"
     },
@@ -1693,6 +1673,26 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/16971083/",
      "source": "pubmed-formulation",
      "matchedOn": "Chyavanprash"
+    },
+    {
+     "pmid": "16295744",
+     "doi": "",
+     "title": "Effect of Sonachandi Chyawanprash and Chyawanprash Plus--two herbal formulations on immunomodulation",
+     "journal": "Nepal Medical College journal : NMCJ",
+     "year": 2004,
+     "authors": [
+      "Sur TK",
+      "Pandit S",
+      "Mukherjee R",
+      "Pramanik T",
+      "Debnath PK",
+      "Bandyopadhyay SK",
+      "Bhattacharyya D"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16295744/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Chyawanprash"
     }
    ]
   },
@@ -2351,20 +2351,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "22557215",
-     "doi": "",
-     "title": "TLC PROFILE AND PHYSICOCHEMICAL PARAMETERS of HARIDRA KHANDA - An AYURVREDIC FORMULATION",
-     "journal": "Ancient science of life",
-     "year": 2006,
-     "authors": [
-      "Thakkar SJ"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22557215/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Haridra Khanda"
-    },
-    {
      "pmid": "18980135",
      "doi": "",
      "title": "Standardization of the ayurvedic formulation Haridra Khanda using high-performance thin-layer chromatography-densitometry",
@@ -2377,6 +2363,20 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/18980135/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Haridra Khanda"
+    },
+    {
+     "pmid": "22557215",
+     "doi": "",
+     "title": "TLC PROFILE AND PHYSICOCHEMICAL PARAMETERS of HARIDRA KHANDA - An AYURVREDIC FORMULATION",
+     "journal": "Ancient science of life",
+     "year": 2006,
+     "authors": [
+      "Thakkar SJ"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22557215/",
      "source": "pubmed-formulation",
      "matchedOn": "Haridra Khanda"
     }
@@ -2430,6 +2430,25 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "29031949",
+     "doi": "10.1016/j.jaim.2017.06.006",
+     "title": "Evaluation of Irimedadi Taila as an adjunctive in treating plaque-induced gingivitis",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2018,
+     "authors": [
+      "Patil S",
+      "Varma SA",
+      "Suragimath G",
+      "Abbayya K",
+      "Zope SA",
+      "Kale V"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29031949/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Irimedadi Taila"
+    },
+    {
      "pmid": "25325064",
      "doi": "10.12998/wjcc.v2.i10.534",
      "title": "Comparison of semilunar coronally repositioned flap with gingival massaging using an Ayurvedic product (irimedadi taila) in the treatment of class-I gingival recession: A clinical study",
@@ -2446,25 +2465,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/25325064/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Irimedadi Taila"
-    },
-    {
-     "pmid": "29031949",
-     "doi": "10.1016/j.jaim.2017.06.006",
-     "title": "Evaluation of Irimedadi Taila as an adjunctive in treating plaque-induced gingivitis",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2018,
-     "authors": [
-      "Patil S",
-      "Varma SA",
-      "Suragimath G",
-      "Abbayya K",
-      "Zope SA",
-      "Kale V"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/29031949/",
      "source": "pubmed-formulation",
      "matchedOn": "Irimedadi Taila"
     }
@@ -2538,6 +2538,22 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "42497785",
+     "doi": "10.1016/j.jaim.2026.101358",
+     "title": "Interstitial cystitis with Hunner's ulcers managed with Jatyadi Taila Uttarabasti - A case series",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2026,
+     "authors": [
+      "Patel K",
+      "Patel M",
+      "Bhatt C"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42497785/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Jatyadi Taila"
+    },
+    {
      "pmid": "41350969",
      "doi": "10.1007/s11095-025-03929-w",
      "title": "QbD Optimized Nanoemulsion Based Topical Formulation of Jatyadi Taila: Unveiling its In Vitro and In Vivo Efficacy for Enhanced Wound Healing",
@@ -2574,20 +2590,22 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "21907784",
-     "doi": "10.1016/j.jep.2011.08.050",
-     "title": "Wound healing efficacy of Jatyadi Taila: in vivo evaluation in rat using excision wound model",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2011,
+     "pmid": "36440895",
+     "doi": "10.1093/jaoacint/qsac147",
+     "title": "Development and Validation of a Green Stability-Indicating HPTLC Method for Estimation of Curcumin, Gallic Acid, and Ursolic Acid From Polyherbal Formulation Jatyadi Taila",
+     "journal": "Journal of AOAC International",
+     "year": 2023,
      "authors": [
-      "Shailajan S",
-      "Menon S",
-      "Pednekar S",
-      "Singh A"
+      "Patel MN",
+      "Nandpal MN",
+      "Patel AJ",
+      "Raval MA",
+      "Patel SG"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/21907784/",
-     "source": "recovered-claim"
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36440895/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Jatyadi Taila"
     },
     {
      "pmid": "33872127",
@@ -2609,38 +2627,20 @@
      "matchedOn": "Jatyadi Taila"
     },
     {
-     "pmid": "36440895",
-     "doi": "10.1093/jaoacint/qsac147",
-     "title": "Development and Validation of a Green Stability-Indicating HPTLC Method for Estimation of Curcumin, Gallic Acid, and Ursolic Acid From Polyherbal Formulation Jatyadi Taila",
-     "journal": "Journal of AOAC International",
-     "year": 2023,
+     "pmid": "21907784",
+     "doi": "10.1016/j.jep.2011.08.050",
+     "title": "Wound healing efficacy of Jatyadi Taila: in vivo evaluation in rat using excision wound model",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2011,
      "authors": [
-      "Patel MN",
-      "Nandpal MN",
-      "Patel AJ",
-      "Raval MA",
-      "Patel SG"
+      "Shailajan S",
+      "Menon S",
+      "Pednekar S",
+      "Singh A"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/36440895/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Jatyadi Taila"
-    },
-    {
-     "pmid": "42497785",
-     "doi": "10.1016/j.jaim.2026.101358",
-     "title": "Interstitial cystitis with Hunner's ulcers managed with Jatyadi Taila Uttarabasti - A case series",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2026,
-     "authors": [
-      "Patel K",
-      "Patel M",
-      "Bhatt C"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42497785/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Jatyadi Taila"
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21907784/",
+     "source": "recovered-claim"
     }
    ]
   },
@@ -2653,6 +2653,22 @@
    "title": "Kaishore Guggul",
    "binomial": "",
    "citations": [
+    {
+     "pmid": "31831969",
+     "doi": "10.4103/ayu.AYU_244_18",
+     "title": "A case study on the management of dry gangrene by Kaishore Guggulu, Sanjivani Vati and Dashanga Lepa",
+     "journal": "Ayu",
+     "year": 2019,
+     "authors": [
+      "Bharati PL",
+      "Agrawal P",
+      "Prakash O"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31831969/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kaishor Guggulu"
+    },
     {
      "pmid": "22048531",
      "doi": "10.4103/0974-8520.82027",
@@ -2669,22 +2685,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/22048531/",
      "source": "pubmed-formulation",
      "matchedOn": "Kaishora Guggulu"
-    },
-    {
-     "pmid": "31831969",
-     "doi": "10.4103/ayu.AYU_244_18",
-     "title": "A case study on the management of dry gangrene by Kaishore Guggulu, Sanjivani Vati and Dashanga Lepa",
-     "journal": "Ayu",
-     "year": 2019,
-     "authors": [
-      "Bharati PL",
-      "Agrawal P",
-      "Prakash O"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31831969/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kaishor Guggulu"
     }
    ]
   },
@@ -2692,6 +2692,40 @@
    "title": "Kalyanaka Ghrita",
    "binomial": "",
    "citations": [
+    {
+     "pmid": "42331198",
+     "doi": "10.1016/j.jep.2026.122089",
+     "title": "Role of an Ayurvedic formulation 'Kalyanaka Ghrita' in mild cognitive impairment: A single-patient, quasi-randomized, controlled, open-label N-of-1 trial",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2026,
+     "authors": [
+      "Sharma S",
+      "Kaushik A",
+      "Chakrabarti SS",
+      "Patwardhan K"
+     ],
+     "tier": "B",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42331198/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kalyanaka Ghrita"
+    },
+    {
+     "pmid": "42170139",
+     "doi": "10.7759/cureus.107376",
+     "title": "Network Pharmacology Perspectives on Cerebral Palsy: Mechanistic Insights From Ayurvedic Formulations With Emphasis on Kalyanaka Ghritam",
+     "journal": "Cureus",
+     "year": 2026,
+     "authors": [
+      "Pai P",
+      "Gaikwad PB",
+      "Shetty S",
+      "Jadhav RS"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42170139/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kalyanaka Ghritam"
+    },
     {
      "pmid": "39413551",
      "doi": "10.1016/j.jaim.2024.101011",
@@ -2726,7 +2760,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/36055476/",
      "source": "pubmed-formulation",
      "matchedOn": "Kalyanaka Ghrita"
-    },
+    }
+   ]
+  },
+  "formulation/kalyanaka-ghritam": {
+   "title": "Kalyanaka Ghritam",
+   "binomial": "",
+   "citations": [
     {
      "pmid": "42331198",
      "doi": "10.1016/j.jep.2026.122089",
@@ -2760,13 +2800,7 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42170139/",
      "source": "pubmed-formulation",
      "matchedOn": "Kalyanaka Ghritam"
-    }
-   ]
-  },
-  "formulation/kalyanaka-ghritam": {
-   "title": "Kalyanaka Ghritam",
-   "binomial": "",
-   "citations": [
+    },
     {
      "pmid": "39413551",
      "doi": "10.1016/j.jaim.2024.101011",
@@ -2785,23 +2819,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "42170139",
-     "doi": "10.7759/cureus.107376",
-     "title": "Network Pharmacology Perspectives on Cerebral Palsy: Mechanistic Insights From Ayurvedic Formulations With Emphasis on Kalyanaka Ghritam",
-     "journal": "Cureus",
-     "year": 2026,
-     "authors": [
-      "Pai P",
-      "Gaikwad PB",
-      "Shetty S",
-      "Jadhav RS"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42170139/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kalyanaka Ghritam"
-    },
-    {
      "pmid": "36055476",
      "doi": "10.1016/j.jep.2022.115671",
      "title": "Standardization and Ameliorative effect of Kalyanaka ghrita in β-amyloid induced memory impairment in wistar rats",
@@ -2815,23 +2832,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/36055476/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kalyanaka Ghrita"
-    },
-    {
-     "pmid": "42331198",
-     "doi": "10.1016/j.jep.2026.122089",
-     "title": "Role of an Ayurvedic formulation 'Kalyanaka Ghrita' in mild cognitive impairment: A single-patient, quasi-randomized, controlled, open-label N-of-1 trial",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2026,
-     "authors": [
-      "Sharma S",
-      "Kaushik A",
-      "Chakrabarti SS",
-      "Patwardhan K"
-     ],
-     "tier": "B",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42331198/",
      "source": "pubmed-formulation",
      "matchedOn": "Kalyanaka Ghrita"
     }
@@ -2856,6 +2856,23 @@
      "source": "recovered-claim"
     },
     {
+     "pmid": "42399366",
+     "doi": "10.1038/s41598-026-60293-4",
+     "title": "Untargeted metabolomics and network pharmacology unveil AKT1 inhibition by Kanchanara Guggulu in triple-negative breast cancer",
+     "journal": "Scientific reports",
+     "year": 2026,
+     "authors": [
+      "Hemavathi KN",
+      "Pervaje R",
+      "Prasad TSK",
+      "Dagamajalu S"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42399366/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kanchanara Guggulu"
+    },
+    {
      "pmid": "35655904",
      "doi": "10.6026/97320630017911",
      "title": "From LC-MS/MS metabolomics profiling of Kanchanara Guggulu to molecular docking and dynamics simulation of quercetin pentaacetate with aldose reductase",
@@ -2876,23 +2893,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "27011713",
-     "doi": "10.4103/0974-8520.175552",
-     "title": "Efficacy of Kanchanara Guggulu and Matra Basti of Dhanyaka Gokshura Ghrita in Mootraghata (benign prostatic hyperplasia)",
-     "journal": "Ayu",
-     "year": 2015,
-     "authors": [
-      "Patel JK",
-      "Dudhamal TS",
-      "Gupta SK",
-      "Mahanta V"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/27011713/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kanchanara Guggulu"
-    },
-    {
      "pmid": "30783359",
      "doi": "10.4103/ayu.AYU_117_15",
      "title": "A clinical evaluation of Kanchanara Guggulu and Bala Taila Matra Basti in the management of Mutraghata with special reference to benign prostatic hyperplasia",
@@ -2910,19 +2910,19 @@
      "matchedOn": "Kanchanara Guggulu"
     },
     {
-     "pmid": "42399366",
-     "doi": "10.1038/s41598-026-60293-4",
-     "title": "Untargeted metabolomics and network pharmacology unveil AKT1 inhibition by Kanchanara Guggulu in triple-negative breast cancer",
-     "journal": "Scientific reports",
-     "year": 2026,
+     "pmid": "27011713",
+     "doi": "10.4103/0974-8520.175552",
+     "title": "Efficacy of Kanchanara Guggulu and Matra Basti of Dhanyaka Gokshura Ghrita in Mootraghata (benign prostatic hyperplasia)",
+     "journal": "Ayu",
+     "year": 2015,
      "authors": [
-      "Hemavathi KN",
-      "Pervaje R",
-      "Prasad TSK",
-      "Dagamajalu S"
+      "Patel JK",
+      "Dudhamal TS",
+      "Gupta SK",
+      "Mahanta V"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42399366/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27011713/",
      "source": "pubmed-formulation",
      "matchedOn": "Kanchanara Guggulu"
     }
@@ -2996,6 +2996,22 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "25558159",
+     "doi": "10.4103/0974-8520.146225",
+     "title": "Effect of anuvasana basti with ksheerabala taila in sandhigata vata (osteoarthritis)",
+     "journal": "Ayu",
+     "year": 2014,
+     "authors": [
+      "Grampurohit PL",
+      "Rao N",
+      "Harti SS"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25558159/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Ksheerabala Taila"
+    },
+    {
      "pmid": "22556766",
      "doi": "",
      "title": "Standardisation of ksheerabala taila",
@@ -3009,22 +3025,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22556766/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Ksheerabala Taila"
-    },
-    {
-     "pmid": "25558159",
-     "doi": "10.4103/0974-8520.146225",
-     "title": "Effect of anuvasana basti with ksheerabala taila in sandhigata vata (osteoarthritis)",
-     "journal": "Ayu",
-     "year": 2014,
-     "authors": [
-      "Grampurohit PL",
-      "Rao N",
-      "Harti SS"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/25558159/",
      "source": "pubmed-formulation",
      "matchedOn": "Ksheerabala Taila"
     }
@@ -3127,50 +3127,22 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "22556614",
-     "doi": "",
-     "title": "Tlc as a tool for standardisation of ayurvedic formulations with special reference to kutajarishta",
-     "journal": "Ancient science of life",
-     "year": 1993,
+     "pmid": "24426073",
+     "doi": "10.1007/s12088-012-0325-4",
+     "title": "Microbial community structure at different fermentation stages of kutajarista, a herbal formulation",
+     "journal": "Indian journal of microbiology",
+     "year": 2013,
      "authors": [
-      "Hiremath SG",
-      "Joshi D",
-      "Ray AB"
+      "Kumar H",
+      "Pandey PK",
+      "Doiphode VV",
+      "Vir S",
+      "Bhutani KK",
+      "Patole MS",
+      "Shouche YS"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22556614/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kutajarishta"
-    },
-    {
-     "pmid": "22557637",
-     "doi": "",
-     "title": "An experimental study of kutajarishta with special reference to amoebiasis",
-     "journal": "Ancient science of life",
-     "year": 1988,
-     "authors": [
-      "Dineshchandra",
-      "Dixit SK",
-      "Sen PC",
-      "Joshi D"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22557637/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Kutajarishta"
-    },
-    {
-     "pmid": "18197597",
-     "doi": "10.1002/pca.1052",
-     "title": "Chromatographic analysis of Kutajarista--an ayurvedic polyherbal formulation",
-     "journal": "Phytochemical analysis : PCA",
-     "year": 2008,
-     "authors": [
-      "Garg S",
-      "Bhutani KK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/18197597/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24426073/",
      "source": "pubmed-formulation",
      "matchedOn": "Kutajarista"
     },
@@ -3194,24 +3166,35 @@
      "matchedOn": "Kutajarista"
     },
     {
-     "pmid": "24426073",
-     "doi": "10.1007/s12088-012-0325-4",
-     "title": "Microbial community structure at different fermentation stages of kutajarista, a herbal formulation",
-     "journal": "Indian journal of microbiology",
-     "year": 2013,
+     "pmid": "18197597",
+     "doi": "10.1002/pca.1052",
+     "title": "Chromatographic analysis of Kutajarista--an ayurvedic polyherbal formulation",
+     "journal": "Phytochemical analysis : PCA",
+     "year": 2008,
      "authors": [
-      "Kumar H",
-      "Pandey PK",
-      "Doiphode VV",
-      "Vir S",
-      "Bhutani KK",
-      "Patole MS",
-      "Shouche YS"
+      "Garg S",
+      "Bhutani KK"
      ],
      "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24426073/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18197597/",
      "source": "pubmed-formulation",
      "matchedOn": "Kutajarista"
+    },
+    {
+     "pmid": "22556614",
+     "doi": "",
+     "title": "Tlc as a tool for standardisation of ayurvedic formulations with special reference to kutajarishta",
+     "journal": "Ancient science of life",
+     "year": 1993,
+     "authors": [
+      "Hiremath SG",
+      "Joshi D",
+      "Ray AB"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22556614/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kutajarishta"
     },
     {
      "pmid": "22556544",
@@ -3227,6 +3210,23 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/22556544/",
      "source": "pubmed-formulation",
      "matchedOn": "Kutajarista"
+    },
+    {
+     "pmid": "22557637",
+     "doi": "",
+     "title": "An experimental study of kutajarishta with special reference to amoebiasis",
+     "journal": "Ancient science of life",
+     "year": 1988,
+     "authors": [
+      "Dineshchandra",
+      "Dixit SK",
+      "Sen PC",
+      "Joshi D"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22557637/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Kutajarishta"
     }
    ]
   },
@@ -3304,19 +3304,24 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "22556623",
-     "doi": "",
-     "title": "Standardisation of murivenna and hemajeevanti taila",
-     "journal": "Ancient science of life",
-     "year": 1993,
+     "pmid": "39899833",
+     "doi": "10.2196/63063",
+     "title": "Efficacy and Safety of Murivenna Anal Infiltration Compared to Diltiazem Topical Application in Chronic Anal Fissure: Protocol for a Prospective, Randomized, Open-Label Clinical Trial",
+     "journal": "JMIR research protocols",
+     "year": 2025,
      "authors": [
-      "Hepsibah PT",
-      "Rosamma MP",
-      "Prasad NB",
-      "Kumar PS"
+      "Shankar Km P",
+      "Puthan Purayil I",
+      "Binitha P",
+      "Rai AK",
+      "Jameela S",
+      "Ahmad A",
+      "Bhogavalli CSR",
+      "Srikanth N",
+      "Acharya R"
      ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22556623/",
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39899833/",
      "source": "pubmed-formulation",
      "matchedOn": "Murivenna"
     },
@@ -3338,24 +3343,19 @@
      "matchedOn": "Murivenna"
     },
     {
-     "pmid": "39899833",
-     "doi": "10.2196/63063",
-     "title": "Efficacy and Safety of Murivenna Anal Infiltration Compared to Diltiazem Topical Application in Chronic Anal Fissure: Protocol for a Prospective, Randomized, Open-Label Clinical Trial",
-     "journal": "JMIR research protocols",
-     "year": 2025,
+     "pmid": "22556623",
+     "doi": "",
+     "title": "Standardisation of murivenna and hemajeevanti taila",
+     "journal": "Ancient science of life",
+     "year": 1993,
      "authors": [
-      "Shankar Km P",
-      "Puthan Purayil I",
-      "Binitha P",
-      "Rai AK",
-      "Jameela S",
-      "Ahmad A",
-      "Bhogavalli CSR",
-      "Srikanth N",
-      "Acharya R"
+      "Hepsibah PT",
+      "Rosamma MP",
+      "Prasad NB",
+      "Kumar PS"
      ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/39899833/",
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22556623/",
      "source": "pubmed-formulation",
      "matchedOn": "Murivenna"
     }
@@ -3386,22 +3386,6 @@
    "title": "Narayana Thailam",
    "binomial": "",
    "citations": [
-    {
-     "pmid": "24049410",
-     "doi": "10.4103/0974-8520.115453",
-     "title": "Role of Nasya and Matra Basti with Narayana Taila on anovulatory factor",
-     "journal": "Ayu",
-     "year": 2013,
-     "authors": [
-      "Donga KR",
-      "Donga SB",
-      "Dei LP"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24049410/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Narayana Taila"
-    },
     {
      "pmid": "40215578",
      "doi": "10.1016/j.jaim.2024.101077",
@@ -3472,6 +3456,22 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/28757225/",
      "source": "pubmed-formulation",
      "matchedOn": "Narayana Taila"
+    },
+    {
+     "pmid": "24049410",
+     "doi": "10.4103/0974-8520.115453",
+     "title": "Role of Nasya and Matra Basti with Narayana Taila on anovulatory factor",
+     "journal": "Ayu",
+     "year": 2013,
+     "authors": [
+      "Donga KR",
+      "Donga SB",
+      "Dei LP"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24049410/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Narayana Taila"
     }
    ]
   },
@@ -3484,6 +3484,25 @@
    "title": "Panchagavya Ghrita",
    "binomial": "",
    "citations": [
+    {
+     "pmid": "42322259",
+     "doi": "10.1080/10799893.2026.2689329",
+     "title": "In silico investigation of Panchagavya Ghrita's anticancer potential against glioblastoma: a network pharmacology and molecular docking study",
+     "journal": "Journal of receptor and signal transduction research",
+     "year": 2026,
+     "authors": [
+      "Giri O",
+      "Ingole A",
+      "Dharkar N",
+      "Kour L",
+      "Patil N",
+      "Shirkande A"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42322259/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Panchagavya Ghrita"
+    },
     {
      "pmid": "26245029",
      "doi": "",
@@ -3534,25 +3553,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/23930043/",
      "source": "pubmed-formulation",
      "matchedOn": "Panchagavya Ghrita"
-    },
-    {
-     "pmid": "42322259",
-     "doi": "10.1080/10799893.2026.2689329",
-     "title": "In silico investigation of Panchagavya Ghrita's anticancer potential against glioblastoma: a network pharmacology and molecular docking study",
-     "journal": "Journal of receptor and signal transduction research",
-     "year": 2026,
-     "authors": [
-      "Giri O",
-      "Ingole A",
-      "Dharkar N",
-      "Kour L",
-      "Patil N",
-      "Shirkande A"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42322259/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Panchagavya Ghrita"
     }
    ]
   },
@@ -3584,6 +3584,23 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "31460771",
+     "doi": "10.1089/acm.2019.0124",
+     "title": "Assessing the Effectiveness of Panchatikta Ghrita, a Classical Ayurvedic Formulation as Add-on Therapy to Vitamin D(3) and Calcium Supplements in Patients with Osteopenia: A Randomized, Open-Labeled, Comparative, Controlled Clinical Study",
+     "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+     "year": 2019,
+     "authors": [
+      "Munshi RP",
+      "Kumbhar DA",
+      "Panchal FH",
+      "Varthakavi P"
+     ],
+     "tier": "B",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31460771/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Panchatikta Ghrita"
+    },
+    {
      "pmid": "31708331",
      "doi": "10.1016/j.jaim.2019.04.006",
      "title": "Does Panchatikta ghrita have anti-osteoporotic effect? Assessment in an experimental model in ovariectomized rats",
@@ -3598,23 +3615,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/31708331/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Panchatikta Ghrita"
-    },
-    {
-     "pmid": "31460771",
-     "doi": "10.1089/acm.2019.0124",
-     "title": "Assessing the Effectiveness of Panchatikta Ghrita, a Classical Ayurvedic Formulation as Add-on Therapy to Vitamin D(3) and Calcium Supplements in Patients with Osteopenia: A Randomized, Open-Labeled, Comparative, Controlled Clinical Study",
-     "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
-     "year": 2019,
-     "authors": [
-      "Munshi RP",
-      "Kumbhar DA",
-      "Panchal FH",
-      "Varthakavi P"
-     ],
-     "tier": "B",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31460771/",
      "source": "pubmed-formulation",
      "matchedOn": "Panchatikta Ghrita"
     },
@@ -3647,20 +3647,6 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "22557087",
-     "doi": "",
-     "title": "Clinical trial of phalaghrita on female infertility",
-     "journal": "Ancient science of life",
-     "year": 2002,
-     "authors": [
-      "Otta SP",
-      "Tripaty RN"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22557087/",
-     "source": "recovered-claim"
-    },
-    {
      "pmid": "38070240",
      "doi": "10.1016/j.jaim.2023.100827",
      "title": "Managing endometrial calcifications using Kshara Taila and Phalaghrita Uttara Basti: A case report",
@@ -3675,6 +3661,20 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/38070240/",
      "source": "pubmed-formulation",
      "matchedOn": "Phala Ghrita"
+    },
+    {
+     "pmid": "22557087",
+     "doi": "",
+     "title": "Clinical trial of phalaghrita on female infertility",
+     "journal": "Ancient science of life",
+     "year": 2002,
+     "authors": [
+      "Otta SP",
+      "Tripaty RN"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22557087/",
+     "source": "recovered-claim"
     }
    ]
   },
@@ -3865,6 +3865,40 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "40633355",
+     "doi": "10.1016/j.jaim.2025.101160",
+     "title": "Efficacy of Mamsyadi Ghana capsule and Saraswatarista in the management of Insomnia Disorder - A Randomized Controlled Clinical Trial",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2025,
+     "authors": [
+      "Manasa M",
+      "Padmashali A",
+      "Tubaki BR",
+      "Manisha"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40633355/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Saraswatarista"
+    },
+    {
+     "pmid": "39626587",
+     "doi": "10.1016/j.jaim.2024.101033",
+     "title": "Efficacy of ayurveda medications, Brahmi vati and Saraswatarista, in generalized anxiety disorder- a randomized controlled trial",
+     "journal": "Journal of Ayurveda and integrative medicine",
+     "year": 2024,
+     "authors": [
+      "Gonugade VB",
+      "Chate SS",
+      "Tubaki BR",
+      "Thakur R"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39626587/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Saraswatarista"
+    },
+    {
      "pmid": "36603787",
      "doi": "10.1016/j.jep.2022.116080",
      "title": "Effects of two Ayurvedic formulations, Dhanwantaram Kashaya and Saraswatarishta on life history parameters and toxic aggregates in Drosophila models of Huntington's and Alzheimer's disease",
@@ -3896,40 +3930,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/25336844/",
      "source": "pubmed-formulation",
      "matchedOn": "Saraswatarishta"
-    },
-    {
-     "pmid": "39626587",
-     "doi": "10.1016/j.jaim.2024.101033",
-     "title": "Efficacy of ayurveda medications, Brahmi vati and Saraswatarista, in generalized anxiety disorder- a randomized controlled trial",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2024,
-     "authors": [
-      "Gonugade VB",
-      "Chate SS",
-      "Tubaki BR",
-      "Thakur R"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/39626587/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Saraswatarista"
-    },
-    {
-     "pmid": "40633355",
-     "doi": "10.1016/j.jaim.2025.101160",
-     "title": "Efficacy of Mamsyadi Ghana capsule and Saraswatarista in the management of Insomnia Disorder - A Randomized Controlled Clinical Trial",
-     "journal": "Journal of Ayurveda and integrative medicine",
-     "year": 2025,
-     "authors": [
-      "Manasa M",
-      "Padmashali A",
-      "Tubaki BR",
-      "Manisha"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/40633355/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Saraswatarista"
     }
    ]
   },
@@ -4003,6 +4003,22 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "33015709",
+     "doi": "10.1093/chromsci/bmaa070",
+     "title": "Quality Assessment of Sitopaladi Churna Using High-Performance Liquid Chromatography Coupled with Multivariate Analysis",
+     "journal": "Journal of chromatographic science",
+     "year": 2020,
+     "authors": [
+      "Patel ND",
+      "Prajapati PN",
+      "Kanaki NS"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33015709/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Sitopaladi Churna"
+    },
+    {
      "pmid": "24174826",
      "doi": "10.4103/0974-8490.118824",
      "title": "Mast cell stabilization potential of Sitopaladi churna: An ayurvedic formulation",
@@ -4030,22 +4046,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/23284216/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Sitopaladi Churna"
-    },
-    {
-     "pmid": "33015709",
-     "doi": "10.1093/chromsci/bmaa070",
-     "title": "Quality Assessment of Sitopaladi Churna Using High-Performance Liquid Chromatography Coupled with Multivariate Analysis",
-     "journal": "Journal of chromatographic science",
-     "year": 2020,
-     "authors": [
-      "Patel ND",
-      "Prajapati PN",
-      "Kanaki NS"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/33015709/",
      "source": "pubmed-formulation",
      "matchedOn": "Sitopaladi Churna"
     }
@@ -4156,6 +4156,23 @@
      "source": "recovered-claim"
     },
     {
+     "pmid": "35168075",
+     "doi": "10.1016/j.biopha.2022.112711",
+     "title": "Triphala churna ameliorates retinopathy in diabetic rats",
+     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+     "year": 2022,
+     "authors": [
+      "Suryavanshi SV",
+      "Barve K",
+      "Utpat SV",
+      "Kulkarni YA"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35168075/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Triphala Churna"
+    },
+    {
      "pmid": "34149415",
      "doi": "10.3389/fphar.2021.662000",
      "title": "Triphala Churna-A Traditional Formulation in Ayurveda Mitigates Diabetic Neuropathy in Rats",
@@ -4170,23 +4187,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/34149415/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Triphala Churna"
-    },
-    {
-     "pmid": "35168075",
-     "doi": "10.1016/j.biopha.2022.112711",
-     "title": "Triphala churna ameliorates retinopathy in diabetic rats",
-     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-     "year": 2022,
-     "authors": [
-      "Suryavanshi SV",
-      "Barve K",
-      "Utpat SV",
-      "Kulkarni YA"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35168075/",
      "source": "pubmed-formulation",
      "matchedOn": "Triphala Churna"
     },
@@ -4245,28 +4245,6 @@
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/39409084/",
      "source": "recovered-claim"
-    },
-    {
-     "pmid": "17762148",
-     "doi": "10.1007/s12038-007-0075-3",
-     "title": "Hyaluronidase and collagenase inhibitory activities of the herbal formulation Triphala guggulu",
-     "journal": "Journal of biosciences",
-     "year": 2007,
-     "authors": [
-      "Sumantran VN",
-      "Kulkarni AA",
-      "Harsulkar A",
-      "Wele A",
-      "Koppikar SJ",
-      "Chandwaskar R",
-      "Gaire V",
-      "Dalvi M",
-      "Wagh UV"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/17762148/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Triphala Guggulu"
     },
     {
      "pmid": "35813359",
@@ -4338,6 +4316,28 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22408301/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Triphala Guggulu"
+    },
+    {
+     "pmid": "17762148",
+     "doi": "10.1007/s12038-007-0075-3",
+     "title": "Hyaluronidase and collagenase inhibitory activities of the herbal formulation Triphala guggulu",
+     "journal": "Journal of biosciences",
+     "year": 2007,
+     "authors": [
+      "Sumantran VN",
+      "Kulkarni AA",
+      "Harsulkar A",
+      "Wele A",
+      "Koppikar SJ",
+      "Chandwaskar R",
+      "Gaire V",
+      "Dalvi M",
+      "Wagh UV"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17762148/",
      "source": "pubmed-formulation",
      "matchedOn": "Triphala Guggulu"
     }
@@ -4415,22 +4415,6 @@
      "source": "recovered-claim"
     },
     {
-     "pmid": "22557317",
-     "doi": "",
-     "title": "A Comparative Study of the effect of Vasa Avaleha prepared with Vasa Swarasa and Vasa Kwatha in Tamaka Shwasa",
-     "journal": "Ancient science of life",
-     "year": 2009,
-     "authors": [
-      "Gupta A",
-      "Prajapati PK",
-      "Choudhary AK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/22557317/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Vasa Avaleha"
-    },
-    {
      "pmid": "22131763",
      "doi": "10.4103/0974-8520.85736",
      "title": "A comparative study on efficacy of Bharangyadi Avaleha and Vasa Avaleha in the management of Tamaka Shwasa with reference to childhood asthma",
@@ -4443,6 +4427,22 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22131763/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Vasa Avaleha"
+    },
+    {
+     "pmid": "22557317",
+     "doi": "",
+     "title": "A Comparative Study of the effect of Vasa Avaleha prepared with Vasa Swarasa and Vasa Kwatha in Tamaka Shwasa",
+     "journal": "Ancient science of life",
+     "year": 2009,
+     "authors": [
+      "Gupta A",
+      "Prajapati PK",
+      "Choudhary AK"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22557317/",
      "source": "pubmed-formulation",
      "matchedOn": "Vasa Avaleha"
     }
@@ -23948,50 +23948,18 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "17999464",
-     "doi": "10.1021/mp700113r",
-     "title": "Bioavailability of curcumin: problems and promises",
-     "journal": "Molecular pharmaceutics",
-     "year": 2007,
+     "pmid": "35699160",
+     "doi": "10.1080/08982104.2022.2086567",
+     "title": "Recent updates in curcumin delivery",
+     "journal": "Journal of liposome research",
+     "year": 2023,
      "authors": [
-      "Anand P",
-      "Kunnumakkara AB",
-      "Newman RA",
-      "Aggarwal BB"
+      "Obeid MA",
+      "Alsaadi M",
+      "Aljabali AA"
      ],
      "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/17999464/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "29480523",
-     "doi": "10.1002/ptr.6054",
-     "title": "Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: Review",
-     "journal": "Phytotherapy research : PTR",
-     "year": 2018,
-     "authors": [
-      "Soleimani V",
-      "Sahebkar A",
-      "Hosseinzadeh H"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/29480523/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "24794906",
-     "doi": "10.1016/B978-0-12-800173-8.00003-9",
-     "title": "Curcumin",
-     "journal": "Profiles of drug substances, excipients, and related methodology",
-     "year": 2014,
-     "authors": [
-      "Lestari ML",
-      "Indrayanto G"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24794906/",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35699160/",
      "source": "pubmed-formulation",
      "matchedOn": "Curcumin"
     },
@@ -24013,6 +23981,159 @@
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/35889273/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "32067524",
+     "doi": "10.1080/14787210.2020.1730815",
+     "title": "Curcumin and curcumin-loaded nanoparticles: antipathogenic and antiparasitic activities",
+     "journal": "Expert review of anti-infective therapy",
+     "year": 2020,
+     "authors": [
+      "Rai M",
+      "Ingle AP",
+      "Pandit R",
+      "Paralikar P",
+      "Anasane N",
+      "Santos CAD"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32067524/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "31614630",
+     "doi": "10.3390/nu11102426",
+     "title": "Curcumin, Gut Microbiota, and Neuroprotection",
+     "journal": "Nutrients",
+     "year": 2019,
+     "authors": [
+      "Di Meo F",
+      "Margarucci S",
+      "Galderisi U",
+      "Crispi S",
+      "Peluso G"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31614630/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "30317632",
+     "doi": "10.1002/jcp.27615",
+     "title": "Therapeutic use of curcumin-encapsulated and curcumin-primed exosomes",
+     "journal": "Journal of cellular physiology",
+     "year": 2019,
+     "authors": [
+      "Oskouie MN",
+      "Aghili Moghaddam NS",
+      "Butler AE",
+      "Zamani P",
+      "Sahebkar A"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30317632/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "29480523",
+     "doi": "10.1002/ptr.6054",
+     "title": "Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: Review",
+     "journal": "Phytotherapy research : PTR",
+     "year": 2018,
+     "authors": [
+      "Soleimani V",
+      "Sahebkar A",
+      "Hosseinzadeh H"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29480523/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "28392463",
+     "doi": "10.1016/j.semcancer.2017.04.002",
+     "title": "The functional genomic studies of curcumin",
+     "journal": "Seminars in cancer biology",
+     "year": 2017,
+     "authors": [
+      "Huminiecki L",
+      "Horbańczuk J",
+      "Atanasov AG"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28392463/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "24794906",
+     "doi": "10.1016/B978-0-12-800173-8.00003-9",
+     "title": "Curcumin",
+     "journal": "Profiles of drug substances, excipients, and related methodology",
+     "year": 2014,
+     "authors": [
+      "Lestari ML",
+      "Indrayanto G"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24794906/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "23590716",
+     "doi": "10.2174/092986732102131206115810",
+     "title": "Curcumin and curcumin-like molecules: from spice to drugs",
+     "journal": "Current medicinal chemistry",
+     "year": 2014,
+     "authors": [
+      "Marchiani A",
+      "Rozzo C",
+      "Fadda A",
+      "Delogu G",
+      "Ruzza P"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23590716/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "17999464",
+     "doi": "10.1021/mp700113r",
+     "title": "Bioavailability of curcumin: problems and promises",
+     "journal": "Molecular pharmaceutics",
+     "year": 2007,
+     "authors": [
+      "Anand P",
+      "Kunnumakkara AB",
+      "Newman RA",
+      "Aggarwal BB"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17999464/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Curcumin"
+    },
+    {
+     "pmid": "17569220",
+     "doi": "10.1007/978-0-387-46401-5_16",
+     "title": "Cardioprotective effects of curcumin",
+     "journal": "Advances in experimental medicine and biology",
+     "year": 2007,
+     "authors": [
+      "Miriyala S",
+      "Panchatcharam M",
+      "Rengarajulu P"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17569220/",
      "source": "pubmed-formulation",
      "matchedOn": "Curcumin"
     },
@@ -24041,127 +24162,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/30119257/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "31614630",
-     "doi": "10.3390/nu11102426",
-     "title": "Curcumin, Gut Microbiota, and Neuroprotection",
-     "journal": "Nutrients",
-     "year": 2019,
-     "authors": [
-      "Di Meo F",
-      "Margarucci S",
-      "Galderisi U",
-      "Crispi S",
-      "Peluso G"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/31614630/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "35699160",
-     "doi": "10.1080/08982104.2022.2086567",
-     "title": "Recent updates in curcumin delivery",
-     "journal": "Journal of liposome research",
-     "year": 2023,
-     "authors": [
-      "Obeid MA",
-      "Alsaadi M",
-      "Aljabali AA"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35699160/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "32067524",
-     "doi": "10.1080/14787210.2020.1730815",
-     "title": "Curcumin and curcumin-loaded nanoparticles: antipathogenic and antiparasitic activities",
-     "journal": "Expert review of anti-infective therapy",
-     "year": 2020,
-     "authors": [
-      "Rai M",
-      "Ingle AP",
-      "Pandit R",
-      "Paralikar P",
-      "Anasane N",
-      "Santos CAD"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/32067524/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "23590716",
-     "doi": "10.2174/092986732102131206115810",
-     "title": "Curcumin and curcumin-like molecules: from spice to drugs",
-     "journal": "Current medicinal chemistry",
-     "year": 2014,
-     "authors": [
-      "Marchiani A",
-      "Rozzo C",
-      "Fadda A",
-      "Delogu G",
-      "Ruzza P"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23590716/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "17569220",
-     "doi": "10.1007/978-0-387-46401-5_16",
-     "title": "Cardioprotective effects of curcumin",
-     "journal": "Advances in experimental medicine and biology",
-     "year": 2007,
-     "authors": [
-      "Miriyala S",
-      "Panchatcharam M",
-      "Rengarajulu P"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/17569220/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "30317632",
-     "doi": "10.1002/jcp.27615",
-     "title": "Therapeutic use of curcumin-encapsulated and curcumin-primed exosomes",
-     "journal": "Journal of cellular physiology",
-     "year": 2019,
-     "authors": [
-      "Oskouie MN",
-      "Aghili Moghaddam NS",
-      "Butler AE",
-      "Zamani P",
-      "Sahebkar A"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/30317632/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Curcumin"
-    },
-    {
-     "pmid": "28392463",
-     "doi": "10.1016/j.semcancer.2017.04.002",
-     "title": "The functional genomic studies of curcumin",
-     "journal": "Seminars in cancer biology",
-     "year": 2017,
-     "authors": [
-      "Huminiecki L",
-      "Horbańczuk J",
-      "Atanasov AG"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/28392463/",
      "source": "pubmed-formulation",
      "matchedOn": "Curcumin"
     }
@@ -24887,6 +24887,23 @@
    "title": "Danti Moola",
    "binomial": "baliospermum solanifolium",
    "citations": [
+    {
+     "pmid": "42962935",
+     "title": "Baliospermum solanifolium (Burm.) Suresh (syn. B. montanum): A critical evidence audit of diterpenoid chemistry, pharmacology, safety and translational constraints",
+     "journal": "Fitoterapia",
+     "year": 2026,
+     "authors": [
+      "Alok S"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "doi": "10.1016/j.fitote.2026.107537",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42962935/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
     {
      "pmid": "41396965",
      "title": "Protective effect of antioxidant triterpenes of Baliospermum solanifolium (burm.) suresh leaf extract against peroxidative cellular toxicity",
@@ -31245,7 +31262,281 @@
   "herb/gavedhuka": {
    "title": "Gavedhuka",
    "binomial": "coix lacryma",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "41392849",
+     "title": "The Nutritional Composition, Functional Properties, and Food Application of Adlay (Coix lacryma-Jobi L.): A Comprehensive Review",
+     "journal": "Comprehensive reviews in food science and food safety",
+     "year": 2026,
+     "authors": [
+      "Wu-Chen RA",
+      "Liu X",
+      "Wang C",
+      "Wang C",
+      "Wu C",
+      "Han J",
+      "Li Y",
+      "Ni L"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1111/1541-4337.70358",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41392849/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "39791234",
+     "title": "Discovery, Characterization, and Anti-XOD Activity of Calcium Metallophore from Coix lacryma-jobi",
+     "journal": "Organic letters",
+     "year": 2025,
+     "authors": [
+      "Xue Y",
+      "Song D",
+      "Liu SR",
+      "Lei CW",
+      "Shi H",
+      "Zhou Y",
+      "Feng TT",
+      "Wei X"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1021/acs.orglett.4c04391",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39791234/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "41471332",
+     "title": "Coixol and Sinigrin from Coix lacryma-jobi L. and Raphanus sativus L. Promote Fat Browning in 3T3-L1 Adipocytes",
+     "journal": "Pharmaceuticals (Basel, Switzerland)",
+     "year": 2025,
+     "authors": [
+      "Choi SM",
+      "Lim SH",
+      "Lee HS",
+      "Choi G",
+      "Kim MJ",
+      "Kim H",
+      "Choi CI"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/ph18121843",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41471332/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "39147484",
+     "title": "In vitro digestion and fermentation characteristics of soluble dietary fiber from adlay (Coix lacryma-jobi L. var. ma-yuen Staft) bran modified by steam explosion",
+     "journal": "Food research international (Ottawa, Ont.)",
+     "year": 2024,
+     "authors": [
+      "Zhou S",
+      "Tang X",
+      "Hegyi F",
+      "Nagy A",
+      "Takács K",
+      "Zalán Z",
+      "Chen G",
+      "Du M"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/j.foodres.2024.114747",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39147484/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36214059",
+     "title": "Adlay (Coix lacryma-jobi L.) Polyphenol Improves Hepatic Glucose and Lipid Homeostasis through Regulating Intestinal Flora via AMPK Pathway",
+     "journal": "Molecular nutrition & food research",
+     "year": 2022,
+     "authors": [
+      "Ma S",
+      "Yang B",
+      "Shi Y",
+      "Du Y",
+      "Lv Y",
+      "Liu J",
+      "Liu E",
+      "Xu H",
+      "Deng L",
+      "Chen XY"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1002/mnfr.202200447",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36214059/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35889498",
+     "title": "Molecular Action Mechanism of Coixol from Soft-Shelled Adlay on Tyrosinase: The Future of Cosmetics",
+     "journal": "Molecules (Basel, Switzerland)",
+     "year": 2022,
+     "authors": [
+      "Lin LY",
+      "Liao YL",
+      "Chen MH",
+      "Chang SF",
+      "Chen KC",
+      "Peng RY"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/molecules27144626",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35889498/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "30486940",
+     "title": "Potent Anti-Proliferation on the Colon Cancer Cell Line (HT-29) of Liposomal Formulations Entrapped with Semi-Purified Job's Tears (Coix lacryma-jobi Linn.) Fractions",
+     "journal": "Journal of nanoscience and nanotechnology",
+     "year": 2019,
+     "authors": [
+      "Manosroi A",
+      "Sainakham M",
+      "Abe M",
+      "Sakai K",
+      "Sinchaipanid N",
+      "Manosroi W",
+      "Manosroi J"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1166/jnn.2019.15802",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30486940/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33490553",
+     "title": "The complete chloroplast genome sequence of Coix lacryma-jobi L. (Poaceae), a cereal and medicinal crop",
+     "journal": "Mitochondrial DNA. Part B, Resources",
+     "year": 2018,
+     "authors": [
+      "Kang SH",
+      "Lee HO",
+      "Shin MJ",
+      "Kim NH",
+      "Choi BS",
+      "Kumar M",
+      "Ali A",
+      "Lee SC",
+      "Kim CK"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/23802359.2018.1507653",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33490553/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "28278663",
+     "title": "Melanogenesis inhibitors from Coix lacryma-jobi seeds in B16-F10 melanoma cells",
+     "journal": "Natural product research",
+     "year": 2017,
+     "authors": [
+      "Amen Y",
+      "Arung ET",
+      "Afifi MS",
+      "Halim AF",
+      "Ashour A",
+      "Fujimoto R",
+      "Goto T",
+      "Shimizu K"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2017.1292270",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28278663/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "29234602",
+     "title": "Neutralization of Naja naja venom induced lethality, edema and myonecrosis by ethanolic root extract of Coix lacryma-jobi",
+     "journal": "Toxicology reports",
+     "year": 2017,
+     "authors": [
+      "Rajesh KS",
+      "Bharath BR",
+      "Rao CV",
+      "Bhat KI",
+      "Bhat KSC",
+      "Bhat P"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.toxrep.2017.11.005",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29234602/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "14724953",
+     "title": "Physical mapping of the 45S and 5S rDNA in Coix lacryma-jobi L",
+     "journal": "Shi yan sheng wu xue bao",
+     "year": 2003,
+     "authors": [
+      "Han YH",
+      "Qi CY",
+      "She CW",
+      "Liu LH",
+      "Song YC"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/14724953/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "3240519",
+     "title": "Isolation of ovulatory-active substances from crops of Job's tears (Coix lacryma-jobi L. var. ma-yuen STAPF.)",
+     "journal": "Chemical & pharmaceutical bulletin",
+     "year": 1988,
+     "authors": [
+      "Kondo Y",
+      "Nakajima K",
+      "Nozoe S",
+      "Suzuki S"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1248/cpb.36.3147",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/3240519/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/ghrita": {
    "title": "Ghrita",
@@ -44660,6 +44951,31 @@
     }
    ]
   },
+  "herb/kankshi": {
+   "title": "Kankshi",
+   "binomial": "",
+   "citations": [
+    {
+     "pmid": "35714881",
+     "doi": "10.1016/j.jep.2022.115463",
+     "title": "The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2022,
+     "authors": [
+      "Qian H",
+      "Wang L",
+      "Li Y",
+      "Wang B",
+      "Li C",
+      "Fang L",
+      "Tang L"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35714881/",
+     "source": "recovered-claim"
+    }
+   ]
+  },
   "herb/kanmad-bhasma": {
    "title": "Kanmad Bhasma",
    "binomial": "",
@@ -51194,6 +51510,288 @@
    "binomial": "",
    "citations": []
   },
+  "herb/kshavaka": {
+   "title": "Kshavaka",
+   "binomial": "centipeda minima",
+   "citations": [
+    {
+     "pmid": "41157091",
+     "title": "Centipeda minima: A Review of Phytochemistry, Pharmacology, and Predictive Analysis on Quality Markers",
+     "journal": "Molecules (Basel, Switzerland)",
+     "year": 2025,
+     "authors": [
+      "Shang Z",
+      "Wang Y",
+      "Zhu T",
+      "Niu W",
+      "Lu T",
+      "Lou R"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "doi": "10.3390/molecules30204072",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41157091/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35091011",
+     "title": "Centipeda minima: An update on its phytochemistry, pharmacology and safety",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2022,
+     "authors": [
+      "Tan J",
+      "Qiao Z",
+      "Meng M",
+      "Zhang F",
+      "Kwan HY",
+      "Zhong K",
+      "Yang C",
+      "Wang Y",
+      "Zhang M",
+      "Liu Z",
+      "Su T"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Review"
+     ],
+     "doi": "10.1016/j.jep.2022.115027",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35091011/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "38750533",
+     "title": "Correction: Centipeda minima active components and mechanisms in lung cancer",
+     "journal": "BMC complementary medicine and therapies",
+     "year": 2024,
+     "authors": [
+      "Gao C",
+      "Pan H",
+      "Ma F",
+      "Zhang Z",
+      "Zhao Z",
+      "Song J",
+      "Li W",
+      "Fan X"
+     ],
+     "pubtypes": [
+      "Published Erratum"
+     ],
+     "doi": "10.1186/s12906-024-04498-y",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38750533/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "39658430",
+     "title": "Retraction notice to \"Helenalin from Centipeda minima ameliorates acute hepatic injury by protecting mitochondria function, activating Nrf2 pathway and inhibiting NF-κB activation\" [Biomed. Pharmacother. 119 (2019) 109435]",
+     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+     "year": 2024,
+     "authors": [
+      "Li Y",
+      "Zeng Y",
+      "Huang Q",
+      "Wen S",
+      "Wei Y",
+      "Chen Y",
+      "Zhang X",
+      "Bai F",
+      "Lu Z",
+      "Wei J",
+      "Lin X"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Retraction Notice"
+     ],
+     "doi": "10.1016/j.biopha.2024.117697",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39658430/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36959600",
+     "title": "Centipeda minima active components and mechanisms in lung cancer",
+     "journal": "BMC complementary medicine and therapies",
+     "year": 2023,
+     "authors": [
+      "Gao C",
+      "Pan H",
+      "Ma F",
+      "Zhang Z",
+      "Zhao Z",
+      "Song J",
+      "Li W",
+      "Fan X"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1186/s12906-023-03915-y",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36959600/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36677882",
+     "title": "Chemical Composition, Antibacterial and Antioxidant Activities of Essential Oil from Centipeda minima",
+     "journal": "Molecules (Basel, Switzerland)",
+     "year": 2023,
+     "authors": [
+      "Su F",
+      "Yang G",
+      "Hu D",
+      "Ruan C",
+      "Wang J",
+      "Zhang Y",
+      "Zhu Q"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/molecules28020824",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36677882/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35141416",
+     "title": "The complete chloroplast genome sequence of medicinal plant Centipeda minima (Compositae)",
+     "journal": "Mitochondrial DNA. Part B, Resources",
+     "year": 2022,
+     "authors": [
+      "Ouyang X",
+      "Chen A",
+      "Mao Y",
+      "Zhang K",
+      "Gui P",
+      "Yang Y",
+      "Zuo L"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/23802359.2022.2032437",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35141416/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33533247",
+     "title": "Cytotoxic and Anti-Inflammatory Sesquiterpenes from the Whole Plants of Centipeda minima",
+     "journal": "Journal of natural products",
+     "year": 2021,
+     "authors": [
+      "Xue PH",
+      "Zhang N",
+      "Liu D",
+      "Zhang QR",
+      "Duan JS",
+      "Yu YQ",
+      "Li JY",
+      "Cao SJ",
+      "Zhao F",
+      "Kang N",
+      "Qiu F"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1021/acs.jnatprod.0c00884",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33533247/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "32640706",
+     "title": "Bioassay-Guided Separation of Centipeda minima Using Comprehensive Linear Gradient Centrifugal Partition Chromatography",
+     "journal": "Molecules (Basel, Switzerland)",
+     "year": 2020,
+     "authors": [
+      "Kim JH",
+      "Jung EJ",
+      "Lee YJ",
+      "Gao EM",
+      "Syed AS",
+      "Kim CY"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/molecules25133077",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32640706/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "27396185",
+     "title": "Anti-angiogenic Activity and Mechanism of Sesquiterpene Lactones from Centipeda minima",
+     "journal": "Natural product communications",
+     "year": 2016,
+     "authors": [
+      "Huang W",
+      "Yu X",
+      "Liang N",
+      "Ge W",
+      "Kwok HF",
+      "Lau CB",
+      "Li Y",
+      "Chung HY"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27396185/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "19465104",
+     "doi": "10.1016/j.jep.2009.05.010",
+     "title": "Hepatoprotective and antioxidant activity of Amaranthus spinosus against CCl4 induced toxicity",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2009,
+     "authors": [
+      "Zeashan H",
+      "Amresh G",
+      "Singh S",
+      "Rao CV"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19465104/",
+     "source": "recovered-claim"
+    },
+    {
+     "pmid": "20183316",
+     "title": "Two new terpene glucosides and antitumor agents from Centipeda minima",
+     "journal": "Journal of Asian natural products research",
+     "year": 2009,
+     "authors": [
+      "Ding LF",
+      "Liu Y",
+      "Liang HX",
+      "Liu DP",
+      "Zhou GB",
+      "Cheng YX"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1080/10286020903029231",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20183316/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
+  },
   "herb/ksheera": {
    "title": "Ksheera",
    "binomial": "",
@@ -53825,7 +54423,268 @@
   "herb/latakaranja": {
    "title": "Latakaranja",
    "binomial": "caesalpinia bonduc",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "38280683",
+     "title": "New cassane-type alkaloids and diterpenoids from the pericarps of Caesalpinia bonduc",
+     "journal": "Fitoterapia",
+     "year": 2024,
+     "authors": [
+      "Yan SJ",
+      "Huang SY",
+      "Xing JS",
+      "Cai YR",
+      "Ruan YP",
+      "Zhang PP"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.fitote.2024.105834",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38280683/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33663272",
+     "title": "Two new cassane-type diterpenoids from the seed kernels of Caesalpinia bonduc (Linn.) Roxb. and their anti-inflammatory activity",
+     "journal": "Natural product research",
+     "year": 2022,
+     "authors": [
+      "Liu T",
+      "Li X",
+      "Ning Z",
+      "Qi S",
+      "Gao H"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2021.1896511",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33663272/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35815214",
+     "title": "Caesalpinbondin A, a Novel Diterpenoid Lactone With an Unprecedented Carbon Skeleton from the Seeds of Caesalpinia bonduc",
+     "journal": "Frontiers in chemistry",
+     "year": 2022,
+     "authors": [
+      "Fei DQ",
+      "Li HH",
+      "Chen XH",
+      "Cui WB",
+      "Zhang ZP",
+      "Zhan XQ",
+      "Wang MJ",
+      "Qi FM",
+      "Zhang ZX",
+      "Li EW"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3389/fchem.2022.911543",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35815214/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34656025",
+     "title": "Cassane diterpenoids from the seeds of Caesalpinia bonduc and their nitric oxide production and α-glucosidase inhibitory activities",
+     "journal": "Phytochemistry",
+     "year": 2022,
+     "authors": [
+      "Tu WC",
+      "Ding LF",
+      "Peng LY",
+      "Song LD",
+      "Wu XD",
+      "Zhao QS"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.phytochem.2021.112973",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34656025/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35743309",
+     "title": "Diterpenoid Caesalmin C Delays Aβ-Induced Paralysis Symptoms via the DAF-16 Pathway in Caenorhabditis elegans",
+     "journal": "International journal of molecular sciences",
+     "year": 2022,
+     "authors": [
+      "Zhang ZP",
+      "Bai X",
+      "Cui WB",
+      "Chen XH",
+      "Liu X",
+      "Zhi DJ",
+      "Zhang ZX",
+      "Fei DQ",
+      "Wang DS"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/ijms23126871",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35743309/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34184408",
+     "title": "Cassane-Type Diterpenoids from the Seeds of Caesalpinia bonduc (L.) Roxb",
+     "journal": "Chemistry & biodiversity",
+     "year": 2021,
+     "authors": [
+      "Cao J",
+      "Xu Y",
+      "Lou R",
+      "Shi W",
+      "Chen J",
+      "Gan L",
+      "Lu J",
+      "Lin L"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1002/cbdv.202100309",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34184408/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35480829",
+     "title": "Acid-catalyzed transformation of cassane diterpenoids from Caesalpinia bonduc to aromatic derivatives",
+     "journal": "RSC advances",
+     "year": 2021,
+     "authors": [
+      "Liu T",
+      "Ning Z",
+      "Yin Y",
+      "Qi S",
+      "Gao H"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1039/d1ra03636j",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35480829/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31962203",
+     "title": "New cassane-type diterpenoids from kernels of Caesalpinia bonduc (Linn.) Roxb. and their inhibitory activities on phosphodiesterase (PDE) and nuclear factor-kappa B (NF-κB) expression",
+     "journal": "Bioorganic chemistry",
+     "year": 2020,
+     "authors": [
+      "Liu T",
+      "Wang M",
+      "Qi S",
+      "Shen X",
+      "Wang Y",
+      "Jing W",
+      "Yang Y",
+      "Li X",
+      "Gao H"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/j.bioorg.2020.103573",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31962203/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "28502855",
+     "title": "Caesalpinia bonduc serine proteinase inhibitor CbTI-2: Exploring the conformational features and antimalarial activity",
+     "journal": "International journal of biological macromolecules",
+     "year": 2017,
+     "authors": [
+      "Bhattacharyya A",
+      "Babu CR"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.ijbiomac.2017.05.044",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28502855/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "23986976",
+     "title": "Direct and indirect method of plant regeneration from root explants of Caesalpinia bonduc (L.) Roxb.--a threatened medicinal plant of Western Ghats",
+     "journal": "Indian journal of experimental biology",
+     "year": 2012,
+     "authors": [
+      "Kumar SR",
+      "Krishna V",
+      "Venkatesh",
+      "Pradeepa K",
+      "Kumar KG",
+      "Gnanesh AU"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23986976/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "19429358",
+     "title": "In vitro and in vivo antimicrobial activities of seeds of Caesalpinia bonduc (Lin.) Roxb",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2009,
+     "authors": [
+      "Arif T",
+      "Mandal TK",
+      "Kumar N",
+      "Bhosale JD",
+      "Hole A",
+      "Sharma GL",
+      "Padhi MM",
+      "Lavekar GS",
+      "Dabur R"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jep.2009.02.040",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19429358/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "11507739",
+     "title": "Antimicrobial activity of seed extracts and bondenolide from Caesalpinia bonduc (L.) Roxb",
+     "journal": "Phytotherapy research : PTR",
+     "year": 2001,
+     "authors": [
+      "Simin K",
+      "Khaliq-Uz-Zaman SM",
+      "Ahmad VU"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1002/ptr.756",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11507739/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/laung": {
    "title": "Laung",
@@ -55480,6 +56339,38 @@
    "binomial": "",
    "citations": [
     {
+     "pmid": "21455457",
+     "doi": "10.4103/0974-7788.76793",
+     "title": "Role of honey (Madhu) in the management of wounds (Dushta Vrana)",
+     "journal": "International journal of Ayurveda research",
+     "year": 2010,
+     "authors": [
+      "Dudhamal TS",
+      "Gupta SK",
+      "Bhuyan C"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21455457/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Madhu"
+    },
+    {
+     "pmid": "35370378",
+     "doi": "10.4103/ayu.AYU_274_20",
+     "title": "Role of Laksha Churna and Madhu Pratisarana after ultrasonic scaling in the management of Dantasharkara (dental calculus): An open-label, standard controlled randomized clinical trial",
+     "journal": "Ayu",
+     "year": 2020,
+     "authors": [
+      "Kathad D",
+      "Shukla HN",
+      "Goyal M"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35370378/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Madhu"
+    },
+    {
      "pmid": "29491671",
      "doi": "10.4103/ayu.AYU_91_14",
      "title": "Evaluation of the effect of Kanchnara Guggulu and Tankana-Madhu Pratisarana in the management of Tundikeri (tonsillitis) in children",
@@ -55513,22 +56404,6 @@
      "matchedOn": "Madhu"
     },
     {
-     "pmid": "35370378",
-     "doi": "10.4103/ayu.AYU_274_20",
-     "title": "Role of Laksha Churna and Madhu Pratisarana after ultrasonic scaling in the management of Dantasharkara (dental calculus): An open-label, standard controlled randomized clinical trial",
-     "journal": "Ayu",
-     "year": 2020,
-     "authors": [
-      "Kathad D",
-      "Shukla HN",
-      "Goyal M"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/35370378/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Madhu"
-    },
-    {
      "pmid": "22529652",
      "doi": "10.4103/0974-8520.93916",
      "title": "Effect of rasanjana madhu ashchyotana in netra abhishyanda (mucopurulent conjunctivitis)",
@@ -55540,22 +56415,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/22529652/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Madhu"
-    },
-    {
-     "pmid": "21455457",
-     "doi": "10.4103/0974-7788.76793",
-     "title": "Role of honey (Madhu) in the management of wounds (Dushta Vrana)",
-     "journal": "International journal of Ayurveda research",
-     "year": 2010,
-     "authors": [
-      "Dudhamal TS",
-      "Gupta SK",
-      "Bhuyan C"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/21455457/",
      "source": "pubmed-formulation",
      "matchedOn": "Madhu"
     }
@@ -59134,20 +59993,6 @@
      "matchedOn": "Menthol"
     },
     {
-     "pmid": "7529306",
-     "doi": "10.1111/j.2042-7158.1994.tb03871.x",
-     "title": "Menthol and related cooling compounds",
-     "journal": "The Journal of pharmacy and pharmacology",
-     "year": 1994,
-     "authors": [
-      "Eccles R"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/7529306/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Menthol"
-    },
-    {
      "pmid": "28769802",
      "doi": "10.3389/fphar.2017.00472",
      "title": "Cellular and Molecular Targets of Menthol Actions",
@@ -59162,6 +60007,20 @@
      ],
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/28769802/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Menthol"
+    },
+    {
+     "pmid": "7529306",
+     "doi": "10.1111/j.2042-7158.1994.tb03871.x",
+     "title": "Menthol and related cooling compounds",
+     "journal": "The Journal of pharmacy and pharmacology",
+     "year": 1994,
+     "authors": [
+      "Eccles R"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/7529306/",
      "source": "pubmed-formulation",
      "matchedOn": "Menthol"
     }
@@ -65784,7 +66643,247 @@
   "herb/paribhadra": {
    "title": "Paribhadra",
    "binomial": "erythrina variegata",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "36586624",
+     "title": "Dimeric alkaloids from the barks of Erythrina variegata as well as their occurrence",
+     "journal": "Fitoterapia",
+     "year": 2023,
+     "authors": [
+      "Tang YT",
+      "Si ZR",
+      "Bao MF",
+      "Cai XH"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.fitote.2022.105408",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36586624/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35292327",
+     "title": "Dimeric Erythrina alkaloids as well as their key units from Erythrina variegata",
+     "journal": "Phytochemistry",
+     "year": 2022,
+     "authors": [
+      "Tang YT",
+      "Wu J",
+      "Bao MF",
+      "Tan QG",
+      "Cai XH"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.phytochem.2022.113160",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35292327/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34546728",
+     "title": "Colored Dimeric Alkaloids from the Barks of Erythrina variegata and Their Neuroprotective Effects",
+     "journal": "The Journal of organic chemistry",
+     "year": 2021,
+     "authors": [
+      "Tang YT",
+      "Wu J",
+      "Yu Y",
+      "Bao MF",
+      "Tan QG",
+      "Schinnerl J",
+      "Cai XH"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1021/acs.joc.1c01489",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34546728/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "32130690",
+     "title": "Artificial Erythrina Alkaloids from Three Erythrina Plants, E. variegata, E. crista-galli and E. arborescens",
+     "journal": "Natural products and bioprospecting",
+     "year": 2020,
+     "authors": [
+      "Zhang BJ",
+      "Wu J",
+      "Bao MF",
+      "Wang F",
+      "Cai XH"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s13659-020-00235-3",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32130690/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31600560",
+     "title": "Anti-depressant activity of Erythrina variegata bark extract and regulation of monoamine oxidase activities in mice",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2020,
+     "authors": [
+      "Martins J",
+      "Brijesh S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jep.2019.112280",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31600560/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "25489172",
+     "title": "Molecular docking and analgesic studies of Erythrina variegata׳s derived phytochemicals with COX enzymes",
+     "journal": "Bioinformation",
+     "year": 2014,
+     "authors": [
+      "Uddin MM",
+      "Emran TB",
+      "Mahib MM",
+      "Dash R"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.6026/97320630010630",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25489172/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "22025860",
+     "title": "Effect of Erythrina variegata on experimental atherosclerosis in guinea pigs",
+     "journal": "Journal of pharmacology & pharmacotherapeutics",
+     "year": 2011,
+     "authors": [
+      "Kalachaveedu M",
+      "Kuruvilla S",
+      "Balakrishna K"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.4103/0976-500X.85950",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22025860/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "21404431",
+     "title": "Three new constituents from the roots of Erythrina variegata and their antibacterial activity against methicillin-resistant Staphylococcus aureus",
+     "journal": "Chemistry & biodiversity",
+     "year": 2011,
+     "authors": [
+      "Tanaka H",
+      "Atsumi I",
+      "Shirota O",
+      "Sekita S",
+      "Sakai E",
+      "Sato M",
+      "Murata J",
+      "Murata H",
+      "Darnaedi D",
+      "Chen IS"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1002/cbdv.201000068",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21404431/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "12834009",
+     "title": "Antibacterial property of isoflavonoids isolated from Erythrina variegata against cariogenic oral bacteria",
+     "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+     "year": 2003,
+     "authors": [
+      "Sato M",
+      "Tanaka H",
+      "Fujiwara S",
+      "Hirata M",
+      "Yamaguchi R",
+      "Etoh H",
+      "Tokuda C"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1078/0944-7113-00225",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12834009/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "9692201",
+     "title": "Cytotoxicity induced by Erythrina variegata serine proteinase inhibitors in tumor hematopoietic stem cell lines",
+     "journal": "Bioscience, biotechnology, and biochemistry",
+     "year": 1998,
+     "authors": [
+      "Ohba H",
+      "Nishikawa M",
+      "Kimura M",
+      "Yamasaki N",
+      "Moriwaki S",
+      "Itoh K"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1271/bbb.62.1166",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/9692201/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "7325983",
+     "title": "Identification, isolation and some properties of lectin from the seeds of Indian coral tree [Erythrina variegata (Linn.) var. orientalis (Linn.) Merrill]",
+     "journal": "The Biochemical journal",
+     "year": 1981,
+     "authors": [
+      "Datta TK",
+      "Basu PS"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1042/bj1970751",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/7325983/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "5050377",
+     "title": "Erythrina--chemical and pharmacological evaluation II: alkaloids of Erythrina variegata L",
+     "journal": "Journal of pharmaceutical sciences",
+     "year": 1972,
+     "authors": [
+      "Ghosal S",
+      "Dutta SK",
+      "Bhattacharya SK"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1002/jps.2600610821",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/5050377/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/parijata": {
    "title": "Parijata",
@@ -66295,7 +67394,241 @@
   "herb/parpataka": {
    "title": "Parpataka",
    "binomial": "fumaria parviflora",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "40743904",
+     "title": "Multifaceted evaluation of Fumaria parviflora: from bioactive isolation to anticancer screening and computational drug design",
+     "journal": "Natural product research",
+     "year": 2026,
+     "authors": [
+      "Singadi R",
+      "Koli R",
+      "Kagawad P",
+      "Maste MM"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2025.2538095",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40743904/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "37935736",
+     "title": "Publisher Correction: Physiological and biochemical mechanisms of grain yield loss in fumitory (Fumaria parviflora Lam.) exposed to copper and drought stress",
+     "journal": "Scientific reports",
+     "year": 2023,
+     "authors": [
+      "Tashakorizadeh M",
+      "Golkar P",
+      "Vahabi MR",
+      "Ghorbanpour M"
+     ],
+     "pubtypes": [
+      "Published Erratum"
+     ],
+     "doi": "10.1038/s41598-023-46587-x",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37935736/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33823691",
+     "title": "Production of isoquinoline alkaloids from the in vitro conserved Fumaria parviflora and their in vitro wound healing activity",
+     "journal": "Natural product research",
+     "year": 2022,
+     "authors": [
+      "Elsaid MB",
+      "Elnaggar DM",
+      "Owis AI",
+      "AbouZid SF",
+      "Eldahmy S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2021.1904401",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33823691/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35753722",
+     "title": "The effect of Fumaria parviflora on the expression of sexual hormones along with their receptors in testicles of adult rats induced by varicocele",
+     "journal": "Andrologia",
+     "year": 2022,
+     "authors": [
+      "Dolatkhah MA",
+      "Khezri S",
+      "Shokoohi M",
+      "Alihemmati A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1111/and.14512",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35753722/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "32991040",
+     "title": "Fumaria parviflora regulates oxidative stress and apoptosis gene expression in the rat model of varicocele induction",
+     "journal": "Andrologia",
+     "year": 2020,
+     "authors": [
+      "Dolatkhah MA",
+      "Shokoohi M",
+      "Charvandeh S",
+      "Tvrda E",
+      "Shoorei H",
+      "Moghimian M",
+      "Alihemmati A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1111/and.13826",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32991040/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "28265545",
+     "title": "Anti-inflammatory effect of Fumaria parviflora leaves based on TNF-α, IL-1, IL-6 and antioxidant potential",
+     "journal": "Avicenna journal of phytomedicine",
+     "year": 2017,
+     "authors": [
+      "Rizvi W",
+      "Fayazuddin M",
+      "Singh O",
+      "Syed SN",
+      "Moin S",
+      "Akhtar K",
+      "Kumar A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28265545/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "23611729",
+     "title": "Protective effects of Fumaria parviflora L. on lead-induced testicular toxicity in male rats",
+     "journal": "Andrologia",
+     "year": 2014,
+     "authors": [
+      "Dorostghoal M",
+      "Seyyednejad SM",
+      "Jabari A"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1111/and.12100",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23611729/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "22405321",
+     "title": "Species and tissue-specificity of prokinetic, laxative and spasmodic effects of Fumaria parviflora",
+     "journal": "BMC complementary and alternative medicine",
+     "year": 2012,
+     "authors": [
+      "Najeeb-ur-Rehman",
+      "Mehmood MH",
+      "Al-Rehaily AJ",
+      "Mothana RA",
+      "Gilani AH"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1186/1472-6882-12-16",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22405321/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "22514883",
+     "title": "A comparison of Fumaria parviflora Lam. and Momordica balsamina Linn. hepatoprotection",
+     "journal": "Pakistan journal of biological sciences : PJBS",
+     "year": 2011,
+     "authors": [
+      "Ozaslan M"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3923/pjbs.2011.1034.1035",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22514883/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "3215975",
+     "title": "Determination of alkaloids of Fumaria parviflora and Fumaria capreolata by high-performance liquid chromatography and capillary isotachophoresis",
+     "journal": "Journal of chromatography",
+     "year": 1988,
+     "authors": [
+      "Válka I",
+      "Simánek V"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/s0021-9673(01)84530-1",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/3215975/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "17340523",
+     "title": "Separation and Quantification of Some Alkaloids from Fumaria parviflora by Capillary Isotachophoresis1",
+     "journal": "Planta medica",
+     "year": 1985,
+     "authors": [
+      "Válka I",
+      "Walterová D",
+      "Popova ME",
+      "Preininger V",
+      "Simánek V"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1055/s-2007-969501",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17340523/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "6473545",
+     "title": "Effects of Euphorbia prostrata and Fumaria parviflora in normoglycaemic and alloxan-treated hyperglycaemic rabbits",
+     "journal": "Planta medica",
+     "year": 1984,
+     "authors": [
+      "Akhtar MS",
+      "Khan QM",
+      "Khaliq T"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1055/s-2007-969653",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/6473545/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/pashanabheda": {
    "title": "Pashanabheda",
@@ -66684,6 +68017,224 @@
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/24997389/",
      "source": "companion-db"
+    },
+    {
+     "pmid": "17240096",
+     "title": "Antinociceptive and antiarthritic activity of Cissampelos pareira roots",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2007,
+     "authors": [
+      "Amresh G",
+      "Singh PN",
+      "Rao ChV"
+     ],
+     "pubtypes": [
+      "Comparative Study",
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jep.2006.12.026",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17240096/",
+     "tier": "C",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "38753976",
+     "title": "GC-MS profiling and biological investigations of Cissampelos pareira L. & Lantana camara L",
+     "journal": "Natural product research",
+     "year": 2025,
+     "authors": [
+      "Wasim M",
+      "Rafey HA",
+      "Sarwar S",
+      "Nadeem H",
+      "Ross SA",
+      "Shaheen F"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2024.2348682",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38753976/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36518143",
+     "title": "Molecular docking analysis of bioactive compounds from Cissampelos pareira with PPAR gamma",
+     "journal": "Bioinformation",
+     "year": 2022,
+     "authors": [
+      "Vidhya Rekha U",
+      "Rajagopal P",
+      "Varadhachariyar R",
+      "Harie Priya P",
+      "Shazia Fathima JH",
+      "Govindan R",
+      "Palanisamy C",
+      "Aswini Brindha KB",
+      "Veeraraghavan VP",
+      "Jayaraman S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.6026/97320630018265",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36518143/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35163898",
+     "title": "Insecticidal Activity of Extracts, Fractions, and Pure Molecules of Cissampelos pareira Linnaeus against Aphid, Aphis craccivora Koch",
+     "journal": "Molecules (Basel, Switzerland)",
+     "year": 2022,
+     "authors": [
+      "Kumari S",
+      "Dolma SK",
+      "Anmol",
+      "Sharma U",
+      "Reddy SGE"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.3390/molecules27030633",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35163898/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34635729",
+     "title": "Transcriptome analysis and connectivity mapping of Cissampelos pareira L. provides molecular links of ESR1 modulation to viral inhibition",
+     "journal": "Scientific reports",
+     "year": 2021,
+     "authors": [
+      "Haider M",
+      "Dholakia D",
+      "Panwar A",
+      "Garg P",
+      "Gheware A",
+      "Singh D",
+      "Singhal K",
+      "Burse SA",
+      "Kumari S",
+      "Sharma A",
+      "Ray A",
+      "Medigeshi GR",
+      "Sharma U",
+      "Prasher B",
+      "Mukerji M"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1038/s41598-021-99444-0",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34635729/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31135214",
+     "title": "A new pyrrole alkaloid from the roots of Cissampelos pareira",
+     "journal": "Natural product research",
+     "year": 2021,
+     "authors": [
+      "Rukachaisirikul T",
+      "Kumjun S",
+      "Suebsakwong P",
+      "Apiratikul N",
+      "Suksamrarn A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/14786419.2019.1614576",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31135214/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "35574507",
+     "title": "Molecular docking analysis of glycogen phosphorylase with inhibitors from Cissampelos pareira Linn",
+     "journal": "Bioinformation",
+     "year": 2021,
+     "authors": [
+      "Chandrashekar K",
+      "Rajagopal P",
+      "Jh SF",
+      "Radhakrishnan S",
+      "Krishnan Muthaiah VP",
+      "Sontakke BR",
+      "Deshmukh VR",
+      "Periyasamy V",
+      "Muthiyan GG",
+      "Tarnekar AM",
+      "Gugapriya TS",
+      "Laxman PA",
+      "Tripathi SC",
+      "Jayaraman S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.6026/97320630017866",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35574507/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33964866",
+     "title": "Anti-depressant, Anxiolytic, and the Muscle Relaxant Activity of Hydroalcoholic Extract of Cissampelos pareira Linn. Leaves",
+     "journal": "Central nervous system agents in medicinal chemistry",
+     "year": 2021,
+     "authors": [
+      "Asif M",
+      "Dwivedi J",
+      "Yadav S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.2174/1871524921666210505101704",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33964866/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "26709822",
+     "title": "Cissampelos pareira Linn: Natural Source of Potent Antiviral Activity against All Four Dengue Virus Serotypes",
+     "journal": "PLoS neglected tropical diseases",
+     "year": 2015,
+     "authors": [
+      "Sood R",
+      "Raut R",
+      "Tyagi P",
+      "Pareek PK",
+      "Barman TK",
+      "Singhal S",
+      "Shirumalla RK",
+      "Kanoje V",
+      "Subbarayan R",
+      "Rajerethinam R",
+      "Sharma N",
+      "Kanaujia A",
+      "Shukla G",
+      "Gupta YK",
+      "Katiyar CK",
+      "Bhatnagar PK",
+      "Upadhyay DJ",
+      "Swaminathan S",
+      "Khanna N"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1371/journal.pntd.0004255",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26709822/",
+     "tier": "D",
+     "source": "pubmed-live"
     }
    ]
   },
@@ -72138,6 +73689,22 @@
      "tier": "A",
      "url": "https://pubmed.ncbi.nlm.nih.gov/38289898/",
      "source": "companion-db"
+    },
+    {
+     "pmid": "31049430",
+     "doi": "10.1016/j.heliyon.2019.e01518",
+     "title": "Development and validation of eco-friendly micellar-HPLC and HPTLC-densitometry methods for the simultaneous determination of paritaprevir, ritonavir and ombitasvir in pharmaceutical dosage forms",
+     "journal": "Heliyon",
+     "year": 2019,
+     "authors": [
+      "Ibrahim AE",
+      "Saraya RE",
+      "Saleh H",
+      "Elhenawee M"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31049430/",
+     "source": "recovered-claim"
     }
    ]
   },
@@ -76200,7 +77767,257 @@
   "herb/shana": {
    "title": "Shana",
    "binomial": "crotalaria juncea",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "36448248",
+     "title": "Cadmium-resistant Streptomyces stimulates phytoextraction potential of Crotalaria juncea L. in cadmium-polluted soil",
+     "journal": "International journal of phytoremediation",
+     "year": 2023,
+     "authors": [
+      "Thooppeng P",
+      "Junpradit C",
+      "Rongsayamanont W",
+      "Duangmal K",
+      "Prapagdee B"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/15226514.2022.2152424",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36448248/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "37102725",
+     "title": "Molecular and Biological Characterization of a Novel Tobamovirus Infecting Sunn Hemp (Crotalaria juncea) in Hawaii",
+     "journal": "Plant disease",
+     "year": 2023,
+     "authors": [
+      "Kong AT",
+      "Olmedo-Velarde A",
+      "Borth W",
+      "Wang KH",
+      "Hu JS",
+      "Melzer MJ"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1094/PDIS-09-22-2148-RE",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37102725/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36457365",
+     "title": "Host Status of Cover Crops for the Management of Pratylenchus Jaehni on Coffee",
+     "journal": "Journal of nematology",
+     "year": 2022,
+     "authors": [
+      "Bessi R",
+      "Massayuki Inomoto M"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.2478/jofnem-2022-0052",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36457365/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "31724078",
+     "title": "Limited Diclosulam Herbicide Uptake and Translocation-Induced Tolerance in Crotalaria juncea",
+     "journal": "Bulletin of environmental contamination and toxicology",
+     "year": 2020,
+     "authors": [
+      "de Souza CDCB",
+      "Borella J",
+      "Leal JFL",
+      "Tornisielo VL",
+      "Pimpinato RF",
+      "Monquero PA",
+      "de Pinho CF"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s00128-019-02742-7",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31724078/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "30753472",
+     "title": "Documenting Potential Sunn Hemp (Crotalaria juncea L.) (Fabaceae) Pollinators in Florida",
+     "journal": "Environmental entomology",
+     "year": 2019,
+     "authors": [
+      "Meagher RL",
+      "Watrous KM",
+      "Fleischer SJ",
+      "Nagoshi RN",
+      "Brown JT",
+      "Bowers K",
+      "Miller N",
+      "Hight SD",
+      "Legaspi JC",
+      "Westbrook JK"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+     ],
+     "doi": "10.1093/ee/nvy190",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30753472/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "29339280",
+     "title": "Simultaneous degumming and production of a natural gum from Crotalaria juncea seeds: Physicochemical and rheological characterization",
+     "journal": "International journal of biological macromolecules",
+     "year": 2018,
+     "authors": [
+      "Sadhukhan S",
+      "Bhattacharjee A",
+      "Sarkar U",
+      "Baidya PK",
+      "Baksi S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.ijbiomac.2017.12.146",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29339280/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "25026645",
+     "title": "Effects of green manure cover crops on Spodoptera litura (Lepidoptera: Noctuidae) populations",
+     "journal": "Journal of economic entomology",
+     "year": 2014,
+     "authors": [
+      "Tuan SJ",
+      "Li NJ",
+      "Yeh CC",
+      "Tang LC",
+      "Chi H"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1603/ec13435",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25026645/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "25088294",
+     "title": "Purification and biochemical characterization of an alkaline pectin lyase from Fusarium decemcellulare MTCC 2079 suitable for Crotalaria juncea fiber retting",
+     "journal": "Journal of basic microbiology",
+     "year": 2014,
+     "authors": [
+      "Yadav S",
+      "Dubey AK",
+      "Anand G",
+      "Kumar R",
+      "Yadav D"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1002/jobm.201300281",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25088294/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "24035223",
+     "title": "Antidyslipidemic and antioxidant activity of an unusual amino acid (2-amino-5-hydroxyhexanoic acid) isolated from the seeds of Crotalaria juncea",
+     "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+     "year": 2013,
+     "authors": [
+      "Prasad J",
+      "Singh VK",
+      "Shrivastava A",
+      "Chaturvedi U",
+      "Bhatia G",
+      "Arya KR",
+      "Awasthi SK",
+      "Narender T"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/j.phymed.2013.08.004",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24035223/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "24455866",
+     "title": "Purification and characterization of pectin lyase secreted by Aspergillus flavus MTCC 10938",
+     "journal": "Prikladnaia biokhimiia i mikrobiologiia",
+     "year": 2013,
+     "authors": [
+      "Yadav S",
+      "Dubey AK",
+      "Anand G",
+      "Yadav D"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.7868/s0555109913040156",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24455866/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "6262351",
+     "title": "Bovine viral diarrhea virus: affinity chromatography on Crotalaria juncea lectin",
+     "journal": "Journal of virological methods",
+     "year": 1981,
+     "authors": [
+      "Moreno-Lopez J",
+      "Kristiansen T",
+      "Kårsnas P"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/0166-0934(81)90028-8",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/6262351/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "4719153",
+     "title": "The phytohemagglutinin from sunn hemp seeds (Crotalaria juncea). Purification by biospecific affinity chromatography",
+     "journal": "Biochimica et biophysica acta",
+     "year": 1973,
+     "authors": [
+      "Ersson B",
+      "Aspberg K",
+      "Porath J"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/0005-2795(73)90128-1",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/4719153/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/shankha-bhasma": {
    "title": "Shankha Bhasma",
@@ -77421,6 +79238,22 @@
      "tier": "C",
      "url": "https://pubmed.ncbi.nlm.nih.gov/33689806/",
      "source": "companion-db"
+    },
+    {
+     "pmid": "41710148",
+     "doi": "10.2147/IJWH.S561213",
+     "title": "Effects of Shatavari (Asparagus racemosus) Root Extract on Sexual Wellness in Women: Findings from a Prospective, Randomized, Double-Blind, Three-Arm, Parallel-Group, Placebo-Controlled Study",
+     "journal": "International journal of women's health",
+     "year": 2026,
+     "authors": [
+      "Ademola J",
+      "Mahajan S",
+      "Srivathsan M",
+      "Langade D"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41710148/",
+     "source": "recovered-claim"
     }
    ]
   },
@@ -83741,26 +85574,6 @@
    "binomial": "",
    "citations": [
     {
-     "pmid": "24690772",
-     "doi": "10.1016/j.jep.2014.03.023",
-     "title": "Cytochrome P450 inhibitory potential and RP-HPLC standardization of trikatu--a Rasayana from Indian Ayurveda",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2014,
-     "authors": [
-      "Harwansh RK",
-      "Mukherjee K",
-      "Bhadra S",
-      "Kar A",
-      "Bahadur S",
-      "Mitra A",
-      "Mukherjee PK"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/24690772/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Trikatu"
-    },
-    {
      "pmid": "24559814",
      "doi": "10.1016/j.ctim.2013.08.014",
      "title": "Efficacy and safety of topical Trikatu preparation in, relieving mosquito bite reactions: a randomized controlled trial",
@@ -83780,18 +85593,34 @@
      "matchedOn": "Trikatu"
     },
     {
-     "pmid": "15120451",
-     "doi": "10.1016/j.jep.2003.12.027",
-     "title": "Pharmacokinetic and pharmacodynamic studies on interaction of \"Trikatu\" with diclofenac sodium",
-     "journal": "Journal of ethnopharmacology",
-     "year": 2004,
+     "pmid": "34081846",
+     "doi": "10.1515/jcim-2020-0485",
+     "title": "Is Trikatu an ayurvedic formulation effective for the management of flu-like illness? A narrative review",
+     "journal": "Journal of complementary & integrative medicine",
+     "year": 2022,
      "authors": [
-      "Lala LG",
-      "D'Mello PM",
-      "Naik SR"
+      "Javed D",
+      "Dixit AK"
      ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/15120451/",
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34081846/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Trikatu"
+    },
+    {
+     "pmid": "18296885",
+     "doi": "10.4142/jvs.2008.9.1.25",
+     "title": "Effect of trikatu pretreatment on the pharmacokinetics of pefloxacin administered orally in mountain Gaddi goats",
+     "journal": "Journal of veterinary science",
+     "year": 2008,
+     "authors": [
+      "Dama MS",
+      "Varshneya C",
+      "Dardi MS",
+      "Katoch VC"
+     ],
+     "tier": "C",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18296885/",
      "source": "pubmed-formulation",
      "matchedOn": "Trikatu"
     },
@@ -83807,21 +85636,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/25546349/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Trikatu"
-    },
-    {
-     "pmid": "34081846",
-     "doi": "10.1515/jcim-2020-0485",
-     "title": "Is Trikatu an ayurvedic formulation effective for the management of flu-like illness? A narrative review",
-     "journal": "Journal of complementary & integrative medicine",
-     "year": 2022,
-     "authors": [
-      "Javed D",
-      "Dixit AK"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/34081846/",
      "source": "pubmed-formulation",
      "matchedOn": "Trikatu"
     },
@@ -83842,6 +85656,26 @@
      "matchedOn": "Trikatu"
     },
     {
+     "pmid": "24690772",
+     "doi": "10.1016/j.jep.2014.03.023",
+     "title": "Cytochrome P450 inhibitory potential and RP-HPLC standardization of trikatu--a Rasayana from Indian Ayurveda",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2014,
+     "authors": [
+      "Harwansh RK",
+      "Mukherjee K",
+      "Bhadra S",
+      "Kar A",
+      "Bahadur S",
+      "Mitra A",
+      "Mukherjee PK"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24690772/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Trikatu"
+    },
+    {
      "pmid": "24394943",
      "doi": "10.1016/j.cellimm.2013.12.002",
      "title": "Trikatu, an herbal compound as immunomodulatory and anti-inflammatory agent in the treatment of rheumatoid arthritis--an experimental study",
@@ -83853,6 +85687,21 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/24394943/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Trikatu"
+    },
+    {
+     "pmid": "23674350",
+     "doi": "10.1002/cbf.2979",
+     "title": "Trikatu, a herbal compound that suppresses monosodium urate crystal-induced inflammation in rats, an experimental model for acute gouty arthritis",
+     "journal": "Cell biochemistry and function",
+     "year": 2014,
+     "authors": [
+      "Murunikkara V",
+      "Rasool M"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23674350/",
      "source": "pubmed-formulation",
      "matchedOn": "Trikatu"
     },
@@ -83877,6 +85726,22 @@
      "matchedOn": "Trikatu"
     },
     {
+     "pmid": "15120451",
+     "doi": "10.1016/j.jep.2003.12.027",
+     "title": "Pharmacokinetic and pharmacodynamic studies on interaction of \"Trikatu\" with diclofenac sodium",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2004,
+     "authors": [
+      "Lala LG",
+      "D'Mello PM",
+      "Naik SR"
+     ],
+     "tier": "D",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15120451/",
+     "source": "pubmed-formulation",
+     "matchedOn": "Trikatu"
+    },
+    {
      "pmid": "10363842",
      "doi": "10.1016/s0378-8741(98)00127-5",
      "title": "Effect of trikatu, an Ayurvedic prescription, on the pharmacokinetic profile of rifampicin in rabbits",
@@ -83889,38 +85754,6 @@
      ],
      "tier": "D",
      "url": "https://pubmed.ncbi.nlm.nih.gov/10363842/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Trikatu"
-    },
-    {
-     "pmid": "18296885",
-     "doi": "10.4142/jvs.2008.9.1.25",
-     "title": "Effect of trikatu pretreatment on the pharmacokinetics of pefloxacin administered orally in mountain Gaddi goats",
-     "journal": "Journal of veterinary science",
-     "year": 2008,
-     "authors": [
-      "Dama MS",
-      "Varshneya C",
-      "Dardi MS",
-      "Katoch VC"
-     ],
-     "tier": "C",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/18296885/",
-     "source": "pubmed-formulation",
-     "matchedOn": "Trikatu"
-    },
-    {
-     "pmid": "23674350",
-     "doi": "10.1002/cbf.2979",
-     "title": "Trikatu, a herbal compound that suppresses monosodium urate crystal-induced inflammation in rats, an experimental model for acute gouty arthritis",
-     "journal": "Cell biochemistry and function",
-     "year": 2014,
-     "authors": [
-      "Murunikkara V",
-      "Rasool M"
-     ],
-     "tier": "D",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/23674350/",
      "source": "pubmed-formulation",
      "matchedOn": "Trikatu"
     }
@@ -86044,7 +87877,63 @@
   "herb/utingana": {
    "title": "Utingana",
    "binomial": "blepharis persica",
-   "citations": []
+   "citations": [
+    {
+     "pmid": "31848915",
+     "title": "The Blepharis persica seed hydroalcoholic extract synergistically enhances the apoptotic effect of doxorubicin in human colon cancer and gastric cancer cells",
+     "journal": "Molecular biology reports",
+     "year": 2020,
+     "authors": [
+      "Aghaabbasi K",
+      "Askari N",
+      "Hassani Kumleh H",
+      "Torkzadeh-Mahani M",
+      "Ramzani-Ghara A"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s11033-019-04711-z",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31848915/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "23345066",
+     "title": "Habitual diet and ascorbic acid status in Sudanese camels",
+     "journal": "Tropical animal health and production",
+     "year": 2013,
+     "authors": [
+      "Mohamed HE",
+      "Alhaidary A",
+      "Beynen AC"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1007/s11250-013-0365-8",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23345066/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "28306860",
+     "title": "Delayed seed dispersal and rapid germination as survival mechanisms of the desert plant Blepharis persica (Burm.) kuntze",
+     "journal": "Oecologia",
+     "year": 1972,
+     "authors": [
+      "Gutterman Y"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/BF00347986",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28306860/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/utpala": {
    "title": "Utpala",
@@ -86563,8 +88452,256 @@
   },
   "herb/vamshalochana": {
    "title": "Vamshalochana",
-   "binomial": "prakshep phase",
-   "citations": []
+   "binomial": "bambusa bambos",
+   "citations": [
+    {
+     "pmid": "41619864",
+     "title": "From structure to safety: Material characterization and toxicological evaluation of Vanshlochan (Bambusa bambos (L.) voss [Poaceae]) using AI-assisted and In vivo approaches",
+     "journal": "Journal of ethnopharmacology",
+     "year": 2026,
+     "authors": [
+      "Bohra B",
+      "Yadav B",
+      "Kumar D",
+      "Saxena B"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jep.2026.121266",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41619864/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "38795293",
+     "title": "Bambusa balcooa bamboo-reinforced concrete beams: experimental and FEM investigation for energy-efficient pavement construction",
+     "journal": "Environmental science and pollution research international",
+     "year": 2025,
+     "authors": [
+      "Sain A",
+      "Gaur A",
+      "Somani P",
+      "Balotiya G"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s11356-024-33661-8",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38795293/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "39257938",
+     "title": "A novel experimental approach for the catalytic conversion of lignocellulosic Bambusa bambos to bioethanol",
+     "journal": "Current research in microbial sciences",
+     "year": 2024,
+     "authors": [
+      "Paul SK",
+      "Das AJ"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.crmicr.2024.100267",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39257938/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "36168892",
+     "title": "Exploring the promising potential of fallen bamboo leaves (Bambusa bambos) for efficient removal of crystal violet from wastewater",
+     "journal": "International journal of phytoremediation",
+     "year": 2023,
+     "authors": [
+      "Mahato R",
+      "Qaiyum MA",
+      "Samal PP",
+      "Dutta S",
+      "Dey B",
+      "Dey S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1080/15226514.2022.2125498",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36168892/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "33641101",
+     "title": "Ecological restoration of coal fly ash-dumped area through bamboo plantation",
+     "journal": "Environmental science and pollution research international",
+     "year": 2021,
+     "authors": [
+      "Kumar R",
+      "Thangaraju MM",
+      "Kumar M",
+      "Thul ST",
+      "Pandey VC",
+      "Yadav S",
+      "Singh L",
+      "Kumar S"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s11356-021-12995-7",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33641101/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "34226956",
+     "title": "Assessment of eco-hydrological parameters for important sympodial bamboo species in Himalayan foothills",
+     "journal": "Environmental monitoring and assessment",
+     "year": 2021,
+     "authors": [
+      "Kaushal R",
+      "Kumar A",
+      "Alam NM",
+      "Singh I",
+      "Mandal D",
+      "Tomar JMS",
+      "Mehta H",
+      "Lepcha STS",
+      "Long TT",
+      "Durai J"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1007/s10661-021-09231-7",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/34226956/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "32188913",
+     "title": "Rooting behaviour and soil properties in different bamboo species of Western Himalayan Foothills, India",
+     "journal": "Scientific reports",
+     "year": 2020,
+     "authors": [
+      "Kaushal R",
+      "Singh I",
+      "Thapliyal SD",
+      "Gupta AK",
+      "Mandal D",
+      "Tomar JMS",
+      "Kumar A",
+      "Alam NM",
+      "Kadam D",
+      "Singh DV",
+      "Mehta H",
+      "Dogra P",
+      "Ojasvi PR",
+      "Reza S",
+      "Durai J"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1038/s41598-020-61418-z",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/32188913/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "30184418",
+     "title": "In vitro flowering in Bambusa bambos (L.) Voss, an anatomical perspective",
+     "journal": "Indian journal of experimental biology",
+     "year": 2017,
+     "authors": [
+      "Sisodia R",
+      "Rao IU"
+     ],
+     "pubtypes": [
+      "Research Support, Non-U.S. Gov't",
+      "Journal Article"
+     ],
+     "doi": "",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30184418/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "27127318",
+     "title": "A novel method of extraction of bamboo seed oil (Bambusa bambos Druce) and its promising effect on metabolic symptoms of experimentally induced polycystic ovarian disease",
+     "journal": "Indian journal of pharmacology",
+     "year": 2016,
+     "authors": [
+      "Soumya V",
+      "Muzib YI",
+      "Venkatesh P"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.4103/0253-7613.178833",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27127318/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "26246431",
+     "title": "Identification of beta-sitosterol and stigmasterol in Bambusa bambos (L.) Voss leaf extract using HPLC and its estrogenic effect in vitro",
+     "journal": "Journal of pharmaceutical and biomedical analysis",
+     "year": 2015,
+     "authors": [
+      "Sriraman S",
+      "Ramanujam GM",
+      "Ramasamy M",
+      "Dubey GP"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.1016/j.jpba.2015.06.024",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26246431/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "22326529",
+     "title": "Identification of programmed cell death related genes in bamboo",
+     "journal": "Gene",
+     "year": 2012,
+     "authors": [
+      "Rai V",
+      "Dey N"
+     ],
+     "pubtypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+     ],
+     "doi": "10.1016/j.gene.2012.01.018",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22326529/",
+     "tier": "D",
+     "source": "pubmed-live"
+    },
+    {
+     "pmid": "21904671",
+     "title": "Accessibility of Enzymatically Delignified Bambusa bambos for Efficient Hydrolysis at Minimum Cellulase Loading: An Optimization Study",
+     "journal": "Enzyme research",
+     "year": 2011,
+     "authors": [
+      "Kuila A",
+      "Mukhopadhyay M",
+      "Tuli DK",
+      "Banerjee R"
+     ],
+     "pubtypes": [
+      "Journal Article"
+     ],
+     "doi": "10.4061/2011/805795",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21904671/",
+     "tier": "D",
+     "source": "pubmed-live"
+    }
+   ]
   },
   "herb/vanapsa": {
    "title": "Vanapsa",
