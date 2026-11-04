@@ -116,6 +116,18 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
     <p><a class="practitioner-cta" href={verifyHref}>Is this your practice? Verify, correct or remove it</a> or use the <a href={rel('/practitioners/submit/')}>listing form</a>.</p>
   </section>
 
+  {/*
+    A ready-made badge a practice can paste into its own site. Plain HTML, no script, served from
+    this site so it keeps working if the design changes. Collapsed so it does not crowd the listing.
+  */}
+  <details class="badge-embed">
+    <summary>Add this listing to your website</summary>
+    <p>If this is your practice and the listing is useful to you, you can show it on your own site. Copy the code below into your page.</p>
+    <p><a href={abs(canonical)}><img src={abs('/badge/listed.svg')} alt="Listed in the Nighantu Ayurvedic practitioner directory" width="220" height="48" /></a></p>
+    <pre><code>{`<a href="${abs(canonical)}"><img src="${abs('/badge/listed.svg')}" alt="Listed in the Nighantu Ayurvedic practitioner directory" width="220" height="48"></a>`}</code></pre>
+    <p class="note">There is no fee and nothing to sign up for. The badge only says the practice is listed here; it is not an endorsement.</p>
+  </details>
+
   {others.length > 0 && (
     <section>
       <h2>Other Ayurvedic practices in {locality.name}</h2>
@@ -123,3 +135,9 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
     </section>
   )}
 </Page>
+
+<style>
+  .badge-embed { margin: 1.25rem 0; }
+  .badge-embed summary { cursor: pointer; font-weight: 600; }
+  .badge-embed pre { white-space: pre-wrap; word-break: break-all; font-size: .8rem; padding: .6rem .8rem; border: 1px solid var(--rule); border-radius: 4px; }
+</style>
