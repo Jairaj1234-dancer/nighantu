@@ -1,0 +1,141 @@
+---
+/**
+ * Short answers to the questions readers most often bring to a formulation page: what it is
+ * traditionally used for, what is in it, what dose the Formulary records, and who should be careful.
+ *
+ * NOTHING HERE IS NEW. Every answer is assembled from what the page already holds: the traditional
+ * uses section of the body, the committed formulary transcription, and the safety section. A
+ * question with no source on the page is left out rather than answered from elsewhere.
+ *
+ * It sits in the body, not in the answer block, on purpose. scripts/lib/answer-safety.mjs bars a
+ * dose and a disease claim from the answer block; both are acceptable in the body when framed as
+ * what the book or the source notes record, which is how they are framed here. Uses whose label
+ * names a disease are still left out of the summary (they stay in the full section below), so this
+ * block never reads as a claim to treat one.
+ *
+ * Shown only on the formulation pages listed in src/data/quick-answers.json.
+ */
+import compositions from '../data/composition.json';
+import enabled from '../data/quick-answers.json';
+import { DISEASE_WORD, EFFICACY_WORD } from '../../scripts/lib/answer-safety.mjs';
+
+interface Props { kind: string; slug: string; title: string; body?: string }
+const { kind, slug, title, body = '' } = Astro.props;
+
+const on = kind === 'formulation' && ((enabled as any).slugs ?? []).includes(slug);
+const rec = on ? ((compositions as any).records ?? {})[slug] : null;
+
+/** Plain text: markdown links reduced to their label, emphasis and stray markup removed. */
+const plain = (s: string) => String(s ?? '')
+  .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+  .replace(/[*_`]/g, '')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+/** The bullet lines of one `## heading` section of the body, or []. */
+const bullets = (heading: RegExp) => {
+  const lines = body.split('\n');
+  const start = lines.findIndex((l) => /^##\s/.test(l) && heading.test(l));
+  if (start < 0) return [] as string[];
+  const out: string[] = [];
+  for (const l of lines.slice(start + 1)) {
+    if (/^##\s/.test(l)) break;
+    const m = l.match(/^\s*-\s+(.*)$/);
+    if (m) out.push(plain(m[1]));
+  }
+  return out;
+};
+
+const list = (xs: string[]) => (xs.length < 2 ? xs.join('') : `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}`);
+
+// Traditional uses: the label before the colon of each bullet. Any label naming a disease or a
+// medical condition is left out of this summary (it stays in the full section below). The test is
+// deliberately broader than DISEASE_WORD, because a list of uses is read as a list of claims.
+const CONDITION = /\b(diseases?|disorders?|syndromes?|infections?|infectious|deficits?|o?edema|dropsy|fistula\w*|gout|vatarakta|bhagandara|shotha|inflammat\w*|psychos\w*|schizophren\w*|pcos|ibs|thyroid|lipoma|growths?|dysenter\w*|diarrh\w*|cystitis|oligosperm\w*|arthrit\w*|osteo\w*|fissure|burns?|wounds?|fever|urticaria|rhinitis|allerg\w*|fertility|piles|haemorrhoids?|hemorrhoids?|jaundice|anaemia|anemia|cholesterol|blood pressure|sugar|kidney|liver|cardiac|heart|gynecolog\w*|gynaecolog\w*|urinary)\b/i;
+const tidyUse = (u: string) => u.replace(/^traditionally used for\s+/i, '').replace(/[.\s]+$/, '').trim();
+const sentenceCase = (u: string) => (/[A-Z]/.test(u.slice(1)) ? u : u.charAt(0).toLowerCase() + u.slice(1));
+const uses = on
+  ? bullets(/traditional uses/i)
+    .map((b) => tidyUse(b.split(':')[0]))
+    .filter((u) => u && u.length <= 80 && !DISEASE_WORD.test(u) && !CONDITION.test(u))
+    .map(sentenceCase)
+  : [];
+
+// Ingredients, from the formulary record, counted the way lib/lead.ts counts them (water included,
+// so the number matches the opening sentence and the table); processing rows are not named.
+const rows = (rec?.rows ?? []).filter((x: any) => !x.structural && x.name);
+const named = [...new Set<string>(rows.filter((x: any) => !/^(water|distillate)\b/i.test(x.name)).map((x: any) => x.name))];
+const hasWater = rows.some((x: any) => /^water\b/i.test(x.name));
+
+// Safety: the first sentence of each of the first two bullets, with any parenthesised quantity
+// removed (a figure there is a product dose from the source notes, not the Formulary's), each ended
+// with a full stop.
+const QTY = /\([^)]*\d[^)]*\b(mg|g|ml|mL|tablets?|capsules?|daily)\b[^)]*\)/g;
+const endStop = (x: string) => (/[.!?]$/.test(x) ? x : `${x}.`);
+// A clause that asserts an effect on a condition is dropped, so a caution never doubles as a claim.
+const claims = (c: string) => EFFICACY_WORD.test(c) && (DISEASE_WORD.test(c) || CONDITION.test(c));
+const shorten = (b: string) => {
+  if (b.length <= 260) return b;
+  const cut = Math.max(b.lastIndexOf(';', 260), b.lastIndexOf('. ', 260));
+  return cut > 80 ? b.slice(0, cut) : b;
+};
+const cautions = on
+  ? bullets(/safety/i)
+    .slice(0, 2)
+    .map((b) => b.replace(QTY, '').replace(/\([^)]{40,}\)/g, '').replace(/\s+([,;.])/g, '$1'))
+    .map((b) => (b.match(/^.*?[.!?](?=\s|$)/)?.[0] ?? b).trim())
+    .map((b) => b.split(/;\s*/).filter((c) => c && !claims(c)).join('; '))
+    .map((b) => shorten(b.replace(/[;,\s]+$/, '')))
+    .filter(Boolean)
+    .map(endStop)
+  : [];
+const external = /\b(taila|thailam|tailam|taila|oil)\b/i.test(title) || /not for internal/i.test(body);
+
+const items: { q: string; a: string }[] = [];
+if (uses.length) {
+  items.push({
+    q: `What is ${title} traditionally used for?`,
+    a: `The source notes record it as traditionally used for ${list(uses.map((u) => u.charAt(0).toLowerCase() + u.slice(1)))}. This describes the tradition, not proof that it works; the sections below say what has been studied.`,
+  });
+}
+if (named.length) {
+  const shown = named.length <= 10
+    ? list(hasWater ? [...named, 'water'] : named)
+    : `${named.slice(0, 6).join(', ')} and ${rows.length - 6} more`;
+  items.push({
+    q: `What are the ingredients of ${title}?`,
+    a: `The Ayurvedic Formulary of India (Part ${rec.afiPart}, entry ${rec.entryNumber}) lists ${rows.length} ingredients: ${shown}. Every quantity is in the composition table below.`,
+  });
+}
+if (rec?.dose) {
+  items.push({
+    q: `What dose of ${title} does the Ayurvedic Formulary of India give?`,
+    a: `The Formulary records ${rec.dose}${rec.anupana ? `, taken with ${String(rec.anupana).split(/\s*,\s*/).join(' or ')}` : ''}, for the classical preparation. That is the book's figure, not a dose for any product and not advice to take it.`,
+  });
+}
+if (cautions.length) {
+  items.push({
+    q: `Is ${title} safe, and who should be careful with it?`,
+    a: `The source notes say: ${cautions.join(' ')} Check with a qualified vaidya before ${external ? 'using' : 'taking'} it.`,
+  });
+}
+---
+{items.length >= 2 && (
+  <section class="quick-answers" aria-labelledby="quick-answers-h">
+    <h2 id="quick-answers-h">{title} in brief</h2>
+    {items.map((it) => (
+      <div class="qa">
+        <h3>{it.q}</h3>
+        <p>{it.a}</p>
+      </div>
+    ))}
+  </section>
+)}
+
+<style>
+  .quick-answers { margin: 1.25rem 0 1.5rem; padding: .9rem 1.1rem; border: 1px solid var(--rule); border-radius: 4px; }
+  .quick-answers h2 { margin: 0 0 .6rem; font-size: 1.02rem; }
+  .quick-answers .qa + .qa { margin-top: .7rem; }
+  .quick-answers h3 { margin: 0 0 .2rem; font-size: .95rem; }
+  .quick-answers p { margin: 0; font-size: .95rem; }
+</style>

@@ -54,7 +54,7 @@ const strongest = TIER_ORDER.find((t) => byTier[t] > 0) ?? null;
       {byTier.D > 0 && byTier.A === 0 && byTier.B === 0 && (
         <> Everything listed here is laboratory or animal work, which does not show an effect in people.</>
       )}
-      {strongest === 'D' || <> Each paper is listed with what it measured on the page below.</>}
+      {strongest !== 'D' && <> Each paper is listed with what it measured on the page below.</>}
       {' '}See <a href={rel('/research/')}>the research index</a> for how papers are tiered.
     </p>
   </section>

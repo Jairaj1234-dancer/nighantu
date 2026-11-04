@@ -10,6 +10,7 @@ import NameForms from '../components/NameForms.astro';
 import EvidenceSummary from '../components/EvidenceSummary.astro';
 import { reviewPageNode } from '../lib/review';
 import Composition from '../components/Composition.astro';
+import QuickAnswers from '../components/QuickAnswers.astro';
 import Disclosure from '../components/Disclosure.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Related from '../components/Related.astro';
@@ -172,6 +173,8 @@ const breadcrumbs = {
     {d.botanical && <p class="binomial">{d.botanical}</p>}
 
     <p class="answer">{lead ? `${d.answer} ${lead}` : d.answer}</p>
+
+    <QuickAnswers kind={d.kind} slug={d.slug} title={d.title} body={entry.body ?? ''} />
 
     <KeyFacts
       kind={d.kind}
