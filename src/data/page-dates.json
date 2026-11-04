@@ -5462,7 +5462,7 @@
   "practitioners": {
     "hash": "f5703f7eb53ebe82",
     "published": "2026-10-26",
-    "modified": "2026-11-03"
+    "modified": "2026-11-04"
   },
   "practitioners/abdu-rahiman-nagar": {
     "hash": "caa2b5dcfedfb372",
@@ -7735,9 +7735,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/chennai": {
-    "hash": "332cbb2ad77afc0d",
+    "hash": "366819ecb597d1fa",
     "published": "2026-10-27",
-    "modified": "2026-10-27"
+    "modified": "2026-11-04"
   },
   "practitioners/chennai/adyar": {
     "hash": "775d536d5dc7bf98",
@@ -7960,14 +7960,14 @@
     "modified": "2026-10-27"
   },
   "practitioners/chennai/pallavaram": {
-    "hash": "8dbdedef72cc3250",
+    "hash": "d85f1038a57a2bcc",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/chennai/pallavaram/brahmasree-ayurvedic-nursing-home-old-pallavaram": {
-    "hash": "8dbdedef72cc3250",
+    "hash": "d85f1038a57a2bcc",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/chennai/perungalathur": {
     "hash": "468e6ddb17db9532",
@@ -8460,9 +8460,9 @@
     "modified": "2026-10-27"
   },
   "practitioners/delhi": {
-    "hash": "44a488771ac77ea3",
+    "hash": "2fdbb00e5278b501",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/delhi/anand-vihar": {
     "hash": "44e2b3a3ce650f62",
@@ -8530,14 +8530,14 @@
     "modified": "2026-10-26"
   },
   "practitioners/delhi/greater-kailash-i": {
-    "hash": "b166ea090962a431",
+    "hash": "72dc5aad7c496224",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/delhi/greater-kailash-i/bio-resurge-wellness-center-greater-kailash-i": {
-    "hash": "b166ea090962a431",
+    "hash": "72dc5aad7c496224",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/delhi/greater-kailash-ii": {
     "hash": "a93e4894ece8d14f",
@@ -16300,9 +16300,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/pune": {
-    "hash": "24b8505c945ca59c",
+    "hash": "7e2354b133985eab",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/pune/ambegaon-budruk": {
     "hash": "26bd36222a7149d7",
@@ -16390,14 +16390,14 @@
     "modified": "2026-10-26"
   },
   "practitioners/pune/bibwewadi": {
-    "hash": "4aa22226b986df35",
+    "hash": "790115793b9d3624",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/pune/bibwewadi/ayurvishwa-healthcare-bibwewadi-clinic": {
-    "hash": "916a74bbac9c11a3",
+    "hash": "955882cca9d71506",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/pune/bibwewadi/madhavbaug-ayurvedic-clinic-bibwewadi": {
     "hash": "4871cecec14fab87",
@@ -17855,9 +17855,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/state/delhi": {
-    "hash": "eaef6bc9d67c9b35",
+    "hash": "4e53a126d5060563",
     "published": "2026-10-26",
-    "modified": "2026-10-26"
+    "modified": "2026-11-04"
   },
   "practitioners/state/goa": {
     "hash": "749b075c11271d80",
@@ -17890,9 +17890,9 @@
     "modified": "2026-11-03"
   },
   "practitioners/state/kerala": {
-    "hash": "d416e71efdc2876a",
+    "hash": "0ed51367f4344734",
     "published": "2026-10-26",
-    "modified": "2026-11-03"
+    "modified": "2026-11-04"
   },
   "practitioners/state/madhya-pradesh": {
     "hash": "cb4ca9bc322e7868",
@@ -17900,9 +17900,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/state/maharashtra": {
-    "hash": "f0cf9c2236919bb2",
+    "hash": "ac9ebc494a2e6080",
     "published": "2026-10-26",
-    "modified": "2026-11-02"
+    "modified": "2026-11-04"
   },
   "practitioners/state/odisha": {
     "hash": "e213a7193f504348",
@@ -17920,9 +17920,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/state/tamil-nadu": {
-    "hash": "08ba06d0a0ab8c35",
+    "hash": "c9ff5fc855dd23cf",
     "published": "2026-10-27",
-    "modified": "2026-10-27"
+    "modified": "2026-11-04"
   },
   "practitioners/state/telangana": {
     "hash": "7da5124f66002a3f",
@@ -18320,9 +18320,9 @@
     "modified": "2026-10-28"
   },
   "practitioners/thiruvananthapuram": {
-    "hash": "e6e87b5cd8eb422a",
+    "hash": "e39b25f61a29cba7",
     "published": "2026-10-27",
-    "modified": "2026-10-27"
+    "modified": "2026-11-04"
   },
   "practitioners/thiruvananthapuram/chowara": {
     "hash": "afa033b97199588f",
@@ -18470,14 +18470,14 @@
     "modified": "2026-10-27"
   },
   "practitioners/thiruvananthapuram/poojappura": {
-    "hash": "8690be747461ff72",
+    "hash": "aadf55d7bc5b80f0",
     "published": "2026-10-27",
-    "modified": "2026-10-27"
+    "modified": "2026-11-04"
   },
   "practitioners/thiruvananthapuram/poojappura/ayushyam-ayurveda": {
-    "hash": "11bd6da66a439952",
+    "hash": "8f0b56c9c9d085a8",
     "published": "2026-10-27",
-    "modified": "2026-10-27"
+    "modified": "2026-11-04"
   },
   "practitioners/thiruvananthapuram/poojappura/ccras-regional-ayurveda-research-institute-rari": {
     "hash": "7fdbc982c519f075",
