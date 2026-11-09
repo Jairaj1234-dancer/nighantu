@@ -9217,11 +9217,11 @@
   },
   "search": {
     "bing": {
-      "checkedAt": "2026-11-02T16:32:35.818Z",
-      "clicks": 0,
+      "checkedAt": "2026-11-09T16:50:06.084Z",
+      "clicks": 2,
       "dailyQuota": 100,
-      "impressions": 32,
-      "monthlyQuota": 2900,
+      "impressions": 42,
+      "monthlyQuota": 2200,
       "remaining": 100,
       "siteUrl": "https://nighantu.ageayurveda.com/"
     }
@@ -10158,6 +10158,6 @@
     "seen": 3,
     "surfaced": 0
   },
-  "updatedAt": "2026-11-09T08:42:46.011Z",
+  "updatedAt": "2026-11-09T16:50:06.085Z",
   "version": 1
 }
