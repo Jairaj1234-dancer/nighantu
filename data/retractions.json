@@ -1,11 +1,11 @@
 {
- "checkedAt": "2026-11-03",
- "papersChecked": 3507,
+ "checkedAt": "2026-11-09",
+ "papersChecked": 3593,
  "note": "Cumulative. This list only grows: a paper already dropped from the corpus is no longer cited, so a later run cannot rediscover it, and overwriting would un-block it.",
  "byKind": {
-  "erratum-notice": 3,
+  "erratum-notice": 5,
   "retracted-publication": 16,
-  "retraction-notice": 3
+  "retraction-notice": 4
  },
  "flagged": [
   {
@@ -39,6 +39,28 @@
    "pubtype": "Published Erratum",
    "subjects": [
     "herb/priyangu"
+   ]
+  },
+  {
+   "pmid": "37935736",
+   "kind": "erratum-notice",
+   "title": "Publisher Correction: Physiological and biochemical mechanisms of grain yield loss in fumitory (Fumaria parviflora Lam.) exposed to copper and drought stress.",
+   "journal": "Scientific reports",
+   "year": "2023",
+   "pubtype": "Published Erratum",
+   "subjects": [
+    "herb/parpataka"
+   ]
+  },
+  {
+   "pmid": "38750533",
+   "kind": "erratum-notice",
+   "title": "Correction: Centipeda minima active components and mechanisms in lung cancer.",
+   "journal": "BMC complementary medicine and therapies",
+   "year": "2024",
+   "pubtype": "Published Erratum",
+   "subjects": [
+    "herb/kshavaka"
    ]
   },
   {
@@ -238,6 +260,17 @@
    "pubtype": "Retraction Notice",
    "subjects": [
     "herb/trivrit"
+   ]
+  },
+  {
+   "pmid": "39658430",
+   "kind": "retraction-notice",
+   "title": "Retraction notice to \"Helenalin from Centipeda minima ameliorates acute hepatic injury by protecting mitochondria function, activating Nrf2 pathway and inhibiting NF-κB activation\" [Biomed. Pharmacother. 119 (2019) 109435].",
+   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "year": "2024",
+   "pubtype": "Journal Article; Retraction Notice",
+   "subjects": [
+    "herb/kshavaka"
    ]
   },
   {

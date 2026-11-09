@@ -1,18 +1,18 @@
 {
  "updatedAt": "2026-11-03T12:18:00.591Z",
  "summary": {
-  "papers": 3593,
-  "withDoi": 3410,
+  "papers": 3590,
+  "withDoi": 3407,
   "subjectsCovered": 487,
   "citedByMultiple": 652,
   "byTier": {
    "A": 158,
    "B": 105,
    "C": 1176,
-   "D": 2154
+   "D": 2151
   },
   "byDecade": {
-   "2020s": 2182,
+   "2020s": 2179,
    "2010s": 1101,
    "2000s": 220,
    "1990s": 43,
@@ -50,7 +50,7 @@
    },
    {
     "name": "Scientific reports",
-    "count": 64
+    "count": 63
    },
    {
     "name": "Journal of Ayurveda and integrative medicine",
@@ -46673,33 +46673,6 @@
    ]
   },
   {
-   "pmid": "38750533",
-   "doi": "10.1186/s12906-024-04498-y",
-   "title": "Correction: Centipeda minima active components and mechanisms in lung cancer",
-   "journal": "BMC complementary medicine and therapies",
-   "year": 2024,
-   "authors": [
-    "Gao C",
-    "Pan H",
-    "Ma F",
-    "Zhang Z",
-    "Zhao Z",
-    "Song J",
-    "Li W",
-    "Fan X"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/38750533/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "centipeda minima"
-    }
-   ]
-  },
-  {
    "pmid": "38835963",
    "doi": "10.3389/fnut.2024.1352548",
    "title": "Cubeb (Piper cubeba L.): nutritional value, phytochemical profiling and dermacosmeceutical properties",
@@ -51441,36 +51414,6 @@
      "slug": "nirgundi",
      "title": "Nirgundi",
      "binomial": "vitex negundo"
-    }
-   ]
-  },
-  {
-   "pmid": "39658430",
-   "doi": "10.1016/j.biopha.2024.117697",
-   "title": "Retraction notice to \"Helenalin from Centipeda minima ameliorates acute hepatic injury by protecting mitochondria function, activating Nrf2 pathway and inhibiting NF-κB activation\" [Biomed. Pharmacother. 119 (2019) 109435]",
-   "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-   "year": 2024,
-   "authors": [
-    "Li Y",
-    "Zeng Y",
-    "Huang Q",
-    "Wen S",
-    "Wei Y",
-    "Chen Y",
-    "Zhang X",
-    "Bai F",
-    "Lu Z",
-    "Wei J",
-    "Lin X"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/39658430/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "kshavaka",
-     "title": "Kshavaka",
-     "binomial": "centipeda minima"
     }
    ]
   },
@@ -59114,29 +59057,6 @@
      "slug": "kovidara",
      "title": "Kovidara",
      "binomial": "bauhinia purpurea"
-    }
-   ]
-  },
-  {
-   "pmid": "37935736",
-   "doi": "10.1038/s41598-023-46587-x",
-   "title": "Publisher Correction: Physiological and biochemical mechanisms of grain yield loss in fumitory (Fumaria parviflora Lam.) exposed to copper and drought stress",
-   "journal": "Scientific reports",
-   "year": 2023,
-   "authors": [
-    "Tashakorizadeh M",
-    "Golkar P",
-    "Vahabi MR",
-    "Ghorbanpour M"
-   ],
-   "tier": "D",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/37935736/",
-   "subjects": [
-    {
-     "kind": "herb",
-     "slug": "parpataka",
-     "title": "Parpataka",
-     "binomial": "fumaria parviflora"
     }
    ]
   },
