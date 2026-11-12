@@ -16534,8 +16534,9 @@
       ],
       "website": "https://ayurvedicclinic.org/",
       "email": "ayurvedicclinic2@gmail.com",
-      "hours": "Monday to Friday and Sunday, 9:00 am to 7:00 pm; Saturday closed",
+      "hours": "Monday to Friday and Sunday, 9:00 am to 6:30 pm; Saturday closed",
       "services": [
+        "Empanelled with CGHS, Delhi University and Ambedkar University",
         "Ayurvedic consultation",
         "Nadi Pariksha",
         "Panchakarma",
@@ -16552,7 +16553,9 @@
         "practiceName": "https://ayurvedicclinic.org/",
         "practitioners": "https://ayurvedicclinic.org/",
         "address": "https://ayurvedicclinic.org/",
-        "phone": "https://ayurvedicclinic.org/"
+        "phone": "https://ayurvedicclinic.org/",
+        "hours": "Practitioner correction by email to Age Ayurveda, 4 Nov 2026",
+        "services": "Practitioner correction by email to Age Ayurveda, 4 Nov 2026 (empanelment); https://ayurvedicclinic.org/ (other services)"
       },
       "testimonials": [],
       "reviewLinks": [
@@ -16561,7 +16564,7 @@
           "url": "https://www.justdial.com/Delhi/Dr-Reena-Arora-Reena-Ayurvedic-Clinic-Behind-Uco-Bank-Near-Durga-Properties-Dr-Mukherjee-Nagar/011PXX11-XX11-150727214138-J6F8_BZDET"
         }
       ],
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-11-04",
       "id": "ayurvedic-clinic-dr-reena-arora-mukherjee-nagar"
     },
     {
