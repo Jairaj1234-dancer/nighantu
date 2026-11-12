@@ -1,5 +1,5 @@
 /* Age Nighantu. Palette carried over from the existing brand work:
-   forest green, gold, cream. Lora for headings, Montserrat for interface. */
+   forest green, gold, cream. EB Garamond for headings, Source Sans 3 for text (both carry the IAST dot-below letters), Tiro Devanagari Sanskrit for Devanagari. */
 :root {
   --green: #2d5a1e;
   --green-deep: #1e3d14;
@@ -19,8 +19,8 @@
   --sev-mid-bg: #f7f3e0;
   --sev-low: #4a4842;
   --sev-low-bg: #efeee9;
-  --serif: Lora, Georgia, "Times New Roman", serif;
-  --sans: Montserrat, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --serif: "EB Garamond", "Tiro Devanagari Sanskrit", Georgia, "Times New Roman", serif;
+  --sans: "Source Sans 3", "Tiro Devanagari Sanskrit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -58,7 +58,7 @@ body {
 }
 
 a { color: var(--green); text-decoration-thickness: 1px; text-underline-offset: 2px; }
-a:hover { color: var(--gold); }
+a:hover { color: var(--green-deep); }
 
 .skip {
   position: absolute; left: -9999px; top: 0; padding: .6rem 1rem;
