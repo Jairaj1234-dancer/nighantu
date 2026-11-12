@@ -14,6 +14,7 @@
  */
 import Page from '../../layouts/Page.astro';
 import { rel } from '../../lib/site';
+import { emailLinks } from '../../lib/email-links';
 const TO = 'contact@ageayurveda.com';
 const BODY = [
   'What would you like to do? (add my practice / confirm my listing / correct my listing / remove my listing)', '',
@@ -28,7 +29,7 @@ const BODY = [
   'Anything else (services, hours, what to correct):', '',
   'I run this practice or am authorised by it, and I agree to the practitioner name, practice name, address and business phone above being published in the directory. I can ask for them to be corrected or removed at any time.',
 ].join('\n');
-const HREF = `mailto:${TO}?subject=${encodeURIComponent('Practitioner directory submission')}&body=${encodeURIComponent(BODY)}`;
+const MAIL = emailLinks(TO, 'Practitioner directory submission', BODY);
 ---
 <Page
   title="List or verify your Ayurvedic practice"
@@ -41,13 +42,13 @@ const HREF = `mailto:${TO}?subject=${encodeURIComponent('Practitioner directory 
 
   <h2>How it works</h2>
   <ol>
-    <li>Press <strong>Write to us</strong> below. Your email app opens with a short form already in the message. Fill it in and send it. If you are already listed, the button on your listing opens an email with the listing's address filled in.</li>
+    <li>Press <strong>Write to us</strong> below, or <strong>Gmail</strong> or <strong>Outlook</strong> if you use those in your browser. An email opens with a short form already in the message. Fill it in and send it. If you are already listed, the button on your listing opens an email with the listing's address filled in.</li>
     <li>We check the registration number against the state or national register, and the address and phone against your practice's own published details, or by calling the business number.</li>
     <li>Once checked, the listing goes live, usually within a week, showing the date it was checked. A verified registration is shown on the listing.</li>
   </ol>
 
-  <p><a class="practitioner-cta" href={HREF}>Write to us</a></p>
-  <p class="hint">If nothing opens, email <a href={`mailto:${TO}?subject=${encodeURIComponent('Practitioner directory')}`}>{TO}</a> with: what you would like to do, the practitioner's name, qualification, registration number and council, practice name, full address with PIN, business phone, and your agreement to those details being published.</p>
+  <p><a class="practitioner-cta" href={MAIL.mailto}>Write to us</a> <a class="practitioner-cta" href={MAIL.gmail} target="_blank" rel="noopener">Gmail</a> <a class="practitioner-cta" href={MAIL.outlook} target="_blank" rel="noopener">Outlook</a></p>
+  <p class="hint">"Write to us" uses the email program on your computer. If nothing opens (common on Windows), use the Gmail or Outlook button. Otherwise, email <a href={`mailto:${TO}?subject=${encodeURIComponent('Practitioner directory')}`}>{TO}</a> with: what you would like to do, the practitioner's name, qualification, registration number and council, practice name, full address with PIN, business phone, and your agreement to those details being published.</p>
 
   <p>Prefer to write directly? Email <a href={`mailto:${TO}?subject=${encodeURIComponent('Practitioner directory')}`}>{TO}</a>. You can also ask for a listing to be removed without giving a reason, and we will remove it.</p>
 

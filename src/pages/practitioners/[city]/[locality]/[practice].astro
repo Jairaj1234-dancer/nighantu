@@ -11,6 +11,7 @@
 import Page from '../../../../layouts/Page.astro';
 import { cities, practices, urlOf, telHref, cityOf, localityOf, stateOf, summaryOf, mdOf, longDate, slug } from '../../../../lib/practitioners';
 import { abs, rel, PUBLISHER } from '../../../../lib/site';
+import { emailLinks } from '../../../../lib/email-links';
 
 export function getStaticPaths() {
   return practices.map((p) => ({ params: { city: cityOf(p), locality: localityOf(p), practice: p.id }, props: { p } }));
@@ -55,14 +56,15 @@ const clinic = {
   ...(p.website ? { sameAs: [p.website, ...(p.reviewLinks ?? []).map((r: any) => r.url)] } : {}),
 };
 /** A prefilled email for the practice to confirm, correct or remove this listing; the site ships no script. */
-const verifyHref = `mailto:contact@ageayurveda.com?subject=${encodeURIComponent(`Practitioner directory: verify listing: ${p.practiceName}`)}&body=${encodeURIComponent([
+const verify = emailLinks('contact@ageayurveda.com', `Practitioner directory: verify listing: ${p.practiceName}`, [
   `Listing: ${abs(canonical)}`, '',
   'Request (confirm / correct / remove):', '',
   'What should change, if anything:', '',
   'Registration number and council:', '',
   'Your name and role at the practice:', '',
   'I run this practice or am authorised by it.',
-].join('\n'))}`;
+].join('\n'));
+const verifyHref = verify.mailto;
 const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', address: 'Address', phone: 'Phone' } as Record<string, string>;
 ---
 <Page
@@ -113,7 +115,7 @@ const FIELD = { practiceName: 'Practice name', practitioners: 'Practitioners', a
       {Object.entries(p.sources).filter(([k]) => FIELD[k]).map(([k, u]) => <li>{FIELD[k]}: <a href={u as string} rel="noopener">{(u as string).replace(/^https?:\/\/(www\.)?/, '').slice(0, 70)}</a></li>)}
     </ul>
     <p class="note">Checked {longDate(p.checkedOn)}. A listing is not an endorsement or a referral; {PUBLISHER} has no arrangement with this practice.</p>
-    <p><a class="practitioner-cta" href={verifyHref}>Is this your practice? Verify, correct or remove it</a> or use the <a href={rel('/practitioners/submit/')}>listing form</a>.</p>
+    <p><a class="practitioner-cta" href={verifyHref}>Is this your practice? Verify, correct or remove it</a> (if no email opens, use <a href={verify.gmail} target="_blank" rel="noopener">Gmail</a> or <a href={verify.outlook} target="_blank" rel="noopener">Outlook</a>) or use the <a href={rel('/practitioners/submit/')}>listing form</a>.</p>
   </section>
 
   {/*
