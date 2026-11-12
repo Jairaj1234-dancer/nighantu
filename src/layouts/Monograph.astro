@@ -16,6 +16,7 @@ import CiteThis from '../components/CiteThis.astro';
 import Related from '../components/Related.astro';
 import duplicates from '../data/duplicates.json';
 import bhavaprakasha from '../data/bhavaprakasha.json';
+import plates from '../data/plates.json';
 import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
@@ -27,6 +28,8 @@ const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
 /** Where the Bhavaprakasha Nighantu describes this dravya, when the match has been checked. */
 const bp = d.kind === 'herb' ? (bhavaprakasha as any).herbs.find((h: any) => h.slug === d.slug) : null;
+/** A public-domain botanical plate of this herb's species, when one has been licence-checked (src/data/plates.json). */
+const plate = d.kind === 'herb' ? (plates as any).plates.find((p: any) => p.pages.includes(d.slug)) : null;
 const lead = formularySentence(d);
 const description = lead ? `${d.answer} ${lead}` : d.answer;
 
@@ -172,10 +175,28 @@ const breadcrumbs = {
 >
   <article>
     <Crumbs trail={[{ label: sectionLabel, href: sectionHref }, { label: d.title }]} />
-    <h1>{d.title}</h1>
-    {d.botanical && <p class="binomial">{d.botanical}</p>}
-
-    <p class="answer">{lead ? `${d.answer} ${lead}` : d.answer}</p>
+    <div class={plate ? 'mono-head has-plate' : 'mono-head'}>
+      <div class="mono-lead">
+        <h1>{d.title}</h1>
+        {d.botanical && <p class="binomial">{d.botanical}</p>}
+        <p class="answer">{lead ? `${d.answer} ${lead}` : d.answer}</p>
+      </div>
+      {plate && (
+        <figure class="plate">
+          <img
+            src={rel(`/plates/${plate.key}-600.webp`)}
+            srcset={`${rel(`/plates/${plate.key}-600.webp`)} ${plate.small.w}w, ${rel(`/plates/${plate.key}-1200.webp`)} ${plate.large.w}w`}
+            sizes="(min-width: 64rem) 22rem, 100vw"
+            width={plate.small.w} height={plate.small.h}
+            alt={plate.alt} decoding="async"
+          />
+          <figcaption>
+            <span class="species"><em>{plate.species}</em></span>
+            <span class="credit">{plate.work} <a href={plate.filePage} rel="noopener">{plate.licence}</a></span>
+          </figcaption>
+        </figure>
+      )}
+    </div>
 
     <QuickAnswers kind={d.kind} slug={d.slug} title={d.title} body={entry.body ?? ''} />
 

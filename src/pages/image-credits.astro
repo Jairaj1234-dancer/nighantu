@@ -1,0 +1,36 @@
+---
+/** Every image on the site, with its source and licence. Built from src/data/plates.json, the same file the plate captions use. */
+import Page from '../layouts/Page.astro';
+import { rel } from '../lib/site';
+import plates from '../data/plates.json';
+const list = (plates as any).plates;
+---
+<Page
+  title="Image credits"
+  description={`Sources and licences for the ${list.length} historical botanical plates used on Nighantu herb pages. All are in the public domain.`}
+  canonical="/image-credits/"
+  lede="Where every picture on this site comes from."
+>
+<p>
+  Herb pages open with a historical botanical plate where a public-domain one exists for the species.
+  Each was checked for its licence before use, copied here rather than linked, and is credited under
+  the plate and below. Plants are named as the plate names them, with the accepted name first.
+  The lotus band under the masthead is drawn for this site after the Indian ornament plates in
+  Owen Jones, <em>The Grammar of Ornament</em> (1856).
+</p>
+<ul class="credits-list">
+  {list.map((p: any) => (
+    <li>
+      <figure class="plate">
+        <img src={rel(`/plates/${p.key}-600.webp`)} width={p.small.w} height={p.small.h} alt={p.alt} loading="lazy" decoding="async" />
+        <figcaption>
+          <span class="species"><em>{p.species}</em></span>
+          <span class="credit">{p.work} <a href={p.filePage} rel="noopener">{p.licence}</a></span>
+          <span class="credit">Used on: {p.pages.map((s: string, i: number) => <>{i > 0 && ', '}<a href={rel(`/herb/${s}/`)}>{s.replace(/-/g, ' ')}</a></>)}</span>
+        </figcaption>
+      </figure>
+    </li>
+  ))}
+</ul>
+<p>To report a wrong identification or credit, see <a href={rel('/corrections/')}>corrections</a>.</p>
+</Page>

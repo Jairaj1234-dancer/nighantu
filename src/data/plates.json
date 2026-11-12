@@ -1,0 +1,299 @@
+{
+ "plates": [
+  {
+   "key": "ashwagandha",
+   "species": "Withania somnifera",
+   "work": "Ferdinand Bauer, in J. Sibthorp and J.E. Smith, Flora Graeca vol. 3, t. 233 (1819).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Withania_somnifera_illustration.jpg",
+   "alt": "Hand-coloured engraving of a leafy Withania somnifera stem with small flowers and berries in the leaf axils.",
+   "pages": [
+    "ashwagandha"
+   ],
+   "small": {
+    "w": 600,
+    "h": 908
+   },
+   "large": {
+    "w": 714,
+    "h": 1080
+   }
+  },
+  {
+   "key": "guduchi",
+   "species": "Tinospora cordifolia",
+   "work": "K.R. Kirtikar and B.D. Basu, Indian Medicinal Plants, pl. 35 (1918).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Indian_Medicinal_Plants_-_Plate_35_-_Tinospora_cordifolia.jpg",
+   "alt": "Line plate of a Tinospora cordifolia vine with heart-shaped leaves, flower racemes and numbered floral details.",
+   "pages": [
+    "guduchi"
+   ],
+   "small": {
+    "w": 600,
+    "h": 800
+   },
+   "large": {
+    "w": 1200,
+    "h": 1599
+   }
+  },
+  {
+   "key": "haritaki",
+   "species": "Terminalia chebula",
+   "work": "Govindoo, in R.H. Beddome, The Flora Sylvatica for Southern India vol. 1 (1869-1873).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Terminalia_chebula_Govindoo.jpg",
+   "alt": "Line plate of a Terminalia chebula branch with leaves, flower spikes and fruits, with floral details.",
+   "pages": [
+    "haritaki"
+   ],
+   "small": {
+    "w": 600,
+    "h": 780
+   },
+   "large": {
+    "w": 1200,
+    "h": 1560
+   }
+  },
+  {
+   "key": "amla",
+   "species": "Phyllanthus emblica",
+   "work": "D. Brandis, Illustrations of the Forest Flora of North-West and Central India, t. 52 (1874).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Phyllanthus_emblica_Bra52.png",
+   "alt": "Line plate of a Phyllanthus emblica branch with feathery leaves and round fruits, with flower and fruit details.",
+   "pages": [
+    "amla"
+   ],
+   "small": {
+    "w": 600,
+    "h": 868
+   },
+   "large": {
+    "w": 1195,
+    "h": 1729
+   }
+  },
+  {
+   "key": "bibhitaki",
+   "species": "Terminalia bellirica",
+   "work": "Govindoo, in R.H. Beddome, The Flora Sylvatica for Southern India vol. 1 (1869-1873).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Terminalia_belerica_Govindoo.jpg",
+   "alt": "Line plate of a Terminalia bellirica branch with broad leaves and flower spikes, with floral and fruit details.",
+   "pages": [
+    "bibhitaki"
+   ],
+   "small": {
+    "w": 600,
+    "h": 787
+   },
+   "large": {
+    "w": 1200,
+    "h": 1573
+   }
+  },
+  {
+   "key": "neem",
+   "species": "Azadirachta indica (as Melia azadirachta)",
+   "work": "Govindoo, in R.H. Beddome, The Flora Sylvatica for Southern India vol. 1 (1869-1873).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Melia_azadirachta_Govindoo.jpg",
+   "alt": "Line plate of a neem branch with pinnate leaves and flower panicles, with flower and fruit details.",
+   "pages": [
+    "neem",
+    "nimba",
+    "nimba-patra",
+    "nimba-beeja"
+   ],
+   "small": {
+    "w": 600,
+    "h": 782
+   },
+   "large": {
+    "w": 1200,
+    "h": 1563
+   }
+  },
+  {
+   "key": "arjuna",
+   "species": "Terminalia arjuna",
+   "work": "Govindoo, in R.H. Beddome, The Flora Sylvatica for Southern India vol. 1 (1869-1873).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Terminalia_arjuna_Govindoo.jpg",
+   "alt": "Line plate of a Terminalia arjuna branch with leaves, flower spikes and winged fruits, with floral details.",
+   "pages": [
+    "arjuna",
+    "arjuna-twak"
+   ],
+   "small": {
+    "w": 600,
+    "h": 790
+   },
+   "large": {
+    "w": 1200,
+    "h": 1579
+   }
+  },
+  {
+   "key": "haridra",
+   "species": "Curcuma longa",
+   "work": "F.E. Koehler (ed.), Koehler's Medizinal-Pflanzen, pl. 178 (1887-1890).",
+   "licence": "Public domain, via Biodiversity Heritage Library / Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_178)_(8231755239).jpg",
+   "alt": "Colour plate of Curcuma longa showing a broad leaf, the flower spike with pale bracts and yellow flowers, and the rhizome.",
+   "pages": [
+    "haridra",
+    "turmeric"
+   ],
+   "small": {
+    "w": 600,
+    "h": 822
+   },
+   "large": {
+    "w": 1200,
+    "h": 1643
+   }
+  },
+  {
+   "key": "ginger",
+   "species": "Zingiber officinale",
+   "work": "F.E. Koehler, Koehler's Medizinal-Pflanzen, no. 146 (1887-1890).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-146.jpg",
+   "alt": "Colour plate of Zingiber officinale with leafy shoots, a flower spike and the branched rhizome, with floral details.",
+   "pages": [
+    "ginger",
+    "zingiber"
+   ],
+   "small": {
+    "w": 600,
+    "h": 827
+   },
+   "large": {
+    "w": 1200,
+    "h": 1653
+   }
+  },
+  {
+   "key": "maricha",
+   "species": "Piper nigrum",
+   "work": "F.E. Koehler (ed.), Koehler's Medizinal-Pflanzen, pl. 144 (1887-1890).",
+   "licence": "Public domain, via Biodiversity Heritage Library / Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_144)_(8231737637).jpg",
+   "alt": "Colour plate of a Piper nigrum vine with broad leaves, hanging flower spikes and ripe berries.",
+   "pages": [
+    "black-pepper"
+   ],
+   "small": {
+    "w": 600,
+    "h": 847
+   },
+   "large": {
+    "w": 1200,
+    "h": 1693
+   }
+  },
+  {
+   "key": "yashtimadhu",
+   "species": "Glycyrrhiza glabra",
+   "work": "F.E. Koehler (ed.), Koehler's Medizinal-Pflanzen, pl. 135 (1887-1890).",
+   "licence": "Public domain, via Biodiversity Heritage Library / Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_135)_(8231733975).jpg",
+   "alt": "Colour plate of Glycyrrhiza glabra with pinnate leaves, pale purple flower spikes and seed pods.",
+   "pages": [
+    "yashtimadhu",
+    "licorice-herb"
+   ],
+   "small": {
+    "w": 600,
+    "h": 854
+   },
+   "large": {
+    "w": 1200,
+    "h": 1708
+   }
+  },
+  {
+   "key": "ela",
+   "species": "Elettaria cardamomum",
+   "work": "F.E. Koehler (ed.), Koehler's Medizinal-Pflanzen, pl. 186 (1887-1890).",
+   "licence": "Public domain, via Biodiversity Heritage Library / Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_186)_(8232821584).jpg",
+   "alt": "Colour plate of Elettaria cardamomum with long leaves, the flowering stem and capsules, with floral details.",
+   "pages": [
+    "ela"
+   ],
+   "small": {
+    "w": 600,
+    "h": 786
+   },
+   "large": {
+    "w": 1200,
+    "h": 1572
+   }
+  },
+  {
+   "key": "brahmi",
+   "species": "Bacopa monnieri (as Herpestis monniera)",
+   "work": "Francisco Manuel Blanco, Flora de Filipinas, Gran edición, Atlas I, pl. 230 (1880-1883).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Herpestis_monniera_Blanco1.230-cropped.jpg",
+   "alt": "Colour plate of a creeping Bacopa monnieri stem with small fleshy leaves and pale flowers.",
+   "pages": [
+    "brahmi",
+    "water-hyssop"
+   ],
+   "small": {
+    "w": 600,
+    "h": 501
+   },
+   "large": {
+    "w": 850,
+    "h": 710
+   }
+  },
+  {
+   "key": "bilva",
+   "species": "Aegle marmelos",
+   "work": "W. Roxburgh, Plants of the Coast of Coromandel vol. 2, t. 143 (1798).",
+   "licence": "Public domain, via Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Aegle_marmelos_Roxburgh_1798_2-143.jpg",
+   "alt": "Colour plate of an Aegle marmelos branch with trifoliate leaves and flowers, and a halved fruit.",
+   "pages": [
+    "bilva",
+    "bilva-majja",
+    "bilwa-patra"
+   ],
+   "small": {
+    "w": 600,
+    "h": 864
+   },
+   "large": {
+    "w": 1200,
+    "h": 1728
+   }
+  },
+  {
+   "key": "chandana",
+   "species": "Santalum album (as Sirium myrtifolium)",
+   "work": "W. Roxburgh, Plants of the Coast of Coromandel vol. 1, t. 2 (1795).",
+   "licence": "Public domain, via Biodiversity Heritage Library / Wikimedia Commons.",
+   "filePage": "https://commons.wikimedia.org/wiki/File:Plants_of_the_coast_of_Coromandel_(Plate_02)_BHL280060.jpg",
+   "alt": "Colour plate of a Santalum album branch with narrow leaves, small red flowers and a dark fruit.",
+   "pages": [
+    "chandana"
+   ],
+   "small": {
+    "w": 600,
+    "h": 848
+   },
+   "large": {
+    "w": 1200,
+    "h": 1697
+   }
+  }
+ ]
+}

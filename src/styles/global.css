@@ -11,6 +11,10 @@
   --paper: #fffefb;
   --accent-bg: #f2efe6;
   --max: 46rem;
+  --gold-rule: #b8860b; /* ornament and hairlines only, never text */
+  --plate-mat: #f1ebdd;
+  --plate-ink: #3d3a30;
+  --plate-filter: sepia(.25) contrast(1.04) brightness(1.02);
   --sev-stop: #8c1c13;
   --sev-stop-bg: #fbeae8;
   --sev-high: #8a4b08;
@@ -28,6 +32,9 @@
     --green: #8fc178;
     --green-deep: #a8d492;
     --gold: #d9a93a;
+    --gold-rule: #b8902e;
+    --plate-mat: #e9e2d2;
+    --plate-filter: sepia(.25) contrast(1.04) brightness(.9);
     --cream: #17181a;
     --ink: #e8e6e0;
     --ink-soft: #a9a69e;
@@ -91,14 +98,14 @@ a:hover { color: var(--green-deep); }
 main { padding: 2rem 0 4rem; }
 
 h1 {
-  font: 600 clamp(1.7rem, 4.5vw, 2.4rem)/1.2 var(--serif);
+  font: 600 clamp(1.95rem, 5vw, 2.75rem)/1.15 var(--serif);
   margin: 0 0 .35rem;
   letter-spacing: -0.01em;
 }
 .binomial { font-style: italic; color: var(--ink-soft); margin: 0 0 1.25rem; }
 
 h2 {
-  font: 600 1.28rem/1.3 var(--serif);
+  font: 600 1.45rem/1.3 var(--serif);
   margin: 2.4rem 0 .7rem; padding-top: 1.2rem;
   border-top: 1px solid var(--rule);
 }
@@ -405,3 +412,40 @@ footer.site nav { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: .75r
 .submit-form .check { display: flex; gap: .5rem; align-items: flex-start; font-weight: normal; max-width: 40rem; }
 .submit-form button { margin-top: 1.2rem; padding: .6rem 1.2rem; border: 0; border-radius: 6px; background: var(--green); color: #fff; font: inherit; font-weight: 600; cursor: pointer; }
 .submit-form .hint { font-size: .85rem; color: var(--ink-soft); margin: .2rem 0 0; }
+
+/* ------------------------------------------------------------ redesign, stage 2 (Nov 2026)
+   A museum-catalogue treatment: a public-domain botanical plate mounted on a mat beside the
+   name block, a folio frame for the classical reference, and one traced lotus band under the
+   masthead (drawn after the Indian ornament plates in Owen Jones, The Grammar of Ornament, 1856).
+   Gold is used for rules and ornament only, never for text. */
+.lotus-band { height: 22px; opacity: .5; background: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2088%2022%22%3E%3Cg%20fill%3D%22%23b8860b%22%3E%3Cpath%20d%3D%22M44%204c-2.4%202.7-3.4%205.5-3.4%207.9%200%201.9%201.5%203.3%203.4%203.3s3.4-1.4%203.4-3.3C47.4%209.5%2046.4%206.7%2044%204z%22/%3E%3Cpath%20d%3D%22M39.7%2014.8c-3.4-.3-6.4-1.9-8-4.5%202.9-.4%205.6.4%207.4%202.1.5.7.7%201.5.6%202.4z%22/%3E%3Cpath%20d%3D%22M48.3%2014.8c3.4-.3%206.4-1.9%208-4.5-2.9-.4-5.6.4-7.4%202.1-.5.7-.7%201.5-.6%202.4z%22/%3E%3Cpath%20d%3D%22M0%2017.5c11%200%2011-6%2022-6s11%206%2022%206v.9c-11%200-11-6-22-6S11%2018.4%200%2018.4z%22%20opacity%3D%22.6%22/%3E%3Cpath%20d%3D%22M44%2017.5c11%200%2011-6%2022-6s11%206%2022%206v.9c-11%200-11-6-22-6s-11%206-22%206z%22%20opacity%3D%22.6%22/%3E%3C/g%3E%3C/svg%3E') repeat-x center / 88px 22px; }
+
+.mono-head.has-plate { display: grid; gap: 1.5rem; align-items: start; }
+.mono-lead { min-width: 0; }
+@media (min-width: 46rem) {
+  .mono-head.has-plate { grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); }
+}
+.plate { margin: 0 0 1.75rem; padding: .85rem; background: var(--plate-mat); border: 1px solid var(--gold-rule); }
+.plate img { display: block; width: 100%; height: auto; max-width: 100%; mix-blend-mode: multiply; filter: var(--plate-filter); }
+.plate figcaption { margin-top: .65rem; border-top: 1px solid var(--gold-rule); padding-top: .5rem; color: var(--plate-ink); }
+.plate .species { display: block; font: 400 1rem/1.35 var(--serif); }
+.plate .credit { display: block; font: 400 .78rem/1.45 var(--sans); margin-top: .25rem; }
+.plate .credit a { color: var(--plate-ink); }
+@media (max-width: 45.99rem) {
+  .plate { max-width: 26rem; }
+  .plate img { aspect-ratio: 4 / 3; object-fit: cover; object-position: top; }
+}
+
+.classical-ref {
+  position: relative; background: var(--paper); text-align: center;
+  border-inline: 3px double var(--gold-rule); padding: 1.5rem 1.5rem 1.1rem; margin: 1.5rem 0;
+}
+.classical-ref::before {
+  content: ""; position: absolute; top: .55rem; left: 50%; width: 9px; height: 9px; margin-left: -4.5px;
+  border: 1px solid var(--gold-rule); border-radius: 50%;
+}
+.classical-ref [lang="sa-Latn"] { font: italic 500 1.3rem/1.3 var(--serif); }
+
+.credits-list { list-style: none; padding: 0; display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); }
+.credits-list li { margin: 0; min-width: 0; }
+.credits-list .plate { margin: 0; }
