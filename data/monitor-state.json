@@ -4188,7 +4188,7 @@
       "https://nighantu.ageayurveda.com/practitioners/state/uttar-pradesh/": "db4444eb0df37c8f",
       "https://nighantu.ageayurveda.com/practitioners/state/uttarakhand/": "3735670757f504c3",
       "https://nighantu.ageayurveda.com/practitioners/state/west-bengal/": "437bccf49b394664",
-      "https://nighantu.ageayurveda.com/practitioners/submit/": "7a2eaebb4d1eb3fd",
+      "https://nighantu.ageayurveda.com/practitioners/submit/": "e80eb1bbb730a7a8",
       "https://nighantu.ageayurveda.com/practitioners/sundra/": "d5c8ec6b3c5cc675",
       "https://nighantu.ageayurveda.com/practitioners/sundra/sundra/": "f288788c8cd319ed",
       "https://nighantu.ageayurveda.com/practitioners/sundra/sundra/mahaveer-college-of-ayurvedic-science-hospital/": "ffed6d727047d28c",
@@ -4617,8 +4617,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "b45bacf9e83db25e",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9d5cc5ab940d5980"
     },
-    "lastSubmittedAt": "2026-11-10T11:53:16.683Z",
-    "lastSubmittedCount": 45,
+    "lastSubmittedAt": "2026-11-12T08:01:21.997Z",
+    "lastSubmittedCount": 1,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -10200,6 +10200,6 @@
     "seen": 25,
     "surfaced": 1
   },
-  "updatedAt": "2026-11-11T08:25:21.177Z",
+  "updatedAt": "2026-11-12T08:01:21.997Z",
   "version": 1
 }
