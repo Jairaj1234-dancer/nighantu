@@ -1,0 +1,120 @@
+---
+/**
+ * The Bhavaprakasha Nighantu as an index: its 24 chapters (varga), every dravya entry in them with
+ * its verse numbers, and a link wherever this site has a page for the same dravya. Built by
+ * scripts/bhavaprakasha.mjs; only headwords, chapters and verse numbers are published, no verse text.
+ */
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import bp from '../../data/bhavaprakasha.json';
+import { SITE_NAME, abs, rel, datasetIdentity } from '../../lib/site';
+
+const { summary, vargas, herbs, updatedAt, source } = bp as any;
+
+const description = `Where ${summary.linked} Ayurvedic herbs appear in the Bhavaprakasha Nighantu, by chapter `
+  + `and verse, with all ${summary.entries} entries of its ${summary.vargas} chapters. Browse by varga or download the index.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    ...datasetIdentity(),
+    '@id': `${abs('/bhavaprakasha/')}#dataset`,
+    name: 'Age Ayurveda Nighantu Bhavaprakasha Nighantu index',
+    description,
+    url: abs('/bhavaprakasha/'),
+    license: 'https://creativecommons.org/licenses/by/4.0/',
+    isAccessibleForFree: true,
+    inLanguage: 'en',
+    isBasedOn: source,
+    creator: { '@id': `${abs('/')}#organization` },
+    publisher: { '@id': `${abs('/')}#organization` },
+    variableMeasured: ['varga', 'entry', 'verse numbers'],
+    keywords: ['Ayurveda', 'Bhavaprakasha', 'Bhavaprakasha Nighantu', 'Bhavamishra', 'nighantu', 'materia medica', 'varga'],
+    distribution: [
+      { '@type': 'DataDownload', name: 'JSON', encodingFormat: 'application/json', contentUrl: abs('/bhavaprakasha.json') },
+      { '@type': 'DataDownload', name: 'CSV', encodingFormat: 'text/csv', contentUrl: abs('/bhavaprakasha.csv') },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Bhavaprakasha', item: abs('/bhavaprakasha/') },
+    ],
+  },
+];
+---
+<Base title={`Bhavaprakasha Nighantu index · ${SITE_NAME}`} description={description} canonical="/bhavaprakasha/" jsonld={jsonld} wide>
+  <Crumbs trail={[{ label: 'Bhavaprakasha' }]} />
+  <h1>Bhavaprakasha Nighantu</h1>
+
+  <p class="answer">
+    The Bhavaprakasha Nighantu is the materia medica section of the Bhavaprakasha, compiled by
+    Bhavamishra in the sixteenth century, and one of the standard references for identifying
+    Ayurvedic dravyas. It groups them into {summary.vargas} chapters (varga). This page lists every
+    entry in those chapters with its verse numbers, and links {summary.linked} of them to this
+    site's own page for the same dravya.
+  </p>
+
+  <table class="facts">
+    <caption>Coverage</caption>
+    <tbody>
+      <tr><th scope="row">Chapters (varga)</th><td>{summary.vargas}</td></tr>
+      <tr><th scope="row">Entries</th><td>{summary.entries}</td></tr>
+      <tr><th scope="row">Linked to a page on this site</th><td>{summary.linked}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Browse by chapter (varga)</h2>
+  <ul class="grid">
+    {vargas.map((v: any) => (
+      <li class="card">
+        <a href={rel(`/bhavaprakasha/${v.slug}/`)}>{v.number}. {v.name}</a>
+        <p><strong>{v.entries.length}</strong> entries{v.entries.some((e: any) => e.pages.length) && <>, {v.entries.filter((e: any) => e.pages.length).length} with a page here</>}.</p>
+      </li>
+    ))}
+  </ul>
+
+  {herbs.length > 0 && (
+    <>
+      <h2>Herbs on this site, by where the text describes them</h2>
+      <div class="tablewrap">
+        <table>
+          <thead>
+            <tr><th scope="col">Herb</th><th scope="col">Entry</th><th scope="col">Chapter</th><th scope="col">Verses</th></tr>
+          </thead>
+          <tbody>
+            {herbs.map((h: any) => (
+              <tr>
+                <td><a href={rel(`/herb/${h.slug}/`)}>{h.title}</a></td>
+                <td lang="sa-Latn">{h.entry}</td>
+                <td><a href={rel(`/bhavaprakasha/${h.vargaSlug}/`)}>{h.varga}. {h.vargaName}</a></td>
+                <td>{h.verses}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </>
+  )}
+
+  <h2>Source and method</h2>
+  <p>
+    Chapters, headwords and verse numbers follow the <a href={source} rel="noopener">e-Nighantu edition</a> published
+    by the National Institute of Indian Medical Heritage (NIIMH), Hyderabad, for the Central Council
+    for Research in Ayurvedic Sciences. Verse numbering differs between printed editions, so cite
+    the edition alongside the number. Headwords are shown in IAST transliteration. A herb is linked
+    only where its identity with the entry was proposed and then checked independently; doubtful
+    identifications are left unlinked rather than guessed. No verse text is reproduced here.
+  </p>
+
+  <h2>Download</h2>
+  <p>
+    <a href={rel('/bhavaprakasha.json')}>bhavaprakasha.json</a> and
+    <a href={rel('/bhavaprakasha.csv')}>bhavaprakasha.csv</a>, free to reuse under CC BY 4.0.
+  </p>
+
+  <p class="meta">Rebuilt {updatedAt}.</p>
+</Base>

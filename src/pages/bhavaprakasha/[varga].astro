@@ -1,0 +1,67 @@
+---
+/** One chapter (varga) of the Bhavaprakasha Nighantu: its entries, verse numbers and links to site pages. */
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import bp from '../../data/bhavaprakasha.json';
+import { SITE_NAME, abs, rel } from '../../lib/site';
+
+export function getStaticPaths() {
+  const { vargas } = bp as any;
+  return vargas.map((v: any, i: number) => ({
+    params: { varga: v.slug },
+    props: { v, prev: vargas[i - 1] ?? null, next: vargas[i + 1] ?? null },
+  }));
+}
+
+const { v, prev, next } = Astro.props as any;
+const { source } = bp as any;
+const canonical = `/bhavaprakasha/${v.slug}/`;
+const linked = v.entries.filter((e: any) => e.pages.length);
+const description = `${v.name}, chapter ${v.number} of the Bhavaprakasha Nighantu: all ${v.entries.length} entries `
+  + `with their verse numbers${linked.length ? `, ${linked.length} linked to a page on this site` : ''}.`;
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Nighantu', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Bhavaprakasha', item: abs('/bhavaprakasha/') },
+      { '@type': 'ListItem', position: 3, name: v.name, item: abs(canonical) },
+    ],
+  },
+];
+---
+<Base title={`${v.name}, Bhavaprakasha Nighantu · ${SITE_NAME}`} description={description} canonical={canonical} jsonld={jsonld}>
+  <Crumbs trail={[{ label: 'Bhavaprakasha', href: '/bhavaprakasha/' }, { label: v.name }]} />
+  <h1>{v.name}</h1>
+
+  <p class="answer">
+    {v.name} is chapter {v.number} of the Bhavaprakasha Nighantu. It has {v.entries.length} entries{linked.length > 0 && <>, of which {linked.length} {linked.length === 1 ? 'is' : 'are'} the same dravya as a page on this site</>}.
+    Verse numbers follow the <a href={source} rel="noopener">e-Nighantu edition</a> (NIIMH, for CCRAS).
+  </p>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr><th scope="col">Entry</th><th scope="col">Verses</th><th scope="col">Page on this site</th></tr>
+      </thead>
+      <tbody>
+        {v.entries.map((e: any) => (
+          <tr>
+            <td lang="sa-Latn">{e.entry}</td>
+            <td>{e.verses}</td>
+            <td>{e.pages.map((p: any, i: number) => <>{i > 0 && ', '}<a href={rel(`/herb/${p.slug}/`)}>{p.title}</a></>)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    {prev && <a href={rel(`/bhavaprakasha/${prev.slug}/`)}>Previous: {prev.number}. {prev.name}</a>}
+    {prev && next && ' · '}
+    {next && <a href={rel(`/bhavaprakasha/${next.slug}/`)}>Next: {next.number}. {next.name}</a>}
+  </p>
+  <p><a href={rel('/bhavaprakasha/')}>All chapters, and how the index is made</a>.</p>
+</Base>

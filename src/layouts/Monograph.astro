@@ -15,6 +15,7 @@ import Disclosure from '../components/Disclosure.astro';
 import CiteThis from '../components/CiteThis.astro';
 import Related from '../components/Related.astro';
 import duplicates from '../data/duplicates.json';
+import bhavaprakasha from '../data/bhavaprakasha.json';
 import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
@@ -24,6 +25,8 @@ import { pageTitle, formularySentence } from '../lib/lead';
 interface Props { entry: any; sectionLabel: string; sectionHref: string }
 const { entry, sectionLabel, sectionHref } = Astro.props;
 const d = entry.data;
+/** Where the Bhavaprakasha Nighantu describes this dravya, when the match has been checked. */
+const bp = d.kind === 'herb' ? (bhavaprakasha as any).herbs.find((h: any) => h.slug === d.slug) : null;
 const lead = formularySentence(d);
 const description = lead ? `${d.answer} ${lead}` : d.answer;
 
@@ -195,6 +198,10 @@ const breadcrumbs = {
     <Composition kind={d.kind} slug={d.slug} />
 
     <NameForms kind={d.kind} slug={d.slug} />
+
+    {bp && (
+      <p class="classical-ref">In the Bhavaprakasha Nighantu: <span lang="sa-Latn">{bp.entry}</span>, <a href={rel(`/bhavaprakasha/${bp.vargaSlug}/`)}>{bp.vargaName}</a> (chapter {bp.varga}), verse{bp.verses.includes('-') || bp.verses.includes(',') ? 's' : ''} {bp.verses}, in the <a href={(bhavaprakasha as any).source} rel="noopener">e-Nighantu edition</a>.</p>
+    )}
 
     {/*
       Placed directly after Key facts and the names, which is still inside the first screen on a

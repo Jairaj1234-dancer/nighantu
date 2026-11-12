@@ -1,0 +1,5826 @@
+{
+ "updatedAt": "2026-11-12",
+ "source": "https://niimh.nic.in/ebooks/e-Nighantu/bhavaprakashanighantu/",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "vargas": [
+  {
+   "number": 1,
+   "name": "Miśra varga",
+   "entries": [
+    {
+     "entry": "Vyādhilakṣaṇa",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Rogabheda",
+     "verses": "2",
+     "pages": []
+    },
+    {
+     "entry": "Vyādhibheda",
+     "verses": "3",
+     "pages": []
+    },
+    {
+     "entry": "Karmaja vyādhi",
+     "verses": "4-5",
+     "pages": []
+    },
+    {
+     "entry": "Rogakṣayahetu",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Sādhyādi vyādhibheda",
+     "verses": "7",
+     "pages": []
+    },
+    {
+     "entry": "Yāpyalakṣaṇa",
+     "verses": "8-9",
+     "pages": []
+    },
+    {
+     "entry": "Sādhya-yāpya roga cikitsā āvaśyaka",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Upadrava lakṣaṇa",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Ariṣṭa lakṣaṇa",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Cikitsā lakṣaṇa",
+     "verses": "13-16",
+     "pages": []
+    },
+    {
+     "entry": "Cikitsāvidhi upadeśa",
+     "verses": "17-18",
+     "pages": []
+    },
+    {
+     "entry": "Rogājñāne cikitsākarma-doṣa",
+     "verses": "19-20",
+     "pages": []
+    },
+    {
+     "entry": "Rogajñāne’pi bheṣajājñāna-doṣa",
+     "verses": "21-22",
+     "pages": []
+    },
+    {
+     "entry": "Rogauṣadha ubhayajñāna  āvaśyaka",
+     "verses": "23-27",
+     "pages": []
+    },
+    {
+     "entry": "Kriyākālānusāra cikitsā",
+     "verses": "28-29",
+     "pages": []
+    },
+    {
+     "entry": "Atiriktā-hīnā-kriyā niṣedha",
+     "verses": "30-35",
+     "pages": []
+    },
+    {
+     "entry": "Cikitsāphala",
+     "verses": "36-37",
+     "pages": []
+    },
+    {
+     "entry": "Vaidyopajīvikā",
+     "verses": "38-40",
+     "pages": []
+    },
+    {
+     "entry": "Cikitsāṅga",
+     "verses": "41",
+     "pages": []
+    },
+    {
+     "entry": "Rogīlakṣaṇa",
+     "verses": "42",
+     "pages": []
+    },
+    {
+     "entry": "Cikitsya rogīlakṣaṇa",
+     "verses": "43-44",
+     "pages": []
+    },
+    {
+     "entry": "Acikitsya rogī",
+     "verses": "45-46",
+     "pages": []
+    },
+    {
+     "entry": "Dūta lakṣaṇa",
+     "verses": "47-49",
+     "pages": []
+    },
+    {
+     "entry": "Dūta-śakuna vicāra",
+     "verses": "50-51",
+     "pages": []
+    },
+    {
+     "entry": "Suvaidya lakṣaṇa",
+     "verses": "52-54",
+     "pages": []
+    },
+    {
+     "entry": "Niṣiddha vaidya lakṣaṇa",
+     "verses": "55",
+     "pages": []
+    },
+    {
+     "entry": "Vaidya karma",
+     "verses": "56-59",
+     "pages": []
+    },
+    {
+     "entry": "Āyuṣ vicāra",
+     "verses": "60",
+     "pages": []
+    },
+    {
+     "entry": "Dīrghāyuṣ lakṣaṇa",
+     "verses": "61-64",
+     "pages": []
+    },
+    {
+     "entry": "Svalpāyuṣ lakṣaṇa",
+     "verses": "65-98",
+     "pages": []
+    },
+    {
+     "entry": "Dravyāvaśyakatā",
+     "verses": "99",
+     "pages": []
+    },
+    {
+     "entry": "Paricāraka lakṣaṇa",
+     "verses": "100",
+     "pages": []
+    },
+    {
+     "entry": "Bheṣaja lakṣaṇa",
+     "verses": "101",
+     "pages": []
+    },
+    {
+     "entry": "Auṣadhagrahaṇaparibhāṣā",
+     "verses": "102-121",
+     "pages": []
+    },
+    {
+     "entry": "Dravya parīkṣā",
+     "verses": "122-131",
+     "pages": []
+    },
+    {
+     "entry": "Svabhāvataḥ hitakara dravya",
+     "verses": "132-138",
+     "pages": []
+    },
+    {
+     "entry": "Svabhāvataḥ ahitakara dravya",
+     "verses": "139-140",
+     "pages": []
+    },
+    {
+     "entry": "Saṃyogaviruddha",
+     "verses": "141-145",
+     "pages": []
+    },
+    {
+     "entry": "Bheṣajagrahaṇasaṅketa",
+     "verses": "146-148",
+     "pages": []
+    },
+    {
+     "entry": "Pratinidhidravya",
+     "verses": "149-178",
+     "pages": []
+    },
+    {
+     "entry": "Dravyagata pañcapadārthakarma",
+     "verses": "179-184",
+     "pages": []
+    },
+    {
+     "entry": "Madhurarasa guṇa",
+     "verses": "185-187",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta madhurarasa doṣa",
+     "verses": "188",
+     "pages": []
+    },
+    {
+     "entry": "Amlarasa guṇa",
+     "verses": "189-190",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta amlarasa doṣa",
+     "verses": "191",
+     "pages": []
+    },
+    {
+     "entry": "Lavaṇarasa guṇa",
+     "verses": "192",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta lavaṇarasa doṣa",
+     "verses": "193",
+     "pages": []
+    },
+    {
+     "entry": "Kaṭurasa guṇa",
+     "verses": "194-196",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta kaṭurasa doṣa",
+     "verses": "197",
+     "pages": []
+    },
+    {
+     "entry": "Tiktarasa guṇa",
+     "verses": "198-199",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta tiktarasa doṣa",
+     "verses": "200",
+     "pages": []
+    },
+    {
+     "entry": "Kaṣāyarasa guṇa",
+     "verses": "201-202",
+     "pages": []
+    },
+    {
+     "entry": "Atimātraprayukta kaṣāyarasa doṣa",
+     "verses": "203",
+     "pages": []
+    },
+    {
+     "entry": "Madhurādirasayukta viśiṣṭa dravya",
+     "verses": "204-209",
+     "pages": []
+    },
+    {
+     "entry": "Ākāśādisambandhidravyaguṇa",
+     "verses": "210",
+     "pages": []
+    },
+    {
+     "entry": "Laghvādiguṇavaddravya karma",
+     "verses": "211-220",
+     "pages": []
+    },
+    {
+     "entry": "Dīpana, pācana",
+     "verses": "221",
+     "pages": []
+    },
+    {
+     "entry": "Śamana",
+     "verses": "222",
+     "pages": []
+    },
+    {
+     "entry": "Anulomana",
+     "verses": "223",
+     "pages": []
+    },
+    {
+     "entry": "Sraṃsana",
+     "verses": "224",
+     "pages": []
+    },
+    {
+     "entry": "Bhedana",
+     "verses": "225",
+     "pages": []
+    },
+    {
+     "entry": "Recana",
+     "verses": "226",
+     "pages": []
+    },
+    {
+     "entry": "Vamana",
+     "verses": "227",
+     "pages": []
+    },
+    {
+     "entry": "Dehasaṃśodhana",
+     "verses": "228",
+     "pages": []
+    },
+    {
+     "entry": "Grāhī",
+     "verses": "229",
+     "pages": []
+    },
+    {
+     "entry": "Stambhana",
+     "verses": "230",
+     "pages": []
+    },
+    {
+     "entry": "Chedana",
+     "verses": "231",
+     "pages": []
+    },
+    {
+     "entry": "Lekhana",
+     "verses": "232",
+     "pages": []
+    },
+    {
+     "entry": "Vājīkara",
+     "verses": "233",
+     "pages": []
+    },
+    {
+     "entry": "Śukrala",
+     "verses": "234",
+     "pages": []
+    },
+    {
+     "entry": "Śukrajanaka, śukrarecaka",
+     "verses": "235",
+     "pages": []
+    },
+    {
+     "entry": "Śukrapravartaka, śukrastambhaka, śukrakṣayakara",
+     "verses": "236",
+     "pages": []
+    },
+    {
+     "entry": "Rasāyana",
+     "verses": "237",
+     "pages": []
+    },
+    {
+     "entry": "Vyavāyi",
+     "verses": "238",
+     "pages": []
+    },
+    {
+     "entry": "Vikāśī",
+     "verses": "239",
+     "pages": []
+    },
+    {
+     "entry": "Madakārī",
+     "verses": "240",
+     "pages": []
+    },
+    {
+     "entry": "Viṣa",
+     "verses": "241",
+     "pages": []
+    },
+    {
+     "entry": "Pramāthi",
+     "verses": "242",
+     "pages": []
+    },
+    {
+     "entry": "Abhiṣyandi",
+     "verses": "243",
+     "pages": []
+    },
+    {
+     "entry": "Vidāhī",
+     "verses": "244",
+     "pages": []
+    },
+    {
+     "entry": "Yogavāhī",
+     "verses": "245",
+     "pages": []
+    },
+    {
+     "entry": "Vīrya",
+     "verses": "246-248",
+     "pages": []
+    },
+    {
+     "entry": "Vipāka",
+     "verses": "249",
+     "pages": []
+    },
+    {
+     "entry": "Madhurādirasayuktadravya vipāka",
+     "verses": "250-251",
+     "pages": []
+    },
+    {
+     "entry": "Vipāka guṇa",
+     "verses": "252-253",
+     "pages": []
+    },
+    {
+     "entry": "Prabhāva",
+     "verses": "254-259",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "name": "Harītakyādi varga",
+   "entries": [
+    {
+     "entry": "Harītakī utpatti",
+     "verses": "1-5",
+     "pages": []
+    },
+    {
+     "entry": "Harītakīparyāya",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Harītakī saptabheda",
+     "verses": "7-9",
+     "pages": []
+    },
+    {
+     "entry": "Harītakīprayoga",
+     "verses": "10-17",
+     "pages": []
+    },
+    {
+     "entry": "Harītakīguṇa, prabhāva",
+     "verses": "18-24",
+     "pages": [
+      "haritaki"
+     ]
+    },
+    {
+     "entry": "Śreṣṭhaharītakīlakṣaṇa",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Harītakīprayogavidhi, ṛtvanusāra prayogavidhi",
+     "verses": "27-31",
+     "pages": []
+    },
+    {
+     "entry": "Harītakīsevanā’nārha",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Vibhītaka",
+     "verses": "33-35",
+     "pages": [
+      "bibhitaki"
+     ]
+    },
+    {
+     "entry": "Āmalakī",
+     "verses": "36-38",
+     "pages": [
+      "amla"
+     ]
+    },
+    {
+     "entry": "Triphalā",
+     "verses": "39-40",
+     "pages": [
+      "triphala-herbs",
+      "triphala"
+     ]
+    },
+    {
+     "entry": "Śuṇṭhī",
+     "verses": "41-45",
+     "pages": [
+      "ginger",
+      "zingiber"
+     ]
+    },
+    {
+     "entry": "Ārdraka",
+     "verses": "46-48",
+     "pages": []
+    },
+    {
+     "entry": "Pippalī",
+     "verses": "49-54",
+     "pages": [
+      "pippali"
+     ]
+    },
+    {
+     "entry": "Marica",
+     "verses": "55-56",
+     "pages": [
+      "black-pepper"
+     ]
+    },
+    {
+     "entry": "Trikaṭu",
+     "verses": "57-58",
+     "pages": [
+      "trikatu"
+     ]
+    },
+    {
+     "entry": "Pippalīmūla",
+     "verses": "59",
+     "pages": [
+      "pippali-moola"
+     ]
+    },
+    {
+     "entry": "Caturūṣaṇa",
+     "verses": "60",
+     "pages": []
+    },
+    {
+     "entry": "Cavya",
+     "verses": "61",
+     "pages": [
+      "chavika",
+      "chavya"
+     ]
+    },
+    {
+     "entry": "Gajapippalī",
+     "verses": "62-63",
+     "pages": [
+      "gajapippali"
+     ]
+    },
+    {
+     "entry": "Citraka",
+     "verses": "64",
+     "pages": [
+      "chitrak",
+      "chitraka-moola"
+     ]
+    },
+    {
+     "entry": "Pañcakola",
+     "verses": "65-66",
+     "pages": []
+    },
+    {
+     "entry": "Ṣaḍūṣaṇa",
+     "verses": "67",
+     "pages": []
+    },
+    {
+     "entry": "Yavānī",
+     "verses": "68-69",
+     "pages": [
+      "yavani",
+      "ajwain"
+     ]
+    },
+    {
+     "entry": "Ajamodā",
+     "verses": "70-71",
+     "pages": [
+      "ajmoda"
+     ]
+    },
+    {
+     "entry": "Pārasīkayavānī",
+     "verses": "72",
+     "pages": []
+    },
+    {
+     "entry": "Śuklajīraka, kṛṣṇajīraka",
+     "verses": "73-76",
+     "pages": [
+      "cumin",
+      "jeeraka",
+      "cumin-herb",
+      "krishna-jeeraka"
+     ]
+    },
+    {
+     "entry": "Dhānyaka",
+     "verses": "77-79",
+     "pages": [
+      "coriander",
+      "dhanyaka"
+     ]
+    },
+    {
+     "entry": "Śatapuṣpā, miśreyā",
+     "verses": "80-82",
+     "pages": [
+      "fennel-herb",
+      "fennel",
+      "mishreya"
+     ]
+    },
+    {
+     "entry": "Methī, vanamethī",
+     "verses": "83-85",
+     "pages": [
+      "methi"
+     ]
+    },
+    {
+     "entry": "Candraśūra",
+     "verses": "86-87",
+     "pages": [
+      "chandrashura"
+     ]
+    },
+    {
+     "entry": "Caturbīja",
+     "verses": "88-89",
+     "pages": []
+    },
+    {
+     "entry": "Hiṅgu",
+     "verses": "90",
+     "pages": [
+      "hingu"
+     ]
+    },
+    {
+     "entry": "Vacā",
+     "verses": "91-92",
+     "pages": [
+      "vacha"
+     ]
+    },
+    {
+     "entry": "Pārasīkavacā",
+     "verses": "93",
+     "pages": []
+    },
+    {
+     "entry": "Kulañjana",
+     "verses": "94",
+     "pages": []
+    },
+    {
+     "entry": "Mahābhārī vacā",
+     "verses": "95",
+     "pages": []
+    },
+    {
+     "entry": "Dvīpāntaravacā",
+     "verses": "96-97",
+     "pages": []
+    },
+    {
+     "entry": "Hapuṣādvaya",
+     "verses": "98-99",
+     "pages": [
+      "hapusa"
+     ]
+    },
+    {
+     "entry": "Viḍaṅga",
+     "verses": "100-101",
+     "pages": [
+      "vidanga"
+     ]
+    },
+    {
+     "entry": "Tumburu",
+     "verses": "102-103",
+     "pages": [
+      "tumburu"
+     ]
+    },
+    {
+     "entry": "Vaṃśalocana",
+     "verses": "104-105",
+     "pages": [
+      "vamshalochana"
+     ]
+    },
+    {
+     "entry": "Samudraphena",
+     "verses": "106",
+     "pages": []
+    },
+    {
+     "entry": "Aṣṭavarga",
+     "verses": "107-108",
+     "pages": []
+    },
+    {
+     "entry": "Jīvaka, ṛṣabhaka",
+     "verses": "109-110",
+     "pages": [
+      "jivaka",
+      "rishabhaka"
+     ]
+    },
+    {
+     "entry": "Medā, mahāmedā",
+     "verses": "111-115",
+     "pages": [
+      "meda"
+     ]
+    },
+    {
+     "entry": "Kākolī, kṣīrakākolī",
+     "verses": "116-120",
+     "pages": [
+      "kakoli"
+     ]
+    },
+    {
+     "entry": "Ṛddhi, vṛddhi",
+     "verses": "121-126",
+     "pages": [
+      "vriddhi",
+      "riddhi"
+     ]
+    },
+    {
+     "entry": "Aṣṭavargapratinidhidravya",
+     "verses": "127",
+     "pages": []
+    },
+    {
+     "entry": "Yaṣṭīmadhu",
+     "verses": "128-129",
+     "pages": [
+      "yashtimadhu",
+      "licorice-herb"
+     ]
+    },
+    {
+     "entry": "Kāmpilla",
+     "verses": "130",
+     "pages": [
+      "kampillaka"
+     ]
+    },
+    {
+     "entry": "Āragvadha",
+     "verses": "131-133",
+     "pages": [
+      "aragwadha"
+     ]
+    },
+    {
+     "entry": "Kaṭukā",
+     "verses": "134-135",
+     "pages": [
+      "katuki"
+     ]
+    },
+    {
+     "entry": "Kirātatikta",
+     "verses": "136-137",
+     "pages": [
+      "chirayata",
+      "kiratatikta"
+     ]
+    },
+    {
+     "entry": "Indrayava",
+     "verses": "138-140",
+     "pages": [
+      "indrayava"
+     ]
+    },
+    {
+     "entry": "Madana",
+     "verses": "141-142",
+     "pages": [
+      "madanaphala"
+     ]
+    },
+    {
+     "entry": "Rāsnā",
+     "verses": "143-144",
+     "pages": [
+      "rasna"
+     ]
+    },
+    {
+     "entry": "Nākulī",
+     "verses": "145-146",
+     "pages": []
+    },
+    {
+     "entry": "Mācikā",
+     "verses": "147-148",
+     "pages": []
+    },
+    {
+     "entry": "Tejavatī",
+     "verses": "149",
+     "pages": []
+    },
+    {
+     "entry": "Jyotiṣmatī",
+     "verses": "150-151",
+     "pages": [
+      "jyotishmati"
+     ]
+    },
+    {
+     "entry": "Kuṣṭha",
+     "verses": "152",
+     "pages": []
+    },
+    {
+     "entry": "Puṣkaramūla",
+     "verses": "153-154",
+     "pages": [
+      "pushkarmool"
+     ]
+    },
+    {
+     "entry": "Kaṭuparṇī",
+     "verses": "155-156",
+     "pages": []
+    },
+    {
+     "entry": "Karkaṭaśṛṅgī",
+     "verses": "157-158",
+     "pages": [
+      "karkatashringi"
+     ]
+    },
+    {
+     "entry": "Kaṭphala",
+     "verses": "159-160",
+     "pages": [
+      "katphala"
+     ]
+    },
+    {
+     "entry": "Bhārṅgī",
+     "verses": "161",
+     "pages": [
+      "bharangi"
+     ]
+    },
+    {
+     "entry": "Pāṣāṇabheda",
+     "verses": "162",
+     "pages": [
+      "pashanabheda"
+     ]
+    },
+    {
+     "entry": "Dhātakī",
+     "verses": "163-164",
+     "pages": [
+      "dhataki"
+     ]
+    },
+    {
+     "entry": "Mañjiṣṭhā",
+     "verses": "165-167",
+     "pages": [
+      "manjishtha",
+      "manjistha"
+     ]
+    },
+    {
+     "entry": "Kusumbha",
+     "verses": "168",
+     "pages": [
+      "kusumbha"
+     ]
+    },
+    {
+     "entry": "Lākṣā",
+     "verses": "169-170",
+     "pages": []
+    },
+    {
+     "entry": "Haridrā",
+     "verses": "171-172",
+     "pages": [
+      "turmeric",
+      "haridra"
+     ]
+    },
+    {
+     "entry": "Āmragandhaharidrā",
+     "verses": "173-174",
+     "pages": [
+      "amra-haridra"
+     ]
+    },
+    {
+     "entry": "Vanaharidrā",
+     "verses": "175",
+     "pages": []
+    },
+    {
+     "entry": "Dāruharidrā",
+     "verses": "175-177",
+     "pages": [
+      "daruharidra"
+     ]
+    },
+    {
+     "entry": "Rasāñjana",
+     "verses": "178-179",
+     "pages": []
+    },
+    {
+     "entry": "Bākucī",
+     "verses": "180-182",
+     "pages": [
+      "bakuchi"
+     ]
+    },
+    {
+     "entry": "Cakramarda",
+     "verses": "183-185",
+     "pages": [
+      "dadrughna",
+      "chakramarda",
+      "prapunnada"
+     ]
+    },
+    {
+     "entry": "Ativiṣā",
+     "verses": "186-187",
+     "pages": []
+    },
+    {
+     "entry": "Lodhra",
+     "verses": "188-189",
+     "pages": [
+      "lodhra"
+     ]
+    },
+    {
+     "entry": "Laśuna",
+     "verses": "190-198",
+     "pages": [
+      "lasuna",
+      "rasona-garlic"
+     ]
+    },
+    {
+     "entry": "Palāṇḍu",
+     "verses": "199",
+     "pages": [
+      "palandu"
+     ]
+    },
+    {
+     "entry": "Bhallātaka",
+     "verses": "200-204",
+     "pages": []
+    },
+    {
+     "entry": "Bhaṅgā",
+     "verses": "205",
+     "pages": [
+      "bhanga"
+     ]
+    },
+    {
+     "entry": "Khākhasa",
+     "verses": "206-207",
+     "pages": []
+    },
+    {
+     "entry": "Ahiphenaka",
+     "verses": "208",
+     "pages": [
+      "ahiphena"
+     ]
+    },
+    {
+     "entry": "Khākhasatilā (khasabījā)",
+     "verses": "209",
+     "pages": []
+    },
+    {
+     "entry": "Saindhavalavaṇa",
+     "verses": "210",
+     "pages": [
+      "saindhava-lavana"
+     ]
+    },
+    {
+     "entry": "Śākambharīlavaṇa",
+     "verses": "211",
+     "pages": []
+    },
+    {
+     "entry": "Sāmudralavaṇa",
+     "verses": "212-213",
+     "pages": [
+      "samudra-lavana"
+     ]
+    },
+    {
+     "entry": "Biḍalavaṇa",
+     "verses": "214-215",
+     "pages": [
+      "vida-lavana"
+     ]
+    },
+    {
+     "entry": "Sauvarcalalavaṇa",
+     "verses": "216",
+     "pages": [
+      "souvarchala-lavana"
+     ]
+    },
+    {
+     "entry": "Audbhidalavaṇa",
+     "verses": "217",
+     "pages": []
+    },
+    {
+     "entry": "Caṇakāmla",
+     "verses": "218",
+     "pages": []
+    },
+    {
+     "entry": "Yavakṣāra",
+     "verses": "219-221",
+     "pages": [
+      "yavakshara"
+     ]
+    },
+    {
+     "entry": "Ṭaṅkaṇakṣāra",
+     "verses": "222",
+     "pages": []
+    },
+    {
+     "entry": "Kṣāradvaya, kṣāratraya, kṣārāṣṭaka",
+     "verses": "223-224",
+     "pages": []
+    },
+    {
+     "entry": "Cukra",
+     "verses": "225",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "name": "Karpūrādi varga",
+   "entries": [
+    {
+     "entry": "Karpūra",
+     "verses": "1-3",
+     "pages": [
+      "camphor",
+      "karpura-camphor"
+     ]
+    },
+    {
+     "entry": "Cīnākakarpūra",
+     "verses": "4",
+     "pages": []
+    },
+    {
+     "entry": "Kastūrī",
+     "verses": "5-8",
+     "pages": [
+      "kasturi"
+     ]
+    },
+    {
+     "entry": "Latākastūrī",
+     "verses": "9",
+     "pages": [
+      "lata-kasturi"
+     ]
+    },
+    {
+     "entry": "Gandhamārjāra",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Candana",
+     "verses": "11-13",
+     "pages": [
+      "chandana"
+     ]
+    },
+    {
+     "entry": "Kālīyaka (pīta candana)",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Raktacandana",
+     "verses": "15-16",
+     "pages": [
+      "rakta-chandana"
+     ]
+    },
+    {
+     "entry": "Pataṅga",
+     "verses": "17-19",
+     "pages": [
+      "pattanga"
+     ]
+    },
+    {
+     "entry": "Aguru",
+     "verses": "20-22",
+     "pages": []
+    },
+    {
+     "entry": "Devadāru",
+     "verses": "23-24",
+     "pages": [
+      "devadaru"
+     ]
+    },
+    {
+     "entry": "Sarala",
+     "verses": "25",
+     "pages": []
+    },
+    {
+     "entry": "Tagara",
+     "verses": "26-27",
+     "pages": [
+      "tagara"
+     ]
+    },
+    {
+     "entry": "Padmaka",
+     "verses": "28",
+     "pages": [
+      "padmaka"
+     ]
+    },
+    {
+     "entry": "Guggulu",
+     "verses": "29-41",
+     "pages": []
+    },
+    {
+     "entry": "Śrīveṣṭaka",
+     "verses": "42",
+     "pages": []
+    },
+    {
+     "entry": "Rāla",
+     "verses": "43-44",
+     "pages": []
+    },
+    {
+     "entry": "Kunduru",
+     "verses": "45",
+     "pages": []
+    },
+    {
+     "entry": "Sihlaka",
+     "verses": "46-47",
+     "pages": []
+    },
+    {
+     "entry": "Jātīphala",
+     "verses": "48-49",
+     "pages": [
+      "jatiphala"
+     ]
+    },
+    {
+     "entry": "Jātīpatrī",
+     "verses": "50",
+     "pages": [
+      "javitri"
+     ]
+    },
+    {
+     "entry": "Lavaṅga",
+     "verses": "51-52",
+     "pages": [
+      "laung",
+      "lavanga"
+     ]
+    },
+    {
+     "entry": "Bṛhadelā",
+     "verses": "53-54",
+     "pages": []
+    },
+    {
+     "entry": "Sūkṣmailā",
+     "verses": "55",
+     "pages": [
+      "ela"
+     ]
+    },
+    {
+     "entry": "Tvakpatra",
+     "verses": "56",
+     "pages": []
+    },
+    {
+     "entry": "Tvak (dārusitā)",
+     "verses": "57",
+     "pages": [
+      "twak-cinnamon"
+     ]
+    },
+    {
+     "entry": "Tamālapatra",
+     "verses": "58",
+     "pages": [
+      "tamalpatra",
+      "tejapatra"
+     ]
+    },
+    {
+     "entry": "Nāgakeśara",
+     "verses": "59-60",
+     "pages": [
+      "nagakesara"
+     ]
+    },
+    {
+     "entry": "Trijātaka, cāturjātaka",
+     "verses": "61-62",
+     "pages": []
+    },
+    {
+     "entry": "Kuṅkuma",
+     "verses": "63-67",
+     "pages": [
+      "saffron"
+     ]
+    },
+    {
+     "entry": "Gorocana",
+     "verses": "68",
+     "pages": [
+      "gorochana"
+     ]
+    },
+    {
+     "entry": "Vyāghranakha",
+     "verses": "69-70",
+     "pages": []
+    },
+    {
+     "entry": "Bālaka",
+     "verses": "71-72",
+     "pages": [
+      "hrivera"
+     ]
+    },
+    {
+     "entry": "Vīraṇa",
+     "verses": "73-74",
+     "pages": [
+      "ushira"
+     ]
+    },
+    {
+     "entry": "Jaṭāmāṃsī",
+     "verses": "75",
+     "pages": [
+      "jatamansi"
+     ]
+    },
+    {
+     "entry": "Śaileya",
+     "verses": "76",
+     "pages": []
+    },
+    {
+     "entry": "Mustaka",
+     "verses": "77-79",
+     "pages": [
+      "nagarmotha"
+     ]
+    },
+    {
+     "entry": "Karcūra",
+     "verses": "80",
+     "pages": [
+      "kachura"
+     ]
+    },
+    {
+     "entry": "Murā",
+     "verses": "81",
+     "pages": []
+    },
+    {
+     "entry": "Śaṭī",
+     "verses": "82-83",
+     "pages": [
+      "shati"
+     ]
+    },
+    {
+     "entry": "Priyaṅgu, gandhapriyaṅgu",
+     "verses": "84-86",
+     "pages": [
+      "priyangu"
+     ]
+    },
+    {
+     "entry": "Hareṇukā",
+     "verses": "87-88",
+     "pages": [
+      "renuka"
+     ]
+    },
+    {
+     "entry": "Granthiparṇa",
+     "verses": "89-90",
+     "pages": [
+      "granthiparni"
+     ]
+    },
+    {
+     "entry": "Sthauṇeyaka",
+     "verses": "91-92",
+     "pages": [
+      "sthneyaka",
+      "sthuneyaka"
+     ]
+    },
+    {
+     "entry": "Granthiparṇabheda",
+     "verses": "93",
+     "pages": []
+    },
+    {
+     "entry": "Tālīsapatra",
+     "verses": "94",
+     "pages": [
+      "talisapatra",
+      "talisa"
+     ]
+    },
+    {
+     "entry": "Kaṅkola",
+     "verses": "95",
+     "pages": [
+      "kankola"
+     ]
+    },
+    {
+     "entry": "Gandhakokilā",
+     "verses": "96",
+     "pages": []
+    },
+    {
+     "entry": "Lāmajjaka",
+     "verses": "97-98",
+     "pages": []
+    },
+    {
+     "entry": "Elavāluka",
+     "verses": "99-100",
+     "pages": []
+    },
+    {
+     "entry": "Kaivartamusta",
+     "verses": "101-102",
+     "pages": []
+    },
+    {
+     "entry": "Spṛkkā",
+     "verses": "103-104",
+     "pages": []
+    },
+    {
+     "entry": "Parpaṭī",
+     "verses": "105-106",
+     "pages": []
+    },
+    {
+     "entry": "Nalikā",
+     "verses": "107-108",
+     "pages": []
+    },
+    {
+     "entry": "Prapauṇḍarīka",
+     "verses": "109",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "name": "Guḍūcyādi varga",
+   "entries": [
+    {
+     "entry": "Guḍūcī",
+     "verses": "1-9",
+     "pages": [
+      "guduchi"
+     ]
+    },
+    {
+     "entry": "Tāmbūlavallī",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Bilva",
+     "verses": "11",
+     "pages": [
+      "bilva"
+     ]
+    },
+    {
+     "entry": "Gambhārī",
+     "verses": "12-15",
+     "pages": [
+      "gambhari",
+      "gambhari-phala"
+     ]
+    },
+    {
+     "entry": "Pāṭalā",
+     "verses": "16-19",
+     "pages": [
+      "patala"
+     ]
+    },
+    {
+     "entry": "Agnimantha",
+     "verses": "20-21",
+     "pages": [
+      "agnimantha"
+     ]
+    },
+    {
+     "entry": "Śyonāka",
+     "verses": "22-24",
+     "pages": [
+      "shyonaka"
+     ]
+    },
+    {
+     "entry": "Bṛhatpañcamūla",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Śāliparṇī",
+     "verses": "27-28",
+     "pages": [
+      "shalparni"
+     ]
+    },
+    {
+     "entry": "Pṛṣṭhiparṇī",
+     "verses": "29-30",
+     "pages": [
+      "prishniparni"
+     ]
+    },
+    {
+     "entry": "Bṛhatī",
+     "verses": "31-32",
+     "pages": [
+      "brihati"
+     ]
+    },
+    {
+     "entry": "Kaṇṭakārī",
+     "verses": "33-37",
+     "pages": [
+      "kantakari"
+     ]
+    },
+    {
+     "entry": "Gokṣura",
+     "verses": "38-39",
+     "pages": [
+      "gokshura"
+     ]
+    },
+    {
+     "entry": "Laghupañcamūla",
+     "verses": "40-41",
+     "pages": []
+    },
+    {
+     "entry": "Daśamūla",
+     "verses": "42",
+     "pages": [
+      "dashamoola"
+     ]
+    },
+    {
+     "entry": "Jīvantī",
+     "verses": "43-44",
+     "pages": [
+      "jivanti"
+     ]
+    },
+    {
+     "entry": "Mudgaparṇī",
+     "verses": "45-46",
+     "pages": [
+      "mudgaparni"
+     ]
+    },
+    {
+     "entry": "Māṣaparṇī",
+     "verses": "47-48",
+     "pages": [
+      "mashaparni"
+     ]
+    },
+    {
+     "entry": "Jīvanīyagaṇa",
+     "verses": "49-51",
+     "pages": []
+    },
+    {
+     "entry": "Eraṇḍa",
+     "verses": "52-58",
+     "pages": [
+      "eranda-patra",
+      "eranda",
+      "eranda-moola"
+     ]
+    },
+    {
+     "entry": "Alarka, arka",
+     "verses": "59-64",
+     "pages": [
+      "arka-ksheera",
+      "arka-pushpa",
+      "arka"
+     ]
+    },
+    {
+     "entry": "Snuhī",
+     "verses": "65-70",
+     "pages": []
+    },
+    {
+     "entry": "Lāṅgalī",
+     "verses": "71-72",
+     "pages": []
+    },
+    {
+     "entry": "Karavīra",
+     "verses": "73-74",
+     "pages": []
+    },
+    {
+     "entry": "Dhattūra",
+     "verses": "75-76",
+     "pages": []
+    },
+    {
+     "entry": "Āṭarūṣa",
+     "verses": "77-78",
+     "pages": [
+      "vasa",
+      "vasaka"
+     ]
+    },
+    {
+     "entry": "Parpaṭaka",
+     "verses": "79-80",
+     "pages": [
+      "parpataka"
+     ]
+    },
+    {
+     "entry": "Nimba",
+     "verses": "81-84",
+     "pages": [
+      "nimba-patra",
+      "neem",
+      "nimba"
+     ]
+    },
+    {
+     "entry": "Mahānimba",
+     "verses": "85-86",
+     "pages": [
+      "mahanimba"
+     ]
+    },
+    {
+     "entry": "Pāribhadra",
+     "verses": "87",
+     "pages": [
+      "paribhadra"
+     ]
+    },
+    {
+     "entry": "Kāñcanāra",
+     "verses": "88-90",
+     "pages": [
+      "kachnar",
+      "kovidara",
+      "kanchanar"
+     ]
+    },
+    {
+     "entry": "Śobhāñjana",
+     "verses": "91-96",
+     "pages": [
+      "moringa"
+     ]
+    },
+    {
+     "entry": "Aparājitā",
+     "verses": "97",
+     "pages": [
+      "aparajita",
+      "gokarna"
+     ]
+    },
+    {
+     "entry": "Sinduvāra",
+     "verses": "98-100",
+     "pages": [
+      "nirgundi-herb",
+      "nirgundi"
+     ]
+    },
+    {
+     "entry": "Kuṭaja",
+     "verses": "101-102",
+     "pages": [
+      "kutaj"
+     ]
+    },
+    {
+     "entry": "Karañja",
+     "verses": "103-106",
+     "pages": [
+      "karanja"
+     ]
+    },
+    {
+     "entry": "Udakīrya",
+     "verses": "107-108",
+     "pages": []
+    },
+    {
+     "entry": "Guñjā",
+     "verses": "109-111",
+     "pages": []
+    },
+    {
+     "entry": "Kapikacchū",
+     "verses": "112-113",
+     "pages": [
+      "kapikachhu"
+     ]
+    },
+    {
+     "entry": "Māṃsarohiṇī",
+     "verses": "114",
+     "pages": [
+      "mamsarohini"
+     ]
+    },
+    {
+     "entry": "Cihlaka",
+     "verses": "115",
+     "pages": []
+    },
+    {
+     "entry": "Ṭaṅkārī",
+     "verses": "116",
+     "pages": []
+    },
+    {
+     "entry": "Vetasa",
+     "verses": "117-118",
+     "pages": [
+      "vetasa"
+     ]
+    },
+    {
+     "entry": "Jalavetasa",
+     "verses": "119",
+     "pages": []
+    },
+    {
+     "entry": "Hijjala",
+     "verses": "120",
+     "pages": []
+    },
+    {
+     "entry": "Aṅkoṭa",
+     "verses": "121-122",
+     "pages": [
+      "ankola"
+     ]
+    },
+    {
+     "entry": "Balā",
+     "verses": "123-127",
+     "pages": [
+      "nagabala",
+      "bala-mool",
+      "mahabala",
+      "bala",
+      "atibala"
+     ]
+    },
+    {
+     "entry": "Lakṣmaṇā",
+     "verses": "128",
+     "pages": []
+    },
+    {
+     "entry": "Svarṇavallī",
+     "verses": "129",
+     "pages": []
+    },
+    {
+     "entry": "Kārpāsī",
+     "verses": "130-131",
+     "pages": [
+      "karpasa"
+     ]
+    },
+    {
+     "entry": "Vaṃśa",
+     "verses": "132-135",
+     "pages": [
+      "vamsha"
+     ]
+    },
+    {
+     "entry": "Nala",
+     "verses": "136",
+     "pages": []
+    },
+    {
+     "entry": "Bhadramuñja",
+     "verses": "137-138",
+     "pages": []
+    },
+    {
+     "entry": "Kāśa",
+     "verses": "139-140",
+     "pages": []
+    },
+    {
+     "entry": "Gundra",
+     "verses": "141",
+     "pages": []
+    },
+    {
+     "entry": "Gundramūla",
+     "verses": "142",
+     "pages": []
+    },
+    {
+     "entry": "Kuśa",
+     "verses": "143-144",
+     "pages": [
+      "kusha"
+     ]
+    },
+    {
+     "entry": "Kattṛṇa",
+     "verses": "145-146",
+     "pages": []
+    },
+    {
+     "entry": "Bhūtṛṇa",
+     "verses": "147-148",
+     "pages": []
+    },
+    {
+     "entry": "Nīladūrvā",
+     "verses": "149-150",
+     "pages": [
+      "durva"
+     ]
+    },
+    {
+     "entry": "Śvetadūrvā, gaṇḍadūrvā",
+     "verses": "151-152",
+     "pages": []
+    },
+    {
+     "entry": "Vidārīkanda",
+     "verses": "153-155",
+     "pages": [
+      "vidari",
+      "vidarikand"
+     ]
+    },
+    {
+     "entry": "Muśalī",
+     "verses": "156",
+     "pages": [
+      "talamuli"
+     ]
+    },
+    {
+     "entry": "Śatāvarī, mahāśatāvarī",
+     "verses": "157-160",
+     "pages": [
+      "shatavari"
+     ]
+    },
+    {
+     "entry": "Aśvagandhā",
+     "verses": "161-162",
+     "pages": [
+      "ashwagandha"
+     ]
+    },
+    {
+     "entry": "Pāṭhā",
+     "verses": "163-164",
+     "pages": [
+      "patha",
+      "ambasthaki"
+     ]
+    },
+    {
+     "entry": "Trivṛt",
+     "verses": "165-168",
+     "pages": [
+      "trivrit"
+     ]
+    },
+    {
+     "entry": "Laghudantī, bṛhaddantī",
+     "verses": "169-172",
+     "pages": [
+      "danti-moola",
+      "danti"
+     ]
+    },
+    {
+     "entry": "Jayapāla (dantībīja)",
+     "verses": "173",
+     "pages": [
+      "jayapala"
+     ]
+    },
+    {
+     "entry": "Gavādinīdvaya",
+     "verses": "174-176",
+     "pages": [
+      "indravaruni"
+     ]
+    },
+    {
+     "entry": "Nīlī",
+     "verses": "177-178",
+     "pages": [
+      "nili"
+     ]
+    },
+    {
+     "entry": "Śarapuṅkha",
+     "verses": "179",
+     "pages": [
+      "sharapunkha"
+     ]
+    },
+    {
+     "entry": "Yavāsa",
+     "verses": "180-182",
+     "pages": [
+      "yavasa"
+     ]
+    },
+    {
+     "entry": "Śrāvaṇī, mahāśrāvaṇī",
+     "verses": "183-186",
+     "pages": [
+      "gorakhmundi"
+     ]
+    },
+    {
+     "entry": "Apāmārga",
+     "verses": "187-191",
+     "pages": [
+      "apamarga"
+     ]
+    },
+    {
+     "entry": "Kokilākṣa",
+     "verses": "192-193",
+     "pages": [
+      "kokilaksha"
+     ]
+    },
+    {
+     "entry": "Asthisaṃhāra",
+     "verses": "194-195",
+     "pages": [
+      "asthishrinkhala"
+     ]
+    },
+    {
+     "entry": "Kumārī",
+     "verses": "196-197",
+     "pages": [
+      "aloe-vera"
+     ]
+    },
+    {
+     "entry": "Punarnavā",
+     "verses": "198-200",
+     "pages": [
+      "punarnava"
+     ]
+    },
+    {
+     "entry": "Gandhaprasāraṇī",
+     "verses": "201-202",
+     "pages": [
+      "prasarini"
+     ]
+    },
+    {
+     "entry": "Sārivā",
+     "verses": "203-205",
+     "pages": [
+      "ananta-mool",
+      "sariva"
+     ]
+    },
+    {
+     "entry": "Bhṛṅgarāja",
+     "verses": "206-207",
+     "pages": [
+      "bhringraj"
+     ]
+    },
+    {
+     "entry": "Śaṇapuṣpī",
+     "verses": "208",
+     "pages": []
+    },
+    {
+     "entry": "Trāyamāṇa",
+     "verses": "209",
+     "pages": []
+    },
+    {
+     "entry": "Mūrvā",
+     "verses": "210",
+     "pages": [
+      "murva"
+     ]
+    },
+    {
+     "entry": "Kākamācī",
+     "verses": "211",
+     "pages": [
+      "kakamachi",
+      "makoy"
+     ]
+    },
+    {
+     "entry": "Kākanāsā",
+     "verses": "212",
+     "pages": []
+    },
+    {
+     "entry": "Kākajaṅghā",
+     "verses": "213-214",
+     "pages": []
+    },
+    {
+     "entry": "Nāgapuṣpī",
+     "verses": "215",
+     "pages": []
+    },
+    {
+     "entry": "Meṣaśṛṅgī",
+     "verses": "216-217",
+     "pages": [
+      "gudmar-herb",
+      "gudmar"
+     ]
+    },
+    {
+     "entry": "Haṃsapādī",
+     "verses": "218",
+     "pages": []
+    },
+    {
+     "entry": "Somalatā",
+     "verses": "219",
+     "pages": []
+    },
+    {
+     "entry": "Ākāśavallī",
+     "verses": "220",
+     "pages": []
+    },
+    {
+     "entry": "Pātālagaruḍī",
+     "verses": "221",
+     "pages": []
+    },
+    {
+     "entry": "Vandā",
+     "verses": "222",
+     "pages": []
+    },
+    {
+     "entry": "Vaṭapatrī",
+     "verses": "223",
+     "pages": []
+    },
+    {
+     "entry": "Hiṅgupatrī",
+     "verses": "224",
+     "pages": [
+      "hingupatri"
+     ]
+    },
+    {
+     "entry": "Vaṃśapatrī",
+     "verses": "225",
+     "pages": []
+    },
+    {
+     "entry": "Matsyākṣī",
+     "verses": "226",
+     "pages": [
+      "matsyakshi"
+     ]
+    },
+    {
+     "entry": "Sarpākṣī",
+     "verses": "227",
+     "pages": [
+      "sarpaksi"
+     ]
+    },
+    {
+     "entry": "Śaṅkhapuṣpī",
+     "verses": "228",
+     "pages": [
+      "shankhpushpi"
+     ]
+    },
+    {
+     "entry": "Arkapuṣpī",
+     "verses": "229",
+     "pages": []
+    },
+    {
+     "entry": "Lajjālu",
+     "verses": "230-231",
+     "pages": [
+      "lajjalu"
+     ]
+    },
+    {
+     "entry": "Alambuṣā",
+     "verses": "232",
+     "pages": []
+    },
+    {
+     "entry": "Dugdhikā",
+     "verses": "233",
+     "pages": [
+      "dugdhika"
+     ]
+    },
+    {
+     "entry": "Bhūmyāmalakī",
+     "verses": "234-235",
+     "pages": [
+      "tamalaki",
+      "bhumyamalaki"
+     ]
+    },
+    {
+     "entry": "Brāhmī, maṇḍūkaparṇī",
+     "verses": "236-237",
+     "pages": [
+      "water-hyssop",
+      "brahmi",
+      "mandukparni"
+     ]
+    },
+    {
+     "entry": "Droṇapuṣpī",
+     "verses": "238",
+     "pages": [
+      "dronapushpi"
+     ]
+    },
+    {
+     "entry": "Suvarcalā",
+     "verses": "239-241",
+     "pages": []
+    },
+    {
+     "entry": "Vandhyākarkoṭakī",
+     "verses": "242-243",
+     "pages": []
+    },
+    {
+     "entry": "Mārkaṇḍika",
+     "verses": "244",
+     "pages": []
+    },
+    {
+     "entry": "Devadālī",
+     "verses": "245-247",
+     "pages": [
+      "devadali"
+     ]
+    },
+    {
+     "entry": "Jalapippalī",
+     "verses": "248-249",
+     "pages": []
+    },
+    {
+     "entry": "Gojihvā",
+     "verses": "250",
+     "pages": [
+      "gojihva"
+     ]
+    },
+    {
+     "entry": "Nāgadamanī",
+     "verses": "251-253",
+     "pages": []
+    },
+    {
+     "entry": "Vīrataru",
+     "verses": "254-255",
+     "pages": []
+    },
+    {
+     "entry": "Chikkanī",
+     "verses": "256",
+     "pages": [
+      "kshavaka"
+     ]
+    },
+    {
+     "entry": "Tāmracūḍa",
+     "verses": "257",
+     "pages": []
+    },
+    {
+     "entry": "Sudarśana",
+     "verses": "258",
+     "pages": []
+    },
+    {
+     "entry": "Ākhukarṇī",
+     "verses": "259",
+     "pages": [
+      "akhuparni"
+     ]
+    },
+    {
+     "entry": "Mayūraśikha",
+     "verses": "260",
+     "pages": [
+      "mayurashikha"
+     ]
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "name": "Puṣpa varga",
+   "entries": [
+    {
+     "entry": "Kamala",
+     "verses": "1-13",
+     "pages": [
+      "kamala-kesara",
+      "kamala"
+     ]
+    },
+    {
+     "entry": "Kumuda",
+     "verses": "14",
+     "pages": [
+      "kumud",
+      "kumuda"
+     ]
+    },
+    {
+     "entry": "Vāriparṇī",
+     "verses": "15-16",
+     "pages": []
+    },
+    {
+     "entry": "Śatapatrī",
+     "verses": "17-18",
+     "pages": [
+      "taruni"
+     ]
+    },
+    {
+     "entry": "Vāsantī",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Vārṣikī",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Mālatī",
+     "verses": "21-22",
+     "pages": [
+      "jati"
+     ]
+    },
+    {
+     "entry": "Yūthikā",
+     "verses": "23",
+     "pages": [
+      "yuthika"
+     ]
+    },
+    {
+     "entry": "Campaka",
+     "verses": "24-25",
+     "pages": []
+    },
+    {
+     "entry": "Bakula",
+     "verses": "26",
+     "pages": [
+      "bakula"
+     ]
+    },
+    {
+     "entry": "Śivamallī",
+     "verses": "27",
+     "pages": []
+    },
+    {
+     "entry": "Kadamba",
+     "verses": "28",
+     "pages": [
+      "kadamba"
+     ]
+    },
+    {
+     "entry": "Kubjaka",
+     "verses": "29-30",
+     "pages": []
+    },
+    {
+     "entry": "Mallikā",
+     "verses": "31",
+     "pages": []
+    },
+    {
+     "entry": "Mādhavī",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Ketaka",
+     "verses": "33-34",
+     "pages": [
+      "ketaki"
+     ]
+    },
+    {
+     "entry": "Kiṅkirāta",
+     "verses": "35",
+     "pages": []
+    },
+    {
+     "entry": "Karṇikāra",
+     "verses": "36",
+     "pages": [
+      "karnikara"
+     ]
+    },
+    {
+     "entry": "Aśoka",
+     "verses": "37-38",
+     "pages": [
+      "ashoka"
+     ]
+    },
+    {
+     "entry": "Amlāṭana",
+     "verses": "39",
+     "pages": []
+    },
+    {
+     "entry": "Saireyaka",
+     "verses": "40-42",
+     "pages": [
+      "saireyaka",
+      "kurabaka"
+     ]
+    },
+    {
+     "entry": "Kunda",
+     "verses": "43",
+     "pages": []
+    },
+    {
+     "entry": "Mucukunda",
+     "verses": "44",
+     "pages": []
+    },
+    {
+     "entry": "Tilaka",
+     "verses": "45",
+     "pages": []
+    },
+    {
+     "entry": "Bandhūka",
+     "verses": "46",
+     "pages": [
+      "bandhuka"
+     ]
+    },
+    {
+     "entry": "Japā",
+     "verses": "47",
+     "pages": [
+      "japa"
+     ]
+    },
+    {
+     "entry": "Sindūrī",
+     "verses": "48",
+     "pages": []
+    },
+    {
+     "entry": "Agastya",
+     "verses": "49",
+     "pages": [
+      "agastya"
+     ]
+    },
+    {
+     "entry": "Tulasī",
+     "verses": "50-51",
+     "pages": [
+      "holy-basil",
+      "tulsi"
+     ]
+    },
+    {
+     "entry": "Marubaka",
+     "verses": "52-53",
+     "pages": []
+    },
+    {
+     "entry": "Damanaka",
+     "verses": "54-55",
+     "pages": []
+    },
+    {
+     "entry": "Barbarī",
+     "verses": "56-57",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "name": "Vaṭādi varga",
+   "entries": [
+    {
+     "entry": "Vaṭa",
+     "verses": "1-2",
+     "pages": [
+      "nyagrodha"
+     ]
+    },
+    {
+     "entry": "Aśvattha",
+     "verses": "3-5",
+     "pages": [
+      "ashwattha"
+     ]
+    },
+    {
+     "entry": "Nandīvṛkṣa (aśvatthabheda)",
+     "verses": "6-7",
+     "pages": []
+    },
+    {
+     "entry": "Udumbara",
+     "verses": "8",
+     "pages": [
+      "udumbara"
+     ]
+    },
+    {
+     "entry": "Kākodumbarikā",
+     "verses": "9",
+     "pages": []
+    },
+    {
+     "entry": "Plakṣa",
+     "verses": "10",
+     "pages": [
+      "plaksha"
+     ]
+    },
+    {
+     "entry": "Śirīṣa",
+     "verses": "11-12",
+     "pages": [
+      "shirisha"
+     ]
+    },
+    {
+     "entry": "Pañcavalkala, kṣīrivṛkṣa",
+     "verses": "13-16",
+     "pages": []
+    },
+    {
+     "entry": "Śāla",
+     "verses": "17-18",
+     "pages": [
+      "sala"
+     ]
+    },
+    {
+     "entry": "Śallakī",
+     "verses": "19-20",
+     "pages": [
+      "shallaki"
+     ]
+    },
+    {
+     "entry": "Śiṃśapā",
+     "verses": "21-22",
+     "pages": [
+      "simsapa"
+     ]
+    },
+    {
+     "entry": "Kakubha",
+     "verses": "23-24",
+     "pages": [
+      "arjuna-twak",
+      "arjuna"
+     ]
+    },
+    {
+     "entry": "Bījaka",
+     "verses": "25-26",
+     "pages": [
+      "asana",
+      "vijaysar"
+     ]
+    },
+    {
+     "entry": "Khadira",
+     "verses": "27-28",
+     "pages": [
+      "khadira"
+     ]
+    },
+    {
+     "entry": "Irimeda",
+     "verses": "29",
+     "pages": []
+    },
+    {
+     "entry": "Rohītaka",
+     "verses": "30",
+     "pages": [
+      "rohitaka"
+     ]
+    },
+    {
+     "entry": "Babbūla",
+     "verses": "31",
+     "pages": [
+      "babbula"
+     ]
+    },
+    {
+     "entry": "Ariṣṭaka",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Putrajīva",
+     "verses": "33",
+     "pages": [
+      "putranjivaka"
+     ]
+    },
+    {
+     "entry": "Iṅguda",
+     "verses": "34",
+     "pages": [
+      "ingudi"
+     ]
+    },
+    {
+     "entry": "Jiṅginī",
+     "verses": "35",
+     "pages": []
+    },
+    {
+     "entry": "Tamāla",
+     "verses": "36",
+     "pages": []
+    },
+    {
+     "entry": "Tūṇī",
+     "verses": "37-38",
+     "pages": []
+    },
+    {
+     "entry": "Bhūrja",
+     "verses": "39",
+     "pages": [
+      "bhurja"
+     ]
+    },
+    {
+     "entry": "Palāśa",
+     "verses": "40-44",
+     "pages": [
+      "palasha"
+     ]
+    },
+    {
+     "entry": "Śālmali",
+     "verses": "45-46",
+     "pages": [
+      "shalmali"
+     ]
+    },
+    {
+     "entry": "Mocarasa",
+     "verses": "47-48",
+     "pages": [
+      "mochras"
+     ]
+    },
+    {
+     "entry": "Kūṭaśālmali",
+     "verses": "49",
+     "pages": []
+    },
+    {
+     "entry": "Dhava",
+     "verses": "50",
+     "pages": [
+      "dhava"
+     ]
+    },
+    {
+     "entry": "Dhanvaṅga",
+     "verses": "51",
+     "pages": []
+    },
+    {
+     "entry": "Karīra",
+     "verses": "52",
+     "pages": [
+      "karira"
+     ]
+    },
+    {
+     "entry": "Śākhoṭa",
+     "verses": "53",
+     "pages": []
+    },
+    {
+     "entry": "Varuṇa",
+     "verses": "54",
+     "pages": [
+      "varuna"
+     ]
+    },
+    {
+     "entry": "Kaṭabhī",
+     "verses": "55",
+     "pages": []
+    },
+    {
+     "entry": "Mokṣa",
+     "verses": "56-57",
+     "pages": []
+    },
+    {
+     "entry": "Śirīṣikā",
+     "verses": "58",
+     "pages": []
+    },
+    {
+     "entry": "Śamī",
+     "verses": "59-60",
+     "pages": []
+    },
+    {
+     "entry": "Saptaparṇa",
+     "verses": "61",
+     "pages": [
+      "saptaparna"
+     ]
+    },
+    {
+     "entry": "Tiniśa",
+     "verses": "62",
+     "pages": []
+    },
+    {
+     "entry": "Bhūmīsaha",
+     "verses": "63",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "name": "Āmrādiphala varga",
+   "entries": [
+    {
+     "entry": "Āmra",
+     "verses": "1",
+     "pages": [
+      "amra"
+     ]
+    },
+    {
+     "entry": "Āmrapuṣpa",
+     "verses": "2",
+     "pages": []
+    },
+    {
+     "entry": "Āmraphala",
+     "verses": "3",
+     "pages": []
+    },
+    {
+     "entry": "Āmāmraphala",
+     "verses": "4",
+     "pages": []
+    },
+    {
+     "entry": "Pakvāmraphala",
+     "verses": "5-11",
+     "pages": []
+    },
+    {
+     "entry": "Āmrātiyoga",
+     "verses": "12-14",
+     "pages": []
+    },
+    {
+     "entry": "Āmrāvarta",
+     "verses": "15-16",
+     "pages": []
+    },
+    {
+     "entry": "Āmrabīja",
+     "verses": "17",
+     "pages": [
+      "amra-beeja"
+     ]
+    },
+    {
+     "entry": "Āmrapallava",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Āmrātaka",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Rājāmra",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Kośāmra",
+     "verses": "21",
+     "pages": [
+      "koshamra"
+     ]
+    },
+    {
+     "entry": "Panasa",
+     "verses": "22-25",
+     "pages": [
+      "panasa"
+     ]
+    },
+    {
+     "entry": "Lakuca",
+     "verses": "26-27",
+     "pages": [
+      "lakuca"
+     ]
+    },
+    {
+     "entry": "Kadalī",
+     "verses": "28-30",
+     "pages": [
+      "kadali"
+     ]
+    },
+    {
+     "entry": "Cirbhiṭa",
+     "verses": "31",
+     "pages": []
+    },
+    {
+     "entry": "Nārikera",
+     "verses": "32-36",
+     "pages": [
+      "narikela",
+      "narikela-jala"
+     ]
+    },
+    {
+     "entry": "Kālinda",
+     "verses": "37",
+     "pages": []
+    },
+    {
+     "entry": "Kharbūja",
+     "verses": "38-39",
+     "pages": []
+    },
+    {
+     "entry": "Trapusa",
+     "verses": "40-41",
+     "pages": [
+      "trapusha"
+     ]
+    },
+    {
+     "entry": "Pūga",
+     "verses": "42-44",
+     "pages": [
+      "puga"
+     ]
+    },
+    {
+     "entry": "Tāla",
+     "verses": "45-47",
+     "pages": [
+      "tala"
+     ]
+    },
+    {
+     "entry": "Bilva, kapittha",
+     "verses": "48-53",
+     "pages": [
+      "kapittha",
+      "bilva-majja"
+     ]
+    },
+    {
+     "entry": "Nāraṅga",
+     "verses": "54",
+     "pages": []
+    },
+    {
+     "entry": "Tinduka",
+     "verses": "55",
+     "pages": [
+      "tinduka"
+     ]
+    },
+    {
+     "entry": "Kupīlu",
+     "verses": "56-57",
+     "pages": []
+    },
+    {
+     "entry": "Rājajambū",
+     "verses": "58",
+     "pages": []
+    },
+    {
+     "entry": "Jalajambu",
+     "verses": "59",
+     "pages": []
+    },
+    {
+     "entry": "Badarī",
+     "verses": "60-65",
+     "pages": [
+      "badara"
+     ]
+    },
+    {
+     "entry": "Prācīnāmalaka",
+     "verses": "66",
+     "pages": []
+    },
+    {
+     "entry": "Lavalī",
+     "verses": "67",
+     "pages": []
+    },
+    {
+     "entry": "Karamarda",
+     "verses": "68-69",
+     "pages": []
+    },
+    {
+     "entry": "Priyāla",
+     "verses": "70-72",
+     "pages": [
+      "priyala"
+     ]
+    },
+    {
+     "entry": "Rājādana",
+     "verses": "73",
+     "pages": []
+    },
+    {
+     "entry": "Vikaṅkata",
+     "verses": "74",
+     "pages": []
+    },
+    {
+     "entry": "Padmabīja",
+     "verses": "75",
+     "pages": []
+    },
+    {
+     "entry": "Makhānna",
+     "verses": "76",
+     "pages": []
+    },
+    {
+     "entry": "Śṛṅgāṭaka",
+     "verses": "77",
+     "pages": [
+      "shrigataka"
+     ]
+    },
+    {
+     "entry": "Kairaviṇīphala",
+     "verses": "78",
+     "pages": []
+    },
+    {
+     "entry": "Madhūka",
+     "verses": "79-81",
+     "pages": [
+      "madhuka-pushpa",
+      "madhuka"
+     ]
+    },
+    {
+     "entry": "Parūṣaka",
+     "verses": "82",
+     "pages": []
+    },
+    {
+     "entry": "Tūta",
+     "verses": "83",
+     "pages": []
+    },
+    {
+     "entry": "Dāḍima",
+     "verses": "84-86",
+     "pages": [
+      "dadima"
+     ]
+    },
+    {
+     "entry": "Bahuvāra",
+     "verses": "87-89",
+     "pages": []
+    },
+    {
+     "entry": "Kataka",
+     "verses": "90",
+     "pages": [
+      "kataka"
+     ]
+    },
+    {
+     "entry": "Drākṣā",
+     "verses": "91-96",
+     "pages": [
+      "draksha"
+     ]
+    },
+    {
+     "entry": "Kharjūratraya",
+     "verses": "97-102",
+     "pages": [
+      "kharjura"
+     ]
+    },
+    {
+     "entry": "Vātāda",
+     "verses": "103",
+     "pages": [
+      "vathada"
+     ]
+    },
+    {
+     "entry": "Seva",
+     "verses": "104",
+     "pages": []
+    },
+    {
+     "entry": "Amṛtaphala",
+     "verses": "105",
+     "pages": []
+    },
+    {
+     "entry": "Pīlu",
+     "verses": "106",
+     "pages": [
+      "pilu"
+     ]
+    },
+    {
+     "entry": "Akṣoṭa",
+     "verses": "107",
+     "pages": [
+      "akshotaka"
+     ]
+    },
+    {
+     "entry": "Bījapūra",
+     "verses": "108",
+     "pages": [
+      "bijapura",
+      "matulunga"
+     ]
+    },
+    {
+     "entry": "Madhukarkaṭī",
+     "verses": "109",
+     "pages": [
+      "madhukarkati"
+     ]
+    },
+    {
+     "entry": "Jambīradvaya",
+     "verses": "110-111",
+     "pages": []
+    },
+    {
+     "entry": "Nimbūka",
+     "verses": "112-113",
+     "pages": [
+      "nimbu"
+     ]
+    },
+    {
+     "entry": "Miṣṭanimbūphala",
+     "verses": "114",
+     "pages": []
+    },
+    {
+     "entry": "Karmaraṅga",
+     "verses": "115",
+     "pages": [
+      "karmaranga"
+     ]
+    },
+    {
+     "entry": "Amlikā",
+     "verses": "116-117",
+     "pages": []
+    },
+    {
+     "entry": "Amlavetasa",
+     "verses": "118-120",
+     "pages": [
+      "amlavetasa"
+     ]
+    },
+    {
+     "entry": "Vṛkṣāmla",
+     "verses": "121-122",
+     "pages": [
+      "vrikshamla-phala",
+      "vrikshamla"
+     ]
+    },
+    {
+     "entry": "Caturamla, pañcāmla",
+     "verses": "123",
+     "pages": []
+    },
+    {
+     "entry": "Paribhāṣā",
+     "verses": "124-126",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "name": "Dhātūpadhāturasoparasaratnoparatnaviṣopaviṣādi varga",
+   "entries": [
+    {
+     "entry": "Sapta dhātu",
+     "verses": "1-2",
+     "pages": []
+    },
+    {
+     "entry": "Suvarṇa utpatti",
+     "verses": "3-7",
+     "pages": []
+    },
+    {
+     "entry": "Suvarṇa guṇa",
+     "verses": "8-13",
+     "pages": []
+    },
+    {
+     "entry": "Rajata",
+     "verses": "14-20",
+     "pages": []
+    },
+    {
+     "entry": "Tāmra",
+     "verses": "21-27",
+     "pages": []
+    },
+    {
+     "entry": "Vaṅga",
+     "verses": "28-30",
+     "pages": [
+      "vanga-bhasma"
+     ]
+    },
+    {
+     "entry": "Yaśada",
+     "verses": "31",
+     "pages": [
+      "yashada-bhasma"
+     ]
+    },
+    {
+     "entry": "Nāga",
+     "verses": "32-34",
+     "pages": []
+    },
+    {
+     "entry": "Loha",
+     "verses": "35-38",
+     "pages": [
+      "loha-bhasma"
+     ]
+    },
+    {
+     "entry": "Aśuddhaloha doṣa",
+     "verses": "39-41",
+     "pages": []
+    },
+    {
+     "entry": "Sāraloha",
+     "verses": "42-43",
+     "pages": []
+    },
+    {
+     "entry": "Kāntaloha",
+     "verses": "44-46",
+     "pages": []
+    },
+    {
+     "entry": "Maṇḍūra",
+     "verses": "47",
+     "pages": [
+      "mandura-bhasma"
+     ]
+    },
+    {
+     "entry": "Upadhātu",
+     "verses": "48-49",
+     "pages": []
+    },
+    {
+     "entry": "Svarṇamākṣika",
+     "verses": "50-55",
+     "pages": []
+    },
+    {
+     "entry": "Tāramākṣika",
+     "verses": "56-59",
+     "pages": []
+    },
+    {
+     "entry": "Tuttha",
+     "verses": "60-61",
+     "pages": []
+    },
+    {
+     "entry": "Kāṃsya",
+     "verses": "62-63",
+     "pages": [
+      "kamsya-bhasma"
+     ]
+    },
+    {
+     "entry": "Pittala",
+     "verses": "64-66",
+     "pages": []
+    },
+    {
+     "entry": "Sindūra",
+     "verses": "67-68",
+     "pages": []
+    },
+    {
+     "entry": "Śilājatu",
+     "verses": "69-75",
+     "pages": [
+      "shilajit"
+     ]
+    },
+    {
+     "entry": "Pārada",
+     "verses": "76-90",
+     "pages": []
+    },
+    {
+     "entry": "Uparasa",
+     "verses": "91",
+     "pages": []
+    },
+    {
+     "entry": "Hiṅgula",
+     "verses": "92-95",
+     "pages": []
+    },
+    {
+     "entry": "Gandhaka",
+     "verses": "96-100",
+     "pages": []
+    },
+    {
+     "entry": "Abhraka",
+     "verses": "101-113",
+     "pages": [
+      "abhraka-bhasma"
+     ]
+    },
+    {
+     "entry": "Haritāla",
+     "verses": "114-118",
+     "pages": []
+    },
+    {
+     "entry": "Manaḥśilā",
+     "verses": "119-121",
+     "pages": []
+    },
+    {
+     "entry": "Añjana",
+     "verses": "122-125",
+     "pages": []
+    },
+    {
+     "entry": "Ṭaṅkaṇa",
+     "verses": "126",
+     "pages": [
+      "tankana-bhasma"
+     ]
+    },
+    {
+     "entry": "Sphaṭikā",
+     "verses": "127-128",
+     "pages": [
+      "sphatika-bhasma"
+     ]
+    },
+    {
+     "entry": "Rājāvarta",
+     "verses": "129",
+     "pages": []
+    },
+    {
+     "entry": "Cumbaka",
+     "verses": "130",
+     "pages": []
+    },
+    {
+     "entry": "Gairika, suvarṇagairika",
+     "verses": "131-132",
+     "pages": []
+    },
+    {
+     "entry": "Khaṭikā",
+     "verses": "133",
+     "pages": []
+    },
+    {
+     "entry": "Vālukā",
+     "verses": "134",
+     "pages": []
+    },
+    {
+     "entry": "Tutthabheda",
+     "verses": "135",
+     "pages": []
+    },
+    {
+     "entry": "Kāśīsa",
+     "verses": "136-137",
+     "pages": []
+    },
+    {
+     "entry": "Saurāṣṭrī",
+     "verses": "138",
+     "pages": []
+    },
+    {
+     "entry": "Kṛṣṇamṛttikā",
+     "verses": "139",
+     "pages": []
+    },
+    {
+     "entry": "Kardama",
+     "verses": "140",
+     "pages": []
+    },
+    {
+     "entry": "Bola",
+     "verses": "141",
+     "pages": []
+    },
+    {
+     "entry": "Kaṅkuṣṭha",
+     "verses": "142-143",
+     "pages": []
+    },
+    {
+     "entry": "Ratna",
+     "verses": "144-147",
+     "pages": []
+    },
+    {
+     "entry": "Hīraka",
+     "verses": "148-156",
+     "pages": []
+    },
+    {
+     "entry": "Māritavajra",
+     "verses": "157",
+     "pages": []
+    },
+    {
+     "entry": "Marakata",
+     "verses": "158",
+     "pages": []
+    },
+    {
+     "entry": "Māṇikya",
+     "verses": "159",
+     "pages": []
+    },
+    {
+     "entry": "Puṣparāga",
+     "verses": "160",
+     "pages": []
+    },
+    {
+     "entry": "Nīla, gomeda",
+     "verses": "161",
+     "pages": [
+      "gomeda-bhasma"
+     ]
+    },
+    {
+     "entry": "Vaidūrya",
+     "verses": "162",
+     "pages": []
+    },
+    {
+     "entry": "Mauktika",
+     "verses": "163",
+     "pages": [
+      "mukta-pishti"
+     ]
+    },
+    {
+     "entry": "Pravāla",
+     "verses": "164",
+     "pages": []
+    },
+    {
+     "entry": "Ratna guṇa",
+     "verses": "165-166",
+     "pages": []
+    },
+    {
+     "entry": "Uparatna",
+     "verses": "167-168",
+     "pages": []
+    },
+    {
+     "entry": "Viṣa",
+     "verses": "169",
+     "pages": []
+    },
+    {
+     "entry": "Vatsanābha",
+     "verses": "170",
+     "pages": [
+      "vatsanabha"
+     ]
+    },
+    {
+     "entry": "Hāridra",
+     "verses": "171",
+     "pages": []
+    },
+    {
+     "entry": "Saktuka",
+     "verses": "172",
+     "pages": []
+    },
+    {
+     "entry": "Pradīpana",
+     "verses": "173",
+     "pages": []
+    },
+    {
+     "entry": "Saurāṣṭrika",
+     "verses": "174",
+     "pages": []
+    },
+    {
+     "entry": "Śṛṅgika",
+     "verses": "175",
+     "pages": []
+    },
+    {
+     "entry": "Kālakūṭa",
+     "verses": "176-177",
+     "pages": []
+    },
+    {
+     "entry": "Hālāhala",
+     "verses": "178-179",
+     "pages": []
+    },
+    {
+     "entry": "Brahmaputra",
+     "verses": "180",
+     "pages": []
+    },
+    {
+     "entry": "Viṣabheda",
+     "verses": "181-182",
+     "pages": []
+    },
+    {
+     "entry": "Viṣaguṇa",
+     "verses": "183",
+     "pages": []
+    },
+    {
+     "entry": "Śodhitaviṣaguṇa",
+     "verses": "184-185",
+     "pages": []
+    },
+    {
+     "entry": "Upaviṣa",
+     "verses": "186",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "name": "Dhānya varga",
+   "entries": [
+    {
+     "entry": "Dhānyabheda",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Śālyādidhānyabheda",
+     "verses": "2",
+     "pages": []
+    },
+    {
+     "entry": "Śālidhānyalakṣaṇa",
+     "verses": "3",
+     "pages": []
+    },
+    {
+     "entry": "Jātibhedena śālināma",
+     "verses": "4-6",
+     "pages": []
+    },
+    {
+     "entry": "Śāliguṇa",
+     "verses": "7-13",
+     "pages": []
+    },
+    {
+     "entry": "Raktaśāli",
+     "verses": "14-15",
+     "pages": []
+    },
+    {
+     "entry": "Vrīhī",
+     "verses": "16-20",
+     "pages": []
+    },
+    {
+     "entry": "Ṣaṣṭika",
+     "verses": "21-23",
+     "pages": []
+    },
+    {
+     "entry": "Śūkadhānya, yava",
+     "verses": "24-27",
+     "pages": [
+      "yava"
+     ]
+    },
+    {
+     "entry": "Godhūma",
+     "verses": "28-31",
+     "pages": []
+    },
+    {
+     "entry": "Śimbīdhānya",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Mudga",
+     "verses": "33-35",
+     "pages": []
+    },
+    {
+     "entry": "Māṣa",
+     "verses": "36-38",
+     "pages": []
+    },
+    {
+     "entry": "Rājamāṣa",
+     "verses": "39-40",
+     "pages": []
+    },
+    {
+     "entry": "Niṣpāva",
+     "verses": "41",
+     "pages": []
+    },
+    {
+     "entry": "Vanamudga",
+     "verses": "42",
+     "pages": []
+    },
+    {
+     "entry": "Masūra",
+     "verses": "43",
+     "pages": []
+    },
+    {
+     "entry": "Āḍhakī",
+     "verses": "44",
+     "pages": [
+      "adhaki"
+     ]
+    },
+    {
+     "entry": "Caṇaka",
+     "verses": "45-48",
+     "pages": []
+    },
+    {
+     "entry": "Kalāya",
+     "verses": "49",
+     "pages": []
+    },
+    {
+     "entry": "Tripuṭa",
+     "verses": "50",
+     "pages": []
+    },
+    {
+     "entry": "Kulattha",
+     "verses": "51-52",
+     "pages": [
+      "kulattha"
+     ]
+    },
+    {
+     "entry": "Tila",
+     "verses": "53-55",
+     "pages": [
+      "tila"
+     ]
+    },
+    {
+     "entry": "Atasī",
+     "verses": "56",
+     "pages": [
+      "atasi"
+     ]
+    },
+    {
+     "entry": "Tuvarī",
+     "verses": "57",
+     "pages": []
+    },
+    {
+     "entry": "Sarṣapa",
+     "verses": "58-60",
+     "pages": []
+    },
+    {
+     "entry": "Rājikā, kṛṣṇarājikā",
+     "verses": "61-62",
+     "pages": [
+      "rajika"
+     ]
+    },
+    {
+     "entry": "Kṣudradhānya",
+     "verses": "63",
+     "pages": []
+    },
+    {
+     "entry": "Kaṅgu",
+     "verses": "64-65",
+     "pages": []
+    },
+    {
+     "entry": "Cīnāka",
+     "verses": "66",
+     "pages": []
+    },
+    {
+     "entry": "Śyāmāka",
+     "verses": "67",
+     "pages": []
+    },
+    {
+     "entry": "Kodrava",
+     "verses": "68",
+     "pages": []
+    },
+    {
+     "entry": "Cāruka",
+     "verses": "69",
+     "pages": []
+    },
+    {
+     "entry": "Vaṃśayava",
+     "verses": "70",
+     "pages": []
+    },
+    {
+     "entry": "Kusumbhabīja",
+     "verses": "71",
+     "pages": []
+    },
+    {
+     "entry": "Gavedhuka",
+     "verses": "72",
+     "pages": [
+      "gavedhuka"
+     ]
+    },
+    {
+     "entry": "Nīvāra",
+     "verses": "73",
+     "pages": []
+    },
+    {
+     "entry": "Yāvanāla",
+     "verses": "74-77",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "name": "Śāka varga",
+   "entries": [
+    {
+     "entry": "Śākanirūpaṇa",
+     "verses": "1-4",
+     "pages": []
+    },
+    {
+     "entry": "Patraśāka- vāstūkadvaya",
+     "verses": "5-6",
+     "pages": []
+    },
+    {
+     "entry": "Potakī",
+     "verses": "7",
+     "pages": [
+      "upodika"
+     ]
+    },
+    {
+     "entry": "Māriṣa",
+     "verses": "8-9",
+     "pages": []
+    },
+    {
+     "entry": "Taṇḍulīya",
+     "verses": "10-11",
+     "pages": [
+      "tanduliyaka"
+     ]
+    },
+    {
+     "entry": "Pālakyā",
+     "verses": "12",
+     "pages": [
+      "palankya"
+     ]
+    },
+    {
+     "entry": "Kālaśāka",
+     "verses": "13",
+     "pages": []
+    },
+    {
+     "entry": "Paṭṭaśāka",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Kalambī",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Loṇī",
+     "verses": "16-17",
+     "pages": []
+    },
+    {
+     "entry": "Cāṅgerī",
+     "verses": "18-19",
+     "pages": [
+      "changeri"
+     ]
+    },
+    {
+     "entry": "Cukrikā",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Cañcukī",
+     "verses": "21",
+     "pages": []
+    },
+    {
+     "entry": "Hilamocikā",
+     "verses": "22",
+     "pages": []
+    },
+    {
+     "entry": "Śitivāra",
+     "verses": "23-25",
+     "pages": []
+    },
+    {
+     "entry": "Mūlīpatra",
+     "verses": "26",
+     "pages": []
+    },
+    {
+     "entry": "Droṇapuṣpī",
+     "verses": "27",
+     "pages": []
+    },
+    {
+     "entry": "Yavānīśāka",
+     "verses": "28",
+     "pages": []
+    },
+    {
+     "entry": "Dadrughnapatra",
+     "verses": "29",
+     "pages": []
+    },
+    {
+     "entry": "Sehuṇḍa",
+     "verses": "30",
+     "pages": []
+    },
+    {
+     "entry": "Parpaṭa",
+     "verses": "31",
+     "pages": []
+    },
+    {
+     "entry": "Gojihvā",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Paṭolapatra",
+     "verses": "33",
+     "pages": [
+      "patola-patra"
+     ]
+    },
+    {
+     "entry": "Guḍūcīpatra",
+     "verses": "34-35",
+     "pages": []
+    },
+    {
+     "entry": "Kāsamarda",
+     "verses": "36",
+     "pages": [
+      "kasamarda"
+     ]
+    },
+    {
+     "entry": "Caṇakaśāka",
+     "verses": "37",
+     "pages": []
+    },
+    {
+     "entry": "Kalāyaśāka",
+     "verses": "38",
+     "pages": []
+    },
+    {
+     "entry": "Sārṣapaśāka",
+     "verses": "39",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpaśāka-agastipuṣpa",
+     "verses": "40",
+     "pages": []
+    },
+    {
+     "entry": "Kadalīpuṣpa",
+     "verses": "41",
+     "pages": [
+      "kadali-pushpa"
+     ]
+    },
+    {
+     "entry": "Madhuśigru, śobhāñjanapuṣpa",
+     "verses": "42",
+     "pages": []
+    },
+    {
+     "entry": "Śālmalīpuṣpa",
+     "verses": "43-44",
+     "pages": []
+    },
+    {
+     "entry": "Phalaśāka- kūṣmāṇḍa",
+     "verses": "45-46",
+     "pages": [
+      "kushmanda"
+     ]
+    },
+    {
+     "entry": "Kūṣmāṇḍī",
+     "verses": "47",
+     "pages": []
+    },
+    {
+     "entry": "Alābū",
+     "verses": "48",
+     "pages": [
+      "alabu"
+     ]
+    },
+    {
+     "entry": "Ikṣvāku",
+     "verses": "49",
+     "pages": []
+    },
+    {
+     "entry": "Karkaṭī",
+     "verses": "50",
+     "pages": []
+    },
+    {
+     "entry": "Ciciṇḍa",
+     "verses": "51",
+     "pages": []
+    },
+    {
+     "entry": "Kāravella",
+     "verses": "52",
+     "pages": [
+      "bitter-gourd-herb",
+      "karvellaka",
+      "bitter-gourd",
+      "karela"
+     ]
+    },
+    {
+     "entry": "Mahākośātakī",
+     "verses": "53",
+     "pages": []
+    },
+    {
+     "entry": "Rājakośātakī",
+     "verses": "54-55",
+     "pages": []
+    },
+    {
+     "entry": "Paṭola",
+     "verses": "56-58",
+     "pages": [
+      "patola"
+     ]
+    },
+    {
+     "entry": "Bimbī",
+     "verses": "59-60",
+     "pages": [
+      "bimbi"
+     ]
+    },
+    {
+     "entry": "Śimbī",
+     "verses": "61",
+     "pages": []
+    },
+    {
+     "entry": "Kolaśimbī",
+     "verses": "62",
+     "pages": []
+    },
+    {
+     "entry": "Śobhāñjanaphala",
+     "verses": "63",
+     "pages": []
+    },
+    {
+     "entry": "Vṛntāka",
+     "verses": "64-67",
+     "pages": [
+      "vartaku"
+     ]
+    },
+    {
+     "entry": "Ḍiṇḍiśa",
+     "verses": "68",
+     "pages": []
+    },
+    {
+     "entry": "Piṇḍāra",
+     "verses": "69",
+     "pages": []
+    },
+    {
+     "entry": "Karkoṭī",
+     "verses": "70",
+     "pages": []
+    },
+    {
+     "entry": "Ḍoḍikā",
+     "verses": "71",
+     "pages": []
+    },
+    {
+     "entry": "Kaṇṭakārīphala",
+     "verses": "72",
+     "pages": []
+    },
+    {
+     "entry": "Nālaśāka- sārṣapanāla",
+     "verses": "73",
+     "pages": []
+    },
+    {
+     "entry": "Kandaśāka- sūraṇa",
+     "verses": "74-76",
+     "pages": [
+      "surana"
+     ]
+    },
+    {
+     "entry": "Āluka",
+     "verses": "77-79",
+     "pages": []
+    },
+    {
+     "entry": "Mūlakadvaya",
+     "verses": "80-83",
+     "pages": [
+      "mulaka"
+     ]
+    },
+    {
+     "entry": "Gṛñjana",
+     "verses": "84",
+     "pages": [
+      "grinjana"
+     ]
+    },
+    {
+     "entry": "Kadalīkanda",
+     "verses": "85",
+     "pages": []
+    },
+    {
+     "entry": "Mānakanda",
+     "verses": "86",
+     "pages": []
+    },
+    {
+     "entry": "Vārāhīkanda",
+     "verses": "87",
+     "pages": [
+      "varahikanda"
+     ]
+    },
+    {
+     "entry": "Gajakarṇā",
+     "verses": "88-89",
+     "pages": []
+    },
+    {
+     "entry": "Kemuka",
+     "verses": "90",
+     "pages": [
+      "kembuka"
+     ]
+    },
+    {
+     "entry": "Kaseru",
+     "verses": "91-92",
+     "pages": [
+      "kasheruka"
+     ]
+    },
+    {
+     "entry": "Śālūka",
+     "verses": "93-94",
+     "pages": [
+      "kamalakanda"
+     ]
+    },
+    {
+     "entry": "Niṣiddha śāka",
+     "verses": "95-96",
+     "pages": []
+    },
+    {
+     "entry": "Saṃsvedaja śākā",
+     "verses": "97-99",
+     "pages": [
+      "chhatraka"
+     ]
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "name": "Māṃsa varga",
+   "entries": [
+    {
+     "entry": "Māṃsa",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Māṃsabheda",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Jāṅgalavarga",
+     "verses": "2-4",
+     "pages": []
+    },
+    {
+     "entry": "Anūpavarga",
+     "verses": "5-11",
+     "pages": []
+    },
+    {
+     "entry": "Bileśaya",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Guhāśaya",
+     "verses": "13-14",
+     "pages": []
+    },
+    {
+     "entry": "Parṇamṛga",
+     "verses": "15-16",
+     "pages": []
+    },
+    {
+     "entry": "Viṣkira",
+     "verses": "17-19",
+     "pages": []
+    },
+    {
+     "entry": "Pratuda",
+     "verses": "20-22",
+     "pages": []
+    },
+    {
+     "entry": "Prasaha",
+     "verses": "23-24",
+     "pages": []
+    },
+    {
+     "entry": "Grāmya",
+     "verses": "25",
+     "pages": []
+    },
+    {
+     "entry": "Kūlecara",
+     "verses": "26-27",
+     "pages": []
+    },
+    {
+     "entry": "Plava",
+     "verses": "28-30",
+     "pages": []
+    },
+    {
+     "entry": "Kośastha",
+     "verses": "31-32",
+     "pages": []
+    },
+    {
+     "entry": "Pādina",
+     "verses": "33",
+     "pages": []
+    },
+    {
+     "entry": "Matsya",
+     "verses": "34-35",
+     "pages": []
+    },
+    {
+     "entry": "Jaṅghāla",
+     "verses": "36-37",
+     "pages": []
+    },
+    {
+     "entry": "Kuraṅga",
+     "verses": "38",
+     "pages": []
+    },
+    {
+     "entry": "Ṛṣya",
+     "verses": "39",
+     "pages": []
+    },
+    {
+     "entry": "Pṛṣata",
+     "verses": "40",
+     "pages": []
+    },
+    {
+     "entry": "Nyaṅku",
+     "verses": "41",
+     "pages": []
+    },
+    {
+     "entry": "Sābara",
+     "verses": "42",
+     "pages": []
+    },
+    {
+     "entry": "Rājīva",
+     "verses": "43",
+     "pages": []
+    },
+    {
+     "entry": "Muṇḍī",
+     "verses": "44",
+     "pages": []
+    },
+    {
+     "entry": "Bileśaya- śaśa",
+     "verses": "45",
+     "pages": []
+    },
+    {
+     "entry": "Śalyaka",
+     "verses": "46",
+     "pages": []
+    },
+    {
+     "entry": "Pakṣi nāma",
+     "verses": "47-48",
+     "pages": []
+    },
+    {
+     "entry": "Viṣkara- vartakā",
+     "verses": "49",
+     "pages": []
+    },
+    {
+     "entry": "Lāva",
+     "verses": "50-52",
+     "pages": []
+    },
+    {
+     "entry": "Vārtīka",
+     "verses": "53",
+     "pages": []
+    },
+    {
+     "entry": "Tittiri",
+     "verses": "54",
+     "pages": []
+    },
+    {
+     "entry": "Caṭaka",
+     "verses": "55",
+     "pages": []
+    },
+    {
+     "entry": "Kukkuṭa",
+     "verses": "56-58",
+     "pages": []
+    },
+    {
+     "entry": "Pratuda- hārīta",
+     "verses": "59",
+     "pages": []
+    },
+    {
+     "entry": "Pāṇḍu",
+     "verses": "60-61",
+     "pages": []
+    },
+    {
+     "entry": "Mayūra",
+     "verses": "62",
+     "pages": []
+    },
+    {
+     "entry": "Pārāvata",
+     "verses": "63",
+     "pages": []
+    },
+    {
+     "entry": "Pakṣyaṇḍa",
+     "verses": "64",
+     "pages": []
+    },
+    {
+     "entry": "Grāmyachāga",
+     "verses": "65-70",
+     "pages": []
+    },
+    {
+     "entry": "Meṣa",
+     "verses": "71-72",
+     "pages": []
+    },
+    {
+     "entry": "Eḍaka",
+     "verses": "73",
+     "pages": []
+    },
+    {
+     "entry": "Vṛṣabha",
+     "verses": "74-75",
+     "pages": []
+    },
+    {
+     "entry": "Aśva",
+     "verses": "76-77",
+     "pages": []
+    },
+    {
+     "entry": "Kūlecara- mahiṣa",
+     "verses": "78-79",
+     "pages": []
+    },
+    {
+     "entry": "Maṇḍūka",
+     "verses": "80",
+     "pages": []
+    },
+    {
+     "entry": "Pādina- kacchapa",
+     "verses": "81",
+     "pages": []
+    },
+    {
+     "entry": "Sadyahata, svayaṃmṛta, vṛddha, viṣādimṛta māṃsa",
+     "verses": "82-84",
+     "pages": []
+    },
+    {
+     "entry": "Jātyādiparatva māṃsa guru-laghutā",
+     "verses": "85-90",
+     "pages": []
+    },
+    {
+     "entry": "Matsya- rohita",
+     "verses": "91-92",
+     "pages": []
+    },
+    {
+     "entry": "Śilīndhra",
+     "verses": "93",
+     "pages": []
+    },
+    {
+     "entry": "Bhaṃkura",
+     "verses": "94",
+     "pages": []
+    },
+    {
+     "entry": "Mocikā",
+     "verses": "95",
+     "pages": []
+    },
+    {
+     "entry": "Pāṭhīna",
+     "verses": "96",
+     "pages": []
+    },
+    {
+     "entry": "Śṛṅgī",
+     "verses": "97",
+     "pages": []
+    },
+    {
+     "entry": "Illīsa",
+     "verses": "98",
+     "pages": []
+    },
+    {
+     "entry": "Śaṣkulī",
+     "verses": "99",
+     "pages": []
+    },
+    {
+     "entry": "Gargara",
+     "verses": "100",
+     "pages": []
+    },
+    {
+     "entry": "Kavikā",
+     "verses": "101",
+     "pages": []
+    },
+    {
+     "entry": "Varmimatsya",
+     "verses": "102",
+     "pages": []
+    },
+    {
+     "entry": "Daṇḍamatsya",
+     "verses": "103",
+     "pages": []
+    },
+    {
+     "entry": "Eraṅgī",
+     "verses": "104",
+     "pages": []
+    },
+    {
+     "entry": "Mahāśapharī",
+     "verses": "105",
+     "pages": []
+    },
+    {
+     "entry": "Garaghnī",
+     "verses": "106",
+     "pages": []
+    },
+    {
+     "entry": "Madgura",
+     "verses": "107",
+     "pages": []
+    },
+    {
+     "entry": "Sapādamatsya",
+     "verses": "108",
+     "pages": []
+    },
+    {
+     "entry": "Śapharī",
+     "verses": "109",
+     "pages": []
+    },
+    {
+     "entry": "Kṣudramatsya",
+     "verses": "110",
+     "pages": []
+    },
+    {
+     "entry": "Atikṣudramatsya",
+     "verses": "111",
+     "pages": []
+    },
+    {
+     "entry": "Matsyāṇḍa",
+     "verses": "112",
+     "pages": []
+    },
+    {
+     "entry": "Śuṣkamatsya",
+     "verses": "113",
+     "pages": []
+    },
+    {
+     "entry": "Dagdhamatsya",
+     "verses": "114",
+     "pages": []
+    },
+    {
+     "entry": "Kūpajādimatsya",
+     "verses": "115-117",
+     "pages": []
+    },
+    {
+     "entry": "Ṛtuviśeṣānusāra matsyaviśeṣaguṇa",
+     "verses": "118-119",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "name": "Kṛtānna varga",
+   "entries": [
+    {
+     "entry": "Annaparibhāṣā",
+     "verses": "1-3",
+     "pages": []
+    },
+    {
+     "entry": "Bhakta",
+     "verses": "4-6",
+     "pages": []
+    },
+    {
+     "entry": "Dālī",
+     "verses": "7-8",
+     "pages": []
+    },
+    {
+     "entry": "Kṛsarā",
+     "verses": "9-10",
+     "pages": []
+    },
+    {
+     "entry": "Tāpaharī",
+     "verses": "11-13",
+     "pages": []
+    },
+    {
+     "entry": "Paramānna",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Nālikerakṣīrikā",
+     "verses": "15-16",
+     "pages": []
+    },
+    {
+     "entry": "Samitā",
+     "verses": "17-19",
+     "pages": []
+    },
+    {
+     "entry": "Maṇḍaka",
+     "verses": "20-23",
+     "pages": []
+    },
+    {
+     "entry": "Parpaṭikā",
+     "verses": "24",
+     "pages": []
+    },
+    {
+     "entry": "Lapsikā",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Roṭikā",
+     "verses": "27-28",
+     "pages": []
+    },
+    {
+     "entry": "Aṅgārakarkaṭī",
+     "verses": "29-30",
+     "pages": []
+    },
+    {
+     "entry": "Yavaroṭikā",
+     "verses": "31",
+     "pages": []
+    },
+    {
+     "entry": "Dhūmasī",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Jharjharī",
+     "verses": "33",
+     "pages": []
+    },
+    {
+     "entry": "Caṇaroṭikā",
+     "verses": "34",
+     "pages": []
+    },
+    {
+     "entry": "Piṣṭikā",
+     "verses": "35",
+     "pages": []
+    },
+    {
+     "entry": "Beḍhamikā",
+     "verses": "36-38",
+     "pages": []
+    },
+    {
+     "entry": "Parpaṭa",
+     "verses": "39-41",
+     "pages": []
+    },
+    {
+     "entry": "Pūrikā",
+     "verses": "42-43",
+     "pages": []
+    },
+    {
+     "entry": "Vaṭaka",
+     "verses": "44-48",
+     "pages": []
+    },
+    {
+     "entry": "Kāñjikavaṭaka",
+     "verses": "49-51",
+     "pages": []
+    },
+    {
+     "entry": "Amlikāvaṭaka",
+     "verses": "52-53",
+     "pages": []
+    },
+    {
+     "entry": "Mudgavaṭaka",
+     "verses": "54",
+     "pages": []
+    },
+    {
+     "entry": "Māṣavaṭikā",
+     "verses": "55",
+     "pages": []
+    },
+    {
+     "entry": "Kūṣmāṇḍakavaṭī",
+     "verses": "56",
+     "pages": []
+    },
+    {
+     "entry": "Mudgavaṭī",
+     "verses": "57",
+     "pages": []
+    },
+    {
+     "entry": "Alīkamatsya",
+     "verses": "58-61",
+     "pages": []
+    },
+    {
+     "entry": "Kvathita",
+     "verses": "62-63",
+     "pages": []
+    },
+    {
+     "entry": "Mudgārdrakavaṭaka",
+     "verses": "64-67",
+     "pages": []
+    },
+    {
+     "entry": "Besana vaṭikā",
+     "verses": "68",
+     "pages": []
+    },
+    {
+     "entry": "Śuddhamāṃsa",
+     "verses": "69-71",
+     "pages": []
+    },
+    {
+     "entry": "Veśavāra",
+     "verses": "72-73",
+     "pages": []
+    },
+    {
+     "entry": "Sahadraka",
+     "verses": "74",
+     "pages": []
+    },
+    {
+     "entry": "Takramāṃsa",
+     "verses": "75-77",
+     "pages": []
+    },
+    {
+     "entry": "Harīsā",
+     "verses": "78-81",
+     "pages": []
+    },
+    {
+     "entry": "Talitamāṃsa",
+     "verses": "82-83",
+     "pages": []
+    },
+    {
+     "entry": "Śūlyapala",
+     "verses": "84-85",
+     "pages": []
+    },
+    {
+     "entry": "Māṃsaśṛṅgāṭaka",
+     "verses": "86-88",
+     "pages": []
+    },
+    {
+     "entry": "Māṃsarasa",
+     "verses": "89-91",
+     "pages": []
+    },
+    {
+     "entry": "Śākapākavidhi",
+     "verses": "92",
+     "pages": []
+    },
+    {
+     "entry": "Pakvānna sādhanavidhi",
+     "verses": "93-94",
+     "pages": []
+    },
+    {
+     "entry": "Maṇṭha",
+     "verses": "95-96",
+     "pages": []
+    },
+    {
+     "entry": "Sampāva",
+     "verses": "97-100",
+     "pages": []
+    },
+    {
+     "entry": "Karpūranālikā",
+     "verses": "101-102",
+     "pages": []
+    },
+    {
+     "entry": "Phenikā",
+     "verses": "103-108",
+     "pages": []
+    },
+    {
+     "entry": "Śaṣkulī",
+     "verses": "109",
+     "pages": []
+    },
+    {
+     "entry": "Modaka",
+     "verses": "110-114",
+     "pages": []
+    },
+    {
+     "entry": "Dugdhakūpikā",
+     "verses": "115-117",
+     "pages": []
+    },
+    {
+     "entry": "Kuṇḍalinī",
+     "verses": "118-123",
+     "pages": []
+    },
+    {
+     "entry": "Rasāla",
+     "verses": "124-127",
+     "pages": []
+    },
+    {
+     "entry": "Śarkarodaka",
+     "verses": "128-129",
+     "pages": []
+    },
+    {
+     "entry": "Prapānaka- āmraphalaprapāṇaka",
+     "verses": "130-131",
+     "pages": []
+    },
+    {
+     "entry": "Amlikāphalapānaka",
+     "verses": "132-133",
+     "pages": []
+    },
+    {
+     "entry": "Nimbukaphalapānaka",
+     "verses": "134-135",
+     "pages": []
+    },
+    {
+     "entry": "Dhānyakapānaka",
+     "verses": "136",
+     "pages": []
+    },
+    {
+     "entry": "Kāñji",
+     "verses": "137",
+     "pages": []
+    },
+    {
+     "entry": "Jāli",
+     "verses": "138-139",
+     "pages": []
+    },
+    {
+     "entry": "Takra",
+     "verses": "140-141",
+     "pages": []
+    },
+    {
+     "entry": "Dugdha",
+     "verses": "142",
+     "pages": []
+    },
+    {
+     "entry": "Saktu",
+     "verses": "143",
+     "pages": []
+    },
+    {
+     "entry": "Yavasaktu",
+     "verses": "144-146",
+     "pages": []
+    },
+    {
+     "entry": "Caṇakayavasaktu",
+     "verses": "147",
+     "pages": []
+    },
+    {
+     "entry": "Śālisaktu",
+     "verses": "148-150",
+     "pages": []
+    },
+    {
+     "entry": "Dhānā",
+     "verses": "151",
+     "pages": []
+    },
+    {
+     "entry": "Lājā",
+     "verses": "152-153",
+     "pages": []
+    },
+    {
+     "entry": "Cipiṭa",
+     "verses": "154-155",
+     "pages": []
+    },
+    {
+     "entry": "Holaka",
+     "verses": "156",
+     "pages": []
+    },
+    {
+     "entry": "Ūcī",
+     "verses": "157",
+     "pages": []
+    },
+    {
+     "entry": "Kulmāṣa",
+     "verses": "158",
+     "pages": []
+    },
+    {
+     "entry": "Tilapiṣṭa",
+     "verses": "159",
+     "pages": []
+    },
+    {
+     "entry": "Piṇyāka",
+     "verses": "160",
+     "pages": []
+    },
+    {
+     "entry": "Taṇḍula",
+     "verses": "161",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "name": "Vāri varga",
+   "entries": [
+    {
+     "entry": "Vārināma",
+     "verses": "1-2",
+     "pages": []
+    },
+    {
+     "entry": "Vāribheda",
+     "verses": "3",
+     "pages": []
+    },
+    {
+     "entry": "Dhārājala",
+     "verses": "4-7",
+     "pages": []
+    },
+    {
+     "entry": "Dhārājalabheda",
+     "verses": "8",
+     "pages": []
+    },
+    {
+     "entry": "Gāṅga, sāmudrajala",
+     "verses": "9-14",
+     "pages": []
+    },
+    {
+     "entry": "Anārtavajala",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Karakābhavajala",
+     "verses": "16-17",
+     "pages": []
+    },
+    {
+     "entry": "Tuṣārajala",
+     "verses": "18-19",
+     "pages": []
+    },
+    {
+     "entry": "Haimajala",
+     "verses": "20-21",
+     "pages": []
+    },
+    {
+     "entry": "Bhaumajala, jāṅagalādijala",
+     "verses": "22-28",
+     "pages": []
+    },
+    {
+     "entry": "Nādeyajala",
+     "verses": "29-33",
+     "pages": []
+    },
+    {
+     "entry": "Audbhidajala",
+     "verses": "34-35",
+     "pages": []
+    },
+    {
+     "entry": "Nairjharajala",
+     "verses": "36-37",
+     "pages": []
+    },
+    {
+     "entry": "Sārasajala",
+     "verses": "38-39",
+     "pages": []
+    },
+    {
+     "entry": "Tāḍāgajala",
+     "verses": "40-41",
+     "pages": []
+    },
+    {
+     "entry": "Vāpyajala",
+     "verses": "42-43",
+     "pages": []
+    },
+    {
+     "entry": "Kaupajala",
+     "verses": "44-45",
+     "pages": []
+    },
+    {
+     "entry": "Cauñjyajala",
+     "verses": "46-48",
+     "pages": []
+    },
+    {
+     "entry": "Pālvalajala",
+     "verses": "49",
+     "pages": []
+    },
+    {
+     "entry": "Vikirajala",
+     "verses": "50-51",
+     "pages": []
+    },
+    {
+     "entry": "Kaidārajala",
+     "verses": "52",
+     "pages": []
+    },
+    {
+     "entry": "Vṛṣṭijala",
+     "verses": "53",
+     "pages": []
+    },
+    {
+     "entry": "Ṛtvanusāra jalaguṇa",
+     "verses": "54-61",
+     "pages": []
+    },
+    {
+     "entry": "Jalagrahaṇakāla",
+     "verses": "62",
+     "pages": []
+    },
+    {
+     "entry": "Jalapānavidhi",
+     "verses": "63",
+     "pages": []
+    },
+    {
+     "entry": "Śītajalapāna",
+     "verses": "64",
+     "pages": []
+    },
+    {
+     "entry": "Śītalajalapānaniṣedha",
+     "verses": "65-66",
+     "pages": []
+    },
+    {
+     "entry": "Alpajalapāna",
+     "verses": "67",
+     "pages": []
+    },
+    {
+     "entry": "Jalapāna āvaśyakatā",
+     "verses": "68",
+     "pages": []
+    },
+    {
+     "entry": "Pānīya prāṇadhāraka",
+     "verses": "69-70",
+     "pages": []
+    },
+    {
+     "entry": "Guṇakārī jala",
+     "verses": "71",
+     "pages": []
+    },
+    {
+     "entry": "Ninditajala",
+     "verses": "72-75",
+     "pages": []
+    },
+    {
+     "entry": "Dūṣitajala nirdoṣakaraṇavidhi",
+     "verses": "76-79",
+     "pages": []
+    },
+    {
+     "entry": "Pītajala pākakāla",
+     "verses": "80",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "name": "Dugdha varga",
+   "entries": [
+    {
+     "entry": "Dugdha",
+     "verses": "1-2",
+     "pages": [
+      "ksheera"
+     ]
+    },
+    {
+     "entry": "Dugdhapānārha",
+     "verses": "3-6",
+     "pages": []
+    },
+    {
+     "entry": "Godugdha",
+     "verses": "7-11",
+     "pages": [
+      "godugdha"
+     ]
+    },
+    {
+     "entry": "Māhiṣadugdha",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Chāgadugdha",
+     "verses": "13-14",
+     "pages": [
+      "aja-dugdha-goat-milk"
+     ]
+    },
+    {
+     "entry": "Mṛgīdugdha",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Āvikadugdha",
+     "verses": "16",
+     "pages": []
+    },
+    {
+     "entry": "Baḍavādugdha",
+     "verses": "17",
+     "pages": []
+    },
+    {
+     "entry": "Auṣṭradugdha",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Hastinīdugdha",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Strīdugdha",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Dhāroṣṇadugdha",
+     "verses": "21-25",
+     "pages": []
+    },
+    {
+     "entry": "Pīyūṣādiguṇa",
+     "verses": "26-31",
+     "pages": []
+    },
+    {
+     "entry": "Santānikā",
+     "verses": "32-33",
+     "pages": []
+    },
+    {
+     "entry": "Prabhātādisamayadugdhaguṇa",
+     "verses": "34-39",
+     "pages": []
+    },
+    {
+     "entry": "Mathitadugdha",
+     "verses": "40",
+     "pages": []
+    },
+    {
+     "entry": "Dugdhaphena",
+     "verses": "41-42",
+     "pages": []
+    },
+    {
+     "entry": "Ninditadugdha",
+     "verses": "43",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "name": "Dadhi varga",
+   "entries": [
+    {
+     "entry": "Dadhiguṇa",
+     "verses": "1-2",
+     "pages": [
+      "dadhi"
+     ]
+    },
+    {
+     "entry": "Dadhibheda",
+     "verses": "3-5",
+     "pages": []
+    },
+    {
+     "entry": "Godadhi",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Māhiṣadadhi",
+     "verses": "7",
+     "pages": []
+    },
+    {
+     "entry": "Ājadadhi",
+     "verses": "8",
+     "pages": []
+    },
+    {
+     "entry": "Pakvadugdhadadhi",
+     "verses": "9",
+     "pages": []
+    },
+    {
+     "entry": "Niḥsāradugdhadadhi",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Gālitadadhi",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Śarkarādisahita dadhiguṇa",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Dadhisevananiṣedha",
+     "verses": "13-14",
+     "pages": []
+    },
+    {
+     "entry": "Ṛtuviśeṣānusāra dadhisevana, dadhiniṣedha",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Vidhirahitadadhisevanadoṣa",
+     "verses": "16",
+     "pages": []
+    },
+    {
+     "entry": "Dadhisara, dadhimastu",
+     "verses": "17-19",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "name": "Takra varga",
+   "entries": [
+    {
+     "entry": "Takrabheda",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Gholāditakra",
+     "verses": "2-8",
+     "pages": [
+      "takra"
+     ]
+    },
+    {
+     "entry": "Doṣavyādhi anusāra takraguṇa",
+     "verses": "9-11",
+     "pages": []
+    },
+    {
+     "entry": "Āmapakvatakra",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Takrasevana",
+     "verses": "13-15",
+     "pages": []
+    },
+    {
+     "entry": "Takrasevananiṣedha",
+     "verses": "16-17",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "name": "Navanīta varga",
+   "entries": [
+    {
+     "entry": "Navanīta, gavyanavanīta",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Māhiṣanavanīta",
+     "verses": "2",
+     "pages": []
+    },
+    {
+     "entry": "Dugdhotthanavanīta",
+     "verses": "3",
+     "pages": []
+    },
+    {
+     "entry": "Sadyaskanavanīta",
+     "verses": "4",
+     "pages": []
+    },
+    {
+     "entry": "Ciraṃtananavanīta",
+     "verses": "5",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "name": "Ghṛta varga",
+   "entries": [
+    {
+     "entry": "Ghṛta",
+     "verses": "1-3",
+     "pages": [
+      "ghrita"
+     ]
+    },
+    {
+     "entry": "Goghṛta",
+     "verses": "4-6",
+     "pages": []
+    },
+    {
+     "entry": "Māhiṣaghṛta",
+     "verses": "7",
+     "pages": []
+    },
+    {
+     "entry": "Ājaghṛta",
+     "verses": "8",
+     "pages": []
+    },
+    {
+     "entry": "Auṣṭraghṛta",
+     "verses": "9",
+     "pages": []
+    },
+    {
+     "entry": "Āvikaghṛta",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Nārīghṛta",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Vaḍavāghṛta",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Dugdhabhavaghṛta",
+     "verses": "13",
+     "pages": []
+    },
+    {
+     "entry": "Haiyaṃgavīyakaghṛta",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Purāṇaghṛta",
+     "verses": "15-16",
+     "pages": []
+    },
+    {
+     "entry": "Navīnaghṛta",
+     "verses": "17",
+     "pages": []
+    },
+    {
+     "entry": "Ghṛtasevananiṣedha",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "name": "Mūtra varga",
+   "entries": [
+    {
+     "entry": "Gomūtra",
+     "verses": "1-5",
+     "pages": [
+      "gomutra"
+     ]
+    },
+    {
+     "entry": "Naramūtra",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Mūtraparibhāṣā",
+     "verses": "7",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "name": "Taila varga",
+   "entries": [
+    {
+     "entry": "Taila",
+     "verses": "1",
+     "pages": []
+    },
+    {
+     "entry": "Tilataila",
+     "verses": "2-11",
+     "pages": []
+    },
+    {
+     "entry": "Ghṛta, taila paribhāṣā",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Sārṣapataila",
+     "verses": "13-14",
+     "pages": []
+    },
+    {
+     "entry": "Tuvarītaila",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Atasītaila",
+     "verses": "16-17",
+     "pages": []
+    },
+    {
+     "entry": "Kusumbhataila",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Khasabījataila",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Eraṇḍataila",
+     "verses": "20-23",
+     "pages": []
+    },
+    {
+     "entry": "Sarjarasataila",
+     "verses": "24",
+     "pages": []
+    },
+    {
+     "entry": "Sampūrṇatailaguṇa",
+     "verses": "25",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "name": "Sandhāna varga",
+   "entries": [
+    {
+     "entry": "Kāñjika",
+     "verses": "1-5",
+     "pages": []
+    },
+    {
+     "entry": "Tuṣodaka",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Sauvīra",
+     "verses": "7-8",
+     "pages": []
+    },
+    {
+     "entry": "Āranāla",
+     "verses": "9",
+     "pages": []
+    },
+    {
+     "entry": "Dhānyāmla",
+     "verses": "10",
+     "pages": [
+      "dhanyamla"
+     ]
+    },
+    {
+     "entry": "Śiṇḍākī",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Śukta",
+     "verses": "12-13",
+     "pages": []
+    },
+    {
+     "entry": "Āsuta",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Madya",
+     "verses": "15-17",
+     "pages": []
+    },
+    {
+     "entry": "Ariṣṭa",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Surā",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Vāruṇī",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Sīdhu",
+     "verses": "21-23",
+     "pages": []
+    },
+    {
+     "entry": "Āsava",
+     "verses": "24",
+     "pages": []
+    },
+    {
+     "entry": "Navīnamadya, jīrṇamadya",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Sāttvikādimanuṣya madyaceṣṭā",
+     "verses": "27",
+     "pages": []
+    },
+    {
+     "entry": "Madyapānavidhi",
+     "verses": "28-29",
+     "pages": []
+    },
+    {
+     "entry": "Madyagaṃdhanāśaka upāya",
+     "verses": "30",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "name": "Madhu varga",
+   "entries": [
+    {
+     "entry": "Madhu",
+     "verses": "1-5",
+     "pages": [
+      "madhu"
+     ]
+    },
+    {
+     "entry": "Madhubheda",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Mākṣikamadhu",
+     "verses": "7-8",
+     "pages": []
+    },
+    {
+     "entry": "Bhrāmaramadhu",
+     "verses": "9-10",
+     "pages": []
+    },
+    {
+     "entry": "Kṣaudramadhu",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Pauttikamadhu",
+     "verses": "12-13",
+     "pages": []
+    },
+    {
+     "entry": "Chātramadhu",
+     "verses": "14-15",
+     "pages": []
+    },
+    {
+     "entry": "Ārghyamadhu",
+     "verses": "16-18",
+     "pages": []
+    },
+    {
+     "entry": "Auddālakamadhu",
+     "verses": "19-20",
+     "pages": []
+    },
+    {
+     "entry": "Dālamadhu",
+     "verses": "21-22",
+     "pages": []
+    },
+    {
+     "entry": "Nava, purāṇa madhu",
+     "verses": "23-24",
+     "pages": []
+    },
+    {
+     "entry": "Śītala, uṣṇa madhuguṇa",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Madana (madhūcchiṣṭa)",
+     "verses": "27-28",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "name": "Ikṣu varga",
+   "entries": [
+    {
+     "entry": "Ikṣu",
+     "verses": "1-2",
+     "pages": [
+      "ikshu"
+     ]
+    },
+    {
+     "entry": "Ikṣubheda",
+     "verses": "3-4",
+     "pages": []
+    },
+    {
+     "entry": "Pauṇḍraka ikṣu, bhīruka ikṣu",
+     "verses": "5",
+     "pages": []
+    },
+    {
+     "entry": "Kośaka ikṣu",
+     "verses": "6",
+     "pages": []
+    },
+    {
+     "entry": "Kāntāra ikṣu",
+     "verses": "7",
+     "pages": []
+    },
+    {
+     "entry": "Dīrghapatra ikṣu",
+     "verses": "8",
+     "pages": []
+    },
+    {
+     "entry": "Śataporaka ikṣu",
+     "verses": "9",
+     "pages": []
+    },
+    {
+     "entry": "Tāpasa ikṣu",
+     "verses": "10",
+     "pages": []
+    },
+    {
+     "entry": "Kāṇḍa ikṣu",
+     "verses": "11",
+     "pages": []
+    },
+    {
+     "entry": "Sūcīpatrādi ikṣu",
+     "verses": "12",
+     "pages": []
+    },
+    {
+     "entry": "Manogupta ikṣu",
+     "verses": "13",
+     "pages": []
+    },
+    {
+     "entry": "Bālakādi ikṣu",
+     "verses": "14",
+     "pages": []
+    },
+    {
+     "entry": "Ikṣu aṃga",
+     "verses": "15",
+     "pages": []
+    },
+    {
+     "entry": "Dantaniṣpīḍita ikṣuguṇa",
+     "verses": "16",
+     "pages": []
+    },
+    {
+     "entry": "Yaṃtrādipīḍita ikṣurasa",
+     "verses": "17",
+     "pages": []
+    },
+    {
+     "entry": "Paryuṣita ikṣurasa",
+     "verses": "18",
+     "pages": []
+    },
+    {
+     "entry": "Pakvekṣurasa",
+     "verses": "19",
+     "pages": []
+    },
+    {
+     "entry": "Ikṣurasavikāra",
+     "verses": "20",
+     "pages": []
+    },
+    {
+     "entry": "Phāṇita",
+     "verses": "21-22",
+     "pages": []
+    },
+    {
+     "entry": "Matsyaṇḍī",
+     "verses": "23-24",
+     "pages": []
+    },
+    {
+     "entry": "Guḍa",
+     "verses": "25-26",
+     "pages": []
+    },
+    {
+     "entry": "Purāṇaguḍa",
+     "verses": "27",
+     "pages": []
+    },
+    {
+     "entry": "Navīnaguḍa",
+     "verses": "28",
+     "pages": []
+    },
+    {
+     "entry": "Anupānabhedena guḍaguṇa",
+     "verses": "29",
+     "pages": []
+    },
+    {
+     "entry": "Khaṇḍa",
+     "verses": "30",
+     "pages": []
+    },
+    {
+     "entry": "Śarkarā",
+     "verses": "31",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpasitā, sitopalā",
+     "verses": "32",
+     "pages": []
+    },
+    {
+     "entry": "Madhuśarkarā",
+     "verses": "33-34",
+     "pages": []
+    },
+    {
+     "entry": "Puṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "name": "Anekārthanāma varga",
+   "entries": [
+    {
+     "entry": "Dvyarthakanāma",
+     "verses": "1-114",
+     "pages": []
+    },
+    {
+     "entry": "Tryarthakanāma",
+     "verses": "1-85",
+     "pages": []
+    },
+    {
+     "entry": "Caturarthakanāma",
+     "verses": "1-3",
+     "pages": []
+    },
+    {
+     "entry": "Anekārthavācaka śabda",
+     "verses": "1-4",
+     "pages": []
+    },
+    {
+     "entry": "Vargapuṣpikā",
+     "verses": "",
+     "pages": []
+    },
+    {
+     "entry": "Nighaṇṭupuṣpikā",
+     "verses": "",
+     "pages": []
+    },
+    {
+     "entry": "Granthaprakaraṇapuṣpikā",
+     "verses": "",
+     "pages": []
+    }
+   ]
+  }
+ ]
+}
