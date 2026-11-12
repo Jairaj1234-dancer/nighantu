@@ -84,6 +84,8 @@ const DESCRIBED = {
   'dravyaguna.json': 'Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.',
   'dravyaguna.csv': 'The dravyaguna properties as a table.',
   'parquet/dravyaguna.parquet': 'The dravyaguna properties as Parquet.',
+  'bhavaprakasha.json': 'Every entry of the 24 chapters (varga) of the Bhavaprakasha Nighantu with its verse numbers, as given in the e-Nighantu edition (NIIMH, for CCRAS), and the site herb pages identified as the same dravya. Headwords and verse numbers only; no verse text.',
+  'bhavaprakasha.csv': 'The Bhavaprakasha Nighantu index as a table, one row per entry.',
   'compounds.json': 'Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.',
   'compounds.csv': 'The constituents as a table, one row per constituent per monograph.',
   'parquet/compounds.parquet': 'The constituents as Parquet.',
