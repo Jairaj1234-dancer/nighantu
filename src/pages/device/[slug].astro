@@ -8,8 +8,8 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 ---
-<Monograph entry={entry} sectionLabel="Instruments" sectionHref="/device/">
+<Monograph entry={entry} headings={headings} sectionLabel="Instruments" sectionHref="/device/">
   <Content />
 </Monograph>

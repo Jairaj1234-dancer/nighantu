@@ -18,6 +18,7 @@
  * people. The site's claims gate would reject a summary that read as a finding, and it should.
  */
 import research from '../data/research.json';
+import citations from '../data/citations.json';
 import { TIER_ORDER, TIER_LABEL } from '../lib/tiers';
 import { rel } from '../lib/site';
 
@@ -30,13 +31,15 @@ const papers = ((research as any).papers ?? []).filter((p: any) =>
 const byTier = Object.fromEntries(TIER_ORDER.map((t) => [t, papers.filter((p: any) => p.tier === t).length]));
 const years = papers.map((p: any) => p.year).filter(Boolean) as number[];
 const withDoi = papers.filter((p: any) => p.doi).length;
+/** Tiers that have a matching group in the Published research list further down, so a link never points nowhere. */
+const listed = new Set((((citations as any).pages?.[`${kind}/${slug}`]?.citations) ?? []).map((c: any) => c.tier));
 const strongest = TIER_ORDER.find((t) => byTier[t] > 0) ?? null;
 ---
 {papers.length > 0 && (
   <section class="evidence-summary" aria-labelledby="evidence-summary-heading">
     <h2 id="evidence-summary-heading">The evidence at a glance</h2>
     <p class="count">
-      <strong>{papers.length}</strong> {papers.length === 1 ? 'paper' : 'papers'} on this site for
+      <strong>{papers.length}</strong>{' '}{papers.length === 1 ? 'paper' : 'papers'} on this site for
       this drug{years.length > 1 && <>, published {Math.min(...years)} to {Math.max(...years)}</>}
       {withDoi === papers.length
         ? <>, every one with a DOI</>
@@ -45,7 +48,9 @@ const strongest = TIER_ORDER.find((t) => byTier[t] > 0) ?? null;
     <ul class="tiers">
       {TIER_ORDER.filter((t) => byTier[t] > 0).map((t) => (
         <li>
-          <strong>{byTier[t]}</strong> <span class="label">{TIER_LABEL[t]}</span>
+          {listed.has(t)
+            ? <a href={`#tier-${t}`}><span class="tier-badge">Tier {t}</span>{' '}<strong>{byTier[t]}</strong>{' '}<span class="label">{TIER_LABEL[t]}</span></a>
+            : <><span class="tier-badge">Tier {t}</span>{' '}<strong>{byTier[t]}</strong>{' '}<span class="label">{TIER_LABEL[t]}</span></>}
         </li>
       ))}
     </ul>
@@ -62,10 +67,12 @@ const strongest = TIER_ORDER.find((t) => byTier[t] > 0) ?? null;
 
 <style>
   .evidence-summary { margin: 1.5rem 0; padding: .9rem 1.1rem; border: 1px solid var(--rule); border-radius: 4px; }
-  .evidence-summary h2 { margin: 0 0 .5rem; font-size: 1.02rem; }
+  .evidence-summary h2 { margin: 0 0 .5rem; padding-top: 0; border-top: 0; font-size: 1.15rem; }
   .evidence-summary .count { margin: 0 0 .5rem; font-size: .97rem; }
   .tiers { list-style: none; margin: 0 0 .6rem; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem 1.2rem; }
   .tiers li { font-size: .92rem; }
+  .tiers a { color: var(--ink); text-decoration: none; }
+  .tiers a:hover .label { text-decoration: underline; }
   .tiers .label { color: var(--ink-soft); }
   .caveat { margin: 0; font-size: .86rem; color: var(--ink-soft); }
 </style>

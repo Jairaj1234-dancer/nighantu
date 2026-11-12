@@ -17,15 +17,19 @@ import Related from '../components/Related.astro';
 import duplicates from '../data/duplicates.json';
 import bhavaprakasha from '../data/bhavaprakasha.json';
 import plates from '../data/plates.json';
+import citations from '../data/citations.json';
 import taxonomy from '../data/taxonomy.json';
 import Crumbs from '../components/Crumbs.astro';
 import { SITE_NAME, PUBLISHER, abs, rel } from '../lib/site';
 import { pageDates } from '../lib/dates';
 import { pageTitle, formularySentence } from '../lib/lead';
 
-interface Props { entry: any; sectionLabel: string; sectionHref: string }
-const { entry, sectionLabel, sectionHref } = Astro.props;
+interface Props { entry: any; sectionLabel: string; sectionHref: string; headings?: { depth: number; slug: string; text: string }[] }
+const { entry, sectionLabel, sectionHref, headings = [] } = Astro.props;
+/** The page's own h2 sections, for the "On this page" rail shown beside wide layouts. */
+const toc = headings.filter((h) => h.depth === 2);
 const d = entry.data;
+const hasRefs = ((citations as any).pages?.[`${d.kind}/${d.slug}`]?.citations ?? []).length > 0;
 /** Where the Bhavaprakasha Nighantu describes this dravya, when the match has been checked. */
 const bp = d.kind === 'herb' ? (bhavaprakasha as any).herbs.find((h: any) => h.slug === d.slug) : null;
 /** A public-domain botanical plate of this herb's species, when one has been licence-checked (src/data/plates.json). */
@@ -173,7 +177,19 @@ const breadcrumbs = {
   canonical={canonical}
   jsonld={[jsonld, ...(webPage ? [webPage] : []), breadcrumbs]}
 >
-  <article>
+  <article class={toc.length >= 3 ? 'has-toc' : undefined}>
+    {toc.length >= 3 && (
+      <nav class="toc" aria-label="On this page">
+        <div class="toc-inner">
+          <p class="toc-title">On this page</p>
+          <ol>
+            {toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+            {hasRefs && <li><a href="#refs-heading">Published research</a></li>}
+            <li><a href="#cite">Cite this page</a></li>
+          </ol>
+        </div>
+      </nav>
+    )}
     <Crumbs trail={[{ label: sectionLabel, href: sectionHref }, { label: d.title }]} />
     <div class={plate ? 'mono-head has-plate' : 'mono-head'}>
       <div class="mono-lead">
