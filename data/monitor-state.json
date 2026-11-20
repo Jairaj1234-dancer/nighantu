@@ -1735,7 +1735,7 @@
       "https://nighantu.ageayurveda.com/practice/talapodichil/": "ce4b6640bb79e5e2",
       "https://nighantu.ageayurveda.com/practice/tikshna-nasya/": "d37907ae4b68d3e3",
       "https://nighantu.ageayurveda.com/practice/vatatapika-rasayana/": "b696c9992429bf01",
-      "https://nighantu.ageayurveda.com/practitioners/": "f5f6ecf7c16ef58d",
+      "https://nighantu.ageayurveda.com/practitioners/": "9511f90d418d3cdc",
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/": "222d9d973bbc39df",
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/mampuram/": "ddadad2fc742c660",
       "https://nighantu.ageayurveda.com/practitioners/abdu-rahiman-nagar/mampuram/government-ayurveda-dispensary-mampuram-abdu-rahiman-nagar/": "6d18e07a51aeeec0",
@@ -3599,7 +3599,7 @@
       "https://nighantu.ageayurveda.com/practitioners/muzhoor/": "133b23da388c36b8",
       "https://nighantu.ageayurveda.com/practitioners/muzhoor/muzhoor/": "12a13aa9b53e5529",
       "https://nighantu.ageayurveda.com/practitioners/muzhoor/muzhoor/government-ayurveda-hospital-muzhoor-akalakunnam-grama/": "e4e94a33dca41bca",
-      "https://nighantu.ageayurveda.com/practitioners/mysuru/": "e30b66effa490082",
+      "https://nighantu.ageayurveda.com/practitioners/mysuru/": "4a2155e7547bfdc4",
       "https://nighantu.ageayurveda.com/practitioners/mysuru/dattagalli/": "05cbc842b4a0a3eb",
       "https://nighantu.ageayurveda.com/practitioners/mysuru/dattagalli/aarohi-ayurveda-dattagalli-centre/": "bd5c8ed1e33ce3be",
       "https://nighantu.ageayurveda.com/practitioners/mysuru/dattagalli/sriranga-ayurveda-chikitsa-mandira/": "c09594db17804404",
@@ -3615,9 +3615,8 @@
       "https://nighantu.ageayurveda.com/practitioners/mysuru/sayyaji-rao-road/government-ayurveda-medical-college-and-hospital-mysuru/": "417f89190e82f00a",
       "https://nighantu.ageayurveda.com/practitioners/mysuru/vidyaranyapuram/": "0862cf23e908a2f2",
       "https://nighantu.ageayurveda.com/practitioners/mysuru/vidyaranyapuram/amay-india-atharva-multispeciality-ayurvedic-and-healing/": "17ff449aed761fbe",
-      "https://nighantu.ageayurveda.com/practitioners/mysuru/vijayanagar/": "f52db0bdb8f28bcb",
-      "https://nighantu.ageayurveda.com/practitioners/mysuru/vijayanagar/aarohi-ayurveda-vijayanagar-centre/": "46083c371de675ce",
-      "https://nighantu.ageayurveda.com/practitioners/mysuru/vijayanagar/trisutra-ayushyalaya/": "268e4643f5727b53",
+      "https://nighantu.ageayurveda.com/practitioners/mysuru/vijayanagar/": "7cf246b2860480d2",
+      "https://nighantu.ageayurveda.com/practitioners/mysuru/vijayanagar/aarohi-ayurveda-vijayanagar-centre/": "5e66cfd9e2fff91b",
       "https://nighantu.ageayurveda.com/practitioners/nadiad/": "de6dda2d2bfb5d90",
       "https://nighantu.ageayurveda.com/practitioners/nadiad/college-road/": "bffe073a7a6e661d",
       "https://nighantu.ageayurveda.com/practitioners/nadiad/college-road/p-d-patel-ayurveda-hospital-j-s-ayurveda-mahavidyalaya/": "7c2bcf0fb3fc0713",
@@ -4220,7 +4219,7 @@
       "https://nighantu.ageayurveda.com/practitioners/state/haryana/": "ab38604bed1d40a2",
       "https://nighantu.ageayurveda.com/practitioners/state/himachal-pradesh/": "f1546a6f98b27c25",
       "https://nighantu.ageayurveda.com/practitioners/state/jharkhand/": "d86b2bea77aa91cd",
-      "https://nighantu.ageayurveda.com/practitioners/state/karnataka/": "be59262d81321d13",
+      "https://nighantu.ageayurveda.com/practitioners/state/karnataka/": "fd2616debf5e5fb0",
       "https://nighantu.ageayurveda.com/practitioners/state/kerala/": "de1653ddee0e604b",
       "https://nighantu.ageayurveda.com/practitioners/state/madhya-pradesh/": "03245047701a3728",
       "https://nighantu.ageayurveda.com/practitioners/state/maharashtra/": "604879d08a0d438f",
@@ -4661,8 +4660,8 @@
       "https://nighantu.ageayurveda.com/verification/safety-pass4/": "751df7b4356228c4",
       "https://nighantu.ageayurveda.com/verification/safety-repair-02/": "9eb84c9b37830989"
     },
-    "lastSubmittedAt": "2026-11-12T12:28:02.722Z",
-    "lastSubmittedCount": 819,
+    "lastSubmittedAt": "2026-11-20T04:20:57.843Z",
+    "lastSubmittedCount": 5,
     "submitted": [
       "https://nighantu.ageayurveda.com/",
       "https://nighantu.ageayurveda.com/about/",
@@ -10254,6 +10253,6 @@
     "seen": 0,
     "surfaced": 0
   },
-  "updatedAt": "2026-11-19T09:32:40.710Z",
+  "updatedAt": "2026-11-20T04:20:57.843Z",
   "version": 1
 }
