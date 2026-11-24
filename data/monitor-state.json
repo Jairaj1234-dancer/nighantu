@@ -1,13 +1,13 @@
 {
   "community": {
-    "checkedAt": "2026-11-23T09:47:27.163Z",
+    "checkedAt": "2026-11-24T11:36:54.863Z",
     "feeds": 4,
     "matched": 0,
     "scanned": 0
   },
   "competitors": {
     "ajengineer": {
-      "checkedAt": "2026-11-23T09:46:25.622Z",
+      "checkedAt": "2026-11-24T11:36:31.542Z",
       "hash": "c8f0221ba8baca99",
       "signals": [
         "12 liter",
@@ -18,7 +18,7 @@
       "url": "https://www.ajengineer.co.in/ayurvedic-therapy-machine.html"
     },
     "ananda": {
-      "checkedAt": "2026-11-23T09:47:07.213Z",
+      "checkedAt": "2026-11-24T11:36:34.485Z",
       "hash": "4e12cc6bfe5dcfa5",
       "signals": [
         "$120",
@@ -27,7 +27,7 @@
       "url": "https://www.anandashirodhara.com/product-page/ananda-automatic-shirodhara-equipment"
     },
     "cristalmind": {
-      "checkedAt": "2026-11-23T09:46:25.066Z",
+      "checkedAt": "2026-11-24T11:36:31.198Z",
       "hash": "7b99df66ba52e31d",
       "signals": [
         "2-3 minutes",
@@ -37,13 +37,13 @@
       "url": "https://www.cristalmind.com/"
     },
     "esteem": {
-      "checkedAt": "2026-11-23T09:46:26.542Z",
+      "checkedAt": "2026-11-24T11:36:32.325Z",
       "hash": "e3b0c44298fc1c14",
       "signals": [],
       "url": "https://www.esteemservices.in/fully-automatic-shirodhara-machine.htm"
     },
     "kawachi": {
-      "checkedAt": "2026-11-22T08:49:32.329Z",
+      "checkedAt": "2026-11-24T11:36:34.318Z",
       "hash": "d51abf5a796bd560",
       "signals": [
         "₹8,999"
@@ -52,7 +52,7 @@
     }
   },
   "competitorSummary": {
-    "checkedAt": "2026-11-23T09:47:07.213Z",
+    "checkedAt": "2026-11-24T11:36:34.485Z",
     "items": [
       {
         "id": "cristalmind",
@@ -76,7 +76,7 @@
         "id": "kawachi",
         "name": "Kawachi",
         "signals": 1,
-        "status": 522
+        "status": 200
       },
       {
         "id": "ananda",
@@ -88,23 +88,23 @@
   },
   "disclosure": {
     "ageayurveda": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "avn": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "avp": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "baidyanath": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "charak": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "dabur": {
@@ -112,43 +112,43 @@
       "state": "list"
     },
     "himalaya": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "list"
     },
     "keralaayurveda": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "list"
     },
     "maharishi": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "oushadhi": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "quantities"
     },
     "patanjali": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "sandu": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "sdl": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "quantities"
     },
     "sitaram": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "sna": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "neither"
     },
     "zandu": {
-      "checkedOn": "2026-11-23",
+      "checkedOn": "2026-11-24",
       "state": "list"
     }
   },
@@ -533,13 +533,13 @@
     }
   },
   "freshness": {
-    "checkedAt": "2026-11-23T09:47:26.880Z",
+    "checkedAt": "2026-11-24T11:36:54.501Z",
     "oldest": [],
     "overdue": 0,
     "total": 3967
   },
   "health": {
-    "checkedAt": "2026-11-23T09:46:16.797Z",
+    "checkedAt": "2026-11-24T11:36:23.918Z",
     "failing": 0,
     "failingUrls": [],
     "total": 15
@@ -553,12 +553,12 @@
       "note": "no webmaster tool and no submission route exists",
       "status": "unknown"
     },
-    "checkedAt": "2026-11-23T09:48:57.971Z",
+    "checkedAt": "2026-11-24T11:38:52.884Z",
     "commonCrawl": {
       "checked": [
+        "CC-MAIN-2026-47",
         "CC-MAIN-2026-43",
-        "CC-MAIN-2026-39",
-        "CC-MAIN-2026-34"
+        "CC-MAIN-2026-39"
       ],
       "status": "absent"
     },
@@ -9064,7 +9064,7 @@
   "products": {
     "broken": 0,
     "brokenHandles": [],
-    "checkedAt": "2026-11-23T09:46:22.867Z",
+    "checkedAt": "2026-11-24T11:36:28.626Z",
     "total": 21
   },
   "safetyRefresh": {
@@ -9309,11 +9309,6 @@
     }
   },
   "seen": {
-    "community:digest:2026-10-25": {
-      "count": 1,
-      "firstSeen": "2026-10-25T06:52:48.487Z",
-      "lastSeen": "2026-10-25T06:52:48.487Z"
-    },
     "community:digest:2026-10-26": {
       "count": 1,
       "firstSeen": "2026-10-26T06:59:14.305Z",
@@ -9421,7 +9416,7 @@
     }
   },
   "threads": {
-    "checkedAt": "2026-11-23T09:48:40.419Z",
+    "checkedAt": "2026-11-24T11:38:08.151Z",
     "seenIds": [
       "t5_2skvk",
       "t5_jtmsek",
@@ -10228,8 +10223,8 @@
     ]
   },
   "threadStats": {
-    "blocked": 12,
-    "checkedAt": "2026-11-23T09:48:40.419Z",
+    "blocked": 11,
+    "checkedAt": "2026-11-24T11:38:08.151Z",
     "fresh": 0,
     "note": "Reddit blocks empty or generic user agents; lib/fetch.mjs sends a descriptive one.",
     "qualified": 0,
@@ -10237,6 +10232,6 @@
     "seen": 0,
     "surfaced": 0
   },
-  "updatedAt": "2026-11-23T18:43:06.621Z",
+  "updatedAt": "2026-11-24T11:38:52.884Z",
   "version": 1
 }
