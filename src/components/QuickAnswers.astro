@@ -54,7 +54,10 @@ const list = (xs: string[]) => (xs.length < 2 ? xs.join('') : `${xs.slice(0, -1)
 const CONDITION = /\b(diseases?|disorders?|syndromes?|infections?|infectious|deficits?|o?edema|dropsy|fistula\w*|gout|vatarakta|bhagandara|shotha|inflammat\w*|psychos\w*|schizophren\w*|pcos|ibs|thyroid|lipoma|growths?|dysenter\w*|diarrh\w*|cystitis|oligosperm\w*|arthrit\w*|osteo\w*|fissure|burns?|wounds?|fever|urticaria|rhinitis|allerg\w*|fertility|piles|haemorrhoids?|hemorrhoids?|jaundice|anaemia|anemia|cholesterol|blood pressure|sugar|kidney|liver|cardiac|heart|gynecolog\w*|gynaecolog\w*|urinary)\b/i;
 const tidyUse = (u: string) => u.replace(/^traditionally used for\s+/i, '').replace(/[.\s]+$/, '').trim();
 const sentenceCase = (u: string) => (/[A-Z]/.test(u.slice(1)) ? u : u.charAt(0).toLowerCase() + u.slice(1));
-const uses = on
+// The uses answer only where it has been reviewed (quick-answers.json usesSlugs); elsewhere the
+// source uses too often name a condition to summarise safely.
+const usesOn = on && (((enabled as any).usesSlugs ?? (enabled as any).slugs ?? []) as string[]).includes(slug);
+const uses = usesOn
   ? bullets(/traditional uses/i)
     .map((b) => tidyUse(b.split(':')[0]))
     .filter((u) => u && u.length <= 80 && !DISEASE_WORD.test(u) && !CONDITION.test(u))
