@@ -20,8 +20,8 @@ source tree rather than the data. This version deposits each dataset as its own 
 
 For every cited paper, the most openly readable copy that could be found: open-access full text where it exists, then PubMed Central, then the DOI.
 
-- 3.89 MB
-- sha256 `273cc17abecc0ccd918719d06dda6852b04747485d9945080ab17849480159ce`
+- 3.86 MB
+- sha256 `af15d4d602d40809dcc02a5e1810ef7c74d0e746c05810c93601ddf8e6ecc418`
 - live copy: https://nighantu.ageayurveda.com/access.json
 
 ### `afi-crosswalk.csv`
@@ -37,7 +37,7 @@ The same crosswalk, one row per formulary ingredient row rather than per name, w
 The Ayurvedic Formulary of India ingredient-name crosswalk: every Sanskrit ingredient name the formulary uses, resolved to a botanical identity where one could be established, with the basis stated per row. Ambiguous names are published as ambiguous and unresolved ones as unresolved.
 
 - 0.90 MB
-- sha256 `b792eb47f9f305d34bd5b834ce17b683c82680ced15b85e47c38e77b67401a01`
+- sha256 `529e56fbe5cda1aa4ff108f806710478043836256b2bf70606c8fce6ab5bb028`
 - live copy: https://nighantu.ageayurveda.com/afi-crosswalk.json
 
 ### `afi-crosswalk.pdf`
@@ -48,12 +48,28 @@ The formulary ingredient crosswalk as a typeset document, generated from afi-cro
 - sha256 `2f98d875b973e764923d0270fd1a838c5cccca67eda50a92cedcf12d5830d137`
 - live copy: https://nighantu.ageayurveda.com/afi-crosswalk.pdf
 
+### `bhavaprakasha.csv`
+
+The Bhavaprakasha Nighantu index as a table, one row per entry.
+
+- 0.05 MB, 1,009 data rows
+- sha256 `3718c22d69e7b5b3837e9b60130cfa5b9f5535dfad1e3d42ea1576e174cc3fe6`
+- live copy: https://nighantu.ageayurveda.com/bhavaprakasha.csv
+
+### `bhavaprakasha.json`
+
+Every entry of the 24 chapters (varga) of the Bhavaprakasha Nighantu with its verse numbers, as given in the e-Nighantu edition (NIIMH, for CCRAS), and the site herb pages identified as the same dravya. Headwords and verse numbers only; no verse text.
+
+- 0.09 MB
+- sha256 `b6910fdcbc89a020c38f044d5e49848397aa0c0c334e528263bde4e877ff48e0`
+- live copy: https://nighantu.ageayurveda.com/bhavaprakasha.json
+
 ### `brand-disclosure.json`
 
 What Indian Ayurvedic manufacturers publish about their own products, measured across their product pages: whether each page names its ingredients, gives a quantity against them, states a dose amount, or cites an authority. Every count carries the page URL it came from.
 
 - 0.13 MB
-- sha256 `87500ee528a9111d1db4066c5713dea36f180733f59f11499014eb242329e15c`
+- sha256 `edfcf8bf708c3b6742b64558068531b801505822f75394f7ec495a1a4b06394d`
 - live copy: https://nighantu.ageayurveda.com/brand-disclosure.json
 
 ### `chemistry.json`
@@ -77,31 +93,31 @@ The composition tables flattened to one row per ingredient.
 The ingredient composition of the classical formulations transcribed from the Ayurvedic Formulary of India, with the quantity the formulary states, the plant part, and the part and entry number it was transcribed from. A cell illegible in the scan is published as illegible.
 
 - 0.54 MB
-- sha256 `5ebb5097335e5fb5f29442e9f0050c21a9ecbe91db1f1554675c3c41ab63bc3c`
+- sha256 `353e8e0bc52f74cc8977cb08c455fdfd4d27973c8c43dcf37b93c13dae704cb9`
 - live copy: https://nighantu.ageayurveda.com/composition.json
 
 ### `compounds.csv`
 
 The constituents as a table, one row per constituent per monograph.
 
-- 0.30 MB, 838 data rows
-- sha256 `4f2f00d4e228b18cd7fa7bd46b26ee24bff7ce2fd469733dbab11d9dd371b4cc`
+- 0.29 MB, 816 data rows
+- sha256 `2d2ea647b7e0a1fcba29eab70fb111e59d80a182533ee93dbc50896e81a82a68`
 - live copy: https://nighantu.ageayurveda.com/compounds.csv
 
 ### `compounds.json`
 
 Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.
 
-- 1.78 MB
-- sha256 `6c16e437bf8fa6b4bff8623ded337cbb6b22601ea15f93c30b0327ae2024fd1a`
+- 1.72 MB
+- sha256 `c7fdd4ce2ae3b114e7f7974e20d3b503cb344dd7f29c6e8ef0e49411d89812b7`
 - live copy: https://nighantu.ageayurveda.com/compounds.json
 
 ### `concepts.csv`
 
 The concept records flattened to one row per attributed position.
 
-- 2.06 MB, 461 data rows
-- sha256 `19a8b2d284aaa8e51191f46db8e133d5ff4f864270d0d6fa45ad5fcfb26e3195`
+- 2.05 MB, 461 data rows
+- sha256 `800163c8d67205a0b3957a799b15d131abde630b71fdb8e8bda07536e98e944e`
 - live copy: https://nighantu.ageayurveda.com/concepts.csv
 
 ### `concepts.json`
@@ -109,8 +125,16 @@ The concept records flattened to one row per attributed position.
 Ayurvedic concept records: contested questions with the competing positions attributed to the sources that hold them, explicit statements of what is not established, and classical citations with the translator and numbering named on each.
 
 - 1.37 MB
-- sha256 `37ea263198ac96eb5d61b7caa5981c5122a1f739691a867aef5644ba25598767`
+- sha256 `57773486d35ea5d36112ef1b38edcad43ad4a8b4d10f31c8b45698ed671fb043`
 - live copy: https://nighantu.ageayurveda.com/concepts.json
+
+### `disclosure-exclusions.json`
+
+Product pages the disclosure survey matched to a formulary preparation by name that on review are not that preparation (blog articles, other product forms, different formulas sharing a head name). One row is one excluded page URL with the preparation it was filed under and the reason.
+
+- 0.01 MB
+- sha256 `116a7d7a42cbc1aa9992ab5be057026643bd12422b7efdbb08957c62b22d2aa0`
+- live copy: https://nighantu.ageayurveda.com/disclosure-exclusions.json
 
 ### `dose-comparison.csv`
 
@@ -132,8 +156,8 @@ Manufacturers' stated doses against the dose the Ayurvedic Formulary of India st
 
 The dravyaguna properties as a table.
 
-- 0.03 MB, 247 data rows
-- sha256 `ad3a17e503b2599073f540fabf65c2273d96e0c3c4bce1b8569e0518d216381c`
+- 0.03 MB, 246 data rows
+- sha256 `8db0b1c506bd0f0c85b53d98d3c762c20d72a16b2af9aca054a1bea57a5c6b26`
 - live copy: https://nighantu.ageayurveda.com/dravyaguna.csv
 
 ### `dravyaguna.json`
@@ -141,7 +165,7 @@ The dravyaguna properties as a table.
 Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.
 
 - 0.08 MB
-- sha256 `47ead118c1fc920592b0f8830e551b6674c885056dbd958cb56489c119849cbf`
+- sha256 `21ce331addd756e22e7b48695ff4508314e3c09ac40ddb2b4df8b8069dad6071`
 - live copy: https://nighantu.ageayurveda.com/dravyaguna.json
 
 ### `lexicon.csv`
@@ -149,15 +173,15 @@ Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published 
 The lexicon flattened to one row per rendering.
 
 - 0.72 MB, 1,631 data rows
-- sha256 `881a82549d6eb033a91ca8cda24a12ea2965f851dec67f6354ab6da4e233b934`
+- sha256 `e1790b73c38b486d6a398ed3a70202f204e80655c876d32d4ba53014d5fc4e28`
 - live copy: https://nighantu.ageayurveda.com/lexicon.csv
 
 ### `lexicon.json`
 
 Ayurvedic technical terms with every English rendering found for each, the source that uses it, and an assessment of whether the rendering survives the classical passage it claims to render.
 
-- 2.64 MB
-- sha256 `7145066570dbff8e9a2f11762c8e8f0745470d659453cdaeb86528c6cd8892ab`
+- 2.63 MB
+- sha256 `e95e538b983f7332b2d6b8a9b76fcb546924582ee936d1e174f96d522fda6074`
 - live copy: https://nighantu.ageayurveda.com/lexicon.json
 
 ### `manufacturer-register.csv`
@@ -181,7 +205,7 @@ A register of Indian Ayurvedic manufacturers with the website each publishes, th
 The composition tables as Parquet, for columnar querying.
 
 - 0.04 MB
-- sha256 `765b29e58c276569d0e40030116b75f8499c777692d9abc479093ea117ae46a8`
+- sha256 `15187ea4014e25fc43a9b95c0c86af3e806483dbfa11d2f4dec7d358b8c951f2`
 - live copy: https://nighantu.ageayurveda.com/parquet/composition.parquet
 
 ### `parquet_composition.parquet.json`
@@ -189,7 +213,7 @@ The composition tables as Parquet, for columnar querying.
 The schema sidecar for composition.parquet, used by this project's own Parquet gate.
 
 - 0.00 MB
-- sha256 `002ad220cd98a68316f3b0332f15c8dcada7ee856e790be199e5598c08003759`
+- sha256 `8bd8cd1932e4af8a807131d34d1c61ce69e3fa53f6115c08caf2d4f756a687f3`
 - live copy: https://nighantu.ageayurveda.com/parquet/composition.parquet.json
 
 ### `parquet_compounds.parquet`
@@ -228,16 +252,16 @@ The botanical taxonomy as Parquet.
 
 The research index as a table.
 
-- 1.07 MB, 3,532 data rows
-- sha256 `d48cd34632155ef73c01f66d020561d5c26d7f97036e82bf9650ff2c77c1620a`
+- 1.09 MB, 3,590 data rows
+- sha256 `78f583f472452688c2ba63d03644b8328f3c86d242c07c0a1f578b43922f91da`
 - live copy: https://nighantu.ageayurveda.com/research.csv
 
 ### `research.json`
 
 Research papers cited across the site, each with its PubMed ID or DOI, the monographs that cite it, and a tier recording what kind of study it is rather than a verdict on it.
 
-- 2.10 MB
-- sha256 `980feb1e513e91d40673f679fca4a4ee8851858d9cbac857602d6a784b16bc44`
+- 2.13 MB
+- sha256 `fa07d0ff1862ebf7a8f70163cb86986f5d822fc771a906fab31fec390c2ce0eb`
 - live copy: https://nighantu.ageayurveda.com/research.json
 
 ### `taxonomy.json`
@@ -245,7 +269,7 @@ Research papers cited across the site, each with its PubMed ID or DOI, the monog
 Botanical names resolved against GBIF, each carrying the match type so a fuzzy hit is never read as an exact one.
 
 - 0.19 MB
-- sha256 `2c0263e22847611ff154c0ee4e028378573928bd863fef64ce583d7221d4d6fc`
+- sha256 `7e6dacb3960ea67b60c637250b880f14dfe597563f3e5b4f741c90c4dc42321a`
 - live copy: https://nighantu.ageayurveda.com/taxonomy.json
 
 ### `verification.json`
@@ -253,7 +277,7 @@ Botanical names resolved against GBIF, each carrying the match type so a fuzzy h
 The editorial verification ledger: what was checked, by what method, and what was rejected, with the counts computed from the run artefacts rather than stated.
 
 - 0.03 MB
-- sha256 `f006b2820220a87a97612835e0691c9939bb65f3f7f9be34ec17e473f6e57504`
+- sha256 `3eb22998a38cbbabb2b698b026bf259c6cf5fed8c456b5f5eafd1bf867c5c629`
 - live copy: https://nighantu.ageayurveda.com/verification.json
 
 ### `verse-numbering.csv`

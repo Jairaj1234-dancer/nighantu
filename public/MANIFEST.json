@@ -6,14 +6,14 @@
   "licenceNote": "CC BY 4.0. Monograph text incorporates material from the Amidha Ayurveda Herb Database under CC BY 4.0. Renderings drawn from NoDerivs-licensed sources appear on the site and are withheld from these files; see the note inside lexicon.json. Classical text quotations are from public-domain translations only, and where no public-domain translation exists the passage is cited without a quotation.",
   "site": "https://nighantu.ageayurveda.com",
   "datasetsPage": "https://nighantu.ageayurveda.com/datasets/",
-  "fileCount": 32,
-  "totalBytes": 21051386,
+  "fileCount": 35,
+  "totalBytes": 21144826,
   "files": [
     {
       "file": "access.json",
       "sourcePath": "access.json",
-      "bytes": 4080353,
-      "sha256": "273cc17abecc0ccd918719d06dda6852b04747485d9945080ab17849480159ce",
+      "bytes": 4052144,
+      "sha256": "af15d4d602d40809dcc02a5e1810ef7c74d0e746c05810c93601ddf8e6ecc418",
       "csvRows": null,
       "describes": "For every cited paper, the most openly readable copy that could be found: open-access full text where it exists, then PubMed Central, then the DOI.",
       "liveAt": "https://nighantu.ageayurveda.com/access.json"
@@ -31,7 +31,7 @@
       "file": "afi-crosswalk.json",
       "sourcePath": "afi-crosswalk.json",
       "bytes": 948759,
-      "sha256": "b792eb47f9f305d34bd5b834ce17b683c82680ced15b85e47c38e77b67401a01",
+      "sha256": "529e56fbe5cda1aa4ff108f806710478043836256b2bf70606c8fce6ab5bb028",
       "csvRows": null,
       "describes": "The Ayurvedic Formulary of India ingredient-name crosswalk: every Sanskrit ingredient name the formulary uses, resolved to a botanical identity where one could be established, with the basis stated per row. Ambiguous names are published as ambiguous and unresolved ones as unresolved.",
       "liveAt": "https://nighantu.ageayurveda.com/afi-crosswalk.json"
@@ -46,10 +46,28 @@
       "liveAt": "https://nighantu.ageayurveda.com/afi-crosswalk.pdf"
     },
     {
+      "file": "bhavaprakasha.csv",
+      "sourcePath": "bhavaprakasha.csv",
+      "bytes": 55326,
+      "sha256": "3718c22d69e7b5b3837e9b60130cfa5b9f5535dfad1e3d42ea1576e174cc3fe6",
+      "csvRows": 1009,
+      "describes": "The Bhavaprakasha Nighantu index as a table, one row per entry.",
+      "liveAt": "https://nighantu.ageayurveda.com/bhavaprakasha.csv"
+    },
+    {
+      "file": "bhavaprakasha.json",
+      "sourcePath": "bhavaprakasha.json",
+      "bytes": 94316,
+      "sha256": "b6910fdcbc89a020c38f044d5e49848397aa0c0c334e528263bde4e877ff48e0",
+      "csvRows": null,
+      "describes": "Every entry of the 24 chapters (varga) of the Bhavaprakasha Nighantu with its verse numbers, as given in the e-Nighantu edition (NIIMH, for CCRAS), and the site herb pages identified as the same dravya. Headwords and verse numbers only; no verse text.",
+      "liveAt": "https://nighantu.ageayurveda.com/bhavaprakasha.json"
+    },
+    {
       "file": "brand-disclosure.json",
       "sourcePath": "brand-disclosure.json",
-      "bytes": 137667,
-      "sha256": "87500ee528a9111d1db4066c5713dea36f180733f59f11499014eb242329e15c",
+      "bytes": 134590,
+      "sha256": "edfcf8bf708c3b6742b64558068531b801505822f75394f7ec495a1a4b06394d",
       "csvRows": null,
       "describes": "What Indian Ayurvedic manufacturers publish about their own products, measured across their product pages: whether each page names its ingredients, gives a quantity against them, states a dose amount, or cites an authority. Every count carries the page URL it came from.",
       "liveAt": "https://nighantu.ageayurveda.com/brand-disclosure.json"
@@ -76,7 +94,7 @@
       "file": "composition.json",
       "sourcePath": "composition.json",
       "bytes": 563100,
-      "sha256": "5ebb5097335e5fb5f29442e9f0050c21a9ecbe91db1f1554675c3c41ab63bc3c",
+      "sha256": "353e8e0bc52f74cc8977cb08c455fdfd4d27973c8c43dcf37b93c13dae704cb9",
       "csvRows": null,
       "describes": "The ingredient composition of the classical formulations transcribed from the Ayurvedic Formulary of India, with the quantity the formulary states, the plant part, and the part and entry number it was transcribed from. A cell illegible in the scan is published as illegible.",
       "liveAt": "https://nighantu.ageayurveda.com/composition.json"
@@ -84,17 +102,17 @@
     {
       "file": "compounds.csv",
       "sourcePath": "compounds.csv",
-      "bytes": 313352,
-      "sha256": "4f2f00d4e228b18cd7fa7bd46b26ee24bff7ce2fd469733dbab11d9dd371b4cc",
-      "csvRows": 838,
+      "bytes": 304822,
+      "sha256": "2d2ea647b7e0a1fcba29eab70fb111e59d80a182533ee93dbc50896e81a82a68",
+      "csvRows": 816,
       "describes": "The constituents as a table, one row per constituent per monograph.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.csv"
     },
     {
       "file": "compounds.json",
       "sourcePath": "compounds.json",
-      "bytes": 1862023,
-      "sha256": "6c16e437bf8fa6b4bff8623ded337cbb6b22601ea15f93c30b0327ae2024fd1a",
+      "bytes": 1805079,
+      "sha256": "c7fdd4ce2ae3b114e7f7974e20d3b503cb344dd7f29c6e8ef0e49411d89812b7",
       "csvRows": null,
       "describes": "Phytochemical constituents named across the monographs, resolved to PubChem where an identifier exists, with a co-occurrence network computed from the pages themselves.",
       "liveAt": "https://nighantu.ageayurveda.com/compounds.json"
@@ -102,8 +120,8 @@
     {
       "file": "concepts.csv",
       "sourcePath": "concepts.csv",
-      "bytes": 2154944,
-      "sha256": "19a8b2d284aaa8e51191f46db8e133d5ff4f864270d0d6fa45ad5fcfb26e3195",
+      "bytes": 2151477,
+      "sha256": "800163c8d67205a0b3957a799b15d131abde630b71fdb8e8bda07536e98e944e",
       "csvRows": 461,
       "describes": "The concept records flattened to one row per attributed position.",
       "liveAt": "https://nighantu.ageayurveda.com/concepts.csv"
@@ -111,11 +129,20 @@
     {
       "file": "concepts.json",
       "sourcePath": "concepts.json",
-      "bytes": 1441107,
-      "sha256": "37ea263198ac96eb5d61b7caa5981c5122a1f739691a867aef5644ba25598767",
+      "bytes": 1431593,
+      "sha256": "57773486d35ea5d36112ef1b38edcad43ad4a8b4d10f31c8b45698ed671fb043",
       "csvRows": null,
       "describes": "Ayurvedic concept records: contested questions with the competing positions attributed to the sources that hold them, explicit statements of what is not established, and classical citations with the translator and numbering named on each.",
       "liveAt": "https://nighantu.ageayurveda.com/concepts.json"
+    },
+    {
+      "file": "disclosure-exclusions.json",
+      "sourcePath": "disclosure-exclusions.json",
+      "bytes": 9022,
+      "sha256": "116a7d7a42cbc1aa9992ab5be057026643bd12422b7efdbb08957c62b22d2aa0",
+      "csvRows": null,
+      "describes": "Product pages the disclosure survey matched to a formulary preparation by name that on review are not that preparation (blog articles, other product forms, different formulas sharing a head name). One row is one excluded page URL with the preparation it was filed under and the reason.",
+      "liveAt": "https://nighantu.ageayurveda.com/disclosure-exclusions.json"
     },
     {
       "file": "dose-comparison.csv",
@@ -138,17 +165,17 @@
     {
       "file": "dravyaguna.csv",
       "sourcePath": "dravyaguna.csv",
-      "bytes": 26344,
-      "sha256": "ad3a17e503b2599073f540fabf65c2273d96e0c3c4bce1b8569e0518d216381c",
-      "csvRows": 247,
+      "bytes": 26319,
+      "sha256": "8db0b1c506bd0f0c85b53d98d3c762c20d72a16b2af9aca054a1bea57a5c6b26",
+      "csvRows": 246,
       "describes": "The dravyaguna properties as a table.",
       "liveAt": "https://nighantu.ageayurveda.com/dravyaguna.csv"
     },
     {
       "file": "dravyaguna.json",
       "sourcePath": "dravyaguna.json",
-      "bytes": 80848,
-      "sha256": "47ead118c1fc920592b0f8830e551b6674c885056dbd958cb56489c119849cbf",
+      "bytes": 80611,
+      "sha256": "21ce331addd756e22e7b48695ff4508314e3c09ac40ddb2b4df8b8069dad6071",
       "csvRows": null,
       "describes": "Rasa, guna, virya, vipaka and prabhava per monograph, parsed from the published pages so every value can be checked against the page it came from.",
       "liveAt": "https://nighantu.ageayurveda.com/dravyaguna.json"
@@ -156,8 +183,8 @@
     {
       "file": "lexicon.csv",
       "sourcePath": "lexicon.csv",
-      "bytes": 759149,
-      "sha256": "881a82549d6eb033a91ca8cda24a12ea2965f851dec67f6354ab6da4e233b934",
+      "bytes": 758305,
+      "sha256": "e1790b73c38b486d6a398ed3a70202f204e80655c876d32d4ba53014d5fc4e28",
       "csvRows": 1631,
       "describes": "The lexicon flattened to one row per rendering.",
       "liveAt": "https://nighantu.ageayurveda.com/lexicon.csv"
@@ -165,8 +192,8 @@
     {
       "file": "lexicon.json",
       "sourcePath": "lexicon.json",
-      "bytes": 2765601,
-      "sha256": "7145066570dbff8e9a2f11762c8e8f0745470d659453cdaeb86528c6cd8892ab",
+      "bytes": 2755023,
+      "sha256": "e95e538b983f7332b2d6b8a9b76fcb546924582ee936d1e174f96d522fda6074",
       "csvRows": null,
       "describes": "Ayurvedic technical terms with every English rendering found for each, the source that uses it, and an assessment of whether the rendering survives the classical passage it claims to render.",
       "liveAt": "https://nighantu.ageayurveda.com/lexicon.json"
@@ -192,8 +219,8 @@
     {
       "file": "parquet_composition.parquet",
       "sourcePath": "parquet/composition.parquet",
-      "bytes": 39000,
-      "sha256": "765b29e58c276569d0e40030116b75f8499c777692d9abc479093ea117ae46a8",
+      "bytes": 40131,
+      "sha256": "15187ea4014e25fc43a9b95c0c86af3e806483dbfa11d2f4dec7d358b8c951f2",
       "csvRows": null,
       "describes": "The composition tables as Parquet, for columnar querying.",
       "liveAt": "https://nighantu.ageayurveda.com/parquet/composition.parquet"
@@ -202,7 +229,7 @@
       "file": "parquet_composition.parquet.json",
       "sourcePath": "parquet/composition.parquet.json",
       "bytes": 550,
-      "sha256": "002ad220cd98a68316f3b0332f15c8dcada7ee856e790be199e5598c08003759",
+      "sha256": "8bd8cd1932e4af8a807131d34d1c61ce69e3fa53f6115c08caf2d4f756a687f3",
       "csvRows": null,
       "describes": "The schema sidecar for composition.parquet, used by this project's own Parquet gate.",
       "liveAt": "https://nighantu.ageayurveda.com/parquet/composition.parquet.json"
@@ -246,17 +273,17 @@
     {
       "file": "research.csv",
       "sourcePath": "research.csv",
-      "bytes": 1120556,
-      "sha256": "d48cd34632155ef73c01f66d020561d5c26d7f97036e82bf9650ff2c77c1620a",
-      "csvRows": 3532,
+      "bytes": 1138679,
+      "sha256": "78f583f472452688c2ba63d03644b8328f3c86d242c07c0a1f578b43922f91da",
+      "csvRows": 3590,
       "describes": "The research index as a table.",
       "liveAt": "https://nighantu.ageayurveda.com/research.csv"
     },
     {
       "file": "research.json",
       "sourcePath": "research.json",
-      "bytes": 2199398,
-      "sha256": "980feb1e513e91d40673f679fca4a4ee8851858d9cbac857602d6a784b16bc44",
+      "bytes": 2235937,
+      "sha256": "fa07d0ff1862ebf7a8f70163cb86986f5d822fc771a906fab31fec390c2ce0eb",
       "csvRows": null,
       "describes": "Research papers cited across the site, each with its PubMed ID or DOI, the monographs that cite it, and a tier recording what kind of study it is rather than a verdict on it.",
       "liveAt": "https://nighantu.ageayurveda.com/research.json"
@@ -264,8 +291,8 @@
     {
       "file": "taxonomy.json",
       "sourcePath": "taxonomy.json",
-      "bytes": 199220,
-      "sha256": "2c0263e22847611ff154c0ee4e028378573928bd863fef64ce583d7221d4d6fc",
+      "bytes": 199628,
+      "sha256": "7e6dacb3960ea67b60c637250b880f14dfe597563f3e5b4f741c90c4dc42321a",
       "csvRows": null,
       "describes": "Botanical names resolved against GBIF, each carrying the match type so a fuzzy hit is never read as an exact one.",
       "liveAt": "https://nighantu.ageayurveda.com/taxonomy.json"
@@ -274,7 +301,7 @@
       "file": "verification.json",
       "sourcePath": "verification.json",
       "bytes": 27936,
-      "sha256": "f006b2820220a87a97612835e0691c9939bb65f3f7f9be34ec17e473f6e57504",
+      "sha256": "3eb22998a38cbbabb2b698b026bf259c6cf5fed8c456b5f5eafd1bf867c5c629",
       "csvRows": null,
       "describes": "The editorial verification ledger: what was checked, by what method, and what was rejected, with the counts computed from the run artefacts rather than stated.",
       "liveAt": "https://nighantu.ageayurveda.com/verification.json"
