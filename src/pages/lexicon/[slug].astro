@@ -19,6 +19,7 @@ import conceptsData from '../../data/concepts.json';
 import { abs, rel } from '../../lib/site';
 import { conceptLinksFor } from '../../lib/concept-links';
 import { termSlug, familyMembers } from '../../lib/lexicon-links';
+import { whoLead } from '../../lib/who-lead';
 
 export function getStaticPaths() {
   return ((lexicon as any).records as any[]).map((r) => ({ params: { slug: r.slug }, props: { r } }));
@@ -49,8 +50,31 @@ const displayName = qualifier ? `${name} (${String(qualifier).toLowerCase().spli
 const first = r.renderings?.[0]?.english ?? null;
 const distinct = [...new Set((r.renderings ?? []).map((x: any) => String(x.english ?? '').toLowerCase().trim()).filter(Boolean))];
 
-const title = `${displayName}: what the term means and how it is translated`;
-const description = first
+/**
+ * Definition first. Where the record holds a WHO 2022 (ITA) entry, the page opens by saying what
+ * the term means in the WHO's own words, quoted unaltered and attributed, and the title asks the
+ * question a reader actually types. The count of renderings, which used to be the opening, comes
+ * second. See src/lib/who-lead.ts for which WHO text is used and why.
+ */
+const who = whoLead(r);
+const WHO_NAME = 'WHO International Standard Terminologies on Ayurveda (2022)';
+const fold = (v: string) => v.toLowerCase().normalize('NFD').replace(/[^a-z]/g, '').replace(/h/g, '');
+const sameAsName = who ? fold(who.term) === fold(String(name)) : false;
+const whoPlain = who
+  ? `${name}${r.devanagari ? ` (${r.devanagari})` : ''} is the Ayurvedic term the ${WHO_NAME} `
+    + (sameAsName ? `keeps untranslated as "${who.term}"` : `renders as "${who.term}"`)
+    + ` (entry ${who.ita})`
+    + (who.description ? ` and describes as: "${who.description}"${/[.!?]$/.test(who.description) ? '' : '.'}` : '.')
+  : null;
+
+const title = who
+  ? `What is ${displayName} in Ayurveda? Meaning, WHO ${who.description ? 'definition' : 'term'} and translations`
+  : `What is ${displayName} in Ayurveda? Meaning and translations`;
+const description = whoPlain && whoPlain.length <= 300
+  ? whoPlain
+  : who
+  ? `${name}${r.devanagari ? ` (${r.devanagari})` : ''} is the Ayurvedic term the ${WHO_NAME} renders as "${who.term}" (entry ${who.ita}).`
+  : first
   ? `${name}${r.devanagari ? ` (${r.devanagari})` : ''} is rendered into English as "${first}"`
     + `${distinct.length > 1 ? ` and ${distinct.length - 1} other way${distinct.length > 2 ? 's' : ''}` : ''}. `
     + `${(r.classical ?? []).length} classical citation${(r.classical ?? []).length === 1 ? '' : 's'}, each checked against its source.`
@@ -82,9 +106,17 @@ const jsonld = [
 ---
 <Page title={title} description={description} canonical={canonical} updated={data.updatedAt}
   trail={[{ label: 'Lexicon', href: '/lexicon/' }, { label: displayName }]} jsonld={jsonld}>
-  <p class="answer">
-    <strong>{name}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>} is an
-    Ayurvedic technical term.
+  {who && (
+    <p class="answer">
+      <strong>{name}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>} is the
+      Ayurvedic term the {WHO_NAME} {sameAsName ? <>keeps untranslated as "{who.term}"</> : <>renders as "{who.term}"</>} (entry {who.ita}){who.description
+        ? <> and describes as: "{who.description}"{/[.!?]$/.test(who.description) ? '' : '.'}</>
+        : <>.</>}
+    </p>
+  )}
+  <p class={who ? undefined : 'answer'}>
+    {!who && <><strong>{name}</strong>{r.devanagari && <> <span class="deva">{r.devanagari}</span></>} is an
+    Ayurvedic technical term.</>}
     {distinct.length === 1 && <> It is rendered into English as "{r.renderings[0].english}".</>}
     {distinct.length > 1 && <> It is rendered into English in {distinct.length} different ways{r.renderings.length > distinct.length && <> across {r.renderings.length} sources</>}, which is the reason this page exists: the renderings do not agree, and the difference between them changes what the term is taken to mean.</>}
     {distinct.length === 0 && <> No published English rendering was found for it.</>}
